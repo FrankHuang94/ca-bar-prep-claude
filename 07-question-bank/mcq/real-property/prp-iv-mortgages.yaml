@@ -258,7 +258,8 @@ questions:
     discretion, make to Yuri from time to time, up to $500,000." Zenith advanced $200,000 at the closing. In 2023, Yuri
     borrowed $150,000 from Aster Lending, which took and recorded a second mortgage on the warehouse and sent Zenith
     written notice of it. In 2024, Zenith advanced another $100,000 to Yuri. Yuri has defaulted on all the loans, and
-    the warehouse is worth $350,000. No statute in the jurisdiction addresses future-advance mortgages.
+    the warehouse is worth $350,000. No statute in the jurisdiction addresses future-advance mortgages, and its courts follow
+    the traditional common-law rules on them.
   call: "What is the order of priority in the warehouse?"
   options:
     A: "Zenith for $300,000, then Aster for $150,000, because Zenith's mortgage was recorded first and stated a $500,000 maximum."
@@ -273,6 +274,8 @@ questions:
     discretion," so they were optional. The $200,000 advanced at closing keeps first priority; Aster's mortgage comes
     next; Zenith's 2024 advance, made after it received Aster's written notice, ranks behind Aster. With the warehouse
     worth $350,000, Zenith's 2024 advance is effectively unsecured.
+    (Some statutes and the Restatement (Third) of Mortgages give optional advances the priority of the
+    original recording; the stem rules that out by stating the traditional common-law rule applies.)
   explanation_each_wrong_option:
     A: >-
       A stated maximum gives every advance the original priority only where a statute so provides, and none does here
