@@ -1,0 +1,483 @@
+questions:
+- id: Q-PRP-0001
+  subject: PRP
+  coverage_ids: [PRP-MBE-I.A.1.b, PRP-MBE-I.A.2.d]
+  rule_ids: [R-PRP-003, R-PRP-002, R-PRP-018]
+  difficulty: 1
+  stem: >-
+    In 2012, Marisol, the owner of a two-story brick building, conveyed it "to the Eastbrook Historical Society,
+    its successors and assigns; but if the premises are ever used for any purpose other than a public museum,
+    Marisol or her heirs may re-enter and retake the premises." The Society operated a museum there until 2023,
+    when it closed the museum and leased the entire building to a restaurant operator for five years. Marisol had
+    died in 2020, leaving a will that gave her entire estate to her nephew, Theo. Theo learned of the restaurant
+    lease in 2024 but has taken no action. No statute in the jurisdiction modifies the common law of estates and
+    future interests.
+  call: "Who now holds fee simple title to the building?"
+  options:
+    A: "The Society, because its estate continues until the holder of the right of entry elects to terminate it."
+    B: "Theo, because title passed automatically to Marisol's successor when the building ceased to be used as a museum."
+    C: "The Society, because Marisol's right of entry was extinguished at her death and could not pass by will."
+    D: "The Society, because words describing the intended use of land create a fee simple absolute."
+  answer: A
+  explanation_correct: >-
+    A is correct. "But if ... may re-enter and retake" is conditional language plus an express right of entry, so
+    the Society received a fee simple subject to a condition subsequent (R-PRP-003). That estate does not end when
+    the condition is broken; it continues until the holder of the right of entry (power of termination) elects to
+    end it by notice or suit. Marisol's right of entry passed under her will to Theo, because rights of entry are
+    devisable and descendible (R-PRP-018), and it is not subject to the rule against perpetuities (R-PRP-014).
+    Theo has not acted, so the Society still owns the building. Theo may still elect to terminate, although a long,
+    knowing delay invites a waiver argument.
+  explanation_each_wrong_option:
+    B: >-
+      Automatic forfeiture is the mark of a fee simple determinable ("so long as," "until") with a possibility of
+      reverter (R-PRP-002). Conditional words plus a reserved right to re-enter create a condition subsequent, which
+      requires an election. This is the classic FSD/FSSCS confusion.
+    C: >-
+      Right result, wrong reason. A right of entry does not die with its holder; it is devisable and descendible
+      (R-PRP-018), so Theo holds it now and could still exercise it.
+    D: >-
+      Right result, wrong reason. Words of mere purpose ("for museum purposes") create a fee simple absolute
+      (R-PRP-005), but this grant states an express condition and reserves a right of re-entry, so the estate is
+      defeasible.
+  trap_type: confused-rule
+  authority: ["Common law: fee simple subject to condition subsequent and right of entry", "Common law: devisability of future interests"]
+  source: original
+  tags: [wave1, M4, defeasible-fees]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-PRP-0002
+  subject: PRP
+  coverage_ids: [PRP-MBE-I.A.2.c, PRP-MBE-I.A.2.d, PRP-MBE-I.D.1]
+  rule_ids: [R-PRP-004, R-PRP-002, R-PRP-011, R-PRP-014]
+  difficulty: 3
+  stem: >-
+    In 2015, Oren conveyed a 20-acre meadow "to the Town of Pell so long as the land is used as a public park, and
+    when it is no longer so used, to Delia and her heirs." Delia was then 30 years old. The Town has used the meadow
+    as a park ever since, and Oren and Delia are both still living. The jurisdiction applies the common-law rule
+    against perpetuities without statutory modification, and no other statute affects these interests.
+  call: "What interests exist in the meadow today?"
+  options:
+    A: "The Town has a fee simple subject to an executory limitation, and Delia has a valid shifting executory interest."
+    B: "The Town has a fee simple absolute, and neither Oren nor Delia has any interest."
+    C: "The Town has a fee simple subject to a condition subsequent, and Oren has a right of entry."
+    D: "The Town has a fee simple determinable, and Oren has a possibility of reverter."
+  answer: D
+  explanation_correct: >-
+    D is correct. The gift over to Delia would cut short the Town's fee, so it is a shifting executory interest
+    (R-PRP-004, R-PRP-011), and executory interests are subject to the common-law rule against perpetuities
+    (R-PRP-014). The park use could end centuries from now, long after Delia, Oren and everyone else alive in 2015
+    has been dead for 21 years; and because the gift runs to Delia "and her heirs," it is not limited to her
+    lifetime. The interest might vest too late, so it is void from the start. Strike it and reread the grant: "to
+    the Town of Pell so long as the land is used as a public park." The durational words remain, so the Town has a
+    fee simple determinable, and Oren keeps a possibility of reverter, which is exempt from the rule (R-PRP-002,
+    R-PRP-004). (On a California essay, California would convert the determinable fee into a power of termination
+    and apply USRAP's 90-year wait-and-see test (R-PRP-005, R-PRP-016); neither rule applies on the MBE.)
+  explanation_each_wrong_option:
+    A: >-
+      The classification would be right if the gift over were valid, but it ignores the RAP. A shifting executory
+      interest that can vest on an event of unlimited duration fails at common law; Delia's being alive in 2015
+      does not save it, because nothing requires the park use to end within her life plus 21 years.
+    B: >-
+      Striking a void executory interest leaves a fee simple absolute only when the grant used conditional words
+      ("but if"). Here the durational words "so long as" survive the strike, leaving a fee simple determinable with
+      a possibility of reverter in the grantor (R-PRP-004).
+    C: >-
+      "So long as" creates a durational limit that operates automatically (fee simple determinable); a condition
+      subsequent and right of entry require conditional words and a reserved power to re-enter (R-PRP-002,
+      R-PRP-003).
+  trap_type: missing-element
+  authority: ["Common-law rule against perpetuities", "Common law: fee simple determinable and executory interests"]
+  source: original
+  tags: [wave1, M4, executory-interests, rap]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-PRP-0003
+  subject: PRP
+  coverage_ids: [PRP-MBE-I.A.2.b, PRP-MBE-I.A.2.e]
+  rule_ids: [R-PRP-013, R-PRP-009, R-PRP-018, R-PRP-019]
+  difficulty: 3
+  stem: >-
+    Talia died in 2016. Her valid will devised her lake house "to my sister Rhea for life, then to the children of
+    my brother Felix." At Talia's death, Felix had two children, Gus and Hana. Felix's third child, Ivo, was born in
+    2018. Gus died in 2021, leaving a will that gave all his property to his wife, Mira. Rhea died in 2024, and
+    Felix's fourth child, Jun, was born in 2025. Felix is still alive. No statute and no other provision of Talia's
+    will bears on the question.
+  call: "Who now owns the lake house?"
+  options:
+    A: "Mira, Hana and Ivo, as tenants in common in equal shares."
+    B: "Hana and Ivo, as tenants in common in equal shares, because Gus did not survive Rhea."
+    C: "Mira, Hana, Ivo and Jun, as tenants in common in equal shares, because the class stays open until Felix dies."
+    D: "Hana, Ivo and Jun, as tenants in common in equal shares."
+  answer: A
+  explanation_correct: >-
+    A is correct. The remainder "to the children of my brother Felix" is a class gift. When the will took effect at
+    Talia's death, Gus and Hana held a vested remainder subject to open (R-PRP-009), and Ivo joined the class when
+    he was born in 2018. Under the rule of convenience, the class closed when a member became entitled to demand
+    possession, at Rhea's death in 2024, so Jun, born in 2025, is excluded (R-PRP-013). The gift imposed no
+    condition that class members survive Rhea, so Gus's vested share was not lost when he died; it passed under his
+    will to Mira (R-PRP-013, R-PRP-018). The gift is valid under the rule against perpetuities, because the class
+    must close no later than the death of Felix, a life in being. The three owners take as tenants in common because
+    the will did not express a joint tenancy (R-PRP-019).
+  explanation_each_wrong_option:
+    B: >-
+      This adds a survival requirement the will does not contain. A vested remainder is not defeated by the
+      holder's death before the life tenant; it passes by will or intestacy (R-PRP-018).
+    C: >-
+      The class does not stay open until the parent dies when a member can demand possession earlier; the rule of
+      convenience closes it at the life tenant's death (R-PRP-013). Physiological closing at Felix's death would
+      matter only if no class member existed when Rhea died.
+    D: >-
+      This makes both errors: it drops Gus's share (an implied survival condition) and admits Jun, who was born
+      after the class closed at Rhea's death (R-PRP-013).
+  trap_type: wrong-standard
+  authority: ["Common law: rule of convenience (class closing)", "Common law: vested remainder subject to open"]
+  source: original
+  tags: [wave1, M4, class-gifts, remainders]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-PRP-0004
+  subject: PRP
+  coverage_ids: [PRP-MBE-I.A.1.c, PRP-MBE-I.A.2.e]
+  rule_ids: [R-PRP-007, R-PRP-006]
+  difficulty: 2
+  stem: >-
+    Odile owned a farm subject to a mortgage she had given to Bank. Her will devised the farm "to my son Lev for
+    life, remainder to my granddaughter Rosa," and the farm passed subject to the mortgage. Lev lives on the farm,
+    whose fair rental value is $36,000 a year. Each year the farm incurs property taxes of $5,000, mortgage interest
+    of $8,000 and a scheduled principal payment of $12,000. Lev paid this year's taxes but refused to make any
+    mortgage payment. To avoid a foreclosure, Rosa paid Bank the $8,000 of interest and the $12,000 of principal and
+    then sued Lev for $20,000. No statute applies.
+  call: "How much is Rosa likely to recover from Lev?"
+  options:
+    A: "$20,000, because a life tenant in possession must pay all carrying charges on the property."
+    B: "$8,000, because the life tenant owes the interest and the remainderman owes the principal."
+    C: "Nothing, because the mortgage was created by Odile, not by Lev."
+    D: "$10,000, because the life tenant and the remainderman share mortgage payments equally."
+  answer: B
+  explanation_correct: >-
+    B is correct. A life tenant must pay the ordinary carrying charges that keep the property from being lost,
+    namely property taxes and interest on an existing mortgage, but only to the extent of the income from the land
+    or, if the life tenant occupies it, its rental value (R-PRP-007). Payment of mortgage principal benefits the
+    remainder and is the remainderman's burden. Lev's occupancy is worth $36,000 a year, far more than the $13,000
+    of taxes and interest, so he owed the $8,000 of interest that Rosa paid; failing to pay it is permissive waste.
+    Rosa cannot recover the $12,000 principal payment from Lev.
+  explanation_each_wrong_option:
+    A: >-
+      Overbroad. A life tenant pays taxes and mortgage interest, not principal, and only up to the income or rental
+      value of the land (R-PRP-007).
+    C: >-
+      The duty does not depend on who created the mortgage. A life tenant who takes property subject to an existing
+      mortgage must keep down the interest so that the remainder is not lost to foreclosure (R-PRP-007).
+    D: >-
+      There is no equal-sharing rule for mortgage payments; interest falls on the life tenant and principal on the
+      remainderman (R-PRP-007).
+  trap_type: overbroad
+  authority: ["Common law: life tenant's duties and permissive waste"]
+  source: original
+  tags: [wave1, M4, life-estates, waste]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-PRP-0005
+  subject: PRP
+  coverage_ids: [PRP-MBE-I.B.1]
+  rule_ids: [R-PRP-021, R-PRP-020]
+  difficulty: 2
+  stem: >-
+    Ana, Ben and Cora acquired a warehouse by a deed "to Ana, Ben and Cora as joint tenants with right of
+    survivorship." Ben later sold and conveyed "all my interest in the warehouse" to Dev, without telling Ana or
+    Cora. Ana then died intestate; her sole heir is her son, Hal. Finally Dev died, leaving a will that gave all his
+    property to his daughter, Faye. No statute modifies the common law of concurrent ownership.
+  call: "Who owns the warehouse, and in what shares?"
+  options:
+    A: "Cora, Hal and Faye, each owning an undivided one-third as tenants in common."
+    B: "Cora alone, because a joint tenant cannot sever without the consent of the other joint tenants."
+    C: "Cora owns an undivided two-thirds and Faye an undivided one-third, as tenants in common."
+    D: "Cora and Faye, each owning an undivided one-half as tenants in common."
+  answer: C
+  explanation_correct: >-
+    C is correct. A joint tenant may sever unilaterally by conveying her interest during life, without the others'
+    consent; the transferee becomes a tenant in common, while the remaining joint tenants keep their joint tenancy
+    as between themselves (R-PRP-021). After Ben's deed, Dev held one-third as a tenant in common, and Ana and Cora
+    held two-thirds as joint tenants. When Ana died, her interest ended and Cora took it by survivorship, so Hal
+    inherits nothing (R-PRP-020). Cora then held two-thirds; with no other joint tenant left, she holds it as a
+    tenant in common with the owner of the other one-third. Dev's one-third was devisable and passed to Faye.
+  explanation_each_wrong_option:
+    A: >-
+      This ignores the survivorship that still existed between Ana and Cora. A joint tenant's interest ends at her
+      death, so there is nothing for an intestate heir to inherit (R-PRP-020).
+    B: >-
+      Consent of the other joint tenants is not required. A joint tenant may convey her share unilaterally, and the
+      conveyance severs as to that share (R-PRP-021).
+    D: >-
+      Dev did not become a joint tenant with Cora; he took by a different instrument at a different time, so the
+      unities of time and title fail (R-PRP-020). Ana's share went to Cora alone by survivorship, leaving Cora with
+      two-thirds, not one-half.
+  trap_type: confused-rule
+  authority: ["Common law: severance of joint tenancy by conveyance", "Common law: four unities of joint tenancy"]
+  source: original
+  tags: [wave1, M4, joint-tenancy]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-PRP-0006
+  subject: PRP
+  coverage_ids: [PRP-MBE-I.B.2]
+  rule_ids: [R-PRP-024]
+  difficulty: 2
+  stem: >-
+    Petra and Quinn inherited a duplex from their father as tenants in common, each with a one-half interest. Petra
+    moved into the upper unit and has lived there for four years. Quinn lives in another city, has never asked to
+    use the property, and has never been excluded by Petra. Petra rents the lower unit to a third party for $1,500 a
+    month; after the taxes, insurance and repairs she pays for that unit, the net rent is $1,000 a month. The fair
+    rental value of the upper unit is $2,000 a month. Quinn has sued Petra for an accounting.
+  call: "To what is Quinn entitled for the four years?"
+  options:
+    A: "One-half of the net rent from the lower unit, but nothing for Petra's occupancy of the upper unit."
+    B: "One-half of the net rent from the lower unit plus one-half of the fair rental value of the upper unit."
+    C: "Nothing, because each cotenant is entitled to possess and use the entire property."
+    D: "One-half of the fair rental value of the upper unit, but nothing from the lower unit, because Petra alone managed that tenancy."
+  answer: A
+  explanation_correct: >-
+    A is correct. Each cotenant may possess the whole, so a cotenant in sole possession owes the others no rent for
+    her own occupancy unless she has ousted them or agreed to pay (R-PRP-024). Quinn never sought to use the duplex
+    and was never excluded, so there was no ouster. But a cotenant who collects rent from a third party must account
+    to the others for their shares of the net rent. Quinn is entitled to half of the $1,000 monthly net rent from the
+    lower unit and nothing for Petra's occupancy of the upper unit.
+  explanation_each_wrong_option:
+    B: >-
+      Charging an occupying cotenant fair rental value without an ouster is the minority rule (R-PRP-024); the MBE
+      applies the majority no-rent-absent-ouster rule.
+    C: >-
+      The right of each cotenant to possess the whole covers only Petra's own occupancy. Rents collected from third
+      parties must be shared (R-PRP-024).
+    D: >-
+      This reverses the rule. Occupancy by a cotenant is free absent ouster, while net rents from third parties are
+      shared no matter which cotenant manages the tenancy (R-PRP-024).
+  trap_type: minority-rule
+  authority: ["Common law: cotenants' duty to account; ouster", "Spiller v. Mackereth, 334 So. 2d 859 (Ala. 1976)"]
+  source: original
+  tags: [wave1, M4, cotenancy]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-PRP-0007
+  subject: PRP
+  coverage_ids: [PRP-MBE-I.C.3]
+  rule_ids: [R-PRP-039, R-PRP-040, R-PRP-042]
+  difficulty: 2
+  stem: >-
+    Lark leased a retail store to Tess for ten years at $4,000 a month; the lease contained no restriction on
+    transfer. In the third year, Tess transferred to Abe "all of my rights under the lease for the remainder of its
+    term." Abe moved in and paid rent to Lark, but he never promised anyone that he would perform the lease. In the
+    fifth year, Abe transferred "all of my rights under the lease for the remainder of its term" to Bree, who moved
+    in, and Abe moved his business elsewhere. Bree paid rent for a year and then stopped paying. Lark has sued Abe
+    for the rent that accrued after Bree stopped paying.
+  call: "Is Lark likely to recover from Abe?"
+  options:
+    A: "No, because Abe never assumed the lease and was no longer in privity of estate with Lark when the rent accrued."
+    B: "Yes, because an assignee is bound for the rest of the term by every lease covenant that runs with the land."
+    C: "Yes, because Lark never consented to the transfer from Abe to Bree."
+    D: "No, because after an assignment only the original tenant is liable to the landlord for rent."
+  answer: A
+  explanation_correct: >-
+    A is correct. Each transfer of "all of my rights ... for the remainder of its term" kept no reversion, so each
+    was an assignment (R-PRP-039). An assignee who does not assume the lease is liable to the landlord only through
+    privity of estate, and so only for obligations that accrue while it holds the leasehold; Abe ended that privity
+    when he assigned to Bree (R-PRP-040). Abe made no promise to perform, so there is no privity of contract either.
+    Lark's claims lie against Tess, who remains liable by privity of contract, and against Bree, the assignee holding
+    the estate when the rent accrued.
+  explanation_each_wrong_option:
+    B: >-
+      Only an assignee who expressly assumes the lease is bound for the rest of the term, even after reassigning.
+      A non-assuming assignee's liability ends when it assigns (R-PRP-040).
+    C: >-
+      The lease had no restriction on transfer, so no consent was needed (R-PRP-042); and lack of consent would not
+      create privity of contract between Lark and Abe in any event.
+    D: >-
+      Right result, wrong reason. The original tenant remains liable after assignment, but she is not the only one:
+      the assignee who holds the estate when rent accrues (here Bree) is liable by privity of estate (R-PRP-040).
+  trap_type: missing-element
+  authority: ["Common law: privity of estate and privity of contract in leases"]
+  source: original
+  tags: [wave1, M4, landlord-tenant, assignment]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-PRP-0008
+  subject: PRP
+  coverage_ids: [PRP-MBE-I.C.4]
+  rule_ids: [R-PRP-033, R-PRP-047]
+  difficulty: 2
+  stem: >-
+    Nadia rented an apartment from Ludo under a one-year written lease at $2,000 a month. With eight months left on
+    the term, Nadia moved to another state, stopped paying rent, and mailed her keys to Ludo with a note saying she
+    would not return. Ludo kept the keys without responding. The next week, an applicant with good credit and
+    references offered to rent the apartment for the rest of Nadia's term at $2,000 a month, starting on the first
+    day of the following month. Ludo turned the applicant away because he preferred to fill his other vacant units
+    first. The apartment stayed empty for the rest of the term, and Ludo sued Nadia for eight months' rent ($16,000).
+    No statute applies.
+  call: "Is Ludo likely to recover the $16,000?"
+  options:
+    A: "Yes, because a tenant who abandons without justification remains liable for rent as it comes due for the rest of the term."
+    B: "No, because Ludo unreasonably rejected a suitable replacement tenant and so failed to mitigate his damages."
+    C: "No, because Ludo's retention of the keys was an acceptance of Nadia's surrender that ended her liability for all unpaid rent."
+    D: "Yes, because the duty to mitigate damages applies only to commercial leases."
+  answer: B
+  explanation_correct: >-
+    B is correct. When a tenant abandons, the modern majority rule requires the landlord to make reasonable efforts
+    to relet; the landlord may not reject a suitable replacement tenant and then charge the absent tenant for the
+    rest of the term (R-PRP-033; Sommer v. Kridel). Ludo turned away a creditworthy applicant who would have paid the
+    same rent for the remaining term, so he can recover only the loss he could not reasonably have avoided, roughly
+    the rent until the replacement would have begun paying, plus reasonable reletting costs. Merely keeping the mailed
+    keys is not an acceptance of surrender (R-PRP-047), so Nadia remains liable for that unavoidable loss.
+  explanation_each_wrong_option:
+    A: >-
+      This is the traditional no-mitigation rule, which the modern majority has rejected. On the MBE, apply the duty
+      to mitigate unless the question says the jurisdiction follows the traditional rule (R-PRP-033).
+    C: >-
+      Right result, wrong reason. Keeping the keys without more is not a surrender; surrender by operation of law
+      requires conduct inconsistent with the tenant's continuing estate, such as retaking the premises for the
+      landlord's own use (R-PRP-047).
+    D: >-
+      The modern duty to mitigate applies at least to residential leases, and many courts extend it to commercial
+      leases (R-PRP-033); it is not limited to commercial leases.
+  trap_type: minority-rule
+  authority: ["Sommer v. Kridel, 74 N.J. 446, 378 A.2d 767 (1977)", "Common law: surrender by operation of law"]
+  source: original
+  tags: [wave1, M4, landlord-tenant, mitigation]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-PRP-0009
+  subject: PRP
+  coverage_ids: [PRP-MBE-I.C.5, PRP-MBE-I.C.2]
+  rule_ids: [R-PRP-035, R-PRP-036, R-PRP-031]
+  difficulty: 2
+  stem: >-
+    Vega owns a three-story office building and leased the ground floor to a two-partner accounting firm for five
+    years at $6,000 a month. Vega kept control of the roof, which covers all the tenants' offices. In the second
+    year, the roof began leaking during storms, staining carpets and forcing the firm to move two desks. The firm
+    notified Vega in writing several times, but Vega made no repairs for four months. The firm stayed in the space
+    and paid no rent for those four months, citing the implied warranty of habitability. Vega sued the firm for
+    $24,000 in unpaid rent. No statute applies.
+  call: "Is Vega entitled to judgment for the unpaid rent?"
+  options:
+    A: "Yes, because the firm did not vacate, and the implied warranty of habitability does not cover commercial leases."
+    B: "No, because Vega's failure to repair the roof after notice constructively evicted the firm."
+    C: "No, because the implied warranty of habitability entitles a tenant to withhold rent until the landlord makes necessary repairs."
+    D: "Yes, because a landlord has no duty to repair any part of commercially leased premises."
+  answer: A
+  explanation_correct: >-
+    A is correct. The implied warranty of habitability protects residential tenants; it generally does not extend to
+    commercial leases such as this accounting office (R-PRP-036). Constructive eviction can excuse rent when the
+    landlord's breach of a duty substantially interferes with the tenant's use, but the tenant must give notice and
+    then vacate within a reasonable time (R-PRP-035). The firm stayed, so it cannot claim constructive eviction, and
+    its duty to pay rent continued (R-PRP-031). Its remedy, if Vega breached a duty concerning the roof it controls,
+    is a claim for damages, not withholding rent.
+  explanation_each_wrong_option:
+    B: >-
+      A tenant who remains in possession has not been constructively evicted; vacating within a reasonable time is
+      an element of the doctrine (R-PRP-035).
+    C: >-
+      Habitability is a residential doctrine. A commercial tenant must rely on constructive eviction or an express
+      covenant (R-PRP-036).
+    D: >-
+      Right result, wrong reason. A landlord may owe repair duties for parts of a commercial building it controls
+      (such as a roof over several tenants) or under a lease covenant. The firm loses because it stayed and because
+      habitability does not apply, not because commercial landlords never have repair duties.
+  trap_type: confused-rule
+  authority: ["Javins v. First National Realty Corp., 428 F.2d 1071 (D.C. Cir. 1970)", "Reste Realty Corp. v. Cooper, 53 N.J. 444, 251 A.2d 268 (1969)"]
+  source: original
+  tags: [wave1, M4, landlord-tenant, habitability, constructive-eviction]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-PRP-0010
+  subject: PRP
+  coverage_ids: [PRP-MBE-I.D.1, PRP-MBE-III.E]
+  rule_ids: [R-PRP-014, R-PRP-015, R-PRP-083]
+  difficulty: 2
+  stem: >-
+    In exchange for $25,000, Ruth, the owner of a vacant lot, signed and delivered to Crestline Development Corp. a
+    written instrument granting "Crestline, its successors and assigns, the option to purchase the lot at any time
+    for $400,000." Crestline is not a tenant of the lot and owns no adjoining land. Twelve years later, Crestline
+    gave Ruth written notice that it was exercising the option and tendered $400,000, but Ruth refused to convey.
+    The jurisdiction applies the common-law rule against perpetuities without statutory modification.
+  call: "If Crestline sues Ruth for specific performance, is it likely to prevail?"
+  options:
+    A: "Yes, because Crestline exercised the option within 21 years after it was created."
+    B: "Yes, because options granted in commercial transactions are not subject to the rule against perpetuities."
+    C: "Yes, because Crestline is itself a life in being that can serve as the measuring life."
+    D: "No, because the option could be exercised more than 21 years after all lives in being at its creation."
+  answer: D
+  explanation_correct: >-
+    D is correct. Under the common-law rule against perpetuities, an option to buy land that is not held by a tenant
+    of that land (an option in gross) is subject to the rule (R-PRP-014, R-PRP-015, R-PRP-083). Because Crestline
+    and its successors and assigns may exercise the option "at any time," it could be exercised long after 21 years
+    from the death of everyone alive when it was created. The common-law rule judges validity at creation, by what
+    might happen, so the option is void from the start even though Crestline actually tried to exercise it after
+    twelve years. Crestline cannot obtain specific performance.
+  explanation_each_wrong_option:
+    A: >-
+      This is wait-and-see reasoning. The common-law rule asks what might happen, not what did happen, so exercise
+      within 21 years does not save an interest that could have vested later (R-PRP-015).
+    B: >-
+      The exclusion of nondonative (commercial) options is a feature of USRAP-type statutes, such as California's
+      Prob. Code section 21225 (R-PRP-016); under the unmodified common-law rule, options in gross are subject to the
+      rule.
+    C: >-
+      Measuring lives must be human lives. A corporation can exist indefinitely, which is exactly why an unlimited
+      option held by a corporation and its assigns violates the rule.
+  trap_type: exception-trap
+  authority: ["Common-law rule against perpetuities (options in gross)"]
+  source: original
+  tags: [wave1, M4, rap, options]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-PRP-0011
+  subject: PRP
+  coverage_ids: [PRP-MBE-I.D.3]
+  rule_ids: [R-PRP-048]
+  difficulty: 2
+  stem: >-
+    Wendell owns a three-unit apartment building and lives in one of the units. He does not use a real estate broker
+    or agent. To fill a vacant unit, he posted an online advertisement stating, "Ideal for a quiet professional - no
+    children." A married couple with a five-year-old daughter answered the advertisement, and Wendell refused to rent
+    to them solely because they have a child. The couple sued Wendell under the federal Fair Housing Act, challenging
+    both the refusal to rent and the advertisement.
+  call: "What is the most likely result?"
+  options:
+    A: "Wendell is liable for the advertisement, but his refusal to rent falls within the Act's exemption for small owner-occupied buildings."
+    B: "Wendell is liable for both the refusal to rent and the advertisement, because familial status is a protected characteristic."
+    C: "Wendell is liable for neither, because an owner who lives in a building of four or fewer units is exempt from the Act."
+    D: "Wendell is liable for neither, because the Act does not protect against discrimination based on familial status."
+  answer: A
+  explanation_correct: >-
+    A is correct. The Fair Housing Act forbids refusing to rent a dwelling because of familial status (a household
+    with a child under 18) and forbids any advertisement indicating a preference or limitation based on familial
+    status (42 U.S.C. section 3604(a), (c)). The Act exempts rooms or units in a dwelling with living quarters for no
+    more than four families if the owner lives in one of them (the "Mrs. Murphy" exemption, section 3603(b)(2)), so
+    Wendell's refusal to rent is not actionable under the federal Act. The exemption expressly does not reach section
+    3604(c): discriminatory advertising is unlawful even for an otherwise exempt owner (R-PRP-048). (California's
+    FEHA has a narrower owner-occupancy exemption, but the MBE tests the federal Act.)
+  explanation_each_wrong_option:
+    B: >-
+      Familial status is protected, but this answer overlooks the owner-occupied small-building exemption, which
+      covers Wendell's refusal to rent (R-PRP-048).
+    C: >-
+      The small-building exemption does not cover discriminatory notices, statements or advertisements; section
+      3604(c) applies even to exempt owners (R-PRP-048).
+    D: >-
+      Familial status is one of the Act's protected characteristics, along with race, color, religion, sex,
+      disability and national origin (R-PRP-048).
+  trap_type: exception-trap
+  authority: ["42 U.S.C. § 3603(b)(2)", "42 U.S.C. § 3604(a), (c)"]
+  source: original
+  tags: [wave1, M4, fair-housing]
+  status: draft
+  last_verified: 2026-11-04

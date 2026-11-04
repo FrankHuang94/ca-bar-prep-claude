@@ -1,0 +1,412 @@
+questions:
+- id: Q-PRP-0041
+  subject: PRP
+  coverage_ids: [PRP-MBE-V.A, PRP-MBE-I.A.2.b]
+  rule_ids: [R-PRP-107, R-PRP-105, R-PRP-006]
+  difficulty: 3
+  stem: >-
+    In 2005 Odessa conveyed her ranch "to Lyle for life, then to Rina." Lyle lived in another state and never visited
+    the ranch. In 2008 Abner, without anyone's permission, fenced the ranch, moved onto it and began raising cattle
+    there; his occupation has been open, exclusive and continuous ever since. Lyle died in 2023. In 2025 Rina sued to
+    eject Abner. The statutory period for adverse possession in the jurisdiction is ten years, and no one involved was
+    ever under a disability.
+  call: "Who is entitled to possession of the ranch?"
+  options:
+    A: "Abner, because his possession met every requirement of adverse possession for more than ten years before Rina sued."
+    B: "Abner, because Rina could have sued to protect her remainder while Lyle was alive and failed to do so."
+    C: "Rina, because the statute of limitations did not begin to run against her until her remainder became possessory at Lyle's death."
+    D: "Abner, because Rina's remainder was extinguished when Abner acquired Lyle's life estate by adverse possession."
+  answer: C
+  explanation_correct: >-
+    C is correct. Adverse possession runs only against an owner who has a present right to possession. Abner's
+    possession beginning in 2008 was adverse to Lyle, the life tenant, so after ten years Abner acquired Lyle's life
+    estate; but the statute did not run against Rina's remainder until it became possessory at Lyle's death in 2023
+    (R-PRP-107). Abner has possessed adversely to Rina for only about two years, so Rina may eject him.
+  explanation_each_wrong_option:
+    A: >-
+      Abner satisfied the elements against Lyle, not against Rina. The period does not run against a future interest
+      holder until her interest becomes possessory (R-PRP-105, R-PRP-107). This answer omits that element.
+    B: >-
+      A remainderman has no right to possession during the life estate, so her failure to sue for possession then
+      does not start the limitations period against her (R-PRP-107).
+    D: >-
+      Acquiring the life estate by adverse possession gave Abner only what Lyle had, an estate that ended at Lyle's
+      death; it did not extinguish the remainder (R-PRP-006, R-PRP-107).
+  trap_type: missing-element
+  authority: ["Common law: adverse possession against future interests"]
+  source: original
+  tags: [wave1, M4, adverse-possession, future-interests]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-PRP-0042
+  subject: PRP
+  coverage_ids: [PRP-MBE-V.A]
+  rule_ids: [R-PRP-105, R-PRP-106]
+  difficulty: 1
+  stem: >-
+    When Paloma bought her lot in 2009, she mistakenly believed that her land extended to a line of trees 30 feet
+    beyond the true boundary. She promptly built a chain-link fence along the tree line, planted a vegetable garden,
+    built a storage shed on the 30-foot strip, and used the strip as her own every year without asking anyone's
+    permission. In 2024 a survey ordered by her neighbor Quentin, who had owned the adjoining lot since 2005 and had
+    seen the fence go up, revealed the true line. Quentin sued to recover the strip. The statutory period for adverse
+    possession is ten years, and the jurisdiction does not require an adverse possessor to pay property taxes.
+  call: "Who is likely to prevail?"
+  options:
+    A: "Quentin, because Paloma believed the strip was hers and so never intended to claim land belonging to someone else."
+    B: "Quentin, because Paloma never told Quentin that she was claiming the strip."
+    C: "Paloma, because she met every element of adverse possession for more than ten years."
+    D: "Paloma, because adverse possession requires a good-faith belief that the possessor owns the land, and Paloma had one."
+  answer: C
+  explanation_correct: >-
+    C is correct. Adverse possession requires possession that is actual, open and notorious, exclusive, hostile and
+    continuous for the statutory period (R-PRP-105). Under the majority objective test, hostility means only
+    possession without the true owner's permission; the possessor's state of mind, including a mistaken belief that
+    she owns the land, is irrelevant. Paloma fenced, gardened and built a shed on the strip without permission from
+    2009 to 2024, more than ten years, and the fence was plainly visible. (On a California essay, add the five-year
+    period and the tax-payment requirement, R-PRP-106; neither applies on the MBE.)
+  explanation_each_wrong_option:
+    A: >-
+      Requiring an intent to take another's land is a minority subjective test. The MBE applies the majority
+      objective test (R-PRP-105).
+    B: >-
+      Open and notorious possession need only be visible enough to put a reasonable owner on notice; the possessor
+      need not announce her claim (R-PRP-105).
+    D: >-
+      Right result, wrong reason. Good faith is not required under the majority objective test; a requirement of good
+      faith is itself a minority view (R-PRP-105).
+  trap_type: minority-rule
+  authority: ["Common law: adverse possession (objective hostility)"]
+  source: original
+  tags: [wave1, M4, adverse-possession]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-PRP-0043
+  subject: PRP
+  coverage_ids: [PRP-MBE-V.B.1]
+  rule_ids: [R-PRP-110, R-PRP-109, R-PRP-116]
+  difficulty: 2
+  stem: >-
+    Rowena signed a deed, absolute on its face, conveying her rental duplex to her nephew Silas, and handed it to him,
+    saying: "This is yours once you pass the bar exam. If you don't pass by the end of next year, give it back." Silas
+    put the deed in his desk drawer and did not record it. He did not pass the bar exam by the end of the following
+    year, and he refused Rowena's request to return the deed. Rowena sued to quiet title in herself.
+  call: "What is the most likely result?"
+  options:
+    A: "Rowena prevails, because the condition on which the deed was to take effect never occurred."
+    B: "Silas prevails, because the delivery was absolute and the oral condition is disregarded."
+    C: "Rowena prevails, because Silas never recorded the deed, so title never passed to him."
+    D: "Rowena prevails, because a deed given without consideration may be revoked until it is recorded."
+  answer: B
+  explanation_correct: >-
+    B is correct. Delivery requires that the grantor intend the deed to be presently operative. When a grantor hands
+    a deed absolute on its face directly to the grantee and attaches an oral condition, the majority rule treats the
+    delivery as absolute and disregards the condition; a grantor who wants a conditional delivery must use a third
+    party as escrow (R-PRP-110). Title passed to Silas when Rowena handed him the deed, and his failure to pass the
+    exam does not undo the transfer.
+  explanation_each_wrong_option:
+    A: >-
+      Giving effect to an oral condition attached to a deed delivered directly to the grantee is the minority
+      approach (R-PRP-110).
+    C: >-
+      Recording is not needed to pass title between grantor and grantee; it only protects against later purchasers
+      (R-PRP-116).
+    D: >-
+      Consideration is not required for a valid deed, and a delivered gift deed is not revocable; recording has
+      nothing to do with it (R-PRP-109, R-PRP-110).
+  trap_type: minority-rule
+  authority: ["Common law: delivery of deeds (oral condition on delivery to the grantee)"]
+  source: original
+  tags: [wave1, M4, deeds, delivery]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-PRP-0044
+  subject: PRP
+  coverage_ids: [PRP-MBE-V.B.2]
+  rule_ids: [R-PRP-111]
+  difficulty: 3
+  stem: >-
+    In 2016 Ansel conveyed a 40-acre tract to Brynn by a general warranty deed containing all the usual covenants of
+    title. In fact, Ansel had never owned the northernmost five acres, which belonged to Corin. In 2021 Brynn conveyed
+    the tract to Dace by a quitclaim deed. In 2025 a survey showed Dace that Corin owned the five acres, but Corin has
+    not asserted any claim to them or interfered with Dace's possession. Dace sued Ansel for breach of the covenant of
+    seisin. The statute of limitations has not run on any claim.
+  call: "Is Dace likely to recover from Ansel?"
+  options:
+    A: "Yes, because the covenants in a general warranty deed run with the land to every later owner."
+    B: "No, because the covenant of seisin is a present covenant that does not run to remote grantees."
+    C: "No, because Dace acquired the tract by a quitclaim deed, which carries no covenants of title."
+    D: "Yes, because the covenant of seisin was breached at delivery, so any later owner of the land may sue on it."
+  answer: B
+  explanation_correct: >-
+    B is correct. The covenants of seisin, right to convey and against encumbrances are present covenants: they are
+    breached, if at all, when the deed is delivered, and under the majority rule they do not run with the land to
+    remote grantees (R-PRP-111). Ansel breached the covenant of seisin in 2016 when he delivered a deed to five acres
+    he did not own; that claim belonged to Brynn, not Dace. Dace may later be able to sue Ansel on the future
+    covenants of warranty and quiet enjoyment, which do run with the land, but only after Corin actually or
+    constructively evicts him, which has not happened.
+  explanation_each_wrong_option:
+    A: >-
+      Overbroad. Only the future covenants (warranty, quiet enjoyment, further assurances) run with the land; the
+      present covenants do not (R-PRP-111).
+    C: >-
+      Right result, wrong reason. Brynn's quitclaim gave Dace no covenants from Brynn, but it passed the land and with
+      it the benefit of Ansel's future covenants; the quitclaim is not why the seisin claim fails (R-PRP-111).
+    D: >-
+      Breach at delivery is exactly why the seisin claim stays with the immediate grantee and does not pass to later
+      owners (R-PRP-111).
+  trap_type: right-result-wrong-reason
+  authority: ["Common law: present and future covenants of title"]
+  source: original
+  tags: [wave1, M4, deeds, covenants-of-title]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-PRP-0045
+  subject: PRP
+  coverage_ids: [PRP-MBE-V.E]
+  rule_ids: [R-PRP-112]
+  difficulty: 1
+  stem: >-
+    In 2024 Esme, expecting soon to inherit her aunt's lakefront lot, executed and delivered to Finn a general warranty
+    deed to the lot in exchange for $80,000, and Finn recorded the deed. At that time the aunt still owned the lot. In
+    2025 the aunt died, and her will left the lot to Esme. Esme then told Finn that the lot was hers, offered to return
+    his $80,000, and refused to let him use it. Finn sued to quiet title.
+  call: "Who owns the lot?"
+  options:
+    A: "Finn, because title that Esme acquired after warranting title to Finn passed to him automatically."
+    B: "Esme, because a deed conveys only the interest the grantor owns when the deed is delivered."
+    C: "Esme, because Finn's only remedy is damages for breach of the covenant of seisin."
+    D: "Finn, but only if he pays Esme the difference between the lot's present value and the $80,000 he paid."
+  answer: A
+  explanation_correct: >-
+    A is correct. Under estoppel by deed, if a grantor conveys by warranty deed land she does not own and later
+    acquires title, the title passes automatically to the grantee (R-PRP-112). Esme warranted title to Finn in 2024 and
+    acquired it by devise in 2025, so the title inured to Finn at once. Finn could instead sue on the covenants, but
+    that choice is his, not Esme's.
+  explanation_each_wrong_option:
+    B: >-
+      That describes a quitclaim deed, which conveys only whatever the grantor then has; estoppel by deed applies to a
+      deed that warrants title (R-PRP-112).
+    C: >-
+      The grantee may elect damages, but after-acquired title also passes to him automatically; the grantor cannot
+      force him to take money instead (R-PRP-112).
+    D: >-
+      The doctrine requires no further payment by the grantee; he already paid for the title the grantor warranted
+      (R-PRP-112).
+  trap_type: confused-rule
+  authority: ["Common law: estoppel by deed (after-acquired title)"]
+  source: original
+  tags: [wave1, M4, estoppel-by-deed]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-PRP-0046
+  subject: PRP
+  coverage_ids: [PRP-MBE-V.D.2]
+  rule_ids: [R-PRP-120, R-PRP-111]
+  difficulty: 1
+  stem: >-
+    In 2018 Lorne bought a house and purchased an owner's title insurance policy naming himself as the insured. The
+    insurer's title search missed a recorded easement giving a utility the right to run an overhead power line across
+    the backyard, and the policy did not except it. In 2023 Lorne sold the house to Maren by a general warranty deed;
+    Maren bought no title insurance. In 2025 the utility began building the power line, reducing the house's value by
+    $40,000. Maren filed a claim under Lorne's policy, and the insurer denied it.
+  call: "Is Maren entitled to recover under the policy?"
+  options:
+    A: "Yes, because a title insurance policy runs with the land to each later owner."
+    B: "No, because an owner's policy protects only the named insured, not later buyers."
+    C: "Yes, because the insurer negligently failed to find a recorded easement."
+    D: "No, because title insurance never covers easements that appear in the public records."
+  answer: B
+  explanation_correct: >-
+    B is correct. An owner's title insurance policy is a contract of indemnity with the named insured; it protects only
+    that insured (and limited successors such as heirs) and does not run with the land to a buyer from the insured
+    (R-PRP-120). Maren bought no policy, so she has no claim under Lorne's. Her remedy is against Lorne on the
+    covenant against encumbrances in his general warranty deed (R-PRP-111).
+  explanation_each_wrong_option:
+    A: >-
+      Overbroad. Title insurance is a personal contract of indemnity and does not run with the land (R-PRP-120).
+    C: >-
+      Most courts treat a title insurer's liability as contractual only, and Maren has no contract with the insurer;
+      any duty ran to Lorne, the insured (R-PRP-120).
+    D: >-
+      A recorded easement that the policy does not except is a typical covered defect; the standard exclusions
+      concern matters not shown by the public records (R-PRP-120).
+  trap_type: overbroad
+  authority: ["Common law and standard policy terms: owner's title insurance"]
+  source: original
+  tags: [wave1, M4, title-insurance]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-PRP-0047
+  subject: PRP
+  coverage_ids: [PRP-MBE-V.D.1]
+  rule_ids: [R-PRP-116, R-PRP-117, R-PRP-119]
+  difficulty: 3
+  stem: >-
+    The jurisdiction's recording act provides: "No conveyance of real property is good against a subsequent purchaser
+    for value and without notice, unless it is recorded." On March 1, Jolene sold her cabin to Kurt for value; Kurt did
+    not record. On April 1, Jolene sold the same cabin to Lise, who paid value and had no notice of Kurt's deed; nobody
+    occupied the cabin. Lise did not record. On May 1, Kurt recorded his deed. On June 1, Lise gave the cabin to her
+    son Milo by a deed that Milo recorded immediately. When he received the gift, Milo knew of Kurt's deed.
+  call: "As between Kurt and Milo, who owns the cabin?"
+  options:
+    A: "Kurt, because Milo received the cabin as a gift and is not a purchaser for value."
+    B: "Milo, because Lise was a protected purchaser, and Milo takes her title under the shelter rule."
+    C: "Kurt, because he recorded his deed before either Lise or Milo recorded."
+    D: "Kurt, because Milo had actual notice of Kurt's deed when he received the cabin, and a taker with notice is never protected."
+  answer: B
+  explanation_correct: >-
+    B is correct. The statute is a notice statute: a later purchaser for value without notice prevails over an
+    earlier unrecorded conveyance, whether or not the later purchaser records (R-PRP-116). When Lise bought on April 1,
+    Kurt's deed was unrecorded and Lise had no notice of it, so she took good title against Kurt; Kurt's recording on
+    May 1 came too late to affect her. Under the shelter rule, a person who takes from a protected purchaser stands in
+    that purchaser's shoes, even a donee with actual notice (R-PRP-119). Milo therefore prevails.
+  explanation_each_wrong_option:
+    A: >-
+      Donees are not protected by the recording act in their own right (R-PRP-117), but Milo does not need that
+      protection; the shelter rule gives him Lise's protected title (R-PRP-119). This is the exception that defeats
+      the donee rule.
+    C: >-
+      Recording first decides priority under race and race-notice statutes, not under a notice statute; under this
+      statute Lise prevailed when she bought (R-PRP-116).
+    D: >-
+      Actual notice defeats a person claiming BFP status for himself, not a person sheltered by an earlier BFP
+      (R-PRP-119).
+  trap_type: exception-trap
+  authority: ["Notice-type recording statute (as quoted in the question)", "Common law: shelter rule"]
+  source: original
+  tags: [wave1, M4, recording-acts, shelter-rule]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-PRP-0048
+  subject: PRP
+  coverage_ids: [PRP-MBE-V.D.1]
+  rule_ids: [R-PRP-116, R-PRP-117]
+  difficulty: 2
+  stem: >-
+    The jurisdiction's recording act provides: "No conveyance of real property is good against a subsequent purchaser
+    for value and without notice who first records." In January, Nico sold a 50-acre orchard to Ophelia, who did not
+    record her deed but immediately moved into the farmhouse on the land and began harvesting the fruit. In March,
+    Nico, claiming still to own the orchard, sold it to Pruitt for its fair market value. Pruitt reviewed the land
+    records, which showed Nico as owner, but never visited the property. Pruitt recorded his deed the day he bought,
+    and Ophelia recorded hers in April.
+  call: "Who owns the orchard?"
+  options:
+    A: "Ophelia, because her open possession put Pruitt on inquiry notice of her rights, so he was not a purchaser without notice."
+    B: "Pruitt, because he paid value and recorded his deed before Ophelia recorded hers."
+    C: "Pruitt, because a purchaser is charged only with notice of what appears in the land records."
+    D: "Ophelia, because her deed was delivered first, and between two purchasers the first in time always prevails."
+  answer: A
+  explanation_correct: >-
+    A is correct. Under this race-notice statute, a later purchaser prevails only if it paid value, took without
+    notice, and recorded first (R-PRP-116). Notice includes inquiry notice: a buyer is charged with what a reasonable
+    inspection of the land and inquiry of persons in possession would reveal (R-PRP-117). Ophelia was living on and
+    harvesting the orchard when Pruitt bought, and a visit would have revealed her claim; Pruitt never looked. He was
+    therefore not a purchaser without notice, and recording first does not help him.
+  explanation_each_wrong_option:
+    B: >-
+      Recording first is necessary under a race-notice statute but not sufficient; the later purchaser must also have
+      taken without actual, record or inquiry notice (R-PRP-116, R-PRP-117). This answer omits that element and
+      would be right only under a pure race statute.
+    C: >-
+      A purchaser is charged with inquiry notice as well as record notice, including notice from the possession of
+      someone other than the seller (R-PRP-117).
+    D: >-
+      Right result, wrong reason. Recording acts displace the common-law first-in-time rule for later purchasers who
+      qualify under the statute; Ophelia wins only because Pruitt does not qualify (R-PRP-116).
+  trap_type: missing-element
+  authority: ["Race-notice recording statute (as quoted in the question)", "Common law: inquiry notice from possession"]
+  source: original
+  tags: [wave1, M4, recording-acts, inquiry-notice]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-PRP-0049
+  subject: PRP
+  coverage_ids: [PRP-MBE-V.D.1]
+  rule_ids: [R-PRP-118, R-PRP-116]
+  difficulty: 3
+  stem: >-
+    The jurisdiction's recording act provides: "No conveyance of real property is good against a subsequent purchaser
+    for value and without notice who first records." Title searches use a grantor-grantee index. In 2019, Quill
+    conveyed a vacant lot to Ruiz for value; Ruiz did not record. In 2020, Ruiz conveyed the lot to Sato for value, and
+    Sato promptly recorded the Ruiz-to-Sato deed. In 2022, Quill, still the owner of record, sold the lot to Tate, who
+    paid value, had no actual knowledge of either earlier deed, found no conveyance by Quill in the grantor index, and
+    recorded his deed the same day. Ruiz recorded the Quill-to-Ruiz deed in 2024.
+  call: "Who owns the lot?"
+  options:
+    A: "Sato, because the Ruiz-to-Sato deed was recorded two years before Tate's deed."
+    B: "Sato, because Tate was charged with constructive notice of every deed recorded before he bought."
+    C: "Ruiz, because the Quill-to-Ruiz deed was the first conveyance Quill made."
+    D: "Tate, because the Ruiz-to-Sato deed was a wild deed, outside Tate's chain of title."
+  answer: D
+  explanation_correct: >-
+    D is correct. A purchaser has constructive notice only of instruments recorded within the chain of title
+    (R-PRP-118). When Sato recorded, the Quill-to-Ruiz deed was not of record, so the Ruiz-to-Sato deed was a wild
+    deed: a search of the grantor index under Quill, the record owner, would never reveal it. Tate therefore took
+    without notice and paid value, and he recorded in 2022, before the Quill-to-Ruiz deed that would have connected
+    Sato's deed to the chain appeared in the record in 2024. Under the race-notice statute, Tate prevails (R-PRP-116).
+  explanation_each_wrong_option:
+    A: >-
+      A wild deed is treated as unrecorded for purposes of notice and priority; physically recording it earlier does
+      not place it in the chain of title (R-PRP-118).
+    B: >-
+      Overbroad. A purchaser is charged only with instruments that a reasonable search of the chain of title would
+      find, not with every recorded document (R-PRP-118).
+    C: >-
+      Ruiz conveyed whatever he had to Sato in 2020, so he has nothing left to claim; and being first in time does
+      not beat a later purchaser who qualifies under the statute (R-PRP-116).
+  trap_type: confused-rule
+  authority: ["Race-notice recording statute (as quoted in the question)", "Common law: chain of title (wild deeds)"]
+  source: original
+  tags: [wave1, M4, recording-acts, chain-of-title]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-PRP-0050
+  subject: PRP
+  coverage_ids: [PRP-MBE-V.B.1]
+  rule_ids: [R-PRP-113, R-PRP-119]
+  difficulty: 2
+  stem: >-
+    Tova, an elderly widow with full mental capacity, owned a beach lot. Ulf, a real estate investor, falsely told her
+    that the county planned to condemn the lot for a parking area and would pay her very little, and he offered her
+    $60,000 for it. Believing him, Tova signed and delivered a deed to Ulf, knowing that it was a deed conveying the
+    lot. The lot was actually worth $250,000, and no condemnation was planned. Ulf recorded the deed and a month later
+    sold the lot for $245,000 to Vida, who paid in full, knew nothing of Ulf's dealings with Tova, and recorded her
+    deed. Tova has sued Vida to recover the lot.
+  call: "Who is likely to prevail?"
+  options:
+    A: "Tova, because a deed procured by fraud passes no title to the grantee or to anyone who takes from the grantee."
+    B: "Tova, because Ulf's deed was voidable, and a voidable deed can be set aside against anyone who later acquires the property."
+    C: "Vida, because Ulf's deed was voidable rather than void, and Vida is a bona fide purchaser for value without notice."
+    D: "Vida, because recording Ulf's deed cured any defect in it."
+  answer: C
+  explanation_correct: >-
+    C is correct. A deed obtained by fraud in the inducement, where the grantor knew she was signing a deed but was
+    deceived about why she should, is voidable, not void: it passes title that the grantor may set aside against the
+    wrongdoer, but not against a bona fide purchaser for value without notice (R-PRP-113). Tova knew she was signing a
+    deed, so the fraud was in the inducement. Vida paid value without notice of the fraud, so she keeps the lot, and
+    Tova's remedy is against Ulf.
+  explanation_each_wrong_option:
+    A: >-
+      Only void deeds (forgery, nondelivery, fraud in the factum) pass no title; fraud in the inducement makes a deed
+      voidable (R-PRP-113).
+    B: >-
+      A voidable deed may be set aside against the wrongdoer and anyone who takes with notice, but not against a bona
+      fide purchaser (R-PRP-113).
+    D: >-
+      Right result, wrong reason. Recording does not cure defects in a deed; a recorded forged deed is still void
+      (R-PRP-113, R-PRP-119). Vida wins because the deed was merely voidable and she is a bona fide purchaser.
+  trap_type: confused-rule
+  authority: ["Common law: void and voidable deeds"]
+  source: original
+  tags: [wave1, M4, deeds, bona-fide-purchaser]
+  status: draft
+  last_verified: 2026-11-04

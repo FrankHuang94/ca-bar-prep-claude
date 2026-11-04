@@ -1,0 +1,378 @@
+questions:
+- id: Q-PRP-0022
+  subject: PRP
+  coverage_ids: [PRP-MBE-III.B.1]
+  rule_ids: [R-PRP-078]
+  difficulty: 1
+  stem: >-
+    Over coffee, Yara orally agreed to sell her vacant lot to Zed for $90,000. Zed handed Yara $9,000 in cash as a
+    down payment, and Yara gave him no receipt. Nothing about the deal was ever written down or signed. Zed did not
+    take possession of the lot or make any improvements to it. A week later Yara received a higher offer, told Zed
+    the deal was off, and offered to return his $9,000. Zed sued Yara for specific performance.
+  call: "Is Zed likely to obtain specific performance?"
+  options:
+    A: "Yes, because Zed's payment of part of the price is part performance that takes the agreement out of the statute of frauds."
+    B: "Yes, because Yara accepted the down payment and is therefore estopped to deny the contract."
+    C: "No, because payment of part of the price, without possession or improvements, does not satisfy the part-performance exception."
+    D: "No, because a contract to sell land is enforceable only after the deed has been delivered."
+  answer: C
+  explanation_correct: >-
+    C is correct. A contract for the sale of land is unenforceable unless evidenced by a writing signed by the party
+    to be charged (R-PRP-078), and nothing Yara signed describes the deal. The part-performance exception requires
+    acts unequivocally referable to the contract, usually at least two of possession, payment and substantial
+    improvements; payment alone is not enough, because money can simply be refunded. Zed cannot obtain specific
+    performance, but he can recover his $9,000 in restitution.
+  explanation_each_wrong_option:
+    A: >-
+      Payment alone is generally insufficient part performance; possession or substantial improvements are also
+      needed (R-PRP-078).
+    B: >-
+      Accepting a refundable payment is not the kind of detrimental reliance that could estop Yara from invoking the
+      statute; Zed is fully protected by restitution.
+    D: >-
+      Overbroad. A land-sale contract that satisfies the statute of frauds is enforceable before any deed is
+      delivered; delivery of the deed is performance, not a condition of enforceability.
+  trap_type: missing-element
+  authority: ["Statute of frauds (contracts for the sale of land)", "Common law: part-performance doctrine"]
+  source: original
+  tags: [wave1, M4, statute-of-frauds]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-PRP-0023
+  subject: PRP
+  coverage_ids: [PRP-MBE-III.C]
+  rule_ids: [R-PRP-080]
+  difficulty: 2
+  stem: >-
+    Ivan contracted to sell his house to June for $600,000. The contract called for "marketable title" and said
+    nothing else about title. June's survey revealed that the house's attached garage, built by Ivan's predecessor,
+    extends four feet into a side setback required by the city's zoning ordinance; the city has not yet taken any
+    action about it. Curing the violation would require a variance, which Ivan has not sought. At the closing, June
+    refused to accept the deed or pay the price, asserting that Ivan's title was unmarketable. Ivan sued June for
+    breach of contract.
+  call: "Who is likely to prevail?"
+  options:
+    A: "Ivan, because zoning ordinances regulate the use of land and do not affect the marketability of title."
+    B: "June, because an existing zoning violation makes title unmarketable."
+    C: "Ivan, because June could have discovered the encroachment before she signed the contract."
+    D: "June, because any public land-use regulation that restricts the property makes title unmarketable."
+  answer: B
+  explanation_correct: >-
+    B is correct. Every land-sale contract implies that the seller will convey marketable title at closing
+    (R-PRP-080). A zoning restriction on use does not make title unmarketable, but an existing violation of a zoning
+    ordinance does, because it exposes the buyer to enforcement action and litigation (Lohmeyer v. Bower). The
+    garage's encroachment into the required setback is an existing violation that Ivan had not cured by closing, so
+    June properly refused to close.
+  explanation_each_wrong_option:
+    A: >-
+      This confuses zoning restrictions, which do not affect marketability, with existing violations of them, which
+      do (R-PRP-080).
+    C: >-
+      The covenant of marketable title is measured at closing and is not waived because the buyer could have found the
+      problem before signing (R-PRP-080).
+    D: >-
+      Overbroad. Public land-use regulations themselves, such as a setback requirement, do not make title
+      unmarketable; only a present violation of them does (R-PRP-080).
+  trap_type: confused-rule
+  authority: ["Lohmeyer v. Bower, 170 Kan. 442, 227 P.2d 102 (1951)", "Common law: implied covenant of marketable title"]
+  source: original
+  tags: [wave1, M4, marketable-title]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-PRP-0024
+  subject: PRP
+  coverage_ids: [PRP-MBE-III.C, PRP-MBE-III.B.4]
+  rule_ids: [R-PRP-080, R-PRP-079, R-PRP-081]
+  difficulty: 2
+  stem: >-
+    Kira contracted to sell her condominium unit to Lane for $400,000, with closing on September 30; the contract
+    required "marketable title free of liens." On September 5, Lane's title report showed a recorded mortgage on the
+    unit securing a $150,000 debt to Kira's bank. Kira told Lane she would pay off the mortgage from the sale proceeds
+    at closing, and her bank confirmed in writing that it would release the mortgage on receipt of the payoff. On
+    September 10, Lane wrote Kira that because her title was encumbered he was canceling the contract, and he
+    demanded the return of his deposit. Kira was ready to close on September 30, but Lane did not appear. Kira sued
+    Lane for breach of contract.
+  call: "Who is likely to prevail?"
+  options:
+    A: "Lane, because a recorded mortgage is an encumbrance that makes title unmarketable."
+    B: "Lane, because a seller must have marketable title on the date the contract is signed."
+    C: "Kira, because the mortgage was recorded, so Lane had notice of it when he signed the contract."
+    D: "Kira, because title need be marketable only at closing, when the mortgage would be paid off."
+  answer: D
+  explanation_correct: >-
+    D is correct. Marketable title is required at closing, not before, so the seller may cure a defect up to the time
+    of closing (R-PRP-080). A mortgage that the seller will pay off from the sale proceeds at closing, with the lender
+    committed to release it, does not justify the buyer's refusal to perform. Lane's September 10 cancellation was a
+    repudiation, and Kira, who was ready to close on September 30, may recover for his breach (R-PRP-079,
+    R-PRP-081).
+  explanation_each_wrong_option:
+    A: >-
+      A mortgage is an encumbrance, but one that will be discharged at closing out of the sale proceeds does not make
+      title unmarketable at the time that counts (R-PRP-080).
+    B: >-
+      Wrong timing. The seller need not have marketable title when the contract is signed; the requirement applies at
+      closing (R-PRP-080).
+    C: >-
+      Right result, wrong reason. Record notice of a mortgage does not waive the buyer's right to marketable title; a
+      buyer may insist that encumbrances be removed by closing. Kira wins because she could and would remove it.
+  trap_type: wrong-standard
+  authority: ["Common law: implied covenant of marketable title (time for performance)"]
+  source: original
+  tags: [wave1, M4, marketable-title]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-PRP-0025
+  subject: PRP
+  coverage_ids: [PRP-MBE-III.D]
+  rule_ids: [R-PRP-082]
+  difficulty: 2
+  stem: >-
+    On March 1, Ozzie signed an enforceable written contract to sell his lakeside cottage to Pia for $300,000, with
+    closing on April 15. Ozzie remained in possession, and the contract said nothing about risk of loss. On April 2,
+    lightning struck and the cottage burned to the ground; neither party was at fault. Ozzie's fire insurer paid him
+    $180,000. Pia refused to close, and Ozzie sued for specific performance. The jurisdiction has no statute on risk
+    of loss.
+  call: "What is the most likely result?"
+  options:
+    A: "Pia is excused, because the seller bears the risk of loss until legal title passes to the buyer."
+    B: "Pia is excused, because destruction of the cottage made performance of the contract impossible."
+    C: "Ozzie may enforce the contract and collect the full $300,000 price while keeping the insurance proceeds."
+    D: "Ozzie may enforce the contract, but Pia is entitled to a credit for the $180,000 in insurance proceeds."
+  answer: D
+  explanation_correct: >-
+    D is correct. Under equitable conversion, once an enforceable land contract is signed the buyer becomes the
+    equitable owner, and under the majority common-law rule the risk of a casualty loss not caused by the seller
+    passes to the buyer (R-PRP-082). With no statute and no contract term, Pia bears the loss and must perform. To
+    keep Ozzie from collecting twice, Pia receives credit for the $180,000 of insurance proceeds (Skelly Oil), so she
+    owes $120,000.
+  explanation_each_wrong_option:
+    A: >-
+      Keeping the risk on the seller until title or possession passes is the Uniform Vendor and Purchaser Risk Act
+      rule, which California has adopted (Civ. Code section 1662). On the MBE it applies only if the question supplies
+      the statute (R-PRP-082).
+    B: >-
+      The land still exists and the contract can still be performed; equitable conversion, not impossibility,
+      allocates the risk of a casualty to the buildings (R-PRP-082).
+    C: >-
+      This ignores the insurance credit. The seller may not keep both the full price and the insurance proceeds
+      (R-PRP-082).
+  trap_type: minority-rule
+  authority: ["Skelly Oil Co. v. Ashmore, 365 S.W.2d 582 (Mo. 1963)", "Common law: equitable conversion and risk of loss"]
+  source: original
+  tags: [wave1, M4, equitable-conversion, risk-of-loss]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-PRP-0026
+  subject: PRP
+  coverage_ids: [PRP-MBE-III.E]
+  rule_ids: [R-PRP-083, R-PRP-017]
+  difficulty: 2
+  stem: >-
+    Soren leased a warehouse to Tamsin for five years under a recorded lease that gave Tamsin "a right of first
+    refusal to purchase the premises during the term of this lease on the same terms as any bona fide offer that
+    Landlord is willing to accept." In the third year of the lease, Ulrich offered Soren $2 million for the warehouse.
+    Without notifying Tamsin, Soren signed a contract with Ulrich and then conveyed the warehouse to him. Before
+    signing, Ulrich had read the recorded lease. When Tamsin learned of the sale, she promptly tendered $2 million to
+    Ulrich and demanded a deed; Ulrich refused. Tamsin sued Ulrich for specific performance.
+  call: "Is Tamsin likely to prevail?"
+  options:
+    A: "Yes, because Ulrich bought with notice of the right, so Tamsin may buy on his terms."
+    B: "No, because a right of first refusal is an unreasonable restraint on the alienation of a fee simple."
+    C: "No, because Soren breached the lease, so Tamsin's remedy is limited to damages against Soren."
+    D: "Yes, but only if Tamsin first proves that $2 million was the warehouse's fair market value."
+  answer: A
+  explanation_correct: >-
+    A is correct. A right of first refusal entitles its holder to buy on the same terms as a bona fide third-party
+    offer the owner is willing to accept; the owner must give the holder notice and a chance to match, and a buyer who
+    takes with notice of the right takes subject to it (R-PRP-083). Ulrich read the recorded lease, so he had actual
+    and record notice. Tamsin, who promptly tendered the $2 million Ulrich paid, may compel Ulrich to convey to her.
+    Because the right lasts only for the five-year lease term, it is neither an unreasonable restraint nor a
+    perpetuities problem.
+  explanation_each_wrong_option:
+    B: >-
+      Preemptive rights limited in time and tied to a legitimate purpose are reasonable, valid restraints
+      (R-PRP-017); this one runs only during the lease term.
+    C: >-
+      True but irrelevant that Soren breached. Tamsin is not limited to damages, because a buyer with notice takes
+      subject to the right, so specific performance against Ulrich is available (R-PRP-083).
+    D: >-
+      The holder matches the terms of the bona fide offer the owner accepted; market value is irrelevant
+      (R-PRP-083).
+  trap_type: true-but-irrelevant
+  authority: ["Common law: rights of first refusal (preemptive rights)"]
+  source: original
+  tags: [wave1, M4, options, first-refusal]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-PRP-0027
+  subject: PRP
+  coverage_ids: [PRP-MBE-III.F]
+  rule_ids: [R-PRP-084, R-PRP-085]
+  difficulty: 1
+  stem: >-
+    Before listing her 30-year-old house for sale, Vera learned from an exterminator that termites had badly damaged
+    several floor joists. She did not treat or repair the damage; instead, she installed new carpet and paneling that
+    hid the damaged areas. She sold the house to Wade under a contract stating that he was buying "as is, with no
+    warranties of any kind." Wade's inspector, using ordinary care, did not detect the damage. Months later, Wade
+    discovered it when a floor sagged; repairs will cost $45,000. Wade sued Vera.
+  call: "Is Wade likely to recover?"
+  options:
+    A: "No, because the 'as is' clause placed the risk of all defects on Wade."
+    B: "Yes, because Vera actively concealed a known material defect that inspection would not reveal."
+    C: "No, because a seller of a used home makes no implied warranty of its quality."
+    D: "Yes, because every seller of a residence impliedly warrants that the house is fit for habitation and free of structural defects."
+  answer: B
+  explanation_correct: >-
+    B is correct. A seller of used property gives no implied warranty of quality, but she is liable for fraud,
+    including active concealment, and, under the modern majority rule, for failing to disclose known material latent
+    defects that a reasonable inspection would not reveal. A general "as is" clause does not protect a seller who
+    concealed a known defect (R-PRP-084; Johnson v. Davis). Vera knew of serious termite damage, deliberately hid it,
+    and Wade's careful inspection could not find it.
+  explanation_each_wrong_option:
+    A: >-
+      A general "as is" clause shifts the risk of unknown defects; it does not shield a seller who concealed a known
+      one (R-PRP-084).
+    C: >-
+      True but irrelevant. Wade's claim rests on concealment and nondisclosure, not on an implied warranty of quality
+      (R-PRP-084).
+    D: >-
+      Overbroad. Only a builder-vendor of a new home gives an implied warranty of fitness (R-PRP-085); a seller of a
+      used house does not.
+  trap_type: true-but-irrelevant
+  authority: ["Johnson v. Davis, 480 So. 2d 625 (Fla. 1985)", "Common law: seller's liability for concealment of known latent defects"]
+  source: original
+  tags: [wave1, M4, disclosure, fitness]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-PRP-0028
+  subject: PRP
+  coverage_ids: [PRP-MBE-III.F, PRP-MBE-III.G]
+  rule_ids: [R-PRP-085, R-PRP-086, R-PRP-111]
+  difficulty: 2
+  stem: >-
+    Arbor Builders, a developer, built a new house and sold it to Bianca, its first occupant. The sale contract and the
+    general warranty deed said nothing about the quality of construction, and Bianca's careful pre-purchase inspection
+    found no problems. Eighteen months after closing, the basement began flooding in every heavy rain. An engineer
+    determined that Arbor had installed the foundation drainage system improperly, a defect that could not be seen
+    without excavation. Bianca sued Arbor for the cost of repair.
+  call: "Is Bianca likely to recover?"
+  options:
+    A: "No, because the sale contract merged into the deed, which contains no promise about the quality of construction."
+    B: "Yes, because the builder impliedly warranted workmanlike construction, and that warranty survives the deed."
+    C: "No, because real property is sold under the doctrine of caveat emptor unless the seller gives an express warranty."
+    D: "Yes, because the covenants in a general warranty deed protect the buyer against defects in the property's physical condition."
+  answer: B
+  explanation_correct: >-
+    B is correct. A builder-vendor of a new home impliedly warrants that it is built in a workmanlike manner and is fit
+    for habitation, and the warranty covers latent defects that appear within a reasonable time (R-PRP-085). Merger
+    does not bar the claim: only the contract's promises about title merge into the deed, while promises collateral to
+    title, such as those concerning the property's condition, survive closing (R-PRP-086). Arbor built the house,
+    Bianca was the first buyer, and the latent defect appeared within eighteen months.
+  explanation_each_wrong_option:
+    A: >-
+      Merger applies to promises about title, not to collateral promises or implied warranties about construction
+      quality (R-PRP-086).
+    C: >-
+      Caveat emptor still governs sales of used homes, but a builder-vendor of a new home gives an implied warranty of
+      quality (R-PRP-085).
+    D: >-
+      The covenants of title in a deed protect against defects in title, such as paramount claims and encumbrances,
+      not against physical defects (R-PRP-111).
+  trap_type: confused-rule
+  authority: ["Common law: builder-vendor's implied warranty of workmanlike construction and habitability", "Common law: merger of contract into deed"]
+  source: original
+  tags: [wave1, M4, implied-warranty, merger]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-PRP-0029
+  subject: PRP
+  coverage_ids: [PRP-MBE-III.G, PRP-MBE-V.B.2]
+  rule_ids: [R-PRP-086, R-PRP-111]
+  difficulty: 3
+  stem: >-
+    Dorian's written contract to sell a commercial lot to Elsie required him to convey "good and marketable title by
+    general warranty deed, free of all encumbrances." At closing, Dorian delivered a special warranty deed instead,
+    and Elsie accepted it and paid the price without objection. A year later Elsie learned that a mortgage given in
+    2005 by Fiona, the owner before Dorian, had never been released; it had been properly recorded, and the mortgagee
+    has now demanded payment. Dorian himself never encumbered the lot. The contract contains no provision that any of
+    its terms survive closing. Elsie sued Dorian for damages under the contract and the deed.
+  call: "Is Elsie likely to recover?"
+  options:
+    A: "Yes, because the contract required a general warranty deed free of all encumbrances."
+    B: "Yes, because the covenant against encumbrances is a present covenant that was breached when the deed was delivered."
+    C: "No, because the contract merged into the deed, which warrants only against encumbrances arising through Dorian."
+    D: "No, because Fiona's mortgage was recorded, so Elsie had constructive notice of it when she bought."
+  answer: C
+  explanation_correct: >-
+    C is correct. At closing, the land-sale contract's promises about title merge into the deed; once the buyer
+    accepts the deed, she may sue only on the deed's covenants (R-PRP-086). Elsie accepted a special warranty deed
+    without objection, so the contract's promise of a general warranty deed free of all encumbrances is gone. A
+    special warranty deed protects only against defects created by, through or under the grantor (R-PRP-111). Fiona's
+    2005 mortgage predates Dorian's ownership, and Dorian never encumbered the lot, so no covenant is breached.
+  explanation_each_wrong_option:
+    A: >-
+      The contract's title terms merged into the deed when Elsie accepted it, and nothing provided that they would
+      survive closing (R-PRP-086).
+    B: >-
+      In a special warranty deed, the covenant against encumbrances is limited to encumbrances arising through the
+      grantor; this one arose through a prior owner (R-PRP-111).
+    D: >-
+      Right result, wrong reason. A grantee's notice of an encumbrance, actual or from the record, generally does not
+      bar recovery on a covenant against encumbrances. Elsie loses because of merger and the limited scope of the
+      special warranty deed.
+  trap_type: right-result-wrong-reason
+  authority: ["Common law: merger of the contract into the deed", "Common law: special warranty deed covenants"]
+  source: original
+  tags: [wave1, M4, merger, deeds]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-PRP-0030
+  subject: PRP
+  coverage_ids: [PRP-MBE-III.B.3, PRP-MBE-III.B.4]
+  rule_ids: [R-PRP-079, R-PRP-081]
+  difficulty: 2
+  stem: >-
+    Gage contracted in writing to sell his house to Hollis for $500,000, with closing set for June 1. The contract did
+    not state that time was of the essence, and nothing in the negotiations suggested that the date was critical to
+    either party. On May 29, Hollis told Gage that his lender needed about another week to fund the loan. On June 2,
+    Gage notified Hollis that the contract was terminated because Hollis had not closed on June 1. On June 8, with his
+    loan funded, Hollis tendered the full price and demanded a deed, but Gage refused. Hollis sued for specific
+    performance.
+  call: "Is Hollis likely to prevail?"
+  options:
+    A: "No, because Hollis failed to perform on the date fixed by the contract."
+    B: "No, because Gage was entitled to treat Hollis's statement of May 29 as an anticipatory repudiation."
+    C: "Yes, because a closing date in a land-sale contract is merely an estimate that binds neither party."
+    D: "Yes, because time was not of the essence and Hollis tendered within a reasonable time."
+  answer: D
+  explanation_correct: >-
+    D is correct. Unless the contract says so, the circumstances show it, or a party makes it so by notice allowing a
+    reasonable time, time is not of the essence in a land-sale contract. A party who performs within a reasonable time
+    after the closing date may still enforce the contract, though it is liable for damages caused by the delay
+    (R-PRP-079). Nothing made June 1 critical, and Hollis tendered a week later, so Gage's June 2 termination was
+    wrongful and Hollis may obtain specific performance (R-PRP-081). Gage may recover any damages caused by the
+    one-week delay.
+  explanation_each_wrong_option:
+    A: >-
+      When time is not of the essence, failing to close on the stated date is not a breach that allows the other
+      party to terminate; a reasonable delay is permitted (R-PRP-079).
+    B: >-
+      A request for a short delay is not an anticipatory repudiation, which requires a clear and unequivocal refusal
+      to perform.
+    C: >-
+      Overbroad. The closing date is a contract term, and missing it can support delay damages; it simply does not
+      allow termination when time is not of the essence (R-PRP-079).
+  trap_type: wrong-standard
+  authority: ["Common law: time of the essence in land-sale contracts"]
+  source: original
+  tags: [wave1, M4, time-of-essence]
+  status: draft
+  last_verified: 2026-11-04

@@ -1,0 +1,414 @@
+questions:
+- id: Q-PRP-0031
+  subject: PRP
+  coverage_ids: [PRP-MBE-IV.F.3, PRP-MBE-IV.F.4]
+  rule_ids: [R-PRP-101, R-PRP-102]
+  difficulty: 3
+  stem: >-
+    Mona's office building is subject to three mortgages, each properly recorded in this order: a first mortgage to
+    Ash Bank securing $300,000, a second mortgage to Birch Credit securing $120,000, and a third mortgage to Cobalt
+    Finance securing $60,000. Mona defaulted on all three loans. Birch Credit brought a judicial foreclosure action,
+    naming Mona and Cobalt Finance as defendants but not Ash Bank. At the foreclosure sale, Pell bought the building
+    for $170,000, and the costs of the sale were $10,000.
+  call: "How should the sale proceeds be distributed, and what is the status of Ash Bank's mortgage?"
+  options:
+    A: "$160,000 to Ash Bank and nothing to Birch Credit or Cobalt Finance; Pell takes free of all three mortgages."
+    B: "$120,000 to Birch Credit and $40,000 to Mona; Cobalt Finance's mortgage remains on the building, and Pell takes subject to Ash Bank's mortgage."
+    C: "About $106,667 to Birch Credit and $53,333 to Cobalt Finance, in proportion to their debts; Pell takes subject to Ash Bank's mortgage."
+    D: "$120,000 to Birch Credit and $40,000 to Cobalt Finance; Pell takes subject to Ash Bank's mortgage."
+  answer: D
+  explanation_correct: >-
+    D is correct. A foreclosure sale extinguishes the foreclosing mortgage and the junior interests whose holders were
+    properly joined, while senior interests are unaffected: the buyer takes subject to them, and they are not paid
+    from the proceeds (R-PRP-101). The proceeds go first to the costs of sale, then to the foreclosing debt, then to
+    junior interests in order of priority, with any surplus to the mortgagor (R-PRP-102). The net proceeds are
+    $160,000 ($170,000 less $10,000): Birch Credit takes its full $120,000, and Cobalt Finance, the next junior, takes
+    the remaining $40,000. Mona gets nothing. Ash Bank, the senior mortgagee, need not be joined; its $300,000
+    mortgage stays on the building, so Pell takes subject to it. Cobalt may pursue Mona personally for its $20,000
+    deficiency.
+  explanation_each_wrong_option:
+    A: >-
+      A junior's foreclosure neither pays nor extinguishes a senior mortgage; senior interests stay on the land and
+      the buyer takes subject to them (R-PRP-101).
+    B: >-
+      Cobalt Finance, a properly joined junior, is paid from the surplus before the mortgagor, and its lien is
+      extinguished by the sale, not left on the building (R-PRP-101, R-PRP-102).
+    C: >-
+      Junior interests are paid in order of priority, not pro rata; Birch Credit is paid in full before Cobalt Finance
+      receives anything (R-PRP-102).
+  trap_type: confused-rule
+  authority: ["Common law: effect of foreclosure on senior and junior interests", "Common law: distribution of foreclosure proceeds"]
+  source: original
+  tags: [wave1, M4, foreclosure, priorities]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-PRP-0032
+  subject: PRP
+  coverage_ids: [PRP-MBE-IV.A.1.b, PRP-MBE-V.E]
+  rule_ids: [R-PRP-090, R-PRP-121]
+  difficulty: 2
+  stem: >-
+    In 2023, Juno obtained a $70,000 money judgment against Kai and properly recorded it in Elm County. Under the
+    jurisdiction's statute, a recorded judgment becomes a lien on all real property the debtor owns or later acquires
+    in the county. In 2025 Kai bought a house in Elm County for $350,000, paying $50,000 of his own money and $300,000
+    borrowed from Lodestar Bank, which took a mortgage on the house to secure the loan. The deed to Kai and Lodestar's
+    mortgage were executed and recorded on the same day. Kai has defaulted on both obligations, and the house is now
+    worth $320,000.
+  call: "As between Juno and Lodestar Bank, whose lien has priority on the house?"
+  options:
+    A: "Lodestar Bank's, because its purchase-money mortgage has priority over the earlier judgment lien."
+    B: "Juno's, because her judgment was recorded two years before Lodestar's mortgage."
+    C: "Juno's, because a judgment lien attaches to after-acquired property the instant the debtor acquires title, before any mortgage can attach."
+    D: "Lodestar Bank's, because a judgment creditor is not a purchaser for value and is never protected by a recording act."
+  answer: A
+  explanation_correct: >-
+    A is correct. A mortgage securing a loan whose proceeds are used to buy the land, executed as part of the
+    purchase, is a purchase-money mortgage, and it has priority over earlier liens against the purchaser, such as a
+    judgment lien that attaches only when the purchaser acquires title (R-PRP-090, R-PRP-121). Lodestar's loan funded
+    Kai's purchase, and its mortgage was executed and recorded with the deed, so it is senior to Juno's judgment lien
+    even though the judgment was recorded first.
+  explanation_each_wrong_option:
+    B: >-
+      First in time is the general rule, but the purchase-money exception overrides it for liens against the buyer
+      that reach the land only through the buyer's acquisition (R-PRP-090).
+    C: >-
+      The purchase-money doctrine rejects this argument: the deed and the purchase-money mortgage are treated as one
+      transaction, so the judgment lien attaches only to the buyer's interest as already encumbered by the mortgage
+      (R-PRP-090, R-PRP-121).
+    D: >-
+      Right result, wrong reason, and overbroad. Lodestar wins because of purchase-money priority. Whether a recording
+      act protects lien creditors depends on the statute's wording (R-PRP-121).
+  trap_type: exception-trap
+  authority: ["Common law: purchase-money mortgage priority", "Common law: judgment liens on after-acquired property"]
+  source: original
+  tags: [wave1, M4, purchase-money-mortgage, judgment-liens]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-PRP-0033
+  subject: PRP
+  coverage_ids: [PRP-MBE-IV.C.1, PRP-MBE-IV.C.2]
+  rule_ids: [R-PRP-094]
+  difficulty: 2
+  stem: >-
+    Nell borrowed $200,000 from Orchard Bank, signing a note secured by a mortgage on her house. Nell sold the house to
+    Pratt, who in the deed expressly "assumes and agrees to pay" the mortgage debt. Two years later Pratt sold the
+    house to Quade, whose deed stated that he took "subject to" the Orchard Bank mortgage; Quade made no promise to pay
+    it. Orchard Bank never released anyone. Quade stopped making payments, and after a foreclosure sale a $40,000
+    deficiency remained. No statute limits deficiency judgments. Orchard Bank seeks a deficiency judgment against
+    Nell, Pratt and Quade.
+  call: "Against whom may Orchard Bank obtain a personal judgment for the deficiency?"
+  options:
+    A: "Nell, Pratt and Quade, because each held title to the mortgaged house while the debt was outstanding."
+    B: "Nell and Pratt, but not Quade."
+    C: "Pratt only, because Pratt's assumption released Nell from liability."
+    D: "Nell only, because only a person who signed the note is personally liable on it."
+  answer: B
+  explanation_correct: >-
+    B is correct. A grantee who takes "subject to" a mortgage is not personally liable on the debt; the lender may look
+    to the land and to those who promised to pay. A grantee who expressly assumes the mortgage becomes personally
+    liable as the principal obligor, and the original mortgagor remains liable as a surety unless the lender releases
+    her (R-PRP-094). Nell signed the note and was never released; Pratt assumed; Quade took subject to the mortgage.
+    Orchard Bank may obtain a deficiency judgment against Nell and Pratt, but not against Quade.
+  explanation_each_wrong_option:
+    A: >-
+      Holding title does not create personal liability. Quade made no promise to pay, so the bank's recourse against
+      him was limited to the foreclosed land (R-PRP-094).
+    C: >-
+      An assumption does not release the original mortgagor; only a release by the lender or a novation does
+      (R-PRP-094).
+    D: >-
+      An assuming grantee is personally liable to the lender, which enforces the assumption promise as a third-party
+      beneficiary, even though the grantee never signed the note (R-PRP-094).
+  trap_type: confused-rule
+  authority: ["Common law: assumption versus transfer subject to a mortgage", "Common law: suretyship of the original mortgagor"]
+  source: original
+  tags: [wave1, M4, assumption, subject-to]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-PRP-0034
+  subject: PRP
+  coverage_ids: [PRP-MBE-IV.A.3]
+  rule_ids: [R-PRP-088, R-PRP-093]
+  difficulty: 2
+  stem: >-
+    Facing a tax lien and overdue bills, Rafe needed $100,000 quickly. His acquaintance Sela agreed to provide it if
+    Rafe deeded her his house, then worth about $450,000. Rafe signed and delivered a deed absolute on its face, which
+    Sela recorded, and Sela paid Rafe $100,000. Orally, they agreed that Rafe would keep living in the house, pay Sela
+    $1,200 a month, and could "buy the house back" for $110,000 within one year. Rafe stayed in the house and made
+    every monthly payment. Fourteen months later, Rafe tendered $110,000 plus interest for the two extra months; Sela
+    refused the tender and sued to evict Rafe, claiming that she owned the house.
+  call: "What is the most likely result?"
+  options:
+    A: "Sela prevails, because Rafe failed to exercise his repurchase right within the year."
+    B: "Sela prevails, because the parol evidence rule bars proof of an oral agreement that contradicts a deed absolute on its face."
+    C: "Rafe prevails, because the deed was given as security for a debt, so it is treated as a mortgage that Rafe may redeem until foreclosure."
+    D: "Rafe prevails, because the oral repurchase agreement violated the statute of frauds, which makes the deed void."
+  answer: C
+  explanation_correct: >-
+    C is correct. A deed absolute on its face that was given to secure a debt is treated as an equitable mortgage, and
+    the grantor may prove the security purpose by parol evidence (R-PRP-088). The factors point strongly that way: a
+    $100,000 advance against a $450,000 house, Rafe's financial distress, his continued possession and monthly
+    payments, and a right to "buy back" for the advance plus a premium. As a mortgagee, Sela cannot treat the house as
+    hers; she must foreclose, and until foreclosure Rafe may redeem by paying the debt (R-PRP-093).
+  explanation_each_wrong_option:
+    A: >-
+      Once the deed is treated as a mortgage, a missed repayment date is a default, not a forfeiture; the equity of
+      redemption continues until foreclosure (R-PRP-088, R-PRP-093).
+    B: >-
+      Parol evidence is admissible to show that a deed absolute on its face was intended as security (R-PRP-088).
+    D: >-
+      The deed is not void. It is valid as a security transfer and is treated as a mortgage; Rafe prevails because he
+      may redeem, not because the deed fails (R-PRP-088).
+  trap_type: confused-rule
+  authority: ["Common law: equitable mortgage (absolute deed given as security)"]
+  source: original
+  tags: [wave1, M4, equitable-mortgage]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-PRP-0035
+  subject: PRP
+  coverage_ids: [PRP-MBE-IV.B.4, PRP-MBE-IV.F.2]
+  rule_ids: [R-PRP-093, R-PRP-099]
+  difficulty: 2
+  stem: >-
+    Tobin's mortgage to Upland Savings secures a $240,000 note payable in monthly installments and contains a clause
+    allowing Upland, on any default, to declare the entire balance immediately due. Tobin missed three payments
+    totaling $6,000. Upland sent him written notice that it was accelerating the debt and scheduled a foreclosure
+    sale. Two weeks before the sale, Tobin tendered $6,000 plus late charges, and Upland refused the tender. Tobin
+    sued to enjoin the sale, claiming a right to redeem. No statute in the jurisdiction gives a borrower a right to
+    reinstate a loan by curing a default.
+  call: "Is the court likely to enjoin the sale?"
+  options:
+    A: "Yes, because a mortgagor may redeem at any time before the sale by paying the installments in default."
+    B: "No, because after acceleration Tobin must tender the entire balance due to redeem."
+    C: "No, because the mortgagor's equity of redemption ends when the mortgagor defaults."
+    D: "Yes, because an acceleration clause is an unenforceable penalty when only a few installments have been missed."
+  answer: B
+  explanation_correct: >-
+    B is correct. Before a foreclosure sale, the mortgagor may redeem by paying the full amount due; once the lender
+    has validly accelerated under an acceleration clause, that is the entire accelerated balance plus interest and
+    costs (R-PRP-093, R-PRP-099). Tobin's tender of the three missed installments was not enough, and with no
+    reinstatement statute Upland could refuse it.
+  explanation_each_wrong_option:
+    A: >-
+      Curing the arrears to reinstate the loan is a statutory right in some states (California's Civ. Code section
+      2924c is an example), not the common-law equity of redemption, which after acceleration requires the full
+      debt (R-PRP-093).
+    C: >-
+      Wrong timing. The equity of redemption lasts until the foreclosure sale, not merely until default (R-PRP-093).
+    D: >-
+      Acceleration clauses are enforceable, and acceleration after missed installments is their ordinary use
+      (R-PRP-099).
+  trap_type: wrong-standard
+  authority: ["Common law: equity of redemption", "Common law: acceleration clauses"]
+  source: original
+  tags: [wave1, M4, redemption, acceleration]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-PRP-0036
+  subject: PRP
+  coverage_ids: [PRP-MBE-IV.F.5]
+  rule_ids: [R-PRP-103, R-PRP-093]
+  difficulty: 1
+  stem: >-
+    Vance defaulted on a $260,000 mortgage loan from Willow Bank, which brought a judicial foreclosure action. At the
+    foreclosure sale, Xena bought the house for $200,000, and Willow obtained a deficiency judgment against Vance for
+    the balance. A statute in the jurisdiction gives a mortgagor one year after a foreclosure sale to redeem the
+    property from the purchaser. Eight months after the sale, Vance obtained financing and sought to redeem.
+  call: "What must Vance pay to redeem the property?"
+  options:
+    A: "The entire $260,000 mortgage debt, with interest and costs."
+    B: "Nothing, because his right to redeem ended when the foreclosure sale was held."
+    C: "The $200,000 sale price, plus the interest and costs allowed by the statute."
+    D: "The property's fair market value on the date he seeks to redeem."
+  answer: C
+  explanation_correct: >-
+    C is correct. Statutory redemption, available in about half the states, lets the mortgagor redeem for a fixed
+    period after the foreclosure sale by paying the sale price plus the costs and interest the statute allows, not the
+    full debt (R-PRP-103). Vance is within the one-year period, so he must pay $200,000 plus allowable interest and
+    costs. The deficiency judgment remains a separate personal obligation.
+  explanation_each_wrong_option:
+    A: >-
+      Paying the full debt is the measure for the equity of redemption before the sale (R-PRP-093), not for
+      statutory redemption after it.
+    B: >-
+      The equity of redemption did end at the sale, but the statute gives a separate post-sale right of redemption
+      (R-PRP-103).
+    D: >-
+      The statutory measure is the foreclosure-sale price, not the property's current market value (R-PRP-103).
+  trap_type: confused-rule
+  authority: ["State statutory redemption (post-sale)", "Common law: equity of redemption"]
+  source: original
+  tags: [wave1, M4, statutory-redemption]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-PRP-0037
+  subject: PRP
+  coverage_ids: [PRP-MBE-IV.A.1.c]
+  rule_ids: [R-PRP-091, R-PRP-100]
+  difficulty: 3
+  stem: >-
+    In 2022, Yuri gave Zenith Bank a recorded mortgage on his warehouse securing "all advances Zenith may, in its sole
+    discretion, make to Yuri from time to time, up to $500,000." Zenith advanced $200,000 at the closing. In 2023, Yuri
+    borrowed $150,000 from Aster Lending, which took and recorded a second mortgage on the warehouse and sent Zenith
+    written notice of it. In 2024, Zenith advanced another $100,000 to Yuri. Yuri has defaulted on all the loans, and
+    the warehouse is worth $350,000. No statute in the jurisdiction addresses future-advance mortgages.
+  call: "What is the order of priority in the warehouse?"
+  options:
+    A: "Zenith for $300,000, then Aster for $150,000, because Zenith's mortgage was recorded first and stated a $500,000 maximum."
+    B: "Aster for $150,000, then Zenith for $300,000, because a mortgage securing optional future advances is subordinate to every later mortgage."
+    C: "Zenith for $200,000, then Aster for $150,000, then Zenith for its 2024 advance of $100,000."
+    D: "Zenith and Aster share pro rata, because both mortgages secure advances made before Yuri defaulted."
+  answer: C
+  explanation_correct: >-
+    C is correct. A mortgage may secure future advances. Obligatory advances keep the priority of the original
+    recording, but under the majority common-law rule an optional advance made after the lender has actual notice of
+    an intervening lien is subordinate to that lien (R-PRP-091, R-PRP-100). Zenith's advances were in its "sole
+    discretion," so they were optional. The $200,000 advanced at closing keeps first priority; Aster's mortgage comes
+    next; Zenith's 2024 advance, made after it received Aster's written notice, ranks behind Aster. With the warehouse
+    worth $350,000, Zenith's 2024 advance is effectively unsecured.
+  explanation_each_wrong_option:
+    A: >-
+      A stated maximum gives every advance the original priority only where a statute so provides, and none does here
+      (R-PRP-091).
+    B: >-
+      Overbroad. Optional advances made before the intervening lien keep their priority; only the advance made after
+      actual notice of Aster's mortgage is subordinated (R-PRP-091).
+    D: >-
+      Priority is not shared pro rata; it is determined advance by advance under the obligatory-optional rule
+      (R-PRP-091, R-PRP-100).
+  trap_type: wrong-standard
+  authority: ["Common law: future-advance mortgages (obligatory versus optional advances)"]
+  source: original
+  tags: [wave1, M4, future-advances, priorities]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-PRP-0038
+  subject: PRP
+  coverage_ids: [PRP-MBE-IV.D, PRP-MBE-IV.B.1]
+  rule_ids: [R-PRP-097, R-PRP-087]
+  difficulty: 3
+  stem: >-
+    Corvid LLC borrowed $800,000 from Delta Bank to buy an office building, signing a negotiable promissory note
+    secured by a recorded mortgage on the building. Corvid agreed to the loan partly because a Delta loan officer made
+    false statements about future rental demand in the area. Six months later Delta indorsed and delivered the note to
+    Ember Fund, which paid $780,000 for it in good faith and without notice of any claim or defense. No assignment of
+    the mortgage was ever recorded. Corvid defaulted, and Ember brought a judicial action to foreclose the mortgage.
+    Corvid defends on the grounds that Delta fraudulently induced the loan and that Ember has no recorded interest in
+    the mortgage.
+  call: "Is Ember likely to be allowed to foreclose?"
+  options:
+    A: "Yes, because the mortgage follows the note, and as a holder in due course Ember takes free of the defense of fraud in the inducement."
+    B: "No, because Ember cannot enforce the mortgage without a recorded assignment of it."
+    C: "No, because a mortgagor may assert against any transferee every defense it could have asserted against the original lender."
+    D: "Yes, but only for the $780,000 that Ember paid for the note, not the full amount owed."
+  answer: A
+  explanation_correct: >-
+    A is correct. The mortgage follows the note: transfer of the note carries the mortgage with it, even without a
+    separate or recorded assignment (R-PRP-097; Carpenter v. Longan). Ember took the negotiable note by indorsement
+    and delivery, for value, in good faith and without notice, so it is a holder in due course. A holder in due course
+    takes free of personal defenses such as fraud in the inducement, though not real defenses such as forgery or fraud
+    in the factum (UCC section 3-305). Corvid knew it was signing a note and mortgage, so its fraud defense is personal
+    and fails against Ember.
+  explanation_each_wrong_option:
+    B: >-
+      Recording an assignment protects the assignee against later purchasers from the assignor; it is not needed to
+      enforce the mortgage against the mortgagor (R-PRP-097).
+    C: >-
+      Overbroad. A holder in due course cuts off personal defenses; only real defenses survive the transfer
+      (R-PRP-097).
+    D: >-
+      A holder in due course may enforce the full amount of the instrument even if it bought the note at a modest
+      discount; the price it paid does not cap its recovery.
+  trap_type: confused-rule
+  authority: ["Carpenter v. Longan, 83 U.S. (16 Wall.) 271 (1872)", "UCC §§ 3-302, 3-305"]
+  source: original
+  tags: [wave1, M4, transfers-by-mortgagee, holder-in-due-course]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-PRP-0039
+  subject: PRP
+  coverage_ids: [PRP-MBE-IV.E.2]
+  rule_ids: [R-PRP-098, R-PRP-101, R-PRP-093]
+  difficulty: 1
+  stem: >-
+    Fallon's house is subject to a recorded first mortgage held by Granite Bank and a recorded second mortgage held by
+    Harbor Credit. After Fallon defaulted on the first mortgage, she and Granite Bank agreed that she would convey the
+    house to Granite in full satisfaction of the debt, and Fallon voluntarily delivered a deed in lieu of foreclosure.
+    Harbor Credit was not involved. Granite now claims that it owns the house free of Harbor Credit's mortgage because
+    Granite's mortgage was senior.
+  call: "Is Granite correct?"
+  options:
+    A: "Yes, because a senior mortgagee who acquires the property in satisfaction of its debt takes free of junior liens."
+    B: "Yes, because Harbor Credit's mortgage was extinguished when Fallon no longer owned the house."
+    C: "No, because a deed in lieu of foreclosure is a void clog on the mortgagor's equity of redemption."
+    D: "No, because a deed in lieu does not extinguish junior liens, so Granite took title subject to Harbor Credit's mortgage."
+  answer: D
+  explanation_correct: >-
+    D is correct. A deed in lieu of foreclosure given voluntarily after default is valid, but it is only a conveyance
+    from the mortgagor, so the mortgagee takes what the mortgagor had: title subject to existing junior liens
+    (R-PRP-098). Only a foreclosure in which Harbor Credit was properly joined or notified would have wiped out its
+    lien (R-PRP-101).
+  explanation_each_wrong_option:
+    A: >-
+      This confuses a deed in lieu with foreclosure. A foreclosing senior can cut off properly joined juniors; a
+      mortgagee who simply accepts a deed cannot (R-PRP-098, R-PRP-101).
+    B: >-
+      A transfer of the property does not discharge liens on it; the liens stay with the land (R-PRP-098).
+    C: >-
+      A conveyance freely made after default for adequate consideration is not a clog. Clogging concerns provisions in
+      the original mortgage transaction that cut off redemption (R-PRP-093, R-PRP-098).
+  trap_type: confused-rule
+  authority: ["Common law: deed in lieu of foreclosure"]
+  source: original
+  tags: [wave1, M4, deed-in-lieu, discharge]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-PRP-0040
+  subject: PRP
+  coverage_ids: [PRP-MBE-IV.B.2, PRP-MBE-I.B.1]
+  rule_ids: [R-PRP-022, R-PRP-087, R-PRP-020]
+  difficulty: 2
+  stem: >-
+    Ines and Jory owned a cabin as joint tenants with right of survivorship. Without Jory's knowledge, Ines borrowed
+    $50,000 from Kestrel Bank and gave it a mortgage on "my undivided interest in the cabin," which Kestrel recorded.
+    Ines died a year later without repaying the loan, leaving a will that gave all her property to her brother. The
+    jurisdiction follows the lien theory of mortgages.
+  call: "What interest, if any, does Kestrel Bank have in the cabin?"
+  options:
+    A: "A mortgage on an undivided one-half interest, because Ines's mortgage severed the joint tenancy."
+    B: "A mortgage on the entire cabin, because Jory succeeded to Ines's interest at her death."
+    C: "None, because a joint tenant cannot mortgage her interest without the consent of the other joint tenant."
+    D: "None, because the mortgage did not sever the joint tenancy, and Ines's interest, with the lien on it, ended at her death."
+  answer: D
+  explanation_correct: >-
+    D is correct. Whether a mortgage by one joint tenant severs depends on the mortgage theory. In a lien-theory
+    jurisdiction the mortgage is only a lien and does not transfer title, so the joint tenancy continues (R-PRP-022,
+    R-PRP-087). When Ines died, her interest ended and Jory, the survivor, owned the whole; the lien on Ines's interest
+    ended with it, so Jory takes free of Kestrel's mortgage (R-PRP-020). Ines's will cannot reach joint-tenancy
+    property. Kestrel is left with an unsecured claim against Ines's estate.
+  explanation_each_wrong_option:
+    A: >-
+      A mortgage severs a joint tenancy only in a title-theory state, where it transfers title; this is a lien-theory
+      jurisdiction (R-PRP-022). Applying the title-theory result is the trap.
+    B: >-
+      The survivor does not succeed to the deceased joint tenant's interest; that interest is extinguished, together
+      with any lien on it (R-PRP-020, R-PRP-022).
+    C: >-
+      Right result, wrong reason. A joint tenant may mortgage her own interest without the other's consent; the
+      mortgage fails here because the interest it encumbered ended at Ines's death (R-PRP-022).
+  trap_type: minority-rule
+  authority: ["Common law: lien theory of mortgages", "Common law: joint tenancy survivorship"]
+  source: original
+  tags: [wave1, M4, mortgage-theories, joint-tenancy]
+  status: draft
+  last_verified: 2026-11-04
