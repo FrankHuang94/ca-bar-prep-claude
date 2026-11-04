@@ -11,8 +11,8 @@
 | 0 — Exam intelligence | ✅ Done | `00-exam-intel/` written. Coverage matrix v1: 614 rows. 36 items in VERIFY-QUEUE. |
 | 1 — Scaffold and tooling | ✅ Done | Structure, CLAUDE.md, config, schemas, 7 scripts, 22 tests, 11 slash commands, CI. Validation passes. |
 | 2 — Foundations, strategy, study plan | ✅ **Done (awaiting review)** | 02-foundations (5 files, 475-term glossary), MBE/essay/PT strategy, 38-week plan; VERIFY V-040–V-060 |
-| 3 — Past exams | ✅ **Done (awaiting review)** | 31 administrations (Feb 2012–Jul 2026): 166 essays + 42 PTs indexed and analyzed (index-level); frequency analysis; 2 PAST rows | Archive covers Feb 2012 → July 2026 [S-079] |
-| 4 — Subject content | ⏳ Next | Groups: (1) CTR CIV CON CRM · (2) CMP REM · (3) EVD PRF WIL TRS · (4) TRT PRP BUS |
+| 3 — Past exams | ✅ Done | 31 administrations (Feb 2012–Jul 2026): 166 essays + 42 PTs indexed and analyzed (index-level); frequency analysis; 2 PAST rows | Archive covers Feb 2012 → July 2026 [S-079] |
+| 4 — Subject content | 🔄 **Group 1 done (awaiting review)**: CTR, CIV, CON, CRM; next group 2 (CMP, REM) | Groups: (1) CTR CIV CON CRM · (2) CMP REM · (3) EVD PRF WIL TRS · (4) TRT PRP BUS |
 | 5 — Question bank | ☐ | |
 | 6 — High-yield and memorization | ☐ | |
 | 7 — Independent QA | ☐ | |
@@ -36,6 +36,22 @@
 - **`config/plan.yml`:** finalized phases, no leave (PTO for exam week only), targets and benchmarks aligned to the schedule.
 - **Totals:** ≈ 754 h · 2,210 MBE · 75 essays · 52 `/spot` drills · 12 PTs · 3 simulations (all on weekends).
 - **New sources and verify items:** S-140–S-150 and S-160; V-040–V-044, V-050–V-058 and V-060.
+
+## Phase 4 — group 1 deliverables (Contracts, Civil Procedure, Constitutional Law, Criminal Law & Procedure)
+
+All 15 files per subject. All **216 coverage rows mapped** (`coverage_report.py --require-mapped CTR CIV CON CRM` passes).
+
+| Subject | Rules | Flashcards | Outline (words) | Rows mapped | New verify items |
+|---|---|---|---|---|---|
+| Contracts | 117 (R-CTR-001–117) | 150 | ~15,600 | 45/45 | V-100–V-114 |
+| Civil Procedure | 120 (incl. 18 CCP rules) | 150 | ~10,200 (+ ~4,400 CA distinctions) | 50/50 | V-150–V-162 |
+| Constitutional Law | 117 | 146 | ~24,500 | 68/68 | V-200–V-206 |
+| Criminal Law & Procedure | 120 | 150 | ~24,700 | 53/53 | V-250–V-260 |
+
+- **Built by 4 parallel subagents** from a shared brief (`CLAUDE.md` formats; NCBE-numbered outlines; matrix target headings).
+- **Merged with the new `scripts/merge_build_outputs.py`**, which checks headings and inserts source and verify rows in ID order.
+- **`recent-changes.md` additions:** Trump v. Cook, Hemani, Mullin v. Doe, GEO Group, Barrett, Hunter, and California Prop 36.
+- **Spot-checked rules** (2-207, CA summary judgment 81/20/11, third-party standing, Miranda custody): citations and statements accurate.
 
 ## Phase 3 deliverables
 - **`06-past-exams/index.csv`:** 166 essays, each with subjects, issue coverage_ids, call summary (my words), links to the question and selected-answer PDFs, and its analysis file.
