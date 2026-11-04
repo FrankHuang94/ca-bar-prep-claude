@@ -12,7 +12,7 @@
 | 1 — Scaffold and tooling | ✅ Done | Structure, CLAUDE.md, config, schemas, 7 scripts, 22 tests, 11 slash commands, CI. Validation passes. |
 | 2 — Foundations, strategy, study plan | ✅ **Done (awaiting review)** | 02-foundations (5 files, 475-term glossary), MBE/essay/PT strategy, 38-week plan; VERIFY V-040–V-060 |
 | 3 — Past exams | ✅ Done | 31 administrations (Feb 2012–Jul 2026): 166 essays + 42 PTs indexed and analyzed (index-level); frequency analysis; 2 PAST rows | Archive covers Feb 2012 → July 2026 [S-079] |
-| 4 — Subject content | 🔄 **Group 1 done (awaiting review)**: CTR, CIV, CON, CRM; next group 2 (CMP, REM) | Groups: (1) CTR CIV CON CRM · (2) CMP REM · (3) EVD PRF WIL TRS · (4) TRT PRP BUS |
+| 4 — Subject content | 🔄 **Groups 1–2 done (awaiting review)**: CTR, CIV, CON, CRM, CMP, REM; next group 3 (EVD, PRF, WIL, TRS) | Groups: (1) CTR CIV CON CRM · (2) CMP REM · (3) EVD PRF WIL TRS · (4) TRT PRP BUS |
 | 5 — Question bank | ☐ | |
 | 6 — High-yield and memorization | ☐ | |
 | 7 — Independent QA | ☐ | |
@@ -36,6 +36,18 @@
 - **`config/plan.yml`:** finalized phases, no leave (PTO for exam week only), targets and benchmarks aligned to the schedule.
 - **Totals:** ≈ 754 h · 2,210 MBE · 75 essays · 52 `/spot` drills · 12 PTs · 3 simulations (all on weekends).
 - **New sources and verify items:** S-140–S-150 and S-160; V-040–V-044, V-050–V-058 and V-060.
+
+## Phase 4 — group 2 deliverables (Community Property, Remedies)
+
+| Subject | Rules | Flashcards | Outline (words) | Rows mapped | New verify items |
+|---|---|---|---|---|---|
+| Community Property | 103 (R-CMP-001–103) | 126 | ~15,300 (State Bar outline I–VIII + 5 SUP topics) | 51/51 | V-300–V-333 |
+| Remedies | 94 (R-REM-001–094) | 120 | ~8,400 (State Bar outline I–VI) | 11/11 | V-350–V-371 |
+
+- California-only subjects, so no `mbe-rules.md` (14 files each). Outlines follow the State Bar essay-outline structure.
+- Remedies cross-references the contract damages rules (R-CTR-089–109) instead of repeating them.
+- **Spot-checked:** transmutation (Fam. Code §§ 850, 852(a); *Benson*) and the specific-performance presumption for land (Civ. Code § 3387). Both accurate.
+- **Coverage gate** passes for all six subjects built so far: 278 rows.
 
 ## Phase 4 — group 1 deliverables (Contracts, Civil Procedure, Constitutional Law, Criminal Law & Procedure)
 
