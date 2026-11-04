@@ -142,6 +142,7 @@ status: draft
 | *Coney Island Auto Parts v. Burton* (2026) | FRCP 60 | A Rule 60(b)(4) motion attacking a void judgment must be made within a reasonable time. | Primary (CRS, search) |
 | *Hain Celestial Group v. Palmquist* (2026) | Diversity / removal | Erroneously dismissing a nondiverse defendant does not cure the jurisdictional defect; the judgment must be vacated. | Primary (CRS, search) |
 | *Chevron USA v. Plaquemines Parish* (2026) | Federal-officer removal | "Relating to" is satisfied by a plausible close relationship to federal duties; no strict causal nexus. | Secondary |
+| *The GEO Group v. Menocal* (2026) | Appellate jurisdiction (collateral order) | Denial of a government contractor's derivative sovereign-immunity defense is not immediately appealable under the collateral-order doctrine. | Secondary [VERIFY V-150] |
 
 ### October Terms 2022–2024 (model knowledge; verify before use [VERIFY V-035])
 - **Constitutional Law:**
