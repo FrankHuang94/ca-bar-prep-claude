@@ -261,7 +261,7 @@ status: draft
 **Example:** O deeds Blackacre "to A in fee simple, but A shall never sell it." The restraint is void; A owns Blackacre free of it.
 
 ### R-PRP-018 — Alienability, descendibility and devisability of interests
-**Rule (write this):** Present estates and vested future interests are freely transferable during life, devisable by will and descendible by intestacy. At modern law, contingent remainders and executory interests are also transferable, devisable and descendible, unless survival is a condition of the interest; possibilities of reverter and rights of entry are descendible and devisable and, in most states, transferable inter vivos.
+**Rule (write this):** Present estates and vested future interests are freely transferable during life, devisable by will and descendible by intestacy. At modern law, contingent remainders and executory interests are also transferable inter vivos and, unless survival is a condition of the interest, devisable and descendible; possibilities of reverter and rights of entry are descendible and devisable and, in most states, transferable inter vivos.
 
 **Elements:** 1. Identify the interest. 2. Ask whether it is conditioned on survival (if so, it ends with the holder's death). 3. Ask whether the jurisdiction limits inter vivos transfer of rights of entry.
 
@@ -1368,7 +1368,7 @@ status: draft
 ### R-PRP-099 — Foreclosure: types and acceleration
 **Rule (write this):** On default, the mortgagee may foreclose to sell the property and apply the proceeds to the debt. Judicial foreclosure, available everywhere, is a court action ending in a supervised sale; nonjudicial (power-of-sale) foreclosure, used with deeds of trust, is a private sale by the trustee after statutory notices; strict foreclosure (title vests in the lender without a sale) survives in only a few states. If the instrument has an acceleration clause, the lender may declare the entire debt due on default; without one, it may foreclose only for the overdue installments.
 
-**Elements:** 1. Default. 2. Acceleration (clause; notice; waiver by accepting late payments without notice). 3. Method of foreclosure and statutory notices. 4. Fair sale (inadequate price alone does not void a sale absent a gross inadequacy plus irregularity).
+**Elements:** 1. Default. 2. Acceleration (clause; notice; waiver by accepting late payments without notice). 3. Method of foreclosure and statutory notices. 4. Fair sale: a low price alone does not invalidate a regularly conducted sale. A court may set the sale aside if the price is so grossly inadequate that it shocks the conscience (Restatement (Third) of Property: Mortgages § 8.3(a): gross inadequacy alone suffices; cmt. b: generally a price below about 20% of fair market value [VERIFY V-675]), or if a substantially inadequate price is coupled with fraud, unfairness or an irregularity in the sale, even a slight one. California requires some unfairness or irregularity in addition to inadequacy of price [VERIFY V-675].
 
 **Exceptions / defenses:** California nonjudicial foreclosure requires a recorded notice of default, at least three months' wait, and a notice of sale before the trustee's sale (Civ. Code §§ 2924, 2924f), plus the reinstatement right in § 2924c.
 

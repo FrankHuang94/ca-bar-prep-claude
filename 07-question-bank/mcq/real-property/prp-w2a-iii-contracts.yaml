@@ -1,0 +1,412 @@
+questions:
+- id: Q-PRP-0071
+  subject: PRP
+  coverage_ids: [PRP-MBE-III.A]
+  rule_ids: [R-PRP-077]
+  difficulty: 1
+  stem: >-
+    Oona signed a written exclusive-right-to-sell listing agreement with Bayview Realty for her house, at a listing price
+    of $600,000 and a commission of 5% of the listing price. The agreement did not say when the commission would be
+    earned. Bayview found Pax, who offered to pay $600,000 in cash on the terms of the listing and had the money
+    available, and Oona and Pax signed a written contract of sale. Before the closing date, Oona's cousin offered her
+    $640,000, and Oona told Pax that she would not go through with the sale. Pax decided not to sue. Bayview sued Oona
+    for a $30,000 commission.
+  call: "Is Bayview likely to recover the commission?"
+  options:
+    A: "No, because a broker's commission is payable only out of the proceeds of a sale that closes."
+    B: "No, because Pax, the only party injured by Oona's breach of the sale contract, has chosen not to enforce it."
+    C: "Yes, because Bayview produced a ready, willing and able buyer, and Oona's refusal prevented the closing."
+    D: "Yes, but only for the reasonable value of Bayview's services, because the sale never closed."
+  answer: C
+  explanation_correct: >-
+    C is correct. Under the traditional rule, a listing broker earns its commission when it produces a buyer ready,
+    willing and able to buy on the seller's terms, even if the sale never closes (R-PRP-077). Bayview produced Pax, who
+    signed a contract at the full listing price and had the cash. A minority of courts make the commission depend on
+    closing, but even they award it when the seller's own wrongful act prevents the closing (R-PRP-077; Ellsworth
+    Dobbs, Inc. v. Johnson). Oona's refusal to perform for a better offer is such an act, so Bayview recovers under
+    either approach.
+  explanation_each_wrong_option:
+    A: >-
+      Overbroad. Even the minority closing-based rule excuses the closing condition when the seller wrongfully
+      prevents the closing, and the traditional rule requires no closing at all (R-PRP-077).
+    B: >-
+      The broker's claim rests on its own listing agreement with Oona. Whether Pax sues on the sale contract is
+      irrelevant to it (R-PRP-077).
+    D: >-
+      Quantum meruit is a fallback when no contractual commission has been earned. Bayview earned the agreed
+      commission by producing a qualifying buyer (R-PRP-077).
+  trap_type: overbroad
+  authority: ["Common law of agency: broker's commission", "Ellsworth Dobbs, Inc. v. Johnson, 50 N.J. 528, 236 A.2d 843 (1967)"]
+  source: original
+  tags: [wave2, W2-PRP, brokerage]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-PRP-0072
+  subject: PRP
+  coverage_ids: [PRP-MBE-III.B.2]
+  rule_ids: [R-PRP-079, R-CTR-019]
+  difficulty: 1
+  stem: >-
+    Vale and Wren both signed a writing that reads in full: "Vale agrees to sell, and Wren agrees to buy, Vale's 40-acre
+    tract known as Hilltop Farm, on Route 9 in Clay County, at a price to be agreed upon by the parties within 30 days,
+    with closing 60 days after the price is agreed." Vale owns only one tract called Hilltop Farm. The parties
+    negotiated for 30 days but never agreed on a price. Wren sued Vale for specific performance, asking the court to set
+    the price at the farm's fair market value as shown by an appraisal.
+  call: "Is Wren likely to obtain specific performance?"
+  options:
+    A: "Yes, because when the parties intend to be bound, a court will supply a reasonable price for land, as it would for goods."
+    B: "No, because the description of the land is too indefinite to identify the property."
+    C: "Yes, because both parties signed a writing that identifies the parties and describes the land."
+    D: "No, because price is an essential term, and a court will not supply a price that the parties left for future agreement."
+  answer: D
+  explanation_correct: >-
+    D is correct. A contract for the sale of land must contain, or allow the court to supply, the essential terms: the
+    parties, a description of the land and the price (R-PRP-079). A court may imply terms such as the time of payment
+    or the duty to convey marketable title, but it will not supply a missing price, and an agreement to agree on a
+    material term is traditionally unenforceable (R-PRP-079, R-CTR-019). The parties expressly left the price for
+    later agreement and never reached it.
+  explanation_each_wrong_option:
+    A: >-
+      This borrows the UCC's open-price rule, which applies to sales of goods (UCC § 2-305), not to land contracts
+      (R-CTR-019).
+    B: >-
+      Right result, wrong reason. The description is adequate: Vale owns only one tract by that name in that place, and
+      extrinsic evidence may identify it (R-PRP-078). The defect is the missing price.
+    C: >-
+      Signatures and a description satisfy part of the statute of frauds, but they cannot supply a missing essential
+      term (R-PRP-079).
+  trap_type: confused-rule
+  authority: ["Common law: essential terms of a land contract", "Restatement (Second) of Contracts § 33", "UCC § 2-305 (contrasted)"]
+  source: original
+  tags: [wave2, W2-PRP, essential-terms]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-PRP-0073
+  subject: PRP
+  coverage_ids: [PRP-MBE-III.B.1]
+  rule_ids: [R-PRP-078, R-CTR-043]
+  difficulty: 2
+  stem: >-
+    Paz signed and mailed to Quill a letter stating: "I offer to buy your vacant lot at 9 Ridge Road, Lane County, for
+    $180,000 cash, closing within 60 days." The next day Quill telephoned Paz and said, "I accept your offer." Quill
+    never signed anything. A week later Paz found a cheaper lot and told Quill that he would not go through with the
+    purchase. Quill, who was ready to convey, sued Paz for damages for breach of contract. Paz has raised the statute of
+    frauds as a defense.
+  call: "Is Paz's defense likely to succeed?"
+  options:
+    A: "Yes, because a contract for the sale of land must be signed by both parties."
+    B: "No, because the statute is satisfied by a writing that states the essential terms and is signed by the party against whom enforcement is sought."
+    C: "Yes, because Quill's acceptance was oral, so no writing shows that a contract was made."
+    D: "No, because Quill's readiness to convey was part performance that took the contract out of the statute."
+  answer: B
+  explanation_correct: >-
+    B is correct. A land contract is enforceable against a party who signed a writing that identifies the parties,
+    describes the land and states the price (R-PRP-078, R-CTR-043). Paz, the party to be charged, signed a letter
+    containing those terms. A signed written offer that the other party accepts satisfies the statute against the
+    signer (Restatement (Second) of Contracts § 131), so the oral acceptance formed an enforceable contract against
+    Paz. Quill's failure to sign matters only if Paz tries to enforce the contract against Quill.
+  explanation_each_wrong_option:
+    A: >-
+      The statute requires only the signature of the party against whom enforcement is sought; it does not require
+      both parties to sign (R-PRP-078).
+    C: >-
+      The writing need not record the acceptance. A signed offer stating the essential terms, once accepted, is enough
+      against the person who signed it (R-CTR-043; Restatement (Second) of Contracts § 131).
+    D: >-
+      Right result, wrong reason. Part performance consists of acts such as the buyer's possession, payment or
+      improvements, unequivocally referable to the contract, and it supports specific performance (R-PRP-078). A
+      seller's readiness to convey is not part performance.
+  trap_type: wrong-standard
+  authority: ["Statute of frauds (contracts for the sale of land)", "Restatement (Second) of Contracts § 131"]
+  source: original
+  tags: [wave2, W2-PRP, statute-of-frauds]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-PRP-0074
+  subject: PRP
+  coverage_ids: [PRP-MBE-III.B.3]
+  rule_ids: [R-PRP-079, R-PRP-081]
+  difficulty: 2
+  stem: >-
+    Sana contracted in writing to sell her house to Toby for $450,000, with closing set for August 15. The contract did
+    not say that time was of the essence. On July 20, Sana wrote Toby that she had "decided not to sell" and would not
+    attend the closing. Toby, who had a binding loan commitment and the rest of the price on deposit, did not appear at
+    the closing on August 15 or tender the price. The house was then worth $490,000. Toby sued Sana for damages, and
+    Sana defended on the ground that Toby never tendered payment.
+  call: "Is Toby likely to recover damages?"
+  options:
+    A: "Yes, because Sana's repudiation excused Toby from tendering, and Toby was ready, willing and able to perform."
+    B: "No, because the parties' duties at closing were concurrent conditions, and Toby did not tender his performance."
+    C: "No, because the only remedy for a seller's refusal to convey land is specific performance."
+    D: "No, because time was not of the essence, so Sana could still perform within a reasonable time after August 15."
+  answer: A
+  explanation_correct: >-
+    A is correct. The parties' performances at closing are concurrent conditions, so ordinarily a party must tender
+    its own performance to put the other in breach; but tender is excused when the other party has repudiated or tender
+    would be futile (R-PRP-079). Sana's July 20 letter was an unequivocal repudiation, and Toby, with financing in place,
+    was ready, willing and able to perform. He may recover benefit-of-the-bargain damages, the difference between the market value and the contract price ($490,000 − $450,000 = $40,000), plus incidental damages (R-PRP-081).
+  explanation_each_wrong_option:
+    B: >-
+      This states the general rule but ignores its exception: a repudiation excuses the other party's tender
+      (R-PRP-079).
+    C: >-
+      A buyer whose seller breaches may choose specific performance or damages (R-PRP-081).
+    D: >-
+      When time is not of the essence, a party who is ready to perform may close within a reasonable time after the
+      date; that rule does not help a party who has repudiated and never retracted (R-PRP-079).
+  trap_type: exception-trap
+  authority: ["Common law: concurrent conditions, tender and anticipatory repudiation in land contracts"]
+  source: original
+  tags: [wave2, W2-PRP, time-for-performance, tender]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-PRP-0075
+  subject: PRP
+  coverage_ids: [PRP-MBE-III.B.4]
+  rule_ids: [R-PRP-081, R-REM-071]
+  difficulty: 2
+  stem: >-
+    Uri contracted in writing to buy a commercial lot from Vin for $700,000. The contract contained no
+    liquidated-damages clause. Before closing, Uri's plans for the lot fell through, and he notified Vin that he would
+    not close. Vin tendered a deed at the scheduled closing, and Uri refused it. Vin sued Uri for specific performance,
+    asking the court to order Uri to pay $700,000 in exchange for the deed. Uri argues that Vin, who wants only money,
+    has an adequate remedy at law.
+  call: "Is the court likely to grant specific performance?"
+  options:
+    A: "No, because a seller's remedy is limited to damages measured by the contract price minus the market value at the time of breach."
+    B: "Yes, because courts generally allow a seller of land to obtain specific performance of the buyer's promise to pay the price."
+    C: "No, because a buyer may always withdraw from a land contract by forfeiting a reasonable deposit."
+    D: "Yes, but only if Vin first shows that he tried and failed to resell the lot to someone else."
+  answer: B
+  explanation_correct: >-
+    B is correct. Because every parcel of land is treated as unique, a buyer may obtain specific performance, and most
+    courts likewise allow a nonbreaching seller to compel the buyer to pay the price in exchange for the deed
+    (R-PRP-081, R-REM-071). Vin tendered the deed, so the court will likely order Uri to pay $700,000 and accept it. Vin
+    could instead seek damages, but he is not limited to them.
+  explanation_each_wrong_option:
+    A: >-
+      Contract price minus market value at breach is the correct measure of the seller's damages, but damages are an
+      alternative remedy, not the only one (R-PRP-081). A minority of courts deny sellers specific performance on the
+      ground that damages are adequate, but the general rule allows it (R-REM-071).
+    C: >-
+      There is no general right to walk away by forfeiting a deposit. A deposit limits the seller to that amount only
+      under a valid liquidated-damages clause, and this contract has none (R-PRP-081).
+    D: >-
+      A seller need not show a failed attempt to resell before obtaining specific performance; under the
+      general rule the remedy is available on the buyer's breach (R-PRP-081, R-REM-071).
+  trap_type: minority-rule
+  authority: ["Common law: vendor's specific performance", "Restatement (Second) of Contracts § 360"]
+  source: original
+  tags: [wave2, W2-PRP, remedies, specific-performance]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-PRP-0076
+  subject: PRP
+  coverage_ids: [PRP-MBE-III.C, PRP-MBE-IV.A.2]
+  rule_ids: [R-PRP-080, R-PRP-089]
+  difficulty: 3
+  stem: >-
+    In 2022 Rowan agreed to sell a cottage to Sela under a written installment land contract. Sela took possession and
+    agreed to pay the $240,000 price in monthly installments over 15 years; Rowan agreed to deliver a general warranty
+    deed conveying marketable title when Sela made the final payment. The contract did not mention any existing
+    encumbrance. In 2025 Sela learned from a title search that the cottage is subject to a $90,000 recorded mortgage
+    that Rowan gave a bank in 2019; Rowan is current on the mortgage payments. Sela stopped paying and sued to rescind
+    the contract and recover her payments, arguing that Rowan's title is unmarketable.
+  call: "Is Sela likely to prevail?"
+  options:
+    A: "Yes, because every land contract carries an implied covenant of marketable title, and a mortgage makes title unmarketable."
+    B: "Yes, because as the equitable owner, Sela may insist that the land be free of the seller's debts during the contract term."
+    C: "No, because Sela waived any objection to the title by taking possession under the contract."
+    D: "No, because under an installment contract title need be marketable only when the deed is due."
+  answer: D
+  explanation_correct: >-
+    D is correct. A land contract implies a promise to convey marketable title, but title must be marketable only when
+    the seller must convey: at closing, or, under an installment land contract, at the final payment (R-PRP-080,
+    R-PRP-089). A mortgage that the seller can pay off before then is not a present breach. Rowan has 12 more years
+    to clear the $90,000 mortgage, which he can do out of Sela's remaining payments, so Sela cannot rescind now; her
+    refusal to pay is itself a default.
+  explanation_each_wrong_option:
+    A: >-
+      The implied covenant and the encumbrance are both real, but the covenant speaks as of the time for conveyance,
+      not during the contract term (R-PRP-080).
+    B: >-
+      Equitable conversion makes the buyer the equitable owner, but it does not accelerate the time at which the seller
+      must deliver marketable title (R-PRP-080, R-PRP-082).
+    C: >-
+      Right result, wrong reason. Taking possession does not waive objections to title; Sela loses because the time for
+      marketable title has not arrived (R-PRP-080).
+  trap_type: missing-element
+  authority: ["Common law: marketable title under installment land contracts"]
+  source: original
+  tags: [wave2, W2-PRP, marketable-title, installment-contracts]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-PRP-0077
+  subject: PRP
+  coverage_ids: [PRP-MBE-III.D]
+  rule_ids: [R-PRP-082]
+  difficulty: 2
+  stem: >-
+    On May 1, Marta signed an enforceable written contract to sell her house to Nolan for $500,000, with closing on June
+    30. On June 10, Marta died. Her valid will left "all my real property to my son, Teo," and "all my personal property
+    to my daughter, Uma." Marta's executor completed the sale on June 30, and Nolan paid the $500,000. Teo and Uma each
+    claim the proceeds. No statute addresses the question.
+  call: "Who is entitled to the $500,000?"
+  options:
+    A: "Teo, because Marta still held legal title to the house when she died."
+    B: "Uma, because Marta's interest became personal property, the right to the price, when the contract was signed."
+    C: "Teo and Uma equally, because at Marta's death her estate held both the legal title to the house and the right to receive the price."
+    D: "Teo, because proceeds of a sale of land that closes after the owner's death take the place of the land."
+  answer: B
+  explanation_correct: >-
+    B is correct. Under equitable conversion, once an enforceable land contract is signed, the buyer becomes the
+    equitable owner, and the seller holds legal title only as security for the price. If the seller dies before
+    closing, her interest is treated as personal property (the right to the price), and the buyer's interest as real
+    property (R-PRP-082). Marta's right to the $500,000 therefore passed to Uma under the gift of personal property.
+    Teo took only bare legal title, which he held for the purpose of conveying to Nolan.
+  explanation_each_wrong_option:
+    A: >-
+      The legal title Marta kept was only security for the price; equitable conversion treats her interest as
+      personal property for purposes of succession (R-PRP-082).
+    C: >-
+      Equitable conversion assigns the whole of the seller's beneficial interest to the right to the price; nothing
+      supports splitting it between the two gifts (R-PRP-082).
+    D: >-
+      The conversion occurs when the enforceable contract is signed, not at closing, so the timing of the closing does
+      not turn the proceeds back into real property (R-PRP-082).
+  trap_type: confused-rule
+  authority: ["Common law: equitable conversion (death of a party before closing)"]
+  source: original
+  tags: [wave2, W2-PRP, equitable-conversion]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-PRP-0078
+  subject: PRP
+  coverage_ids: [PRP-MBE-III.E]
+  rule_ids: [R-PRP-083, R-CTR-008, R-CTR-015]
+  difficulty: 3
+  stem: >-
+    In exchange for $5,000, Grove signed and delivered to Haddad a written option to buy Grove's lot for $300,000,
+    "exercisable by written notice to Grove on or before June 30." The option said nothing about how notice was to be
+    sent. On June 28 Haddad mailed Grove a properly addressed letter stating that he exercised the option. The letter
+    reached Grove on July 2. Grove, who had meanwhile received a higher offer, refused to convey. Haddad sued for
+    specific performance.
+  call: "Is Haddad likely to prevail?"
+  options:
+    A: "Yes, because an acceptance sent by a reasonable means is effective when it is dispatched."
+    B: "Yes, because Grove received consideration for the option and therefore could not revoke it before June 30."
+    C: "No, because mail was not an authorized means of giving written notice of exercise."
+    D: "No, because the exercise of an option is effective only when the optionor receives it, and Grove received the notice after the deadline."
+  answer: D
+  explanation_correct: >-
+    D is correct. An option must be exercised strictly in accordance with its terms and within its time (R-PRP-083),
+    and an acceptance under an option contract takes effect only when the optionor receives it, unless the option
+    provides otherwise (R-CTR-008, R-CTR-015; Restatement (Second) of Contracts § 63(b)). Haddad's notice reached
+    Grove on July 2, after the June 30 deadline, so the option had expired and no contract of sale was formed.
+  explanation_each_wrong_option:
+    A: >-
+      The mailbox (dispatch) rule does not apply to the exercise of an option; acceptance under an option is effective
+      on receipt (R-CTR-015).
+    B: >-
+      The option was irrevocable until June 30, but irrevocability does not extend the deadline for exercising it
+      (R-CTR-008, R-PRP-083).
+    C: >-
+      Right result, wrong reason. Mail was a reasonable means of giving written notice; the notice failed because it
+      arrived too late (R-CTR-015).
+  trap_type: exception-trap
+  authority: ["Restatement (Second) of Contracts § 63(b)", "Common law: strict exercise of options"]
+  source: original
+  tags: [wave2, W2-PRP, options]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-PRP-0079
+  subject: PRP
+  coverage_ids: [PRP-MBE-III.F]
+  rule_ids: [R-PRP-084, R-PRP-085]
+  difficulty: 2
+  stem: >-
+    Isla listed her 40-year-old house for sale. A large, plainly visible water stain covered much of the living-room
+    ceiling, and buckets sat on the attic floor under several roof leaks; Isla did nothing to hide either. Jamal toured
+    the house twice and saw the stain, but he chose not to hire an inspector or to look in the attic, which was
+    reachable by a pull-down ladder in the hallway. Isla made no statements about the roof. The contract provided that
+    Jamal bought the house "as is." After closing, Jamal learned that the roof must be replaced at a cost of $30,000. He
+    sued Isla for failing to disclose the leaking roof.
+  call: "Is Jamal likely to recover?"
+  options:
+    A: "No, because the defect was patent, and Isla neither misrepresented nor concealed it."
+    B: "Yes, because a seller who knows of a material defect in a house must disclose it to the buyer."
+    C: "Yes, because a seller of a residence impliedly warrants that it is fit for habitation."
+    D: "No, because the 'as is' clause bars any claim based on the condition of the property."
+  answer: A
+  explanation_correct: >-
+    A is correct. A seller of a used house gives no implied warranty of quality, but is liable for misrepresentation,
+    active concealment, and, under the modern majority rule, failure to disclose known material latent defects that
+    the buyer could not discover by reasonable inspection (R-PRP-084). The leaking roof was not latent: the ceiling
+    stain was plainly visible, and the buckets were in an easily reached attic. Isla made no statements and hid
+    nothing, so she has no liability for nondisclosure.
+  explanation_each_wrong_option:
+    B: >-
+      Overbroad. The disclosure duty covers known material defects that are latent, meaning not reasonably
+      discoverable by the buyer; it does not cover defects that an ordinary inspection would reveal (R-PRP-084).
+    C: >-
+      The implied warranty of habitability in a sale runs from a builder-vendor of a new home (R-PRP-085), not from the
+      seller of a 40-year-old house.
+    D: >-
+      Right result, wrong reason. A general "as is" clause does not protect a seller from liability for fraud or for
+      concealing known latent defects (R-PRP-084). Isla wins because the defect was patent and she did nothing
+      wrongful.
+  trap_type: right-result-wrong-reason
+  authority: ["Johnson v. Davis, 480 So. 2d 625 (Fla. 1985)", "Common law: caveat emptor and its limits for used property"]
+  source: original
+  tags: [wave2, W2-PRP, disclosure, fitness]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-PRP-0080
+  subject: PRP
+  coverage_ids: [PRP-MBE-III.G]
+  rule_ids: [R-PRP-086, R-PRP-111]
+  difficulty: 1
+  stem: >-
+    Kemp contracted to sell his rural house to Lila. The contract required Kemp to convey "good and marketable title by
+    general warranty deed" and also provided: "Before closing, Seller will replace the existing septic system with a
+    new system that meets county code." Kemp did not replace the system before closing, but at the closing he told Lila
+    that his contractor would finish the work within a month. Lila accepted the deed and paid the price. Kemp never had
+    the work done. The contract says nothing about whether any of its terms survive closing. Lila sued Kemp for breach
+    of contract, and Kemp argued that the contract merged into the deed.
+  call: "Is Lila likely to recover?"
+  options:
+    A: "No, because on acceptance of the deed every promise in the land-sale contract merged into the deed."
+    B: "No, because Lila accepted the deed knowing the work had not been done, and so waived the promise."
+    C: "Yes, because the septic promise is collateral to the conveyance of title, so it survived closing."
+    D: "Yes, but only through the covenants of title in the general warranty deed."
+  answer: C
+  explanation_correct: >-
+    C is correct. When the buyer accepts the deed, the contract's promises about title merge into the deed, but
+    promises collateral to the conveyance, such as promises to make repairs or improvements, survive closing
+    (R-PRP-086). Kemp's promise to replace the septic system concerns the condition of the property, not title, so
+    Lila may sue on the contract.
+  explanation_each_wrong_option:
+    A: >-
+      Overbroad. Merger reaches only promises about title; collateral promises, fraud and mistake claims, and terms
+      the parties agreed would survive are not merged (R-PRP-086).
+    B: >-
+      Lila accepted the deed in reliance on Kemp's assurance that the work would be finished; nothing shows that she
+      intended to give up the promise.
+    D: >-
+      Deed covenants protect title (seisin, encumbrances, warranty and quiet enjoyment); they say nothing about the
+      septic system (R-PRP-111). Lila's claim is on the surviving contract promise.
+  trap_type: overbroad
+  authority: ["Common law: merger of the contract into the deed; collateral promises survive"]
+  source: original
+  tags: [wave2, W2-PRP, merger]
+  status: draft
+  last_verified: 2026-11-04

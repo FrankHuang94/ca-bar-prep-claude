@@ -1,0 +1,442 @@
+questions:
+- id: Q-PRP-0091
+  subject: PRP
+  coverage_ids: [PRP-MBE-V.B.3]
+  rule_ids: [R-PRP-109, R-REM-075, R-PRP-086, R-PRP-117]
+  difficulty: 3
+  stem: >-
+    Sid owned two lots on Bay Road, Lot 7 and Lot 17. In 2018 he signed a written contract to sell Lot 7 to Rae for
+    $150,000. Sid's attorney prepared the deed but, by a typing error, described the land as "Lot 17." Neither Sid nor
+    Rae noticed the error. At the closing Sid signed and delivered the deed, Rae paid the price and recorded the deed,
+    and Rae took possession of Lot 7, where she built a fence and planted an orchard. In 2025 Sid died, leaving a will
+    that devised "all my real property" to his nephew, Ned. Ned learned of the error, claimed that Lot 7 belonged to
+    him, and offered to let Rae keep Lot 17. Rae sued to reform her deed to describe Lot 7.
+  call: "Is Rae likely to prevail?"
+  options:
+    A: "No, because the deed unambiguously describes Lot 17, and the parol evidence rule bars evidence of a different agreement."
+    B: "No, because the land-sale contract merged into the deed when Rae accepted it."
+    C: "Yes, and Rae owns both lots, because the deed conveyed Lot 17 and her possession gave her title to Lot 7."
+    D: "Yes, because a mutual mistake kept the deed from expressing the parties' actual agreement, and Ned is not a bona fide purchaser."
+  answer: D
+  explanation_correct: >-
+    D is correct. Reformation rewrites an instrument to express the agreement the parties actually made when, because
+    of a mutual mistake in expression, the writing departs from it; the claimant must prove the prior agreement,
+    usually by clear and convincing evidence, and the parol evidence rule and statute of frauds do not bar the remedy
+    (R-REM-075). The signed contract for Lot 7 and Rae's possession of Lot 7 since closing are strong proof that both
+    parties meant Lot 7 and that the description in the deed was a drafting error (R-PRP-109). Reformation is barred
+    only against a bona fide purchaser who relied on the writing; Ned is a devisee who gave no value, so he is not
+    protected (R-PRP-117, R-REM-075).
+  explanation_each_wrong_option:
+    A: >-
+      The parol evidence rule does not bar evidence offered to prove that a writing fails, through mutual mistake, to
+      state the parties' agreement; that is the point of reformation (R-REM-075).
+    B: >-
+      Merger has an exception for fraud and mistake (R-PRP-086). The merger doctrine does not freeze a description that
+      both parties got wrong.
+    C: >-
+      Reformation substitutes Lot 7 for Lot 17; it does not let Rae keep land that no one agreed to sell. Nothing
+      suggests that her possession of Lot 7 since 2018 has ripened into title by adverse possession, and she needs no
+      such title once the deed is reformed (R-REM-075).
+  trap_type: confused-rule
+  authority: ["Restatement (Second) of Contracts § 155", "Common law: reformation of deeds for mutual mistake; merger exception for mistake"]
+  source: original
+  tags: [wave2, W2-PRP, deeds, reformation, closing-documents]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-PRP-0092
+  subject: PRP
+  coverage_ids: [PRP-MBE-V.B.4]
+  rule_ids: [R-PRP-114, R-PRP-019, R-PRP-116]
+  difficulty: 1
+  stem: >-
+    Clara, Cal and Celia inherited a 90-acre farm from their father as tenants in common, each with a one-third
+    interest. Without telling his sisters, Cal signed and delivered to Dina a general warranty deed purporting to convey
+    "the entire 90-acre farm" for $300,000, the farm's full market value. Dina, who believed that Cal was the sole
+    owner, recorded the deed and then demanded that Clara and Celia leave the farmhouse, where they live.
+  call: "What interest did Dina acquire?"
+  options:
+    A: "An undivided one-third interest, as a tenant in common with Clara and Celia."
+    B: "The entire farm, because she was a bona fide purchaser for value who recorded her deed."
+    C: "Nothing, because a cotenant cannot convey an interest in the common property without the other cotenants' consent."
+    D: "An undivided one-third interest, as a joint tenant with Clara and Celia."
+  answer: A
+  explanation_correct: >-
+    A is correct. Only the owner, or someone with authority from the owner, can convey an interest in land, and one
+    cotenant can convey only her own share (R-PRP-114). A tenant in common's share is freely transferable without the
+    other cotenants' consent (R-PRP-019), so Cal's deed passed his undivided one-third, and Dina became a tenant in
+    common with Clara and Celia, each with an equal right to possess the whole farm. Dina's remedy for the other
+    two-thirds is against Cal on the covenants in his warranty deed (R-PRP-111).
+  explanation_each_wrong_option:
+    B: >-
+      The recording acts protect a purchaser against earlier unrecorded conveyances by the same grantor; they do not
+      give a purchaser title that her grantor never had (R-PRP-116). Clara's and Celia's shares came from their father,
+      not from Cal.
+    C: >-
+      Overbroad. A tenant in common may convey her own undivided share without the others' consent (R-PRP-019); what
+      she cannot do is convey their shares.
+    D: >-
+      A joint tenancy requires the four unities and an express intent to create one (R-PRP-020). Dina acquired her
+      share at a different time and by a different instrument, so she holds as a tenant in common.
+  trap_type: overbroad
+  authority: ["Common law: a cotenant conveys only her own share", "Common law: tenancy in common"]
+  source: original
+  tags: [wave2, W2-PRP, deeds, authority-to-convey, cotenancy]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-PRP-0093
+  subject: PRP
+  coverage_ids: [PRP-MBE-V.C]
+  rule_ids: [R-PRP-115, R-WIL-062, R-WIL-063]
+  difficulty: 2
+  stem: >-
+    Tamsin's valid will provides: "I give Blackacre to my friend Gail. I give Whiteacre to my niece Nora. I give the
+    residue of my estate to my husband, Hal." Nora is the daughter of Tamsin's sister; Gail is not related to Tamsin. Gail and Nora both died before Tamsin. Gail was survived by her son, Gus,
+    and Nora by her daughter, Pia. Tamsin then died, survived by Hal, Gus and Pia. A statute in the jurisdiction
+    provides: "If a devisee who is a grandparent or a descendant of a grandparent of the testator fails to survive the
+    testator, the devisee's descendants who survive the testator take the property in place of the devisee." The will
+    contains no other relevant provision.
+  call: "Who takes Blackacre and Whiteacre?"
+  options:
+    A: "Gus takes Blackacre, and Pia takes Whiteacre."
+    B: "Hal takes Blackacre, and Pia takes Whiteacre."
+    C: "Hal takes both Blackacre and Whiteacre."
+    D: "Gus takes Blackacre, and Hal takes Whiteacre."
+  answer: B
+  explanation_correct: >-
+    B is correct. Land passes at death under the will, subject to the rules of lapse and anti-lapse (R-PRP-115). A
+    devisee who fails to survive the testator takes nothing; the gift lapses and, if it is not a residuary gift, falls
+    into the residue unless an anti-lapse statute applies (R-WIL-062). The statute quoted covers only devisees who are
+    grandparents of the testator or descendants of a grandparent. Nora, the daughter of Tamsin's sister, is a descendant of
+    Tamsin's grandparents, so Nora's surviving daughter, Pia, takes Whiteacre (R-WIL-063). Gail, a friend, is not covered, so
+    the gift of Blackacre lapses into the residue, which goes to Hal.
+  explanation_each_wrong_option:
+    A: >-
+      This applies the anti-lapse statute to Gail, who is Tamsin's friend, not a descendant of Tamsin's grandparent.
+      Gail's gift lapses into the residue (R-WIL-062).
+    C: >-
+      This ignores the anti-lapse statute, which substitutes Nora's descendant, Pia, for Nora (R-WIL-063).
+    D: >-
+      This reverses the two gifts: the statute saves the gift to the niece, not the gift to the friend (R-WIL-062,
+      R-WIL-063).
+  trap_type: fact-misread
+  authority: ["Anti-lapse statute quoted in the stem", "Common law: lapse of devises"]
+  source: original
+  tags: [wave2, W2-PRP, transfer-by-will, lapse]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-PRP-0094
+  subject: PRP
+  coverage_ids: [PRP-MBE-V.A]
+  rule_ids: [R-PRP-107, R-PRP-105]
+  difficulty: 3
+  stem: >-
+    A statute in the jurisdiction provides: "An action to recover possession of real property must be brought within ten
+    years after the cause of action accrues. If, when the cause of action accrues, the person entitled to bring it is a
+    minor or has been adjudged mentally incompetent, the action may be brought within five years after the disability
+    ends, even if the ten-year period has expired." In 2010 Ada entered Owen's vacant lot, fenced it and began farming
+    it, openly and without permission, claiming it as her own. Owen was then a competent adult. In 2014 Owen was adjudged
+    mentally incompetent, and a guardian was appointed for him. In 2016 Ada signed and delivered to Bo a quitclaim deed
+    to "all my rights in the lot," and Bo immediately took over the farming, which he has continued in the same way. In
+    2021 Owen's guardian sued Bo to recover the lot.
+  call: "Who is likely to prevail?"
+  options:
+    A: "Owen, because he was adjudged incompetent before the ten-year period expired, so the period was extended."
+    B: "Owen, because Bo has possessed the lot for only five years, and a quitclaim deed from an adverse possessor conveys nothing."
+    C: "Bo, because the ten-year period ended in 2020 when Ada's possession is tacked to his, and Owen's later incompetency did not stop it."
+    D: "Bo, because Owen's guardian failed to sue within five years after Owen was adjudged incompetent."
+  answer: C
+  explanation_correct: >-
+    C is correct. The period began in 2010, when Ada entered and Owen's cause of action accrued. Successive adverse
+    possessors may tack their periods when they are in privity, meaning possession passed by a voluntary transfer such
+    as a deed, even a quitclaim (R-PRP-107). Ada's possession (2010 to 2016) and Bo's (2016 on) add up to ten years in
+    2020. A disability stops the statute only if it exists when the cause of action accrues; a disability arising
+    later does not stop the clock (R-PRP-107), and the statute quoted applies only to disabilities existing at
+    accrual. Bo acquired title in 2020, and the 2021 suit is too late.
+  explanation_each_wrong_option:
+    A: >-
+      The statute extends the time only for a person who was a minor or incompetent when the cause of action accrued.
+      Owen was competent in 2010 (R-PRP-107).
+    B: >-
+      Bo need not possess for ten years himself; he may tack Ada's possession because she transferred it to him
+      voluntarily. A quitclaim deed transfers whatever the grantor has, including her possessory rights, which creates
+      privity (R-PRP-107).
+    D: >-
+      Right result, wrong reason. The five-year grace period runs from the end of a disability that existed at accrual;
+      Owen's disability arose later and has not ended, so the grace provision has nothing to do with the outcome
+      (R-PRP-107).
+  trap_type: exception-trap
+  authority: ["Statute of limitations quoted in the stem", "Common law: tacking and disabilities in adverse possession"]
+  source: original
+  tags: [wave2, W2-PRP, adverse-possession, tacking, disabilities]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-PRP-0095
+  subject: PRP
+  coverage_ids: [PRP-MBE-V.B.1]
+  rule_ids: [R-PRP-110, R-PRP-117]
+  difficulty: 3
+  stem: >-
+    In 2019 Gwen signed a deed conveying her lake cabin to her daughter, Hope, and handed it to her attorney with signed
+    written instructions: "Hold this deed and deliver it to Hope when I die. I give up all right to get it back." Gwen
+    kept living in the cabin. In 2023, after a quarrel with Hope, Gwen signed and delivered a deed giving the cabin to
+    her friend Ivan as a gift. Ivan knew of the deed held by the attorney, and he recorded his deed at once. Gwen died
+    in 2025, and the attorney delivered the 2019 deed to Hope, who recorded it. The jurisdiction's recording act
+    provides: "No conveyance of real property is good against a subsequent purchaser for value and without notice,
+    unless it is recorded."
+  call: "Who owns the cabin?"
+  options:
+    A: "Ivan, because Gwen's deed to Hope was not delivered until Gwen's death, after Gwen had conveyed the cabin to Ivan."
+    B: "Ivan, because he recorded his deed before Hope recorded hers."
+    C: "Gwen's estate, because a deed that is to take effect at the grantor's death is an invalid attempt to make a will."
+    D: "Hope, because Gwen's deposit of the deed with the attorney, giving up all power to recall it, was a valid delivery."
+  answer: D
+  explanation_correct: >-
+    D is correct. A deed is delivered when the grantor shows an intent that it be presently effective, even if the
+    grantee's possession is postponed; a deed handed to a third party with instructions to deliver it at the grantor's
+    death is validly delivered if the grantor gives up all power to recall it (R-PRP-110). Gwen's 2019 deposit was
+    therefore a delivery: Hope then received a future interest, and Gwen kept only the right to possess for life. In
+    2023 Gwen could convey to Ivan no more than that life estate, which ended at her death. The recording act does not
+    help Ivan: it protects only purchasers for value without notice, and Ivan was a donee who knew of Hope's deed
+    (R-PRP-117).
+  explanation_each_wrong_option:
+    A: >-
+      Delivery occurred in 2019, when Gwen irrevocably parted with the deed; the attorney's handing it to Hope in 2025
+      only completed the transaction (R-PRP-110).
+    B: >-
+      This is a notice statute, under which recording first does not matter; and the act protects only purchasers for
+      value without notice, while Ivan was a donee with notice (R-PRP-116, R-PRP-117).
+    C: >-
+      A death escrow in which the grantor gives up all control passes a present future interest; it is not a
+      testamentary transfer that must satisfy the formalities of a will (R-PRP-110).
+  trap_type: wrong-standard
+  authority: ["Common law: delivery of deeds; death escrows", "Recording act quoted in the stem"]
+  source: original
+  tags: [wave2, W2-PRP, deeds, delivery, escrow]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-PRP-0096
+  subject: PRP
+  coverage_ids: [PRP-MBE-V.B.2]
+  rule_ids: [R-PRP-111]
+  difficulty: 3
+  stem: >-
+    In 2015 Grace conveyed a house to Hugo by a general warranty deed for $200,000. Unknown to both of them, the house
+    was subject to a recorded mortgage given by Grace's predecessor in title, Fenwick, which had never been paid off or
+    released. In 2019 Hugo conveyed the house to Iris by a general warranty deed for $260,000. In 2024 the mortgagee
+    foreclosed Fenwick's mortgage, joining Iris, and Iris lost the house at the foreclosure sale, which produced no
+    surplus. Iris sued Grace for breach of the covenant of warranty in Grace's 2015 deed. No statute of limitations has
+    run, and no statute modifies the common law of deed covenants.
+  call: "What, if anything, may Iris recover from Grace?"
+  options:
+    A: "Nothing, because the covenant against encumbrances was breached when Grace delivered the deed to Hugo and did not pass to Iris."
+    B: "Nothing, because Iris did not buy the house from Grace and has no contract with her."
+    C: "Up to $260,000, the price Iris paid for the house."
+    D: "Up to $200,000, the price Grace received for the house, plus interest."
+  answer: D
+  explanation_correct: >-
+    D is correct. The covenants of warranty and quiet enjoyment are future covenants: they are breached only when the
+    grantee is actually or constructively evicted by someone with paramount title, and they run with the land to
+    remote grantees (R-PRP-111). Iris lost the house to the foreclosure of a mortgage older than Grace's deed, which is
+    an eviction by paramount title, so she may sue Grace, a remote covenantor. Damages are usually limited to the
+    consideration the covenantor received, plus interest (R-PRP-111), so Iris may recover up to $200,000 from Grace.
+    She may look to Hugo, her own grantor, for the rest of her $260,000 price.
+  explanation_each_wrong_option:
+    A: >-
+      True but irrelevant. The covenant against encumbrances is a present covenant, breached at delivery, and under the
+      majority view it does not run to remote grantees, but Iris sues on the covenant of warranty, a future covenant
+      that does run (R-PRP-111).
+    B: >-
+      Future covenants run with the land; a remote grantee in privity of estate may sue the original covenantor without
+      any contract with her (R-PRP-111).
+    C: >-
+      A covenantor's liability is generally capped at the consideration she received. Iris's full $260,000 price is the
+      measure against Hugo, not against Grace (R-PRP-111).
+  trap_type: true-but-irrelevant
+  authority: ["Common law: covenants of title in a general warranty deed; running of future covenants; measure of damages"]
+  source: original
+  tags: [wave2, W2-PRP, deeds, covenants-of-title]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-PRP-0097
+  subject: PRP
+  coverage_ids: [PRP-MBE-V.D.1]
+  rule_ids: [R-PRP-117, R-PRP-116, R-PRP-067]
+  difficulty: 3
+  stem: >-
+    The jurisdiction's recording act provides: "No conveyance of real property is good against a subsequent purchaser
+    for value and without notice who first records." In 2005 Pell, who owned a wooded parcel, signed and delivered to
+    his neighbor Quinn a written grant of an easement to use a lane across the parcel to reach a lake from Quinn's land.
+    Quinn never recorded the grant. In 2012 Pell sold the parcel to Osborne by a deed, promptly recorded, that conveyed
+    it "subject to a right of way for access to the lake granted to Quinn by instrument dated May 1, 2005." Quinn uses
+    the lane only in summer. In 2025 Rhoda inspected the parcel in winter and saw no sign of the lane's use. She paid
+    Osborne fair value for the parcel, received a deed that did not mention the right of way, and recorded it at once.
+    Her title examiner had found the Pell-to-Osborne deed but did not read it in full. The next summer, Rhoda blocked
+    the lane.
+  call: "Is Quinn entitled to continue using the lane?"
+  options:
+    A: "No, because Quinn never recorded the grant of his easement, and Rhoda recorded her deed first."
+    B: "No, because no use of the lane was visible when Rhoda inspected the parcel."
+    C: "Yes, because the reference to Quinn's right of way in a recorded deed in Rhoda's chain of title gave her notice of it."
+    D: "Yes, because an easement appurtenant runs with the land whether or not the person who acquires the servient land has notice of it."
+  answer: C
+  explanation_correct: >-
+    C is correct. Under a race-notice act, a later purchaser prevails over an earlier unrecorded interest only if she
+    took without notice and recorded first (R-PRP-116). Notice includes record notice of instruments in the chain of
+    title and inquiry notice from a reference in a recorded document to an unrecorded one (R-PRP-117). The recorded
+    Pell-to-Osborne deed, part of Rhoda's chain of title, expressly referred to Quinn's right of way; she is charged with
+    what that deed says and with what a reasonable inquiry would have revealed, whether or not her examiner read it.
+    Rhoda is therefore not a purchaser without notice, and the easement's burden binds her as a successor to the
+    servient land (R-PRP-067).
+  explanation_each_wrong_option:
+    A: >-
+      Recording first is not enough under a race-notice act; the later purchaser must also be without notice
+      (R-PRP-116). Rhoda had record and inquiry notice from the recorded reference.
+    B: >-
+      The lack of visible use means only that Rhoda had no inquiry notice from inspecting the land. The reference in the
+      recorded deed gave her notice independently (R-PRP-117).
+    D: >-
+      Overbroad. The burden of an easement binds a successor to the servient land who takes with notice; an
+      unrecorded easement does not bind a protected purchaser without notice (R-PRP-067).
+  trap_type: missing-element
+  authority: ["Recording act quoted in the stem", "Common law: record and inquiry notice from references in recorded instruments"]
+  source: original
+  tags: [wave2, W2-PRP, recording-acts, inquiry-notice]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-PRP-0098
+  subject: PRP
+  coverage_ids: [PRP-MBE-V.D.2]
+  rule_ids: [R-PRP-120, R-PRP-080]
+  difficulty: 2
+  stem: >-
+    In 2023 Bea bought a house and obtained an owner's title insurance policy. The policy excludes from coverage "any
+    law, ordinance or governmental regulation, including zoning, restricting or regulating the use or occupancy of the
+    land or the location of any improvement on it, unless notice of a violation has been recorded in the public records
+    at the date of the policy." In 2025 the city notified Bea that a garage built by a prior owner extends three feet
+    into a setback required by the zoning ordinance and must be cut back, at a cost of $25,000. No notice of the
+    violation had ever been recorded. Bea filed a claim under her policy, and the insurer denied it.
+  call: "Is the insurer liable to Bea?"
+  options:
+    A: "No, because the loss falls within the policy's exclusion for governmental regulation, including zoning."
+    B: "Yes, because an existing zoning violation makes title unmarketable, and a title policy insures marketability."
+    C: "Yes, because the insurer should have discovered the violation before issuing the policy."
+    D: "No, because the city did not notify Bea of the violation until after the date of the policy."
+  answer: A
+  explanation_correct: >-
+    A is correct. Title insurance is a contract of indemnity, and its coverage is defined by the insuring clauses and
+    the exclusions; standard policies exclude governmental regulations such as zoning (R-PRP-120). This policy excludes
+    zoning violations unless notice of the violation was recorded at the policy date, and none was. The garage's
+    setback violation is squarely within the exclusion, so the insurer is not liable.
+  explanation_each_wrong_option:
+    B: >-
+      An existing zoning violation does make title unmarketable for purposes of a land-sale contract (R-PRP-080), but a
+      title policy's coverage is fixed by its terms, and this exclusion removes zoning matters from coverage
+      (R-PRP-120).
+    C: >-
+      The insurer's liability is contractual, and a zoning violation not shown in the public records is outside what a
+      title search covers; the exclusion governs (R-PRP-120).
+    D: >-
+      Right result, wrong reason. A title policy covers covered defects existing at the policy date even if they are
+      discovered later. The claim fails because of the zoning exclusion, not because of when Bea learned of the
+      violation (R-PRP-120).
+  trap_type: confused-rule
+  authority: ["Title insurance policy terms (governmental-regulation exclusion)"]
+  source: original
+  tags: [wave2, W2-PRP, title-insurance]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-PRP-0099
+  subject: PRP
+  coverage_ids: [PRP-MBE-V.E]
+  rule_ids: [R-PRP-121, R-REM-074, R-PRP-116]
+  difficulty: 2
+  stem: >-
+    Rory signed a written contract to buy Sol's ranch for $1,200,000. Before the closing, Sol received a higher offer and
+    refused to convey. Rory sued Sol for specific performance and, on the day he filed suit, recorded a notice of the
+    pendency of the action (lis pendens) in the county where the ranch lies. Two weeks later, Sol sold and conveyed the
+    ranch to Tia for $1,350,000. Tia did not search the land records, had no actual knowledge of Rory's contract or
+    lawsuit, and recorded her deed at once. The court later held that Rory was entitled to specific performance. The
+    jurisdiction's recording act provides: "No conveyance of real property is good against a subsequent purchaser for
+    value and without notice who first records."
+  call: "May the court order the ranch conveyed to Rory?"
+  options:
+    A: "No, because Tia paid value without actual knowledge of Rory's claim and recorded her deed first."
+    B: "Yes, because the recorded lis pendens gave Tia constructive notice of Rory's claim, so she took subject to the outcome of the suit."
+    C: "No, because once Sol conveyed the ranch, Rory's only remedy was damages against Sol."
+    D: "Yes, because a buyer under a land-sale contract becomes the owner of the land as soon as the contract is signed."
+  answer: B
+  explanation_correct: >-
+    B is correct. A recorded notice of a pending action affecting title to land (lis pendens) gives constructive notice
+    to later purchasers, who take subject to the judgment (R-PRP-121, R-REM-074). Tia bought two weeks after Rory
+    recorded the lis pendens, so she is charged with notice of his claim whether or not she searched. She is therefore
+    not a purchaser "without notice" under the race-notice act (R-PRP-116), and the court may order the ranch conveyed
+    to Rory on payment of the contract price.
+  explanation_each_wrong_option:
+    A: >-
+      Lack of actual knowledge is not enough; record notice from the recorded lis pendens defeats bona fide purchaser
+      status (R-PRP-121).
+    C: >-
+      A buyer loses specific performance only if the seller conveys to a bona fide purchaser without notice
+      (R-REM-074). Tia had constructive notice.
+    D: >-
+      Overstated. Equitable conversion gives the buyer an equitable interest, not legal title, and that interest can be
+      cut off by a bona fide purchaser without notice; the lis pendens is what protected Rory (R-PRP-082, R-REM-074).
+  trap_type: true-but-irrelevant
+  authority: ["Common law and lis pendens statutes: constructive notice of pending litigation affecting title", "Recording act quoted in the stem"]
+  source: original
+  tags: [wave2, W2-PRP, lis-pendens, notice]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-PRP-0100
+  subject: PRP
+  coverage_ids: [PRP-MBE-V.A]
+  rule_ids: [R-PRP-107, R-PRP-105]
+  difficulty: 2
+  stem: >-
+    In 2010 Vic paid Wes $150,000 for a deed describing "the 100-acre tract known as Cedar Hollow," which Vic promptly
+    recorded. Unknown to Vic, Wes had no title; the entire tract belonged to Xan, who lived abroad and never visited it.
+    Believing that he owned the whole tract, Vic built a cabin, cleared and fenced 15 acres around it, and has farmed
+    those 15 acres continuously since 2010. He has not used the other 85 wooded acres except for occasional walks, and
+    no one else has used any part of the tract. The statutory period for adverse possession is ten years, and the
+    jurisdiction does not require an adverse possessor to pay taxes. In 2025 Xan sued to eject Vic from the entire
+    tract.
+  call: "To how much of the tract has Vic acquired title?"
+  options:
+    A: "All 100 acres, because he actually possessed part of a single tract under a deed describing the whole, and Xan owned the whole."
+    B: "None of it, because Vic believed he owned the land, so his possession was not hostile."
+    C: "Only the 15 acres that he actually occupied and fenced."
+    D: "All 100 acres, because recording his deed gave Xan constructive notice of Vic's claim to the whole tract."
+  answer: A
+  explanation_correct: >-
+    A is correct. Vic's possession of the 15 acres was actual, open and notorious, exclusive, hostile and continuous for
+    more than ten years (R-PRP-105). Hostility is judged objectively, so his honest belief that he owned the land does
+    not matter (R-PRP-105). Because he entered under color of title, a deed that described the entire tract, his actual
+    possession of part of it gives him constructive possession of the whole parcel described, where, as here, the whole
+    tract belonged to one owner and no one else possessed any of it (R-PRP-107). Vic has acquired title to all 100 acres.
+  explanation_each_wrong_option:
+    B: >-
+      Under the majority objective test, the possessor's state of mind is irrelevant; possession without the owner's
+      permission is hostile (R-PRP-105).
+    C: >-
+      Without color of title, a possessor acquires only the land actually possessed. With a deed describing the whole
+      tract, actual possession of part extends constructively to the whole (R-PRP-107).
+    D: >-
+      Right result, wrong reason. Recording a deed does not substitute for open and notorious possession; the
+      recording acts give notice to later purchasers, not to the true owner, and a deed from a stranger to the title
+      would not even appear in a search of Xan's chain (R-PRP-118). Vic wins through constructive possession under
+      color of title.
+  trap_type: exception-trap
+  authority: ["Common law: adverse possession under color of title (constructive possession)"]
+  source: original
+  tags: [wave2, W2-PRP, adverse-possession, color-of-title]
+  status: draft
+  last_verified: 2026-11-04

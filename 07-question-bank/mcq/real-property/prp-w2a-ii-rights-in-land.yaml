@@ -1,0 +1,434 @@
+questions:
+- id: Q-PRP-0061
+  subject: PRP
+  coverage_ids: [PRP-MBE-II.A.3]
+  rule_ids: [R-PRP-055, R-PRP-052]
+  difficulty: 1
+  stem: >-
+    Before selling any lot, the developer of Linden Park, a 30-lot subdivision, recorded a declaration providing that
+    "each lot shall be used for private residential purposes only," that the restriction binds all owners and their
+    successors, and that any lot owner may enforce it. Nadia bought Lot 12 in 2022 knowing of the declaration. She
+    lives in the house on the lot. In 2025 she began operating a dog-boarding business there, keeping up to 12
+    customers' dogs at a time in a kennel in her backyard, advertising online and posting a sign at her driveway.
+    Customers drop off and pick up dogs throughout the day. Omar, who owns another lot in Linden Park, sued to enjoin
+    the business. Nadia argues that the lot is still her home and that restrictions on land use must be construed
+    narrowly.
+  call: "Is Omar likely to obtain the injunction?"
+  options:
+    A: "No, because Nadia still lives on the lot, so its use remains residential."
+    B: "No, because the declaration does not expressly prohibit businesses, and restrictions are construed in favor of the free use of land."
+    C: "Yes, but only if Omar proves that the business has reduced the market value of his lot."
+    D: "Yes, because a boarding business serving customers, with advertising and a sign, is not a private residential use."
+  answer: D
+  explanation_correct: >-
+    D is correct. A servitude is interpreted to carry out the intent shown by its words and purpose (R-PRP-055).
+    "Private residential purposes only" is violated by a use that changes the residential character of the lot, as
+    shown by customers, traffic, advertising and signs, even if the owner also lives there; only minor incidental uses,
+    such as a home office with no customers, are usually tolerated (R-PRP-055). The declaration was recorded before
+    the lots were sold, states that it binds successors, restricts the use of land and so touches and concerns it, and
+    Nadia had both actual and record notice, so it is enforceable as an equitable servitude by injunction at the suit
+    of any lot owner (R-PRP-052, R-PRP-055).
+  explanation_each_wrong_option:
+    A: >-
+      Living on the lot does not make an added commercial operation residential. The question is whether the use
+      changes the residential character, and a business open to paying customers does (R-PRP-055).
+    B: >-
+      The preference for free use of land resolves genuine ambiguity only. "Private residential purposes only" is not
+      ambiguous as applied to a commercial kennel, so no express business ban is needed (R-PRP-055).
+    C: >-
+      An equitable servitude is enforced by injunction on proof of the violation; the plaintiff need not show that
+      his lot has lost value (R-PRP-052, R-PRP-055).
+  trap_type: overbroad
+  authority: ["Common law: interpretation and enforcement of servitudes", "Tulk v. Moxhay (1848) 2 Ph. 774, 41 Eng. Rep. 1143"]
+  source: original
+  tags: [wave2, W2-PRP, servitudes, scope]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-PRP-0062
+  subject: PRP
+  coverage_ids: [PRP-MBE-II.B.1]
+  rule_ids: [R-PRP-060, R-PRP-076, R-PRP-064]
+  difficulty: 2
+  stem: >-
+    Since 1995 Pearl has owned a house whose large south-facing windows receive direct sunlight across the adjoining
+    vacant lot owned by Quentin. Pearl has enjoyed that light openly and continuously for 30 years, and Quentin never
+    objected. Neither owner has ever signed any agreement about light, air or view, and the two lots have never been
+    under common ownership. In 2025 Quentin began building a four-story apartment building, permitted by the zoning
+    code, that will block most of the sunlight. The prescriptive period in the jurisdiction is 15 years, and no statute
+    protects access to sunlight. Pearl sued to enjoin the construction, claiming an easement of light and air by
+    prescription.
+  call: "Is Pearl likely to prevail on her easement claim?"
+  options:
+    A: "No, because an easement of light and air is a negative easement that can be created only by an express grant."
+    B: "Yes, because her enjoyment of the light was open, notorious and continuous for longer than the prescriptive period."
+    C: "Yes, because an easement of light was implied from Pearl's long and apparent use of it."
+    D: "No, because a prescriptive easement requires use that excludes the owner, and Quentin could still use his lot."
+  answer: A
+  explanation_correct: >-
+    A is correct. A right to stop a neighbor from building so as to block light and air is a negative easement, and
+    negative easements are traditionally created only by express grant (R-PRP-060). A landowner has no natural right
+    to light, air or view across a neighbor's land, and in most states such a right cannot be acquired by prescription
+    or implication (R-PRP-076; Fontainebleau Hotel Corp. v. Forty-Five Twenty-Five, Inc.). Prescription rests on an
+    adverse use of the servient land (R-PRP-064); receiving light through one's own windows does not enter or use
+    Quentin's lot, so Quentin had nothing to interrupt or sue over, and Pearl's enjoyment never became adverse.
+  explanation_each_wrong_option:
+    B: >-
+      Open and continuous enjoyment is not enough; prescription requires adverse use of the servient land
+      (R-PRP-064). Enjoying light that crosses a vacant lot is not a use of that lot, and light easements are not
+      acquired by prescription (R-PRP-076).
+    C: >-
+      An easement implied from prior use requires that both parcels once had a common owner (R-PRP-062), and these
+      lots never did. Courts also do not imply easements of light and air (R-PRP-076).
+    D: >-
+      Right result, wrong reason. Exclusive use is an element of adverse possession, not of a prescriptive easement
+      (R-PRP-064). Pearl loses because a light easement must be express.
+  trap_type: missing-element
+  authority: ["Common law: negative easements; no prescriptive easement of light and air", "Fontainebleau Hotel Corp. v. Forty-Five Twenty-Five, Inc., 114 So. 2d 357 (Fla. Dist. Ct. App. 1959)"]
+  source: original
+  tags: [wave2, W2-PRP, easements, negative-easements]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-PRP-0063
+  subject: PRP
+  coverage_ids: [PRP-MBE-II.B.4]
+  rule_ids: [R-PRP-067, R-PRP-060]
+  difficulty: 1
+  stem: >-
+    In 1998 Farrow, who owned a 300-acre farm, signed and delivered to Midland Gas Co. a deed granting "Midland Gas
+    Co., its successors and assigns, a right of way to lay, maintain and operate an underground natural gas pipeline"
+    along a described strip of the farm. Midland owned no land in the area. The deed was promptly recorded, and Midland
+    installed the pipeline and has operated it ever since. In 2015 Farrow sold the farm to Gwen, whose title report
+    listed the right of way. In 2025 Midland sold its regional pipeline system to Prairie Pipeline LLC and assigned all
+    of its easements to Prairie. When Prairie's crew arrived to inspect the line, Gwen refused to let them enter,
+    asserting that the right of way was personal to Midland.
+  call: "Is Prairie entitled to use the right of way?"
+  options:
+    A: "No, because an easement in gross is personal to its original holder and cannot be assigned."
+    B: "Yes, because the easement is appurtenant and passes automatically with any transfer of the land it serves."
+    C: "No, because Gwen did not consent to the assignment, and an easement binds only the servient owner who granted it."
+    D: "Yes, because a commercial easement in gross is assignable, and Gwen took the farm with notice of it."
+  answer: D
+  explanation_correct: >-
+    D is correct. The right of way benefits Midland's business, not any parcel of land Midland owns, so it is an
+    easement in gross (R-PRP-060). Commercial easements in gross, such as utility and pipeline easements, are
+    transferable, and this grant ran expressly to Midland's "successors and assigns" (R-PRP-067). The burden of an
+    easement runs with the servient land to a successor who takes with notice (R-PRP-067); the easement was recorded
+    and appeared in Gwen's title report. Prairie therefore holds the easement and may use it.
+  explanation_each_wrong_option:
+    A: >-
+      Overbroad. Only personal (noncommercial) easements in gross are traditionally nonassignable; commercial easements
+      in gross are assignable (R-PRP-067).
+    B: >-
+      Right result, wrong reason. An appurtenant easement needs a dominant parcel, and Midland owned no land the
+      pipeline serves; the easement is in gross (R-PRP-060).
+    C: >-
+      The servient owner's consent is not required to assign a transferable easement, and the burden binds later owners
+      of the servient land who take with notice, as Gwen did (R-PRP-067).
+  trap_type: overbroad
+  authority: ["Common law: transferability of commercial easements in gross"]
+  source: original
+  tags: [wave2, W2-PRP, easements, easements-in-gross]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-PRP-0064
+  subject: PRP
+  coverage_ids: [PRP-MBE-II.D.1]
+  rule_ids: [R-PRP-070]
+  difficulty: 2
+  stem: >-
+    Since 1990 the zoning ordinance of the Village of Brookfield has limited the Maple District to single-family
+    dwellings. It defines "family" as "any number of persons related by blood, marriage or adoption, or not more than
+    two unrelated persons, living together as a single housekeeping unit." The Village adopted the definition to limit
+    traffic, parking demand and noise in residential neighborhoods. In 2025 Kerr leased his house in the Maple District
+    to four unrelated graduate students. When the Village ordered the students to leave, Kerr and the students sued,
+    claiming that the ordinance violates their rights of association and privacy under the Due Process and Equal
+    Protection Clauses.
+  call: "Is the court likely to uphold the ordinance?"
+  options:
+    A: "No, because distinguishing between related and unrelated households burdens the freedom of association and fails strict scrutiny."
+    B: "Yes, because the limit on unrelated occupants is rationally related to legitimate goals such as controlling density, traffic and noise."
+    C: "No, because barring an otherwise lawful use of the house takes Kerr's property without just compensation."
+    D: "Yes, because zoning ordinances are legislative acts that courts may not review for constitutional validity."
+  answer: B
+  explanation_correct: >-
+    B is correct. Zoning is an exercise of the police power and is valid if rationally related to a legitimate public
+    purpose such as health, safety or general welfare (R-PRP-070; Village of Euclid v. Ambler Realty Co.). A limit on
+    the number of unrelated persons who may live together involves no fundamental right or suspect class, so it gets
+    only rational-basis review, and reducing traffic, parking demand and noise is a legitimate goal (R-PRP-070; Village
+    of Belle Terre v. Boraas). By contrast, an ordinance that splits members of a related family receives closer
+    scrutiny (Moore v. City of East Cleveland).
+  explanation_each_wrong_option:
+    A: >-
+      Unrelated persons have no fundamental right to live together in a single-family zone, so strict scrutiny does
+      not apply (Belle Terre). Heightened scrutiny is reserved for definitions that intrude on the family itself
+      (Moore) (R-PRP-070).
+    C: >-
+      A use restriction that leaves the owner economically beneficial uses, such as renting to a family or to two
+      unrelated persons, is not a taking (R-PRP-073).
+    D: >-
+      Right result, wrong reason. Zoning is subject to judicial review under the Due Process and Equal Protection
+      Clauses, though usually under the deferential rational-basis test (R-PRP-070).
+  trap_type: wrong-standard
+  authority: ["Village of Euclid v. Ambler Realty Co., 272 U.S. 365 (1926)", "Village of Belle Terre v. Boraas, 416 U.S. 1 (1974)", "Moore v. City of East Cleveland, 431 U.S. 494 (1977)"]
+  source: original
+  tags: [wave2, W2-PRP, zoning, constitutional-limits]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-PRP-0065
+  subject: PRP
+  coverage_ids: [PRP-MBE-II.D.3]
+  rule_ids: [R-PRP-072]
+  difficulty: 2
+  stem: >-
+    The comprehensive plan of the Town of Alder designates the Elmwood neighborhood, about 400 acres of single-family
+    homes, for low-density residential use, and the zoning map conforms to the plan. Rhee owns a one-acre lot in the
+    middle of Elmwood. A buyer offered her three times the lot's residential value if it could be used for a
+    convenience store and gas station. At Rhee's request, the Town Council rezoned her lot, and no other land, to
+    "highway commercial." The Council made no finding that conditions in Elmwood had changed or that the rezoning would
+    advance the comprehensive plan. Neighboring owners sued to invalidate the rezoning.
+  call: "What is the most likely result?"
+  options:
+    A: "The rezoning is valid, because a rezoning is a legislative act that is presumed valid."
+    B: "The rezoning is invalid, because it is spot zoning that conflicts with the comprehensive plan."
+    C: "The rezoning is valid, because the large difference in value shows that Rhee would suffer unnecessary hardship without it."
+    D: "The rezoning is invalid, because a change in zoning that affects a residential neighborhood requires the consent of the neighboring owners."
+  answer: B
+  explanation_correct: >-
+    B is correct. Rezoning is a legislative act that must be consistent with the comprehensive plan; spot zoning, which
+    singles out a small parcel for treatment inconsistent with the plan and the surrounding district, for private
+    rather than public benefit, is invalid (R-PRP-072). The Council rezoned a single one-acre lot in the middle of a
+    400-acre residential district, at the owner's request, to allow a lucrative sale, with no finding of changed
+    conditions or consistency with the plan.
+  explanation_each_wrong_option:
+    A: >-
+      Rezonings are presumed valid, but the presumption does not save spot zoning that conflicts with the
+      comprehensive plan and serves a private interest (R-PRP-072).
+    C: >-
+      Unnecessary hardship is the standard for a variance, not a rezoning, and even for a variance the hardship must
+      come from conditions unique to the land, not from a lost chance at a higher price (R-PRP-072).
+    D: >-
+      There is no neighbor-consent requirement. A legislative body may rezone over neighbors' objections if the change
+      is consistent with the plan and rationally serves the public (R-PRP-072).
+  trap_type: confused-rule
+  authority: ["Common law: spot zoning; consistency with the comprehensive plan"]
+  source: original
+  tags: [wave2, W2-PRP, zoning, spot-zoning]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-PRP-0066
+  subject: PRP
+  coverage_ids: [PRP-MBE-II.D.3]
+  rule_ids: [R-PRP-072, R-PRP-071]
+  difficulty: 1
+  stem: >-
+    Lot 9 in the City of Fairview is a standard rectangular lot, the same size and shape as the other lots on its
+    block. The city's zoning ordinance, in force when Stroud bought the lot, requires a 10-foot side setback. Without
+    applying for a building permit, Stroud built a two-car garage on Lot 9 that extends 6 feet into the side setback.
+    When the city ordered him to remove the encroaching part, Stroud applied for an area variance, showing that the
+    removal would cost him $35,000. The zoning board denied the variance, and Stroud sought judicial review.
+  call: "Is the court likely to uphold the denial?"
+  options:
+    A: "Yes, because the hardship is self-created and does not arise from any unique condition of Lot 9."
+    B: "No, because the $35,000 cost of removal is an unnecessary hardship that justifies an area variance."
+    C: "No, because the garage is a nonconforming structure that may remain as long as it is not enlarged."
+    D: "Yes, because a zoning board may never grant a variance from a setback requirement."
+  answer: A
+  explanation_correct: >-
+    A is correct. A variance may be granted only if strict application of the ordinance would cause unnecessary
+    hardship because of conditions unique to the property, such as its size, shape or topography, the hardship is not
+    self-created, and the variance will not harm the neighborhood (R-PRP-072). Lot 9 is an ordinary lot like its
+    neighbors, and Stroud's only hardship is the cost of undoing a garage he built in violation of an ordinance already
+    in force. That hardship is self-created and does not come from the land.
+  explanation_each_wrong_option:
+    B: >-
+      Financial loss from undoing one's own violation is self-created and has nothing to do with unique features of the
+      land, so it does not support a variance under any formulation of the standard (R-PRP-072).
+    C: >-
+      Nonconforming-use protection covers only uses and structures that were lawful when the restriction took effect
+      (R-PRP-071). Stroud's garage violated the ordinance when it was built.
+    D: >-
+      Right result, wrong reason. Area variances from setback requirements are the most common kind of variance; boards
+      may grant them when the hardship standard is met (R-PRP-072).
+  trap_type: exception-trap
+  authority: ["Common law: variance standards (unnecessary hardship; self-created hardship)"]
+  source: original
+  tags: [wave2, W2-PRP, zoning, variances]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-PRP-0067
+  subject: PRP
+  coverage_ids: [PRP-MBE-II.B.2]
+  rule_ids: [R-PRP-065, R-PRP-064]
+  difficulty: 2
+  stem: >-
+    Ruth and Sam own adjoining rural lots. In 2020 Sam told Ruth that he wanted to build a garage at the back of his lot,
+    but that the only practical route to it from the county road crossed a 15-foot-wide corner of Ruth's lot. Ruth
+    replied, "Go ahead and put your driveway across my corner; I don't mind." Nothing was put in writing. With Ruth
+    watching from her porch, Sam spent $25,000 grading and paving a driveway across the corner and building a garage
+    that opens onto it, and he used the driveway daily for four years. In 2024, after a quarrel, Ruth told Sam that she
+    was revoking her permission and placed boulders across the driveway. The prescriptive period in the jurisdiction is
+    ten years. Sam sued to establish his right to use the driveway.
+  call: "Is Sam likely to prevail?"
+  options:
+    A: "No, because a license is revocable at will, and an interest in land cannot be created without a signed writing."
+    B: "Yes, because Sam's open and continuous use of the driveway ripened into a prescriptive easement."
+    C: "Yes, because Sam's substantial reliance on Ruth's permission, with her knowledge, made the license irrevocable."
+    D: "No, because Sam's use began with Ruth's permission, so it was never adverse and no easement could arise from it."
+  answer: C
+  explanation_correct: >-
+    C is correct. Ruth's oral permission created a license, ordinarily revocable at will. A license becomes irrevocable,
+    operating as an easement by estoppel, when the licensee, with the licensor's knowledge, reasonably relies on it by
+    making substantial expenditures, so that revocation would be inequitable (R-PRP-065). Sam spent $25,000 paving the
+    driveway and building a garage that depends on it, while Ruth watched. The easement lasts as long as reasonably
+    necessary to protect his reliance (R-PRP-065).
+  explanation_each_wrong_option:
+    A: >-
+      This states the general rule but misses the estoppel exception: substantial, foreseeable reliance makes a license
+      irrevocable despite the lack of a writing (R-PRP-060, R-PRP-065).
+    B: >-
+      Prescription fails twice over: use with the owner's permission is not adverse, and four years is less than the
+      ten-year period (R-PRP-064).
+    D: >-
+      The premise is true as to prescription, but the conclusion does not follow: an easement by estoppel arises
+      precisely from permission plus the licensee's reliance, so the permissive start is irrelevant to Sam's claim
+      (R-PRP-064, R-PRP-065).
+  trap_type: true-but-irrelevant
+  authority: ["Holbrook v. Taylor, 532 S.W.2d 763 (Ky. 1976)", "Common law: irrevocable license (easement by estoppel)"]
+  source: original
+  tags: [wave2, W2-PRP, easements, estoppel, licenses]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-PRP-0068
+  subject: PRP
+  coverage_ids: [PRP-MBE-II.C]
+  rule_ids: [R-PRP-069, R-PRP-100]
+  difficulty: 3
+  stem: >-
+    In 2020 Hana bought a house with a loan from Cedar Bank, secured by a mortgage on the house that Cedar promptly
+    recorded; the loan was not a construction loan. On June 1, 2025, Hana bought a new furnace on credit from Dalton
+    Heating, signing a security agreement that gave Dalton a purchase-money security interest in the furnace. Dalton
+    installed the furnace on June 3, bolting it to the basement floor and connecting it to the ductwork, gas line and
+    wiring, so that it became a fixture. On June 15 Dalton made a proper fixture filing in the county real property
+    records. Hana has since defaulted on both the Cedar loan and her payments to Dalton. Cedar argues that its
+    mortgage, recorded five years before Dalton's filing, gives it priority as to the furnace. The jurisdiction has
+    adopted the Uniform Commercial Code.
+  call: "As between Cedar Bank and Dalton, which has priority in the furnace?"
+  options:
+    A: "Cedar Bank, because its mortgage was recorded first, and interests in real property rank in the order of recording."
+    B: "Dalton, because its purchase-money security interest was perfected by a fixture filing within 20 days after the furnace became a fixture."
+    C: "Cedar Bank, because the furnace became part of the mortgaged real property when it became a fixture."
+    D: "Dalton, but only if Cedar Bank had actual notice of Dalton's security interest before the furnace was installed."
+  answer: B
+  explanation_correct: >-
+    B is correct. A perfected purchase-money security interest in goods that become fixtures has priority over an
+    earlier-recorded mortgage if the secured party makes a fixture filing before the goods become fixtures or within
+    20 days afterward, the debtor has an interest of record in or possession of the real property, and the mortgage is
+    not a construction mortgage (UCC § 9-334(d), (h); R-PRP-069). Dalton's purchase-money interest was perfected by a
+    fixture filing 12 days after installation, and Cedar's loan was not a construction loan. If Dalton removes the
+    furnace, it must reimburse Cedar for the cost of repairing any physical injury, but not for any loss in the
+    property's value caused by the furnace's absence (UCC § 9-604(c)-(d); R-PRP-069).
+  explanation_each_wrong_option:
+    A: >-
+      First in time is the general rule, but the timely fixture filing of a purchase-money secured party is an
+      established exception to it (R-PRP-069, R-PRP-100).
+    C: >-
+      Becoming a fixture is the premise of the UCC priority rule, not an answer to it; a real-property interest in a
+      fixture is subordinate to a qualifying purchase-money security interest (UCC § 9-334(d)).
+    D: >-
+      Priority under § 9-334(d) depends on a timely fixture filing, not on the mortgagee's actual notice
+      (R-PRP-069).
+  trap_type: exception-trap
+  authority: ["UCC § 9-334(d), (h)", "UCC § 9-604(c)-(d)"]
+  source: original
+  tags: [wave2, W2-PRP, fixtures, ucc-article-9]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-PRP-0069
+  subject: PRP
+  coverage_ids: [PRP-MBE-II.A.2]
+  rule_ids: [R-PRP-052, R-PRP-050, R-PRP-054]
+  difficulty: 2
+  stem: >-
+    In 2015 Orla owned two adjoining lots. She sold Lot 2 to Pim by a deed stating: "Grantee, for himself, his heirs and
+    assigns, covenants that Lot 2 shall be used for single-family residential purposes only, this covenant being for
+    the benefit of Lot 1, retained by Grantor." Only Orla signed the deed. Pim accepted it and recorded it. In 2024 Pim
+    sold Lot 2 to Quarles by a deed that did not mention the covenant. Quarles now plans to build a dental office on
+    Lot 2. Orla, who still owns and lives on Lot 1, sued to enjoin the construction. Quarles argues that the covenant is
+    unenforceable under the statute of frauds because Pim, the promisor, never signed anything.
+  call: "Is Orla likely to obtain the injunction?"
+  options:
+    A: "No, because a promise concerning the use of land is enforceable only against a person who signed a writing containing it."
+    B: "No, because the deed by which Quarles acquired Lot 2 did not mention the covenant."
+    C: "Yes, because a grantee who accepts a deed containing a covenant is bound by it, and Quarles took with record notice."
+    D: "Yes, because Orla and Pim were in horizontal privity, which makes any covenant between them binding on all later owners."
+  answer: C
+  explanation_correct: >-
+    C is correct. A grantee who accepts a deed signed only by the grantor is bound by the covenants in it; the deed
+    satisfies the writing requirement for an equitable servitude (R-PRP-052). The burden runs to Quarles because the
+    parties intended it to bind "heirs and assigns," the restriction on use touches and concerns both lots (R-PRP-054),
+    and Quarles had record notice from the recorded Orla-to-Pim deed in his chain of title (R-PRP-052). No privity is
+    required for an injunction, and Orla still owns the benefited lot.
+  explanation_each_wrong_option:
+    A: >-
+      Overbroad. The statute of frauds is satisfied by a deed signed by the grantor; the grantee's acceptance binds him
+      to the covenants it contains (R-PRP-052).
+    B: >-
+      A servitude binds a successor who takes with notice whether or not the successor's own deed repeats it. The
+      recorded Orla-to-Pim deed gave Quarles record notice (R-PRP-052).
+    D: >-
+      Right result, wrong reason. Horizontal privity matters only for the burden of a real covenant enforced by damages
+      (R-PRP-050), and privity alone never makes a covenant run; intent, touch and concern and notice are also required.
+  trap_type: overbroad
+  authority: ["Common law: equitable servitudes; acceptance of a deed binds the grantee to its covenants", "Tulk v. Moxhay (1848) 2 Ph. 774, 41 Eng. Rep. 1143"]
+  source: original
+  tags: [wave2, W2-PRP, covenants, equitable-servitudes, creation]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-PRP-0070
+  subject: PRP
+  coverage_ids: [PRP-MBE-II.B.3]
+  rule_ids: [R-PRP-066, R-PRP-064]
+  difficulty: 2
+  stem: >-
+    Since 2000 Hal has driven his pickup truck several times a week along a dirt track across Ike's pasture to reach
+    Hal's farmhouse, without asking permission, and Ike never objected. The prescriptive period in the jurisdiction is
+    ten years, and by 2010 Hal had acquired a prescriptive easement over the track. In 2025 Hal opened a gravel quarry
+    on the back of his farm, and 40 loaded dump trucks a day began using the track to haul gravel to the county road.
+    Ike sued to stop all use of the track by Hal.
+  call: "What is the most likely result?"
+  options:
+    A: "Ike may enjoin the quarry truck traffic, but Hal may continue to use the track to reach his farmhouse."
+    B: "Ike may enjoin all use of the track, because Hal's misuse terminated the easement."
+    C: "Ike may not enjoin the truck traffic, because the holder of an easement may use it for any purpose that serves the dominant land."
+    D: "Ike may not enjoin the truck traffic, because an increase in the volume of use is only a change in degree."
+  answer: A
+  explanation_correct: >-
+    A is correct. A prescriptive easement is limited to the type and intensity of use made during the prescriptive
+    period (R-PRP-066). Hal's easement arose from occasional pickup trips to a farmhouse; hauling gravel in 40 loaded
+    dump trucks a day for a new commercial quarry is a change in the kind of use that greatly increases the burden on
+    Ike's land. The remedy for use beyond the scope of an easement is an injunction against the excess, not termination,
+    so Hal keeps the right to use the track as he did before (R-PRP-066).
+  explanation_each_wrong_option:
+    B: >-
+      Misuse of an easement does not terminate it; the servient owner may enjoin the excessive use (R-PRP-066).
+    C: >-
+      Overbroad. Even an express easement is limited by its terms and reasonably foreseeable development, and a
+      prescriptive easement is fixed by the use that created it (R-PRP-066).
+    D: >-
+      Normal growth in the same kind of use is a change in degree, but replacing occasional residential trips with heavy
+      quarry hauling is a change in kind (R-PRP-066).
+  trap_type: wrong-standard
+  authority: ["Common law: scope of prescriptive easements; remedy for misuse"]
+  source: original
+  tags: [wave2, W2-PRP, easements, scope]
+  status: draft
+  last_verified: 2026-11-04

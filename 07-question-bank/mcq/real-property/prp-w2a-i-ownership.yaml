@@ -1,0 +1,434 @@
+questions:
+- id: Q-PRP-0051
+  subject: PRP
+  coverage_ids: [PRP-MBE-I.A.1.a]
+  rule_ids: [R-PRP-001, R-PRP-005, R-PRP-017]
+  difficulty: 1
+  stem: >-
+    In 2010 Gideon conveyed his 80-acre farm by a deed that read: "to my granddaughter Lena and her heirs, with my
+    earnest request that she keep the farm in the family." Lena farmed the land until 2025, when she sold and
+    conveyed it to Moore, an unrelated neighbor, for its fair market value. Gideon had died in 2018, leaving a will
+    that gave all his property to his church. Lena's only child, Nils, has sued Moore to set aside the conveyance,
+    arguing that the deed gave him an interest in the farm as Lena's heir and that the sale outside the family broke
+    a condition of Gideon's grant.
+  call: "What is the most likely result?"
+  options:
+    A: "Nils prevails, because the deed gave Lena's heirs a remainder that Lena could not defeat by selling."
+    B: "The church prevails, because the sale outside the family broke a condition and forfeited the estate to Gideon's successor."
+    C: "Moore prevails, because Lena held a fee simple absolute and Gideon's request was merely precatory."
+    D: "Moore holds the farm only for Lena's lifetime, because the deed gave Lena a life estate and her heirs a remainder."
+  answer: C
+  explanation_correct: >-
+    C is correct. In "to Lena and her heirs," the words "to Lena" are words of purchase identifying the grantee, and
+    "and her heirs" are words of limitation describing the estate she takes: a fee simple absolute. The heirs take
+    nothing; the heirs of a living person have only an expectancy (R-PRP-001). Gideon's "earnest request" is
+    precatory. It contains no durational words ("so long as," "until"), no conditional words with a reserved right to
+    re-enter ("but if ... may re-enter"), and no gift over, so it neither creates a defeasible fee nor imposes a
+    forfeiture, and courts construe grants to avoid forfeiture (R-PRP-001, R-PRP-005). Even an express ban on selling
+    outside the family would be a restraint on the alienation of a fee simple, which is generally void (R-PRP-017).
+    Lena could freely convey her fee simple absolute to Moore.
+  explanation_each_wrong_option:
+    A: >-
+      This reads "and her heirs" as words of purchase. They are words of limitation; they give the heirs no interest.
+      A remainder must also follow a prior estate of limited duration (such as a life estate), and Lena received no
+      such estate (R-PRP-001, R-PRP-009).
+    B: >-
+      A forfeiture requires durational or conditional language that limits the estate; a request or hope expresses
+      only the grantor's wish (R-PRP-005). And a condition forbidding sale outside the family would be a void
+      restraint on alienation of a fee simple (R-PRP-017).
+    D: >-
+      A life estate requires words limiting the estate to a life ("for life"). "To Lena and her heirs" is the classic
+      language of a fee simple absolute (R-PRP-001, R-PRP-006).
+  trap_type: confused-rule
+  authority: ["Common law: words of purchase and words of limitation", "Common law: precatory words do not limit a fee", "Common law: restraints on alienation of a fee simple"]
+  source: original
+  tags: [wave2, W2-PRP, fee-simple, precatory-words]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-PRP-0052
+  subject: PRP
+  coverage_ids: [PRP-MBE-I.A.2.a]
+  rule_ids: [R-PRP-008, R-PRP-010, R-PRP-018]
+  difficulty: 2
+  stem: >-
+    In 2012 Olga conveyed her townhouse "to my sister Ada for life, then to my nephew Ben if Ben survives Ada." Olga
+    died in 2018, leaving a valid will that gave "all of my property" to her friend Cleo; Olga's only heir at law is
+    her son, Dov. Ben died in 2021 while Ada was still alive; his will left everything to his wife, Esme. Ada died in
+    2025. No statute affects these interests.
+  call: "Who now owns the townhouse?"
+  options:
+    A: "Cleo, because Olga's reversion passed to her under Olga's will."
+    B: "Dov, because a reversion can pass only to the grantor's heirs."
+    C: "Esme, because Ben's remainder passed to her under Ben's will."
+    D: "Ada's estate, because the remainder failed and Ada's life estate became a fee simple."
+  answer: A
+  explanation_correct: >-
+    A is correct. Ben's remainder was contingent: it was subject to the condition precedent that he survive Ada
+    (R-PRP-010). When a grantor creates a contingent remainder, the grantor keeps a reversion, which becomes
+    possessory if the remainder fails (R-PRP-008, R-PRP-010). A reversion is a vested interest and, like other vested
+    interests, is freely transferable, devisable and descendible (R-PRP-008, R-PRP-018), so at Olga's death it passed
+    under her will to Cleo. When Ben died before Ada, the survival condition could never be met, so his remainder
+    failed; there was nothing for his will to pass. At Ada's death, her life estate ended and Cleo's reversion became
+    a possessory fee simple.
+  explanation_each_wrong_option:
+    B: >-
+      A reversion is devisable; it passes to the grantor's heirs only if the grantor dies intestate (R-PRP-018).
+      Olga's will gave all of her property, including the reversion, to Cleo.
+    C: >-
+      An interest conditioned on surviving the life tenant ends when its holder dies first. Future interests are
+      devisable unless survival is a condition of the interest (R-PRP-018); here survival was the condition, so Ben
+      had nothing to devise.
+    D: >-
+      A life estate ends at the death of the measuring life and never enlarges into a fee because a later interest
+      fails (R-PRP-006). The interest left after the life estate is the grantor's reversion (R-PRP-008).
+  trap_type: missing-element
+  authority: ["Common law: reversions", "Common law: transferability, devisability and descendibility of future interests"]
+  source: original
+  tags: [wave2, W2-PRP, reversions, future-interests]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-PRP-0053
+  subject: PRP
+  coverage_ids: [PRP-MBE-I.C.1]
+  rule_ids: [R-PRP-027, R-PRP-028]
+  difficulty: 1
+  stem: >-
+    In 2023 Lucia agreed orally to rent a house from Hector for $1,800 a month, payable on the first day of each
+    month. Nothing was said about how long the arrangement would last. Lucia moved in and has paid the rent on the
+    first of every month since then. On June 20, 2025, Hector handed Lucia a written notice stating that her tenancy
+    would end on June 30 and that she must vacate by that date. No statute in the jurisdiction governs the notice
+    required to end a tenancy.
+  call: "Was Hector's notice effective to end Lucia's tenancy on June 30?"
+  options:
+    A: "Yes, because a tenancy with no agreed duration is a tenancy at will, which either party may end at any time."
+    B: "Yes, because an oral agreement to rent real property is unenforceable under the statute of frauds."
+    C: "No, because Lucia has occupied the house for more than a year, so six months' notice was required."
+    D: "No, because a month-to-month tenancy ends only on a full month's notice expiring at the end of a period."
+  answer: D
+  explanation_correct: >-
+    D is correct. Possession under an agreement with no fixed term, combined with rent paid by the month, creates a
+    periodic tenancy whose period matches the rent interval: month to month (R-PRP-027). At common law a periodic
+    tenancy ends only on notice at least as long as one period, timed to end at the end of a period (R-PRP-028). A
+    notice given on June 20 cannot end the tenancy on June 30. Under the majority approach a defective notice takes
+    effect on the next proper date, here July 31, but it did not end the tenancy on June 30 (R-PRP-028).
+  explanation_each_wrong_option:
+    A: >-
+      A tenancy at will has no fixed term and no periodic rent. Regular monthly rent with no agreed end date makes the
+      tenancy periodic, which requires a full period's notice (R-PRP-027).
+    B: >-
+      The statute of frauds reaches leases for more than one year. A month-to-month tenancy is not within it, and even
+      possession under a void oral lease plus payment of periodic rent creates a periodic tenancy (R-PRP-027).
+    C: >-
+      Six months' notice is the common-law rule for a year-to-year tenancy. The period is set by the rent interval,
+      not by how long the tenant has stayed (R-PRP-028). California's 60-day statutory notice for residential tenants
+      of a year or more (Civ. Code § 1946.1) is a statute, not the common-law rule the MBE applies.
+  trap_type: wrong-standard
+  authority: ["Common law: periodic tenancies and notice to terminate"]
+  source: original
+  tags: [wave2, W2-PRP, landlord-tenant, periodic-tenancy]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-PRP-0054
+  subject: PRP
+  coverage_ids: [PRP-MBE-I.D.2]
+  rule_ids: [R-PRP-018, R-PRP-010, R-PRP-014]
+  difficulty: 2
+  stem: >-
+    In 2015 Ravi conveyed his ranch "to my daughter Priya for life, then to my grandson Kiran if Kiran reaches the age
+    of 30." Kiran was then 20. In 2019, when he was 24 and needed money, Kiran signed and delivered to his friend Zane,
+    in exchange for $60,000, a deed conveying "all of my interest in the ranch." Kiran turned 30 in early 2025, and
+    Priya died later that year. Kiran now claims the ranch, arguing that his deed to Zane was ineffective. Ravi is
+    still alive. The common-law Rule Against Perpetuities applies.
+  call: "Who owns the ranch?"
+  options:
+    A: "Kiran, because a contingent remainder cannot be transferred during the life of its holder."
+    B: "Zane, because Kiran's contingent remainder was transferable, and it vested when Kiran turned 30."
+    C: "Ravi, because Kiran's attempted transfer destroyed the contingent remainder and left the reversion in Ravi."
+    D: "Zane and Kiran as tenants in common, because Kiran could transfer only part of an interest that had not yet vested."
+  answer: B
+  explanation_correct: >-
+    B is correct. Kiran held a contingent remainder (the condition precedent was reaching 30), and Ravi kept a
+    reversion (R-PRP-010). Under modern law, contingent remainders and executory interests are transferable during life; they are also devisable and descendible unless survival is itself the condition (R-PRP-018). Kiran's deed therefore
+    passed his contingent remainder to Zane. The condition concerns Kiran's age, not the holder's, so when Kiran
+    turned 30 during Priya's life the remainder vested in its owner, Zane, and Zane took possession at Priya's death.
+    The remainder is valid under the common-law rule against perpetuities because it must vest, if at all, within the
+    lifetime of Kiran, a life in being in 2015 (R-PRP-014).
+  explanation_each_wrong_option:
+    A: >-
+      This states the abandoned older rule. Modern law makes contingent remainders freely transferable (R-PRP-018), so
+      Kiran's deed to Zane was effective.
+    C: >-
+      A transfer does not destroy a future interest; nothing in the grant provides for forfeiture on transfer. Ravi's
+      reversion was cut off when the remainder vested on Kiran's 30th birthday (R-PRP-008, R-PRP-010).
+    D: >-
+      No rule splits a transferred contingent interest. Kiran conveyed "all of my interest," and the whole remainder
+      passed to Zane (R-PRP-018).
+  trap_type: minority-rule
+  authority: ["Common law (modern rule): alienability of contingent remainders", "Common-law rule against perpetuities"]
+  source: original
+  tags: [wave2, W2-PRP, alienability, contingent-remainders]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-PRP-0055
+  subject: PRP
+  coverage_ids: [PRP-MBE-I.D.4]
+  rule_ids: [R-PRP-049, R-PRP-116]
+  difficulty: 3
+  stem: >-
+    Ortiz, who lives in the State of Southland, owned a vacant lot in the State of Northland. In March, at his home in
+    Southland, Ortiz sold and delivered a deed to the lot to Ames, a Southland resident, for value; Ames did not
+    record. In May, Ortiz sold and delivered a deed to the same lot to Baker, also a Southland resident, who paid value
+    and had no notice of the deed to Ames. In June, Ames recorded her deed in the Northland county where the lot lies;
+    Baker recorded his deed there in July. Northland's recording act provides: "No conveyance of real property is
+    good against a subsequent purchaser for value whose conveyance is first recorded." Southland's recording act
+    provides: "No conveyance of real property is good against a subsequent purchaser for value and without notice,
+    unless it is recorded." Baker has sued Ames in a Southland court to quiet title to the lot.
+  call: "Who is likely to prevail?"
+  options:
+    A: "Ames, because the law of the state where the land lies governs priority, and Ames recorded first."
+    B: "Baker, because a court applies its own recording act to a dispute between residents of the forum state."
+    C: "Baker, because both deeds were executed and delivered in Southland, whose law governs their effect."
+    D: "Baker, because he paid value without notice of the earlier deed before Ames recorded it."
+  answer: A
+  explanation_correct: >-
+    A is correct. Under the situs rule, the law of the state where land lies governs title to it, including the
+    validity and effect of conveyances and the priority of competing interests under the recording acts, whatever the
+    forum, the parties' residence or the place where the deeds were signed (R-PRP-049). Northland's act has no notice
+    language, so it is a race statute: between competing purchasers, the first to record wins, and notice is
+    irrelevant (R-PRP-116). Ames recorded in June, before Baker recorded in July, so her deed is good against Baker.
+    Under Southland's notice statute Baker would have won, which is why the choice of law decides the case.
+  explanation_each_wrong_option:
+    B: >-
+      A forum does not apply its own property law to title to land located in another state; the situs law governs
+      (R-PRP-049). The parties' residence is irrelevant.
+    C: >-
+      The place where a deed is signed or delivered does not control the effect of a conveyance of land or the
+      priority of interests in it; the situs does (R-PRP-049).
+    D: >-
+      That reasoning is correct only under a notice statute such as Southland's. Northland's race statute protects the
+      first purchaser to record, regardless of notice (R-PRP-116), and Northland law governs.
+  trap_type: wrong-standard
+  authority: ["Common law conflict of laws: situs rule for interests in land", "Recording acts quoted in the stem"]
+  source: original
+  tags: [wave2, W2-PRP, conflict-of-laws, recording-acts]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-PRP-0056
+  subject: PRP
+  coverage_ids: [PRP-MBE-I.C.2]
+  rule_ids: [R-PRP-030]
+  difficulty: 2
+  stem: >-
+    Lev leased an apartment to Tara for one year beginning June 1 at a rent of $2,400 a month. On June 1 the prior
+    tenant, whose lease had expired on May 31, was still in the apartment and refused to leave. Lev promptly began
+    eviction proceedings, and the prior tenant moved out on June 20. Tara stayed in a hotel at a reasonable cost of
+    $1,800 and moved into the apartment on June 21. Lev demanded the full June rent; Tara refused to pay rent for June
+    1 through June 20 and demanded that Lev reimburse her hotel costs. Courts in the jurisdiction hold that a landlord
+    impliedly promises to put the tenant in actual possession at the beginning of the term.
+  call: "Which of the following best states Tara's rights against Lev?"
+  options:
+    A: "Tara owes the full June rent, and her remedy for the hotel costs is a claim against the holdover tenant."
+    B: "Tara owes no rent for June 1 through June 20 and may recover her reasonable hotel costs from Lev."
+    C: "Tara owes the full June rent, because by moving in on June 21 she affirmed the lease and waived any claim."
+    D: "Tara owes no rent for June 1 through June 20, but she may not recover the hotel costs, because rent abatement is her only remedy."
+  answer: B
+  explanation_correct: >-
+    B is correct. The jurisdiction follows the English rule (the majority view), under which the landlord must deliver
+    actual possession at the start of the term; a holdover tenant's presence on June 1 put Lev in breach (R-PRP-030).
+    The tenant may terminate the lease, or affirm it, withhold rent for the period she was excluded, and recover
+    damages caused by the delay, such as reasonable substitute housing (R-PRP-030). Tara affirmed by moving in on June
+    21, so she owes rent only from that date and may recover the $1,800 hotel cost from Lev, who may in turn pursue the
+    holdover tenant.
+  explanation_each_wrong_option:
+    A: >-
+      This is the American (minority) rule, under which the landlord need deliver only the legal right to possession
+      and the tenant's remedy is against the wrongful occupant (R-PRP-030). The stem says the jurisdiction requires
+      delivery of actual possession.
+    C: >-
+      Affirming the lease is one of the tenant's two options; it keeps the lease alive but does not waive rent
+      abatement for the excluded period or damages for the breach (R-PRP-030).
+    D: >-
+      A tenant who affirms may both withhold rent for the period of exclusion and recover damages such as substitute
+      housing costs; abatement is not the exclusive remedy (R-PRP-030).
+  trap_type: minority-rule
+  authority: ["Common law: landlord's duty to deliver possession (English rule)", "Hannan v. Dusch, 154 Va. 356, 153 S.E. 824 (1930) (American rule, contrasted)"]
+  source: original
+  tags: [wave2, W2-PRP, landlord-tenant, delivery-of-possession]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-PRP-0057
+  subject: PRP
+  coverage_ids: [PRP-MBE-I.B.2]
+  rule_ids: [R-PRP-025, R-PRP-026]
+  difficulty: 2
+  stem: >-
+    Dara and Eli inherited a lake cabin from their mother as tenants in common, each with a one-half interest, and
+    they used it on alternate weekends. In 2023, without Eli's agreement, Dara spent $60,000 building a bedroom wing onto
+    the cabin, which increased its market value by $40,000. Eli refused to contribute to the cost. In 2025 Eli sued
+    for partition. Because the cabin cannot practicably be divided, the court ordered a sale, which produced $440,000
+    after the costs of sale. Neither cotenant has any other claim against the other.
+  call: "How should the sale proceeds be divided?"
+  options:
+    A: "$220,000 to each, because a cotenant who improves the property without the other's agreement has no claim for the improvement."
+    B: "$240,000 to Dara and $200,000 to Eli, because Dara is credited with the value her improvement added."
+    C: "$250,000 to Dara and $190,000 to Eli, because Dara is credited with the cost of her improvement."
+    D: "$220,000 to each, plus $30,000 that Eli owes Dara as contribution toward half the cost of the improvement."
+  answer: B
+  explanation_correct: >-
+    B is correct. A cotenant has no right to force the others to contribute to improvements made without their
+    agreement, but in a partition or accounting the improving cotenant is credited with the value the improvement
+    added, not its cost, and bears any shortfall (R-PRP-025, R-PRP-026). Dara receives the $40,000 attributable to her
+    wing, and the remaining $400,000 is divided equally: Dara $240,000 ($40,000 + $200,000) and Eli $200,000. Dara
+    absorbs the $20,000 by which her cost exceeded the value added.
+  explanation_each_wrong_option:
+    A: >-
+      It is true that Dara has no affirmative claim against Eli for the improvement, but in a partition the court
+      adjusts the equities and credits the improver with the value added (R-PRP-025, R-PRP-026). Ignoring the credit
+      would give Eli half of value that Dara alone created.
+    C: >-
+      The credit is limited to the increase in value. A cotenant who improves without agreement bears the risk that
+      the improvement is worth less than it cost (R-PRP-025).
+    D: >-
+      Contribution is available for carrying charges such as taxes and mortgage payments, not for improvements made
+      without the other cotenant's agreement (R-PRP-025).
+  trap_type: wrong-standard
+  authority: ["Common law: cotenants' improvements; credit in partition"]
+  source: original
+  tags: [wave2, W2-PRP, cotenancy, partition]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-PRP-0058
+  subject: PRP
+  coverage_ids: [PRP-MBE-I.A.2.c]
+  rule_ids: [R-PRP-011, R-PRP-014, R-PRP-009]
+  difficulty: 2
+  stem: >-
+    Hollis owned a beach house. In 2020 he executed and delivered a deed conveying the house "to my brother Adam for
+    life, and one year after Adam's death, to my niece Bella and her heirs." Adam and Bella are both alive, and Adam
+    lives in the house. The common-law Rule Against Perpetuities applies, and no statute modifies the common law of
+    estates.
+  call: "Which of the following best describes Bella's interest?"
+  options:
+    A: "A springing executory interest, which is valid under the rule against perpetuities."
+    B: "A vested remainder, because Bella is ascertained and her interest is subject to no condition."
+    C: "A contingent remainder, which will be destroyed if it has not vested when Adam dies."
+    D: "A shifting executory interest, which is void under the rule against perpetuities."
+  answer: A
+  explanation_correct: >-
+    A is correct. A remainder must be able to become possessory immediately on the natural end of the prior estate.
+    Bella's interest cannot: for one year after Adam's death, possession returns to Hollis (or his successors), and
+    Bella then takes by cutting short the grantor's interest. A future interest in a transferee that divests the
+    grantor after a gap is a springing executory interest (R-PRP-011). Executory interests are subject to the rule
+    against perpetuities (R-PRP-014), but Bella's must become possessory no later than one year after the death of
+    Adam, a life in being, which is well within 21 years, so it is valid.
+  explanation_each_wrong_option:
+    B: >-
+      Bella is ascertained and her interest is unconditional, but it is not a remainder at all, because it does not
+      follow the life estate immediately; the one-year gap makes it an executory interest (R-PRP-009, R-PRP-011).
+    C: >-
+      Bella's interest is not a remainder, because it cannot take effect at the natural end of Adam's life
+      estate. Destructibility, where it still applies, reaches only legal contingent remainders, never
+      executory interests (R-PRP-011, R-PRP-012), and Bella's interest is certain to take effect one year
+      after Adam's death.
+    D: >-
+      A shifting executory interest divests another transferee; Bella's divests the grantor, so it is springing. It is
+      also valid, because it must vest within one year after Adam's death (R-PRP-011, R-PRP-014).
+  trap_type: confused-rule
+  authority: ["Common law: executory interests", "Common-law rule against perpetuities"]
+  source: original
+  tags: [wave2, W2-PRP, executory-interests, rap]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-PRP-0059
+  subject: PRP
+  coverage_ids: [PRP-MBE-I.D.1]
+  rule_ids: [R-PRP-014, R-PRP-015]
+  difficulty: 3
+  stem: >-
+    Teresa died in 2024. Her valid will devised her apartment building "to my son Sam for life, then to Sam's widow for
+    life, then to such of Sam's children as are living at the death of Sam's widow," and left the residue of her estate
+    to her daughter, Tia. At Teresa's death, Sam was 50 years old, married to Ruth, and had two children. Sam, Ruth, the
+    two children and Tia are all living. The common-law Rule Against Perpetuities applies, unmodified by statute.
+  call: "Which interests created by the devise of the apartment building are valid?"
+  options:
+    A: "Sam's and the widow's life estates are valid, but the gift to Sam's children is void."
+    B: "All of them are valid, because Ruth, a person now living, will be Sam's widow if she survives him."
+    C: "Only Sam's life estate is valid; the gifts to Sam's widow and to Sam's children are both void."
+    D: "All of them are valid, because Sam's children are lives in being who will take within 21 years after Sam's death."
+  answer: A
+  explanation_correct: >-
+    A is correct. This is the unborn-widow trap (R-PRP-015). "Sam's widow" cannot be identified until Sam dies, and
+    Sam could marry someone born after Teresa's death. The widow's life estate is valid, because the widow is
+    identified, and her interest vests, at Sam's death, and Sam is a life in being (R-PRP-014). The children's gift is
+    different: it vests only at the widow's death and only in children then living. The widow could be a person
+    unborn in 2024 who outlives Sam, Ruth, the two children and everyone else alive at Teresa's death by more than 21
+    years, and Sam could have more children. Because the gift might vest too late, it is void from the start; striking
+    it leaves a reversion in Teresa's estate, which passes under the residuary clause to Tia (R-PRP-014).
+  explanation_each_wrong_option:
+    B: >-
+      The common-law rule asks what might happen, not what is likely. "Sam's widow" is described generally, and Ruth
+      may die or divorce Sam, so the widow may be someone not yet born (R-PRP-015).
+    C: >-
+      The widow's life estate does not fail: the widow is ascertained and her interest vests no later than Sam's death,
+      within a life in being (R-PRP-014). Only the children's gift is too remote.
+    D: >-
+      The gift does not vest at Sam's death; it vests at the widow's death and only in children then living, and the
+      class can include children born after Teresa's death. One possibly late-vesting member voids the whole class
+      gift (R-PRP-015).
+  trap_type: overbroad
+  authority: ["Common-law rule against perpetuities (unborn widow)"]
+  source: original
+  tags: [wave2, W2-PRP, rap, unborn-widow]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-PRP-0060
+  subject: PRP
+  coverage_ids: [PRP-MBE-I.D.3]
+  rule_ids: [R-PRP-048]
+  difficulty: 2
+  stem: >-
+    Ilse rents a unit in a 40-unit apartment building owned by Garnet Properties, a real estate company. Her written
+    lease forbids tenants to make "any alteration of any kind" to their units. After a car accident, Ilse
+    began using a wheelchair. She asked Garnet for permission to install, at her own expense and through a licensed
+    contractor, grab bars in her bathroom and lever-style handles on her interior doors, which she needs to use the unit
+    safely. Garnet refused, citing the lease. Ilse sued Garnet under the federal Fair Housing Act.
+  call: "What is the most likely result?"
+  options:
+    A: "Garnet prevails, because the Act requires landlords to change their rules and policies, not to allow physical changes to the premises."
+    B: "Ilse prevails, and Garnet must also pay for the modifications because Ilse's need for them arose during the lease term."
+    C: "Ilse prevails, although Garnet may reasonably condition its permission on Ilse's agreement to restore the interior when she leaves."
+    D: "Garnet prevails, because Ilse agreed to the no-alteration clause when she signed the lease."
+  answer: C
+  explanation_correct: >-
+    C is correct. The Fair Housing Act forbids discrimination because of disability and requires reasonable
+    accommodations and reasonable modifications for persons with disabilities (R-PRP-048). Discrimination includes a
+    refusal to permit, at the expense of the person with a disability, reasonable modifications of the premises that
+    may be necessary for full enjoyment of them; in a rental, the landlord may, where reasonable, condition permission
+    on the tenant's agreement to restore the interior at the end of the tenancy, reasonable wear and tear excepted (42
+    U.S.C. § 3604(f)(3)(A)). No exemption applies: the building has 40 units and is owned by a company (42 U.S.C.
+    § 3603(b)); the owner-occupied exemption covers only buildings of four or fewer units. Grab bars and door levers are modest, necessary changes, so Garnet's blanket refusal violates the Act.
+  explanation_each_wrong_option:
+    A: >-
+      The Act covers both reasonable accommodations in rules and policies (§ 3604(f)(3)(B)) and reasonable
+      modifications of the premises (§ 3604(f)(3)(A)) (R-PRP-048).
+    B: >-
+      Ilse wins, but the statute requires the landlord to permit modifications at the tenant's expense; it does not
+      shift their cost to the landlord (42 U.S.C. § 3604(f)(3)(A)).
+    D: >-
+      A lease term cannot authorize what the statute forbids. A blanket no-alteration policy is exactly what must yield
+      to a reasonable modification request (R-PRP-048).
+  trap_type: true-but-irrelevant
+  authority: ["42 U.S.C. § 3604(f)(3)(A)", "42 U.S.C. § 3603(b)"]
+  source: original
+  tags: [wave2, W2-PRP, fair-housing, disability]
+  status: draft
+  last_verified: 2026-11-04

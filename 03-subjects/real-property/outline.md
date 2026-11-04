@@ -558,7 +558,7 @@ The State Bar's essay outline lists rights that come with ownership itself [S-09
 | Nonjudicial (power of sale) | Trustee's private sale after statutory notices (CA: Civ. Code §§ 2924, 2924f) | CA: barred (CCP § 580d) [S-777] | CA: none |
 | Strict foreclosure | Title vests in lender without sale | Varies | Rare (few states) |
 
-- Sale must be conducted fairly and in good faith; mere low price does not void a sale unless grossly inadequate with an irregularity (R-PRP-099).
+- Sale must be conducted fairly and in good faith. A low price alone does not void a regularly conducted sale; a court may set it aside if the price is so grossly inadequate that it shocks the conscience (the Restatement treats gross inadequacy alone as sufficient), or if an inadequate price is coupled with fraud, unfairness or an irregularity. California requires unfairness or irregularity in addition to a low price (R-PRP-099) [VERIFY V-675].
 
 #### IV.F.2 Acceleration
 - Acceleration clause lets the lender declare the whole debt due on default; without it, foreclosure only for overdue installments (R-PRP-099).

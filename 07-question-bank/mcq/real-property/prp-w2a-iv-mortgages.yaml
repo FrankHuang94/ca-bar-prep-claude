@@ -1,0 +1,417 @@
+questions:
+- id: Q-PRP-0081
+  subject: PRP
+  coverage_ids: [PRP-MBE-IV.A.1.a, PRP-MBE-IV.B.1]
+  rule_ids: [R-PRP-087, R-PRP-102]
+  difficulty: 2
+  stem: >-
+    Quin's business borrowed $150,000 from Ridge Bank, and only Quin signed the promissory note. To induce Ridge to make
+    the loan, Quin's mother, Pia, signed and delivered to Ridge a mortgage on a duplex she owned, securing "the note of
+    Quin to Ridge Bank dated March 1," and Ridge recorded it. Pia did not sign the note or any guaranty and made no
+    promise to pay the debt. Quin defaulted with $140,000 still owing. Ridge brought a judicial foreclosure action
+    against the duplex and asked for a personal judgment against Pia for any deficiency. Pia argues that the mortgage
+    is invalid because she never owed Ridge anything. No statute limits deficiency judgments.
+  call: "What are Ridge's rights?"
+  options:
+    A: "Ridge may not foreclose, because a mortgage is valid only if it secures a debt owed by the mortgagor."
+    B: "Ridge may foreclose on the duplex and obtain a deficiency judgment against Pia."
+    C: "Ridge may foreclose on the duplex, but it may obtain a deficiency judgment only against Quin."
+    D: "Ridge must first obtain and try to collect a judgment against Quin before it may foreclose on the duplex."
+  answer: C
+  explanation_correct: >-
+    C is correct. A mortgage is a transfer of an interest in land to secure an obligation, and without an obligation
+    there is no mortgage (R-PRP-087). The obligation need not be the mortgagor's own; it may be another person's debt
+    (R-PRP-087). Quin's note is the secured obligation, so Pia's duplex stands as security for it and Ridge may
+    foreclose. Personal liability, however, comes from a promise to pay, such as a note, guaranty or assumption. Pia
+    made none, so a deficiency judgment is available only against Quin, the obligor (R-PRP-102).
+  explanation_each_wrong_option:
+    A: >-
+      A mortgage may secure a third party's debt; what is required is some secured obligation, not that the
+      mortgagor owe it (R-PRP-087).
+    B: >-
+      A mortgage alone creates liability of the property, not personal liability. A deficiency judgment runs only
+      against those personally obligated, such as the maker of the note or an assuming grantee (R-PRP-102).
+    D: >-
+      Absent a statute or agreement, a mortgagee need not exhaust its remedies against the debtor before foreclosing on
+      the security after default (R-PRP-087, R-PRP-099).
+  trap_type: missing-element
+  authority: ["Common law: nature of the mortgage and the secured obligation"]
+  source: original
+  tags: [wave2, W2-PRP, mortgages, secured-obligation]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-PRP-0082
+  subject: PRP
+  coverage_ids: [PRP-MBE-IV.A.2]
+  rule_ids: [R-PRP-089]
+  difficulty: 2
+  stem: >-
+    In 2015 Vera sold a house to Will under an installment land contract for $200,000, payable in monthly installments
+    over 20 years, with Vera keeping legal title until the final payment. The contract stated that time was of the
+    essence and that on any late payment Vera could terminate the contract, retake possession and keep all payments
+    made. Will moved in, added a $25,000 deck and paid more than $110,000 over nine years. During those years he paid 10
+    to 20 days late about a dozen times, and Vera accepted every late payment without objection. In 2025, without any
+    prior warning, Vera declared the contract terminated when a payment was 12 days late, refused Will's tender of that
+    payment with a late fee, and sued to evict him.
+  call: "Under the modern approach, what is the most likely result?"
+  options:
+    A: "Vera prevails and keeps all payments, because the contract made time of the essence and expressly provided for forfeiture."
+    B: "Will prevails, because by accepting late payments Vera waived strict timeliness until she gave notice reinstating it."
+    C: "Will prevails and is entitled to a deed at once, because he has paid more than half of the price."
+    D: "Vera may retake the house but must return all of Will's payments, because forfeiture clauses are void."
+  answer: B
+  explanation_correct: >-
+    B is correct. Modern courts limit forfeiture under installment land contracts by granting a grace period or right
+    to cure, requiring restitution of payments that exceed the seller's damages, treating the contract as a mortgage,
+    or finding waiver where the seller has accepted late payments without objection (R-PRP-089). Having accepted a dozen
+    late payments, Vera could not suddenly insist on strict timeliness; she first had to notify Will that timely payment
+    would be required and give him a reasonable time to comply. Will tendered the late payment, so the forfeiture is
+    ineffective.
+  explanation_each_wrong_option:
+    A: >-
+      This is the traditional strict-enforcement approach. Modern courts refuse to enforce a forfeiture against a
+      buyer who has paid much of the price when the seller's own course of dealing waived strict timeliness
+      (R-PRP-089).
+    C: >-
+      Paying part of the price does not entitle a buyer to a deed; the seller's duty to convey arises on payment of the
+      full price (R-PRP-080, R-PRP-089).
+    D: >-
+      Forfeiture clauses are not void as such, and when restitution is allowed it is limited to payments exceeding the
+      seller's damages, not all payments (R-PRP-089).
+  trap_type: minority-rule
+  authority: ["Common law: limits on forfeiture under installment land contracts"]
+  source: original
+  tags: [wave2, W2-PRP, installment-contracts, forfeiture]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-PRP-0083
+  subject: PRP
+  coverage_ids: [PRP-MBE-IV.B.3]
+  rule_ids: [R-PRP-092, R-PRP-087]
+  difficulty: 1
+  stem: >-
+    Stan owns an apartment building subject to a mortgage held by Tern Bank. The mortgage contains no assignment of
+    rents and says nothing about possession. After Stan missed three payments, Tern, without going to court, sent
+    letters directing the tenants to pay their rent to Tern and changed the locks on the building's management office.
+    Stan sued to stop Tern from taking possession and collecting the rents. The jurisdiction follows the lien theory of
+    mortgages.
+  call: "Is Stan likely to prevail?"
+  options:
+    A: "No, because a mortgagor's default entitles the mortgagee to take possession and collect the rents."
+    B: "No, because the rents are part of the mortgaged property and so belong to the mortgagee after default."
+    C: "Yes, but only if Stan first cures the default by paying the overdue installments."
+    D: "Yes, because under the lien theory the mortgagor keeps possession and the rents until foreclosure."
+  answer: D
+  explanation_correct: >-
+    D is correct. Under the lien theory, the mortgagee holds only a lien; the mortgagor keeps title, possession, rents
+    and profits until foreclosure, and the mortgagee may not take possession without the mortgagor's consent
+    (R-PRP-087, R-PRP-092). After default, Tern's remedies are to foreclose, to enforce an assignment of rents if it
+    had one (it does not), or to ask a court to appoint a receiver (R-PRP-092). Its self-help seizure of the rents and
+    the office is unlawful.
+  explanation_each_wrong_option:
+    A: >-
+      Possession on default is the intermediate theory, and possession at any time is the title theory. Under the lien
+      theory, which this jurisdiction follows, the mortgagee has no right to possession before foreclosure (R-PRP-087).
+    B: >-
+      Without an assignment of rents or a court-appointed receiver, rents collected before foreclosure belong to the
+      mortgagor in a lien-theory state (R-PRP-092).
+    C: >-
+      Stan's right to possession does not depend on curing the default. Default gives Tern the right to foreclose, not
+      to take possession (R-PRP-092).
+  trap_type: confused-rule
+  authority: ["Common law: lien theory of mortgages; mortgagor's possession and rents before foreclosure"]
+  source: original
+  tags: [wave2, W2-PRP, mortgages, rights-before-foreclosure]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-PRP-0084
+  subject: PRP
+  coverage_ids: [PRP-MBE-IV.C.3]
+  rule_ids: [R-PRP-095, R-PRP-094, R-REM-051]
+  difficulty: 3
+  stem: >-
+    Mira borrowed $300,000 from Pine Bank, signing a note secured by a mortgage on her store building. She later sold
+    the building to Nash, whose deed stated that he "assumes and agrees to pay" the mortgage debt; Pine did not release
+    Mira. Nash later sold the building to Ola, whose deed stated that she took it "subject to" the Pine mortgage; Ola
+    made no promise to pay the debt. When payments stopped, Pine demanded payment from Mira, who paid the $220,000
+    balance in full. The building is worth about $200,000. No statute limits deficiency judgments.
+  call: "What are Mira's rights?"
+  options:
+    A: "Mira may foreclose Pine's mortgage on the building and recover any shortfall from Nash personally."
+    B: "Mira may recover the full $220,000 from Ola personally, because Ola owns the building that secured the debt."
+    C: "Mira may sue Nash on his assumption, but she has no rights against the building, because her payment discharged the mortgage."
+    D: "Mira has no rights against anyone, because she paid a debt on which she was the original borrower."
+  answer: A
+  explanation_correct: >-
+    A is correct. When Nash assumed the mortgage, he became the principal debtor, the land became the primary fund for
+    payment, and Mira, who was not released, became a surety (R-PRP-094, R-PRP-095). A surety who pays the debt is
+    subrogated to the lender's rights against the principal debtor and the land (R-PRP-095, R-REM-051). Mira may
+    therefore foreclose Pine's mortgage on the building, now owned by Ola, and recover any shortfall (about $20,000)
+    from Nash personally. Ola took subject to the mortgage, so her loss is limited to the building.
+  explanation_each_wrong_option:
+    B: >-
+      A grantee who takes "subject to" a mortgage is not personally liable on the debt; the land is liable, but Ola
+      owes nothing beyond it (R-PRP-094).
+    C: >-
+      A surety's payment does not discharge the mortgage as against the principal debtor and the land. Subrogation
+      keeps it alive for the surety's benefit (R-PRP-095, R-REM-051).
+    D: >-
+      After Nash's assumption, Mira was no longer the principal debtor but a surety for Nash, and a surety who pays may
+      recover from the principal and the security (R-PRP-095).
+  trap_type: missing-element
+  authority: ["Common law of suretyship: subrogation of a paying surety", "Common law: assumption and subject-to transfers"]
+  source: original
+  tags: [wave2, W2-PRP, suretyship, subrogation, assumption]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-PRP-0085
+  subject: PRP
+  coverage_ids: [PRP-MBE-IV.C.4]
+  rule_ids: [R-PRP-096, R-PRP-017, R-PRP-094]
+  difficulty: 1
+  stem: >-
+    Elm Holdings LLC owns an office building subject to a recorded mortgage held by Quarry Bank, securing a loan at 3%
+    interest. The mortgage provides: "If all or any part of the Property is sold or transferred without Lender's prior
+    written consent, Lender may require immediate payment in full of all sums secured by this Mortgage." Market interest
+    rates have since risen to 7.5%. Without asking Quarry's consent, Elm sold the building to Fir Corp., a company with a
+    stronger credit rating than Elm's, which took subject to the mortgage and has made every payment on time. When
+    Quarry learned of the sale, it declared the entire balance due. Fir sued to enjoin enforcement of the clause.
+  call: "Is Fir likely to prevail?"
+  options:
+    A: "Yes, because a clause that penalizes a transfer of the property is an invalid restraint on alienation."
+    B: "Yes, because a lender may accelerate on a transfer only if the transfer impairs its security, and Fir is more creditworthy than Elm."
+    C: "No, because due-on-sale clauses are enforceable, so Quarry may accelerate and foreclose if the balance is not paid."
+    D: "No, because Fir took subject to the mortgage and so is personally liable for the debt."
+  answer: C
+  explanation_correct: >-
+    C is correct. A due-on-sale clause lets the lender accelerate the debt if the borrower transfers the property without
+    consent, and federal law makes such clauses enforceable, preempting state rules that limited them (R-PRP-096; Garn–St Germain Depository Institutions Act, 12 U.S.C. § 1701j-3(b)). This is a commercial building, so the statutory exceptions
+    for residential property of one to four units are irrelevant. Quarry may demand the full balance and, if it is not
+    paid, foreclose; Fir's good payment record and credit do not matter.
+  explanation_each_wrong_option:
+    A: >-
+      Reasonable restraints that serve a legitimate purpose are valid, and due-on-sale clauses in particular are
+      enforceable under federal law (R-PRP-017, R-PRP-096).
+    B: >-
+      Some states once limited enforcement to transfers that impaired the lender's security, but federal law preempts
+      those limits (R-PRP-096).
+    D: >-
+      Right result, wrong reason. A grantee who takes "subject to" a mortgage is not personally liable on the debt
+      (R-PRP-094); Quarry wins because the clause is enforceable against the land.
+  trap_type: wrong-standard
+  authority: ["12 U.S.C. § 1701j-3", "Fidelity Federal Savings & Loan Ass'n v. de la Cuesta, 458 U.S. 141 (1982)"]
+  source: original
+  tags: [wave2, W2-PRP, due-on-sale, transfers-by-mortgagor]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-PRP-0086
+  subject: PRP
+  coverage_ids: [PRP-MBE-IV.E.1]
+  rule_ids: [R-PRP-098, R-PRP-093]
+  difficulty: 2
+  stem: >-
+    Gil borrowed $1,000,000 from Haven Life to finance a shopping center, signing a ten-year note secured by a mortgage
+    on the center. The note provided: "Borrower may prepay the loan in whole at any time after the third year upon
+    payment of a prepayment charge equal to 2% of the principal prepaid." In the fifth year interest rates fell, and Gil
+    tendered the $800,000 balance and demanded a release of the mortgage, but refused to pay the $16,000 prepayment
+    charge. Gil argues that the charge is an unenforceable penalty because he has not breached the loan agreement.
+  call: "Is Haven entitled to the prepayment charge?"
+  options:
+    A: "No, because a borrower has the right to pay off a mortgage debt at any time without a charge."
+    B: "No, because the charge is not a reasonable estimate of the damages Haven would suffer from a breach."
+    C: "Yes, and Haven may also refuse to release the mortgage until the original maturity date."
+    D: "Yes, because a reasonable prepayment charge agreed to in the loan is enforceable."
+  answer: D
+  explanation_correct: >-
+    D is correct. At common law a borrower has no right to prepay before maturity unless the loan permits it, and
+    reasonable prepayment charges are enforceable (R-PRP-098). Here the note gives Gil the right to prepay after year
+    three on condition that he pay 2% of the principal prepaid. Prepaying is a performance the contract allows, not a
+    breach, so the penalty rule for liquidated damages does not apply. Once Gil pays the $800,000 balance and the
+    $16,000 charge, the debt is discharged and Haven must release the mortgage (R-PRP-098).
+  explanation_each_wrong_option:
+    A: >-
+      This reverses the common-law rule: absent a clause, a borrower has no right to prepay at all (R-PRP-098). Gil's
+      right to prepay comes from the clause, and it carries the charge.
+    B: >-
+      The penalty analysis tests a liquidated-damages clause for breach. Prepayment under the clause is a permitted
+      alternative performance, not a breach, and a 2% charge is reasonable (R-PRP-098).
+    C: >-
+      Once the loan is paid in full as the clause permits, the mortgage is discharged and the lender must record a
+      release (R-PRP-098); nothing lets Haven hold it until maturity.
+  trap_type: overbroad
+  authority: ["Common law: prepayment and prepayment charges", "Common law: discharge and release of a mortgage on payment"]
+  source: original
+  tags: [wave2, W2-PRP, discharge, prepayment]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-PRP-0087
+  subject: PRP
+  coverage_ids: [PRP-MBE-IV.F.1]
+  rule_ids: [R-PRP-099, R-PRP-103]
+  difficulty: 2
+  stem: >-
+    Iona's house is subject to a deed of trust securing her loan from Juniper Savings. The deed of trust names Keystone
+    Title as trustee and gives it a power of sale on default. A statute in the jurisdiction authorizes power-of-sale
+    foreclosure after the trustee records a notice of default, waits 90 days, and publishes and posts notice of the
+    sale; the statute gives no right to redeem after the sale. Iona defaulted, and Keystone followed every statutory
+    step. At a well-attended public auction, Lark, who had no connection to Juniper or Keystone, bought the house for
+    $280,000. Its fair market value was $400,000. Iona sued to set aside the sale.
+  call: "Is the court likely to set aside the sale?"
+  options:
+    A: "Yes, because foreclosure of a security interest in land requires a judicial action and a court-supervised sale."
+    B: "Yes, because a foreclosure sale must yield the property's fair market value."
+    C: "No, but Iona may redeem the house within one year by paying Lark $280,000."
+    D: "No, because the sale was properly conducted, and a low price alone does not invalidate it."
+  answer: D
+  explanation_correct: >-
+    D is correct. Nonjudicial (power-of-sale) foreclosure, used with deeds of trust, is a private sale by the trustee
+    after the statutory notices (R-PRP-099). Keystone followed every step, and the auction was public and
+    well-attended. A foreclosure sale must be conducted fairly, but a low price alone does not invalidate a regularly conducted sale. A court will set it aside only if the price is so grossly inadequate that it shocks the conscience (the Restatement (Third) of Property: Mortgages treats gross inadequacy alone as sufficient), or if a significantly low price is coupled with fraud, unfairness or an irregularity in the sale (R-PRP-099). A price of 70% of market value at a properly noticed, well-attended public auction meets neither test. Because the statute gives no post-sale redemption right, Iona's equity of
+    redemption ended at the sale (R-PRP-103).
+  explanation_each_wrong_option:
+    A: >-
+      Judicial foreclosure is available everywhere, but power-of-sale foreclosure is a recognized alternative when the
+      instrument and statute authorize it (R-PRP-099).
+    B: >-
+      Forced-sale prices are usually below market value; a sale is not invalid merely because the price is low
+      (R-PRP-099).
+    C: >-
+      Statutory redemption after a sale exists only where a statute grants it, and this statute does not. Equitable
+      redemption ends at the sale (R-PRP-093, R-PRP-103).
+  trap_type: confused-rule
+  authority: ["Common law: power-of-sale foreclosure; inadequacy of price", "Statute described in the stem"]
+  source: original
+  tags: [wave2, W2-PRP, foreclosure, power-of-sale]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-PRP-0088
+  subject: PRP
+  coverage_ids: [PRP-MBE-IV.B.4]
+  rule_ids: [R-PRP-093]
+  difficulty: 2
+  stem: >-
+    Hale borrowed $500,000 from Ivy Capital, securing the loan with a mortgage on his warehouse, then worth $900,000. As
+    part of the loan transaction and at the same closing, Hale signed an agreement giving Ivy an option to buy the
+    warehouse for $520,000 at any time during the five-year loan term. Two years later, although Hale had made every
+    loan payment on time, Ivy gave written notice that it was exercising the option and tendered $520,000 less the
+    loan balance. Hale refused to convey, and Ivy sued for specific performance.
+  call: "Is Ivy likely to prevail?"
+  options:
+    A: "Yes, because the option was in writing and supported by consideration, namely the loan."
+    B: "Yes, because Hale was not in default, so his equity of redemption is not affected."
+    C: "No, because an option given to the lender as part of the mortgage transaction is a void clog on redemption."
+    D: "No, because the $520,000 option price is far below the warehouse's market value."
+  answer: C
+  explanation_correct: >-
+    C is correct. The mortgagor's right to redeem by paying the debt cannot be waived or restricted in the mortgage
+    transaction itself; a clause giving the lender an option to buy the property, made as part of the original loan,
+    is void as a clog on the equity of redemption (R-PRP-093). Ivy's option was signed at the loan closing as part of
+    the same transaction, so it is void, and Hale keeps the warehouse by paying the loan. A transfer separately
+    bargained for later, for new consideration, would be valid (R-PRP-093).
+  explanation_each_wrong_option:
+    A: >-
+      The option meets ordinary contract requirements, but the clogging doctrine invalidates it regardless, because it
+      lets the lender take the property instead of being repaid (R-PRP-093).
+    B: >-
+      The clogging rule protects the borrower's right to get the property back free of the mortgage by paying the debt,
+      whether or not the borrower is in default; an option exercisable at any time defeats that right (R-PRP-093).
+    D: >-
+      Right result, wrong reason. The clogging doctrine does not depend on the price; an option to the mortgagee made
+      as part of the mortgage transaction is void even at a fair price (R-PRP-093).
+  trap_type: right-result-wrong-reason
+  authority: ["Common law: clogging the equity of redemption"]
+  source: original
+  tags: [wave2, W2-PRP, clogging, redemption]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-PRP-0089
+  subject: PRP
+  coverage_ids: [PRP-MBE-IV.F.3]
+  rule_ids: [R-PRP-101, R-PRP-102]
+  difficulty: 1
+  stem: >-
+    Cove Lot is subject to a first mortgage held by Alder Bank, recorded in 2019 and securing $200,000, and a second
+    mortgage held by Briar Credit, recorded in 2021 and securing $60,000. The owner defaulted on the Alder loan. Alder
+    brought a judicial foreclosure action naming only the owner as a defendant; Briar was not named or notified. At the
+    foreclosure sale, Cy, who had searched the land records, bought Cove Lot for $230,000. Briar now seeks to foreclose
+    its mortgage on Cove Lot, and Cy argues that the foreclosure sale extinguished Briar's lien.
+  call: "What is the status of Briar's mortgage?"
+  options:
+    A: "It was extinguished, because a foreclosure sale cuts off all liens junior to the foreclosing mortgage."
+    B: "It was extinguished, and Briar's only remedy is to claim the surplus from the sale."
+    C: "It was extinguished, because Cy bought at a public sale in good faith and for value."
+    D: "It survives, because Briar was not made a party, so Cy took the land subject to Briar's mortgage."
+  answer: D
+  explanation_correct: >-
+    D is correct. Foreclosure extinguishes the foreclosing mortgage and the junior interests whose holders are properly
+    joined in a judicial action (or given the required notice in a nonjudicial one) (R-PRP-101). A junior lienholder
+    who should have been joined but was omitted keeps its lien and its right to redeem, and the buyer takes subject to
+    it and may have to foreclose again against it (R-PRP-101). Briar was never named or notified, so its mortgage
+    survives on Cove Lot in Cy's hands.
+  explanation_each_wrong_option:
+    A: >-
+      This omits the joinder requirement. Junior interests are cut off only if their holders are made parties or given
+      the required notice (R-PRP-101).
+    B: >-
+      Juniors share in the surplus because their liens are extinguished; Briar's lien was never cut off, so it is not
+      limited to the surplus (R-PRP-101, R-PRP-102).
+    C: >-
+      Briar's mortgage was recorded, so Cy had record notice of it and, having searched, actual notice as well; a
+      foreclosure buyer takes subject to interests the foreclosure did not cut off (R-PRP-101).
+  trap_type: missing-element
+  authority: ["Common law: necessary parties to foreclosure; omitted junior lienholders"]
+  source: original
+  tags: [wave2, W2-PRP, foreclosure, parties]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-PRP-0090
+  subject: PRP
+  coverage_ids: [PRP-MBE-IV.A.1.c]
+  rule_ids: [R-PRP-091, R-PRP-100]
+  difficulty: 3
+  stem: >-
+    Mesa Builders gave Nord Bank a recorded construction mortgage on its land securing a loan of up to $2,000,000. The
+    loan agreement obligated Nord to advance funds in stages as construction progressed, subject only to an architect's
+    certification that each stage was complete, and every certification was given. After Nord had advanced $800,000,
+    Mesa borrowed $300,000 from Olive Lending, which took and recorded a second mortgage on the land and sent Nord
+    written notice of it. Nord then advanced the remaining $1,200,000 as the agreement required. Mesa has defaulted on
+    both loans. No statute in the jurisdiction addresses future-advance mortgages.
+  call: "What is the priority of the mortgages?"
+  options:
+    A: "Nord is first for $800,000, Olive is second, and Nord is third for the $1,200,000 it advanced after receiving notice of Olive's mortgage."
+    B: "Olive is first, because Nord made most of its advances after it had actual notice of Olive's mortgage."
+    C: "Nord is first for the full $2,000,000, and Olive is second."
+    D: "Nord and Olive share pro rata, because each had notice of the other's mortgage."
+  answer: C
+  explanation_correct: >-
+    C is correct. A mortgage may secure advances made after it is recorded. Obligatory advances, which the lender is
+    contractually bound to make, take priority as of the mortgage's recording, ahead of intervening liens; only
+    optional advances made with actual notice of an intervening lien lose priority to it (R-PRP-091). Nord was bound to
+    advance the full $2,000,000 once each stage was certified, and every certification was given, so all of its
+    advances, including those made after Olive's notice, keep the priority of its earlier-recorded mortgage. Olive's
+    mortgage is second (R-PRP-100).
+  explanation_each_wrong_option:
+    A: >-
+      This applies the optional-advance rule to obligatory advances. Notice of an intervening lien subordinates only
+      advances the lender was free not to make (R-PRP-091).
+    B: >-
+      Even under the optional-advance rule, advances made before notice keep their priority, and here all of Nord's
+      advances were obligatory (R-PRP-091).
+    D: >-
+      Mortgages rank by time of creation as adjusted by the recording act and the special priority rules; they do not
+      share pro rata (R-PRP-100).
+  trap_type: wrong-standard
+  authority: ["Common law: obligatory and optional future advances"]
+  source: original
+  tags: [wave2, W2-PRP, future-advances, priorities]
+  status: draft
+  last_verified: 2026-11-04
