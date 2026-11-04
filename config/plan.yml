@@ -1,5 +1,6 @@
-# Study-plan parameters read by scripts/dashboard.py and the /today, /weekly-review commands.
-# Values marked PROVISIONAL are placeholders set in Phase 1; Phase 2 (study plan) finalizes and justifies them.
+# Study-plan parameters read by scripts/dashboard.py, scripts/build_weeks.py and the /today and /weekly-review commands.
+# Finalized in Phase 2 (2026-11-04). Items marked ASSUMPTION need confirmation from the user and are listed in
+# 01-study-plan/master-plan.md §8. The week-by-week detail lives in 01-study-plan/schedule.yml.
 
 exam:
   name: California General Bar Examination (GBX)
@@ -14,29 +15,39 @@ profile:
   employment: full-time (corporate development, tech company)
   test_site_preference: San Diego area     # July 2026 sites included DoubleTree Mission Valley and Chula Vista (S-029)
 
-phases:                                     # PROVISIONAL dates and hour bands — finalized in Phase 2
+phases:
   - id: foundation
     start: 2026-11-09
     end: 2027-03-28
-    hours_per_week: [10, 12]
-    focus: "Gap subjects first (Contracts, Civ Pro, Con Law, Crim), then Community Property and Remedies; reinforce LLM courses; daily MBE + flashcards"
+    weeks: 20
+    hours_per_week: [10, 12]                # finals week ~6 h; holiday weeks ~12 h
+    focus: "Gap subjects in study order (Contracts, Civ Pro, Con Law, Crim), then Community Property; MPRE in March; reinforce Fall LL.M. courses with MBE sets; daily flashcards"
   - id: integration
     start: 2027-03-29
     end: 2027-05-02
+    weeks: 5
     hours_per_week: [15, 20]
-    focus: "All 13 subjects, crossover essays, PT method, first diagnostic simulation"
+    focus: "Community Property finish, Remedies, CA-law passes of Evidence/PR/Wills/Trusts, Torts and Property refresh, PT method, diagnostic SIM-01"
   - id: intensive
     start: 2027-05-03
     end: 2027-07-11
-    hours_per_week: [35, 45]
-    focus: "Daily timed MBE sets, 4–6 timed essays/week, 1 PT/week, memorization cycles; simulations at ~week -6 and -3"
+    weeks: 10
+    hours_per_week: [25, 44]                # 25 while still working (W18–W19), 40–44 on study leave
+    focus: "Second pass of all 13 subjects, daily timed MBE, 3–5 timed essays/week, 1 PT/week, memorization cycles; SIM-02 (week −6) and SIM-03 (week −3)"
   - id: final-review
     start: 2027-07-12
-    end: 2027-07-26
-    hours_per_week: [30, 40]
+    end: 2027-07-25
+    weeks: 2
+    hours_per_week: [30, 35]
     focus: "High-yield review, attack outlines, light timed practice, logistics"
+  - id: exam
+    start: 2027-07-26
+    end: 2027-07-28
+    weeks: 1
+    hours_per_week: [4, 4]
+    focus: "Exam week"
 
-weekly_template:                            # PROVISIONAL default hours per day during the foundation phase
+weekly_template:                            # default hours per day while working (foundation); /today scales it to the week's target
   mon: 1.25
   tue: 1.25
   wed: 1.25
@@ -45,14 +56,14 @@ weekly_template:                            # PROVISIONAL default hours per day 
   sat: 3.0
   sun: 3.0
 
-leave:                                      # PROPOSED — decided in Phase 2 with you
-  - start: 2027-05-17
+leave:
+  - start: 2027-05-17                       # ASSUMPTION — recommended minimum; see master-plan.md §4 (options A/B/C)
     end: 2027-07-28
     type: full-time study leave
     status: proposed
-    note: "35–45 h/week is not realistic alongside a full-time job; Phase 2 sizes the leave window"
+    note: "Request from employer by ~Feb 15, 2027. 35–45 h/week is not realistic alongside a full-time job."
 
-holidays:                                   # US federal / common holidays + Lunar New Year (verify LNY date)
+holidays:                                   # US federal / common holidays + Lunar New Year
   - {date: 2026-11-26, name: Thanksgiving}
   - {date: 2026-11-27, name: Day after Thanksgiving}
   - {date: 2026-12-24, name: Christmas Eve}
@@ -60,7 +71,7 @@ holidays:                                   # US federal / common holidays + Lun
   - {date: 2026-12-31, name: New Year's Eve}
   - {date: 2027-01-01, name: New Year's Day}
   - {date: 2027-01-18, name: Martin Luther King Jr. Day}
-  - {date: 2027-02-06, name: Lunar New Year (verify)}
+  - {date: 2027-02-06, name: Lunar New Year}
   - {date: 2027-02-15, name: Presidents' Day}
   - {date: 2027-05-31, name: Memorial Day}
   - {date: 2027-06-18, name: Juneteenth (observed)}
@@ -72,11 +83,13 @@ llm:
   school: Cardozo School of Law — online LL.M.
   completed: [Intro to US Law, Corporations, Property, Torts]
   fall_2026: [Trusts & Estates, Evidence, Professional Responsibility, Family Law]
+  fall_finals_week: 2026-W51                # ASSUMPTION — confirm
   final_term: TBD                           # USER TO PROVIDE — sealed transcript must reach the State Bar by ~2027-07-13 (V-015)
 
 admissions:                                 # from 00-exam-intel/admissions-checklist.md; (est) = not yet published
   - {date: 2026-11-30, task: "Decide eligibility route (PRC license vs. LLM); register with State Bar; request written eligibility determination; order credential evaluation (Route B)"}
   - {date: 2027-01-21, task: "Register for March 2027 MPRE (NCBE deadline)"}
+  - {date: 2027-02-15, task: "Request study leave from employer (proposed start May 17)"}
   - {date: 2027-02-26, task: "File moral character application (latest recommended)"}
   - {date: 2027-03-01, task: "July 2027 exam application opens (est)"}
   - {date: 2027-03-23, task: "MPRE (Mar 23–24)"}
@@ -89,21 +102,23 @@ admissions:                                 # from 00-exam-intel/admissions-chec
   - {date: 2027-07-28, task: "EXAM Day 2"}
   - {date: 2027-07-29, task: "Answer upload deadline, noon PT (est)"}
 
-targets:
-  final: {mcq: 2000, essays: 60, pts: 9, simulations: 3}   # PROVISIONAL — Phase 2 justifies
-  cumulative:                               # PROVISIONAL checkpoints (dashboard interpolates linearly)
+targets:                                    # cumulative, matching 01-study-plan/schedule.yml (justified in practice-targets.md)
+  final: {mcq: 2170, essays: 68, pts: 12, simulations: 3, spot: 53}
+  cumulative:                               # dashboard interpolates linearly between checkpoints
     - {date: 2026-11-09, mcq: 0, essays: 0, pts: 0, simulations: 0}
-    - {date: 2027-03-28, mcq: 500, essays: 8, pts: 1, simulations: 0}
-    - {date: 2027-05-02, mcq: 800, essays: 18, pts: 3, simulations: 1}
-    - {date: 2027-07-11, mcq: 1850, essays: 58, pts: 9, simulations: 3}
-    - {date: 2027-07-26, mcq: 2000, essays: 62, pts: 10, simulations: 3}
+    - {date: 2027-01-31, mcq: 305, essays: 4, pts: 0, simulations: 0}      # CP1
+    - {date: 2027-03-28, mcq: 550, essays: 7, pts: 0, simulations: 0}      # CP2
+    - {date: 2027-05-02, mcq: 970, essays: 18, pts: 3, simulations: 1}     # CP3 (SIM-01)
+    - {date: 2027-06-20, mcq: 1670, essays: 48, pts: 9, simulations: 2}    # CP4 (SIM-02)
+    - {date: 2027-07-11, mcq: 2070, essays: 63, pts: 12, simulations: 3}   # CP5 (SIM-03)
+    - {date: 2027-07-26, mcq: 2170, essays: 68, pts: 12, simulations: 3}
 
-benchmarks:                                 # PROVISIONAL go/adjust thresholds — Phase 2 justifies
-  - {by: 2027-01-31, mbe_accuracy: 0.50, essay_avg: 55}
-  - {by: 2027-03-28, mbe_accuracy: 0.58, essay_avg: 60}
-  - {by: 2027-05-02, mbe_accuracy: 0.62, essay_avg: 62}
-  - {by: 2027-06-15, mbe_accuracy: 0.66, essay_avg: 65}
-  - {by: 2027-07-16, mbe_accuracy: 0.70, essay_avg: 65}
+benchmarks:                                 # go / adjust / escalate rules in 01-study-plan/practice-targets.md §4
+  - {id: CP1, by: 2027-01-31, mbe_accuracy: 0.50, essay_avg: 55}
+  - {id: CP2, by: 2027-03-28, mbe_accuracy: 0.56, essay_avg: 58}
+  - {id: CP3, by: 2027-05-02, mbe_accuracy: 0.60, essay_avg: 60}
+  - {id: CP4, by: 2027-06-20, mbe_accuracy: 0.65, essay_avg: 63}
+  - {id: CP5, by: 2027-07-11, mbe_accuracy: 0.68, essay_avg: 65}
 
 question_bank_targets:
   mcq_per_mbe_subject: 150
