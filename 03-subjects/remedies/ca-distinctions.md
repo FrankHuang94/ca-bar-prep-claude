@@ -1,0 +1,75 @@
+---
+subject: REM
+topic: Remedies — California distinctions (what to write on a California essay)
+coverage_ids: [REM-CBX-II, REM-CBX-III, REM-CBX-III.a, REM-CBX-III.b, REM-CBX-IV, REM-CBX-V, REM-CBX-VI, REM-SUP-001, REM-SUP-002, REM-SUP-003]
+tested_on: [essay, PT]
+exam_frequency: {level: high, basis: "Essays: 16 of 31 administrations 2012-02 to 2026-07 (52%)"}
+last_verified: 2026-11-04
+status: draft
+---
+
+# Remedies — California distinctions
+
+## How California essays use these distinctions
+- **Default rule.** Remedies essays are graded on **general principles**: common-law damages, the Restatements, the UCC, and equitable doctrine. California law applies only if the call asks for it [S-077]. In the Remedies calls indexed in Phase 3, none was seen to ask expressly for California law, though several calls were not captured [VERIFY V-071].
+- **What to do.**
+  1. Write the general rule first.
+  2. Where California differs **and the point matters to the facts**, add one sentence: "In California, …".
+  3. If the call says "under California law," lead with the California rule.
+- **Where California matters most in Remedies:** punitive damages (Civ. Code § 3294), specific performance of land (§ 3387), preliminary injunctions in state court (*IT Corp.*), fraud damages (§ 3343), liquidated damages (§ 1671), rescission (§§ 1689–1692), encroachments (equitable easements), personal-service injunctions (§ 3423(e)), and the economic-loss rule (*Rattagan*).
+- **Why California has so many remedy statutes.** The Civil Code's Division 4, Part 1 ("Relief") codified 19th-century remedies law: compensatory relief (§§ 3274–3361), specific and preventive relief (§§ 3366–3423). Courts read these sections against the common-law background, so the general rule and the California statute usually agree.
+
+## Comparison table
+
+| Issue | Federal / majority / general rule | California rule | Authority | **What to write on the essay** |
+|---|---|---|---|---|
+| Tort damages measure | Compensation for harm proximately caused | "All the detriment proximately caused," whether it could have been anticipated or not | Civ. Code § 3333 [S-469] | General rule; cite § 3333 in one clause if the call asks for California law |
+| Contract damages measure | Expectation, limited by *Hadley* foreseeability | Same, codified ("proximately caused … or likely to result in the ordinary course") | Civ. Code § 3300; R2d § 351 | Cite *Hadley*; add § 3300 only for a California-law call |
+| Punitive damages: standard | Malice, willful and wanton or reckless conduct; many states require clear and convincing evidence | **Clear and convincing evidence of oppression, fraud or malice**, defined in § 3294(c) ("despicable conduct" for malice/oppression); never for breach of contract | Civ. Code § 3294 [S-451] [VERIFY V-369] | Always add the § 3294 sentence when punitive damages are in play; graders recognize it |
+| Punitive damages: employer liability | Complicity rule or vicarious liability (varies) | Advance knowledge + conscious disregard, authorization/ratification, or personal guilt, by an officer, director or **managing agent** (substantial discretionary authority over corporate policy) | Civ. Code § 3294(b) [S-451]; *White v. Ultramar* (1999) 21 Cal.4th 563 [S-452] | Add when a company is sued for an employee's malicious act |
+| Punitive damages: predicates | Actual damages usually required; split on nominal damages | Actual damages required; **Π must prove Δ's financial condition** | *Adams v. Murakami* (1991) 54 Cal.3d 105 [S-464]; *Cheung v. Daley* (1995) 35 Cal.App.4th 1673 [S-470] [VERIFY V-356] | One sentence: "Π must also offer evidence of Δ's financial condition (*Adams*)" |
+| Fraud damages in property transactions | Benefit of the bargain (majority, R2d Torts § 549) or out-of-pocket at Π's election | **Out-of-pocket** loss plus additional damages for fraud in the purchase, sale or exchange of property; split on benefit of the bargain against fiduciaries | Civ. Code § 3343 [VERIFY V-351]; *Alliance Mortgage* (1995) 10 Cal.4th 1226 [S-453]; CACI 1923–1924 [S-454] | Compute both measures; then "In California, § 3343 limits Π to out-of-pocket loss" |
+| Collateral source / medical damages | Collateral payments do not reduce damages; billed amounts often recoverable | Collateral source rule applies, but past medical damages limited to amounts **paid or incurred** | *Helfend* (1970) 2 Cal.3d 1; *Howell* (2011) 52 Cal.4th 541 [S-472] | One sentence on a personal-injury damages essay |
+| Injury to trees and timber | Ordinary damages (value or restoration) | **Treble** damages; **double** for casual and involuntary trespass or belief land was Δ's own; requires a trespass on another's land | Civ. Code § 3346 [S-460] [VERIFY V-354] | Add whenever Δ cuts or damages trees on Π's land |
+| Conversion damages | Value at conversion + interest (R2d Torts § 927) | Same presumed measure, **or** indemnity for proximate loss, **plus** compensation for time and money spent pursuing the property | Civ. Code § 3336 [S-468] [VERIFY V-357] | General rule; mention the pursuit-expenses add-on |
+| Land-sale damages (buyer) | Benefit of the bargain; English rule limits a good-faith seller to restitution | Statutory list: price paid, title and document expenses, difference between price and value at breach, preparation expenses, consequential damages, interest | Civ. Code § 3306 [S-461] [VERIFY V-355] | Give the benefit-of-the-bargain measure; note § 3306 if the call asks for California law |
+| Liquidated damages | Valid if reasonable forecast of hard-to-estimate damages; penalty void | Most contracts: **presumed valid**; challenger proves unreasonableness when made. Consumer contracts and residential leases: void unless damages impracticable or extremely difficult to fix | Civ. Code § 1671(b)–(d) [S-200] [VERIFY V-107]; cross-reference [`../contracts/ca-distinctions.md`](../contracts/ca-distinctions.md) | General test, then § 1671(b) presumption sentence |
+| Rescission and damages | Rescission and damages traditionally inconsistent (election); UCC § 2-721 allows both for fraud | Unified rescission: notice + restore or offer to restore (§ 1691); **damages not inconsistent** with rescission; complete relief incl. consequential damages, no duplication (§ 1692) | Civ. Code §§ 1689, 1691, 1692 [S-462]; *Runyan* (1970) 2 Cal.3d 304 [S-462] | Rescission + restitution, then "In California, Π may also recover consequential damages (§ 1692)" |
+| Constructive trust basis | Equitable remedy for unjust enrichment (R3RUE § 55) | Statutory "involuntary trust" for one who wrongfully detains, or gains a thing by fraud, accident, mistake, undue influence, violation of a trust or other wrongful act | Civ. Code §§ 2223, 2224 [S-463] | Cite § 2224 in one clause when imposing a constructive trust |
+| Unjust enrichment as a claim | Recognized cause of action (R3RUE § 1) | Courts of Appeal **split** on whether unjust enrichment is a standalone cause of action | [VERIFY V-361] | Plead quasi-contract or constructive trust; avoid relying on "unjust enrichment" as the claim's name |
+| Specific performance of land | Land is unique; damages presumed inadequate | **Presumption** that money is inadequate; **conclusive** for a single-family dwelling the party seeking performance intends to occupy; otherwise affects burden of proof | Civ. Code § 3387 [S-450] | Add § 3387 on every buyer's SP claim; say whether the home is single-family and owner-occupied |
+| Fairness as a condition of SP | Unconscionability / gross inadequacy may bar SP (R2d § 364) | SP cannot be enforced against a party who did not receive **adequate consideration** or as to whom the contract is not **just and reasonable** | Civ. Code § 3391 [S-474] | One sentence under "Defenses" in an SP answer |
+| Personal-service contracts | No SP; negative injunction for unique services (*Lumley*) | Negative injunction only for a **written** contract for special, unique or extraordinary services meeting **minimum-compensation** conditions | Civ. Code § 3423(e) [S-459] [VERIFY V-352]; *Beverly Glen Music v. Warner Communications* (1986) [VERIFY V-352] | Deny SP; then "In California, § 3423(e) allows a negative injunction only if…" |
+| Post-employment non-competes | Enforced if reasonable (majority) | **Void** except statutory exceptions; injunction unavailable | Bus. & Prof. Code §§ 16600, 16600.5 [S-206] | Say the covenant is void; injunction only for trade-secret misuse |
+| Permanent injunction grounds | Inadequate legal remedy + balancing (*eBay* in federal court) | Codified grounds: damages inadequate; compensation extremely difficult to ascertain; prevent multiplicity of proceedings; obligation arising from a trust | Civ. Code § 3422 [S-458]; CCP § 526 | General I-P-F-B-D elements; § 3422 optional |
+| Preliminary injunction test | *Winter*: likely success, likely irreparable harm, balance of equities, public interest (federal) | **Two interrelated factors**: likelihood of prevailing on the merits and relative interim harm, on a sliding scale; some possibility of success always required | *IT Corp.* (1983) 35 Cal.3d 63 [S-455]; *Butt* (1992) 4 Cal.4th 668 [S-456] | Give the *Winter* factors, then the *IT Corp.* sentence |
+| TRO procedure | Ex parte only with specific facts + attorney certification; ≤ 14 days, extendable once (FRCP 65(b)) | Ex parte on verified complaint or affidavit showing great or irreparable injury; OSC hearing within **15 days (22 for good cause)**; **undertaking mandatory** | CCP §§ 527 [S-457] [VERIFY V-353], 529 [S-478] | State the federal rule if the case is federal, otherwise the California timing and bond |
+| Encroachments | Innocent encroacher with grossly disproportionate hardship may pay damages instead of removing | Same "relative hardship" doctrine, and the court may create an **equitable easement** (three factors: innocence, no irreparable injury to owner, greatly disproportionate hardship) on payment of compensation | *Christensen v. Tucker* (1952) 114 Cal.App.2d 554; *Hirshfield v. Schwartz* (2001) 91 Cal.App.4th 749 [S-466] | Apply the three factors; name the equitable easement as the alternative to removal |
+| Injunctions against defamation | Equity will not enjoin libel (prior restraint) | Post-trial injunction against **repeating statements adjudicated defamatory** permitted if narrowly tailored | *Balboa Island Village Inn* (2007) 40 Cal.4th 1141 [S-476] | Note the post-trial exception when the facts involve repeated false statements |
+| Collateral bar rule | Federal: must obey an order issued with jurisdiction; invalidity is no defense to contempt (*Walker*) | A void (e.g., unconstitutional) order may be challenged in the contempt proceeding | *In re Berry* (1968) 68 Cal.2d 137 [VERIFY V-358] | One sentence when a party defies an order it believes unconstitutional |
+| Contempt penalties | Civil (coercive/compensatory) vs. criminal (*Bagwell*) | Statutory limits: fine up to $1,000 and up to 5 days per act; coercive imprisonment until an act within the person's power is done | CCP §§ 1218 [S-473], 1219 [VERIFY V-358] | Mention enforcement by contempt; cite § 1218 only on a California-law call |
+| Declaratory relief | 28 U.S.C. § 2201: actual controversy; discretionary | Any person interested under a written instrument, contract or regarding property may seek a declaration, even before breach; court may refuse if not necessary or proper | CCP §§ 1060, 1061 [S-467] | Federal statute if the case is federal; § 1060 otherwise |
+| Insurance rescission | Material misrepresentation in the application (common law; often requires intent or materiality by statute) | Rescission for concealment, **intentional or unintentional**, or for a representation false in a material point | Ins. Code §§ 331, 359 [S-471] [VERIFY V-364] | On an insurance-rescission essay, cite §§ 331/359 and analyze materiality |
+| Economic loss rule | Pure economic loss from breach recoverable only in contract | Same, but tort lies for fraudulent concealment during performance where tort elements exist independently and the risk exceeds the bargain | *Robinson Helicopter* (2004) 34 Cal.4th 979; *Rattagan* (2024) 17 Cal.5th 1 [S-132] | Opens tort damages and punitive damages; cite *Rattagan* |
+| Mitigation of lease damages | Majority: landlord must mitigate | Landlord recovers rent loss only to the extent the tenant cannot prove it could reasonably have been avoided | Civ. Code § 1951.2 | One sentence on a lease-abandonment remedies issue |
+
+## Specific performance of real property (§ 3387) — how to write it
+1. **General rule:** land is unique, so damages are inadequate.
+2. **California sentence:** "Under Civil Code § 3387, it is presumed that the breach of an agreement to transfer real property cannot be adequately relieved by money; the presumption is conclusive where the property is a single-family dwelling that the buyer intends to occupy" [S-450].
+3. **Apply:** single-family? Buyer will live there? If it is an investment, commercial or multi-unit property, the presumption is rebuttable, and the seller may try to show damages are adequate (e.g., a fungible tract, a buyer who planned to flip it).
+4. **Defenses:** § 3391 adequacy of consideration [S-474]; laches; unclean hands; BFP (record a lis pendens [VERIFY V-360]).
+
+## Punitive damages (§ 3294) — how to write it
+1. General rule (R-REM-026) and due-process limits (R-REM-027).
+2. "In California, punitive damages require clear and convincing evidence that Δ acted with oppression, fraud or malice (Civ. Code § 3294)" [S-451]; define the one that fits.
+3. Company defendant: § 3294(b) managing-agent requirement [S-452].
+4. Predicates: actual damages; evidence of financial condition (*Adams*) [S-464].
+5. Contract claim only → no punitive damages; look for an independent tort (*Rattagan*) [S-132].
+
+## Preliminary injunctions in California courts — how to write it
+1. Federal/general factors (*Winter*).
+2. "California courts weigh two interrelated factors — likelihood of prevailing on the merits and the relative interim harm — on a sliding scale (*IT Corp. v. County of Imperial*); some possibility of success is always required (*Butt v. State*)" [S-455] [S-456].
+3. TRO: CCP § 527 timing (15/22 days) and the mandatory undertaking (CCP § 529) [S-457] [S-478].
+
+## Where California follows the general rule
+- Equitable restitution and tracing (lowest intermediate balance; BFP), reformation (Civ. Code § 3399 restates the common law), laches, unclean hands, estoppel (Evid. Code § 623), nominal damages (Civ. Code § 3360), the American rule on attorney's fees with the § 1717 reciprocity twist, and contract damages generally. Write the general rule; cite the California section only if the call asks for California law.
