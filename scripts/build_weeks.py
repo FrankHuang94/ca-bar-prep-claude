@@ -49,8 +49,10 @@ def on_leave(plan: dict, monday: dt.date) -> bool:
 
 
 def pattern_for(w: dict, plan: dict, monday: dt.date) -> str:
-    if w["phase"] in {"intensive", "final-review", "exam"}:
-        return "leave" if on_leave(plan, monday) else "evenings"
+    if on_leave(plan, monday) and w["phase"] in {"intensive", "final-review", "exam"}:
+        return "leave"
+    if w["phase"] in {"intensive", "final-review", "exam"} or w["hours"] >= 25:
+        return "evenings"  # 3-4 h weeknights + ~10 h weekend days while working
     return "working"
 
 
@@ -121,6 +123,13 @@ def day_plan(w: dict, plan: dict, monday: dt.date) -> list[tuple[str, str, float
                 parts.append("Learn block (outline + rule statements)")
             else:
                 parts.append("Timed MBE set + full review · `/weekly-review`")
+        elif pat == "evenings" and w["phase"] in {"foundation", "integration"}:
+            if d == "Sat":
+                parts.append(f"Long block (~{fmt_hours(hrs)} h): learn {learn_short} (AM) · timed MBE set + review (PM)")
+            elif d == "Sun":
+                parts.append("Long block: timed MBE set + review · learn/consolidate · `/weekly-review`")
+            else:
+                parts.append(f"Evening (3–4 h): learn {learn_short} (≈90 min) · MBE set + review · rule statements")
         elif pat == "evenings":
             if d in {"Sat", "Sun"}:
                 if w["phase"] == "final-review":
