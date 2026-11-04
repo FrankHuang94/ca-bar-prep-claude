@@ -1,0 +1,291 @@
+# Torts MCQs — NCBE category IV: nuisance, defamation, privacy, misrepresentation, interference with business relations
+# Wave 1 (M3). Majority common-law / Restatement and federal constitutional rules only. All items original.
+questions:
+- id: Q-TRT-0044
+  subject: TRT
+  coverage_ids: [TRT-MBE-IV.A, TRT-CBX-VII]
+  rule_ids: [R-TRT-094, R-TRT-092]
+  difficulty: 2
+  stem: >-
+    For 25 years, a dairy farm has operated in a rural area, producing strong odors and early-morning noise
+    from its milking equipment. A developer later built homes on adjacent land. A family that bought one of the
+    new homes, knowing about the farm, sues the farm for private nuisance, claiming that the odor makes it
+    unpleasant to use their backyard. The farm operates in a customary manner and complies with all applicable
+    regulations. The jurisdiction has no right-to-farm statute.
+  call: What effect does the family's purchase of the home with knowledge of the farm have on their nuisance claim?
+  options:
+    A: "It is a factor in judging whether the interference is unreasonable, but not a bar."
+    B: "It bars the claim, because one who comes to a nuisance assumes the risk of it."
+    C: "It has no bearing on the claim, because the family's right to use their land is the same as any other owner's."
+    D: "It bars the claim unless the farm is operating in violation of a zoning ordinance."
+  answer: A
+  explanation_correct: >-
+    Nuisance defenses (R-TRT-094): coming to the nuisance does not bar a private-nuisance claim, but it is a
+    factor in deciding whether the interference is unreasonable, along with the character of the locality,
+    priority of use and the utility of the defendant's conduct (R-TRT-092). Regulatory compliance is likewise
+    evidence, not a defense. The family can proceed, but the farm's long, established use in a rural area
+    weighs against them.
+  explanation_each_wrong_option:
+    B: >-
+      Overbroad. Treating coming to the nuisance as a complete bar is not the modern majority rule.
+    C: >-
+      Goes too far the other way. Priority of use and the plaintiff's knowledge are relevant to the
+      reasonableness balance.
+    D: >-
+      Zoning compliance or violation is evidence of reasonableness; it does not turn coming to the nuisance
+      into a bar.
+  trap_type: overbroad
+  authority: ["Restatement (Second) of Torts § 840D", "Restatement (Second) of Torts § 826"]
+  source: original
+  tags: [wave1, M3, nuisance, private-nuisance]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-TRT-0045
+  subject: TRT
+  coverage_ids: [TRT-MBE-IV.A, TRT-CBX-VII]
+  rule_ids: [R-TRT-093]
+  difficulty: 2
+  stem: >-
+    A chemical plant unlawfully discharged waste into a public river, killing most of the fish and making the
+    water unsafe for swimming. Many area residents who used to swim and fish in the river for recreation can no
+    longer do so. A commercial fishing company whose boats had harvested fish from the river for 20 years under
+    state permits lost its entire season's catch. A recreational angler and the fishing company each sue the
+    plant for public nuisance.
+  call: Which plaintiffs may recover?
+  options:
+    A: "Both, because each lost the use of a public resource."
+    B: "Neither, because only a public official may sue to abate a public nuisance."
+    C: "Only the recreational angler, because he used the river for its ordinary public purposes."
+    D: "Only the fishing company, because its harm differs in kind from the public's."
+  answer: D
+  explanation_correct: >-
+    Public nuisance (R-TRT-093): an unreasonable interference with a right common to the public, such as clean
+    public waters, is actionable by a public official; a private person may recover only for special injury,
+    meaning harm different in kind, not merely in degree, from that suffered by the public. The angler's loss of
+    recreation is the public's common harm; the company's destroyed commercial fishery is a different kind of
+    harm.
+  explanation_each_wrong_option:
+    A: >-
+      Missing element. Loss of a public resource shared by everyone does not give each member of the public a
+      private claim.
+    B: >-
+      Overbroad. Public officials sue to abate, but a private person with special injury may also recover.
+    C: >-
+      Reverses the rule. Using the river as every member of the public does is precisely why the angler has no
+      private claim.
+  trap_type: missing-element
+  authority: ["Restatement (Second) of Torts §§ 821B, 821C"]
+  source: original
+  tags: [wave1, M3, nuisance, public-nuisance]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-TRT-0046
+  subject: TRT
+  coverage_ids: [TRT-MBE-IV.B, TRT-CBX-I.x2]
+  rule_ids: [R-TRT-098, R-TRT-099, R-TRT-100]
+  difficulty: 2
+  stem: >-
+    A newspaper published an article reporting that a state senator had accepted free vacation travel from a
+    lobbyist. The reporter relied on a tip from a usually reliable source and did not call the senator for
+    comment or check travel records, which would have shown that the senator paid for the trip himself. The
+    reporter and her editor believed the story was true when it was published. The senator sues the newspaper
+    for defamation.
+  call: Is the senator likely to prevail?
+  options:
+    A: "Yes, because the newspaper was negligent in failing to check readily available records."
+    B: "No, because the senator cannot prove by clear and convincing evidence that the newspaper knew the story was false or published it with serious doubts about its truth."
+    C: "Yes, because the article was false and damaged the senator's reputation."
+    D: "No, because statements about public officials are absolutely privileged."
+  answer: B
+  explanation_correct: >-
+    Actual malice (R-TRT-098): a public official suing for defamation must prove by clear and convincing
+    evidence that the defendant published with knowledge of falsity or reckless disregard of the truth, meaning
+    it actually entertained serious doubts. A failure to investigate, even a careless one, is not actual
+    malice when the publisher believed the story. The senator therefore cannot recover.
+  explanation_each_wrong_option:
+    A: >-
+      Wrong standard. Negligence suffices for a private figure on a matter of public concern (R-TRT-099),
+      not for a public official.
+    C: >-
+      Missing element. Falsity and reputational harm are not enough; the constitutional fault requirement of
+      actual malice must also be proved.
+    D: >-
+      Overbroad. Absolute privileges cover statements in judicial and legislative proceedings and similar
+      settings (R-TRT-100), not press reports about officials, which are protected by the actual-malice
+      standard instead.
+  trap_type: wrong-standard
+  authority: ["New York Times Co. v. Sullivan, 376 U.S. 254 (1964)", "St. Amant v. Thompson, 390 U.S. 727 (1968)"]
+  source: original
+  tags: [wave1, M3, defamation, actual-malice]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-TRT-0047
+  subject: TRT
+  coverage_ids: [TRT-MBE-IV.B, TRT-CBX-I.x2]
+  rule_ids: [R-TRT-099, R-TRT-097, R-TRT-098]
+  difficulty: 3
+  stem: >-
+    A local television station broadcast a report about contaminated drinking water in a town and, through
+    careless research, misidentified a private plumbing contractor as the person whose faulty work caused the
+    contamination. The contractor is not a public figure. In his defamation action, he proves that the statement
+    was false and that the station was negligent, but he offers no evidence that the station knew the statement
+    was false or had serious doubts about it, and no evidence of any actual injury. He asks the jury to award
+    presumed damages.
+  call: May the contractor recover presumed damages?
+  options:
+    A: "Yes, because the statement was broadcast, so damages are presumed as in libel."
+    B: "Yes, because a private-figure plaintiff need prove only negligence to recover any category of damages."
+    C: "No, because when the statement involves a matter of public concern, a private-figure plaintiff may recover presumed damages only by proving actual malice."
+    D: "No, because a private-figure plaintiff can never recover presumed damages for defamation."
+  answer: C
+  explanation_correct: >-
+    Private figures (R-TRT-099; Gertz): on a matter of public concern, a private-figure plaintiff must prove
+    falsity and at least negligence to recover actual injury, but may recover presumed or punitive damages only
+    by proving actual malice (R-TRT-098). Contaminated public drinking water is plainly a matter of public
+    concern. The contractor proved negligence but neither actual malice nor actual injury, so presumed damages
+    are unavailable.
+  explanation_each_wrong_option:
+    A: >-
+      Common-law presumed damages for libel (R-TRT-097) are limited by the Constitution when the speech
+      involves a matter of public concern.
+    B: >-
+      Negligence suffices only for actual-injury damages; presumed and punitive damages need actual malice.
+    D: >-
+      Overbroad. Under Dun & Bradstreet, a private figure suing over a purely private matter may recover
+      presumed damages without actual malice.
+  trap_type: overbroad
+  authority: ["Gertz v. Robert Welch, Inc., 418 U.S. 323 (1974)", "Dun & Bradstreet, Inc. v. Greenmoss Builders, Inc., 472 U.S. 749 (1985)"]
+  source: original
+  tags: [wave1, M3, defamation, private-figure, damages]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-TRT-0048
+  subject: TRT
+  coverage_ids: [TRT-MBE-IV.B, TRT-CBX-I.x2]
+  rule_ids: [R-TRT-102, R-TRT-103, R-TRT-101]
+  difficulty: 2
+  stem: >-
+    A landlord suspected that a tenant was violating the lease's no-pets clause. While making repairs in the
+    apartment, he secretly installed a small video camera inside the smoke detector in the tenant's bedroom. He
+    watched the footage for two weeks but never showed it to anyone. The tenant discovered the camera and sues
+    the landlord for invasion of privacy.
+  call: Is the tenant likely to prevail?
+  options:
+    A: "Yes, because the hidden camera was a highly offensive intrusion on the tenant's seclusion."
+    B: "No, because the landlord did not give publicity to any information about the tenant."
+    C: "No, because the landlord had a legitimate reason to investigate a possible lease violation."
+    D: "Yes, because the landlord appropriated the tenant's likeness without consent."
+  answer: A
+  explanation_correct: >-
+    Intrusion upon seclusion (R-TRT-102): one who intentionally intrudes, physically or otherwise, on another's
+    solitude or private affairs is liable if the intrusion would be highly offensive to a reasonable person.
+    A hidden camera in a tenant's bedroom intrudes on the most private of spaces. Intrusion requires no
+    publication; the tort is complete when the intrusion occurs.
+  explanation_each_wrong_option:
+    B: >-
+      Confused rule. Publicity is an element of public disclosure of private facts (R-TRT-103) and false
+      light, not of intrusion.
+    C: >-
+      A legitimate motive does not make covert bedroom surveillance reasonable; less intrusive means (an
+      inspection with notice) were available, and the conduct remains highly offensive.
+    D: >-
+      Appropriation (R-TRT-101) requires use of the plaintiff's name or likeness for the defendant's benefit,
+      usually commercial; secretly watching footage is not such a use.
+  trap_type: confused-rule
+  authority: ["Restatement (Second) of Torts § 652B", "Restatement (Second) of Torts § 652D"]
+  source: original
+  tags: [wave1, M3, privacy, intrusion]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-TRT-0049
+  subject: TRT
+  coverage_ids: [TRT-MBE-IV.C, TRT-CBX-IV]
+  rule_ids: [R-TRT-109, R-TRT-107]
+  difficulty: 3
+  stem: >-
+    The owner of a small manufacturing company hired an accounting firm to audit the company's financial
+    statements. The engagement letter stated that the audited statements would be delivered to a named bank,
+    which was considering a $2 million loan to the company, and the firm sent its report directly to that bank.
+    Because the firm carelessly failed to follow standard audit procedures, the statements overstated the
+    company's inventory by $800,000. The bank declined the loan for unrelated reasons. Months later, a private
+    investor who obtained a copy of the report from a business-brokerage website relied on it in buying the
+    company and suffered losses when the overstatement came to light. The investor sues the accounting firm for
+    negligent misrepresentation.
+  call: Is the investor likely to prevail?
+  options:
+    A: "Yes, because it was foreseeable that someone might rely on audited financial statements."
+    B: "No, because the investor was not an intended recipient."
+    C: "Yes, because the firm failed to use reasonable care in preparing the audit."
+    D: "No, because negligent misrepresentation requires proof that the defendant knew the information was false."
+  answer: B
+  explanation_correct: >-
+    Negligent misrepresentation (R-TRT-109; R2d § 552): one who, in the course of business, supplies false
+    information for the guidance of others is liable for lack of reasonable care, but only to the limited group
+    of persons for whose guidance he intends to supply it, or knows the recipient intends to supply it, in
+    the kind of transaction he intends to influence. The firm prepared the report for a named bank's lending
+    decision; an unknown investor who later found it online and used it to buy the company is outside that
+    group.
+  explanation_each_wrong_option:
+    A: >-
+      Wrong standard. A pure foreseeability test is a minority approach; the Restatement limits liability to
+      intended or known recipients.
+    C: >-
+      Missing element. Carelessness is necessary but not sufficient; the plaintiff must also fall within the
+      limited class of protected recipients.
+    D: >-
+      Confused rule. Knowledge of falsity (scienter) is required for fraud (R-TRT-107), not for negligent
+      misrepresentation, which requires only a failure to use reasonable care.
+  trap_type: wrong-standard
+  authority: ["Restatement (Second) of Torts § 552"]
+  source: original
+  tags: [wave1, M3, misrepresentation, negligent-misrepresentation]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-TRT-0050
+  subject: TRT
+  coverage_ids: [TRT-MBE-IV.D, TRT-CBX-V]
+  rule_ids: [R-TRT-110, R-TRT-111]
+  difficulty: 2
+  stem: >-
+    A regional bakery had a written two-year contract to supply all of the bread for a restaurant chain at fixed
+    prices. Six months into the contract, a competing bakery that knew of the contract offered the chain a 20%
+    lower price if it would terminate the contract immediately and switch suppliers. The chain did so, with no
+    legal justification for terminating, and the regional bakery lost $300,000 in expected profits. The competing
+    bakery used no fraud, threats or other independently wrongful means. The regional bakery sues the
+    competitor.
+  call: Is the regional bakery likely to prevail against the competitor?
+  options:
+    A: "No, because the competitor was engaged in legitimate competition for the chain's business."
+    B: "No, because the regional bakery's only remedy is a breach-of-contract action against the chain."
+    C: "Yes, but only if the competitor used fraud, threats or other independently wrongful means."
+    D: "Yes, because the competitor knowingly and intentionally induced the chain to breach an existing contract, and the competition privilege does not extend to inducing breach of a fixed-term contract."
+  answer: D
+  explanation_correct: >-
+    Interference with contractual relations (R-TRT-110): a defendant who knows of a valid contract and
+    intentionally and improperly induces a party to breach it is liable for the resulting loss. The privilege
+    of fair competition protects efforts to win business that is terminable at will or not yet under contract,
+    but it does not permit inducing breach of a binding fixed-term contract. The competitor knew of the
+    two-year contract and offered a price conditioned on breaking it.
+  explanation_each_wrong_option:
+    A: >-
+      Confused rule. Competition is privileged for at-will relationships and prospective business (R2d § 768),
+      not for inducing breach of an existing fixed-term contract.
+    B: >-
+      The contract claim against the chain and the tort claim against the inducer are cumulative; the
+      plaintiff may pursue both (but recover its loss only once).
+    C: >-
+      Confused rule. An independently wrongful act is required, in many jurisdictions, for interference with
+      prospective advantage or (in California) at-will contracts (R-TRT-111), not for inducing breach of a
+      fixed-term contract.
+  trap_type: confused-rule
+  authority: ["Restatement (Second) of Torts §§ 766, 768"]
+  source: original
+  tags: [wave1, M3, economic-torts, interference-with-contract]
+  status: draft
+  last_verified: "2026-11-04"

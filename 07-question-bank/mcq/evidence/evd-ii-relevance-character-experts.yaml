@@ -1,0 +1,660 @@
+# Evidence MCQs — NCBE category II: relevance, character, authentication, experts, real and demonstrative evidence
+# Wave 1 (M3). FRE only. All items original.
+questions:
+- id: Q-EVD-0013
+  subject: EVD
+  coverage_ids: [EVD-MBE-II.A.2]
+  rule_ids: [R-EVD-003, R-EVD-042]
+  difficulty: 3
+  stem: >-
+    A defendant is charged in federal court with being a felon in possession of a firearm, which requires
+    proof that he was previously convicted of a crime punishable by more than one year. His prior felony was
+    for aggravated sexual assault. Before trial, he offers to stipulate that he has a qualifying prior felony
+    conviction and asks the court to bar the prosecution from proving the name and nature of the earlier
+    offense. The prosecution rejects the stipulation, arguing that it is entitled to prove its case with
+    evidence of its own choosing. The prior conviction is not relevant to any other issue in the case.
+  call: How should the court rule on the defendant's request?
+  options:
+    A: "Grant it, because, given the stipulation, the name and nature of the conviction add unfair prejudice that substantially outweighs their probative value."
+    B: "Deny it, because the prosecution is always entitled to prove the elements of its case with evidence of its own choosing."
+    C: "Grant it, because evidence of a defendant's prior crimes is never admissible in the prosecution's case-in-chief."
+    D: "Deny it, because a stipulation cannot remove an element of the offense from the jury's consideration."
+  answer: A
+  explanation_correct: >-
+    FRE 403 (R-EVD-003) as applied in Old Chief v. United States: where the prior conviction is offered only
+    to prove felon status and the defendant offers to stipulate to that status, the name and nature of the
+    offense add nothing legitimate, while a crime as inflammatory as sexual assault invites a propensity
+    inference (R-EVD-042). Its probative value is substantially outweighed by unfair prejudice, and refusing
+    the stipulation is an abuse of discretion. The jury is still told that the status element is satisfied.
+  explanation_each_wrong_option:
+    B: >-
+      Overbroad. The prosecution generally may choose its evidence, but Old Chief recognizes the exception
+      where the only purpose is a status element and the evidentiary alternative is equally probative.
+    C: >-
+      Overbroad. Prior crimes can come in for non-propensity purposes (FRE 404(b)), for impeachment (FRE 609)
+      or as an element; the issue here is 403 balancing on the specific facts.
+    D: >-
+      The stipulation does not remove the element; the jury is informed that the defendant has a qualifying
+      felony. What it removes is the prejudicial detail.
+  trap_type: overbroad
+  authority: ["FRE 403", "Old Chief v. United States, 519 U.S. 172 (1997)"]
+  source: original
+  tags: [wave1, M3, rule-403]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-EVD-0014
+  subject: EVD
+  coverage_ids: [EVD-MBE-II.C.1]
+  rule_ids: [R-EVD-038, R-EVD-037, R-EVD-039]
+  difficulty: 3
+  stem: >-
+    A defendant is on trial in federal court for assault with a dangerous weapon after a bar fight. He claims
+    self-defense. In his case, he calls a witness who testifies that the alleged victim has a reputation in
+    the neighborhood as a violent and quarrelsome man. The defendant does not testify and offers no evidence
+    about his own character. In rebuttal, the prosecution calls a witness to testify that the defendant has a
+    reputation as a violent man.
+  call: Should the court admit the prosecution's rebuttal testimony?
+  options:
+    A: "No, because the prosecution may offer evidence of the defendant's character only after the defendant has offered evidence of his own good character."
+    B: "No, because the defendant did not testify, so his character has not been placed in issue."
+    C: "Yes, because by claiming self-defense the defendant made his own character for violence an essential element of the case."
+    D: "Yes, because the defendant's evidence of the victim's violent character opened the door to evidence of his own violent character."
+  answer: D
+  explanation_correct: >-
+    FRE 404(a)(2)(B)(ii) (R-EVD-038): an accused may offer evidence of the alleged victim's pertinent trait,
+    and if the evidence is admitted, the prosecutor may rebut it and offer evidence of the defendant's same
+    trait. Attacking the victim's violent character opens the door to the defendant's violent character,
+    even though the defendant offered nothing about himself. The method is reputation or opinion (FRE 405(a),
+    R-EVD-039), which the prosecution used.
+  explanation_each_wrong_option:
+    A: >-
+      Exception trap. That is the route under 404(a)(2)(A) (R-EVD-037), but it is not the only one; Rule
+      404(a)(2)(B)(ii) creates a second door opened by the defendant's evidence of the victim's trait.
+    B: >-
+      Whether the defendant testifies is irrelevant to the 404(a)(2) doors; his evidence about the victim
+      is what triggers the prosecution's right.
+    C: >-
+      Right result, wrong reason. Self-defense does not make the defendant's character an essential
+      element (so FRE 405(b) does not apply); admissibility rests on 404(a)(2)(B)(ii).
+  trap_type: exception-trap
+  authority: ["FRE 404(a)(2)(B)", "FRE 405(a)"]
+  source: original
+  tags: [wave1, M3, character, victim-character]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-EVD-0015
+  subject: EVD
+  coverage_ids: [EVD-MBE-II.C.2]
+  rule_ids: [R-EVD-039, R-EVD-037]
+  difficulty: 1
+  stem: >-
+    A bank teller is prosecuted for embezzling $40,000 from her employer. In her defense, she calls a
+    neighbor who is prepared to testify that last year the teller found a wallet containing $900 in cash on
+    the sidewalk and returned it, untouched, to its owner. The prosecution objects.
+  call: Should the court admit the neighbor's testimony?
+  options:
+    A: "Yes, because a criminal defendant may offer evidence of a pertinent trait of her own character."
+    B: "No, because the trait may be proved on direct only by reputation or opinion testimony, not by specific acts."
+    C: "Yes, because honesty is a character trait directly relevant to a charge of embezzlement."
+    D: "No, because the defendant has not testified, so her honesty is not in issue."
+  answer: B
+  explanation_correct: >-
+    Methods of proving character (R-EVD-039; FRE 405(a)): when character evidence is admissible, it is
+    proved by reputation or opinion testimony; specific instances are allowed only on cross-examination of a
+    character witness or when character is an essential element (405(b)). The teller may open the door
+    with her pertinent trait of honesty (R-EVD-037), but the neighbor must give an opinion or describe her
+    reputation, not recount the wallet incident.
+  explanation_each_wrong_option:
+    A: >-
+      Missing element. The teller may offer a pertinent trait under FRE 404(a)(2)(A), but the method of
+      proof is still limited to reputation or opinion.
+    C: >-
+      Honesty is pertinent, which answers whether character evidence is allowed at all, not how it may be
+      proved.
+    D: >-
+      A defendant may offer evidence of her good character whether or not she testifies.
+  trap_type: missing-element
+  authority: ["FRE 404(a)(2)(A)", "FRE 405(a)"]
+  source: original
+  tags: [wave1, M3, character, methods-of-proof]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-EVD-0016
+  subject: EVD
+  coverage_ids: [EVD-MBE-II.C.2]
+  rule_ids: [R-EVD-040, R-EVD-037]
+  difficulty: 2
+  stem: >-
+    A defendant charged with check forgery calls a longtime coworker, who testifies that in his opinion the
+    defendant is an honest person. On cross-examination, the prosecutor, who has a police report
+    documenting the incident, asks the coworker, "Did you know that the defendant was arrested three years
+    ago for using a stolen credit card at a department store?" The arrest did not lead to a conviction.
+    Defense counsel objects that an arrest is not proof of misconduct and that the prosecution may not prove
+    specific acts of the defendant.
+  call: How should the court rule on the objection?
+  options:
+    A: "Sustain it, because only convictions, not arrests, may be used to impeach a character witness."
+    B: "Sustain it, because specific instances of a defendant's conduct are never admissible to prove character in a criminal case."
+    C: "Overrule it, because a character witness may be asked in good faith about relevant acts, including arrests."
+    D: "Overrule it, and permit the prosecutor to introduce the police report if the coworker denies knowing of the arrest."
+  answer: C
+  explanation_correct: >-
+    Cross-examining a character witness (R-EVD-040; FRE 405(a); Michelson v. United States): once the
+    defendant offers opinion or reputation evidence (R-EVD-037), the prosecutor may test the witness's
+    knowledge and standards by asking about relevant specific acts, including arrests, if there is a
+    good-faith basis (here the police report). The question tests the witness, not the defendant, so a
+    limiting instruction is appropriate on request.
+  explanation_each_wrong_option:
+    A: >-
+      Confuses FRE 609 (impeachment of a witness by conviction) with 405(a) cross-examination of a character
+      witness, which may cover arrests and other acts.
+    B: >-
+      Overbroad. FRE 405(a) expressly allows inquiry into relevant specific instances on cross-examination of
+      a character witness.
+    D: >-
+      The inquiry is limited to the question; extrinsic proof of the act is not allowed, so the prosecutor
+      must take the witness's answer.
+  trap_type: confused-rule
+  authority: ["FRE 405(a)", "Michelson v. United States, 335 U.S. 469 (1948)"]
+  source: original
+  tags: [wave1, M3, character, character-witness]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-EVD-0017
+  subject: EVD
+  coverage_ids: [EVD-MBE-II.C.1]
+  rule_ids: [R-EVD-036, R-EVD-039, R-EVD-041]
+  difficulty: 2
+  stem: >-
+    A cyclist was struck by a car driven by the owner's nephew. The cyclist sues the owner for negligent
+    entrustment, alleging that the owner lent the car to the nephew knowing he was a reckless driver. To prove
+    the nephew's recklessness and the owner's knowledge of it, the cyclist offers evidence that in the two years
+    before the accident the nephew had three speeding convictions and had once crashed the owner's own car,
+    and that the owner had paid the nephew's speeding fines. The owner objects that this is improper character
+    evidence.
+  call: Should the court admit the evidence?
+  options:
+    A: "Yes, because the nephew's recklessness is an essential element of the claim, so it may be proved by specific acts."
+    B: "No, because character evidence is not admissible in a civil case."
+    C: "No, because when character is admissible it may be proved only by reputation or opinion testimony."
+    D: "Yes, because the incidents show the nephew's habit of driving recklessly."
+  answer: A
+  explanation_correct: >-
+    Character in issue (R-EVD-036; FRE 405(b)): when a person's character or trait is an essential element of
+    a claim, it may be proved by specific instances of conduct. Negligent entrustment requires that the
+    entrustee was incompetent or reckless and that the owner knew or should have known it, so the nephew's
+    driving record is offered to prove an element, not to show he drove recklessly on this occasion. The fact
+    that the owner paid the fines also proves knowledge, a non-character purpose.
+  explanation_each_wrong_option:
+    B: >-
+      Overbroad. The propensity ban of FRE 404(a)(1) applies in civil cases, but character in issue is
+      outside it, and 405(b) allows proof by specific acts.
+    C: >-
+      The reputation-or-opinion limit of FRE 405(a) applies when character is used circumstantially; 405(b)
+      allows specific instances when character is an essential element (R-EVD-039).
+    D: >-
+      Habit (R-EVD-041) is a specific, semi-automatic response to a recurring situation; a general tendency
+      to drive recklessly is character, not habit.
+  trap_type: confused-rule
+  authority: ["FRE 404(a)(1)", "FRE 405(b)"]
+  source: original
+  tags: [wave1, M3, character, character-in-issue]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-EVD-0018
+  subject: EVD
+  coverage_ids: [EVD-MBE-II.C.3]
+  rule_ids: [R-EVD-041, R-EVD-035]
+  difficulty: 2
+  stem: >-
+    A freight train struck a farmer's pickup truck at an unguarded rural crossing, killing the farmer. There
+    were no eyewitnesses. In the estate's wrongful-death action, the railroad contends that the farmer drove
+    onto the tracks without stopping. The estate offers testimony from the farmer's hired hand that, nearly
+    every working day for eight years, he rode with the farmer across that crossing and watched him bring the
+    truck to a full stop, roll down the window and look both ways before crossing. The railroad objects.
+  call: Should the court admit the hired hand's testimony?
+  options:
+    A: "No, because it is character evidence offered to prove that the farmer acted in accordance with a careful disposition."
+    B: "Yes, because it is habit evidence offered to prove conduct on a particular occasion."
+    C: "No, because habit evidence is admissible only if corroborated by an eyewitness to the event in question."
+    D: "Yes, because a decedent's character for carefulness is in issue in a wrongful-death action."
+  answer: B
+  explanation_correct: >-
+    Habit (R-EVD-041; FRE 406): evidence of a person's habit may be admitted to prove that on a particular
+    occasion he acted in accordance with it. A specific, repeated, semi-automatic routine (stop, window down,
+    look both ways at this crossing, nearly every day for eight years) is habit, not general character. FRE
+    406 admits it regardless of whether it is corroborated or whether there was an eyewitness.
+  explanation_each_wrong_option:
+    A: >-
+      Confused rule. "He was a careful driver" would be character (R-EVD-035). Testimony about a specific
+      routine at a specific place, repeated thousands of times, is habit.
+    C: >-
+      FRE 406 expressly rejects any corroboration or no-eyewitness requirement; the absence of eyewitnesses
+      here simply makes the evidence more valuable.
+    D: >-
+      Carefulness is not an essential element of a wrongful-death claim; character in issue does not apply,
+      and the evidence comes in as habit.
+  trap_type: confused-rule
+  authority: ["FRE 406", "FRE 404(a)(1)"]
+  source: original
+  tags: [wave1, M3, habit]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-EVD-0019
+  subject: EVD
+  coverage_ids: [EVD-MBE-II.C.4]
+  rule_ids: [R-EVD-042, R-EVD-006, R-EVD-003, R-EVD-007]
+  difficulty: 3
+  stem: >-
+    A defendant is charged in federal court with knowingly possessing counterfeit $100 bills with intent to
+    defraud. He testifies that a customer paid him with the bills and that he had no idea they were fake.
+    Having given proper pretrial notice, the prosecution offers testimony from a store clerk that eight months
+    earlier the defendant used a counterfeit $100 bill to buy electronics at her store, and that the bill bore
+    the same serial number as several of the bills now charged. The defendant was tried and acquitted of a
+    state charge arising from that earlier purchase. The court is prepared to give a limiting instruction.
+  call: Should the court admit the clerk's testimony?
+  options:
+    A: "No, because evidence of conduct of which the defendant was acquitted cannot be used against him."
+    B: "No, because the earlier incident is evidence of a similar crime offered to show the defendant's propensity to pass counterfeit money, which Rule 404(b) forbids."
+    C: "Yes, because a defendant who testifies places his character in issue."
+    D: "Yes, if a jury could reasonably find he did the earlier act and its probative value on knowledge is not substantially outweighed by unfair prejudice."
+  answer: D
+  explanation_correct: >-
+    Other acts (R-EVD-042; FRE 404(b)(2)): the earlier use of a bill from the same counterfeit series is
+    offered to prove knowledge, a disputed non-propensity purpose, since the defendant claims ignorance.
+    Under Huddleston and FRE 104(b) (R-EVD-006), the act is admissible if the jury could reasonably find by
+    a preponderance that the defendant did it; an acquittal shows only that guilt was not proved beyond a
+    reasonable doubt, so it does not bar the evidence. FRE 403 (R-EVD-003) and a limiting instruction
+    (R-EVD-007) complete the analysis.
+  explanation_each_wrong_option:
+    A: >-
+      Exception trap. The 404(b) threshold is far lower than proof beyond a reasonable doubt, so an
+      acquittal does not prevent a jury from finding the act occurred by a preponderance.
+    B: >-
+      The evidence is relevant without a character inference: passing the same counterfeit series months
+      earlier makes it more likely he knew these bills were fake.
+    C: >-
+      Testifying exposes a defendant to impeachment (FRE 608, 609); it does not place his character in issue
+      or make other-act evidence admissible for propensity.
+  trap_type: exception-trap
+  authority: ["FRE 404(b)", "FRE 104(b)", "FRE 403", "Huddleston v. United States, 485 U.S. 681 (1988)"]
+  source: original
+  tags: [wave1, M3, other-acts, 404b]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-EVD-0020
+  subject: EVD
+  coverage_ids: [EVD-MBE-II.C.5]
+  rule_ids: [R-EVD-043, R-EVD-003]
+  difficulty: 2
+  stem: >-
+    A former employee sues her supervisor in federal court for damages, alleging that he sexually assaulted
+    her in a hotel room during a business trip. The supervisor denies that any sexual contact occurred.
+    Having given timely notice, the plaintiff offers testimony from another woman that the supervisor sexually
+    assaulted her in similar circumstances on a business trip three years earlier. The supervisor was never
+    charged with that earlier assault. He objects that the evidence is inadmissible propensity evidence.
+  call: How should the court rule?
+  options:
+    A: "Exclude the evidence, because propensity evidence of sexual assault is admissible only in criminal prosecutions."
+    B: "Exclude the evidence, because the earlier assault did not result in a conviction."
+    C: "Admit it, subject to Rule 403, because in a civil case based on a party's alleged sexual assault, his other sexual assaults may be considered for any relevant purpose."
+    D: "Admit the evidence only for a non-propensity purpose such as motive, intent or plan, with an instruction that the jury may not use it to show the supervisor's character."
+  answer: C
+  explanation_correct: >-
+    FRE 415 (R-EVD-043): in a civil case involving a claim for relief based on a party's alleged sexual
+    assault, the court may admit evidence that the party committed any other sexual assault, and it may be
+    considered on any matter to which it is relevant, including propensity. A conviction is not required, and
+    the plaintiff gave the required notice. The court retains FRE 403 discretion (R-EVD-003): similarity,
+    recency and the dispute over whether any contact occurred favor admission.
+  explanation_each_wrong_option:
+    A: >-
+      Confused rule. This is the California approach (Evid. Code § 1108 applies only in criminal actions).
+      The FRE extend sexual-assault propensity evidence to civil cases through Rule 415.
+    B: >-
+      Rules 413 to 415 do not require a conviction or even a charge; the jury need only be able to find the
+      earlier act occurred.
+    D: >-
+      That is the ordinary 404(b) limit. Rule 415 is an exception to the propensity ban, so no
+      non-character purpose or anti-propensity instruction is required.
+  trap_type: confused-rule
+  authority: ["FRE 415", "FRE 413(d)", "FRE 403"]
+  source: original
+  tags: [wave1, M3, sexual-assault-propensity]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-EVD-0021
+  subject: EVD
+  coverage_ids: [EVD-MBE-II.B]
+  rule_ids: [R-EVD-049, R-EVD-048]
+  difficulty: 2
+  stem: >-
+    In a suit on a handwritten promissory note, the defendant claims that the signature on the note is a
+    forgery. The plaintiff calls a paralegal from her lawyer's office who, after the suit was filed, spent
+    several days studying dozens of the defendant's signatures on recorded deeds so that she would be able to
+    recognize his handwriting. The paralegal is prepared to testify that, in her opinion, the signature on the
+    note is the defendant's. She has no training as a handwriting examiner.
+  call: Is the paralegal's testimony admissible to authenticate the signature?
+  options:
+    A: "Yes, because a lay witness may identify handwriting based on her familiarity with it."
+    B: "No, because a nonexpert's familiarity with handwriting must not have been acquired for the current litigation."
+    C: "Yes, because authentication requires only evidence sufficient to support a finding that the item is what the proponent claims."
+    D: "No, because only an expert witness may give an opinion on whether handwriting is genuine."
+  answer: B
+  explanation_correct: >-
+    Authentication methods (R-EVD-049; FRE 901(b)(2)): a nonexpert may give an opinion that handwriting is
+    genuine only if her familiarity with it was not acquired for the current litigation. The paralegal studied
+    the signatures after suit was filed specifically to testify, so she cannot authenticate the note. The
+    plaintiff can instead use an expert, or let the jury compare the note with authenticated specimens (FRE
+    901(b)(3)).
+  explanation_each_wrong_option:
+    A: >-
+      Missing element. Lay familiarity counts only if it arose outside the litigation (for example, from
+      years of correspondence).
+    C: >-
+      The sufficiency standard of FRE 901(a) (R-EVD-048) is correct, but the evidence offered to meet it must
+      itself be admissible; this lay opinion is not.
+    D: >-
+      Overbroad. FRE 901(b)(2) expressly permits lay identification based on familiarity not acquired for
+      the litigation.
+  trap_type: missing-element
+  authority: ["FRE 901(a)", "FRE 901(b)(2)", "FRE 901(b)(3)"]
+  source: original
+  tags: [wave1, M3, authentication, handwriting]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-EVD-0022
+  subject: EVD
+  coverage_ids: [EVD-MBE-II.B, EVD-MBE-II.E]
+  rule_ids: [R-EVD-051, R-EVD-048]
+  difficulty: 1
+  stem: >-
+    In a slip-and-fall action against a grocery store, the plaintiff offers a photograph showing a puddle of
+    liquid detergent spread across an aisle with no warning cone nearby. The plaintiff does not know who took
+    the photograph. Her friend, who was shopping with her and saw the aisle immediately after the fall,
+    testifies that the photograph fairly and accurately shows the aisle as it looked at that time. The store
+    objects that the photographer has not been called.
+  call: Should the court admit the photograph?
+  options:
+    A: "Yes, because a witness with knowledge may testify that the photograph fairly and accurately depicts the scene."
+    B: "No, because a photograph may be authenticated only by the person who took it."
+    C: "No, because the photograph is an out-of-court statement offered to prove the condition of the aisle."
+    D: "Yes, because photographs are self-authenticating."
+  answer: A
+  explanation_correct: >-
+    Photographs (R-EVD-051, R-EVD-048; FRE 901(a), 901(b)(1)): a photograph is authenticated by any witness
+    with knowledge of the scene who testifies that it fairly and accurately depicts it at the relevant time.
+    The friend saw the aisle immediately after the fall, so her testimony is sufficient to support a finding;
+    the photographer's identity is irrelevant.
+  explanation_each_wrong_option:
+    B: >-
+      Overly narrow. Under the pictorial-testimony theory, any witness with knowledge may authenticate; the
+      photographer is needed only if no one else can vouch for the image.
+    C: >-
+      A photograph is not an assertion by a person, so it is not hearsay; the only foundation needed is
+      authentication.
+    D: >-
+      Photographs are not among the self-authenticating categories of FRE 902; extrinsic evidence of
+      authenticity is required.
+  trap_type: confused-rule
+  authority: ["FRE 901(a)", "FRE 901(b)(1)", "FRE 902"]
+  source: original
+  tags: [wave1, M3, authentication, photographs]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-EVD-0023
+  subject: EVD
+  coverage_ids: [EVD-MBE-II.E]
+  rule_ids: [R-EVD-053, R-EVD-081]
+  difficulty: 3
+  stem: >-
+    In a federal antitrust trial, the plaintiff's economist testifies about pricing trends. During her
+    testimony, and with the court's permission, plaintiff's counsel displays a large timeline chart that the
+    economist uses to illustrate her explanation. The chart has not been offered or admitted as evidence.
+    During deliberations, the jury sends a note asking to see "the timeline chart from the economist's
+    testimony." The plaintiff asks the court to send the chart to the jury room. The defendant objects, and the
+    court finds no special reason to depart from the usual practice.
+  call: How should the court respond to the jury's request?
+  options:
+    A: "Send the chart, because the jury saw it during the trial and the court permitted its use."
+    B: "Send the chart, because a summary of voluminous evidence is itself admissible as evidence."
+    C: "Refuse the chart, because illustrative aids may not be shown to a jury in a civil case unless they have been admitted as exhibits."
+    D: "Refuse the chart, because an illustrative aid is not evidence and, absent consent or good cause, does not go to the jury room."
+  answer: D
+  explanation_correct: >-
+    FRE 107 (effective Dec. 1, 2024) (R-EVD-053): a court may allow an illustrative aid to help the jury
+    understand evidence or argument if its utility is not substantially outweighed by unfair prejudice,
+    confusion or delay. Under FRE 107(b), an illustrative aid is not evidence and must not be provided to
+    the jury during deliberations unless all parties consent or the court, for good cause, orders otherwise.
+    The defendant objects and the court found no good cause, so the chart stays out.
+  explanation_each_wrong_option:
+    A: >-
+      Permission to display an aid during testimony does not make it evidence; FRE 107(b) controls what
+      goes to the jury room.
+    B: >-
+      Confused rule. A FRE 1006 summary of voluminous records is offered and admitted as evidence (R-EVD-081).
+      This chart was only used to illustrate testimony and was never admitted.
+    C: >-
+      Overbroad. FRE 107(a) allows illustrative aids to be shown to the jury without admission, subject to
+      its balancing test.
+  trap_type: confused-rule
+  authority: ["FRE 107 (eff. Dec. 1, 2024)", "FRE 1006"]
+  source: original
+  tags: [wave1, M3, illustrative-aids, 2024-amendment]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-EVD-0024
+  subject: EVD
+  coverage_ids: [EVD-MBE-II.D.4]
+  rule_ids: [R-EVD-054, R-EVD-059, R-EVD-005]
+  difficulty: 2
+  stem: >-
+    In a federal products-liability action, the plaintiff offers a metallurgist's opinion that a ladder's
+    rivets failed because of a manufacturing flaw. The manufacturer moves to exclude, showing that the
+    metallurgist tested only two of the six rivets and extended her conclusion to all of them without any
+    recognized basis for doing so. The trial judge says: "These are fair points, but questions about the
+    sufficiency of the expert's data and how she applied her method go to weight, not admissibility. The jury
+    can sort it out on cross-examination." The judge admits the opinion.
+  call: Did the judge apply the correct standard?
+  options:
+    A: "Yes, because once an expert is qualified, challenges to her data and to her application of the method go to the weight of the opinion."
+    B: "Yes, because the proponent need only make a prima facie showing that the opinion is reliable, leaving the rest to the jury."
+    C: "No, because the proponent must show the court, more likely than not, that the basis and the application of the method are reliable."
+    D: "No, because expert testimony is admissible only if the expert's method is generally accepted in the relevant scientific community."
+  answer: C
+  explanation_correct: >-
+    FRE 702 as amended Dec. 1, 2023 (R-EVD-054, R-EVD-059): the proponent must demonstrate to the court
+    that it is more likely than not that each requirement is met, including sufficient facts or data and a
+    reliable application of the method to the facts. These are preliminary questions for the judge under FRE
+    104(a) (R-EVD-005). The amendment was aimed at exactly this error: treating sufficiency of basis and
+    application as mere weight. Extrapolating from two rivets to six without a recognized basis must be
+    evaluated by the judge before the jury hears it.
+  explanation_each_wrong_option:
+    A: >-
+      Wrong standard. Qualification is only one element; basis, method and application each must be shown by
+      a preponderance before the opinion is admitted.
+    B: >-
+      Wrong standard. A prima facie (sufficient-to-support-a-finding) test belongs to conditional relevance
+      under FRE 104(b), not expert reliability under 104(a) and 702.
+    D: >-
+      The Frye general-acceptance test does not govern under the FRE; general acceptance is only one Daubert
+      factor (R-EVD-059).
+  trap_type: wrong-standard
+  authority: ["FRE 702 (as amended Dec. 1, 2023)", "FRE 104(a)", "Daubert v. Merrell Dow Pharmaceuticals, Inc., 509 U.S. 579 (1993)"]
+  source: original
+  tags: [wave1, M3, experts, 2023-amendment]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-EVD-0025
+  subject: EVD
+  coverage_ids: [EVD-MBE-II.D.4]
+  rule_ids: [R-EVD-059, R-EVD-054]
+  difficulty: 2
+  stem: >-
+    In a federal toxic-tort action, the plaintiff offers an epidemiologist's opinion that exposure to a
+    solvent caused the plaintiff's kidney disease. The epidemiologist used a statistical method developed four
+    years ago. The method has been tested in published, peer-reviewed studies and has a known and low error
+    rate, but because it is new, most epidemiologists have not yet adopted it. The defendant moves to exclude
+    the opinion solely on the ground that the method is not generally accepted.
+  call: How should the court rule on the motion?
+  options:
+    A: "Grant it, because a novel scientific technique is inadmissible until it has gained general acceptance in the relevant field."
+    B: "Deny it, because general acceptance is only one factor in judging reliability."
+    C: "Deny it, because the reliability of an expert's method is a question of weight for the jury, not of admissibility."
+    D: "Grant it, because a method that most practitioners have not adopted cannot be a reliable principle or method."
+  answer: B
+  explanation_correct: >-
+    Daubert gatekeeping (R-EVD-059, R-EVD-054): under FRE 702, the judge assesses reliability using flexible
+    factors including testing, peer review and publication, error rate, standards, and general acceptance.
+    General acceptance is a factor, not a requirement. A tested, peer-reviewed method with a known low error
+    rate can be found reliable by a preponderance even before it is widely adopted, so the motion, resting
+    solely on lack of general acceptance, should be denied.
+  explanation_each_wrong_option:
+    A: >-
+      Minority/other-system rule. That is the Frye test, which Daubert held the FRE superseded; California
+      still applies it to new scientific techniques (Kelly), but the MBE does not.
+    C: >-
+      Wrong standard. Reliability of the method is an admissibility question for the judge under FRE 104(a)
+      and 702(c); it is not left to the jury.
+    D: >-
+      Restates the Frye test in different words; adoption by most practitioners is not required.
+  trap_type: minority-rule
+  authority: ["FRE 702", "Daubert v. Merrell Dow Pharmaceuticals, Inc., 509 U.S. 579 (1993)"]
+  source: original
+  tags: [wave1, M3, experts, daubert]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-EVD-0026
+  subject: EVD
+  coverage_ids: [EVD-MBE-II.D.2]
+  rule_ids: [R-EVD-056, R-EVD-083]
+  difficulty: 3
+  stem: >-
+    In a federal medical-malpractice action, the plaintiff's expert, a neurologist, testifies that the
+    defendant's delay in ordering a brain scan caused the plaintiff's stroke damage. She bases her opinion in
+    part on a consulting radiologist's written report, a type of report that neurologists routinely rely on,
+    but the report has not been admitted and is not independently admissible. On direct examination,
+    plaintiff's counsel asks her to read the radiologist's report to the jury word for word. The defendant
+    objects.
+  call: How should the court rule on the objection?
+  options:
+    A: "Overrule it, because an expert may disclose to the jury any facts or data on which she reasonably relied in forming her opinion."
+    B: "Sustain it, because an expert may not base an opinion on facts or data that are not admissible in evidence."
+    C: "Overrule it, because the report is offered only to explain the basis of the opinion, so it is not hearsay."
+    D: "Sustain it unless the report's value in helping the jury assess the opinion substantially outweighs its prejudicial effect."
+  answer: D
+  explanation_correct: >-
+    Bases of expert opinion (R-EVD-056; FRE 703): an expert may rely on inadmissible facts or data if experts
+    in the field would reasonably rely on them, as neurologists do on radiology reports. But if the facts or
+    data are otherwise inadmissible, the proponent may disclose them to the jury only if their probative value
+    in helping the jury evaluate the opinion substantially outweighs their prejudicial effect, a reverse-403
+    test that presumes against disclosure. Reading the whole report verbatim requires that finding.
+  explanation_each_wrong_option:
+    A: >-
+      Overbroad. Reasonable reliance makes the opinion admissible; it does not license the proponent to
+      put the inadmissible basis itself before the jury.
+    B: >-
+      Wrong. FRE 703 expressly allows an opinion based on inadmissible facts or data of a kind reasonably
+      relied on in the field.
+    C: >-
+      The not-for-truth label does not avoid FRE 703's disclosure limit, which applies whatever the theory;
+      and a basis report helps the jury only if it is true (R-EVD-083).
+  trap_type: overbroad
+  authority: ["FRE 703", "FRE 705"]
+  source: original
+  tags: [wave1, M3, experts, basis]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-EVD-0027
+  subject: EVD
+  coverage_ids: [EVD-MBE-II.D.3]
+  rule_ids: [R-EVD-058]
+  difficulty: 2
+  stem: >-
+    A defendant is prosecuted in federal court for knowingly making a false statement to a federal agency. He
+    calls a clinical psychologist who has diagnosed him with a severe memory disorder. The psychologist
+    testifies about the disorder and how it typically affects a person's ability to recall recent events.
+    Defense counsel then asks, "In your opinion, did the defendant know that his statement to the agency was
+    false when he made it?" The prosecution objects.
+  call: How should the court rule on the objection?
+  options:
+    A: "Sustain it, because an expert may not opine on whether a criminal defendant had a mental state that is an element of the crime."
+    B: "Overrule it, because an expert's opinion is not objectionable just because it embraces an ultimate issue."
+    C: "Sustain it, because expert testimony about a defendant's mental condition is inadmissible in a criminal case unless the defendant pleads insanity."
+    D: "Overrule it, because whether the defendant knew his statement was false is a matter beyond the common experience of jurors."
+  answer: A
+  explanation_correct: >-
+    Ultimate-issue opinions (R-EVD-058): FRE 704(a) generally permits opinions on ultimate issues, but FRE
+    704(b) provides that in a criminal case an expert must not state an opinion about whether the defendant
+    did or did not have a mental state that constitutes an element of the crime. Knowledge of falsity is an
+    element, so the question must be excluded. The psychologist's testimony about the disorder and its
+    typical effects remains admissible; the jury draws the final inference.
+  explanation_each_wrong_option:
+    B: >-
+      Exception trap. FRE 704(a) is the general rule, but 704(b) carves out a criminal defendant's mental
+      state.
+    C: >-
+      Overbroad. Experts may describe a defendant's diagnosis and its characteristics; only the ultimate
+      mental-state opinion is barred.
+    D: >-
+      Helpfulness under FRE 702(a) does not override the specific prohibition in 704(b).
+  trap_type: exception-trap
+  authority: ["FRE 704(a)", "FRE 704(b)"]
+  source: original
+  tags: [wave1, M3, experts, ultimate-issue]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-EVD-0028
+  subject: EVD
+  coverage_ids: [EVD-MBE-II.D.1, EVD-MBE-II.D.5]
+  rule_ids: [R-EVD-055, R-EVD-061, R-EVD-054]
+  difficulty: 1
+  stem: >-
+    A homeowner sues a roofing contractor, claiming that the roof leaked because the shingles were fastened
+    with too few nails. The homeowner calls a witness who has no college degree or professional license but
+    who has worked as a roofer for 22 years, has installed and repaired thousands of shingle roofs, and has
+    trained apprentices in nailing patterns. He is prepared to testify that the nailing pattern on the
+    homeowner's roof fell below accepted practice and caused the leaks. The contractor objects that the
+    witness is not qualified to give expert testimony.
+  call: Should the court permit the witness to give his opinion?
+  options:
+    A: "No, because an expert witness must have formal education or professional certification in the field."
+    B: "No, because the cause of a roof leak is within the common knowledge of jurors."
+    C: "Yes, because experience can qualify a witness as an expert, and his specialized knowledge will help the jury."
+    D: "Yes, because any witness who has personally inspected a roof may give an opinion about the cause of its leaks."
+  answer: C
+  explanation_correct: >-
+    Expert qualifications and subject matter (R-EVD-055, R-EVD-061, R-EVD-054): FRE 702 allows a witness to
+    qualify as an expert by knowledge, skill, experience, training or education; experience alone suffices
+    (Kumho Tire applied the gatekeeping rules to experience-based experts). Proper nailing patterns and their
+    effect on leaks are specialized matters that will help jurors. The contractor can still challenge the
+    basis and method under FRE 702(b)-(d).
+  explanation_each_wrong_option:
+    A: >-
+      Wrong standard. FRE 702 lists five alternative sources of expertise; no degree or license is required.
+    B: >-
+      Jurors do not commonly know shingle-fastening standards or how nailing patterns cause leaks, so expert
+      testimony is helpful.
+    D: >-
+      Overbroad. A lay witness's opinion must not rest on specialized knowledge (FRE 701(c)); the witness here
+      is admissible because he qualifies as an expert, not because he looked at the roof.
+  trap_type: wrong-standard
+  authority: ["FRE 702", "FRE 701(c)", "Kumho Tire Co. v. Carmichael, 526 U.S. 137 (1999)"]
+  source: original
+  tags: [wave1, M3, experts, qualifications]
+  status: draft
+  last_verified: "2026-11-04"

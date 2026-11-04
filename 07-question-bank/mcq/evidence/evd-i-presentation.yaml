@@ -1,0 +1,513 @@
+# Evidence MCQs — NCBE category I: presentation of evidence (incl. impeachment)
+# Wave 1 (M3). FRE only. All items original.
+questions:
+- id: Q-EVD-0001
+  subject: EVD
+  coverage_ids: [EVD-MBE-I.A.2]
+  rule_ids: [R-EVD-012, R-EVD-098]
+  difficulty: 1
+  stem: >-
+    In a breach-of-contract action, a warehouse supervisor testifies for the plaintiff about the date a
+    damaged shipment arrived. On direct examination she says she cannot remember the exact date.
+    Plaintiff's counsel hands her an email written by a coworker in the receiving department that mentions
+    the shipment, asks her to read it silently, and then takes it back. The supervisor says, "Yes, now I
+    remember. It came in on March 3, the day of the big snowstorm." The defendant objects to her testimony
+    about the date, arguing that the email was written by someone else, has not been authenticated, and has
+    not been shown to fall within any hearsay exception.
+  call: Should the court admit the supervisor's testimony about the date?
+  options:
+    A: "No, because a writing used to refresh a witness's memory must have been made or adopted by the witness."
+    B: "No, because the email is hearsay and no exception has been established."
+    C: "Yes, because any writing may be used to refresh memory, and she is testifying from revived memory."
+    D: "Yes, because the email is admissible as a recorded recollection once the witness's memory has failed."
+  answer: C
+  explanation_correct: >-
+    Refreshing recollection (R-EVD-012; FRE 612): a witness whose memory fails may look at anything, even a
+    document someone else wrote, and then testify from revived memory. The evidence is her testimony, not the
+    email, so the email needs no authentication or hearsay exception. Her statement that she now remembers,
+    tied to the snowstorm, shows revived memory rather than reading. The defendant's protection is FRE 612(b):
+    it may inspect the email, cross-examine her on it, and introduce relevant portions itself.
+  explanation_each_wrong_option:
+    A: >-
+      Confused rule. "Made or adopted by the witness when fresh" is an element of recorded recollection
+      (FRE 803(5), R-EVD-098), not of refreshing. Any writing or object may refresh memory.
+    B: >-
+      The email is not being offered in evidence, so the hearsay rule does not apply to it. Only the
+      witness's in-court testimony from revived memory is evidence.
+    D: >-
+      Recorded recollection applies only when the witness still cannot recall and the record was made or
+      adopted by her when fresh. Here her memory was revived, and she did not make or adopt the email.
+  trap_type: confused-rule
+  authority: ["FRE 612", "FRE 803(5)"]
+  source: original
+  tags: [wave1, M3, refreshing-recollection]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-EVD-0002
+  subject: EVD
+  coverage_ids: [EVD-MBE-I.A.4]
+  rule_ids: [R-EVD-013, R-EVD-058]
+  difficulty: 1
+  stem: >-
+    A pedestrian sues a bus company, claiming that a bus struck her because its brakes failed. She calls a
+    coffee-shop owner who watched the accident from his window. He testifies that the bus approached the
+    crosswalk at normal speed, that he heard a loud metallic grinding noise, and that the bus did not slow
+    down before hitting her. Plaintiff's counsel then asks, "Based on what you saw and heard, what caused the
+    bus to hit her?" The witness, who has no mechanical training, is prepared to answer, "The brake pads were
+    worn down to the metal, so the brakes failed." The bus company objects.
+  call: How should the court rule on the objection?
+  options:
+    A: "Sustain it, because the opinion about the brake pads requires specialized knowledge."
+    B: "Overrule it, because the opinion is rationally based on the witness's own perception of the grinding noise."
+    C: "Sustain it, because a lay witness may not give an opinion that embraces an ultimate issue in the case."
+    D: "Overrule it, because any objection to the witness's lack of expertise goes to the weight of his opinion, not its admissibility."
+  answer: A
+  explanation_correct: >-
+    Lay opinion (R-EVD-013; FRE 701) must be (a) rationally based on the witness's perception, (b) helpful,
+    and (c) not based on scientific, technical or other specialized knowledge within FRE 702. Inferring
+    worn brake pads and brake failure from a noise is a mechanic's judgment, so prong (c) fails. The
+    witness may still describe what he saw and heard (normal speed, grinding noise, no slowing); the
+    plaintiff needs an expert for the mechanical cause.
+  explanation_each_wrong_option:
+    B: >-
+      Missing element. Perception is only the first requirement; an opinion that needs specialized
+      knowledge is outside FRE 701 even if the witness perceived the underlying facts.
+    C: >-
+      Wrong rule. FRE 704(a) provides that an opinion is not objectionable just because it embraces an
+      ultimate issue (R-EVD-058). The defect is specialized knowledge, not the ultimate issue.
+    D: >-
+      Gaps in an expert's qualifications can go to weight once the witness is qualified as an expert; a
+      lay witness with no qualification at all may not give a specialized opinion. The judge decides this
+      under FRE 104(a).
+  trap_type: missing-element
+  authority: ["FRE 701", "FRE 702", "FRE 704(a)"]
+  source: original
+  tags: [wave1, M3, lay-opinion]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-EVD-0003
+  subject: EVD
+  coverage_ids: [EVD-MBE-I.A.6]
+  rule_ids: [R-EVD-014, R-EVD-016]
+  difficulty: 2
+  stem: >-
+    A defendant is on trial in federal court for an offense that, as charged, requires the government to
+    prove that the act occurred after sunset. A witness testified that she saw the defendant at the scene at
+    about 6:00 p.m. on January 14. The prosecutor asks the court to take judicial notice that sunset in that
+    city on January 14 of that year occurred at 5:09 p.m., and supplies official astronomical tables published
+    by a federal agency. The defendant does not dispute the tables, and the court takes judicial notice of the
+    time of sunset.
+  call: How should the court instruct the jury about the noticed fact?
+  options:
+    A: "That the jury must accept the time of sunset as conclusively established."
+    B: "That the jury may, but is not required to, accept the time of sunset as conclusive."
+    C: "That the time of sunset is presumed, and the defendant bears the burden of producing evidence to rebut it."
+    D: "That the jury may not consider the time of sunset, because judicial notice of a fact bearing on an element of a crime violates the right to a jury trial."
+  answer: B
+  explanation_correct: >-
+    Judicial notice (R-EVD-014): the time of sunset can be accurately and readily determined from sources
+    whose accuracy cannot reasonably be questioned (FRE 201(b)(2)), so notice is proper. Because this is a
+    criminal case, FRE 201(f) requires the court to instruct the jury that it may or may not accept the
+    noticed fact as conclusive. This preserves the jury's power to find every element.
+  explanation_each_wrong_option:
+    A: >-
+      Wrong standard. "Must accept as conclusive" is the instruction in a civil case (FRE 201(f), first
+      sentence). In a criminal case the jury is free to reject the noticed fact.
+    C: >-
+      Confuses judicial notice with presumptions. FRE 301 governs civil presumptions, and a mandatory
+      presumption that shifts a burden to the accused on an element would violate due process (R-EVD-016).
+    D: >-
+      Overbroad. FRE 201 applies in criminal cases at any stage; the permissive instruction is the
+      safeguard for the jury-trial right, not exclusion of the fact.
+  trap_type: wrong-standard
+  authority: ["FRE 201(b)", "FRE 201(f)"]
+  source: original
+  tags: [wave1, M3, judicial-notice]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-EVD-0004
+  subject: EVD
+  coverage_ids: [EVD-MBE-I.A.1, EVD-MBE-I.A.3]
+  rule_ids: [R-EVD-009, R-EVD-008]
+  difficulty: 2
+  stem: >-
+    In a negligence action arising from a collision at an intersection, the plaintiff calls a neighbor who
+    lives on the corner. On direct examination the neighbor testifies, without objection, "The defendant's
+    pickup ran the red light." On cross-examination she admits that she was in her kitchen when she heard the
+    crash, that she did not see the traffic light or the collision, and that she is relying on what her
+    teenage son told her afterward. Defense counsel immediately moves to strike her testimony that the pickup
+    ran the red light. The plaintiff argues that the motion comes too late because the defendant did not
+    object when the testimony was given.
+  call: How should the court rule on the motion to strike?
+  options:
+    A: "Deny it, because the defendant waived any objection by failing to object before the neighbor answered on direct."
+    B: "Deny it, because the neighbor's lack of personal knowledge goes to the weight of her testimony, which the jury can assess."
+    C: "Grant it, because the neighbor's testimony became irrelevant once she admitted that she did not see the collision."
+    D: "Grant it, because the neighbor lacks personal knowledge, and the motion was timely."
+  answer: D
+  explanation_correct: >-
+    Personal knowledge (R-EVD-009; FRE 602): a lay witness may testify only to matters she perceived. Cross
+    revealed that the neighbor saw nothing and is relaying her son's account. Timeliness (R-EVD-008; FRE
+    103(a)(1)): an objection or motion to strike is timely if made as soon as the ground becomes apparent.
+    Nothing on direct revealed the defect, so the motion to strike, made immediately after cross exposed it,
+    preserves the issue. The court should strike the answer and instruct the jury to disregard it.
+  explanation_each_wrong_option:
+    A: >-
+      Procedural trap. Waiver applies when a party sits on a ground it could have seen; here the ground
+      appeared only on cross, and a prompt motion to strike is the proper tool.
+    B: >-
+      FRE 602 is an admissibility requirement: the proponent must offer evidence sufficient to support a
+      finding of personal knowledge. Once the witness admits she did not perceive the event, there is no
+      such evidence, so the issue is not merely one of weight.
+    C: >-
+      Right result, wrong reason. Whether the pickup ran the light is highly relevant (FRE 401); the defect
+      is the witness's lack of personal knowledge, not relevance.
+  trap_type: procedural-posture
+  authority: ["FRE 602", "FRE 103(a)(1)"]
+  source: original
+  tags: [wave1, M3, personal-knowledge, objections]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-EVD-0005
+  subject: EVD
+  coverage_ids: [EVD-MBE-I.C.3]
+  rule_ids: [R-EVD-019]
+  difficulty: 1
+  stem: >-
+    A cyclist sues a trucking company, alleging that one of its drivers sideswiped him while changing lanes.
+    In his case-in-chief, the cyclist calls the driver, who still works for the company and has been sitting
+    with the company's lawyers during breaks. The driver is not a named party. The cyclist's counsel asks, "You
+    were looking at your phone when you changed lanes, weren't you?" The company objects that counsel is
+    leading his own witness on direct examination.
+  call: How should the court rule on the objection?
+  options:
+    A: "Overrule it, because the driver is identified with an adverse party."
+    B: "Sustain it, because leading questions may not be used on direct examination."
+    C: "Sustain it, unless the cyclist first shows that the driver has been evasive or hostile in his answers."
+    D: "Overrule it, because the driver's answers will be statements of a party opponent."
+  answer: A
+  explanation_correct: >-
+    Leading questions (R-EVD-019; FRE 611(c)(2)): ordinarily, the court should allow leading questions when
+    a party calls a hostile witness, an adverse party, or a witness identified with an adverse party. A
+    current employee of the defendant company is a witness identified with the adverse party, so leading
+    is ordinarily permitted even though this is technically direct examination.
+  explanation_each_wrong_option:
+    B: >-
+      Overbroad. The general bar on leading during direct examination has express exceptions in FRE
+      611(c)(2), and this witness falls within one of them.
+    C: >-
+      FRE 611(c)(2) lists three separate categories. Actual hostility must be shown only for a witness who
+      is not otherwise identified with the adverse party; an adverse party's employee qualifies without it.
+    D: >-
+      Confuses the form of questions with the hearsay rule. FRE 801(d)(2) concerns out-of-court
+      statements; it says nothing about whether counsel may lead a live witness.
+  trap_type: exception-trap
+  authority: ["FRE 611(c)"]
+  source: original
+  tags: [wave1, M3, leading-questions]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-EVD-0006
+  subject: EVD
+  coverage_ids: [EVD-MBE-I.D.3]
+  rule_ids: [R-EVD-025, R-EVD-003]
+  difficulty: 2
+  stem: >-
+    A defendant is on trial in federal court for aggravated assault arising from a fight outside a stadium.
+    He testifies that he acted in self-defense. On cross-examination, the prosecutor seeks to ask about the
+    defendant's conviction four years ago for the misdemeanor of filing a false insurance claim, an offense
+    whose elements required proof that he knowingly made a false statement to an insurer. The offense carried a
+    maximum sentence of six months in jail. The defendant objects that the conviction has nothing to do with
+    violence and that its prejudicial effect outweighs its probative value.
+  call: Should the court permit the impeachment?
+  options:
+    A: "No, because the conviction was for a misdemeanor punishable by less than one year."
+    B: "No, unless the court finds that its probative value outweighs its prejudicial effect to the defendant."
+    C: "Yes, because the conviction required proof of a false statement, so it must be admitted regardless of punishment."
+    D: "Yes, because by claiming self-defense the defendant placed his character for peacefulness in issue."
+  answer: C
+  explanation_correct: >-
+    Impeachment by conviction (R-EVD-025; FRE 609(a)(2)): for any crime, regardless of punishment, the
+    conviction must be admitted if the court can readily determine that establishing its elements required
+    proof of a dishonest act or false statement. Knowingly making a false statement to an insurer is such
+    an element. There is no balancing, not even FRE 403 (R-EVD-003), and the rule applies to an accused who
+    testifies. The conviction is four years old, so the ten-year limit of FRE 609(b) is not triggered.
+  explanation_each_wrong_option:
+    A: >-
+      The more-than-one-year requirement belongs to FRE 609(a)(1). Crimen falsi convictions under
+      609(a)(2) qualify regardless of punishment, including misdemeanors.
+    B: >-
+      Wrong standard. The reverse balancing test protects an accused only for convictions admitted under
+      609(a)(1)(B). It does not apply to crimes of dishonesty or false statement.
+    D: >-
+      Claiming self-defense does not make the defendant's own character an issue, and impeachment under
+      609 has nothing to do with the trait of peacefulness; it attacks character for truthfulness.
+  trap_type: wrong-standard
+  authority: ["FRE 609(a)(2)", "FRE 609(b)"]
+  source: original
+  tags: [wave1, M3, impeachment, prior-conviction]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-EVD-0007
+  subject: EVD
+  coverage_ids: [EVD-MBE-I.D.3]
+  rule_ids: [R-EVD-025, R-EVD-003]
+  difficulty: 2
+  stem: >-
+    In a federal civil action for breach of a construction contract, the defendant calls a former site
+    foreman, who testifies that the plaintiff's crew used substandard materials. On cross-examination, the
+    plaintiff seeks to ask the foreman about his conviction six years ago for felony aggravated assault, for
+    which he served 18 months in state prison; he was released about four and a half years ago. The defendant
+    objects that an assault conviction says nothing about truthfulness.
+  call: What standard should the court apply in deciding whether to admit the conviction?
+  options:
+    A: "It must admit the conviction, because it was a felony and the witness is not the accused."
+    B: "It must admit the conviction unless its probative value is substantially outweighed by a Rule 403 danger."
+    C: "It may admit the conviction only if its probative value outweighs its prejudicial effect to the witness."
+    D: "It may not admit the conviction, because assault is not a crime involving dishonesty or false statement."
+  answer: B
+  explanation_correct: >-
+    FRE 609(a)(1)(A) (R-EVD-025): a conviction for a crime punishable by more than one year must be admitted
+    to impeach a witness other than a criminal defendant, subject to Rule 403 (R-EVD-003). So the
+    conviction comes in unless its probative value on credibility is substantially outweighed by unfair
+    prejudice, confusion or waste of time. It is within ten years of both conviction and release, so FRE
+    609(b) does not apply.
+  explanation_each_wrong_option:
+    A: >-
+      Overbroad. Felony convictions of ordinary witnesses are not automatic; the text says "subject to Rule
+      403". Only crimen falsi convictions under 609(a)(2) are admitted without balancing.
+    C: >-
+      Wrong standard. The "probative value outweighs prejudicial effect" test favoring exclusion protects
+      only a criminal defendant who testifies (609(a)(1)(B)). This is a civil case and a non-party witness.
+    D: >-
+      Confuses the two prongs. A felony need not involve dishonesty; 609(a)(1) admits any qualifying felony
+      subject to balancing. Dishonesty matters only for 609(a)(2).
+  trap_type: wrong-standard
+  authority: ["FRE 609(a)(1)(A)", "FRE 403"]
+  source: original
+  tags: [wave1, M3, impeachment, prior-conviction]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-EVD-0008
+  subject: EVD
+  coverage_ids: [EVD-MBE-I.D.4]
+  rule_ids: [R-EVD-027, R-EVD-022]
+  difficulty: 2
+  stem: >-
+    In a civil fraud action, the defendant calls its former bookkeeper, who testifies that she was present
+    when the defendant disclosed the risks of the investment to the plaintiff. On cross-examination,
+    plaintiff's counsel, who has a copy of a job application the bookkeeper submitted to a prior employer,
+    asks, "Isn't it true that you falsely claimed on a job application that you held a bachelor's degree in
+    accounting?" The bookkeeper answers, "No, that's not true." Plaintiff's counsel then offers the application
+    itself and calls a university registrar who will testify that the bookkeeper never received any degree.
+    Her education has no bearing on any issue in the case other than her credibility.
+  call: Should the court admit the application and the registrar's testimony?
+  options:
+    A: "Yes, because the bookkeeper opened the door by denying the conduct on cross-examination."
+    B: "Yes, because a false claim on a job application is a specific instance of conduct probative of untruthfulness."
+    C: "No, because specific instances of conduct may not be inquired into on cross-examination unless they resulted in a conviction."
+    D: "No, because extrinsic evidence of specific instances of conduct is not admissible to attack a witness's character for truthfulness."
+  answer: D
+  explanation_correct: >-
+    FRE 608(b) (R-EVD-027): except for criminal convictions, extrinsic evidence is not admissible to prove
+    specific instances of a witness's conduct in order to attack her character for truthfulness. The court
+    may allow the question on cross-examination (lying on an application is probative of untruthfulness),
+    but the examiner must take the answer. The application and the registrar are extrinsic evidence offered
+    only for that purpose, and the matter is otherwise collateral (R-EVD-022).
+  explanation_each_wrong_option:
+    A: >-
+      A denial does not open the door. The whole point of 608(b) is that counsel is stuck with the answer
+      on a matter relevant only to character for truthfulness.
+    B: >-
+      This explains why the question was permitted, but probative value on truthfulness permits only
+      inquiry on cross, never extrinsic proof.
+    C: >-
+      Misstates 608(b). Non-conviction acts probative of truthfulness may be asked about on cross; it is
+      extrinsic proof that is barred.
+  trap_type: exception-trap
+  authority: ["FRE 608(b)"]
+  source: original
+  tags: [wave1, M3, impeachment, specific-instances]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-EVD-0009
+  subject: EVD
+  coverage_ids: [EVD-MBE-I.D.2]
+  rule_ids: [R-EVD-024, R-EVD-022]
+  difficulty: 1
+  stem: >-
+    In a personal-injury action, the defendant calls an eyewitness who testifies that the plaintiff stepped
+    off the curb against the signal. On cross-examination, the plaintiff's lawyer asks whether the defendant
+    has promised to forgive a $15,000 debt the eyewitness owes him. The eyewitness denies any such
+    arrangement. In rebuttal, the plaintiff calls the defendant's former business partner, who will testify
+    that two days after the accident she heard the defendant tell the eyewitness, "Help me out at trial and you
+    can forget the fifteen grand." The defendant objects.
+  call: Should the court admit the former partner's testimony?
+  options:
+    A: "No, because a party may not use extrinsic evidence to contradict a witness's answer on a collateral matter."
+    B: "Yes, because bias is never collateral and may be shown by extrinsic evidence."
+    C: "No, because the plaintiff is bound by the eyewitness's denial on cross-examination."
+    D: "Yes, but only after the eyewitness is recalled and given a second opportunity to admit the arrangement."
+  answer: B
+  explanation_correct: >-
+    Bias (R-EVD-024; United States v. Abel): a witness's bias, interest or motive to testify falsely is
+    never collateral, so it may be shown on cross and by extrinsic evidence. The foundation was laid when the
+    eyewitness was asked about the arrangement and denied it. The partner's account of the defendant's
+    offer is not hearsay for this purpose: it is offered to show the eyewitness's motive, and it is in any
+    event the defendant's own statement offered against him.
+  explanation_each_wrong_option:
+    A: >-
+      Confused rule. The collateral-matter limit bars extrinsic proof on matters relevant only to
+      contradiction or character for truthfulness (R-EVD-022); bias is not collateral.
+    C: >-
+      "Take the answer" is the FRE 608(b) rule for specific acts offered to show untruthful character. It
+      does not apply to bias.
+    D: >-
+      The witness was already asked about the arrangement and denied it, so any foundation requirement is
+      met; there is no rule requiring a second opportunity.
+  trap_type: confused-rule
+  authority: ["United States v. Abel, 469 U.S. 45 (1984)", "FRE 607", "FRE 608(b)"]
+  source: original
+  tags: [wave1, M3, impeachment, bias]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-EVD-0010
+  subject: EVD
+  coverage_ids: [EVD-MBE-I.D.1]
+  rule_ids: [R-EVD-023, R-EVD-033]
+  difficulty: 3
+  stem: >-
+    In a federal civil action arising from a highway collision, a truck driver who is not a party testifies
+    for the defendant that the defendant's light was green. Plaintiff's counsel cross-examines him briefly
+    about his line of sight but does not mention any earlier statement. The driver steps down but remains
+    under subpoena and subject to recall. Later, in the plaintiff's rebuttal case, counsel calls a tow-truck
+    operator to testify that, at the scene, the driver told him the defendant "blew right through the red."
+    The defendant objects that the driver was never asked about this statement. The color of the light is the
+    central disputed issue in the case. The court has made no special order about the order of proof.
+  call: May the plaintiff introduce the tow-truck operator's testimony to impeach the driver at this point, over the defendant's objection?
+  options:
+    A: "No, because absent a court order, extrinsic evidence of the statement may not come in until the driver has had a chance to explain or deny it."
+    B: "Yes, because the driver remains subject to recall, so he can be given an opportunity to explain or deny the statement after it is introduced."
+    C: "Yes, because a party examining a witness about a prior statement need not show it or disclose its contents to the witness."
+    D: "No, because the color of the light is a collateral matter on which extrinsic impeachment is not allowed."
+  answer: A
+  explanation_correct: >-
+    FRE 613(b) as amended Dec. 1, 2024 (R-EVD-023): unless the court orders otherwise, extrinsic evidence of a
+    witness's prior inconsistent statement may not be admitted until after the witness is given an
+    opportunity to explain or deny it and the adverse party an opportunity to examine him about it. The
+    driver was never confronted with the statement, so the operator's testimony is premature. Counsel can cure
+    this by recalling the driver first or asking the court to order otherwise. The matter is not collateral
+    (R-EVD-033), and the driver is not a party, so the 801(d)(2) carve-out from 613(b) does not apply.
+  explanation_each_wrong_option:
+    B: >-
+      Outdated rule. Before the 2024 amendment, many courts let the opportunity to explain or deny come after
+      the extrinsic evidence if the witness could be recalled (California's § 770 still does). Amended FRE
+      613(b) requires a prior opportunity unless the court orders otherwise.
+    C: >-
+      True but irrelevant. FRE 613(a) frees counsel from showing a statement to the witness when questioning
+      him; it does not govern when extrinsic proof of the statement may come in.
+    D: >-
+      The light's color is the central disputed fact, so a statement contradicting the witness on it is
+      not collateral. The obstacle is timing of the foundation, not collateralness.
+  trap_type: wrong-standard
+  authority: ["FRE 613(b) (as amended Dec. 1, 2024)", "FRE 613(a)"]
+  source: original
+  tags: [wave1, M3, impeachment, prior-inconsistent-statement, 2024-amendment]
+  status: draft
+  last_verified: "2026-11-04"
+  notes: >-
+    Call deliberately limited to impeachment use. Whether the statement is also substantive evidence under
+    amended FRE 801(d)(1)(A) (V-028) is not tested.
+
+- id: Q-EVD-0011
+  subject: EVD
+  coverage_ids: [EVD-MBE-I.D.8, EVD-MBE-I.D.5]
+  rule_ids: [R-EVD-029, R-EVD-032, R-EVD-024]
+  difficulty: 3
+  stem: >-
+    In a federal prosecution for wire fraud, a government witness testifies that the defendant told her that
+    investors in his scheme were certain to lose their money. On cross-examination, defense counsel
+    establishes that the witness was originally charged in the same scheme and that the government agreed to
+    dismiss her charges in exchange for her testimony. The defense offers no evidence about the witness's
+    general character. After the cross-examination ends, the prosecution calls the witness's former supervisor
+    of ten years to testify that, in his opinion, the witness is a truthful person. The defendant objects.
+  call: Should the court admit the supervisor's opinion testimony?
+  options:
+    A: "Yes, because a witness's credibility may be supported by opinion testimony about the witness's character for truthfulness."
+    B: "Yes, because any impeachment of a witness permits the party that called her to rehabilitate her."
+    C: "No, because character for truthfulness may be proved only by reputation testimony, not by opinion."
+    D: "No, because truthful character may be shown only after an attack on character for truthfulness, and bias is not such an attack."
+  answer: D
+  explanation_correct: >-
+    FRE 608(a) (R-EVD-029, R-EVD-032): evidence of truthful character is admissible only after the
+    witness's character for truthfulness has been attacked. The defense impeached by bias and interest (the
+    dismissal deal, R-EVD-024), which suggests a motive to shade testimony but does not attack her general
+    character for truthfulness. Rehabilitation must respond to the kind of attack made; here the
+    prosecution could, for example, offer a prior consistent statement made before the deal (FRE
+    801(d)(1)(B)).
+  explanation_each_wrong_option:
+    A: >-
+      Missing element. Opinion testimony on truthfulness is a proper form, but supporting evidence is
+      allowed only after an attack on character for truthfulness.
+    B: >-
+      Overbroad. Rehabilitation must meet the type of impeachment; bias or contradiction does not open the
+      door to good-character evidence.
+    C: >-
+      FRE 608(a) expressly allows both reputation and opinion testimony.
+  trap_type: overbroad
+  authority: ["FRE 608(a)", "FRE 801(d)(1)(B)"]
+  source: original
+  tags: [wave1, M3, rehabilitation, character-for-truthfulness]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-EVD-0012
+  subject: EVD
+  coverage_ids: [EVD-MBE-I.D.7]
+  rule_ids: [R-EVD-031, R-EVD-084, R-EVD-104]
+  difficulty: 3
+  stem: >-
+    In a civil action arising from a warehouse fire, the plaintiff introduces, as an excited utterance, a
+    statement a forklift operator shouted moments after the fire started: "The defendant's space heater just
+    exploded!" The operator has since moved overseas and does not testify. The defendant offers testimony from
+    the operator's roommate that, the evening after the fire, the operator told her, "I never saw where the fire
+    started." The plaintiff objects that the operator was never given an opportunity to explain or deny that
+    later statement.
+  call: Should the court admit the roommate's testimony to impeach the operator?
+  options:
+    A: "No, because extrinsic evidence of a prior inconsistent statement is admissible only after the witness has had an opportunity to explain or deny it."
+    B: "No, because the roommate's testimony is hearsay and no exception applies."
+    C: "Yes, because a hearsay declarant may be impeached with an inconsistent statement without any chance to explain or deny it."
+    D: "Yes, because the operator's later statement is admissible for its truth as a statement against interest."
+  answer: C
+  explanation_correct: >-
+    FRE 806 (R-EVD-031): when a hearsay statement has been admitted, the declarant's credibility may be
+    attacked by any evidence that would be admissible if the declarant had testified, and the court may admit
+    the declarant's inconsistent statement or conduct regardless of when it occurred or whether the declarant
+    had an opportunity to explain or deny it. The later statement is offered only to impeach, not for its
+    truth, so it is not hearsay for that purpose (R-EVD-084).
+  explanation_each_wrong_option:
+    A: >-
+      Confused rule. The FRE 613(b) foundation applies to witnesses who testify; FRE 806 expressly dispenses
+      with it for hearsay declarants, who usually cannot be confronted.
+    B: >-
+      The statement is offered to show the operator said inconsistent things, which bears on credibility
+      whether or not either statement is true, so it is not offered for its truth.
+    D: >-
+      Saying one did not see where a fire started exposes the operator to no pecuniary, proprietary or
+      criminal liability, so it is not against interest (R-EVD-104); and the item asks only about impeachment.
+  trap_type: confused-rule
+  authority: ["FRE 806", "FRE 613(b)", "FRE 801(c)"]
+  source: original
+  tags: [wave1, M3, impeachment, hearsay-declarant]
+  status: draft
+  last_verified: "2026-11-04"

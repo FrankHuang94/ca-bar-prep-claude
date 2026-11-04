@@ -1,0 +1,313 @@
+# Torts MCQs — NCBE category III: strict liability (abnormally dangerous activities, animals) and products liability
+# Wave 1 (M3). MBE defaults: pure comparative negligence and joint and several liability unless stated.
+# Majority common-law / Restatement rules only; no California-only rules. All items original.
+questions:
+- id: Q-TRT-0036
+  subject: TRT
+  coverage_ids: [TRT-MBE-III, TRT-CBX-VIII-X]
+  rule_ids: [R-TRT-077, R-TRT-080]
+  difficulty: 3
+  stem: >-
+    A quarry company conducted routine blasting with every known precaution, as it had done for years. The
+    noise of one blast startled a neighbor's horse grazing in a pasture more than a mile away. The horse
+    bolted into a barbed-wire fence and was badly injured. No debris, vibration or shock wave reached the
+    neighbor's land. The neighbor sues the quarry company in strict liability only.
+  call: Is the neighbor likely to prevail?
+  options:
+    A: "No, because the harm did not result from the kind of risk that makes blasting abnormally dangerous."
+    B: "Yes, because blasting is an abnormally dangerous activity, so the company is liable for all harm it causes, regardless of care."
+    C: "No, because the company exercised the utmost care in conducting the blast."
+    D: "Yes, because the injury to the horse was a direct result of the blast."
+  answer: A
+  explanation_correct: >-
+    Abnormally dangerous activities (R-TRT-077): one who carries on such an activity is strictly liable, but
+    only for harm of the kind whose possibility makes the activity abnormally dangerous. Blasting is abnormally
+    dangerous because of flying debris and concussion; a startled animal reacting to noise a mile away is
+    outside that risk, so most courts deny strict liability. The neighbor would have to prove negligence.
+  explanation_each_wrong_option:
+    B: >-
+      Overbroad. Strict liability is limited to the kind of harm that makes the activity abnormally dangerous,
+      suffered by a foreseeable plaintiff.
+    C: >-
+      Right result, wrong reason. The utmost care is no defense to strict liability; the claim fails because
+      of the type of harm, not because of care.
+    D: >-
+      A direct-consequences test is not the limit on strict liability; the harm must be within the
+      characteristic risk of the activity.
+  trap_type: right-result-wrong-reason
+  authority: ["Restatement (Second) of Torts §§ 519, 520"]
+  source: original
+  tags: [wave1, M3, strict-liability, abnormally-dangerous]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-TRT-0037
+  subject: TRT
+  coverage_ids: [TRT-MBE-III, TRT-CBX-VIII-X]
+  rule_ids: [R-TRT-078, R-TRT-079, R-TRT-080]
+  difficulty: 1
+  stem: >-
+    A man kept a young black bear, which he had raised from a cub and which had never harmed anyone, in a sturdy
+    steel enclosure in his backyard. He invited a neighbor to see it and told her to stand behind a rail, which
+    she did. While the man, using every customary precaution, opened the enclosure door to feed the bear, it
+    unexpectedly lunged through the gap and clawed the neighbor's arm. The neighbor sues the man.
+  call: On what basis, if any, is the man likely to be liable?
+  options:
+    A: "Negligence only, because the bear had never shown any dangerous propensity."
+    B: "Negligence only, because the man used every customary precaution."
+    C: "No basis, because the neighbor voluntarily came to see a wild animal."
+    D: "Strict liability, because the bear is a wild animal."
+  answer: D
+  explanation_correct: >-
+    Wild animals (R-TRT-078): a possessor of a wild animal is strictly liable for harm resulting from a
+    dangerous propensity characteristic of its species, even if the animal was tame and the possessor used the
+    utmost care. A bear clawing someone is exactly that propensity, and the neighbor was an invited guest, a
+    foreseeable plaintiff who followed instructions rather than knowingly courting the danger (R-TRT-080).
+  explanation_each_wrong_option:
+    A: >-
+      Confused rule. Knowledge of a particular animal's dangerous propensity matters for domestic animals
+      (R-TRT-079), not for wild animals, whose propensities are presumed.
+    B: >-
+      Care is irrelevant to strict liability; the possessor is liable despite the utmost care.
+    C: >-
+      Visiting at the owner's invitation and staying behind the rail is not a knowing, voluntary assumption of
+      the risk of an escape.
+  trap_type: confused-rule
+  authority: ["Restatement (Second) of Torts § 507"]
+  source: original
+  tags: [wave1, M3, strict-liability, animals]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-TRT-0038
+  subject: TRT
+  coverage_ids: [TRT-MBE-III, TRT-CBX-VIII-X]
+  rule_ids: [R-TRT-079, R-TRT-080]
+  difficulty: 1
+  stem: >-
+    A family's two-year-old golden retriever had always been gentle, had never growled at or bitten anyone,
+    and had no history of aggression known to the family. While a neighbor's child was visiting with the
+    family's permission, the dog unexpectedly bit the child's hand. The jurisdiction has no dog-bite statute.
+    The child's parents sue the family on the child's behalf in strict liability.
+  call: Is the strict-liability claim likely to succeed?
+  options:
+    A: "Yes, because owners of domestic animals are strictly liable for injuries their animals cause."
+    B: "No, because there is no strict liability for a domestic animal without known dangerous propensities."
+    C: "Yes, because the child was lawfully on the property when bitten."
+    D: "No, because the child's parents assumed the risk on the child's behalf by allowing the child to play with the dog."
+  answer: B
+  explanation_correct: >-
+    Domestic animals (R-TRT-079): at common law, the possessor of a domestic animal is strictly liable only if
+    he knew or had reason to know of the animal's abnormally dangerous propensity and the harm resulted from it.
+    Nothing suggested this dog was dangerous, so strict liability fails; the parents must prove negligence.
+  explanation_each_wrong_option:
+    A: >-
+      Overbroad. Strict liability for domestic animals requires known dangerous propensities (the "one free
+      bite" idea); otherwise negligence governs.
+    C: >-
+      Minority/statutory rule. Dog-bite statutes in some states, such as California's Civ. Code § 3342,
+      impose strict liability on owners for bites to persons lawfully on the property, but the question says
+      there is no such statute.
+    D: >-
+      Permitting a child to visit a household with an apparently gentle dog is not a knowing acceptance of a
+      specific risk (R-TRT-080); the claim fails for lack of known propensity.
+  trap_type: minority-rule
+  authority: ["Restatement (Second) of Torts § 509"]
+  source: original
+  tags: [wave1, M3, strict-liability, animals]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-TRT-0039
+  subject: TRT
+  coverage_ids: [TRT-MBE-III, TRT-CBX-VI]
+  rule_ids: [R-TRT-085, R-TRT-082, R-TRT-081, R-TRT-043]
+  difficulty: 1
+  stem: >-
+    A hardware store sold a new electric space heater, manufactured by a national company, in its original
+    sealed carton. Because of a wiring error at the factory, the heater's thermostat failed, and the heater
+    overheated and set fire to the buyer's living room, burning the buyer. The store could not have detected
+    the wiring error without taking the heater apart. The buyer sues the store in strict products liability.
+  call: Is the buyer likely to prevail against the store?
+  options:
+    A: "No, because the store was not negligent in selling the heater, and a retailer is liable only for defects it could have discovered."
+    B: "No, because only the manufacturer of a defective product is strictly liable."
+    C: "Yes, because every commercial seller of a defective product is strictly liable, even one that could not find the defect."
+    D: "Yes, because the store breached its duty to inspect every product it sells."
+  answer: C
+  explanation_correct: >-
+    Strict products liability (R-TRT-081, R-TRT-085) extends to every commercial seller in the chain of
+    distribution, including retailers. The miswired heater departed from its intended design, a manufacturing
+    defect (R-TRT-082) that existed when it left the store's control. The store's inability to find the defect
+    is irrelevant; it may seek indemnity from the manufacturer (R-TRT-043).
+  explanation_each_wrong_option:
+    A: >-
+      Strict liability does not depend on the seller's negligence; that is the point of the doctrine.
+    B: >-
+      Confused rule. Retailers, wholesalers and distributors are all strictly liable as commercial sellers.
+    D: >-
+      Wrong reason. A retailer of sealed products generally has no negligence duty to inspect; its liability
+      here is strict.
+  trap_type: confused-rule
+  authority: ["Restatement (Second) of Torts § 402A", "Restatement (Third) of Torts: Products Liability § 1"]
+  source: original
+  tags: [wave1, M3, products-liability, retailer]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-TRT-0040
+  subject: TRT
+  coverage_ids: [TRT-MBE-III, TRT-CBX-VI]
+  rule_ids: [R-TRT-083, R-TRT-082, R-TRT-088]
+  difficulty: 2
+  stem: >-
+    A manufacturer sold a riding lawn mower whose blades kept spinning for several seconds after the operator
+    left the seat. Competitors' mowers, priced about the same, used an inexpensive seat switch that stopped the
+    blades instantly when the operator stood up, and the switch had no effect on mowing performance. A buyer
+    stepped off the mower to move a branch, slipped, and his foot went under the still-spinning blades. The
+    mower was built exactly as designed. The buyer sues the manufacturer in strict products liability.
+  call: What is the buyer's strongest argument?
+  options:
+    A: "The risks of the design outweighed its benefits, because a feasible, inexpensive alternative design would have reduced the risk without impairing the mower's usefulness."
+    B: "The mower had a manufacturing defect because it caused an injury."
+    C: "The manufacturer failed to use reasonable care in assembling the mower."
+    D: "Any product that causes injury during ordinary use is defective."
+  answer: A
+  explanation_correct: >-
+    Design defect (R-TRT-083): under the risk-utility test, a product is defectively designed if the
+    foreseeable risks could have been reduced by a reasonable alternative design. A cheap, available seat switch
+    that eliminates the blade-spin hazard without reducing utility is strong proof that the design was not
+    reasonably safe. Every mower in the line shares the design, which is why this is a design claim.
+  explanation_each_wrong_option:
+    B: >-
+      Fact misread. A manufacturing defect is a departure from the intended design (R-TRT-082); this mower was
+      built exactly as designed.
+    C: >-
+      Fact misread and wrong theory. Nothing shows careless assembly, and in strict liability the buyer need
+      not prove the maker's lack of care (contrast negligence, R-TRT-088).
+    D: >-
+      Overbroad. Strict liability is not absolute liability; the product must be defective, not merely
+      involved in an injury.
+  trap_type: fact-misread
+  authority: ["Restatement (Third) of Torts: Products Liability § 2(b)", "Restatement (Second) of Torts § 402A"]
+  source: original
+  tags: [wave1, M3, products-liability, design-defect]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-TRT-0041
+  subject: TRT
+  coverage_ids: [TRT-MBE-III, TRT-CBX-VI]
+  rule_ids: [R-TRT-087, R-TRT-082, R-TRT-070]
+  difficulty: 2
+  stem: >-
+    A manufacturer sold a plastic folding step stool rated to hold 250 pounds and labeled "Step stool." A
+    180-pound buyer used it as a seat while painting baseboards, rocking back and forth on it. Because the
+    plastic in its legs was defectively brittle and below the manufacturer's own specifications, a leg snapped
+    and the buyer fell, injuring his back. In the buyer's strict-liability action, the manufacturer argues that
+    the buyer misused the stool by sitting and rocking on it.
+  call: Is the misuse argument likely to defeat the buyer's claim?
+  options:
+    A: "Yes, because the buyer used the stool for a purpose other than the one stated on its label."
+    B: "Yes, because misuse of a product, foreseeable or not, is a complete defense to a strict products-liability claim."
+    C: "No, because a manufacturer is strictly liable for all injuries caused by its products."
+    D: "No, because sitting on a step stool is foreseeable, though the buyer's own fault may reduce recovery."
+  answer: D
+  explanation_correct: >-
+    Defenses in products cases (R-TRT-087): misuse is a defense only if it was unforeseeable; a seller must
+    design and warn against reasonably foreseeable misuse. People routinely sit on step stools, and the stool
+    failed because of a manufacturing defect (R-TRT-082), not because of a use beyond its rated load. Under the
+    MBE default of pure comparative fault (R-TRT-070), any carelessness by the buyer would reduce, not bar,
+    his recovery.
+  explanation_each_wrong_option:
+    A: >-
+      A label describing the intended use does not make every other use unforeseeable; foreseeability, not
+      the label, controls.
+    B: >-
+      Overbroad. Only unforeseeable misuse (or substantial alteration) defeats liability.
+    C: >-
+      Overbroad. Strict liability requires a defect and causation; unforeseeable misuse can defeat it.
+  trap_type: overbroad
+  authority: ["Restatement (Third) of Torts: Products Liability § 2", "Daly v. General Motors Corp. (1978) 20 Cal.3d 725"]
+  source: original
+  tags: [wave1, M3, products-liability, defenses, misuse]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-TRT-0042
+  subject: TRT
+  coverage_ids: [TRT-MBE-III, TRT-CBX-VI]
+  rule_ids: [R-TRT-084, R-TRT-087]
+  difficulty: 3
+  stem: >-
+    In 2016, a company sold a solvent-based adhesive for home use, with warnings about flammability and the need
+    for ventilation. In 2025, researchers using a newly developed testing method discovered for the first time
+    that repeated low-level inhalation of one ingredient can cause a rare nerve disorder. Experts agree that the
+    risk could not have been discovered with the scientific knowledge available in 2016. A hobbyist who used the
+    adhesive regularly from 2016 to 2018 developed the disorder and sues the company in strict products
+    liability for failure to warn.
+  call: Is the hobbyist likely to prevail?
+  options:
+    A: "Yes, because in strict liability a seller must warn of a product's dangers whether or not it knew or could have known of them."
+    B: "No, because a seller has no duty to warn of risks that were not known or reasonably knowable when the product was sold."
+    C: "Yes, because the adhesive's warnings did not cover all of its dangers."
+    D: "No, because a manufacturer's duty to warn ends once the product leaves its control."
+  answer: B
+  explanation_correct: >-
+    Warning defect (R-TRT-084): a product is defective for inadequate warnings only when its foreseeable risks,
+    known or reasonably knowable at the time of distribution, could have been reduced by reasonable warnings.
+    State of the art is relevant to warning claims (R-TRT-087). Because the nerve risk was scientifically
+    undiscoverable in 2016, the adhesive was not defective for failing to warn of it.
+  explanation_each_wrong_option:
+    A: >-
+      Minority rule. A few courts once imposed liability for unknowable risks, but the prevailing rule
+      requires that the risk be known or reasonably knowable at distribution.
+    C: >-
+      Warnings need address only foreseeable risks; incompleteness as to an unknowable risk is not a defect.
+    D: >-
+      Wrong reason and overbroad. The claim fails because the risk was unknowable at sale; some jurisdictions
+      also recognize post-sale duties to warn, so the duty does not automatically end at sale.
+  trap_type: minority-rule
+  authority: ["Restatement (Third) of Torts: Products Liability § 2(c)"]
+  source: original
+  tags: [wave1, M3, products-liability, failure-to-warn]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-TRT-0043
+  subject: TRT
+  coverage_ids: [TRT-MBE-III, TRT-CBX-VI]
+  rule_ids: [R-TRT-086, R-TRT-089, R-TRT-082]
+  difficulty: 3
+  stem: >-
+    A trucking company bought a new refrigerated truck from a dealer. Because of a manufacturing defect in the
+    refrigeration unit's compressor, the unit failed on a hot day; the compressor burned out and damaged the
+    rest of the refrigeration unit. No one was hurt, the cargo had already been unloaded, and no other property
+    was damaged. The company lost $40,000 in profits while the truck was being repaired. It sues the
+    manufacturer in strict products liability for the repair cost and the lost profits.
+  call: Is the trucking company likely to recover in strict liability?
+  options:
+    A: "Yes, because the truck had a manufacturing defect when it left the manufacturer's control."
+    B: "Yes, but only for the repair cost, not the lost profits."
+    C: "No, because damage only to the defective product itself and the resulting lost profits are economic losses, recoverable if at all in warranty or contract."
+    D: "No, because the trucking company bought the truck from a dealer rather than from the manufacturer."
+  answer: C
+  explanation_correct: >-
+    Economic loss (R-TRT-086): strict products liability covers personal injury and damage to property other
+    than the product itself. When a defective product damages only itself and causes lost profits, the loss is
+    economic and belongs to warranty law (R-TRT-089), where the parties' bargain, disclaimers and limitations
+    govern. The defect (R-TRT-082) does not change the type of loss.
+  explanation_each_wrong_option:
+    A: >-
+      Missing element. A defect is necessary, but strict liability also requires physical harm to a person or
+      to other property.
+    B: >-
+      Repair of the product itself is also economic loss; tort law does not split the claim this way.
+    D: >-
+      Privity is not required for strict products liability; buying from a dealer is irrelevant.
+  trap_type: missing-element
+  authority: ["Seely v. White Motor Co. (1965) 63 Cal.2d 9", "East River S.S. Corp. v. Transamerica Delaval Inc., 476 U.S. 858 (1986)"]
+  source: original
+  tags: [wave1, M3, products-liability, economic-loss]
+  status: draft
+  last_verified: "2026-11-04"

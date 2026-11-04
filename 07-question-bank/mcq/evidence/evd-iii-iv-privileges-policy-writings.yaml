@@ -1,0 +1,369 @@
+# Evidence MCQs — NCBE categories III (privileges and policy exclusions) and IV (writings, recordings, photographs)
+# Wave 1 (M3). FRE only. All items original.
+questions:
+- id: Q-EVD-0029
+  subject: EVD
+  coverage_ids: [EVD-MBE-III.F]
+  rule_ids: [R-EVD-074, R-EVD-007]
+  difficulty: 2
+  stem: >-
+    A worker was injured when the blade guard on a portable table saw detached during use. He sues the
+    manufacturer in federal court on a design-defect theory. At trial, the manufacturer's chief engineer
+    testifies that a guard with a locking clip "was not technically feasible" for a saw of that size. Two
+    months after the accident, the manufacturer had begun producing the same model with a locking clip on the
+    guard. The plaintiff offers evidence of the redesign, and the manufacturer objects.
+  call: Should the court admit evidence of the redesign?
+  options:
+    A: "No, because evidence of subsequent remedial measures is not admissible to prove a design defect."
+    B: "Yes, to rebut the manufacturer's claim that a locking clip was not feasible, with a limiting instruction on request."
+    C: "Yes, because the exclusion for subsequent remedial measures does not apply to strict products-liability claims."
+    D: "No, because the redesign was made after the saw was sold, so it is irrelevant to whether the saw was defective when sold."
+  answer: B
+  explanation_correct: >-
+    Subsequent remedial measures (R-EVD-074; FRE 407): measures taken after an injury that would have made it
+    less likely are not admissible to prove negligence, culpable conduct, a product or design defect, or a need
+    for a warning. But the court may admit them for another purpose, such as feasibility of precautionary
+    measures, if disputed, or impeachment. The engineer put feasibility in dispute by testifying the clip was
+    not feasible, so the redesign comes in on that issue, with a FRE 105 limiting instruction on request
+    (R-EVD-007).
+  explanation_each_wrong_option:
+    A: >-
+      Exception trap. This states the general rule but ignores the feasibility exception, which the
+      defendant's own testimony triggered.
+    C: >-
+      Confused with California law. Under Evid. Code § 1151 and Ault, California admits post-accident repairs
+      in strict-liability cases; FRE 407 expressly covers product and design defect claims.
+    D: >-
+      FRE 407 is triggered by measures taken after the injury, and the redesign is plainly relevant to
+      feasibility. Irrelevance is not the ground.
+  trap_type: exception-trap
+  authority: ["FRE 407", "FRE 105"]
+  source: original
+  tags: [wave1, M3, policy-exclusions, remedial-measures]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-EVD-0030
+  subject: EVD
+  coverage_ids: [EVD-MBE-III.G]
+  rule_ids: [R-EVD-075, R-EVD-090]
+  difficulty: 2
+  stem: >-
+    A software licensor sues a licensee for $500,000 in unpaid license fees. The licensee disputes that it
+    owes anything, claiming the software never worked. During settlement negotiations before the suit was
+    filed, the licensee's chief operating officer wrote in a letter to the licensor, "Our team has used the
+    software daily for a year without serious problems, but we can offer $150,000 to close this out." At
+    trial, the officer testifies that the software crashed constantly and was "useless from day one." The
+    licensor offers the first sentence of the letter to impeach the officer's testimony.
+  call: Should the court admit the sentence for that purpose?
+  options:
+    A: "Yes, because statements made in compromise negotiations are excluded only when offered to prove liability, not when offered to impeach."
+    B: "Yes, because the sentence is a statement of fact by the licensee's officer, not an offer of compromise."
+    C: "Yes, because the sentence is an opposing party's statement made by its agent on a matter within the scope of his employment."
+    D: "No, because statements in compromise negotiations over a disputed claim cannot be used to impeach by inconsistency or contradiction."
+  answer: D
+  explanation_correct: >-
+    Compromise offers and negotiations (R-EVD-075; FRE 408(a)): conduct or statements made during compromise
+    negotiations about a disputed claim are not admissible to prove or disprove the validity or amount of the
+    claim or to impeach by a prior inconsistent statement or a contradiction. The claim was disputed as to
+    validity, the letter was part of settlement negotiations, and the licensor's purpose is exactly the
+    impeachment use the rule forbids.
+  explanation_each_wrong_option:
+    A: >-
+      Exception trap. FRE 408(a) expressly bars use of negotiation statements to impeach by a prior
+      inconsistent statement or contradiction; permitted other purposes are things like bias or obstruction.
+    B: >-
+      Under FRE 408, factual statements made during negotiations are protected along with the offer itself.
+      (Contrast FRE 409, which excludes only the offer to pay medical expenses.)
+    C: >-
+      True but irrelevant. The sentence would satisfy FRE 801(d)(2)(D) (R-EVD-090), but FRE 408 is an
+      independent policy exclusion that applies even to non-hearsay.
+  trap_type: exception-trap
+  authority: ["FRE 408(a)", "FRE 801(d)(2)(D)"]
+  source: original
+  tags: [wave1, M3, policy-exclusions, compromise]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-EVD-0031
+  subject: EVD
+  coverage_ids: [EVD-MBE-III.G]
+  rule_ids: [R-EVD-076, R-EVD-075, R-EVD-088]
+  difficulty: 1
+  stem: >-
+    A driver backed out of a parking space and struck a pedestrian. As the pedestrian sat on the curb holding
+    her wrist, the driver said, "I'm so sorry. I didn't check my mirror. Don't worry, I'll pay your hospital
+    bills." The pedestrian sues the driver for negligence. At trial she offers testimony recounting the
+    driver's entire statement. The driver objects.
+  call: How should the court rule?
+  options:
+    A: "Admit the entire statement, because it is an opposing party's statement."
+    B: "Exclude the entire statement, because it was made in connection with an offer to pay medical expenses."
+    C: "Admit the apology and 'I didn't check my mirror,' but exclude the offer to pay the hospital bills."
+    D: "Exclude the entire statement, because it was an attempt to compromise the pedestrian's claim."
+  answer: C
+  explanation_correct: >-
+    Payment of medical expenses (R-EVD-076; FRE 409): evidence of furnishing, offering or promising to pay
+    medical, hospital or similar expenses resulting from an injury is not admissible to prove liability, but
+    the rule does not cover statements of fact made with the offer. The offer is excluded; "I didn't check my
+    mirror" and the apology come in as the driver's own statements offered against him (R-EVD-088). The FRE
+    have no rule excluding expressions of sympathy.
+  explanation_each_wrong_option:
+    A: >-
+      Being a party's statement solves only the hearsay problem; FRE 409 still excludes the promise to pay
+      the hospital bills.
+    B: >-
+      Overbroad. Unlike FRE 408, Rule 409 does not protect statements accompanying the offer.
+    D: >-
+      FRE 408 (R-EVD-075) requires a disputed claim and compromise negotiations. A spontaneous promise at the
+      scene, with no claim yet asserted or disputed, is not a compromise.
+  trap_type: confused-rule
+  authority: ["FRE 409", "FRE 408", "FRE 801(d)(2)(A)"]
+  source: original
+  tags: [wave1, M3, policy-exclusions, medical-expenses]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-EVD-0032
+  subject: EVD
+  coverage_ids: [EVD-MBE-III.A]
+  rule_ids: [R-EVD-068, R-EVD-069, R-EVD-062]
+  difficulty: 2
+  stem: >-
+    A man is prosecuted in federal court for setting fire to his own failing restaurant to collect insurance.
+    Before they married, his now-wife watched him carry gasoline cans into the restaurant on the night of the
+    fire; they married three months later and remain married. The prosecution calls her to testify about what
+    she saw, and she is willing to testify. The defendant objects, asserting the spousal testimonial
+    privilege and, alternatively, the marital communications privilege.
+  call: May the wife testify about what she saw?
+  options:
+    A: "Yes, because the testimonial privilege is hers to waive, and seeing his conduct before the marriage is not a marital communication."
+    B: "No, because either spouse may invoke the spousal testimonial privilege in a criminal case."
+    C: "No, because the marital communications privilege bars testimony about any event the spouses shared, including events before the marriage."
+    D: "Yes, but only because the events occurred before the marriage; had they occurred during the marriage, the defendant could prevent her testimony."
+  answer: A
+  explanation_correct: >-
+    Federal privileges are governed by common law (FRE 501, R-EVD-062). Under Trammel (R-EVD-068), only the
+    witness-spouse holds the testimonial privilege in a criminal case; she may refuse to testify but may also
+    choose to, and the defendant cannot stop her. The confidential marital communications privilege
+    (R-EVD-069) protects communications made in confidence during the marriage; watching him carry gasoline
+    cans before they married is neither a communication nor made during the marriage.
+  explanation_each_wrong_option:
+    B: >-
+      Wrong holder. Trammel moved the testimonial privilege to the witness-spouse alone.
+    C: >-
+      Overbroad. The communications privilege covers confidential communications during a valid marriage, not
+      observations of conduct and not pre-marital events.
+    D: >-
+      Even for events during the marriage, the defendant could not block a willing spouse's testimony about
+      observed conduct; he could block only confidential communications.
+  trap_type: confused-rule
+  authority: ["FRE 501", "Trammel v. United States, 445 U.S. 40 (1980)"]
+  source: original
+  tags: [wave1, M3, privileges, spousal]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-EVD-0033
+  subject: EVD
+  coverage_ids: [EVD-MBE-III.B]
+  rule_ids: [R-EVD-064, R-EVD-063, R-EVD-062]
+  difficulty: 2
+  stem: >-
+    A hospital company discovered possible overbilling of a federal health program. At the direction of the
+    board's audit committee, the company's in-house general counsel interviewed a dozen billing clerks, none of
+    them managers, about how they coded certain procedures, telling each clerk that the information was needed
+    so counsel could advise the company on its legal exposure and that the interview was confidential. The
+    government later sues the company in federal court under a federal false-claims statute and seeks
+    discovery of what the clerks told counsel. The company asserts the attorney-client privilege.
+  call: Are the clerks' communications to counsel protected by the attorney-client privilege?
+  options:
+    A: "No, because only communications from employees who control the corporation's response to legal advice, such as senior officers, are privileged."
+    B: "Yes, because employees spoke in confidence, at superiors' direction, about their duties, so counsel could advise the company."
+    C: "Yes, and the privilege also prevents the government from deposing the clerks about how they coded the procedures."
+    D: "No, because communications with in-house counsel, as opposed to outside counsel, are not privileged."
+  answer: B
+  explanation_correct: >-
+    In a federal-question case, federal common law governs privilege (FRE 501, R-EVD-062). Under Upjohn
+    (R-EVD-064), a corporation's privilege covers communications from employees at any level, made at the
+    direction of superiors to secure legal advice for the corporation, concerning matters within their
+    duties, and made in confidence. All of those elements are present (R-EVD-063). The corporation, not the
+    clerks, holds the privilege.
+  explanation_each_wrong_option:
+    A: >-
+      Minority/rejected test. The control-group test was rejected by the Supreme Court in Upjohn for federal
+      privilege law.
+    C: >-
+      Overbroad. The privilege protects communications, not underlying facts; the government may depose the
+      clerks about their coding practices.
+    D: >-
+      In-house lawyers acting as lawyers give legal advice like outside counsel; the privilege applies.
+  trap_type: minority-rule
+  authority: ["FRE 501", "Upjohn Co. v. United States, 449 U.S. 383 (1981)"]
+  source: original
+  tags: [wave1, M3, privileges, attorney-client]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-EVD-0034
+  subject: EVD
+  coverage_ids: [EVD-MBE-IV.A]
+  rule_ids: [R-EVD-078]
+  difficulty: 2
+  stem: >-
+    A convenience-store clerk is prosecuted for stealing cash from the register. The store manager watched,
+    through a one-way mirror, as the clerk slipped bills from the register into his pocket. The same events
+    were captured by a security camera, and the recording still exists. The prosecution calls the manager to
+    describe what she saw through the mirror and does not offer the recording. The defendant objects that the
+    recording is the best evidence of what happened.
+  call: Should the court permit the manager's testimony?
+  options:
+    A: "No, because a recording of the events exists, so the original recording must be produced."
+    B: "No, unless the prosecution shows that the recording has been lost or destroyed without bad faith."
+    C: "Yes, because the manager is testifying to what she saw, not proving the content of the recording."
+    D: "Yes, because the best evidence rule does not apply to video recordings."
+  answer: C
+  explanation_correct: >-
+    Best evidence rule (R-EVD-078; FRE 1002): an original is required only to prove the content of a writing,
+    recording or photograph. The manager's knowledge comes from watching the events herself, so the fact she
+    describes exists independently of the recording. The prosecution is not trying to prove what the video
+    shows, so the rule does not apply, and the jury weighs her testimony.
+  explanation_each_wrong_option:
+    A: >-
+      Confused rule. The existence of a recording does not trigger FRE 1002; only an effort to prove its
+      content does.
+    B: >-
+      FRE 1004 excuses apply only when the rule applies in the first place; here it does not.
+    D: >-
+      Overbroad. FRE 1001 defines recordings to include video, so the rule would apply if the prosecution were
+      proving what the video showed (for example, through a witness who only watched the video).
+  trap_type: confused-rule
+  authority: ["FRE 1001", "FRE 1002"]
+  source: original
+  tags: [wave1, M3, best-evidence-rule]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-EVD-0035
+  subject: EVD
+  coverage_ids: [EVD-MBE-IV.A]
+  rule_ids: [R-EVD-079, R-EVD-078]
+  difficulty: 2
+  stem: >-
+    In federal court, a supplier sues a buyer for breach of a written sales contract. The only signed original
+    was kept by the supplier and was destroyed when a burst pipe flooded its file room; there is no evidence
+    of bad faith. The supplier's sales director, who negotiated the contract and read it many times, offers to
+    testify to its price and delivery terms. The buyer objects that the supplier must first offer an unsigned
+    draft of the contract that the buyer kept in its own files, arguing that a written draft is better
+    evidence than a witness's memory.
+  call: Should the court admit the sales director's testimony about the contract's terms?
+  options:
+    A: "No, because the original has not been produced, and testimony from memory is not a duplicate."
+    B: "No, because when the original is unavailable, written secondary evidence such as the draft must be offered before oral testimony."
+    C: "Yes, but only if the buyer admits in its pleadings that the contract existed."
+    D: "Yes, because the original was destroyed without bad faith, and the federal rules do not rank other evidence of content."
+  answer: D
+  explanation_correct: >-
+    Excuses for the original (R-EVD-079; FRE 1004(a)): an original is not required, and other evidence of
+    the content is admissible, if all originals are lost or destroyed and not by the proponent acting in bad
+    faith. The FRE recognize no degrees of secondary evidence, so once the excuse is shown the supplier may
+    use oral testimony even though a written draft exists. The buyer may offer the draft and attack the
+    director's memory; those go to weight.
+  explanation_each_wrong_option:
+    A: >-
+      Testimony is not a duplicate, but it need not be: FRE 1004 admits any other evidence of content once
+      the loss of the original is excused.
+    B: >-
+      Minority/common-law view. Some jurisdictions rank secondary evidence, but FRE 1004 does not.
+    C: >-
+      Confuses FRE 1007 (a party's written or testimonial admission proves content) with FRE 1004; an
+      admission is one route, not a prerequisite.
+  trap_type: minority-rule
+  authority: ["FRE 1002", "FRE 1004(a)", "FRE 1007"]
+  source: original
+  tags: [wave1, M3, best-evidence-rule, secondary-evidence]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-EVD-0036
+  subject: EVD
+  coverage_ids: [EVD-MBE-IV.B]
+  rule_ids: [R-EVD-081, R-EVD-053, R-EVD-099]
+  difficulty: 2
+  stem: >-
+    In a federal action alleging that a distributor underpaid royalties over five years, the plaintiff offers
+    a chart prepared by its accountant summarizing about 30,000 invoices, which cannot conveniently be
+    examined in court. The invoices are admissible business records but have not been introduced at trial.
+    Months before trial, the plaintiff made all of the invoices available to the defendant for inspection and
+    copying. The defendant objects that the chart cannot be admitted because the underlying invoices are not in
+    evidence.
+  call: Should the court admit the chart?
+  options:
+    A: "Yes, because a summary of voluminous admissible records may prove their content even if the records are not in evidence."
+    B: "No, because a summary may be used only as an illustrative aid and is not itself evidence."
+    C: "No, because a summary is admissible only after the underlying records have been admitted into evidence."
+    D: "Yes, because the accountant's chart is itself a business record of the plaintiff."
+  answer: A
+  explanation_correct: >-
+    Summaries (R-EVD-081; FRE 1006 as amended Dec. 1, 2024): the proponent may use a summary, chart or
+    calculation to prove the content of voluminous admissible writings that cannot be conveniently examined in
+    court, whether or not they have been introduced into evidence. The underlying invoices are admissible and
+    were made available to the defendant at a reasonable time and place, so the chart is admissible as
+    evidence.
+  explanation_each_wrong_option:
+    B: >-
+      Confuses FRE 1006 with FRE 107 (R-EVD-053). A 1006 summary is substantive evidence; an illustrative aid
+      is not.
+    C: >-
+      Wrong standard. The 2024 amendment confirms that the underlying records need not be introduced; they
+      need only be admissible and available.
+    D: >-
+      A chart prepared for litigation is not a record kept in the regular course of business (R-EVD-099); its
+      admissibility rests on FRE 1006.
+  trap_type: wrong-standard
+  authority: ["FRE 1006 (as amended Dec. 1, 2024)", "FRE 107"]
+  source: original
+  tags: [wave1, M3, summaries, 2024-amendment]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-EVD-0037
+  subject: EVD
+  coverage_ids: [EVD-MBE-IV.C]
+  rule_ids: [R-EVD-082, R-EVD-088]
+  difficulty: 2
+  stem: >-
+    A defendant is prosecuted for assault after a fight in a parking lot. A police officer testifies for the
+    prosecution that at the scene the defendant told him, "Yeah, I hit him." On cross-examination, defense
+    counsel asks the officer to repeat the defendant's very next sentence in the same conversation: "He came
+    at me with a knife, and I hit him so I could get away." The prosecution objects that the second sentence
+    is the defendant's own self-serving hearsay.
+  call: Should the court permit the officer to testify to the second sentence?
+  options:
+    A: "No, because a party may not introduce its own out-of-court statement for its truth, and the second sentence is a self-serving statement offered for that purpose."
+    B: "Yes, because fairness requires the rest of the statement, and the rule of completeness overrides the hearsay objection."
+    C: "No, because the rule of completeness applies only to written or recorded statements."
+    D: "Yes, because the second sentence is an excited utterance."
+  answer: B
+  explanation_correct: >-
+    Rule of completeness (R-EVD-082; FRE 106 as amended Dec. 1, 2023): if a party introduces all or part of a
+    statement, an adverse party may require the introduction, at that time, of any other part that in
+    fairness ought to be considered at the same time, and may do so over a hearsay objection. The amendment
+    extends the rule to oral statements. Hearing only "I hit him" without the self-defense explanation
+    distorts the meaning of what the defendant said.
+  explanation_each_wrong_option:
+    A: >-
+      Generally true: a defendant's own statement offered by him is not an opposing party's statement
+      (R-EVD-088). But amended FRE 106 overrides the hearsay objection when completeness requires it.
+    C: >-
+      Outdated rule. Before Dec. 1, 2023, FRE 106 covered only writings and recorded statements; the
+      amendment extended it to oral statements.
+    D: >-
+      Nothing in the facts shows that the defendant was under the stress of a startling event when he spoke;
+      the completing statement comes in through FRE 106, not 803(2).
+  trap_type: wrong-standard
+  authority: ["FRE 106 (as amended Dec. 1, 2023)", "FRE 801(d)(2)(A)"]
+  source: original
+  tags: [wave1, M3, completeness, 2023-amendment]
+  status: draft
+  last_verified: "2026-11-04"

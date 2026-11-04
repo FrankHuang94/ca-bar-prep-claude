@@ -1,0 +1,996 @@
+# Torts MCQs — NCBE category II: negligence
+# Wave 1 (M3). MBE defaults: pure comparative negligence and joint and several liability unless stated.
+# Majority common-law / Restatement rules only; no California-only rules. All items original.
+questions:
+- id: Q-TRT-0001
+  subject: TRT
+  coverage_ids: [TRT-MBE-II.A]
+  rule_ids: [R-TRT-021, R-TRT-046]
+  difficulty: 2
+  stem: >-
+    While driving carefully at the speed limit on a dark rural road, a motorist struck a pedestrian who had
+    suddenly stumbled into the road from behind a parked truck. The motorist was not negligent in causing the
+    collision. He stopped, saw that the pedestrian was unconscious and bleeding in the traffic lane, and then
+    drove away without calling for help or moving her out of the lane. Twenty minutes later a second driver,
+    who could not see her in time, ran over her, causing additional serious injuries. The pedestrian sues the
+    motorist for the additional injuries.
+  call: Is the pedestrian likely to prevail?
+  options:
+    A: "No, because the motorist was not negligent in striking her, and there is no general duty to aid a person in peril."
+    B: "Yes, because one who leaves another helpless and in danger, even innocently, must use reasonable care to prevent further harm."
+    C: "No, because the second driver's conduct was a superseding cause of the additional injuries."
+    D: "Yes, because a driver involved in a collision is strictly liable for all injuries that follow from it, whether or not he was at fault."
+  answer: B
+  explanation_correct: >-
+    Duty to act (R-TRT-021): there is generally no duty to rescue, but a duty arises when the defendant
+    created the peril, even innocently. Having left the pedestrian helpless in a traffic lane, the motorist
+    had to use reasonable care (call for help, warn traffic, move her) to prevent further harm, and he did
+    nothing. Being run over by another car in the lane is the very risk his inaction created, so it is not a
+    superseding cause (R-TRT-046).
+  explanation_each_wrong_option:
+    A: >-
+      Exception trap. The no-duty-to-rescue rule has an exception when the defendant's own conduct, tortious
+      or innocent, created the peril.
+    C: >-
+      A second vehicle striking a person left lying in a dark traffic lane is the foreseeable risk that made
+      inaction unreasonable; an intervening act within the scope of the risk does not supersede.
+    D: >-
+      Driving is not an abnormally dangerous activity and there is no strict liability for collisions; the
+      liability here rests on negligent failure to aid.
+  trap_type: exception-trap
+  authority: ["Restatement (Second) of Torts § 322"]
+  source: original
+  tags: [wave1, M3, negligence, duty, affirmative-duty]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-TRT-0002
+  subject: TRT
+  coverage_ids: [TRT-MBE-II.A]
+  rule_ids: [R-TRT-019, R-TRT-045]
+  difficulty: 2
+  stem: >-
+    A warehouse employee negligently stacked heavy crates on a loading dock so that they leaned toward the
+    edge. The crates toppled onto a passing forklift and punctured its tank of compressed propane, which
+    exploded. The blast shattered windows in an office building three blocks away, and flying glass cut an
+    office worker sitting at her desk. The jurisdiction follows the majority view of duty from Palsgraf v. Long
+    Island Railroad. The office worker sues the warehouse company for negligence.
+  call: What is the company's best defense?
+  options:
+    A: "The company is liable only for the extent of harm it could have foreseen, and the force of the explosion was unforeseeable."
+    B: "The office worker cannot recover because she suffered no physical impact from the crates."
+    C: "The forklift driver's failure to avoid the falling crates was the sole proximate cause of the explosion."
+    D: "The office worker was outside the zone of foreseeable danger."
+  answer: D
+  explanation_correct: >-
+    Duty to foreseeable plaintiffs (R-TRT-019): under the majority (Cardozo) view in Palsgraf, a defendant owes
+    a duty only to those within the zone of foreseeable danger created by its conduct. Leaning crates threaten
+    people and property near the dock, not an office worker three blocks away. Because no duty was owed to her,
+    her claim fails regardless of breach as to others.
+  explanation_each_wrong_option:
+    A: >-
+      Confused rule. Once a duty and some foreseeable harm exist, the unforeseeable extent of harm does not
+      limit liability (R-TRT-045). The problem is the absence of a duty to this plaintiff.
+    B: >-
+      Physical impact is not required for physical injury claims; she was cut by glass. The impact rule
+      concerns purely emotional harm.
+    C: >-
+      Fact misread. Nothing suggests the forklift driver was negligent, and in any event concurrent causes do
+      not make one the "sole" cause.
+  trap_type: confused-rule
+  authority: ["Palsgraf v. Long Island R.R. Co., 248 N.Y. 339 (1928)"]
+  source: original
+  tags: [wave1, M3, negligence, duty, unforeseeable-plaintiff]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-TRT-0003
+  subject: TRT
+  coverage_ids: [TRT-MBE-II.A]
+  rule_ids: [R-TRT-022, R-TRT-023, R-TRT-063]
+  difficulty: 3
+  stem: >-
+    A private psychiatric hospital admitted a patient after he assaulted two people while experiencing violent
+    delusions. His chart stated that he remained "a danger to others when unmedicated." Without consulting his
+    psychiatrist, a ward nurse gave him an unsupervised day pass, and he did not return. Two days later, off
+    his medication, he attacked a stranger at a bus stop. The patient had never mentioned or threatened the
+    stranger. The stranger sues the hospital for negligence.
+  call: Which of the following is the stranger's best argument?
+  options:
+    A: "The hospital took charge of a patient it knew was likely to cause bodily harm if not controlled, so it owed a duty to use reasonable care to control him."
+    B: "A psychotherapist must warn reasonably identifiable victims of a patient's threats, and the stranger was such a victim."
+    C: "The hospital is vicariously liable for the patient's battery because the patient was in its custody."
+    D: "The hospital is strictly liable for harm caused by patients with dangerous propensities."
+  answer: A
+  explanation_correct: >-
+    Duty to control third persons (R-TRT-022): there is generally no duty to control another's conduct, but
+    one who takes charge of a person it knows or should know is likely to cause bodily harm if not controlled
+    must use reasonable care to control him. The hospital had custody, actual knowledge of the danger, and let
+    him leave unsupervised against its own chart. This custodial duty runs to the public at large and does not
+    depend on an identified victim.
+  explanation_each_wrong_option:
+    B: >-
+      The Tarasoff-type duty (R-TRT-023) turns on a reasonably identifiable victim; this stranger was never
+      named or threatened, so the warning theory is the weaker argument.
+    C: >-
+      Vicarious liability (R-TRT-063) attaches to an employer for an employee's torts, not to a custodian for a
+      patient's torts. The hospital's liability, if any, is for its own negligence.
+    D: >-
+      Housing dangerous persons is not an abnormally dangerous activity; liability requires negligence.
+  trap_type: confused-rule
+  authority: ["Restatement (Second) of Torts § 319"]
+  source: original
+  tags: [wave1, M3, negligence, duty, third-persons]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-TRT-0004
+  subject: TRT
+  coverage_ids: [TRT-MBE-II.B.1]
+  rule_ids: [R-TRT-026]
+  difficulty: 1
+  stem: >-
+    A 13-year-old boy borrowed his family's motorboat with his parents' permission and drove it across a
+    crowded lake. While looking back to wave at friends on shore, he struck a swimmer in a marked swimming
+    area. The swimmer sues the boy for negligence. The boy argues that he behaved as a typical 13-year-old of
+    his intelligence and experience would have behaved.
+  call: Which standard of care applies to the boy?
+  options:
+    A: "That of a reasonable 13-year-old of like age, intelligence and experience."
+    B: "That of a reasonable 13-year-old, unless the boy had taken a boating-safety course."
+    C: "That of a reasonable adult, because operating a motorboat is an adult activity."
+    D: "No standard, because children under 14 are presumed incapable of negligence."
+  answer: C
+  explanation_correct: >-
+    Children (R-TRT-026): a child is ordinarily held to the standard of a reasonable child of like age,
+    intelligence and experience, but a child engaged in an adult activity, such as operating a motor vehicle or
+    motorboat, is held to the adult standard. Others on the lake cannot tell the operator's age and are
+    entitled to expect adult care from anyone driving a powerful boat.
+  explanation_each_wrong_option:
+    A: >-
+      Exception trap. This is the general rule for children, but the adult-activity exception displaces it.
+    B: >-
+      The standard depends on the nature of the activity, not on whether the child had training.
+    D: >-
+      Only very young children (commonly under about 5) are sometimes held incapable of negligence; a
+      13-year-old is not.
+  trap_type: exception-trap
+  authority: ["Restatement (Second) of Torts § 283A", "Restatement (Third) of Torts: Liability for Physical and Emotional Harm § 10"]
+  source: original
+  tags: [wave1, M3, negligence, standard-of-care, children]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-TRT-0005
+  subject: TRT
+  coverage_ids: [TRT-MBE-II.B.1]
+  rule_ids: [R-TRT-025, R-TRT-034, R-TRT-030]
+  difficulty: 2
+  stem: >-
+    A 52-year-old driver with no history of heart disease, who had received a clean bill of health at a
+    checkup the month before, suffered a sudden heart attack while driving at the speed limit. He lost
+    consciousness, and his car drifted across the center line and struck an oncoming car, injuring its driver.
+    A statute requires drivers to keep to the right of the center line. The injured driver sues him for
+    negligence.
+  call: Is the injured driver likely to prevail?
+  options:
+    A: "No, because a sudden, unforeseeable medical emergency is not a failure to act as a reasonable person would."
+    B: "Yes, because crossing the center line in violation of the statute is negligence per se."
+    C: "Yes, because the reasonable-person standard is objective and does not take account of the defendant's physical condition."
+    D: "No, because the emergency doctrine excuses any driver who faces a sudden emergency."
+  answer: A
+  explanation_correct: >-
+    Reasonable person (R-TRT-025): conduct during a sudden, unforeseeable loss of consciousness caused by
+    illness is not negligent. Nothing put the driver on notice of a heart risk, so he was not negligent for
+    driving, and he did not act at all while unconscious. The statutory violation is likewise excused because
+    of incapacity (R-TRT-034).
+  explanation_each_wrong_option:
+    B: >-
+      Negligence per se applies only to unexcused violations; incapacity is a recognized excuse.
+    C: >-
+      The standard is objective as to mental capacity, but physical conditions and sudden physical
+      incapacity are taken into account.
+    D: >-
+      The emergency doctrine (R-TRT-030) judges choices made in an emergency by what a reasonable person
+      would do; it does not excuse "any" driver, and it is not the basis for the result here, where the driver
+      made no choice at all.
+  trap_type: wrong-standard
+  authority: ["Restatement (Third) of Torts: Liability for Physical and Emotional Harm § 11", "Restatement (Second) of Torts § 288A"]
+  source: original
+  tags: [wave1, M3, negligence, standard-of-care, incapacity]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-TRT-0006
+  subject: TRT
+  coverage_ids: [TRT-MBE-II.B.1]
+  rule_ids: [R-TRT-028, R-TRT-009, R-TRT-002]
+  difficulty: 2
+  stem: >-
+    A patient consented in writing to arthroscopic surgery on her right shoulder. The surgeon performed exactly
+    that procedure, skillfully and without error, but did not tell the patient beforehand about a known 3%
+    risk of permanent nerve damage, a risk that reasonable patients would consider significant. The nerve
+    damage occurred. The patient sues the surgeon for battery only.
+  call: Is the patient likely to prevail on her battery claim?
+  options:
+    A: "Yes, because consent obtained without disclosure of material risks is no consent at all, so every touching during the surgery was unauthorized."
+    B: "Yes, because the surgeon's failure to disclose was a misrepresentation that vitiated her consent."
+    C: "No, because the surgeon performed the operation without negligence."
+    D: "No, because she consented to the contact; her claim, if any, is negligent failure to obtain informed consent."
+  answer: D
+  explanation_correct: >-
+    Informed consent (R-TRT-028) and consent (R-TRT-009): when a physician performs the procedure the patient
+    agreed to, the patient has consented to the contact, so there is no battery (R-TRT-002). Failure to
+    disclose a material risk of that procedure is treated as professional negligence (lack of informed
+    consent). Battery lies only where the physician performs a substantially different procedure or operates
+    on a different body part than the one consented to.
+  explanation_each_wrong_option:
+    A: >-
+      Overstates the effect of nondisclosure. Modern law treats inadequate disclosure of risks as negligence,
+      not as a total absence of consent.
+    B: >-
+      Fraud vitiates consent only if it goes to the essential nature of the act; silence about a collateral
+      risk of the agreed procedure does not.
+    C: >-
+      Right result, wrong reason. Skillful performance does not defeat an informed-consent negligence claim;
+      the battery claim fails because she consented to this contact.
+  trap_type: right-result-wrong-reason
+  authority: ["Canterbury v. Spence, 464 F.2d 772 (D.C. Cir. 1972)", "Restatement (Second) of Torts § 13"]
+  source: original
+  tags: [wave1, M3, negligence, professionals, informed-consent]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-TRT-0007
+  subject: TRT
+  coverage_ids: [TRT-MBE-II.B.2]
+  rule_ids: [R-TRT-033, R-TRT-037]
+  difficulty: 2
+  stem: >-
+    A state statute requires every truck carrying flammable liquids to display placards reading "FLAMMABLE" on
+    all four sides. The legislative history shows that its purpose is to alert firefighters and other emergency
+    responders to the cargo's hazards. A fuel-delivery truck without the required placards rear-ended a car
+    stopped at a red light because the truck driver was adjusting the radio. No fire or spill occurred. The car's
+    driver sues the trucking company and asks the court to rule that the placard violation establishes
+    negligence per se.
+  call: How should the court rule on the request?
+  options:
+    A: "Grant it, because the statute was violated and the violation was not excused."
+    B: "Deny it, because the statute guards against a different risk from the one that caused the harm."
+    C: "Grant it, but only if the car driver also proves that the truck driver was not paying attention."
+    D: "Deny it, because violation of a regulatory statute is never more than evidence of negligence."
+  answer: B
+  explanation_correct: >-
+    Negligence per se (R-TRT-033): a statute sets the standard of care only if it was designed to protect the
+    class of persons that includes the plaintiff against the type of harm the plaintiff suffered. The placard
+    rule protects emergency responders from cargo hazards; a rear-end collision with no fire or spill is not
+    that harm. The car driver must prove ordinary negligence, which the radio-adjusting facts likely support.
+    The missing placards also did not cause the crash (R-TRT-037).
+  explanation_each_wrong_option:
+    A: >-
+      Missing element. Violation without excuse is necessary but not sufficient; the class-of-persons and
+      type-of-harm requirements must also be met.
+    C: >-
+      Proving inattention establishes ordinary negligence; it does not convert an inapplicable statute into a
+      per se standard.
+    D: >-
+      Minority rule. Most jurisdictions treat an unexcused violation of an applicable statute as negligence
+      per se; the "evidence only" view is the minority.
+  trap_type: missing-element
+  authority: ["Restatement (Third) of Torts: Liability for Physical and Emotional Harm § 14", "Restatement (Second) of Torts § 286"]
+  source: original
+  tags: [wave1, M3, negligence, negligence-per-se]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-TRT-0008
+  subject: TRT
+  coverage_ids: [TRT-MBE-II.B.2]
+  rule_ids: [R-TRT-034, R-TRT-033, R-TRT-030]
+  difficulty: 2
+  stem: >-
+    A statute requires motorists to keep to the right half of the roadway except when passing. A driver
+    traveling at a lawful speed on a two-lane road rounded a curve and saw a small child run into her lane from
+    behind a hedge. To avoid hitting the child, she swerved into the left lane, where she sideswiped a cyclist
+    approaching from the opposite direction. The cyclist sues the driver and argues that her violation of the
+    statute is negligence per se. The jurisdiction follows the majority approach to negligence per se.
+  call: Is the cyclist entitled to a finding of negligence per se?
+  options:
+    A: "Yes, because the cyclist is within the class of persons the statute protects and suffered the type of harm it was meant to prevent."
+    B: "Yes, because a statutory violation can be excused only if compliance was physically impossible."
+    C: "No, because a violation is excused when the actor faces an emergency not of her own making or when compliance would involve a greater risk of harm."
+    D: "No, because the driver was not convicted of violating the statute."
+  answer: C
+  explanation_correct: >-
+    Excused violations (R-TRT-034): a statutory violation is excused if the actor faces an emergency not due
+    to her own misconduct, or if compliance would involve a greater risk of harm to the actor or others. Staying
+    right would have meant hitting the child. The cyclist can still try to prove ordinary negligence, but
+    under the emergency doctrine (R-TRT-030) the question is whether her split-second choice was reasonable.
+  explanation_each_wrong_option:
+    A: >-
+      Missing element. Class and type of harm are satisfied (R-TRT-033), but only an unexcused violation
+      establishes negligence per se.
+    B: >-
+      Too narrow. Impossibility is one excuse among several; emergency and greater-risk excuses also apply.
+    D: >-
+      A criminal conviction is not required for negligence per se; the civil court decides whether the
+      statute was violated.
+  trap_type: missing-element
+  authority: ["Restatement (Second) of Torts § 288A", "Tedla v. Ellman, 280 N.Y. 124 (1939)"]
+  source: original
+  tags: [wave1, M3, negligence, negligence-per-se, excuse]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-TRT-0009
+  subject: TRT
+  coverage_ids: [TRT-MBE-II.C]
+  rule_ids: [R-TRT-035]
+  difficulty: 2
+  stem: >-
+    A pedestrian walking past a hotel was struck by a heavy wooden window frame that fell from a guest room on
+    the eighth floor. The room had been vacant and locked for three days, and only hotel staff had keys. The
+    pedestrian sued the hotel for negligence but has no direct evidence of how the frame came loose. At the
+    close of the pedestrian's case, which established these facts, the hotel moved for a directed verdict, and
+    the pedestrian moved for a directed verdict in her own favor.
+  call: How should the court rule on the motions?
+  options:
+    A: "Grant the hotel's motion, because the pedestrian has offered no evidence of any specific negligent act."
+    B: "Grant the pedestrian's motion, because res ipsa loquitur establishes the hotel's negligence as a matter of law."
+    C: "Deny both motions, but instruct the jury that the hotel bears the burden of proving that it was not negligent."
+    D: "Deny both motions, because the jury may, but need not, infer the hotel's negligence."
+  answer: D
+  explanation_correct: >-
+    Res ipsa loquitur (R-TRT-035): window frames do not ordinarily fall out of buildings without negligence,
+    and the frame was in the hotel's exclusive control (a locked, vacant room accessible only to staff). Under
+    the majority view, res ipsa creates a permissible inference of negligence: the plaintiff survives a directed
+    verdict, but the jury remains free to reject the inference.
+  explanation_each_wrong_option:
+    A: >-
+      The whole point of res ipsa is that the plaintiff need not identify the specific negligent act.
+    B: >-
+      Wrong standard. Res ipsa is an inference for the jury, not a rule that compels a finding of negligence.
+    C: >-
+      Wrong standard. The majority does not shift the burden of persuasion; it allows an inference.
+      (Some states, including California, give res ipsa presumptive effect, but the MBE uses the majority.)
+  trap_type: wrong-standard
+  authority: ["Byrne v. Boadle, 159 Eng. Rep. 299 (Ex. 1863)", "Restatement (Second) of Torts § 328D"]
+  source: original
+  tags: [wave1, M3, negligence, res-ipsa]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-TRT-0010
+  subject: TRT
+  coverage_ids: [TRT-MBE-II.C]
+  rule_ids: [R-TRT-036, R-TRT-050, R-TRT-035]
+  difficulty: 1
+  stem: >-
+    A shopper slipped on a small puddle of clear liquid in the cereal aisle of a supermarket and broke her
+    wrist. No one knows where the liquid came from or how long it had been on the floor. A store employee had
+    walked through that aisle about ten minutes before the fall and saw nothing on the floor. The shopper sues
+    the supermarket for negligence.
+  call: Is the shopper likely to prevail?
+  options:
+    A: "No, because nothing shows the store created the puddle or had time to discover and remove it."
+    B: "Yes, because a business owes its invitees a duty to keep its premises free of all hazards."
+    C: "Yes, because under res ipsa loquitur falls in stores do not ordinarily happen without negligence."
+    D: "No, because the shopper should have watched where she was walking."
+  answer: A
+  explanation_correct: >-
+    Proof of breach and notice (R-TRT-036): a possessor owes invitees reasonable care, including reasonable
+    inspection (R-TRT-050), but for a condition it did not create, the plaintiff must show actual notice or
+    that the condition existed long enough to be discovered by reasonable inspection. An aisle checked ten
+    minutes earlier and no evidence of how long the liquid was there means no constructive notice, so breach
+    cannot be shown.
+  explanation_each_wrong_option:
+    B: >-
+      Overbroad. The invitee duty is reasonable care, not a guarantee that premises are hazard-free.
+    C: >-
+      Spills can occur without the store's negligence (customers drop things), so res ipsa's first element
+      fails (R-TRT-035).
+    D: >-
+      Wrong reason. Nothing shows the shopper was careless, and under comparative fault her carelessness
+      would reduce rather than bar recovery; the claim fails for lack of notice.
+  trap_type: overbroad
+  authority: ["Restatement (Second) of Torts § 343"]
+  source: original
+  tags: [wave1, M3, negligence, proof-of-breach, notice]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-TRT-0011
+  subject: TRT
+  coverage_ids: [TRT-MBE-II.D.1]
+  rule_ids: [R-TRT-037, R-TRT-033]
+  difficulty: 2
+  stem: >-
+    A gym failed to keep an automated external defibrillator on its premises, in violation of a city ordinance
+    requiring one at every fitness facility to protect members who suffer cardiac arrest. A 45-year-old member
+    collapsed on a treadmill and died. The autopsy showed that he died of a ruptured aortic aneurysm, and the
+    uncontradicted medical testimony is that a defibrillator would not have helped and that nothing could have
+    saved him once the aneurysm ruptured. His estate sues the gym for wrongful death.
+  call: Is the estate likely to prevail?
+  options:
+    A: "Yes, because the gym's violation of the ordinance was negligence per se."
+    B: "Yes, because the gym's violation increased the risk that a member would die."
+    C: "No, because a defibrillator would not have saved the member."
+    D: "No, because the ordinance does not expressly create a private right of action."
+  answer: C
+  explanation_correct: >-
+    Actual cause (R-TRT-037): the plaintiff must prove that the harm would not have occurred but for the
+    defendant's breach. The uncontradicted evidence is that a defibrillator could not have saved the member,
+    so the gym's breach was not a but-for cause of death. Negligence per se (R-TRT-033) would establish only
+    duty and breach; causation must still be proved.
+  explanation_each_wrong_option:
+    A: >-
+      Missing element. Negligence per se supplies the standard of care and breach, not causation.
+    B: >-
+      A breach that increases a general risk is not enough when the evidence shows it made no difference to
+      this harm.
+    D: >-
+      Wrong reason. Negligence per se uses a statute to set the standard of care in a common-law negligence
+      action; it does not require the statute to create a private right of action.
+  trap_type: missing-element
+  authority: ["Restatement (Third) of Torts: Liability for Physical and Emotional Harm § 26"]
+  source: original
+  tags: [wave1, M3, negligence, causation, but-for]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-TRT-0012
+  subject: TRT
+  coverage_ids: [TRT-MBE-II.D.2]
+  rule_ids: [R-TRT-039]
+  difficulty: 1
+  stem: >-
+    Two hunters, each carelessly firing at a pheasant in the direction of a third hunter whom both could see,
+    fired at almost the same moment. A single pellet struck the third hunter in the eye. The pellets from the
+    two guns were identical, and there is no way to determine whose gun fired the pellet that hit him. The
+    injured hunter sues both.
+  call: What is the most likely result?
+  options:
+    A: "The injured hunter loses, because he cannot prove by a preponderance of the evidence which hunter caused his injury."
+    B: "Both hunters are liable unless one of them proves that his shot did not cause the injury."
+    C: "Each hunter is liable for half of the damages, because each had a 50% chance of causing the injury."
+    D: "Both hunters are liable only if they agreed in advance to shoot together."
+  answer: B
+  explanation_correct: >-
+    Alternative liability (R-TRT-039; Summers v. Tice): when two or more defendants were negligent toward the
+    plaintiff and only one caused the harm, but the plaintiff cannot tell which, the burden shifts to each
+    defendant to prove he did not cause it. A defendant who cannot carry that burden is liable, and the
+    defendants are jointly and severally liable for the indivisible injury.
+  explanation_each_wrong_option:
+    A: >-
+      This would be the result without the burden-shifting doctrine, which exists to prevent negligent
+      defendants from escaping because of a proof problem they created.
+    C: >-
+      Confused rule. Proportional liability resembles market-share liability for fungible products; under
+      alternative liability each defendant who fails to exculpate himself is liable for the whole.
+    D: >-
+      An agreement is required for concert-of-action liability, a different doctrine; alternative liability
+      requires none.
+  trap_type: confused-rule
+  authority: ["Summers v. Tice (1948) 33 Cal.2d 80", "Restatement (Second) of Torts § 433B(3)"]
+  source: original
+  tags: [wave1, M3, negligence, causation, alternative-liability]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-TRT-0013
+  subject: TRT
+  coverage_ids: [TRT-MBE-II.D.3]
+  rule_ids: [R-TRT-041, R-TRT-070, R-TRT-043]
+  difficulty: 3
+  stem: >-
+    A pedestrian was injured when two cars, driven by Ames and Brook, collided in an intersection and one of
+    them spun onto the sidewalk. The pedestrian suffered $200,000 in damages, a single indivisible injury. The
+    jury found Ames 50% at fault, Brook 30% at fault, and the pedestrian 20% at fault for stepping off the curb
+    while looking at her phone. Ames is insolvent. The jurisdiction applies pure comparative negligence and
+    traditional joint and several liability.
+  call: How much can the pedestrian collect from Brook?
+  options:
+    A: "$60,000, Brook's 30% share of the total damages."
+    B: "$80,000, because jointly liable defendants divide the plaintiff's recovery equally."
+    C: "$200,000, because a jointly and severally liable defendant must pay all of the plaintiff's damages."
+    D: "$160,000, the full damages reduced by the pedestrian's 20% share of fault."
+  answer: D
+  explanation_correct: >-
+    Pure comparative negligence (R-TRT-070) reduces the pedestrian's recovery by her own 20%: $200,000 x 80% =
+    $160,000. Under joint and several liability (R-TRT-041), each defendant whose negligence caused the
+    indivisible injury is liable for the entire recoverable amount, so she may collect all $160,000 from
+    Brook. Brook may then seek contribution from Ames (R-TRT-043), but Ames's insolvency is Brook's problem,
+    not the plaintiff's.
+  explanation_each_wrong_option:
+    A: >-
+      This is the several-liability result. It applies only where a jurisdiction has abolished joint and
+      several liability, which the question rules out.
+    B: >-
+      Confused rule. Equal (pro rata) sharing describes old contribution rules among defendants, not what the
+      plaintiff may collect.
+    C: >-
+      Ignores the plaintiff's own fault. Joint and several liability makes Brook answer for the defendants'
+      shares, not for the share attributable to the plaintiff.
+  trap_type: confused-rule
+  authority: ["Restatement (Second) of Torts § 875", "NCBE MBE Torts outline default: joint and several liability with pure comparative negligence"]
+  source: original
+  tags: [wave1, M3, negligence, apportionment, joint-and-several]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-TRT-0014
+  subject: TRT
+  coverage_ids: [TRT-MBE-II.E.1]
+  rule_ids: [R-TRT-046, R-TRT-041]
+  difficulty: 1
+  stem: >-
+    A driver negligently ran a stop sign and struck a motorcyclist, fracturing his leg. At the hospital, an
+    orthopedic surgeon negligently set the fracture, and the motorcyclist needed a second operation and months
+    of additional rehabilitation. The motorcyclist sues the driver for all of his injuries, including those
+    resulting from the second operation.
+  call: Is the driver liable for the harm caused by the surgeon's negligence?
+  options:
+    A: "Yes, because negligent medical treatment of an injury is a foreseeable consequence of causing the injury."
+    B: "No, because the surgeon's negligence was an independent intervening act that superseded the driver's negligence."
+    C: "No, because the driver is liable only for the harm he directly caused, and the surgeon must pay for the rest."
+    D: "Yes, but only if the surgeon is insolvent or immune from suit."
+  answer: A
+  explanation_correct: >-
+    Intervening causes (R-TRT-046): an intervening force that is a foreseeable result of the risk the
+    defendant created does not break the chain of proximate cause. Negligent medical treatment of injuries the
+    defendant caused is a classic foreseeable intervening act, so the driver is liable for the aggravation.
+    The surgeon is also liable for the harm he added, and the two are jointly and severally liable for it
+    (R-TRT-041).
+  explanation_each_wrong_option:
+    B: >-
+      Only unforeseeable, extraordinary intervening acts supersede; medical malpractice in treating the injury
+      is foreseeable.
+    C: >-
+      The driver's liability extends to foreseeable consequences, including enhanced harm from treatment; the
+      surgeon's liability is concurrent, not a substitute.
+    D: >-
+      The driver's liability does not depend on whether the surgeon can pay; it rests on proximate cause.
+  trap_type: confused-rule
+  authority: ["Restatement (Second) of Torts § 457", "Restatement (Third) of Torts: Liability for Physical and Emotional Harm § 34"]
+  source: original
+  tags: [wave1, M3, negligence, proximate-cause, intervening-cause]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-TRT-0015
+  subject: TRT
+  coverage_ids: [TRT-MBE-II.E.1]
+  rule_ids: [R-TRT-044, R-TRT-046, R-TRT-019]
+  difficulty: 3
+  stem: >-
+    After a morning of target shooting, a man left his loaded rifle leaning against a picnic table at a busy
+    public campground while he walked to the camp store to buy ice. A 7-year-old girl bumped the table, and
+    the rifle fell over. It did not fire, but its heavy wooden stock landed on the foot of a camper sitting at
+    the table, breaking two bones. The camper sues the man for negligence.
+  call: Which of the following is the man's best argument?
+  options:
+    A: "The girl's act of bumping the table was a superseding cause of the camper's injury."
+    B: "He owed no duty to the camper because she was a stranger to him."
+    C: "The injury was not within the risk that made leaving a loaded rifle unattended negligent."
+    D: "The camper assumed the risk by choosing to sit at a table against which she could see a rifle was leaning."
+  answer: C
+  explanation_correct: >-
+    Scope of the risk (R-TRT-044): a defendant is liable only for harms within the scope of the risks that
+    made his conduct negligent. What made leaving a loaded rifle unattended at a busy campground negligent was
+    the risk that it would discharge and shoot someone. A falling rifle stock striking a foot is a harm that
+    an unloaded rifle, or any heavy object, could cause, and it is not the kind of harm that made his conduct
+    negligent. That is his strongest argument.
+  explanation_each_wrong_option:
+    A: >-
+      A child bumping a table at a busy campground is a foreseeable intervening act, so it is not
+      superseding (R-TRT-046).
+    B: >-
+      Duty is owed to all foreseeably endangered persons (R-TRT-019); a camper seated at the same table is
+      plainly within reach of a risk from the rifle.
+    D: >-
+      Assumption of risk requires knowledge and voluntary acceptance of a specific risk. Noticing a rifle
+      leaning against a table is not appreciating and accepting a risk that it will fall and injure her, and
+      a negligent defendant cannot shift its own careless conduct onto a bystander this way.
+  trap_type: confused-rule
+  authority: ["Restatement (Third) of Torts: Liability for Physical and Emotional Harm § 29"]
+  source: original
+  tags: [wave1, M3, negligence, proximate-cause, scope-of-risk]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-TRT-0016
+  subject: TRT
+  coverage_ids: [TRT-MBE-II.E.1]
+  rule_ids: [R-TRT-024, R-TRT-046, R-TRT-072]
+  difficulty: 2
+  stem: >-
+    A truck driver, speeding on an icy highway, lost control and overturned, trapping himself in the cab. A
+    passing motorist stopped on the shoulder, ran to the truck and was pulling the driver out when a second
+    car, driven carelessly, slid on the ice and struck the motorist, breaking her pelvis. The motorist sues the
+    truck driver.
+  call: Is the motorist likely to prevail against the truck driver?
+  options:
+    A: "No, because the truck driver owed a duty only to persons endangered by his driving, not to people who later chose to stop."
+    B: "Yes, because a person who negligently places himself in peril owes a duty to a rescuer, and the second car's negligence was a foreseeable intervening cause."
+    C: "No, because the motorist voluntarily assumed the risk of injury when she undertook the rescue."
+    D: "No, because the second driver's negligence was a superseding cause."
+  answer: B
+  explanation_correct: >-
+    Rescue doctrine (R-TRT-024): danger invites rescue, so one who negligently imperils himself or another
+    owes a duty to a person injured while making a reasonable rescue attempt. Being struck by another car on
+    an icy highway is a foreseeable risk of rescuing someone from a wreck, so the second driver's negligence
+    is not superseding (R-TRT-046). The motorist may also sue the second driver; the two are jointly liable.
+  explanation_each_wrong_option:
+    A: >-
+      Rescuers are treated as foreseeable plaintiffs; the duty extends to them even though they choose to
+      intervene.
+    C: >-
+      A reasonable rescue is not treated as a voluntary assumption of risk (R-TRT-072); at most, an
+      unreasonable rescue would reduce recovery under comparative fault.
+    D: >-
+      Foreseeable negligence of third persons does not supersede; only unforeseeable, extraordinary acts do.
+  trap_type: confused-rule
+  authority: ["Wagner v. International Ry. Co., 232 N.Y. 176 (1921)"]
+  source: original
+  tags: [wave1, M3, negligence, rescue-doctrine]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-TRT-0017
+  subject: TRT
+  coverage_ids: [TRT-MBE-II.E.2]
+  rule_ids: [R-TRT-049, R-TRT-050]
+  difficulty: 2
+  stem: >-
+    A homeowner invited a friend to dinner. After dinner, the friend went down the homeowner's back steps to
+    get something from her car. One of the wooden steps, which had rotted from the inside, gave way, and she
+    broke her ankle. The rot was not visible, the homeowner did not know of it, and an inspection by a
+    carpenter would have revealed it. The jurisdiction follows the traditional common-law categories of land
+    entrants.
+  call: Is the friend likely to prevail in a negligence action against the homeowner?
+  options:
+    A: "Yes, because a possessor of land owes guests a duty to inspect the premises for hidden dangers."
+    B: "Yes, because the step was an artificial condition that posed a risk of serious bodily harm."
+    C: "No, because the friend left the part of the house to which she was invited and became a trespasser."
+    D: "No, because the friend was a licensee, and the homeowner had no duty to inspect for unknown dangers."
+  answer: D
+  explanation_correct: >-
+    Licensees (R-TRT-049): a social guest is a licensee. The possessor must warn of or make safe concealed
+    dangerous conditions he knows of, and use reasonable care in active operations, but has no duty to inspect
+    for unknown dangers. The homeowner did not know of the rot, so he breached no duty, even though an
+    inspection would have found it.
+  explanation_each_wrong_option:
+    A: >-
+      Confused rule. The duty to inspect is owed to invitees (R-TRT-050), such as customers, not to social
+      guests.
+    B: >-
+      Artificial, dangerous conditions matter for discovered trespassers and attractive nuisance; for a
+      licensee the decisive question is the possessor's knowledge.
+    C: >-
+      Fact misread. Walking to her own car by the back steps is within the scope of a dinner invitation; she
+      remained a licensee.
+  trap_type: confused-rule
+  authority: ["Restatement (Second) of Torts § 342"]
+  source: original
+  tags: [wave1, M3, negligence, premises-liability, licensee]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-TRT-0018
+  subject: TRT
+  coverage_ids: [TRT-MBE-II.E.2]
+  rule_ids: [R-TRT-048, R-TRT-047]
+  difficulty: 2
+  stem: >-
+    A contractor building a drainage project leased an unfenced lot next to a neighborhood park as a staging
+    area. It stored six concrete pipes, each about four feet in diameter, stacked in a pyramid without wedges
+    or chocks. The contractor's foreman had twice chased children off the pipes. Chocking the pipes would have
+    cost about $50. One Saturday, an 8-year-old boy climbed onto the stack; the top pipe rolled, and he was
+    crushed. The boy's parents sue the contractor on his behalf.
+  call: Is the contractor likely to be liable?
+  options:
+    A: "Yes, because the contractor knew children were likely to trespass, the unsecured pipes posed a risk of serious harm that young children would not appreciate, and the burden of securing them was slight."
+    B: "Yes, because a possessor of land is strictly liable for injuries to trespassing children."
+    C: "No, because the boy was a trespasser, to whom the contractor owed only a duty to refrain from willful or wanton conduct."
+    D: "No, because the boy was not lured onto the lot by the pipes; he came to play in the park."
+  answer: A
+  explanation_correct: >-
+    Attractive nuisance (R-TRT-048; R2d § 339): a possessor is liable to trespassing children for an artificial
+    condition where it knows children are likely to trespass there, the condition poses an unreasonable risk
+    of death or serious harm, children because of their youth will not realize the risk, the burden of
+    eliminating the danger is slight compared with the risk, and it fails to use reasonable care. Each element
+    fits: prior chasing, a rolling multi-ton pipe, an 8-year-old, and $50 chocks.
+  explanation_each_wrong_option:
+    B: >-
+      Attractive-nuisance liability is negligence-based (failure to use reasonable care), not strict.
+    C: >-
+      Exception trap. The limited duty to undiscovered adult trespassers (R-TRT-047) is displaced for
+      child trespassers when the attractive-nuisance elements are met.
+    D: >-
+      The child need not have been lured onto the land by the condition; it is enough that the possessor
+      knew children were likely to trespass where the condition exists.
+  trap_type: exception-trap
+  authority: ["Restatement (Second) of Torts § 339"]
+  source: original
+  tags: [wave1, M3, negligence, premises-liability, attractive-nuisance]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-TRT-0019
+  subject: TRT
+  coverage_ids: [TRT-MBE-II.E.3]
+  rule_ids: [R-TRT-055, R-TRT-054]
+  difficulty: 1
+  stem: >-
+    A delivery van negligently struck and seriously injured a 10-year-old boy as he crossed a street near his
+    school. His mother, who was at work across town, received a phone call about the accident about thirty
+    minutes later, rushed to the hospital and saw her son unconscious and bleeding in the emergency room. She
+    suffered severe emotional distress, including insomnia and panic attacks. She sues the van's owner for
+    negligent infliction of emotional distress. The jurisdiction follows the majority approach to bystander
+    recovery.
+  call: Is the mother likely to prevail?
+  options:
+    A: "Yes, because she is the boy's parent and her emotional distress was severe and foreseeable."
+    B: "No, because she did not perceive the accident when it occurred."
+    C: "Yes, because she observed her son's injuries shortly after the accident."
+    D: "No, because she did not suffer a physical impact."
+  answer: B
+  explanation_correct: >-
+    Bystander recovery (R-TRT-055): a bystander may recover for serious emotional distress from witnessing
+    negligently caused injury to another only if she is a close family member who perceived the injury-causing
+    event contemporaneously. The mother is a close relative and her distress is severe, but she learned of
+    the accident by phone and saw its aftermath at the hospital, so she cannot recover as a bystander.
+  explanation_each_wrong_option:
+    A: >-
+      Missing element. Relationship and severe distress are necessary but not sufficient; contemporaneous
+      perception of the event is also required.
+    C: >-
+      Seeing injuries later, away from the scene, is not perceiving the injury-causing event.
+    D: >-
+      Wrong reason. The impact rule is a minority approach (R-TRT-054); the majority instead asks about
+      contemporaneous perception (or zone of danger), which she also fails.
+  trap_type: missing-element
+  authority: ["Restatement (Third) of Torts: Liability for Physical and Emotional Harm § 48", "Thing v. La Chusa (1989) 48 Cal.3d 644"]
+  source: original
+  tags: [wave1, M3, negligence, nied, bystander]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-TRT-0020
+  subject: TRT
+  coverage_ids: [TRT-MBE-II.E.4]
+  rule_ids: [R-TRT-061, R-TRT-063, R-TRT-046]
+  difficulty: 2
+  stem: >-
+    A crane operator for a construction company negligently swung a load into a city water main, flooding a
+    downtown street. The city closed the street for five days while making repairs. A restaurant on the street
+    suffered no physical damage, but it had to close for those five days and lost $35,000 in profits. The
+    restaurant had no contract or other relationship with the construction company. It sues the construction
+    company for negligence.
+  call: Is the restaurant likely to recover its lost profits?
+  options:
+    A: "Yes, because the loss was a foreseeable consequence of the crane operator's negligence."
+    B: "Yes, because the construction company is vicariously liable for the crane operator's negligence."
+    C: "No, because there is generally no duty to avoid causing purely economic loss to strangers."
+    D: "No, because the city's decision to close the street was a superseding cause."
+  answer: C
+  explanation_correct: >-
+    Pure economic loss (R-TRT-061): there is generally no duty to avoid negligently causing purely economic loss,
+    unconnected to personal injury or damage to the plaintiff's property, to a stranger. The restaurant suffered
+    no physical harm and had no special relationship with the company, so its lost profits are not recoverable
+    in negligence, however foreseeable.
+  explanation_each_wrong_option:
+    A: >-
+      Foreseeability alone does not create a duty for pure economic loss; the rule exists to avoid open-ended
+      liability to everyone who loses business.
+    B: >-
+      True but irrelevant. Respondeat superior (R-TRT-063) makes the company answer for the operator's tort,
+      but there is no tort here because no duty was owed.
+    D: >-
+      Closing a flooded street for repairs is a foreseeable response (R-TRT-046), not a superseding cause; the
+      claim fails at duty.
+  trap_type: confused-rule
+  authority: ["Robins Dry Dock & Repair Co. v. Flint, 275 U.S. 303 (1927)", "Southern California Gas Leak Cases (2019) 7 Cal.5th 391"]
+  source: original
+  tags: [wave1, M3, negligence, economic-loss]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-TRT-0021
+  subject: TRT
+  coverage_ids: [TRT-MBE-II.F.1]
+  rule_ids: [R-TRT-063, R-TRT-067]
+  difficulty: 1
+  stem: >-
+    A pharmacy employed a driver to deliver prescriptions in its van between 9 a.m. and 5 p.m. One afternoon,
+    after making a delivery, the driver drove 35 miles in the opposite direction from his route to watch his
+    daughter's soccer game, intending to resume his deliveries afterward. While driving to the game, he
+    negligently ran a red light and struck a cyclist. The pharmacy had no reason to doubt the driver's
+    competence. The cyclist sues the pharmacy.
+  call: Is the pharmacy likely to be vicariously liable?
+  options:
+    A: "No, because the driver was on a frolic of his own."
+    B: "Yes, because the driver was using the employer's van during working hours."
+    C: "Yes, because a minor deviation from an employer's business remains within the scope of employment."
+    D: "No, because an employer is never liable for an employee's negligent driving unless it was negligent in hiring him."
+  answer: A
+  explanation_correct: >-
+    Respondeat superior (R-TRT-063): an employer is liable for torts committed within the scope of employment,
+    which includes minor detours but not a frolic, a substantial departure for the employee's own purposes. A
+    35-mile trip in the opposite direction to watch a game is a frolic, and the accident happened on the way
+    there. The pharmacy had no reason to doubt his competence, so there is no direct negligent-entrustment or
+    hiring claim either (R-TRT-067).
+  explanation_each_wrong_option:
+    B: >-
+      Using the employer's vehicle during working hours does not make a personal venture part of the job;
+      the purpose and extent of the deviation control.
+    C: >-
+      Fact misread. The rule is correct for minor detours, but a 35-mile trip in the opposite direction for
+      a personal errand is substantial.
+    D: >-
+      Overbroad. Employers are routinely vicariously liable for employees' negligent driving within the scope
+      of employment, without any negligence of their own.
+  trap_type: fact-misread
+  authority: ["Restatement (Third) of Agency § 7.07"]
+  source: original
+  tags: [wave1, M3, negligence, vicarious-liability, frolic]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-TRT-0022
+  subject: TRT
+  coverage_ids: [TRT-MBE-II.F.2]
+  rule_ids: [R-TRT-064, R-TRT-050, R-TRT-077]
+  difficulty: 3
+  stem: >-
+    A department store hired an elevator-maintenance company, an independent contractor chosen carefully for
+    its excellent reputation, to inspect and repair the store's customer escalators. One of the contractor's
+    technicians negligently reassembled a step, and the next day a customer riding the escalator was injured
+    when the step collapsed. The store had no way to detect the faulty reassembly. The customer sues the store.
+  call: Is the customer likely to prevail against the store?
+  options:
+    A: "No, because the store exercised reasonable care in selecting a competent contractor."
+    B: "No, because a hirer is not vicariously liable for the negligence of an independent contractor."
+    C: "Yes, because escalator maintenance is an abnormally dangerous activity, so the store is strictly liable."
+    D: "Yes, because a business's duty to keep its premises reasonably safe for invitees is nondelegable, so the store is liable for its contractor's negligence in performing that duty."
+  answer: D
+  explanation_correct: >-
+    Independent contractors (R-TRT-064): a hirer generally is not liable for an independent contractor's
+    negligence, but there are exceptions, including nondelegable duties. A possessor's duty to keep premises
+    open to the public reasonably safe for invitees (R-TRT-050) is a classic nondelegable duty. The store
+    may delegate the work but not the responsibility, so it is liable for the contractor's negligent repair.
+    It may seek indemnity from the contractor.
+  explanation_each_wrong_option:
+    A: >-
+      True but irrelevant. Careful selection defeats a claim for negligent hiring of the contractor, but not
+      liability under a nondelegable duty.
+    B: >-
+      Exception trap. This is the general rule, which the nondelegable-duty exception displaces.
+    C: >-
+      Escalator maintenance is a common activity whose risks reasonable care can control; it is not
+      abnormally dangerous (R-TRT-077). Liability rests on the contractor's negligence.
+  trap_type: exception-trap
+  authority: ["Restatement (Second) of Torts § 409"]
+  source: original
+  tags: [wave1, M3, negligence, vicarious-liability, nondelegable-duty]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-TRT-0023
+  subject: TRT
+  coverage_ids: [TRT-MBE-II.G.1]
+  rule_ids: [R-TRT-070, R-TRT-069]
+  difficulty: 1
+  stem: >-
+    A jogger running at dusk without reflective clothing crossed a road outside a crosswalk and was struck by
+    a driver who was going 15 miles per hour over the speed limit. The jogger suffered $150,000 in damages. The
+    jury found the jogger 60% at fault and the driver 40% at fault. The jogger sues the driver for
+    negligence.
+  call: How much will the jogger recover?
+  options:
+    A: "Nothing, because her fault exceeded the driver's."
+    B: "$60,000."
+    C: "$90,000."
+    D: "Nothing, because she was contributorily negligent."
+  answer: B
+  explanation_correct: >-
+    Comparative negligence (R-TRT-070): unless the question says otherwise, the MBE applies pure comparative
+    negligence. The plaintiff's damages are reduced by her percentage of fault, even if she is more at fault
+    than the defendant: $150,000 x 40% = $60,000.
+  explanation_each_wrong_option:
+    A: >-
+      Minority-rule trap. A modified comparative-fault jurisdiction (50% or 51% bar) would deny recovery,
+      but the MBE default is pure comparative negligence.
+    C: >-
+      Fact misread. $90,000 reduces the damages by the driver's 40% instead of the jogger's 60%.
+    D: >-
+      Contributory negligence as a complete bar (R-TRT-069) applies only if the question says the jurisdiction
+      follows it.
+  trap_type: minority-rule
+  authority: ["NCBE MBE Torts outline default: pure comparative negligence", "Li v. Yellow Cab Co. (1975) 13 Cal.3d 804"]
+  source: original
+  tags: [wave1, M3, negligence, defenses, comparative-fault]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-TRT-0024
+  subject: TRT
+  coverage_ids: [TRT-MBE-II.G.2]
+  rule_ids: [R-TRT-071, R-TRT-073, R-TRT-063]
+  difficulty: 2
+  stem: >-
+    Before a white-water rafting trip, an adult customer signed a clear and conspicuous release stating that
+    she "releases the outfitter from all liability for injuries caused by the outfitter's negligence." The trip
+    guide knew that the river was running at flood stage and that the outfitter's own safety rules prohibited
+    trips at that level, but he took the group out anyway because he did not want to refund the fees. The raft
+    capsized in a rapid, and the customer was seriously injured. She sues the outfitter.
+  call: Does the release bar her claim?
+  options:
+    A: "Yes, because she expressly assumed the risk of injury from the outfitter's negligence in a clear and conspicuous writing."
+    B: "Yes, because white-water rafting is an inherently dangerous recreational activity."
+    C: "No, because a release of liability for negligence does not bar a claim based on reckless conduct."
+    D: "No, because releases of liability for personal injury are always unenforceable as against public policy."
+  answer: C
+  explanation_correct: >-
+    Express assumption of risk (R-TRT-071): a clear release can bar claims for ordinary negligence in a
+    recreational setting, but it does not cover intentional, reckless or grossly negligent misconduct. The
+    guide knew of the flood stage and the outfitter's prohibition and went anyway for money, a conscious
+    disregard of a known serious risk. That is reckless conduct, for which the outfitter is vicariously liable
+    (R-TRT-063), and the release does not reach it.
+  explanation_each_wrong_option:
+    A: >-
+      Missing element. The release is valid as to ordinary negligence, but the conduct here exceeds its scope
+      and the public-policy limit.
+    B: >-
+      Risks inherent in rafting (sudden swells, cold water) may be assumed (R-TRT-073); launching at flood
+      stage in violation of the outfitter's own rules is not an inherent risk.
+    D: >-
+      Overbroad. Most courts enforce clear recreational releases for ordinary negligence; only releases
+      affecting the public interest or covering reckless conduct are void.
+  trap_type: overbroad
+  authority: ["Restatement (Second) of Torts § 496B"]
+  source: original
+  tags: [wave1, M3, negligence, defenses, express-assumption]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-TRT-0025
+  subject: TRT
+  coverage_ids: [TRT-MBE-II.G.2]
+  rule_ids: [R-TRT-072, R-TRT-070]
+  difficulty: 3
+  stem: >-
+    A customer rented a mountain bike from a rental shop for a trail ride. She knew that mountain biking
+    involves a risk of falls on rough terrain. Unknown to her, the shop's mechanic had negligently failed to
+    tighten the front wheel's quick-release lever, a defect that was not apparent on a reasonable look at the
+    bike. On a gentle downhill stretch, the front wheel came off and she was thrown over the handlebars. In
+    her negligence action, the shop argues that she assumed the risk. The jurisdiction follows pure comparative
+    negligence.
+  call: How should the court treat the shop's assumption-of-risk defense?
+  options:
+    A: "As a complete bar, because the customer voluntarily engaged in an activity she knew to be dangerous."
+    B: "As a reduction of her damages in proportion to her fault in choosing to ride."
+    C: "As a complete bar, because the risk of a wheel detaching is inherent in mountain biking."
+    D: "As inapplicable, because she did not know of the loose wheel."
+  answer: D
+  explanation_correct: >-
+    Implied assumption of risk (R-TRT-072) requires actual, subjective knowledge and appreciation of the
+    specific risk and a voluntary choice to encounter it. General awareness that mountain biking is dangerous
+    is not knowledge of a loose wheel the customer could not see. The defense fails at the knowledge element,
+    so the question of whether it would bar or merely reduce recovery never arises.
+  explanation_each_wrong_option:
+    A: >-
+      Missing element. Knowing an activity is risky in general is not knowing the particular risk created by
+      the defendant's negligence.
+    B: >-
+      There is nothing to apportion: she did not knowingly encounter the risk and nothing shows she was
+      careless, so comparative fault (R-TRT-070) does not reduce her damages.
+    C: >-
+      A wheel detaching because the rental shop failed to tighten it is a risk created by the defendant's
+      negligence, not a risk inherent in the sport.
+  trap_type: missing-element
+  authority: ["Restatement (Second) of Torts § 496D"]
+  source: original
+  tags: [wave1, M3, negligence, defenses, implied-assumption]
+  status: draft
+  last_verified: "2026-11-04"

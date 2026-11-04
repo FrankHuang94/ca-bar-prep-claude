@@ -1,0 +1,396 @@
+# Torts MCQs — NCBE category I: intentional torts and defenses (consent, privileges)
+# Wave 1 (M3). Majority common-law / Restatement rules only. All items original.
+questions:
+- id: Q-TRT-0026
+  subject: TRT
+  coverage_ids: [TRT-MBE-I.A, TRT-CBX-I.x1]
+  rule_ids: [R-TRT-001, R-TRT-002, R-TRT-003]
+  difficulty: 2
+  stem: >-
+    Angry at a coworker in a crowded parking lot, a man threw a full soda can toward the coworker, intending
+    only to frighten him by having it land at his feet. The can bounced off a car and struck a bystander in the
+    face, chipping her tooth. The man never saw the bystander. She sues the man for battery.
+  call: Is the bystander likely to prevail?
+  options:
+    A: "Yes, because his intent to frighten the coworker transfers to the contact with the bystander."
+    B: "No, because the man did not intend to cause a harmful or offensive contact with anyone."
+    C: "No, because the man did not know the bystander was present and therefore could not have intended to touch her."
+    D: "Yes, because throwing a can in a crowded parking lot was negligent."
+  answer: A
+  explanation_correct: >-
+    Transferred intent (R-TRT-001): intent to commit assault, battery, false imprisonment, trespass to land
+    or trespass to chattels against one person satisfies the intent element when a different one of those
+    torts results to a different person. The man intended an assault on the coworker (R-TRT-003); that intent
+    transfers both to a different tort (battery) and to a different victim, and a harmful contact with the
+    bystander resulted (R-TRT-002).
+  explanation_each_wrong_option:
+    B: >-
+      Missing the doctrine. Battery's intent element is met by intent to cause either a contact or an
+      imminent apprehension of one, and it transfers among the trespass-family torts.
+    C: >-
+      Transferred intent applies precisely when the defendant did not aim at, or even know of, the actual
+      victim.
+    D: >-
+      Right result, wrong reason. Negligence would support a negligence claim, not battery; battery requires
+      intent, which is supplied here by transferred intent.
+  trap_type: missing-element
+  authority: ["Restatement (Second) of Torts § 13", "Talmage v. Smith, 101 Mich. 370 (1894)"]
+  source: original
+  tags: [wave1, M3, intentional-torts, battery, transferred-intent]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-TRT-0027
+  subject: TRT
+  coverage_ids: [TRT-MBE-I.A, TRT-CBX-I.x1]
+  rule_ids: [R-TRT-003, R-TRT-005]
+  difficulty: 1
+  stem: >-
+    During a heated phone call, a landlord told his tenant, "If you don't pay by Friday, I'll come over next
+    week and break both your arms." The tenant was terrified and did not sleep for several nights. The landlord
+    never came over. The tenant sues the landlord for assault.
+  call: Is the tenant likely to prevail?
+  options:
+    A: "Yes, because the landlord intended to put the tenant in fear and succeeded."
+    B: "No, because the landlord's words threatened future harm, not an imminent contact."
+    C: "Yes, because a conditional threat is an assault when the defendant has no right to impose the condition."
+    D: "No, because the tenant did not suffer physical harm."
+  answer: B
+  explanation_correct: >-
+    Assault (R-TRT-003) requires that the plaintiff be put in reasonable apprehension of an imminent harmful or
+    offensive contact. A threat over the phone to come "next week" threatens future harm; there is no
+    imminence, and words alone, from someone not physically present, usually cannot create it. (A claim for
+    intentional infliction of emotional distress, R-TRT-005, would require extreme and outrageous conduct and
+    severe distress.)
+  explanation_each_wrong_option:
+    A: >-
+      Missing element. Intent and fear are not enough; the apprehension must be of an imminent contact.
+    C: >-
+      Exception trap. A conditional threat can be an assault ("your money or your life"), but only if the
+      threatened contact is imminent; this threat was for next week.
+    D: >-
+      Assault requires no physical harm; the problem is imminence, not damages.
+  trap_type: exception-trap
+  authority: ["Restatement (Second) of Torts § 21"]
+  source: original
+  tags: [wave1, M3, intentional-torts, assault]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-TRT-0028
+  subject: TRT
+  coverage_ids: [TRT-MBE-I.A, TRT-CBX-I.x1]
+  rule_ids: [R-TRT-004]
+  difficulty: 2
+  stem: >-
+    As a prank, a man locked the door of a storage room from the outside while his coworker was asleep inside
+    on a break. The man unlocked the door 40 minutes later, before the coworker woke up. The coworker learned
+    of the prank a week later from another employee, became upset and embarrassed, and sued the man for false
+    imprisonment. The coworker suffered no physical harm.
+  call: Is the coworker likely to prevail?
+  options:
+    A: "Yes, because the man intentionally confined the coworker within fixed boundaries."
+    B: "Yes, because the coworker suffered emotional distress when he learned of the confinement."
+    C: "No, because the coworker was neither aware of nor harmed by the confinement."
+    D: "No, because the confinement lasted less than an hour."
+  answer: C
+  explanation_correct: >-
+    False imprisonment (R-TRT-004) requires intent to confine, actual confinement, and that the plaintiff was
+    conscious of the confinement or harmed by it. The coworker slept through the entire 40 minutes and suffered
+    no harm from the confinement itself, so the last element fails even though intent and confinement are
+    present.
+  explanation_each_wrong_option:
+    A: >-
+      Missing element. Intent and confinement are present, but awareness or harm is also required.
+    B: >-
+      Distress felt a week later on learning of the prank is not harm caused by the confinement, and it does
+      not substitute for awareness at the time.
+    D: >-
+      Any appreciable period of confinement suffices; 40 minutes is more than enough.
+  trap_type: missing-element
+  authority: ["Restatement (Second) of Torts § 35"]
+  source: original
+  tags: [wave1, M3, intentional-torts, false-imprisonment]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-TRT-0029
+  subject: TRT
+  coverage_ids: [TRT-MBE-I.A, TRT-CBX-I.x1]
+  rule_ids: [R-TRT-005, R-TRT-096]
+  difficulty: 2
+  stem: >-
+    A debt collector learned that a debtor was recovering at home from a serious heart attack. Over three weeks,
+    the collector called her up to eight times a day, falsely told her that police would arrest her within days
+    if she did not pay, and told her elderly mother that the debtor was "a thief who belongs in prison." The
+    debtor suffered a second heart attack, which her doctors attributed to the stress. She sues the collector for
+    intentional infliction of emotional distress.
+  call: Is the debtor likely to prevail?
+  options:
+    A: "No, because a creditor's agent is privileged to take reasonable steps to collect a valid debt."
+    B: "No, because insults and threats can never be extreme and outrageous enough to support liability."
+    C: "Yes, because the collector's statements to her mother were false and defamatory."
+    D: "Yes, because the collector's repeated, abusive conduct, aimed at a person he knew was especially vulnerable, was extreme and outrageous and caused her severe distress."
+  answer: D
+  explanation_correct: >-
+    IIED (R-TRT-005): a defendant who by extreme and outrageous conduct intentionally or recklessly causes
+    severe emotional distress is liable for it and for resulting bodily harm. Outrageousness is most likely
+    where the defendant abuses a position of power, repeats the conduct, and knows of the plaintiff's special
+    vulnerability. All three are present, along with false threats of arrest; the second heart attack shows
+    severe distress and resulting bodily harm.
+  explanation_each_wrong_option:
+    A: >-
+      Any collection privilege covers reasonable steps; false threats of arrest and relentless calls to a
+      known heart patient are not reasonable.
+    B: >-
+      Overbroad. Mere insults are not enough, but a pattern of threats and abuse by a person in a position
+      of power can be outrageous.
+    C: >-
+      Wrong tort. Defamation (R-TRT-096) may be a separate claim, but it does not establish the elements of
+      IIED.
+  trap_type: overbroad
+  authority: ["Restatement (Second) of Torts § 46"]
+  source: original
+  tags: [wave1, M3, intentional-torts, iied]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-TRT-0030
+  subject: TRT
+  coverage_ids: [TRT-MBE-I.A, TRT-CBX-I.x3]
+  rule_ids: [R-TRT-008, R-TRT-007]
+  difficulty: 3
+  stem: >-
+    A thief stole a vintage guitar worth $12,000 from a musician's home. Two weeks later, the thief sold it at a
+    flea market to a collector, who paid a fair price and had no reason to suspect that it was stolen. The
+    collector played the guitar at several concerts over the next year. When the musician found the guitar and
+    demanded its return, the collector refused, saying he was a good-faith purchaser. The musician sues the
+    collector for conversion.
+  call: Is the musician likely to prevail?
+  options:
+    A: "No, because the collector acted in good faith and paid value for the guitar."
+    B: "Yes, because a purchaser from a thief acquires no title, and the collector's acquisition and refusal to return the guitar on demand seriously interfered with the musician's right to it."
+    C: "No, because the collector did not damage the guitar, so at most he is liable for trespass to chattels."
+    D: "Yes, but only if the musician proves that the collector should have known the guitar was stolen."
+  answer: B
+  explanation_correct: >-
+    Conversion (R-TRT-008): intentional exercise of dominion or control over a chattel that so seriously
+    interferes with another's right to control it that the defendant may fairly be required to pay its full
+    value. Good faith and mistake are no defense, and a thief passes no title, so the collector's purchase,
+    year of use and refusal after demand are a serious interference. The musician may recover the guitar's
+    value or the guitar itself.
+  explanation_each_wrong_option:
+    A: >-
+      Confused rule. A good-faith purchaser for value can take good title from a seller with voidable title
+      (UCC § 2-403), but a thief has void title and can pass none.
+    C: >-
+      Damage is not required for conversion; acquiring, keeping and refusing to return the chattel after
+      demand are serious interferences, so this is more than trespass to chattels (R-TRT-007).
+    D: >-
+      Conversion requires only intent to exercise control over the chattel; knowledge or negligence about
+      the true owner's rights is irrelevant.
+  trap_type: confused-rule
+  authority: ["Restatement (Second) of Torts § 222A", "UCC § 2-403(1)"]
+  source: original
+  tags: [wave1, M3, intentional-torts, conversion]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-TRT-0031
+  subject: TRT
+  coverage_ids: [TRT-MBE-I.B.1]
+  rule_ids: [R-TRT-009, R-TRT-002]
+  difficulty: 2
+  stem: >-
+    During an amateur hockey league game in which body checking was permitted, a player was legally checked
+    into the boards and fell to the ice. After the referee blew the whistle to stop play, an opposing player
+    skated over and struck the fallen player in the face with his stick, breaking his nose. The injured player
+    sues the opposing player for battery. The opposing player argues that everyone who plays hockey consents
+    to physical contact.
+  call: Is the injured player likely to prevail?
+  options:
+    A: "Yes, because the blow after play stopped exceeded his consent."
+    B: "No, because by participating in a contact sport he consented to all contact that occurred during the game."
+    C: "No, because a participant in a contact sport can recover only if the other player intended to cause serious injury."
+    D: "Yes, because consent is never a defense to a battery that causes physical injury."
+  answer: A
+  explanation_correct: >-
+    Consent (R-TRT-009): consent is a defense only if the defendant stays within its scope. Participants in a
+    contact sport impliedly consent to contacts within the rules and customs of the game, such as legal body
+    checks, but not to intentional blows far outside them. Striking a fallen player in the face with a stick
+    after the whistle exceeds the scope of consent, so the contact is a battery (R-TRT-002).
+  explanation_each_wrong_option:
+    B: >-
+      Overbroad. Consent implied from participation is limited to contacts within the game's rules and
+      customs.
+    C: >-
+      Wrong standard. Battery requires intent to cause a harmful or offensive contact, not intent to cause
+      serious injury; the sports cases ask whether the conduct was within the scope of consent.
+    D: >-
+      Overbroad. Consent is a complete defense to contacts within its scope, including injurious ones such as
+      a legal hard check.
+  trap_type: overbroad
+  authority: ["Restatement (Second) of Torts § 892A", "Hackbart v. Cincinnati Bengals, Inc., 601 F.2d 516 (10th Cir. 1979)"]
+  source: original
+  tags: [wave1, M3, defenses, consent]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-TRT-0032
+  subject: TRT
+  coverage_ids: [TRT-MBE-I.B.2.a]
+  rule_ids: [R-TRT-010, R-TRT-072]
+  difficulty: 2
+  stem: >-
+    Late at night in a dark parking garage, a woman saw a man in a ski mask run toward her, shouting and
+    pointing what looked like a handgun at her. She sprayed him in the face with pepper spray, temporarily
+    blinding him. The "gun" was a toy, and the man was a college student who had mistaken her for a friend he
+    meant to prank. He sues her for battery.
+  call: Is the woman likely to be liable?
+  options:
+    A: "Yes, because the man posed no actual threat to her, so her mistaken belief cannot justify the use of force."
+    B: "Yes, because she could have retreated to her car instead of using force."
+    C: "No, because she reasonably believed she faced an imminent attack and used reasonable force."
+    D: "No, because the man assumed the risk of injury by playing a prank."
+  answer: C
+  explanation_correct: >-
+    Self-defense (R-TRT-010): a person may use reasonable force against force she reasonably believes is about
+    to be used against her, and a reasonable mistake does not defeat the privilege. A masked man running at her
+    at night pointing an apparent gun justified a reasonable belief of imminent attack, and nondeadly pepper
+    spray was proportionate.
+  explanation_each_wrong_option:
+    A: >-
+      Wrong standard. The privilege turns on a reasonable belief, not on whether the threat was real.
+    B: >-
+      There is no duty to retreat before using nondeadly force; at most, some jurisdictions require retreat
+      before deadly force.
+    D: >-
+      Assumption of risk (R-TRT-072) is a negligence defense requiring knowing acceptance of a specific risk;
+      the privilege of self-defense is the proper analysis.
+  trap_type: wrong-standard
+  authority: ["Restatement (Second) of Torts § 63"]
+  source: original
+  tags: [wave1, M3, defenses, self-defense]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-TRT-0033
+  subject: TRT
+  coverage_ids: [TRT-MBE-I.B.2.b]
+  rule_ids: [R-TRT-012, R-TRT-070]
+  difficulty: 1
+  stem: >-
+    A farmer whose toolshed had been burglarized three times rigged a shotgun inside the shed to fire at knee
+    height when the door was opened. He posted no warning. One night a burglar opened the door and was
+    seriously wounded in the leg. The farmer was not on the property at the time. The burglar sues the farmer
+    for battery.
+  call: Is the burglar likely to prevail?
+  options:
+    A: "No, because the burglar was a trespasser committing a crime when he was injured."
+    B: "No, because a possessor may use reasonable force to protect property from intruders."
+    C: "Yes, but his recovery will be reduced under comparative fault by his own wrongful conduct in breaking into the shed."
+    D: "Yes, because deadly force, including by mechanical device, may not be used to protect property alone."
+  answer: D
+  explanation_correct: >-
+    Defense of property (R-TRT-012): a possessor may use reasonable, nondeadly force to protect property, but
+    deadly force is never privileged to protect property alone. A mechanical device is privileged only to the
+    extent the possessor could have used the same force in person. The farmer could not have shot an
+    unarmed burglar in an empty shed to protect tools, so the spring gun is unprivileged and he is liable for
+    battery.
+  explanation_each_wrong_option:
+    A: >-
+      The plaintiff's status as a trespasser or criminal does not privilege the use of deadly force against
+      him.
+    B: >-
+      True as to reasonable, nondeadly force, but a shotgun aimed to wound is deadly force, which is never
+      privileged to protect property alone.
+    C: >-
+      Most jurisdictions do not reduce an intentional tortfeasor's liability for the plaintiff's negligence
+      (R-TRT-070); comparative fault is not the frame for an intentional battery.
+  trap_type: confused-rule
+  authority: ["Katko v. Briney, 183 N.W.2d 657 (Iowa 1971)", "Restatement (Second) of Torts § 85"]
+  source: original
+  tags: [wave1, M3, defenses, defense-of-property]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-TRT-0034
+  subject: TRT
+  coverage_ids: [TRT-MBE-I.B.2.d]
+  rule_ids: [R-TRT-015, R-TRT-013, R-TRT-004]
+  difficulty: 3
+  stem: >-
+    A shopper at a mall heard someone shout that the jewelry store "just got robbed" and saw a man in a red
+    jacket running from the store's direction. Reasonably believing the man was the robber, the shopper tackled
+    him and held him on the ground for ten minutes until security guards arrived. In fact, no robbery had
+    occurred: a store clerk had mistakenly thought a display case had been emptied, and the man was running to
+    catch a bus. The man sues the shopper for battery and false imprisonment.
+  call: Is the shopper's privilege to make a citizen's arrest a valid defense?
+  options:
+    A: "Yes, because he reasonably believed that a felony had been committed and that the man had committed it."
+    B: "No, because a private person may arrest for a felony only if the felony was actually committed."
+    C: "Yes, because a private person may detain anyone for a reasonable time to investigate a suspected theft."
+    D: "No, because only a police officer may arrest for a felony without a warrant."
+  answer: B
+  explanation_correct: >-
+    Arrest privilege (R-TRT-015): a police officer may arrest for a felony on reasonable grounds even if no
+    felony occurred, but a private person is privileged only if the felony was in fact committed and he
+    reasonably believed the arrestee committed it. No robbery occurred, so the shopper's reasonable belief does
+    not protect him, and he is liable for the tackle (battery) and the ten-minute detention (false
+    imprisonment, R-TRT-004).
+  explanation_each_wrong_option:
+    A: >-
+      Confused rule. This is the officer's standard; a private arrester bears the risk that no felony
+      occurred.
+    C: >-
+      Confuses the shopkeeper's privilege (R-TRT-013), which protects a merchant detaining a suspected
+      shoplifter on or near its premises; the shopper is not a merchant, and he was not investigating theft of
+      his own goods.
+    D: >-
+      Overbroad. Private persons may arrest for a felony that was actually committed, on reasonable belief as
+      to the arrestee's identity.
+  trap_type: confused-rule
+  authority: ["Restatement (Second) of Torts § 119"]
+  source: original
+  tags: [wave1, M3, defenses, arrest-privilege]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-TRT-0035
+  subject: TRT
+  coverage_ids: [TRT-MBE-I.B.2.f, TRT-MBE-I.B.2.e]
+  rule_ids: [R-TRT-017, R-TRT-016, R-TRT-006]
+  difficulty: 2
+  stem: >-
+    Three hikers caught in a sudden, severe blizzard broke a window to enter a locked, unoccupied mountain cabin.
+    To avoid freezing, they burned two of the owner's wooden chairs in the fireplace. They left when the storm
+    cleared the next morning. The owner sues them for trespass to land and for the value of the window and the
+    chairs.
+  call: What is the most likely result?
+  options:
+    A: "The owner recovers nothing, because the hikers' entry was privileged by necessity."
+    B: "The owner recovers for the window and the chairs and nominal damages for the trespass, because necessity is no defense to trespass to land."
+    C: "The owner recovers for the damage to the window and the chairs, but the hikers are not liable as trespassers."
+    D: "The owner recovers nothing, because the cabin was unoccupied and no person was harmed."
+  answer: C
+  explanation_correct: >-
+    Private necessity (R-TRT-017): a person may enter or use another's property when reasonably necessary to
+    protect himself from serious harm. The privilege is incomplete: the entry is not a trespass (R-TRT-006), so
+    there are no nominal or punitive damages, but the actor must pay for actual damage caused. The hikers owe
+    the cost of the window and the chairs.
+  explanation_each_wrong_option:
+    A: >-
+      Confused rule. Complete immunity from liability is the public-necessity rule (R-TRT-016), which applies
+      when the act averts a public disaster, not when it protects a few individuals.
+    B: >-
+      Necessity is a defense to the trespass itself; it removes nominal damages for the entry but not
+      liability for actual harm.
+    D: >-
+      Damage to property is actual harm; the incomplete privilege requires compensation whether or not a person
+      was hurt.
+  trap_type: confused-rule
+  authority: ["Vincent v. Lake Erie Transp. Co., 109 Minn. 456 (1910)", "Ploof v. Putnam, 81 Vt. 471 (1908)"]
+  source: original
+  tags: [wave1, M3, defenses, necessity, incomplete-privilege]
+  status: draft
+  last_verified: "2026-11-04"
