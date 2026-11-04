@@ -12,7 +12,7 @@
 | 1 — Scaffold and tooling | ✅ Done | Structure, CLAUDE.md, config, schemas, 7 scripts, 22 tests, 11 slash commands, CI. Validation passes. |
 | 2 — Foundations, strategy, study plan | ✅ **Done (awaiting review)** | 02-foundations (5 files, 475-term glossary), MBE/essay/PT strategy, 38-week plan; VERIFY V-040–V-060 |
 | 3 — Past exams | ✅ Done | 31 administrations (Feb 2012–Jul 2026): 166 essays + 42 PTs indexed and analyzed (index-level); frequency analysis; 2 PAST rows | Archive covers Feb 2012 → July 2026 [S-079] |
-| 4 — Subject content | 🔄 **Groups 1–2 done (awaiting review)**: CTR, CIV, CON, CRM, CMP, REM; next group 3 (EVD, PRF, WIL, TRS) | Groups: (1) CTR CIV CON CRM · (2) CMP REM · (3) EVD PRF WIL TRS · (4) TRT PRP BUS |
+| 4 — Subject content | 🔄 **Groups 1–3 done (awaiting review)**: CTR, CIV, CON, CRM, CMP, REM, EVD, PRF, WIL, TRS; next group 4 (TRT, PRP, BUS) | Groups: (1) CTR CIV CON CRM · (2) CMP REM · (3) EVD PRF WIL TRS · (4) TRT PRP BUS |
 | 5 — Question bank | ☐ | |
 | 6 — High-yield and memorization | ☐ | |
 | 7 — Independent QA | ☐ | |
@@ -36,6 +36,34 @@
 - **`config/plan.yml`:** finalized phases, no leave (PTO for exam week only), targets and benchmarks aligned to the schedule.
 - **Totals:** ≈ 754 h · 2,210 MBE · 75 essays · 52 `/spot` drills · 12 PTs · 3 simulations (all on weekends).
 - **New sources and verify items:** S-140–S-150 and S-160; V-040–V-044, V-050–V-058 and V-060.
+
+## Phase 4 — group 3 deliverables (Evidence, Professional Responsibility, Wills & Succession, Trusts)
+
+| Subject | Rules | Flashcards | Outline (words) | Rows mapped | New verify items |
+|---|---|---|---|---|---|
+| Evidence | 115 (R-EVD-001–115) | 145 | ~23,500 (NCBE I–V + CA notes + State Bar outline section) | 92/92 | V-400–V-417 |
+| Professional Responsibility | 100 (R-PRF-001–100) | 138 | ~8,400 (+ ~22,900 rule statements, ~3,900 CA-vs-ABA table) | 18/18 | V-450–V-473 |
+| Wills & Succession | 105 (R-WIL-001–105) | 138 | ~15,500 (State Bar outline I–VIII + 7 SUP topics) | 42/42 | V-500–V-540 |
+| Trusts | 96 (R-TRS-001–096) | 118 | ~11,600 (State Bar outline I–XII + 3 SUP topics) | 18/18 | V-550–V-594 |
+
+- **Evidence:** every rule gives the FRE and CEC versions. The ~55-row `ca-distinctions.md` covers Truth-in-Evidence (Prop 8), character, impeachment, hearsay, privileges, expert gatekeeping (*Kelly*/*Sargon*/*Sanchez*) and the secondary evidence rule. The FRE 801(d)(1)(A) amendment (effective Dec 1, 2026) is taught as current law with a pre/post split table [VERIFY V-028]. Essay templates follow the item-by-item method.
+- **PR:** every rule has a **CA vs. ABA** line. The ~55-row CA/ABA table and a State Bar Act duty table are included. `outline.md` follows the State Bar outline I–VIII, with dedicated confidentiality (I.D) and loyalty (I.E) sections and MPRE notes.
+- **Wills and Trusts:** keyed to the Probate Code. Trusts cross-references R-WIL IDs for pour-overs, no-contest clauses, disqualified donees and nonprobate transfers.
+- **Cross-subject fixes the builders found:**
+  - Community Property now cites Prob. Code **§ 5040** for nonprobate transfers to a former spouse (former § 5600, now the TOD-deed statute); V-324 resolved.
+  - The closing-argument PT template now states that **CA rule 3.4(g)** bars personal opinion only on the guilt or innocence of an accused; V-058 resolved (wording tracked as V-450).
+  - Trusts governing law: calls vary, so read the call and give the general rule plus the Probate Code section. V-057 resolved; the remaining check is V-550. `essay-method.md` updated.
+  - `recent-changes.md` §7: Prob. Code **§ 15408** $100,000 threshold (SB 1127, 2024) [VERIFY V-556].
+- **Older amendments the build surfaced:**
+  - § 6300 pour-over (2018): the trust instrument may be signed up to 60 days after the will.
+  - § 6124: the lost-will presumption covers only a will that cannot be found.
+- **Spot-checked (accurate):**
+  - Wills: attested-will formalities, harmless error, holographic wills, anti-lapse (incl. class members), omitted-spouse share, DRR.
+  - PR: § 6068(e) confidentiality, rule 1.5.1 fee division, rule 1.7, rule 1.8.10, rule 3.10, rule 7.3.
+  - Evidence: Prop 8 exceptions, *Castro* moral turpitude, FRE 613(b)/804(b)(3) 2024 amendments, CEC § 1230.
+  - Trusts: § 15400 default, *Haggerty*, spendthrift, prudent investor, cy pres, resulting trusts.
+- **Coverage gate** passes for all 10 subjects built so far: 448 subject rows, 450 of 616 matrix rows mapped including the 2 PT rows.
+- **Matrix note:** `EVD-CBX-II?` has a "?" in its ID (Phase 0 numbering conflict), so it cannot appear in front matter. It is mapped; rename it during Phase 7 QA.
 
 ## Phase 4 — group 2 deliverables (Community Property, Remedies)
 
