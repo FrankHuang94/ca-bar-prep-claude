@@ -94,4 +94,17 @@ Phase 3 will calibrate these bands against published selected answers, so they s
 - **Over-long rule recitation.** A one- to three-sentence rule is the target. Spend the words on application.
 
 ## 5. Selected-answer patterns (Phase 3)
-To be added from `06-past-exams/analyses/`: how high-scoring answers organize recurring issue types, how long their rule statements are, and how they handle California distinctions.
+
+These patterns come from the Phase 3 indexing of 166 published essays and 42 PTs (Feb 2012 – Jul 2026). They were drawn from search summaries of the State Bar's selected-answers booklets, not full reads [VERIFY V-070]. The State Bar describes selected answers as high-scoring answers by applicants who passed, "not to be considered 'model' or perfect answers" [S-079].
+
+| Pattern | What it means for your answers |
+|---|---|
+| **Structure follows the call.** Numbered calls become numbered top-level headings. Calls that name parties are answered party by party. Calls that list items (statements, exhibits, conduct) are answered item by item. | Build the outline from the call before reading the facts in detail. |
+| **Threshold issues first:** standing before the merits, governing law (UCC vs. common law) before breach, entity liability before individual liability, Fourth Amendment standing before suppression. | Every subject's `issue-checklist.md` (Phase 4) lists its threshold issues in order. |
+| **Short rule, then specific facts, then a hedged conclusion** ("likely", "probably") for each issue, not only at the end. | Matches the repo rubric in §4. Never leave an issue without its own conclusion. |
+| **Two selected answers can reach opposite conclusions on the same issue** (e.g., Jul 2013 Q1 referral, Feb 2016 Q1 trust revocation, Jul 2018 Q3 conflict, Feb 2025 Q1 suppression) and both were published. | Graders reward issue recognition, a correct rule and reasoned two-sided application more than the "right" outcome. |
+| **Passing answers spot secondary issues** beyond the obvious ones (an extra tort between other parties; confidentiality alongside a conflict). | Run the full issue checklist; one sentence on a minor issue can earn credit. |
+| **Asset by asset in Community Property.** Each asset is characterized, the presumptions applied, transmutation tested (a writing is required), then reimbursement or apportionment and the remedy. | Use the CP essay template (Phase 4). |
+| **Item by item in Evidence.** Each piece of evidence gets its own heading, running relevance, hearsay definition, exclusions, exceptions, then confrontation and other objections. | The call says whether the **CEC or the FRE** governs; it changes between exams. |
+| **Actor by actor in PR, then duty by duty**, comparing the **California and ABA** rules point by point where they differ. | Every PR rule in `rule-statements.md` needs a "CA vs. ABA" line. |
+| **PT answers follow the task memo's own questions** and any format memo in the File. They apply the Library's factors item by item and respect scope limits ("do not address Miranda"). | `../04-performance-test/method.md` steps 1–4; read the format memo in the File as part of the instructions. |
