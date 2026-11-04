@@ -90,7 +90,7 @@ Dates assume the 2026 pattern holds. **(est.)** = not yet published [VERIFY V-01
 
 | When | Task | Done |
 |---|---|---|
-| **~Tue July 13, 2027 (est.)** | Route B: your sealed LLM transcript (or Route A: Certificate of Good Standing) must have been **received** by the State Bar by now. Mail it by late June ([admissions-checklist.md](../00-exam-intel/admissions-checklist.md)). | ☐ |
+| **~Tue July 13, 2027 (est.)** | Your sealed LL.M. transcript must have been **received** by the State Bar by now. Have Cardozo mail it as soon as your final term ends (May or June) ([admissions-checklist.md](../00-exam-intel/admissions-checklist.md)). | ☐ |
 | T−14 (Tue July 13) | Admittance ticket received; test site confirmed. Read the July 2027 bulletin end to end and work through §2 above. | ☐ |
 | T−14 | **Book a hotel** if you will stay near the site (§6). | ☐ |
 | T−14 | Laptop: **turn off automatic operating-system updates** until after the exam. Check the Examplify requirements on ExamSoft's site. Confirm you have administrator rights on the laptop. | ☐ |
