@@ -57,7 +57,7 @@ Return to the theme. Ask for a specific verdict: "...find [defendant] liable and
 - **Oral and persuasive:** short sentences, signposting ("First...", "Second..."), rhetorical questions used sparingly, plain words a juror understands.
 - **Respectful** to the jury, the court and opposing counsel.
 
-**Ethical limits on argument.** In trial, a lawyer may not allude to matters that will not be supported by admissible evidence, assert personal knowledge of facts in issue, or state a **personal opinion** on the justness of a cause, a witness's credibility, a civil litigant's culpability, or an accused's guilt or innocence (ABA Model Rule 3.4(e)). California's rule 3.4 has a parallel provision [VERIFY V-058].
+**Ethical limits on argument.** In trial, a lawyer may not allude to matters that will not be supported by admissible evidence, assert personal knowledge of facts in issue, or state a **personal opinion** on the justness of a cause, a witness's credibility, a civil litigant's culpability, or an accused's guilt or innocence (ABA Model Rule 3.4(e)). California rule 3.4(g) bars asserting personal knowledge of facts in issue and stating a personal opinion as to the guilt or innocence of an accused, but omits the ABA's justness-of-cause, witness-credibility and civil-culpability categories [S-550] [VERIFY V-450]. In a PT, apply whatever ethics rules the File and Library supply.
 - **What to write:** "The evidence shows that Mr. Lee's account changed three times."
 - **What not to write:** "I believe Mr. Lee is lying."
 
