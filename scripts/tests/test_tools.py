@@ -133,3 +133,25 @@ def test_build_weeks(repo, capsys):
     assert build_weeks.main(["--from", "2027-W17"]) == 0
     assert "hand edit" not in (repo / "01-study-plan/weeks/2027-W17.md").read_text()
     assert validate.run().errors == []
+
+
+def test_merge_build_outputs(repo, tmp_path, capsys):
+    import merge_build_outputs as M
+    m = tmp_path / "map.csv"
+    m.write_text("coverage_id,target_file,target_heading\n"
+                 "CTR-MBE-I.A,03-subjects/evidence/outline.md,FRE vs CEC\n"
+                 "CTR-MBE-I,03-subjects/evidence/outline.md,No such heading\n"
+                 "XXX-MBE-I,03-subjects/evidence/outline.md,V Hearsay\n")
+    s = tmp_path / "s.md"
+    s.write_text("| S-005 | New source | Pub | https://example.org/new | 2026-11-04 | search | x |\n"
+                 "| S-001 | Dup | Pub | https://example.org/d | 2026-11-04 | search | x |\n")
+    v = tmp_path / "v.md"
+    v.write_text("| V-009 | x | later | y | z | Low | 2026-11-04 |\n| V-003 | x | earlier | y | z | Low | 2026-11-04 |\n")
+    rc = M.main(["--mapping", str(m), "--sources", str(s), "--verify", str(v)])
+    assert rc == 1  # one missing heading, one unknown id, one duplicate source
+    rows = {r["coverage_id"]: r for r in C.load_matrix()}
+    assert rows["CTR-MBE-I.A"]["mapping_status"] == "mapped" and rows["CTR-MBE-I"]["mapping_status"] == "planned"
+    src = (repo / "00-exam-intel/sources.md").read_text()
+    assert "| S-005 | New source" in src and src.count("| S-001 |") == 1
+    q = (repo / "VERIFY-QUEUE.md").read_text()
+    assert q.index("| V-001 |") < q.index("| V-003 |") < q.index("| V-009 |")
