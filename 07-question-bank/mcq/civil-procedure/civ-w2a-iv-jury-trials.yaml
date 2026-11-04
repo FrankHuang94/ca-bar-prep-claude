@@ -1,0 +1,173 @@
+# Civil Procedure — NCBE category IV: Jury trials (wave 2, batch A, original items)
+questions:
+- id: Q-CIV-0080
+  subject: CIV
+  coverage_ids: [CIV-MBE-IV.A]
+  rule_ids: [R-CIV-078]
+  difficulty: 2
+  stem: >-
+    A federal statute prohibits abusive debt-collection practices and provides that a consumer injured
+    by a violation may recover "actual damages and punitive damages" in a civil action. The statute says
+    nothing about jury trials. Greer sued Holloway Collections Inc. under the statute in federal court,
+    seeking $40,000 in compensatory damages for emotional distress and $60,000 in punitive damages. She
+    timely demanded a jury. Holloway moved to strike the demand, arguing that the claim was created by a
+    modern statute and has no counterpart in the common law of 1791.
+  call: "Is Greer entitled to a jury trial?"
+  options:
+    A: "Yes, because she seeks money damages, a legal remedy, on a claim analogous to a common-law tort action."
+    B: "No, because the Seventh Amendment preserves the jury right only for causes of action that existed at common law in 1791."
+    C: "No, because Congress did not expressly provide for a jury trial in the statute."
+    D: "Yes, because any civil claim in federal court in which more than $20 is in controversy must be tried to a jury on demand."
+  answer: A
+  explanation_correct: >-
+    The Seventh Amendment preserves the jury right in "suits at common law," which include new statutory
+    actions that are analogous to 18th-century actions at law and, more importantly, seek legal relief
+    (R-CIV-078; Curtis v. Loether; Tull). A suit for compensatory and punitive damages for a statutory
+    wrong resembles a tort action and seeks the classic legal remedy of money damages. A private suit of
+    this kind does not fall within the public-rights exception. Greer has a jury right. Trap: requiring
+    an exact 1791 counterpart for the cause of action.
+  explanation_each_wrong_option:
+    B: >-
+      Wrong standard. The historical test asks whether the action is analogous to one at law and whether
+      the remedy is legal; it does not require that the precise cause of action existed in 1791.
+    C: >-
+      The jury right comes from the Seventh Amendment itself; Congress need not provide for it when the
+      action seeks legal relief.
+    D: >-
+      Overbroad. The $20 clause applies only to suits at common law; claims seeking equitable relief
+      such as injunctions are tried to the judge whatever the amount.
+  trap_type: wrong-standard
+  authority: ["U.S. Const. amend. VII", "Curtis v. Loether, 415 U.S. 189 (1974)", "Tull v. United States, 481 U.S. 412 (1987)"]
+  source: original
+  tags: [wave2, w2a, jury-trial, seventh-amendment]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CIV-0081
+  subject: CIV
+  coverage_ids: [CIV-MBE-IV.A]
+  rule_ids: [R-CIV-079, R-CIV-078]
+  difficulty: 3
+  stem: >-
+    Lumen Software Inc. licensed its payroll software to Pratt Co. Claiming that Pratt failed to pay
+    license fees, Lumen terminated the license, but Pratt kept using the software. Lumen sued Pratt in
+    federal court under diversity jurisdiction, seeking (1) an injunction barring further use of the
+    software and (2) "an accounting" of the license fees Pratt owes for its continued use, which Lumen
+    estimates at $300,000 and which can be calculated from Pratt's usage records without unusual
+    difficulty. Pratt contends that the termination was invalid and timely demanded a jury. Lumen moved
+    to strike the jury demand, arguing that both forms of relief it seeks are equitable.
+  call: "How should the court rule on Lumen's motion?"
+  options:
+    A: "Grant it, because when a complaint seeks an injunction, the entire action becomes equitable and is tried to the judge."
+    B: "Grant it, because an accounting is an equitable remedy."
+    C: "Deny it as to the claim for fees owed, which is legal despite its label; the jury decides the common issues first."
+    D: "Deny it, and submit both claims to the jury, because once a jury is demanded on any claim, the jury decides every claim in the case."
+  answer: C
+  explanation_correct: >-
+    Courts look to the substance of the relief, not its label. A claim for a sum of money owed under a
+    contract is legal even when styled an "accounting," unless the accounts are so complicated that only
+    equity can handle them (R-CIV-079; Dairy Queen). When legal and equitable claims share common fact
+    issues, the jury must decide the legal claim and the common issues first, so that the judge's ruling
+    on the equitable claim does not preclude the jury's determination (Beacon Theatres). Whether the
+    termination was valid is common to both claims, so the jury decides it first; the judge then decides
+    the injunction consistently with the jury's findings. Trap: letting the equitable label or the
+    equitable claim swallow the jury right.
+  explanation_each_wrong_option:
+    A: >-
+      Federal courts do not let an equitable claim draw the whole case into equity; the jury right
+      attaches to the legal claim and to fact issues common to both.
+    B: >-
+      Label over substance. An "accounting" for money due on a contract is legal relief unless the
+      accounts are too complex for a jury, which is not the case here.
+    D: >-
+      The jury right is assessed claim by claim. The injunction is equitable relief for the judge; the
+      jury decides the common factual issues, which bind the judge, but not the equitable remedy itself.
+  trap_type: confused-rule
+  authority: ["Dairy Queen, Inc. v. Wood, 369 U.S. 469 (1962)", "Beacon Theatres, Inc. v. Westover, 359 U.S. 500 (1959)", "U.S. Const. amend. VII"]
+  source: original
+  tags: [wave2, w2a, jury-trial, legal-equitable]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CIV-0082
+  subject: CIV
+  coverage_ids: [CIV-MBE-IV.B]
+  rule_ids: [R-CIV-081]
+  difficulty: 1
+  stem: >-
+    In a federal breach-of-contract trial, the court seated eight jurors. The parties made no stipulation
+    about the size of the jury or the verdict required. During trial, one juror was excused for a family
+    emergency and another after becoming seriously ill. After several hours of deliberation, the six
+    remaining jurors reported that they stood 5 to 1 for the plaintiff and asked whether that was enough.
+    The plaintiff asks the court to accept a 5–1 verdict.
+  call: "What should the court do?"
+  options:
+    A: "Accept the verdict, because five of six jurors is a sufficient majority in a federal civil case."
+    B: "Decline to accept it, because absent a stipulation a federal civil verdict must be unanimous."
+    C: "Declare a mistrial, because a jury reduced below its original eight members cannot return any verdict."
+    D: "Accept the verdict, because a civil verdict requires the agreement of only three-fourths of the jurors."
+  answer: B
+  explanation_correct: >-
+    A federal civil jury must begin with at least 6 and no more than 12 members, and, unless the parties
+    stipulate otherwise, the verdict must be unanimous and returned by at least 6 jurors (R-CIV-081; FRCP
+    48(a)–(b)). Excusing two jurors for good cause left six, which is enough, but those six must agree
+    unanimously. The court should not accept a 5–1 vote; it may direct further deliberation. Trap:
+    importing a non-unanimity rule from state practice.
+  explanation_each_wrong_option:
+    A: >-
+      Without a stipulation, Rule 48(b) requires unanimity; no majority verdict is permitted.
+    C: >-
+      Jurors may be excused for good cause during trial, and a jury of at least six may still return a
+      verdict (FRCP 47(c), 48(a)–(b)).
+    D: >-
+      Three-fourths is California's state-court rule for civil verdicts (R-CIV-116). It does not apply in
+      federal court or on the MBE.
+  trap_type: confused-rule
+  authority: ["FRCP 48(a)-(b)", "FRCP 47(c)"]
+  source: original
+  tags: [wave2, w2a, jury-composition, unanimity]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CIV-0083
+  subject: CIV
+  coverage_ids: [CIV-MBE-IV.C]
+  rule_ids: [R-CIV-083, R-CIV-102]
+  difficulty: 3
+  stem: >-
+    In a federal negligence trial, the defendant timely filed a written request for a jury instruction
+    on the plaintiff's assumption of the risk, a defense recognized by the governing state law. At the
+    charge conference, held on the record before closing arguments, the judge said: "I have considered
+    the defendant's assumption-of-risk instruction, and I am definitively rejecting it; the evidence does
+    not support it." Defense counsel said nothing further. The jury returned a verdict for the plaintiff.
+    On appeal, the defendant argues that refusing the instruction was error. The plaintiff responds that
+    the defendant forfeited the issue by failing to object after the court announced its ruling.
+  call: "Is the plaintiff's argument correct?"
+  options:
+    A: "Yes, because a party must object on the record to the refusal of a requested instruction, stating distinct grounds, in every case."
+    B: "Yes, because objections to instructions must be made after the jury is charged and before it retires."
+    C: "No, because an error in jury instructions may be raised on appeal whether or not it was raised in the trial court."
+    D: "No, because the defendant properly requested the instruction and the court rejected it in a definitive ruling on the record."
+  answer: D
+  explanation_correct: >-
+    A party may assign as error the failure to give an instruction if it properly requested the
+    instruction and, unless the court rejected the request in a definitive ruling on the record, also
+    properly objected (R-CIV-083; FRCP 51(d)(1)(B)). The defendant filed a timely written request, and
+    the judge rejected it definitively on the record, so no further objection was needed to preserve the
+    error for ordinary appellate review (R-CIV-102). Trap: overextending the objection requirement.
+  explanation_each_wrong_option:
+    A: >-
+      Overbroad. Rule 51(d)(1)(B) excuses a separate objection when the court has definitively rejected a
+      properly requested instruction on the record.
+    B: >-
+      Wrong timing. Objections are timely when made at the opportunity the court must provide before
+      instructing the jury and before final arguments (FRCP 51(b)(2), (c)(2)).
+    C: >-
+      Overbroad. Unpreserved instructional errors receive only plain-error review under Rule 51(d)(2);
+      this one is preserved because of the request and the definitive ruling.
+  trap_type: overbroad
+  authority: ["FRCP 51(b)(2)", "FRCP 51(c)(2)", "FRCP 51(d)(1)-(2)"]
+  source: original
+  tags: [wave2, w2a, jury-instructions]
+  status: draft
+  last_verified: 2026-11-04

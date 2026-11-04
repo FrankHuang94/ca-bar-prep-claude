@@ -1,0 +1,173 @@
+# Civil Procedure — NCBE category VII: Appealability and review (wave 2, batch A, original items)
+questions:
+- id: Q-CIV-0097
+  subject: CIV
+  coverage_ids: [CIV-MBE-VII.A]
+  rule_ids: [R-CIV-100, R-CIV-101, R-CIV-099]
+  difficulty: 2
+  stem: >-
+    In a federal antitrust action, the district court denied the defendant's motion to dismiss for
+    failure to state a claim, resolving a question of law on which the federal circuits are divided. In
+    the same order, the judge stated in writing that the order involves a controlling question of law as
+    to which there is substantial ground for difference of opinion and that an immediate appeal may
+    materially advance the ultimate termination of the litigation. Twenty-five days after the order was
+    entered, the defendant applied to the court of appeals for permission to appeal.
+  call: "Which of the following is correct?"
+  options:
+    A: "The court of appeals must hear the appeal, because the district judge certified the order."
+    B: "The court of appeals may permit the appeal in its discretion, because the application was filed within 30 days after the order was entered."
+    C: "The court of appeals may not permit the appeal, because the application was not made within 10 days after the order was entered."
+    D: "The defendant needs no permission, because an order denying a motion to dismiss is an appealable collateral order."
+  answer: C
+  explanation_correct: >-
+    Under 28 U.S.C. § 1292(b), when the district judge certifies that an order involves a controlling
+    question of law as to which there is substantial ground for difference of opinion and that an
+    immediate appeal may materially advance the termination of the litigation, the court of appeals may,
+    in its discretion, permit an appeal if application is made to it within 10 days after entry of the
+    order (R-CIV-100). The certification was proper, but the defendant applied on day 25, outside the
+    statutory period, so the court of appeals may not permit the appeal on this application. Trap:
+    applying the 30-day notice-of-appeal deadline to a § 1292(b) application.
+  explanation_each_wrong_option:
+    A: >-
+      Section 1292(b) requires both the district judge's certification and the court of appeals'
+      discretionary permission; certification alone does not compel review.
+    B: >-
+      Wrong deadline. Thirty days is the time for a notice of appeal from a final judgment (R-CIV-099);
+      a § 1292(b) application is due within 10 days.
+    D: >-
+      An order denying a motion to dismiss is not final and does not fit the collateral order doctrine;
+      it is reviewable after final judgment (R-CIV-101).
+  trap_type: confused-rule
+  authority: ["28 U.S.C. § 1292(b)", "FRAP 5(a)"]
+  source: original
+  tags: [wave2, w2a, interlocutory-appeal, 1292b]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CIV-0098
+  subject: CIV
+  coverage_ids: [CIV-MBE-VII.B]
+  rule_ids: [R-CIV-099]
+  difficulty: 3
+  stem: >-
+    Prentice sued two defendants, Arbor Bank and Lowell, in federal court. The court granted summary
+    judgment for Arbor Bank on all claims against it while the claims against Lowell remained pending.
+    At Arbor Bank's request, the court expressly determined that there was no just reason for delay and
+    directed entry of final judgment for Arbor Bank, which was entered on a separate document on March 3.
+    Prentice took no action then. The claims against Lowell were tried, and final judgment for Lowell was
+    entered on November 1. On November 20, Prentice filed a notice of appeal from both judgments. Arbor
+    Bank argues that the appeal from its judgment is untimely. The United States is not a party.
+  call: "Is Arbor Bank correct?"
+  options:
+    A: "No, because a party may wait until the entire action has been resolved before appealing any ruling."
+    B: "No, because a judgment that resolves fewer than all claims or parties is never final."
+    C: "Yes, because a party must file a notice of appeal from every adverse interlocutory ruling within 30 days after the ruling is entered."
+    D: "Yes, because the Rule 54(b) judgment was final when entered, so the notice of appeal from it was due within 30 days."
+  answer: D
+  explanation_correct: >-
+    In an action with multiple claims or parties, the court may direct entry of a final judgment as to
+    fewer than all parties if it expressly determines that there is no just reason for delay (R-CIV-099;
+    FRCP 54(b)). Such a judgment is final and appealable when entered, and the 30-day period for a notice
+    of appeal runs from its entry (FRAP 4(a)(1)(A)). Prentice's November 20 notice came more than eight
+    months after the March 3 judgment, so the appeal from Arbor Bank's judgment is untimely; the appeal
+    from Lowell's November 1 judgment is timely. Trap: assuming a party can always wait for the end of
+    the case.
+  explanation_each_wrong_option:
+    A: >-
+      That is the default rule for interlocutory rulings, but a Rule 54(b) judgment is a final judgment
+      whose appeal clock starts on entry.
+    B: >-
+      Rule 54(b) exists precisely to make a judgment on fewer than all claims or parties final when the
+      court makes the required express determination.
+    C: >-
+      Overbroad. Most interlocutory rulings cannot be appealed immediately and are reviewed after final
+      judgment; the 30-day clock runs only from an appealable judgment or order.
+  trap_type: procedural-posture
+  authority: ["FRCP 54(b)", "FRCP 58(a)", "28 U.S.C. § 1291", "FRAP 4(a)(1)(A)"]
+  source: original
+  tags: [wave2, w2a, final-judgment, rule-54b]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CIV-0099
+  subject: CIV
+  coverage_ids: [CIV-MBE-VII.B]
+  rule_ids: [R-CIV-099, R-CIV-101, R-CIV-089]
+  difficulty: 1
+  stem: >-
+    After a jury returned a $750,000 verdict for the plaintiff in a federal negligence action, the
+    district court granted the defendant's timely motion for a new trial on the ground that the verdict
+    was against the clear weight of the evidence. The court scheduled the new trial for the following
+    spring. The plaintiff immediately filed a notice of appeal from the order granting the new trial.
+  call: "Will the court of appeals hear the appeal now?"
+  options:
+    A: "Yes, because the order set aside a jury verdict and therefore finally disposed of the plaintiff's right to the judgment the jury awarded."
+    B: "No, because an order granting a new trial is interlocutory and is reviewable only after final judgment."
+    C: "Yes, because an order granting a new trial is an appealable collateral order."
+    D: "No, because an order granting a new trial is never reviewable on appeal."
+  answer: B
+  explanation_correct: >-
+    The courts of appeals have jurisdiction over final decisions, those that end the litigation on the
+    merits and leave nothing to do but execute the judgment (R-CIV-099; 28 U.S.C. § 1291). An order
+    granting a new trial does the opposite: it sends the case back for another trial. It is interlocutory
+    and not a collateral order, so the plaintiff must wait for the final judgment after the new trial and
+    may then challenge the new-trial order, which is reviewed for abuse of discretion (Allied Chemical v.
+    Daiflon). Trap: equating "the verdict was set aside" with "the case is over."
+  explanation_each_wrong_option:
+    A: >-
+      Setting aside a verdict does not end the litigation; a new trial remains, so there is no final
+      decision.
+    C: >-
+      A new-trial order fails the collateral order test (R-CIV-101): it is not separate from the merits
+      and is effectively reviewable after final judgment.
+    D: >-
+      Overbroad. The order is reviewable, but only on appeal from the final judgment entered after the new
+      trial.
+  trap_type: procedural-posture
+  authority: ["28 U.S.C. § 1291", "Allied Chemical Corp. v. Daiflon, Inc., 449 U.S. 33 (1980)", "FRCP 59(a)"]
+  source: original
+  tags: [wave2, w2a, final-judgment, new-trial]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CIV-0100
+  subject: CIV
+  coverage_ids: [CIV-MBE-VII.C]
+  rule_ids: [R-CIV-102, R-CIV-089]
+  difficulty: 2
+  stem: >-
+    After a jury returned a verdict for the plaintiff in a federal contract action, the defendant
+    appealed. It argues that (1) the trial court erred in admitting, over the defendant's timely
+    objection, a spreadsheet the plaintiff offered to prove its lost profits, and (2) the trial court
+    erred in denying the defendant's timely Rule 59 motion for a new trial, which argued that the verdict
+    was against the clear weight of the evidence.
+  call: "How will the court of appeals review these two rulings?"
+  options:
+    A: "De novo, for both rulings."
+    B: "For clear error as to the evidentiary ruling, and de novo as to the denial of a new trial."
+    C: "For abuse of discretion as to both, with an evidentiary error reversible only if it affected substantial rights."
+    D: "By reweighing the evidence itself, because whether a verdict is against the clear weight of the evidence is a question the court of appeals decides independently."
+  answer: C
+  explanation_correct: >-
+    Appellate courts review discretionary rulings on evidence and on new-trial motions for abuse of
+    discretion, and an error that does not affect a party's substantial rights is harmless and does not
+    warrant reversal (R-CIV-102; FRCP 61; 28 U.S.C. § 2111). Because the Seventh Amendment forbids
+    re-examining facts tried by a jury except as the common law allows, the court of appeals does not
+    reweigh the evidence itself; it asks only whether the trial judge abused her discretion in refusing a
+    new trial (R-CIV-089). Trap: mixing up de novo, clear-error and abuse-of-discretion review.
+  explanation_each_wrong_option:
+    A: >-
+      De novo review applies to questions of law, such as rulings on summary judgment or JMOL, not to
+      discretionary evidentiary and new-trial rulings.
+    B: >-
+      Clear-error review applies to a judge's findings of fact after a bench trial (Rule 52(a)(6)); and
+      denial of a new trial is reviewed deferentially, not de novo.
+    D: >-
+      The Reexamination Clause of the Seventh Amendment bars an appellate court from independently
+      reweighing a jury's factual findings.
+  trap_type: wrong-standard
+  authority: ["U.S. Const. amend. VII", "FRCP 61", "28 U.S.C. § 2111", "FRCP 52(a)(6)"]
+  source: original
+  tags: [wave2, w2a, standards-of-review]
+  status: draft
+  last_verified: 2026-11-04

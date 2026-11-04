@@ -1,0 +1,178 @@
+# Civil Procedure — NCBE category VI: Verdicts and judgments (wave 2, batch A, original items)
+questions:
+- id: Q-CIV-0093
+  subject: CIV
+  coverage_ids: [CIV-MBE-VI.C]
+  rule_ids: [R-CIV-093, R-CIV-087]
+  difficulty: 3
+  stem: >-
+    Ainsley sued Rourke in federal court, claiming that they had made an oral agreement under which
+    Rourke would buy Ainsley's catering business. The case was tried to the judge without a jury. After
+    Ainsley presented all of her evidence on whether an agreement was formed, Rourke moved for judgment.
+    Ainsley's testimony, if believed, would support a finding that the parties made the agreement, but
+    the judge did not believe her account and was persuaded that no agreement was ever reached. Without a
+    finding that an agreement was formed, Ainsley's claim fails.
+  call: "What may the judge do?"
+  options:
+    A: "Deny the motion, because viewing the evidence in the light most favorable to Ainsley, a reasonable factfinder could find an agreement."
+    B: "Enter judgment for Rourke without findings, because findings are required only after both sides have rested."
+    C: "Enter judgment for Rourke on partial findings, supported by findings of fact and conclusions of law."
+    D: "Deny the motion, because the judge may not assess credibility until Rourke has presented his evidence."
+  answer: C
+  explanation_correct: >-
+    In a nonjury trial, once a party has been fully heard on an issue, the court may find against that
+    party and enter judgment on any claim that can be maintained only with a favorable finding on that
+    issue; such a judgment on partial findings must be supported by findings of fact and conclusions of
+    law under Rule 52(a) (R-CIV-093; FRCP 52(c)). Because the judge is the factfinder, she may weigh the
+    evidence and assess credibility at this stage. Ainsley has been fully heard on formation, and the
+    judge has found against her. Trap: carrying the jury-trial JMOL standard into a bench trial.
+  explanation_each_wrong_option:
+    A: >-
+      Wrong standard. Viewing the evidence most favorably to the non-movant is the Rule 50 standard for
+      jury trials (R-CIV-087); under Rule 52(c) the judge decides the facts.
+    B: >-
+      A judgment on partial findings must be supported by findings of fact and conclusions of law, just
+      like a judgment after a full bench trial (FRCP 52(a)(1), 52(c)).
+    D: >-
+      Rule 52(c) lets the court decline to rule until the close of the evidence, but it does not require
+      the court to wait; it may weigh credibility as soon as the party has been fully heard.
+  trap_type: confused-rule
+  authority: ["FRCP 52(a)(1)", "FRCP 52(c)"]
+  source: original
+  tags: [wave2, w2a, bench-trial, findings, rule-52c]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CIV-0094
+  subject: CIV
+  coverage_ids: [CIV-MBE-VI.A]
+  rule_ids: [R-CIV-076]
+  difficulty: 2
+  stem: >-
+    Sorensen sued Kade Corp. in federal court for $86,400 due on an unpaid invoice. Kade's lawyer filed a
+    formal notice of appearance on Kade's behalf, but Kade never answered or otherwise responded to the
+    complaint. After the time to answer expired, the clerk entered Kade's default. Sorensen then filed an
+    affidavit showing the amount due, and the clerk entered a default judgment for $86,400 without notice
+    to Kade. Kade promptly moved to set the judgment aside.
+  call: "Was the clerk authorized to enter the default judgment?"
+  options:
+    A: "Yes, because the claim was for a sum certain and was supported by an affidavit."
+    B: "Yes, because Kade's default had been properly entered after it failed to plead."
+    C: "No, because a default judgment may not be entered against a corporation unless the court first holds an evidentiary hearing on damages."
+    D: "No, because Kade had appeared, so judgment had to be sought from the court after written notice to Kade."
+  answer: D
+  explanation_correct: >-
+    The clerk may enter a default judgment for a sum certain on affidavit only against a defendant who
+    has been defaulted for not appearing and who is neither a minor nor an incompetent person; in all
+    other cases the party must apply to the court, and a party who has appeared must be served with
+    written notice of the application at least 7 days before the hearing (R-CIV-076; FRCP 55(b)(1)–(2)).
+    Kade defaulted by failing to plead, but it had appeared through counsel, so the clerk lacked
+    authority, and Kade was entitled to notice. Trap: checking the sum-certain element but missing the
+    non-appearance element.
+  explanation_each_wrong_option:
+    A: >-
+      Missing element. A sum certain and an affidavit suffice for a clerk's judgment only if the defendant
+      has not appeared.
+    B: >-
+      Entry of default (Rule 55(a)) is a separate step from default judgment (Rule 55(b)); a proper entry
+      of default does not authorize the clerk to enter judgment against a party who has appeared.
+    C: >-
+      No such rule. The court may, but need not, hold a hearing (Rule 55(b)(2)), and corporations are
+      subject to default judgments like other defendants.
+  trap_type: missing-element
+  authority: ["FRCP 55(a)", "FRCP 55(b)(1)-(2)"]
+  source: original
+  tags: [wave2, w2a, default-judgment]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CIV-0095
+  subject: CIV
+  coverage_ids: [CIV-MBE-VI.B]
+  rule_ids: [R-CIV-092, R-CIV-082]
+  difficulty: 2
+  stem: >-
+    During voir dire in a federal product-liability trial against a power-tool manufacturer, the judge
+    asked the panel whether any of them, or any member of their families, had ever been involved in a
+    lawsuit against the manufacturer. Juror 4 answered "no." After the jury returned a verdict for the
+    manufacturer, the plaintiff moved for a new trial on the ground that Juror 4 failed to disclose
+    material information during voir dire.
+  call: "Which of the following facts, if established, would most help the plaintiff obtain a new trial?"
+  options:
+    A: "During deliberations, Juror 4 told the other jurors that she distrusted product-liability lawsuits."
+    B: "Juror 4 knowingly concealed that her son had sued the manufacturer two years earlier over a saw injury."
+    C: "Juror 4's son had once sued a different tool manufacturer over a similar injury."
+    D: "Juror 4 was the only juror who voted for the manufacturer on the first ballot."
+  answer: B
+  explanation_correct: >-
+    To obtain a new trial for juror nondisclosure, a party must show that the juror failed to answer
+    honestly a material voir dire question and that a correct response would have provided a valid basis
+    for a challenge for cause (R-CIV-092; McDonough). Knowingly concealing her son's lawsuit against this
+    very defendant is a dishonest answer to a material question, and a truthful answer revealing a close
+    family member's recent lawsuit against the defendant would very likely have supported a challenge for
+    cause based on bias (R-CIV-082). None of the other facts can satisfy both McDonough requirements. Trap:
+    relying on facts that are irrelevant or that concern deliberations.
+  explanation_each_wrong_option:
+    A: >-
+      Statements made during deliberations cannot be proved by juror testimony under FRE 606(b), even to
+      show that a juror lied during voir dire (Warger v. Shauers), and the voir dire question did not ask
+      about attitudes toward such lawsuits.
+    C: >-
+      This helps the manufacturer. The question asked only about lawsuits against this manufacturer, so a
+      "no" answer would have been truthful.
+    D: >-
+      A juror's votes during deliberations are inadmissible under FRE 606(b) and say nothing about whether
+      she answered voir dire honestly.
+  trap_type: true-but-irrelevant
+  authority: ["McDonough Power Equipment, Inc. v. Greenwood, 464 U.S. 548 (1984)", "Warger v. Shauers, 574 U.S. 40 (2014)", "FRE 606(b)", "FRCP 59(a)"]
+  source: original
+  tags: [wave2, w2a, verdict-challenges, juror-nondisclosure]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CIV-0096
+  subject: CIV
+  coverage_ids: [CIV-MBE-VI.D]
+  rule_ids: [R-CIV-096, R-CIV-095, R-CIV-094]
+  difficulty: 2
+  stem: >-
+    Haskell bought shares in a real-estate venture promoted by Talley. She sued Talley in federal court
+    under a federal securities statute, alleging that the offering prospectus contained materially false
+    statements about the venture's properties. After a full trial in which Haskell was represented by
+    counsel, the jury found, in answer to a special-verdict question, that the prospectus contained no
+    false statement of material fact, and judgment was entered for Talley. Haskell then sued Orrin, the
+    accountant who prepared the prospectus, in federal court under the same securities statute, based on
+    the same alleged false statements. Orrin, who was not a party to the first action, moved for summary
+    judgment on the ground that Haskell is precluded from relitigating whether the prospectus was false.
+  call: "How is the court likely to rule on Orrin's motion?"
+  options:
+    A: "Grant it, because the falsity issue was actually litigated and necessarily decided against Haskell in the first action."
+    B: "Deny it, because Orrin was not a party to the first action, and only a party to a judgment, or its privy, may invoke the judgment as preclusive."
+    C: "Deny it, because Haskell's claim against Orrin is a different claim from her claim against Talley."
+    D: "Grant it, because claim preclusion bars Haskell from suing anyone over the same transaction."
+  answer: A
+  explanation_correct: >-
+    Issue preclusion applies when an issue was actually litigated and determined by a valid, final
+    judgment, the determination was essential to the judgment, and the party against whom preclusion is
+    asserted had a full and fair opportunity to litigate (R-CIV-095). Federal law, which governs the
+    effect of this federal-question judgment, does not require mutuality, and defensive non-mutual use
+    (a new defendant invoking a finding against a plaintiff who lost it) is generally permitted
+    (R-CIV-096; Blonder-Tongue; Parklane). The special verdict shows that falsity was litigated and
+    decided against Haskell, and it was essential to the judgment for Talley. Trap: applying the
+    abandoned mutuality requirement.
+  explanation_each_wrong_option:
+    B: >-
+      Mutuality is the older rule that federal courts have abandoned; defensive non-mutual issue
+      preclusion is generally allowed when the losing party had a full and fair opportunity.
+    C: >-
+      True but irrelevant. Issue preclusion applies "whether on the same or a different claim"; it is
+      claim preclusion that requires the same claim.
+    D: >-
+      Claim preclusion binds only the same parties or their privies (R-CIV-094); Orrin and Talley are not
+      in privity on these facts, so the right result rests on issue preclusion.
+  trap_type: minority-rule
+  authority: ["Blonder-Tongue Laboratories, Inc. v. University of Illinois Foundation, 402 U.S. 313 (1971)", "Parklane Hosiery Co. v. Shore, 439 U.S. 322 (1979)", "Restatement (Second) of Judgments §§ 27, 29"]
+  source: original
+  tags: [wave2, w2a, issue-preclusion, nonmutual]
+  status: draft
+  last_verified: 2026-11-04

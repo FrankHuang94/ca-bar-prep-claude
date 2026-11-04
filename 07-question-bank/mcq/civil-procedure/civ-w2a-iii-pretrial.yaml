@@ -1,0 +1,393 @@
+# Civil Procedure — NCBE category III: Pretrial procedures (wave 2, batch A, original items)
+questions:
+- id: Q-CIV-0071
+  subject: CIV
+  coverage_ids: [CIV-MBE-III.A]
+  rule_ids: [R-CIV-042]
+  difficulty: 1
+  stem: >-
+    Corliss, a sales executive, was fired by Vantage Media Inc. She sued Vantage in federal court for
+    breach of her employment contract, alleging that Vantage owes her a $150,000 bonus and severance
+    payment. After giving Vantage notice, she moved for a preliminary injunction ordering Vantage to pay
+    her the $150,000 immediately. Her evidence shows that she is very likely to win on the merits and
+    that, without the money, she will have to draw on her savings while she looks for a new job. Vantage
+    is financially sound and able to pay any judgment.
+  call: "How should the court rule on the motion?"
+  options:
+    A: "Grant it, because Corliss has shown a strong likelihood of success on the merits."
+    B: "Deny it, because a preliminary injunction may not issue before the defendant has answered the complaint."
+    C: "Grant it, because the balance of hardships favors an individual employee who has lost her income over a solvent corporation."
+    D: "Deny it, because Corliss has not shown likely irreparable harm; her loss can be fully remedied by money damages."
+  answer: D
+  explanation_correct: >-
+    A preliminary injunction requires the movant to show likely success on the merits, likely
+    irreparable harm without interim relief, a balance of equities in its favor, and that an injunction
+    serves the public interest (R-CIV-042; Winter). Each element is required. Corliss's injury is purely
+    monetary, and Vantage can pay any judgment, so a damages award after trial will make her whole;
+    temporary financial strain is not irreparable harm. Ordering payment now would also be a mandatory injunction, which many courts subject to an even stronger showing; and a temporary loss of income ordinarily is not irreparable harm (Sampson v. Murray). Trap: treating a strong merits case as enough.
+  explanation_each_wrong_option:
+    A: >-
+      Missing element. Likelihood of success is necessary but not sufficient; irreparable harm must also
+      be shown.
+    B: >-
+      Preliminary relief is designed for the early stages of a case; Rule 65(a) requires notice, not an
+      answer.
+    C: >-
+      The balance of hardships is only one factor and does not turn on the parties' identities; without
+      irreparable harm, the motion fails.
+  trap_type: missing-element
+  authority: ["FRCP 65(a)", "Winter v. Natural Resources Defense Council, Inc., 555 U.S. 7 (2008)", "Sampson v. Murray, 415 U.S. 61 (1974)"]
+  source: original
+  tags: [wave2, w2a, preliminary-injunction]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CIV-0072
+  subject: CIV
+  coverage_ids: [CIV-MBE-III.B]
+  rule_ids: [R-CIV-048]
+  difficulty: 2
+  stem: >-
+    Pollard sued Kerr Construction in federal court for breach of a contract to build a garage. Her
+    complaint alleged only that Kerr failed to finish the garage by the contract deadline. At the bench
+    trial, Pollard introduced, without objection, extensive evidence that Kerr had used lumber of a lower
+    grade than the contract required, a matter unrelated to the timing of completion. Kerr's foreman
+    responded with detailed testimony that the lumber met the contract's specifications. After both
+    sides rested, Pollard moved to amend her complaint to add a claim for breach of the lumber
+    specification. Kerr objected that the claim had never been pleaded.
+  call: "How should the court rule on the motion to amend?"
+  options:
+    A: "Grant it, because an issue tried by the parties' implied consent must be treated as if raised in the pleadings."
+    B: "Deny it, because pleadings may not be amended once trial has begun."
+    C: "Deny it, because Pollard's time to amend as a matter of course has expired and Kerr has not consented in writing."
+    D: "Grant it, but only if Pollard shows good cause for failing to plead the claim originally."
+  answer: A
+  explanation_correct: >-
+    When an issue not raised by the pleadings is tried by the parties' express or implied consent, it
+    must be treated in all respects as if raised in the pleadings, and a party may move at any time,
+    even after judgment, to amend the pleadings to conform to the evidence (R-CIV-048; FRCP 15(b)(2)).
+    Kerr did not object to the lumber evidence, which was relevant only to the unpleaded claim, and
+    actively litigated it through its foreman. That is implied consent, so the amendment should be
+    allowed. Trap: applying the pretrial amendment rules to an issue tried at trial.
+  explanation_each_wrong_option:
+    B: >-
+      Rule 15(b) specifically authorizes amendments during and after trial, both to conform to the
+      evidence and, on objection, to add issues.
+    C: >-
+      Wrong rule. Rule 15(a)'s as-of-course and consent provisions govern pretrial amendment; Rule
+      15(b)(2) governs issues tried by consent.
+    D: >-
+      Wrong standard. Good cause is the test for modifying a scheduling order (Rule 16(b)(4)); amendment
+      under Rule 15(b)(2) turns on consent at trial.
+  trap_type: wrong-standard
+  authority: ["FRCP 15(b)(2)", "FRCP 15(a)", "FRCP 16(b)(4)"]
+  source: original
+  tags: [wave2, w2a, pleadings, amendment]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CIV-0073
+  subject: CIV
+  coverage_ids: [CIV-MBE-III.C]
+  rule_ids: [R-CIV-050, R-CIV-051, R-CIV-073]
+  difficulty: 1
+  stem: >-
+    During discovery in a federal breach-of-contract action, defense counsel signed and served written
+    objections and responses to the plaintiff's interrogatories that counsel knew were evasive and
+    incomplete. The plaintiff's lawyer served a motion for Rule 11 sanctions on defense counsel, waited
+    21 days without receiving corrected responses, and then filed the motion, asking the court to
+    sanction defense counsel under Rule 11.
+  call: "How should the court rule on the Rule 11 motion?"
+  options:
+    A: "Grant it, because the plaintiff served the motion and waited 21 days before filing it."
+    B: "Grant it against the defendant only, because Rule 11 sanctions may not be imposed on an attorney."
+    C: "Deny it, because Rule 11 does not apply to discovery responses and objections."
+    D: "Deny it, because Rule 11 applies only to pleadings, not to motions or other papers."
+  answer: C
+  explanation_correct: >-
+    Rule 11 does not apply to disclosures and discovery requests, responses, objections and motions
+    under Rules 26 through 37 (R-CIV-050; FRCP 11(d)). Those papers are governed by the discovery rules:
+    Rule 26(g) certification and sanctions, and Rule 37, under which an evasive or incomplete answer is
+    treated as a failure to answer and may support a motion to compel with expenses (R-CIV-073). The
+    plaintiff chose the wrong vehicle, so the Rule 11 motion should be denied. Trap: satisfying the safe
+    harbor for a rule that does not apply.
+  explanation_each_wrong_option:
+    A: >-
+      True but irrelevant. Compliance with the 21-day safe harbor (R-CIV-051) matters only if Rule 11
+      applies to the paper, and it does not apply to discovery responses.
+    B: >-
+      Rule 11(c)(1) allows sanctions against an attorney, law firm or party; it is the represented party
+      who is shielded from monetary sanctions for frivolous legal contentions.
+    D: >-
+      Too narrow. Rule 11 covers any "pleading, written motion, or other paper" presented to the court,
+      except for the discovery materials excluded by Rule 11(d).
+  trap_type: true-but-irrelevant
+  authority: ["FRCP 11(c)(1), 11(d)", "FRCP 26(g)", "FRCP 37(a)(4)"]
+  source: original
+  tags: [wave2, w2a, rule-11, discovery]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CIV-0074
+  subject: CIV
+  coverage_ids: [CIV-MBE-III.D]
+  rule_ids: [R-CIV-052, R-CIV-094, R-CIV-010, R-CIV-011]
+  difficulty: 2
+  stem: >-
+    Pace sued Arlo and Benz in federal court for injuries from a three-car collision. Arlo answered,
+    denying liability, but asserted no claim against Benz, although Arlo was also injured in the
+    collision and believed that Benz caused it. After trial, the jury found for both defendants, and
+    judgment was entered. Arlo then sued Benz in a new federal action, invoking diversity jurisdiction,
+    seeking $150,000 for her own injuries from the collision. Arlo and Benz are citizens of different
+    States. Benz moved to dismiss, arguing that Arlo's claim is barred because she failed to assert it
+    in Pace's action.
+  call: "How should the court rule on Benz's motion?"
+  options:
+    A: "Grant it, because a claim against a coparty arising from the same occurrence is a compulsory crossclaim."
+    B: "Grant it, because the first judgment bars every claim arising from the collision among all parties to the first action."
+    C: "Deny it, because Arlo's claim against Benz would not have been within the court's supplemental jurisdiction in the first action."
+    D: "Deny it, because crossclaims are permissive, and Arlo and Benz were not opposing parties in Pace's action."
+  answer: D
+  explanation_correct: >-
+    A party may, but need not, assert a crossclaim against a coparty arising out of the same transaction
+    or occurrence (R-CIV-052; FRCP 13(g)). Only counterclaims against an opposing party are compulsory
+    under Rule 13(a). Arlo and Benz were co-defendants, not opposing parties, so Arlo's failure to sue
+    Benz in the first action does not bar her claim, and claim preclusion does not apply because they
+    were not adversaries in that action (R-CIV-094). Trap: treating the crossclaim like a compulsory
+    counterclaim.
+  explanation_each_wrong_option:
+    A: >-
+      Crossclaims are never compulsory under the Federal Rules; Rule 13(g) says a party "may" state one.
+    B: >-
+      Claim preclusion binds the same parties in the same adversarial alignment. Co-defendants who
+      asserted no claims against each other were not adversaries, so the judgment on Pace's claims does
+      not bar Arlo's claim against Benz.
+    C: >-
+      Wrong reason, and incorrect. A crossclaim arising from the same occurrence falls within § 1367(a),
+      and § 1367(b) restricts only claims by plaintiffs (R-CIV-010, R-CIV-011), so Arlo's crossclaim would
+      have been within supplemental jurisdiction.
+  trap_type: confused-rule
+  authority: ["FRCP 13(a), 13(g)", "28 U.S.C. § 1367(a)-(b)"]
+  source: original
+  tags: [wave2, w2a, joinder, crossclaims]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CIV-0075
+  subject: CIV
+  coverage_ids: [CIV-MBE-III.D]
+  rule_ids: [R-CIV-057]
+  difficulty: 2
+  stem: >-
+    Stonebridge Development Corp. sued the City of Larkin in federal court, claiming that the city's
+    denial of a permit to build a waste-transfer station violated Stonebridge's federal due-process
+    rights, and seeking an order compelling the city to issue the permit. The Marsh Hollow Land Trust
+    owns a wildlife preserve adjoining the proposed site and had opposed the permit before the city
+    council. Two weeks after the complaint was filed, the city announced that, to avoid the cost of
+    litigation, it was negotiating a settlement under which it would issue the permit. The trust
+    immediately moved to intervene as a defendant.
+  call: "How should the court rule on the trust's motion?"
+  options:
+    A: "Grant it, because the trust moved promptly, has an interest the action may impair, and is not adequately represented by the city."
+    B: "Deny it, because the trust can fully protect its interests by filing its own lawsuit against the city or Stonebridge after this case ends."
+    C: "Deny it, because only a person who must be joined as a required party under Rule 19 may intervene."
+    D: "Grant it only if the court, in its discretion, finds that the trust's defense shares a common question of law or fact with the action."
+  answer: A
+  explanation_correct: >-
+    On timely motion, the court must permit intervention by anyone who claims an interest relating to
+    the property or transaction that is the subject of the action and is so situated that disposing of
+    the action may as a practical matter impair its ability to protect that interest, unless existing
+    parties adequately represent it (R-CIV-057; FRCP 24(a)(2)). The trust moved within weeks; a
+    judgment or settlement compelling the permit would, as a practical matter, allow the station next to
+    its preserve; and the city, which is preparing to concede, does not adequately represent the trust's
+    interest in defeating the permit. Intervention as of right should be granted. Trap: applying the
+    discretionary permissive-intervention test to a mandatory right.
+  explanation_each_wrong_option:
+    B: >-
+      Impairment is judged "as a practical matter." Once the permit issues and the station is built, a
+      later suit would offer the trust little real protection.
+    C: >-
+      Rule 24 is independent of Rule 19. A would-be intervenor need not be a required party; it must meet
+      Rule 24(a) or (b).
+    D: >-
+      That is the standard for permissive intervention under Rule 24(b). When the Rule 24(a)(2) elements
+      are met, intervention is a matter of right.
+  trap_type: confused-rule
+  authority: ["FRCP 24(a)(2)", "FRCP 24(b)(1)(B)"]
+  source: original
+  tags: [wave2, w2a, joinder, intervention]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CIV-0076
+  subject: CIV
+  coverage_ids: [CIV-MBE-III.E]
+  rule_ids: [R-CIV-067, R-CIV-064]
+  difficulty: 2
+  stem: >-
+    After the roof of its warehouse collapsed, Tamsin Storage hired Dr. Kale, a structural engineer, to
+    inspect the debris and advise its lawyers about the likely cause, in anticipation of suing the
+    roofing contractor. Tamsin does not intend to call Dr. Kale as a witness at trial. The debris has
+    been preserved and remains available, and the contractor's own engineer has already spent two days
+    inspecting it. In Tamsin's federal suit, the contractor served an interrogatory asking for Dr. Kale's
+    findings and opinions and noticed her deposition. Tamsin moved for a protective order.
+  call: "How should the court rule on Tamsin's motion?"
+  options:
+    A: "Deny it, because the facts and opinions of any expert are discoverable if they are relevant and proportional to the needs of the case."
+    B: "Deny it, because Dr. Kale examined physical evidence that is central to the case."
+    C: "Grant it, because Dr. Kale is a non-testifying expert and the contractor has shown no exceptional circumstances."
+    D: "Grant it, because communications between a party and its retained expert are protected by the attorney-client privilege."
+  answer: C
+  explanation_correct: >-
+    Facts known and opinions held by an expert retained in anticipation of litigation who is not
+    expected to testify may be discovered by interrogatory or deposition only as provided in Rule 35(b)
+    or on a showing of exceptional circumstances making it impracticable to obtain facts or opinions on
+    the same subject by other means (R-CIV-067; FRCP 26(b)(4)(D)). The debris still exists and the
+    contractor's own engineer has examined it, so the contractor can develop the same information
+    itself. No exceptional circumstances exist. Trap: applying the general relevance-and-proportionality
+    scope rule to a consulting expert.
+  explanation_each_wrong_option:
+    A: >-
+      Overbroad. The general scope rule (R-CIV-064) is subject to Rule 26(b)(4)'s specific protection for
+      consulting experts.
+    B: >-
+      Examining important evidence is not enough. Exceptional circumstances typically exist when the
+      object examined has been destroyed or no other expert is available, neither of which is true here.
+    D: >-
+      The protection comes from Rule 26(b)(4)(D), not the attorney-client privilege, which protects
+      confidential communications between client and lawyer for legal advice.
+  trap_type: overbroad
+  authority: ["FRCP 26(b)(4)(D)", "FRCP 26(b)(1)"]
+  source: original
+  tags: [wave2, w2a, discovery, experts]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CIV-0077
+  subject: CIV
+  coverage_ids: [CIV-MBE-III.E]
+  rule_ids: [R-CIV-069, R-CIV-086]
+  difficulty: 1
+  stem: >-
+    In a federal contract action, Barlow served Daley with a request to admit that "the shipment Daley
+    received on March 3 conformed to the contract's specifications." Daley's lawyer misplaced the request
+    and never served an answer or objection. Five months later, Barlow moved for summary judgment,
+    relying on the admission. Daley opposed the motion with an affidavit from its quality-control manager
+    stating that the shipment did not conform. Daley has not moved to withdraw or amend any admission.
+  call: "How should the court treat the matter stated in the request?"
+  options:
+    A: "As disputed, because the quality-control manager's affidavit creates a genuine dispute of material fact."
+    B: "As conclusively established, unless the court permits Daley to withdraw or amend the admission."
+    C: "As denied, because a party's failure to respond to a request for admission is treated as a denial."
+    D: "As an ordinary evidentiary admission that Daley may contradict with other evidence."
+  answer: B
+  explanation_correct: >-
+    A matter in a request for admission is admitted unless the party answers or objects within 30 days,
+    and an admitted matter is conclusively established unless the court, on motion, permits it to be
+    withdrawn or amended (R-CIV-069; FRCP 36(a)(3), 36(b)). Daley never responded, so the conformity of
+    the shipment is established for this action, and an affidavit cannot create a genuine dispute about
+    it (R-CIV-086). Daley's remedy is a Rule 36(b) motion, which the court may grant if withdrawal would
+    promote presentation of the merits without prejudicing Barlow. Trap: treating a deemed admission as
+    ordinary evidence.
+  explanation_each_wrong_option:
+    A: >-
+      A conclusively established matter is not open to dispute by contrary evidence while the admission
+      stands; the affidavit is beside the point unless the admission is withdrawn.
+    C: >-
+      Reverses the rule. Silence is an admission, not a denial, under Rule 36(a)(3).
+    D: >-
+      A Rule 36 admission is a binding judicial admission for the pending action, not an evidentiary
+      admission that can be rebutted.
+  trap_type: procedural-posture
+  authority: ["FRCP 36(a)(3)", "FRCP 36(b)", "FRCP 56(a)"]
+  source: original
+  tags: [wave2, w2a, discovery, requests-for-admission]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CIV-0078
+  subject: CIV
+  coverage_ids: [CIV-MBE-III.F]
+  rule_ids: [R-CIV-074]
+  difficulty: 1
+  stem: >-
+    Elkins sued Morrow Corp. in federal court for breach of warranty. Morrow served and filed a Rule
+    12(b)(6) motion to dismiss for failure to state a claim, supported by a lengthy brief; the court did
+    not treat it as a motion for summary judgment. Before the court ruled, and before Morrow served an
+    answer or a motion for summary judgment, Elkins filed a notice of voluntary dismissal. Elkins had
+    never before dismissed any action based on this claim. Morrow objects that Elkins may not dismiss
+    without the court's permission because Morrow has already invested heavily in its motion.
+  call: "What is the effect of Elkins's notice?"
+  options:
+    A: "It is ineffective without a court order, because Morrow had already responded to the complaint by motion."
+    B: "It dismisses the action without prejudice, without any court order."
+    C: "It dismisses the action with prejudice, because Morrow had already challenged the complaint's legal sufficiency."
+    D: "It is effective only if Morrow signs a stipulation of dismissal."
+  answer: B
+  explanation_correct: >-
+    A plaintiff may dismiss without a court order by filing a notice of dismissal before the opposing
+    party serves either an answer or a motion for summary judgment; unless the notice says otherwise, the
+    dismissal is without prejudice, subject to the two-dismissal rule (R-CIV-074; FRCP 41(a)(1)(A)(i),
+    (B)). A Rule 12(b)(6) motion that has not been converted is neither an answer nor a summary-judgment
+    motion, so it does not cut off the right. This was Elkins's first dismissal. Trap: treating any
+    defense response as ending the notice-dismissal window.
+  explanation_each_wrong_option:
+    A: >-
+      Only an answer or a summary-judgment motion ends the right to dismiss by notice; a motion to
+      dismiss does not.
+    C: >-
+      A notice dismissal is without prejudice unless it states otherwise or the plaintiff previously
+      dismissed the same claim; neither applies.
+    D: >-
+      A stipulation signed by all parties who have appeared is an alternative route under Rule
+      41(a)(1)(A)(ii). It is unnecessary while the notice window is open; after the window closes, the plaintiff needs either such a stipulation or a court order under Rule 41(a)(2).
+  trap_type: procedural-posture
+  authority: ["FRCP 41(a)(1)(A)-(B)", "FRCP 12(b)(6)", "FRCP 41(a)(2)"]
+  source: original
+  tags: [wave2, w2a, voluntary-dismissal]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CIV-0079
+  subject: CIV
+  coverage_ids: [CIV-MBE-III.G]
+  rule_ids: [R-CIV-077, R-CIV-048]
+  difficulty: 2
+  stem: >-
+    In a federal negligence action, the defendant's answer pleaded assumption of the risk as an
+    affirmative defense. After a final pretrial conference, the court entered a final pretrial order
+    listing the contested issues of fact and law to be tried; the defendant agreed to the list, which
+    did not include assumption of the risk. On the second day of trial, the defendant asked to present
+    evidence and argument on assumption of the risk. The plaintiff objected, explaining that she had
+    relied on the pretrial order and had not prepared witnesses on that issue. The defendant offers no
+    reason for the omission.
+  call: "How should the court rule on the defendant's request?"
+  options:
+    A: "Allow the defense, because leave to amend should be freely given when justice so requires."
+    B: "Allow the defense, because it was pleaded in the answer, and the pleadings define the issues for trial."
+    C: "Allow the defense only if the defendant shows good cause and obtains the judge's consent."
+    D: "Refuse it, unless refusal would cause manifest injustice."
+  answer: D
+  explanation_correct: >-
+    An order entered after a pretrial conference controls the course of the action, and the order after
+    a final pretrial conference may be modified only to prevent manifest injustice (R-CIV-077; FRCP 16(d),
+    16(e)). The final pretrial order supersedes the pleadings as to the issues to be tried, so a defense
+    omitted from it is generally out of the case even if it was pleaded. The defendant agreed to the
+    list, offers no excuse, and the plaintiff relied on the order; refusing the request causes no
+    manifest injustice. Trap: applying a more lenient amendment standard.
+  explanation_each_wrong_option:
+    A: >-
+      Wrong standard. Rule 15(a)(2)'s "freely give" standard (R-CIV-048) does not govern changes to a
+      final pretrial order.
+    B: >-
+      The final pretrial order, not the answer, defines the issues for trial; pleaded matters omitted from
+      it are generally waived.
+    C: >-
+      Wrong standard. Good cause and the judge's consent are required to modify a Rule 16(b) scheduling
+      order; a final pretrial order requires the stricter manifest-injustice showing.
+  trap_type: wrong-standard
+  authority: ["FRCP 16(d)", "FRCP 16(e)", "FRCP 16(b)(4)"]
+  source: original
+  tags: [wave2, w2a, pretrial-order]
+  status: draft
+  last_verified: 2026-11-04

@@ -1,0 +1,672 @@
+# Civil Procedure — NCBE category I: Jurisdiction and venue (wave 2, batch A, original items)
+questions:
+- id: Q-CIV-0051
+  subject: CIV
+  coverage_ids: [CIV-MBE-I.A]
+  rule_ids: [R-CIV-005, R-CIV-004, R-CIV-001]
+  difficulty: 1
+  stem: >-
+    Okafor grew up in Ohio. In August 2025, after accepting a permanent job in Denver, she sold her
+    Ohio house, moved into an apartment in Colorado, and told her friends that she planned to make
+    Colorado her permanent home. Two weeks later, before she had obtained a Colorado driver's license
+    or registered to vote there, she sued Brandt, a lifelong Ohio citizen, in federal court in Ohio,
+    seeking $250,000 that Brandt owed her under a consulting contract. Brandt answered without raising
+    any jurisdictional objection. Six months after filing, Okafor unexpectedly lost her job and moved
+    back to Ohio permanently. Brandt then moved to dismiss for lack of subject-matter jurisdiction.
+  call: "How should the court rule on the motion?"
+  options:
+    A: "Deny it, because Okafor was domiciled in Colorado when she filed, and her later move does not affect diversity."
+    B: "Grant it, because Okafor had not yet obtained a Colorado driver's license or registered to vote there when she filed."
+    C: "Grant it, because Okafor is now a citizen of Ohio, the same State as Brandt."
+    D: "Deny it, because Brandt waived any objection to subject-matter jurisdiction by not raising it in his answer."
+  answer: A
+  explanation_correct: >-
+    A natural person is a citizen of the State of domicile: the place where she is physically present
+    with the intent to remain indefinitely (R-CIV-005). No minimum period of residence is required, so
+    Okafor became a Colorado domiciliary as soon as she was living there and intended to stay. Diversity
+    is measured when the action is filed, and later changes of domicile neither create nor destroy it
+    (R-CIV-004; 28 U.S.C. § 1332(a)(1); Grupo Dataflux). At filing, Okafor (Colorado) and Brandt (Ohio)
+    were diverse and more than $75,000 was in controversy, so jurisdiction exists. Trap: re-measuring
+    citizenship after a post-filing move.
+  explanation_each_wrong_option:
+    B: >-
+      A driver's license and voter registration are only evidence of intent. Okafor's sale of her Ohio
+      house, move, permanent job and stated plan to stay establish Colorado domicile without them.
+    C: >-
+      Time-of-filing rule. Citizenship is fixed when the action is commenced; Okafor's later return to
+      Ohio does not destroy diversity (R-CIV-004).
+    D: >-
+      Right result, wrong reason. Subject-matter jurisdiction can never be waived and may be raised at
+      any time (FRCP 12(h)(3); R-CIV-001); the motion fails on the merits, not for waiver.
+  trap_type: confused-rule
+  authority: ["28 U.S.C. § 1332(a)(1)", "Grupo Dataflux v. Atlas Global Group, L.P., 541 U.S. 567 (2004)", "FRCP 12(h)(3)"]
+  source: original
+  tags: [wave2, w2a, diversity, domicile, time-of-filing]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CIV-0052
+  subject: CIV
+  coverage_ids: [CIV-MBE-I.A]
+  rule_ids: [R-CIV-008, R-CIV-010]
+  difficulty: 1
+  stem: >-
+    Tanaka, a citizen of Washington, sued Lorne, a citizen of Idaho, in federal court in Washington.
+    Count 1 seeks $48,000 for Lorne's failure to repay a personal loan. Count 2 seeks $32,000 for damage
+    Lorne caused to Tanaka's boat in an unrelated incident a year after the loan. Tanaka also seeks
+    interest and costs. Both counts arise under state law and are pleaded in good faith. Lorne moves to
+    dismiss for lack of subject-matter jurisdiction, arguing that neither claim exceeds $75,000 and that
+    the two claims have nothing to do with each other.
+  call: "How should the court rule on the motion?"
+  options:
+    A: "Grant it, because a plaintiff may aggregate claims against a defendant only if they arise from the same transaction or occurrence."
+    B: "Deny it, because a single plaintiff may aggregate all of her claims against a single defendant, related or not."
+    C: "Deny it, because once the court has jurisdiction over the larger claim, it has supplemental jurisdiction over the smaller one."
+    D: "Grant it, because each claim must independently satisfy the amount-in-controversy requirement."
+  answer: B
+  explanation_correct: >-
+    The amount in controversy must exceed $75,000, exclusive of interest and costs, but a single
+    plaintiff may aggregate all of her claims against a single defendant, whether or not they are
+    related (R-CIV-008; 28 U.S.C. § 1332(a)). Tanaka's two claims total $80,000, the parties are
+    diverse, and nothing shows to a legal certainty that she cannot recover more than $75,000.
+    Jurisdiction exists. Trap: importing a same-transaction requirement from the joinder rules into
+    the aggregation rule.
+  explanation_each_wrong_option:
+    A: >-
+      Confuses aggregation with joinder tests. Rule 18 lets a party join unrelated claims, and the
+      aggregation rule for one plaintiff against one defendant has no relatedness requirement.
+    C: >-
+      Neither claim alone exceeds $75,000, so there is no anchor claim within original jurisdiction; and
+      the unrelated claims share no common nucleus of operative fact (R-CIV-010). Jurisdiction rests on
+      aggregation, not § 1367.
+    D: >-
+      Wrong standard. Claim-by-claim measurement applies to separate claims of different plaintiffs (or
+      against defendants who are not jointly liable), not to one plaintiff's claims against one
+      defendant.
+  trap_type: wrong-standard
+  authority: ["28 U.S.C. § 1332(a)", "Snyder v. Harris, 394 U.S. 332 (1969)", "FRCP 18(a)"]
+  source: original
+  tags: [wave2, w2a, diversity, amount-in-controversy, aggregation]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CIV-0053
+  subject: CIV
+  coverage_ids: [CIV-MBE-I.A]
+  rule_ids: [R-CIV-005, R-CIV-004]
+  difficulty: 2
+  stem: >-
+    Mercer is a United States citizen and holds no other citizenship. She was born and raised in
+    Vermont but moved to Lisbon, Portugal, eight years ago to run a business there; she owns a home in
+    Lisbon and intends to stay indefinitely. She sued Hollins Corp., which is incorporated and has its
+    headquarters in New York, in federal court in New York, seeking $600,000 for breach of a contract
+    governed by state law. No federal claim is asserted. Hollins moves to dismiss for lack of
+    subject-matter jurisdiction.
+  call: "How should the court rule on the motion?"
+  options:
+    A: "Deny it, because Mercer remains a citizen of Vermont, her last domicile in the United States."
+    B: "Deny it, because the action is between a citizen of a State and a citizen of a foreign state, so alienage jurisdiction applies."
+    C: "Grant it, because a plaintiff may not invoke diversity jurisdiction in the State of which the defendant is a citizen."
+    D: "Grant it, because a U.S. citizen domiciled abroad is not a citizen of any State and is not an alien."
+  answer: D
+  explanation_correct: >-
+    State citizenship for diversity requires both U.S. citizenship and domicile in a State (R-CIV-005).
+    Mercer's domicile is Portugal, where she lives and intends to remain, so she is a citizen of no
+    State. Nor is she a "citizen or subject of a foreign state," because she is a U.S. citizen only.
+    A U.S. citizen domiciled abroad is therefore "stateless" and can neither sue nor be sued in
+    diversity (Newman-Green; 28 U.S.C. § 1332(a)(1)–(2)). With no federal claim, the court lacks
+    jurisdiction. Trap: assuming every U.S. citizen fits somewhere in § 1332.
+  explanation_each_wrong_option:
+    A: >-
+      A domicile continues only until a new one is acquired. Mercer acquired a new domicile in Portugal,
+      so her Vermont domicile ended; there is no "last U.S. domicile" rule for diversity.
+    B: >-
+      Alienage jurisdiction requires a party who is a citizen or subject of a foreign state. Living
+      abroad does not make a U.S. citizen an alien.
+    C: >-
+      Confuses the forum-defendant rule, which limits only removal of diversity cases (R-CIV-013), with
+      original jurisdiction. A plaintiff may file a diversity suit in the defendant's home State.
+  trap_type: exception-trap
+  authority: ["28 U.S.C. § 1332(a)(1)-(2)", "Newman-Green, Inc. v. Alfonzo-Larrain, 490 U.S. 826 (1989)"]
+  source: original
+  tags: [wave2, w2a, diversity, domicile, stateless-citizen]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CIV-0054
+  subject: CIV
+  coverage_ids: [CIV-MBE-I.A]
+  rule_ids: [R-CIV-012, R-CIV-010]
+  difficulty: 2
+  stem: >-
+    Duarte, a citizen of Arizona, sued her former employer, Cactus Freight LLC, in federal court in
+    Arizona. All of Cactus's members are Arizona citizens. Count 1 alleges that Cactus failed to pay
+    overtime required by the federal Fair Labor Standards Act; Count 2 alleges that the same unpaid
+    hours violated an Arizona wage statute. Early in the case, before any discovery, the court dismissed
+    Count 1 with prejudice, holding that Duarte's job fell within a statutory exemption. Cactus now
+    argues that the court is required to dismiss Count 2 for lack of subject-matter jurisdiction.
+  call: "Which of the following is correct?"
+  options:
+    A: "The court must dismiss Count 2, because supplemental jurisdiction ends once every claim within the court's original jurisdiction has been dismissed."
+    B: "The court must retain Count 2, because supplemental jurisdiction, once it attaches, may not be declined."
+    C: "The court may, in its discretion, either retain Count 2 or decline supplemental jurisdiction over it."
+    D: "The court never had jurisdiction over Count 2, because Duarte and Cactus are both citizens of Arizona."
+  answer: C
+  explanation_correct: >-
+    Count 2 arises from the same unpaid hours as the federal claim, so it was within supplemental
+    jurisdiction under § 1367(a) from the start (R-CIV-010). When the court has dismissed all claims
+    within its original jurisdiction, § 1367(c)(3) provides that it "may decline" supplemental
+    jurisdiction; the choice is discretionary, guided by economy, convenience, fairness and comity
+    (R-CIV-012; Carnegie-Mellon v. Cohill). Because the federal claim fell early, declining would be
+    the usual choice, but it is not compelled; if the court declines, § 1367(d) tolls the state
+    limitations period. Trap: treating a discretionary power as a mandatory rule in either direction.
+  explanation_each_wrong_option:
+    A: >-
+      Overbroad. Dismissal of the federal claim does not retroactively destroy supplemental jurisdiction;
+      § 1367(c)(3) presupposes that the court still has it and lets the court decline. (R-CIV-012 notes a
+      different rule when a plaintiff amends away all federal claims after removal; that is not this
+      case.)
+    B: >-
+      Overbroad in the other direction. Section 1367(c) expressly allows a court to decline, and
+      dismissal of all original-jurisdiction claims is one of the listed grounds.
+    D: >-
+      Lack of diversity is irrelevant. Count 2 rests on supplemental jurisdiction because it shares a
+      common nucleus of operative fact with the federal FLSA claim (Gibbs).
+  trap_type: overbroad
+  authority: ["28 U.S.C. § 1367(a), (c)(3), (d)", "Carnegie-Mellon Univ. v. Cohill, 484 U.S. 343 (1988)", "United Mine Workers v. Gibbs, 383 U.S. 715 (1966)"]
+  source: original
+  tags: [wave2, w2a, supplemental-jurisdiction]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CIV-0055
+  subject: CIV
+  coverage_ids: [CIV-MBE-I.A]
+  rule_ids: [R-CIV-013, R-CIV-014, R-CIV-015, R-CIV-002]
+  difficulty: 2
+  stem: >-
+    Pham, a citizen of Georgia, sued two defendants in Georgia state court: Redline Logistics Inc.,
+    which is incorporated and headquartered in Georgia, and Vance, a citizen of Florida. The complaint
+    asserts a single claim under a federal anti-discrimination statute that does not prohibit removal,
+    and it seeks $40,000. Both defendants were served on May 1. On May 20, Vance filed a notice of
+    removal in the federal district court for the district embracing the state court, and Redline filed
+    a written consent to removal the same day. On June 5, Pham moved to remand, arguing that Redline is a
+    citizen of the forum State and that the amount in controversy does not exceed $75,000.
+  call: "How should the court rule on the motion to remand?"
+  options:
+    A: "Grant it, because a case may not be removed if any properly joined and served defendant is a citizen of the State in which the action was brought."
+    B: "Deny it, because the case arises under federal law, so neither the forum-defendant rule nor the amount requirement applies."
+    C: "Grant it, because the amount in controversy does not exceed $75,000."
+    D: "Deny it, because Pham waived her objections by not moving to remand within 14 days after removal."
+  answer: B
+  explanation_correct: >-
+    A defendant may remove any civil action within the district courts' original jurisdiction
+    (R-CIV-013; 28 U.S.C. § 1441(a)). Pham's claim is created by federal law, so § 1331 jurisdiction
+    exists, and federal-question jurisdiction has no amount-in-controversy requirement (R-CIV-002). The
+    forum-defendant rule of § 1441(b)(2) applies only to actions removable solely on the basis of
+    diversity. Removal was timely (within 30 days after service) and unanimous, because both served
+    defendants joined or consented (R-CIV-014). Remand should be denied. Trap: applying a
+    diversity-only limit to a federal-question case.
+  explanation_each_wrong_option:
+    A: >-
+      The forum-defendant rule is limited to cases "removable solely on the basis of" diversity
+      (§ 1441(b)(2)); it does not apply when the case arises under federal law.
+    C: >-
+      The $75,000 threshold is a diversity requirement (§ 1332(a)); § 1331 has none.
+    D: >-
+      Right result, wrong reason. A motion to remand for a non-jurisdictional defect is due within 30
+      days after the notice of removal (§ 1447(c); R-CIV-015), and Pham moved 16 days after removal. Her
+      motion fails on the merits, not for delay.
+  trap_type: confused-rule
+  authority: ["28 U.S.C. §§ 1331, 1441(a), 1441(b)(2)", "28 U.S.C. § 1446(b)(1), (b)(2)(A)", "28 U.S.C. § 1447(c)"]
+  source: original
+  tags: [wave2, w2a, removal, forum-defendant-rule]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CIV-0056
+  subject: CIV
+  coverage_ids: [CIV-MBE-I.A]
+  rule_ids: [R-CIV-014, R-CIV-015]
+  difficulty: 3
+  stem: >-
+    On January 10, 2025, Ferris, a citizen of Kentucky, commenced an action in Kentucky state court
+    against two defendants, seeking $500,000 on state-law product-liability claims arising from an
+    injury caused by a power saw: Corbin Tools Inc., which is incorporated and headquartered in Ohio,
+    and Lyle, a Kentucky citizen who sold Ferris the saw. Ferris actively litigated her claim against
+    Lyle, taking discovery from him. On March 3, 2026, after Lyle paid her a substantial settlement,
+    Ferris voluntarily dismissed him. On March 20, 2026, Corbin filed a notice of removal in the federal
+    district court for the district embracing the state court. On April 6, 2026, Ferris moved to remand.
+    The court finds that Ferris did not act in bad faith to prevent removal.
+  call: "How should the court rule on the motion to remand?"
+  options:
+    A: "Deny it, because Corbin removed within 30 days after receiving the paper from which it could first ascertain that the case had become removable."
+    B: "Deny it, because complete diversity existed when the notice of removal was filed."
+    C: "Grant it, because Lyle did not consent to the removal."
+    D: "Grant it, because the case was removed on the basis of diversity more than one year after it was commenced."
+  answer: D
+  explanation_correct: >-
+    When a case first becomes removable later in the litigation, a defendant may remove within 30 days
+    after receiving the paper that makes it removable, but a case may not be removed on the basis of
+    diversity more than one year after commencement unless the plaintiff acted in bad faith to prevent
+    removal (R-CIV-014; 28 U.S.C. § 1446(b)(3), (c)(1)). The voluntary dismissal of Lyle created complete
+    diversity, but it came 14 months after commencement, and the court found no bad faith, so the
+    removal was barred. Ferris moved to remand within 30 days after removal, so her objection was timely
+    however the defect is classified (§ 1447(c); R-CIV-015). Trap: the one-year cap overrides the
+    30-day "other paper" window.
+  explanation_each_wrong_option:
+    A: >-
+      True but incomplete. The 30-day window under § 1446(b)(3) is subject to the separate one-year
+      limit of § 1446(c)(1) for diversity removals.
+    B: >-
+      Complete diversity at removal is necessary but not sufficient; the timing limits on removal must
+      also be met.
+    C: >-
+      Only properly joined and served defendants who are parties when the case is removed must consent.
+      Lyle had already been dismissed, so his consent was not needed.
+  trap_type: exception-trap
+  authority: ["28 U.S.C. § 1446(b)(3)", "28 U.S.C. § 1446(c)(1)", "28 U.S.C. § 1447(c)"]
+  source: original
+  tags: [wave2, w2a, removal, one-year-limit]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CIV-0057
+  subject: CIV
+  coverage_ids: [CIV-MBE-I.B]
+  rule_ids: [R-CIV-020, R-CIV-018]
+  difficulty: 1
+  stem: >-
+    Dalton lives and works in Minnesota, where he has been domiciled for twenty years. While on a ski
+    vacation in Colorado, he collided with Ferreira, a citizen of Texas, injuring her. Ferreira sued
+    Dalton for negligence in federal court in Minnesota, seeking $300,000. Minnesota's long-arm statute
+    reaches the limits of due process. Dalton moves to dismiss for lack of personal jurisdiction,
+    arguing that the collision had nothing to do with Minnesota.
+  call: "How should the court rule on the motion?"
+  options:
+    A: "Deny it, because Dalton is domiciled in Minnesota."
+    B: "Grant it, because Ferreira's claim does not arise out of or relate to Dalton's contacts with Minnesota."
+    C: "Grant it, because only a court in Colorado, where the collision occurred, may exercise jurisdiction over the claim."
+    D: "Deny it, because Ferreira, as the plaintiff, is entitled to choose any forum in which venue is proper."
+  answer: A
+  explanation_correct: >-
+    A court may hear any claim against a defendant who is "at home" in the forum, and an individual is
+    at home in the State of domicile (R-CIV-020; R-CIV-018; Milliken v. Meyer; Daimler). Dalton is
+    domiciled in Minnesota, so the Minnesota federal court, borrowing Minnesota's reach under Rule
+    4(k)(1)(A), has general jurisdiction over him even though the claim arose in Colorado. Trap:
+    applying the relatedness requirement of specific jurisdiction to a case of general jurisdiction.
+  explanation_each_wrong_option:
+    B: >-
+      Relatedness is required only for specific jurisdiction (R-CIV-022). General jurisdiction based on
+      domicile covers claims arising anywhere.
+    C: >-
+      Colorado would have specific jurisdiction, but that does not make it the only permissible forum;
+      Dalton's domicile supplies general jurisdiction.
+    D: >-
+      Venue and the plaintiff's choice of forum do not create personal jurisdiction; each is a separate
+      requirement.
+  trap_type: confused-rule
+  authority: ["Milliken v. Meyer, 311 U.S. 457 (1940)", "Daimler AG v. Bauman, 571 U.S. 117 (2014)", "FRCP 4(k)(1)(A)"]
+  source: original
+  tags: [wave2, w2a, personal-jurisdiction, general-jurisdiction]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CIV-0058
+  subject: CIV
+  coverage_ids: [CIV-MBE-I.B]
+  rule_ids: [R-CIV-021, R-CIV-022, R-CIV-023]
+  difficulty: 2
+  stem: >-
+    Hartwell Supply Co. is incorporated and headquartered in Indiana. Ostrom, who lives in Iowa and runs
+    a hardware store there, called Hartwell's Indiana headquarters to ask about a dealership. After
+    several weeks of negotiations by phone and email with Hartwell's Indiana staff, Ostrom signed a
+    five-year exclusive dealership agreement. It requires him to order inventory from and send monthly
+    payments to Hartwell's Indiana office and to attend an annual training session in Indiana, which he
+    has done twice, and it provides that Indiana law governs. When Ostrom stopped paying, Hartwell sued
+    him in federal court in Indiana for $400,000. Indiana's long-arm statute reaches the limits of due
+    process. Ostrom moves to dismiss for lack of personal jurisdiction, pointing out that his store,
+    employees and sales are all in Iowa.
+  call: "Is the court likely to grant the motion?"
+  options:
+    A: "Yes, because an individual's contract with an out-of-state company cannot by itself establish minimum contacts with the company's home State, and Ostrom never had an office or employee in Indiana."
+    B: "Yes, because Ostrom is not at home in Indiana."
+    C: "No, because Ostrom purposefully created a continuing relationship with an Indiana company, and Hartwell's claim arises from it."
+    D: "No, because Hartwell is an Indiana corporation and suffered its financial loss in Indiana."
+  answer: C
+  explanation_correct: >-
+    Specific jurisdiction requires the defendant's own purposeful contacts with the forum, a claim that
+    arises out of or relates to them, and fairness (R-CIV-021, R-CIV-022, R-CIV-023). A contract with a
+    forum resident is not automatically enough, so the court looks at prior negotiations, contemplated
+    future consequences, the contract's terms and the course of dealing (Burger King). Ostrom reached
+    out to Indiana, negotiated with Indiana staff, accepted a five-year relationship requiring orders,
+    payments and training in Indiana, traveled there twice, and accepted Indiana law. The claim for
+    unpaid amounts arises from that relationship, and he has no compelling case that litigating in Indiana, where he has already traveled twice under the contract, is unreasonable (R-CIV-023). Trap: stopping at the true statement that a contract alone is
+    not enough.
+  explanation_each_wrong_option:
+    A: >-
+      The premise is true but does not decide the case. Ostrom's contacts go well beyond the bare
+      contract, and physical presence or an office in the forum is not required.
+    B: >-
+      Being "at home" matters only for general jurisdiction (R-CIV-020). Specific jurisdiction does not
+      require it.
+    D: >-
+      The plaintiff's residence and the place where it feels the loss cannot by themselves supply the
+      defendant's contacts (Walden; R-CIV-025). The right result rests on Ostrom's own conduct.
+  trap_type: true-but-irrelevant
+  authority: ["Burger King Corp. v. Rudzewicz, 471 U.S. 462 (1985)", "International Shoe Co. v. Washington, 326 U.S. 310 (1945)", "Walden v. Fiore, 571 U.S. 277 (2014)"]
+  source: original
+  tags: [wave2, w2a, personal-jurisdiction, specific-jurisdiction, contracts]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CIV-0059
+  subject: CIV
+  coverage_ids: [CIV-MBE-I.B]
+  rule_ids: [R-CIV-025, R-CIV-021]
+  difficulty: 2
+  stem: >-
+    Sato is a chef who lives in Oregon and owns three restaurants there. Ashby, a food writer who lives
+    and works in Nevada, wrote an article accusing Sato of knowingly serving spoiled fish at her Oregon
+    restaurants. Ashby based the article on telephone interviews with Sato's former employees in Oregon
+    and published it in a monthly newsletter, 70% of whose subscribers live in Oregon. Ashby knew that
+    Sato's business and reputation were centered in Oregon. Ashby has never visited Oregon. Sato sued
+    Ashby for defamation in federal court in Oregon, seeking $500,000. Oregon's long-arm statute reaches
+    the limits of due process. Ashby moves to dismiss for lack of personal jurisdiction.
+  call: "How should the court rule on the motion?"
+  options:
+    A: "Grant it, because Ashby has never been physically present in Oregon."
+    B: "Deny it, because Ashby expressly aimed the article at Oregon, knowing that the brunt of the harm would be suffered there."
+    C: "Grant it, because Sato's residence is Ashby's only link to Oregon."
+    D: "Deny it, because a defendant who commits an intentional tort is subject to jurisdiction wherever the plaintiff feels its effects."
+  answer: B
+  explanation_correct: >-
+    Intentional conduct expressly aimed at the forum, causing harm the defendant knows will be suffered
+    there, supports specific jurisdiction (the Calder effects test; R-CIV-025). Ashby's own conduct
+    targeted Oregon: the story concerned Oregon restaurants, drew on Oregon sources, and was published to
+    a readership concentrated in Oregon, and Ashby knew the injury to Sato's reputation would be felt
+    there. The defamation claim arises from those contacts (R-CIV-021). Trap: overreading Walden.
+  explanation_each_wrong_option:
+    A: >-
+      Physical presence is not required for specific jurisdiction; contacts may be created by conduct
+      directed at the forum from elsewhere.
+    C: >-
+      Misapplies Walden. Ashby's links to Oregon are his own: Oregon subject matter, Oregon sources and an
+      Oregon readership, not merely Sato's residence.
+    D: >-
+      Overbroad. Walden rejects jurisdiction based only on the plaintiff's experiencing harm in the
+      forum; the defendant's conduct must connect him to the forum itself. The result is right only
+      because of Ashby's express aiming.
+  trap_type: overbroad
+  authority: ["Calder v. Jones, 465 U.S. 783 (1984)", "Walden v. Fiore, 571 U.S. 277 (2014)", "Keeton v. Hustler Magazine, Inc., 465 U.S. 770 (1984)"]
+  source: original
+  tags: [wave2, w2a, personal-jurisdiction, effects-test]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CIV-0060
+  subject: CIV
+  coverage_ids: [CIV-MBE-I.B]
+  rule_ids: [R-CIV-026, R-CIV-021]
+  difficulty: 3
+  stem: >-
+    Kowalski, a citizen of Pennsylvania, claims that Burke, a citizen of Maine, owes him $200,000 under a
+    consulting contract negotiated and performed entirely in Maine. Burke's only connection to Vermont
+    is a vacation cabin there, which he visits for two weeks each summer; the contract has nothing to do
+    with the cabin. Kowalski sued Burke in federal court in Vermont and invoked the court's
+    quasi-in-rem jurisdiction: under Rule 4(n)(2) and Vermont's attachment procedures, the court
+    ordered the cabin seized at the outset of the action, with any recovery limited to the cabin's
+    $180,000 value. Burke, who was never in Vermont during the litigation, moves to dismiss for lack of
+    jurisdiction.
+  call: "What is Burke's best argument in support of the motion?"
+  options:
+    A: "He was not personally served with process while present in Vermont, so the court cannot rely on tag jurisdiction."
+    B: "Federal courts may not exercise quasi-in-rem jurisdiction, because Rule 4 authorizes jurisdiction only through service of a summons."
+    C: "Any judgment against him could exceed the value of the cabin."
+    D: "The cabin has nothing to do with the claim, and Burke has no other contacts with Vermont."
+  answer: D
+  explanation_correct: >-
+    Every assertion of jurisdiction, including quasi in rem, must satisfy the minimum-contacts standard
+    (Shaffer v. Heitner; R-CIV-026). Seizing forum property to adjudicate an unrelated claim is valid
+    only if the defendant independently has minimum contacts that would support jurisdiction over that
+    claim. Burke's summer visits to the cabin are unrelated to a contract made and performed in Maine,
+    so they cannot support specific jurisdiction (R-CIV-021), and Vermont is not his domicile. Trap:
+    relying on the pre-Shaffer rule that property in the forum is enough.
+  explanation_each_wrong_option:
+    A: >-
+      Weak. In-state personal service is one basis for jurisdiction (tag), but quasi-in-rem jurisdiction
+      never depended on it; the decisive defect is the lack of minimum contacts.
+    B: >-
+      Incorrect. Rule 4(n)(2) authorizes a federal court to assert jurisdiction over a defendant's assets
+      in the district when personal jurisdiction cannot be obtained by service, subject to due process.
+    C: >-
+      Incorrect on the facts. In quasi-in-rem jurisdiction recovery is limited to the property's value;
+      the stem says so. Limiting recovery does not cure the due-process problem anyway.
+  trap_type: confused-rule
+  authority: ["Shaffer v. Heitner, 433 U.S. 186 (1977)", "FRCP 4(n)(2)"]
+  source: original
+  tags: [wave2, w2a, personal-jurisdiction, quasi-in-rem]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CIV-0061
+  subject: CIV
+  coverage_ids: [CIV-MBE-I.C]
+  rule_ids: [R-CIV-029]
+  difficulty: 1
+  stem: >-
+    Kendrick sued Moss in federal court. To save the cost of a process server, Kendrick drove to Moss's
+    house himself and handed Moss the summons and complaint. No law of the forum State or of the State
+    where service was made permits a party to serve process. Moss timely filed a pre-answer motion
+    under Rule 12(b)(5) objecting to service.
+  call: "Was Moss properly served?"
+  options:
+    A: "No, because a party may not serve the summons and complaint."
+    B: "Yes, because the papers were delivered to Moss personally."
+    C: "Yes, because Moss received actual notice of the action, which cures any defect in the manner of service."
+    D: "No, because process may be served on an individual only by a United States marshal."
+  answer: A
+  explanation_correct: >-
+    A summons and complaint may be served by any person who is at least 18 years old and not a party
+    (R-CIV-029; FRCP 4(c)(2)). Personal delivery is a proper method under Rule 4(e)(2)(A), but the
+    server here was the plaintiff himself, and no state-law method under Rule 4(e)(1) permits that.
+    Moss preserved the objection by raising it in his first Rule 12 motion. Service was invalid; the
+    usual remedy is to quash it and let Kendrick serve properly within the Rule 4(m) period. Trap:
+    focusing on the method of delivery and ignoring who delivered.
+  explanation_each_wrong_option:
+    B: >-
+      True but irrelevant. Personal delivery is a valid method only when made by a qualified server; the
+      defect here is the server's status as a party.
+    C: >-
+      Actual notice does not cure service that fails Rule 4; a defendant who timely objects is entitled
+      to proper service.
+    D: >-
+      Overstated. A marshal serves only when the court so orders or the plaintiff proceeds in forma
+      pauperis (4(c)(3)); any non-party adult may serve.
+  trap_type: true-but-irrelevant
+  authority: ["FRCP 4(c)(2)-(3)", "FRCP 4(e)(1)-(2)", "FRCP 12(b)(5), 12(h)(1)"]
+  source: original
+  tags: [wave2, w2a, service-of-process]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CIV-0062
+  subject: CIV
+  coverage_ids: [CIV-MBE-I.C]
+  rule_ids: [R-CIV-029, R-CIV-047]
+  difficulty: 2
+  stem: >-
+    Lindgren filed a federal complaint against Ortiz on February 3. Lindgren's lawyer, busy with other
+    matters, did not attempt service until June 20, when a process server personally delivered the
+    summons and complaint to Ortiz. Lindgren offers no explanation for the delay, and the limitations
+    period on her claim has not yet run. In his first response to the complaint, Ortiz moved to dismiss
+    the action with prejudice because service was not made within the time the Rules allow.
+  call: "Which of the following is correct?"
+  options:
+    A: "The court must dismiss the action with prejudice, because Lindgren has shown no good cause for the delay."
+    B: "The court must deny the motion, because Ortiz has now been personally served."
+    C: "The court must dismiss the action without prejudice, because absent a showing of good cause the court has no authority to extend the time for service."
+    D: "The court may dismiss the action without prejudice or extend the time for service, but it may not dismiss with prejudice for late service."
+  answer: D
+  explanation_correct: >-
+    If a defendant is not served within 90 days after the complaint is filed, the court must dismiss the
+    action without prejudice or order that service be made within a specified time, and it must extend
+    the time if the plaintiff shows good cause (R-CIV-029; FRCP 4(m)). Service on June 20 came well after
+    the 90 days expired in early May, and Lindgren shows no good cause, so an extension is
+    discretionary, not mandatory; the 1993 advisory committee note confirms that the court may extend
+    even without good cause. A dismissal under Rule 4(m) is without prejudice. Ortiz preserved the
+    objection by raising it in his first Rule 12 motion (R-CIV-047). Trap: treating untimely service as
+    a merits forfeiture.
+  explanation_each_wrong_option:
+    A: >-
+      Rule 4(m) authorizes dismissal only without prejudice; lack of good cause does not convert it into
+      a dismissal on the merits.
+    B: >-
+      Late service does not cure itself. Absent good cause, whether to excuse the delay is for the
+      court's discretion.
+    C: >-
+      Wrong standard. The court must extend for good cause, but it also has discretion to extend without
+      it; it is not limited to dismissal.
+  trap_type: wrong-standard
+  authority: ["FRCP 4(m)", "FRCP 4(m) advisory committee's note to 1993 amendment", "FRCP 12(b)(5), 12(h)(1)"]
+  source: original
+  tags: [wave2, w2a, service-of-process, rule-4m]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CIV-0063
+  subject: CIV
+  coverage_ids: [CIV-MBE-I.D]
+  rule_ids: [R-CIV-031, R-CIV-032]
+  difficulty: 3
+  stem: >-
+    Pruitt, a citizen of Ohio who lives in Columbus, bought a beach villa in Mexico through two real
+    estate brokers: Amari, who is domiciled in Oregon, and Becker, who is domiciled in Colorado. All of
+    the negotiations, the alleged misrepresentations and the closing took place in Mexico, and the villa
+    is in Mexico. Pruitt plans to sue both brokers for fraud in federal court, seeking $900,000. Each
+    broker is subject to personal jurisdiction only in the State of his domicile. Oregon and Colorado
+    each constitute a single federal judicial district.
+  call: "In which federal district or districts would venue be proper?"
+  options:
+    A: "Only the Southern District of Ohio, where Pruitt resides."
+    B: "No federal district, because the events giving rise to the claim occurred outside the United States."
+    C: "The District of Oregon or the District of Colorado."
+    D: "Any federal district, because the claim arose abroad."
+  answer: C
+  explanation_correct: >-
+    Venue lies (1) where any defendant resides if all defendants reside in the same State, or (2) where
+    a substantial part of the events or property is located; only if no district qualifies under either
+    test does (3) allow venue in any district where any defendant is subject to personal jurisdiction
+    with respect to the action (R-CIV-031; 28 U.S.C. § 1391(b)). The brokers reside in different States,
+    and everything happened in Mexico, so (1) and (2) fail. Under the (b)(3) fallback, venue is proper
+    in the District of Oregon (Amari) or the District of Colorado (Becker). Personal jurisdiction must
+    still be shown separately for each defendant, so as a practical matter Pruitt may need to sue each
+    broker at home. Trap: treating the fallback as "no venue" or "any venue."
+  explanation_each_wrong_option:
+    A: >-
+      The plaintiff's residence is irrelevant to venue under § 1391(b).
+    B: >-
+      Section 1391(b)(3) exists precisely for cases in which no district satisfies the residence or
+      events tests.
+    D: >-
+      Confuses § 1391(c)(3), which lets a defendant not resident in the United States be sued in any
+      district. Both brokers reside in the United States.
+  trap_type: confused-rule
+  authority: ["28 U.S.C. § 1391(b)(1)-(3)", "28 U.S.C. § 1391(c)(1), (c)(3)"]
+  source: original
+  tags: [wave2, w2a, venue]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CIV-0064
+  subject: CIV
+  coverage_ids: [CIV-MBE-I.D]
+  rule_ids: [R-CIV-035, R-CIV-033, R-CIV-034]
+  difficulty: 2
+  stem: >-
+    Ridgeway Builders Inc., a Texas company, hired Calloway Steel Co., a Georgia company, as a
+    subcontractor on a project in Texas. Their subcontract provides that "all disputes arising under
+    this agreement shall be litigated exclusively in the state or federal courts located in Fulton
+    County, Georgia." After a payment dispute, Ridgeway sued Calloway in federal court in the Western
+    District of Texas, where venue is proper under § 1391. Calloway moved under § 1404(a) to transfer the
+    case to the Northern District of Georgia, which includes Fulton County. Ridgeway showed that most
+    witnesses and documents are in Texas and that litigating in Georgia would cost it more. Nothing
+    suggests that the clause is invalid or was procured by fraud.
+  call: "How should the court rule on the motion?"
+  options:
+    A: "Grant it unless extraordinary circumstances unrelated to the parties' convenience clearly disfavor transfer."
+    B: "Deny it, because venue in the Western District of Texas is proper, so the clause may be enforced only by a motion to dismiss."
+    C: "Deny it, because Ridgeway's choice of forum and the location of the witnesses and documents outweigh the clause."
+    D: "Grant it, because a valid forum-selection clause makes venue improper in every district other than the one it names."
+  answer: A
+  explanation_correct: >-
+    A valid forum-selection clause pointing to another federal district is enforced through a § 1404(a)
+    transfer and should control except in extraordinary circumstances unrelated to the parties'
+    convenience (R-CIV-035; Atlantic Marine). The plaintiff's choice of forum gets no weight, and the
+    parties' private-interest arguments, such as the location of witnesses and the cost of travel, are
+    treated as having been waived by the clause; only public-interest factors count. Nothing here
+    approaches an extraordinary public-interest reason. Trap: reaching the right result through the
+    wrong mechanism (option D).
+  explanation_each_wrong_option:
+    B: >-
+      Atlantic Marine holds the opposite: a clause pointing to a federal district is enforced by § 1404(a)
+      transfer, which presupposes that the original venue is proper. Dismissal (via forum non conveniens)
+      is the tool for clauses pointing to a state or foreign forum.
+    C: >-
+      Under Atlantic Marine the plaintiff's choice and private-interest factors drop out; the ordinary
+      § 1404(a) balancing (R-CIV-033) does not apply.
+    D: >-
+      Right result, wrong reason. A forum-selection clause does not make venue "wrong" or "improper"
+      under § 1391 or § 1406 (R-CIV-034); venue in Texas is proper, and the clause is enforced through
+      § 1404(a).
+  trap_type: right-result-wrong-reason
+  authority: ["28 U.S.C. § 1404(a)", "Atlantic Marine Construction Co. v. U.S. District Court, 571 U.S. 49 (2013)"]
+  source: original
+  tags: [wave2, w2a, venue, transfer, forum-selection-clause]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CIV-0065
+  subject: CIV
+  coverage_ids: [CIV-MBE-I.D]
+  rule_ids: [R-CIV-033, R-CIV-034]
+  difficulty: 3
+  stem: >-
+    Quintero, a citizen of New Mexico, sued Harlan Corp. in federal court in New Mexico, seeking $350,000
+    for injuries from a defective water heater she bought and used in New Mexico. Harlan is
+    incorporated in Delaware and has its headquarters in New Jersey; venue and personal jurisdiction are
+    proper in New Mexico. Harlan moved under 28 U.S.C. § 1404(a) to transfer the case to the District of
+    Hawaii, where its two principal expert witnesses and its lead trial counsel live, and filed a
+    statement consenting to personal jurisdiction and venue in Hawaii. Harlan has no other contacts with
+    Hawaii, and none of the events giving rise to the claim occurred there. Quintero opposes the
+    transfer.
+  call: "What is Quintero's best argument against the transfer?"
+  options:
+    A: "Her choice of her home forum is conclusive and may not be disturbed merely for the convenience of the defendant's witnesses and counsel."
+    B: "Hawaii is not a district where the action might have been brought, and she has not consented to transfer there."
+    C: "Section 1404(a) permits transfer only when venue in the original district is improper."
+    D: "A transfer would require the Hawaii court to apply Hawaii's choice-of-law rules, to her prejudice."
+  answer: B
+  explanation_correct: >-
+    Section 1404(a) permits transfer only to a district where the action "might have been brought" or
+    to a district to which all parties have consented (R-CIV-033). "Might have been brought" means that
+    venue and personal jurisdiction would have existed without the defendant's consent (Hoffman v.
+    Blaski). Harlan has no Hawaii contacts and nothing happened there, so Quintero could not have sued in
+    Hawaii; Harlan's unilateral consent does not satisfy the statute, and Quintero has not consented.
+    Trap: assuming the defendant's waiver can manufacture a proper transferee court.
+  explanation_each_wrong_option:
+    A: >-
+      Overstated. The plaintiff's choice receives deference in the § 1404(a) balance, but it is not
+      conclusive; a court may transfer a properly filed case to a qualifying district.
+    C: >-
+      Reverses the statutes. Section 1404(a) applies when venue is proper; § 1406(a) governs improper
+      venue (R-CIV-034).
+    D: >-
+      Incorrect. After a § 1404(a) transfer the transferee court applies the law, including the
+      choice-of-law rules, that the transferor court would have applied (Van Dusen; Ferens).
+  trap_type: missing-element
+  authority: ["28 U.S.C. § 1404(a)", "Hoffman v. Blaski, 363 U.S. 335 (1960)", "Van Dusen v. Barrack, 376 U.S. 612 (1964)"]
+  source: original
+  tags: [wave2, w2a, venue, transfer]
+  status: draft
+  last_verified: 2026-11-04

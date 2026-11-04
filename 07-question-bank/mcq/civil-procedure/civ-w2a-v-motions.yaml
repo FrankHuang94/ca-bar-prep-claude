@@ -1,0 +1,394 @@
+# Civil Procedure — NCBE category V: Motions (wave 2, batch A, original items)
+questions:
+- id: Q-CIV-0084
+  subject: CIV
+  coverage_ids: [CIV-MBE-V.A]
+  rule_ids: [R-CIV-084, R-CIV-044]
+  difficulty: 2
+  stem: >-
+    Ostrander sued her former employer, Pell Corp., in federal court under a federal age-discrimination
+    statute. Her complaint alleges that she is 61 years old, that Pell fired her last March, and that
+    "Pell terminated Ostrander because of her age, in violation of federal law." It alleges no other
+    facts about her job performance, who replaced her, anything said or done by Pell's managers, or how
+    younger employees were treated. Pell moved to dismiss under Rule 12(b)(6).
+  call: "How should the court rule on the motion?"
+  options:
+    A: "Grant it, because 'because of her age' is a legal conclusion, and the facts alleged do not make discrimination plausible."
+    B: "Deny it, because the court must accept every allegation in the complaint as true."
+    C: "Deny it, because the complaint gives Pell fair notice of the claim, which is all that Rule 8 requires."
+    D: "Grant it, because a discrimination claim must be pleaded with particularity, including facts establishing every element of a prima facie case."
+  answer: A
+  explanation_correct: >-
+    To survive a Rule 12(b)(6) motion, a complaint must allege factual content that, accepted as true,
+    allows a reasonable inference that the defendant is liable; labels, legal conclusions and formulaic
+    recitations of the elements are disregarded (R-CIV-044, R-CIV-084; Twombly; Iqbal). "Because of her
+    age" is a conclusion. What remains (Ostrander is 61 and was fired) is consistent with discrimination
+    but does not make it plausible rather than merely possible. The motion should be granted, ordinarily
+    with leave to amend. Trap: crediting conclusions as if they were facts.
+  explanation_each_wrong_option:
+    B: >-
+      Only well-pleaded factual allegations are taken as true; legal conclusions are not entitled to the
+      assumption of truth (Iqbal).
+    C: >-
+      Wrong standard. Fair notice is necessary but not sufficient after Twombly; the facts alleged must
+      also make the claim plausible.
+    D: >-
+      Overstates the requirement. Rule 9(b) particularity applies to fraud and mistake, and a
+      discrimination plaintiff need not plead a prima facie case (Swierkiewicz); the complaint fails for
+      lack of plausibility, not particularity.
+  trap_type: wrong-standard
+  authority: ["FRCP 8(a)(2)", "FRCP 12(b)(6)", "Bell Atlantic Corp. v. Twombly, 550 U.S. 544 (2007)", "Ashcroft v. Iqbal, 556 U.S. 662 (2009)", "Swierkiewicz v. Sorema N.A., 534 U.S. 506 (2002)"]
+  source: original
+  tags: [wave2, w2a, motion-to-dismiss, plausibility]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CIV-0085
+  subject: CIV
+  coverage_ids: [CIV-MBE-V.A]
+  rule_ids: [R-CIV-086, R-CIV-085]
+  difficulty: 2
+  stem: >-
+    Harrow sued Tessaro Chemical Co. in federal court, alleging that exposure to a solvent Tessaro made
+    caused her liver disease. After discovery closed, Tessaro moved for summary judgment on causation.
+    It cited Harrow's interrogatory answers and deposition, in which she identified no witness, document
+    or expert who could connect her disease to Tessaro's solvent, and noted that she had disclosed no
+    expert witness. Tessaro submitted no affidavit or other evidence of its own disproving causation.
+    Harrow opposed the motion, relying solely on the allegations of her unverified complaint.
+  call: "How should the court rule on the motion?"
+  options:
+    A: "Deny it, because a movant that will not bear the burden at trial must support its motion with evidence affirmatively disproving causation."
+    B: "Deny it, because Harrow's complaint alleges causation."
+    C: "Grant it, because Harrow has cited no record evidence that the solvent caused her disease."
+    D: "Grant it, because a plaintiff who has not disclosed an expert witness cannot survive summary judgment."
+  answer: C
+  explanation_correct: >-
+    A movant that will not bear the burden of proof at trial may carry its initial burden by showing that
+    the non-movant lacks evidence to prove an essential element; it need not negate the element with its
+    own evidence (R-CIV-086; Celotex; FRCP 56(c)(1)(B)). The burden then shifts to the non-movant to go
+    beyond the pleadings and cite particular record materials showing a genuine dispute. Harrow, who must
+    prove causation at trial, relied only on her unverified complaint, so there is no genuine dispute and
+    Tessaro is entitled to judgment as a matter of law (R-CIV-085). Trap: requiring the movant to
+    disprove the element.
+  explanation_each_wrong_option:
+    A: >-
+      Wrong standard. Under Celotex, pointing to the absence of evidence on an element the non-movant must
+      prove satisfies the movant's initial burden.
+    B: >-
+      A party opposing summary judgment may not rest on the allegations of its pleadings (FRCP 56(c)(1),
+      (e)).
+    D: >-
+      Overbroad. Summary judgment is proper because Harrow produced no evidence of causation; expert
+      testimony is not required in every case, and its absence is not automatically fatal.
+  trap_type: wrong-standard
+  authority: ["FRCP 56(a), (c)(1), (e)", "Celotex Corp. v. Catrett, 477 U.S. 317 (1986)"]
+  source: original
+  tags: [wave2, w2a, summary-judgment]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CIV-0086
+  subject: CIV
+  coverage_ids: [CIV-MBE-V.A]
+  rule_ids: [R-CIV-086]
+  difficulty: 1
+  stem: >-
+    Vega sued a grocery chain in federal court after slipping on a spilled liquid in one of its stores.
+    Two weeks after answering, and before any discovery had taken place, the chain moved for summary
+    judgment, supported by affidavits from its store employees stating that none of them knew of the
+    spill before Vega fell. Vega responded with a declaration explaining that what the employees knew is
+    information solely within the chain's control, and identifying the store's inspection logs, its
+    surveillance video and the depositions of the employees on duty as discovery she needs to oppose the
+    motion. No local rule or order addresses the timing of summary-judgment motions.
+  call: "What should the court do?"
+  options:
+    A: "Deny the motion as premature, because a motion for summary judgment may not be filed until the close of all discovery."
+    B: "Grant the motion, because Vega has offered no affidavit or other evidence contradicting the employees' sworn statements that they did not know of the spill."
+    C: "Disregard the affidavits, because they come from the defendant's own employees."
+    D: "Defer or deny the motion, or allow time for discovery, because Vega has shown she needs discovery to oppose it."
+  answer: D
+  explanation_correct: >-
+    Unless a local rule or order provides otherwise, a party may move for summary judgment at any time
+    until 30 days after the close of all discovery, but if the non-movant shows by affidavit or
+    declaration that, for specified reasons, it cannot present facts essential to justify its
+    opposition, the court may defer or deny the motion, allow time for discovery, or issue another
+    appropriate order (R-CIV-086; FRCP 56(b), 56(d)). Vega's declaration identifies specific evidence in
+    the chain's control that bears on notice. Trap: treating an early motion as either forbidden or
+    automatically decided against the non-movant.
+  explanation_each_wrong_option:
+    A: >-
+      Rule 56(b) allows a motion "at any time" until 30 days after discovery closes; an early motion is
+      permitted, and the remedy for the non-movant's need for discovery is Rule 56(d).
+    B: >-
+      Ignores Rule 56(d). A non-movant who shows by declaration that essential facts are unavailable
+      without discovery is not required to rebut the motion yet.
+    C: >-
+      Affidavits from a party's employees are proper summary-judgment evidence if made on personal
+      knowledge and setting out admissible facts (FRCP 56(c)(4)).
+  trap_type: procedural-posture
+  authority: ["FRCP 56(b)", "FRCP 56(c)(4)", "FRCP 56(d)"]
+  source: original
+  tags: [wave2, w2a, summary-judgment, rule-56d]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CIV-0087
+  subject: CIV
+  coverage_ids: [CIV-MBE-V.A]
+  rule_ids: [R-CIV-084, R-CIV-046]
+  difficulty: 2
+  stem: >-
+    Juniper's federal complaint alleges that on March 10, 2023, a delivery van driven by an employee of
+    Norcross Freight struck her bicycle, injuring her. She filed the complaint on April 2, 2026. The
+    governing two-year limitations period began to run on the date of the accident, and the complaint
+    alleges no facts suggesting that the period was tolled. Before answering, Norcross moved under Rule
+    12(b)(6) to dismiss the complaint as time-barred, attaching nothing to its motion. Juniper argues that
+    the statute of limitations is an affirmative defense and cannot be decided on a motion to dismiss.
+  call: "May the court grant Norcross's motion?"
+  options:
+    A: "No, because the statute of limitations is an affirmative defense that may be raised only in an answer."
+    B: "Yes, because the complaint's own allegations show that the claim is time-barred."
+    C: "Yes, but only after converting the motion to one for summary judgment and receiving evidence of the accident date."
+    D: "No, because a Rule 12(b)(6) motion tests only whether each element of the claim has been pleaded."
+  answer: B
+  explanation_correct: >-
+    Limitations is an affirmative defense that the defendant ordinarily pleads in its answer (R-CIV-046;
+    FRCP 8(c)(1)), but when the allegations of the complaint itself show that relief is barred by the
+    statute of limitations, the complaint fails to state a claim and may be dismissed under Rule
+    12(b)(6) (R-CIV-084; Jones v. Bock). Juniper's complaint pleads an accident date more than three
+    years before filing and no tolling facts, so the defense appears on its face. Dismissal is usually
+    with leave to amend if tolling facts could be alleged. Trap: assuming an affirmative defense can never
+    support a Rule 12(b)(6) motion.
+  explanation_each_wrong_option:
+    A: >-
+      Rule 8(c) requires a defendant to plead affirmative defenses, but it does not bar raising one by
+      motion when the complaint itself establishes it.
+    C: >-
+      No conversion is needed. The accident and filing dates come from the complaint, so the court is not
+      considering matters outside the pleadings (FRCP 12(d)).
+    D: >-
+      A complaint may also fail to state a claim when its own allegations establish a complete defense;
+      the inquiry is whether the pleaded facts show entitlement to relief.
+  trap_type: procedural-posture
+  authority: ["FRCP 8(c)(1)", "FRCP 12(b)(6), 12(d)", "Jones v. Bock, 549 U.S. 199 (2007)"]
+  source: original
+  tags: [wave2, w2a, motion-to-dismiss, statute-of-limitations]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CIV-0088
+  subject: CIV
+  coverage_ids: [CIV-MBE-V.B]
+  rule_ids: [R-CIV-088, R-CIV-087]
+  difficulty: 2
+  stem: >-
+    In a federal jury trial of a negligence claim, at the close of all the evidence the defendant moved
+    for judgment as a matter of law, arguing only that the plaintiff had offered no legally sufficient
+    evidence that the defendant's conduct caused her injury. The court denied the motion, the jury
+    returned a $400,000 verdict for the plaintiff, and judgment was entered. Twenty-one days later, the
+    defendant filed a renewed motion for judgment as a matter of law, arguing (1) that the evidence of
+    causation was legally insufficient and (2) that the plaintiff's own evidence established that her
+    claim was barred by the statute of limitations.
+  call: "Which ground or grounds may the court consider on the renewed motion?"
+  options:
+    A: "Both grounds, because the renewed motion was filed within 28 days after entry of judgment."
+    B: "Only the causation ground, because it alone was raised in the pre-verdict motion."
+    C: "Neither ground, because a renewed motion must be filed within 10 days after the verdict."
+    D: "Only the limitations ground, because the court already rejected the causation argument before the verdict."
+  answer: B
+  explanation_correct: >-
+    A renewed motion under Rule 50(b) must be filed within 28 days after entry of judgment and is limited
+    to the grounds raised in the pre-verdict Rule 50(a) motion, which must specify the law and facts
+    entitling the movant to judgment (R-CIV-088, R-CIV-087). The renewed motion was timely, but only the
+    causation ground was raised before the case went to the jury, so only that ground can be renewed.
+    Trap: treating a timely renewed motion as a fresh opportunity to raise new grounds.
+  explanation_each_wrong_option:
+    A: >-
+      Timeliness is necessary but not sufficient. A renewed motion cannot add grounds that were not in the
+      Rule 50(a) motion.
+    C: >-
+      Wrong deadline. The renewed motion is due no later than 28 days after entry of judgment (FRCP 50(b)),
+      and the defendant filed on day 21.
+    D: >-
+      Reverses the rule. "Renewed" means the court reconsiders the pre-verdict grounds; denial of the 50(a)
+      motion is what makes the causation ground available after the verdict.
+  trap_type: missing-element
+  authority: ["FRCP 50(a)(2)", "FRCP 50(b)", "Unitherm Food Systems, Inc. v. Swift-Eckrich, Inc., 546 U.S. 394 (2006)"]
+  source: original
+  tags: [wave2, w2a, jmol, renewed-jmol]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CIV-0089
+  subject: CIV
+  coverage_ids: [CIV-MBE-V.B]
+  rule_ids: [R-CIV-087, R-CIV-089]
+  difficulty: 1
+  stem: >-
+    In a federal jury trial over a warehouse fire, the plaintiff's only evidence that the defendant's
+    employee left a space heater running overnight was the testimony of a night watchman, who said he saw
+    the heater glowing through a window at 2 a.m. On cross-examination the defense brought out that the
+    watchman had been drinking that night and disliked the defendant's manager. Four of the defendant's
+    employees testified that they unplugged the heater at 6 p.m. At the close of all the evidence, the
+    defendant moved for judgment as a matter of law. The judge finds the defendant's witnesses far more
+    believable than the watchman.
+  call: "How should the judge rule on the motion?"
+  options:
+    A: "Deny it, because the watchman's testimony, if believed, would permit a reasonable jury to find for the plaintiff."
+    B: "Grant it, because the great weight of the evidence favors the defendant."
+    C: "Grant it, because the judge may disregard testimony she finds unworthy of belief."
+    D: "Deny it, because a motion for judgment as a matter of law may be made only after the jury has returned its verdict."
+  answer: A
+  explanation_correct: >-
+    Judgment as a matter of law may be granted only if a reasonable jury would not have a legally
+    sufficient evidentiary basis to find for the non-movant; the court views the evidence in the light
+    most favorable to the non-movant and may not weigh evidence or make credibility determinations
+    (R-CIV-087; Reeves). The watchman's testimony, if believed, supports a finding that the heater was
+    left on; the impeachment and contrary testimony go to credibility, which is for the jury. Trap:
+    applying the weight-of-the-evidence standard of a new-trial motion.
+  explanation_each_wrong_option:
+    B: >-
+      Wrong standard. "Clear weight of the evidence" is a ground for a new trial under Rule 59 (R-CIV-089),
+      not for judgment as a matter of law.
+    C: >-
+      Credibility determinations belong to the jury; on a Rule 50 motion the judge may not reject a
+      witness's testimony because she disbelieves it.
+    D: >-
+      Wrong timing. A Rule 50(a) motion may be made at any time before the case is submitted to the jury;
+      after the verdict, the motion is renewed under Rule 50(b).
+  trap_type: confused-rule
+  authority: ["FRCP 50(a)(1)-(2)", "Reeves v. Sanderson Plumbing Products, Inc., 530 U.S. 133 (2000)"]
+  source: original
+  tags: [wave2, w2a, jmol, credibility]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CIV-0090
+  subject: CIV
+  coverage_ids: [CIV-MBE-V.C]
+  rule_ids: [R-CIV-089, R-CIV-088, R-CIV-087]
+  difficulty: 2
+  stem: >-
+    In a federal jury trial of a contract claim, the defendant moved for judgment as a matter of law at
+    the close of all the evidence; the court denied the motion, and the jury returned a verdict for the
+    plaintiff. Twenty days after judgment was entered, the defendant filed a renewed motion for judgment
+    as a matter of law and, in the alternative, a motion for a new trial. The judge concludes that the
+    plaintiff's evidence, although legally sufficient to permit a reasonable jury to find for her, is so
+    heavily outweighed by the defendant's documentary evidence that the verdict is against the clear
+    weight of the evidence and would result in a miscarriage of justice.
+  call: "What should the judge do?"
+  options:
+    A: "Grant the renewed motion for judgment as a matter of law, because the verdict is against the clear weight of the evidence."
+    B: "Deny both motions, because a judge may not weigh the evidence after a jury has returned its verdict."
+    C: "Deny the renewed motion for judgment as a matter of law, but grant a new trial."
+    D: "Deny the renewed motion and order a new trial unless the plaintiff accepts a reduced award."
+  answer: C
+  explanation_correct: >-
+    Judgment as a matter of law requires that no reasonable jury could find for the non-movant, and the
+    judge may not weigh evidence (R-CIV-087, R-CIV-088); the judge has found the evidence legally
+    sufficient, so the renewed motion fails. On a timely new-trial motion, however, the judge may weigh
+    the evidence and order a new trial if the verdict is against the clear weight of the evidence or
+    would result in a miscarriage of justice (R-CIV-089; FRCP 59(a)(1)(A)). The alternative motion was
+    filed within 28 days. Trap: confusing the two standards.
+  explanation_each_wrong_option:
+    A: >-
+      Wrong standard. "Clear weight of the evidence" justifies a new trial, not judgment as a matter of
+      law; the evidence was legally sufficient.
+    B: >-
+      Overbroad. Weighing the evidence is forbidden on JMOL but permitted on a motion for a new trial.
+    D: >-
+      Remittitur is a remedy for an excessive damages award. The problem here is the verdict on liability,
+      so the proper remedy is a new trial, not a reduced award.
+  trap_type: confused-rule
+  authority: ["FRCP 50(b)", "FRCP 59(a)(1)(A), 59(b)"]
+  source: original
+  tags: [wave2, w2a, new-trial, jmol]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CIV-0091
+  subject: CIV
+  coverage_ids: [CIV-MBE-V.C]
+  rule_ids: [R-CIV-090, R-CIV-089]
+  difficulty: 3
+  stem: >-
+    After a bench trial, a federal court entered judgment for Garrow Co. in Finch's breach-of-warranty
+    action on February 2, 2026. During discovery, Finch had subpoenaed Garrow's supplier for all its
+    correspondence with Garrow about the product, and the supplier had responded in good faith that it
+    had none. On September 1, 2026, while closing an office, the supplier found a misfiled 2024 letter in
+    which Garrow's sales manager admitted that the product had the very defect Finch had alleged. The
+    letter would likely have changed the outcome. On October 5, 2026, Finch moved for relief from the
+    judgment under Rule 60(b)(2).
+  call: "Which of the following is correct?"
+  options:
+    A: "The motion is untimely, because a motion based on newly discovered evidence must be filed within 28 days after entry of judgment."
+    B: "The motion is untimely, because a motion for relief from a judgment must be made within six months after the judgment is entered."
+    C: "The motion must be denied, because the letter existed at the time of trial and therefore is not newly discovered evidence."
+    D: "The motion is timely; relief turns on whether diligent effort could have found the letter in time for a Rule 59 motion."
+  answer: D
+  explanation_correct: >-
+    Rule 60(b)(2) allows relief for newly discovered evidence that, with reasonable diligence, could not
+    have been discovered in time to move for a new trial under Rule 59(b). A motion under 60(b)(1)–(3)
+    must be made within a reasonable time and no more than one year after entry of the judgment
+    (R-CIV-090; FRCP 60(c)(1)). Finch moved about eight months after judgment and about five weeks after
+    the letter surfaced, and his subpoena to the supplier shows diligence. The motion is timely, and
+    relief turns on the diligence and materiality showing. Trap: borrowing the 28-day post-trial deadline
+    or a state-court deadline.
+  explanation_each_wrong_option:
+    A: >-
+      Confuses Rule 60(b)(2) with Rule 59. A new-trial motion is due within 28 days (R-CIV-089); Rule
+      60(b)(2) exists for evidence that could not be found in time to make that motion.
+    B: >-
+      There is no six-month limit in Rule 60(c)(1). Six months is California's state-court period for
+      relief from default and mistake (R-CIV-107), not the federal rule.
+    C: >-
+      Misreads the rule. "Newly discovered" evidence is evidence that existed at the time of trial but was
+      not discovered until afterward despite diligence; evidence created after trial generally does not
+      qualify.
+  trap_type: confused-rule
+  authority: ["FRCP 60(b)(2)", "FRCP 60(c)(1)", "FRCP 59(b)"]
+  source: original
+  tags: [wave2, w2a, rule-60b, newly-discovered-evidence]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CIV-0092
+  subject: CIV
+  coverage_ids: [CIV-MBE-V.C]
+  rule_ids: [R-CIV-089, R-CIV-078]
+  difficulty: 3
+  stem: >-
+    In a federal civil-rights action, the jury awarded the plaintiff $2.4 million for emotional distress.
+    On the defendant's timely Rule 59 motion, the judge concluded that the award was grossly excessive and
+    that the evidence would support no more than $400,000. Without offering the plaintiff any choice, the
+    judge entered an amended judgment for $400,000. The plaintiff appeals, challenging the reduction.
+  call: "Was the judge's action proper?"
+  options:
+    A: "No, because the plaintiff had to be given the choice between accepting the reduced award and a new trial."
+    B: "Yes, because a federal judge may reduce an excessive verdict to the highest amount the evidence supports."
+    C: "Yes, because remittitur is permitted in federal court, although additur is not."
+    D: "No, because a federal judge may never disturb a jury's assessment of damages."
+  answer: A
+  explanation_correct: >-
+    When a jury's award is excessive, a federal judge may offer remittitur: a new trial unless the
+    plaintiff accepts a reduced award (R-CIV-089). Because the Seventh Amendment protects the jury's
+    assessment of damages (R-CIV-078), the judge may not simply enter judgment for a lower amount; the
+    plaintiff must be given the option of a new trial (Hetzel v. Prince William County). Entering a
+    $400,000 judgment without that choice was improper. Trap: knowing that remittitur exists but not what
+    it requires.
+  explanation_each_wrong_option:
+    B: >-
+      This describes a unilateral reduction, which the Seventh Amendment forbids. The judge may only
+      condition denial of a new trial on the plaintiff's acceptance of the lower figure.
+    C: >-
+      True but incomplete. Remittitur is permitted and additur is not (Dimick), but a valid remittitur
+      requires offering the plaintiff a new trial as the alternative.
+    D: >-
+      Overbroad. A judge may grant a new trial for excessive damages or offer remittitur; what the judge
+      may not do is impose a reduced award without the plaintiff's consent.
+  trap_type: true-but-irrelevant
+  authority: ["FRCP 59(a)", "U.S. Const. amend. VII", "Hetzel v. Prince William County, 523 U.S. 208 (1998)", "Dimick v. Schiedt, 293 U.S. 474 (1935)"]
+  source: original
+  tags: [wave2, w2a, new-trial, remittitur]
+  status: draft
+  last_verified: 2026-11-04

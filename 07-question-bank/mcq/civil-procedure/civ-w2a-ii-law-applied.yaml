@@ -1,0 +1,224 @@
+# Civil Procedure — NCBE category II: Law applied by federal courts (wave 2, batch A, original items)
+questions:
+- id: Q-CIV-0066
+  subject: CIV
+  coverage_ids: [CIV-MBE-II.A]
+  rule_ids: [R-CIV-040, R-CIV-037]
+  difficulty: 1
+  stem: >-
+    Bellamy, a citizen of State A, was injured in State C when her car collided with a truck owned by
+    Torvald Inc., a citizen of State B. She sued Torvald for negligence in federal court in State A,
+    seeking $2 million. State A's courts apply the law of the place of injury to tort claims. State C
+    law caps damages for pain and suffering at $250,000; State A law has no cap. Bellamy argues that the
+    federal court should make its own choice-of-law decision and apply State A law because State A has
+    the strongest interest in compensating its own citizens.
+  call: "Which State's law should the federal court apply to the damages question?"
+  options:
+    A: "State A's, because a federal court in a diversity case applies the substantive law of the State in which it sits."
+    B: "Neither; federal common law governs, because choice of law is a procedural matter in federal court."
+    C: "Whichever State's law the federal court selects under its own independent choice-of-law analysis."
+    D: "State C's, because the federal court must follow State A's choice-of-law rules, which point to the place of injury."
+  answer: D
+  explanation_correct: >-
+    A federal court hearing a state-law claim applies the forum State's choice-of-law rules (Klaxon;
+    R-CIV-040), because otherwise the outcome would differ depending on whether the case was filed in
+    state or federal court across the street (R-CIV-037). State A's courts would apply the law of the
+    place of injury, so the federal court applies State C's damages cap. Trap: skipping the
+    choice-of-law step and jumping straight to forum-State substantive law.
+  explanation_each_wrong_option:
+    A: >-
+      Missing step. The forum State's "substantive law" includes its choice-of-law rules, which here
+      select State C's law.
+    B: >-
+      Choice of law in diversity cases is governed by state law under Klaxon, not by federal common law.
+    C: >-
+      Klaxon forbids an independent federal choice-of-law analysis; it would recreate the forum shopping
+      Erie sought to prevent.
+  trap_type: missing-element
+  authority: ["Klaxon Co. v. Stentor Electric Mfg. Co., 313 U.S. 487 (1941)", "Erie R.R. v. Tompkins, 304 U.S. 64 (1938)"]
+  source: original
+  tags: [wave2, w2a, erie, choice-of-law]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CIV-0067
+  subject: CIV
+  coverage_ids: [CIV-MBE-II.A]
+  rule_ids: [R-CIV-038, R-CIV-039]
+  difficulty: 3
+  stem: >-
+    State D's consumer-messaging statute allows any person who receives an unsolicited marketing text
+    message to recover $500 in statutory damages per message. A separate provision of State D's code of
+    civil procedure states that no action seeking a penalty or statutory damages, under the law of
+    State D or of any other jurisdiction, may be maintained as a class action. Wexford filed a class
+    action in federal court in State D against Beacon Telecom on behalf of 40,000 recipients of
+    Beacon's text messages, seeking statutory damages under the State D statute. The federal court has
+    subject-matter jurisdiction, and the proposed class satisfies Rule 23(a) and (b)(3). Beacon moves to
+    strike the class allegations, arguing that under Erie the federal court must apply State D's ban.
+  call: "How should the court rule on the motion?"
+  options:
+    A: "Grant it, because ignoring State D's ban would be outcome-determinative and would encourage forum shopping."
+    B: "Grant it, because a federal court must apply a state procedural rule that is more restrictive than the corresponding Federal Rule."
+    C: "Deny it, because Rule 23 governs whether a class action may be maintained in federal court and is a valid procedural rule."
+    D: "Deny it, because the Supremacy Clause makes State D's class-action ban void even in State D's own courts."
+  answer: C
+  explanation_correct: >-
+    When a Federal Rule is sufficiently broad to answer the question in dispute and is valid under the
+    Rules Enabling Act, it governs in federal court notwithstanding contrary state law (R-CIV-038; Hanna;
+    Shady Grove). Rule 23 answers whether a suit may proceed as a class action, and it regulates the
+    manner and means of enforcing rights, not the rights themselves. State D's ban, a general procedural
+    provision applying to claims under any jurisdiction's law, does not define the substantive right to
+    statutory damages. Rule 23 controls. Trap: running the unguided Erie (twin-aims) analysis when a
+    Federal Rule is on point.
+  explanation_each_wrong_option:
+    A: >-
+      Wrong standard. The outcome-determination and twin-aims test (R-CIV-039) applies only when no
+      Federal Rule or statute covers the issue; when a valid Rule is on point, Hanna's direct-collision
+      analysis controls.
+    B: >-
+      There is no such principle. Federal courts apply the Federal Rules, whether they are more or less
+      restrictive than state procedure, so long as they are valid.
+    D: >-
+      The state ban remains valid in State D's courts; the Federal Rule simply governs proceedings in
+      federal court. Nothing makes the state provision void.
+  trap_type: wrong-standard
+  authority: ["Shady Grove Orthopedic Associates, P.A. v. Allstate Ins. Co., 559 U.S. 393 (2010)", "Hanna v. Plumer, 380 U.S. 460 (1965)", "28 U.S.C. § 2072", "FRCP 23"]
+  source: original
+  tags: [wave2, w2a, erie, hanna, class-actions]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CIV-0068
+  subject: CIV
+  coverage_ids: [CIV-MBE-II.A]
+  rule_ids: [R-CIV-040, R-CIV-037]
+  difficulty: 2
+  stem: >-
+    In a federal diversity action governed by State F law, the dispositive question is whether State F
+    allows a bystander to recover for negligent infliction of emotional distress when she did not see
+    the accident but arrived at the scene a few minutes afterward. State F's highest court has never
+    addressed the question. Two years ago, a State F intermediate appellate court held that such a
+    claim is not recognized; no other State F court has ruled on it, and nothing suggests that State F's
+    highest court would disagree. State F does not permit federal courts to certify questions to its
+    highest court. The federal judge personally believes that the better rule would allow the claim.
+  call: "How should the federal court decide the question?"
+  options:
+    A: "By applying the rule the judge believes is best, because no decision of State F's highest court binds the federal court and intermediate decisions are only advisory."
+    B: "By predicting how State F's highest court would rule, treating the intermediate appellate decision as strong evidence of State F law."
+    C: "By dismissing the action, because a federal court may not decide an unsettled question of state law."
+    D: "By applying federal common law, because no controlling state-law decision exists."
+  answer: B
+  explanation_correct: >-
+    A federal court applying state law must decide as it believes the State's highest court would.
+    When that court has not spoken, the federal court predicts its ruling, or certifies the question if
+    the State allows (R-CIV-040; Commissioner v. Estate of Bosch). An intermediate appellate decision is
+    a datum not to be disregarded unless the federal court is convinced by other persuasive data that the
+    highest court would decide otherwise (West v. AT&T). Nothing here suggests that, so the court should
+    follow the intermediate court and hold that the claim is not recognized. The judge's own view of
+    the better rule is irrelevant. Trap: reviving the "general law" approach Erie abolished.
+  explanation_each_wrong_option:
+    A: >-
+      This is Swift v. Tyson's discredited approach. After Erie, there is no federal general common law;
+      the court must apply State F law as State F's courts would (R-CIV-037), and an intermediate
+      appellate decision is evidence of that law, not a mere advisory opinion.
+    C: >-
+      Federal courts routinely decide unsettled state-law questions in diversity cases; uncertainty alone
+      is not a ground for dismissal.
+    D: >-
+      Federal common law exists only in narrow enclaves of uniquely federal interest (R-CIV-041); a
+      state tort question is not one of them.
+  trap_type: wrong-standard
+  authority: ["Erie R.R. v. Tompkins, 304 U.S. 64 (1938)", "Commissioner v. Estate of Bosch, 387 U.S. 456 (1967)", "West v. American Tel. & Tel. Co., 311 U.S. 223 (1940)"]
+  source: original
+  tags: [wave2, w2a, erie, predicting-state-law]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CIV-0069
+  subject: CIV
+  coverage_ids: [CIV-MBE-II.A]
+  rule_ids: [R-CIV-040, R-CIV-038, R-CIV-046]
+  difficulty: 3
+  stem: >-
+    Under State G law, a plaintiff suing for negligence must prove, as part of her case, that she was
+    free from contributory negligence. Ivy, a citizen of State G, sued Marsh Rail Co., a citizen of
+    State H, in federal court in State G under diversity jurisdiction, seeking $400,000 for injuries
+    suffered at a railroad crossing. Marsh's answer pleaded Ivy's contributory negligence as an
+    affirmative defense, as Federal Rule 8(c)(1) requires. At the charge conference, Ivy asked the
+    court to instruct the jury that Marsh bears the burden of proving contributory negligence, arguing
+    that the Federal Rules treat it as an affirmative defense.
+  call: "How should the court instruct the jury on the burden of proof?"
+  options:
+    A: "That Ivy must prove she was free from contributory negligence, because the burden of proof on a state-law claim is governed by state law."
+    B: "That Marsh must prove contributory negligence, because Rule 8(c) makes it an affirmative defense."
+    C: "That Marsh must prove contributory negligence, because the allocation of burdens of proof in federal court is a matter of federal procedure."
+    D: "That Ivy must prove she was free from contributory negligence, because a federal court sitting in diversity follows state law on all issues."
+  answer: A
+  explanation_correct: >-
+    In a diversity case, the burden of proof on a state-law claim or defense is part of the State's
+    substantive law and is governed by state law (R-CIV-040; Cities Service Oil Co. v. Dunlap). Rule 8(c)
+    governs only what must be pleaded; it does not allocate the burden of proof, so there is no direct
+    collision with state law under Hanna (R-CIV-038; Palmer v. Hoffman; R-CIV-046). State G places the
+    burden on the plaintiff, so the jury should be told that Ivy must prove her freedom from contributory
+    negligence. Trap: reading a pleading rule as a burden-of-proof rule.
+  explanation_each_wrong_option:
+    B: >-
+      Rule 8(c) requires a party to plead listed defenses; it is not broad enough to decide who bears the
+      burden of persuasion, so it does not displace State G law.
+    C: >-
+      Wrong classification. Burdens of proof on state-law claims are treated as substantive under Erie.
+    D: >-
+      Right result, wrong reason. Federal courts in diversity apply federal law to many issues (pleading,
+      joinder, discovery, the jury right); state law governs here because the burden of proof is
+      substantive.
+  trap_type: right-result-wrong-reason
+  authority: ["Cities Service Oil Co. v. Dunlap, 308 U.S. 208 (1939)", "Palmer v. Hoffman, 318 U.S. 109 (1943)", "FRCP 8(c)(1)"]
+  source: original
+  tags: [wave2, w2a, erie, burden-of-proof]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CIV-0070
+  subject: CIV
+  coverage_ids: [CIV-MBE-II.B]
+  rule_ids: [R-CIV-041, R-CIV-037]
+  difficulty: 2
+  stem: >-
+    The U.S. Navy contracted with Ardent Aerospace Inc. to build rescue hoists. After reviewing and
+    revising Ardent's engineering drawings, the Navy approved detailed specifications for the hoists,
+    and the hoists Ardent delivered conformed to them. Ardent knew of no danger in the design that the
+    Navy did not also know about. A sailor injured when a hoist failed sued Ardent in federal court under
+    diversity jurisdiction, asserting a design-defect claim under the law of State H, which imposes
+    strict liability for defectively designed products and recognizes no government-contractor defense.
+    Ardent moves for summary judgment. The facts stated above are undisputed.
+  call: "How should the court rule on the motion?"
+  options:
+    A: "Deny it, because a federal court sitting in diversity must apply State H's product-liability law, which recognizes no such defense."
+    B: "Grant it, because federal common law supplies a government-contractor defense that displaces State H law on these facts."
+    C: "Grant it, because federal law governs every claim arising out of a contract with the United States."
+    D: "Deny it, because federal common law may be applied only in cases within federal-question jurisdiction."
+  answer: B
+  explanation_correct: >-
+    Although there is no federal general common law, federal courts make federal common law in narrow
+    enclaves of uniquely federal interest where state law significantly conflicts with federal policy,
+    including the government-contractor defense (R-CIV-041; Boyle). State design-defect law is displaced
+    when (1) the United States approved reasonably precise specifications, (2) the equipment conformed to
+    them, and (3) the supplier warned the United States of dangers known to the supplier but not to the
+    United States. All three are undisputed here, so Ardent is entitled to judgment. Trap: assuming Erie
+    always requires state law in a diversity case.
+  explanation_each_wrong_option:
+    A: >-
+      Erie requires state law only where no federal law governs (R-CIV-037). Federal common law, which
+      binds under the Supremacy Clause, supplies the defense even in a diversity case.
+    C: >-
+      Overbroad. Federal common law displaces state law only where a uniquely federal interest and a
+      significant conflict exist; many disputes involving federal contracts are governed by state law.
+    D: >-
+      Federal common law applies whenever its subject matter is implicated, whatever the basis of
+      jurisdiction; Boyle itself was a diversity case.
+  trap_type: overbroad
+  authority: ["Boyle v. United Technologies Corp., 487 U.S. 500 (1988)", "Erie R.R. v. Tompkins, 304 U.S. 64 (1938)"]
+  source: original
+  tags: [wave2, w2a, federal-common-law]
+  status: draft
+  last_verified: 2026-11-04
