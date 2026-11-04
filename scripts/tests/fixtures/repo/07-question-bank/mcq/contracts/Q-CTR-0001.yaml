@@ -1,0 +1,14 @@
+id: Q-CTR-0001
+subject: CTR
+coverage_ids: [CTR-MBE-I.A]
+rule_ids: [R-CTR-001]
+difficulty: 3
+stem: "FIXTURE contracts stem. This is placeholder text used only to exercise the tooling and is not legal content."
+call: "FIXTURE call: which option is keyed?"
+options: {A: "Fixture option A3", B: "Fixture option B3", C: "Fixture option C3", D: "Fixture option D3"}
+answer: A
+explanation_correct: "FIXTURE explanation for the keyed option, long enough for the schema."
+explanation_each_wrong_option: {B: "FIXTURE why B is wrong.", C: "FIXTURE why C is wrong.", D: "FIXTURE why D is wrong."}
+trap_type: wrong-standard
+authority: ["fixture authority"]
+source: original

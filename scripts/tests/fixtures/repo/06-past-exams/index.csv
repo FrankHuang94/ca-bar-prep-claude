@@ -1,0 +1,4 @@
+exam,q_num,type,subjects,issues,call_summary,question_link,selected_answers_link,analysis_file,notes
+2024-07,1,essay,EVD,EVD-MBE-V;EVD-MBE-V.F,fixture call,https://example.org/q,,,
+2025-02,2,essay,EVD;CTR,EVD-MBE-V;CTR-MBE-I.A,fixture call,https://example.org/q,,,
+2025-07,3,essay,CTR,CTR-MBE-I,fixture call,https://example.org/q,,,

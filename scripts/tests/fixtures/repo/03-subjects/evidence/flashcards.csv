@@ -1,0 +1,3 @@
+id,front,back,rule_id,tags
+F-EVD-0001,FIXTURE front: business records?,FIXTURE back text.,R-EVD-001,must-know;hearsay
+F-EVD-0002,FIXTURE front 2,FIXTURE back 2,,should-know

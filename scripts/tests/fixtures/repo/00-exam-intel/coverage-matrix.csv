@@ -1,0 +1,7 @@
+coverage_id,subject_code,subject,source,source_ref,level,parent_id,heading,tested_on,ca_specific,weight_note,target_file,target_heading,mapping_status,source_status,source_id,notes
+EVD-MBE-V,EVD,Evidence,MBE,fixture,category,,Hearsay,MBE;essay,N,,03-subjects/evidence/outline.md,V Hearsay,mapped,confirmed-primary,S-001,
+EVD-MBE-V.F,EVD,Evidence,MBE,fixture,topic,EVD-MBE-V,Business records,MBE;essay,N,,03-subjects/evidence/outline.md,V.F Business records,mapped,confirmed-primary,S-001,
+EVD-SUP-001,EVD,Evidence,SUP,fixture,topic,,FRE vs CEC,essay,Y,,03-subjects/evidence/outline.md,FRE vs CEC,mapped,confirmed-primary,S-001,
+CTR-MBE-I,CTR,Contracts,MBE,fixture,category,,Formation of contracts,MBE;essay,N,,03-subjects/contracts/outline.md,I Formation,planned,confirmed-primary,S-001,
+CTR-MBE-I.A,CTR,Contracts,MBE,fixture,topic,CTR-MBE-I,Mutual assent,MBE;essay,N,,03-subjects/contracts/outline.md,I.A Mutual assent,planned,confirmed-primary,S-001,
+PT-SUP-001,PT,Performance Test,SUP,fixture,topic,,PT method,PT,N,,04-performance-test/method.md,PT method,planned,confirmed-primary,S-001,

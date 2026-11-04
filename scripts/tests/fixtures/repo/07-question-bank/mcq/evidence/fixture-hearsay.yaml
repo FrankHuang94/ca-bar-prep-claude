@@ -1,0 +1,29 @@
+questions:
+  - id: Q-EVD-0001
+    subject: EVD
+    coverage_ids: [EVD-MBE-V.F]
+    rule_ids: [R-EVD-001]
+    difficulty: 2
+    stem: "FIXTURE stem one. This is placeholder text used only to exercise the tooling and is not legal content."
+    call: "FIXTURE call: which option is keyed?"
+    options: {A: "Fixture option A", B: "Fixture option B", C: "Fixture option C", D: "Fixture option D"}
+    answer: B
+    explanation_correct: "FIXTURE explanation for the keyed option, long enough for the schema."
+    explanation_each_wrong_option: {A: "FIXTURE why A is wrong.", C: "FIXTURE why C is wrong.", D: "FIXTURE why D is wrong."}
+    trap_type: confused-rule
+    authority: ["fixture authority"]
+    source: original
+  - id: Q-EVD-0002
+    subject: EVD
+    coverage_ids: [EVD-MBE-V]
+    rule_ids: [R-EVD-002]
+    difficulty: 1
+    stem: "FIXTURE stem two. This is placeholder text used only to exercise the tooling and is not legal content."
+    call: "FIXTURE call: which option is keyed?"
+    options: {A: "Fixture option A2", B: "Fixture option B2", C: "Fixture option C2", D: "Fixture option D2"}
+    answer: D
+    explanation_correct: "FIXTURE explanation for the keyed option, long enough for the schema."
+    explanation_each_wrong_option: {A: "FIXTURE why A is wrong.", B: "FIXTURE why B is wrong.", C: "FIXTURE why C is wrong."}
+    trap_type: missing-element
+    authority: ["fixture authority"]
+    source: original

@@ -1,0 +1,8 @@
+exam: {dates: [2027-07-27, 2027-07-28]}
+targets:
+  cumulative:
+    - {date: 2026-11-09, mcq: 0, essays: 0, pts: 0, simulations: 0}
+    - {date: 2027-07-26, mcq: 2000, essays: 60, pts: 9, simulations: 3}
+benchmarks:
+  - {by: 2027-01-31, mbe_accuracy: 0.55, essay_avg: 55}
+  - {by: 2027-07-20, mbe_accuracy: 0.68, essay_avg: 65}
