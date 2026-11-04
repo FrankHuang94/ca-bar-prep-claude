@@ -75,6 +75,9 @@ def add_past_rows(recs: list[dict]) -> dict:
     for rec in recs:
         for iss in rec.get("issues") or []:
             cid = (iss.get("coverage_id") or "").strip()
+            if rec["type"] == "PT" and (cid.startswith("NEW:") or (cid and cid not in ids)):
+                iss["coverage_id"] = "PT-SUP-002"  # PT Library law is closed-universe, not a subject to learn
+                continue
             if cid.startswith("NEW:") or (cid and cid not in ids):
                 if cid.startswith("NEW:"):
                     _, code, heading = cid.split(":", 2)
@@ -222,7 +225,7 @@ def main() -> int:
             })
         else:
             (pt_dir / fname).write_text(analysis(rec, headings), encoding="utf-8")
-            task = rec.get("pt_task") if rec.get("pt_task") in PT_TASKS else "other"
+            task = rec.get("pt_task") if rec.get("pt_task") in PT_TASKS else ("undetermined" if not rec.get("pt_task") else "other")
             pt_rows.append({
                 "exam": rec["exam"], "pt_id": rec["item"], "title": (rec.get("call") or "")[:120],
                 "task_type": task, "area": rec.get("pt_area") or "",
