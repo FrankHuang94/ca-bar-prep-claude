@@ -1,0 +1,5 @@
+# Python 3.11+ ; install with: pip install -r requirements.txt
+PyYAML>=6.0
+jsonschema>=4.20
+genanki>=0.13
+pytest>=8.0
