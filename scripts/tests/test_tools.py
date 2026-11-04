@@ -102,3 +102,34 @@ def test_dashboard(repo, capsys):
     readme = (repo / "README.md").read_text()
     assert "old" not in readme and "| Days to exam |" in readme
     assert validate.run().errors == []
+
+
+def test_build_weeks(repo, capsys):
+    import build_weeks
+    (repo / "01-study-plan").mkdir(exist_ok=True)
+    (repo / "01-study-plan/schedule.yml").write_text(
+        "weeks:\n"
+        "- {week: 2027-W16, phase: integration, hours: 18, theme: Fixture A, learn: [x], mbe: {n: 60, mix: {EVD: 30, MIX: 30}},"
+        " essays: {n: 2, subjects: [EVD, CTR], mode: timed}, spot: 2, pt: {n: 1, mode: timed}, checkpoint: CP9}\n"
+        "- {week: 2027-W17, phase: intensive, hours: 40, theme: Fixture B, learn: [y], mbe: {n: 200, mix: {MIX: 200}},"
+        " essays: {n: 5, subjects: [MIX], mode: simulation}, spot: 0, pt: {n: 1, mode: simulation},"
+        " sim: {id: SIM-01, days: [Tue, Wed]}, overrides: {Tue: 'SIM day 1', Wed: 'SIM day 2'}}\n")
+    (repo / "01-study-plan/master-plan.md").write_text(
+        "---\nsubject: study-plan\ntopic: Fixture master\ncoverage_ids: []\ntested_on: [none]\n"
+        "exam_frequency: {level: n/a, basis: fixture}\nlast_verified: 2026-11-04\nstatus: draft\n---\n"
+        "# M\n<!-- BEGIN WEEK-TABLE -->\nx\n<!-- END WEEK-TABLE -->\n")
+    assert build_weeks.main(["--force"]) == 0
+    a = (repo / "01-study-plan/weeks/2027-W16.md").read_text()
+    b = (repo / "01-study-plan/weeks/2027-W17.md").read_text()
+    assert "Week 2027-W16 · Mon Apr 19" in a and "`/quiz evidence 30`" in a and "**CP9**" in a
+    assert "200 inside SIM-01 (`/simulate`)" in b and "**SIM day 1**" in b and "/quiz mixed" not in b
+    assert "Cumulative after this week | 58 h · 260 MBE · 7 essays · 2 PTs" in b
+    master = (repo / "01-study-plan/master-plan.md").read_text()
+    assert "[2027-W17](weeks/2027-W17.md)" in master and "**Totals:** 58 hours" in master
+    before = b
+    (repo / "01-study-plan/weeks/2027-W17.md").write_text(before + "\nhand edit\n")
+    assert build_weeks.main([]) == 0  # no --force: existing files untouched
+    assert "hand edit" in (repo / "01-study-plan/weeks/2027-W17.md").read_text()
+    assert build_weeks.main(["--from", "2027-W17"]) == 0
+    assert "hand edit" not in (repo / "01-study-plan/weeks/2027-W17.md").read_text()
+    assert validate.run().errors == []
