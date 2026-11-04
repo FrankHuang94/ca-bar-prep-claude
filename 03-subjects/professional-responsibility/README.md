@@ -3,7 +3,7 @@ subject: PRF
 topic: Professional Responsibility — subject overview (scaffold)
 coverage_ids: []
 tested_on: [essay]
-exam_frequency: {level: n/a, basis: "Set from Phase 3 past-exam frequency analysis"}
+exam_frequency: {level: high, basis: "Essays: 30 of 31 administrations 2012-02 to 2026-07 (97%)"}
 last_verified: 2026-11-04
 status: draft
 ---
@@ -18,6 +18,7 @@ status: draft
 | Code | `PRF` (rule IDs `R-PRF-###`) |
 | How tested | Essays only (not on the MBE) |
 | Governing law on essays | California Rules of Professional Conduct, relevant Business & Professions Code sections and leading case law [S-082]; ABA Model Rules also referenced [VERIFY V-022]. PR issues can appear in any essay [S-082]. |
+| Essay frequency | 30 of 31 past administrations (97%) — `06-past-exams/frequency-analysis.md` |
 | Coverage-matrix rows | 18 (CBX 11, SUP 7) — see `00-exam-intel/coverage-matrix.csv` |
 | Your coursework | In progress — Fall 2026 (Professional Responsibility) |
 

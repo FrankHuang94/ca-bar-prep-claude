@@ -3,7 +3,7 @@ subject: WIL
 topic: Wills and Succession — subject overview (scaffold)
 coverage_ids: []
 tested_on: [essay]
-exam_frequency: {level: n/a, basis: "Set from Phase 3 past-exam frequency analysis"}
+exam_frequency: {level: med, basis: "Essays: 13 of 31 administrations 2012-02 to 2026-07 (42%)"}
 last_verified: 2026-11-04
 status: draft
 ---
@@ -18,6 +18,7 @@ status: draft
 | Code | `WIL` (rule IDs `R-WIL-###`) |
 | How tested | Essays only (not on the MBE) |
 | Governing law on essays | California Probate Code — the State Bar outline is keyed to Probate Code sections [S-094]. |
+| Essay frequency | 13 of 31 past administrations (42%) — `06-past-exams/frequency-analysis.md` |
 | Coverage-matrix rows | 41 (CBX 34, SUP 7) — see `00-exam-intel/coverage-matrix.csv` |
 | Your coursework | In progress — Fall 2026 (Trusts & Estates) |
 

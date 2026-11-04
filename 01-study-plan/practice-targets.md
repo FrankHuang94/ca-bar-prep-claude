@@ -37,7 +37,7 @@ Your example ranges assumed about 750 hours. With roughly 450 more hours, the pl
 
 **Essays: 109 timed (about 8 per subject)**
 - Under the Feb 2026 formula, passing with an MBE at about 1390 needs a written average of about **62.8 per graded unit** [S-011] (`00-exam-intel/format-and-scoring.md`).
-- Eight per subject lets each subject's recurring issues (Phase 3 frequency data) come up several times. About a fifth of the slots are crossovers, plus "weakest subject" slots chosen by the dashboard.
+- About 8 per subject on average, weighted by Phase 3 frequency: PR gets the most (11 slots plus crossovers), because it appeared on 30 of 31 exams. The rest are crossover and "weakest subject" slots chosen by the dashboard.
 - **A timed essay fits a weeknight:** 60 minutes plus 30 minutes of grading.
 
 **Issue spotting: 74 drills**
@@ -59,11 +59,13 @@ Your example ranges assumed about 750 hours. With roughly 450 more hours, the pl
 | CP5 | Jul 11 | 1,131 | 3,040 | 104 | 17 | 67 | 3 |
 | Exam | Jul 26 | 1,202 | 3,140 | 109 | 17 | 74 | 3 |
 
-**Essay slots by subject** (non-simulation weeks). Phase 3 frequency data will re-weight the WEAK/MIX/crossover slots:
+**Essay slots by subject** (non-simulation weeks). Re-weighted after the Phase 3 frequency analysis: PR was on 30 of 31 exams; CP, Contracts, Remedies, Crim and Evidence on about half (`06-past-exams/frequency-analysis.md`).
 
-| CTR | CIV | CMP | EVD | PRP | CRM | TRT | BUS | CON | WIL | REM | PRF | TRS | Crossover | Weakest | Mixed |
+| PRF | CTR | CMP | CIV | REM | CRM | EVD | BUS | PRP | CON | WIL | TRT | TRS | Crossover | Weakest | Mixed |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| 9 | 7 | 5 | 5 | 5 | 4 | 4 | 4 | 3 | 3 | 2 | 2 | 2 | 18 | 9 | 5 |
+| 11 | 8 | 7 | 6 | 6 | 5 | 5 | 5 | 4 | 3 | 3 | 3 | 2 | 8 | 7 | 4 |
+
+Wills and Trusts are usually tested together (Wills + Trusts was the most common crossover, 6 times), so treat their 5 slots as one unit. Many crossover and "weakest" slots will also carry PR.
 
 The simulation weeks add 22 more: 15 in the simulations and 7 on the weeknights before them.
 

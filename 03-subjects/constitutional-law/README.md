@@ -3,7 +3,7 @@ subject: CON
 topic: Constitutional Law — subject overview (scaffold)
 coverage_ids: []
 tested_on: [MBE, essay]
-exam_frequency: {level: n/a, basis: "Set from Phase 3 past-exam frequency analysis"}
+exam_frequency: {level: high, basis: "Essays: 13 of 31 administrations 2012-02 to 2026-07 (42%); MBE: 25 scored questions every exam"}
 last_verified: 2026-11-04
 status: draft
 ---
@@ -18,6 +18,7 @@ status: draft
 | Code | `CON` (rule IDs `R-CON-###`) |
 | How tested | MBE (25 scored questions of 175 [S-007]) **and** essays |
 | Governing law on essays | General principles unless the call asks for California law [S-077]. |
+| Essay frequency | 13 of 31 past administrations (42%) — `06-past-exams/frequency-analysis.md` |
 | Coverage-matrix rows | 68 (MBE 60, CBX 7, SUP 1) — see `00-exam-intel/coverage-matrix.csv` |
 | Your coursework | No coursework yet |
 

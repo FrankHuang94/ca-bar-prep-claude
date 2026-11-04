@@ -3,7 +3,7 @@ subject: BUS
 topic: Business Associations — subject overview (scaffold)
 coverage_ids: []
 tested_on: [essay]
-exam_frequency: {level: n/a, basis: "Set from Phase 3 past-exam frequency analysis"}
+exam_frequency: {level: high, basis: "Essays: 14 of 31 administrations 2012-02 to 2026-07 (45%)"}
 last_verified: 2026-11-04
 status: draft
 ---
@@ -18,6 +18,7 @@ status: draft
 | Code | `BUS` (rule IDs `R-BUS-###`) |
 | How tested | Essays only (not on the MBE) |
 | Governing law on essays | General principles unless the call asks for California law [S-077]. |
+| Essay frequency | 14 of 31 past administrations (45%) — `06-past-exams/frequency-analysis.md` |
 | Coverage-matrix rows | 12 (CBX 12) — see `00-exam-intel/coverage-matrix.csv` |
 | Your coursework | Completed (Corporations) |
 

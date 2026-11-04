@@ -3,7 +3,7 @@ subject: PRP
 topic: Real Property — subject overview (scaffold)
 coverage_ids: []
 tested_on: [MBE, essay]
-exam_frequency: {level: n/a, basis: "Set from Phase 3 past-exam frequency analysis"}
+exam_frequency: {level: high, basis: "Essays: 13 of 31 administrations 2012-02 to 2026-07 (42%); MBE: 25 scored questions every exam"}
 last_verified: 2026-11-04
 status: draft
 ---
@@ -18,6 +18,7 @@ status: draft
 | Code | `PRP` (rule IDs `R-PRP-###`) |
 | How tested | MBE (25 scored questions of 175 [S-007]) **and** essays |
 | Governing law on essays | General principles unless the call asks for California law [S-077]. |
+| Essay frequency | 13 of 31 past administrations (42%) — `06-past-exams/frequency-analysis.md` |
 | Coverage-matrix rows | 104 (MBE 97, CBX 7) — see `00-exam-intel/coverage-matrix.csv` |
 | Your coursework | Completed (Property) |
 

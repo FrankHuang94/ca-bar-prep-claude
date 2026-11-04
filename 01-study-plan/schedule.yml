@@ -6,7 +6,8 @@
 # Fields: week (ISO), phase, hours (target), theme, learn [..], reinforce [..],
 #   mbe {n, mix {CODE: n}}, essays {n, subjects [..], mode untimed|timed}, spot n, pt {n, mode},
 #   sim {id, days}, checkpoint (CP id), buffer (bool), overrides {Mon..Sun: text}, notes.
-# Subject codes: BUS CIV CMP CON CTR CRM EVD PRF PRP REM TRT WIL TRS. Coverage prefixes like CTR-MBE-I
+# Subject codes: BUS CIV CMP CON CTR CRM EVD PRF PRP REM TRT WIL TRS.
+# Essay slots re-weighted after Phase 3: PR appeared on 30/31 exams (2012–2026); CP, Contracts, Remedies, Crim, Evidence on ~half. Coverage prefixes like CTR-MBE-I
 # work with `/quiz <subject> <n> <difficulty> <subtopic>`.
 
 weeks:
@@ -225,7 +226,7 @@ weeks:
   learn: ["Professional Responsibility: California Rules of Professional Conduct and Bus. & Prof. Code vs ABA Model Rules [PRF-CBX, PRF-SUP]"]
   reinforce: ["MPRE: 6 h (ABA Model Rules emphasis)"]
   mbe: {n: 80, mix: {EVD: 25, CTR: 30, TRT: 25}}
-  essays: {n: 2, subjects: [PRF, XO], mode: timed}
+  essays: {n: 2, subjects: [PRF, PRF], mode: timed}
   spot: 2
   pt: {n: 0}
   notes: "Around Mar 1: the July 2027 exam application should open (estimate). File the moral character application by now."
@@ -313,7 +314,7 @@ weeks:
   learn: ["Crossover organization: 08-high-yield/crossover-guide (when built) and essay-method §crossovers; second pass on the California trio"]
   reinforce: ["Memorization: Contracts, Remedies, CP, Wills, Trusts attack outlines"]
   mbe: {n: 100, mix: {MIX: 100}}
-  essays: {n: 4, subjects: [XO, XO, CMP, WIL], mode: timed}
+  essays: {n: 4, subjects: [PRF, XO, CMP, WIL], mode: timed}
   spot: 3
   pt: {n: 1, mode: timed}
 
@@ -324,7 +325,7 @@ weeks:
   learn: ["Second pass on the next two weakest subjects; Torts and Real Property essay technique"]
   reinforce: ["Book PTO for exam week (Mon Jul 26 – Thu Jul 29); ask for a light workload in July if your role allows"]
   mbe: {n: 100, mix: {TRT: 30, PRP: 30, MIX: 40}}
-  essays: {n: 4, subjects: [TRT, PRP, WEAK, XO], mode: timed}
+  essays: {n: 4, subjects: [TRT, PRP, PRF, REM], mode: timed}
   spot: 3
   pt: {n: 1, mode: timed}
   checkpoint: CP3
@@ -351,7 +352,7 @@ weeks:
   learn: ["Second pass Contracts (all categories, UCC Art. 2 emphasis) + Remedies; Contracts + Remedies crossovers [CTR-MBE, REM-CBX]"]
   reinforce: ["Memorization cycle: Contracts and Remedies attack outlines"]
   mbe: {n: 90, mix: {CTR: 40, MIX: 50}}
-  essays: {n: 4, subjects: [CTR, REM, XO, CTR], mode: timed}
+  essays: {n: 4, subjects: [CTR, REM, XO, REM], mode: timed}
   spot: 2
   pt: {n: 1, mode: timed}
 
@@ -362,7 +363,7 @@ weeks:
   learn: ["Second pass Civil Procedure (FRCP + CCP) and Evidence (FRE + CEC) [CIV-MBE, CIV-SUP, EVD-MBE, EVD-SUP]"]
   reinforce: ["Memorization cycle: Civ Pro and Evidence"]
   mbe: {n: 100, mix: {CIV: 35, EVD: 35, MIX: 30}}
-  essays: {n: 5, subjects: [CIV, EVD, XO, CTR, EVD], mode: timed}
+  essays: {n: 5, subjects: [CIV, EVD, PRF, CTR, EVD], mode: timed}
   spot: 3
   pt: {n: 1, mode: timed}
 
@@ -373,7 +374,7 @@ weeks:
   learn: ["Second pass Constitutional Law and Criminal Law & Procedure; Evidence + Crim Pro crossovers [CON-MBE, CRM-MBE]"]
   reinforce: ["Memorization cycle: Con Law and Crim"]
   mbe: {n: 100, mix: {CON: 35, CRM: 35, MIX: 30}}
-  essays: {n: 5, subjects: [CON, CRM, XO, EVD, CIV], mode: timed}
+  essays: {n: 5, subjects: [CON, CRM, PRF, EVD, CRM], mode: timed}
   spot: 3
   pt: {n: 1, mode: timed}
 
@@ -384,7 +385,7 @@ weeks:
   learn: ["Second pass Community Property, Wills and Succession, Trusts; CP + Wills and Wills + Trusts crossovers [CMP-CBX, WIL-CBX, TRS-CBX]"]
   reinforce: ["Memorization cycle: CP, Wills, Trusts"]
   mbe: {n: 90, mix: {MIX: 90}}
-  essays: {n: 5, subjects: [CMP, WIL, TRS, XO, XO], mode: timed}
+  essays: {n: 5, subjects: [CMP, WIL, TRS, CMP, PRF], mode: timed}
   spot: 3
   pt: {n: 1, mode: timed}
   notes: "Memorial Day Monday: use it as an extra long block (second-pass reading)."
@@ -396,7 +397,7 @@ weeks:
   learn: ["Second pass Torts and Real Property (largest MBE pair: 50 of 175 scored) [TRT-MBE, PRP-MBE]"]
   reinforce: ["Memorization cycle: Torts and Property"]
   mbe: {n: 100, mix: {TRT: 35, PRP: 35, MIX: 30}}
-  essays: {n: 5, subjects: [TRT, PRP, XO, TRT, PRP], mode: timed}
+  essays: {n: 5, subjects: [TRT, PRP, PRF, REM, BUS], mode: timed}
   spot: 3
   pt: {n: 1, mode: timed}
 
@@ -422,7 +423,7 @@ weeks:
   learn: ["Mon–Tue evenings: full SIM-02 review (/simulate scoring, /weak-spots); re-plan W25–W27", "Third pass on the 3–4 weakest subjects per the dashboard; crossover practice"]
   reinforce: ["Memorization cycle: all attack outlines (cycle 1 of 3)"]
   mbe: {n: 90, mix: {MIX: 90}}
-  essays: {n: 4, subjects: [XO, WEAK, WEAK, WEAK], mode: timed}
+  essays: {n: 4, subjects: [PRF, WEAK, WEAK, REM], mode: timed}
   spot: 3
   pt: {n: 1, mode: timed}
 
@@ -433,7 +434,7 @@ weeks:
   learn: ["Remaining weak areas; rule-statement drills across all 13 subjects"]
   reinforce: ["Memorization cycle 2 of 3"]
   mbe: {n: 90, mix: {MIX: 90}}
-  essays: {n: 5, subjects: [XO, WEAK, WEAK, MIX, MIX], mode: timed}
+  essays: {n: 5, subjects: [PRF, WEAK, WEAK, CMP, MIX], mode: timed}
   spot: 3
   pt: {n: 1, mode: timed}
 
