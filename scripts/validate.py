@@ -452,8 +452,8 @@ def check_csvs(rep: Report, matrix_ids: set[str]) -> None:
     if path.exists() and C.csv_header(path) == C.PAST_INDEX_COLUMNS:
         for i, r in enumerate(C.read_csv(path), start=2):
             loc = f"{C.PAST_INDEX_REL}:{i}"
-            if not re.fullmatch(r"\d{4}-(02|07|10)", r["exam"]):
-                rep.error(f"{loc}: exam must be YYYY-02, YYYY-07 (or 2020-10)")
+            if not re.fullmatch(r"\d{4}-(02|03|07|10)", r["exam"]):
+                rep.error(f"{loc}: exam must be YYYY-02 or YYYY-07 (special sittings: 2020-10, 2025-03)")
             for s in C.split_list(r["subjects"]):
                 if s not in C.SUBJECTS:
                     rep.error(f"{loc}: unknown subject code {s}")
