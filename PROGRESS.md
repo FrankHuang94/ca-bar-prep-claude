@@ -33,23 +33,43 @@
   - `master-plan.md`: phases, Gantt, leave options, rhythms, repo-build dependency, risks;
   - `practice-targets.md`: totals and justification, checkpoints CP1–CP5, go/adjust/escalate rules;
   - `spaced-repetition.md`.
-- **`config/plan.yml`:** finalized phases, leave (proposed May 17), targets and benchmarks aligned to the schedule.
-- **Totals:** ≈ 755 h · 2,170 MBE · 68 essays · 53 `/spot` drills · 12 PTs · 3 simulations.
+- **`config/plan.yml`:** finalized phases, no leave (PTO for exam week only), targets and benchmarks aligned to the schedule.
+- **Totals:** ≈ 754 h · 2,210 MBE · 75 essays · 52 `/spot` drills · 12 PTs · 3 simulations (all on weekends).
 - **New sources and verify items:** S-140–S-150 and S-160; V-040–V-044, V-050–V-058 and V-060.
 
+## Rework with the user's inputs (2026-11-04)
+
+**Inputs**
+1. Passed the PRC national exam but holds no practice license → **Route B, general applicant**.
+2. Cardozo confirmed July 2027 eligibility; the final term ends **May or June 2027**.
+3. **No study leave.** Capacity is 3–4 h every weekday + about 20 h on weekends.
+4. Keep the agreed build order; the whole repo is being built now.
+
+**Changes**
+- **Phase 0:**
+  - `admissions-checklist.md` rewritten for Route B only: general-applicant fees, a transcript-timing risk, and exam-week PTO.
+  - V-012 and V-014 resolved; V-015 re-scoped to transcript timing.
+  - `exam-day-logistics.md` fixed.
+- **Phase 1:**
+  - `CLAUDE.md` profile updated.
+  - `config/plan.yml`: `leave: []`, new `pto:`, LL.M. end date.
+  - `build_weeks.py`: new "evenings" day pattern (3.5 h weeknights + ~10 h weekend days).
+- **Phase 2:**
+  - Intensive and final weeks rebuilt for working full-time: timed essays on weeknights; PTs, long MBE sets and all simulations on weekends.
+  - SIM-02 moved to Sat–Sun Jun 19–20 and SIM-03 to Sat–Sun Jul 10–11.
+  - `master-plan.md` §4 is now "Making 35–40 h/week work without leave": PTO plan, cut order, sustainability.
+  - `practice-targets.md` totals recomputed; `time-management.md` B4 rewritten.
+
 ## Decisions waiting on the user
-1. **Eligibility route (V-012).** PRC **lawyer's practice license (律师执业证)** in good standing, or only the **qualification certificate (法律职业资格证书)**?
-2. **LLM end date (V-015).** Cardozo final-term end date and transcript timing. The State Bar must receive a sealed transcript by ≈ July 13, 2027.
-3. **Online LLM (V-014).** Written eligibility determination from the Office of Admissions.
-4. **Study leave.** Option A (May 3), **B (May 17, baseline)** or C (Jun 1) — see `01-study-plan/master-plan.md` §4. Request it from your employer by ~Feb 15, 2027.
-5. **Plan assumptions** (`master-plan.md` §8):
+1. **Capacity timing.** Does the 3–4 h/weekday + 20 h/weekend capacity apply **now** (foundation) or only from May? The plan currently assumes from May.
+2. **Transcript timing (V-015).** Ask Cardozo when the final transcript issues after the May/June term. It must arrive at the State Bar by about Jul 13.
+3. **Plan assumptions** (`master-plan.md` §8):
    - Fall finals week (assumed W51);
-   - 2027 LL.M. term dates;
-   - realistic weekday and weekend hours;
+   - 2027 LL.M. courses;
    - travel and blackouts;
-   - whether you'll buy licensed NCBE practice questions.
-6. **Build order.** Contracts study starts now (W46), but its repo content arrives in Phase 4, after Phase 3. Option: build **Contracts first**, right after Phase 3 or even before it. This deviates from the agreed phase order, so it is your call.
-7. **Network access.** Still blocked (calbar.ca.gov, ncbex.org, leginfo, courts.ca.gov, law.cornell.edu, supremecourt.gov, uscourts.gov, americanbar.org).
+   - whether you'll buy licensed NCBE practice questions;
+   - which optional PTO days are possible.
+4. **Network access.** Still blocked (calbar.ca.gov, ncbex.org, leginfo, courts.ca.gov, law.cornell.edu, supremecourt.gov, uscourts.gov, americanbar.org).
 
 ## Next (Phase 3 plan): past exams
 - **Index every published California essay and PT.** The Past Exams page covers Feb 2012 → July 2026; older files go back to July 2001 [S-079].
