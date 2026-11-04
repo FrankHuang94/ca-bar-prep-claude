@@ -1,0 +1,212 @@
+# Civil Procedure — NCBE category VI: Verdicts and judgments (wave 1, original items)
+questions:
+- id: Q-CIV-0043
+  subject: CIV
+  coverage_ids: [CIV-MBE-VI.A]
+  rule_ids: [R-CIV-075, R-CIV-094]
+  difficulty: 2
+  stem: >-
+    Brandt sued Corwin in federal court for breach of contract. Over eight months, Brandt ignored three
+    court orders to respond to Corwin's discovery requests and failed to appear at two status
+    conferences, despite written warnings that further noncompliance could lead to dismissal. On
+    Corwin's motion, the court dismissed the action under Rule 41(b). Its order did not say whether the
+    dismissal was with or without prejudice. Brandt then refiled the same claim in the same federal
+    court.
+  call: "What is the effect of the first dismissal on Brandt's new action?"
+  options:
+    A: "The new action may proceed, because a dismissal that does not state that it is with prejudice is without prejudice."
+    B: "The new action may proceed, because the first action was never decided on its merits by a judge or jury."
+    C: "The new action is barred, because a dismissal under Rule 41(b) operates as an adjudication on the merits unless the order states otherwise."
+    D: "The new action is barred only if Corwin had served an answer before the dismissal."
+  answer: C
+  explanation_correct: >-
+    If a plaintiff fails to prosecute or to comply with the rules or a court order, a defendant may move
+    to dismiss under Rule 41(b), and unless the order states otherwise, the dismissal operates as an
+    adjudication on the merits (R-CIV-075). At a minimum, that bars refiling the same claim in the same
+    federal court (Semtek), so claim preclusion applies (R-CIV-094). Trap: carrying over the
+    without-prejudice default that governs voluntary dismissals under Rule 41(a).
+  explanation_each_wrong_option:
+    A: >-
+      That default belongs to voluntary dismissals under Rule 41(a). For involuntary dismissals under
+      Rule 41(b), the default is the opposite.
+    B: >-
+      "Adjudication on the merits" in Rule 41(b) does not require a trial; a dismissal for failure to
+      prosecute or obey orders counts.
+    D: >-
+      Whether an answer was served matters to voluntary dismissal by notice under Rule 41(a), not to an
+      involuntary dismissal under Rule 41(b).
+  trap_type: confused-rule
+  authority: ["FRCP 41(b)", "Semtek Int'l Inc. v. Lockheed Martin Corp., 531 U.S. 497 (2001)"]
+  source: original
+  tags: [wave1, M1, involuntary-dismissal]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CIV-0044
+  subject: CIV
+  coverage_ids: [CIV-MBE-VI.B]
+  rule_ids: [R-CIV-091]
+  difficulty: 3
+  stem: >-
+    In a federal negligence action governed by a State's modified comparative-fault law, under which a
+    plaintiff who is more than 50% at fault recovers nothing, the court submitted a general verdict form
+    together with written questions. The jury's answers, which are consistent with each other, found
+    the plaintiff 65% at fault and the defendant 35% at fault. Its general verdict, however, awarded the
+    plaintiff $200,000. The jury has not yet been discharged.
+  call: "Which of the following may the court do?"
+  options:
+    A: "Enter judgment for the defendant in accordance with the answers, direct the jury to further consider its answers and verdict, or order a new trial."
+    B: "Enter judgment for the plaintiff on the general verdict, because a general verdict controls over answers to written questions."
+    C: "Enter judgment for the plaintiff for $70,000, reducing the general verdict by 65%."
+    D: "Only order a new trial, because a court may never enter judgment when the answers and the general verdict are inconsistent."
+  answer: A
+  explanation_correct: >-
+    When the answers to written questions are consistent with each other but one or more is
+    inconsistent with the general verdict, Rule 49(b)(3) allows the court to approve an appropriate
+    judgment according to the answers, notwithstanding the general verdict; to direct the jury to
+    further consider its answers and verdict; or to order a new trial (R-CIV-091). Under the governing
+    law, a 65%-at-fault plaintiff recovers nothing, so a judgment on the answers would be for the
+    defendant. Only if the answers were also inconsistent with each other would the court be barred from
+    entering judgment (49(b)(4)). Trap: confusing the two inconsistency rules.
+  explanation_each_wrong_option:
+    B: >-
+      Rule 49(b)(3) gives the answers priority as one option; the general verdict does not control.
+    C: >-
+      Pure comparative-fault arithmetic does not apply under the governing modified rule, and the court
+      may not rewrite the verdict this way.
+    D: >-
+      Overbroad. The ban on entering judgment applies under 49(b)(4) when the answers are inconsistent
+      with each other; here they are consistent.
+  trap_type: overbroad
+  authority: ["FRCP 49(b)(3)-(4)"]
+  source: original
+  tags: [wave1, M1, verdicts, inconsistent-verdict]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CIV-0045
+  subject: CIV
+  coverage_ids: [CIV-MBE-VI.D]
+  rule_ids: [R-CIV-094, R-CIV-095]
+  difficulty: 1
+  stem: >-
+    A roofing contractor installed a new roof on Whelan's house, and it leaked. Whelan sued the
+    contractor in federal court for breach of contract, seeking the cost of re-roofing. After a trial,
+    the court entered a final judgment for the contractor, finding that the roof met the contract's
+    specifications. Whelan then sued the contractor in federal court for negligence, seeking damages for
+    water damage to her furniture and floors caused by the same leaks.
+  call: "What is the effect of the first judgment on the second action?"
+  options:
+    A: "The second action may proceed, because it asserts a different legal theory."
+    B: "The second action may proceed, because it seeks damages for different property."
+    C: "The second action is barred only if negligence was actually litigated and decided in the first action."
+    D: "The second action is barred, because it arises from the same transaction as the first action, which ended in a valid final judgment on the merits between the same parties."
+  answer: D
+  explanation_correct: >-
+    Claim preclusion bars the same parties from relitigating the same claim after a valid final
+    judgment on the merits, and "claim" includes every theory and form of relief arising from the same
+    transaction or series of connected transactions, whether or not it was raised (R-CIV-094;
+    Restatement (Second) of Judgments § 24). The leaking roof is one transaction; Whelan should have
+    sought all her damages, on every theory, in the first suit. Trap: confusing claim preclusion's
+    "could have been raised" with issue preclusion's "actually litigated."
+  explanation_each_wrong_option:
+    A: >-
+      Under the transactional test, a new legal theory arising from the same facts is the same claim.
+    B: >-
+      Different items of damage from the same transaction are part of the same claim and must be sought
+      together.
+    C: >-
+      "Actually litigated" is an element of issue preclusion (R-CIV-095), not claim preclusion, which
+      bars matters that could have been raised.
+  trap_type: confused-rule
+  authority: ["Restatement (Second) of Judgments §§ 19, 24", "Federated Department Stores, Inc. v. Moitie, 452 U.S. 394 (1981)"]
+  source: original
+  tags: [wave1, M1, claim-preclusion]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CIV-0046
+  subject: CIV
+  coverage_ids: [CIV-MBE-VI.D]
+  rule_ids: [R-CIV-095, R-CIV-094, R-CIV-052]
+  difficulty: 2
+  stem: >-
+    Calder Bank sued Owens in federal court to recover $80,000 in missed installments on a promissory
+    note payable in monthly installments; the note has no acceleration clause. Owens never appeared or
+    filed any pleading, and the court entered a default judgment for the bank. When later installments
+    came due and went unpaid, the bank brought a second federal action against Owens for those
+    installments, totaling $90,000. Owens now defends on the ground that the note was procured by fraud
+    and is unenforceable. The bank argues that the first judgment conclusively established the note's
+    validity.
+  call: "Is Owens precluded from contesting the validity of the note in the second action?"
+  options:
+    A: "No, because the validity of the note was not actually litigated in the first action, so issue preclusion does not apply."
+    B: "Yes, because a default judgment is a final judgment on the merits that precludes relitigation of every issue that could have been raised."
+    C: "Yes, because Owens's fraud defense was a compulsory counterclaim that she failed to assert in the first action."
+    D: "No, because a default judgment has no preclusive effect of any kind."
+  answer: A
+  explanation_correct: >-
+    The later installments are a different claim, because they had not come due when the first suit was
+    filed, so the question is issue preclusion. Issue preclusion requires that the issue have been
+    actually litigated and determined and essential to the judgment (R-CIV-095). Issues resolved by
+    default are not actually litigated, so the default judgment does not prevent Owens from contesting
+    the note's validity in the new action. The default judgment does bind as to the first $80,000 (claim
+    preclusion, R-CIV-094). Trap: merging claim preclusion's "could have been raised" into issue
+    preclusion.
+  explanation_each_wrong_option:
+    B: >-
+      A default judgment is on the merits for claim preclusion, which bars relitigating the same claim;
+      it does not preclude issues in a later suit on a different claim.
+    C: >-
+      Rule 13(a) applies only to a party that serves a pleading (R-CIV-052); Owens filed none. And she
+      raises fraud as a defense to a new claim.
+    D: >-
+      Overbroad. A default judgment has full claim-preclusive effect on the claim it decided.
+  trap_type: confused-rule
+  authority: ["Restatement (Second) of Judgments § 27 & cmt. e", "FRCP 13(a)"]
+  source: original
+  tags: [wave1, M1, issue-preclusion, default]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CIV-0047
+  subject: CIV
+  coverage_ids: [CIV-MBE-VI.D]
+  rule_ids: [R-CIV-096, R-CIV-095]
+  difficulty: 3
+  stem: >-
+    A tour bus operated by Coastal Lines crashed, injuring many passengers. Passenger Abara sued Coastal
+    in federal court; after a full trial in which Coastal vigorously defended, the jury found that
+    Coastal's driver was negligent, and judgment was entered for Abara. Passenger Brennan, who knew
+    about Abara's suit from the start and had been invited to join it, deliberately waited to see its
+    outcome before filing her own federal action against Coastal. Brennan now moves for partial summary
+    judgment, asking the court to preclude Coastal from relitigating its driver's negligence.
+  call: "How is the court most likely to rule?"
+  options:
+    A: "Grant the motion, because Coastal had a full and fair opportunity to litigate negligence in Abara's suit."
+    B: "Deny the motion, because Brennan was not a party to Abara's suit, and issue preclusion requires mutuality of parties."
+    C: "Deny the motion, because offensive non-mutual issue preclusion is discretionary, and Brennan could easily have joined Abara's action but chose to wait and see."
+    D: "Grant the motion, because offensive non-mutual issue preclusion is mandatory whenever the issue was actually litigated and essential to the judgment."
+  answer: C
+  explanation_correct: >-
+    Mutuality is no longer required, but offensive non-mutual issue preclusion, a new plaintiff using a
+    finding against a defendant who lost it, lies in the trial court's discretion (R-CIV-096; Parklane
+    Hosiery Co. v. Shore). Courts deny it where the plaintiff could easily have joined the earlier action,
+    because allowing it would reward wait-and-see plaintiffs who get the benefit of a win without risk
+    of a loss. Brennan knew of the suit, was invited to join, and deliberately waited. Trap: the right
+    result for the wrong reason (mutuality).
+  explanation_each_wrong_option:
+    A: >-
+      A full and fair opportunity is necessary but not sufficient for offensive non-mutual use; the
+      Parklane fairness factors must also be weighed, and the wait-and-see factor cuts against Brennan.
+    B: >-
+      Right result, wrong reason. Federal courts have abandoned strict mutuality; the denial rests on
+      Parklane's discretionary factors.
+    D: >-
+      Offensive non-mutual preclusion is discretionary, not mandatory.
+  trap_type: right-result-wrong-reason
+  authority: ["Parklane Hosiery Co. v. Shore, 439 U.S. 322 (1979)", "Blonder-Tongue Laboratories, Inc. v. University of Illinois Foundation, 402 U.S. 313 (1971)"]
+  source: original
+  tags: [wave1, M1, issue-preclusion, non-mutual]
+  status: draft
+  last_verified: 2026-11-04

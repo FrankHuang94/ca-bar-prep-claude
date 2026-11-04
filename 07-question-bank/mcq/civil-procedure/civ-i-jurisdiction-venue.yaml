@@ -1,0 +1,633 @@
+# Civil Procedure — NCBE category I: Jurisdiction and venue (wave 1, original items; federal law only)
+questions:
+- id: Q-CIV-0001
+  subject: CIV
+  coverage_ids: [CIV-MBE-I.A]
+  rule_ids: [R-CIV-006, R-CIV-004]
+  difficulty: 1
+  stem: >-
+    Pell, a citizen of Arizona, sued Corvex Inc. in federal district court in Arizona, seeking $500,000
+    in damages for breach of a state-law contract. Corvex is incorporated in Delaware. Its executive
+    officers direct, control and coordinate its operations from its headquarters in Denver, Colorado.
+    Most of Corvex's employees and its largest factory are in Phoenix, Arizona, and 60% of its revenue
+    comes from Arizona sales. Corvex moved to dismiss for lack of subject-matter jurisdiction.
+  call: "How should the court rule on the motion?"
+  options:
+    A: "Grant it, because Corvex's principal place of business is Arizona, where most of its employees and operations are located."
+    B: "Grant it, because Corvex does substantial business in Arizona and is therefore an Arizona citizen."
+    C: "Deny it, because Corvex is a citizen only of Delaware and Colorado, so the parties are completely diverse."
+    D: "Deny it, because a corporation is a citizen only of the State in which it is incorporated."
+  answer: C
+  explanation_correct: >-
+    A corporation is a citizen of every State where it is incorporated and of the State where it has
+    its principal place of business (28 U.S.C. § 1332(c)(1)). The principal place of business is the
+    "nerve center," where high-level officers direct and control the business, normally the actual
+    headquarters (Hertz Corp. v. Friend; R-CIV-006). Corvex is a citizen of Delaware and Colorado only,
+    so it is diverse from Pell (Arizona), and $500,000 exceeds $75,000 (R-CIV-004). Trap: locating the
+    principal place of business where the employees, plants or sales are.
+  explanation_each_wrong_option:
+    A: >-
+      Uses a business-activities test that Hertz rejected. The nerve center, not the location of most
+      operations, is the principal place of business.
+    B: >-
+      Doing business in a State, however substantial, does not make a corporation a citizen of that
+      State for diversity purposes.
+    D: >-
+      Right result, wrong reason. Section 1332(c)(1) also makes a corporation a citizen of the State of
+      its principal place of business.
+  trap_type: confused-rule
+  authority: ["28 U.S.C. § 1332(a)(1), (c)(1)", "Hertz Corp. v. Friend, 559 U.S. 77 (2010)"]
+  source: original
+  tags: [wave1, M1, diversity, corporate-citizenship]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CIV-0002
+  subject: CIV
+  coverage_ids: [CIV-MBE-I.A]
+  rule_ids: [R-CIV-008, R-CIV-011]
+  difficulty: 2
+  stem: >-
+    Abbott and Baines, both citizens of Ohio, were injured when a bus operated by Transco crashed.
+    Transco is incorporated in Indiana and has its headquarters there. Abbott and Baines joined as
+    plaintiffs in a single complaint against Transco in federal court in Ohio, alleging negligence
+    under state law. Abbott seeks $60,000 for her injuries; Baines seeks $50,000 for his. No federal
+    claim is asserted. Transco moved to dismiss for lack of subject-matter jurisdiction.
+  call: "How should the court rule on the motion?"
+  options:
+    A: "Grant it, because neither plaintiff's claim exceeds $75,000, and the separate claims of different plaintiffs cannot be aggregated."
+    B: "Deny it, because the plaintiffs' claims arise from the same accident and together exceed $75,000."
+    C: "Deny it, because Abbott's claim anchors jurisdiction, and Baines's claim falls within supplemental jurisdiction."
+    D: "Grant it only as to Baines, because Abbott's claim is the larger of the two."
+  answer: A
+  explanation_correct: >-
+    Diversity jurisdiction requires that the amount in controversy exceed $75,000 (R-CIV-008). A single
+    plaintiff may aggregate claims against a single defendant, but separate and distinct claims of
+    multiple plaintiffs may not be added together (Snyder v. Harris). Under Exxon Mobil (R-CIV-011),
+    supplemental jurisdiction can cover a co-plaintiff's small claim only if at least one plaintiff's
+    claim independently exceeds $75,000. Neither $60,000 nor $50,000 does, so there is no anchor claim.
+    Trap: adding co-plaintiffs' claims together.
+  explanation_each_wrong_option:
+    B: >-
+      Aggregation across plaintiffs is not allowed for separate claims, even when they arise from one
+      accident.
+    C: >-
+      Abbott's $60,000 claim is itself below the threshold, so it cannot anchor supplemental
+      jurisdiction for Baines.
+    D: >-
+      Abbott's claim does not exceed $75,000 either; being the larger claim is irrelevant.
+  trap_type: confused-rule
+  authority: ["28 U.S.C. § 1332(a)", "Snyder v. Harris, 394 U.S. 332 (1969)", "Exxon Mobil Corp. v. Allapattah Services, Inc., 545 U.S. 546 (2005)"]
+  source: original
+  tags: [wave1, M1, diversity, amount-in-controversy]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CIV-0003
+  subject: CIV
+  coverage_ids: [CIV-MBE-I.A]
+  rule_ids: [R-CIV-002, R-CIV-001]
+  difficulty: 1
+  stem: >-
+    Rivas, a citizen of Texas, sued Gulfline Corp., also a Texas citizen, in federal court in Texas for
+    breach of a state-law contract to supply natural gas, seeking $2 million. Her complaint alleged
+    that Gulfline would likely defend by asserting that a federal energy statute excused its
+    performance, and that this defense would be invalid. Gulfline moved to dismiss for lack of
+    subject-matter jurisdiction.
+  call: "How should the court rule on the motion?"
+  options:
+    A: "Deny it, because resolving the case will require the court to interpret a federal statute."
+    B: "Deny it, because the amount in controversy exceeds $75,000."
+    C: "Grant it, because a breach-of-contract claim can never arise under federal law."
+    D: "Grant it, because the federal issue appears only as an anticipated defense, not as part of Rivas's own claim."
+  answer: D
+  explanation_correct: >-
+    Under the well-pleaded complaint rule, a case arises under federal law only if the federal issue is
+    part of the plaintiff's properly pleaded claim; an anticipated federal defense, even one the
+    plaintiff mentions in the complaint, does not confer § 1331 jurisdiction (R-CIV-002; Louisville &
+    Nashville R.R. v. Mottley). Rivas's claim is a state contract claim, and both parties are Texas
+    citizens, so there is no diversity either. The court must dismiss (R-CIV-001). Trap: treating a
+    federal defense as a federal question.
+  explanation_each_wrong_option:
+    A: >-
+      The need to interpret federal law in resolving a defense does not make the plaintiff's claim one
+      that arises under federal law.
+    B: >-
+      The amount matters only for diversity jurisdiction, and both parties are Texas citizens.
+    C: >-
+      Overbroad. A contract claim created by federal law, or one fitting the narrow Grable category,
+      can arise under federal law.
+  trap_type: confused-rule
+  authority: ["28 U.S.C. § 1331", "Louisville & Nashville R.R. v. Mottley, 211 U.S. 149 (1908)"]
+  source: original
+  tags: [wave1, M1, federal-question, well-pleaded-complaint]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CIV-0004
+  subject: CIV
+  coverage_ids: [CIV-CBX-I]
+  rule_ids: [R-CIV-011, R-CIV-056, R-CIV-010]
+  difficulty: 3
+  stem: >-
+    Patel, a citizen of Oregon, sued Dynacore Inc., a citizen of Washington, in federal court for
+    $300,000 under state products-liability law, alleging that a ladder Dynacore made collapsed under
+    her. Dynacore filed a third-party complaint under Rule 14 against Rungco, an Oregon citizen that
+    made the ladder's hinge, seeking contribution. Patel then amended her complaint to assert a
+    state-law negligence claim directly against Rungco for $300,000. Rungco moved to dismiss Patel's
+    claim against it for lack of subject-matter jurisdiction. No federal claim is involved.
+  call: "How should the court rule on Rungco's motion?"
+  options:
+    A: "Deny it, because Patel's claim against Rungco arises from the same occurrence as her claim against Dynacore and falls within supplemental jurisdiction."
+    B: "Grant it, because when jurisdiction rests solely on diversity, there is no supplemental jurisdiction over a plaintiff's claim against a person made a party under Rule 14, and Patel and Rungco are both Oregon citizens."
+    C: "Grant it, and also dismiss Dynacore's third-party claim against Rungco, because Rungco is not diverse from Patel."
+    D: "Deny it, because Rungco is already a party to the action and has been properly served."
+  answer: B
+  explanation_correct: >-
+    In a case founded solely on diversity, 28 U.S.C. § 1367(b) denies supplemental jurisdiction over
+    claims by plaintiffs against persons made parties under Rule 14 when exercising it would be
+    inconsistent with § 1332 (R-CIV-011; Owen Equipment & Erection Co. v. Kroger). Patel's claim
+    against Rungco has no independent basis, because both are Oregon citizens. Dynacore's own
+    impleader claim is fine, because § 1367(b) does not limit claims by defendants (R-CIV-056). Trap:
+    applying the common-nucleus test of § 1367(a) without checking § 1367(b).
+  explanation_each_wrong_option:
+    A: >-
+      Same-occurrence relatedness satisfies § 1367(a) (R-CIV-010), but § 1367(b) then carves out a
+      plaintiff's claims against Rule 14 parties in diversity-only cases.
+    C: >-
+      The bar applies to claims by plaintiffs. Dynacore's contribution claim against Rungco is a
+      defendant's claim and stays within supplemental jurisdiction.
+    D: >-
+      Being a party and being served bear on personal jurisdiction, not on subject-matter jurisdiction
+      over each claim.
+  trap_type: exception-trap
+  authority: ["28 U.S.C. § 1367(a)-(b)", "Owen Equipment & Erection Co. v. Kroger, 437 U.S. 365 (1978)"]
+  source: original
+  tags: [wave1, M1, supplemental-jurisdiction, impleader]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CIV-0005
+  subject: CIV
+  coverage_ids: [CIV-CBX-I]
+  rule_ids: [R-CIV-014, R-CIV-015]
+  difficulty: 3
+  stem: >-
+    On March 1, Halvorsen, a citizen of Nevada, filed a state-law negligence suit seeking $400,000 in
+    Nevada state court against Brixton Corp., which is incorporated and headquartered in Utah. On
+    March 2, Halvorsen's lawyer emailed a courtesy copy of the filed complaint to Brixton's general
+    counsel. Brixton was formally served with the summons and complaint on March 20. On April 15,
+    Brixton filed a notice of removal in the federal district court for the district embracing the
+    state court. Halvorsen promptly moved to remand, arguing that removal was untimely.
+  call: "How should the court rule on the motion to remand?"
+  options:
+    A: "Deny it, because the 30-day removal period began with formal service on March 20, and Brixton removed within 30 days of that date."
+    B: "Grant it, because the 30-day removal period began when Brixton's counsel received a copy of the complaint on March 2."
+    C: "Grant it, because a notice of removal must be filed within 30 days after the complaint is filed in state court."
+    D: "Deny it, because a defendant may remove a diversity case at any time within one year after the action is commenced."
+  answer: A
+  explanation_correct: >-
+    A defendant must remove within 30 days after receiving the initial pleading "through service or
+    otherwise" (28 U.S.C. § 1446(b)(1); R-CIV-014), but the period is triggered by formal service, not by
+    an informal courtesy copy received before service (Murphy Bros. v. Michetti Pipe Stringing). Brixton
+    was served March 20, so it had until April 19; April 15 was timely. Diversity is complete and the
+    amount exceeds $75,000, and Brixton is not a Nevada citizen, so remand should be denied
+    (R-CIV-015). Trap: starting the clock on informal receipt.
+  explanation_each_wrong_option:
+    B: >-
+      Murphy Bros. holds that informal receipt of the complaint before formal service does not start
+      the 30-day removal period.
+    C: >-
+      The period runs from service on the defendant, not from the filing of the complaint.
+    D: >-
+      The one-year limit in § 1446(c)(1) is an outer cap on removing diversity cases, not a substitute
+      for the 30-day deadline.
+  trap_type: confused-rule
+  authority: ["28 U.S.C. § 1446(b)(1), (c)(1)", "Murphy Bros. v. Michetti Pipe Stringing, Inc., 526 U.S. 344 (1999)"]
+  source: original
+  tags: [wave1, M1, removal, timing]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CIV-0006
+  subject: CIV
+  coverage_ids: [CIV-CBX-I]
+  rule_ids: [R-CIV-007, R-CIV-004]
+  difficulty: 2
+  stem: >-
+    Summit Ridge LLC, a limited liability company organized under Delaware law with its principal
+    place of business in Kansas, sued Morrow, a citizen of Missouri, in federal court in Kansas for
+    $1.2 million for breach of a state-law contract. Summit Ridge has three members: two are citizens
+    of Kansas, and one is a citizen of Missouri. Morrow moved to dismiss for lack of subject-matter
+    jurisdiction.
+  call: "How should the court rule on the motion?"
+  options:
+    A: "Deny it, because Summit Ridge is a citizen only of Delaware and Kansas."
+    B: "Deny it, because a majority of Summit Ridge's members are diverse from Morrow."
+    C: "Grant it, because Summit Ridge takes the citizenship of each of its members, including the member who is a Missouri citizen."
+    D: "Grant it, because a limited liability company may never invoke diversity jurisdiction."
+  answer: C
+  explanation_correct: >-
+    Unincorporated entities, including LLCs, take the citizenship of every one of their members
+    (R-CIV-007; Carden v. Arkoma Associates). Summit Ridge is therefore a citizen of Kansas and
+    Missouri. Because one of its members shares Morrow's Missouri citizenship, complete diversity is
+    lacking (R-CIV-004). The State of organization and the principal place of business are irrelevant
+    outside CAFA. Trap: treating an LLC like a corporation.
+  explanation_each_wrong_option:
+    A: >-
+      Applies the corporate test of § 1332(c)(1), which does not govern LLCs.
+    B: >-
+      Diversity must be complete; one non-diverse member is enough to destroy it.
+    D: >-
+      Overbroad. An LLC can sue in diversity if none of its members shares citizenship with any
+      opposing party.
+  trap_type: confused-rule
+  authority: ["28 U.S.C. § 1332(a)(1)", "Carden v. Arkoma Associates, 494 U.S. 185 (1990)"]
+  source: original
+  tags: [wave1, M1, diversity, llc-citizenship]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CIV-0007
+  subject: CIV
+  coverage_ids: [CIV-MBE-I.B]
+  rule_ids: [R-CIV-020, R-CIV-022]
+  difficulty: 1
+  stem: >-
+    Kestrel Motors Inc. is incorporated in Michigan and has its headquarters there. It sells thousands
+    of cars a year through independent dealers in Florida, keeps a regional parts warehouse in Florida,
+    and earns about 8% of its national revenue there. Diaz, who now lives in Florida, was injured in
+    Ohio when the brakes failed on a Kestrel car she had bought in Ohio while living there. She sued
+    Kestrel for $1 million in federal court in Florida. Florida's long-arm statute reaches the limits of
+    due process. Kestrel moved to dismiss for lack of personal jurisdiction.
+  call: "How should the court rule on the motion?"
+  options:
+    A: "Deny it, because Kestrel's sales in Florida are continuous and systematic."
+    B: "Deny it, because Diaz is a Florida citizen and Florida has an interest in giving her a forum."
+    C: "Deny it, because Kestrel's warehouse makes it physically present in Florida."
+    D: "Grant it, because Kestrel is not at home in Florida, and Diaz's claim does not arise out of or relate to Kestrel's Florida contacts."
+  answer: D
+  explanation_correct: >-
+    General jurisdiction lies only where a corporation is "at home," paradigmatically its State of
+    incorporation and principal place of business; substantial, continuous sales elsewhere do not
+    suffice absent an exceptional case (R-CIV-020; Daimler AG v. Bauman; BNSF Ry. v. Tyrrell). Kestrel is
+    at home in Michigan. Specific jurisdiction fails because the claim arises from a car bought and an
+    accident that happened in Ohio, with no link to Kestrel's Florida activities (R-CIV-022). Trap: the
+    pre-Daimler "continuous and systematic" test.
+  explanation_each_wrong_option:
+    A: >-
+      Continuous and systematic business is no longer enough for general jurisdiction; the
+      corporation must be essentially at home in the forum.
+    B: >-
+      The forum's interest is a fairness factor considered only after the defendant has sufficient
+      contacts related to the claim; it cannot substitute for them.
+    C: >-
+      A warehouse is a contact relevant to claims arising from it, but it does not make Kestrel at home
+      in Florida, and this claim is unrelated to it.
+  trap_type: wrong-standard
+  authority: ["Daimler AG v. Bauman, 571 U.S. 117 (2014)", "BNSF Ry. v. Tyrrell, 581 U.S. 402 (2017)", "Goodyear Dunlop Tires Operations, S.A. v. Brown, 564 U.S. 915 (2011)"]
+  source: original
+  tags: [wave1, M1, personal-jurisdiction, general-jurisdiction]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CIV-0008
+  subject: CIV
+  coverage_ids: [CIV-MBE-I.B]
+  rule_ids: [R-CIV-021, R-CIV-025]
+  difficulty: 2
+  stem: >-
+    Voss, a horse breeder, sells horses only at her ranch in Montana and has never advertised or done
+    business outside Montana. Larkin, a citizen of Oregon, saw Voss's horses at a Montana show, drove to
+    the ranch, and bought a show horse for $95,000. Voss knew that Larkin lived in Oregon and would take
+    the horse there. After returning home, Larkin sent Voss two emails asking about the horse's feed,
+    and Voss replied to both. The horse soon proved to be lame. Larkin sued Voss in federal court in
+    Oregon for breach of warranty. Voss moved to dismiss for lack of personal jurisdiction.
+  call: "Does the federal court in Oregon have personal jurisdiction over Voss?"
+  options:
+    A: "Yes, because Voss knew the horse would be taken to Oregon, so harm there was foreseeable."
+    B: "No, because Voss did not purposefully direct any activity at Oregon; her only link to Oregon is Larkin's own decision to live there and take the horse there."
+    C: "Yes, because Voss replied to emails that Larkin sent from Oregon."
+    D: "No, because a defendant must be physically present in the forum to be subject to specific jurisdiction."
+  answer: B
+  explanation_correct: >-
+    Specific jurisdiction requires contacts that the defendant itself purposefully creates with the
+    forum State; the unilateral activity of the plaintiff cannot supply them, and the plaintiff cannot
+    be the only link between the defendant and the forum (R-CIV-021, R-CIV-025; World-Wide Volkswagen;
+    Walden v. Fiore). Voss sold in Montana and never reached into Oregon. Mere foreseeability that the
+    horse would end up in Oregon is not purposeful availment. Trap: equating foreseeability with
+    purposeful availment.
+  explanation_each_wrong_option:
+    A: >-
+      World-Wide Volkswagen rejects foreseeability that a product will travel to the forum as a basis
+      for jurisdiction.
+    C: >-
+      Answering two emails the buyer initiated after the sale is a response to the plaintiff's own
+      contacts, not a purposeful availment of Oregon by Voss.
+    D: >-
+      Overbroad. Physical presence is not required; deliberate contacts such as shipping into or
+      targeting the forum can support specific jurisdiction.
+  trap_type: wrong-standard
+  authority: ["World-Wide Volkswagen Corp. v. Woodson, 444 U.S. 286 (1980)", "Walden v. Fiore, 571 U.S. 277 (2014)", "Hanson v. Denckla, 357 U.S. 235 (1958)"]
+  source: original
+  tags: [wave1, M1, personal-jurisdiction, specific-jurisdiction]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CIV-0009
+  subject: CIV
+  coverage_ids: [CIV-CBX-II]
+  rule_ids: [R-CIV-018, R-CIV-017]
+  difficulty: 1
+  stem: >-
+    Whitaker, a lifelong citizen of Georgia, flew to Chicago for a two-day business conference. While
+    she was in the lobby of her Chicago hotel, a process server handed her a summons and complaint in
+    a suit filed against her in federal court in Illinois by Mendez, an Illinois citizen, seeking
+    $150,000 for breach of a contract made and performed entirely in Georgia. Whitaker has no other
+    contacts with Illinois. She moved to dismiss for lack of personal jurisdiction.
+  call: "How should the court rule on the motion?"
+  options:
+    A: "Deny it, because Whitaker was personally served while voluntarily present in Illinois."
+    B: "Grant it, because Mendez's claim does not arise out of Whitaker's contacts with Illinois."
+    C: "Grant it, because Whitaker's brief visit is not a continuous and systematic contact with Illinois."
+    D: "Deny it, because Illinois has a strong interest in providing a forum for its citizens."
+  answer: A
+  explanation_correct: >-
+    A federal court borrows the forum State's reach under Rule 4(k)(1)(A) (R-CIV-017). Personal service
+    on an individual who is voluntarily present in the forum State ("tag" jurisdiction) satisfies due
+    process without any minimum-contacts analysis (R-CIV-018; Burnham v. Superior Court). Whitaker was
+    voluntarily in Chicago when served, so the court has jurisdiction even though the claim arose in
+    Georgia. Trap: running a minimum-contacts analysis where a traditional basis applies.
+  explanation_each_wrong_option:
+    B: >-
+      Relatedness matters for specific jurisdiction based on contacts. Tag jurisdiction is a
+      traditional basis that does not require the claim to relate to the forum.
+    C: >-
+      "Continuous and systematic" contacts are a concept from general jurisdiction over corporations;
+      in-state personal service on an individual is an independent basis.
+    D: >-
+      The forum's interest is a fairness factor in the contacts analysis; it cannot by itself confer
+      jurisdiction.
+  trap_type: confused-rule
+  authority: ["Burnham v. Superior Court, 495 U.S. 604 (1990)", "FRCP 4(k)(1)(A)"]
+  source: original
+  tags: [wave1, M1, personal-jurisdiction, tag-jurisdiction]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CIV-0010
+  subject: CIV
+  coverage_ids: [CIV-CBX-II]
+  rule_ids: [R-CIV-022, R-CIV-021, R-CIV-020]
+  difficulty: 3
+  stem: >-
+    Arden Appliance Co., incorporated and headquartered in Ohio, designs and manufactures space heaters
+    in Ohio. It advertises its Model H-7 heater heavily in Nevada, sells it through dozens of Nevada
+    retailers, and runs an authorized repair center in Las Vegas. Cole, a Nevada citizen, bought a used
+    Model H-7 at a garage sale in Nevada; that heater had originally been sold new by a retailer in
+    Utah. The heater caught fire in Cole's Nevada home, injuring him. Cole sued Arden for $400,000 in
+    federal court in Nevada. Arden moved to dismiss for lack of personal jurisdiction, arguing that it
+    never sold this particular heater into Nevada.
+  call: "How should the court rule on the motion?"
+  options:
+    A: "Grant it, because Arden is not at home in Nevada."
+    B: "Grant it, because Arden's Nevada sales did not cause Cole's injury, so his claim does not arise out of Arden's Nevada contacts."
+    C: "Deny it, because any manufacturer whose product causes injury in a State may be sued there."
+    D: "Deny it, because Arden systematically served the Nevada market for the Model H-7, and Cole's claim relates to those contacts since the heater malfunctioned and injured a Nevada resident in Nevada."
+  answer: D
+  explanation_correct: >-
+    Specific jurisdiction requires that the claim "arise out of or relate to" the defendant's forum
+    contacts, and strict causation is not required (R-CIV-022; Ford Motor Co. v. Montana Eighth Judicial
+    District Court). When a company systematically serves a State's market for the very product that
+    malfunctions and injures a resident there, the claim relates to those contacts even if the
+    particular unit was first sold elsewhere. Arden's advertising, retail network and repair center are
+    purposeful Nevada contacts (R-CIV-021). Trap: insisting on a causal link to the specific unit.
+  explanation_each_wrong_option:
+    A: >-
+      True but irrelevant. Arden is not subject to general jurisdiction in Nevada (R-CIV-020), but
+      specific jurisdiction exists.
+    B: >-
+      Ford rejects a strict causation-only test; "relate to" covers this pattern.
+    C: >-
+      Overbroad. Injury in the forum is not enough without the defendant's own purposeful contacts
+      there; Arden's systematic marketing is what makes the difference.
+  trap_type: wrong-standard
+  authority: ["Ford Motor Co. v. Montana Eighth Judicial District Court, 592 U.S. 351 (2021)", "International Shoe Co. v. Washington, 326 U.S. 310 (1945)"]
+  source: original
+  tags: [wave1, M1, personal-jurisdiction, relatedness]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CIV-0011
+  subject: CIV
+  coverage_ids: [CIV-MBE-I.C]
+  rule_ids: [R-CIV-029]
+  difficulty: 1
+  stem: >-
+    Prescott sued Quinlan in federal court. A process server went to Quinlan's house, where Quinlan
+    lives alone. Quinlan was not home, but his adult sister, who lives in another city and was visiting
+    for the weekend, answered the door. The process server handed her the summons and complaint and
+    explained what they were; she left them on Quinlan's kitchen table, where he found them that
+    evening. Neither the forum State nor the State where service was made authorizes any method of
+    service beyond those listed in Rule 4(e)(2). Quinlan timely moved to dismiss for insufficient
+    service of process.
+  call: "How should the court rule on the motion?"
+  options:
+    A: "Deny it, because Quinlan actually received the papers the same day."
+    B: "Deny it, because the papers were left at Quinlan's dwelling with a person of suitable age and discretion."
+    C: "Grant it, because the sister does not reside at Quinlan's dwelling."
+    D: "Grant it, because an individual may be served only by delivering the papers to the individual personally."
+  answer: C
+  explanation_correct: >-
+    Rule 4(e)(2)(B) permits service by leaving copies at the individual's dwelling or usual place of
+    abode with someone of suitable age and discretion "who resides there" (R-CIV-029). The sister was a
+    visitor who lives elsewhere, so abode service was defective, and no state-law method applies. The
+    timely motion preserves the objection. (The court may quash service and allow re-service rather
+    than dismiss outright.) Trap: overlooking the residence element.
+  explanation_each_wrong_option:
+    A: >-
+      Actual notice does not cure service that fails Rule 4's requirements.
+    B: >-
+      Missing element. Suitable age and discretion is not enough; the recipient must also reside at the
+      dwelling.
+    D: >-
+      Overbroad. Rule 4(e)(2) also allows abode service, delivery to an authorized agent, and
+      state-law methods.
+  trap_type: missing-element
+  authority: ["FRCP 4(e)(2)(B)", "FRCP 12(b)(5)"]
+  source: original
+  tags: [wave1, M1, service-of-process]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CIV-0012
+  subject: CIV
+  coverage_ids: [CIV-MBE-I.C]
+  rule_ids: [R-CIV-030, R-CIV-046, R-CIV-047]
+  difficulty: 2
+  stem: >-
+    Ortega filed a federal diversity action against Haskins, who lives in Florida, in the Southern
+    District of New York. On June 1, Ortega mailed Haskins a proper Rule 4(d) request to waive service,
+    with a copy of the complaint and a prepaid means of return. Haskins signed and returned the waiver
+    on June 10. On July 25, Haskins filed her first response to the complaint: a Rule 12(b)(2) motion
+    to dismiss for lack of personal jurisdiction. Ortega argues that Haskins waived any objection to
+    personal jurisdiction by waiving service and that, in any event, her motion was untimely.
+  call: "Which of the following is correct?"
+  options:
+    A: "Haskins waived her personal-jurisdiction objection by returning the waiver of service."
+    B: "Haskins preserved her objection, because waiving service does not waive personal-jurisdiction defenses, and her motion was filed within 60 days after the waiver request was sent."
+    C: "Haskins's motion was untimely, because it was not filed within 21 days after she returned the waiver."
+    D: "Haskins preserved her objection, but only because a defendant who waives service has 90 days to respond."
+  answer: B
+  explanation_correct: >-
+    Waiving service of a summons does not waive any objection to personal jurisdiction or venue (FRCP
+    4(d)(5); R-CIV-030). A defendant in the United States who timely returns a waiver need not respond
+    until 60 days after the request was sent (FRCP 4(d)(3), 12(a)(1)(A)(ii); R-CIV-046). The request was
+    sent June 1, so Haskins had until July 31. Her July 25 Rule 12 motion was timely, and because it was
+    her first response it preserved the defense (R-CIV-047). Trap: thinking that waiving service waives
+    jurisdictional objections.
+  explanation_each_wrong_option:
+    A: >-
+      Rule 4(d)(5) expressly provides that waiver of service does not waive objections to personal
+      jurisdiction or venue.
+    C: >-
+      The 21-day period applies after formal service. A waiving defendant gets 60 days from the date the
+      request was sent.
+    D: >-
+      The 90-day period applies only when the request was sent to a defendant outside any judicial
+      district of the United States; Haskins is in Florida.
+  trap_type: confused-rule
+  authority: ["FRCP 4(d)(3), (5)", "FRCP 12(a)(1)(A)(ii)", "FRCP 12(h)(1)"]
+  source: original
+  tags: [wave1, M1, waiver-of-service]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CIV-0013
+  subject: CIV
+  coverage_ids: [CIV-MBE-I.D]
+  rule_ids: [R-CIV-031, R-CIV-032]
+  difficulty: 2
+  stem: >-
+    Kemper, a citizen of Colorado, was injured in Utah when his car collided with a truck owned by
+    Fastway Freight Inc. and driven by Fastway's employee, Lund. Fastway is incorporated in Delaware,
+    has its headquarters in Phoenix, Arizona, and does business only in Arizona and Utah. Lund is
+    domiciled in Tucson, Arizona. Arizona and Utah each constitute a single federal judicial district.
+    Kemper sued both defendants for negligence in federal court, seeking $500,000.
+  call: "In which federal district or districts is venue proper?"
+  options:
+    A: "The District of Utah only, because that is where the accident occurred."
+    B: "The District of Colorado, the District of Arizona, or the District of Utah."
+    C: "The District of Arizona or the District of Utah."
+    D: "Any district in which Fastway is subject to personal jurisdiction, including the District of Delaware."
+  answer: C
+  explanation_correct: >-
+    Under 28 U.S.C. § 1391(b) (R-CIV-031), venue lies (1) in a district where any defendant resides if
+    all defendants reside in the same State, or (2) where a substantial part of the events occurred.
+    Lund resides in Arizona; Fastway, an entity, resides wherever it is subject to personal
+    jurisdiction for the action, which includes Arizona, its principal place of business (R-CIV-032;
+    § 1391(c)(2)). All defendants reside in Arizona, so the District of Arizona is proper under (b)(1),
+    and the District of Utah is proper under (b)(2). Trap: counting the plaintiff's residence.
+  explanation_each_wrong_option:
+    A: >-
+      Too narrow. Several districts can qualify, and (b)(1) also makes Arizona proper.
+    B: >-
+      The plaintiff's residence is irrelevant to venue under § 1391(b); nothing happened in Colorado and
+      no defendant resides there.
+    D: >-
+      The "subject to personal jurisdiction" fallback in § 1391(b)(3) applies only if no district
+      qualifies under (b)(1) or (b)(2). Delaware fails (b)(1) because Lund does not reside there.
+  trap_type: confused-rule
+  authority: ["28 U.S.C. § 1391(b)-(c)"]
+  source: original
+  tags: [wave1, M1, venue]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CIV-0014
+  subject: CIV
+  coverage_ids: [CIV-MBE-I.D]
+  rule_ids: [R-CIV-033, R-CIV-040, R-CIV-035]
+  difficulty: 3
+  stem: >-
+    Rhee sued Talon Corp. on a state-law claim in federal court in Pennsylvania, where venue and personal
+    jurisdiction were proper. Under Pennsylvania's choice-of-law rules, Pennsylvania's six-year
+    limitations period applies, and the suit is timely. Talon moved under 28 U.S.C. § 1404(a) to
+    transfer the case to the District of Oregon, where most witnesses live and where Talon could also
+    have been sued. Under Oregon's choice-of-law rules, Oregon's two-year limitations period would
+    apply, and the suit would be untimely. There is no forum-selection clause. The court granted the
+    transfer, and Talon then moved in the Oregon federal court to dismiss the claim as time-barred.
+  call: "How should the Oregon federal court rule?"
+  options:
+    A: "Grant the motion, because a transferee court applies the choice-of-law rules of the State in which it sits."
+    B: "Grant the motion, because statutes of limitations are procedural, so the transferee court applies its own forum's limitations period."
+    C: "Deny the motion, because federal law, not state law, governs the timeliness of a claim filed in federal court."
+    D: "Deny the motion, because after a § 1404(a) transfer the transferee court applies the law, including the choice-of-law rules, that the transferor court would have applied."
+  answer: D
+  explanation_correct: >-
+    A § 1404(a) transfer changes the courtroom, not the law. The transferee court must apply the state
+    law, including the choice-of-law rules, that the transferor court would have applied (R-CIV-033;
+    Van Dusen v. Barrack; Ferens v. John Deere). A Pennsylvania federal court would have applied
+    Pennsylvania's choice-of-law rules (Klaxon) and therefore the six-year period, so the claim remains
+    timely (R-CIV-040). The exception for transfers enforcing a forum-selection clause (Atlantic Marine,
+    R-CIV-035) does not apply. Trap: switching to the transferee State's rules.
+  explanation_each_wrong_option:
+    A: >-
+      That is the rule after a transfer enforcing a forum-selection clause, or after a § 1406 transfer
+      from an improper venue in most courts, not after an ordinary § 1404(a) transfer.
+    B: >-
+      In diversity, limitations periods are treated as substantive for Erie purposes, and which State's
+      period applies is decided by the transferor forum's choice-of-law rules.
+    C: >-
+      Wrong. Under Erie and Guaranty Trust v. York, state limitations law governs state-law claims in
+      federal court.
+  trap_type: confused-rule
+  authority: ["28 U.S.C. § 1404(a)", "Van Dusen v. Barrack, 376 U.S. 612 (1964)", "Ferens v. John Deere Co., 494 U.S. 516 (1990)", "Klaxon Co. v. Stentor Electric Mfg. Co., 313 U.S. 487 (1941)"]
+  source: original
+  tags: [wave1, M1, transfer, choice-of-law]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CIV-0015
+  subject: CIV
+  coverage_ids: [CIV-MBE-I.D]
+  rule_ids: [R-CIV-036, R-CIV-033]
+  difficulty: 2
+  stem: >-
+    An industrial boiler designed and built in Kansas by Kessel Works Inc., a Kansas corporation,
+    exploded at a factory in Portugal, injuring dozens of Portuguese workers. The workers sued Kessel
+    Works in federal court in Kansas, where jurisdiction and venue are proper. The boiler's remains,
+    the factory's maintenance records, and nearly all witnesses are in Portugal, and Portuguese law
+    would govern most issues. Portuguese courts are available and would hear the claims, but
+    Portuguese law does not allow strict products liability and limits damages more than Kansas law
+    does. Kessel Works moved to dismiss on the ground of forum non conveniens.
+  call: "How should the court rule?"
+  options:
+    A: "Grant the motion, because an adequate alternative forum exists and the private and public interest factors strongly favor trial in Portugal."
+    B: "Deny the motion, because a federal court may not decline to exercise jurisdiction that Congress has conferred."
+    C: "Deny the motion, because the workers would recover less under Portuguese law."
+    D: "Transfer the case to a court in Portugal under 28 U.S.C. § 1404(a)."
+  answer: A
+  explanation_correct: >-
+    Forum non conveniens permits dismissal when an adequate alternative forum exists and the private
+    and public interest factors strongly favor trial there (R-CIV-036; Gulf Oil v. Gilbert). Foreign
+    plaintiffs' choice of a U.S. forum receives less deference, and a less favorable change in law is
+    not a ground to deny dismissal unless the alternative remedy is so inadequate as to be no remedy at
+    all (Piper Aircraft v. Reyno). Evidence, witnesses and governing law all point to Portugal. Trap:
+    treating less favorable foreign law as decisive.
+  explanation_each_wrong_option:
+    B: >-
+      Forum non conveniens is a long-recognized doctrine permitting federal courts to dismiss in favor
+      of a foreign forum.
+    C: >-
+      Wrong standard. Less generous foreign law does not make the alternative forum inadequate; only a
+      remedy so clearly inadequate that it is no remedy at all does.
+    D: >-
+      Section 1404(a) transfers cases only between federal districts (R-CIV-033); a foreign forum is
+      reached by forum non conveniens dismissal.
+  trap_type: wrong-standard
+  authority: ["Piper Aircraft Co. v. Reyno, 454 U.S. 235 (1981)", "Gulf Oil Corp. v. Gilbert, 330 U.S. 501 (1947)"]
+  source: original
+  tags: [wave1, M1, forum-non-conveniens]
+  status: draft
+  last_verified: 2026-11-04

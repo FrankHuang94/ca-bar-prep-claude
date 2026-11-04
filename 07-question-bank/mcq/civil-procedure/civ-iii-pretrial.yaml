@@ -1,0 +1,520 @@
+# Civil Procedure — NCBE category III: Pretrial procedures (wave 1, original items)
+questions:
+- id: Q-CIV-0020
+  subject: CIV
+  coverage_ids: [CIV-MBE-III.A]
+  rule_ids: [R-CIV-043, R-CIV-042]
+  difficulty: 1
+  stem: >-
+    On Monday, a software company filed a federal action alleging that a former employee had taken its
+    trade secrets and was about to transfer them to a competitor. Without notifying the employee, the
+    company asked for a temporary restraining order. Its verified complaint set out specific facts
+    showing that the transfer was imminent and would cause immediate and irreparable harm, and its
+    attorney filed a written certification describing the efforts made to reach the employee and why
+    notice should not be required. The court issued the TRO that afternoon, required the company to
+    post security, and set the order to expire 30 days later.
+  call: "Which aspect of the TRO is improper?"
+  options:
+    A: "Its duration, because a TRO issued without notice may not exceed 14 days unless extended for good cause or with the adverse party's consent."
+    B: "Its issuance without notice, because a TRO may never issue without notice to the adverse party."
+    C: "The security requirement, because security may be required only for preliminary injunctions."
+    D: "Its issuance before the employee had answered the complaint."
+  answer: A
+  explanation_correct: >-
+    Rule 65(b) permits a TRO without notice if specific facts in an affidavit or verified complaint
+    clearly show immediate and irreparable injury and the movant's attorney certifies the efforts made
+    to give notice and why it should not be required. Both were done. But an ex parte TRO expires at
+    the time the court sets, not to exceed 14 days, unless extended once for good cause or by consent
+    (R-CIV-043; FRCP 65(b)(2)). A 30-day TRO violates that limit. Security is required under Rule 65(c).
+    A preliminary injunction, by contrast, requires notice (R-CIV-042). Trap: the absolute "never
+    without notice" distractor.
+  explanation_each_wrong_option:
+    B: >-
+      Overbroad. Rule 65(b)(1) expressly allows an ex parte TRO when its two requirements are met, as
+      they were here.
+    C: >-
+      Rule 65(c) requires security for TROs as well as preliminary injunctions.
+    D: >-
+      TROs are designed for use at the start of a case; nothing requires an answer first.
+  trap_type: overbroad
+  authority: ["FRCP 65(b)(1)-(2)", "FRCP 65(c)"]
+  source: original
+  tags: [wave1, M1, tro, injunctions]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CIV-0021
+  subject: CIV
+  coverage_ids: [CIV-MBE-III.B]
+  rule_ids: [R-CIV-048]
+  difficulty: 2
+  stem: >-
+    Bianchi filed a federal complaint against Delgado Corp. on February 1 and served it the same day.
+    Delgado served its answer on February 20. On March 8, without seeking Delgado's consent or the
+    court's leave, Bianchi served and filed an amended complaint adding a new claim arising from the
+    same events. Bianchi had not amended before, and no scheduling-order deadline had passed. Delgado
+    moved to strike the amended complaint as filed without leave.
+  call: "How should the court rule on the motion?"
+  options:
+    A: "Grant it, because a party may amend without leave only within 21 days after serving its own pleading."
+    B: "Grant it, because once an answer has been served, a party may amend only with the court's leave."
+    C: "Deny it, because Bianchi amended within 21 days after service of the answer, which a party may do once as a matter of course."
+    D: "Deny it, because a party may amend its pleading as a matter of course at any time before trial."
+  answer: C
+  explanation_correct: >-
+    Under Rule 15(a)(1)(B), when a responsive pleading is required, a party may amend once as a matter
+    of course within 21 days after service of the responsive pleading (or of a Rule 12(b), (e) or (f)
+    motion, whichever is earlier) (R-CIV-048). Delgado served its answer on February 20, so Bianchi could
+    amend without leave through March 13. The March 8 amendment was proper. Trap: counting only from
+    the service of the plaintiff's own complaint.
+  explanation_each_wrong_option:
+    A: >-
+      Incomplete. The 21-days-after-serving rule in 15(a)(1)(A) is one route; for a complaint, 15(a)(1)(B)
+      also allows amendment within 21 days after the answer is served.
+    B: >-
+      Wrong standard. Serving an answer starts, rather than ends, the 21-day as-of-course window under
+      15(a)(1)(B).
+    D: >-
+      Overbroad. After the as-of-course window closes, amendment requires written consent or leave of
+      court under 15(a)(2).
+  trap_type: wrong-standard
+  authority: ["FRCP 15(a)(1)-(2)"]
+  source: original
+  tags: [wave1, M1, pleadings, amendment]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CIV-0022
+  subject: CIV
+  coverage_ids: [CIV-MBE-III.B]
+  rule_ids: [R-CIV-049]
+  difficulty: 3
+  stem: >-
+    Navarro was injured on March 1, 2023, when an escalator malfunctioned at a shopping mall. The
+    two-year limitations period expired on March 1, 2025. On February 20, 2025, Navarro filed a federal
+    diversity action against "Summit Mall Management LLC," which she believed operated the escalator.
+    In fact the escalator was operated by Summit Mall Services LLC, a sister company with the same
+    officers, office and lawyers. Within a week after the complaint was served on Summit Mall
+    Management, and well within the 90-day service period, Summit Mall Services's officers read it and
+    realized that Navarro had meant to sue Summit Mall Services. In May 2025, Navarro moved to amend to
+    substitute Summit Mall Services as the defendant. Summit Mall Services argues that the claim is
+    time-barred and that Navarro could easily have found the correct name in public records before
+    suing. State law provides no more lenient relation-back rule.
+  call: "Should the amendment relate back to the date of the original complaint?"
+  options:
+    A: "No, because Navarro's failure to check public records shows that she made a choice, not a mistake."
+    B: "Yes, because the claim arises from the same occurrence, and within the Rule 4(m) period Summit Mall Services received notice of the action and knew or should have known that it would have been sued but for a mistake about the proper party's identity."
+    C: "No, because an amendment that changes the defendant never relates back."
+    D: "Yes, because an amendment relates back whenever the claim arises from the same occurrence as the original pleading."
+  answer: B
+  explanation_correct: >-
+    An amendment changing the party against whom a claim is asserted relates back if (1) the claim
+    arises from the same conduct, transaction or occurrence; and, within the Rule 4(m) period, the new
+    party (2) received notice so that it will not be prejudiced in defending and (3) knew or should
+    have known that it would have been sued but for a mistake concerning the proper party's identity
+    (FRCP 15(c)(1)(C); R-CIV-049). The inquiry focuses on what the new defendant knew, not on whether
+    the plaintiff was diligent (Krupski v. Costa Crociere). All three elements are met. Trap: focusing
+    on the plaintiff's carelessness.
+  explanation_each_wrong_option:
+    A: >-
+      Krupski rejects this. A plaintiff's knowledge or carelessness does not turn a misidentification
+      into a deliberate choice; the question is the new defendant's knowledge.
+    C: >-
+      Overbroad. Rule 15(c)(1)(C) exists precisely to let some amendments changing the defendant relate
+      back.
+    D: >-
+      Missing elements. Same-occurrence suffices for a new claim against the same party; a new party
+      also requires timely notice and knowledge of the mistake.
+  trap_type: wrong-standard
+  authority: ["FRCP 15(c)(1)(B)-(C)", "Krupski v. Costa Crociere S.p.A., 560 U.S. 538 (2010)"]
+  source: original
+  tags: [wave1, M1, pleadings, relation-back]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CIV-0023
+  subject: CIV
+  coverage_ids: [CIV-CBX-V]
+  rule_ids: [R-CIV-046, R-CIV-048]
+  difficulty: 1
+  stem: >-
+    Ferrante sued Hollis Trucking in federal court for injuries from a highway collision. Paragraph 4 of
+    the complaint alleged: "The truck that struck Ferrante was owned by Hollis Trucking and driven by
+    Hollis's employee, Gaines, within the scope of his employment." Hollis's timely answer denied that
+    Gaines was negligent and asserted Ferrante's comparative fault, but said nothing about paragraph 4.
+    Hollis never amended its answer. At trial, Hollis offers evidence that it did not own the truck and
+    that Gaines was not its employee. Ferrante objects.
+  call: "How should the court rule on the objection?"
+  options:
+    A: "Overrule it, because Ferrante bears the burden of proving every element of her claim."
+    B: "Overrule it, because an allegation that an answer does not address is treated as denied."
+    C: "Sustain it only as to ownership, because allegations about employment must always be proved."
+    D: "Sustain it, because the allegations in paragraph 4 were admitted when Hollis failed to deny them."
+  answer: D
+  explanation_correct: >-
+    An allegation, other than one relating to the amount of damages, is admitted if a responsive
+    pleading is required and the allegation is not denied (FRCP 8(b)(6); R-CIV-046). An answer is a
+    required response to a complaint, and Hollis did not deny ownership or employment, so those facts are
+    established and evidence contradicting them may be excluded. Hollis's route was to seek leave to
+    amend (R-CIV-048). Trap: the "treated as denied" rule, which applies only where no responsive
+    pleading is required.
+  explanation_each_wrong_option:
+    A: >-
+      The burden of proof does not matter for facts the defendant has admitted in its pleading; admitted
+      facts need no proof.
+    B: >-
+      Under Rule 8(b)(6), allegations are treated as denied only when no responsive pleading is
+      required, such as allegations in an answer that does not contain a counterclaim.
+    C: >-
+      Both ownership and agency were alleged in paragraph 4 and were admitted by Hollis's failure to
+      deny them; there is no special rule for employment.
+  trap_type: confused-rule
+  authority: ["FRCP 8(b)(6)", "FRCP 15(a)(2)"]
+  source: original
+  tags: [wave1, M1, pleadings, answer]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CIV-0024
+  subject: CIV
+  coverage_ids: [CIV-MBE-III.C]
+  rule_ids: [R-CIV-051, R-CIV-050]
+  difficulty: 1
+  stem: >-
+    After Kessler filed a federal complaint, defense counsel concluded that one of Kessler's claims was
+    legally frivolous. On May 1, defense counsel served Kessler's attorney with a separate motion for
+    Rule 11 sanctions and, on May 5, filed the motion with the court. Kessler's attorney did not
+    withdraw the claim. The motion asks the court to order Kessler personally to pay a monetary
+    sanction.
+  call: "How should the court rule on the motion?"
+  options:
+    A: "Grant it if the claim is frivolous, because a Rule 11 motion may be filed whenever a violation is discovered."
+    B: "Deny it, because it was filed before 21 days had passed after it was served."
+    C: "Grant it and order Kessler personally to pay a monetary sanction for the frivolous legal contention."
+    D: "Deny it, because Rule 11 sanctions may be imposed only on the court's own initiative."
+  answer: B
+  explanation_correct: >-
+    A Rule 11 motion must be served on the opposing party but may not be filed until 21 days after
+    service, giving the opponent a safe harbor to withdraw or correct the challenged paper (FRCP
+    11(c)(2); R-CIV-051). Filing four days after service violates the safe harbor, so the motion must be
+    denied. In addition, a court may not impose a monetary sanction on a represented party for a
+    frivolous legal contention (11(c)(5)(A)). Trap: ignoring the procedural prerequisites.
+  explanation_each_wrong_option:
+    A: >-
+      Ignores the 21-day safe harbor, which applies to every motion for Rule 11 sanctions.
+    C: >-
+      Both procedurally barred (no safe harbor) and substantively barred: monetary sanctions against a
+      represented party for frivolous legal contentions are not allowed under 11(c)(5)(A) (see the
+      certifications in R-CIV-050).
+    D: >-
+      Rule 11(c)(2) expressly authorizes sanctions on a party's motion; the court may also act on its
+      own under 11(c)(3).
+  trap_type: procedural-posture
+  authority: ["FRCP 11(c)(2)", "FRCP 11(c)(5)(A)"]
+  source: original
+  tags: [wave1, M1, rule-11, sanctions]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CIV-0025
+  subject: CIV
+  coverage_ids: [CIV-MBE-III.D]
+  rule_ids: [R-CIV-052, R-CIV-094]
+  difficulty: 2
+  stem: >-
+    Ingram sued Polk in federal court, invoking diversity jurisdiction, for $120,000 in damages to his
+    car from a collision between their cars at an intersection. Polk served an answer denying
+    negligence but asserted no claim of her own, although she was injured in the same collision. After
+    trial, the jury found for Polk, and judgment was entered. Polk then sued Ingram in federal court for
+    her own injuries from the collision.
+  call: "What is the effect of the first action on Polk's suit?"
+  options:
+    A: "Polk's suit is barred, because her claim arose from the same occurrence as Ingram's claim and was a compulsory counterclaim that she failed to assert."
+    B: "Polk's suit may proceed, because she won the first action."
+    C: "Polk's suit may proceed, because counterclaims are always optional in federal court."
+    D: "Polk's suit is barred only if the jury in the first action found that Polk was negligent."
+  answer: A
+  explanation_correct: >-
+    A pleading must state as a counterclaim any claim that the pleader has against an opposing party if
+    it arises out of the same transaction or occurrence as the opposing party's claim and does not
+    require adding a party beyond the court's jurisdiction (FRCP 13(a); R-CIV-052). Polk served a
+    pleading (an answer), and her injury claim arose from the same collision, so it was compulsory. A
+    compulsory counterclaim that is not asserted is barred in later litigation, whoever won the first
+    case (R-CIV-094). Trap: assuming the winner of the first suit is free to sue later.
+  explanation_each_wrong_option:
+    B: >-
+      Winning the first action does not save an omitted compulsory counterclaim; the bar comes from
+      Rule 13(a) and does not depend on the outcome.
+    C: >-
+      Overbroad. Permissive counterclaims are optional, but same-transaction counterclaims are
+      compulsory.
+    D: >-
+      Confuses the compulsory-counterclaim bar with issue preclusion. The claim is barred because it had
+      to be pleaded, not because any issue was decided against Polk.
+  trap_type: confused-rule
+  authority: ["FRCP 13(a)"]
+  source: original
+  tags: [wave1, M1, joinder, compulsory-counterclaim]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CIV-0026
+  subject: CIV
+  coverage_ids: [CIV-MBE-III.D]
+  rule_ids: [R-CIV-056]
+  difficulty: 2
+  stem: >-
+    Ochoa sued Clearwater Pools in federal court, alleging that Clearwater's negligent installation of a
+    pool drain caused her injuries. Clearwater served its answer on April 1. On April 10, without leave
+    of court, Clearwater filed a third-party complaint against two non-parties: (1) Drainco, which
+    manufactured the drain and had agreed in its supply contract to indemnify Clearwater for any
+    liability arising from drain defects; and (2) Velez, a pool-maintenance worker, alleging that Velez
+    alone, and not Clearwater, caused Ochoa's injuries. Drainco and Velez each moved to dismiss the
+    third-party claim against it. Assume subject-matter and personal jurisdiction exist.
+  call: "How should the court rule?"
+  options:
+    A: "Deny both motions, because both third-party claims arise from the same occurrence as Ochoa's claim."
+    B: "Grant both motions, because Clearwater needed leave of court to file a third-party complaint after answering."
+    C: "Deny Drainco's motion but grant Velez's, because impleader is available only against a non-party who is or may be liable to the defendant for all or part of the plaintiff's claim."
+    D: "Grant Drainco's motion but deny Velez's, because indemnity claims must be brought in a separate action."
+  answer: C
+  explanation_correct: >-
+    A defending party may implead a non-party "who is or may be liable to it for all or part of the
+    claim against it," that is, derivative liability such as indemnity or contribution (FRCP 14(a)(1);
+    R-CIV-056). Drainco's contractual promise to indemnify fits. A claim that Velez alone is liable to
+    Ochoa is not derivative; it is a defense to raise at trial, not a third-party claim. Clearwater
+    filed within 14 days after serving its answer, so it needed no leave. Trap: using impleader for
+    "it was him, not me."
+  explanation_each_wrong_option:
+    A: >-
+      Same-occurrence is not the test for impleader; the third-party defendant's liability must run to
+      the defendant.
+    B: >-
+      Leave is unnecessary if the third-party complaint is filed within 14 days after serving the
+      original answer, as it was here (April 10).
+    D: >-
+      Backwards. Indemnity is the paradigm impleader claim, and a sole-liability theory is not.
+  trap_type: confused-rule
+  authority: ["FRCP 14(a)(1)"]
+  source: original
+  tags: [wave1, M1, joinder, impleader]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CIV-0027
+  subject: CIV
+  coverage_ids: [CIV-CBX-VI]
+  rule_ids: [R-CIV-058, R-CIV-004]
+  difficulty: 3
+  stem: >-
+    Harbor Life Insurance Co., a citizen of New York only, issued a $60,000 life insurance policy. After
+    the insured died, two people claimed the proceeds: the insured's former spouse, a citizen of New
+    York, and the insured's adult son, a citizen of New Jersey. Harbor deposited $60,000 with the federal
+    district court in New York and filed an interpleader action under 28 U.S.C. § 1335 against both
+    claimants. The former spouse moved to dismiss for lack of subject-matter jurisdiction, arguing that
+    she and Harbor are both New York citizens and that the amount in controversy does not exceed
+    $75,000.
+  call: "How should the court rule on the motion?"
+  options:
+    A: "Grant it, because the stakeholder and one claimant are both New York citizens."
+    B: "Grant it, because the amount in controversy does not exceed $75,000."
+    C: "Deny it, but only if the court treats the action as a Rule 22 interpleader."
+    D: "Deny it, because statutory interpleader requires only $500 or more in controversy and minimal diversity between two or more adverse claimants."
+  answer: D
+  explanation_correct: >-
+    Statutory interpleader under 28 U.S.C. § 1335 requires money or property worth $500 or more, two or
+    more adverse claimants of diverse citizenship (minimal diversity among the claimants suffices), and
+    deposit of the stake with the court (R-CIV-058; State Farm Fire & Casualty Co. v. Tashire). The
+    claimants are from New York and New Jersey, the stake is $60,000, and Harbor deposited it. The
+    stakeholder's citizenship and the $75,000 threshold of § 1332 (R-CIV-004) are irrelevant. Trap:
+    applying ordinary diversity requirements to statutory interpleader.
+  explanation_each_wrong_option:
+    A: >-
+      For § 1335 interpleader only the claimants' citizenship matters, and minimal diversity among them
+      is enough.
+    B: >-
+      The § 1335 threshold is $500, not more than $75,000.
+    C: >-
+      Rule 22 interpleader needs ordinary jurisdiction: complete diversity between the stakeholder and
+      the claimants and more than $75,000. Both fail here, so Rule 22 would not work.
+  trap_type: confused-rule
+  authority: ["28 U.S.C. § 1335", "28 U.S.C. § 2361", "State Farm Fire & Casualty Co. v. Tashire, 386 U.S. 523 (1967)"]
+  source: original
+  tags: [wave1, M1, joinder, interpleader]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CIV-0028
+  subject: CIV
+  coverage_ids: [CIV-MBE-III.E]
+  rule_ids: [R-CIV-066, R-CIV-064]
+  difficulty: 2
+  stem: >-
+    The day after a forklift struck a visitor in a company's warehouse, the company's liability insurer,
+    anticipating a lawsuit, sent an investigator who took a detailed written statement from the only
+    eyewitness, a temporary worker. The worker has since died. In the visitor's federal negligence suit
+    against the company, the visitor requests production of (1) the eyewitness's written statement and
+    (2) the investigator's memorandum to defense counsel evaluating the company's likely liability and
+    litigation strategy. The company objects that both documents are protected work product.
+  call: "How should the court rule?"
+  options:
+    A: "Order production of the eyewitness statement on a showing of substantial need and undue hardship, but protect the investigator's evaluation of liability and strategy."
+    B: "Order production of both documents, because materials prepared by an insurer rather than an attorney are not work product."
+    C: "Deny production of both documents, because work product is absolutely protected from discovery."
+    D: "Order production of both documents, because the eyewitness is dead and the visitor has no other source of information."
+  answer: A
+  explanation_correct: >-
+    Documents prepared in anticipation of litigation by or for a party or its representative,
+    including its insurer, are work product (FRCP 26(b)(3)(A); R-CIV-066; Hickman v. Taylor). Ordinary
+    work product, such as a factual witness statement, is discoverable on a showing of substantial need
+    and inability to obtain its substantial equivalent without undue hardship; the witness's death
+    supplies both. But the court must protect mental impressions, conclusions, opinions and legal
+    theories of a party's representative (26(b)(3)(B)), so the liability-and-strategy memorandum stays
+    protected. Trap: treating all work product alike.
+  explanation_each_wrong_option:
+    B: >-
+      Rule 26(b)(3)(A) expressly covers materials prepared by a party's "consultant, surety, indemnitor,
+      insurer, or agent," not only by attorneys.
+    C: >-
+      Overbroad. Only opinion work product receives near-absolute protection; ordinary work product
+      yields to substantial need and undue hardship.
+    D: >-
+      Overbroad. Substantial need reaches the factual statement, but opinion work product remains
+      protected even when need is shown.
+  trap_type: overbroad
+  authority: ["FRCP 26(b)(3)(A)-(B)", "Hickman v. Taylor, 329 U.S. 495 (1947)"]
+  source: original
+  tags: [wave1, M1, discovery, work-product]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CIV-0029
+  subject: CIV
+  coverage_ids: [CIV-MBE-III.E]
+  rule_ids: [R-CIV-070]
+  difficulty: 2
+  stem: >-
+    Larue sued Dorne Corp. in federal court for back injuries from a fall in Dorne's store, seeking
+    damages for physical pain and lost wages. She makes no claim for mental or emotional injury beyond
+    the pain and suffering that ordinarily accompanies a physical injury, and she does not intend to
+    offer expert testimony about her mental health. Dorne's counsel served a notice requiring Larue to
+    appear for (1) an orthopedic examination and (2) a psychiatric examination by doctors Dorne had
+    chosen. Larue refused both. Dorne then moved for a court order requiring her to submit to both
+    examinations.
+  call: "What is the court's most likely ruling?"
+  options:
+    A: "Order both examinations, because a plaintiff who sues for personal injuries automatically waives any objection to examinations."
+    B: "Order the orthopedic examination on a showing of good cause, but deny the psychiatric examination because Larue's mental condition is not in controversy."
+    C: "Deny both examinations, because a party may never be examined by a doctor chosen by the opposing party."
+    D: "Sanction Larue for refusing to appear, because Dorne's notice was sufficient to require her attendance."
+  answer: B
+  explanation_correct: >-
+    Rule 35 allows a court, on motion for good cause, to order a party whose physical or mental
+    condition is in controversy to submit to an examination by a suitably licensed examiner
+    (R-CIV-070; Schlagenhauf v. Holder). By suing for back injuries, Larue put her physical condition in
+    controversy, so an orthopedic exam is appropriate. Schlagenhauf requires an affirmative showing for
+    each condition; the physical pain that accompanies a back injury, with no claim of mental injury and
+    no mental-health expert, does not put her mental condition in controversy. Trap: treating any
+    personal-injury suit as opening every kind of examination.
+  explanation_each_wrong_option:
+    A: >-
+      Overbroad. "In controversy" and "good cause" require an affirmative showing for each condition;
+      there is no automatic waiver.
+    C: >-
+      Overbroad. Rule 35 contemplates examinations by examiners proposed by the moving party, subject to
+      the court's order.
+    D: >-
+      Federal law requires a court order for a Rule 35 examination; a notice from opposing counsel does
+      not compel attendance, so refusing it is not sanctionable.
+  trap_type: overbroad
+  authority: ["FRCP 35(a)", "Schlagenhauf v. Holder, 379 U.S. 104 (1964)"]
+  source: original
+  tags: [wave1, M1, discovery, rule-35]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CIV-0030
+  subject: CIV
+  coverage_ids: [CIV-MBE-III.E]
+  rule_ids: [R-CIV-071, R-CIV-073]
+  difficulty: 3
+  stem: >-
+    After receiving a demand letter threatening suit over a defective shipment, Marlow Corp. failed to
+    suspend its routine 60-day email auto-deletion policy. As a result, emails among Marlow's sales
+    staff about the shipment were deleted and cannot be restored or obtained from any other source. In
+    the later federal suit, the court finds that Marlow acted negligently, but not with intent to
+    deprive the plaintiff of the information, and that the plaintiff was prejudiced by the loss. The
+    plaintiff asks the court to instruct the jury that it must presume the lost emails were unfavorable
+    to Marlow.
+  call: "How should the court respond?"
+  options:
+    A: "Give the instruction, because Marlow had a duty to preserve the emails and failed to do so."
+    B: "Give the instruction, because the plaintiff was prejudiced by the loss."
+    C: "Refuse the instruction and impose no measures, because negligent loss of electronically stored information is never sanctionable."
+    D: "Refuse the instruction, but order measures no greater than necessary to cure the prejudice."
+  answer: D
+  explanation_correct: >-
+    Under Rule 37(e) (R-CIV-071), if ESI that should have been preserved is lost because a party failed
+    to take reasonable steps, and it cannot be restored or replaced, the court (1) on finding prejudice
+    may order measures no greater than necessary to cure it, but (2) may presume the information was
+    unfavorable, give an adverse-inference instruction, or dismiss or default only on finding intent to
+    deprive. The duty arose with the demand letter, and the loss caused prejudice, but there was no
+    intent to deprive. Trap: giving the severe remedy for negligence.
+  explanation_each_wrong_option:
+    A: >-
+      Missing element. A breach of the duty to preserve opens the door to 37(e)(1) curative measures,
+      but an adverse-inference instruction requires intent to deprive.
+    B: >-
+      Prejudice supports only curative measures under 37(e)(1); the harsher 37(e)(2) measures turn on
+      intent, not prejudice.
+    C: >-
+      Overbroad. Negligent loss that causes prejudice permits curative measures under 37(e)(1); the
+      ordinary sanctions framework (R-CIV-073) does not displace that rule.
+  trap_type: missing-element
+  authority: ["FRCP 37(e)(1)-(2)"]
+  source: original
+  tags: [wave1, M1, discovery, esi, spoliation]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CIV-0031
+  subject: CIV
+  coverage_ids: [CIV-MBE-III.F]
+  rule_ids: [R-CIV-074, R-CIV-094]
+  difficulty: 3
+  stem: >-
+    Quill sued Ransom in state court for breach of contract and, before Ransom answered, filed a notice
+    voluntarily dismissing the action. Quill then sued Ransom on the same claim in federal court,
+    invoking diversity jurisdiction. Before Ransom served an answer or a motion for summary judgment,
+    Quill again filed a notice of voluntary dismissal under Rule 41(a)(1)(A)(i). Quill has now sued
+    Ransom a third time on the same claim in federal court. Ransom moves to dismiss on the ground that
+    the second dismissal bars the claim.
+  call: "How should the court rule on Ransom's motion?"
+  options:
+    A: "Deny it, because a voluntary dismissal by notice is always without prejudice."
+    B: "Deny it, because the first dismissal occurred in state court and does not count."
+    C: "Grant it, because a notice of dismissal operates as an adjudication on the merits when the plaintiff previously dismissed an action in any federal or state court based on the same claim."
+    D: "Grant it, because a plaintiff may voluntarily dismiss a federal action only with the court's approval."
+  answer: C
+  explanation_correct: >-
+    A plaintiff may dismiss without a court order by filing a notice before the opposing party serves
+    an answer or a summary-judgment motion, and the dismissal is ordinarily without prejudice. But under
+    the two-dismissal rule, if the plaintiff previously dismissed any federal- or state-court action
+    based on or including the same claim, the notice of dismissal operates as an adjudication on the
+    merits (FRCP 41(a)(1)(B); R-CIV-074). Quill's second dismissal therefore bars the third suit by
+    claim preclusion (R-CIV-094). Trap: forgetting that a state-court dismissal counts.
+  explanation_each_wrong_option:
+    A: >-
+      Overbroad. The default is without prejudice, but the two-dismissal exception makes the second
+      notice dismissal an adjudication on the merits.
+    B: >-
+      Rule 41(a)(1)(B) expressly counts a prior dismissal of "any federal- or state-court action."
+    D: >-
+      Before the defendant serves an answer or summary-judgment motion, a plaintiff may dismiss by notice
+      without a court order.
+  trap_type: exception-trap
+  authority: ["FRCP 41(a)(1)(A)(i)", "FRCP 41(a)(1)(B)"]
+  source: original
+  tags: [wave1, M1, voluntary-dismissal, two-dismissal-rule]
+  status: draft
+  last_verified: 2026-11-04

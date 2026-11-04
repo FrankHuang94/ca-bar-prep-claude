@@ -1,0 +1,382 @@
+# Contracts — NCBE category V: Remedies (wave 1, original items)
+questions:
+- id: Q-CTR-0038
+  subject: CTR
+  coverage_ids: [CTR-MBE-V.A]
+  rule_ids: [R-CTR-102, R-CTR-094, R-CTR-095]
+  difficulty: 2
+  stem: >-
+    Tessler Bakery signed a contract to buy a commercial dough mixer from Unity Equipment for $20,000,
+    with delivery to take place at Unity's warehouse on June 1. Tessler had paid nothing. On June 1,
+    Unity told Tessler that it would not deliver the mixer. That day, the market price of a comparable
+    mixer at Unity's warehouse was $24,500. Tessler reasonably spent $400 on calls and travel looking
+    for a substitute, then decided to make do with its old mixer and did not buy a replacement. Tessler
+    sued Unity. No consequential damages are claimed.
+  call: "How much can Tessler recover?"
+  options:
+    A: "$400, because a buyer that fails to cover is limited to its out-of-pocket expenses."
+    B: "$4,500, because a buyer that does not cover may not recover incidental damages."
+    C: "$4,900, the difference between the market price when Tessler learned of the breach and the contract price, plus incidental damages."
+    D: "Nothing, because Tessler failed to mitigate by buying a substitute mixer."
+  answer: C
+  explanation_correct: >-
+    For non-delivery in a sale of goods, a buyer that does not cover may recover the market price at
+    the time it learned of the breach, measured at the place for tender, minus the contract price,
+    plus incidental and consequential damages, less expenses saved (UCC §§ 2-711, 2-713; R-CTR-102).
+    That is $24,500 - $20,000 = $4,500. Reasonable expenses of searching for a substitute are incidental
+    damages (§ 2-715(1); R-CTR-094): $4,500 + $400 = $4,900. Cover is optional; failing to cover bars
+    only consequential losses cover would have prevented (§ 2-712(3); R-CTR-095). Trap: treating cover
+    as mandatory.
+  explanation_each_wrong_option:
+    A: >-
+      Confuses the measures. A non-covering buyer still recovers the market-contract differential under
+      § 2-713.
+    B: >-
+      Section 2-713 expressly adds incidental damages to the market differential whether or not the
+      buyer covers.
+    D: >-
+      Wrong standard. Under § 2-712(3), a buyer's failure to cover does not bar any other remedy; it
+      only limits consequential damages that cover would have avoided.
+  trap_type: wrong-standard
+  authority: ["UCC § 2-711", "UCC § 2-712(3)", "UCC § 2-713", "UCC § 2-715(1)"]
+  source: original
+  tags: [wave1, M1, ucc, buyer-remedies, market-damages]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CTR-0039
+  subject: CTR
+  coverage_ids: [CTR-MBE-V.A]
+  rule_ids: [R-CTR-090, R-CTR-089, R-CTR-095]
+  difficulty: 3
+  stem: >-
+    Haverford Builders contracted to build a warehouse for Oakmont Storage for $900,000, payable in
+    installments as work progressed. Haverford's total cost to complete the job would have been
+    $750,000. After Haverford had spent $300,000 on labor and materials and had been paid $200,000,
+    Oakmont wrongfully repudiated the contract. Haverford immediately stopped work. The work and
+    materials already incorporated into the site have no salvage value to Haverford.
+  call: "What is the proper measure of Haverford's damages?"
+  options:
+    A: "$700,000, the unpaid balance of the contract price."
+    B: "$150,000, its expected profit on the whole contract."
+    C: "$100,000, its costs incurred less the payments it received."
+    D: "$250,000, its expected profit plus the costs it incurred, less the payments it received."
+  answer: D
+  explanation_correct: >-
+    When an owner breaches a construction contract, the builder recovers its expected profit plus the
+    costs already incurred, less payments received; equivalently, the contract price minus the cost
+    saved by not finishing, minus payments (R-CTR-090; R-CTR-089; R2d § 347). Profit is $900,000 -
+    $750,000 = $150,000; adding $300,000 of costs and subtracting $200,000 paid gives $250,000. Check:
+    $900,000 - $450,000 cost saved - $200,000 paid = $250,000. Haverford properly stopped work after the
+    repudiation (R-CTR-095). Trap: picking a single component instead of the full formula.
+  explanation_each_wrong_option:
+    A: >-
+      Ignores the $450,000 Haverford saved by not finishing; awarding it would leave Haverford better
+      off than full performance.
+    B: >-
+      Leaves Haverford $100,000 short: it has spent $300,000 but been repaid only $200,000, and those
+      unreimbursed costs must be recovered on top of the profit.
+    C: >-
+      This is a net reliance figure and omits the profit Haverford would have earned, which expectation
+      damages protect.
+  trap_type: wrong-standard
+  authority: ["R2d § 347", "R2d § 348"]
+  source: original
+  tags: [wave1, M1, damages, construction]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CTR-0040
+  subject: CTR
+  coverage_ids: [CTR-MBE-V.A]
+  rule_ids: [R-CTR-100, R-CTR-099, R-CTR-101]
+  difficulty: 3
+  stem: >-
+    Seaside Kayak Co., a retail dealer that can obtain from its manufacturer as many kayaks as it can
+    sell, signed a contract to sell a new touring kayak to Delgado for $3,000. Seaside's cost for the
+    kayak was $2,000. Delgado repudiated before delivery. A week later, Seaside sold the same kayak to
+    another customer for $3,000. Seaside reasonably spent $50 storing the kayak in the meantime.
+    Seaside sued Delgado.
+  call: "How much can Seaside most likely recover?"
+  options:
+    A: "$1,050, its lost profit on the sale to Delgado plus its incidental damages."
+    B: "$50, because the resale price equaled the contract price, so Seaside lost nothing but its storage cost."
+    C: "$1,000, because a seller may not recover incidental damages in addition to lost profit."
+    D: "$3,050, the full contract price plus incidental damages, because Delgado repudiated."
+  answer: A
+  explanation_correct: >-
+    Seaside is a lost-volume seller: it had an unlimited supply and would have made both the sale to
+    Delgado and the sale to the second customer. The resale-or-market measure would leave it worse off
+    than performance, so under UCC § 2-708(2) (R-CTR-100; Neri v. Retail Marine) it recovers the profit
+    it would have made ($3,000 - $2,000 = $1,000) plus incidental damages under § 2-710 ($50), for
+    $1,050. Trap: treating the resale as mitigation that wipes out the loss.
+  explanation_each_wrong_option:
+    B: >-
+      Treats the resale as a substitute for Delgado's sale. For a lost-volume seller the second sale
+      would have happened anyway, so it does not reduce damages.
+    C: >-
+      Section 2-708(2) expressly allows incidental damages "as provided in section 2-710" in addition
+      to lost profit.
+    D: >-
+      The action for the price (§ 2-709; R-CTR-101) lies only for accepted goods, goods lost after risk
+      passed, or identified goods that cannot reasonably be resold. Seaside resold the kayak.
+  trap_type: confused-rule
+  authority: ["UCC § 2-708(2)", "UCC § 2-710", "UCC § 2-709", "Neri v. Retail Marine Corp., 30 N.Y.2d 393, 285 N.E.2d 311 (1972)"]
+  source: original
+  tags: [wave1, M1, ucc, seller-remedies, lost-volume]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CTR-0041
+  subject: CTR
+  coverage_ids: [CTR-MBE-V.B]
+  rule_ids: [R-CTR-092, R-CTR-093]
+  difficulty: 2
+  stem: >-
+    Vasquez Printing hired Rapid Repair to fix its only large-format press for $3,000, and Rapid
+    promised to finish by Monday. Rapid knew that this was the shop's only large-format press and that
+    the shop used it daily for customer orders. Rapid did not know that Vasquez had a separate contract
+    to print 50,000 campaign posters by Wednesday, which would have earned a $40,000 profit and which
+    allowed the client to cancel if the posters were late. Rapid finished on Thursday, without excuse.
+    The poster client canceled, and Vasquez also lost a proven $2,500 in profits on routine orders it
+    could not print from Monday through Thursday. Vasquez sued Rapid.
+  call: "What damages can Vasquez most likely recover?"
+  options:
+    A: "$42,500, all profits lost as a direct result of the delay."
+    B: "Nothing, because lost profits are never recoverable for breach of a repair contract."
+    C: "$2,500 for the routine orders, but not the $40,000 lost on the poster contract."
+    D: "$40,000, because losing the poster contract was the most direct consequence of the delay."
+  answer: C
+  explanation_correct: >-
+    Under Hadley v. Baxendale (R-CTR-092; R2d § 351), damages are recoverable only for losses that were
+    foreseeable as a probable result of breach when the contract was made, either because they arise
+    in the ordinary course or because the breaching party knew of the special circumstances. Rapid knew
+    the press was the shop's only one and was used daily, so lost profits on routine orders were
+    foreseeable and are proven with reasonable certainty (R-CTR-093). The poster contract was a special
+    circumstance Rapid did not know of, so that $40,000 is not recoverable. Trap: equating causation
+    with recoverability.
+  explanation_each_wrong_option:
+    A: >-
+      Missing element. Causation is not enough; each item of loss must also have been foreseeable at
+      contracting.
+    B: >-
+      Overbroad. Lost profits are recoverable when foreseeable and proved with reasonable certainty.
+    D: >-
+      The poster loss was caused by the delay but was not foreseeable to Rapid when it contracted,
+      because Rapid had no notice of the special contract.
+  trap_type: missing-element
+  authority: ["Hadley v. Baxendale (1854) 9 Ex. 341", "R2d § 351", "R2d § 352"]
+  source: original
+  tags: [wave1, M1, damages, foreseeability]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CTR-0042
+  subject: CTR
+  coverage_ids: [CTR-MBE-V.C]
+  rule_ids: [R-CTR-096]
+  difficulty: 1
+  stem: >-
+    Glenn hired Apex Web Design to build an online store for Glenn's small candle business for
+    $12,000, to be completed by March 1. The contract provided: "If Apex fails to complete the site by
+    March 1, Apex shall pay Glenn $5,000 per day of delay as liquidated damages." When the contract was
+    made, Glenn's online sales were projected at about $200 per day, and that loss was reasonably easy
+    to estimate. Apex finished three days late, and Glenn's actual lost profit was $450. Glenn sued for
+    $15,000.
+  call: "How much will Glenn most likely recover?"
+  options:
+    A: "$15,000, because the parties expressly labeled the amount liquidated damages."
+    B: "$450, because the clause is an unenforceable penalty."
+    C: "$15,000, because a stipulated-damages clause is enforceable whenever actual damages turn out to be lower than the stipulated amount."
+    D: "Nothing, because a penalty clause makes the entire contract unenforceable."
+  answer: B
+  explanation_correct: >-
+    A liquidated damages clause is enforceable only if the amount is reasonable in light of the
+    anticipated or actual loss and the difficulty of proving it (R-CTR-096; R2d § 356). $5,000 a day,
+    when the expected loss was about $200 a day and easy to estimate, is grossly disproportionate and
+    serves to punish. The clause is a penalty, and Glenn recovers his proven actual damages of $450.
+    Trap: trusting the label.
+  explanation_each_wrong_option:
+    A: >-
+      The parties' label does not control; courts look at the reasonableness of the amount and the
+      difficulty of estimating loss.
+    C: >-
+      Invents a test. A valid clause may be enforced even if actual loss is lower, but that presupposes
+      a reasonable forecast, which this clause was not.
+    D: >-
+      Only the penalty clause fails. The rest of the contract stands, and the injured party recovers
+      actual damages.
+  trap_type: wrong-standard
+  authority: ["R2d § 356", "UCC § 2-718(1)"]
+  source: original
+  tags: [wave1, M1, damages, liquidated-damages]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CTR-0043
+  subject: CTR
+  coverage_ids: [CTR-MBE-V.D]
+  rule_ids: [R-CTR-095, R-CTR-090, R-CTR-068]
+  difficulty: 2
+  stem: >-
+    A hospital hired Castillo Construction to build a parking structure for $400,000. Castillo's total
+    cost to build it would be $340,000. After Castillo had spent $90,000, the hospital's board canceled
+    the project and notified Castillo in writing to stop work. Believing the hospital had no right to
+    cancel, Castillo finished the structure anyway, spending an additional $250,000. Castillo had been
+    paid nothing. It sued the hospital for $400,000.
+  call: "How much is Castillo most likely to recover?"
+  options:
+    A: "$150,000, its costs incurred before the cancellation plus the profit it would have made."
+    B: "$340,000, its total costs, because Castillo acted in good faith in finishing the structure."
+    C: "$90,000, its costs before the cancellation, because a party cannot recover profit on a contract the other party has canceled."
+    D: "$400,000, because Castillo fully performed the contract."
+  answer: A
+  explanation_correct: >-
+    The hospital's notice was a repudiation (R-CTR-068). After a clear repudiation, the injured party
+    must not continue performing and running up damages; it cannot recover costs it could have avoided
+    by stopping (R-CTR-095; R2d § 350; Rockingham County v. Luten Bridge). Castillo recovers its
+    expectation measured as of the repudiation: $90,000 of costs incurred plus $60,000 of expected
+    profit ($400,000 - $340,000), or $150,000 (R-CTR-090). The $250,000 spent afterward is not
+    recoverable. Trap: rewarding continued performance after repudiation.
+  explanation_each_wrong_option:
+    B: >-
+      Good faith does not make avoidable post-repudiation costs recoverable, and this figure omits the
+      profit Castillo would have earned.
+    C: >-
+      Expectation damages include lost profit; a wrongful cancellation does not limit the injured party
+      to its reliance costs.
+    D: >-
+      Recovering the full price would make the hospital pay for $250,000 of work done after it told
+      Castillo to stop, which the avoidable-consequences rule forbids.
+  trap_type: confused-rule
+  authority: ["R2d § 350", "R2d § 347", "Rockingham County v. Luten Bridge Co., 35 F.2d 301 (4th Cir. 1929)"]
+  source: original
+  tags: [wave1, M1, damages, mitigation]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CTR-0044
+  subject: CTR
+  coverage_ids: [CTR-MBE-V.F]
+  rule_ids: [R-CTR-104, R-CTR-091]
+  difficulty: 2
+  stem: >-
+    Celeste, a nationally celebrated chef, signed a one-year contract to serve as head chef of
+    Marigold, a new restaurant, and promised in the contract not to work as a chef for any other
+    restaurant in the same city during that year. Two months into the term, Celeste quit and became
+    head chef at a competing restaurant two blocks away. Marigold sued Celeste, seeking an order
+    requiring her to return to work at Marigold.
+  call: "What relief is the court most likely to grant Marigold?"
+  options:
+    A: "An order requiring Celeste to return and serve as Marigold's head chef for the rest of the term."
+    B: "An injunction barring Celeste from working as a chef for another restaurant in the city for the rest of the term, because her services are unique and she expressly promised not to compete."
+    C: "Damages only, because courts never grant injunctive relief in personal-services contracts."
+    D: "Rescission of the contract and restitution of all salary Marigold paid Celeste."
+  answer: B
+  explanation_correct: >-
+    Courts will not order specific performance of a personal-services contract, because of the
+    difficulty of supervision and the policy against compelled service (R-CTR-104; R2d § 367). But a
+    court may enforce an employee's express promise not to work for competitors during the contract
+    term by a negative injunction, where the employee's services are unique and the restraint is
+    reasonable (Lumley v. Wagner). Marigold may also sue for damages (R-CTR-091). Trap: the "never"
+    distractor.
+  explanation_each_wrong_option:
+    A: >-
+      Specific performance of personal services is not available; a court will not order Celeste to
+      cook for Marigold.
+    C: >-
+      Overbroad. A negative injunction enforcing a reasonable non-compete during the term is a
+      recognized exception.
+    D: >-
+      Marigold received Celeste's services for two months; rescission and return of her salary would
+      not protect Marigold's expectation and is not the most likely relief.
+  trap_type: overbroad
+  authority: ["R2d § 367", "Lumley v. Wagner (1852) 1 De G.M. & G. 604"]
+  source: original
+  tags: [wave1, M1, equitable-remedies, specific-performance]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CTR-0045
+  subject: CTR
+  coverage_ids: [CTR-MBE-V.G]
+  rule_ids: [R-CTR-107, R-CTR-093]
+  difficulty: 1
+  stem: >-
+    Imani planned to open the first escape-room business in her region. She signed a two-year lease of
+    a storefront from Corliss and, in reliance on the lease, spent $38,000 building puzzle rooms that,
+    as Corliss knew, were designed for that space and could not be moved. Before the opening, Corliss
+    wrongfully repudiated the lease and rented the space to someone else. Imani's profit projections
+    were not based on any comparable business, and the court finds them too speculative to be proved
+    with reasonable certainty. Corliss offers no evidence that the business would have lost money.
+  call: "What is Imani most likely to recover?"
+  options:
+    A: "Nothing, because Imani cannot prove her lost profits with reasonable certainty."
+    B: "Nominal damages only, because the business never opened."
+    C: "Her projected profits for the two-year term, because Corliss's breach made those profits impossible to earn."
+    D: "$38,000 in reliance damages, the amount she spent in reliance on the lease."
+  answer: D
+  explanation_correct: >-
+    When expectation damages cannot be proved with reasonable certainty (R-CTR-093; R2d § 352), the
+    injured party may instead recover its reliance interest: expenditures made in preparation for or
+    performance of the contract, less any loss the breaching party proves would have occurred on full
+    performance (R-CTR-107; R2d § 349). Corliss proves no such loss, so Imani recovers $38,000. Trap:
+    concluding that uncertain profits mean no recovery.
+  explanation_each_wrong_option:
+    A: >-
+      Uncertainty bars the lost-profit claim, not every remedy; reliance damages are the standard
+      alternative.
+    B: >-
+      Nominal damages apply when a breach causes no provable loss. Imani's $38,000 outlay is a proven
+      loss.
+    C: >-
+      Speculative profits are not recoverable, however clearly the breach prevented them.
+  trap_type: wrong-standard
+  authority: ["R2d § 349", "R2d § 352"]
+  source: original
+  tags: [wave1, M1, damages, reliance]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CTR-0046
+  subject: CTR
+  coverage_ids: [CTR-MBE-V.H]
+  rule_ids: [R-CTR-109, R-CTR-096]
+  difficulty: 3
+  stem: >-
+    Ferris signed a contract to buy a used commercial espresso machine from Dalton Supply for $12,000
+    and paid a $3,000 deposit. The contract had no liquidated damages clause. Ferris then repudiated,
+    and Dalton withheld delivery. Dalton, which had no other machine of that kind and no way to obtain
+    one, resold the machine after proper notice in a commercially reasonable sale for $12,500 and
+    incurred no expenses in doing so. Ferris sued Dalton to recover his deposit.
+  call: "How much can Ferris recover?"
+  options:
+    A: "$2,500, his deposit less $500."
+    B: "$3,000, his entire deposit, because Dalton suffered no loss."
+    C: "Nothing, because a buyer who repudiates forfeits any deposit."
+    D: "$600, his deposit less 20 percent of the contract price."
+  answer: A
+  explanation_correct: >-
+    Under UCC § 2-718(2)(b) (R-CTR-109), when the seller justifiably withholds delivery because of the
+    buyer's breach and there is no liquidated damages clause, the buyer recovers its payments in excess
+    of 20% of the total price or $500, whichever is smaller. 20% of $12,000 is $2,400, so the smaller
+    figure is $500, and Ferris recovers $3,000 - $500 = $2,500. Under § 2-718(3), that sum could be
+    further offset by damages Dalton proved, but Dalton has none (a seller keeps any resale profit,
+    § 2-706(6)). Trap: forgetting the statutory retention, or applying the 20% figure without the "whichever
+    is smaller" limit.
+  explanation_each_wrong_option:
+    B: >-
+      Even with no provable loss, § 2-718(2)(b) lets the seller keep the smaller of 20% of the price or
+      $500.
+    C: >-
+      Overbroad. A breaching buyer is entitled to restitution of payments beyond the statutory or
+      liquidated amount and the seller's proven damages.
+    D: >-
+      Uses 20% of the price ($2,400) without applying "whichever is smaller"; the retained amount is
+      only $500.
+  trap_type: wrong-standard
+  authority: ["UCC § 2-718(2)-(3)", "UCC § 2-706(6)", "R2d § 374"]
+  source: original
+  tags: [wave1, M1, ucc, restitution, breaching-party]
+  status: draft
+  last_verified: 2026-11-04

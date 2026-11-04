@@ -1,0 +1,295 @@
+# Civil Procedure — NCBE category V: Motions (wave 1, original items)
+questions:
+- id: Q-CIV-0036
+  subject: CIV
+  coverage_ids: [CIV-MBE-V.A]
+  rule_ids: [R-CIV-047]
+  difficulty: 1
+  stem: >-
+    Talbot sued Wynn in federal court. Before answering, Wynn moved to dismiss for improper venue, and
+    the court denied the motion. Wynn then filed a second pre-answer motion, seeking dismissal for lack
+    of personal jurisdiction and for failure to state a claim on which relief can be granted. Both
+    defenses were available to Wynn when she filed her first motion.
+  call: "Which of Wynn's defenses has she waived?"
+  options:
+    A: "Both defenses, because Wynn omitted them from her first Rule 12 motion."
+    B: "Only the personal-jurisdiction defense; the failure-to-state-a-claim defense is preserved."
+    C: "Neither defense, because the court denied the first motion."
+    D: "Only the failure-to-state-a-claim defense, because jurisdictional defenses can be raised at any time."
+  answer: B
+  explanation_correct: >-
+    The defenses of lack of personal jurisdiction, improper venue, insufficient process and insufficient
+    service are waived if a party makes a Rule 12 motion and omits them when they were available (FRCP
+    12(g)(2), 12(h)(1); R-CIV-047). Wynn's personal-jurisdiction defense is therefore waived. Failure to
+    state a claim is preserved by Rule 12(h)(2): although Rule 12(g)(2) bars raising it in a successive
+    pre-answer motion, Wynn may assert it in her answer, by a Rule 12(c) motion, or at trial. Lack of
+    subject-matter jurisdiction is never waived. Trap: lumping all Rule 12 defenses together.
+  explanation_each_wrong_option:
+    A: >-
+      Overbroad. Only the 12(b)(2)-(5) defenses are waived by omission; failure to state a claim
+      survives under 12(h)(2).
+    C: >-
+      Waiver turns on omission from the first motion, not on how the court ruled on it.
+    D: >-
+      Backwards. Personal jurisdiction is the waivable defense; it is subject-matter jurisdiction that
+      can be raised at any time.
+  trap_type: confused-rule
+  authority: ["FRCP 12(g)(2)", "FRCP 12(h)(1)-(3)"]
+  source: original
+  tags: [wave1, M1, rule-12, waiver]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CIV-0037
+  subject: CIV
+  coverage_ids: [CIV-MBE-V.A]
+  rule_ids: [R-CIV-084, R-CIV-086]
+  difficulty: 2
+  stem: >-
+    Garnet sued her former employer, Pryor Corp., in federal court for wrongful termination. Pryor moved
+    under Rule 12(b)(6) to dismiss for failure to state a claim, attaching an affidavit from its
+    human-resources director and a severance agreement in which, Pryor contends, Garnet released all
+    claims against it. The complaint does not mention or rely on the severance agreement. The court
+    wants to consider both documents in ruling on the motion.
+  call: "Which of the following is correct?"
+  options:
+    A: "The court may consider the documents and decide the Rule 12(b)(6) motion on them, because a release is an affirmative defense."
+    B: "The court must deny the motion, because a Rule 12(b)(6) motion may never be decided once materials outside the pleadings have been filed."
+    C: "The court may consider the documents only if Garnet does not object to them."
+    D: "If the court considers the documents, it must treat the motion as one for summary judgment and give all parties a reasonable opportunity to present pertinent material."
+  answer: D
+  explanation_correct: >-
+    A Rule 12(b)(6) motion tests the complaint itself, documents attached to or incorporated in it, and
+    matters subject to judicial notice. If matters outside the pleadings are presented and not
+    excluded, the motion must be treated as one for summary judgment under Rule 56, and all parties
+    must have a reasonable opportunity to present all material pertinent to the motion (FRCP 12(d);
+    R-CIV-084, R-CIV-086). The affidavit and the unreferenced severance agreement are outside the
+    pleadings. Trap: deciding a pleadings motion on extrinsic evidence without converting it.
+  explanation_each_wrong_option:
+    A: >-
+      An affirmative defense such as release supports 12(b)(6) dismissal only if it appears on the face
+      of the complaint; here it depends on outside documents.
+    B: >-
+      Overbroad. The court may exclude the outside materials and decide the motion on the pleadings, or
+      consider them and convert the motion.
+    C: >-
+      The opposing party's consent is not the test; Rule 12(d) requires conversion and an opportunity to
+      respond whenever outside matters are considered.
+  trap_type: procedural-posture
+  authority: ["FRCP 12(b)(6), 12(d)", "FRCP 56"]
+  source: original
+  tags: [wave1, M1, rule-12, conversion]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CIV-0038
+  subject: CIV
+  coverage_ids: [CIV-MBE-V.A]
+  rule_ids: [R-CIV-085, R-CIV-086]
+  difficulty: 2
+  stem: >-
+    In a federal diversity action arising from an intersection collision, the plaintiff, Ruiz, testified
+    at her deposition that the traffic light was green for her when she entered the intersection. The
+    defendant moved for summary judgment, supported by sworn declarations from three disinterested
+    bystanders who say the light was red for Ruiz and a traffic engineer's declaration that the light's
+    timing records are consistent with the bystanders' account. No video or other record conclusively
+    shows the color of the light. Ruiz opposed the motion, citing her deposition testimony.
+  call: "How should the court rule on the motion?"
+  options:
+    A: "Deny it, because Ruiz's testimony creates a genuine dispute of material fact, and the court may not weigh credibility on summary judgment."
+    B: "Grant it, because the weight of the evidence overwhelmingly favors the defendant."
+    C: "Grant it, because a party's own testimony cannot create a genuine dispute of fact."
+    D: "Deny it, because summary judgment is never appropriate in negligence cases."
+  answer: A
+  explanation_correct: >-
+    Summary judgment is proper only if there is no genuine dispute as to any material fact and the
+    movant is entitled to judgment as a matter of law (FRCP 56(a); R-CIV-085). The court views the
+    evidence in the light most favorable to the non-movant and may not weigh evidence or decide
+    credibility (Anderson v. Liberty Lobby; Tolan v. Cotton). Ruiz's sworn deposition testimony, cited
+    in opposition as Rule 56(c) requires (R-CIV-086), creates a genuine dispute about the light, a
+    material fact. Nothing blatantly contradicts her account in the way a video might (Scott v. Harris).
+    Trap: weighing the evidence.
+  explanation_each_wrong_option:
+    B: >-
+      Wrong standard. Weighing which side has more or better witnesses is the jury's function, not the
+      court's on summary judgment.
+    C: >-
+      A party's own sworn testimony based on personal knowledge is competent evidence that can create a
+      genuine dispute.
+    D: >-
+      Overbroad. Summary judgment is available in negligence cases when no genuine dispute of material
+      fact exists.
+  trap_type: wrong-standard
+  authority: ["FRCP 56(a), (c)", "Anderson v. Liberty Lobby, Inc., 477 U.S. 242 (1986)", "Tolan v. Cotton, 572 U.S. 650 (2014)"]
+  source: original
+  tags: [wave1, M1, summary-judgment]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CIV-0039
+  subject: CIV
+  coverage_ids: [CIV-MBE-V.B]
+  rule_ids: [R-CIV-087]
+  difficulty: 2
+  stem: >-
+    In a federal jury trial of a products-liability claim, the plaintiff presented evidence that her
+    space heater was defectively designed because it lacked an automatic tip-over shutoff. Under the
+    governing law, she must prove that the defect caused the fire that damaged her home. Her only
+    witness on causation, the fire marshal, testified that the heater was found upright and undamaged
+    and that the fire started in a wall outlet on the other side of the room. No other evidence
+    addressed causation. When the plaintiff rested, the defendant moved for judgment as a matter of law,
+    specifying the lack of evidence that the defect caused the fire.
+  call: "How should the court rule on the motion?"
+  options:
+    A: "Deny it, because only the jury may decide whether the plaintiff has proved her claim."
+    B: "Deny it, because a motion for judgment as a matter of law may be made only after the jury returns its verdict."
+    C: "Grant it, because the plaintiff has been fully heard and a reasonable jury would not have a legally sufficient evidentiary basis to find causation."
+    D: "Grant it only if the judge personally finds the defendant's evidence more credible than the plaintiff's."
+  answer: C
+  explanation_correct: >-
+    Under Rule 50(a) (R-CIV-087), once a party has been fully heard on an issue in a jury trial, the
+    court may grant judgment as a matter of law if a reasonable jury would not have a legally sufficient
+    evidentiary basis to find for that party on the issue. The motion may be made any time before the
+    case is submitted to the jury, and it must specify the law and facts entitling the movant to
+    judgment. The only causation evidence points away from the heater, so no reasonable jury could find
+    the essential element of causation without speculating. Trap: thinking the judge can never take a
+    case from the jury.
+  explanation_each_wrong_option:
+    A: >-
+      JMOL is consistent with the Seventh Amendment; when the evidence is legally insufficient, there is
+      nothing for the jury to decide.
+    B: >-
+      Confuses the Rule 50(a) motion, made before submission, with the renewed Rule 50(b) motion made
+      after the verdict.
+    D: >-
+      Wrong standard. On JMOL the court views the evidence most favorably to the non-movant and does not
+      make credibility determinations.
+  trap_type: procedural-posture
+  authority: ["FRCP 50(a)", "Reeves v. Sanderson Plumbing Products, Inc., 530 U.S. 133 (2000)", "Galloway v. United States, 319 U.S. 372 (1943)"]
+  source: original
+  tags: [wave1, M1, jmol, directed-verdict]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CIV-0040
+  subject: CIV
+  coverage_ids: [CIV-MBE-V.B]
+  rule_ids: [R-CIV-088, R-CIV-089]
+  difficulty: 2
+  stem: >-
+    In a federal jury trial, the defendant believed that the plaintiff's evidence of damages was legally
+    insufficient, but it made no motion before the case was submitted to the jury. The jury returned a
+    verdict for the plaintiff, and judgment was entered. Twenty days later, the defendant filed a
+    renewed motion for judgment as a matter of law arguing that the evidence of damages was
+    insufficient and, in the alternative, a motion for a new trial on the ground that the verdict was
+    against the clear weight of the evidence.
+  call: "Which of the following is correct?"
+  options:
+    A: "The court may grant the renewed motion for judgment as a matter of law, because it was filed within 28 days after entry of judgment."
+    B: "The court must deny the renewed motion for judgment as a matter of law, but it may consider the new-trial motion, which was timely."
+    C: "The court must deny both motions, because the defendant made no motion before the case went to the jury."
+    D: "The court may grant either motion, because the 28-day period for post-trial motions may be extended for good cause."
+  answer: B
+  explanation_correct: >-
+    A renewed motion under Rule 50(b) may be made only if the movant made a Rule 50(a) motion before the
+    case was submitted, and it is limited to the grounds raised there (R-CIV-088; Unitherm Food Systems
+    v. Swift-Eckrich). With no pre-verdict motion there is nothing to renew. A Rule 59 motion for a new
+    trial has no such prerequisite; it must be filed within 28 days after entry of judgment, and this
+    one was filed after 20 (R-CIV-089). Trap: assuming the missing 50(a) motion forfeits every
+    post-trial remedy.
+  explanation_each_wrong_option:
+    A: >-
+      Timeliness is necessary but not sufficient; a Rule 50(b) motion requires a prior Rule 50(a) motion.
+    C: >-
+      Overbroad. The missing pre-verdict motion bars only the renewed JMOL motion; a timely new-trial
+      motion may still be considered.
+    D: >-
+      The 28-day deadlines for Rules 50(b) and 59 cannot be extended (FRCP 6(b)(2)).
+  trap_type: missing-element
+  authority: ["FRCP 50(b)", "FRCP 59(a)-(b)", "FRCP 6(b)(2)", "Unitherm Food Systems, Inc. v. Swift-Eckrich, Inc., 546 U.S. 394 (2006)"]
+  source: original
+  tags: [wave1, M1, renewed-jmol, new-trial]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CIV-0041
+  subject: CIV
+  coverage_ids: [CIV-MBE-V.C]
+  rule_ids: [R-CIV-089]
+  difficulty: 2
+  stem: >-
+    In a federal diversity action for personal injuries, the jury found the defendant liable and awarded
+    the plaintiff $4,000. The plaintiff's evidence showed medical expenses of about $60,000, which the
+    defendant disputed in part, plus substantial pain and suffering. The court concludes that the award
+    is grossly inadequate. The plaintiff moves for an order increasing the award to $90,000.
+  call: "What may the court do?"
+  options:
+    A: "It may not increase the award, but it may order a new trial, at least on damages."
+    B: "It may increase the award to $90,000 unless the defendant elects a new trial instead."
+    C: "It may increase the award to $90,000, because the plaintiff proved substantial medical expenses."
+    D: "It must enter judgment on the verdict, because the Seventh Amendment forbids a new trial once a jury has assessed damages."
+  answer: A
+  explanation_correct: >-
+    A federal court may grant a new trial when damages are inadequate or excessive (FRCP 59(a);
+    R-CIV-089), and for an excessive verdict it may offer remittitur. But additur, increasing a jury's
+    award (even with the defendant's option of a new trial), violates the Seventh Amendment (Dimick v.
+    Schiedt). Because the damages here are disputed and unliquidated, the court's remedy is a new trial,
+    on damages alone or on all issues if the low award suggests a compromise verdict. Trap: importing
+    additur, which some state courts allow.
+  explanation_each_wrong_option:
+    B: >-
+      This describes additur, which Dimick forbids in federal court even when the defendant may choose a
+      new trial instead.
+    C: >-
+      The court cannot substitute its own damages figure for the jury's on disputed, unliquidated
+      damages.
+    D: >-
+      Granting a new trial for an inadequate or excessive verdict is a long-recognized common-law
+      practice consistent with the Seventh Amendment.
+  trap_type: confused-rule
+  authority: ["FRCP 59(a)", "Dimick v. Schiedt, 293 U.S. 474 (1935)", "U.S. Const. amend. VII"]
+  source: original
+  tags: [wave1, M1, new-trial, additur, remittitur]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CIV-0042
+  subject: CIV
+  coverage_ids: [CIV-MBE-V.C]
+  rule_ids: [R-CIV-090, R-CIV-076]
+  difficulty: 3
+  stem: >-
+    On March 1, 2025, a federal court entered a default judgment against Lindqvist after her lawyer,
+    through a calendaring error, failed to file an answer. Lindqvist learned of the judgment in April
+    2025 but did nothing until May 15, 2026, when she moved under Rule 60(b)(1) to set aside the
+    judgment for excusable neglect, presenting a meritorious defense. In the alternative, she sought
+    relief under Rule 60(b)(6) on the same facts. The judgment is not void.
+  call: "How should the court rule?"
+  options:
+    A: "Grant relief under Rule 60(b)(1), because the motion was made within a reasonable time after Lindqvist decided to act."
+    B: "Grant relief under Rule 60(b)(6), because that clause has no fixed time limit and Lindqvist has a meritorious defense."
+    C: "Grant relief, because a default judgment may be set aside for good cause at any time."
+    D: "Deny relief, because a Rule 60(b)(1) motion must be made no more than a year after entry of the judgment, and Rule 60(b)(6) is unavailable for grounds covered by Rule 60(b)(1)."
+  answer: D
+  explanation_correct: >-
+    A Rule 60(b) motion must be made within a reasonable time, and for mistake, inadvertence, surprise
+    or excusable neglect (60(b)(1)), newly discovered evidence, or fraud, no more than a year after entry
+    of the judgment (FRCP 60(c)(1); R-CIV-090). Lindqvist moved more than 14 months after entry. The
+    catch-all in 60(b)(6) requires extraordinary circumstances and is not available when the ground for
+    relief falls within another clause, so it cannot be used to evade the one-year limit (Kemp v. United
+    States). Trap: using the catch-all to rescue an untimely 60(b)(1) motion.
+  explanation_each_wrong_option:
+    A: >-
+      The one-year limit for 60(b)(1)-(3) is an outer limit; "reasonable time" cannot extend it.
+    B: >-
+      Clause (6) is mutually exclusive with clauses (1)-(5); a calendaring error is excusable-neglect
+      territory under clause (1).
+    C: >-
+      "Good cause" is the standard for setting aside an entry of default before judgment (FRCP 55(c);
+      R-CIV-076); a default judgment is set aside only under Rule 60(b).
+  trap_type: exception-trap
+  authority: ["FRCP 60(b)(1), (b)(6), (c)(1)", "FRCP 55(c)", "Kemp v. United States, 596 U.S. 528 (2022)"]
+  source: original
+  tags: [wave1, M1, rule-60, relief-from-judgment]
+  status: draft
+  last_verified: 2026-11-04

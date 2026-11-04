@@ -1,0 +1,171 @@
+# Contracts — NCBE category III: Contract content and meaning (wave 1, original items)
+questions:
+- id: Q-CTR-0022
+  subject: CTR
+  coverage_ids: [CTR-MBE-III.A]
+  rule_ids: [R-CTR-050, R-CTR-049]
+  difficulty: 2
+  stem: >-
+    Kaplan signed a written agreement to invest $50,000 in Linden's start-up bakery in exchange for a
+    10% ownership interest. The writing contained a clause stating that it was "the complete and
+    exclusive agreement of the parties." When Kaplan refused to pay, Linden sued for breach. At trial,
+    Kaplan offers to testify that when they signed, the parties orally agreed that the writing would
+    not take effect unless Linden first obtained a $200,000 bank loan, which Linden never obtained.
+    Linden objects under the parol evidence rule.
+  call: "Should the court admit Kaplan's testimony?"
+  options:
+    A: "Yes, because evidence of an oral agreement that the writing would not take effect until a condition occurred is not barred by the parol evidence rule."
+    B: "No, because the merger clause makes the writing a complete integration, which excludes all evidence of prior or contemporaneous agreements."
+    C: "No, because evidence of an oral condition is admissible only if the writing itself refers to the condition."
+    D: "Yes, because the parol evidence rule applies only to agreements made before the writing, not to those made at the same time."
+  answer: A
+  explanation_correct: >-
+    The parol evidence rule bars evidence of prior or contemporaneous agreements offered to
+    contradict or supplement an integrated writing (R-CTR-049), but it does not bar evidence that the
+    parties agreed the writing would not become effective until a condition occurred (R-CTR-050; R2d
+    § 217). Such evidence goes to whether there is an operative contract at all, so even a merger clause
+    does not exclude it. Trap: treating a merger clause as an absolute bar.
+  explanation_each_wrong_option:
+    B: >-
+      Overbroad. A merger clause is strong evidence of complete integration, but the rule still admits
+      evidence of an oral condition precedent to effectiveness, fraud, mistake or ambiguity.
+    C: >-
+      Invents a requirement. The condition-precedent exception does not depend on the writing
+      mentioning the condition.
+    D: >-
+      Misstates the rule. It covers prior agreements and contemporaneous oral agreements; it is
+      subsequent agreements that fall outside it.
+  trap_type: overbroad
+  authority: ["R2d § 213", "R2d § 217"]
+  source: original
+  tags: [wave1, M1, parol-evidence, condition-precedent]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CTR-0023
+  subject: CTR
+  coverage_ids: [CTR-MBE-III.A]
+  rule_ids: [R-CTR-050, R-CTR-028]
+  difficulty: 1
+  stem: >-
+    Garrison hired Pell Landscaping under a signed written contract to build a stone patio for
+    $14,000, with completion "by May 1." The writing contained a merger clause but no clause
+    restricting later modifications. On April 10, after heavy rains, the parties orally agreed that
+    Pell would also dig a drainage trench for an additional $1,500 and that the completion date would
+    move to May 15. Pell finished everything on May 14. Garrison refused to pay the extra $1,500 and
+    claimed a deduction for late completion. At trial, Garrison objects under the parol evidence rule
+    to any evidence of the April 10 agreement.
+  call: "How should the court rule on the objection?"
+  options:
+    A: "Sustain it, because the writing contains a merger clause."
+    B: "Sustain it, because the April 10 agreement contradicts the completion date in the writing."
+    C: "Overrule it, because oral evidence is always admissible to explain what the parties meant by a written term."
+    D: "Overrule it, because the parol evidence rule does not apply to agreements made after the writing."
+  answer: D
+  explanation_correct: >-
+    The parol evidence rule applies only to prior and contemporaneous agreements; it never bars
+    evidence of a later modification (R-CTR-050; R2d § 213). The April 10 agreement came after the
+    writing, and the extra trench work supplied new consideration for it (R-CTR-028). The contract had
+    no no-oral-modification clause. Trap: applying the rule to subsequent agreements.
+  explanation_each_wrong_option:
+    A: >-
+      A merger clause speaks to agreements made before or at signing; it cannot integrate agreements
+      the parties had not yet made.
+    B: >-
+      Contradiction matters only for prior or contemporaneous agreements. A later agreement may change
+      the writing's terms.
+    C: >-
+      Overbroad. Extrinsic evidence to interpret an ambiguous term is admissible, but "always
+      admissible" is wrong, and interpretation is not the issue here.
+  trap_type: confused-rule
+  authority: ["R2d § 213", "R2d § 89"]
+  source: original
+  tags: [wave1, M1, parol-evidence, modification]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CTR-0024
+  subject: CTR
+  coverage_ids: [CTR-MBE-III.B]
+  rule_ids: [R-CTR-054, R-CTR-051, R-CTR-053]
+  difficulty: 3
+  stem: >-
+    Halsey Builders, a home builder, contracted in a signed writing to buy from Norcross Lumber
+    "10,000 2x4 studs, 8 feet long," for delivery to its construction site. Norcross delivered studs
+    measuring 1.5 by 3.5 inches. Halsey rejected them, claiming that "2x4" in the contract means
+    2 by 4 inches. Norcross offers evidence that throughout the lumber and construction trades, "2x4"
+    is regularly understood to describe a stud measuring 1.5 by 3.5 inches after drying and planing.
+    Halsey's purchasing agent testifies that he personally did not know of that usage.
+  call: "Is Norcross's evidence admissible to establish the meaning of \"2x4\" in the contract?"
+  options:
+    A: "No, because the written term \"2x4\" is unambiguous on its face."
+    B: "Yes, because a usage of trade regularly observed in the trade in which the parties are engaged gives meaning to the contract's terms whether or not a party actually knew of it."
+    C: "No, because evidence of trade usage may not be used to vary an express term of a written contract."
+    D: "Yes, but only if Norcross proves that Halsey's agent actually knew of the usage when the contract was made."
+  answer: B
+  explanation_correct: >-
+    For this sale of goods, a usage of trade in the vocation or trade in which the parties are engaged,
+    or of which they are or should be aware, is relevant to the meaning of their agreement and may give
+    particular meaning to its terms (UCC § 1-303(c)-(d); R-CTR-054). Under § 2-202(a) (R-CTR-051), even
+    a final writing may be explained by usage of trade, and the official comment rejects any
+    requirement that the language first be found ambiguous. Halsey is a builder in the construction
+    trade, so the usage binds it even if its agent was personally unaware. Trap: requiring actual
+    knowledge or facial ambiguity.
+  explanation_each_wrong_option:
+    A: >-
+      Under § 2-202, trade usage may explain the terms of a writing without a threshold finding of
+      ambiguity; and a trade term's ordinary meaning in the trade is its meaning (R-CTR-053).
+    C: >-
+      The usage does not contradict "2x4"; it explains what that trade term means. Express terms
+      prevail only over a usage that is truly inconsistent with them.
+    D: >-
+      Wrong standard. Parties are bound by usages of a trade in which they are engaged or of which they
+      should be aware; actual knowledge is not required.
+  trap_type: wrong-standard
+  authority: ["UCC § 1-303(c)-(e)", "UCC § 2-202 and cmt. 1"]
+  source: original
+  tags: [wave1, M1, ucc, interpretation, trade-usage]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CTR-0025
+  subject: CTR
+  coverage_ids: [CTR-MBE-III.C]
+  rule_ids: [R-CTR-055, R-CTR-023]
+  difficulty: 2
+  stem: >-
+    Nakamura, a software developer, signed an agreement giving Ellery, a sales agent, "the exclusive
+    right for two years to license Nakamura's scheduling software to dental offices in the state," in
+    exchange for 30% of all license fees from licenses Ellery arranged. The agreement did not state
+    that Ellery had to do anything. Six months later, Nakamura licensed the software directly to
+    several dental offices in the state. Ellery sued for breach. Nakamura argues that the agreement is
+    unenforceable because Ellery never promised to do anything.
+  call: "Is Nakamura's argument likely to succeed?"
+  options:
+    A: "Yes, because Ellery made no express promise, so the agreement lacked mutuality of obligation."
+    B: "Yes, because an exclusive agency agreement is enforceable only if it states minimum sales targets."
+    C: "No, because the exclusive arrangement implies a promise by Ellery to use reasonable efforts to license the software, which is consideration."
+    D: "No, because Ellery's later sales efforts supplied the missing consideration."
+  answer: C
+  explanation_correct: >-
+    When a contract grants an exclusive right whose value to the grantor depends entirely on the
+    grantee's efforts, courts imply a promise by the grantee to use reasonable efforts (Wood v. Lucy,
+    Lady Duff-Gordon; R2d § 204; R-CTR-055). That implied promise is consideration, so the agreement is
+    not illusory (R-CTR-023). Nakamura's direct licensing breached the exclusivity. (For sales of
+    goods, UCC § 2-306(2) codifies a best-efforts duty in exclusive dealing.) Trap: reaching the right
+    result through a weaker theory.
+  explanation_each_wrong_option:
+    A: >-
+      Courts supply the missing term; the implied reasonable-efforts promise furnishes mutuality.
+    B: >-
+      Invents a requirement. No minimum target is needed once a reasonable-efforts obligation is
+      implied.
+    D: >-
+      Right result, wrong reason. The agreement was binding from the start because of the implied
+      promise; it does not depend on whether Ellery later chose to perform.
+  trap_type: right-result-wrong-reason
+  authority: ["Wood v. Lucy, Lady Duff-Gordon, 222 N.Y. 88, 118 N.E. 214 (1917)", "R2d § 204", "R2d § 77"]
+  source: original
+  tags: [wave1, M1, implied-terms, illusory-promise]
+  status: draft
+  last_verified: 2026-11-04

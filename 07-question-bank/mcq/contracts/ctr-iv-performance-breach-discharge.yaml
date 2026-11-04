@@ -1,0 +1,508 @@
+# Contracts — NCBE category IV: Performance, breach and discharge (wave 1, original items)
+questions:
+- id: Q-CTR-0026
+  subject: CTR
+  coverage_ids: [CTR-MBE-IV.A]
+  rule_ids: [R-CTR-062, R-CTR-064]
+  difficulty: 2
+  stem: >-
+    Arlo leased a shop under a written three-year lease that gave him an option to renew for five more
+    years, "provided that Tenant gives Landlord written notice of renewal no later than June 30." Arlo
+    made no improvements to the shop and had not relied on renewal in any way; he simply forgot the
+    deadline. He mailed a renewal notice on July 2, and it arrived on July 3. The landlord, who had
+    been talking with a prospective new tenant, refused to renew. Arlo argues that his notice was only
+    two days late and that the landlord suffered no harm from the delay.
+  call: "Must the landlord renew the lease?"
+  options:
+    A: "Yes, because Arlo substantially performed the notice requirement."
+    B: "No, because timely written notice was an express condition requiring strict compliance, and no excuse for its non-occurrence applies."
+    C: "Yes, because the landlord suffered no harm from the two-day delay."
+    D: "No, because Arlo's late notice was a material breach of the lease."
+  answer: B
+  explanation_correct: >-
+    Language such as "provided that" creates an express condition, which must be strictly satisfied;
+    substantial performance is not enough (R-CTR-062; R2d § 224). Non-occurrence may be excused by
+    waiver, estoppel, prevention or to avoid a disproportionate forfeiture (R-CTR-064; R2d § 229), but
+    Arlo made no improvements and suffered no forfeiture; he simply lost an option he did not timely
+    exercise. The landlord did nothing to waive or prevent the notice. Trap: applying substantial
+    performance to an express condition.
+  explanation_each_wrong_option:
+    A: >-
+      Substantial performance satisfies constructive conditions, not express ones, which demand strict
+      compliance.
+    C: >-
+      Lack of prejudice to the landlord is not an excuse in itself; courts relieve against strict
+      compliance mainly to avoid a disproportionate forfeiture, which Arlo cannot show.
+    D: >-
+      Right result, wrong reason. Arlo promised nothing about renewing, so his late notice was not a
+      breach; it was the failure of a condition to the landlord's duty to renew.
+  trap_type: confused-rule
+  authority: ["R2d § 224", "R2d § 229", "R2d § 237"]
+  source: original
+  tags: [wave1, M1, conditions, express-condition]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CTR-0027
+  subject: CTR
+  coverage_ids: [CTR-MBE-IV.B]
+  rule_ids: [R-CTR-064, R-CTR-071, R-CTR-023]
+  difficulty: 2
+  stem: >-
+    Haddad signed a contract to buy Stone's house for $480,000. The contract provided: "Buyer's
+    obligations are conditioned on Buyer obtaining a mortgage loan of at least $380,000 at prevailing
+    interest rates within 30 days." Shortly after signing, Haddad found a house he liked better and
+    decided not to apply for any loan. When 30 days had passed, Haddad told Stone that the financing
+    condition had failed and that he was not bound. Stone sued for breach. At trial, Stone proved that
+    Haddad would easily have qualified for such a loan.
+  call: "Is Stone likely to prevail?"
+  options:
+    A: "No, because the financing condition did not occur, so Haddad's duty to buy never arose."
+    B: "No, because a condition within one party's control makes that party's promise illusory."
+    C: "Yes, because conditions in land contracts are disregarded whenever the seller is ready to perform."
+    D: "Yes, because Haddad's failure to make a good-faith effort to obtain the loan excused the condition."
+  answer: D
+  explanation_correct: >-
+    A party whose duty depends on a condition within its own influence has an implied duty to make
+    good-faith efforts to bring it about (R-CTR-071; R2d § 205). When that party wrongfully prevents or
+    hinders the condition, its non-occurrence is excused and the party's duty becomes due (prevention,
+    R-CTR-064). Haddad did not apply at all, for reasons unrelated to financing, and would have
+    qualified, so he cannot rely on the failed condition and is in breach. Trap: stopping at
+    "the condition did not occur."
+  explanation_each_wrong_option:
+    A: >-
+      Missing the excuse step. A condition that fails because the protected party prevented it is
+      excused.
+    B: >-
+      The implied duty of good-faith effort limits Haddad's discretion, so his promise was not
+      illusory (R-CTR-023).
+    C: >-
+      No such rule exists. Express conditions in land contracts are enforced unless excused.
+  trap_type: missing-element
+  authority: ["R2d § 205", "R2d § 225"]
+  source: original
+  tags: [wave1, M1, conditions, excuse, prevention]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CTR-0028
+  subject: CTR
+  coverage_ids: [CTR-MBE-IV.C]
+  rule_ids: [R-CTR-066, R-CTR-065, R-CTR-083]
+  difficulty: 2
+  stem: >-
+    Pioneer Paving contracted to resurface the private access road of a residential community for
+    $300,000, with completion "by August 1." The contract did not state that time was of the essence,
+    and nothing about the project made the exact date critical. Because a supplier delivered asphalt
+    late, Pioneer finished on August 9; the work otherwise fully conformed to the contract. The
+    community's only loss from the delay was $2,000 in extra traffic-control costs. The community
+    refused to pay anything, asserting that the late completion was a material breach.
+  call: "What is Pioneer most likely entitled to recover?"
+  options:
+    A: "$300,000 less the community's $2,000 of delay damages, because the late completion was a minor breach."
+    B: "Nothing, because Pioneer failed to finish by the date stated in the contract."
+    C: "Only the reasonable value of its work in quasi-contract, because a party in breach cannot sue on the contract."
+    D: "The full $300,000, because the supplier's late delivery excused Pioneer's delay."
+  answer: A
+  explanation_correct: >-
+    A breach is material only if it deprives the injured party of a substantial part of the benefit it
+    reasonably expected (R-CTR-066; R2d § 241). Absent a time-of-the-essence clause or circumstances
+    making timing vital, a short delay is usually a minor breach. The community got a fully conforming
+    road nine days late and lost $2,000, so Pioneer substantially performed (R-CTR-065) and may enforce
+    the price, less damages for the delay. Trap: treating any missed date as a material breach.
+  explanation_each_wrong_option:
+    B: >-
+      Treats the completion date as an express condition. Without time-of-the-essence language, a
+      delay is judged by materiality, and this one was minor.
+    C: >-
+      A party that has substantially performed may sue on the contract, subject to a deduction for
+      damages; restitution is the fallback only for a material breacher.
+    D: >-
+      A supplier's lateness is a risk the contractor ordinarily bears; it does not make performance
+      impracticable (R-CTR-083), so Pioneer still owes damages for the delay.
+  trap_type: confused-rule
+  authority: ["R2d § 237", "R2d § 241", "R2d § 242"]
+  source: original
+  tags: [wave1, M1, breach, material-breach]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CTR-0029
+  subject: CTR
+  coverage_ids: [CTR-MBE-IV.C]
+  rule_ids: [R-CTR-068, R-CTR-070]
+  difficulty: 3
+  stem: >-
+    Lyle Orchards agreed in a signed contract to sell Bexley Juice 400 tons of apples, delivery
+    October 1, for $120,000. In July, Lyle's owner told Bexley's buyer, "Hail hit part of our crop. We
+    might have trouble filling your whole order this year, but we're doing our best." Bexley
+    immediately sent Lyle a written notice canceling the contract and bought 400 tons of apples from
+    another grower. Lyle in fact had enough apples and tendered 400 conforming tons on October 1.
+    Bexley refused them, and Lyle sued for breach.
+  call: "Is Lyle likely to prevail?"
+  options:
+    A: "No, because Lyle's July statement was an anticipatory repudiation that entitled Bexley to cancel."
+    B: "No, because Bexley had reasonable grounds for insecurity, which permitted it to cancel immediately."
+    C: "Yes, because Lyle's statement was not an unequivocal refusal to perform; Bexley's remedy was to demand adequate assurance in writing, not to cancel."
+    D: "Yes, because a buyer may never suspend or cancel its own performance before the delivery date."
+  answer: C
+  explanation_correct: >-
+    An anticipatory repudiation requires a clear and unequivocal statement that a party will not or
+    cannot perform (R-CTR-068; UCC § 2-610). "We might have trouble ... but we're doing our best" is
+    equivocal. It gave Bexley reasonable grounds for insecurity, which entitled it to demand adequate
+    assurance in writing and, if commercially reasonable, suspend its own performance until it
+    received assurance (UCC § 2-609; R-CTR-070). Only a failure to give assurance within a reasonable
+    time, at most 30 days, would have been a repudiation. By canceling outright, Bexley itself
+    repudiated, and Lyle may recover. Trap: skipping the demand-for-assurance step.
+  explanation_each_wrong_option:
+    A: >-
+      An expression of doubt is not a repudiation; the statement must be unequivocal.
+    B: >-
+      Missing element. Reasonable insecurity permits a written demand for assurance and suspension,
+      not immediate cancellation.
+    D: >-
+      Overbroad. A buyer may suspend after a justified demand for assurance, and may cancel after an
+      actual repudiation or a failure to provide assurance.
+  trap_type: missing-element
+  authority: ["UCC § 2-609", "UCC § 2-610", "R2d § 250", "R2d § 251"]
+  source: original
+  tags: [wave1, M1, ucc, anticipatory-repudiation, adequate-assurance]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CTR-0030
+  subject: CTR
+  coverage_ids: [CTR-MBE-IV.C]
+  rule_ids: [R-CTR-076, R-CTR-072]
+  difficulty: 2
+  stem: >-
+    Brookside Hotel contracted in a signed writing to buy 1,000 bath towels a month for 12 months from
+    Tamsin Linens, each monthly shipment to be separately accepted and paid for. The fourth shipment
+    contained 1,000 towels, 60 of which had small loose threads along one hem. Tamsin promptly told
+    Brookside that it would replace the 60 towels within a week at its own expense. Brookside rejected
+    the entire fourth shipment and declared the whole contract canceled.
+  call: "Was Brookside entitled to do so?"
+  options:
+    A: "Yes, because the fourth shipment did not conform to the contract in every respect."
+    B: "No, because the defect did not substantially impair the value of that installment or of the whole contract, and Tamsin gave adequate assurance of cure."
+    C: "Yes, because a buyer may reject a nonconforming installment, and rejecting any installment ends an installment contract."
+    D: "No, because a buyer under an installment contract must accept every installment and is limited to damages."
+  answer: B
+  explanation_correct: >-
+    This is an installment contract for the sale of goods, so the perfect tender rule does not apply.
+    Under UCC § 2-612 (R-CTR-076), the buyer may reject an installment only if the nonconformity
+    substantially impairs the value of that installment and cannot be cured; if the seller gives
+    adequate assurance of cure, the buyer must accept it. The whole contract is breached only when a
+    default substantially impairs the value of the whole. Sixty towels with loose threads out of
+    1,000, with a prompt offer to replace them, meet neither test. Trap: applying perfect tender
+    (R-CTR-072) to an installment contract.
+  explanation_each_wrong_option:
+    A: >-
+      States the perfect tender rule of § 2-601, which § 2-612 displaces for installment contracts.
+    C: >-
+      Wrong on both points. Rejection of an installment is limited by substantial impairment and cure,
+      and cancellation of the whole requires substantial impairment of the whole contract.
+    D: >-
+      Overbroad. A buyer may reject an installment whose uncurable defect substantially impairs its
+      value, and may cancel if the whole contract is substantially impaired.
+  trap_type: confused-rule
+  authority: ["UCC § 2-612(2)-(3)", "UCC § 2-601"]
+  source: original
+  tags: [wave1, M1, ucc, installment-contract]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CTR-0031
+  subject: CTR
+  coverage_ids: [CTR-MBE-IV.E]
+  rule_ids: [R-CTR-057, R-CTR-060]
+  difficulty: 1
+  stem: >-
+    Dorsey, who runs a print shop, bought a used commercial printer from Calloway Equipment, a dealer
+    in used office machines. Calloway's signed sales contract described the item as a "Model 9000
+    printer, rated for 60 pages per minute." The same contract stated in bold capital letters: "SOLD AS
+    IS. NO WARRANTIES OF MERCHANTABILITY OR FITNESS." The machine delivered was actually a Model 7000,
+    rated for only 30 pages per minute. Dorsey sued Calloway for breach of warranty.
+  call: "Is Dorsey likely to prevail?"
+  options:
+    A: "Yes, because the description of the printer created an express warranty, and the disclaimer is inoperative to the extent it is inconsistent with that warranty."
+    B: "No, because the conspicuous \"as is\" clause excluded all warranties."
+    C: "No, because Dorsey could have inspected the printer before buying it."
+    D: "Yes, because a disclaimer of warranties is never effective in a sale by a merchant."
+  answer: A
+  explanation_correct: >-
+    In a sale of goods, any description of the goods that is part of the basis of the bargain creates
+    an express warranty that the goods will conform to it (UCC § 2-313(1)(b); R-CTR-057). Words
+    disclaiming warranties are inoperative to the extent they cannot reasonably be read consistently
+    with an express warranty (§ 2-316(1); R-CTR-060). "As is" excludes only implied warranties. A
+    30-page-per-minute Model 7000 does not match the description. Trap: reading "as is" as a
+    disclaimer of everything.
+  explanation_each_wrong_option:
+    B: >-
+      Overbroad. A conspicuous "as is" clause excludes implied warranties (§ 2-316(3)(a)), not an
+      express warranty created by the description.
+    C: >-
+      The examination rule in § 2-316(3)(b) concerns implied warranties and applies only if the buyer
+      actually examined the goods or refused to; it does not defeat an express warranty.
+    D: >-
+      Overbroad. Merchants may disclaim implied warranties if they use the proper form; the disclaimer
+      fails here only as to the express warranty.
+  trap_type: overbroad
+  authority: ["UCC § 2-313(1)(b)", "UCC § 2-316(1), (3)"]
+  source: original
+  tags: [wave1, M1, ucc, warranties, disclaimer]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CTR-0032
+  subject: CTR
+  coverage_ids: [CTR-MBE-IV.E]
+  rule_ids: [R-CTR-059, R-CTR-058, R-CTR-002]
+  difficulty: 3
+  stem: >-
+    Elena, a retired accountant, owned two pickup trucks and decided to sell one. Fisk told her that he
+    needed a truck to tow his 7,000-pound horse trailer up mountain roads, that he knew nothing about
+    trucks, and that he would rely on her to pick whichever of her two trucks could do the job. Elena
+    pointed to the smaller truck and said, "Take that one." Fisk bought it for $18,000 under a signed
+    bill of sale that said nothing about warranties. On its first mountain trip pulling the trailer,
+    the truck's transmission failed because the truck was not equipped to tow that weight on steep
+    grades. The truck was otherwise in good working order. Fisk sued Elena for breach of warranty.
+  call: "Is Fisk likely to prevail?"
+  options:
+    A: "No, because Elena is not a merchant, so the sale carried no implied warranty of any kind."
+    B: "Yes, because Elena breached the implied warranty of merchantability."
+    C: "No, because the signed bill of sale said nothing about warranties."
+    D: "Yes, because Elena had reason to know of Fisk's particular purpose and that he was relying on her judgment to select a suitable truck."
+  answer: D
+  explanation_correct: >-
+    The implied warranty of fitness for a particular purpose (UCC § 2-315; R-CTR-059) arises when the
+    seller, at contracting, has reason to know of a particular purpose and that the buyer is relying on
+    the seller's skill or judgment to select or furnish suitable goods. Unlike merchantability, it does
+    not require a merchant seller. Fisk told Elena his purpose and that he relied on her to choose, and
+    she chose. The truck was unfit for that purpose, and the bill of sale did not exclude the warranty,
+    which requires a conspicuous writing (§ 2-316(2)). Trap: carrying merchantability's merchant
+    requirement over to fitness.
+  explanation_each_wrong_option:
+    A: >-
+      Overbroad. The merchant requirement applies only to merchantability (§ 2-314; R-CTR-058,
+      R-CTR-002); the fitness warranty can arise from a casual seller.
+    B: >-
+      Elena does not deal in trucks, so no merchantability warranty arose, and the truck was fit for
+      the ordinary purposes of a pickup in any event.
+    C: >-
+      Implied warranties arise by law without any words in the contract, and silence does not
+      disclaim them.
+  trap_type: confused-rule
+  authority: ["UCC § 2-315", "UCC § 2-314(1)", "UCC § 2-316(2)"]
+  source: original
+  tags: [wave1, M1, ucc, warranties, fitness]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CTR-0033
+  subject: CTR
+  coverage_ids: [CTR-MBE-IV.F]
+  rule_ids: [R-CTR-073, R-CTR-072, R-CTR-065]
+  difficulty: 1
+  stem: >-
+    Orchid Florist ordered from Kiln Supply 50 white ceramic vases for delivery "on or before
+    May 10." Kiln delivered 50 blue vases on May 3. Orchid rejected them that day and notified Kiln
+    that the vases were the wrong color. On May 4, Kiln notified Orchid that it would deliver 50 white
+    vases by May 9. Orchid replied that it had decided to buy elsewhere and would not accept any further
+    delivery from Kiln.
+  call: "If Kiln tenders 50 conforming white vases on May 9, must Orchid accept them?"
+  options:
+    A: "No, because Kiln's first tender did not conform, and a buyer may cancel the contract upon any nonconforming tender."
+    B: "No, because delivering vases of the wrong color was a material breach of the contract."
+    C: "Yes, because the time for performance had not expired, and Kiln seasonably notified Orchid of its intent to cure."
+    D: "Yes, because the blue vases substantially conformed to the contract."
+  answer: C
+  explanation_correct: >-
+    Under the perfect tender rule, Orchid properly rejected the blue vases (UCC § 2-601; R-CTR-072). But
+    when the time for performance has not yet expired, the seller may cure by seasonably notifying the
+    buyer of its intention and then making a conforming delivery within the contract time (§ 2-508(1);
+    R-CTR-073). Kiln notified Orchid on May 4 and can deliver by May 10, so Orchid must accept the
+    conforming tender. Trap: forgetting the seller's right to cure.
+  explanation_each_wrong_option:
+    A: >-
+      Ignores § 2-508. A rejection of a nonconforming tender does not cut off the seller's right to cure
+      before the delivery deadline.
+    B: >-
+      Imports the common-law material-breach test; for goods the issue is perfect tender plus cure, and
+      the defect is curable here.
+    D: >-
+      Substantial performance (R-CTR-065) does not apply to a single-delivery sale of goods; Orchid
+      rightly rejected the blue vases. The answer turns on cure.
+  trap_type: exception-trap
+  authority: ["UCC § 2-508(1)", "UCC § 2-601"]
+  source: original
+  tags: [wave1, M1, ucc, perfect-tender, cure]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CTR-0034
+  subject: CTR
+  coverage_ids: [CTR-MBE-IV.F]
+  rule_ids: [R-CTR-078, R-CTR-002]
+  difficulty: 2
+  stem: >-
+    Rowan bought a $2,400 leather sofa from Hearth Home Furnishings, a furniture store. Rowan paid in
+    full, and the parties agreed that Rowan would pick the sofa up at the store's warehouse on
+    Saturday. On Thursday, Hearth called Rowan to say that the sofa was tagged with his name and ready
+    for pickup. On Friday night, before Rowan arrived, a fire that was not Hearth's fault destroyed the
+    warehouse and the sofa. The contract said nothing about risk of loss. Hearth refuses to refund
+    Rowan's money, claiming that the risk of loss had passed to Rowan.
+  call: "Who bore the risk of loss when the sofa was destroyed?"
+  options:
+    A: "Hearth, because it is a merchant seller and Rowan had not yet received the sofa."
+    B: "Rowan, because Hearth tendered delivery by notifying him that the sofa was ready for pickup."
+    C: "Rowan, because he had paid in full, so title had passed to him."
+    D: "Hearth, because a seller keeps the risk of loss until the buyer has both paid and inspected the goods."
+  answer: A
+  explanation_correct: >-
+    With no agreement, no breach, no carrier and no bailee, UCC § 2-509(3) (R-CTR-078) puts the risk on
+    the buyer on receipt of the goods if the seller is a merchant, and on tender of delivery if not.
+    Hearth sells furniture, so it is a merchant (R-CTR-002), and Rowan never received the sofa. The
+    risk stayed with Hearth. Trap: using the non-merchant tender rule, or assuming risk follows title.
+  explanation_each_wrong_option:
+    B: >-
+      Tender passes the risk only when the seller is not a merchant. A merchant seller keeps the risk
+      until the buyer takes physical possession.
+    C: >-
+      Under Article 2, risk of loss does not follow title or payment; § 2-509 governs.
+    D: >-
+      Wrong standard. Inspection plays no part in § 2-509(3); the test is receipt by the buyer when the
+      seller is a merchant.
+  trap_type: confused-rule
+  authority: ["UCC § 2-509(3)", "UCC § 2-104(1)"]
+  source: original
+  tags: [wave1, M1, ucc, risk-of-loss]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CTR-0035
+  subject: CTR
+  coverage_ids: [CTR-MBE-IV.F]
+  rule_ids: [R-CTR-079, R-CTR-077, R-CTR-078]
+  difficulty: 3
+  stem: >-
+    Marston Instruments contracted to sell Ridley Labs 20 digital microscopes, model DM-4, "F.O.B.
+    Marston's plant, Cleveland." Marston delivered 20 microscopes to a reputable carrier in Cleveland,
+    made a reasonable contract for their transport, and promptly notified Ridley. By mistake, the
+    shipment consisted of model DM-2 microscopes, an older and less capable model. The truck was
+    destroyed in a highway accident en route, without fault of either party, before Ridley learned of
+    the mix-up. Marston demands payment, arguing that the risk of loss passed to Ridley when the goods
+    were delivered to the carrier.
+  call: "Must Ridley pay for the microscopes?"
+  options:
+    A: "Yes, because under an F.O.B. seller's-plant shipment contract, the risk of loss passed to Ridley when the goods were duly delivered to the carrier."
+    B: "No, because the goods were so nonconforming that Ridley could have rejected them, so the risk of loss remained on Marston."
+    C: "Yes, because Ridley never rejected the goods before they were destroyed."
+    D: "No, because the risk of loss never passes to a buyer until the goods reach the buyer's place of business."
+  answer: B
+  explanation_correct: >-
+    "F.O.B. seller's plant" makes a shipment contract (R-CTR-077), under which the risk normally passes
+    when conforming goods are duly delivered to the carrier (UCC § 2-509(1)(a); R-CTR-078). But § 2-510(1)
+    (R-CTR-079) provides that when a tender or delivery so fails to conform as to give the buyer a right
+    to reject, the risk of loss remains on the seller until cure or acceptance. Shipping the wrong model
+    gave Ridley a right to reject, so the risk never passed. Trap: stopping at the F.O.B. term.
+  explanation_each_wrong_option:
+    A: >-
+      States the no-breach rule. The breach rule in § 2-510(1) overrides it when the seller ships
+      nonconforming goods.
+    C: >-
+      Ridley had no chance to reject before the loss. Under § 2-510(1) the question is whether a right
+      to reject existed, not whether it was exercised.
+    D: >-
+      Overbroad. In a shipment contract with conforming goods, risk passes on delivery to the carrier,
+      well before arrival.
+  trap_type: exception-trap
+  authority: ["UCC § 2-319(1)(a)", "UCC § 2-509(1)(a)", "UCC § 2-510(1)"]
+  source: original
+  tags: [wave1, M1, ucc, risk-of-loss, shipment-contract]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CTR-0036
+  subject: CTR
+  coverage_ids: [CTR-MBE-IV.G]
+  rule_ids: [R-CTR-083, R-CTR-082, R-CTR-084]
+  difficulty: 2
+  stem: >-
+    Whitcomb, a farmer, contracted in a signed writing to sell Granger Mills 1,000 bushels of wheat
+    "grown on Whitcomb's Riverside Farm" at $7 per bushel, for September delivery. In August, a flood
+    that neither party could have prevented destroyed the entire wheat crop on Riverside Farm. Wheat
+    was readily available elsewhere at $9 per bushel. Granger demanded that Whitcomb buy wheat on the
+    market and deliver it. When Whitcomb refused, Granger sued for damages.
+  call: "Is Whitcomb liable for failing to deliver?"
+  options:
+    A: "Yes, because Whitcomb could have performed by buying wheat elsewhere, so performance was not impossible."
+    B: "Yes, because an increase in the cost of performance does not excuse a seller."
+    C: "No, because the flood frustrated Granger's principal purpose in making the contract."
+    D: "No, because the contract required wheat from a particular farm, and the destruction of that source without Whitcomb's fault excused his performance."
+  answer: D
+  explanation_correct: >-
+    Where the parties' contract specifies a particular source, such as crops from a named field, the
+    continued existence of that source is a basic assumption of the contract. Its destruction, without
+    the seller's fault, makes performance impracticable and discharges the duty (R-CTR-083; UCC
+    § 2-615(a); R2d §§ 261, 263; R-CTR-082). Whitcomb promised Riverside Farm wheat, not wheat in
+    general, so he need not buy elsewhere. Trap: a true rule (cost increases do not excuse) that does
+    not fit the facts.
+  explanation_each_wrong_option:
+    A: >-
+      Ignores the specified source. Whitcomb's promise was limited to Riverside Farm wheat; wheat from
+      elsewhere would not be the contracted performance.
+    B: >-
+      True but irrelevant. A mere rise in cost does not excuse, but the excuse here is destruction of
+      the contract's specified source.
+    C: >-
+      Frustration of purpose (R-CTR-084) protects a party whose own principal purpose is destroyed;
+      Granger's purpose of buying wheat was not frustrated, and Granger is not the party seeking
+      excuse.
+  trap_type: true-but-irrelevant
+  authority: ["UCC § 2-615(a)", "R2d § 261", "R2d § 263"]
+  source: original
+  tags: [wave1, M1, ucc, impracticability]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CTR-0037
+  subject: CTR
+  coverage_ids: [CTR-MBE-IV.H]
+  rule_ids: [R-CTR-087, R-CTR-088, R-CTR-024]
+  difficulty: 3
+  stem: >-
+    Lucero owed Brandvold $10,000 on a matured, undisputed promissory note. Short of cash, Lucero
+    proposed that instead of paying money he would deliver his used tractor, worth about $8,000, to
+    Brandvold by June 1. Brandvold signed a written agreement to accept the tractor "in full
+    satisfaction of the note once it is delivered." Lucero failed to deliver the tractor on June 1 or
+    at any time afterward.
+  call: "What are Brandvold's rights?"
+  options:
+    A: "Brandvold may sue only on the agreement to deliver the tractor, because that agreement discharged the note."
+    B: "Brandvold may sue only on the note, because the agreement to accept the tractor lacked consideration."
+    C: "Brandvold may sue either on the original note or on the agreement to deliver the tractor."
+    D: "Brandvold has no claim on the note, because the tractor agreement was a novation that released Lucero."
+  answer: C
+  explanation_correct: >-
+    Brandvold agreed to accept a substitute performance in satisfaction once it was delivered, which
+    is an executory accord (R-CTR-087; R2d § 281). Until satisfaction, the original duty is suspended,
+    not discharged; if the obligor breaches the accord, the obligee may enforce either the original
+    duty or the accord. Delivering a tractor is a different performance from paying money, so the
+    accord had consideration even though the debt was undisputed (contrast part payment in money,
+    R-CTR-024). Trap: treating an executory accord as an immediate discharge.
+  explanation_each_wrong_option:
+    A: >-
+      Describes a substituted contract (R-CTR-088), which discharges the old duty at once. The words
+      "once it is delivered" show the parties intended discharge only on performance.
+    B: >-
+      A different performance (a tractor instead of money) is consideration for an accord, even for a
+      liquidated, undisputed debt.
+    D: >-
+      A novation substitutes a new party with the obligee's consent; no new party is involved here.
+  trap_type: confused-rule
+  authority: ["R2d § 281", "R2d § 279"]
+  source: original
+  tags: [wave1, M1, discharge, accord-and-satisfaction]
+  status: draft
+  last_verified: 2026-11-04

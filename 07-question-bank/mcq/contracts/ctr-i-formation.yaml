@@ -1,0 +1,617 @@
+# Contracts — NCBE category I: Formation of contracts (wave 1, original items)
+questions:
+- id: Q-CTR-0001
+  subject: CTR
+  coverage_ids: [CTR-MBE-I.A]
+  rule_ids: [R-CTR-015, R-CTR-007]
+  difficulty: 1
+  stem: >-
+    On March 1, Ortega, a house painter, mailed a signed letter to Kim, who owns a restaurant,
+    stating: "I will repaint the exterior of your restaurant during April for $9,000. This offer is
+    open until March 15." Kim received the letter on March 3. On March 6, Kim mailed Ortega a
+    properly addressed and stamped letter stating, "I accept your offer to repaint the restaurant for
+    $9,000." On March 7, before Kim's letter arrived, Ortega telephoned Kim and said, "I've taken a
+    bigger job; my offer is withdrawn." Kim's letter reached Ortega on March 8. Ortega refuses to do
+    the work.
+  call: "Is there an enforceable contract between Ortega and Kim?"
+  options:
+    A: "No, because Ortega revoked the offer before he received Kim's acceptance."
+    B: "Yes, because Kim's acceptance took effect when it was mailed, before Ortega's revocation reached Kim."
+    C: "Yes, because Ortega promised to keep the offer open until March 15."
+    D: "No, because a revocation made by telephone takes effect at once and overrides an acceptance sent by mail."
+  answer: B
+  explanation_correct: >-
+    Under the mailbox rule (R-CTR-015; R2d § 63; Adams v. Lindsell), an acceptance sent by a
+    reasonable means is effective when dispatched, while a revocation is effective only when the
+    offeree receives it (R-CTR-007; R2d § 42). Kim dispatched her acceptance on March 6; Ortega's
+    revocation did not reach Kim until March 7. The contract was formed on March 6, and the later
+    revocation came too late. The services can be performed within a year, so no writing is needed.
+    Trap: applying the receipt rule to the acceptance.
+  explanation_each_wrong_option:
+    A: >-
+      Confuses the two timing rules. The acceptance did not need to reach Ortega; it was effective on
+      dispatch (March 6), a day before the revocation was received.
+    C: >-
+      Right result, wrong reason. A promise to hold an offer open is not binding without
+      consideration (no option) and this is not a merchant's firm offer for goods, so Ortega could
+      have revoked before March 6 despite the March 15 language (R-CTR-007).
+    D: >-
+      A telephone revocation is effective when the offeree hears it (March 7), but that is after the
+      acceptance had already taken effect on dispatch. The medium of the revocation does not undo a
+      contract already formed.
+  trap_type: confused-rule
+  authority: ["R2d § 42", "R2d § 63", "Adams v. Lindsell (1818) 1 B. & Ald. 681"]
+  source: original
+  tags: [wave1, M1, mailbox-rule, revocation]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CTR-0002
+  subject: CTR
+  coverage_ids: [CTR-MBE-I.A]
+  rule_ids: [R-CTR-013, R-CTR-002]
+  difficulty: 2
+  stem: >-
+    Harbor Tools, a hardware wholesaler, sent Delmar Manufacturing, a maker of power drills, a
+    purchase order for the sale of 400 cordless drills at $85 each, delivery in 30 days. The order
+    said nothing about warranties. Delmar promptly returned its standard acknowledgment form, which
+    stated "We accept your order," repeated the quantity, price and delivery date, and added in its
+    printed terms: "Seller disclaims all implied warranties, including the warranty of
+    merchantability." Harbor never responded to the acknowledgment. Delmar shipped the drills and
+    Harbor paid for them. Many drills overheated in ordinary use, and Harbor sued Delmar for breach
+    of the implied warranty of merchantability. Delmar relies on the disclaimer.
+  call: "Is the disclaimer part of the parties' contract?"
+  options:
+    A: "Yes, because Harbor did not object to the disclaimer within a reasonable time after receiving the acknowledgment."
+    B: "Yes, because Delmar's acknowledgment was the last form exchanged before the goods were shipped and accepted."
+    C: "No, because the acknowledgment added a term and was therefore a counteroffer that Harbor never accepted."
+    D: "No, because between merchants an additional term that would materially alter the contract does not become part of it."
+  answer: D
+  explanation_correct: >-
+    This is a sale of goods, so UCC § 2-207 replaces the mirror-image rule. Delmar's acknowledgment
+    was a definite expression of acceptance and was not expressly conditional on Harbor's assent to
+    new terms, so a contract formed on Harbor's terms. The disclaimer is an additional term. Between
+    merchants (both parties deal in goods of the kind, R-CTR-002), an additional term becomes part of
+    the contract unless it materially alters it; a clause negating the standard warranty of
+    merchantability is the classic material alteration (R-CTR-013; § 2-207(2)(b) and cmt. 4). The
+    implied warranty therefore applies. Trap: the common-law "last shot" instinct.
+  explanation_each_wrong_option:
+    A: >-
+      Missing element. Silence lets an additional term in only if none of the three § 2-207(2)
+      exceptions applies. Because this term materially alters the bargain, Harbor did not need to
+      object.
+    B: >-
+      States the common-law last-shot rule, which § 2-207 rejects for goods. Shipment and payment do
+      not make the seller's form control.
+    C: >-
+      Mirror-image reasoning. Under § 2-207(1) a definite expression of acceptance operates as an
+      acceptance even though it adds terms, unless it is expressly conditional on assent to them.
+  trap_type: confused-rule
+  authority: ["UCC § 2-207(1)-(2) and cmt. 4", "UCC § 2-104(1)"]
+  source: original
+  tags: [wave1, M1, ucc, battle-of-forms]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CTR-0003
+  subject: CTR
+  coverage_ids: [CTR-MBE-I.A]
+  rule_ids: [R-CTR-010, R-CTR-007]
+  difficulty: 2
+  stem: >-
+    Brandt, who owns a vacant lot, told Ruiz, a landscaper: "If you clear all the brush and debris
+    from my lot by June 30, I will pay you $4,000. I don't want a promise from you; just get it done."
+    Ruiz said nothing, but on June 10 he brought his crew and equipment to the lot and cleared about
+    half of it that day. On the morning of June 11, as the crew was resuming work, Brandt arrived and
+    said, "I found someone cheaper. Stop work; our deal is off." Ruiz stopped and has demanded
+    payment.
+  call: "What is Ruiz's strongest argument that Brandt's statement on June 11 did not end Ruiz's right to earn the $4,000?"
+  options:
+    A: "Once Ruiz began the requested performance, an option contract arose, and Brandt could not revoke while Ruiz had time to complete the work."
+    B: "Brandt's offer invited acceptance by a promise, and Ruiz's arrival with his crew was a promise by conduct to finish the job."
+    C: "An offer that sets a deadline for performance is irrevocable until the deadline passes."
+    D: "Ruiz's preparations in assembling a crew and equipment made Brandt's offer binding however little work was done."
+  answer: A
+  explanation_correct: >-
+    Brandt's offer sought performance, not a promise, so it invited a unilateral contract. Under R2d
+    § 45 (R-CTR-010), when the offeree begins the invited performance, an option contract arises: the
+    offeror cannot revoke, although its duty to pay stays conditional on the offeree finishing within
+    the time allowed. Ruiz actually began clearing on June 10, so Brandt's June 11 revocation was
+    ineffective. If Brandt bars Ruiz from finishing, Brandt's prevention excuses the condition of
+    completion. Trap: treating a unilateral offer as freely revocable once work is under way.
+  explanation_each_wrong_option:
+    B: >-
+      Contradicts the offer. Brandt expressly said he did not want a promise; the offeror is master
+      of the offer, so this was an offer for a unilateral contract.
+    C: >-
+      A stated deadline does not make an offer irrevocable. Without consideration or another basis
+      for irrevocability, an offeror may revoke before acceptance (R-CTR-007).
+    D: >-
+      Overbroad. Mere preparation is not beginning performance under § 45; at most it may support
+      limited reliance protection under § 87(2) (R-CTR-011). Ruiz's strongest point is that he actually
+      started the work.
+  trap_type: confused-rule
+  authority: ["R2d § 45", "R2d § 42"]
+  source: original
+  tags: [wave1, M1, unilateral-contract]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CTR-0004
+  subject: CTR
+  coverage_ids: [CTR-CBX-II-IV]
+  rule_ids: [R-CTR-009, R-CTR-007]
+  difficulty: 1
+  stem: >-
+    Linwood Paper Co., a paper distributor, sent Ames Printing a letter on Linwood's letterhead,
+    signed by its sales manager, offering to sell "2,000 reams of 24-lb. bond paper at $6.10 per
+    ream" and stating, "We will hold this offer open for 45 days." Ames paid nothing for the promise.
+    Twelve days later, after paper prices rose, Linwood notified Ames that the offer was withdrawn.
+    On day 20, Ames sent Linwood a written acceptance. Linwood refuses to deliver. Assume any
+    applicable statute of frauds is satisfied.
+  call: "Is Linwood bound to sell the paper at $6.10 per ream?"
+  options:
+    A: "No, because Ames gave no consideration for Linwood's promise to keep the offer open."
+    B: "No, because Linwood withdrew the offer before Ames accepted it."
+    C: "Yes, because Linwood is a merchant that made a signed written offer to sell goods giving assurance it would be held open for less than three months."
+    D: "Yes, because Ames is a merchant that is entitled to rely on a stated acceptance period."
+  answer: C
+  explanation_correct: >-
+    UCC § 2-205 (R-CTR-009): a merchant's signed written offer to buy or sell goods that by its terms
+    gives assurance it will be held open is irrevocable, without consideration, for the time stated
+    (never more than three months). Linwood is a merchant, the offer was in a signed writing, it
+    assured 45 days, and Ames accepted on day 20. The day-12 withdrawal was ineffective, so a contract
+    formed. Trap: applying the common-law revocation rule (R-CTR-007) to a merchant's firm offer.
+  explanation_each_wrong_option:
+    A: >-
+      States the common-law option rule. For goods, § 2-205 makes a merchant's signed firm offer
+      irrevocable without consideration.
+    B: >-
+      True that Linwood tried to withdraw first, but the withdrawal had no effect during the
+      irrevocable period, so the later acceptance formed a contract.
+    D: >-
+      The offeree's status is irrelevant; § 2-205 looks to whether the offeror is a merchant. Nothing
+      in the facts shows reliance, and reliance is not the basis of the firm-offer rule.
+  trap_type: confused-rule
+  authority: ["UCC § 2-205", "UCC § 2-104(1)"]
+  source: original
+  tags: [wave1, M1, ucc, firm-offer]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CTR-0005
+  subject: CTR
+  coverage_ids: [CTR-CBX-II-IV]
+  rule_ids: [R-CTR-015, R-CTR-006]
+  difficulty: 3
+  stem: >-
+    On May 1, Petrov, a bookkeeper, mailed Lane an offer to keep the books for Lane's dental office
+    for six months at $1,500 per month. On May 4, Lane mailed Petrov a letter rejecting the offer. An
+    hour later Lane changed her mind and, the same day, sent Petrov a letter by overnight courier
+    stating, "Disregard my earlier letter. I accept your offer." The courier letter reached Petrov on
+    May 5. The mailed rejection reached Petrov on May 7. On May 6, Petrov had agreed to do work for a
+    new client, and he now says that he and Lane have no contract.
+  call: "Is there a contract between Petrov and Lane?"
+  options:
+    A: "Yes, because Lane's acceptance reached Petrov before her rejection did."
+    B: "Yes, because Lane's acceptance took effect when she dispatched it on May 4."
+    C: "No, because Lane's rejection was dispatched first and ended her power of acceptance."
+    D: "No, because once an offeree dispatches a rejection, any later acceptance is only a counteroffer, whatever the order of arrival."
+  answer: A
+  explanation_correct: >-
+    When an offeree sends a rejection and then an acceptance, the dispatch rule does not apply; the
+    acceptance is effective only if it arrives before the rejection (R2d § 40; R-CTR-015). Lane's
+    acceptance arrived May 5 and her rejection May 7, so a contract was formed before Petrov took on
+    the new client on May 6. A rejection itself is effective only on receipt (R-CTR-006). Six months of
+    services is outside the one-year statute of frauds. Trap: reflexively applying the mailbox rule.
+  explanation_each_wrong_option:
+    B: >-
+      Right result, wrong reason. Because a rejection had already been sent, the acceptance could not
+      take effect on dispatch; it counted only because it arrived first.
+    C: >-
+      A rejection terminates the power of acceptance only when the offeror receives it (R2d § 38), and
+      the acceptance arrived first.
+    D: >-
+      Overbroad. The later acceptance becomes a mere counteroffer only if the rejection arrives first;
+      here the acceptance won the race.
+  trap_type: right-result-wrong-reason
+  authority: ["R2d § 38", "R2d § 40", "R2d § 63"]
+  source: original
+  tags: [wave1, M1, mailbox-rule, rejection]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CTR-0006
+  subject: CTR
+  coverage_ids: [CTR-CBX-II-IV]
+  rule_ids: [R-CTR-016, R-CTR-072]
+  difficulty: 2
+  stem: >-
+    A restaurant-supply store ordered from Gardner Kitchenware, for prompt shipment, 60 stainless-
+    steel stockpots, model SP-20, at $45 each. Gardner was out of model SP-20 and, without sending
+    any message to the store, promptly shipped 60 model SP-16 stockpots, which are smaller. When the
+    shipment arrived, the store promptly rejected it, notified Gardner, and later sued Gardner for
+    breach of contract. Gardner argues that it never accepted the store's order and so cannot be in
+    breach.
+  call: "Which of the following is correct?"
+  options:
+    A: "Gardner is not liable, because shipping goods different from those ordered is a counteroffer, which the store rejected."
+    B: "Gardner is not liable, because an order for prompt shipment can be accepted only by a prompt promise to ship."
+    C: "Gardner is liable only if it knew, when it shipped, that the SP-16 stockpots did not conform to the order."
+    D: "Gardner is liable, because its shipment of nonconforming goods was both an acceptance of the order and a breach."
+  answer: D
+  explanation_correct: >-
+    In this sale of goods, UCC § 2-206(1)(b) (R-CTR-016) lets a seller accept an order for prompt
+    shipment either by promising to ship or by shipping. Shipping nonconforming goods is both an
+    acceptance and a breach unless the seller seasonably notifies the buyer that the shipment is
+    offered only as an accommodation. Gardner sent no such notice, so a contract formed and was
+    breached at the same moment, and the store could reject the nonconforming tender (R-CTR-072).
+    Trap: invoking the accommodation exception without its notice requirement.
+  explanation_each_wrong_option:
+    A: >-
+      Exception trap. Nonconforming goods are only a counteroffer if the seller seasonably tells the
+      buyer they are sent as an accommodation; Gardner said nothing.
+    B: >-
+      Misstates § 2-206(1)(b), which allows acceptance by a prompt promise to ship or by prompt
+      shipment.
+    C: >-
+      Adds an element that does not exist. The seller's knowledge is irrelevant; what matters is
+      whether it gave accommodation notice.
+  trap_type: exception-trap
+  authority: ["UCC § 2-206(1)(b)", "UCC § 2-601"]
+  source: original
+  tags: [wave1, M1, ucc, acceptance-by-shipment]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CTR-0007
+  subject: CTR
+  coverage_ids: [CTR-MBE-I.B]
+  rule_ids: [R-CTR-020, R-CTR-019]
+  difficulty: 1
+  stem: >-
+    Westfield Feed, a grain dealer, and Ochoa, a cattle rancher, signed a writing in which Westfield
+    agreed to sell and Ochoa agreed to buy "500 tons of No. 2 yellow corn, delivery October 15, price
+    to be agreed by the parties before delivery." Both parties intended to be bound. In September the
+    parties could not agree on a price, and Westfield announced that the deal was off because no
+    price had ever been agreed. Ochoa sued for breach.
+  call: "Is Ochoa likely to prevail?"
+  options:
+    A: "No, because price is an essential term, and an agreement to agree on it is unenforceable."
+    B: "No, because a writing without a price term does not satisfy the statute of frauds."
+    C: "Yes, because the parties intended to contract, so the price is a reasonable price at the time for delivery."
+    D: "Yes, but only if Ochoa proves the price the parties would have agreed on had they kept negotiating."
+  answer: C
+  explanation_correct: >-
+    This is a sale of goods. Under UCC §§ 2-204(3) and 2-305(1)(b) (R-CTR-019, R-CTR-020), a contract
+    does not fail for indefiniteness if the parties intended to contract and there is a reasonably
+    certain basis for a remedy; when the price is left to be agreed and the parties fail to agree, the
+    price is a reasonable price at the time for delivery. Both parties intended to be bound, so
+    Westfield's refusal is a breach. Trap: the common-law agreement-to-agree rule.
+  explanation_each_wrong_option:
+    A: >-
+      States the traditional common-law rule for an agreement to agree, which the UCC's open-price
+      gap filler displaces when the parties intended to be bound.
+    B: >-
+      Under § 2-201(1) the writing must state a quantity and be signed; it need not state a price.
+      The writing here states 500 tons and was signed by both parties.
+    D: >-
+      Wrong standard. The court supplies a reasonable price at the time for delivery; it does not
+      reconstruct a hypothetical negotiated price.
+  trap_type: confused-rule
+  authority: ["UCC § 2-204(3)", "UCC § 2-305(1)(b)", "UCC § 2-201(1)"]
+  source: original
+  tags: [wave1, M1, ucc, open-price, gap-fillers]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CTR-0008
+  subject: CTR
+  coverage_ids: [CTR-MBE-I.B]
+  rule_ids: [R-CTR-021, R-CTR-071]
+  difficulty: 2
+  stem: >-
+    Crestline Bakery agreed in a signed writing to buy from Millbrook Flour "all the flour Crestline
+    requires for its bakery operations" during the calendar year at $20 per hundredweight. In each of
+    the previous three years, Crestline had used between 9,000 and 10,000 hundredweight. In April,
+    when the market price of flour jumped to $31, Crestline ordered 30,000 hundredweight for delivery
+    over the rest of the year, planning to resell most of it to other bakeries at a profit. Millbrook
+    offered to ship quantities consistent with Crestline's past usage but refused to supply more.
+    Crestline sued for breach.
+  call: "Is Millbrook likely to be liable for refusing to supply the additional flour?"
+  options:
+    A: "Yes, because a requirements contract obligates the seller to supply whatever quantity the buyer orders."
+    B: "No, because Crestline's demand was not made in good faith and was unreasonably disproportionate to its prior requirements."
+    C: "No, because a requirements contract states no definite quantity and is unenforceable as illusory."
+    D: "Yes, because Millbrook assumed the risk of a rise in market price when it agreed to a fixed price."
+  answer: B
+  explanation_correct: >-
+    For this sale of goods, UCC § 2-306(1) (R-CTR-021) measures a requirements quantity by the
+    buyer's actual requirements as they occur in good faith, and no quantity unreasonably
+    disproportionate to normal prior requirements may be demanded. Crestline's order was about three
+    times its historical use and was driven by a plan to resell, not by its own bakery operations.
+    Good faith limits the buyer's discretion (R-CTR-071). Millbrook need supply only quantities in
+    line with Crestline's good-faith requirements. Trap: reading "all requirements" as unlimited.
+  explanation_each_wrong_option:
+    A: >-
+      Overbroad. The good-faith and disproportion limits in § 2-306(1) cap what the buyer may demand.
+    C: >-
+      Requirements contracts are enforceable; the buyer's good-faith requirements supply a definite
+      enough quantity and keep the promise from being illusory.
+    D: >-
+      True but irrelevant. Millbrook bore the price risk for Crestline's genuine requirements, not for
+      a speculative demand made in bad faith.
+  trap_type: overbroad
+  authority: ["UCC § 2-306(1)", "UCC § 1-304"]
+  source: original
+  tags: [wave1, M1, ucc, requirements-contract]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CTR-0009
+  subject: CTR
+  coverage_ids: [CTR-MBE-I.C]
+  rule_ids: [R-CTR-024, R-CTR-028]
+  difficulty: 2
+  stem: >-
+    Pace Construction contracted with Huang to build a detached garage for $60,000. Midway through
+    the job, the price of lumber rose about 15%, an increase of a kind that occurs regularly in the
+    building trade. Pace told Huang, "I'm losing money on this job. Agree to pay me $8,000 more or I'll
+    have to pull my crew." Huang, wanting the garage finished before winter, signed a note stating, "I
+    agree to pay Pace an additional $8,000 for completing the garage." Pace finished the garage
+    exactly as originally specified. Huang paid $60,000 but refuses to pay the extra $8,000, and Pace
+    sues for it.
+  call: "Is Pace likely to prevail?"
+  options:
+    A: "No, because Pace was already bound to build the garage, and the lumber price increase was not an unanticipated circumstance that made the modification fair and equitable."
+    B: "No, because the common law never enforces a promise to modify a contract unless new consideration is given."
+    C: "Yes, because Huang's promise to pay more was in a signed writing."
+    D: "Yes, because parties may always modify their contract, and Huang received the benefit of a finished garage."
+  answer: A
+  explanation_correct: >-
+    Performing a duty already owed to the promisor is not consideration, so a promise to pay more for
+    the same work is unenforceable at common law (R-CTR-024; R2d § 73; Alaska Packers). A construction
+    contract is not a sale of goods, so UCC § 2-209 does not apply. The R2d § 89(a) exception
+    (R-CTR-028) requires circumstances the parties did not anticipate that make the modification fair
+    and equitable; a routine, foreseeable rise in material costs does not qualify. Pace did nothing
+    new, so Huang's promise fails. Trap: overstating the rule (B) or overlooking it (C, D).
+  explanation_each_wrong_option:
+    B: >-
+      Right result, but overbroad. Modern common law enforces a modification without new
+      consideration when unanticipated circumstances make it fair and equitable, or to the extent of
+      reliance (§ 89).
+    C: >-
+      Under the Restatement and the MBE default rule, a signature is not a substitute for
+      consideration in this setting.
+    D: >-
+      The finished garage was exactly what Pace already owed, so it is not new consideration for the
+      extra $8,000.
+  trap_type: overbroad
+  authority: ["R2d § 73", "R2d § 89", "Alaska Packers' Ass'n v. Domenico, 117 F. 99 (9th Cir. 1902)"]
+  source: original
+  tags: [wave1, M1, consideration, pre-existing-duty]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CTR-0010
+  subject: CTR
+  coverage_ids: [CTR-MBE-I.D]
+  rule_ids: [R-CTR-026, R-CTR-022, R-CTR-027]
+  difficulty: 3
+  stem: >-
+    While visiting a building site owned by Mercer, Daley, a neighbor, saw a steel beam slipping from
+    a hoist toward Mercer, who was standing below. Daley ran over and pushed Mercer clear; the beam
+    struck Daley and permanently injured his leg. A week later Mercer, grateful, wrote and signed a
+    letter promising to pay Daley $300 per month for the rest of Daley's life. Mercer made the payments
+    for two years and then died. His estate refuses to pay more. Daley did nothing in reliance on the
+    promise other than accept the payments.
+  call: "In a jurisdiction that follows the Restatement (Second) of Contracts, which of the following is Daley's best argument for enforcing the promise?"
+  options:
+    A: "Mercer's promise was supported by consideration, because Daley's rescue was a legal detriment to Daley."
+    B: "Mercer's promise is enforceable under promissory estoppel, because Daley relied on it."
+    C: "Mercer's signed writing made the promise enforceable without consideration."
+    D: "Mercer's promise was made in recognition of a material benefit Daley conferred, not as a gift, and enforcing it is necessary to prevent injustice."
+  answer: D
+  explanation_correct: >-
+    The rescue happened before the promise, so it was not bargained for: past consideration is no
+    consideration (R-CTR-022). The modern exception in R2d § 86 (R-CTR-026) enforces a promise made in
+    recognition of a material benefit previously received from the promisee, to the extent necessary
+    to prevent injustice, where the benefit was not conferred as a gift and the promise is not
+    disproportionate to it (compare Webb v. McGowin with Mills v. Wyman). Daley saved Mercer from
+    serious injury at the cost of a permanent injury, which is the strongest available argument.
+    Trap: calling a past act consideration.
+  explanation_each_wrong_option:
+    A: >-
+      Past consideration. A detriment incurred before the promise was made was not given in exchange
+      for it, so it is not consideration.
+    B: >-
+      Promissory estoppel (R-CTR-027) needs action or forbearance induced by the promise. The facts
+      say Daley did nothing in reliance except accept payments.
+    C: >-
+      A signed writing is not a substitute for consideration under the Restatement, apart from narrow
+      categories such as options and guaranties.
+  trap_type: confused-rule
+  authority: ["R2d § 86", "R2d § 71", "Webb v. McGowin, 27 Ala. App. 82, 168 So. 196 (1935)", "Mills v. Wyman, 20 Mass. (3 Pick.) 207 (1825)"]
+  source: original
+  tags: [wave1, M1, material-benefit, past-consideration]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CTR-0011
+  subject: CTR
+  coverage_ids: [CTR-MBE-I.D]
+  rule_ids: [R-CTR-027, R-CTR-022, R-CTR-018]
+  difficulty: 1
+  stem: >-
+    Rosa told her grandson Eli, a warehouse worker, "I want to help you get ahead. I'll pay the $9,000
+    tuition for that two-year nursing program you've been talking about." Rosa asked for nothing in
+    return, but she knew Eli would have to quit his job to attend. Relying on Rosa's promise, Eli quit
+    his job, enrolled, and paid the first semester's tuition of $2,250 from his savings. Rosa then
+    told Eli that she had changed her mind and would pay nothing.
+  call: "What is Eli's best theory for recovering from Rosa?"
+  options:
+    A: "Breach of contract, because Eli's enrollment in the program was consideration for Rosa's promise."
+    B: "Quasi-contract, because Rosa was unjustly enriched by Eli's enrollment."
+    C: "Promissory estoppel, because Rosa should reasonably have expected her promise to induce Eli to act, and it did."
+    D: "None, because a promise to make a gift is unenforceable in all circumstances."
+  answer: C
+  explanation_correct: >-
+    Rosa's promise was a gratuitous promise: she sought nothing in exchange, so there was no
+    bargained-for consideration (R-CTR-022). Under R2d § 90 (R-CTR-027), a promise the promisor should
+    reasonably expect to induce action, which does induce it, is binding if injustice can be avoided
+    only by enforcement. Rosa knew Eli would quit his job, and he quit, enrolled and paid tuition.
+    Relief may be limited to his reliance losses. Trap: treating every gift promise as unenforceable.
+  explanation_each_wrong_option:
+    A: >-
+      Enrollment was a consequence of the gift, not something Rosa bargained for in exchange, so it
+      is not consideration.
+    B: >-
+      Quasi-contract (R-CTR-018) requires a benefit conferred on the defendant. Eli's enrollment gave
+      Rosa no benefit.
+    D: >-
+      Overbroad. A gift promise lacks consideration, but promissory estoppel can make it enforceable
+      when it induces foreseeable, substantial reliance.
+  trap_type: overbroad
+  authority: ["R2d § 90", "R2d § 71", "Ricketts v. Scothorn, 57 Neb. 51, 77 N.W. 365 (1898)"]
+  source: original
+  tags: [wave1, M1, promissory-estoppel]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CTR-0012
+  subject: CTR
+  coverage_ids: [CTR-MBE-I.D]
+  rule_ids: [R-CTR-011, R-CTR-035, R-CTR-009]
+  difficulty: 2
+  stem: >-
+    Garza General Contracting was preparing a bid to renovate a school, due at 2 p.m. on March 3. At
+    11 a.m. that day, Tri-County Roofing gave Garza a bid of $180,000 to do the roofing work.
+    Tri-County knew that general contractors use subcontractor bids to compute their own bids. Garza
+    used Tri-County's figure, submitted its bid, and was awarded the job on March 4. On March 5,
+    before Garza had accepted Tri-County's bid, Tri-County withdrew it, explaining that it had
+    underestimated its labor costs. Nothing about the bid suggested an error; the next lowest roofing
+    bid was $205,000. Garza hired that roofer and sued Tri-County for $25,000.
+  call: "Is Garza likely to prevail?"
+  options:
+    A: "No, because Garza had not accepted Tri-County's bid when Tri-County withdrew it."
+    B: "Yes, because Tri-County's bid became irrevocable when Garza foreseeably and reasonably relied on it in submitting its own bid."
+    C: "Yes, because a subcontractor's signed bid is a firm offer that cannot be revoked for up to three months."
+    D: "No, because Tri-County's error in estimating its labor costs was a unilateral mistake that allows it to withdraw."
+  answer: B
+  explanation_correct: >-
+    Under R2d § 87(2) and Drennan v. Star Paving (R-CTR-011), an offer that the offeror should
+    reasonably expect to induce substantial reliance before acceptance, and that does induce it, is
+    binding as an option to the extent necessary to avoid injustice. Tri-County knew its bid would be
+    used, and Garza relied by incorporating it into a winning bid, so Tri-County could not withdraw.
+    Garza recovers the $25,000 extra cost of the substitute roofer. Trap: the traditional view that an
+    unaccepted bid is freely revocable.
+  explanation_each_wrong_option:
+    A: >-
+      States the older James Baird rule. Under § 87(2), foreseeable reliance makes the bid
+      irrevocable even before acceptance.
+    C: >-
+      The firm-offer rule (UCC § 2-205, R-CTR-009) applies only to a merchant's signed written offer to
+      buy or sell goods. A roofing subcontract is chiefly services, and the bid gave no written
+      assurance of firmness.
+    D: >-
+      Unilateral mistake (R-CTR-035) permits avoidance only if the other party had reason to know of the
+      error or enforcement would be unconscionable. Nothing signaled an error, and a misjudged cost
+      estimate is an error of judgment that Tri-County bears.
+  trap_type: confused-rule
+  authority: ["R2d § 87(2)", "Drennan v. Star Paving Co. (1958) 51 Cal.2d 409", "R2d § 153"]
+  source: original
+  tags: [wave1, M1, reliance, irrevocable-offer]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CTR-0013
+  subject: CTR
+  coverage_ids: [CTR-MBE-I.E]
+  rule_ids: [R-CTR-029, R-CTR-024]
+  difficulty: 2
+  stem: >-
+    Bellamy Electronics, a manufacturer, contracted to sell Fairway Stores 5,000 smart thermostats at
+    $40 each, with deliveries to begin in six months. Two months later, a fire at the only plant
+    producing a component used in the thermostats tripled the component's cost, which would have left
+    Bellamy losing $12 per unit. Bellamy explained the situation and asked for a price of $46.
+    Fairway's purchasing manager signed a short letter agreeing to the new price. After delivery,
+    Fairway paid only $40 per unit, arguing that it received nothing in exchange for agreeing to pay
+    more.
+  call: "Is Bellamy entitled to the additional $6 per unit?"
+  options:
+    A: "No, because Bellamy was already obligated to deliver the thermostats for $40 each."
+    B: "No, because the fire did not make Bellamy's performance impracticable, so Bellamy had no legal excuse for demanding more."
+    C: "Yes, but only because the fire was an unforeseen circumstance that made the modification fair and equitable."
+    D: "Yes, because a good-faith modification of a contract for the sale of goods needs no consideration to be binding."
+  answer: D
+  explanation_correct: >-
+    For a sale of goods, UCC § 2-209(1) (R-CTR-029) provides that an agreement modifying the contract
+    needs no consideration; the test is good faith, meaning a legitimate commercial reason rather than
+    extortion (cmt. 2). Bellamy's sharply increased costs after the fire were a legitimate reason, it
+    disclosed them, and Fairway agreed in a signed writing, which also satisfies the statute of frauds
+    for the modified contract. The common-law pre-existing duty rule (R-CTR-024) does not apply.
+    Trap: right result for the common-law reason.
+  explanation_each_wrong_option:
+    A: >-
+      The pre-existing duty rule governs common-law modifications. Article 2 abolishes the
+      consideration requirement for good-faith modifications.
+    B: >-
+      A modification does not require that the seller have a legal excuse; the parties may agree to a
+      new price even though the seller could have been held to the old one.
+    C: >-
+      Right result, wrong reason. The "unanticipated circumstances, fair and equitable" test is R2d
+      § 89 for common-law contracts; the UCC asks only about good faith.
+  trap_type: right-result-wrong-reason
+  authority: ["UCC § 2-209(1) and cmt. 2", "UCC § 2-209(3)"]
+  source: original
+  tags: [wave1, M1, ucc, modification]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CTR-0014
+  subject: CTR
+  coverage_ids: [CTR-MBE-I.E]
+  rule_ids: [R-CTR-029, R-CTR-054, R-CTR-076]
+  difficulty: 3
+  stem: >-
+    Quarry Supply agreed in a written contract, signed by both parties, to sell Lakeside Concrete 200
+    tons of gravel a month for 12 months, each delivery due on the 1st of the month. Both are
+    merchants. The contract stated: "This agreement may be modified only by a writing signed by both
+    parties." In February, Quarry's trucks were tied up, and Lakeside's manager told Quarry's manager
+    by phone, "Deliver on the 10th of each month from now on; that's fine with us." Quarry delivered on
+    the 10th in February, March and April, and Lakeside accepted and paid each time. Without any
+    further communication, Lakeside rejected the May delivery, which arrived on May 10, and declared
+    Quarry in breach for missing the May 1 date.
+  call: "Was Lakeside entitled to reject the May delivery on the ground that it was late?"
+  options:
+    A: "No, because although the phone call could not modify the contract, it operated as a waiver that Lakeside could retract only by reasonable notice to Quarry that strict performance would be required."
+    B: "No, because the phone call validly modified the contract, since a good-faith modification of a sale of goods needs no consideration."
+    C: "Yes, because the contract could be modified only by a signed writing, so the delivery date remained the 1st of each month."
+    D: "Yes, because Lakeside's oral statement was not supported by any consideration."
+  answer: A
+  explanation_correct: >-
+    In this sale of goods between merchants, a signed agreement excluding modification except by a
+    signed writing cannot otherwise be modified (UCC § 2-209(2); R-CTR-029), so the phone call did not
+    modify the contract. But an attempted modification that fails § 2-209(2) can operate as a waiver
+    (§ 2-209(4)), and a waiver affecting the executory portion of the contract may be retracted only by
+    reasonable notification received by the other party that strict performance will be required
+    (§ 2-209(5)). Three months of accepted 10th-of-the-month deliveries confirm the waiver as a course
+    of performance (R-CTR-054). Lakeside gave no notice before rejecting. (Independently, in an
+    installment contract a buyer may reject an installment only for a substantial impairment, R-CTR-076.)
+    Trap: stopping at the no-oral-modification clause.
+  explanation_each_wrong_option:
+    B: >-
+      Good faith dispenses with consideration under § 2-209(1), but § 2-209(2) still gives effect to a
+      signed no-oral-modification clause, so there was no valid modification.
+    C: >-
+      Ignores § 2-209(4)-(5). The failed modification still operated as a waiver, which Lakeside could
+      not withdraw without reasonable notice.
+    D: >-
+      Consideration is irrelevant to modifications and waivers under Article 2; the real issue is the
+      no-oral-modification clause and the waiver it leaves open.
+  trap_type: exception-trap
+  authority: ["UCC § 2-209(2), (4), (5)", "UCC § 1-303", "UCC § 2-612(2)"]
+  source: original
+  tags: [wave1, M1, ucc, modification, waiver, no-oral-modification]
+  status: draft
+  last_verified: 2026-11-04

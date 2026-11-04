@@ -1,0 +1,124 @@
+# Civil Procedure — NCBE category VII: Appealability and review (wave 1, original items)
+questions:
+- id: Q-CIV-0048
+  subject: CIV
+  coverage_ids: [CIV-MBE-VII.A]
+  rule_ids: [R-CIV-100, R-CIV-101, R-CIV-099]
+  difficulty: 1
+  stem: >-
+    In a federal trademark-infringement action, the district court issued four rulings in the same
+    month: an order preliminarily enjoining the defendant from using its logo; an order compelling the
+    defendant to produce documents it claims are protected by the attorney-client privilege; an order
+    denying the defendant's motion for summary judgment; and an order granting the plaintiff partial
+    summary judgment on liability, with damages still to be tried. The court made no certification or
+    Rule 54(b) determination. The defendant wants to appeal immediately.
+  call: "Which ruling may the defendant appeal immediately as of right?"
+  options:
+    A: "The order compelling production of the allegedly privileged documents."
+    B: "The order granting the preliminary injunction."
+    C: "The order denying the defendant's motion for summary judgment."
+    D: "The order granting partial summary judgment on liability."
+  answer: B
+  explanation_correct: >-
+    Courts of appeals generally review only final decisions (28 U.S.C. § 1291; R-CIV-099), but § 1292(a)(1)
+    allows an immediate appeal as of right from interlocutory orders granting, continuing, modifying,
+    refusing or dissolving injunctions (R-CIV-100). A preliminary injunction qualifies. The other orders
+    are interlocutory and not appealable without a statutory or rule-based route. Trap: treating a
+    privilege ruling as a collateral order.
+  explanation_each_wrong_option:
+    A: >-
+      Mohawk Industries v. Carpenter holds that disclosure orders adverse to the attorney-client
+      privilege are not immediately appealable under the collateral order doctrine (R-CIV-101); review
+      lies through § 1292(b), mandamus, or appeal from a contempt sanction.
+    C: >-
+      Denial of summary judgment leaves the case for trial and is not a final decision.
+    D: >-
+      A liability ruling with damages unresolved is not final, and without a § 1292(b) certification it
+      is not appealable.
+  trap_type: confused-rule
+  authority: ["28 U.S.C. § 1291", "28 U.S.C. § 1292(a)(1)", "Mohawk Industries, Inc. v. Carpenter, 558 U.S. 100 (2009)"]
+  source: original
+  tags: [wave1, M1, appeals, interlocutory]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CIV-0049
+  subject: CIV
+  coverage_ids: [CIV-MBE-VII.C]
+  rule_ids: [R-CIV-102, R-CIV-093]
+  difficulty: 2
+  stem: >-
+    After a bench trial in a federal contract dispute, the district judge found, based largely on her
+    assessment of the credibility of conflicting witnesses, that the parties had orally agreed to extend
+    the delivery deadline, and she entered judgment for the defendant. The plaintiff appeals, arguing
+    that the judge should have believed the plaintiff's witnesses rather than the defendant's, and also
+    that the judge misinterpreted an unambiguous written term of the contract.
+  call: "What standards of review will the court of appeals apply?"
+  options:
+    A: "De novo review of both the finding about the oral agreement and the interpretation of the written term."
+    B: "Abuse-of-discretion review of both."
+    C: "De novo review of the finding about the oral agreement, because it rests on witness testimony rather than documents, and clear-error review of the interpretation."
+    D: "Clear-error review of the finding about the oral agreement, giving due regard to the judge's credibility determinations, and de novo review of the interpretation of the unambiguous written term."
+  answer: D
+  explanation_correct: >-
+    Findings of fact in a bench trial, whether based on oral or documentary evidence, are set aside only
+    if clearly erroneous, and the reviewing court must give due regard to the trial judge's opportunity
+    to judge witnesses' credibility (FRCP 52(a)(6); R-CIV-093; Anderson v. City of Bessemer City).
+    Conclusions of law, including the interpretation of an unambiguous written contract, are reviewed de
+    novo (R-CIV-102). Trap: mixing up which standard goes with which ruling.
+  explanation_each_wrong_option:
+    A: >-
+      Fact findings, especially those turning on credibility, receive deferential clear-error review,
+      not de novo review.
+    B: >-
+      Abuse of discretion governs discretionary rulings such as evidentiary, discovery and new-trial
+      decisions, not fact findings or legal conclusions.
+    C: >-
+      Backwards. Testimony-based findings receive the most deference, and questions of law are
+      reviewed de novo.
+  trap_type: wrong-standard
+  authority: ["FRCP 52(a)(6)", "Anderson v. City of Bessemer City, 470 U.S. 564 (1985)"]
+  source: original
+  tags: [wave1, M1, appeals, standards-of-review]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CIV-0050
+  subject: CIV
+  coverage_ids: [CIV-MBE-VII.B]
+  rule_ids: [R-CIV-099, R-CIV-089]
+  difficulty: 3
+  stem: >-
+    On June 2, a federal district court entered final judgment for the defendant in a diversity action
+    between private parties. On June 25, the plaintiff filed a motion for a new trial under Rule 59. The
+    court denied the motion on August 1. On August 25, the plaintiff filed a notice of appeal from the
+    judgment. The defendant argues that the appeal is untimely because the notice was filed more than
+    30 days after the judgment was entered.
+  call: "Is the appeal timely?"
+  options:
+    A: "No, because the notice of appeal had to be filed within 30 days after June 2."
+    B: "Yes, because the timely Rule 59 motion postponed the time to appeal until the order disposing of it, and the notice was filed within 30 days after that order."
+    C: "No, because a Rule 59 motion must be filed within 10 days after entry of judgment, so it did not postpone anything."
+    D: "Yes, because a party has 60 days to appeal in any federal civil case."
+  answer: B
+  explanation_correct: >-
+    A notice of appeal in a civil case between private parties is due within 30 days after entry of the
+    judgment (FRAP 4(a)(1)(A); R-CIV-099). But a timely motion for a new trial under Rule 59, which must
+    be filed within 28 days after entry of judgment (R-CIV-089), postpones the time to appeal: it runs
+    from entry of the order disposing of the motion (FRAP 4(a)(4)(A)(v)). The June 25 motion was timely
+    (23 days after June 2), the order denying it was entered August 1, and the August 25 notice came
+    within 30 days of that order. Trap: ignoring the tolling effect of post-trial motions.
+  explanation_each_wrong_option:
+    A: >-
+      Ignores FRAP 4(a)(4): a timely Rule 59 motion resets the start of the 30-day appeal period.
+    C: >-
+      Outdated. The Rule 59 deadline is 28 days after entry of judgment, and the motion met it.
+    D: >-
+      The 60-day period applies only when the United States or a federal officer or agency is a party;
+      this case is between private parties.
+  trap_type: procedural-posture
+  authority: ["FRAP 4(a)(1)(A)", "FRAP 4(a)(4)(A)(v)", "FRCP 59(b)"]
+  source: original
+  tags: [wave1, M1, appeals, timing]
+  status: draft
+  last_verified: 2026-11-04

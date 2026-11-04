@@ -1,0 +1,303 @@
+# Contracts — NCBE category II: Defenses to enforceability (wave 1, original items)
+questions:
+- id: Q-CTR-0015
+  subject: CTR
+  coverage_ids: [CTR-MBE-II.A]
+  rule_ids: [R-CTR-030, R-CTR-018]
+  difficulty: 1
+  stem: >-
+    Toby, age 17, bought a used laptop from Ridge Electronics for $900, paying $300 down and promising
+    in a signed installment agreement to pay the rest in monthly payments. Toby used the laptop mainly
+    for gaming; he had full use of a working family computer for schoolwork. Three months later, still
+    17, Toby dropped the laptop and cracked its screen. He returned the damaged laptop to Ridge, told
+    Ridge he was disaffirming the contract, and stopped paying. Ridge sued Toby for the $600 balance.
+  call: "Is Ridge likely to recover the $600 balance?"
+  options:
+    A: "Yes, because Toby damaged the laptop before disaffirming and so cannot return what he received."
+    B: "Yes, because a laptop is a necessary, for which a minor is liable at the contract price."
+    C: "No, because Toby, as a minor, could disaffirm before reaching majority by returning the laptop in whatever condition it was in."
+    D: "No, because the contract was void from the outset, since a minor has no capacity to contract."
+  answer: C
+  explanation_correct: >-
+    A minor's contract is voidable at the minor's option; the minor may disaffirm before reaching
+    majority or within a reasonable time after, and the adult stays bound (R-CTR-030; R2d §§ 12, 14).
+    Under the majority rule, the disaffirming minor must return only whatever consideration remains in
+    his possession, in its existing condition, so the seller bears the loss in value. Toby disaffirmed
+    at 17 and returned the laptop, so Ridge cannot collect the balance. (Some states let the seller
+    offset use or depreciation against the minor's refund, but that does not revive the contract.)
+    Trap: treating the minor's contract as void, or the goods as necessaries.
+  explanation_each_wrong_option:
+    A: >-
+      Under the majority rule the minor returns what remains in his hands, even if damaged; damage does
+      not defeat disaffirmance.
+    B: >-
+      A gaming laptop is not a necessary when a working family computer was available, and even for
+      necessaries a minor owes only their reasonable value in quasi-contract (R-CTR-018), not the
+      contract price.
+    D: >-
+      Right result, wrong reason. A minor's contract is voidable, not void; it binds the adult and can
+      be ratified by the minor after majority.
+  trap_type: confused-rule
+  authority: ["R2d § 12", "R2d § 14"]
+  source: original
+  tags: [wave1, M1, capacity, minors]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CTR-0016
+  subject: CTR
+  coverage_ids: [CTR-MBE-II.C]
+  rule_ids: [R-CTR-034, R-CTR-038]
+  difficulty: 2
+  stem: >-
+    At an estate sale, Pruitt sold Wexler an old wooden writing desk for $400. Both believed it was a
+    mass-produced reproduction. Before buying, Wexler asked whether it might be an antique. Pruitt
+    replied, "I have no idea what it is. I'm selling it as is, whatever it turns out to be." Wexler said,
+    "I'll take my chances," and paid. An appraiser later determined that the desk was an 18th-century
+    original worth $45,000. Pruitt sued to rescind the sale.
+  call: "Is Pruitt likely to succeed?"
+  options:
+    A: "No, because Pruitt bore the risk of the mistake by choosing to sell while aware that he had only limited knowledge of what the desk was."
+    B: "Yes, because both parties were mistaken about the nature of the desk, a basic assumption with a material effect on the exchange."
+    C: "No, because the mistake was unilateral, since only Pruitt, the seller, was disadvantaged by it."
+    D: "Yes, because Wexler suspected that the desk might be an antique and did not disclose that suspicion."
+  answer: A
+  explanation_correct: >-
+    Mutual mistake makes a contract voidable only if the adversely affected party does not bear the
+    risk of the mistake (R-CTR-034; R2d §§ 152, 154). A party bears the risk when the contract
+    allocates it (here, "as is, whatever it turns out to be") or when it knowingly proceeds with
+    limited knowledge, treating that knowledge as sufficient (conscious ignorance, § 154(b)). Pruitt
+    expressly said he had no idea what the desk was and sold it anyway. Trap: stopping after finding a
+    shared mistake about a basic assumption.
+  explanation_each_wrong_option:
+    B: >-
+      Missing element. A shared basic-assumption mistake is not enough when the party seeking relief
+      bore the risk of it.
+    C: >-
+      Misreads the facts. Both parties believed the desk was a reproduction, so the mistake was mutual;
+      who is disadvantaged does not make a mistake unilateral.
+    D: >-
+      Wexler openly asked whether the desk might be an antique, which disclosed rather than concealed
+      his suspicion; arm's-length parties need not volunteer opinions about value (R-CTR-038).
+  trap_type: missing-element
+  authority: ["R2d § 152", "R2d § 154"]
+  source: original
+  tags: [wave1, M1, mistake, risk-allocation]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CTR-0017
+  subject: CTR
+  coverage_ids: [CTR-MBE-II.C]
+  rule_ids: [R-CTR-035, R-CTR-040]
+  difficulty: 2
+  stem: >-
+    Carver Paving submitted a sealed bid of $212,000 to resurface the parking lots of a private office
+    park. The other four bids ranged from $395,000 to $420,000. Carver's estimator had accidentally
+    left the cost of asphalt out of the bid total, a clerical error. Delacroix, the park's owner,
+    noticed the huge gap, said nothing, and promptly accepted Carver's bid. Two days later, before any
+    work began and before Delacroix had changed position in any way, Carver discovered the error,
+    explained it, and asked to withdraw. Delacroix insists that Carver perform for $212,000.
+  call: "Can Carver avoid the contract?"
+  options:
+    A: "No, because the mistake was Carver's alone, and a unilateral mistake never permits avoidance."
+    B: "No, because Carver bore the risk of errors in its own bid calculations."
+    C: "Yes, because any bid far below competing bids is unconscionable as a matter of law."
+    D: "Yes, because Carver's clerical error concerned a basic assumption, had a material effect on the exchange, and Delacroix had reason to know of it."
+  answer: D
+  explanation_correct: >-
+    Under R2d § 153 (R-CTR-035), a unilateral mistake about a basic assumption that materially affects
+    the exchange makes the contract voidable by the mistaken party if it does not bear the risk and
+    either enforcement would be unconscionable or the other party had reason to know of the mistake.
+    The omission of the asphalt cost was a clerical error, not a business judgment; it cut the price
+    nearly in half, and Delacroix noticed the gap. Delacroix had not relied, so rescission is fair.
+    Trap: the absolute "unilateral mistake never excuses" distractor.
+  explanation_each_wrong_option:
+    A: >-
+      Overbroad. Unilateral mistake permits avoidance when the other party knew or had reason to know
+      of the mistake, or when enforcement would be unconscionable.
+    B: >-
+      A party's negligence in making a clerical error does not by itself place the risk on it (R2d
+      § 157); the risk rule targets errors of judgment and contractual allocations, not an omitted line
+      item the other side spotted.
+    C: >-
+      Overbroad and the wrong test. Unconscionability (R-CTR-040) is not established merely by a low
+      price; the correct basis is § 153's reason-to-know prong.
+  trap_type: overbroad
+  authority: ["R2d § 153", "R2d § 157"]
+  source: original
+  tags: [wave1, M1, mistake, unilateral-mistake]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CTR-0018
+  subject: CTR
+  coverage_ids: [CTR-MBE-II.D]
+  rule_ids: [R-CTR-037, R-CTR-105]
+  difficulty: 2
+  stem: >-
+    Ingram sold Lowell a used sailboat for $32,000 under a signed bill of sale. During negotiations
+    Ingram told Lowell, "The hull has never been damaged." Ingram honestly believed this, because the
+    person who sold him the boat two years earlier had said so. In fact, a prior owner had repaired a
+    substantial crack in the hull, which reduced the boat's value by about 40%. Lowell would not have
+    bought the boat had he known. He discovered the repair a week after the sale and promptly offered
+    to return the boat in exchange for his money. Ingram refused.
+  call: "Can Lowell rescind the contract?"
+  options:
+    A: "No, because Ingram did not know his statement was false and therefore did not commit fraud."
+    B: "Yes, because Lowell justifiably relied on a material misrepresentation of fact, even though Ingram made it innocently."
+    C: "No, because Lowell could have discovered the repair by having the hull inspected before buying."
+    D: "Yes, but only if Lowell proves that Ingram made the statement recklessly, without knowing whether it was true."
+  answer: B
+  explanation_correct: >-
+    A contract is voidable if assent was induced by a misrepresentation that is either fraudulent or
+    material and on which the recipient justifiably relied (R-CTR-037; R2d §§ 162, 164). Ingram's
+    statement was an assertion of fact, it was material (a reasonable buyer would care, and it cut the
+    value by 40%), and it induced the purchase. Scienter is not needed for rescission. Lowell acted
+    promptly and offered to restore the boat, so rescission with return of the price is available
+    (R-CTR-105). Trap: importing the tort scienter requirement into the contract defense.
+  explanation_each_wrong_option:
+    A: >-
+      Confuses the tort of deceit, which requires scienter for damages, with the contract defense. A
+      material misrepresentation supports rescission even if innocent.
+    C: >-
+      A recipient's failure to investigate does not make reliance unjustified unless it amounts to a
+      failure to act in good faith (R2d § 172). Lowell was entitled to rely on a flat assertion of fact.
+    D: >-
+      Wrong standard. Recklessness is a form of scienter needed for fraud damages, not for rescission
+      based on a material misrepresentation.
+  trap_type: wrong-standard
+  authority: ["R2d § 162", "R2d § 164", "R2d § 172", "UCC § 2-721"]
+  source: original
+  tags: [wave1, M1, misrepresentation, rescission]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CTR-0019
+  subject: CTR
+  coverage_ids: [CTR-MBE-II.E]
+  rule_ids: [R-CTR-039, R-CTR-018]
+  difficulty: 2
+  stem: >-
+    A state statute, enacted to protect the public from unqualified workers, requires anyone who
+    performs electrical work for pay to hold a state electrician's license, issued only after passing
+    a competency examination. Vance, who has never been licensed, rewired Paulson's house under an
+    agreement to be paid $7,500. Vance's work was competent and passed the city's inspection. Paulson
+    refused to pay, and Vance sued for the contract price or, alternatively, the reasonable value of
+    his work.
+  call: "Is Vance likely to recover?"
+  options:
+    A: "Yes, the contract price, because the work was competently performed and passed inspection."
+    B: "Yes, the reasonable value of the work in quasi-contract, because Paulson would otherwise be unjustly enriched."
+    C: "No, because the licensing statute protects the public, so an unlicensed person cannot enforce a contract to do the regulated work."
+    D: "No, because the agreement was not in writing."
+  answer: C
+  explanation_correct: >-
+    When a licensing statute is regulatory, protecting the public rather than merely raising revenue,
+    an unlicensed party cannot enforce a contract to perform the licensed work, and courts generally
+    leave the parties where they find them (R-CTR-039; R2d § 178). The statute here requires a
+    competency examination, the hallmark of a public-protection statute. The quality of the work does
+    not cure the illegality. Trap: being swayed by facts that are true but irrelevant (competent work,
+    passed inspection).
+  explanation_each_wrong_option:
+    A: >-
+      True but irrelevant. Competent performance does not make a contract barred by a regulatory
+      licensing statute enforceable.
+    B: >-
+      Restitution (R-CTR-018) is generally denied to the unlicensed party under a public-protection
+      statute, because allowing it would undercut the statute's purpose; Vance is the party the
+      statute targets, not one it protects.
+    D: >-
+      A contract to rewire a house can be performed within a year and is not within any statute of
+      frauds category, so no writing was needed.
+  trap_type: true-but-irrelevant
+  authority: ["R2d § 178"]
+  source: original
+  tags: [wave1, M1, illegality, licensing]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CTR-0020
+  subject: CTR
+  coverage_ids: [CTR-MBE-II.F]
+  rule_ids: [R-CTR-044, R-CTR-042]
+  difficulty: 1
+  stem: >-
+    On November 15, 2026, Okafor orally agreed to hire Brennan as the manager of Okafor's new
+    restaurant for a term of one year beginning January 2, 2027, at a salary of $70,000. Nothing was
+    put in writing. On December 20, 2026, Okafor told Brennan that he had hired someone else. Brennan
+    sued for breach of contract, and Okafor pleaded the statute of frauds.
+  call: "Is the statute of frauds a valid defense?"
+  options:
+    A: "No, because the employment itself was to last only one year."
+    B: "Yes, because every employment contract for a fixed term must be in writing."
+    C: "No, because Brennan could have died or been fired for cause within a year, ending the contract."
+    D: "Yes, because the contract could not be fully performed within one year from the date it was made."
+  answer: D
+  explanation_correct: >-
+    The one-year provision covers contracts that by their terms cannot be fully performed within one
+    year of their making (R-CTR-044; R2d § 130). The year is measured from the day the contract is
+    made, November 15, 2026, not from the start of performance. Full performance would end around
+    January 2028, more than a year later, so the oral agreement is within the statute and unenforceable
+    against Okafor, who signed nothing (R-CTR-042). Trap: measuring from the start of performance.
+  explanation_each_wrong_option:
+    A: >-
+      Wrong starting point. The one-year period runs from the making of the contract, not from the
+      first day of employment.
+    B: >-
+      Overbroad. A fixed-term contract that can be completed within a year of its making (say, six
+      months starting next week) is outside the statute.
+    C: >-
+      Death or discharge for cause would end or excuse the contract, not fully perform it. Only a
+      contract whose full performance is possible within a year, such as a lifetime contract, falls
+      outside the provision.
+  trap_type: wrong-standard
+  authority: ["R2d § 110", "R2d § 130"]
+  source: original
+  tags: [wave1, M1, statute-of-frauds, one-year]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CTR-0021
+  subject: CTR
+  coverage_ids: [CTR-MBE-II.F]
+  rule_ids: [R-CTR-047, R-CTR-002]
+  difficulty: 2
+  stem: >-
+    On March 2, the purchasing agent of Hollis Furniture, a retailer, telephoned Brightline Textiles,
+    a fabric wholesaler, and orally agreed to buy 3,000 yards of upholstery fabric at $9 per yard. On
+    March 4, Hollis sent Brightline a signed letter: "This confirms our purchase from you on March 2 of
+    3,000 yards of upholstery fabric at $9 per yard." Brightline received the letter on March 6 and its
+    sales manager read it, but Brightline never responded. On April 1, after fabric prices rose,
+    Brightline told Hollis it would not deliver because it had never signed anything. Hollis sued.
+  call: "Can Brightline successfully assert the statute of frauds as a defense?"
+  options:
+    A: "Yes, because Brightline never signed a writing, and the statute requires the signature of the party against whom enforcement is sought."
+    B: "No, because Brightline, a merchant, received a signed written confirmation within a reasonable time, had reason to know its contents, and did not object in writing within 10 days."
+    C: "No, because Hollis's act of sending the confirmation was part performance that takes the contract out of the statute."
+    D: "Yes, because a written confirmation binds only the merchant that sends it."
+  answer: B
+  explanation_correct: >-
+    This sale of goods for $27,000 is within UCC § 2-201(1). Under the merchant's confirmation rule in
+    § 2-201(2) (R-CTR-047), between merchants (R-CTR-002), a written confirmation sufficient against the
+    sender, received within a reasonable time by a party with reason to know its contents, satisfies
+    the statute against the recipient unless the recipient gives written notice of objection within
+    10 days of receipt. Brightline read the confirmation and said nothing, so it lost the statute of
+    frauds defense. Hollis must still prove that the oral contract was in fact made. Trap: overlooking
+    the merchant exception.
+  explanation_each_wrong_option:
+    A: >-
+      States the general rule but ignores the § 2-201(2) exception, which binds a merchant recipient
+      that fails to object.
+    C: >-
+      Sending a confirmation is not part performance. The § 2-201(3)(c) exception requires goods that
+      have been paid for and accepted or received and accepted.
+    D: >-
+      Backwards. The sender was already bound by its own signature; the rule's work is to remove the
+      recipient's statute of frauds defense.
+  trap_type: exception-trap
+  authority: ["UCC § 2-201(1)-(2)", "UCC § 2-104(1)"]
+  source: original
+  tags: [wave1, M1, ucc, statute-of-frauds, merchant-confirmation]
+  status: draft
+  last_verified: 2026-11-04

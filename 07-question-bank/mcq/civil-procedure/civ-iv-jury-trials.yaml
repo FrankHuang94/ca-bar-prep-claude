@@ -1,0 +1,162 @@
+# Civil Procedure — NCBE category IV: Jury trials (wave 1, original items)
+questions:
+- id: Q-CIV-0032
+  subject: CIV
+  coverage_ids: [CIV-MBE-IV.A]
+  rule_ids: [R-CIV-079, R-CIV-078]
+  difficulty: 2
+  stem: >-
+    Vargas sued her neighbor Holt in federal court under diversity jurisdiction, alleging that Holt had
+    built a garage that encroached on a strip of Vargas's land. She sought (1) an injunction requiring
+    Holt to remove the encroachment and (2) $90,000 in damages for trespass. Holt denied that the strip
+    belonged to Vargas. Vargas timely demanded a jury. The judge announced that she would first decide
+    the injunction claim herself, including who owns the strip, and would then submit any remaining
+    damages issues to a jury.
+  call: "Is the judge's plan proper?"
+  options:
+    A: "Yes, because the injunction is the primary relief sought, and equitable claims are tried first."
+    B: "Yes, because when legal and equitable claims are joined in one action, the judge decides all issues."
+    C: "No, because a party who seeks any money damages is entitled to have a jury decide every claim, including the request for an injunction."
+    D: "No, because the common issue of ownership must be tried to the jury first, so that the judge's ruling on the injunction does not preclude the jury's determination."
+  answer: D
+  explanation_correct: >-
+    The trespass damages claim is legal and carries a Seventh Amendment jury right; the injunction is
+    equitable (R-CIV-078). When legal and equitable claims share a common issue of fact, the jury must
+    decide the legal claim, including the common issue, before the judge rules on the equitable claim,
+    so that the judge's findings do not preclude the jury (R-CIV-079; Beacon Theatres v. Westover; Dairy
+    Queen v. Wood). Ownership of the strip is common to both claims. The judge then decides the
+    injunction consistently with the jury's findings. Trap: letting the order of trial cut off the jury
+    right.
+  explanation_each_wrong_option:
+    A: >-
+      Beacon Theatres rejects trying equitable claims first when that would foreclose a jury's decision
+      of common facts; which claim is "primary" does not matter.
+    B: >-
+      Joinder of an equitable claim does not eliminate the jury right on the legal claim and the facts it
+      shares.
+    C: >-
+      Overbroad. The injunction remains equitable and is decided by the judge; only the legal claim and
+      common factual issues go to the jury.
+  trap_type: confused-rule
+  authority: ["U.S. Const. amend. VII", "Beacon Theatres, Inc. v. Westover, 359 U.S. 500 (1959)", "Dairy Queen, Inc. v. Wood, 369 U.S. 469 (1962)"]
+  source: original
+  tags: [wave1, M1, jury-right, legal-equitable]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CIV-0033
+  subject: CIV
+  coverage_ids: [CIV-MBE-IV.A]
+  rule_ids: [R-CIV-080]
+  difficulty: 1
+  stem: >-
+    Pruett sued Lomax in federal court for breach of contract, seeking $200,000 in damages. Lomax served
+    her answer on June 1; it asserted no counterclaim, and no other pleading was served. On June 26,
+    Pruett served and filed a written demand for a jury trial. Lomax objected that the demand was
+    untimely.
+  call: "Which of the following is correct?"
+  options:
+    A: "Pruett is entitled to a jury, because a demand may be made at any time before trial."
+    B: "Pruett waived her right to a jury by failing to demand one within 14 days after the answer was served, although the court may in its discretion order a jury trial on motion."
+    C: "Pruett is entitled to a jury, because the Seventh Amendment right cannot be waived by inaction."
+    D: "Pruett has permanently lost any possibility of a jury trial, because the court has no discretion to excuse a late demand."
+  answer: B
+  explanation_correct: >-
+    A party must serve a written jury demand no later than 14 days after the last pleading directed to
+    the issue is served; failure to do so waives the right (FRCP 38(b), (d); R-CIV-080). The answer was
+    the last pleading, served June 1, so the deadline was June 15, and the June 26 demand was late. On
+    motion, however, the court may order a jury trial on any issue for which a jury might have been
+    demanded (FRCP 39(b)). Trap: confusing waiver with a permanent bar.
+  explanation_each_wrong_option:
+    A: >-
+      Rule 38(b) sets a 14-day deadline measured from the last pleading, not "any time before trial."
+    C: >-
+      The jury right is waivable, and Rule 38(d) makes failure to serve a timely demand a waiver.
+    D: >-
+      Overbroad. Rule 39(b) gives the court discretion to order a jury trial despite the late demand.
+  trap_type: overbroad
+  authority: ["FRCP 38(b), (d)", "FRCP 39(b)"]
+  source: original
+  tags: [wave1, M1, jury-demand]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CIV-0034
+  subject: CIV
+  coverage_ids: [CIV-MBE-IV.B]
+  rule_ids: [R-CIV-082]
+  difficulty: 2
+  stem: >-
+    In a federal employment-discrimination trial, the defendant employer used all three of its
+    peremptory challenges to strike the only three Black members of the jury panel. The plaintiff, who
+    is Black, objected. When the court asked for an explanation, the employer's counsel said only that
+    she "had a feeling" those jurors would not be fair to her client, and offered nothing more.
+  call: "How should the court proceed?"
+  options:
+    A: "Sustain the objection if, considering the explanation and all the circumstances, it finds that the strikes were purposefully based on race, because the Batson rule applies to peremptory challenges by private litigants in civil cases."
+    B: "Overrule the objection, because the Batson rule applies only to prosecutors in criminal cases."
+    C: "Overrule the objection, because peremptory challenges may be exercised for any reason or for no reason."
+    D: "Sustain the objection and declare a mistrial automatically, because striking all members of a racial group establishes discrimination as a matter of law."
+  answer: A
+  explanation_correct: >-
+    Private litigants in civil cases may not exercise peremptory challenges on the basis of race
+    (Edmonson v. Leesville Concrete; R-CIV-082). The Batson framework applies: the objector makes a prima
+    facie showing (striking all three Black panel members does so), the striking party offers a
+    race-neutral explanation, and the court decides whether purposeful discrimination has been proved.
+    A vague "feeling" is weak evidence of a neutral reason, and the court may find it pretextual. Each
+    party has three peremptories (28 U.S.C. § 1870). Trap: assuming peremptories are unreviewable.
+  explanation_each_wrong_option:
+    B: >-
+      Edmonson extended Batson to civil litigants because jury selection involves state action.
+    C: >-
+      Overbroad. Peremptories generally need no reason, but they may not be based on race or sex.
+    D: >-
+      Overbroad. The court must complete Batson's three steps and make a finding of purposeful
+      discrimination; there is no automatic rule or automatic mistrial.
+  trap_type: overbroad
+  authority: ["Batson v. Kentucky, 476 U.S. 79 (1986)", "Edmonson v. Leesville Concrete Co., 500 U.S. 614 (1991)", "28 U.S.C. § 1870"]
+  source: original
+  tags: [wave1, M1, jury-selection, batson]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CIV-0035
+  subject: CIV
+  coverage_ids: [CIV-MBE-IV.C]
+  rule_ids: [R-CIV-083, R-CIV-102]
+  difficulty: 2
+  stem: >-
+    Before closing arguments in a federal products-liability trial, the judge gave counsel a copy of the
+    proposed jury instructions and an opportunity to object on the record outside the jury's presence.
+    Defense counsel believed that the instruction on comparative fault misstated the governing state law
+    but made no objection, planning to raise the point only if the verdict was unfavorable. The jury
+    returned a verdict for the plaintiff. On appeal, the defendant argues that the instruction was
+    erroneous.
+  call: "What review is the court of appeals likely to give the instruction?"
+  options:
+    A: "De novo review, because whether a jury instruction correctly states the law is a question of law."
+    B: "None at all, because the defendant waived every form of appellate review by failing to object."
+    C: "Review only for plain error that affects substantial rights, because the defendant did not make a timely objection stating distinct grounds."
+    D: "None on appeal, because the issue must instead be raised in a Rule 60(b) motion."
+  answer: C
+  explanation_correct: >-
+    A party who objects to an instruction must do so on the record, stating distinctly the matter
+    objected to and the grounds, when given the opportunity before the instructions and arguments are
+    delivered (FRCP 51(c)-(d); R-CIV-083). An unpreserved instructional error may be considered only as
+    plain error that affects substantial rights (FRCP 51(d)(2); R-CIV-102). Defense counsel had a clear
+    opportunity and stayed silent. Trap: applying the ordinary de novo standard to an unpreserved error.
+  explanation_each_wrong_option:
+    A: >-
+      De novo review of legal correctness applies to preserved objections; failure to object limits the
+      appellate court to plain-error review.
+    B: >-
+      Overbroad. Rule 51(d)(2) preserves narrow plain-error review even without an objection.
+    D: >-
+      Rule 60(b) is not a substitute for a timely objection and appeal; instructional error is reviewed
+      on direct appeal.
+  trap_type: procedural-posture
+  authority: ["FRCP 51(c)-(d)"]
+  source: original
+  tags: [wave1, M1, jury-instructions, preservation]
+  status: draft
+  last_verified: 2026-11-04

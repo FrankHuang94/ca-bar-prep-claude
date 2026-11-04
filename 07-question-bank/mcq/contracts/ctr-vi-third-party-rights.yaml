@@ -1,0 +1,170 @@
+# Contracts — NCBE category VI: Third-party rights (wave 1, original items)
+questions:
+- id: Q-CTR-0047
+  subject: CTR
+  coverage_ids: [CTR-MBE-VI.A]
+  rule_ids: [R-CTR-110, R-CTR-111]
+  difficulty: 1
+  stem: >-
+    Harlan signed a contract with Pinecrest Developers to build an upscale restaurant on Harlan's lot
+    on Main Street. Ortiz, who owns a parking garage across the street, expected to profit from the
+    restaurant's customers and bought new garage equipment in anticipation. Pinecrest abandoned the
+    project halfway through, and Harlan decided not to finish it. Ortiz sued Pinecrest for the profits
+    he expected to earn from restaurant customers.
+  call: "Will Ortiz prevail?"
+  options:
+    A: "Yes, because Ortiz's reliance on the contract made him an intended beneficiary."
+    B: "No, because Ortiz is only an incidental beneficiary of the contract."
+    C: "Yes, because Pinecrest's breach foreseeably caused Ortiz's loss."
+    D: "No, because Ortiz's rights had not vested before Pinecrest breached."
+  answer: B
+  explanation_correct: >-
+    Only an intended beneficiary may enforce a contract; an incidental beneficiary, who benefits only
+    indirectly, has no rights under it (R-CTR-110; R2d § 302). Nothing suggests Harlan or Pinecrest
+    meant to benefit Ortiz: he is not named, performance does not run to him, and the restaurant was
+    for Harlan. Ortiz is incidental. Trap: right result for the wrong reason (vesting).
+  explanation_each_wrong_option:
+    A: >-
+      Reliance can matter to vesting for an intended beneficiary (R-CTR-111), but it cannot turn an
+      incidental beneficiary into an intended one; intent is judged from the contracting parties.
+    C: >-
+      Foreseeability of harm is a tort concept; it does not give a stranger contract rights.
+    D: >-
+      Right result, wrong reason. Vesting matters only for intended beneficiaries; an incidental
+      beneficiary has no rights to vest.
+  trap_type: right-result-wrong-reason
+  authority: ["R2d § 302", "R2d § 315"]
+  source: original
+  tags: [wave1, M1, third-party-beneficiary]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CTR-0048
+  subject: CTR
+  coverage_ids: [CTR-MBE-VI.A]
+  rule_ids: [R-CTR-111, R-CTR-110]
+  difficulty: 2
+  stem: >-
+    Dunmore sold his landscaping business to Kessler. As part of the price, Kessler promised Dunmore,
+    in their signed sale contract, to pay Dunmore's $25,000 debt to Ashby Bank. Ashby was not told of
+    the arrangement. Two weeks later, before Ashby had learned of the sale contract or done anything in
+    reliance on it, Dunmore and Kessler agreed in writing that Kessler would instead pay the $25,000 to
+    Dunmore, who would handle the bank debt himself. Kessler paid Dunmore, who did not pay the bank.
+    Ashby later learned of the original sale contract and sued Kessler.
+  call: "Is Ashby likely to recover from Kessler?"
+  options:
+    A: "Yes, because Ashby was an intended creditor beneficiary of Kessler's original promise."
+    B: "Yes, because a third-party beneficiary's rights vest when the contract is made."
+    C: "No, because Dunmore and Kessler modified the contract before Ashby's rights vested."
+    D: "No, because Ashby was only an incidental beneficiary of the sale contract."
+  answer: C
+  explanation_correct: >-
+    Ashby was an intended (creditor) beneficiary, because Kessler's performance would satisfy
+    Dunmore's debt to it (R-CTR-110). But until a beneficiary's rights vest, the promisor and promisee
+    may modify the contract without its consent. Rights vest when the beneficiary manifests assent at
+    a party's request, sues on the promise, or materially changes position in justifiable reliance
+    (R-CTR-111; R2d § 311). Ashby had done none of these when the parties modified the deal, so the
+    modification binds Ashby. Ashby can still sue Dunmore on the original debt. Trap: stopping at
+    intended-beneficiary status.
+  explanation_each_wrong_option:
+    A: >-
+      Missing element. Ashby was an intended beneficiary, but its rights had not vested, so the parties
+      could change the promise.
+    B: >-
+      Wrong. Vesting requires assent, suit, or justifiable reliance by the beneficiary, not merely the
+      making of the contract.
+    D: >-
+      Ashby was an intended creditor beneficiary; the problem is vesting, not its status.
+  trap_type: missing-element
+  authority: ["R2d § 302", "R2d § 311"]
+  source: original
+  tags: [wave1, M1, third-party-beneficiary, vesting]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CTR-0049
+  subject: CTR
+  coverage_ids: [CTR-MBE-VI.B]
+  rule_ids: [R-CTR-113, R-CTR-114, R-CTR-112]
+  difficulty: 2
+  stem: >-
+    Tolland Machine contracted to manufacture and deliver custom conveyor equipment to Orbis Foods for
+    $150,000, payable 30 days after delivery. The contract stated: "Neither party shall assign its
+    rights under this agreement without the other party's written consent." After delivering
+    conforming equipment, Tolland assigned its right to the $150,000 payment to Cobalt Finance in
+    exchange for a cash advance, without asking Orbis. Cobalt promptly notified Orbis of the
+    assignment. When payment came due, Orbis paid Tolland anyway, and Tolland went bankrupt without
+    paying Cobalt. Cobalt sued Orbis.
+  call: "Is Cobalt likely to recover from Orbis?"
+  options:
+    A: "No, because the contract prohibited assignment of rights without Orbis's consent, so the assignment was void."
+    B: "No, because Orbis's payment to Tolland, the original obligee, discharged its obligation."
+    C: "Yes, but only because Cobalt gave value for the assignment."
+    D: "Yes, because the clause did not make the assignment ineffective, and Orbis paid Tolland after receiving notice of the assignment."
+  answer: D
+  explanation_correct: >-
+    A term prohibiting assignment of rights, unless it says the assignment is void, gives the obligor
+    at most a damages claim and does not make the assignment ineffective (R-CTR-113; R2d § 322(2)).
+    Here the prohibition also cannot reach a right to payment earned by Tolland's full performance
+    (§ 322(2)(a)), and UCC § 9-406(d) makes restrictions on assigning a right to payment for goods
+    ineffective. Once an obligor receives notice of the assignment, paying the assignor no longer
+    discharges it (R-CTR-114; UCC § 9-406(a)). Orbis must pay Cobalt. Trap: treating a bare
+    prohibition as voiding the assignment.
+  explanation_each_wrong_option:
+    A: >-
+      A clause voids an assignment only if it clearly says so, and even then rights to payment for goods
+      are protected by § 9-406(d).
+    B: >-
+      Payment to the assignor discharges the obligor only if made before the obligor receives notice.
+      Orbis paid after notice.
+    C: >-
+      Right result, wrong reason. Consideration is not required for an effective assignment (R-CTR-112);
+      value matters only to revocability, not to Orbis's liability after notice.
+  trap_type: confused-rule
+  authority: ["R2d § 322(2)", "R2d § 338", "UCC § 9-406(a), (d)"]
+  source: original
+  tags: [wave1, M1, assignment, anti-assignment-clause]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CTR-0050
+  subject: CTR
+  coverage_ids: [CTR-MBE-VI.B]
+  rule_ids: [R-CTR-116, R-CTR-088, R-CTR-110]
+  difficulty: 3
+  stem: >-
+    Kendrick signed a two-year contract with the Brightview Homeowners Association to maintain the
+    association's common landscaping for $2,000 a month. Six months into the term, Kendrick sold his
+    landscaping business to Lorne, who promised Kendrick in their signed transfer agreement to "assume
+    and perform all of Kendrick's obligations under the Brightview contract." The association was told
+    of the transfer and did not object, but it never agreed to release Kendrick. Lorne's crews then
+    performed poorly for three months, breaching the contract's maintenance standards and causing the
+    association $9,000 in damages.
+  call: "From whom may the association recover the $9,000?"
+  options:
+    A: "From either Kendrick or Lorne, because Kendrick remained liable after delegating, and Lorne became liable by assuming the duties."
+    B: "Only from Lorne, because by not objecting to the delegation the association released Kendrick."
+    C: "Only from Kendrick, because the association was not a party to the agreement between Kendrick and Lorne."
+    D: "Only from Lorne, because delegating routine duties transfers the duty of performance to the delegate."
+  answer: A
+  explanation_correct: >-
+    Routine landscaping is delegable, but delegation does not release the delegating party; it remains
+    liable unless the obligee agrees to a novation (R-CTR-116, R-CTR-088; R2d § 318(3)). A delegate who
+    assumes the duty by promising the delegator to perform it becomes liable to the obligee, which is
+    an intended beneficiary of that promise (R-CTR-110; R2d § 328). The association may recover the
+    $9,000 from either, though not twice. Trap: treating acquiescence as a release.
+  explanation_each_wrong_option:
+    B: >-
+      Silence is not assent to a novation. Releasing the original obligor requires the obligee's
+      agreement to substitute the new party.
+    C: >-
+      The association is an intended beneficiary of Lorne's assumption promise, so it may sue Lorne
+      even though it was not a party to that agreement.
+    D: >-
+      Overbroad. Delegation transfers the performance, not the delegating party's liability.
+  trap_type: confused-rule
+  authority: ["R2d § 318(3)", "R2d § 328", "R2d § 302"]
+  source: original
+  tags: [wave1, M1, delegation, assumption, novation]
+  status: draft
+  last_verified: 2026-11-04
