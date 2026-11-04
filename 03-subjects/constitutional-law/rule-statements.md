@@ -443,7 +443,7 @@ status: draft
 ### R-CON-033 — Commander in chief and war powers
 **Rule (write this):** The President is commander in chief of the armed forces and may deploy troops and repel sudden attacks without a declaration of war, but only Congress may declare war, and wartime detention of citizens must satisfy due process.
 
-**Elements:** 1. Defensive use of force without declaration (Prize Cases). 2. War Powers Resolution: report to Congress within 48 hours; withdraw within 60 days (plus 30) absent authorization. 3. A citizen detained as an enemy combatant gets notice and a meaningful opportunity to contest before a neutral decisionmaker (Hamdi). 4. Habeas extends to Guantánamo detainees (Boumediene); military commissions must comply with statutes (Hamdan).
+**Elements:** 1. Defensive use of force without declaration (Prize Cases). 2. War Powers Resolution: report to Congress within 48 hours; withdraw within 60 days (plus 30) absent authorization. 3. A citizen detained as an enemy combatant gets notice and a meaningful opportunity to contest before a neutral decisionmaker (Hamdi, plurality opinion; five Justices agreed the detention itself was authorized). 4. Habeas extends to Guantánamo detainees (Boumediene); military commissions must comply with statutes (Hamdan).
 
 **Exceptions / defenses:** The commander-in-chief power does not authorize domestic seizures of private property (Youngstown).
 
@@ -683,11 +683,11 @@ status: draft
 ### R-CON-051 — Supremacy Clause and preemption
 **Rule (write this):** Under the Supremacy Clause, valid federal law preempts state law (1) expressly, (2) impliedly where federal regulation occupies the field, or (3) impliedly where state law conflicts with federal law because compliance with both is impossible or the state law stands as an obstacle to the accomplishment of the full purposes and objectives of Congress.
 
-**Elements:** 1. Valid federal law (statute, regulation within delegated authority, treaty, executive agreement). 2. Type of preemption. 3. Presumption against preemption in fields of traditional state police power (Rice), though not applied to the text of express preemption clauses (Puerto Rico v. Franklin Cal. Tax-Free Trust, 579 U.S. 115 (2016)).
+**Elements:** 1. Valid federal law (statute, regulation within delegated authority, treaty, executive agreement). 2. Type of preemption. 3. Presumption against preemption in fields of traditional state police power (Rice), though not applied to the text of express preemption clauses (Puerto Rico v. Franklin Cal. Tax-Free Trust, 579 U.S. 115 (2016)). 4. State courts of general jurisdiction must hear federal claims of a kind they hear under state law; only a neutral rule of judicial administration is a valid excuse (Testa; Haywood).
 
 **Exceptions / defenses:** States may usually impose stricter standards where federal law sets a floor and there is no conflict (Wyeth). Preemption requires federal law that regulates private actors, not commands to states (Murphy). Savings clauses can preserve state law.
 
-**Authority:** U.S. Const. art. VI, cl. 2; *Rice v. Santa Fe Elevator Corp.*, 331 U.S. 218 (1947); *Hines v. Davidowitz*, 312 U.S. 52 (1941); *Florida Lime & Avocado Growers, Inc. v. Paul*, 373 U.S. 132 (1963); *Pacific Gas & Elec. Co. v. State Energy Res. Conservation & Dev. Comm'n*, 461 U.S. 190 (1983); *Crosby v. National Foreign Trade Council*, 530 U.S. 363 (2000); *Arizona v. United States*, 567 U.S. 387 (2012); *Wyeth v. Levine*, 555 U.S. 555 (2009).
+**Authority:** U.S. Const. art. VI, cl. 2; *Rice v. Santa Fe Elevator Corp.*, 331 U.S. 218 (1947); *Hines v. Davidowitz*, 312 U.S. 52 (1941); *Florida Lime & Avocado Growers, Inc. v. Paul*, 373 U.S. 132 (1963); *Pacific Gas & Elec. Co. v. State Energy Res. Conservation & Dev. Comm'n*, 461 U.S. 190 (1983); *Crosby v. National Foreign Trade Council*, 530 U.S. 363 (2000); *Arizona v. United States*, 567 U.S. 387 (2012); *Wyeth v. Levine*, 555 U.S. 555 (2009). *Testa v. Katt*, 330 U.S. 386 (1947); *Haywood v. Drown*, 556 U.S. 729 (2009).
 
 **MBE vs. CA essay:** same rule.
 
@@ -739,11 +739,11 @@ status: draft
 ### R-CON-055 — State action: entanglement, encouragement, coercion and officials' social media
 **Rule (write this):** Private conduct is attributable to the state when the state compels or significantly encourages it, jointly participates in it, is entwined with the private entity's management, or judicially enforces private discrimination. A public official's social-media activity is state action only if the official had actual authority to speak for the state on the matter and purported to exercise that authority in the posts at issue.
 
-**Elements:** Judicial enforcement of racially restrictive covenants (Shelley); symbiotic lessee of public building (Burton); joint participation in prejudgment attachment (Lugar); peremptory challenges by private litigants (Edmonson); state athletic association entwined with public schools (Brentwood); Lindke two-part test [VERIFY V-035].
+**Elements:** Judicial enforcement of racially restrictive covenants (Shelley); symbiotic lessee of public building (Burton); joint participation in prejudgment attachment (Lugar); peremptory challenges by private litigants (Edmonson); state athletic association entwined with public schools (Brentwood); a contract physician treating prison inmates, because the state delegated its custodial duty (West); Lindke two-part test [VERIFY V-035].
 
 **Exceptions / defenses:** State acquiescence or approval of private choices is not enough (Moose Lodge; Blum).
 
-**Authority:** *Shelley v. Kraemer*, 334 U.S. 1 (1948); *Burton v. Wilmington Parking Auth.*, 365 U.S. 715 (1961); *Moose Lodge No. 107 v. Irvis*, 407 U.S. 163 (1972); *Blum v. Yaretsky*, 457 U.S. 991 (1982); *Lugar v. Edmondson Oil Co.*, 457 U.S. 922 (1982); *Edmonson v. Leesville Concrete Co.*, 500 U.S. 614 (1991); *Brentwood Academy v. TSSAA*, 531 U.S. 288 (2001); *Lindke v. Freed* (2024) [VERIFY V-035].
+**Authority:** *Shelley v. Kraemer*, 334 U.S. 1 (1948); *Burton v. Wilmington Parking Auth.*, 365 U.S. 715 (1961); *Moose Lodge No. 107 v. Irvis*, 407 U.S. 163 (1972); *Blum v. Yaretsky*, 457 U.S. 991 (1982); *Lugar v. Edmondson Oil Co.*, 457 U.S. 922 (1982); *West v. Atkins*, 487 U.S. 42 (1988); *Edmonson v. Leesville Concrete Co.*, 500 U.S. 614 (1991); *Brentwood Academy v. TSSAA*, 531 U.S. 288 (2001); *Lindke v. Freed* (2024) [VERIFY V-035].
 
 **MBE vs. CA essay:** same rule.
 

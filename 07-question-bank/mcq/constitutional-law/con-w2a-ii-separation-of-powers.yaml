@@ -1,0 +1,398 @@
+# Constitutional Law — NCBE category II: the separation of powers
+# Original MBE-style items (wave 2, batch a). Covers the previously untested rows II.A.2, II.A.4, II.B.2,
+# II.C.2 and II.C.3. No item turns on removal of independent-agency heads (Trump v. Slaughter, V-034),
+# Loper Bright or presidential criminal immunity (V-035).
+questions:
+- id: Q-CON-0059
+  subject: CON
+  coverage_ids: [CON-MBE-II.A.1]
+  rule_ids: [R-CON-022, R-CON-021]
+  difficulty: 2
+  stem: >-
+    Congress enacted a statute making it a federal crime to "assault a referee, umpire, or other official
+    at any organized youth athletic contest." Congressional committees found that youth sports generate
+    billions of dollars in annual spending on travel, equipment and facilities, and that assaults on
+    officials have caused a nationwide shortage of officials. The statute does not require that the
+    assault, the contest or the defendant have any connection with interstate commerce. A parent who
+    punched a volunteer umpire at a youth baseball game in his hometown was charged under the statute. He
+    moves to dismiss, arguing that Congress lacked power to enact it.
+  call: "How should the court rule?"
+  options:
+    A: "Deny the motion, because assaults on officials, taken in the aggregate, substantially affect the interstate market for youth sports."
+    B: "Deny the motion, because Congress made express findings that the regulated conduct affects interstate commerce."
+    C: "Grant the motion, because Congress may not make conduct a federal crime when the same conduct is already a crime under state law."
+    D: "Grant the motion, because the statute regulates noneconomic violent conduct with only an attenuated link to commerce."
+  answer: D
+  explanation_correct: >-
+    D is correct. Congress may regulate intrastate activity that substantially affects interstate commerce,
+    and it may aggregate the effects of economic activity, but it may not regulate noneconomic intrastate
+    conduct based on attenuated effects (R-CON-022; United States v. Lopez; United States v. Morrison). An
+    assault on an umpire is noneconomic, violent conduct. The statute has no jurisdictional element tying
+    a particular assault to interstate commerce, and the asserted link runs through a chain of inferences
+    (assault, fewer officials, less youth-sports spending) of the kind Lopez and Morrison rejected. The
+    statute does not regulate the channels or instrumentalities of commerce either (R-CON-021).
+  explanation_each_wrong_option:
+    A: >-
+      Wrong standard. Aggregation under Wickard and Raich applies to economic activity; Morrison refused to
+      aggregate the effects of gender-motivated violence, and the same reasoning applies to assaults on
+      officials (R-CON-022).
+    B: >-
+      Findings help but are not decisive. Morrison struck down a statute supported by extensive findings
+      because the reasoning, if accepted, would let Congress regulate any crime (R-CON-022).
+    C: >-
+      Overbroad. When Congress acts within an enumerated power, it may make conduct a federal crime even
+      if the same conduct is also a state crime; the defect here is the lack of a commerce power, not the
+      overlap with state law.
+  trap_type: wrong-standard
+  authority: ["U.S. Const. art. I, § 8, cl. 3", "United States v. Lopez, 514 U.S. 549 (1995)", "United States v. Morrison, 529 U.S. 598 (2000)", "Wickard v. Filburn, 317 U.S. 111 (1942)"]
+  source: original
+  tags: [wave2, w2a, commerce-clause]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CON-0060
+  subject: CON
+  coverage_ids: [CON-MBE-II.A.1]
+  rule_ids: [R-CON-023, R-CON-024]
+  difficulty: 2
+  stem: >-
+    Congress imposed a federal excise tax of $150 on each retail sale of a recreational drone weighing more
+    than two kilograms. The seller collects the tax from the buyer and remits it to the Internal Revenue
+    Service. No criminal penalty or knowledge requirement applies, and the tax is expected to raise about
+    $80 million a year. The committee report states that, besides raising revenue, Congress hoped the tax
+    would discourage purchases of heavy drones, which pose a greater hazard to aircraft. A buyer who paid
+    the tax sues for a refund, arguing that the tax is unconstitutional.
+  call: "Is the tax constitutional?"
+  options:
+    A: "Yes, because it raises revenue and is not so punitive as to be a penalty, despite its regulatory purpose."
+    B: "Yes, because Congress may tax only activities it could regulate under the Commerce Clause, and drone sales are interstate commerce."
+    C: "No, because a measure that is intended to discourage conduct is a regulatory penalty rather than a tax."
+    D: "No, because Congress's taxing power may be used only to raise money for purposes enumerated elsewhere in Article I."
+  answer: A
+  explanation_correct: >-
+    A is correct. Congress may lay and collect taxes, and a measure is judged functionally: it is a valid
+    tax if it produces revenue and is not so punitive that it is really a penalty (R-CON-023; NFIB v.
+    Sebelius). A tax remains valid even though it also has a regulatory purpose. Nothing suggests that the $150 charge is prohibitive; the tax has no knowledge requirement, is collected by the IRS through ordinary means, and raises substantial revenue. As an excise, it need only be uniform throughout the United
+    States, which it is.
+  explanation_each_wrong_option:
+    B: >-
+      Right result, wrong reason. The taxing power is independent of the Commerce Clause; in NFIB the Court
+      upheld as a tax a payment that the Commerce Clause could not support (R-CON-023).
+    C: >-
+      Confused rule. A tax becomes a penalty only when its features (a crushing amount, a knowledge
+      requirement, enforcement as punishment) show that it punishes rather than raises revenue, as in
+      Bailey v. Drexel Furniture. A regulatory motive alone does not invalidate a tax (R-CON-023).
+    D: >-
+      Rejected view. Congress may tax and spend for the general welfare, and that power is not limited to
+      the subjects of its other enumerated powers (R-CON-024; United States v. Butler).
+  trap_type: wrong-standard
+  authority: ["U.S. Const. art. I, § 8, cl. 1", "NFIB v. Sebelius, 567 U.S. 519 (2012)", "Bailey v. Drexel Furniture Co., 259 U.S. 20 (1922)", "United States v. Butler, 297 U.S. 1 (1936)"]
+  source: original
+  tags: [wave2, w2a, taxing-power]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CON-0061
+  subject: CON
+  coverage_ids: [CON-MBE-II.A.2]
+  rule_ids: [R-CON-026, R-CON-020, R-CON-034]
+  difficulty: 2
+  stem: >-
+    The United States and a neighboring country ratified a treaty, with the advice and consent of
+    two-thirds of the Senators present, in which each nation promised to protect a rare migratory songbird
+    that nests in both countries, including by prohibiting destruction of its nests. Congress then enacted
+    a statute implementing the treaty that makes it a crime to knowingly destroy an occupied nest of the
+    bird. A farmer who bulldozed several nests on his own land, for no commercial purpose, was prosecuted.
+    He argues that the statute regulates purely local, noncommercial activity that Congress could not reach
+    under any of its Article I powers, and that the regulation of wildlife on private land is reserved to
+    the states.
+  call: "Is the statute constitutional as applied to the farmer?"
+  options:
+    A: "No, because the Tenth Amendment reserves to the states the regulation of wildlife on private land."
+    B: "Yes, because Congress may pass laws necessary and proper to implement a valid treaty, even beyond its other powers."
+    C: "No, because a treaty cannot give Congress legislative power that it would not otherwise have under Article I, Section 8."
+    D: "Yes, because Congress has a general power to legislate to protect the natural environment."
+  answer: B
+  explanation_correct: >-
+    B is correct. Congress may enact legislation necessary and proper to implement a valid treaty, even if
+    the statute would exceed Congress's Article I powers standing alone (R-CON-026; Missouri v. Holland,
+    which upheld a statute implementing a migratory-bird treaty). The Necessary and Proper Clause reaches
+    laws carrying into execution "all other Powers vested by this Constitution," including the treaty
+    power (R-CON-020; R-CON-034). The treaty was validly made and the statute violates no individual-rights
+    guarantee, so the noncommercial character of the farmer's conduct does not matter.
+  explanation_each_wrong_option:
+    A: >-
+      Missouri v. Holland rejected this argument: the treaty power is delegated to the national
+      government, so the Tenth Amendment does not reserve the subject to the states (R-CON-026).
+    C: >-
+      Minority view. Some have argued that implementing legislation needs an independent Article I basis,
+      but Missouri v. Holland holds otherwise and remains the governing rule (R-CON-026).
+    D: >-
+      Congress has no general police power; it may act only under an enumerated power (R-CON-020). The
+      statute is valid because of the treaty, not because of any general environmental power.
+  trap_type: minority-rule
+  authority: ["U.S. Const. art. II, § 2, cl. 2", "U.S. Const. art. I, § 8, cl. 18", "Missouri v. Holland, 252 U.S. 416 (1920)"]
+  source: original
+  tags: [wave2, w2a, foreign-affairs, treaty-implementation]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CON-0062
+  subject: CON
+  coverage_ids: [CON-MBE-II.A.4]
+  rule_ids: [R-CON-030, R-CON-051]
+  difficulty: 1
+  stem: >-
+    A federal statute prohibits killing, capturing or harassing any wild bighorn sheep found on land owned
+    by the United States. A western state, asserting that it owns all wildlife within its borders, issues
+    licenses allowing hunters to kill bighorn sheep anywhere in the state, including on federal land. A
+    hunter holding a state license killed a bighorn sheep on federal land and was prosecuted under the
+    federal statute. He argues that the statute is unconstitutional.
+  call: "Is the statute constitutional as applied to him?"
+  options:
+    A: "No, because each state owns the wild animals within its borders and has exclusive power to regulate hunting."
+    B: "Yes, because Congress has a general power to legislate for the welfare of the nation."
+    C: "Yes, because the Property Clause lets Congress protect wildlife living on federal land."
+    D: "No, because the federal statute conflicts with the state license, and the Tenth Amendment gives priority to state wildlife law."
+  answer: C
+  explanation_correct: >-
+    C is correct. Congress has plenary power to "make all needful Rules and Regulations respecting the
+    Territory or other Property belonging to the United States," and that power includes protecting wild
+    animals living on federal land (R-CON-030; Kleppe v. New Mexico). Because the federal statute is
+    valid, it prevails over the conflicting state license under the Supremacy Clause (R-CON-051).
+  explanation_each_wrong_option:
+    A: >-
+      Kleppe rejected the argument that state "ownership" of wildlife limits Congress's power over federal
+      land; the states' traditional authority over wildlife yields to valid federal law (R-CON-030).
+    B: >-
+      Congress has no general police power; the general-welfare language limits the taxing and spending
+      power and is not a freestanding grant of regulatory power (R-CON-020).
+    D: >-
+      Reverses the Supremacy Clause. When a valid federal law conflicts with state law, federal law
+      controls; the Tenth Amendment does not reserve matters within an enumerated power (R-CON-051;
+      R-CON-045).
+  trap_type: confused-rule
+  authority: ["U.S. Const. art. IV, § 3, cl. 2", "U.S. Const. art. VI, cl. 2", "Kleppe v. New Mexico, 426 U.S. 529 (1976)"]
+  source: original
+  tags: [wave2, w2a, property-clause, other-powers]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CON-0063
+  subject: CON
+  coverage_ids: [CON-MBE-II.B.1]
+  rule_ids: [R-CON-037]
+  difficulty: 2
+  stem: >-
+    A former official of a federal agency was under investigation for accepting bribes while in office,
+    but no charges had been filed. The President granted him "a full and unconditional pardon for all
+    offenses against the United States" arising from his conduct in office. A federal prosecutor later
+    obtained an indictment for federal bribery, arguing that a pardon granted before any charge is filed
+    is void. At about the same time, the state attorney general charged him under the state's bribery
+    statute for the same conduct. He moves to dismiss both prosecutions on the basis of the pardon.
+  call: "Which of the following best describes the effect of the pardon?"
+  options:
+    A: "It bars only the federal prosecution, because the pardon power reaches federal offenses, whether or not yet charged."
+    B: "It bars both prosecutions, because it covers every prosecution arising from the pardoned conduct."
+    C: "It bars neither prosecution, because a pardon may be granted only after a conviction."
+    D: "It bars neither prosecution, because Congress has not authorized the President to grant pardons before indictment."
+  answer: A
+  explanation_correct: >-
+    A is correct. The President may grant reprieves and pardons for offenses against the United States,
+    except in cases of impeachment, at any time after the offense is committed, before, during or after
+    prosecution (R-CON-037; Ex parte Garland). The pardon therefore bars the federal bribery prosecution.
+    The power reaches only federal offenses, so it has no effect on the state's prosecution for violating
+    its own law.
+  explanation_each_wrong_option:
+    B: >-
+      Overbroad. The pardon power covers "Offences against the United States" only; a separate sovereign's
+      prosecution under its own law is unaffected (R-CON-037).
+    C: >-
+      Wrong. A pardon may be granted before charges are filed or a conviction entered (R-CON-037; Ex parte
+      Garland).
+    D: >-
+      The pardon power comes directly from Article II and needs no congressional authorization; Congress
+      cannot limit its scope or effect (R-CON-037).
+  trap_type: overbroad
+  authority: ["U.S. Const. art. II, § 2, cl. 1", "Ex parte Garland, 71 U.S. (4 Wall.) 333 (1867)"]
+  source: original
+  tags: [wave2, w2a, pardon-power]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CON-0064
+  subject: CON
+  coverage_ids: [CON-MBE-II.B.2]
+  rule_ids: [R-CON-033, R-CON-058]
+  difficulty: 2
+  stem: >-
+    Congress authorized the President to use "all necessary and appropriate force" against a foreign
+    terrorist organization, including by detaining its fighters. A United States citizen captured by U.S.
+    forces in a foreign combat zone is being held in a military brig in the United States as an "enemy
+    combatant." His only notice of the basis for his detention is a short declaration by a Defense
+    Department official stating that he carried a rifle for the organization. He filed a petition for a
+    writ of habeas corpus, asserting that he was a humanitarian volunteer. The government argues that,
+    because the detention is an exercise of the President's power as commander in chief, the court must
+    accept the military's determination.
+  call: "How should the court rule?"
+  options:
+    A: "Order his release, because a citizen may not be held in military custody unless he is charged with a crime and tried by a jury."
+    B: "Require notice of the factual basis for his detention and a fair chance to rebut it before a neutral decisionmaker."
+    C: "Accept the military's determination, because detention decisions during armed conflict are committed to the commander in chief."
+    D: "Dismiss the petition, because the federal courts lack jurisdiction to review decisions made by the armed forces abroad."
+  answer: B
+  explanation_correct: >-
+    B is correct. The President, acting with Congress's authorization, may detain a citizen captured as an enemy
+    combatant for the duration of the particular conflict (five Justices so concluded in Hamdi v. Rumsfeld). Due
+    process entitles the citizen to notice of the factual basis for his classification and a fair opportunity to
+    rebut it before a neutral decisionmaker (R-CON-033; Hamdi, plurality opinion). Two concurring Justices, who
+    thought the detention unauthorized, joined the judgment remanding on those terms, and eight Justices rejected
+    the government's claim that courts must accept the military's determination. The plurality reached its
+    standard by Mathews balancing of the liberty interest, the risk of error and the government's interests
+    (R-CON-058). A one-sided declaration, unanswerable by the detainee, does not satisfy it.
+  explanation_each_wrong_option:
+    A: >-
+      Overbroad. Five Justices in Hamdi (the plurality and Justice Thomas) concluded that the
+      congressional authorization permitted detention of a citizen captured as an enemy combatant; the
+      view that a citizen must be charged or released unless habeas is suspended was a dissent. Due
+      process requires a fair process to contest the classification, not a criminal trial (R-CON-033).
+    C: >-
+      Wrong standard. A state of war is not a blank check for the President; courts review whether the
+      citizen received due process, even when the commander-in-chief power is invoked (R-CON-033). Only
+      one Justice, in dissent, would have deferred to the executive's determination.
+    D: >-
+      Habeas corpus is available to a citizen held in the United States, and the courts may review the
+      legality of his detention (R-CON-033).
+  trap_type: wrong-standard
+  authority: ["U.S. Const. art. II, § 2, cl. 1", "U.S. Const. amend. V", "Hamdi v. Rumsfeld, 542 U.S. 507 (2004)", "Mathews v. Eldridge, 424 U.S. 319 (1976)"]
+  source: original
+  tags: [wave2, w2a, commander-in-chief, detention]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CON-0065
+  subject: CON
+  coverage_ids: [CON-MBE-II.C.2]
+  rule_ids: [R-CON-039]
+  difficulty: 1
+  stem: >-
+    Both Houses of Congress passed a bill in identical form and presented it to the President on March 2.
+    The President disagreed with the bill but, wishing to avoid a public veto fight, neither signed it nor
+    returned it to Congress. Congress remained in session throughout March and April. On March 20, the
+    agency responsible for implementing the bill announced that it would treat the bill as never having
+    become law because the President had not signed it.
+  call: "Is the agency correct?"
+  options:
+    A: "Yes, because a bill becomes law only if the President signs it or Congress overrides a veto."
+    B: "Yes, because the President's failure to act within ten days was a pocket veto."
+    C: "No, because the President's failure to sign is treated as a veto that Congress may override by a majority vote of each House."
+    D: "No, because a bill not returned within ten days, Sundays excepted, becomes law while Congress is in session."
+  answer: D
+  explanation_correct: >-
+    D is correct. Under the Presentment Clauses, the President may sign a bill, veto it by returning it
+    with objections, or take no action. If the President does not return a bill within ten days (Sundays
+    excepted) after presentment, it becomes law as if signed, unless Congress by its adjournment prevents
+    its return (R-CON-039; art. I, § 7, cl. 2). Congress stayed in session, so the bill became law without
+    the President's signature well before March 20.
+  explanation_each_wrong_option:
+    A: >-
+      Incomplete. Article I, § 7 provides a third route: a bill not returned within ten days becomes law
+      without a signature while Congress is in session (R-CON-039).
+    B: >-
+      Confused rule. A pocket veto occurs only when Congress's adjournment prevents the President from
+      returning the bill; Congress remained in session (R-CON-039).
+    C: >-
+      Inaction is not a veto, and a veto may be overridden only by two-thirds of each House, not a
+      majority (R-CON-039).
+  trap_type: exception-trap
+  authority: ["U.S. Const. art. I, § 7, cl. 2"]
+  source: original
+  tags: [wave2, w2a, presentment, veto]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CON-0066
+  subject: CON
+  coverage_ids: [CON-MBE-II.C.3]
+  rule_ids: [R-CON-040, R-CON-038]
+  difficulty: 1
+  stem: >-
+    Congress enacted a statute directing the Secretary of Transportation to issue regulations limiting the
+    number of consecutive hours that drivers of interstate buses may work, "at levels the Secretary
+    determines are necessary to prevent accidents caused by driver fatigue, taking into account the costs
+    of compliance to carriers." The statute itself sets the civil fines for violating the regulations. A
+    bus company fined under the regulations argues that the statute unconstitutionally delegates
+    legislative power to the Secretary.
+  call: "Is the statute constitutional?"
+  options:
+    A: "Yes, because Congress supplied an intelligible principle to guide the Secretary's discretion."
+    B: "Yes, because Congress may delegate any of its powers to an executive officer whom the Senate has confirmed."
+    C: "No, because only Congress may make rules whose violation carries a fine."
+    D: "No, unless the statute allows either House of Congress to disapprove the regulations by resolution."
+  answer: A
+  explanation_correct: >-
+    A is correct. Congress may delegate rulemaking authority to an executive officer if it lays down an
+    intelligible principle to which the officer must conform (R-CON-040; J.W. Hampton; Whitman v. American
+    Trucking). The statute states the goal (preventing fatigue-related accidents), the subject (hours of
+    interstate bus drivers) and a factor to weigh (compliance costs). That is at least as definite as
+    standards the Court has upheld, and the Court has struck down delegations on this ground only twice,
+    both in 1935.
+  explanation_each_wrong_option:
+    B: >-
+      Overbroad. Senate confirmation does not remove the need for an intelligible principle; a delegation
+      with no standard at all would be invalid whoever received it (R-CON-040).
+    C: >-
+      Agencies routinely issue regulations enforced by penalties that Congress has authorized; the statute
+      here sets the fines itself (R-CON-040).
+    D: >-
+      A legislative veto by either House is itself unconstitutional, because binding congressional action
+      requires bicameral passage and presentment (R-CON-038; INS v. Chadha).
+  trap_type: overbroad
+  authority: ["U.S. Const. art. I, § 1", "J.W. Hampton, Jr., & Co. v. United States, 276 U.S. 394 (1928)", "Whitman v. American Trucking Ass'ns, 531 U.S. 457 (2001)", "INS v. Chadha, 462 U.S. 919 (1983)"]
+  source: original
+  tags: [wave2, w2a, nondelegation]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CON-0067
+  subject: CON
+  coverage_ids: [CON-MBE-II.C.4]
+  rule_ids: [R-CON-041, R-CON-043]
+  difficulty: 2
+  stem: >-
+    While in office, a President directed the Secretary of Commerce to eliminate the position of a
+    department economist after she published a report criticizing the administration's trade policy. After
+    the President's term ended, the economist sued the former President for damages, alleging that he had
+    her position eliminated in retaliation for her speech, in violation of the First Amendment. Directing
+    the reorganization of an executive department is within the President's official responsibilities.
+  call: "What is the former President's best defense?"
+  options:
+    A: "He has qualified immunity, because the economist's right was not clearly established when he acted."
+    B: "He has absolute immunity from damages for acts within the outer perimeter of his official responsibility."
+    C: "The Speech or Debate Clause bars any inquiry into his reasons for official decisions."
+    D: "The suit is moot, because he no longer holds office and cannot restore her position."
+  answer: B
+  explanation_correct: >-
+    B is correct. A President, including a former President, is absolutely immune from civil damages
+    liability for acts within the outer perimeter of his official responsibility (R-CON-041; Nixon v.
+    Fitzgerald, which involved the elimination of a federal employee's position). Reorganizing an
+    executive department is an official act, and an allegation of unlawful motive does not remove the
+    immunity. The immunity covers damages for official acts only; it would not protect unofficial conduct
+    (Clinton v. Jones).
+  explanation_each_wrong_option:
+    A: >-
+      Wrong standard. Qualified immunity protects most executive officials, including presidential aides
+      (R-CON-043; Harlow v. Fitzgerald), but the President's immunity for official acts is absolute. Nothing
+      in the facts suggests the right was not clearly established.
+    C: >-
+      The Speech or Debate Clause protects members of Congress and their aides for legislative acts; it
+      does not apply to the President (R-CON-042).
+    D: >-
+      A claim for damages for a completed injury remains live after the defendant leaves office
+      (R-CON-016).
+  trap_type: wrong-standard
+  authority: ["Nixon v. Fitzgerald, 457 U.S. 731 (1982)", "Harlow v. Fitzgerald, 457 U.S. 800 (1982)", "Clinton v. Jones, 520 U.S. 681 (1997)"]
+  source: original
+  tags: [wave2, w2a, presidential-immunity]
+  status: draft
+  last_verified: 2026-11-04

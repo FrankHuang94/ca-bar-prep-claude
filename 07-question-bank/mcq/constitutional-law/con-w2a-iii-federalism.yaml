@@ -1,0 +1,355 @@
+# Constitutional Law — NCBE category III: the relation of nation and states in a federal system
+# Original MBE-style items (wave 2, batch a). No item relies on National Pork Producers (V-200).
+questions:
+- id: Q-CON-0068
+  subject: CON
+  coverage_ids: [CON-MBE-III.A.1]
+  rule_ids: [R-CON-044]
+  difficulty: 2
+  stem: >-
+    A state's income tax exempts all retirement benefits paid by the state to its own retired employees.
+    Retirement benefits paid by the United States to retired federal employees who live in the state are
+    fully taxable. A retired federal civil servant who lives in the state paid $3,100 in state income tax
+    on her federal pension and sues for a refund. The state argues that the tax falls on her, a private
+    individual, rather than on the United States.
+  call: "Is she entitled to a refund?"
+  options:
+    A: "No, because a state may impose an income tax on federal employees and retirees who reside in the state."
+    B: "No, because the legal incidence of the tax falls on the retiree rather than on the federal government."
+    C: "Yes, because a state may not tax income that the federal government pays to any person."
+    D: "Yes, because the tax discriminates against federal retirees in favor of state retirees."
+  answer: D
+  explanation_correct: >-
+    D is correct. A state may not discriminate against the federal government or those who deal with it,
+    including its employees and retirees (R-CON-044; Davis v. Michigan Dep't of Treasury, applying the
+    nondiscrimination principle of intergovernmental tax immunity that Congress codified in 4 U.S.C.
+    § 111). Exempting state pensions while taxing federal pensions treats federal retirees worse because
+    of the source of their pay. The tax is invalid as applied, and she is entitled to a refund.
+  explanation_each_wrong_option:
+    A: >-
+      True but incomplete. A state may tax federal employees' and retirees' income on the same terms as
+      other income, but not on worse terms (R-CON-044).
+    B: >-
+      True but irrelevant. Legal incidence decides whether a tax falls directly on the United States; a
+      tax on private parties is still invalid if it discriminates against those who deal with the federal
+      government (R-CON-044).
+    C: >-
+      Overbroad. Nondiscriminatory state taxes on income paid by the federal government to employees and
+      contractors are valid (R-CON-044; United States v. New Mexico).
+  trap_type: true-but-irrelevant
+  authority: ["U.S. Const. art. VI, cl. 2", "Davis v. Michigan Dep't of Treasury, 489 U.S. 803 (1989)", "United States v. New Mexico, 455 U.S. 720 (1982)", "4 U.S.C. § 111"]
+  source: original
+  tags: [wave2, w2a, intergovernmental-immunity]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CON-0069
+  subject: CON
+  coverage_ids: [CON-MBE-III.A.1]
+  rule_ids: [R-CON-044]
+  difficulty: 2
+  stem: >-
+    A state statute requires every facility that operates a medical-waste incinerator to obtain an annual
+    operating permit from the state environmental agency and to pay a $5,000 permit fee. A hospital owned
+    and operated by the U.S. Department of Veterans Affairs operates such an incinerator in the state. The
+    hospital has refused to apply for a permit, asserting that the United States is immune from state
+    regulation. The state sues to enjoin the hospital from operating the incinerator until it obtains a
+    permit.
+  call: "Which of the following facts, if established, would most help the state?"
+  options:
+    A: "A federal statute clearly subjects federal facilities to state incinerator-permit requirements and fees."
+    B: "The permit requirement and fee apply equally to every incinerator in the state, public or private."
+    C: "Emissions from the hospital's incinerator exceed the state's air-quality standards and endanger nearby residents."
+    D: "The permit fee is set at the amount needed to cover the agency's cost of reviewing permit applications."
+  answer: A
+  explanation_correct: >-
+    A is correct. States may not directly regulate the federal government or its operations, including by
+    requiring a federal facility to obtain a state permit before carrying out a federal function, unless
+    Congress clearly consents (R-CON-044; Johnson v. Maryland; Hancock v. Train, holding that federal
+    facilities need not obtain state pollution permits absent clear and unambiguous congressional
+    authorization). Federal immunity is Congress's to waive, so a statute clearly subjecting federal
+    facilities to state permit requirements and fees would remove the hospital's defense. None of the
+    other facts overcomes the immunity.
+  explanation_each_wrong_option:
+    B: >-
+      True but irrelevant. Nondiscrimination saves a state tax on private contractors who deal with the
+      United States (United States v. New Mexico), but it does not permit a state to regulate the federal
+      government itself (R-CON-044).
+    C: >-
+      The state's police-power interest in clean air is real, but without congressional consent it cannot
+      be pursued by subjecting a federal facility to state permit control (R-CON-044; Hancock).
+    D: >-
+      Calling the charge a cost-based fee rather than a tax does not change the problem: the permit
+      requirement itself is direct regulation of a federal operation (R-CON-044).
+  trap_type: true-but-irrelevant
+  authority: ["U.S. Const. art. VI, cl. 2", "Johnson v. Maryland, 254 U.S. 51 (1920)", "Hancock v. Train, 426 U.S. 167 (1976)", "United States v. New Mexico, 455 U.S. 720 (1982)"]
+  source: original
+  tags: [wave2, w2a, intergovernmental-immunity]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CON-0070
+  subject: CON
+  coverage_ids: [CON-MBE-III.A.2]
+  rule_ids: [R-CON-046, R-CON-051]
+  difficulty: 3
+  stem: >-
+    For decades, a state prohibited privately operated commercial lotteries. Congress then enacted a
+    statute providing that "no State shall authorize by law, or repeal or modify any prohibition on,
+    privately operated commercial lotteries." The federal statute does not itself make it unlawful for
+    any private person to operate a lottery. The state legislature later repealed its prohibition and
+    began licensing private lottery operators. The United States sued the state, seeking a declaration
+    that the repeal is invalid under the federal statute.
+  call: "What is the most likely result?"
+  options:
+    A: "For the United States, because the statute is a valid regulation of interstate commerce that preempts the repeal under the Supremacy Clause."
+    B: "For the state, because the statute dictates to state legislatures what laws they may and may not enact."
+    C: "For the United States, because Congress may forbid states to change their laws on matters that affect interstate commerce."
+    D: "For the state, because the regulation of gambling is a power reserved exclusively to the states."
+  answer: B
+  explanation_correct: >-
+    B is correct. Congress may not command state legislatures to enact or administer federal programs, and
+    it equally may not forbid them to repeal or modify their own laws (R-CON-046; Murphy v. NCAA). A
+    statute that tells states which lottery laws they may not adopt or repeal is a direct order to the
+    legislature. Congress could achieve its goal lawfully by prohibiting private lotteries directly under
+    the commerce power, which would then preempt contrary state law.
+  explanation_each_wrong_option:
+    A: >-
+      Confused rule. Preemption operates through federal law that regulates private actors; a statute that
+      regulates only what states may do confers no federal rights or duties on private parties and so
+      preempts nothing (R-CON-051; Murphy).
+    C: >-
+      Overbroad. Congress may regulate interstate commerce directly, but it may not do so by commanding
+      state legislatures, whether the command is to act or to refrain from acting (R-CON-046).
+    D: >-
+      Overbroad. Gambling that substantially affects interstate commerce may be regulated by Congress; the
+      defect is the method of commandeering, not the subject (R-CON-046; R-CON-045).
+  trap_type: confused-rule
+  authority: ["U.S. Const. amend. X", "Murphy v. NCAA, 584 U.S. 453 (2018)", "New York v. United States, 505 U.S. 144 (1992)"]
+  source: original
+  tags: [wave2, w2a, anti-commandeering]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CON-0071
+  subject: CON
+  coverage_ids: [CON-MBE-III.A.2]
+  rule_ids: [R-CON-046, R-CON-045]
+  difficulty: 2
+  stem: >-
+    Congress enacted a statute setting minimum safety standards for privately owned underground
+    fuel-storage tanks. The statute provides that a state may assume responsibility for enforcing the
+    standards within its borders by adopting its own regulatory program at least as stringent as the
+    federal standards; in any state that does not, a federal agency will enforce the federal standards
+    directly against tank owners. A state that does not wish to adopt a program, and objects to federal
+    inspectors operating within its borders, sues to have the statute declared unconstitutional under the
+    Tenth Amendment.
+  call: "Is the statute constitutional?"
+  options:
+    A: "No, because it pressures the state legislature to enact a regulatory program on a subject Congress has chosen."
+    B: "No, because regulating the storage of fuel within a state is a matter reserved to the states."
+    C: "Yes, because Congress may let states choose between regulating to federal standards and direct federal enforcement."
+    D: "Yes, because the Supremacy Clause allows Congress to require state officials to enforce federal standards."
+  answer: C
+  explanation_correct: >-
+    C is correct. Anti-commandeering forbids Congress to compel states to legislate or to conscript state
+    officers (R-CON-046), but Congress may offer states the choice of regulating according to federal
+    standards or having federal law, enforced by federal officials, displace state regulation (New York v.
+    United States; Hodel v. Virginia Surface Mining). The state remains free to decline; if it does, the
+    burden of enforcement falls on the federal government, not on state officers. Regulating private fuel
+    tanks is within the commerce power, so the Tenth Amendment adds no separate limit (R-CON-045).
+  explanation_each_wrong_option:
+    A: >-
+      Confused rule. Offering a choice is encouragement, not compulsion. Commandeering occurs only when the
+      state has no option but to legislate or administer, as with the take-title provision in New York
+      (R-CON-046).
+    B: >-
+      Overbroad. The Tenth Amendment does not reserve subjects that fall within an enumerated power;
+      storage of commercial fuel substantially affects interstate commerce (R-CON-045).
+    D: >-
+      Right result, wrong reason. Congress may not require state executive officers to enforce federal law
+      (R-CON-046; Printz). The statute is valid because it leaves enforcement to federal officials if the
+      state declines.
+  trap_type: right-result-wrong-reason
+  authority: ["U.S. Const. amend. X", "New York v. United States, 505 U.S. 144 (1992)", "Hodel v. Virginia Surface Mining & Reclamation Ass'n, 452 U.S. 264 (1981)", "Printz v. United States, 521 U.S. 898 (1997)"]
+  source: original
+  tags: [wave2, w2a, anti-commandeering, conditional-preemption]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CON-0072
+  subject: CON
+  coverage_ids: [CON-MBE-III.B.1]
+  rule_ids: [R-CON-047, R-CON-049, R-CON-048]
+  difficulty: 3
+  stem: >-
+    To promote cleaner fuels, a state grants fuel retailers a state income-tax credit of 20 cents for each
+    gallon of biodiesel they sell, but only if the biodiesel was produced in the state. Biodiesel produced
+    elsewhere earns no credit, although it is chemically identical. An out-of-state biodiesel producer,
+    whose sales to the state's retailers have fallen sharply, sues. The state defends the credit on the
+    ground that it is spending its own money, through forgone tax revenue, and so acts as a market
+    participant.
+  call: "What is the most likely outcome of the producer's challenge?"
+  options:
+    A: "Uphold the credit, because a state may favor its own residents when it spends its own resources."
+    B: "Uphold the credit, because it serves the legitimate goal of encouraging cleaner fuels and burdens interstate commerce only incidentally."
+    C: "Strike the credit, because a state may never use its tax laws to encourage particular economic activity."
+    D: "Strike the credit, because a tax credit limited to in-state products is discriminatory regulation, not market participation."
+  answer: D
+  explanation_correct: >-
+    D is correct. The market-participant exception covers a state's buying, selling or direct
+    subsidizing with its own funds; assessing and computing taxes is a sovereign regulatory function, so
+    a tax credit is regulation, not participation (R-CON-049; New Energy Co. v. Limbach). The credit
+    discriminates on its face by product origin, so it is virtually per se invalid unless the state shows
+    a legitimate local purpose that nondiscriminatory alternatives cannot serve (R-CON-047). Out-of-state
+    biodiesel burns as cleanly as in-state biodiesel, so a credit available regardless of origin would
+    serve the environmental goal equally well.
+  explanation_each_wrong_option:
+    A: >-
+      Exception trap. A state acting as a market participant may favor residents, but a tax credit is an
+      exercise of the taxing power, not participation in the market (R-CON-049; New Energy).
+    B: >-
+      Wrong standard. Pike balancing applies only to laws that regulate evenhandedly; a facially
+      discriminatory credit receives the near per se rule (R-CON-048; R-CON-047).
+    C: >-
+      Overbroad. States may use nondiscriminatory tax incentives; the defect is limiting the credit to
+      in-state production (R-CON-047).
+  trap_type: exception-trap
+  authority: ["U.S. Const. art. I, § 8, cl. 3", "New Energy Co. of Ind. v. Limbach, 486 U.S. 269 (1988)", "Reeves, Inc. v. Stake, 447 U.S. 429 (1980)"]
+  source: original
+  tags: [wave2, w2a, dormant-commerce-clause, market-participant]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CON-0073
+  subject: CON
+  coverage_ids: [CON-MBE-III.B.2]
+  rule_ids: [R-CON-051]
+  difficulty: 1
+  stem: >-
+    A federal statute requires that children's car seats sold in the United States pass a crash test
+    conducted at 30 miles per hour and declares that its standards are "minimum requirements." The
+    statute contains no preemption clause, and the federal agency that administers it has never
+    indicated that it wants a single national standard. A state law requires car seats sold in the state
+    to pass a crash test conducted at 35 miles per hour. Manufacturers can comply with both laws by
+    building seats that pass the stricter test. A manufacturer sues, claiming that the state law is
+    preempted.
+  call: "Is the state law preempted?"
+  options:
+    A: "No, because compliance with both laws is possible and the state law furthers the federal purpose."
+    B: "No, because a state law is not preempted unless Congress expressly says so in the statute."
+    C: "Yes, because Congress has regulated car-seat safety, and federal regulation occupies any field that it addresses."
+    D: "Yes, because the state law imposes a requirement different from the federal standard."
+  answer: A
+  explanation_correct: >-
+    A is correct. Absent express preemption, state law is displaced only if Congress has occupied the
+    field or the state law conflicts with federal law, because compliance with both is impossible or the
+    state law obstructs federal purposes (R-CON-051). A manufacturer can meet both tests by building to the
+    stricter one, and the federal statute describes its standards as minimums, so a stricter state rule
+    advances rather than frustrates its purpose. The presumption against preemption applies with force in
+    health and safety, a field of traditional state power (Rice v. Santa Fe Elevator).
+  explanation_each_wrong_option:
+    B: >-
+      Right result, wrong reason. Federal law may also preempt impliedly, by occupying a field or by
+      conflict (R-CON-051). The state law survives because neither form of implied preemption applies.
+    C: >-
+      Overbroad. A federal statute that sets minimum standards does not, by itself, occupy the field; field
+      preemption requires a scheme so pervasive or a federal interest so dominant that no room is left for
+      state law (R-CON-051).
+    D: >-
+      A difference alone is not a conflict. Where federal law sets a floor, states may usually impose
+      stricter requirements (R-CON-051; Wyeth v. Levine).
+  trap_type: right-result-wrong-reason
+  authority: ["U.S. Const. art. VI, cl. 2", "Rice v. Santa Fe Elevator Corp., 331 U.S. 218 (1947)", "Florida Lime & Avocado Growers, Inc. v. Paul, 373 U.S. 132 (1963)", "Wyeth v. Levine, 555 U.S. 555 (2009)"]
+  source: original
+  tags: [wave2, w2a, preemption]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CON-0074
+  subject: CON
+  coverage_ids: [CON-MBE-III.B.2]
+  rule_ids: [R-CON-051]
+  difficulty: 3
+  stem: >-
+    Federal law comprehensively regulates the registration of noncitizens, requiring certain noncitizens to
+    register with federal authorities and to carry proof of registration, and imposing federal penalties
+    for violations. A state enacted a statute making it a state misdemeanor for any noncitizen in the state
+    to fail to carry the registration document that federal law requires. The state statute adopts the
+    federal registration standards word for word and imposes penalties similar to the federal ones. A
+    noncitizen charged under the state statute moves to dismiss, arguing that the statute is preempted.
+  call: "How should the court rule?"
+  options:
+    A: "Deny the motion, because the state law imposes the same obligations as federal law and therefore cannot conflict with it."
+    B: "Grant the motion, because federal law occupies the field of noncitizen registration, even as to state laws that mirror federal law."
+    C: "Deny the motion, because the presumption against preemption protects state criminal laws enacted under the police power."
+    D: "Grant the motion, because a state may not enact any law that applies differently to citizens and noncitizens."
+  answer: B
+  explanation_correct: >-
+    B is correct. Field preemption displaces state law when federal regulation is so pervasive, or the
+    federal interest so dominant, that Congress has left no room for the states (R-CON-051). The federal
+    registration scheme occupies the field of noncitizen registration (Hines v. Davidowitz). Within an
+    occupied field, even state laws that mirror federal standards are preempted, because they would let
+    the state impose its own penalties and enforcement choices in an area reserved to federal control
+    (Arizona v. United States, striking a state crime for failing to carry federal registration papers).
+  explanation_each_wrong_option:
+    A: >-
+      Wrong standard. Mirroring federal law avoids conflict preemption, but field preemption bars state
+      regulation of the field altogether, complementary or not (R-CON-051; Arizona).
+    C: >-
+      The presumption against preemption applies in fields of traditional state power; regulation of
+      noncitizens' registration is a field of dominant federal interest, and Congress has occupied it
+      (R-CON-051).
+    D: >-
+      Overbroad. States may draw some distinctions based on alienage, subject to equal-protection review
+      (R-CON-070). The statute fails because the federal government has occupied this particular field.
+  trap_type: wrong-standard
+  authority: ["U.S. Const. art. VI, cl. 2", "Hines v. Davidowitz, 312 U.S. 52 (1941)", "Arizona v. United States, 567 U.S. 387 (2012)"]
+  source: original
+  tags: [wave2, w2a, preemption, field-preemption]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CON-0075
+  subject: CON
+  coverage_ids: [CON-MBE-III.B.3]
+  rule_ids: [R-CON-052, R-CON-064, R-CON-082]
+  difficulty: 2
+  stem: >-
+    Congress enacted a statute expressly authorizing any state that administers a federally assisted
+    cash-assistance program for needy families to deny benefits to families that have lived in the state
+    for less than one year. Relying on that authorization, a state adopted a one-year residency
+    requirement for its program. A mother who moved to the state with her children four months ago, and
+    who would otherwise qualify, was denied benefits. She sues the state's welfare director, claiming that
+    the requirement is unconstitutional.
+  call: "Which party is likely to prevail?"
+  options:
+    A: "For the director, because Congress expressly authorized the residency requirement, removing any constitutional objection."
+    B: "For the director, because welfare benefits are not a fundamental right, so the requirement need only be rational."
+    C: "For the mother, because the requirement discriminates against citizens of other states in violation of the Article IV Privileges and Immunities Clause."
+    D: "For the mother, because Congress cannot authorize a state to penalize new residents' Fourteenth Amendment right to travel."
+  answer: D
+  explanation_correct: >-
+    D is correct. Citizens who move to a new state have a right to be treated like other citizens of that
+    state, protected by the Fourteenth Amendment's Privileges or Immunities Clause. A durational residency
+    requirement that penalizes new residents in the distribution of basic necessities triggers strict
+    scrutiny, which a one-year bar on cash assistance cannot survive (R-CON-064; R-CON-082; Shapiro v.
+    Thompson; Saenz v. Roe). Congress may authorize state laws that
+    would otherwise violate the dormant Commerce Clause, but it cannot authorize states to violate
+    individual-rights guarantees such as the right to travel (R-CON-052; Saenz).
+  explanation_each_wrong_option:
+    A: >-
+      Overbroad. Congressional authorization lifts only the dormant Commerce Clause limit; it does not
+      validate state laws that violate the Fourteenth Amendment (R-CON-052).
+    B: >-
+      Wrong standard. Welfare is not itself a fundamental right, but a requirement that penalizes the
+      exercise of the right to travel triggers strict scrutiny (R-CON-064).
+    C: >-
+      Wrong clause. Article IV protects nonresidents from discrimination; the mother is now a resident,
+      and the right of newly arrived citizens rests on the Fourteenth Amendment (R-CON-053; R-CON-082).
+  trap_type: overbroad
+  authority: ["U.S. Const. amend. XIV, § 1", "Saenz v. Roe, 526 U.S. 489 (1999)", "Shapiro v. Thompson, 394 U.S. 618 (1969)"]
+  source: original
+  tags: [wave2, w2a, congressional-authorization, right-to-travel]
+  status: draft
+  last_verified: 2026-11-04

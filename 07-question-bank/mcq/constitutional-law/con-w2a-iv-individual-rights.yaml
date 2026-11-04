@@ -1,0 +1,647 @@
+# Constitutional Law — NCBE category IV (A–E): individual rights other than the First Amendment
+# Original MBE-style items (wave 2, batch a). No item relies on Sheetz, Tyler, Skrmetti, SFFA or any
+# OT2025 decision (V-034/V-035).
+questions:
+- id: Q-CON-0076
+  subject: CON
+  coverage_ids: [CON-MBE-IV.A]
+  rule_ids: [R-CON-055, R-CON-054, R-CON-028]
+  difficulty: 1
+  stem: >-
+    Every lot in a residential subdivision is subject to a recorded covenant, signed by the original buyers
+    decades ago, providing that no lot may be sold to a person of a specified race. A lot owner contracted
+    to sell her home to a married couple of that race. Several neighbors sued in state court for an
+    injunction enforcing the covenant and barring the sale. The seller and the buyers argue that granting
+    the injunction would violate the Equal Protection Clause.
+  call: "May the state court grant the injunction?"
+  options:
+    A: "Yes, because the covenant is a private agreement, and the Fourteenth Amendment does not reach private conduct."
+    B: "Yes, because the buyers' only remedy for housing discrimination lies under federal fair-housing statutes."
+    C: "No, because judicial enforcement of the racially restrictive covenant would be state action denying equal protection."
+    D: "No, because the Thirteenth Amendment, of its own force, makes every racially restrictive covenant void."
+  answer: C
+  explanation_correct: >-
+    C is correct. The Fourteenth Amendment restrains only state action, and private parties who voluntarily
+    honor a discriminatory covenant do not violate it. But when a state court uses its coercive power to
+    enforce a racially restrictive covenant against willing parties, the court's action is state action
+    that denies equal protection (R-CON-055; Shelley v. Kraemer). The court must deny the injunction.
+  explanation_each_wrong_option:
+    A: >-
+      Confused rule. The covenant's existence is private, but the requested remedy is an order of a state
+      court, and judicial enforcement is state action (R-CON-055; R-CON-054).
+    B: >-
+      Statutory remedies exist alongside the constitutional limit; they do not authorize a state court to
+      enforce the covenant (R-CON-055).
+    D: >-
+      Section 1 of the Thirteenth Amendment forbids slavery and involuntary servitude. The Court has reached
+      private racial discrimination in property sales through legislation enacted under § 2, such as 42
+      U.S.C. § 1982 (R-CON-028; Jones v. Alfred H. Mayer Co.); it has not held that the Amendment, without
+      implementing legislation, voids private covenants.
+  trap_type: confused-rule
+  authority: ["U.S. Const. amend. XIV, § 1", "Shelley v. Kraemer, 334 U.S. 1 (1948)", "Jones v. Alfred H. Mayer Co., 392 U.S. 409 (1968)"]
+  source: original
+  tags: [wave2, w2a, state-action]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CON-0077
+  subject: CON
+  coverage_ids: [CON-MBE-IV.A]
+  rule_ids: [R-CON-055, R-CON-054, R-CON-117]
+  difficulty: 2
+  stem: >-
+    A state contracts with a private medical group to provide all medical care to inmates at a state
+    prison. A physician employed by the group, who is not a state employee, works full-time at the prison
+    clinic under the contract. Inmates may not obtain care from anyone else. An inmate sued the physician
+    under 42 U.S.C. § 1983, alleging that the physician deliberately ignored his serious medical needs in
+    violation of the Eighth Amendment. The physician moves to dismiss, arguing that he is a private actor
+    who is not subject to constitutional constraints.
+  call: "Should the motion be granted?"
+  options:
+    A: "No, because the state delegated to him its constitutional duty to provide medical care to prisoners."
+    B: "Yes, because providing medical care is not a function traditionally and exclusively reserved to the state."
+    C: "Yes, because a private contractor does not become a state actor merely because the state pays for its services."
+    D: "No, because every person who is paid with public funds acts under color of state law."
+  answer: A
+  explanation_correct: >-
+    A is correct. Private conduct is attributable to the state when the state delegates to a private party
+    a function that the state itself is constitutionally obligated to perform (R-CON-055; West v. Atkins).
+    A state that incarcerates people must provide them adequate medical care, and the inmates cannot seek
+    care elsewhere. A physician who performs that duty under contract acts under color of state law for
+    § 1983 purposes, whatever his employment status (R-CON-117).
+  explanation_each_wrong_option:
+    B: >-
+      True but irrelevant. Medical care in general is not an exclusive public function (R-CON-054), but
+      this physician is carrying out the state's own custodial obligation to its prisoners, which makes his
+      conduct state action (West v. Atkins).
+    C: >-
+      True as a general rule (R-CON-054; Rendell-Baker v. Kohn) but incomplete; it ignores that the state
+      has delegated its constitutional duty toward people it holds in custody.
+    D: >-
+      Overbroad. Public funding alone does not create state action; private schools and nursing homes paid
+      with public funds were not state actors (R-CON-054).
+  trap_type: true-but-irrelevant
+  authority: ["42 U.S.C. § 1983", "West v. Atkins, 487 U.S. 42 (1988)", "Rendell-Baker v. Kohn, 457 U.S. 830 (1982)"]
+  source: original
+  tags: [wave2, w2a, state-action]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CON-0078
+  subject: CON
+  coverage_ids: [CON-MBE-IV.B.1.a]
+  rule_ids: [R-CON-061, R-CON-060, R-CON-076]
+  difficulty: 2
+  stem: >-
+    A state statute provides that no resident who is under a court order to support a minor child may
+    marry unless a court first finds that all of the resident's support payments are current. A man who
+    owes $9,000 in past-due child support and is unemployed applied for a marriage license and was refused
+    under the statute. The state already collects overdue support through wage garnishment, tax-refund
+    intercepts and contempt proceedings. The man sues, claiming that the statute violates the Fourteenth
+    Amendment.
+  call: "Is the statute constitutional as applied to him?"
+  options:
+    A: "Yes, because ensuring that children receive support is a legitimate interest to which the statute is rationally related."
+    B: "No, because the statute substantially burdens the fundamental right to marry and is not narrowly tailored."
+    C: "Yes, because states have traditionally regulated who may marry, so marriage restrictions receive only rational-basis review."
+    D: "No, because the statute discriminates on the basis of wealth, which is a suspect classification."
+  answer: B
+  explanation_correct: >-
+    B is correct. The right to marry is fundamental (R-CON-061; Zablocki v. Redhail; Loving). A law that
+    directly and substantially interferes with it receives strict scrutiny (R-CON-060). Collecting child
+    support is an important interest, but the statute is not narrowly tailored: it does not deliver any
+    money to the children, it bars marriage for people who cannot pay, and the state has effective, less
+    restrictive collection tools such as garnishment and contempt. Reasonable regulations that do not
+    significantly interfere with the decision to marry would receive more deference; this one is a direct
+    bar.
+  explanation_each_wrong_option:
+    A: >-
+      Wrong standard. Rational-basis review applies only if no fundamental right is substantially burdened;
+      a direct bar on marriage triggers strict scrutiny (R-CON-060; R-CON-061).
+    C: >-
+      Overbroad. States may impose reasonable marriage regulations, but a law that significantly
+      interferes with the right to marry gets heightened scrutiny, as Zablocki held (R-CON-061).
+    D: >-
+      Right result, wrong reason. Wealth is not a suspect class (R-CON-076; San Antonio v. Rodriguez); the
+      statute fails because it burdens a fundamental right.
+  trap_type: wrong-standard
+  authority: ["U.S. Const. amend. XIV, § 1", "Zablocki v. Redhail, 434 U.S. 374 (1978)", "Loving v. Virginia, 388 U.S. 1 (1967)"]
+  source: original
+  tags: [wave2, w2a, substantive-due-process, marriage]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CON-0079
+  subject: CON
+  coverage_ids: [CON-MBE-IV.B.1.b]
+  rule_ids: [R-CON-063, R-CON-061]
+  difficulty: 2
+  stem: >-
+    A village zoning ordinance limits a residential district to single-family homes and defines "family"
+    as any number of persons related by blood, marriage or adoption, or no more than two unrelated persons
+    living together. Four unrelated graduate students rented a house in the district and were cited for
+    violating the ordinance. The village says the ordinance preserves quiet, low-density neighborhoods
+    with limited traffic and parking congestion. The students argue that the ordinance violates their
+    liberty, protected by the Due Process Clause, to choose the people with whom they live.
+  call: "Is the ordinance constitutional as applied to the students?"
+  options:
+    A: "No, because the choice of one's household companions is a fundamental right, so the village must satisfy strict scrutiny."
+    B: "No, because the village has not shown that the limit is substantially related to an important government interest."
+    C: "Yes, because zoning ordinances are a traditional exercise of the police power and are not subject to due process limits."
+    D: "Yes, because no fundamental right is burdened and the limit rationally serves legitimate land-use goals."
+  answer: D
+  explanation_correct: >-
+    D is correct. Laws that do not burden a fundamental right need only be rationally related to a
+    legitimate interest, and the challenger bears the burden (R-CON-063). The Court has upheld an ordinance
+    limiting households of unrelated persons, finding no fundamental right at stake and accepting
+    interests in quiet, uncongested neighborhoods (Village of Belle Terre v. Boraas). The fundamental right
+    to family living arrangements protects relatives, such as a grandmother living with her grandsons
+    (R-CON-061; Moore v. City of East Cleveland), not groups of unrelated people.
+  explanation_each_wrong_option:
+    A: >-
+      Confused rule. Moore protects extended family relationships; Belle Terre holds that groups of
+      unrelated persons have no fundamental right to live together in a single-family zone (R-CON-061).
+    B: >-
+      Wrong standard and burden. Intermediate scrutiny applies to sex and nonmarital-birth classifications;
+      here rational basis applies and the students must show the ordinance is irrational (R-CON-063).
+    C: >-
+      Overbroad. Zoning is subject to due process review; Moore struck down a zoning ordinance that
+      intruded on family living arrangements (R-CON-061).
+  trap_type: confused-rule
+  authority: ["U.S. Const. amend. XIV, § 1", "Village of Belle Terre v. Boraas, 416 U.S. 1 (1974)", "Moore v. City of East Cleveland, 431 U.S. 494 (1977)"]
+  source: original
+  tags: [wave2, w2a, substantive-due-process, zoning]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CON-0080
+  subject: CON
+  coverage_ids: [CON-MBE-IV.B.1.b]
+  rule_ids: [R-CON-063, R-CON-057]
+  difficulty: 1
+  stem: >-
+    Over three months, a woman called city police five times to report that her former boyfriend had
+    threatened to kill her. Each time, officers took a report but made no arrest; they did nothing to
+    encourage the boyfriend or otherwise increase the danger she faced. The boyfriend later broke into her
+    home and seriously injured her. She sued the city, claiming that the police's failure to protect her
+    deprived her of liberty without due process of law. She was never in police custody.
+  call: "Will she prevail?"
+  options:
+    A: "Yes, because the police knew of a specific danger to her, which created a special relationship requiring them to protect her."
+    B: "Yes, because the police department's repeated inaction shocks the conscience."
+    C: "No, because the Due Process Clause generally imposes no affirmative duty on the state to protect individuals from private violence."
+    D: "No, because she can sue her former boyfriend in tort, which provides adequate post-deprivation process."
+  answer: C
+  explanation_correct: >-
+    C is correct. The Due Process Clause limits the state's power to act; it does not generally require the
+    state to protect people from harm by private actors (R-CON-063; DeShaney v. Winnebago County). An
+    affirmative duty arises when the state takes a person into custody and so restrains her ability to
+    protect herself. She was never in custody, and the police did not create or increase the danger, so
+    the city's failure to protect her is not a constitutional violation, however regrettable.
+  explanation_each_wrong_option:
+    A: >-
+      Exception trap. The special-relationship duty arises from custody or similar restraint imposed by the
+      state, not from the state's knowledge of a danger (DeShaney; R-CON-063).
+    B: >-
+      The shocks-the-conscience test governs affirmative executive action (County of Sacramento v. Lewis);
+      it does not create a duty to act where none exists (R-CON-063).
+    D: >-
+      Wrong framework. Adequate post-deprivation remedies matter in procedural due process claims about
+      deprivations caused by the state (R-CON-057); here the state deprived her of nothing, so no process
+      question arises.
+  trap_type: exception-trap
+  authority: ["U.S. Const. amend. XIV, § 1", "DeShaney v. Winnebago County Dep't of Social Servs., 489 U.S. 189 (1989)", "County of Sacramento v. Lewis, 523 U.S. 833 (1998)"]
+  source: original
+  tags: [wave2, w2a, substantive-due-process, no-duty-to-protect]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CON-0081
+  subject: CON
+  coverage_ids: [CON-MBE-IV.B.2]
+  rule_ids: [R-CON-058, R-CON-057]
+  difficulty: 1
+  stem: >-
+    A public high school's assistant principal received a teacher's written report that a student had
+    spray-painted graffiti on a school wall. Before taking any action, the assistant principal met with the
+    student, told her what she was accused of, summarized the teacher's report, and asked for her side of
+    the story; she denied the accusation. The assistant principal then suspended her for four days. The
+    student sues, arguing that due process entitled her to a formal hearing at which she could be
+    represented by a lawyer and cross-examine the teacher.
+  call: "Was the student denied due process?"
+  options:
+    A: "No, because students have no property interest in attending public school."
+    B: "No, because she received notice of the charges and an informal chance to respond, which is all that is due."
+    C: "Yes, because a student may not be deprived of education without an opportunity to confront and cross-examine the witnesses against her."
+    D: "Yes, because a suspension must be preceded by a formal evidentiary hearing before an impartial officer who is not a school employee."
+  answer: B
+  explanation_correct: >-
+    B is correct. A student entitled by state law to a public education has a property interest in it
+    (R-CON-057; Goss v. Lopez). Applying the Mathews balance, the Court has held that for a suspension of
+    ten days or less, due process requires oral or written notice of the charges, an explanation of the
+    evidence if the student denies them, and an informal opportunity to present her side (R-CON-058;
+    Goss). She received all three before the suspension. Counsel, cross-examination and a formal hearing
+    are not required for so short a suspension.
+  explanation_each_wrong_option:
+    A: >-
+      Wrong. State law that provides free public education creates a property interest protected by due
+      process (R-CON-057; Goss).
+    C: >-
+      Wrong standard. Cross-examination is not required for a short suspension; the Mathews balance favors
+      informal procedures here (R-CON-058).
+    D: >-
+      Overbroad. Due process does not require a formal hearing or an outside officer for a short
+      suspension; an informal exchange with a school administrator suffices (R-CON-058; Goss).
+  trap_type: wrong-standard
+  authority: ["U.S. Const. amend. XIV, § 1", "Goss v. Lopez, 419 U.S. 565 (1975)", "Mathews v. Eldridge, 424 U.S. 319 (1976)"]
+  source: original
+  tags: [wave2, w2a, procedural-due-process, schools]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CON-0082
+  subject: CON
+  coverage_ids: [CON-MBE-IV.B.2]
+  rule_ids: [R-CON-058]
+  difficulty: 2
+  stem: >-
+    In a small town, traffic offenses are tried by the town's mayor sitting as magistrate. By ordinance,
+    the mayor personally receives $20 from the court costs in each case in which he convicts the defendant
+    and nothing when he acquits. A driver was convicted of speeding by the mayor and fined $150. The
+    evidence of her guilt, including radar readings, was overwhelming, and there is no evidence that the
+    mayor actually harbored any bias against her. She appeals, claiming that her trial violated due
+    process.
+  call: "Should her conviction be reversed?"
+  options:
+    A: "No, because the overwhelming evidence of guilt shows that the mayor's interest did not affect the result."
+    B: "No, because the right to a neutral decisionmaker applies only to offenses punishable by imprisonment."
+    C: "Yes, because she was entitled to a jury trial on the speeding charge."
+    D: "Yes, because a judge with a direct financial stake in convicting is not a neutral decisionmaker."
+  answer: D
+  explanation_correct: >-
+    D is correct. Due process requires a neutral decisionmaker, and a judge who has a direct, personal,
+    pecuniary interest in the outcome, such as being paid only upon conviction, is disqualified
+    (R-CON-058; Tumey v. Ohio). The defect lies in the structure of the tribunal, so the defendant need not
+    prove actual bias, and the strength of the evidence does not cure it.
+  explanation_each_wrong_option:
+    A: >-
+      True but irrelevant. A judge with a direct pecuniary stake in convicting violates due process
+      regardless of the evidence; Tumey held that, 'no matter what the evidence was against him,' the
+      defendant had the right to an impartial judge (R-CON-058).
+    B: >-
+      Wrong. The neutral-decisionmaker requirement applies to adjudications generally, including fine-only
+      offenses and civil matters (R-CON-058).
+    C: >-
+      Speeding is a petty offense (authorized imprisonment, if any, of six months or less), so there is no
+      Sixth Amendment jury right (Baldwin v. New York, 399 U.S. 66 (1970)); in any event, the defect is
+      the judge's financial interest.
+  trap_type: true-but-irrelevant
+  authority: ["U.S. Const. amend. XIV, § 1", "Tumey v. Ohio, 273 U.S. 510 (1927)"]
+  source: original
+  tags: [wave2, w2a, procedural-due-process, neutral-decisionmaker]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CON-0083
+  subject: CON
+  coverage_ids: [CON-MBE-IV.C.1]
+  rule_ids: [R-CON-075, R-CON-017]
+  difficulty: 2
+  stem: >-
+    A state's constitution provides that each of the state's 40 counties elects one member of the state
+    senate, regardless of population. The most populous county has 1.2 million residents; the least
+    populous has 9,000. The state house of representatives is apportioned by population. Voters in the
+    most populous county sue in federal court, claiming that the senate apportionment violates the Equal
+    Protection Clause. The state argues that its senate, like the United States Senate, represents
+    geographic units rather than people.
+  call: "What is the most likely result?"
+  options:
+    A: "For the state, because the claim presents a nonjusticiable political question about the structure of the legislature."
+    B: "For the voters, because both houses of a bicameral state legislature must be apportioned substantially on the basis of population."
+    C: "For the state, because a state may model one house of its legislature on the United States Senate."
+    D: "For the voters, because any deviation from exact population equality among state legislative districts is unconstitutional."
+  answer: B
+  explanation_correct: >-
+    B is correct. The right to vote is fundamental, and one person, one vote requires that both houses of a
+    state legislature be apportioned substantially on a population basis (R-CON-075; Reynolds v. Sims).
+    The federal analogy fails: the United States Senate reflects a compromise among sovereign states,
+    while counties are subdivisions of the state with no comparable status. A ratio of more than 100 to 1
+    between districts is far beyond any permissible deviation.
+  explanation_each_wrong_option:
+    A: >-
+      Legislative apportionment under the Equal Protection Clause is justiciable (R-CON-017; Baker v.
+      Carr). Partisan gerrymandering is the nonjusticiable category.
+    C: >-
+      Reynolds rejected the "federal analogy" for state legislatures (R-CON-075).
+    D: >-
+      Overbroad. State legislative districts must be substantially equal, and modest deviations justified
+      by legitimate state policies are allowed; the near-exact equality standard governs congressional
+      districts (R-CON-075).
+  trap_type: confused-rule
+  authority: ["U.S. Const. amend. XIV, § 1", "Reynolds v. Sims, 377 U.S. 533 (1964)", "Baker v. Carr, 369 U.S. 186 (1962)"]
+  source: original
+  tags: [wave2, w2a, equal-protection, voting]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CON-0084
+  subject: CON
+  coverage_ids: [CON-MBE-IV.C.2]
+  rule_ids: [R-CON-068, R-CON-066, R-CON-055]
+  difficulty: 2
+  stem: >-
+    After a divorce, a state trial court awarded custody of a six-year-old child to the mother. A year
+    later, the father moved for a change of custody because the mother had married a man of a different
+    race. The court found that both parents were fit and loving but transferred custody to the father,
+    reasoning that the child would likely suffer social stigma and teasing from living in an interracial
+    household. The mother appeals, arguing that the order violates the Equal Protection Clause.
+  call: "How should the appellate court rule?"
+  options:
+    A: "Affirm, because protecting a child's best interests is a compelling interest, and the court found a likelihood of harm."
+    B: "Affirm, because a custody dispute between two private parents does not involve state action."
+    C: "Reverse, because custody decisions are subject to intermediate scrutiny, which the trial court failed to apply."
+    D: "Reverse, because a custody decision may not rest on a racial classification justified only by the private biases of others."
+  answer: D
+  explanation_correct: >-
+    D is correct. A court's custody order is state action (R-CON-055), and a decision based on race is
+    subject to strict scrutiny (R-CON-068; R-CON-066). The child's welfare is a compelling interest, but the
+    only harm the court identified was the reaction of private persons to an interracial household.
+    Private biases may be beyond the reach of the law, but the law may not give them effect, so the race-
+    based transfer of custody cannot stand (Palmore v. Sidoti).
+  explanation_each_wrong_option:
+    A: >-
+      True but irrelevant. The interest is compelling, but a classification justified only by others'
+      prejudice is not a permissible means of serving it (R-CON-068; Palmore).
+    B: >-
+      Confused rule. The parents are private, but the custody order is the act of a state court (R-CON-055).
+    C: >-
+      Wrong tier. Race-based government action receives strict scrutiny, not intermediate scrutiny
+      (R-CON-066; R-CON-068).
+  trap_type: true-but-irrelevant
+  authority: ["U.S. Const. amend. XIV, § 1", "Palmore v. Sidoti, 466 U.S. 429 (1984)", "Shelley v. Kraemer, 334 U.S. 1 (1948)"]
+  source: original
+  tags: [wave2, w2a, equal-protection, race]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CON-0085
+  subject: CON
+  coverage_ids: [CON-MBE-IV.C.3]
+  rule_ids: [R-CON-074]
+  difficulty: 1
+  stem: >-
+    To preserve the historic character of its old-town district, a city enacted an ordinance banning food
+    carts from the district, except carts that had operated there continuously for at least eight years
+    before the ordinance took effect. Two carts qualified for the exception. A cart owner who had operated
+    in the district for two years was excluded and sued, claiming that the exception violates the Equal
+    Protection Clause. The city says the long-standing carts have become part of the district's charm and
+    help attract tourists.
+  call: "How should the court rule?"
+  options:
+    A: "For the city, because the exception rationally serves the legitimate goal of preserving the district's character."
+    B: "For the city, because economic regulations are not subject to review under the Equal Protection Clause."
+    C: "For the cart owner, because the city has not shown that the eight-year cutoff is substantially related to an important interest."
+    D: "For the cart owner, because a classification that favors a few established businesses is presumed to be arbitrary."
+  answer: A
+  explanation_correct: >-
+    A is correct. Economic classifications that involve no suspect class or fundamental right receive
+    rational-basis review: they are upheld if rationally related to any conceivable legitimate interest,
+    and the challenger must negate every possible basis (R-CON-074; FCC v. Beach Communications). The city
+    could rationally conclude that long-established carts contribute to the district's character, and a
+    legislature may address a problem one step at a time. The Court upheld a similar grandfather clause for
+    long-established vendors in a historic district (City of New Orleans v. Dukes).
+  explanation_each_wrong_option:
+    B: >-
+      Overbroad. Economic regulations are reviewed under equal protection, but only for a rational basis;
+      a classification born of bare animus could fail (R-CON-074).
+    C: >-
+      Wrong standard and burden. Intermediate scrutiny, with the burden on the government, applies to sex
+      and nonmarital-birth classifications, not to business classifications (R-CON-066; R-CON-074).
+    D: >-
+      Reverses the presumption. Under rational basis, the law is presumed valid, and under- or
+      over-inclusiveness is tolerated (R-CON-074).
+  trap_type: wrong-standard
+  authority: ["U.S. Const. amend. XIV, § 1", "City of New Orleans v. Dukes, 427 U.S. 297 (1976)", "FCC v. Beach Communications, Inc., 508 U.S. 307 (1993)", "Railway Express Agency v. New York, 336 U.S. 106 (1949)"]
+  source: original
+  tags: [wave2, w2a, equal-protection, rational-basis]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CON-0086
+  subject: CON
+  coverage_ids: [CON-MBE-IV.C.3]
+  rule_ids: [R-CON-066, R-CON-074]
+  difficulty: 3
+  stem: >-
+    A city charges homeowners a fee to connect to a new municipal sewer line. Every homeowner on one street
+    paid $1,500 to connect, except one homeowner, whom the city charged $12,000. At trial, the city's
+    engineer testified that her connection cost the city no more than any other connection on the street,
+    and the city offered no explanation for the higher fee except that the mayor had ordered it after a
+    long-running personal feud with her. The homeowner sued the city under the Equal Protection Clause.
+    She does not claim to belong to any protected class.
+  call: "Is the homeowner likely to prevail?"
+  options:
+    A: "No, because the Equal Protection Clause protects only against discrimination based on membership in a class or group."
+    B: "No, because fee classifications get rational-basis review, under which the city prevails if any conceivable reason could support a difference."
+    C: "Yes, because she was intentionally treated differently from others similarly situated, and there was no rational basis for the difference."
+    D: "Yes, because a classification that singles out one person is subject to strict scrutiny."
+  answer: C
+  explanation_correct: >-
+    C is correct. A "class of one" may bring an equal-protection claim by showing that she was
+    intentionally treated differently from others similarly situated and that there is no rational basis
+    for the difference (R-CON-066; Village of Willowbrook v. Olech). Rational-basis review applies
+    (R-CON-074), but the city conceded that her connection cost the same as the others, and a personal
+    grudge is not a legitimate governmental interest. On these facts no conceivable legitimate reason
+    supports the difference, so she is likely to prevail. (The class-of-one theory is unavailable in public
+    employment, which is not involved here.)
+  explanation_each_wrong_option:
+    A: >-
+      Confused rule. Equal protection protects individuals, and Olech recognizes claims by a single person
+      treated arbitrarily differently from others similarly situated (R-CON-066).
+    B: >-
+      States the right test but misapplies it. Rational basis is deferential, but here the record excludes
+      any legitimate reason: identical cost and an admitted personal motive (R-CON-074).
+    D: >-
+      Wrong tier. Class-of-one claims receive rational-basis review; singling out one person does not
+      trigger strict scrutiny (R-CON-066).
+  trap_type: fact-misread
+  authority: ["U.S. Const. amend. XIV, § 1", "Village of Willowbrook v. Olech, 528 U.S. 562 (2000)", "Engquist v. Oregon Dep't of Agric., 553 U.S. 591 (2008)"]
+  source: original
+  tags: [wave2, w2a, equal-protection, class-of-one]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CON-0087
+  subject: CON
+  coverage_ids: [CON-MBE-IV.D]
+  rule_ids: [R-CON-079]
+  difficulty: 3
+  stem: >-
+    In 2016, a developer bought a vacant riverside parcel intending to fill it and build a warehouse. For
+    more than a century, the state's courts have held, under the common law of nuisance, that placing fill
+    on land in a way that diverts floodwaters onto neighboring property is a nuisance that neighbors may
+    enjoin. In 2023, after hydrological studies, the state enacted a statute prohibiting any filling of
+    land within designated floodways. The uncontradicted evidence shows that any fill on the developer's
+    parcel, which lies entirely within a floodway, would divert floodwaters onto neighboring homes, and that
+    without fill the parcel has no economically beneficial use. The developer sues for just compensation.
+  call: "Is the developer entitled to compensation?"
+  options:
+    A: "Yes, because the statute deprives the parcel of all economically beneficial use, which is a per se taking."
+    B: "Yes, because the developer bought the parcel with a reasonable, investment-backed expectation of building on it."
+    C: "No, because the statute bars only a use already forbidden by the state's background nuisance law."
+    D: "No, because the statute substantially advances the state's legitimate interest in flood control."
+  answer: C
+  explanation_correct: >-
+    C is correct. A regulation that deprives land of all economically beneficial use is a per se taking
+    unless the prohibited use was never part of the owner's title because background principles of the
+    state's nuisance and property law already forbade it (R-CON-079; Lucas v. South Carolina Coastal
+    Council). Long-settled state nuisance law already allowed neighbors to enjoin fill that diverts
+    floodwaters onto their land, and the evidence shows that any fill here would do so. The statute
+    therefore takes nothing the developer owned, and no compensation is due.
+  explanation_each_wrong_option:
+    A: >-
+      Exception trap. The Lucas per se rule has a built-in exception for restrictions that merely duplicate
+      background nuisance and property law (R-CON-079).
+    B: >-
+      Investment-backed expectations are a Penn Central factor, which does not govern a total wipeout; and
+      no reasonable expectation can include a right to commit a nuisance that state law already forbade
+      (R-CON-079).
+    D: >-
+      Wrong test. Whether a regulation "substantially advances" a legitimate interest is a due-process
+      question, not a takings test (R-CON-079; Lingle v. Chevron).
+  trap_type: exception-trap
+  authority: ["U.S. Const. amend. V", "Lucas v. South Carolina Coastal Council, 505 U.S. 1003 (1992)", "Lingle v. Chevron U.S.A. Inc., 544 U.S. 528 (2005)"]
+  source: original
+  tags: [wave2, w2a, takings, lucas]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CON-0088
+  subject: CON
+  coverage_ids: [CON-MBE-IV.D]
+  rule_ids: [R-CON-079, R-CON-078]
+  difficulty: 2
+  stem: >-
+    A city designated a 1920s movie palace as a historic landmark. Under the city's landmark ordinance,
+    the owner may not demolish the building or add stories above it without approval, which the city
+    denied when the owner proposed replacing the theater with a 30-story office tower. The theater
+    continues to operate profitably as a performance venue and earns the owner a reasonable return, but the
+    denial reduced the property's market value by about 60 percent. The owner may transfer the unused
+    development rights to certain nearby parcels. The owner sues, claiming a taking.
+  call: "Is the owner likely to prevail?"
+  options:
+    A: "Yes, because the regulation destroyed most of the property's value, which is a per se taking."
+    B: "Yes, because the right to build above the theater is a separate property interest that the city has taken entirely."
+    C: "No, because a regulation is a taking only when it physically occupies the property."
+    D: "No, because, viewed as a whole, the property retains a profitable use and no taking occurs under the ad hoc balancing test."
+  answer: D
+  explanation_correct: >-
+    D is correct. A regulation that leaves some economically beneficial use is judged under Penn Central's
+    ad hoc test: the economic impact on the owner, the interference with distinct investment-backed
+    expectations, and the character of the government action (R-CON-079). The property is viewed as a
+    whole. The owner keeps its existing, profitable use and a reasonable return, can transfer its unused
+    development rights, and faces a general historic-preservation program rather than a physical
+    invasion. A large loss in value alone is usually not a taking, so the owner is unlikely to prevail.
+  explanation_each_wrong_option:
+    A: >-
+      Wrong standard. The per se rule of Lucas requires the loss of all economically beneficial use; a 60
+      percent reduction is analyzed under Penn Central (R-CON-079).
+    B: >-
+      Confused rule. Courts do not divide a parcel into separate segments, such as air rights, to find a
+      total taking of one segment; the parcel is considered as a whole (R-CON-079; Penn Central).
+    C: >-
+      Overbroad. Physical occupation is a per se taking (R-CON-078), but regulations without any physical
+      invasion can also be takings under Lucas or Penn Central (R-CON-079).
+  trap_type: overbroad
+  authority: ["U.S. Const. amend. V", "Penn Central Transp. Co. v. New York City, 438 U.S. 104 (1978)", "Lucas v. South Carolina Coastal Council, 505 U.S. 1003 (1992)"]
+  source: original
+  tags: [wave2, w2a, takings, penn-central]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CON-0089
+  subject: CON
+  coverage_ids: [CON-MBE-IV.E]
+  rule_ids: [R-CON-085, R-CON-053, R-CON-063]
+  difficulty: 2
+  stem: >-
+    After a scandal at a private charity, a state legislature enacted a statute declaring that two named
+    former officers of the charity "are guilty of defrauding the people of this State" and providing that
+    they may never again serve as officers or directors of any charity registered in the state or hold any
+    state-issued professional license. Neither former officer has been charged with or convicted of any
+    crime, and the statute provides for no hearing. Both are lifelong residents of the state. They sue to
+    invalidate the statute.
+  call: "Which constitutional provision provides the strongest basis for their challenge?"
+  options:
+    A: "The Bill of Attainder Clause, because the statute punishes named persons without a judicial trial."
+    B: "The Privileges and Immunities Clause of Article IV, because the statute burdens their right to pursue a livelihood."
+    C: "The Equal Protection Clause, because persons accused of fraud are a suspect class."
+    D: "The Due Process Clause, because the right to pursue a particular occupation is fundamental and triggers strict scrutiny."
+  answer: A
+  explanation_correct: >-
+    A is correct. No state may pass a bill of attainder, a legislative act that inflicts punishment on
+    specifically identified persons without a judicial trial (R-CON-085; art. I, § 10, cl. 1). The statute
+    names two individuals, declares them guilty, and imposes a classic legislative punishment, a permanent
+    bar from positions and professions, with no trial (United States v. Lovett; United States v. Brown).
+  explanation_each_wrong_option:
+    B: >-
+      Wrong clause. Article IV protects citizens of other states against discrimination based on
+      nonresidence; these officers are residents (R-CON-053).
+    C: >-
+      Persons accused of fraud are not a suspect or quasi-suspect class; any classification here would get
+      rational-basis review (R-CON-074).
+    D: >-
+      Wrong standard. The right to pursue a particular occupation is not a fundamental right for
+      substantive due process; occupational regulation gets rational-basis review (R-CON-063).
+  trap_type: fact-misread
+  authority: ["U.S. Const. art. I, § 10, cl. 1", "United States v. Lovett, 328 U.S. 303 (1946)", "United States v. Brown, 381 U.S. 437 (1965)"]
+  source: original
+  tags: [wave2, w2a, bill-of-attainder]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CON-0090
+  subject: CON
+  coverage_ids: [CON-MBE-IV.E]
+  rule_ids: [R-CON-086]
+  difficulty: 3
+  stem: >-
+    A federal grant program funds nonprofit organizations that provide job training to people released
+    from prison. The statute imposes two conditions on every grantee. Condition I: no grant funds may be
+    spent on lobbying or political advocacy, although a grantee may engage in such advocacy through a
+    separately funded affiliate. Condition II: every grantee must adopt and publish, as its own
+    organizational policy, a statement endorsing the federal government's current sentencing policies. A
+    grantee that publicly advocates sentencing reform with private donations sues, challenging both
+    conditions under the First Amendment.
+  call: "Which condition, if either, is constitutional?"
+  options:
+    A: "Both, because the government may attach any conditions it wishes to funds it is not required to provide."
+    B: "Neither, because the government may not use its spending power to restrict any speech of a grant recipient."
+    C: "Condition I only, because the government may decline to fund advocacy but not compel grantees to adopt its views."
+    D: "Condition II only, because the government may require grantees to share its message but may not restrict how they spend federal funds."
+  answer: C
+  explanation_correct: >-
+    C is correct. The government may not condition a benefit on the surrender of a constitutional right,
+    but it may define the limits of the program it funds and decline to subsidize speech (R-CON-086; Rust
+    v. Sullivan). Condition I only keeps federal money out of lobbying and leaves the grantee free to
+    advocate through a separately funded affiliate (Regan v. Taxation With Representation). Condition II
+    goes further: it requires the grantee to adopt the government's view as its own, which affects its
+    speech outside the program and is an unconstitutional condition (Agency for Int'l Dev. v. Alliance for
+    Open Society).
+  explanation_each_wrong_option:
+    A: >-
+      Overbroad. The unconstitutional-conditions doctrine bars the government from leveraging funds to
+      control a recipient's speech outside the program, even though it could deny the funds altogether
+      (R-CON-086).
+    B: >-
+      Overbroad. The government may define the scope of the activities it funds and refuse to subsidize
+      lobbying (R-CON-086; Rust).
+    D: >-
+      Reverses the rule. Limits on how federal funds are spent define the program and are valid; compelling
+      recipients to profess the government's message as their own is not (R-CON-086).
+  trap_type: overbroad
+  authority: ["U.S. Const. amend. I", "Rust v. Sullivan, 500 U.S. 173 (1991)", "Agency for Int'l Dev. v. Alliance for Open Society Int'l, Inc., 570 U.S. 205 (2013)", "Regan v. Taxation With Representation of Wash., 461 U.S. 540 (1983)"]
+  source: original
+  tags: [wave2, w2a, unconstitutional-conditions]
+  status: draft
+  last_verified: 2026-11-04

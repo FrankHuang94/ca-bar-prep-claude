@@ -1,0 +1,440 @@
+# Constitutional Law — NCBE category IV.F: First Amendment freedoms
+# Original MBE-style items (wave 2, batch a). Covers the previously untested row IV.F.3 (press).
+# Deliberately not keyed: true-threat mental state (Counterman, V-035), Mahmoud, 303 Creative,
+# Chiles v. Salazar (V-034), Lemon-era display cases (V-203).
+questions:
+- id: Q-CON-0091
+  subject: CON
+  coverage_ids: [CON-MBE-IV.F.1.a]
+  rule_ids: [R-CON-087]
+  difficulty: 3
+  stem: >-
+    A county ordinance prohibits overnight camping in county parks but authorizes the parks director to
+    grant a permit "for good cause shown, in the director's discretion." Over the past two years, the
+    director has granted overnight permits to a scouting troop, a youth soccer league and a music
+    festival. A church whose members sincerely believe that they must hold an annual overnight prayer
+    vigil under the open sky applied for a permit to hold the vigil in a county park. The director denied
+    the permit without explanation. The church sues, claiming a violation of the Free Exercise Clause.
+  call: "What standard should the court apply to the church's claim?"
+  options:
+    A: "Rational basis, because the camping ban is a neutral law that applies to everyone and does not mention religion."
+    B: "Strict scrutiny, because the ordinance creates a system of discretionary exemptions and so is not generally applicable."
+    C: "Strict scrutiny, because any law that burdens a sincere religious practice must be justified by a compelling interest."
+    D: "Intermediate scrutiny, because the ban is a content-neutral regulation of the time, place and manner of expressive activity."
+  answer: B
+  explanation_correct: >-
+    B is correct. A neutral and generally applicable law that incidentally burdens religion needs only a
+    rational basis, but a law is not generally applicable if it provides a mechanism for individualized
+    exemptions, inviting officials to weigh the reasons for a person's conduct (R-CON-087; Fulton v. City
+    of Philadelphia). The "good cause, in the director's discretion" permit system is such a mechanism, and
+    the director has used it to favor comparable secular overnight gatherings over the church's religious
+    one (Tandon v. Newsom). The denial must therefore satisfy strict scrutiny: a compelling interest
+    pursued by the least restrictive means.
+  explanation_each_wrong_option:
+    A: >-
+      Missing element. Smith's rational-basis rule requires a law that is both neutral and generally
+      applicable; a discretionary exemption system defeats general applicability even if the text never
+      mentions religion (R-CON-087).
+    C: >-
+      Overbroad. Since Employment Division v. Smith, an incidental burden from a neutral and generally
+      applicable law does not trigger strict scrutiny; strict scrutiny applies here only because the
+      ordinance is not generally applicable (R-CON-087).
+    D: >-
+      Wrong framework. The claim arises under the Free Exercise Clause, which has its own test; the
+      time, place and manner test governs speech regulations in public forums (R-CON-094).
+  trap_type: missing-element
+  authority: ["U.S. Const. amend. I", "Employment Div. v. Smith, 494 U.S. 872 (1990)", "Fulton v. City of Philadelphia, 593 U.S. 522 (2021)", "Tandon v. Newsom, 593 U.S. 61 (2021)"]
+  source: original
+  tags: [wave2, w2a, free-exercise, general-applicability]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CON-0092
+  subject: CON
+  coverage_ids: [CON-MBE-IV.F.1.b]
+  rule_ids: [R-CON-091, R-CON-090]
+  difficulty: 2
+  stem: >-
+    A state created a scholarship program for children from low-income families in a large urban school
+    district. Parents may use a scholarship at any participating accredited private school, religious or
+    secular, or at a public school in an adjoining district, and the state pays the school the parents
+    choose. In the program's first year, 82 percent of scholarship students enrolled in religious schools,
+    largely because most private schools in the area are religious. In an appropriate action, a group of
+    taxpayers challenges the program under the Establishment Clause.
+  call: "Is the program constitutional?"
+  options:
+    A: "No, because most of the program's funds go to religious schools, so its primary effect is to advance religion."
+    B: "No, because the Establishment Clause forbids the use of any public funds to pay tuition at religious schools."
+    C: "Yes, because the Establishment Clause restricts only Congress and does not apply to state programs."
+    D: "Yes, because the aid reaches religious schools only through the genuine and independent private choices of parents."
+  answer: D
+  explanation_correct: >-
+    D is correct. Neutral government aid that reaches religious institutions only through the genuine and
+    independent choices of private individuals does not violate the Establishment Clause (R-CON-091;
+    Zelman v. Simmons-Harris). The program is neutral toward religion, offers parents both religious and
+    secular options, and pays religious schools only because parents chose them. The share of students
+    who choose religious schools does not change the analysis.
+  explanation_each_wrong_option:
+    A: >-
+      Wrong standard. The Lemon "primary effect" test has been abandoned (R-CON-090; Kennedy v. Bremerton),
+      and even under the older cases Zelman held that the percentage of aid reaching religious schools
+      through private choice is not decisive.
+    B: >-
+      Overbroad. Public funds may reach religious schools through neutral, private-choice programs
+      (R-CON-091; Zelman); indeed, a state that subsidizes private schooling generally may not exclude
+      religious schools (R-CON-088).
+    C: >-
+      The Establishment Clause applies to the states through the Fourteenth Amendment (R-CON-056).
+  trap_type: wrong-standard
+  authority: ["U.S. Const. amend. I", "Zelman v. Simmons-Harris, 536 U.S. 639 (2002)", "Kennedy v. Bremerton School Dist., 597 U.S. 507 (2022)"]
+  source: original
+  tags: [wave2, w2a, establishment, school-aid]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CON-0093
+  subject: CON
+  coverage_ids: [CON-MBE-IV.F.2.a]
+  rule_ids: [R-CON-092, R-CON-093, R-CON-095]
+  difficulty: 2
+  stem: >-
+    A city ordinance prohibits picketing on any public sidewalk within 100 feet of a hospital entrance,
+    except "peaceful picketing by hospital employees concerning their wages, hours or working conditions."
+    A member of an animal-welfare group, who is not a hospital employee, peacefully picketed on the public
+    sidewalk 50 feet from a hospital entrance to protest the hospital's use of animals in research, and
+    she was cited. The city says the ordinance protects patients from stress and keeps entrances clear.
+    Nothing suggests that her picketing was louder or more obstructive than employee picketing would be.
+  call: "Is the ordinance constitutional as applied to her?"
+  options:
+    A: "No, because it regulates picketing based on subject matter and fails strict scrutiny."
+    B: "Yes, because it is a reasonable time, place and manner restriction that protects hospital patients."
+    C: "Yes, because the area near a hospital entrance is a nonpublic forum in which reasonable restrictions are permitted."
+    D: "No, because the government may never restrict picketing on public sidewalks."
+  answer: A
+  explanation_correct: >-
+    A is correct. A law is content-based if it applies to speech because of its topic or message
+    (R-CON-092; Police Dep't of Chicago v. Mosley). Whether picketing is allowed depends on whether it
+    concerns hospital employees' working conditions, so the ordinance is content-based and, on a public
+    sidewalk, a traditional public forum (R-CON-095), must satisfy strict scrutiny (R-CON-093). It fails:
+    labor picketing threatens patients' calm and access to entrances just as much, so the exception shows
+    the law is not narrowly tailored to the asserted interests.
+  explanation_each_wrong_option:
+    B: >-
+      Wrong standard. The time, place and manner test applies only to content-neutral rules (R-CON-094); the
+      labor exception makes this rule content-based.
+    C: >-
+      Fact misread. Public sidewalks that serve as general thoroughfares are traditional public forums,
+      and a sidewalk does not lose that status because it lies near a hospital or clinic entrance
+      (R-CON-095; McCullen v. Coakley).
+    D: >-
+      Overbroad. A content-neutral, narrowly tailored rule limiting picketing near hospital entrances could
+      be upheld under the time, place and manner test (R-CON-094).
+  trap_type: wrong-standard
+  authority: ["U.S. Const. amend. I", "Police Dep't of Chicago v. Mosley, 408 U.S. 92 (1972)", "Carey v. Brown, 447 U.S. 455 (1980)", "Reed v. Town of Gilbert, 576 U.S. 155 (2015)"]
+  source: original
+  tags: [wave2, w2a, free-speech, content-based]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CON-0094
+  subject: CON
+  coverage_ids: [CON-MBE-IV.F.2.b]
+  rule_ids: [R-CON-094]
+  difficulty: 1
+  stem: >-
+    To improve the appearance of its neighborhoods, a city enacted an ordinance banning the display of any
+    sign on residential property, with no exceptions. The ordinance applies regardless of a sign's message.
+    A homeowner was cited for placing a small sign on her front lawn opposing a proposed highway. She
+    argues that the ordinance violates the First Amendment. The city points out that she remains free to
+    distribute leaflets, post messages online and speak at public meetings.
+  call: "How should the court rule?"
+  options:
+    A: "Uphold the ordinance, because it is content-neutral and serves the city's substantial interest in aesthetics."
+    B: "Uphold the ordinance, because leaflets, the internet and public meetings provide ample alternative channels of communication."
+    C: "Strike the ordinance, because it discriminates against political speech."
+    D: "Strike the ordinance, because it eliminates an important and inexpensive medium of expression with no adequate substitute."
+  answer: D
+  explanation_correct: >-
+    D is correct. Even a content-neutral regulation must be narrowly tailored to a significant interest and
+    leave open ample alternative channels (R-CON-094). A total ban on residential signs forecloses a
+    distinctive, cheap and convenient means of communication: a sign at one's own home identifies the
+    speaker with the message in a way leaflets or online posts do not, and it reaches neighbors who pass
+    by. The Court struck down such a ban despite the city's aesthetic interest (City of Ladue v. Gilleo).
+  explanation_each_wrong_option:
+    A: >-
+      Incomplete. Content neutrality only selects the test; the ban must still be narrowly tailored and
+      leave ample alternatives, and a total ban on an important medium fails (R-CON-094).
+    B: >-
+      The listed alternatives are not adequate substitutes for a sign at one's own home, which is uniquely
+      inexpensive and conveys the speaker's identity and location (R-CON-094; Ladue).
+    C: >-
+      Right result, wrong reason. The ordinance bans all residential signs regardless of message, so it is
+      content-neutral (R-CON-092); it fails the time, place and manner test, not a content test.
+  trap_type: right-result-wrong-reason
+  authority: ["U.S. Const. amend. I", "City of Ladue v. Gilleo, 512 U.S. 43 (1994)", "Ward v. Rock Against Racism, 491 U.S. 781 (1989)"]
+  source: original
+  tags: [wave2, w2a, free-speech, content-neutral]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CON-0095
+  subject: CON
+  coverage_ids: [CON-MBE-IV.F.2.c]
+  rule_ids: [R-CON-100]
+  difficulty: 3
+  stem: >-
+    A local newspaper reported that a building contractor "was indicted last week for defrauding elderly
+    homeowners." In fact, a different contractor with a similar name had been indicted. The reporter could
+    easily have checked the indictment but did not. The contractor, a private figure, sued the newspaper
+    for defamation. The jury found that the newspaper had been negligent but had not acted with knowledge
+    of falsity or reckless disregard for the truth. It awarded $80,000 in compensatory damages, supported
+    by evidence of lost business and harm to reputation, and $500,000 in punitive damages. The newspaper
+    appeals both awards on First Amendment grounds.
+  call: "How should the appellate court rule?"
+  options:
+    A: "Affirm both awards, because a private-figure plaintiff need prove only negligence to recover any damages."
+    B: "Reverse both awards, because a plaintiff suing over a matter of public concern must prove actual malice."
+    C: "Affirm the compensatory award only, because punitive damages here require actual malice."
+    D: "Reverse both awards, because a report about a criminal indictment is a protected statement of opinion."
+  answer: C
+  explanation_correct: >-
+    C is correct. A private-figure plaintiff suing over a matter of public concern may recover actual,
+    proven damages on a showing of at least negligence, but may recover presumed or punitive damages only
+    on proof of actual malice, meaning knowledge of falsity or reckless disregard (R-CON-100; Gertz v.
+    Robert Welch, Inc.). A report that a contractor was indicted for defrauding elderly homeowners concerns
+    a matter of public concern. Negligence was found and the compensatory award rests on proof of actual
+    injury, so it stands; the jury rejected actual malice, so the punitive award must be vacated.
+  explanation_each_wrong_option:
+    A: >-
+      Missing element. Negligence supports only actual damages; Gertz requires actual malice for presumed
+      or punitive damages on matters of public concern (R-CON-100). Only for purely private matters may
+      states allow them without actual malice (Dun & Bradstreet).
+    B: >-
+      Confused rule. The actual-malice requirement for all damages applies to public officials and public
+      figures (New York Times v. Sullivan); the Court has refused to extend it to private figures merely
+      because the subject is public (R-CON-100; Gertz).
+    D: >-
+      Fact misread. Stating that a person was indicted is a provably false assertion of fact, not opinion,
+      and the First Amendment gives no general privilege for statements labeled opinion (R-CON-100;
+      Milkovich).
+  trap_type: missing-element
+  authority: ["U.S. Const. amend. I", "Gertz v. Robert Welch, Inc., 418 U.S. 323 (1974)", "New York Times Co. v. Sullivan, 376 U.S. 254 (1964)", "Dun & Bradstreet, Inc. v. Greenmoss Builders, Inc., 472 U.S. 749 (1985)", "Milkovich v. Lorain Journal Co., 497 U.S. 1 (1990)"]
+  source: original
+  tags: [wave2, w2a, defamation, unprotected-speech]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CON-0096
+  subject: CON
+  coverage_ids: [CON-MBE-IV.F.2.d]
+  rule_ids: [R-CON-101, R-CON-093]
+  difficulty: 2
+  stem: >-
+    A state statute requires any debt-settlement company whose advertisements state that its services
+    involve "no upfront fees" to include in the advertisement the following sentence: "Your creditors may
+    still sue you, and you may owe late fees and interest while we negotiate." The legislature found that
+    many consumers who responded to such advertisements wrongly believed that enrolling would stop
+    collection activity. The required statement is accurate. A debt-settlement company challenges the
+    requirement, arguing that the state may not compel it to speak.
+  call: "Is the requirement constitutional?"
+  options:
+    A: "No, because laws that compel a speaker to convey a message it would not otherwise convey are subject to strict scrutiny."
+    B: "No, because the state has not shown that the disclosure is the least restrictive means of preventing deception."
+    C: "Yes, because commercial speech receives no First Amendment protection."
+    D: "Yes, because it requires purely factual, uncontroversial information reasonably related to preventing deception."
+  answer: D
+  explanation_correct: >-
+    D is correct. A required disclosure in commercial advertising is valid if it calls for purely factual
+    and uncontroversial information, is reasonably related to the state's interest in preventing deception,
+    and is not unjustified or unduly burdensome (R-CON-101; Zauderer). The sentence is accurate and
+    factual, it corrects a misunderstanding that the legislature found the advertisements were causing,
+    and one sentence does not unduly burden the advertiser's message.
+  explanation_each_wrong_option:
+    A: >-
+      Wrong standard. Heightened scrutiny governs compelled ideological messages and government scripts on
+      controversial topics (R-CON-093; NIFLA v. Becerra), but purely factual disclosures in commercial
+      advertising are reviewed under the more lenient Zauderer standard (R-CON-101).
+    B: >-
+      Wrong standard. Zauderer asks only whether the disclosure is reasonably related to preventing
+      deception; even Central Hudson requires a reasonable fit, not the least restrictive means (R-CON-101).
+    C: >-
+      Commercial speech that is truthful and concerns lawful activity is protected (R-CON-101; Virginia
+      State Bd. of Pharmacy); the disclosure is valid because it satisfies Zauderer, not because the speech
+      is unprotected.
+  trap_type: wrong-standard
+  authority: ["U.S. Const. amend. I", "Zauderer v. Office of Disciplinary Counsel, 471 U.S. 626 (1985)", "NIFLA v. Becerra, 585 U.S. 755 (2018)", "Central Hudson Gas & Elec. Corp. v. Public Serv. Comm'n, 447 U.S. 557 (1980)"]
+  source: original
+  tags: [wave2, w2a, commercial-speech, compelled-disclosure]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CON-0097
+  subject: CON
+  coverage_ids: [CON-MBE-IV.F.2.e]
+  rule_ids: [R-CON-102, R-CON-106]
+  difficulty: 1
+  stem: >-
+    A public high school's student newspaper is written and edited by students in a journalism class for
+    academic credit, under the supervision of a faculty adviser, and is printed and distributed at school
+    with school funds. A student wrote an article accusing a named teacher of grading unfairly, based on
+    anonymous complaints, without asking the teacher to respond. The principal removed the article before
+    publication, explaining that it did not meet the standards of fairness and accuracy the class is meant
+    to teach. There was no reason to expect that the article would cause any disruption. The student sues,
+    claiming a violation of the First Amendment.
+  call: "Is the student likely to prevail?"
+  options:
+    A: "Yes, because the school could not reasonably forecast that the article would substantially disrupt school activities."
+    B: "No, because a school may regulate school-sponsored speech for legitimate pedagogical reasons."
+    C: "Yes, because removing an article before publication is a prior restraint that is presumptively unconstitutional."
+    D: "No, because public-school students have no First Amendment rights in school-related activities."
+  answer: B
+  explanation_correct: >-
+    B is correct. Speech that is part of the curriculum and bears the school's imprimatur, such as a
+    newspaper produced in a journalism class, is school-sponsored, and the school may regulate it for
+    reasons reasonably related to legitimate pedagogical concerns (R-CON-102; Hazelwood School Dist. v.
+    Kuhlmeier). Teaching students to verify charges and give the subject a chance to respond is such a
+    concern. Tinker's substantial-disruption test does not govern school-sponsored speech.
+  explanation_each_wrong_option:
+    A: >-
+      Confused rule. Tinker governs students' personal expression, such as armbands; Hazelwood governs
+      school-sponsored speech, so the absence of disruption does not matter (R-CON-102).
+    C: >-
+      The heavy presumption against prior restraints (R-CON-106) does not apply to a school's editorial
+      control over its own curricular publication (R-CON-102; Hazelwood).
+    D: >-
+      Overbroad. Students do not shed their rights at the schoolhouse gate (R-CON-102; Tinker); the school
+      prevails because this speech is school-sponsored.
+  trap_type: confused-rule
+  authority: ["U.S. Const. amend. I", "Hazelwood School Dist. v. Kuhlmeier, 484 U.S. 260 (1988)", "Tinker v. Des Moines Indep. Community School Dist., 393 U.S. 503 (1969)"]
+  source: original
+  tags: [wave2, w2a, student-speech]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CON-0098
+  subject: CON
+  coverage_ids: [CON-MBE-IV.F.2.f]
+  rule_ids: [R-CON-105, R-CON-093, R-CON-098]
+  difficulty: 1
+  stem: >-
+    A state statute makes it a crime to "deface, burn or otherwise physically mistreat a flag of the
+    United States in a way that the actor knows will seriously offend one or more persons likely to observe
+    the act." At a political rally protesting a federal policy, a demonstrator burned a flag he owned while
+    the crowd chanted slogans. Several onlookers were deeply offended, but no one was threatened and no
+    disturbance occurred. He was convicted under the statute and appeals.
+  call: "Should his conviction be reversed?"
+  options:
+    A: "No, because the state's interest in preserving the flag as a national symbol is important and unrelated to the content of any message."
+    B: "No, because burning a flag is conduct rather than speech, so the First Amendment does not apply."
+    C: "Yes, because the statute punishes expressive conduct because of the message it conveys and cannot survive strict scrutiny."
+    D: "Yes, because a state may never punish the destruction of a flag."
+  answer: C
+  explanation_correct: >-
+    C is correct. Burning a flag at a political protest is expressive conduct: the actor intends a
+    particularized message and the audience is likely to understand it (R-CON-105; Spence). The O'Brien
+    test applies only if the government's interest is unrelated to expression. This statute punishes
+    mistreatment only when it will offend observers, so liability turns on the communicative impact of the
+    act; the interest is related to the message, and strict scrutiny applies (R-CON-093). A state may not
+    prohibit expression because society finds it offensive (Texas v. Johnson).
+  explanation_each_wrong_option:
+    A: >-
+      Confused rule. Preserving the flag as a symbol is an interest in what the flag communicates, so it is
+      related to expression, and O'Brien's intermediate test does not apply (R-CON-105; Texas v. Johnson).
+    B: >-
+      Conduct intended to convey a message that observers are likely to understand is protected expressive
+      conduct (R-CON-105).
+    D: >-
+      Overbroad. Content-neutral laws, such as a fire ban or a theft statute, may be applied to the
+      destruction of a flag (R-CON-105; O'Brien).
+  trap_type: confused-rule
+  authority: ["U.S. Const. amend. I", "Texas v. Johnson, 491 U.S. 397 (1989)", "United States v. O'Brien, 391 U.S. 367 (1968)", "Spence v. Washington, 418 U.S. 405 (1974)"]
+  source: original
+  tags: [wave2, w2a, expressive-conduct]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CON-0099
+  subject: CON
+  coverage_ids: [CON-MBE-IV.F.2.g]
+  rule_ids: [R-CON-106]
+  difficulty: 3
+  stem: >-
+    A group planned a march through a city's downtown to protest police practices. Ten days before the
+    march, a state trial court, at the city's request, issued an injunction forbidding the group's leaders
+    to lead any march in the city without a permit. The court had jurisdiction over the parties and the
+    subject matter. The leaders believed the injunction violated the First Amendment, but they did not ask
+    the issuing court to dissolve or modify it or seek review in an appellate court, although they had
+    time to do so. They led the march as planned, and it was peaceful. In the resulting contempt
+    proceeding, they argue that the injunction was unconstitutional.
+  call: "May the leaders defend against the contempt charge on the ground that the injunction was unconstitutional?"
+  options:
+    A: "No, because they had to obey the order until it was modified or vacated through orderly review."
+    B: "Yes, because a person may disregard an unconstitutional restraint on speech and raise its invalidity when charged."
+    C: "Yes, because an injunction against speech is a prior restraint and so is void from the moment it is issued."
+    D: "No, because a march is conduct rather than speech, so the First Amendment does not apply."
+  answer: A
+  explanation_correct: >-
+    A is correct. Under the collateral bar rule, a person must obey a court injunction, even one that may be
+    unconstitutional, until it is vacated or modified, and generally may not defend against contempt by
+    attacking its validity (R-CON-106; Walker v. City of Birmingham). The court had jurisdiction, the order
+    was not transparently invalid, and the leaders had time to seek review but chose to march instead.
+  explanation_each_wrong_option:
+    B: >-
+      Confused rule. A person may ignore a facially unconstitutional licensing statute and challenge it when
+      prosecuted (Shuttlesworth), but that rule does not extend to a court injunction (R-CON-106; Walker).
+    C: >-
+      Overbroad. Prior restraints carry a heavy presumption of invalidity, but an injunction issued by a
+      court with jurisdiction must be obeyed until set aside through orderly review (R-CON-106).
+    D: >-
+      Wrong. Marches and parades on public streets are classic protected expression (R-CON-095); the
+      leaders lose because of the collateral bar rule, not because the march is unprotected.
+  trap_type: confused-rule
+  authority: ["U.S. Const. amend. I", "Walker v. City of Birmingham, 388 U.S. 307 (1967)", "Shuttlesworth v. City of Birmingham, 394 U.S. 147 (1969)"]
+  source: original
+  tags: [wave2, w2a, prior-restraint, collateral-bar]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CON-0100
+  subject: CON
+  coverage_ids: [CON-MBE-IV.F.3]
+  rule_ids: [R-CON-109]
+  difficulty: 2
+  stem: >-
+    Facing a budget shortfall, a state enacted a 3 percent tax on the advertising revenue of newspapers
+    with a daily circulation above 100,000. Only three newspapers in the state meet the threshold. The
+    state does not tax the advertising revenue of any other business, including broadcasters and smaller
+    newspapers. The legislative record shows no hostility toward the three newspapers' content; the
+    legislature's only stated purpose was to raise revenue. One of the three newspapers sues to invalidate
+    the tax.
+  call: "What is the most likely result?"
+  options:
+    A: "Uphold the tax, because the press, like everyone else, must pay generally applicable taxes."
+    B: "Uphold the tax, because it is content-neutral and the state has a legitimate interest in raising revenue."
+    C: "Strike the tax, because it singles out a few large newspapers for a burden that revenue needs cannot justify."
+    D: "Strike the tax, because the First Amendment exempts the press from state taxation."
+  answer: C
+  explanation_correct: >-
+    C is correct. The press must obey generally applicable laws, but the government may not single out the
+    press, or a small group of publications, for special burdens (R-CON-109; Minneapolis Star & Tribune Co.
+    v. Minnesota Comm'r of Revenue). Differential taxation of the press is presumptively invalid unless the
+    state shows an interest of compelling importance that it cannot achieve without the differential
+    treatment. Raising revenue does not qualify, because the state could raise the same money by taxing
+    businesses generally. Proof of hostility to content is not required.
+  explanation_each_wrong_option:
+    A: >-
+      True but irrelevant. The press must pay generally applicable taxes (Leathers v. Medlock), but this
+      tax applies only to the advertising revenue of three newspapers (R-CON-109).
+    B: >-
+      Wrong standard. Even without content discrimination, a tax that targets the press or a handful of
+      publications receives heightened scrutiny, which an ordinary revenue interest cannot satisfy
+      (R-CON-109; Minneapolis Star).
+    D: >-
+      Overbroad. Newspapers may be taxed under generally applicable tax laws; only taxes that single out
+      the press are suspect (R-CON-109).
+  trap_type: true-but-irrelevant
+  authority: ["U.S. Const. amend. I", "Minneapolis Star & Tribune Co. v. Minn. Comm'r of Revenue, 460 U.S. 575 (1983)", "Arkansas Writers' Project, Inc. v. Ragland, 481 U.S. 221 (1987)", "Leathers v. Medlock, 499 U.S. 439 (1991)"]
+  source: original
+  tags: [wave2, w2a, freedom-of-press]
+  status: draft
+  last_verified: 2026-11-04

@@ -1,0 +1,372 @@
+# Constitutional Law — NCBE category I: the nature of judicial review
+# Original MBE-style items (wave 2, batch a). MBE rule = federal constitutional law.
+# Covers the previously untested topic I.A (state and federal courts) and adds depth to I.B and I.C.
+questions:
+- id: Q-CON-0051
+  subject: CON
+  coverage_ids: [CON-MBE-I.A]
+  rule_ids: [R-CON-051, R-CON-046]
+  difficulty: 2
+  stem: >-
+    A state statute provides that the state's trial courts of general jurisdiction "shall not entertain
+    any action for money damages brought under 42 U.S.C. § 1983 against a county jail officer." The same
+    courts routinely hear state-law tort suits for damages against county jail officers, and no other
+    state court may hear § 1983 damages claims against them. A former inmate sued two county jail officers
+    in a state trial court of general jurisdiction, seeking damages under § 1983 for an alleged beating.
+    He could have filed the same claim in federal district court but chose the state court. The officers
+    move to dismiss under the state statute.
+  call: "Should the state court grant the motion to dismiss?"
+  options:
+    A: "Yes, because the Tenth Amendment forbids the federal government to require state courts to adjudicate federal causes of action."
+    B: "No, because a state may not refuse to hear a federal claim of a kind its courts hear under state law."
+    C: "Yes, because the inmate could have brought his federal claim in a federal district court."
+    D: "No, because the Eleventh Amendment does not protect county officers from damages suits."
+  answer: B
+  explanation_correct: >-
+    B is correct. Under the Supremacy Clause, federal law binds state judges, and state courts of general
+    jurisdiction presumptively share jurisdiction over federal claims (R-CON-051; Testa v. Katt). A state
+    may decline a federal claim only for a valid excuse, such as a neutral rule of judicial administration
+    that applies equally to comparable state claims. A rule that closes the courts to § 1983 damages claims
+    against jail officers while the same courts hear state-law damages claims against the same officers
+    singles out the federal claim and is not a valid excuse (Haywood v. Drown). The motion should be denied.
+  explanation_each_wrong_option:
+    A: >-
+      Confused rule. The anti-commandeering doctrine protects state legislatures and executive officers
+      (R-CON-046; Printz), but the Supremacy Clause expressly binds state judges, so Congress may require
+      state courts to hear federal claims. Printz itself distinguished Testa v. Katt on this ground.
+    C: >-
+      State and federal courts have concurrent jurisdiction over § 1983 claims, so the claim may be filed
+      in either system. The existence of a federal forum does not permit the state to discriminate against
+      federal claims in its own courts of general jurisdiction (Haywood).
+    D: >-
+      True but irrelevant. County officers are not arms of the state and have no Eleventh Amendment
+      immunity (R-CON-005), but the question is whether the state may close its courts to the claim; the
+      answer turns on the Supremacy Clause, not on sovereign immunity.
+  trap_type: confused-rule
+  authority: ["U.S. Const. art. VI, cl. 2", "Testa v. Katt, 330 U.S. 386 (1947)", "Haywood v. Drown, 556 U.S. 729 (2009)", "Printz v. United States, 521 U.S. 898 (1997)"]
+  source: original
+  tags: [wave2, w2a, state-courts, supremacy-clause]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CON-0052
+  subject: CON
+  coverage_ids: [CON-MBE-I.A]
+  rule_ids: [R-CON-019, R-CON-015]
+  difficulty: 2
+  stem: >-
+    A state statute makes it a misdemeanor to wear a mask "while participating in any public
+    demonstration." Police arrested a woman who wore a mask at a rally, and the county prosecutor charged
+    her under the statute. Her criminal case is pending in state court, and trial is set for next month.
+    Two days after the charge was filed, she sued the prosecutor in federal district court, asking for an
+    injunction halting the prosecution on the ground that the statute violates the First Amendment.
+    Nothing suggests that the prosecution was brought in bad faith or to harass her, and the state court
+    can hear her First Amendment defense.
+  call: "What should the federal court do?"
+  options:
+    A: "Decide the merits, because federal courts have a duty to exercise the jurisdiction Congress gives them over constitutional claims."
+    B: "Dismiss the suit as unripe, because she has not yet been convicted under the statute."
+    C: "Stay the suit while the state courts decide whether the statute is unclear as a matter of state law."
+    D: "Dismiss the suit, because it asks a federal court to enjoin a pending state prosecution that can hear her claim."
+  answer: D
+  explanation_correct: >-
+    D is correct. Under Younger abstention, a federal court should not enjoin a pending state criminal
+    prosecution that involves important state interests and gives the defendant an adequate opportunity
+    to raise her federal claims, absent bad faith, harassment or a flagrantly unconstitutional statute
+    (R-CON-019; Younger v. Harris). The prosecution is pending, the state court can hear the First
+    Amendment defense, and no exception applies. Had no prosecution been pending, she could have sought
+    federal declaratory relief (Steffel v. Thompson).
+  explanation_each_wrong_option:
+    A: >-
+      True but irrelevant. Federal courts generally must exercise their jurisdiction, but Younger is a
+      recognized exception grounded in comity and federalism when a state prosecution is already pending
+      (R-CON-019).
+    B: >-
+      Wrong doctrine. A pending prosecution is a concrete, present injury, so the claim is ripe
+      (R-CON-015). The obstacle is abstention, not ripeness.
+    C: >-
+      Confused rule. Pullman abstention applies when an unsettled state-law question could avoid the
+      federal constitutional ruling (R-CON-019). Nothing suggests the mask statute is ambiguous, and
+      Pullman does not address the problem of interfering with a pending prosecution.
+  trap_type: procedural-posture
+  authority: ["Younger v. Harris, 401 U.S. 37 (1971)", "Steffel v. Thompson, 415 U.S. 452 (1974)", "Railroad Comm'n of Tex. v. Pullman Co., 312 U.S. 496 (1941)"]
+  source: original
+  tags: [wave2, w2a, abstention, younger]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CON-0053
+  subject: CON
+  coverage_ids: [CON-MBE-I.B.1]
+  rule_ids: [R-CON-002, R-CON-003]
+  difficulty: 1
+  stem: >-
+    To speed the resolution of disputes under a new federal broadband-subsidy program, Congress enacted a
+    statute providing that any suit between a private internet provider and a private landowner over
+    access easements under the program "shall be filed originally in the Supreme Court of the United
+    States," and that no lower federal court shall have jurisdiction over such suits. No state, ambassador
+    or foreign official is a party to these suits. An internet provider filed an original action in the
+    Supreme Court against a landowner under the statute. The landowner moves to dismiss.
+  call: "How should the Supreme Court rule on the motion?"
+  options:
+    A: "Grant it, because Congress may not add to the categories of cases within the Supreme Court's original jurisdiction."
+    B: "Deny it, because the Exceptions Clause lets Congress make exceptions to and regulations of the Supreme Court's jurisdiction."
+    C: "Deny it, because Congress has plenary power to allocate federal-question cases among the federal courts."
+    D: "Grant it, because Congress may not withdraw from the lower federal courts jurisdiction over cases arising under federal law."
+  answer: A
+  explanation_correct: >-
+    A is correct. Article III fixes the Supreme Court's original jurisdiction: cases affecting ambassadors,
+    other public ministers and consuls, and cases in which a state is a party. Congress cannot enlarge it
+    (R-CON-002; Marbury v. Madison). A suit between two private parties falls outside those categories, so
+    the Court cannot hear it as an original action; the dispute must be brought in a court that may hear
+    it, with Supreme Court review only through its appellate jurisdiction.
+  explanation_each_wrong_option:
+    B: >-
+      Confused rule. The Exceptions Clause applies to the Supreme Court's appellate jurisdiction
+      (R-CON-003). It lets Congress subtract from appellate jurisdiction, not add to original
+      jurisdiction.
+    C: >-
+      Overbroad. Congress has broad power over the lower courts' jurisdiction, but it cannot rewrite the
+      original jurisdiction that Article III itself defines (R-CON-002).
+    D: >-
+      Right result, wrong reason. Congress may create, abolish and limit the jurisdiction of the lower
+      federal courts, including over federal-question cases (R-CON-003; Sheldon v. Sill). The defect is
+      the attempted expansion of original jurisdiction.
+  trap_type: confused-rule
+  authority: ["U.S. Const. art. III, § 2, cl. 2", "Marbury v. Madison, 5 U.S. (1 Cranch) 137 (1803)", "Sheldon v. Sill, 49 U.S. (8 How.) 441 (1850)"]
+  source: original
+  tags: [wave2, w2a, original-jurisdiction]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CON-0054
+  subject: CON
+  coverage_ids: [CON-MBE-I.B.1]
+  rule_ids: [R-CON-004, R-CON-003]
+  difficulty: 3
+  stem: >-
+    A federal statute made manufacturers of certain industrial equipment liable for workplace injuries
+    caused by design defects. A worker won a $2 million judgment against a manufacturer in federal district
+    court, and the manufacturer appealed. While the appeal was pending, Congress amended the statute to add
+    a complete defense for any manufacturer whose design complied with a federal safety standard in effect
+    when the equipment was sold. The amendment states that it "applies to every action pending on or filed
+    after the date of enactment, including actions pending on appeal." The manufacturer's design complied
+    with such a standard. The worker argues that applying the amendment to her case violates the separation
+    of powers.
+  call: "Is the worker's argument likely to succeed?"
+  options:
+    A: "Yes, because Congress may not prescribe a rule of decision for a case pending in an Article III court."
+    B: "No, because Congress amended the governing law, and courts must apply the change to cases not yet final."
+    C: "Yes, because Congress may not set aside a judgment that an Article III court has already entered in the worker's favor."
+    D: "No, because Congress has plenary power to define and limit the jurisdiction of the federal courts."
+  answer: B
+  explanation_correct: >-
+    B is correct. Congress may not direct the result in a pending case without changing the law (United
+    States v. Klein) and may not reopen final judgments (Plaut), but it may amend the substantive law and
+    make the amendment applicable to pending cases (R-CON-004; Bank Markazi v. Peterson). The amendment
+    creates a new, generally applicable defense; it does not tell the court how to find facts or apply the
+    old law. Because the appeal is pending, the judgment is not final, and the appellate court must apply
+    the law as amended.
+  explanation_each_wrong_option:
+    A: >-
+      Exception trap. Klein forbids a rule of decision that leaves the underlying law unchanged; a statute
+      that amends the governing law and applies it to pending cases is permitted (R-CON-004; Bank
+      Markazi).
+    C: >-
+      Plaut bars Congress from reopening final judgments, meaning decisions that are the last word of the
+      judicial department. A district-court judgment that is on appeal is not final in that sense
+      (R-CON-004).
+    D: >-
+      True but irrelevant. Congress does have broad power over lower-court jurisdiction (R-CON-003), but
+      this amendment changes the substantive law; it does not add to or withdraw any court's jurisdiction.
+  trap_type: exception-trap
+  authority: ["United States v. Klein, 80 U.S. (13 Wall.) 128 (1872)", "Plaut v. Spendthrift Farm, Inc., 514 U.S. 211 (1995)", "Bank Markazi v. Peterson, 578 U.S. 212 (2016)"]
+  source: original
+  tags: [wave2, w2a, separation-of-powers, jurisdiction]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CON-0055
+  subject: CON
+  coverage_ids: [CON-MBE-I.B.2]
+  rule_ids: [R-CON-005, R-CON-006]
+  difficulty: 2
+  stem: >-
+    A federal statute enacted under the Commerce Clause requires operators of toll highways to meet certain
+    accessibility standards and authorizes injured travelers to sue "any operator, public or private," for
+    damages in federal court. A traveler who is a citizen of the state sued two defendants in federal
+    district court for damages under the statute. The first is the State Turnpike Authority, which state
+    law makes an arm of the state and whose judgments are paid from the state treasury. The second is the
+    Bay County Bridge District, a political subdivision created by the county that raises its own revenue
+    and pays its own debts. Neither defendant has consented to suit, and both move to dismiss on the ground
+    of sovereign immunity.
+  call: "How should the court rule on the motions?"
+  options:
+    A: "Grant both motions, because both defendants are public entities created under state law."
+    B: "Grant only the Turnpike Authority's motion, because immunity covers arms of the state but not political subdivisions."
+    C: "Deny both motions, because Congress expressly authorized damages suits against public operators."
+    D: "Deny both motions, because the Eleventh Amendment bars only suits brought by citizens of another state or of a foreign country."
+  answer: B
+  explanation_correct: >-
+    B is correct. State sovereign immunity bars private damages suits in federal court against a
+    nonconsenting state and its arms, including agencies whose judgments are paid from the state treasury
+    (R-CON-005). It does not protect counties, cities or other political subdivisions that are separately
+    funded (R-CON-005; Mt. Healthy). Congress cannot abrogate immunity under the Commerce Clause, so the
+    statute's express authorization does not save the claim against the Turnpike Authority (R-CON-006;
+    Seminole Tribe), but the Bridge District must defend on the merits.
+  explanation_each_wrong_option:
+    A: >-
+      Overbroad. Being created under state law does not make an entity an arm of the state. Local
+      governmental units that raise their own revenue and pay their own debts have no sovereign immunity
+      (R-CON-005).
+    C: >-
+      Missing element. A clear statement is necessary for abrogation but not sufficient; Congress must act
+      under a power that can abrogate, chiefly § 5 of the Fourteenth Amendment, and the Commerce Clause
+      cannot (R-CON-006; Seminole Tribe). The claim against the Bridge District survives for a different
+      reason: it never had immunity.
+    D: >-
+      Confused rule. Despite the Amendment's text, a state is immune from suits by its own citizens as
+      well (R-CON-005; Hans v. Louisiana).
+  trap_type: overbroad
+  authority: ["U.S. Const. amend. XI", "Hans v. Louisiana, 134 U.S. 1 (1890)", "Mt. Healthy City School Dist. Bd. of Educ. v. Doyle, 429 U.S. 274 (1977)", "Seminole Tribe of Fla. v. Florida, 517 U.S. 44 (1996)"]
+  source: original
+  tags: [wave2, w2a, eleventh-amendment, political-subdivisions]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CON-0056
+  subject: CON
+  coverage_ids: [CON-MBE-I.C.1]
+  rule_ids: [R-CON-012, R-CON-008]
+  difficulty: 3
+  stem: >-
+    A city ordinance forbids the sale of flavored vaping products within city limits. A nonprofit trade
+    association whose stated purpose is to advance the business interests of independently owned
+    convenience stores sued the city in federal court, alleging that the ordinance violates the dormant
+    Commerce Clause. It is undisputed that at least 30 of the association's members operate stores in the
+    city and have lost sales because of the ordinance. The association seeks (1) a declaration that the
+    ordinance is unconstitutional and an injunction against its enforcement, and (2) damages equal to the
+    profits each member store has lost since the ordinance took effect. The association itself sells
+    nothing and has lost no money.
+  call: "Does the association have standing?"
+  options:
+    A: "Yes, as to both forms of relief, because its members have suffered concrete economic injuries that the ordinance caused and the court can redress."
+    B: "No, because the association itself has suffered no injury in fact."
+    C: "Yes, but only for the declaratory and injunctive relief, because the damages claim requires individual members' participation."
+    D: "No, because an organization may sue only to protect its own rights, not the rights of its members."
+  answer: C
+  explanation_correct: >-
+    C is correct. An association may sue on behalf of its members if (1) the members would have standing
+    in their own right, (2) the interests at stake are germane to its purpose, and (3) neither the claim
+    nor the relief requires individual members' participation (R-CON-012; Hunt). The members' lost sales
+    are concrete injuries caused by the ordinance and redressable by an injunction, and protecting store
+    owners' business interests is germane. Declaratory and injunctive relief benefits all members alike.
+    Damages measured by each store's lost profits, however, require individualized proof from each
+    member, so the third prong fails for that claim. Standing is assessed separately for each form of
+    relief (R-CON-008).
+  explanation_each_wrong_option:
+    A: >-
+      Missing element. Member injury satisfies only the first Hunt prong; the individualized damages claim
+      fails the third prong because each member's lost profits must be proved separately (R-CON-012).
+    B: >-
+      Confused rule. An association suing in a representational capacity need not show injury to itself;
+      its members' injuries suffice if the Hunt test is met (R-CON-012).
+    D: >-
+      Overbroad. Associational standing is an established route for organizations to assert their
+      members' claims (R-CON-012; Hunt).
+  trap_type: missing-element
+  authority: ["U.S. Const. art. III, § 2", "Hunt v. Washington State Apple Advertising Comm'n, 432 U.S. 333 (1977)", "Warth v. Seldin, 422 U.S. 490 (1975)"]
+  source: original
+  tags: [wave2, w2a, standing, associational-standing]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CON-0057
+  subject: CON
+  coverage_ids: [CON-MBE-I.C.2]
+  rule_ids: [R-CON-018]
+  difficulty: 3
+  stem: >-
+    A state statute bars public-school teachers from wearing political campaign buttons while teaching. A
+    teacher sued in state court, claiming that the statute violates both the free-speech clause of the
+    state constitution and the First Amendment. The state's highest court rejected both claims and upheld
+    the statute. In one section of its opinion, relying solely on state precedents, it held that the
+    statute does not violate the state constitution; in a separate section, relying on United States
+    Supreme Court decisions, it held that the statute does not violate the First Amendment. The teacher
+    petitions the United States Supreme Court to review the First Amendment ruling. The state responds
+    that the Court may not review the case because the judgment rests on an adequate and independent
+    state ground.
+  call: "Is the state's argument correct?"
+  options:
+    A: "Yes, because the state court expressly decided the state constitutional claim on state-law grounds alone, citing only state precedents."
+    B: "Yes, because a state's highest court has the final word on the meaning of the state's own constitution."
+    C: "No, because the state ground cannot support the judgment upholding the statute if the federal ruling is wrong."
+    D: "No, because the Supreme Court may review any state-court judgment whose opinion discusses federal law."
+  answer: C
+  explanation_correct: >-
+    C is correct. The Supreme Court will not review a state judgment that rests on a state ground that is
+    both independent of federal law and adequate, meaning sufficient by itself to support the judgment
+    (R-CON-018). A judgment upholding the statute requires that both challenges fail. The state-law
+    holding disposes only of the state claim; if the First Amendment holding were reversed, the statute
+    would fall and the judgment would change. Because the federal ruling is necessary to the judgment,
+    no adequate state ground exists. The result would differ if the state court had struck the statute
+    under the state constitution, because that ruling alone would support the judgment.
+  explanation_each_wrong_option:
+    A: >-
+      Fact misread. The state ground is independent, but it is not adequate: it cannot support a judgment
+      upholding the statute while the federal challenge remains open (R-CON-018).
+    B: >-
+      True but irrelevant. The Supreme Court will accept the state court's reading of the state
+      constitution, but it reviews only the First Amendment holding, which the state court cannot
+      finally decide.
+    D: >-
+      Overbroad. Discussing federal law is not enough; if an adequate and independent state ground
+      supports the judgment, the Court will not review even a federal holding (R-CON-018; Michigan v.
+      Long).
+  trap_type: fact-misread
+  authority: ["28 U.S.C. § 1257", "Michigan v. Long, 463 U.S. 1032 (1983)", "Fox Film Corp. v. Muller, 296 U.S. 207 (1935)"]
+  source: original
+  tags: [wave2, w2a, adequate-independent-state-ground]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CON-0058
+  subject: CON
+  coverage_ids: [CON-MBE-I.C.3]
+  rule_ids: [R-CON-017, R-CON-009]
+  difficulty: 1
+  stem: >-
+    A state constitution lets the state's voters enact statutes directly by ballot initiative, without
+    any action by the legislature. The voters approved an initiative imposing a per-ride fee on app-based
+    ride-hailing companies. A ride-hailing company that must pay about $3 million a year in fees sued in
+    federal court. Its only claim is that lawmaking by direct popular vote deprives the state of the
+    "Republican Form of Government" that Article IV, Section 4 guarantees to every state.
+  call: "What is the most likely disposition of the suit?"
+  options:
+    A: "Dismiss the suit, because claims under the Guarantee Clause present nonjusticiable political questions."
+    B: "Dismiss the suit, because the company asserts only a generalized grievance shared by all taxpayers."
+    C: "Decide the merits, because the Supreme Court has held that challenges to the structure of state lawmaking are justiciable."
+    D: "Rule for the company, because a republican form of government requires that laws be made by elected representatives."
+  answer: A
+  explanation_correct: >-
+    A is correct. Federal courts will not decide political questions, and claims under the Guarantee
+    Clause are the classic example: the Clause commits enforcement to Congress and supplies no judicially
+    manageable standards (R-CON-017; Luther v. Borden). The Supreme Court has specifically refused to
+    decide a Guarantee Clause challenge to a tax adopted by initiative (Pacific States Tel. & Tel. Co. v.
+    Oregon). The court should dismiss without reaching the merits.
+  explanation_each_wrong_option:
+    B: >-
+      Fact misread. The company pays $3 million a year, a concrete and particularized economic injury
+      (R-CON-009). The suit fails because the question is nonjusticiable, not for lack of standing.
+    C: >-
+      Confused rule. Baker v. Carr held legislative apportionment justiciable under the Equal Protection
+      Clause, while reaffirming that Guarantee Clause claims are not (R-CON-017).
+    D: >-
+      The court never reaches the merits of a nonjusticiable claim, so it cannot rule for the company on
+      this theory (R-CON-017).
+  trap_type: confused-rule
+  authority: ["U.S. Const. art. IV, § 4", "Luther v. Borden, 48 U.S. (7 How.) 1 (1849)", "Pacific States Tel. & Tel. Co. v. Oregon, 223 U.S. 118 (1912)", "Baker v. Carr, 369 U.S. 186 (1962)"]
+  source: original
+  tags: [wave2, w2a, political-question, guarantee-clause]
+  status: draft
+  last_verified: 2026-11-04
