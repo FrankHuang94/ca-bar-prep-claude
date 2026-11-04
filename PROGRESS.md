@@ -13,7 +13,7 @@
 | 2 — Foundations, strategy, study plan | ✅ **Done (awaiting review)** | 02-foundations (5 files, 475-term glossary), MBE/essay/PT strategy, 38-week plan; VERIFY V-040–V-060 |
 | 3 — Past exams | ✅ Done | 31 administrations (Feb 2012–Jul 2026): 166 essays + 42 PTs indexed and analyzed (index-level); frequency analysis; 2 PAST rows | Archive covers Feb 2012 → July 2026 [S-079] |
 | 4 — Subject content | ✅ **Done (awaiting review)**: all 13 subjects built; all 616 coverage rows mapped | Groups: (1) CTR CIV CON CRM · (2) CMP REM · (3) EVD PRF WIL TRS · (4) TRT PRP BUS |
-| 5 — Question bank | ☐ | |
+| 5 — Question bank | 🔄 **Wave 1 done (awaiting review)**: 350 MCQs, 39 essays, 3 PTs | Wave 2 (expansion to targets + simulations) next |
 | 6 — High-yield and memorization | ☐ | |
 | 7 — Independent QA | ☐ | |
 | 8 — Maintenance | ☐ | |
@@ -36,6 +36,42 @@
 - **`config/plan.yml`:** finalized phases, no leave (PTO for exam week only), targets and benchmarks aligned to the schedule.
 - **Totals:** ≈ 754 h · 2,210 MBE · 75 essays · 52 `/spot` drills · 12 PTs · 3 simulations (all on weekends).
 - **New sources and verify items:** S-140–S-150 and S-160; V-040–V-044, V-050–V-058 and V-060.
+
+## Phase 5 — Wave 1 deliverables (question bank)
+
+| Item | Count | Detail |
+|---|---|---|
+| MBE-style MCQs | **350** (50 × 7 MBE subjects) | `07-question-bank/mcq/<subject>/*.yaml`; one best answer, explanation for every wrong option, trap type, rule and coverage IDs; difficulty ≈ 12/25/13; answer letters balanced (12–13 each) |
+| Essays | **39** (26 single + 13 crossovers = 33%) | 3 per subject incl. crossovers; each: original facts, State Bar-style calls, issue list summing to 100, 60-minute model answer, self-grading rubric |
+| Performance Tests | **3** | PT-001 objective memo (UCC warranty), PT-002 persuasive brief (preliminary injunction / implied easement), PT-003 trust drafting + client letter |
+
+- **MCQ distribution** follows the NCBE category weights:
+  - Torts: negligence 25 of 50.
+  - Crim: constitutional protections 24 of 50.
+  - Real Property: the five categories 11/10/9/10/10.
+  - Evidence: hearsay 13, relevance/character/experts 16.
+  - Con Law: individual rights 25 of 50.
+- **No MCQ turns on a VERIFY-tagged or very recent rule.** In particular, nothing depends on the Dec 2026 FRE 801(d)(1)(A) amendment (V-028).
+- **Blind answer-key check.** An independent solver answered every MCQ without seeing the key. **It agreed with all 350 keys.**
+  - Q-PRP-0037's stem was tightened to say the jurisdiction follows the traditional rule.
+  - The other flags were minority-rule notes on items that already state the majority/MBE rule.
+- **Crossover essays follow the past-exam pairs:** Wills+Trusts, CP+Wills, Contracts+Remedies, Torts+Remedies, BA+PR, Evidence+PR, Crim+Evidence, CP+PR, Con Law+Real Property, Civ Pro+Evidence, CP+Trusts, Real Property+Wills, BA+Remedies.
+- **Governing law in the essays:**
+  - Evidence: two essays use the California Evidence Code, two use the FRE.
+  - PR: every essay says "California and ABA authorities".
+  - CP, Wills and Trusts: California law.
+- **PTs** are set in the fictional State of Columbia, with fictional Library law. Each PT opens with a study note that its law is closed-universe.
+- **Subject-file corrections the item writers found:**
+  - R-PRP-039/040: assignee liability lasts while the assignee holds the leasehold, not "while in possession".
+  - R-TRT-028: informed-consent standards are split nationally; California follows *Cobbs*.
+  - R-PRP-042: scope note (V-674).
+  - R-CIV-106: *Lazar* fraud particularity added.
+  - R-CRM-118/110 and R-CON-013: missing case authorities added.
+- **Tooling:** the validator now also checks the coverage and rule IDs inside each essay issue (25 tests).
+- **Known gaps for Wave 2:**
+  - Fourth Amendment and Miranda are under-weighted (3-per-row cap).
+  - Uncovered rows include CON I.A and II.A.2/II.A.4/II.B.2/II.C.2/II.C.3/IV.F.3, and CRM II.F/II.G/II.H/IV.F.
+  - Only 3 PTs so far.
 
 ## Phase 4 — group 4 deliverables (Torts, Real Property, Business Associations) — Phase 4 complete
 
@@ -166,12 +202,11 @@ All 15 files per subject. All **216 coverage rows mapped** (`coverage_report.py 
    - which optional PTO days are possible.
 4. **Network access.** Still blocked (calbar.ca.gov, ncbex.org, leginfo, courts.ca.gov, law.cornell.edu, supremecourt.gov, uscourts.gov, americanbar.org).
 
-## Next: Phase 5 — question bank (Wave 1)
-- **MCQs:** 50 per MBE subject (7 subjects = 350), weighted by NCBE `weight_note`. One best answer; distractors built on commonly confused rules; `explanation_each_wrong_option` for the three wrong letters; each tied to coverage IDs and rule IDs.
-- **Essays:** 3 per subject (39), at least 30% crossovers (`E-XO-###`), with issue lists summing to 100, model answers and rubrics.
-- **PTs:** 3 (State of Columbia), task memo / file / library / model answer / rubric.
-- **After Wave 1:** expand to ≥150 MCQs per MBE subject, ≥8 essays per subject, ≥8 PTs, ≥3 simulations (`build_simulation.py`).
-- Subagents in parallel with distinct ID ranges; schemas in `07-question-bank/schema/`; validator checks every item.
+## Next: Phase 5 — Wave 2 (expansion to targets) and simulations
+- **MCQs:** from 50 to **150 per MBE subject** (+700). Fill uncovered matrix rows first, then weight by NCBE share (Fourth Amendment/Miranda, negligence, hearsay, Real Property categories). Every batch gets a blind answer-key check before commit.
+- **Essays:** from 3 to **8 per subject** (≥ 30% crossovers). Weight PR, CP, Contracts, Remedies and Evidence highest, per frequency.
+- **PTs:** from 3 to **8**, covering the remaining task types (client letter, demand letter, closing argument, drafting a contract, discovery/other).
+- **Simulations:** build **SIM-01–SIM-03** with `scripts/build_simulation.py`, matching the plan dates (Apr 10–11, Jun 19–20, Jul 10–11). Each gets 5 essays + 1 PT + 200 MCQs not used elsewhere.
 
 ## Handoff notes for a new session
 - **Read `CLAUDE.md` first.** It holds all conventions.
