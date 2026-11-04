@@ -521,7 +521,7 @@ status: draft
 **Example:** A contractor's bid omits a $90,000 line item through an adding error, putting it 30% below every other bid, and the owner snaps it up. The contractor may rescind, because the owner had reason to know of the mistake.
 
 ### R-CTR-036 — Misunderstanding
-**Rule (write this):** If the parties attach materially different meanings to a term and neither knows or has reason to know the other's meaning, there is no contract. If one party knows or has reason to know the other's meaning and the other does not, the contract is enforced according to the innocent party's meaning.
+**Rule (write this):** If the parties attach materially different meanings to a term and neither knows or has reason to know the other's meaning, or each knows or has reason to know the other's meaning, there is no contract (R2d § 20(1)). If one party knows or has reason to know the other's meaning and the other does not, the contract is enforced according to the innocent party's meaning.
 
 **Elements:** 1. An ambiguous material term. 2. Different subjective meanings. 3. Each party's knowledge or reason to know.
 
@@ -919,7 +919,7 @@ status: draft
 
 **Elements:** Identify the condition, its beneficiary, and the excuse.
 
-**Exceptions / defenses:** A waiver of a condition that is a material part of the agreed exchange needs consideration (R2d § 84). A waiver of a future condition may be retracted before the time for it to occur, unless the other party has relied (§ 84(2)).
+**Exceptions / defenses:** A waiver of a condition that is a material part of the agreed exchange needs consideration (R2d § 84). A waiver of a future condition may be retracted by notice received while a reasonable time remains for the condition to occur, unless the other party has materially changed position in reliance (§ 84(2)).
 
 **Authority:** R2d §§ 84, 229, 245 [VERIFY V-111], 255, 271 [VERIFY V-111]; Cal. Civ. Code §§ 1511, 1512 [VERIFY V-105], 3275.
 
@@ -1578,7 +1578,7 @@ status: draft
 
 **Elements:** 1. Vesting. 2. Defenses from the contract (fraud, failure of consideration, nonperformance by the promisee). 3. The correct defendant.
 
-**Exceptions / defenses:** The contract may reserve a power to change the beneficiary (life insurance). The promisor cannot use the promisee's personal defenses against the beneficiary that are unrelated to the contract.
+**Exceptions / defenses:** The contract may reserve a power to change the beneficiary (life insurance). The promisor cannot assert against the beneficiary its claims or defenses against the promisee that arise outside the contract (e.g., set-off of an unrelated debt).
 
 **Authority:** R2d §§ 304, 309, 311.
 

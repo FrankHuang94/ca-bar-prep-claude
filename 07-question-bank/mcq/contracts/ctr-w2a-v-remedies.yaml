@@ -1,0 +1,317 @@
+# Contracts — NCBE category V: Remedies (wave 2, original items)
+questions:
+- id: Q-CTR-0089
+  subject: CTR
+  coverage_ids: [CTR-MBE-V.E]
+  rule_ids: [R-CTR-106, R-CTR-050, R-CTR-053]
+  difficulty: 2
+  stem: >-
+    After negotiations, Abbott agreed to sell Brandt "the north 40 acres" of Abbott's farm for $320,000.
+    Abbott's attorney prepared the written contract, which both parties signed. Through a typing error
+    that neither party noticed, the legal description in the contract described the south 40 acres, a
+    different and more valuable parcel that Abbott also owns. Before closing, Brandt noticed the error
+    and demanded that Abbott convey the south 40 acres as written. Abbott sued to reform the contract to
+    describe the north 40 acres. He can prove the parties' actual agreement by clear and convincing
+    evidence, including Brandt's signed loan application describing the north parcel.
+  call: "Is the court likely to reform the contract?"
+  options:
+    A: "No, because the parol evidence rule bars evidence of the parties' negotiations to vary the terms of their signed writing."
+    B: "No, because Abbott's own attorney drafted the contract, so Abbott bears the risk of the error."
+    C: "Yes, because a mistake shared by both parties caused the writing to misstate their actual agreement."
+    D: "No, because the signed contract satisfies the statute of frauds, so its description controls."
+  answer: C
+  explanation_correct: >-
+    Reformation is available where a writing fails to express the parties' actual agreement because of
+    a mutual mistake as to its contents or expression (R2d § 155; R-CTR-106). Both parties agreed on
+    the north 40 acres; a typing error that neither noticed put the south parcel in the writing. Abbott
+    can prove the true agreement by clear and convincing evidence, and Brandt is not a good-faith
+    purchaser who relied on the writing. Reformation is not barred by the parol evidence rule, by the
+    statute of frauds (R2d § 156), or by the claimant's failure to catch the error (R2d § 157). Trap:
+    letting rules that protect writings block the remedy designed to correct them.
+  explanation_each_wrong_option:
+    A: >-
+      The parol evidence rule does not bar evidence offered to support reformation (R-CTR-050); the
+      claim is precisely that the writing misstates the agreement.
+    B: >-
+      Construction against the drafter is an interpretation tie-breaker (R-CTR-053), not a bar to
+      correcting a clerical error. A party's negligence in failing to catch the error does not bar
+      reformation unless it amounts to bad faith (R2d § 157).
+    D: >-
+      If reformation is otherwise appropriate, it is not precluded because the contract is within the
+      statute of frauds (R2d § 156; R-CTR-106).
+  trap_type: exception-trap
+  authority: ["R2d § 155", "R2d § 156", "R2d § 157"]
+  source: original
+  tags: [wave2, reformation, mutual-mistake, scriveners-error]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CTR-0090
+  subject: CTR
+  coverage_ids: [CTR-MBE-V.E]
+  rule_ids: [R-CTR-105, R-CTR-037]
+  difficulty: 2
+  stem: >-
+    Mira bought a duplex from Sloane for $520,000, planning to rent out both units. Before the contract
+    was signed, Sloane told Mira, "The property is zoned for two units." Sloane honestly believed this,
+    but the property was zoned for a single family, and the second unit could not lawfully be rented.
+    Mira would not have bought the property had she known. The written contract did not mention zoning.
+    Two weeks after the sale closed, Mira learned the truth, promptly notified Sloane that she was
+    rescinding, and offered to reconvey the property. She had expected to earn $2,500 a month renting
+    the second unit.
+  call: "If Mira rescinds, what is she entitled to recover?"
+  options:
+    A: "The $520,000 price, on reconveying the property to Sloane, but not the rent she expected to earn from the second unit."
+    B: "The rent she expected to earn from the second unit, because a material misrepresentation entitles a buyer to the benefit of her bargain."
+    C: "Nothing, because Sloane honestly believed that her statement was true."
+    D: "The $520,000 price, while keeping the property, because a contract induced by misrepresentation is void."
+  answer: A
+  explanation_correct: >-
+    A material misrepresentation, even an innocent one, on which a party justifiably relies makes the
+    contract voidable (R2d §§ 162, 164; R-CTR-037). Zoning is a fact, and the statement was material:
+    Mira bought in order to rent both units. Rescission unwinds the contract and restores both parties
+    to their pre-contract positions: Mira must return or offer to return what she received, and she
+    recovers what she paid (R-CTR-105). Rescission is an alternative to expectation damages, not a
+    route to them, so Mira cannot both undo the deal and collect the profits it would have produced.
+    Trap: mixing rescission with benefit-of-the-bargain damages.
+  explanation_each_wrong_option:
+    B: >-
+      Expectation (benefit-of-the-bargain) recovery is inconsistent with rescission, which restores the
+      pre-contract position (R-CTR-105). Tort damages for deceit would also require scienter, which
+      Sloane lacked.
+    C: >-
+      Wrong standard. Rescission requires only a material misrepresentation, not a fraudulent one
+      (R-CTR-037).
+    D: >-
+      Misrepresentation in the inducement makes a contract voidable, not void, and a rescinding party
+      must restore what she received.
+  trap_type: confused-rule
+  authority: ["R2d § 162", "R2d § 164", "R2d § 376"]
+  source: original
+  tags: [wave2, rescission, misrepresentation, restitution]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CTR-0091
+  subject: CTR
+  coverage_ids: [CTR-MBE-V.A]
+  rule_ids: [R-CTR-103, R-CTR-094, R-CTR-057]
+  difficulty: 2
+  stem: >-
+    Rocha Farms, a commercial grower, bought an irrigation pump for $18,000 from Delta Pump Co., a
+    manufacturer of pumps. Delta expressly warranted in the signed contract that the pump would deliver
+    500 gallons per minute. After installation and a season of use, Rocha discovered that the pump
+    delivered only 350 gallons per minute. Rocha promptly notified Delta of the breach and decided to
+    keep the pump. At the time and place of acceptance, a pump meeting the warranty would have been
+    worth $20,000, and the pump as delivered was worth $11,000. Rocha reasonably spent $600 to have an
+    engineer test the pump's output. Rocha had paid the full price and suffered no other loss.
+  call: "How much can Rocha recover from Delta?"
+  options:
+    A: "$9,000, the value the pump would have had as warranted minus its actual value."
+    B: "$9,600, the value the pump would have had as warranted minus its actual value, plus the $600 testing expense as incidental damages."
+    C: "$7,600, the price paid minus the pump's actual value, plus the testing expense."
+    D: "$18,600, the full price Rocha paid plus the testing expense, because the pump did not conform to the express warranty."
+  answer: B
+  explanation_correct: >-
+    A buyer who has accepted goods and given timely notice may recover damages for breach of warranty
+    measured by the difference, at the time and place of acceptance, between the value the goods would
+    have had as warranted and their actual value, plus incidental and consequential damages (UCC
+    §§ 2-714(2), 2-715; R-CTR-103). The promise of 500 gallons per minute was an express warranty
+    (R-CTR-057). Damages: $20,000 - $11,000 = $9,000, plus the $600 reasonable testing expense as an
+    incidental damage (§ 2-715(1); R-CTR-094), for $9,600. The measure uses value as warranted, not
+    the price, so Rocha keeps the benefit of its favorable bargain. Trap: substituting the contract
+    price for the value as warranted.
+  explanation_each_wrong_option:
+    A: >-
+      Correct base measure, but omits the $600 testing cost, a reasonable expense incident to the
+      breach that is recoverable as an incidental damage.
+    C: >-
+      Uses the price rather than the value as warranted. Section 2-714(2) measures from value as
+      warranted, which gives Rocha the benefit of its bargain.
+    D: >-
+      Recovery of the price is a remedy for a buyer who rightfully rejects or justifiably revokes
+      acceptance (§ 2-711). Rocha kept the pump, so it is limited to § 2-714 damages.
+  trap_type: wrong-standard
+  authority: ["UCC § 2-607(3)(a)", "UCC § 2-714(2)", "UCC § 2-715(1)"]
+  source: original
+  tags: [wave2, ucc, buyer-remedies, accepted-goods, warranty-damages]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CTR-0092
+  subject: CTR
+  coverage_ids: [CTR-MBE-V.B]
+  rule_ids: [R-CTR-093, R-CTR-092, R-CTR-098]
+  difficulty: 1
+  stem: >-
+    Harrow's Hardware, a store that had operated profitably at the same location for 12 years,
+    contracted with Kline Electric to rewire the store over a weekend for $9,000, with the work to be
+    finished by 8 a.m. Monday. Kline knew that the store could not open until the rewiring was
+    complete. Because Kline had scheduled too many jobs that weekend, its crew did not finish, and
+    Harrow's hired another electrician, who completed the work on Wednesday night. Harrow's sales
+    records for the past five years show average net profits of about $1,500 per weekday during that
+    season, with little variation from year to year. Kline argues that Harrow's lost profits for Monday
+    through Wednesday are too speculative to recover.
+  call: "Can Harrow's recover its lost profits for those three days?"
+  options:
+    A: "No, because lost profits are recoverable only if the plaintiff proves their exact amount."
+    B: "No, because lost profits are consequential damages, which are not recoverable for breach of a contract for services such as rewiring."
+    C: "Yes, but only if Kline's breach was willful."
+    D: "Yes, because the losses were foreseeable and the store's records make them reasonably certain."
+  answer: D
+  explanation_correct: >-
+    Damages must have been foreseeable when the contract was made and must be proved with reasonable
+    certainty, but not with mathematical precision (R2d §§ 351, 352; R-CTR-092, R-CTR-093). Kline knew
+    the store would stay closed until the work was done, so lost sales were a foreseeable result of
+    delay. An established business with years of stable records can usually prove lost profits with
+    reasonable certainty, and Harrow's five years of consistent data supply that basis. Trap: confusing
+    reasonable certainty with exactness.
+  explanation_each_wrong_option:
+    A: >-
+      Wrong standard. The fact of loss must be reasonably certain, and the amount needs only a
+      reasonable basis; exact proof is not required.
+    B: >-
+      Overbroad. Consequential damages, including lost profits, are recoverable for breach of any
+      contract if they were foreseeable and are reasonably certain.
+    C: >-
+      Compensatory contract damages do not depend on whether the breach was willful; contract law
+      compensates the injured party rather than punishing the party in breach (R-CTR-098).
+  trap_type: wrong-standard
+  authority: ["R2d § 351", "R2d § 352"]
+  source: original
+  tags: [wave2, damages, certainty, lost-profits]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CTR-0093
+  subject: CTR
+  coverage_ids: [CTR-MBE-V.C]
+  rule_ids: [R-CTR-097, R-CTR-040]
+  difficulty: 2
+  stem: >-
+    Fairview Clinic bought a refrigerated vaccine-storage unit for $14,000 from ColdCore Systems, a
+    manufacturer of medical refrigeration equipment. The signed contract warranted that the unit would
+    hold a temperature of 2 to 8 degrees Celsius, and a conspicuous clause stated: "Buyer's sole and
+    exclusive remedy for breach of warranty is repair or replacement of defective parts by Seller."
+    Within a month, the unit began failing to hold temperature. Over the next three months, ColdCore
+    made five repair visits and replaced two parts, but the unit kept failing, and ColdCore told
+    Fairview it did not know what else to try. Fairview sued ColdCore for damages, and ColdCore argued
+    that Fairview's only remedy was further repair.
+  call: "Is Fairview limited to repair or replacement?"
+  options:
+    A: "Yes, because the parties expressly agreed in a conspicuous clause that repair or replacement would be Fairview's exclusive remedy."
+    B: "No, because any clause limiting a buyer's remedies for breach of warranty is unconscionable."
+    C: "No, because the exclusive repair remedy has failed of its essential purpose."
+    D: "Yes, because ColdCore has not refused to make further repair attempts."
+  answer: C
+  explanation_correct: >-
+    An Article 2 contract may limit the buyer's remedy to repair or replacement and make that remedy
+    exclusive, as this clause did (UCC § 2-719(1); R-CTR-097). But where circumstances cause an
+    exclusive or limited remedy to fail of its essential purpose, the buyer may resort to the remedies
+    the Code otherwise provides (§ 2-719(2)). After five visits over three months the unit still could
+    not hold temperature, and ColdCore admitted it had no solution. A repair remedy that does not
+    produce conforming goods within a reasonable time has failed of its purpose. Trap: enforcing an
+    exclusive-remedy clause after it has stopped working.
+  explanation_each_wrong_option:
+    A: >-
+      The clause was validly exclusive when made, but § 2-719(2) displaces it once it fails of its
+      essential purpose.
+    B: >-
+      Overbroad. Repair-or-replace limitations are generally valid between these parties; only certain
+      limits, such as on damages for personal injury from consumer goods, are prima facie
+      unconscionable (§ 2-719(3); R-CTR-040).
+    D: >-
+      The test is whether the remedy is giving the buyer conforming goods within a reasonable time, not
+      whether the seller is still willing to keep trying.
+  trap_type: exception-trap
+  authority: ["UCC § 2-719(1)-(3)"]
+  source: original
+  tags: [wave2, ucc, limitation-of-remedies, failure-of-essential-purpose]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CTR-0094
+  subject: CTR
+  coverage_ids: [CTR-MBE-V.D]
+  rule_ids: [R-CTR-091, R-CTR-095, R-CTR-107]
+  difficulty: 1
+  stem: >-
+    Ortega was hired under a written two-year contract as head of the computer science department at
+    Lakemont Academy, a private high school, at $90,000 a year. After one year, Lakemont fired her
+    without cause, in breach of the contract. Two weeks later, Brighton Prep, another private high
+    school in the same city, offered Ortega a position as head of its computer science department for
+    the coming year at $88,000, with similar duties, hours and status. Ortega declined because she
+    wanted a year off, and she earned nothing that year. She sued Lakemont for $90,000.
+  call: "How much is Ortega likely to recover?"
+  options:
+    A: "$90,000, because a wrongfully discharged employee is not required to take a job with a different employer."
+    B: "$2,000, because her damages are reduced by what she could have earned in the substantially similar position that she unreasonably declined."
+    C: "Nothing, because by refusing comparable work Ortega forfeited her claim against Lakemont."
+    D: "Nothing, because her recovery is limited to expenses she incurred in reliance on the Lakemont contract, and she incurred none."
+  answer: B
+  explanation_correct: >-
+    A wrongfully discharged employee recovers the salary for the rest of the term, less what she
+    earned or with reasonable effort could have earned in substantially similar employment (R2d § 350;
+    R-CTR-091, R-CTR-095). She need not accept a different or inferior job, but the Brighton position
+    was the same kind of job, in the same city, with similar duties and status, at nearly the same pay.
+    Her damages are $90,000 - $88,000 = $2,000. Trap: overreading the rule that an employee need not
+    take inferior work.
+  explanation_each_wrong_option:
+    A: >-
+      Overbroad. The test is whether the job was substantially similar, not who offered it; comparable
+      work with another employer counts.
+    C: >-
+      A failure to mitigate reduces damages by the loss that could have been avoided; it does not
+      forfeit the whole claim.
+    D: >-
+      Wrong measure. Ortega is entitled to expectation damages reduced for avoidable loss; reliance
+      damages are an alternative measure she may choose, not a cap (R-CTR-107).
+  trap_type: overbroad
+  authority: ["R2d § 350"]
+  source: original
+  tags: [wave2, mitigation, employment-damages]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CTR-0095
+  subject: CTR
+  coverage_ids: [CTR-MBE-V.G]
+  rule_ids: [R-CTR-107, R-CTR-090]
+  difficulty: 3
+  stem: >-
+    Pomeroy Builders agreed to build a custom storage barn for Lassiter for $50,000, payable on
+    completion. After Pomeroy had spent $30,000 on labor and materials, Lassiter wrongfully repudiated
+    the contract, and Pomeroy stopped work. The partly built barn has no salvage value to Pomeroy. At
+    trial, Lassiter proves that Pomeroy had badly underbid the job: finishing the barn would have cost
+    Pomeroy another $35,000, so full performance would have left Pomeroy with a loss of $15,000.
+    Pomeroy seeks its reliance damages.
+  call: "How much is Pomeroy most likely to recover as reliance damages?"
+  options:
+    A: "$30,000, its expenditures in reliance on the contract."
+    B: "Nothing, because Pomeroy would have lost money had the contract been fully performed, so it suffered no compensable loss."
+    C: "$50,000, the contract price, because Lassiter repudiated."
+    D: "$15,000, its expenditures minus the loss it would have suffered on full performance."
+  answer: D
+  explanation_correct: >-
+    As an alternative to expectation damages, an injured party may recover its reliance interest,
+    meaning its expenditures in preparation or performance, less any loss that the breaching party
+    proves with reasonable certainty the injured party would have suffered had the contract been
+    performed (R2d § 349; R-CTR-107). Pomeroy spent $30,000; Lassiter proved a $15,000 loss on full
+    performance. Reliance recovery is $30,000 - $15,000 = $15,000. The deduction keeps reliance damages
+    from putting Pomeroy in a better position than full performance would have. Trap: awarding all
+    expenditures on a losing contract.
+  explanation_each_wrong_option:
+    A: >-
+      Omits the deduction that the breaching party may prove for a losing contract (R2d § 349).
+    B: >-
+      Overbroad. The expected loss reduces reliance recovery dollar for dollar; it eliminates recovery
+      only if the loss equals or exceeds the expenditures.
+    C: >-
+      The full price is not owed for an unfinished job. Even the expectation measure would subtract the
+      $35,000 Pomeroy saved by not finishing (R-CTR-090), which also yields $15,000.
+  trap_type: missing-element
+  authority: ["R2d § 344(b)", "R2d § 349"]
+  source: original
+  tags: [wave2, reliance-damages, losing-contract]
+  status: draft
+  last_verified: 2026-11-04

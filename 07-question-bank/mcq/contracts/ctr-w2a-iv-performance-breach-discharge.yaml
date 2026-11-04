@@ -1,0 +1,543 @@
+# Contracts — NCBE category IV: Performance, breach and discharge (wave 2, original items)
+questions:
+- id: Q-CTR-0077
+  subject: CTR
+  coverage_ids: [CTR-MBE-IV.A]
+  rule_ids: [R-CTR-063, R-CTR-067, R-CTR-062]
+  difficulty: 2
+  stem: >-
+    Halloran agreed in a signed writing to build a custom cedar deck for Pierce for $18,000. The
+    writing did not say when payment was due. After Halloran had completed about half the deck, he
+    asked Pierce to pay $9,000 for the work done so far. Pierce refused, saying she would pay the full
+    price when the deck was finished. Halloran stopped work and sued Pierce for breach of contract.
+  call: "Was Pierce's refusal to pay $9,000 a breach of contract?"
+  options:
+    A: "Yes, because a party who has performed half of the work is entitled to half of the contract price on request."
+    B: "Yes, because a builder's duty to continue working is impliedly conditioned on periodic payment for completed work."
+    C: "No, because the work had to be finished before payment for it was due."
+    D: "No, because payment was conditioned on Pierce's personal satisfaction with the finished deck."
+  answer: C
+  explanation_correct: >-
+    Courts imply constructive conditions to set the order of performance. Where one party's
+    performance takes time and the other's (payment) does not, the performance that takes time must
+    ordinarily come first unless the contract provides for progress payments (R2d § 234(2);
+    R-CTR-063). The contract was for one deck at one price, with no payment schedule, so Pierce's duty
+    to pay was conditioned on Halloran's substantial completion of the work. Her refusal was not a
+    breach; Halloran's walking off the job was. Trap: assuming a contractor is entitled to be paid as
+    the work progresses.
+  explanation_each_wrong_option:
+    A: >-
+      That would be true only of a divisible contract, with agreed equivalents for each part
+      (R-CTR-067). A single deck for a single price is not divisible.
+    B: >-
+      Reverses the default rule. Progress payments are owed only if the parties agree to them.
+    D: >-
+      Fact misread. The contract contains no satisfaction clause (R-CTR-062); Pierce's duty to pay turns
+      on completion, not on her satisfaction.
+  trap_type: wrong-standard
+  authority: ["R2d § 234(2)", "R2d § 237"]
+  source: original
+  tags: [wave2, constructive-conditions, order-of-performance]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CTR-0078
+  subject: CTR
+  coverage_ids: [CTR-MBE-IV.A]
+  rule_ids: [R-CTR-063, R-CTR-068]
+  difficulty: 2
+  stem: >-
+    Vance contracted in a signed writing to sell his condominium to Moreno for $400,000, with closing
+    to take place at a title company on June 30. The contract did not make time of the essence. On
+    June 30, neither party appeared at the closing or offered to perform: Vance was having second
+    thoughts about selling but had told no one, and Moreno had not yet obtained her financing. On July
+    10, Moreno obtained financing, and on July 15 she sued Vance for breach, alleging that he had
+    failed to deliver a deed on June 30.
+  call: "Is Moreno likely to prevail on her claim that Vance breached on June 30?"
+  options:
+    A: "No, because Moreno did not tender payment on June 30, and payment of the price and delivery of the deed were concurrent conditions."
+    B: "Yes, because Vance did not appear at the closing on June 30 to deliver a deed, as the contract required him to do."
+    C: "Yes, because Vance's private decision not to sell was an anticipatory repudiation."
+    D: "No, because a buyer of land cannot sue for breach until she has paid the full purchase price."
+  answer: A
+  explanation_correct: >-
+    When the parties' performances are to be exchanged at the same time, as a deed and the price at a
+    land closing, they are concurrent conditions. To put the other party in breach, a party must
+    tender its own performance, that is, offer it with a present ability to perform (R2d §§ 234(1),
+    238; R-CTR-063). Neither party tendered on June 30, so neither was in breach that day. Because time
+    was not of the essence, the contract was not discharged; Moreno, now able to pay, can tender and
+    demand a deed. Trap: blaming the seller for a closing that neither party attended.
+  explanation_each_wrong_option:
+    B: >-
+      Vance's absence would matter only if Moreno had tendered payment; without her tender, Vance's
+      duty to deliver a deed never became due.
+    C: >-
+      A repudiation requires a definite and unequivocal statement or voluntary act manifested to the
+      other party (R-CTR-068). Vance's undisclosed second thoughts were not a repudiation.
+    D: >-
+      Overbroad. The buyer must tender payment, not actually pay, to put a non-performing seller in
+      breach.
+  trap_type: missing-element
+  authority: ["R2d § 234(1)", "R2d § 238"]
+  source: original
+  tags: [wave2, concurrent-conditions, tender]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CTR-0079
+  subject: CTR
+  coverage_ids: [CTR-MBE-IV.B]
+  rule_ids: [R-CTR-064, R-CTR-062]
+  difficulty: 3
+  stem: >-
+    Under a written one-year contract, Tanaka agreed to pay Brooks, a freelance designer, $3,000 for
+    each monthly issue of Tanaka's newsletter, "provided that Brooks delivers the finished design files
+    by the 5th day of the month." Delivery by the 5th mattered to Tanaka because his printer required
+    the files by the 6th. In each of the first four months, Brooks delivered on the 8th or 9th, and
+    Tanaka paid in full without objection, paying his printer a rush fee each time. On the 1st day of
+    the fifth month, Tanaka wrote to Brooks: "From now on I will insist on delivery by the 5th, as our contract requires." Brooks could easily have finished the files by the 5th, and he had not turned down other work or otherwise changed his position because of Tanaka's earlier acceptance of late files. Brooks received the letter that day but delivered the fifth month's files on
+    the 8th. Tanaka, who had already had another designer prepare that issue, did not use Brooks's
+    files and refused to pay for them.
+  call: "Must Tanaka pay Brooks $3,000 for the fifth month?"
+  options:
+    A: "Yes, because by accepting late files for four months without objection, Tanaka permanently waived the 5th-of-the-month deadline."
+    B: "Yes, because the delivery deadline was a promise rather than a condition, so late delivery was only a minor breach."
+    C: "No, because a waiver of a condition is never effective unless it is supported by consideration."
+    D: "No, because Tanaka retracted the waiver for future months before the fifth delivery was due."
+  answer: D
+  explanation_correct: >-
+    "Provided that" creates an express condition to Tanaka's duty to pay (R-CTR-062). By paying for late files
+    four months running without objection, Tanaka waived the condition for those months and led Brooks to expect
+    that late delivery would continue to be accepted (R-CTR-064). A waiver of a condition whose time has not yet
+    come can be retracted by notice that the other party receives while a reasonable time still remains to satisfy
+    the condition, unless reinstating it would be unjust because the other party materially changed position in
+    reliance on the waiver (R2d § 84(2)). Tanaka's letter reached Brooks on the 1st, leaving ample time to deliver
+    by the 5th, and Brooks had not relied. The condition was reinstated and failed, so Tanaka's duty to pay for
+    the fifth month never arose. Excuse to avoid forfeiture (R2d § 229) does not help Brooks, because timely
+    delivery was a material part of the exchange. Trap: treating repeated waivers as permanent.
+  explanation_each_wrong_option:
+    A: >-
+      Overbroad. A waiver of a condition as to future performances can be retracted before the time
+      for the condition to occur, absent reliance (R2d § 84(2)).
+    B: >-
+      "Provided that" is classic language of express condition (R-CTR-062), and the printer's deadline
+      confirms that timing was important to Tanaka.
+    C: >-
+      Overbroad. Under R2d § 84(1), a promise to perform despite the non-occurrence of a condition
+      generally binds without consideration unless the condition was a material part of the agreed
+      exchange. Tanaka wins because he retracted the waiver in time, not because waivers need
+      consideration.
+  trap_type: overbroad
+  authority: ["R2d § 84(1)-(2)", "R2d § 224", "R2d \u00a7 229"]
+  source: original
+  tags: [wave2, excuse-of-conditions, waiver, retraction]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CTR-0080
+  subject: CTR
+  coverage_ids: [CTR-MBE-IV.C]
+  rule_ids: [R-CTR-070, R-CTR-068]
+  difficulty: 2
+  stem: >-
+    Garnet Electronics, a manufacturer, contracted in a signed writing to sell Pinewood Appliances, a
+    retail chain, 2,000 microwave ovens for $160,000, delivery September 1, payment due 30 days after
+    delivery. In June, Garnet learned from a reliable trade publication that Pinewood had defaulted on
+    payments to two of its other suppliers. On June 10, Garnet sent Pinewood a written demand for
+    adequate assurance that Pinewood would pay for the ovens. Pinewood received the demand on June 12
+    and did not respond. On July 20, Garnet notified Pinewood that it was cancelling the contract, and
+    it sold the ovens to another retailer. Pinewood, which had meanwhile obtained new financing, sued
+    Garnet for breach.
+  call: "Is Garnet liable to Pinewood?"
+  options:
+    A: "Yes, because Pinewood had not failed to perform any obligation that was then due."
+    B: "No, because Pinewood's failure to give adequate assurance within 30 days of the demand was a repudiation."
+    C: "Yes, because a buyer's payment problems with other suppliers are not reasonable grounds for insecurity about its own contract."
+    D: "No, because Garnet's reasonable grounds for insecurity allowed it to cancel the contract as soon as it learned of Pinewood's defaults."
+  answer: B
+  explanation_correct: >-
+    Under UCC § 2-609 (R-CTR-070), when reasonable grounds for insecurity arise, a party may demand
+    adequate assurance in writing and, if commercially reasonable, suspend its own performance; between
+    merchants, reasonableness is judged by commercial standards. A reliable report that a credit buyer
+    is defaulting to other suppliers is a classic ground for insecurity. Failure to provide adequate
+    assurance within a reasonable time, not exceeding 30 days after receipt of a justified demand, is
+    a repudiation. Pinewood received the demand on June 12 and was still silent after July 12, so
+    Garnet could treat the contract as repudiated and cancel on July 20 (R-CTR-068). Trap: assuming a
+    party can never act before the other's performance is due.
+  explanation_each_wrong_option:
+    A: >-
+      Ignores § 2-609, which lets an insecure party demand assurance before performance is due and
+      treats an unanswered justified demand as a repudiation.
+    C: >-
+      Between merchants, insecurity is judged by commercial standards, and credible reports of defaults
+      to other creditors are a standard reason to doubt a credit buyer's ability to pay.
+    D: >-
+      Overbroad. Reasonable insecurity justifies a written demand and suspension, not immediate
+      cancellation; Garnet could cancel only after Pinewood failed to respond within the time allowed.
+  trap_type: missing-element
+  authority: ["UCC § 2-609", "UCC § 2-610", "UCC § 2-703"]
+  source: original
+  tags: [wave2, ucc, adequate-assurance, repudiation]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CTR-0081
+  subject: CTR
+  coverage_ids: [CTR-MBE-IV.D]
+  rule_ids: [R-CTR-071, R-CTR-020, R-CTR-023]
+  difficulty: 3
+  stem: >-
+    Meridian Coffee Roasters, a wholesale coffee roaster, signed a three-year contract to supply Corbett
+    Cafés, a chain of six cafés, with 1,000 pounds of roasted coffee per month "at Meridian's wholesale
+    list price in effect on the date of each delivery." For the first year, Corbett paid the same list
+    price that Meridian charged all its wholesale customers. Meridian then decided it wanted to end the
+    contract so that it could sign an exclusive deal with one of Corbett's competitors. It issued a new
+    "list price" that applied only to Corbett and was 40% above the price it continued to charge every
+    other wholesale customer, expecting that Corbett would refuse to pay and the relationship would
+    end. Corbett paid under protest and sued Meridian.
+  call: "Is Meridian likely to be liable for breach of contract?"
+  options:
+    A: "No, because the contract expressly gave Meridian the right to set the price through its list price, and Meridian did exactly that."
+    B: "No, because by paying the new price, Corbett agreed to it."
+    C: "Yes, because Meridian did not set Corbett's price in good faith."
+    D: "Yes, because a contract that lets one party set the price is illusory, so the court will substitute a reasonable price."
+  answer: C
+  explanation_correct: >-
+    Every contract imposes a duty of good faith in performance, which under the UCC means honesty in
+    fact and the observance of reasonable commercial standards of fair dealing (UCC §§ 1-201(b)(20),
+    1-304; R-CTR-071). A price to be fixed by one party means a price for that party to fix in good
+    faith (UCC § 2-305(2); R-CTR-020). A genuine list price charged to all customers would satisfy that
+    duty, but Meridian invented a discriminatory price for Corbett alone, for no commercial reason
+    other than to force Corbett out. That dishonest exercise of discretion breaches the contract. Trap:
+    treating a grant of discretion as unlimited.
+  explanation_each_wrong_option:
+    A: >-
+      The contract gave Meridian discretion over the price, but the Code requires that discretion to be
+      exercised in good faith. A "list price" invented for one customer to force it out is not the
+      good-faith pricing the contract contemplated, so Meridian did not do "exactly that."
+    B: >-
+      Payment under protest is not assent to a new price, and even an agreed modification of a goods
+      contract must be made in good faith (UCC § 2-209 cmt. 2).
+    D: >-
+      The term is not illusory, because the duty of good faith limits Meridian's discretion
+      (R-CTR-023). And if a promise were truly illusory, there would be no contract at all, not a
+      court-made price.
+  trap_type: true-but-irrelevant
+  authority: ["UCC § 1-201(b)(20)", "UCC § 1-304", "UCC § 2-305(2) and cmt. 3"]
+  source: original
+  tags: [wave2, ucc, good-faith, open-price]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CTR-0082
+  subject: CTR
+  coverage_ids: [CTR-MBE-IV.D]
+  rule_ids: [R-CTR-071, R-CTR-055]
+  difficulty: 2
+  stem: >-
+    Larkspur Advertising signed a two-year contract to handle all advertising for Quill Bicycles, a
+    bicycle maker, for a monthly fee of $20,000. The contract provided: "Either party may terminate this
+    agreement for any reason by giving the other 90 days' written notice." In the first year, Larkspur's
+    campaign doubled Quill's sales. Quill then gave Larkspur 90 days' written notice of termination,
+    explaining that it would handle its advertising in-house to save money, continuing the general
+    approach Larkspur had developed. Quill paid all fees through the end of the notice period. Larkspur
+    sued Quill for the fees for the rest of the two-year term, alleging breach of the implied covenant
+    of good faith and fair dealing.
+  call: "Is Larkspur likely to prevail?"
+  options:
+    A: "No, because Quill exercised an express right to terminate for any reason, which good faith cannot override."
+    B: "Yes, because Quill terminated the contract in order to take advantage of the results of Larkspur's successful work without paying for it."
+    C: "Yes, because a contractual right to terminate may be exercised only for good cause."
+    D: "No, because the implied covenant of good faith and fair dealing applies only to contracts for the sale of goods."
+  answer: A
+  explanation_correct: >-
+    Every contract imposes a duty of good faith and fair dealing in its performance and enforcement
+    (R2d § 205; R-CTR-071). The duty protects the parties' reasonable expectations and limits how
+    discretion is exercised, but it cannot override an express term; a party that exercises an express
+    contractual right as written generally does not breach the covenant. Quill bargained for the right
+    to terminate "for any reason" on 90 days' notice, gave that notice, and paid through the notice
+    period. Bringing work in-house to save money is an ordinary business reason. Trap: using good faith
+    to rewrite an express term.
+  explanation_each_wrong_option:
+    B: >-
+      Larkspur bargained for 90 days' notice, not for a guaranteed two-year term, and Quill paid every
+      fee due through the notice period. The covenant does not give Larkspur more than the contract
+      promised.
+    C: >-
+      Wrong standard. The clause permits termination "for any reason"; a court will not imply a
+      good-cause requirement that contradicts an express term (R-CTR-055).
+    D: >-
+      Overbroad. The covenant applies to every contract (R2d § 205), not only to sales of goods under
+      UCC § 1-304.
+  trap_type: wrong-standard
+  authority: ["R2d § 205"]
+  source: original
+  tags: [wave2, good-faith, termination-clause]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CTR-0083
+  subject: CTR
+  coverage_ids: [CTR-MBE-IV.E]
+  rule_ids: [R-CTR-056, R-CTR-060]
+  difficulty: 2
+  stem: >-
+    Dunleavy, who owns a landscaping business, bought a used skid-steer loader for $28,000 from Overton
+    Equipment, a dealer in used construction equipment. The signed bill of sale stated, in bold capital
+    letters: "SOLD AS IS, WITH ALL FAULTS. SELLER DISCLAIMS ALL IMPLIED WARRANTIES, INCLUDING THE
+    WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE." Four months later, a bank
+    lawfully repossessed the loader from Dunleavy under a valid, perfected security interest that a
+    prior owner had granted to the bank and never paid off. Dunleavy had not known of the bank's
+    interest when he bought the loader. Dunleavy sued Overton for breach of warranty.
+  call: "Is Dunleavy likely to prevail?"
+  options:
+    A: "No, because the conspicuous 'as is' clause excluded all warranties."
+    B: "No, because the warranty of title is one of the implied warranties, and the bill of sale conspicuously disclaimed all implied warranties."
+    C: "Yes, because a merchant seller is strictly liable to its buyer for any loss of the goods it sells."
+    D: "Yes, because the general disclaimer did not exclude Overton's warranty that the loader was free of unknown liens."
+  answer: D
+  explanation_correct: >-
+    In every sale of goods, the seller warrants that the title conveyed is good and that the goods
+    will be delivered free of any security interest or lien of which the buyer had no knowledge when
+    contracting (UCC § 2-312(1); R-CTR-056). That warranty is excluded only by specific language or by
+    circumstances giving the buyer reason to know that the seller does not claim full title
+    (§ 2-312(2)). "As is" and general disclaimers of implied warranties under § 2-316 do not reach it
+    (R-CTR-060). The undisclosed lien cost Dunleavy the loader, so Overton is liable. Trap: assuming
+    "as is" wipes out every warranty.
+  explanation_each_wrong_option:
+    A: >-
+      Overbroad. An "as is" clause excludes the implied warranties of quality (§ 2-316(3)(a)); it does
+      not exclude the warranty of title (R-CTR-056).
+    B: >-
+      The title warranty is not one of the "implied warranties" governed by § 2-316 (§ 2-312 cmt. 6);
+      it can be excluded only by language specifically addressing title.
+    C: >-
+      Overbroad. There is no general strict liability for any loss of goods; Overton is liable because
+      it breached the specific warranty of title.
+  trap_type: overbroad
+  authority: ["UCC § 2-312(1)-(2) and cmt. 6", "UCC § 2-316(3)(a)"]
+  source: original
+  tags: [wave2, ucc, warranties, title, disclaimer]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CTR-0084
+  subject: CTR
+  coverage_ids: [CTR-MBE-IV.E]
+  rule_ids: [R-CTR-060, R-CTR-058]
+  difficulty: 2
+  stem: >-
+    Teague, who owns a bakery, went to Highland Restaurant Supply, a dealer in new and used commercial
+    kitchen equipment, to buy a used commercial mixer. Highland's salesperson invited him to examine and
+    test any mixer as fully as he wished. Teague ran one mixer for 20 minutes. Throughout the test, its
+    bowl wobbled noticeably and the machine made a loud grinding noise; any baker examining the mixer
+    would have recognized these as signs of a badly worn drive gear. Teague bought the mixer for $4,000.
+    Nothing was said or written about warranties. Two weeks later the worn gear failed, and Teague sued
+    Highland for breach of the implied warranty of merchantability.
+  call: "Is Teague likely to prevail?"
+  options:
+    A: "Yes, because Highland is a merchant with respect to mixers and did not disclaim the warranty of merchantability in writing."
+    B: "No, because Teague examined the mixer, and there is no implied warranty for defects his examination should have revealed."
+    C: "Yes, because a mixer whose drive gear fails within two weeks of the sale is not fit for the ordinary purposes for which mixers are used."
+    D: "No, because the implied warranty of merchantability does not apply to used goods."
+  answer: B
+  explanation_correct: >-
+    Highland, a dealer in kitchen equipment, would ordinarily give an implied warranty of
+    merchantability (UCC § 2-314; R-CTR-058). But when a buyer, before contracting, has examined the
+    goods as fully as he desired, there is no implied warranty as to defects that an examination ought
+    in the circumstances to have revealed to him (§ 2-316(3)(b); R-CTR-060). Teague, a professional
+    baker, saw and heard the wobble and grinding that signaled the worn gear, and the failure came from
+    exactly that defect. Trap: assuming implied warranties can be excluded only by a written
+    disclaimer.
+  explanation_each_wrong_option:
+    A: >-
+      Missing exception. Besides express disclaimers, § 2-316(3)(b) excludes implied warranties as to
+      defects that a pre-contract examination should have revealed.
+    C: >-
+      The defect may well have made the mixer unmerchantable, but the examination rule removes the
+      implied warranty as to that particular defect.
+    D: >-
+      Merchantability applies to used goods sold by a merchant, measured by what is ordinarily expected
+      of used goods of that kind.
+  trap_type: exception-trap
+  authority: ["UCC § 2-314", "UCC § 2-316(3)(b) and cmt. 8"]
+  source: original
+  tags: [wave2, ucc, warranties, merchantability, examination]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CTR-0085
+  subject: CTR
+  coverage_ids: [CTR-MBE-IV.F]
+  rule_ids: [R-CTR-075, R-CTR-074, R-CTR-072]
+  difficulty: 2
+  stem: >-
+    Pell Dental Group bought a digital X-ray unit for $65,000 from Sandoval Medical, a dealer in dental
+    equipment. The unit passed Pell's inspection and test at installation, and Pell accepted it. Over
+    the next five weeks, the unit intermittently produced blurred images because of a sensor defect
+    that could not have been detected at installation, forcing Pell to retake about one in four X-rays.
+    Sandoval's technician made three repair attempts over the following six weeks, none of which fixed
+    the problem. Pell then promptly notified Sandoval in writing that it was revoking its acceptance and
+    asked Sandoval to remove the unit. Sandoval refused, insisting that Pell's only remedy was damages.
+  call: "Was Pell entitled to revoke its acceptance?"
+  options:
+    A: "No, because once a buyer has accepted goods after inspecting them, it is limited to recovering damages for any nonconformity."
+    B: "No, because Sandoval was entitled to keep attempting repairs until the unit worked."
+    C: "Yes, because a latent defect substantially impaired the unit's value to Pell, and Pell revoked within a reasonable time after repairs failed."
+    D: "Yes, because the unit failed in some respect to conform to the contract."
+  answer: C
+  explanation_correct: >-
+    A buyer may revoke acceptance of goods whose nonconformity substantially impairs their value to
+    it, if it accepted them without discovering the nonconformity because discovery was difficult, or
+    on the reasonable assumption that it would be cured and it was not (UCC § 2-608; R-CTR-075).
+    Revocation must occur within a reasonable time after the buyer discovers or should have discovered
+    the ground, and it takes effect when the buyer notifies the seller. An X-ray unit that blurs one in
+    four images is substantially impaired; the sensor defect was latent at installation; and Pell
+    allowed a reasonable period for repair and then promptly notified Sandoval. Trap: believing that
+    acceptance always limits the buyer to damages.
+  explanation_each_wrong_option:
+    A: >-
+      Acceptance ends the right to reject (R-CTR-074), but § 2-608 lets the buyer revoke acceptance in
+      these circumstances.
+    B: >-
+      There is no unlimited right to keep repairing after acceptance. Three failed attempts over six
+      weeks gave Sandoval a reasonable chance to cure.
+    D: >-
+      Right result, wrong standard. Any nonconformity justifies rejection before acceptance (perfect
+      tender, R-CTR-072), but revocation after acceptance requires substantial impairment.
+  trap_type: wrong-standard
+  authority: ["UCC § 2-606", "UCC § 2-608"]
+  source: original
+  tags: [wave2, ucc, revocation-of-acceptance]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CTR-0086
+  subject: CTR
+  coverage_ids: [CTR-MBE-IV.F]
+  rule_ids: [R-CTR-080, R-CTR-078, R-CTR-002]
+  difficulty: 3
+  stem: >-
+    Corrigan, a retired dentist who has never dealt in cars, agreed in a signed writing to sell Lindell
+    "my 1931 Ford Model A roadster, serial no. A-4417," for $38,000. The car was to be made available
+    for Lindell to pick up at Corrigan's garage on May 20, and Lindell was to pay at pickup. On May 18,
+    before Corrigan had tendered the car, lightning struck the garage, and the resulting fire destroyed
+    the car. Neither party was at fault. Lindell sued Corrigan for breach of contract, and Corrigan
+    counterclaimed for the price.
+  call: "What is the most likely result?"
+  options:
+    A: "Corrigan is liable to Lindell for breach, because the risk of loss had not yet passed to Lindell when the car was destroyed."
+    B: "Lindell is liable to Corrigan for the price, because title to the car passed to Lindell when the parties signed the contract."
+    C: "Neither party is liable, because Corrigan is not a merchant."
+    D: "Neither party is liable, because identified goods were destroyed without fault before risk passed."
+  answer: D
+  explanation_correct: >-
+    When a contract requires goods identified when the contract is made, and they suffer a casualty
+    without fault of either party before the risk of loss passes to the buyer, the contract is avoided
+    if the loss is total (UCC § 2-613(a); R-CTR-080). The contract named one specific car, so it was
+    identified at formation (§ 2-501). Risk had not passed: a non-merchant seller's risk passes to the
+    buyer on tender of delivery (§ 2-509(3); R-CTR-078), and Corrigan had not yet tendered. The total
+    loss avoided the contract and discharged both parties. Trap: reading "risk on the seller" to mean
+    the seller is liable for non-delivery.
+  explanation_each_wrong_option:
+    A: >-
+      Risk remaining on the seller means the seller bears the loss of the goods. For goods identified
+      at formation, § 2-613 then avoids the contract rather than making the seller liable for breach.
+      (A seller of unidentified, generic goods would have to deliver substitutes.)
+    B: >-
+      Risk of loss does not follow title (R-CTR-078), and in any event the risk had not passed to
+      Lindell.
+    C: >-
+      Right result, wrong reason. Corrigan's non-merchant status (R-CTR-002) only fixes when risk would
+      pass, on tender; it does not itself excuse him. The contract is avoided because identified goods
+      were destroyed before risk passed.
+  trap_type: confused-rule
+  authority: ["UCC § 2-501", "UCC § 2-509(3)", "UCC § 2-613(a)"]
+  source: original
+  tags: [wave2, ucc, casualty-to-identified-goods, risk-of-loss]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CTR-0087
+  subject: CTR
+  coverage_ids: [CTR-MBE-IV.G]
+  rule_ids: [R-CTR-084, R-CTR-082, R-CTR-083]
+  difficulty: 2
+  stem: >-
+    Quintero rented the rooftop terrace of the Bayview Hotel for the evening of July 4 for $12,000,
+    four times the terrace's normal evening rate. The written contract stated that the terrace was
+    rented "for a private party to view the city's Independence Day fireworks over the harbor," and the
+    terrace is known as the best place in the city to see them. Two days before the event, an
+    accidental explosion destroyed the barge carrying the fireworks, and the city cancelled the show for
+    the year. Quintero promptly notified the hotel that she would not use the terrace. The terrace
+    remained available, and the hotel sued Quintero for the $12,000.
+  call: "Is Quintero likely to be liable?"
+  options:
+    A: "No, because her principal purpose, known to both parties, was substantially frustrated."
+    B: "Yes, because the terrace remained available on July 4, so the hotel's performance was not impossible."
+    C: "Yes, but only for $3,000, the terrace's normal rental value for one evening."
+    D: "No, because the cancellation of the fireworks show made Quintero's performance of the contract impracticable."
+  answer: A
+  explanation_correct: >-
+    Where, after contracting, a party's principal purpose is substantially frustrated without its fault
+    by an event whose non-occurrence was a basic assumption on which the contract was made, its
+    remaining duties are discharged (R2d § 265; R-CTR-084). The contract itself stated the purpose, the
+    premium price reflected it, and an accident that neither party caused eliminated it. The terrace was
+    still usable, but renting it had lost its value for the purpose both parties understood. Trap:
+    demanding impossibility when the doctrine is frustration.
+  explanation_each_wrong_option:
+    B: >-
+      Confuses impossibility (R-CTR-082) with frustration. Frustration applies precisely when
+      performance remains possible but its value to one party has been destroyed.
+    C: >-
+      Frustration discharges Quintero's remaining duty entirely; there is no rule reducing the price to
+      the market rate.
+    D: >-
+      Right result, wrong doctrine. Quintero's performance, paying money, remained entirely practicable
+      (R-CTR-083); what was destroyed was the purpose of the exchange.
+  trap_type: confused-rule
+  authority: ["R2d § 265"]
+  source: original
+  tags: [wave2, frustration-of-purpose]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CTR-0088
+  subject: CTR
+  coverage_ids: [CTR-MBE-IV.H]
+  rule_ids: [R-CTR-088, R-CTR-116]
+  difficulty: 1
+  stem: >-
+    Brewer borrowed $40,000 from Lyle, repayable in one year. Six months later, Brewer, Lyle and Moss
+    signed an agreement under which Moss promised Lyle to repay the loan when due, and Lyle stated that
+    he "releases Brewer from all liability on the loan and accepts Moss as the sole debtor." When the
+    loan came due, Moss did not pay. Lyle sued Brewer for $40,000.
+  call: "Is Lyle likely to recover from Brewer?"
+  options:
+    A: "Yes, because a debtor who delegates its duty to pay to another person remains liable to the creditor until the debt is paid."
+    B: "No, because the agreement was a novation that discharged Brewer."
+    C: "Yes, because Lyle received no consideration for releasing Brewer."
+    D: "No, but only because Lyle must first sue Moss and fail to collect."
+  answer: B
+  explanation_correct: >-
+    A novation is a substituted contract that brings in a new party, usually a new obligor, and with
+    the obligee's assent immediately discharges the original obligor (R2d § 280; R-CTR-088). All three
+    parties signed an agreement in which Lyle accepted Moss as sole debtor and expressly released
+    Brewer. Brewer was discharged when the agreement was made, so Lyle's remedy is against Moss alone.
+    Trap: treating a novation as a mere delegation.
+  explanation_each_wrong_option:
+    A: >-
+      That is the rule for a delegation the obligee has not agreed to treat as a release (R-CTR-116).
+      Here the obligee expressly released Brewer.
+    C: >-
+      Moss's promise to pay Lyle was consideration for Lyle's release of Brewer; the new obligor's
+      promise supports the substitution.
+    D: >-
+      Lyle has no claim against Brewer at all. Brewer was discharged outright, so there is no
+      secondary liability waiting on a suit against Moss.
+  trap_type: confused-rule
+  authority: ["R2d § 279", "R2d § 280"]
+  source: original
+  tags: [wave2, discharge, novation]
+  status: draft
+  last_verified: 2026-11-04

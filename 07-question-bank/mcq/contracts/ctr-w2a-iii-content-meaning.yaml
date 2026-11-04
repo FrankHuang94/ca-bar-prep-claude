@@ -1,0 +1,226 @@
+# Contracts — NCBE category III: Contract content and meaning (wave 2, original items)
+questions:
+- id: Q-CTR-0072
+  subject: CTR
+  coverage_ids: [CTR-MBE-III.A]
+  rule_ids: [R-CTR-049, R-CTR-050]
+  difficulty: 1
+  stem: >-
+    After weeks of negotiation, Castellano and Rourke Builders exchanged signed letters in which Rourke
+    agreed to build Castellano's house with "all interior doors of solid oak." Two weeks later, they
+    signed a detailed construction contract for $480,000 that specified "hollow-core birch" interior
+    doors and stated: "This document is the complete and exclusive agreement of the parties and
+    supersedes all prior negotiations and agreements." Rourke installed hollow-core birch doors.
+    Castellano sued for breach and offered the earlier letters to prove that the parties had agreed on
+    solid oak doors. Castellano does not claim fraud, mistake or ambiguity.
+  call: "Should the court admit the letters to establish the door specification?"
+  options:
+    A: "Yes, because the parol evidence rule bars evidence of prior oral agreements, not prior written ones."
+    B: "Yes, because the letters were signed by Rourke and therefore satisfy the statute of frauds."
+    C: "No, because the letters would contradict a term of a writing the parties adopted as their final and complete agreement."
+    D: "No, because once parties sign a writing with a merger clause, evidence of their prior agreements is never admissible for any purpose."
+  answer: C
+  explanation_correct: >-
+    When the parties adopt a writing as the final expression of their agreement, evidence of prior
+    agreements, written or oral, and of contemporaneous oral agreements is inadmissible to contradict
+    its terms (R2d §§ 213, 215; R-CTR-049). The signed contract specifies hollow-core birch and contains
+    a merger clause, so it is at least a final, and very likely a complete, integration. The earlier
+    letters directly contradict it and are not offered for any purpose the rule permits (R-CTR-050).
+    Trap: thinking the rule covers only oral side deals.
+  explanation_each_wrong_option:
+    A: >-
+      Confused rule. The parol evidence rule bars evidence of prior agreements, whether written or
+      oral, as well as contemporaneous oral agreements (R-CTR-049).
+    B: >-
+      True but irrelevant. Whether a writing satisfies the statute of frauds has nothing to do with
+      whether it may contradict a later integrated writing.
+    D: >-
+      Right result, wrong reason. Even with a merger clause, extrinsic evidence is admissible to prove
+      fraud, mistake, a condition precedent, or the meaning of an ambiguous term (R-CTR-050).
+  trap_type: confused-rule
+  authority: ["R2d § 213", "R2d § 215"]
+  source: original
+  tags: [wave2, parol-evidence, merger-clause]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CTR-0073
+  subject: CTR
+  coverage_ids: [CTR-MBE-III.A]
+  rule_ids: [R-CTR-051, R-CTR-054, R-CTR-020]
+  difficulty: 3
+  stem: >-
+    Ellery Farms, a peach grower, and Northgate Produce, a fruit wholesaler, signed a writing for the
+    sale of 2,000 crates of peaches at $18 per crate. The writing said nothing about where the peaches
+    would be delivered or when payment was due, and it stated: "This writing is the complete and
+    exclusive statement of the terms of the parties' agreement." In each of their 12 earlier peach
+    contracts over the past six years, Ellery had delivered the fruit to Northgate's warehouse, and
+    Northgate had paid within 30 days after delivery. This year Ellery insisted that Northgate collect
+    the peaches at Ellery's farm and pay on pickup. Northgate refused and, in the resulting lawsuit,
+    offered evidence of the parties' earlier transactions.
+  call: "Should the court admit Northgate's evidence?"
+  options:
+    A: "No, because the merger clause makes the writing the complete and exclusive statement of the parties' terms, so no term may be added to it."
+    B: "Yes, because a course of dealing may supplement even a complete and exclusive writing unless carefully negated."
+    C: "No, because when a writing is silent on delivery and payment, the UCC's gap-filling rules supply those terms."
+    D: "Yes, but only if Northgate first shows that the writing is ambiguous."
+  answer: B
+  explanation_correct: >-
+    Under UCC § 2-202(a) (R-CTR-051), even a writing intended as a final expression may be explained or
+    supplemented by course of dealing, usage of trade and course of performance. The "complete and
+    exclusive" limit in § 2-202(b) applies only to evidence of consistent additional terms; it does
+    not exclude a course of dealing. Comment 2 explains that prior dealings are read into the writing
+    unless carefully negated. Twelve earlier transactions establish a course of dealing on delivery
+    and payment (UCC § 1-303(b); R-CTR-054), and because the writing is silent on those points, the
+    course of dealing contradicts no express term. Trap: treating a merger clause as excluding
+    commercial context.
+  explanation_each_wrong_option:
+    A: >-
+      Overbroad. A complete-integration finding excludes consistent additional terms under § 2-202(b),
+      but § 2-202(a) still admits course of dealing.
+    C: >-
+      The gap fillers apply only "unless otherwise agreed," and the parties' agreement includes their
+      course of dealing (UCC § 1-201(b)(3)). The course of dealing therefore displaces the defaults in
+      §§ 2-308 and 2-310 (R-CTR-020).
+    D: >-
+      No ambiguity is required. A course of dealing may supplement a writing, not merely explain an
+      unclear term.
+  trap_type: overbroad
+  authority: ["UCC § 2-202 and cmt. 2", "UCC § 1-303(b), (e)", "UCC § 1-201(b)(3)"]
+  source: original
+  tags: [wave2, ucc, parol-evidence, course-of-dealing]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CTR-0074
+  subject: CTR
+  coverage_ids: [CTR-MBE-III.B]
+  rule_ids: [R-CTR-053]
+  difficulty: 1
+  stem: >-
+    Rhee hired Benton Remodeling to renovate her kitchen for $60,000, using Benton's printed form
+    contract. Printed clause 14 stated: "Contractor may substitute materials of equal or better quality
+    for any materials specified." In the blank space for special terms, Benton's project manager wrote
+    by hand, at Rhee's request: "Countertops: Calacatta marble as selected by Owner. No substitutions."
+    Both parties signed. Relying on clause 14, Benton installed quartz countertops of equal market
+    value. Rhee sued for breach of contract.
+  call: "Which term governs the countertops?"
+  options:
+    A: "The printed clause, because Rhee signed the form that contained it."
+    B: "The printed clause, because the contract must be read as a whole, and clause 14 applies to all materials."
+    C: "Neither; the conflict makes the contract ambiguous, so it must be construed against Rhee, who requested the handwritten term."
+    D: "The handwritten term, because separately negotiated terms prevail over inconsistent printed form terms."
+  answer: D
+  explanation_correct: >-
+    When terms conflict, separately negotiated or added terms prevail over standardized printed terms,
+    and specific terms prevail over general ones (R2d § 203(c)-(d); R-CTR-053). The handwritten
+    countertop term was negotiated for this job, names a specific material, and expressly forbids
+    substitution, so it controls over the general printed substitution clause. Benton breached by
+    installing quartz. Trap: giving boilerplate equal weight with a negotiated term.
+  explanation_each_wrong_option:
+    A: >-
+      Rhee is bound by the form only to the extent its terms are not displaced by the inconsistent
+      negotiated term, which both parties also signed.
+    B: >-
+      Reading the contract as a whole includes applying the canons that resolve conflicts; under them,
+      the specific handwritten term limits the general printed clause.
+    C: >-
+      Construction against the drafter is a last resort, and Benton, not Rhee, drafted both the form
+      and the handwritten words. The negotiated-terms canon resolves the conflict first.
+  trap_type: wrong-standard
+  authority: ["R2d § 203(c)-(d)", "R2d § 206"]
+  source: original
+  tags: [wave2, interpretation, canons]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CTR-0075
+  subject: CTR
+  coverage_ids: [CTR-MBE-III.B]
+  rule_ids: [R-CTR-054, R-CTR-050]
+  difficulty: 3
+  stem: >-
+    Pine Ridge Mall hired Frost Brothers to remove snow from the mall's parking lots for the winter for
+    $1,200 per plowing, under a written contract requiring Frost to plow "whenever snow accumulates."
+    The contract did not define "accumulates." Snow-removal contractors in the region commonly plow at
+    one inch of snow. During December and January, Frost plowed only when two or more inches had
+    fallen, skipping six lighter snowfalls, and the mall's manager, who inspected the lots daily, paid
+    every invoice without comment. In February, after a 1.5-inch snowfall that Frost did not plow, the
+    mall withheld payment for all of February's plowings, claiming that Frost had breached. Frost sued
+    for the unpaid invoices.
+  call: "Is Frost likely to prevail?"
+  options:
+    A: "Yes, because the parties' course of performance shows that 'accumulates' meant two inches or more."
+    B: "No, because a usage of trade prevails over the parties' course of performance."
+    C: "No, because the parol evidence rule bars evidence of the parties' conduct to interpret a written contract."
+    D: "No, because the mall's manager had no authority to waive the contract's requirements simply by paying Frost's invoices."
+  answer: A
+  explanation_correct: >-
+    Where an agreement involves repeated occasions for performance, and one party knows the nature of
+    the other's performance and has an opportunity to object, a course of performance accepted without
+    objection is given great weight in interpreting the agreement (R2d § 202(4); R-CTR-054). For two
+    months the mall watched Frost plow only at two inches and paid without objection. Where course of
+    performance and usage of trade point different ways, course of performance controls (R2d
+    § 203(b)). "Accumulates" therefore means two inches or more, and Frost did not breach. Trap:
+    reversing the interpretive hierarchy.
+  explanation_each_wrong_option:
+    B: >-
+      Reverses the hierarchy: express terms prevail over course of performance, which prevails over
+      course of dealing, which prevails over usage of trade (R-CTR-054).
+    C: >-
+      The parol evidence rule concerns prior and contemporaneous agreements. It does not exclude the
+      parties' later conduct in performing the contract, and it never bars evidence offered to
+      interpret an ambiguous term (R-CTR-050).
+    D: >-
+      Beside the point. Frost does not rely on waiver; the mall's acceptance of Frost's performance
+      shows what the ambiguous term meant from the start.
+  trap_type: confused-rule
+  authority: ["R2d § 202(4)", "R2d § 203(b)"]
+  source: original
+  tags: [wave2, interpretation, course-of-performance, usage-of-trade]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CTR-0076
+  subject: CTR
+  coverage_ids: [CTR-MBE-III.C]
+  rule_ids: [R-CTR-055, R-CTR-068]
+  difficulty: 1
+  stem: >-
+    On May 1, Ashworth signed a contract with Delgado Painting to paint the exterior of Ashworth's house
+    for $8,500. The contract said nothing about when the work would start or be finished. On May 3,
+    Ashworth told Delgado that relatives were visiting on May 10 and demanded that the job be finished
+    by May 8. Delgado replied that it could start on May 20 and would finish by June 3. Painting a
+    house of that size takes about two weeks, and painters in the area commonly schedule exterior jobs
+    three to four weeks after signing. Ashworth hired another painter and notified Delgado that their
+    contract was terminated. Delgado sued for its lost profit.
+  call: "Is Delgado likely to prevail?"
+  options:
+    A: "No, because a contract that states no time for performance is too indefinite to enforce."
+    B: "Yes, because the court will imply a reasonable time for performance, and Delgado's proposed schedule was within a reasonable time."
+    C: "No, because when a contract states no time for performance, performance is due promptly on the other party's demand."
+    D: "Yes, because a party may never terminate a contract before the other party's performance is due."
+  answer: B
+  explanation_correct: >-
+    When the parties have not agreed on a term essential to their rights, such as the time for
+    performance, the court supplies a term that is reasonable in the circumstances (R2d § 204;
+    R-CTR-055). Given the job's size and local scheduling practice, starting May 20 and finishing June
+    3 was within a reasonable time. Ashworth's unilateral deadline was not a contract term, so his
+    termination was a repudiation (R-CTR-068), and Delgado may recover its lost profit. Trap: letting
+    one party fill a gap with its own preferred term.
+  explanation_each_wrong_option:
+    A: >-
+      An omitted time term does not defeat a contract that the parties intended to be binding; the
+      court supplies a reasonable time (R-CTR-055).
+    C: >-
+      There is no such default for a services contract. The implied term is a reasonable time, and
+      Ashworth's five-day demand did not allow it.
+    D: >-
+      Overbroad. A party may terminate before the other's performance is due if the other has
+      repudiated or committed a material breach; Delgado had done neither.
+  trap_type: wrong-standard
+  authority: ["R2d § 204", "R2d § 250"]
+  source: original
+  tags: [wave2, implied-terms, reasonable-time]
+  status: draft
+  last_verified: 2026-11-04

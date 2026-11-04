@@ -1,0 +1,320 @@
+# Contracts — NCBE category II: Defenses to enforceability (wave 2, original items)
+questions:
+- id: Q-CTR-0065
+  subject: CTR
+  coverage_ids: [CTR-MBE-II.A]
+  rule_ids: [R-CTR-031, R-CTR-022]
+  difficulty: 1
+  stem: >-
+    Harker had been drinking heavily for several hours at a bar and was slurring his words and
+    stumbling when Voss, an acquaintance who had sat beside him all evening, again offered to buy
+    Harker's fishing cabin. Harker had refused Voss's offers in the past. This time Harker signed a
+    one-page writing that Voss had prepared, agreeing to sell the cabin for $60,000; its market value
+    was about $95,000. The next morning, on sobering up and learning what he had signed, Harker
+    immediately told Voss that he would not go through with the sale. Voss sued Harker for damages for
+    breach of contract.
+  call: "Can Harker avoid the contract?"
+  options:
+    A: "No, because Harker became intoxicated voluntarily, and voluntary intoxication is not a defense to enforcement of a contract."
+    B: "Yes, because Voss had reason to know that Harker was too intoxicated to act reasonably, and Harker disaffirmed promptly."
+    C: "No, because Harker signed the writing, so it satisfies the statute of frauds."
+    D: "Yes, because the price Harker agreed to was far below the cabin's market value, and a court will not enforce so unfair a bargain."
+  answer: B
+  explanation_correct: >-
+    Intoxication makes a contract voidable only if the other party has reason to know that, because of
+    it, the person cannot understand in a reasonable manner the nature and consequences of the
+    transaction or cannot act in a reasonable manner in relation to it (R2d § 16; R-CTR-031). Voss sat
+    beside Harker all evening and saw him slurring and stumbling, and Harker agreed to a sale he had
+    always refused. Harker also acted promptly on sobering up, as a party seeking to avoid must. Trap:
+    the belief that self-induced intoxication is never a defense.
+  explanation_each_wrong_option:
+    A: >-
+      Overbroad. Voluntary intoxication is a defense when the other party has reason to know of the
+      resulting incapacity (R2d § 16).
+    C: >-
+      True but irrelevant. The statute of frauds concerns whether a writing is needed; satisfying it
+      does not cure a capacity defense.
+    D: >-
+      Courts do not avoid contracts for inadequate price alone (R-CTR-022). The low price is evidence
+      that Harker could not act reasonably, but the defense rests on Voss's reason to know of his
+      intoxication.
+  trap_type: overbroad
+  authority: ["R2d § 16"]
+  source: original
+  tags: [wave2, capacity, intoxication]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CTR-0066
+  subject: CTR
+  coverage_ids: [CTR-MBE-II.B]
+  rule_ids: [R-CTR-032, R-CTR-105]
+  difficulty: 3
+  stem: >-
+    Ramsey wanted Tillman's vacant lakeside lot. He cornered Tillman in a parking garage and said,
+    "Sign this contract selling me your lot for $20,000, or I'll break both your arms." Terrified,
+    Tillman signed. The price was close to the lot's fair market value. Ramsey paid the $20,000, and
+    Tillman delivered a deed. The following week, Ramsey moved to another state and never contacted
+    Tillman again. Over the next ten months, Tillman spent the $20,000 and told friends that the sale
+    had "turned out fine." When lakeside land values then rose sharply, Tillman sued to rescind the sale
+    and recover the lot, offering to repay the $20,000.
+  call: "Is Tillman likely to succeed?"
+  options:
+    A: "Yes, because a contract induced by a threat of physical violence is void."
+    B: "Yes, because Tillman's assent was induced by an improper threat of bodily harm that left him no reasonable alternative but to sign."
+    C: "No, because Ramsey paid a fair price for the lot."
+    D: "No, because Tillman affirmed the contract by keeping and spending the price for months after the threat had ended."
+  answer: D
+  explanation_correct: >-
+    A threat of bodily harm is an improper threat, and Tillman had no reasonable alternative, so the
+    contract was voidable for duress (R2d § 175; R-CTR-032). But the power of avoidance is lost if, after the duress ends, the victim manifests an intent to affirm, including by keeping and using what he received, or fails to avoid within a reasonable time (R2d §§ 380, 381; R-CTR-032, R-CTR-105). Ramsey left the following week,
+    ending the pressure. Tillman then kept and spent the price for ten months, described the sale as
+    having turned out fine, and sued only when land values rose. That is affirmation of the contract.
+    Trap: stopping once the elements of duress are met.
+  explanation_each_wrong_option:
+    A: >-
+      Confuses the two forms of duress. Physical compulsion (for example, forcibly guiding a hand to
+      sign) means there is no contract at all (R2d § 174). A threat that induces assent makes the
+      contract voidable, and a voidable contract can be ratified.
+    B: >-
+      The elements of duress are met, but this option ignores Tillman's later ratification, which
+      ended his power to avoid the contract.
+    C: >-
+      A fair price does not cure duress; the defense attacks the assent, not the terms. Tillman loses
+      because he ratified, not because the price was fair.
+  trap_type: missing-element
+  authority: ["R2d § 174", "R2d § 175", "R2d § 176(1)(a)", "R2d \u00a7\u00a7 380, 381"]
+  source: original
+  tags: [wave2, duress, ratification]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CTR-0067
+  subject: CTR
+  coverage_ids: [CTR-MBE-II.B]
+  rule_ids: [R-CTR-033, R-CTR-031]
+  difficulty: 1
+  stem: >-
+    Edwina, 84, lived alone and for five years had depended on Colby, her paid live-in caregiver, for
+    her meals, medications, transportation and bills. At Colby's urging, she had stopped seeing her
+    relatives. One night at 11 p.m., Colby told Edwina that the house was "too much" for her, that she
+    would "end up in a nursing home" unless she acted that night, and handed her a contract to sell the
+    house to Colby for $150,000. The house was worth about $420,000. When Edwina said she might call
+    her lawyer, Colby told her there was no time. Edwina signed. She was mentally competent and
+    understood that she was selling her house. A week later, after consulting a lawyer, she sought to
+    rescind the contract.
+  call: "Is Edwina likely to succeed?"
+  options:
+    A: "Yes, because Colby unfairly persuaded a dependent person who trusted him to protect her interests."
+    B: "No, because Edwina was mentally competent and understood that she was selling her house and at what price."
+    C: "No, because Colby neither threatened Edwina nor made any false statement of fact to induce her to sign."
+    D: "Yes, because the price was far below the value of the house."
+  answer: A
+  explanation_correct: >-
+    Undue influence is unfair persuasion of a party who is under the persuader's domination or who,
+    because of a relationship of trust, is justified in assuming the persuader will not act against
+    her welfare; a contract so induced is voidable (R2d § 177; R-CTR-033). Edwina depended on Colby
+    for her daily needs and had been isolated from her family. The classic signs of unfair persuasion
+    are present: a late-night discussion, insistence on an immediate decision, discouraging independent
+    advice, and exaggerated warnings about the consequences of delay. Trap: confusing undue influence
+    with incapacity, duress or fraud.
+  explanation_each_wrong_option:
+    B: >-
+      Incapacity is a separate defense (R-CTR-031). Undue influence protects competent persons whose
+      free judgment was overcome by a trusted or dominant party.
+    C: >-
+      Undue influence needs neither a threat (duress) nor a false statement (fraud); unfair persuasion
+      within a relationship of dependence or trust is enough.
+    D: >-
+      Right result, wrong reason. An inadequate price alone is not a defense (R-CTR-022), though here
+      it is evidence that the persuasion was unfair.
+  trap_type: confused-rule
+  authority: ["R2d § 177"]
+  source: original
+  tags: [wave2, undue-influence]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CTR-0068
+  subject: CTR
+  coverage_ids: [CTR-MBE-II.C]
+  rule_ids: [R-CTR-036, R-CTR-053, R-CTR-034]
+  difficulty: 3
+  stem: >-
+    Nguyen owned two vacant lots on Ridge Road: a 2-acre lot, on which he had posted a sign reading
+    "For Sale — $90,000," and an adjoining 5-acre lot worth about $200,000, which he had never offered
+    for sale. Rafferty saw the sign and knew which lot it stood on. Hoping to acquire the larger lot,
+    Rafferty told Nguyen only that he wanted to buy "your Ridge Road lot" for $90,000. Nguyen's real
+    estate agent prepared, and both parties signed, a contract for the sale of "Seller's lot on Ridge
+    Road" for $90,000. Nguyen did not know that Rafferty had the 5-acre lot in mind. Rafferty now
+    demands a deed to the 5-acre lot.
+  call: "What is the most likely result?"
+  options:
+    A: "There is no contract, because the parties attached materially different meanings to a material term."
+    B: "There is a contract for the 5-acre lot, because an ambiguous term is construed against the party whose agent drafted the contract."
+    C: "There is a contract for the 2-acre lot, because Rafferty knew the meaning Nguyen attached to the term and Nguyen had no reason to know Rafferty's."
+    D: "The contract is voidable by either party because of mutual mistake."
+  answer: C
+  explanation_correct: >-
+    When the parties attach different meanings to a term, the contract is enforced according to the
+    meaning of a party who did not know of the other's different meaning, if the other party knew or
+    had reason to know the first party's meaning (R2d §§ 20(2), 201(2); R-CTR-036). Rafferty saw the
+    sign and knew that Nguyen was selling the 2-acre lot; Nguyen had no reason to suspect that Rafferty
+    meant the larger lot. The contract is enforceable on Nguyen's meaning: the 2-acre lot for $90,000.
+    Trap: assuming every misunderstanding prevents formation.
+  explanation_each_wrong_option:
+    A: >-
+      Overbroad. Different meanings prevent formation only when the parties are equally situated: neither
+      knows or has reason to know the other's meaning, or each does (R2d § 20(1); R-CTR-036). Here
+      Rafferty knew Nguyen's meaning and Nguyen had no reason to know Rafferty's, so § 20(2) enforces
+      Nguyen's meaning.
+    B: >-
+      Construction against the drafter is a last resort (R2d § 206; R-CTR-053). It does not apply where
+      the knowledge rule of § 20 resolves the conflict, and it would never reward a party who knew what
+      the other meant.
+    D: >-
+      Mutual mistake requires a shared mistaken belief about a basic assumption (R-CTR-034). Here the
+      parties did not share a mistake; one of them knew exactly what the other meant.
+  trap_type: overbroad
+  authority: ["R2d § 20(2)", "R2d § 201(2)", "R2d \u00a7 20(1)"]
+  source: original
+  tags: [wave2, misunderstanding, interpretation]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CTR-0069
+  subject: CTR
+  coverage_ids: [CTR-MBE-II.D]
+  rule_ids: [R-CTR-038, R-CTR-037, R-CTR-050]
+  difficulty: 2
+  stem: >-
+    Before showing his house to prospective buyers, Kendall laid new carpet over a section of subfloor
+    that he knew was badly rotted from a long-running plumbing leak, and he placed heavy furniture over
+    two sagging spots. Pryor toured the house, asked no questions about the floors, and signed a
+    contract to buy it for $350,000. The contract stated that the house was sold "as is" and that the
+    writing "contains the entire agreement of the parties." Before closing, Pryor's contractor
+    discovered the rot, which will cost $40,000 to repair. Pryor refused to close, and Kendall sued for
+    breach of contract.
+  call: "Is Kendall likely to prevail?"
+  options:
+    A: "Yes, because Pryor asked no questions about the floors, and Kendall made no statement about them that was false."
+    B: "No, because hiding the rot was equivalent to asserting it did not exist, and 'as is' does not protect fraud."
+    C: "Yes, because Pryor agreed in a signed writing to buy the house 'as is,' and the writing contained a merger clause."
+    D: "No, because the seller of a house must disclose to the buyer every material defect that the seller knows about."
+  answer: B
+  explanation_correct: >-
+    Action intended or known to be likely to prevent another from learning a fact is equivalent to an
+    assertion that the fact does not exist (R2d § 160; R-CTR-038). By hiding the rot under new carpet
+    and furniture, Kendall in effect represented that the floor was sound. That knowing, material
+    misrepresentation induced Pryor's assent, so the contract is voidable for fraud (R-CTR-037). An
+    "as is" clause allocates the risk of unknown defects but does not protect a seller who deliberately
+    hid a known one, and a merger clause does not bar proof of fraud (R-CTR-050). Trap: treating the
+    case as mere silence.
+  explanation_each_wrong_option:
+    A: >-
+      True but irrelevant. Kendall made no statement, but active concealment counts as an assertion
+      even without words.
+    C: >-
+      Neither clause helps Kendall. An "as is" clause does not protect a seller against his own
+      fraudulent concealment, and a merger clause does not bar proof of fraud (R-CTR-050).
+    D: >-
+      Overbroad. Many jurisdictions now require a home seller to disclose known latent defects, but no
+      general rule requires disclosure of "every" known defect (an obvious one, for example), and
+      under R2d § 161 mere nondisclosure is a misrepresentation only in limited situations. Pryor's
+      strongest ground is active concealment, which is treated as an assertion everywhere.
+  trap_type: true-but-irrelevant
+  authority: ["R2d § 160", "R2d § 161", "R2d § 164"]
+  source: original
+  tags: [wave2, misrepresentation, concealment, as-is]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CTR-0070
+  subject: CTR
+  coverage_ids: [CTR-MBE-II.E]
+  rule_ids: [R-CTR-040, R-CTR-022]
+  difficulty: 1
+  stem: >-
+    Halvorsen, who owns a chain of six restaurants, signed a three-year contract with Brightmark
+    Marketing under which Brightmark would manage the chain's social media accounts for $9,000 a month.
+    Before signing, Halvorsen obtained proposals from two other firms offering similar services for
+    about $5,000 a month, had his attorney review Brightmark's contract, and negotiated changes to
+    several of its terms. He chose Brightmark because of its reputation. A year later, Halvorsen
+    decided the price was too high and stopped paying, asserting that the contract was unconscionable.
+    Brightmark sued for breach of contract.
+  call: "Is Halvorsen's unconscionability defense likely to succeed?"
+  options:
+    A: "Yes, because the price was nearly double what other firms charged for comparable services."
+    B: "Yes, because a court may refuse to enforce a contract that has become unfair to one of the parties during its performance."
+    C: "No, because the defense of unconscionability is available only to consumers."
+    D: "No, because Halvorsen bargained with the advice of counsel and had real alternatives, and a high price alone is not unconscionable."
+  answer: D
+  explanation_correct: >-
+    Most courts require both procedural unconscionability (oppression or surprise in the bargaining
+    process) and substantive unconscionability (unreasonably one-sided terms), judged as of the time
+    the contract was made (R2d § 208; R-CTR-040). Halvorsen, an experienced business owner, compared
+    competing offers, had counsel review the contract, and negotiated its terms, so there was no
+    procedural unfairness. Paying more than competitors charge is at most a bad bargain, and courts do
+    not police the adequacy of consideration (R-CTR-022). Trap: equating a bad deal with an
+    unconscionable one.
+  explanation_each_wrong_option:
+    A: >-
+      Missing element. Substantive unfairness without a procedural defect is ordinarily not enough, and
+      a high price knowingly chosen is not unconscionable.
+    B: >-
+      Wrong standard. Unconscionability is measured when the contract is made, not by how the bargain
+      looks later.
+    C: >-
+      Overbroad. Commercial parties rarely succeed, but the defense is not limited to consumers; UCC
+      § 2-302 and R2d § 208 apply to any contract.
+  trap_type: missing-element
+  authority: ["R2d § 208", "UCC § 2-302"]
+  source: original
+  tags: [wave2, unconscionability]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CTR-0071
+  subject: CTR
+  coverage_ids: [CTR-MBE-II.F]
+  rule_ids: [R-CTR-047, R-CTR-002]
+  difficulty: 1
+  stem: >-
+    Pemberton Brewing, a craft brewery, telephoned Lakeshore Glassworks, a glassware manufacturer, and
+    orally ordered 4,000 pint glasses etched with Pemberton's logo and the words "Pemberton Brewing —
+    Est. 2019," at $6 each, for delivery in eight weeks. Nothing was put in writing. Lakeshore bought
+    plain glass blanks and etched 2,500 of the glasses. Pemberton then telephoned Lakeshore to cancel
+    the order. Glasses bearing Pemberton's logo cannot be sold to anyone else in the ordinary course of
+    Lakeshore's business. Lakeshore sued Pemberton for breach of contract, and Pemberton asserted the
+    statute of frauds.
+  call: "Is the statute of frauds a good defense?"
+  options:
+    A: "No, because the glasses were specially made for Pemberton and unsuitable for others, and Lakeshore substantially began them before notice of repudiation."
+    B: "Yes, because the contract was for goods priced at $500 or more, and Pemberton signed no writing."
+    C: "No, because Lakeshore, as a merchant dealing with another merchant, could have sent Pemberton a written confirmation of the order."
+    D: "Yes, because the specially manufactured goods exception applies only if the buyer has paid part of the price."
+  answer: A
+  explanation_correct: >-
+    A contract for the sale of goods for $500 or more ($24,000 here) ordinarily needs a writing signed
+    by the party against whom enforcement is sought (UCC § 2-201(1); R-CTR-047). No writing is needed,
+    however, where the goods are to be specially manufactured for the buyer, are not suitable for sale
+    to others in the ordinary course of the seller's business, and the seller, before receiving notice
+    of repudiation, has made a substantial beginning on their manufacture or commitments to procure
+    them (§ 2-201(3)(a)). Lakeshore bought the blanks and etched 2,500 logo glasses before Pemberton
+    cancelled. Trap: stopping at the $500 rule.
+  explanation_each_wrong_option:
+    B: >-
+      States the general rule but ignores the § 2-201(3)(a) exception, which these facts satisfy.
+    C: >-
+      The merchant's-confirmation rule (§ 2-201(2)) helps only when a confirmation is actually sent,
+      and Lakeshore sent none. Its claim survives because of the specially manufactured goods
+      exception.
+    D: >-
+      No such requirement exists. Payment and acceptance is a separate exception (§ 2-201(3)(c)); the
+      specially manufactured goods exception does not depend on any payment.
+  trap_type: exception-trap
+  authority: ["UCC § 2-201(1)", "UCC § 2-201(3)(a)"]
+  source: original
+  tags: [wave2, ucc, statute-of-frauds, specially-manufactured-goods]
+  status: draft
+  last_verified: 2026-11-04

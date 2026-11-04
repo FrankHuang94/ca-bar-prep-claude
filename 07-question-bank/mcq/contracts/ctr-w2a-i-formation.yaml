@@ -1,0 +1,636 @@
+# Contracts — NCBE category I: Formation of contracts (wave 2, original items)
+questions:
+- id: Q-CTR-0051
+  subject: CTR
+  coverage_ids: [CTR-MBE-I.A]
+  rule_ids: [R-CTR-009, R-CTR-007, R-CTR-002]
+  difficulty: 3
+  stem: >-
+    On January 10, Corwin Steel Supply, a distributor of structural steel, sent Ridgeway Builders, a
+    general contractor, a letter signed by Corwin's sales manager offering to sell "120 tons of A36
+    steel beams at $940 per ton" and stating, "This offer will remain open until July 31." Ridgeway paid
+    nothing for this assurance and did not rely on the offer in any way. On May 1, after steel prices
+    had risen sharply, Ridgeway received a letter from Corwin stating that the offer was withdrawn. On
+    May 5, Ridgeway sent Corwin a signed letter accepting the offer. Corwin refuses to deliver the
+    beams, and Ridgeway sues for breach of contract.
+  call: "Is Ridgeway likely to prevail?"
+  options:
+    A: "Yes, because Corwin, a merchant, gave assurance in a signed writing that its offer would remain open until July 31, and Ridgeway accepted before that date."
+    B: "Yes, because a merchant's firm offer is irrevocable for the period it states, and the three-month limit applies only when no period is stated."
+    C: "No, because Ridgeway gave no consideration, so Corwin's assurance that the offer would remain open never bound Corwin."
+    D: "No, because Corwin's offer was irrevocable without consideration for only three months, and Corwin revoked it after that period ended and before Ridgeway accepted."
+  answer: D
+  explanation_correct: >-
+    Under UCC § 2-205 (R-CTR-009), a merchant's signed written offer to buy or sell goods that gives
+    assurance it will be held open is irrevocable without consideration for the time stated, but "in
+    no event" for more than three months. Corwin, a steel distributor, is a merchant (R-CTR-002), and
+    its offer of January 10 was irrevocable only until about April 10. After that it was an ordinary
+    offer, revocable at will, and a revocation is effective when the offeree receives it (R-CTR-007;
+    R2d § 42). Corwin's revocation reached Ridgeway on May 1, before the May 5 acceptance, so no
+    contract was formed. Ridgeway paid nothing (no option) and did not rely (no § 87(2) protection).
+    Trap: reading § 2-205 as enforcing whatever period the merchant states.
+  explanation_each_wrong_option:
+    A: >-
+      Overbroad. The signed assurance made the offer irrevocable without consideration only for its first
+      three months. Beyond that, irrevocability requires consideration for an option (R-CTR-008) or
+      reliance protected by R2d § 87(2), and Ridgeway had neither.
+    B: >-
+      Misstates § 2-205. The three-month ceiling applies whether or not the offer states a period; a
+      stated period controls only if it is shorter than three months.
+    C: >-
+      Right result, wrong reason. Under § 2-205 Corwin's assurance did bind it without consideration,
+      but only until about April 10. A revocation sent in February would have been ineffective.
+  trap_type: overbroad
+  authority: ["UCC § 2-205", "UCC § 2-104(1)", "R2d § 42"]
+  source: original
+  tags: [wave2, ucc, firm-offer, revocation]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CTR-0052
+  subject: CTR
+  coverage_ids: [CTR-MBE-I.A]
+  rule_ids: [R-CTR-013, R-CTR-002]
+  difficulty: 2
+  stem: >-
+    Priya, a high-school chemistry teacher, wanted a kiln for her pottery hobby. She mailed to Atlas
+    Kilns, a company that manufactures and sells kilns, a signed order form for one Model K-9 kiln at
+    Atlas's catalog price of $3,200, for delivery to her home. Her order said nothing about how disputes
+    would be resolved. Atlas mailed back a signed acknowledgment stating, "We accept your order for one
+    Model K-9 kiln at $3,200," and adding, among its printed terms: "Any dispute arising from this sale
+    shall be resolved exclusively by binding arbitration." Priya read the acknowledgment but did not
+    respond to it. Atlas delivered the kiln, and Priya paid for it. When the kiln failed, Priya sued
+    Atlas in court, and Atlas moved to compel arbitration.
+  call: "Is the arbitration clause part of the parties' contract?"
+  options:
+    A: "No, because Priya is not a merchant, so the clause was only a proposal for an addition to the contract, and she never agreed to it."
+    B: "Yes, because Priya did not object to the clause within a reasonable time after receiving Atlas's acknowledgment."
+    C: "Yes, because Atlas's acknowledgment added a new term and so was a counteroffer, which Priya accepted by taking delivery of the kiln and paying for it."
+    D: "No, because an arbitration clause always materially alters a contract for the sale of goods."
+  answer: A
+  explanation_correct: >-
+    UCC § 2-207 governs this sale of goods. Atlas's acknowledgment was a definite and seasonable
+    expression of acceptance and was not expressly conditional on Priya's assent to new terms, so a
+    contract formed on the terms of Priya's order (R-CTR-013). The arbitration clause is an additional
+    term. Under § 2-207(2), additional terms become part of the contract without express assent only
+    "between merchants." Priya, a teacher buying for a hobby, is not a merchant (R-CTR-002), so the
+    clause was a mere proposal. She never expressly agreed to it; receiving and paying for the kiln
+    performed the contract already formed. Trap: applying the between-merchants rule because one
+    party is a merchant.
+  explanation_each_wrong_option:
+    B: >-
+      That silence rule (§ 2-207(2)(c)) applies only between merchants. For a non-merchant, the
+      proposal fails unless she agrees to it.
+    C: >-
+      Common-law mirror-image and last-shot reasoning. Under § 2-207(1) the acknowledgment was an
+      acceptance, so taking and paying for the kiln performed an existing contract; it was not
+      acceptance of a counteroffer.
+    D: >-
+      Overbroad and beside the point. Courts split on whether an arbitration clause is a material
+      alteration, and the material-alteration test matters only between merchants.
+  trap_type: confused-rule
+  authority: ["UCC § 2-207(1)-(2)", "UCC § 2-104(1)"]
+  source: original
+  tags: [wave2, ucc, battle-of-forms, non-merchant]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CTR-0053
+  subject: CTR
+  coverage_ids: [CTR-MBE-I.A]
+  rule_ids: [R-CTR-014, R-CTR-013, R-CTR-058]
+  difficulty: 3
+  stem: >-
+    Brightwater Bottling, a beverage company, sent Kessling Plastics, a manufacturer of plastic
+    bottles, a purchase order for 200,000 one-liter bottles at $0.08 each. The order said nothing about
+    warranties. Kessling replied with its acknowledgment form, which repeated the quantity and price
+    and stated in bold type: "Seller's acceptance is expressly conditional on Buyer's assent to all of
+    the terms on this form." One of those terms, conspicuously printed, read: "Seller makes no implied
+    warranties, including any warranty of merchantability." Brightwater's purchasing agent filed the
+    acknowledgment without signing or answering it. Kessling shipped the bottles, and Brightwater
+    accepted and paid for them. Many of the bottles cracked under normal filling pressure, and
+    Brightwater sued Kessling for breach of the implied warranty of merchantability.
+  call: "Which of the following best describes the parties' contract?"
+  options:
+    A: "It includes Kessling's disclaimer, because Brightwater did not object to it within a reasonable time after receiving the acknowledgment."
+    B: "It was formed by conduct; its terms are those on which the writings agree plus the UCC's gap fillers, including the warranty of merchantability."
+    C: "It includes Kessling's disclaimer, because Kessling's acknowledgment was a counteroffer, and Brightwater accepted that counteroffer by accepting and paying for the bottles without objecting."
+    D: "There is no contract, because Kessling's acceptance was conditional on an assent Brightwater never gave, so Brightwater can recover only in restitution."
+  answer: B
+  explanation_correct: >-
+    Because Kessling's acknowledgment was expressly conditional on Brightwater's assent to its terms,
+    it was not an acceptance under § 2-207(1), and the exchanged writings formed no contract
+    (R-CTR-013). But both parties then acted as though a contract existed: Kessling shipped, and
+    Brightwater accepted and paid. Under § 2-207(3) (R-CTR-014), conduct by both parties recognizing a
+    contract establishes one, consisting of the terms on which the writings agree plus the Code's
+    supplementary terms. The disclaimer appears only in Kessling's form, so it is not a term. Kessling,
+    a merchant in bottles, gives the implied warranty of merchantability as a gap filler (§ 2-314;
+    R-CTR-058). Trap: the common-law last-shot rule, which § 2-207(3) displaces.
+  explanation_each_wrong_option:
+    A: >-
+      Silence matters under § 2-207(2)(c) only when the writings themselves formed a contract between
+      merchants. Here they did not, so subsection (2) never applies; and a merchantability disclaimer
+      would be a material alteration anyway.
+    C: >-
+      Last-shot reasoning. Under § 2-207(3), accepting and paying for goods does not adopt the seller's
+      form; the contract consists only of the agreed terms plus gap fillers.
+    D: >-
+      Ignores § 2-207(3). The writings formed no contract, but the parties' conduct did, so Brightwater
+      has a contract claim, not merely restitution.
+  trap_type: confused-rule
+  authority: ["UCC § 2-207(1), (3)", "UCC § 2-314"]
+  source: original
+  tags: [wave2, ucc, battle-of-forms, contract-by-conduct]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CTR-0054
+  subject: CTR
+  coverage_ids: [CTR-MBE-I.A]
+  rule_ids: [R-CTR-008, R-CTR-015]
+  difficulty: 3
+  stem: >-
+    On April 1, in exchange for $500 that Fenwick paid him, Marlow signed a writing giving Fenwick "the
+    option to purchase my lakefront lot at 9 Shore Road for $180,000, exercisable by written notice to
+    me on or before April 30." The writing said nothing else about how or when notice would take
+    effect. On April 28, Fenwick mailed Marlow a properly addressed and stamped letter exercising the
+    option. The letter was delayed in the mail and reached Marlow on May 2. Marlow, who had meanwhile
+    received a better offer, refused to sell, and Fenwick sued for specific performance.
+  call: "Is Fenwick likely to prevail?"
+  options:
+    A: "Yes, because Fenwick's acceptance took effect when he mailed it on April 28."
+    B: "Yes, because Fenwick paid $500 for the option, so Marlow had no power to withdraw from the deal at any time during the option period."
+    C: "No, because Marlow was free to revoke the option at any time before he received Fenwick's acceptance."
+    D: "No, because an acceptance under an option is effective only on receipt, and Fenwick's arrived after April 30."
+  answer: D
+  explanation_correct: >-
+    Fenwick paid $500 for Marlow's promise to keep the offer open, so the parties had an option
+    contract (R-CTR-008). The dispatch (mailbox) rule does not apply to options: an acceptance under an
+    option contract is operative only when the offeror receives it (R2d § 63(b); R-CTR-015). The
+    offeree already has protection against revocation, so there is no reason to shift the risk of
+    delay to the offeror. Fenwick's notice arrived on May 2, after the April 30 deadline, so the option
+    lapsed unexercised and no contract of sale was formed. Trap: applying the ordinary dispatch rule to
+    an option.
+  explanation_each_wrong_option:
+    A: >-
+      States the mailbox rule for ordinary offers. For an option, acceptance takes effect on receipt,
+      and receipt came too late.
+    B: >-
+      True that Marlow could not revoke during the option period, but irrelevant. The question is
+      whether Fenwick exercised the option in time, and he did not.
+    C: >-
+      Right result, wrong reason. Because Fenwick paid for it, the option was irrevocable until April
+      30. Marlow wins only because the acceptance arrived late.
+  trap_type: confused-rule
+  authority: ["R2d § 25", "R2d § 63(b)", "R2d § 87(1)"]
+  source: original
+  tags: [wave2, option-contract, mailbox-rule]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CTR-0055
+  subject: CTR
+  coverage_ids: [CTR-MBE-I.A]
+  rule_ids: [R-CTR-017, R-CTR-012]
+  difficulty: 2
+  stem: >-
+    For each of the past four years, Hargrove Lawn Care has mailed Pell, a homeowner, a signed letter
+    in March proposing to aerate and reseed her lawn in April for a stated price and stating, "Unless
+    you tell us by March 31 that you do not want this service, we will schedule it." Each year Pell
+    said nothing, Hargrove did the work, and Pell paid the invoice. This year Hargrove's March letter
+    proposed the same service for $450. Pell read the letter, decided she wanted the service, and did
+    not respond. On April 5, before Hargrove had scheduled the work, Pell found a cheaper company and
+    told Hargrove that she did not want the service. Hargrove sued Pell for its lost profit.
+  call: "Was a contract formed between Hargrove and Pell?"
+  options:
+    A: "No, because an offeree's silence cannot operate as an acceptance."
+    B: "No, because Pell told Hargrove that she did not want the service before Hargrove had scheduled or begun any of the work."
+    C: "Yes, because Pell meant to accept by her silence, and the parties' prior dealings made it reasonable for her to give notice if she declined."
+    D: "Yes, but only if Hargrove relied on Pell's silence by reserving time on its schedule and turning away other customers for that time."
+  answer: C
+  explanation_correct: >-
+    Silence is ordinarily not acceptance. It operates as acceptance, however, where the offeror has
+    said that silence will suffice and the offeree, by remaining silent, intends to accept, or where
+    previous dealings make it reasonable for the offeree to give notice if it does not accept (R2d
+    § 69(1)(b)-(c); R-CTR-017). Both exceptions apply: Hargrove's letter invited silence, Pell intended
+    to accept, and four years of identical dealings made notice of rejection expected. A contract was
+    formed when the March 31 deadline passed, so Pell's April 5 statement was a repudiation, not a
+    rejection. Trap: treating "silence is not acceptance" as absolute.
+  explanation_each_wrong_option:
+    A: >-
+      Overbroad. The general rule has recognized exceptions, and two of them fit these facts
+      (R-CTR-017).
+    B: >-
+      The contract was formed on March 31. An acceptance, once effective, cannot be withdrawn, so
+      Pell's April 5 statement was a repudiation, whatever Hargrove had or had not begun.
+    D: >-
+      Adds an element. Under § 69(1)(b) and (c), silence operates as acceptance without any showing
+      that the offeror relied on it.
+  trap_type: overbroad
+  authority: ["R2d § 69(1)(b)-(c)"]
+  source: original
+  tags: [wave2, acceptance, silence]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CTR-0056
+  subject: CTR
+  coverage_ids: [CTR-MBE-I.A]
+  rule_ids: [R-CTR-006, R-CTR-007]
+  difficulty: 1
+  stem: >-
+    On June 1, Sato handed Ibarra a signed letter offering to sell Sato's warehouse at 40 Dock Street
+    for $600,000 and stating, "You have until June 15 to accept." On June 4, Ibarra telephoned Sato and
+    asked, "Is there any chance you'd take $550,000?" Sato answered, "No, the price is firm." On June 6,
+    Sato received a written offer of $650,000 from another buyer; Ibarra did not learn of it. On June 8,
+    Ibarra delivered to Sato a signed letter accepting Sato's offer at $600,000. Sato refuses to sell,
+    and Ibarra sues for breach of contract.
+  call: "Is Ibarra likely to prevail?"
+  options:
+    A: "Yes, because Ibarra's question about a lower price was a mere inquiry, which did not end his power to accept Sato's offer at $600,000."
+    B: "No, because by proposing a price of $550,000, Ibarra made a counteroffer, which terminated his power to accept Sato's original offer."
+    C: "No, because Sato's receipt of a higher offer from another buyer terminated Ibarra's power of acceptance."
+    D: "Yes, because Sato promised to keep the offer open until June 15."
+  answer: A
+  explanation_correct: >-
+    A counteroffer terminates the offeree's power of acceptance, but a mere inquiry about whether the
+    offeror would consider different terms does not (R2d § 39; R-CTR-006). Ibarra only asked whether
+    there was "any chance" Sato would take less; he did not propose a bargain of his own or reject
+    Sato's terms. Sato never revoked the offer, so Ibarra's June 8 acceptance, within the stated time,
+    formed a contract. Sato's signed letter satisfies the statute of frauds against Sato. Trap:
+    treating any mention of a different price as a counteroffer.
+  explanation_each_wrong_option:
+    B: >-
+      Mislabels the inquiry. Asking whether the offeror would take less, without committing to a new
+      bargain, is not a counteroffer (R-CTR-006).
+    C: >-
+      An offer is revoked only when the offeree receives notice of revocation, directly or through
+      reliable information that the offeror has acted inconsistently with the offer (R-CTR-007).
+      Ibarra learned nothing, and receiving another offer is not inconsistent action in any event.
+    D: >-
+      Right result, wrong reason. Sato gave no option, so his promise to hold the offer open did not
+      bind him; the contract exists because Sato never revoked before Ibarra accepted.
+  trap_type: right-result-wrong-reason
+  authority: ["R2d § 39", "R2d § 42", "R2d § 43"]
+  source: original
+  tags: [wave2, counteroffer, inquiry, termination-of-offer]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CTR-0057
+  subject: CTR
+  coverage_ids: [CTR-MBE-I.B]
+  rule_ids: [R-CTR-019, R-CTR-003]
+  difficulty: 2
+  stem: >-
+    Delgado leased a storefront from Whitman under a signed five-year lease. The lease gave Delgado an
+    option to renew for five more years "at a monthly rent equal to the fair market rent then
+    prevailing for comparable retail space in the Old Town shopping district." Near the end of the
+    term, Delgado gave timely written notice that she was exercising the option. Whitman refused to
+    renew, contending that the renewal clause was unenforceable because it did not state the rent. Both
+    parties have retained qualified appraisers, whose opinions of the market rent for comparable space
+    differ by about 8%.
+  call: "Is the renewal clause enforceable?"
+  options:
+    A: "No, because a term that leaves rent to be determined in the future is an unenforceable agreement to agree."
+    B: "Yes, because the clause fixes an objective standard by which a court can determine the rent with reasonable certainty."
+    C: "Yes, because whenever parties leave the price open, the law supplies a reasonable price at the time for performance."
+    D: "No, because the appraisers' disagreement about the market rent shows that the parties never reached a meeting of the minds on the rent."
+  answer: B
+  explanation_correct: >-
+    A contract must be reasonably certain: certain enough to tell whether a breach occurred and to
+    fashion a remedy (R2d § 33; R-CTR-019). A promise to agree on rent later, with no standard, is
+    traditionally too indefinite. But a term that ties rent to an external, objective standard is not
+    an agreement to agree. A court can find the fair market rent for comparable space from evidence,
+    as it does in many valuation disputes. The parties fixed the method; they did not leave the rent to
+    future negotiation. Trap: lumping every future-determined price together with "rent to be agreed."
+  explanation_each_wrong_option:
+    A: >-
+      Overbroad. That is the rule for a term left to future agreement without any standard
+      (R-CTR-019). Here the clause supplies the standard.
+    C: >-
+      Right result, wrong reason. The reasonable-price gap filler is UCC § 2-305, which governs sales of
+      goods, not leases of land. The clause is enforceable because the parties themselves supplied an
+      objective standard.
+    D: >-
+      Assent is judged objectively from the words used (R-CTR-003). A dispute about applying an agreed
+      standard is a factual question for the court, not proof that no agreement was reached.
+  trap_type: overbroad
+  authority: ["R2d § 33", "R2d § 204"]
+  source: original
+  tags: [wave2, indefiniteness, agreement-to-agree]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CTR-0058
+  subject: CTR
+  coverage_ids: [CTR-MBE-I.B]
+  rule_ids: [R-CTR-020, R-CTR-019, R-CTR-054]
+  difficulty: 1
+  stem: >-
+    Hollister Hardware, a retail store, and Granite Ladder Co., a ladder manufacturer, signed a writing
+    in which Granite agreed to sell and Hollister agreed to buy "300 aluminum stepladders, model GL-6,
+    at $42 each." The writing said nothing about where or when the ladders would be delivered or when
+    payment was due, and the parties had never dealt with each other before. Granite's only place of
+    business is its factory in another city. Two weeks later, Granite notified Hollister that the
+    ladders were boxed and ready at the factory. Hollister insisted that Granite ship them to
+    Hollister's store and said it would pay 60 days after delivery, as it does with its other
+    suppliers.
+  call: "Under the UCC, what are the parties' obligations?"
+  options:
+    A: "Granite must deliver the ladders to Hollister's store, and Hollister must pay within a reasonable time after delivery."
+    B: "There are none, because the contract fails for indefiniteness without agreed delivery and payment terms."
+    C: "Hollister must take delivery at Granite's factory and may pay 60 days later, because that is Hollister's practice with its other suppliers."
+    D: "Hollister must take delivery at Granite's factory, and payment is due when Hollister receives the ladders there."
+  answer: D
+  explanation_correct: >-
+    A sale of goods does not fail for indefiniteness if the parties intended to contract and there is
+    a reasonably certain basis for a remedy (UCC § 2-204(3); R-CTR-019); quantity and price are fixed
+    here. The Code fills the gaps (R-CTR-020). Absent agreement, the place for delivery is the seller's
+    place of business (§ 2-308(a)), delivery is due within a reasonable time (§ 2-309(1)), and payment
+    is due at the time and place the buyer is to receive the goods (§ 2-310(a)). Granite properly made
+    the ladders available at its factory, so Hollister must collect them there and pay on receipt.
+    Trap: assuming the seller must deliver to the buyer.
+  explanation_each_wrong_option:
+    A: >-
+      Reverses the gap filler. Without an agreed delivery term, delivery is at the seller's place of
+      business, not the buyer's.
+    B: >-
+      Common-law reasoning. For goods, open delivery and payment terms are supplied by the Code
+      (§ 2-204(3)).
+    C: >-
+      Hollister's dealings with other suppliers are neither a course of dealing between these parties
+      nor a proven usage of trade (UCC § 1-303; R-CTR-054), so they cannot displace § 2-310.
+  trap_type: wrong-standard
+  authority: ["UCC § 2-204(3)", "UCC § 2-308(a)", "UCC § 2-309(1)", "UCC § 2-310(a)"]
+  source: original
+  tags: [wave2, ucc, gap-fillers, delivery, payment]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CTR-0059
+  subject: CTR
+  coverage_ids: [CTR-MBE-I.C]
+  rule_ids: [R-CTR-023, R-CTR-022]
+  difficulty: 2
+  stem: >-
+    Kowalski, who owns three apartment buildings, signed a two-year agreement with Brightline Janitorial
+    under which Brightline would clean the buildings' lobbies and hallways weekly for $2,400 a month.
+    The agreement provided: "Owner may terminate this agreement at any time by giving Brightline 60
+    days' written notice." Brightline had no right to terminate early. Four months later, Brightline
+    found a more profitable client and stopped work without notice, telling Kowalski that the agreement
+    had never been binding because Kowalski's termination right made his promise illusory. Kowalski
+    hired a replacement service at $3,000 a month and sued Brightline for breach of contract.
+  call: "Is Kowalski likely to prevail?"
+  options:
+    A: "Yes, because Kowalski had to give 60 days' notice to terminate, so his promise was not illusory."
+    B: "No, because Kowalski's power to terminate at any time made his promise illusory, so Brightline's promise was not supported by consideration."
+    C: "Yes, because courts do not inquire into the adequacy of the consideration the parties exchanged."
+    D: "Yes, because Brightline's own promise to clean the buildings was consideration for the agreement, whether or not Kowalski's promise bound him."
+  answer: A
+  explanation_correct: >-
+    A promise is illusory only if it leaves performance entirely to the promisor's discretion. A right
+    to terminate that can be exercised only on notice limits that discretion: Kowalski was committed to
+    keep paying for at least the 60-day notice period (R2d § 77; R-CTR-023). That commitment is a real
+    detriment, bargained for in exchange for Brightline's promise (R-CTR-022), so the agreement was
+    supported by consideration and Brightline breached by quitting. Trap: treating any termination
+    right as making a promise illusory.
+  explanation_each_wrong_option:
+    B: >-
+      Misreads the clause. Kowalski could not terminate "at any time" without consequence; the 60-day
+      notice requirement is the classic limit that keeps a termination right from making a promise
+      illusory (R-CTR-023).
+    C: >-
+      True but irrelevant. Courts do not weigh adequacy, but Brightline's argument is that there was no
+      consideration at all; the answer is that the notice requirement supplied it.
+    D: >-
+      Confuses the two sides of the exchange. The consideration for Brightline's promise must come from
+      Kowalski; Brightline's own promise cannot support itself.
+  trap_type: fact-misread
+  authority: ["R2d § 71", "R2d § 77"]
+  source: original
+  tags: [wave2, consideration, illusory-promise]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CTR-0060
+  subject: CTR
+  coverage_ids: [CTR-MBE-I.C]
+  rule_ids: [R-CTR-025, R-CTR-022]
+  difficulty: 2
+  stem: >-
+    Abernathy bought a house after Lusk, a licensed home inspector, inspected it and reported no
+    structural problems. Six months later, Abernathy found a large crack in the foundation. Believing
+    in good faith that the crack had existed at the time of the inspection and that Lusk had
+    negligently missed it, Abernathy told Lusk that he would sue. Lusk signed a writing promising to pay
+    Abernathy $6,000 "in exchange for Abernathy's agreement not to sue me over the inspection," and
+    Abernathy agreed. Before paying, Lusk obtained an engineer's report showing that the crack had
+    formed after the inspection, so a negligence suit would have failed. Lusk refused to pay, and
+    Abernathy sued on the promise.
+  call: "Is Abernathy likely to recover the $6,000?"
+  options:
+    A: "No, because Abernathy's claim was invalid, so giving it up was not a legal detriment."
+    B: "No, because Lusk received nothing of value in exchange for his promise."
+    C: "Yes, because Abernathy gave up a claim that he believed in good faith was valid."
+    D: "Yes, because a promise to pay money to settle a threatened lawsuit is enforceable without consideration."
+  answer: C
+  explanation_correct: >-
+    Forbearance to assert a claim, or its surrender, is consideration if the claim is valid, if it is
+    doubtful in fact or law, or if the forbearing party believes in good faith that it may fairly be
+    determined to be valid (R2d § 74(1); R-CTR-025). Abernathy honestly believed Lusk had missed an
+    existing crack, and he gave up his right to sue in exchange for Lusk's promise, a bargained-for
+    detriment (R-CTR-022). That the claim later proved invalid does not undo the consideration; the
+    rule protects good-faith settlements. Trap: testing consideration by the claim's ultimate merit.
+  explanation_each_wrong_option:
+    A: >-
+      Wrong standard. A good-faith belief that the claim may fairly be found valid is enough; only a
+      claim the claimant knows to be baseless fails as consideration (R-CTR-025).
+    B: >-
+      Consideration may be a detriment to the promisee rather than a benefit to the promisor. In any
+      event, Lusk bargained for and received freedom from a threatened suit.
+    D: >-
+      Misstates the law. A settlement promise is enforceable because the forbearance is consideration,
+      not because consideration is unnecessary.
+  trap_type: wrong-standard
+  authority: ["R2d § 71", "R2d § 74(1)"]
+  source: original
+  tags: [wave2, consideration, forbearance, settlement]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CTR-0061
+  subject: CTR
+  coverage_ids: [CTR-MBE-I.D]
+  rule_ids: [R-CTR-027, R-CTR-022]
+  difficulty: 2
+  stem: >-
+    The jurisdiction follows the Restatement (Second) of Contracts. At a fundraising dinner for
+    Riverside Community Hospital, a nonprofit, Galloway signed a pledge card promising to contribute
+    $50,000 toward a new pediatric wing, payable within one year. Galloway received nothing in return,
+    and the hospital made no commitments and spent no money in reliance on her pledge. Six months
+    later, Galloway notified the hospital that she was withdrawing her pledge. The hospital sued
+    Galloway to enforce it.
+  call: "Is the hospital likely to prevail?"
+  options:
+    A: "No, because the hospital gave no consideration for Galloway's promise and received the pledge as a gift."
+    B: "Yes, because a charitable subscription is binding without proof that the charity relied on it."
+    C: "No, because the hospital did not change its position in reliance on the pledge, as promissory estoppel requires."
+    D: "Yes, because Galloway's signed writing is a substitute for consideration."
+  answer: B
+  explanation_correct: >-
+    Galloway's pledge was a gratuitous promise without consideration (R-CTR-022), so the hospital needs
+    a substitute. Promissory estoppel ordinarily requires foreseeable, actual reliance (R2d § 90(1);
+    R-CTR-027). But § 90(2) makes a charitable subscription binding without proof that the promise
+    induced action or forbearance. Applying the Restatement, as the stem directs, the hospital may
+    enforce the pledge although it has not yet relied on it. Some courts still require reliance for
+    charitable pledges, which is why the stem names the governing rule. Trap: applying the § 90(1)
+    reliance element to a charitable subscription.
+  explanation_each_wrong_option:
+    A: >-
+      True that there was no consideration, but § 90(2) supplies a substitute for charitable
+      subscriptions, so the lack of consideration is not a defense.
+    C: >-
+      Misses the special rule. Reliance is required under § 90(1), but not for charitable
+      subscriptions under § 90(2).
+    D: >-
+      A signature alone is not a substitute for consideration under the Restatement, apart from narrow
+      cases such as options and guaranties (R2d §§ 87-88). The pledge binds because of § 90(2), not
+      because it was signed.
+  trap_type: wrong-standard
+  authority: ["R2d § 90(1)-(2)"]
+  source: original
+  tags: [wave2, promissory-estoppel, charitable-subscription]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CTR-0062
+  subject: CTR
+  coverage_ids: [CTR-MBE-I.D]
+  rule_ids: [R-CTR-018, R-CTR-017]
+  difficulty: 2
+  stem: >-
+    Summit Paving contracted with Ostrow to pave the driveway at 14 Elm Lane for $5,800. By mistake,
+    Summit's crew went to 41 Elm Lane, which belongs to Bauer. Bauer was home and watched from his
+    window for three hours as the crew tore out his cracked gravel driveway and laid asphalt. He knew
+    he had ordered no work and realized the crew had come to the wrong house, but he said nothing
+    because he wanted a paved driveway. The reasonable value of the work was $5,800. When Summit
+    discovered the error, Bauer refused to pay anything, and Summit sued him.
+  call: "Is Summit likely to recover from Bauer?"
+  options:
+    A: "Yes, in quasi-contract, because Bauer knowingly accepted the benefit of the work."
+    B: "No, because Bauer never agreed to pay for the paving."
+    C: "No, because a party who confers a benefit through its own mistake has no claim against the person who receives it."
+    D: "Yes, for the $5,800 contract price, because Bauer's silence accepted the terms of Summit's contract with Ostrow."
+  answer: A
+  explanation_correct: >-
+    Quasi-contract is a restitution remedy imposed by law, not a promise. It applies where the
+    plaintiff confers a benefit that the defendant knowingly accepts in circumstances that make it
+    unjust to keep without paying (R-CTR-018). Bauer watched the work for hours, knew it was a mistake,
+    and could have stopped it with a word. Summit was not a volunteer or officious intermeddler; it
+    acted by mistake. Contrast R2d § 69(1)(a) (R-CTR-017): silence accepts services only when they were offered to the recipient with an expectation of payment. Summit never offered anything to Bauer, so there is no contract, and Summit's recovery is restitutionary, measured by the reasonable value of the benefit ($5,800), not by a contract price. Trap: assuming that no agreement means no
+    recovery.
+  explanation_each_wrong_option:
+    B: >-
+      True but irrelevant. Quasi-contract does not depend on agreement; it prevents unjust enrichment.
+    C: >-
+      Overbroad. A mistaken performer may recover from a recipient who knowingly stood by and accepted
+      the benefit; the mistake is what shows that Summit was not a volunteer.
+    D: >-
+      No offer was ever made to Bauer, and the $5,800 price is a term of Summit's contract with Ostrow.
+      Bauer's liability is restitutionary, not contractual.
+  trap_type: true-but-irrelevant
+  authority: ["Restatement (Third) of Restitution and Unjust Enrichment § 1", "R2d § 69(1)(a)"]
+  source: original
+  tags: [wave2, quasi-contract, restitution, unjust-enrichment]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CTR-0063
+  subject: CTR
+  coverage_ids: [CTR-MBE-I.E]
+  rule_ids: [R-CTR-028, R-CTR-024, R-CTR-032]
+  difficulty: 2
+  stem: >-
+    Lindqvist hired Barrow Excavation to dig the basement for a new house for $40,000. Both parties
+    relied on a soil report commissioned by Lindqvist, which showed sandy soil to a depth of 20 feet.
+    Ten feet down, Barrow struck a thick layer of solid granite that the report had missed and that
+    neither party had anticipated; removing it would cost Barrow about $15,000 more than planned.
+    Barrow told Lindqvist about the rock and asked for more money, and Lindqvist signed a writing
+    agreeing to pay an additional $12,000. Barrow removed the rock and finished the basement. Lindqvist
+    paid $40,000 but refused to pay the additional $12,000, arguing that his promise was unenforceable.
+  call: "Is Barrow likely to recover the additional $12,000?"
+  options:
+    A: "No, because Barrow was already bound by the contract to dig the basement, so it gave no new consideration for Lindqvist's promise to pay more."
+    B: "Yes, because a modification needs no consideration if it is agreed to in good faith."
+    C: "No, because Lindqvist agreed to the increase only under economic duress."
+    D: "Yes, because the modification was fair and equitable in view of the granite, a circumstance the parties did not anticipate when they contracted."
+  answer: D
+  explanation_correct: >-
+    At common law, a promise to pay more for work already owed lacks consideration under the
+    pre-existing duty rule (R-CTR-024). But R2d § 89(a) enforces a modification of a contract not yet
+    fully performed on either side, without consideration, if it is fair and equitable in view of
+    circumstances not anticipated when the contract was made (R-CTR-028). The granite was missed by
+    the soil report both parties relied on, Barrow asked for less than its added cost, and Lindqvist
+    agreed in writing. The modification is enforceable. Trap: stopping at the pre-existing duty rule.
+  explanation_each_wrong_option:
+    A: >-
+      States the general rule but misses the § 89(a) exception for unanticipated circumstances
+      (R-CTR-024, R-CTR-028).
+    B: >-
+      Right result, wrong reason. "Good faith without consideration" is the UCC § 2-209 rule for sales
+      of goods (R-CTR-029). An excavation contract is governed by the common law, which requires
+      consideration or a § 89 substitute.
+    C: >-
+      Duress requires an improper threat that leaves no reasonable alternative (R-CTR-032). Barrow
+      disclosed a genuine, unforeseen problem and asked for an adjustment; it made no improper threat.
+  trap_type: exception-trap
+  authority: ["R2d § 73", "R2d § 89(a)"]
+  source: original
+  tags: [wave2, modification, pre-existing-duty, unanticipated-circumstances]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CTR-0064
+  subject: CTR
+  coverage_ids: [CTR-MBE-I.E]
+  rule_ids: [R-CTR-029, R-CTR-032]
+  difficulty: 2
+  stem: >-
+    Orchard Valley Foods, a fruit canner, contracted in a signed writing to buy 50 tons of sugar from
+    Crestmont Sugar, a sugar refiner, at $800 per ton, for delivery on August 1, the start of Orchard
+    Valley's canning season. Crestmont's costs did not change, and the market price of sugar stayed at
+    about $800 per ton. On July 25, knowing that Orchard Valley could not obtain that much sugar
+    elsewhere before its season began, Crestmont's sales manager told Orchard Valley, "Sign an agreement
+    to pay $1,000 per ton, or we won't deliver." Orchard Valley signed a written modification.
+    Crestmont delivered the sugar. Orchard Valley paid $40,000, the original price, and refused to pay
+    the remaining $10,000. Crestmont sued for the $10,000.
+  call: "Is Crestmont likely to recover the $10,000?"
+  options:
+    A: "Yes, because a modification of a contract for the sale of goods needs no consideration to be binding."
+    B: "Yes, because Orchard Valley signed a written modification agreeing to the higher price before Crestmont delivered."
+    C: "No, because Crestmont extracted the increase without a legitimate commercial reason."
+    D: "No, because Crestmont gave no consideration for Orchard Valley's promise to pay more."
+  answer: C
+  explanation_correct: >-
+    A modification of a contract for the sale of goods needs no consideration (UCC § 2-209(1);
+    R-CTR-029), but it must satisfy the Code's requirement of good faith. Comment 2 to § 2-209 explains
+    that a modification extorted without a legitimate commercial reason is ineffective. Crestmont's
+    costs and the market were unchanged, and it used Orchard Valley's inability to buy elsewhere in
+    time to force the increase, conduct that also amounts to economic duress (R-CTR-032). The
+    modification fails, and Crestmont is limited to the original price. Trap: remembering that no
+    consideration is needed but forgetting the good-faith requirement.
+  explanation_each_wrong_option:
+    A: >-
+      Missing element. Section 2-209(1) dispenses with consideration, not with good faith.
+    B: >-
+      A signed writing would satisfy the statute of frauds or a no-oral-modification clause, but it
+      cannot validate a modification extracted in bad faith.
+    D: >-
+      Right result, wrong reason. Under § 2-209(1) a goods modification needs no consideration; this
+      one fails only for lack of good faith.
+  trap_type: missing-element
+  authority: ["UCC § 2-209(1) and cmt. 2", "UCC § 1-304", "R2d § 176(1)(d)"]
+  source: original
+  tags: [wave2, ucc, modification, good-faith, economic-duress]
+  status: draft
+  last_verified: 2026-11-04

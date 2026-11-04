@@ -1,0 +1,226 @@
+# Contracts — NCBE category VI: Third-party rights (wave 2, original items)
+questions:
+- id: Q-CTR-0096
+  subject: CTR
+  coverage_ids: [CTR-MBE-VI.A]
+  rule_ids: [R-CTR-111, R-CTR-110]
+  difficulty: 2
+  stem: >-
+    Valdez sold his bakery to Truong. In their signed sale contract, Truong promised Valdez that he would
+    pay, by June 1, the $30,000 that Valdez owed to Mill Creek Flour, a supplier. At Valdez's request,
+    Truong gave Mill Creek a copy of the contract. Relying on Truong's promise, Mill Creek released its
+    security interest in the bakery's ovens so that the sale could close. A month later, Valdez and
+    Truong agreed in a signed writing that Truong would pay the $30,000 to Valdez instead of to Mill
+    Creek. No one paid Mill Creek, and Mill Creek sued Truong.
+  call: "Is Mill Creek likely to prevail?"
+  options:
+    A: "No, because Mill Creek was not a party to the sale contract."
+    B: "No, because the parties to a contract may modify it without the consent of a third-party beneficiary who was not a party to it."
+    C: "Yes, because Mill Creek's rights vested through its reliance before the modification."
+    D: "Yes, because an intended beneficiary's rights vest as soon as the contract is made."
+  answer: C
+  explanation_correct: >-
+    Mill Creek is an intended (creditor) beneficiary, because Truong's performance would satisfy
+    Valdez's debt to it (R2d § 302(1)(a); R-CTR-110). Until a beneficiary's rights vest, the promisor
+    and promisee may modify the contract without its consent. Rights vest when the beneficiary
+    manifests assent at a party's request, sues on the promise, or materially changes position in
+    justifiable reliance (R2d § 311; R-CTR-111). Mill Creek released its security interest in reliance
+    on Truong's promise before Valdez and Truong tried to redirect the payment, so their modification
+    cannot cut off its rights. Trap: forgetting that reliance vests a beneficiary's rights.
+  explanation_each_wrong_option:
+    A: >-
+      An intended beneficiary may enforce a promise made for its benefit although it is not a party to
+      the contract (R-CTR-110).
+    B: >-
+      True only before vesting. Once Mill Creek relied, the parties lost the power to vary its rights
+      without its consent.
+    D: >-
+      Wrong timing. Rights vest only on assent at a party's request, suit, or material reliance
+      (R-CTR-111), not when the contract is made.
+  trap_type: exception-trap
+  authority: ["R2d § 302(1)(a)", "R2d § 311"]
+  source: original
+  tags: [wave2, third-party-beneficiary, vesting]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CTR-0097
+  subject: CTR
+  coverage_ids: [CTR-MBE-VI.A]
+  rule_ids: [R-CTR-111, R-CTR-110, R-CTR-037]
+  difficulty: 2
+  stem: >-
+    Harlow agreed in a signed writing to sell a vacant lot to Greer for $25,000. At Harlow's direction,
+    the contract provided that Greer would pay the price directly to Harlow's daughter, Mina, as a
+    birthday gift from Harlow. To induce Greer to buy, Harlow had told Greer that the lot had a working
+    water well; Harlow knew that it did not. Mina learned of the contract and wrote Greer a thank-you
+    letter. Before paying or receiving a deed, Greer discovered the truth, promptly notified Harlow that
+    he was rescinding the contract, and refused to pay. Mina sued Greer for $25,000.
+  call: "Is Mina likely to prevail?"
+  options:
+    A: "No, because Greer may assert the fraud defense against Mina."
+    B: "Yes, because a donee beneficiary takes free of the defenses the promisor has against the promisee."
+    C: "Yes, because Mina's rights vested when she learned of the contract and accepted the gift by writing Greer a thank-you letter."
+    D: "No, because a donee beneficiary has no right to sue the promisor."
+  answer: A
+  explanation_correct: >-
+    Mina is an intended (donee) beneficiary, because Harlow intended to give her the benefit of Greer's
+    promise (R-CTR-110). But a beneficiary's right derives from the contract: the promisor may raise
+    against the beneficiary any defense arising from the contract that it could raise against the
+    promisee, such as fraud, mistake or failure of consideration (R2d § 309; R-CTR-111). Harlow's
+    knowing misrepresentation made the contract voidable by Greer (R-CTR-037), and Greer promptly
+    rescinded, so Mina has no enforceable right. Trap: assuming a beneficiary can have greater rights
+    than the promisee.
+  explanation_each_wrong_option:
+    B: >-
+      Reverses the rule. The beneficiary takes subject to any defense arising from the contract itself,
+      such as fraud in its formation (R2d § 309). What the promisor generally cannot assert against the
+      beneficiary are claims against the promisee that arise outside this contract, such as a set-off for
+      an unrelated debt.
+    C: >-
+      Vesting protects a beneficiary only against a later modification or rescission by agreement of the
+      parties; it does not cut off defenses, such as fraud, that inhere in the contract itself. In any
+      event, vesting by assent requires assent at the request of the promisor or promisee (R2d § 311(3)),
+      and Mina's thank-you letter was unrequested.
+    D: >-
+      An intended donee beneficiary may sue the promisor. Mina loses here only because of the fraud
+      defense.
+  trap_type: confused-rule
+  authority: ["R2d § 302(1)(b)", "R2d § 309", "R2d \u00a7 311(3)"]
+  source: original
+  tags: [wave2, third-party-beneficiary, defenses]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CTR-0098
+  subject: CTR
+  coverage_ids: [CTR-MBE-VI.B]
+  rule_ids: [R-CTR-115, R-CTR-112, R-CTR-114]
+  difficulty: 2
+  stem: >-
+    Ellison, a consultant, had completed a project for Ruiz Construction, which owed him $8,000 payable
+    on December 1. On November 1, Ellison told his nephew Paolo, "I'm giving you the $8,000 Ruiz owes
+    me. It's yours." The same day Ellison telephoned Ruiz and told it to pay Paolo. Nothing was put in
+    writing, Paolo gave nothing in return, and Paolo did nothing in reliance on the gift. Ellison died
+    on November 20. On December 1, both Paolo and the executor of Ellison's estate demanded the $8,000
+    from Ruiz.
+  call: "Who is entitled to the $8,000?"
+  options:
+    A: "Paolo, because Ruiz was notified of the assignment before Ellison died."
+    B: "The estate, because Ellison's oral, gratuitous assignment was revoked by his death before Ruiz paid Paolo."
+    C: "Paolo, because an assignment of a right to the payment of money is effective without a writing and without consideration."
+    D: "The estate, because a right to payment cannot be assigned until the payment is due."
+  answer: B
+  explanation_correct: >-
+    An assignment for value is irrevocable, but a gratuitous assignment is revocable, including by the
+    assignor's death, unless the assignee has received payment, the assignment is in a signed writing
+    or accompanied by delivery of a symbolic document, or the assignee has reasonably relied (R2d § 332;
+    R-CTR-115). Ellison's assignment was oral and gratuitous, Paolo did not rely, and Ruiz had not paid
+    when Ellison died. His death revoked the assignment, so the right belongs to his estate. Trap:
+    treating notice to the obligor as making a gift assignment irrevocable.
+  explanation_each_wrong_option:
+    A: >-
+      Notice to the obligor protects an assignee against the obligor's later payment to the assignor
+      (R-CTR-114), but it is not one of the events that make a gratuitous assignment irrevocable.
+    C: >-
+      True but incomplete. The assignment was valid when made without a writing or consideration
+      (R-CTR-112), but because it was gratuitous and lacked a writing, token or reliance, it remained
+      revocable and was revoked by Ellison's death.
+    D: >-
+      A right that is not yet due under an existing contract is assignable; Ellison had already earned
+      the $8,000.
+  trap_type: true-but-irrelevant
+  authority: ["R2d § 324", "R2d § 332"]
+  source: original
+  tags: [wave2, assignment, gratuitous-assignment]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CTR-0099
+  subject: CTR
+  coverage_ids: [CTR-MBE-VI.B]
+  rule_ids: [R-CTR-114, R-CTR-065]
+  difficulty: 3
+  stem: >-
+    Kestner Roofing contracted to replace the roof of Abernathy's office building for $60,000, payable
+    on completion. Before starting work, Kestner assigned its right to the $60,000 to Summit Bank as
+    security for a loan, and Summit promptly notified Abernathy of the assignment. Kestner then
+    completed the roof, but because of Kestner's defective workmanship the roof leaked at two flashing
+    points. Abernathy promptly had the leaks repaired for $4,000, a reasonable cost. Summit demanded
+    $60,000 from Abernathy.
+  call: "How much is Summit entitled to recover from Abernathy?"
+  options:
+    A: "$60,000, because Kestner's defective work occurred after Abernathy had received notice of the assignment to Summit."
+    B: "$60,000, but Abernathy may then recover the $4,000 from Kestner."
+    C: "$56,000, because Summit takes subject to Abernathy's claim arising from the same contract."
+    D: "Nothing, because Kestner's defective workmanship discharged Abernathy's duty to pay."
+  answer: C
+  explanation_correct: >-
+    An assignee stands in the assignor's shoes. It takes the right subject to every defense and claim
+    the obligor has that arises from the contract itself, whenever it arises, and to other defenses and
+    claims that accrue before the obligor receives notice of the assignment (R2d § 336; UCC § 9-404(a);
+    R-CTR-114). Abernathy's $4,000 claim arises from Kestner's defective performance of the very
+    contract that created the assigned right, so it reduces what Summit can collect even though it
+    arose after notice. Kestner substantially performed (R-CTR-065), so Abernathy owes the price less
+    its damages: $56,000. Trap: applying the notice cutoff to defenses arising from the contract.
+  explanation_each_wrong_option:
+    A: >-
+      The notice cutoff applies only to defenses and claims that do not arise from the contract.
+      Defenses based on the assignor's own performance of the assigned contract survive notice.
+    B: >-
+      Abernathy need not pay in full and then pursue Kestner; it may assert the defense directly
+      against Summit.
+    D: >-
+      Two leaks repaired for $4,000 on a $60,000 job are a minor breach. Kestner substantially
+      performed, so Abernathy's duty to pay is reduced, not discharged (R-CTR-065).
+  trap_type: exception-trap
+  authority: ["R2d § 336", "UCC § 9-404(a)(1)"]
+  source: original
+  tags: [wave2, assignment, assignee-defenses, notice]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CTR-0100
+  subject: CTR
+  coverage_ids: [CTR-MBE-VI.B]
+  rule_ids: [R-CTR-116, R-CTR-068]
+  difficulty: 1
+  stem: >-
+    Delacroix, a wedding photographer whose distinctive style has been featured in national magazines,
+    contracted with the Ambrose family to photograph their daughter's wedding for $12,000. A month
+    before the wedding, Delacroix accepted a more lucrative engagement for the same day. She told the
+    Ambroses that her associate, Fenn, a competent professional photographer with a different style,
+    would photograph the wedding instead and that Delacroix would edit the photos herself. The Ambroses
+    refused to accept Fenn and hired another nationally known photographer for $15,000. They sued
+    Delacroix for $3,000.
+  call: "Are the Ambroses likely to prevail?"
+  options:
+    A: "No, because a party may delegate performance of its duties, and Delacroix would remain liable if Fenn performed poorly."
+    B: "No, because Fenn is a competent professional photographer."
+    C: "Yes, because duties under any contract for services may not be delegated without the other party's express consent."
+    D: "Yes, because the Ambroses had a substantial interest in Delacroix's personal performance."
+  answer: D
+  explanation_correct: >-
+    Duties are generally delegable, but not where the obligee has a substantial interest in having the
+    original promisor perform, as with contracts calling for personal skill, artistic judgment or taste
+    (R2d § 318(2); R-CTR-116). The Ambroses hired Delacroix for her distinctive, nationally recognized
+    style; a substitute with a different style is not the performance they bargained for. Her
+    announced refusal to perform personally was a repudiation (R-CTR-068), and the Ambroses may recover
+    the $3,000 extra cost of a comparable replacement. Trap: applying the general delegability rule to
+    personal artistic services.
+  explanation_each_wrong_option:
+    A: >-
+      States the general rule but misses the exception for duties involving personal skill or taste in
+      which the obligee has a substantial interest.
+    B: >-
+      Competence is not the test. The question is whether the obligee bargained for this particular
+      person's skill and judgment.
+    C: >-
+      Overbroad. Many service duties, such as routine maintenance or construction, are delegable; only
+      those in which the obligee has a substantial interest in personal performance are not.
+  trap_type: exception-trap
+  authority: ["R2d § 318(2)"]
+  source: original
+  tags: [wave2, delegation, personal-services]
+  status: draft
+  last_verified: 2026-11-04
