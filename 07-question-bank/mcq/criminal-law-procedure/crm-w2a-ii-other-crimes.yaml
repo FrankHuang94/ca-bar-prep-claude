@@ -1,0 +1,282 @@
+# Criminal Law and Procedure — NCBE category II: other crimes
+# Original MBE-style items (wave 2, batch A). Generally accepted common-law principles unless the stem says otherwise.
+questions:
+- id: Q-CRM-0058
+  subject: CRM
+  coverage_ids: [CRM-MBE-II.A]
+  rule_ids: [R-CRM-046, R-CRM-045, R-CRM-044]
+  difficulty: 3
+  stem: >-
+    A man agreed to sell a late-model sedan to an acquaintance for $6,000, cash on delivery. He did not own
+    such a car. The next morning he rented one from a car-rental agency for three days, signing a rental
+    agreement that required him to return it. He drove it directly to the acquaintance, took the $6,000 and
+    disappeared. The agency never recovered the car. The jurisdiction retains the common-law theft offenses.
+  call: "Which crime has the man committed against the rental agency?"
+  options:
+    A: "Embezzlement, because he was in lawful possession of the car under the rental agreement when he sold it."
+    B: "False pretenses, because he obtained the car from the agency by a knowing misrepresentation."
+    C: "No theft offense, because the agency voluntarily handed the car over to him."
+    D: "Larceny by trick, because he obtained possession by fraud, intending from the outset to keep the car."
+  answer: D
+  explanation_correct: >-
+    D is correct. When a defendant uses deception to obtain possession, but not title, intending at that time
+    to deprive the owner permanently, the crime is larceny by trick (R-CRM-046). The agency transferred only
+    possession for a three-day rental, and the man had already arranged the sale, so his intent to steal
+    existed when he took the car. Consent procured by fraud does not make the taking non-trespassory
+    (R-CRM-044).
+  explanation_each_wrong_option:
+    A: >-
+      Confused rule. Embezzlement requires lawful possession followed by conversion; possession obtained by
+      fraud with a present intent to steal is not lawful possession (R-CRM-045, R-CRM-046).
+    B: >-
+      False pretenses requires that the victim pass title; a rental passes possession only (R-CRM-046).
+    C: >-
+      Consent induced by fraud does not prevent a trespassory taking; that is the essence of larceny by trick
+      (R-CRM-044, R-CRM-046).
+  trap_type: confused-rule
+  authority: ["Common law", "MPC § 223.3"]
+  source: original
+  tags: [wave2, theft, larceny-by-trick]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CRM-0059
+  subject: CRM
+  coverage_ids: [CRM-MBE-II.B]
+  rule_ids: [R-CRM-049]
+  difficulty: 1
+  stem: >-
+    A man approached a woman in a hotel lobby and said quietly, "Give me that watch right now, or tomorrow I'll
+    tell your husband about the man you met here last night." He made no other threat, displayed no weapon
+    and did not touch her. Frightened of what he might reveal, she took off the watch and handed it to him.
+    In addition to the common-law crimes, the jurisdiction has a statute making it a crime to obtain property
+    of another by threatening future harm, including harm to reputation.
+  call: "Which crime has the man committed?"
+  options:
+    A: "Robbery, because he took the watch from the woman's person by intimidation."
+    B: "Extortion, because he obtained the watch by threatening future harm rather than immediate bodily harm."
+    C: "Larceny by trick, because the woman parted with the watch as a result of his deception."
+    D: "No crime, because the woman handed over the watch voluntarily and he used no force."
+  answer: B
+  explanation_correct: >-
+    B is correct. Robbery requires a taking from the person or presence by force or by intimidation, meaning
+    a threat of immediate bodily harm; obtaining property by a threat of future harm, such as exposing a
+    secret, is extortion (R-CRM-049). The man threatened only to reveal information the next day, so the
+    statutory extortion offense, not robbery, fits.
+  explanation_each_wrong_option:
+    A: >-
+      Confused rule. Robbery's intimidation must be a threat of immediate bodily harm to the victim, her
+      family or someone present; a threat to expose a secret later is not (R-CRM-049).
+    C: >-
+      Fact misread. He deceived her about nothing; he obtained the watch by a threat, not by a
+      misrepresentation (R-CRM-046).
+    D: >-
+      A transfer made because of a threat is not voluntary in the relevant sense; extortion exists to reach
+      property obtained by threats of future harm (R-CRM-049).
+  trap_type: confused-rule
+  authority: ["Common law", "MPC §§ 222.1, 223.4"]
+  source: original
+  tags: [wave2, robbery, extortion]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CRM-0060
+  subject: CRM
+  coverage_ids: [CRM-MBE-II.C]
+  rule_ids: [R-CRM-050, R-CRM-044]
+  difficulty: 2
+  stem: >-
+    At 9 p.m., after dark, a man wearing a reflective vest knocked on the door of a house and told the
+    homeowner that he worked for the water company and needed to check her kitchen for a leak. He did not
+    work for the water company; he intended to steal whatever cash he could find. Believing him, she let him
+    in. While she went to the basement to find a flashlight he had asked for, he took $400 from her purse on
+    the kitchen table and left. The jurisdiction follows the common law.
+  call: "Of which crimes is the man guilty?"
+  options:
+    A: "Burglary and larceny."
+    B: "Larceny only, because the homeowner consented to his entry."
+    C: "Burglary only, because the larceny merges into the burglary."
+    D: "Larceny by trick only, because he gained entry by deception."
+  answer: A
+  explanation_correct: >-
+    A is correct. Common-law burglary requires a breaking and entering of another's dwelling at night with
+    intent to commit a felony inside (R-CRM-050). Gaining entry by fraud is a constructive breaking, the house
+    was a dwelling, it was nighttime, and he intended to steal when he entered. Taking the cash from the purse
+    without consent, intending to keep it, is larceny (R-CRM-044). Burglary and the felony committed inside
+    are separate crimes.
+  explanation_each_wrong_option:
+    B: >-
+      Exception trap. Consent defeats a breaking only if it is genuine; consent obtained by fraud is a
+      constructive breaking (R-CRM-050).
+    C: >-
+      Burglary is complete on entry with the required intent, and the intended felony, once committed, is a
+      separate crime; the two do not merge (R-CRM-050).
+    D: >-
+      The deception gained him entry, not the money; he took the cash without the homeowner's consent, which
+      is larceny, not larceny by trick (R-CRM-044, R-CRM-046).
+  trap_type: exception-trap
+  authority: ["Common law"]
+  source: original
+  tags: [wave2, burglary, constructive-breaking]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CRM-0061
+  subject: CRM
+  coverage_ids: [CRM-MBE-II.D]
+  rule_ids: [R-CRM-052]
+  difficulty: 1
+  stem: >-
+    From about 20 feet behind her, a man threw a fist-sized rock at the back of a woman's head, intending to
+    hit her. The rock missed by inches and rolled away. The woman, who was wearing headphones, never knew
+    that anything had happened. A witness reported the man to the police. The jurisdiction recognizes both
+    traditional forms of criminal assault.
+  call: "Is the man guilty of assault?"
+  options:
+    A: "No, because the woman was unaware of the rock and so was never placed in fear."
+    B: "No, because the rock never touched her."
+    C: "Yes, because he attempted to commit a battery on her."
+    D: "Yes, but only if a reasonable person who saw the rock coming would have been frightened."
+  answer: C
+  explanation_correct: >-
+    C is correct. Assault is either an attempted battery or the intentional creation of reasonable
+    apprehension of imminent harm (R-CRM-052). The attempted-battery form requires only an intent to commit a
+    battery and an act beyond preparation; the victim need not be aware of the attempt. Throwing the rock at
+    her head with intent to hit her is an attempted battery.
+  explanation_each_wrong_option:
+    A: >-
+      Confused rule. Awareness is required only for the apprehension form of assault, not for the
+      attempted-battery form (R-CRM-052).
+    B: >-
+      Contact is an element of battery, not of assault; attempted-battery assault is complete when the
+      defendant, intending a battery, acts beyond preparation, even if he misses (R-CRM-052, R-CRM-053).
+    D: >-
+      Wrong standard. A reasonable person's hypothetical fear is irrelevant to the attempted-battery form,
+      which this conduct satisfies (R-CRM-052).
+  trap_type: confused-rule
+  authority: ["Common law", "MPC § 211.1(1)"]
+  source: original
+  tags: [wave2, assault, attempted-battery]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CRM-0062
+  subject: CRM
+  coverage_ids: [CRM-MBE-II.F]
+  rule_ids: [R-CRM-056]
+  difficulty: 1
+  stem: >-
+    A business owner learned that an employee planned to report safety violations to a state agency. He went
+    into her glass-walled office, stood in front of its only door and told her that if she tried to leave
+    he would "knock her flat." Coworkers in the open-plan area outside could see them. After an hour of
+    arguing, he stepped aside and let her go. He never touched her or moved her. The jurisdiction defines its
+    offenses according to generally accepted principles.
+  call: "Of which crime is the business owner guilty?"
+  options:
+    A: "Kidnapping, because he confined her against her will by threatening force."
+    B: "False imprisonment, because he unlawfully confined her but did not move or conceal her."
+    C: "No crime, because he never physically restrained her."
+    D: "Attempted kidnapping, because he intended to confine her against her will."
+  answer: B
+  explanation_correct: >-
+    B is correct. False imprisonment is the unlawful confinement of a person without consent; kidnapping adds
+    either movement of the victim or concealment in a secret place (R-CRM-056). He confined her by a threat of
+    force, but he did not move her and she was in plain view of coworkers, so the confinement is false
+    imprisonment only.
+  explanation_each_wrong_option:
+    A: >-
+      Missing element. Confinement alone is false imprisonment; kidnapping also requires movement
+      (asportation) or secret concealment (R-CRM-056).
+    C: >-
+      Confinement can be accomplished by a threat of force; physical restraint is not required (R-CRM-056).
+    D: >-
+      Attempted kidnapping requires a specific intent to commit kidnapping, including an intent to move or
+      secretly confine the victim; he intended only to keep her in the office (R-CRM-056, R-CRM-060).
+  trap_type: missing-element
+  authority: ["Common law", "MPC §§ 212.1, 212.3"]
+  source: original
+  tags: [wave2, kidnapping, false-imprisonment]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CRM-0063
+  subject: CRM
+  coverage_ids: [CRM-MBE-II.G, CRM-MBE-III.A.1]
+  rule_ids: [R-CRM-058, R-CRM-060, R-CRM-061]
+  difficulty: 2
+  stem: >-
+    Angry at his neighbors, a man threw a lit, gasoline-filled bottle through the open front window of their
+    house one night while they were away, intending to burn the house down. The bottle shattered on a couch.
+    The couch and the curtains burned, and smoke blackened the walls and ceiling before firefighters put out
+    the fire. Investigators found that no part of the structure itself — floors, walls, window frames or
+    ceiling — was charred. The jurisdiction follows the common law of arson.
+  call: "Of which offense, if any, is the man guilty with respect to the house?"
+  options:
+    A: "Arson, because smoke blackened the walls and ceiling of the house."
+    B: "Arson, because the couch and curtains inside the dwelling were burned."
+    C: "No arson-related offense, because no part of the structure was burned."
+    D: "Attempted arson, because he intended to burn the house and did all he could to do so."
+  answer: D
+  explanation_correct: >-
+    D is correct. Common-law arson requires a burning of the dwelling of another, meaning at least some
+    charring of the structure; scorching or smoke discoloration is not enough, and burning contents is not a
+    burning of the dwelling (R-CRM-058). Because no structural material was charred, the completed crime
+    fails. He acted with the specific intent to burn the house and went well beyond preparation by throwing
+    a firebomb into it, so he is guilty of attempted arson (R-CRM-060, R-CRM-061).
+  explanation_each_wrong_option:
+    A: >-
+      Smoke discoloration is not a "burning"; the structure itself must be charred (R-CRM-058).
+    B: >-
+      Confused rule. Furniture and curtains are personal property, not part of the dwelling; burning them is
+      not common-law arson (R-CRM-058).
+    C: >-
+      Missing the inchoate offense. The failure of the completed crime leaves attempt, which his intent and
+      conduct plainly satisfy (R-CRM-060, R-CRM-061).
+  trap_type: missing-element
+  authority: ["Common law", "MPC §§ 220.1, 5.01"]
+  source: original
+  tags: [wave2, arson, charring, attempt]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CRM-0064
+  subject: CRM
+  coverage_ids: [CRM-MBE-II.H, CRM-MBE-IV.A]
+  rule_ids: [R-CRM-059, R-CRM-002]
+  difficulty: 2
+  stem: >-
+    A statute makes it a felony to "knowingly possess" a controlled substance. The jurisdiction's criminal code
+    also provides: "Possession is an act if the possessor knowingly procured or received the thing possessed
+    or was aware of his control thereof for a sufficient period to have been able to terminate his
+    possession." At a crowded concert, a stranger who saw police approaching secretly dropped a bag of
+    oxycodone pills into the hood of a woman's sweatshirt. A few minutes later she felt something, reached
+    back and pulled out the bag. As she looked at it and first realized what it was, an officer grabbed her
+    wrist and arrested her.
+  call: "What is the woman's best defense?"
+  options:
+    A: "She did not knowingly receive the pills and had no opportunity to get rid of them before she was arrested."
+    B: "She did not own the pills."
+    C: "The pills were dropped into her hood by someone else, so she never possessed them in her hands."
+    D: "Possession is a status rather than an act, so it cannot be punished."
+  answer: A
+  explanation_correct: >-
+    A is correct. Possession supplies the required act only if the defendant knowingly procured or received
+    the item, or was aware of her control long enough to have ended it (R-CRM-059, R-CRM-002; MPC § 2.01(4)).
+    The pills were planted without her knowledge, and she was arrested at the moment she first realized what
+    they were, before she could discard them. Neither alternative is met.
+  explanation_each_wrong_option:
+    B: >-
+      Ownership is irrelevant; possession means knowing physical control or dominion, not title
+      (R-CRM-059).
+    C: >-
+      Fact misread. She did hold the bag in her hand; the defense lies in her lack of knowledge and of time
+      to end the possession, not in where the pills were found (R-CRM-059).
+    D: >-
+      Overbroad. Knowing possession is treated as an act and may be punished; the status-crime limit of
+      Robinson v. California does not bar possession offenses (R-CRM-002).
+  trap_type: fact-misread
+  authority: ["MPC § 2.01(4)", "Robinson v. California, 370 U.S. 660 (1962)"]
+  source: original
+  tags: [wave2, possession, voluntary-act]
+  status: draft
+  last_verified: 2026-11-04

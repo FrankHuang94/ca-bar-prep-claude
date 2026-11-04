@@ -1,0 +1,370 @@
+# Criminal Law and Procedure — NCBE category V.B: confessions and privilege against self-incrimination
+# Original MBE-style items (wave 2, batch A). Federal constitutional law as the Supreme Court reads it.
+questions:
+- id: Q-CRM-0092
+  subject: CRM
+  coverage_ids: [CRM-MBE-V.B]
+  rule_ids: [R-CRM-094, R-CRM-093]
+  difficulty: 2
+  stem: >-
+    A detective investigating missing funds at a nonprofit telephoned its bookkeeper and asked her to come to
+    the police station "to clear some things up." She drove herself there. In an interview room with the door
+    closed but unlocked, the detective told her she was not under arrest and could leave whenever she wished.
+    He then falsely said that a coworker had seen her taking cash from the safe. After about 30 minutes she
+    admitted taking the money. The detective did not arrest her, and she drove home. She was charged a week
+    later. No Miranda warnings were given at any point. She moves to suppress her admission.
+  call: "Should the motion be granted?"
+  options:
+    A: "Yes, because the questioning took place in a closed interview room at a police station."
+    B: "Yes, because the detective's lie about an eyewitness made her admission involuntary."
+    C: "Yes, because she was already the focus of the investigation when the detective questioned her."
+    D: "No, because she was not in custody when she was questioned."
+  answer: D
+  explanation_correct: >-
+    D is correct. Miranda applies only to custodial interrogation, and custody exists only when a reasonable
+    person would not feel free to end the questioning and leave in a setting with the coercive pressures of
+    station-house interrogation (R-CRM-094). She came voluntarily, was told she was free to leave, was not
+    restrained and went home afterward, so she was not in custody (Oregon v. Mathiason; California v.
+    Beheler).
+  explanation_each_wrong_option:
+    A: >-
+      Overbroad. Location is a factor, but a voluntary station-house interview of a person told she may leave
+      is not custodial (R-CRM-094).
+    B: >-
+      Police deception alone does not make a statement involuntary; the totality of the circumstances shows
+      no coercion that overbore her will (R-CRM-093; Frazier v. Cupp).
+    C: >-
+      Confused rule. Custody is judged objectively; that the officer suspected her or that she was the focus
+      of the investigation is irrelevant unless communicated in a way that affects the custody analysis
+      (R-CRM-094; Stansbury v. California).
+  trap_type: overbroad
+  authority: ["U.S. Const. amend. V", "Oregon v. Mathiason, 429 U.S. 492 (1977)", "California v. Beheler, 463 U.S. 1121 (1983)", "Stansbury v. California, 511 U.S. 318 (1994)", "Frazier v. Cupp, 394 U.S. 731 (1969)"]
+  source: original
+  tags: [wave2, miranda, custody]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CRM-0093
+  subject: CRM
+  coverage_ids: [CRM-MBE-V.B, CRM-MBE-V.D]
+  rule_ids: [R-CRM-095, R-CRM-102]
+  difficulty: 3
+  stem: >-
+    A woman was in county jail awaiting trial on a forgery charge, for which a public defender had been
+    appointed. Detectives suspected her of setting an unrelated restaurant fire, for which she had not been
+    charged. They placed an undercover officer in her cell, posing as a fellow inmate. Over two days the
+    officer asked her how she had "ended up in here" and whether she had ever "done anything bigger." She
+    described setting the restaurant fire. She was never given Miranda warnings. She is later charged with
+    arson and moves to suppress her statements.
+  call: "Should the motion be granted?"
+  options:
+    A: "Yes, because she was in custody and was questioned without Miranda warnings."
+    B: "Yes, because she was represented by counsel, and the officer deliberately elicited incriminating statements from her."
+    C: "No, because she did not know she was speaking to a police officer, and her right to counsel had not attached as to the arson."
+    D: "Yes, because a confession obtained through police deception is involuntary."
+  answer: C
+  explanation_correct: >-
+    C is correct. Miranda guards against the coercive pressure of police-dominated interrogation; questioning
+    by an undercover agent whom the suspect believes to be a fellow inmate is not interrogation for Miranda
+    purposes (R-CRM-095; Illinois v. Perkins). The Sixth Amendment right to counsel is offense-specific
+    (R-CRM-102; McNeil v. Wisconsin; Texas v. Cobb): it had attached to the forgery charge, but not to the
+    uncharged arson, so eliciting statements about the arson did not violate it.
+  explanation_each_wrong_option:
+    A: >-
+      Missing element. Incarceration alone does not trigger Miranda when the suspect does not know she is
+      talking to police; there is no coercive atmosphere (R-CRM-095).
+    B: >-
+      Confused rule. Massiah bars deliberate elicitation only about the charged offense; arson and forgery are
+      different offenses (R-CRM-102).
+    D: >-
+      Overbroad. Deception by an undercover agent does not by itself make a statement involuntary; there was
+      no coercion (R-CRM-093).
+  trap_type: confused-rule
+  authority: ["U.S. Const. amends. V, VI", "Illinois v. Perkins, 496 U.S. 292 (1990)", "McNeil v. Wisconsin, 501 U.S. 171 (1991)", "Texas v. Cobb, 532 U.S. 162 (2001)"]
+  source: original
+  tags: [wave2, miranda, interrogation, undercover, sixth-amendment]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CRM-0094
+  subject: CRM
+  coverage_ids: [CRM-MBE-V.B]
+  rule_ids: [R-CRM-097, R-CRM-098]
+  difficulty: 3
+  stem: >-
+    Arrested for stealing a car, a man was taken to the police station and given Miranda warnings. He said,
+    "I don't want to talk to you." The detective immediately ended the interview. About two and a half hours
+    later, a detective from the homicide unit took the man to a different interview room, gave him a fresh set
+    of Miranda warnings and asked whether he was willing to discuss an unrelated shooting. The man said he
+    was, signed a written waiver and confessed to the shooting. He never asked for a lawyer. He moves to
+    suppress the confession.
+  call: "Is the confession admissible?"
+  options:
+    A: "Yes, because questioning stopped at once and resumed only after a significant break, with fresh warnings, on another crime."
+    B: "No, because once a suspect in custody invokes the right to remain silent, police may not question him again about any crime while he remains in custody."
+    C: "No, because after a suspect invokes his Miranda rights, police may not initiate further questioning unless his lawyer is present."
+    D: "Yes, because an invocation of the right to remain silent applies only to the crime for which the suspect was arrested."
+  answer: A
+  explanation_correct: >-
+    A is correct. When a suspect unambiguously invokes the right to remain silent, police must scrupulously
+    honor it, but they may resume questioning after a significant time, with fresh warnings, especially about
+    a different crime (R-CRM-097; Michigan v. Mosley). Questioning stopped at once, more than two hours passed,
+    new warnings were given by a different officer, and the subject was an unrelated shooting.
+  explanation_each_wrong_option:
+    B: >-
+      Overbroad. An invocation of silence is not a permanent bar; Mosley permits resumption when the
+      invocation has been scrupulously honored (R-CRM-097).
+    C: >-
+      Confused rule. The Edwards bar on police-initiated questioning applies when a suspect requests counsel;
+      this suspect invoked only the right to silence (R-CRM-098).
+    D: >-
+      Right result, wrong reason. An invocation of silence is not limited to the offense of arrest; the
+      confession is admissible because the Mosley conditions were met, including the change of subject
+      (R-CRM-097).
+  trap_type: confused-rule
+  authority: ["U.S. Const. amend. V", "Michigan v. Mosley, 423 U.S. 96 (1975)", "Edwards v. Arizona, 451 U.S. 477 (1981)"]
+  source: original
+  tags: [wave2, miranda, invocation, right-to-silence]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CRM-0095
+  subject: CRM
+  coverage_ids: [CRM-MBE-V.B]
+  rule_ids: [R-CRM-098, R-CRM-096]
+  difficulty: 1
+  stem: >-
+    After a man was arrested for burglary, a detective gave him Miranda warnings at the station. He said that
+    he understood his rights and agreed to talk. Twenty minutes into the questioning he said, "I'm wondering
+    if maybe I ought to have a lawyer at some point." The detective did not respond to the remark and kept
+    asking about the burglary. Ten minutes later the man confessed. He moves to suppress the confession.
+  call: "Should the motion be granted?"
+  options:
+    A: "Yes, because any reference to a lawyer requires the police to stop questioning."
+    B: "No, because the man's remark was not an unambiguous request for counsel."
+    C: "Yes, because the detective was required to ask whether the man wanted a lawyer before continuing."
+    D: "No, because a suspect who has waived his Miranda rights cannot later invoke them."
+  answer: B
+  explanation_correct: >-
+    B is correct. A suspect who has waived his rights must articulate a desire for counsel clearly enough that
+    a reasonable officer would understand it as a request for an attorney; an ambiguous or equivocal reference
+    does not require questioning to stop (R-CRM-098; Davis v. United States). "Maybe I ought to have a lawyer
+    at some point" is equivocal, so the Edwards bar never arose.
+  explanation_each_wrong_option:
+    A: >-
+      Overbroad. Only an unambiguous request for counsel triggers Edwards (R-CRM-098).
+    C: >-
+      Asking a clarifying question is good practice, but Davis does not require it (R-CRM-098).
+    D: >-
+      Right result, wrong reason. A suspect may invoke his rights at any time, even after a waiver; this
+      remark simply was not an invocation (R-CRM-096, R-CRM-098).
+  trap_type: overbroad
+  authority: ["U.S. Const. amend. V", "Davis v. United States, 512 U.S. 452 (1994)", "Edwards v. Arizona, 451 U.S. 477 (1981)"]
+  source: original
+  tags: [wave2, miranda, invocation, right-to-counsel]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CRM-0096
+  subject: CRM
+  coverage_ids: [CRM-MBE-V.B]
+  rule_ids: [R-CRM-099, R-CRM-100]
+  difficulty: 2
+  stem: >-
+    A woman flagged down two officers in a crowded shopping mall and said that a man had just threatened her
+    with a knife and run toward the food court. The officers found a man matching her description in the busy
+    food court, handcuffed him and frisked him. He had an empty knife sheath on his belt. Before giving any
+    Miranda warnings, an officer asked, "Where's the knife?" The man nodded toward a trash bin a few feet away
+    and said, "I threw it in there." The officers recovered the knife from the bin. The man moves to suppress
+    both his statement and the knife.
+  call: "How should the court rule?"
+  options:
+    A: "Suppress both, because the man was in custody and was questioned without Miranda warnings."
+    B: "Suppress the statement but admit the knife, because physical evidence derived from an unwarned statement is admissible."
+    C: "Admit both, because the officer's question was prompted by an immediate concern for public safety."
+    D: "Admit both, because a single question asked at the scene of an arrest is not interrogation."
+  answer: C
+  explanation_correct: >-
+    C is correct. Police may ask questions reasonably prompted by an objective, immediate concern for public
+    safety before giving Miranda warnings, and both the answer and the evidence it leads to are admissible
+    (R-CRM-099; New York v. Quarles). An unaccounted-for knife in a trash bin in a crowded food court posed an
+    immediate danger that a shopper or worker might find it, and the officer's single question was aimed at
+    locating it.
+  explanation_each_wrong_option:
+    A: >-
+      Exception trap. Custodial interrogation without warnings ordinarily requires suppression, but the
+      public-safety exception applies (R-CRM-099).
+    B: >-
+      Half right. The knife would be admissible as physical fruit of a voluntary unwarned statement (Patane),
+      but the statement itself is also admissible under Quarles (R-CRM-099, R-CRM-100).
+    D: >-
+      Confused rule. A direct question to a suspect in custody is express questioning, however brief; the statement
+      comes in only because of the public-safety exception (R-CRM-095, R-CRM-099).
+  trap_type: exception-trap
+  authority: ["U.S. Const. amend. V", "New York v. Quarles, 467 U.S. 649 (1984)", "United States v. Patane, 542 U.S. 630 (2004)"]
+  source: original
+  tags: [wave2, miranda, public-safety-exception]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CRM-0097
+  subject: CRM
+  coverage_ids: [CRM-MBE-V.B]
+  rule_ids: [R-CRM-100]
+  difficulty: 2
+  stem: >-
+    Police arrested a woman for burglary at her workplace. During the ten-minute drive to the station, the
+    arresting officer, who had forgotten to give Miranda warnings, asked her, "Why did you do it?" She said,
+    "I needed money for rent." About two hours later at the station, a detective who knew nothing of the
+    exchange in the car gave her full Miranda warnings. She waived her rights and gave a detailed written
+    confession. There were no threats, promises or other coercion at any point. She moves to suppress the
+    written confession.
+  call: "Should the motion be granted?"
+  options:
+    A: "Yes, because the written confession was the fruit of her earlier statement obtained in violation of Miranda."
+    B: "Yes, because the police questioned her first and gave the warnings only afterward."
+    C: "Yes, because after she had admitted the crime, later warnings could not give her a meaningful choice whether to speak."
+    D: "No, because the unwarned statement was voluntary and the officer did not withhold warnings deliberately."
+  answer: D
+  explanation_correct: >-
+    D is correct. If an earlier unwarned statement was voluntary, a later statement made after proper warnings
+    and a valid waiver is admissible (R-CRM-100; Oregon v. Elstad). The exception for a deliberate
+    "question first, warn later" strategy (Missouri v. Seibert) does not apply, because the officer simply
+    forgot the warnings and a different detective, two hours later, took the warned statement. Her remark in
+    the car stays out of the case-in-chief, but the written confession comes in.
+  explanation_each_wrong_option:
+    A: >-
+      Confused rule. The fruit-of-the-poisonous-tree doctrine does not require suppression of a later warned
+      statement that follows a voluntary unwarned one (R-CRM-100).
+    B: >-
+      Missing element. Seibert excludes the later statement only when police deliberately used a two-step
+      technique without curative measures; this lapse was inadvertent (R-CRM-100).
+    C: >-
+      Elstad rejected the "cat out of the bag" argument; a voluntary earlier admission does not make a later
+      warned waiver invalid (R-CRM-100).
+  trap_type: confused-rule
+  authority: ["U.S. Const. amend. V", "Oregon v. Elstad, 470 U.S. 298 (1985)", "Missouri v. Seibert, 542 U.S. 600 (2004)"]
+  source: original
+  tags: [wave2, miranda, two-step, elstad]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CRM-0098
+  subject: CRM
+  coverage_ids: [CRM-MBE-V.B]
+  rule_ids: [R-CRM-097, R-CRM-100]
+  difficulty: 2
+  stem: >-
+    A man arrested for assault was given Miranda warnings and said nothing. At trial he testified, for the
+    first time, that the alleged victim had swung a bottle at him and that he struck back in self-defense. On
+    cross-examination the prosecutor asked, "If that is what happened, why didn't you tell the arresting
+    officers about the bottle?" Defense counsel objected.
+  call: "How should the court rule on the objection?"
+  options:
+    A: "Sustain it, because using a defendant's silence after Miranda warnings to impeach him violates due process."
+    B: "Overrule it, because by testifying the man waived his privilege against self-incrimination."
+    C: "Overrule it, because evidence obtained in violation of Miranda may be used to impeach a defendant who testifies."
+    D: "Overrule it, because his silence at the time of arrest is inconsistent with his trial testimony and so bears on his credibility."
+  answer: A
+  explanation_correct: >-
+    A is correct. Miranda warnings implicitly assure a suspect that his silence will carry no penalty, so the
+    prosecution may not use his post-warning silence to impeach his trial testimony (R-CRM-097, R-CRM-100;
+    Doyle v. Ohio). The man was silent after receiving warnings, and the question invites the jury to draw an
+    inference of guilt from that silence.
+  explanation_each_wrong_option:
+    B: >-
+      Overbroad. Testifying opens the defendant to cross-examination on his testimony, but it does not
+      permit use of his post-warning silence (R-CRM-100).
+    C: >-
+      Confused rule. Harris permits impeachment with a voluntary statement taken in violation of Miranda;
+      here there was no statement, only silence after warnings were given (R-CRM-100).
+    D: >-
+      Silence after Miranda warnings is "insolubly ambiguous" and its use is barred by Doyle; the result
+      would differ for silence before any warnings (Fletcher v. Weir) (R-CRM-100).
+  trap_type: confused-rule
+  authority: ["U.S. Const. amends. V, XIV", "Doyle v. Ohio, 426 U.S. 610 (1976)", "Harris v. New York, 401 U.S. 222 (1971)", "Fletcher v. Weir, 455 U.S. 603 (1982)"]
+  source: original
+  tags: [wave2, miranda, doyle, impeachment, silence]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CRM-0099
+  subject: CRM
+  coverage_ids: [CRM-MBE-V.B]
+  rule_ids: [R-CRM-093]
+  difficulty: 2
+  stem: >-
+    A man suffering from severe psychotic delusions telephoned the police and said he wanted to confess to a
+    crime. When two officers arrived at his home, he told them, without being asked any questions, that he had
+    set a fire at a lumberyard the month before. The officers made no threats or promises and did nothing to
+    pressure him. A psychiatrist testifies that the man believed his dead brother's voice was commanding him to
+    confess and that his illness deprived him of any real choice about whether to speak. The man moves to
+    suppress the statement, arguing only that it was involuntary in violation of due process; he does not
+    raise Miranda.
+  call: "Should the motion be granted?"
+  options:
+    A: "Yes, because his mental illness prevented the confession from being the product of a free and rational choice."
+    B: "No, because there was no coercive conduct by the police."
+    C: "No, because he was not in custody and was not interrogated."
+    D: "Yes, because the prosecution cannot prove beyond a reasonable doubt that the confession was voluntary."
+  answer: B
+  explanation_correct: >-
+    B is correct. A confession is involuntary under the Due Process Clause only if police coercion overbore the
+    suspect's will; coercive police activity is a necessary predicate, and a suspect's mental illness alone
+    does not make a confession involuntary (R-CRM-093; Colorado v. Connelly). The officers did nothing
+    coercive, so the claim fails, whatever the reliability concerns raised by the man's illness.
+  explanation_each_wrong_option:
+    A: >-
+      Confused rule. Free will is assessed only in response to police coercion; internal compulsion from
+      mental illness is not state action (R-CRM-093).
+    C: >-
+      True but irrelevant. The absence of custodial interrogation defeats a Miranda claim, but the due-process
+      voluntariness test applies to any statement, custodial or not (R-CRM-093).
+    D: >-
+      Wrong standard. The prosecution must prove voluntariness only by a preponderance of the evidence (Lego
+      v. Twomey), and absent police coercion it is satisfied (R-CRM-093).
+  trap_type: true-but-irrelevant
+  authority: ["U.S. Const. amend. XIV", "Colorado v. Connelly, 479 U.S. 157 (1986)", "Lego v. Twomey, 404 U.S. 477 (1972)"]
+  source: original
+  tags: [wave2, confessions, voluntariness, due-process]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CRM-0100
+  subject: CRM
+  coverage_ids: [CRM-MBE-V.B]
+  rule_ids: [R-CRM-101]
+  difficulty: 1
+  stem: >-
+    A man was charged with forging a series of checks. On the prosecution's motion, the court ordered him to
+    write out, in front of a document examiner, a dictated paragraph containing words that appear on the
+    forged checks, so that the examiner could compare his handwriting with the handwriting on the checks.
+    The man refused, invoking his Fifth Amendment privilege against self-incrimination.
+  call: "Is the man entitled to refuse?"
+  options:
+    A: "Yes, because the handwriting sample would be used by the prosecution to help prove that he forged the checks."
+    B: "Yes, because writing is a form of communication protected by the privilege."
+    C: "No, because the privilege does not apply until trial begins."
+    D: "No, because a handwriting exemplar is not a testimonial communication."
+  answer: D
+  explanation_correct: >-
+    D is correct. The privilege protects only compelled testimonial communications — those that disclose the
+    contents of a person's mind (R-CRM-101). A handwriting exemplar, like a blood sample or a voice exemplar,
+    is an identifying physical characteristic; copying dictated words communicates nothing about what the man
+    knows or believes (Gilbert v. California; Schmerber v. California).
+  explanation_each_wrong_option:
+    A: >-
+      Missing element. Evidence must be testimonial as well as compelled and incriminating; the exemplar is
+      incriminating but not testimonial (R-CRM-101).
+    B: >-
+      The content of what he writes is dictated to him; only the physical form of the handwriting is used,
+      and that conveys no assertion of fact (R-CRM-101).
+    C: >-
+      Procedural-posture error. The privilege applies in any proceeding, including pretrial proceedings and police questioning;
+      the exemplar is outside it because it is not testimonial (R-CRM-101).
+  trap_type: missing-element
+  authority: ["U.S. Const. amend. V", "Gilbert v. California, 388 U.S. 263 (1967)", "Schmerber v. California, 384 U.S. 757 (1966)"]
+  source: original
+  tags: [wave2, fifth-amendment, privilege, physical-evidence]
+  status: draft
+  last_verified: 2026-11-04

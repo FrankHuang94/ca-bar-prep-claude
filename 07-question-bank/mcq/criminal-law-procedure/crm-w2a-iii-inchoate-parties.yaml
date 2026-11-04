@@ -1,0 +1,245 @@
+# Criminal Law and Procedure — NCBE category III: inchoate crimes; parties
+# Original MBE-style items (wave 2, batch A). Generally accepted common-law principles unless the stem says otherwise.
+questions:
+- id: Q-CRM-0065
+  subject: CRM
+  coverage_ids: [CRM-MBE-III.A.1]
+  rule_ids: [R-CRM-061, R-CRM-060]
+  difficulty: 2
+  stem: >-
+    The jurisdiction has adopted the Model Penal Code's definition of attempt. A man planned to rob the guards
+    of an armored truck that delivered cash to a bank every Thursday at 10 a.m. He described the plan to a
+    friend, who told the police. On Thursday at 9:15 a.m., the man parked across the street from the bank in a
+    car bearing a stolen license plate, with a ski mask on the seat beside him and a loaded shotgun on the
+    floor. Officers arrested him at 9:30 a.m., before the truck arrived. He had not left the car.
+  call: "Is the man guilty of attempted robbery?"
+  options:
+    A: "No, because he had not come dangerously close to completing the robbery, since the truck had not yet arrived when he was arrested."
+    B: "No, because he never confronted the guards or displayed the shotgun."
+    C: "Yes, because lying in wait at the scene with a weapon and a disguise was a substantial step."
+    D: "Yes, because he had formed the intent to rob and had told another person of his plan."
+  answer: C
+  explanation_correct: >-
+    C is correct. Under the MPC, attempt requires the intent to commit the crime and a substantial step that
+    strongly corroborates that intent (R-CRM-061, R-CRM-060). Lying in wait for the victims, and possessing at
+    the planned scene materials to be used in the crime (the shotgun, mask and stolen plate), are listed
+    examples of conduct that can qualify (MPC § 5.01(2)(a), (f)). His conduct went beyond mere preparation.
+  explanation_each_wrong_option:
+    A: >-
+      Wrong standard. Dangerous proximity is the common-law test; the jurisdiction uses the MPC
+      substantial-step test (R-CRM-061).
+    B: >-
+      The MPC does not require the last act or a confrontation with the victim; a substantial step may come
+      well before that point (R-CRM-061).
+    D: >-
+      Overbroad. Intent and talk alone are not an attempt; the act requirement is met by his conduct at the
+      scene, not by his plan or his statement to a friend (R-CRM-061).
+  trap_type: wrong-standard
+  authority: ["MPC § 5.01(1)(c), (2)", "People v. Rizzo, 246 N.Y. 334 (1927) (contrast: proximity test)"]
+  source: original
+  tags: [wave2, attempt, substantial-step]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CRM-0066
+  subject: CRM
+  coverage_ids: [CRM-MBE-III.A.2]
+  rule_ids: [R-CRM-067]
+  difficulty: 2
+  stem: >-
+    Two men agreed to haul untaxed cigarettes by truck into the state for resale, a felony under state law.
+    One would drive; the other, the organizer, would find buyers. The organizer knew that the driver always
+    carried a loaded pistol on these runs "in case anyone tries to take the load." On one run a state trooper
+    stopped the truck. Fearing arrest and the loss of the cigarettes, the driver shot at the trooper,
+    wounding him. The organizer was in another city at the time. The jurisdiction follows the common law of
+    conspiracy, including the Pinkerton rule.
+  call: "Can the organizer properly be convicted of the assault on the trooper?"
+  options:
+    A: "No, because the organizer did not agree to the shooting or take part in it."
+    B: "No, because the organizer was not present when the shooting occurred."
+    C: "Yes, because a conspirator is liable for every crime a co-conspirator commits while the conspiracy continues."
+    D: "Yes, because the shooting was committed in furtherance of the conspiracy and was reasonably foreseeable."
+  answer: D
+  explanation_correct: >-
+    D is correct. Under Pinkerton, each conspirator is liable for crimes committed by a co-conspirator in
+    furtherance of the conspiracy that were reasonably foreseeable as a natural consequence of it, even
+    without personal participation (R-CRM-067). The driver fired to protect the load and avoid arrest, which
+    furthered the smuggling venture, and the organizer's knowledge that the driver carried a loaded gun for
+    exactly that situation makes the shooting foreseeable.
+  explanation_each_wrong_option:
+    A: >-
+      Pinkerton liability requires neither agreement to the specific crime nor participation in it
+      (R-CRM-067).
+    B: >-
+      Presence is irrelevant to Pinkerton liability; the organizer is liable because of his membership in the
+      conspiracy (R-CRM-067).
+    C: >-
+      Overbroad. Pinkerton reaches only crimes in furtherance of the conspiracy that were reasonably
+      foreseeable, not every crime a co-conspirator commits (R-CRM-067).
+  trap_type: overbroad
+  authority: ["Pinkerton v. United States, 328 U.S. 640 (1946)", "MPC § 2.06 (contrast: rejects Pinkerton)"]
+  source: original
+  tags: [wave2, conspiracy, pinkerton]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CRM-0067
+  subject: CRM
+  coverage_ids: [CRM-MBE-III.A.2]
+  rule_ids: [R-CRM-066]
+  difficulty: 3
+  stem: >-
+    A woman ran an illegal bookmaking operation, a felony in the state, from an apartment she rented. The
+    landlord knew when he leased the unit to her that she intended to use it for bookmaking. The landlord and
+    the woman are charged with conspiracy to commit illegal bookmaking. The evidence so far shows only that
+    the landlord knew of her plan and leased the apartment to her on the same terms he offered other tenants.
+  call: "Which of the following additional facts, if proved, would most strengthen the case that the landlord is guilty of conspiracy?"
+  options:
+    A: "The landlord knew that the woman had two prior convictions for bookmaking."
+    B: "The landlord charged her twice the market rent because of the use she planned to make of the apartment."
+    C: "The landlord never reported the bookmaking operation to the police."
+    D: "The landlord once placed a small bet on a professional football game through the woman's bookmaking operation."
+  answer: B
+  explanation_correct: >-
+    B is correct. Conspiracy requires an agreement plus intent that the object crime be committed; a supplier
+    of lawful goods or services who merely knows of the customer's criminal purpose is not a conspirator
+    (R-CRM-066). Intent may be inferred from facts showing a stake in the venture, such as an inflated price
+    charged because of the illegal use. Doubling the rent because of the bookmaking ties the landlord's profit
+    to the illegal business.
+  explanation_each_wrong_option:
+    A: >-
+      True but irrelevant. Prior convictions add to the landlord's knowledge, but knowledge alone does not
+      show an intent to further the crime (R-CRM-066).
+    C: >-
+      There is generally no duty to report a crime, and silence does not show an agreement or an intent to
+      promote the operation (R-CRM-066).
+    D: >-
+      Placing one bet makes the landlord a customer of the operation, not a partner with an interest in its
+      success; it adds little to proof that he agreed to further the bookmaking business (R-CRM-066).
+  trap_type: true-but-irrelevant
+  authority: ["United States v. Falcone, 311 U.S. 205 (1940)", "Direct Sales Co. v. United States, 319 U.S. 703 (1943)"]
+  source: original
+  tags: [wave2, conspiracy, supplier, stake-in-venture]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CRM-0068
+  subject: CRM
+  coverage_ids: [CRM-MBE-III.A.3, CRM-MBE-III.A.2]
+  rule_ids: [R-CRM-064, R-CRM-068, R-CRM-069]
+  difficulty: 2
+  stem: >-
+    A woman asked her neighbor to steal a business rival's laptop from the rival's car, promising him $300.
+    She wanted to keep the laptop and read the rival's files. The neighbor agreed, and the next day he broke
+    into the car, took the laptop and delivered it to her. The woman is charged with solicitation, conspiracy
+    and larceny. The jurisdiction follows the common law and requires an overt act for conspiracy.
+  call: "Of which crimes can the woman properly be convicted?"
+  options:
+    A: "Conspiracy and larceny."
+    B: "Solicitation, conspiracy and larceny."
+    C: "Larceny only."
+    D: "Solicitation and larceny."
+  answer: A
+  explanation_correct: >-
+    A is correct. Her request was a solicitation, but solicitation merges into the conspiracy once the person
+    solicited agrees (R-CRM-064). The agreement plus the theft (an overt act) made a conspiracy, and
+    conspiracy does not merge with the completed crime (R-CRM-068). By inducing and paying for the theft she
+    is an accomplice and liable for the larceny itself (R-CRM-069).
+  explanation_each_wrong_option:
+    B: >-
+      Overbroad. Solicitation is a lesser offense that merges into the conspiracy when the solicitee agrees,
+      so she cannot be convicted of both (R-CRM-064).
+    C: >-
+      Confused rule. Conspiracy, unlike attempt and solicitation, does not merge into the completed crime
+      (R-CRM-068).
+    D: >-
+      Solicitation merges once agreement forms; the surviving inchoate offense is conspiracy, which stands
+      alongside the larceny (R-CRM-064, R-CRM-068).
+  trap_type: confused-rule
+  authority: ["Common law", "MPC § 1.07(1)(b) (contrast: MPC bars conviction of both conspiracy and the object crime)"]
+  source: original
+  tags: [wave2, solicitation, merger, conspiracy]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CRM-0069
+  subject: CRM
+  coverage_ids: [CRM-MBE-III.B]
+  rule_ids: [R-CRM-069, R-CRM-048]
+  difficulty: 1
+  stem: >-
+    A man's friend told him that he was going to take a wallet he had seen on the seat of an unlocked car
+    parked on their street. The man said nothing and walked along with his friend, watching as the friend
+    opened the car door and took the wallet. The man did not act as a lookout, say anything or otherwise
+    help, and the friend did not ask him to. Later that day the friend gave him $20 from the wallet, and he
+    accepted it knowing where it came from. The friend has fled the state and has not been prosecuted.
+  call: "Is the man guilty of larceny as an accomplice?"
+  options:
+    A: "No, because he neither aided nor encouraged the theft."
+    B: "Yes, because he knew of the plan and was present when the wallet was taken."
+    C: "Yes, because he accepted part of the stolen money afterward."
+    D: "No, because the friend who took the wallet has not been convicted."
+  answer: A
+  explanation_correct: >-
+    A is correct. Accomplice liability requires an act of aid or encouragement given with the intent that the
+    crime be committed; mere presence at the scene, even with knowledge and silent approval, is not enough
+    (R-CRM-069). The man did nothing to help or encourage the theft. Accepting part of the money later may be
+    receiving stolen property (R-CRM-048), but it is not complicity in the larceny.
+  explanation_each_wrong_option:
+    B: >-
+      Missing element. Knowledge and presence without aid or encouragement do not make a person an accomplice
+      (R-CRM-069).
+    C: >-
+      Aid must be given before or during the crime; accepting proceeds afterward is a separate offense, not
+      accomplice liability for the theft (R-CRM-048, R-CRM-069).
+    D: >-
+      Right result, wrong reason. An accomplice may be convicted even if the principal has not been
+      prosecuted or convicted (R-CRM-069).
+  trap_type: missing-element
+  authority: ["Common law", "MPC § 2.06(3)", "Standefer v. United States, 447 U.S. 10 (1980)"]
+  source: original
+  tags: [wave2, accomplice, mere-presence]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CRM-0070
+  subject: CRM
+  coverage_ids: [CRM-MBE-III.B]
+  rule_ids: [R-CRM-071, R-CRM-069]
+  difficulty: 2
+  stem: >-
+    The morning after a gas-station robbery, the robber, who had spent the night at his own apartment, came to
+    the house of a longtime friend. He told the friend that he had robbed the station at knifepoint the night
+    before, that police were looking for him and that he needed somewhere to hide. The friend had known
+    nothing of the robbery beforehand. He let the robber stay in his basement for two nights, and when police
+    officers came to the door, he told them he had not seen the robber in months. The jurisdiction follows
+    the common law of parties to crime.
+  call: "Of which crime is the friend guilty?"
+  options:
+    A: "Robbery, because he knowingly helped the robber avoid arrest."
+    B: "Robbery, because aid given to a robber who is still evading the police makes the helper an accomplice."
+    C: "No crime, because he took no part in the robbery itself."
+    D: "Accessory after the fact, but not robbery."
+  answer: D
+  explanation_correct: >-
+    D is correct. An accomplice must aid or encourage the crime before or during its commission with intent
+    that it succeed (R-CRM-069). One who, knowing a felony has been completed, helps the felon avoid arrest
+    or punishment is an accessory after the fact, a separate and lesser offense (R-CRM-071). The friend learned
+    of the robbery only afterward and then hid the robber and lied to police to protect him.
+  explanation_each_wrong_option:
+    A: >-
+      Confused rule. Helping a felon escape after the crime makes one an accessory after the fact, not a party
+      to the felony itself (R-CRM-071).
+    B: >-
+      The robbery was over — the robber had reached the safety of his own apartment the night before — and
+      help that was neither promised nor given before or during the crime does not make the helper an
+      accomplice, however long the robber goes on evading arrest (R-CRM-069, R-CRM-071).
+    C: >-
+      Overbroad. Not participating in the robbery avoids accomplice liability, but knowingly harboring the
+      felon and lying to police is the crime of accessory after the fact (R-CRM-071).
+  trap_type: confused-rule
+  authority: ["Common law", "18 U.S.C. § 3"]
+  source: original
+  tags: [wave2, parties, accessory-after-the-fact]
+  status: draft
+  last_verified: 2026-11-04

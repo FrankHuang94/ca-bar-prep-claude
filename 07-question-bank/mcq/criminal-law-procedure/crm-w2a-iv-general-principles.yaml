@@ -1,0 +1,209 @@
+# Criminal Law and Procedure — NCBE category IV: general principles
+# Original MBE-style items (wave 2, batch A). Generally accepted principles unless the stem names the MPC or a statute.
+questions:
+- id: Q-CRM-0071
+  subject: CRM
+  coverage_ids: [CRM-MBE-IV.F, CRM-MBE-V.F]
+  rule_ids: [R-CRM-014, R-CRM-117]
+  difficulty: 2
+  stem: >-
+    A river forms the boundary between State A and State B. Standing on the State A bank, a man fired a rifle
+    at his business partner, who was fishing on the State B bank. The bullet struck and killed the partner in
+    State B. State A prosecuted the man for murder, and he was convicted. State B then indicted him for murder
+    for the same killing. The man moves to dismiss the State B indictment.
+  call: "How should the court rule on the motion?"
+  options:
+    A: "Grant it, because the Double Jeopardy Clause bars a second prosecution for the same killing."
+    B: "Grant it, because only the state in which the defendant acted may prosecute him."
+    C: "Deny it, because the death occurred in State B, and State A and State B are separate sovereigns."
+    D: "Deny it, because the Double Jeopardy Clause does not apply to prosecutions by the states."
+  answer: C
+  explanation_correct: >-
+    C is correct. A state may prosecute a crime if any element, including the result, occurs within its
+    territory (R-CRM-014); the death, an element of murder, occurred in State B. The Double Jeopardy Clause
+    bars successive prosecutions for the same offense only by the same sovereign, and two states are separate
+    sovereigns, so a prior conviction in State A does not bar State B's prosecution (R-CRM-117; Heath v.
+    Alabama).
+  explanation_each_wrong_option:
+    A: >-
+      Overbroad. Under the dual-sovereignty doctrine, prosecutions by different states are not for the "same
+      offense," because each state enforces its own law (R-CRM-117).
+    B: >-
+      Confused rule. Territorial jurisdiction rests on conduct or result; both State A (conduct) and State B (result)
+      may prosecute (R-CRM-014).
+    D: >-
+      Right result, wrong reason. The Double Jeopardy Clause applies to the states through the Fourteenth
+      Amendment (Benton v. Maryland); State B may proceed only because it is a separate sovereign
+      (R-CRM-116, R-CRM-117).
+  trap_type: right-result-wrong-reason
+  authority: ["MPC § 1.03(1)(a)", "Heath v. Alabama, 474 U.S. 82 (1985)", "Gamble v. United States, 587 U.S. 678 (2019)", "Benton v. Maryland, 395 U.S. 784 (1969)"]
+  source: original
+  tags: [wave2, jurisdiction, dual-sovereignty, double-jeopardy]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CRM-0072
+  subject: CRM
+  coverage_ids: [CRM-MBE-IV.E]
+  rule_ids: [R-CRM-029]
+  difficulty: 2
+  stem: >-
+    An undercover officer approached a man at a flea market and asked whether he could get "some oxy"
+    (oxycodone pills). The man immediately said yes, quoted a price per pill, mentioned that he had "regular
+    customers," and offered to deliver 100 pills the next day. He did so and was arrested. At trial he
+    testifies that he had never sold drugs before and did so only because the officer asked. The jurisdiction
+    follows the approach to entrapment used in the federal courts.
+  call: "Is the man likely to succeed with a defense of entrapment?"
+  options:
+    A: "Yes, because the idea for the sale originated with a government agent."
+    B: "No, because the officer merely offered an opportunity to a predisposed seller."
+    C: "Yes, because he had never sold drugs before the officer approached him and asked him to supply the pills."
+    D: "No, because entrapment is available only when the government uses threats or force."
+  answer: B
+  explanation_correct: >-
+    B is correct. Under the subjective test used in federal courts, entrapment requires government
+    inducement of a person not predisposed to commit the crime (R-CRM-029). Merely offering an ordinary
+    opportunity is not inducement, and the man's immediate agreement, his quoted price, his reference to
+    regular customers and his ready supply all show predisposition, whatever his claimed lack of prior sales.
+  explanation_each_wrong_option:
+    A: >-
+      Government origination of the idea is not enough; the defense also requires inducement of an
+      unpredisposed person (R-CRM-029).
+    C: >-
+      Not dispositive. A lack of prior sales bears on predisposition, but his immediate agreement, quoted
+      price, reference to regular customers and ready supply show predisposition here (R-CRM-029).
+    D: >-
+      Right result, wrong reason. Inducement can take many forms — persistent pleas, appeals to friendship or
+      sympathy — and need not involve threats or force (R-CRM-029).
+  trap_type: right-result-wrong-reason
+  authority: ["Sorrells v. United States, 287 U.S. 435 (1932)", "Sherman v. United States, 356 U.S. 369 (1958)", "Jacobson v. United States, 503 U.S. 540 (1992)"]
+  source: original
+  tags: [wave2, defenses, entrapment, predisposition]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CRM-0073
+  subject: CRM
+  coverage_ids: [CRM-MBE-IV.E]
+  rule_ids: [R-CRM-022, R-CRM-020]
+  difficulty: 3
+  stem: >-
+    During an argument in a crowded bar, a man shoved another patron hard, knocking him into a table. The
+    patron got up, pulled out a hunting knife and came at the man, shouting, "I'm going to gut you." The man
+    backed away but was trapped in a corner by the wall and the crowd. As the patron slashed at him, the man
+    grabbed a heavy glass beer pitcher and struck the patron on the head, killing him. The man is charged with
+    murder and claims self-defense. The jurisdiction follows the common law.
+  call: "Is the man likely to be acquitted?"
+  options:
+    A: "No, because he started the fight and therefore forfeited the right of self-defense."
+    B: "No, because, as the initial aggressor, he had to withdraw and communicate his withdrawal before using any deadly force."
+    C: "Yes, because the patron escalated to deadly force, and the man could not safely withdraw."
+    D: "Yes, because anyone attacked with a deadly weapon may respond with deadly force."
+  answer: C
+  explanation_correct: >-
+    C is correct. An initial aggressor generally may not claim self-defense, but he regains the right if he
+    withdraws in good faith and communicates it, or if the victim of his non-deadly aggression suddenly
+    escalates to deadly force and the aggressor cannot safely withdraw (R-CRM-022). The man's shove was
+    non-deadly; the patron answered with a knife attack, and the man, cornered, faced imminent death or
+    serious bodily injury, justifying deadly force (R-CRM-020).
+  explanation_each_wrong_option:
+    A: >-
+      Overbroad. Initial-aggressor status is not permanent; sudden escalation to deadly force by the other
+      party restores the right of self-defense (R-CRM-022).
+    B: >-
+      Confused rule. Withdrawal and communication is one way to regain the right; the escalation rule is
+      another, and it applies where, as here, safe withdrawal is impossible (R-CRM-022).
+    D: >-
+      Right result, wrong reason. An initial aggressor who could safely withdraw, or who began with deadly
+      force, may not respond with deadly force; the result turns on non-deadly aggression and inability to
+      withdraw (R-CRM-022).
+  trap_type: confused-rule
+  authority: ["Common law", "MPC § 3.04(2)(b)(i)"]
+  source: original
+  tags: [wave2, defenses, self-defense, initial-aggressor]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CRM-0074
+  subject: CRM
+  coverage_ids: [CRM-MBE-IV.B.1, CRM-MBE-IV.B.2]
+  rule_ids: [R-CRM-005, R-CRM-006]
+  difficulty: 2
+  stem: >-
+    A statute provides: "Any person who damages an underground public utility line is guilty of a felony."
+    It says nothing about mental state. The jurisdiction has adopted the Model Penal Code's culpability
+    provisions, including its limits on strict liability. Digging a fence trench in his yard with a rented
+    excavator, a homeowner cut a buried fiber-optic line. He had not called the free utility-locating service
+    first. The jury finds that he was unaware of any risk that a line was buried there, but that a reasonable
+    person would have been aware of a substantial risk and that his failure to check was a gross deviation
+    from reasonable care.
+  call: "Should the homeowner be convicted?"
+  options:
+    A: "Yes, because the statute is silent on mental state and therefore imposes strict liability."
+    B: "Yes, because negligence is the minimum culpability the Model Penal Code requires when a statute is silent."
+    C: "No, because a felony statute that is silent on mental state requires proof that he acted purposely."
+    D: "No, because a statute silent on mental state requires at least recklessness, and he was only negligent."
+  answer: D
+  explanation_correct: >-
+    D is correct. Under the MPC, when a statute does not prescribe a culpability level, each material element
+    is established only if the defendant acted purposely, knowingly or recklessly (R-CRM-005; MPC § 2.02(3)).
+    Recklessness requires conscious disregard of a substantial and unjustifiable risk; the jury found that the
+    homeowner was unaware of the risk, which is negligence. Strict liability is limited to violations, not
+    felonies (R-CRM-006; MPC § 2.05).
+  explanation_each_wrong_option:
+    A: >-
+      Confused rule. The MPC confines strict liability to violations; a felony statute's silence triggers the
+      recklessness default (R-CRM-006).
+    B: >-
+      Wrong standard. The MPC's default is recklessness, not negligence; negligence suffices only when the
+      statute expressly so provides (R-CRM-005).
+    C: >-
+      Right result, wrong reason. Purpose is not required; recklessness would have been enough had the jury
+      found it (R-CRM-005).
+  trap_type: wrong-standard
+  authority: ["MPC §§ 2.02(2)(c)–(d), 2.02(3), 2.05"]
+  source: original
+  tags: [wave2, mens-rea, mpc-default-culpability]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CRM-0075
+  subject: CRM
+  coverage_ids: [CRM-MBE-IV.B.3]
+  rule_ids: [R-CRM-010, R-CRM-048]
+  difficulty: 3
+  stem: >-
+    A statute makes it a crime to "knowingly receive stolen property." A man bought a nearly new laptop from
+    a coworker for $300; the same model sold new for $1,500. The coworker said that his former employer had
+    let departing employees keep their old laptops. In fact the laptop was stolen. The jury finds that the man
+    honestly believed the coworker and did not suspect that the laptop was stolen, but that a reasonable
+    person would have suspected it.
+  call: "Should the man be convicted?"
+  options:
+    A: "Yes, because a mistake of fact is a defense only if it is reasonable."
+    B: "No, because his honest belief, even though unreasonable, negated the knowledge the statute requires."
+    C: "Yes, because a reasonable person would have recognized from the low price that the laptop was stolen."
+    D: "No, because he paid value for the laptop and so was a good-faith purchaser."
+  answer: B
+  explanation_correct: >-
+    B is correct. A mistake of fact is a defense when it negates the mental state the crime requires; where
+    that mental state is knowledge, any honest mistake suffices, reasonable or not (R-CRM-010). The statute
+    requires knowledge that the property is stolen, and the jury found that he honestly believed it was not
+    and did not even suspect it (R-CRM-048). Suspicious circumstances are evidence of knowledge, not a
+    substitute for it.
+  explanation_each_wrong_option:
+    A: >-
+      Wrong standard. The reasonableness requirement applies to general-intent and malice crimes; a mistake
+      that negates a required knowledge or specific-intent element need only be honest (R-CRM-010).
+    C: >-
+      Wrong standard. This substitutes negligence for the knowledge the statute requires (R-CRM-010,
+      R-CRM-048).
+    D: >-
+      Right result, wrong reason. Paying value creates no defense to receiving stolen property; the absence
+      of knowledge does (R-CRM-048).
+  trap_type: wrong-standard
+  authority: ["MPC §§ 2.04(1), 2.02(7)", "Common law"]
+  source: original
+  tags: [wave2, mistake-of-fact, receiving-stolen-property]
+  status: draft
+  last_verified: 2026-11-04

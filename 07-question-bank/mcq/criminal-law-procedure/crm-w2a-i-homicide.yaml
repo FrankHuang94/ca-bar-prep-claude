@@ -1,0 +1,295 @@
+# Criminal Law and Procedure — NCBE category I: homicide
+# Original MBE-style items (wave 2, batch A). Generally accepted common-law principles unless the stem says otherwise.
+questions:
+- id: Q-CRM-0051
+  subject: CRM
+  coverage_ids: [CRM-MBE-I.A.1, CRM-MBE-IV.C.2]
+  rule_ids: [R-CRM-033, R-CRM-018, R-CRM-034]
+  difficulty: 2
+  stem: >-
+    A state's statute defines first-degree murder as a "willful, deliberate, and premeditated killing"; all
+    other murder is second-degree murder. The state has no statute on intoxication. After drinking steadily for
+    six hours at a wedding reception, a man got into an argument with his cousin, who called him a "worthless
+    drunk" in front of the other guests. The man pulled a pistol from his jacket, shouted, "I'll kill you," and
+    shot the cousin twice in the chest, killing him. At trial, an expert testifies that the man's blood-alcohol
+    level was so high that he could not have reflected on his decision. The jury believes the expert and finds
+    that the man intended to kill but did not premeditate or deliberate.
+  call: "What is the most serious crime of which the man can properly be convicted?"
+  options:
+    A: "First-degree murder, because voluntary intoxication is not a defense to murder."
+    B: "Second-degree murder, because intoxication can negate premeditation and deliberation but did not negate his intent to kill."
+    C: "Voluntary manslaughter, because the insult, combined with his intoxication, provoked him to kill in the heat of passion."
+    D: "Involuntary manslaughter, because his intoxication prevented him from forming malice aforethought."
+  answer: B
+  explanation_correct: >-
+    B is correct. Premeditation and deliberation are the specific mental elements that raise an intentional
+    killing to first-degree murder (R-CRM-033), and voluntary intoxication may be considered to negate a
+    specific mental element if it actually prevented the defendant from forming it (R-CRM-018). On the jury's
+    findings the man did not premeditate or deliberate, but he did intend to kill; intent to kill is express
+    malice, so the killing remains murder, of the second degree.
+  explanation_each_wrong_option:
+    A: >-
+      Overbroad. Voluntary intoxication does not excuse murder generally, but it can negate the premeditation
+      and deliberation that first-degree murder requires (R-CRM-033, R-CRM-018).
+    C: >-
+      Confused rule. Voluntary manslaughter requires adequate provocation judged by a reasonable (sober) person;
+      a verbal insult is not adequate provocation, and the defendant's intoxication cannot make it so
+      (R-CRM-034).
+    D: >-
+      Fact misread. The jury found that he intended to kill, which is express malice, so malice is established
+      whatever else his intoxication affected. Involuntary manslaughter covers unintended killings
+      (R-CRM-018, R-CRM-037).
+  trap_type: confused-rule
+  authority: ["Common law", "MPC § 2.08(1)"]
+  source: original
+  tags: [wave2, homicide, premeditation, intoxication]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CRM-0052
+  subject: CRM
+  coverage_ids: [CRM-MBE-I.A.2]
+  rule_ids: [R-CRM-034]
+  difficulty: 1
+  stem: >-
+    During a dispute over a parking space, a stranger punched a man repeatedly in the face, breaking his jaw.
+    The man spent a night in the hospital. Three days later, still in pain, unable to sleep and, by his own
+    account, "boiling with rage," he saw the stranger at a gas station, took a pistol from his glove
+    compartment and shot him dead. Witnesses confirm that the man appeared furious when he fired. The
+    jurisdiction follows the common law of homicide and does not divide murder into degrees.
+  call: "Of which crime is the man most likely to be convicted?"
+  options:
+    A: "Voluntary manslaughter, because a beating severe enough to break a person's jaw is adequate provocation."
+    B: "Voluntary manslaughter, because the man had not in fact cooled off when he fired."
+    C: "Involuntary manslaughter, because his rage prevented him from forming an intent to kill."
+    D: "Murder, because a reasonable person would have cooled off during the three days between the beating and the shooting."
+  answer: D
+  explanation_correct: >-
+    D is correct. An intentional killing is reduced to voluntary manslaughter only if the defendant was
+    adequately provoked, was actually provoked, and killed before a reasonable person would have cooled off
+    and before he actually cooled off (R-CRM-034). The beating was adequate provocation, but cooling time is
+    judged objectively; three days, including a night in the hospital, is ample time for a reasonable person's
+    passion to subside. With one element missing, the killing is murder.
+  explanation_each_wrong_option:
+    A: >-
+      Missing element. A serious battery is adequate provocation, but mitigation also requires that the
+      killing occur before a reasonable person would have cooled off (R-CRM-034).
+    B: >-
+      Wrong standard. The defendant's actual, continuing rage satisfies only the subjective element; the
+      objective cooling-time element fails (R-CRM-034).
+    C: >-
+      Shooting a person with a pistol out of rage shows an intent to kill; anger does not negate that intent,
+      and involuntary manslaughter covers unintended killings (R-CRM-037).
+  trap_type: missing-element
+  authority: ["Common law", "MPC § 210.3(1)(b) (contrast: extreme mental or emotional disturbance)"]
+  source: original
+  tags: [wave2, homicide, provocation, cooling-time]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CRM-0053
+  subject: CRM
+  coverage_ids: [CRM-MBE-I.B.1]
+  rule_ids: [R-CRM-035, R-CRM-008]
+  difficulty: 2
+  stem: >-
+    Outside a nightclub, a man threw a heavy brick at the head of a bouncer who had ejected him, intending,
+    as he later admitted, to "crack his skull" but not to kill him. The bouncer ducked, and the brick struck
+    a woman standing behind him in line. She died of a skull fracture. The man had not noticed the woman
+    before he threw the brick. The jurisdiction follows the common law.
+  call: "What is the most serious crime of which the man can properly be convicted for the woman's death?"
+  options:
+    A: "Murder, because his intent to inflict serious bodily injury on the bouncer transfers to the woman."
+    B: "Murder, but only if he consciously disregarded an extremely high risk of death to bystanders."
+    C: "Voluntary manslaughter, because he intended to injure but not to kill."
+    D: "Involuntary manslaughter, because he had no intent to harm the woman."
+  answer: A
+  explanation_correct: >-
+    A is correct. Intent to inflict serious bodily injury is malice aforethought, so a resulting death is
+    murder even without intent to kill (R-CRM-035). Under transferred intent, when a defendant intends a harm
+    to one person and causes the same kind of harm to another, the intent transfers to the actual victim
+    (R-CRM-008). His intent to fracture the bouncer's skull supplies malice as to the woman.
+  explanation_each_wrong_option:
+    B: >-
+      Confused rule. Depraved-heart awareness is an alternative route to malice; it is unnecessary where the
+      defendant intended serious bodily injury, which transfers to the unintended victim (R-CRM-008,
+      R-CRM-035).
+    C: >-
+      Voluntary manslaughter is an intentional killing mitigated by adequate provocation; intent to cause
+      serious bodily injury is malice and makes the killing murder, and nothing here mitigates it (R-CRM-034,
+      R-CRM-035).
+    D: >-
+      Ignores transferred intent. Lack of intent toward the actual victim does not matter when the same kind
+      of harm was intended toward someone else (R-CRM-008).
+  trap_type: confused-rule
+  authority: ["Common law", "MPC § 2.03(2)(a)"]
+  source: original
+  tags: [wave2, homicide, intent-to-injure, transferred-intent]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CRM-0054
+  subject: CRM
+  coverage_ids: [CRM-MBE-I.B.2]
+  rule_ids: [R-CRM-036, R-CRM-037]
+  difficulty: 2
+  stem: >-
+    A man who had moved to a rural property a week earlier set up bottles on a fence post and fired a rifle
+    at them. Behind the post was a wooded hill, and beyond the hill ran a public hiking trail marked by a sign
+    visible from his yard; a neighbor had mentioned that hikers used the area. A bullet passed over the hill
+    and killed a hiker. The jury finds that the man honestly did not realize that anyone might be behind the
+    hill, but that a reasonable person would have realized the risk and that his failure to do so was a gross
+    deviation from reasonable care. In the jurisdiction, depraved-heart murder requires that the defendant
+    actually be aware of an extremely high risk of death.
+  call: "What is the most serious crime of which the man can properly be convicted?"
+  options:
+    A: "Murder, because firing a rifle toward an area that people might use shows extreme indifference to human life."
+    B: "Murder, because a reasonable person in his position would have realized the risk."
+    C: "Involuntary manslaughter, because he was criminally negligent but unaware of the risk."
+    D: "No homicide offense, because he honestly believed that no one was behind the hill."
+  answer: C
+  explanation_correct: >-
+    C is correct. Depraved-heart murder requires conscious disregard of an extremely high risk of death
+    (R-CRM-036), and the jury found the man unaware of any risk. An unintended killing caused by criminal
+    negligence — a gross deviation from the care a reasonable person would exercise, creating a substantial
+    and unjustifiable risk — is involuntary manslaughter (R-CRM-037). The jury's findings fit that offense
+    exactly.
+  explanation_each_wrong_option:
+    A: >-
+      Missing element. However dangerous the conduct, malice by depraved heart requires actual awareness of
+      the risk in this jurisdiction (R-CRM-036).
+    B: >-
+      Wrong standard. What a reasonable person would have realized is the objective test for criminal
+      negligence, not for depraved-heart malice (R-CRM-036, R-CRM-037).
+    D: >-
+      An honest belief defeats awareness, but criminal negligence is judged objectively; his gross failure to
+      perceive an obvious risk supports involuntary manslaughter (R-CRM-037).
+  trap_type: wrong-standard
+  authority: ["Common law", "MPC §§ 2.02(2)(c)–(d), 210.2(1)(b)", "MPC § 210.4 (contrast: under the MPC a negligent killing is negligent homicide, not manslaughter)"]
+  source: original
+  tags: [wave2, homicide, depraved-heart, criminal-negligence]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CRM-0055
+  subject: CRM
+  coverage_ids: [CRM-MBE-I.B.3]
+  rule_ids: [R-CRM-039, R-CRM-040]
+  difficulty: 2
+  stem: >-
+    Two men robbed a jewelry store at gunpoint and drove 40 miles to a rented cabin. No one followed them, and
+    they stayed in the cabin overnight. The next afternoon, about 20 hours after the robbery, police who had
+    traced one robber's phone surrounded the cabin. One robber fired a rifle through a window, killing an
+    officer. The other robber, who was unarmed and hiding in a back room, surrendered. He is charged with
+    felony murder for the officer's death. The jurisdiction applies the generally accepted limits on the
+    felony-murder rule.
+  call: "Can the unarmed robber properly be convicted of felony murder?"
+  options:
+    A: "Yes, because the officer was killed by a co-felon trying to avoid arrest for the robbery."
+    B: "Yes, because flight from a robbery continues until the robbers are arrested."
+    C: "No, because the robbery had ended when the robbers reached a place of temporary safety."
+    D: "No, because he did not kill the officer or intend that anyone be killed."
+  answer: C
+  explanation_correct: >-
+    C is correct. Felony murder covers killings during the felony, from the attempt through immediate flight,
+    and the felony ends when the felons reach a place of temporary safety (R-CRM-040). The robbers had escaped
+    unpursued and spent the night in the cabin, so the robbery was over when the officer was killed the next
+    day. The killing may be murder by the shooter, but it is not felony murder chargeable to his partner.
+  explanation_each_wrong_option:
+    A: >-
+      A killing by a co-felon satisfies the agency rule only if it occurs during the felony; this one occurred
+      after the felony ended (R-CRM-040, R-CRM-041).
+    B: >-
+      Overbroad. Flight is part of the felony only until the felons reach temporary safety, not until arrest
+      (R-CRM-040).
+    D: >-
+      Right result, wrong reason. Felony murder requires no intent to kill and no personal act of killing; a
+      felon is liable for a co-felon's killing during the felony (R-CRM-039).
+  trap_type: overbroad
+  authority: ["Common law (felony murder ends at a place of temporary safety)"]
+  source: original
+  tags: [wave2, homicide, felony-murder, temporary-safety]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CRM-0056
+  subject: CRM
+  coverage_ids: [CRM-MBE-I.B.3]
+  rule_ids: [R-CRM-040, R-CRM-039, R-CRM-035]
+  difficulty: 3
+  stem: >-
+    A state's statutes provide that "a killing committed in the perpetration of any felony is murder" and that
+    assault with a deadly weapon is a felony. Courts in the state apply the generally accepted limits on the
+    felony-murder rule. During an argument, a man swung a tire iron at another man's head, intending to
+    frighten him by missing narrowly. The tire iron struck the other man's temple, and he died. The prosecution
+    proceeds on a single theory: felony murder based on the assault with a deadly weapon.
+  call: "Can the man properly be convicted of murder on that theory?"
+  options:
+    A: "Yes, because assault with a deadly weapon is an inherently dangerous felony."
+    B: "No, because the assault was not independent of the killing and therefore merges with it."
+    C: "Yes, because the death occurred during the commission of a felony and was a foreseeable result of it."
+    D: "No, because the man did not intend to kill or seriously injure the victim."
+  answer: B
+  explanation_correct: >-
+    B is correct. Under the merger limitation, the predicate felony must be independent of the homicide; an
+    assault that is itself the act causing death merges with the killing and cannot support felony murder
+    (R-CRM-040). Otherwise every assault ending in death would become murder without proof of malice. The
+    prosecution must instead prove malice directly (for example, depraved heart), not through the assault.
+  explanation_each_wrong_option:
+    A: >-
+      True but irrelevant. Assault with a deadly weapon is dangerous, but dangerousness does not overcome the
+      merger rule (R-CRM-040).
+    C: >-
+      Missing element. Timing and foreseeability are required, but so is an independent felony; the assault
+      fails that requirement (R-CRM-040).
+    D: >-
+      Right result, wrong reason. Felony murder requires no intent to kill or injure; the theory fails because
+      of merger, not because of the man's mental state (R-CRM-039, R-CRM-040).
+  trap_type: true-but-irrelevant
+  authority: ["Common law (merger limitation on felony murder)"]
+  source: original
+  tags: [wave2, homicide, felony-murder, merger]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CRM-0057
+  subject: CRM
+  coverage_ids: [CRM-MBE-I.B.4]
+  rule_ids: [R-CRM-042, R-CRM-012]
+  difficulty: 1
+  stem: >-
+    A woman was driving with a license that had expired two months earlier; driving without a valid license
+    is a misdemeanor under the state's licensing code. She was driving carefully and below the speed limit
+    when a child ran into the street from between two parked cars. No driver could have stopped in time, and
+    the child was killed. The woman is charged with involuntary manslaughter solely on the theory that the
+    death occurred while she was committing a misdemeanor. The jurisdiction recognizes the
+    misdemeanor-manslaughter rule, subject to its generally accepted limits.
+  call: "Should the woman be convicted?"
+  options:
+    A: "No, because the licensing offense is malum prohibitum and did not cause the child's death."
+    B: "Yes, because the child died while the woman was committing an unlawful act."
+    C: "Yes, because she would not have been driving at all if she had obeyed the licensing law."
+    D: "No, because a misdemeanor can never serve as the basis for a homicide conviction."
+  answer: A
+  explanation_correct: >-
+    A is correct. The misdemeanor-manslaughter rule is generally limited to unlawful acts that are malum in se
+    or that proximately cause the death (R-CRM-042). Driving with an expired license is a regulatory (malum
+    prohibitum) offense, and the expiration had no causal connection to the accident: a validly licensed
+    driver driving the same way would have hit the child. Neither limit is satisfied.
+  explanation_each_wrong_option:
+    B: >-
+      Overbroad. The unlawful act must itself cause the death; most courts require that the misdemeanor be
+      malum in se or, if malum prohibitum, that the violation be the proximate, foreseeable cause of death
+      (R-CRM-042).
+    C: >-
+      Wrong standard. Bare but-for causation (R-CRM-012) is not enough; the licensing violation was not a
+      proximate cause of the death (R-CRM-042).
+    D: >-
+      Overbroad. Malum in se misdemeanors, such as a battery, can support involuntary manslaughter
+      (R-CRM-042).
+  trap_type: wrong-standard
+  authority: ["Common law", "MPC § 2.03 (causation); the MPC rejects the misdemeanor-manslaughter rule"]
+  source: original
+  tags: [wave2, homicide, misdemeanor-manslaughter]
+  status: draft
+  last_verified: 2026-11-04

@@ -1,0 +1,661 @@
+# Criminal Law and Procedure — NCBE category V.A: arrest, search and seizure (Fourth Amendment)
+# Original MBE-style items (wave 2, batch A). Federal constitutional law as the Supreme Court reads it.
+questions:
+- id: Q-CRM-0076
+  subject: CRM
+  coverage_ids: [CRM-MBE-V.A]
+  rule_ids: [R-CRM-074, R-CRM-073]
+  difficulty: 2
+  stem: >-
+    Acting on a hunch, two officers without a warrant climbed a locked gate marked "No Trespassing" at the
+    edge of a man's 200-acre farm and walked about half a mile through pasture and woods. In a clearing far
+    out of sight of the farmhouse, they saw rows of marijuana plants; cultivating marijuana is a felony in the
+    state. Relying on what they had seen, they obtained a search warrant and seized the plants. The man moves
+    to suppress the plants and all observations made on his land.
+  call: "Are the plants and the officers' observations admissible?"
+  options:
+    A: "No, because the officers physically trespassed on the man's land to gather information."
+    B: "No, because by locking the gate and posting signs, the man showed an expectation of privacy in his land that the officers ignored."
+    C: "Yes, because the clearing was an open field, where the man had no reasonable expectation of privacy."
+    D: "Yes, because the officers obtained a warrant before they seized the plants."
+  answer: C
+  explanation_correct: >-
+    C is correct. There is no reasonable expectation of privacy in open fields, meaning land outside the
+    curtilage of the home, even if it is fenced and posted and the officers are trespassers under property law
+    (R-CRM-074; Oliver v. United States). A clearing half a mile from the house and out of its sight is not
+    curtilage under the Dunn factors. Because the entry and observation were not a search, the warrant based
+    on them was valid.
+  explanation_each_wrong_option:
+    A: >-
+      Confused rule. The trespass test of Jones and Jardines applies to the constitutionally protected areas —
+      persons, houses (including curtilage), papers and effects; open fields are not among them (R-CRM-073).
+    B: >-
+      A subjective expectation is only half of the Katz test; society does not recognize an expectation of
+      privacy in open fields as reasonable, whatever steps the owner takes (R-CRM-074).
+    D: >-
+      Right result, wrong reason. The warrant rested on the officers' observations; if gathering them had been
+      an illegal search, the warrant and the seizure would be tainted. The evidence survives because there was
+      no search (R-CRM-074, R-CRM-091).
+  trap_type: confused-rule
+  authority: ["U.S. Const. amend. IV", "Oliver v. United States, 466 U.S. 170 (1984)", "United States v. Dunn, 480 U.S. 294 (1987)", "United States v. Jones, 565 U.S. 400 (2012)"]
+  source: original
+  tags: [wave2, fourth-amendment, open-fields, what-is-a-search]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CRM-0077
+  subject: CRM
+  coverage_ids: [CRM-MBE-V.A]
+  rule_ids: [R-CRM-073, R-CRM-074]
+  difficulty: 2
+  stem: >-
+    An unverified tip claimed that a woman was storing large quantities of cocaine in her house. Two officers
+    walked a trained and certified drug-detection dog up her front walk and onto her front porch, where the dog
+    sniffed along the bottom of the front door for several minutes and then alerted. The officers obtained a
+    search warrant based on the tip and the alert, searched the house and found cocaine. The woman moves to
+    suppress the cocaine.
+  call: "Which of the following is the woman's strongest argument in support of the motion?"
+  options:
+    A: "The officers lacked reasonable suspicion that she was involved in drug activity before they brought the dog to her house."
+    B: "Bringing a drug dog onto her porch to investigate was an unlicensed physical intrusion on the curtilage of her home."
+    C: "A dog sniff that detects the presence of contraband is always a Fourth Amendment search."
+    D: "The warrant application did not establish that the dog was reliable."
+  answer: B
+  explanation_correct: >-
+    B is correct. A search occurs when the government physically intrudes on a constitutionally protected
+    area, including the curtilage of a home, to gather information (R-CRM-073; Florida v. Jardines). The
+    front porch is curtilage. Visitors have an implied license to walk up and knock, but not to bring a
+    trained dog to explore the area for evidence. The sniff was therefore an unlawful warrantless search,
+    and without the alert the unverified tip could not support the warrant.
+  explanation_each_wrong_option:
+    A: >-
+      Wrong standard. The porch sniff was a search requiring a warrant (or an exception); reasonable suspicion
+      would not have justified it, and its absence is not the core defect (R-CRM-073).
+    C: >-
+      Overbroad. A dog sniff of luggage in a public place or of a car during a lawful stop is not a search
+      (R-CRM-074; Illinois v. Caballes); the porch sniff is a search because of the physical intrusion on
+      curtilage.
+    D: >-
+      Weak. A dog's satisfactory performance in a certification or training program can itself establish
+      reliability (Florida v. Harris), and this dog was trained and certified.
+  trap_type: overbroad
+  authority: ["U.S. Const. amend. IV", "Florida v. Jardines, 569 U.S. 1 (2013)", "Illinois v. Caballes, 543 U.S. 405 (2005)", "Florida v. Harris, 568 U.S. 237 (2013)"]
+  source: original
+  tags: [wave2, fourth-amendment, curtilage, dog-sniff]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CRM-0078
+  subject: CRM
+  coverage_ids: [CRM-MBE-V.A]
+  rule_ids: [R-CRM-082]
+  difficulty: 2
+  stem: >-
+    Police received an unsigned letter stating that a man was dealing in stolen catalytic converters and
+    predicting that "every Tuesday around 11 p.m. he drives his white pickup to the storage place on Route 9,
+    unloads converters into unit 212, and every Wednesday morning he takes a load to the scrapyard in
+    Millbrook." Officers confirmed that the man owned a white pickup and rented unit 212. The next Tuesday at
+    about 11 p.m. they watched him drive to the facility and carry heavy sacks into unit 212, and on Wednesday
+    morning they followed him as he drove sacks to the Millbrook scrapyard. On these facts a magistrate issued
+    a warrant to search unit 212, where officers found stolen converters. The man moves to suppress them.
+  call: "Should the motion be granted?"
+  options:
+    A: "Yes, because neither the letter writer's veracity nor the basis of the writer's knowledge was independently established."
+    B: "Yes, because the police corroborated only conduct that was innocent in itself."
+    C: "No, because an anonymous tip is sufficiently reliable when it identifies a specific person and place."
+    D: "No, because police corroboration of the letter's detailed predictions supplied probable cause."
+  answer: D
+  explanation_correct: >-
+    D is correct. Probable cause is a fair probability that evidence will be found in the place to be
+    searched, judged by the totality of the circumstances (R-CRM-082; Illinois v. Gates). An anonymous tip's
+    weaknesses can be overcome by corroboration; when police confirm detailed predictions of a suspect's
+    future movements, it is fair to infer that the source had inside knowledge and was also right about the
+    criminal activity. The magistrate had a substantial basis for the warrant.
+  explanation_each_wrong_option:
+    A: >-
+      Wrong standard. Gates abandoned the rigid two-pronged Aguilar-Spinelli test; veracity and basis of
+      knowledge are relevant considerations within the totality of the circumstances (R-CRM-082).
+    B: >-
+      Corroboration of innocent but predicted details can establish probable cause; what matters is whether
+      the predictions show the source's inside knowledge (R-CRM-082).
+    C: >-
+      Overbroad. Naming a person and place describes readily available facts and, standing alone, does not
+      establish reliability; the corroborated predictions do (R-CRM-077, R-CRM-082).
+  trap_type: wrong-standard
+  authority: ["U.S. Const. amend. IV", "Illinois v. Gates, 462 U.S. 213 (1983)", "Spinelli v. United States, 393 U.S. 410 (1969)"]
+  source: original
+  tags: [wave2, fourth-amendment, probable-cause, informant]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CRM-0079
+  subject: CRM
+  coverage_ids: [CRM-MBE-V.A]
+  rule_ids: [R-CRM-092, R-CRM-082]
+  difficulty: 3
+  stem: >-
+    An officer's sworn affidavit for a search warrant stated in full: "A confidential source has informed
+    affiant that stolen firearms are being kept at 22 Elm Street, and affiant believes this information to be
+    true." It gave no information about the source's identity, track record or basis of knowledge, or about
+    when the source acquired the information, and the police had done nothing to corroborate it. A magistrate
+    signed the warrant. Officers executed it and found stolen firearms. At the suppression hearing, the
+    prosecution concedes that the affidavit did not establish probable cause but argues that the officers
+    acted in good faith.
+  call: "Should the firearms be suppressed?"
+  options:
+    A: "No, because the officers relied on a warrant issued by a neutral and detached magistrate."
+    B: "No, because the exclusionary rule exists to deter police misconduct, and the mistake here was made by the magistrate who issued the warrant."
+    C: "Yes, because evidence seized under a warrant later found to lack probable cause must be excluded."
+    D: "Yes, because the affidavit was so lacking in indicia of probable cause that reliance on the warrant was unreasonable."
+  answer: D
+  explanation_correct: >-
+    D is correct. Under the good-faith exception, evidence is not excluded when officers reasonably rely on a
+    warrant later found invalid, but the exception does not apply when the affidavit is so lacking in indicia
+    of probable cause that official belief in its existence is entirely unreasonable (R-CRM-092; United States
+    v. Leon). This "bare bones" affidavit offered only a conclusion from an unknown source, so a reasonably
+    well-trained officer would have known the warrant was unsupported.
+  explanation_each_wrong_option:
+    A: >-
+      Exception trap. Reliance on a magistrate's warrant is usually objectively reasonable, but not when the
+      affidavit is bare bones — one of the four Leon exceptions (R-CRM-092).
+    B: >-
+      Leon does reason that exclusion is not aimed at magistrates, but here the officers' own reliance on an
+      obviously deficient affidavit was unreasonable, so exclusion serves deterrence (R-CRM-092).
+    C: >-
+      Overbroad. A warrant's lack of probable cause does not automatically require exclusion; good-faith
+      reliance usually saves the evidence (R-CRM-092).
+  trap_type: exception-trap
+  authority: ["U.S. Const. amend. IV", "United States v. Leon, 468 U.S. 897 (1984)", "Illinois v. Gates, 462 U.S. 213 (1983)"]
+  source: original
+  tags: [wave2, fourth-amendment, good-faith, warrant]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CRM-0080
+  subject: CRM
+  coverage_ids: [CRM-MBE-V.A]
+  rule_ids: [R-CRM-092, R-CRM-082]
+  difficulty: 1
+  stem: >-
+    Officers obtained a valid warrant to search a man's house for cocaine. When they arrived, they had no
+    reason to believe that knocking would be dangerous or futile or would lead to the destruction of evidence.
+    Without knocking or announcing themselves, they opened the unlocked front door, walked in and found
+    cocaine in a kitchen drawer. The prosecution concedes that the manner of entry violated the Fourth
+    Amendment. The man moves to suppress the cocaine.
+  call: "Is the cocaine admissible?"
+  options:
+    A: "Yes, because exclusion of evidence is not a remedy for a violation of the knock-and-announce requirement."
+    B: "No, because the officers' entry violated the Fourth Amendment."
+    C: "No, because the cocaine was discovered as a direct result of the unlawful entry."
+    D: "Yes, because the knock-and-announce requirement comes from statute, not from the Fourth Amendment."
+  answer: A
+  explanation_correct: >-
+    A is correct. Officers executing a warrant must generally knock, announce and wait before entering, but a
+    violation of that rule does not trigger the exclusionary rule (R-CRM-092, R-CRM-082; Hudson v. Michigan).
+    The interests the rule protects — life, property and privacy during entry — have nothing to do with the
+    seizure of evidence the valid warrant authorized, which officers would have found anyway.
+  explanation_each_wrong_option:
+    B: >-
+      True but irrelevant. A Fourth Amendment violation does not automatically require suppression; Hudson
+      holds that this type of violation does not (R-CRM-092).
+    C: >-
+      But-for causation is not enough for exclusion, and the valid warrant, not the manner of entry, led to the
+      cocaine, which officers would have found either way (R-CRM-092; Hudson).
+    D: >-
+      Knock-and-announce is part of Fourth Amendment reasonableness (Wilson v. Arkansas); the evidence comes
+      in because exclusion is not the remedy, not because the rule is merely statutory (R-CRM-082).
+  trap_type: true-but-irrelevant
+  authority: ["U.S. Const. amend. IV", "Hudson v. Michigan, 547 U.S. 586 (2006)", "Wilson v. Arkansas, 514 U.S. 927 (1995)"]
+  source: original
+  tags: [wave2, fourth-amendment, knock-and-announce, exclusionary-rule]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CRM-0081
+  subject: CRM
+  coverage_ids: [CRM-MBE-V.A]
+  rule_ids: [R-CRM-083, R-CRM-089]
+  difficulty: 1
+  stem: >-
+    Officers with probable cause arrested a man on a street corner for selling stolen gift cards. Searching
+    him incident to the arrest, they found a smartphone in his jacket pocket. At the scene, one officer opened
+    the unlocked phone and read the man's text messages, finding messages arranging the gift-card sales. There
+    was no emergency and no reason to think the phone's data would be lost. The man moves to suppress the
+    messages.
+  call: "Should the motion be granted?"
+  options:
+    A: "No, because police may search any item found on the person of a lawfully arrested suspect."
+    B: "No, because it was reasonable to believe that the phone contained evidence of the gift-card sales for which the man was arrested."
+    C: "Yes, because police generally need a warrant to search the data on a cell phone seized incident to arrest."
+    D: "Yes, because a search incident to arrest is limited to a pat-down for weapons."
+  answer: C
+  explanation_correct: >-
+    C is correct. Police may seize a phone found on an arrestee and secure it, but searching its digital
+    contents generally requires a warrant (R-CRM-083; Riley v. California). Neither justification for a
+    search incident to arrest — officer safety or preventing destruction of evidence — supports reading the
+    data, and nothing suggested an exigency.
+  explanation_each_wrong_option:
+    A: >-
+      Overbroad. Robinson allows a full search of the arrestee's person and physical containers, but Riley
+      excludes the digital contents of cell phones (R-CRM-083).
+    B: >-
+      Confused rule. The "evidence of the offense of arrest" prong comes from Gant and applies to vehicle
+      passenger compartments, not to cell-phone data (R-CRM-083).
+    D: >-
+      Wrong standard. A pat-down is the Terry frisk standard; a search incident to a custodial arrest may be a
+      full search of the person (R-CRM-083).
+  trap_type: confused-rule
+  authority: ["U.S. Const. amend. IV", "Riley v. California, 573 U.S. 373 (2014)", "United States v. Robinson, 414 U.S. 218 (1973)", "Arizona v. Gant, 556 U.S. 332 (2009)"]
+  source: original
+  tags: [wave2, fourth-amendment, search-incident-to-arrest, cell-phone]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CRM-0082
+  subject: CRM
+  coverage_ids: [CRM-MBE-V.A]
+  rule_ids: [R-CRM-083, R-CRM-078]
+  difficulty: 2
+  stem: >-
+    Officers holding a valid warrant for a man's arrest on check-forgery charges knocked on his door. When he
+    opened it, they arrested and handcuffed him in the front hall. Two officers stayed with him there. A third
+    officer went upstairs to the man's bedroom, opened the dresser drawers and found a stack of forged checks.
+    The officers had no information suggesting that anyone else was in the house. The man moves to suppress
+    the checks.
+  call: "Should the motion be granted?"
+  options:
+    A: "No, because the arrest warrant authorized the officers to search the man's home for evidence of the forgery."
+    B: "Yes, because the drawers were beyond the man's immediate control and could not conceal a person."
+    C: "No, because officers making an arrest inside a home may conduct a protective sweep of the entire residence to make sure no one else is there."
+    D: "No, because a search incident to an arrest in the arrestee's home may extend to the entire home."
+  answer: B
+  explanation_correct: >-
+    B is correct. A search incident to arrest is limited to the arrestee's person and the area within his
+    immediate control (R-CRM-083; Chimel v. California). The handcuffed man was in the front hall, far from
+    the upstairs drawers. A protective sweep extends only to spaces where a person could be hiding — beyond
+    the spaces immediately adjoining the arrest, only on reasonable suspicion that a dangerous person is there
+    — and never to drawers (R-CRM-078; Maryland v. Buie).
+  explanation_each_wrong_option:
+    A: >-
+      Confused rule. An arrest warrant authorizes entry to arrest the suspect in his home; it is not a search
+      warrant for evidence (R-CRM-080, R-CRM-083).
+    C: >-
+      Overbroad. A sweep is a cursory look for people in places they could hide; it does not permit opening
+      drawers, and the officers had no reason to suspect anyone else was present (R-CRM-078).
+    D: >-
+      Outdated rule. Chimel rejected whole-house searches incident to arrest; the search is confined to the
+      arrestee's wingspan (R-CRM-083).
+  trap_type: overbroad
+  authority: ["U.S. Const. amend. IV", "Chimel v. California, 395 U.S. 752 (1969)", "Maryland v. Buie, 494 U.S. 325 (1990)"]
+  source: original
+  tags: [wave2, fourth-amendment, search-incident-to-arrest, protective-sweep]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CRM-0083
+  subject: CRM
+  coverage_ids: [CRM-MBE-V.A]
+  rule_ids: [R-CRM-084, R-CRM-075]
+  difficulty: 3
+  stem: >-
+    An officer lawfully stopped a car for speeding. A woman was riding in the front passenger seat. When the
+    driver opened his door, the officer saw on the driver's floor mat a small plastic bag of white powder that
+    a field test showed to be cocaine. The officer then searched the car and found a closed purse on the back
+    seat. The woman said, "That's mine." The officer opened the purse and found more cocaine. Nothing other
+    than her presence in the car connected the woman to the drugs on the floor mat. Charged with possession,
+    she moves to suppress the cocaine found in her purse.
+  call: "Should the motion be granted?"
+  options:
+    A: "Yes, because the officer had no probable cause to believe that the woman had committed a crime."
+    B: "Yes, because the officer needed a warrant to open a closed personal container that the passenger had identified as her own."
+    C: "No, because the woman had no reasonable expectation of privacy in a car she did not own."
+    D: "No, because probable cause to search the car extended to containers in it that could hold drugs, including hers."
+  answer: D
+  explanation_correct: >-
+    D is correct. Under the automobile exception, police with probable cause to believe a vehicle contains
+    contraband may search it without a warrant, including any container that could hold the object of the
+    search (R-CRM-084; California v. Acevedo). The search may extend to a passenger's belongings without
+    individualized suspicion of the passenger (Wyoming v. Houghton). The cocaine on the floor gave probable
+    cause to search the car for drugs, and the purse could hold them.
+  explanation_each_wrong_option:
+    A: >-
+      Wrong focus. The automobile exception turns on probable cause as to the vehicle and its contents, not
+      as to each occupant (R-CRM-084).
+    B: >-
+      Outdated rule. Acevedo eliminated any separate warrant requirement for closed containers found during a
+      lawful vehicle search (R-CRM-084).
+    C: >-
+      Standing trap. A passenger may lack standing in the car's interior, but she has a reasonable expectation
+      of privacy in her own purse; her challenge fails on the merits, not for lack of standing (R-CRM-075).
+  trap_type: confused-rule
+  authority: ["U.S. Const. amend. IV", "Wyoming v. Houghton, 526 U.S. 295 (1999)", "California v. Acevedo, 500 U.S. 565 (1991)", "Carroll v. United States, 267 U.S. 132 (1925)"]
+  source: original
+  tags: [wave2, fourth-amendment, automobile-exception, containers]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CRM-0084
+  subject: CRM
+  coverage_ids: [CRM-MBE-V.A]
+  rule_ids: [R-CRM-082, R-CRM-085]
+  difficulty: 2
+  stem: >-
+    Officers obtained a valid warrant to search a man's apartment for "one 65-inch flat-screen television,
+    serial number 7KX-2219." Within minutes of entering, they found the television in the living room. One
+    officer then went into the bedroom and opened a small jewelry box on the dresser, which held several
+    bags of heroin. The man moves to suppress the heroin.
+  call: "Should the motion be granted?"
+  options:
+    A: "Yes, because the warrant did not authorize opening a container too small to hold the television."
+    B: "No, because the heroin was in plain view once the officer opened the jewelry box."
+    C: "No, because plain view does not require that the officers come upon the evidence inadvertently."
+    D: "No, because a valid warrant permits officers to search every part of the premises it describes."
+  answer: A
+  explanation_correct: >-
+    A is correct. A warrant authorizes a search only of places where the items described could be found, and
+    the authority ends once those items are found (R-CRM-082). A jewelry box cannot hold a 65-inch television,
+    and the television had already been located. Plain view requires that officers be lawfully in the
+    position from which they see the item (R-CRM-085); opening the box exceeded the warrant.
+  explanation_each_wrong_option:
+    B: >-
+      Missing element. Plain view applies only if the officer had a lawful right to be where he saw the item;
+      opening the box was itself an unauthorized search (R-CRM-085).
+    C: >-
+      True but irrelevant. Horton eliminated the inadvertence requirement, but the officer still needed a
+      lawful vantage point, which he lacked (R-CRM-085).
+    D: >-
+      Overbroad. The scope of a warrant search is limited by the items it describes (R-CRM-082).
+  trap_type: missing-element
+  authority: ["U.S. Const. amend. IV", "Horton v. California, 496 U.S. 128 (1990)", "Coolidge v. New Hampshire, 403 U.S. 443 (1971)"]
+  source: original
+  tags: [wave2, fourth-amendment, warrant-scope, plain-view]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CRM-0085
+  subject: CRM
+  coverage_ids: [CRM-MBE-V.A]
+  rule_ids: [R-CRM-086]
+  difficulty: 3
+  stem: >-
+    Two roommates shared an apartment equally. Investigating a burglary, officers knocked; one roommate
+    answered and said, "You can't come in without a warrant." A records check revealed an outstanding,
+    valid warrant for that roommate's arrest on an unrelated assault charge, so the officers arrested him and
+    took him to jail. Two hours later officers returned, and the other roommate gave written consent to a
+    search of the apartment. In a hall closet used by both roommates, they found property taken in the
+    burglary. The arrested roommate moves to suppress it.
+  call: "Should the motion be granted?"
+  options:
+    A: "Yes, because he expressly objected to the search, and a co-occupant's objection overrides another occupant's consent."
+    B: "Yes, because the officers removed the objecting occupant before asking his roommate for consent."
+    C: "No, because the roommate had common authority, and the defendant, lawfully arrested, was no longer present to object."
+    D: "No, because the consent of any adult occupant overrides another occupant's objection."
+  answer: C
+  explanation_correct: >-
+    C is correct. A person with common authority over premises may consent to their search, and a co-occupant's
+    refusal overrides that consent only if he is physically present and objecting (R-CRM-086; Georgia v.
+    Randolph). An occupant removed by a lawful arrest stands in the same position as any other absent
+    occupant, so the remaining occupant's later consent is valid (Fernandez v. California). The closet was
+    shared, and the arrest rested on a valid warrant.
+  explanation_each_wrong_option:
+    A: >-
+      Overbroad. Randolph protects only a physically present objector; once he was lawfully taken away, his
+      earlier objection did not bar his roommate's consent (R-CRM-086).
+    B: >-
+      Removal defeats the later consent only if it was not objectively reasonable; an arrest on a valid
+      warrant is lawful, whatever its timing (R-CRM-086; Fernandez).
+    D: >-
+      Overbroad. When the objecting co-occupant is present, his refusal prevails as to him (R-CRM-086;
+      Randolph).
+  trap_type: exception-trap
+  authority: ["U.S. Const. amend. IV", "Fernandez v. California, 571 U.S. 292 (2014)", "Georgia v. Randolph, 547 U.S. 103 (2006)", "United States v. Matlock, 415 U.S. 164 (1974)"]
+  source: original
+  tags: [wave2, fourth-amendment, consent, co-occupant]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CRM-0086
+  subject: CRM
+  coverage_ids: [CRM-MBE-V.A]
+  rule_ids: [R-CRM-087]
+  difficulty: 3
+  stem: >-
+    An undercover officer bought heroin from a seller in a parking lot. Backup officers followed the seller
+    and saw him carry the bag from which he had made the sale into a ground-floor apartment leased by a
+    woman. The officers knocked
+    loudly and shouted, "Police!" They then heard people running inside, drawers being yanked open and a toilet
+    flushing repeatedly. Believing that the heroin was being destroyed, they kicked in the door and found the
+    woman and the seller beside a table holding several bags of heroin. The woman moves to suppress the
+    heroin, arguing that the officers created any exigency by knocking and announcing themselves.
+  call: "Should the motion be granted?"
+  options:
+    A: "No, because the officers' knock was lawful, and the sounds that followed showed evidence was being destroyed."
+    B: "Yes, because the officers' knock foreseeably caused the occupants to begin destroying evidence."
+    C: "Yes, because the officers had time to obtain a warrant before they knocked."
+    D: "No, because officers who have probable cause to believe a home contains drugs may enter it without first obtaining a warrant."
+  answer: A
+  explanation_correct: >-
+    A is correct. Imminent destruction of evidence is an exigency that justifies a warrantless entry, and the
+    police-created-exigency doctrine invalidates the entry only if officers created the exigency by engaging or
+    threatening to engage in conduct that violates the Fourth Amendment (R-CRM-087; Kentucky v. King).
+    Knocking and identifying themselves was lawful; the occupants' choice to destroy evidence created the
+    emergency, and the officers had probable cause that heroin was inside.
+  explanation_each_wrong_option:
+    B: >-
+      Rejected test. King declined to adopt a foreseeability test for police-created exigencies (R-CRM-087).
+    C: >-
+      Wrong standard. Police need not seek a warrant as soon as they have probable cause; King rejected that
+      requirement (R-CRM-087).
+    D: >-
+      Overbroad. Probable cause alone does not permit a warrantless home entry; an exigency was also required,
+      and here the destruction of evidence supplied it (R-CRM-087).
+  trap_type: wrong-standard
+  authority: ["U.S. Const. amend. IV", "Kentucky v. King, 563 U.S. 452 (2011)", "Payton v. New York, 445 U.S. 573 (1980)"]
+  source: original
+  tags: [wave2, fourth-amendment, exigent-circumstances, destruction-of-evidence]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CRM-0087
+  subject: CRM
+  coverage_ids: [CRM-MBE-V.A]
+  rule_ids: [R-CRM-076, R-CRM-077]
+  difficulty: 3
+  stem: >-
+    Two officers driving through a quiet residential neighborhood saw a group of teenagers on a corner. When
+    the patrol car approached, the group scattered. One officer jumped out and chased a young man, shouting,
+    "Police! Stop!" The young man kept running and, as he ran, threw a small bag into a hedge. A few seconds
+    later the officer tackled him. The bag held crack cocaine. The prosecution concedes that the officer had
+    no reasonable suspicion when the chase began. The young man moves to suppress the cocaine.
+  call: "Should the motion be granted?"
+  options:
+    A: "Yes, because a reasonable person ordered to stop by a uniformed officer would not have felt free to leave."
+    B: "No, because the young man had not yet been seized when he discarded the bag."
+    C: "Yes, because the chase began without reasonable suspicion, and the bag was discovered as a result of it."
+    D: "No, because flight from the police supplies reasonable suspicion for a stop."
+  answer: B
+  explanation_correct: >-
+    B is correct. A person is seized by a show of authority only if he submits to it; until he submits or is
+    physically restrained, there is no seizure (R-CRM-076; California v. Hodari D.). The young man kept
+    running and discarded the bag before the officer tackled him, so the bag was abandoned before any seizure.
+    The later tackle was a seizure, but the cocaine was not its fruit.
+  explanation_each_wrong_option:
+    A: >-
+      Missing element. The "free to leave" test identifies a show of authority, but a show of authority is a
+      seizure only when the person submits (R-CRM-076).
+    C: >-
+      A chase is not itself a seizure; the bag was thrown away before any seizure occurred, so there was no
+      illegality for it to be the fruit of (R-CRM-076, R-CRM-091).
+    D: >-
+      Right result, wrong reason. Unprovoked flight in a high-crime area can support reasonable suspicion
+      (Wardlow), but the prosecution concedes there was none here (R-CRM-077).
+  trap_type: missing-element
+  authority: ["U.S. Const. amend. IV", "California v. Hodari D., 499 U.S. 621 (1991)", "United States v. Mendenhall, 446 U.S. 544 (1980)", "Illinois v. Wardlow, 528 U.S. 119 (2000)"]
+  source: original
+  tags: [wave2, fourth-amendment, seizure, abandonment]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CRM-0088
+  subject: CRM
+  coverage_ids: [CRM-MBE-V.A]
+  rule_ids: [R-CRM-078, R-CRM-091]
+  difficulty: 2
+  stem: >-
+    Minutes after an armed robbery, an officer stopped a man who matched the robber's description; the officer
+    had reasonable suspicion, but not probable cause, to believe he was the robber. Frisking him, the officer
+    felt a small, flat, hard rectangular object in his front pants pocket and immediately concluded that it
+    was not a weapon. Curious, the officer reached in, pulled out a small metal tin, opened it and found
+    oxycodone pills. The robbery victim later viewed the man and said he was not the robber. Charged with
+    unlawful possession of the pills, the man moves to suppress them.
+  call: "Should the motion be granted?"
+  options:
+    A: "No, because the officer reasonably suspected that the man was armed and dangerous."
+    B: "No, because an officer conducting a lawful frisk may remove any hard object he feels."
+    C: "No, because the pills would inevitably have been found in a search incident to arrest once the man was arrested for the robbery."
+    D: "Yes, because the object was neither a possible weapon nor immediately recognizable by touch as contraband."
+  answer: D
+  explanation_correct: >-
+    D is correct. A Terry frisk is a limited pat-down for weapons; an officer may seize an object only if it
+    may be a weapon or its identity as contraband is immediately apparent by touch (R-CRM-078; Minnesota v.
+    Dickerson). The officer knew the object was not a weapon and could not tell by touch that it held drugs,
+    so reaching in, removing the tin and opening it was an unlawful search.
+  explanation_each_wrong_option:
+    A: >-
+      True but irrelevant. Suspicion that the man was armed justified the pat-down, not the removal and
+      opening of an object known not to be a weapon (R-CRM-078).
+    B: >-
+      Overbroad. A hard object may be removed if it might be a weapon; this one was known not to be
+      (R-CRM-078).
+    C: >-
+      Inevitable discovery requires proof that lawful means would have found the evidence; there was no
+      probable cause to arrest, and the victim cleared the man (R-CRM-091).
+  trap_type: true-but-irrelevant
+  authority: ["U.S. Const. amend. IV", "Terry v. Ohio, 392 U.S. 1 (1968)", "Minnesota v. Dickerson, 508 U.S. 366 (1993)", "Nix v. Williams, 467 U.S. 431 (1984)"]
+  source: original
+  tags: [wave2, fourth-amendment, terry-frisk, plain-feel]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CRM-0089
+  subject: CRM
+  coverage_ids: [CRM-MBE-V.A]
+  rule_ids: [R-CRM-079, R-CRM-085]
+  difficulty: 1
+  stem: >-
+    An officer who knew from earlier encounters that a man was a convicted felon suspected that he was dealing drugs but lacked reasonable suspicion to stop him. One evening
+    the officer followed the man's car and stopped it after the man changed lanes without signaling, a traffic
+    violation. The officer ordered the man out of the car. As the man opened the door, the officer saw a
+    handgun on the floor in front of the driver's seat. The man was charged with unlawful
+    possession of the gun. He moves to suppress it.
+  call: "Is the gun admissible?"
+  options:
+    A: "No, because the officer stopped the car only as a pretext to investigate drug dealing."
+    B: "No, because the officer had no reasonable suspicion that the man was armed and dangerous when he ordered him out of the car."
+    C: "Yes, because the stop was objectively justified, the order to get out was lawful, and the gun was in plain view."
+    D: "Yes, because the officer's suspicion that the man was dealing drugs justified the stop."
+  answer: C
+  explanation_correct: >-
+    C is correct. A traffic stop is valid if the officer has probable cause or reasonable suspicion of a
+    traffic violation, regardless of his subjective motive (R-CRM-079; Whren v. United States). During a
+    lawful stop, the officer may order the driver out of the car without further justification (Pennsylvania
+    v. Mimms). From that lawful vantage point, and knowing the man was a felon, the officer had probable cause to believe the gun was contraband, so it could be seized under plain view (R-CRM-085).
+  explanation_each_wrong_option:
+    A: >-
+      Wrong standard. The officer's actual motive is irrelevant when the stop is objectively justified
+      (R-CRM-079; Whren).
+    B: >-
+      Ordering the driver out of a lawfully stopped car requires no suspicion; reasonable belief that a person
+      is armed is needed only to frisk him (R-CRM-079).
+    D: >-
+      Right result, wrong reason. The stem says the officer lacked reasonable suspicion of drug dealing; the
+      traffic violation justified the stop (R-CRM-079).
+  trap_type: right-result-wrong-reason
+  authority: ["U.S. Const. amend. IV", "Whren v. United States, 517 U.S. 806 (1996)", "Pennsylvania v. Mimms, 434 U.S. 106 (1977)", "Horton v. California, 496 U.S. 128 (1990)"]
+  source: original
+  tags: [wave2, fourth-amendment, traffic-stop, pretext]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CRM-0090
+  subject: CRM
+  coverage_ids: [CRM-MBE-V.A]
+  rule_ids: [R-CRM-075]
+  difficulty: 1
+  stem: >-
+    For a week a man had been staying at his cousin's apartment, sleeping on the living-room sofa and keeping
+    his belongings there, while he looked for a place of his own. Following up on a neighbor's report of
+    stolen jewelry, officers entered the apartment without a warrant, consent or exigent circumstances while
+    the man was asleep on the sofa. They saw stolen jewelry on the coffee table beside him. The man is charged
+    with receiving stolen property. The prosecution concedes that the entry was unlawful but argues that he
+    cannot challenge it.
+  call: "Should the man's motion to suppress the jewelry be granted?"
+  options:
+    A: "Yes, because as an overnight guest he had a reasonable expectation of privacy in the apartment."
+    B: "No, because he had no ownership or leasehold interest in the apartment."
+    C: "No, because the jewelry was in plain view once the officers were inside."
+    D: "Yes, because any person who is present in a home when police enter unlawfully may challenge the entry."
+  answer: A
+  explanation_correct: >-
+    A is correct. A defendant may challenge a search only if it violated his own reasonable expectation of
+    privacy (R-CRM-075). An overnight guest has a legitimate expectation of privacy in his host's home
+    (Minnesota v. Olson), and this man had stayed for a week, slept there and kept his belongings there. The
+    unlawful entry violated his rights, and the jewelry seen as a result of it must be suppressed.
+  explanation_each_wrong_option:
+    B: >-
+      Standing does not depend on ownership or a lease; an overnight guest has it (R-CRM-075; Olson).
+    C: >-
+      Plain view requires that the officers be lawfully present; the prosecution concedes the entry was
+      unlawful (R-CRM-085).
+    D: >-
+      Overbroad. A person present only briefly, for example for a commercial transaction, lacks standing
+      (Minnesota v. Carter); what matters is his own relationship to the home (R-CRM-075).
+  trap_type: overbroad
+  authority: ["U.S. Const. amend. IV", "Minnesota v. Olson, 495 U.S. 91 (1990)", "Minnesota v. Carter, 525 U.S. 83 (1998)"]
+  source: original
+  tags: [wave2, fourth-amendment, standing, overnight-guest]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CRM-0091
+  subject: CRM
+  coverage_ids: [CRM-MBE-V.A]
+  rule_ids: [R-CRM-091, R-CRM-090]
+  difficulty: 3
+  stem: >-
+    Late at night an officer saw a man on a bicycle stop near a closed electronics store and then ride away.
+    The officer stopped him and asked for identification. The prosecution concedes that the stop was not
+    supported by reasonable suspicion; the officer's misjudgment was an isolated mistake, not part of any
+    pattern of misconduct. A radio check revealed an outstanding, valid warrant for the man's arrest for
+    failing to appear in court on a shoplifting charge. The officer arrested him on that warrant and, searching
+    him incident to the arrest, found several stolen credit cards. The man moves to suppress the cards.
+  call: "Should the motion be granted?"
+  options:
+    A: "Yes, because the cards were found only minutes after the unlawful stop."
+    B: "No, because a valid, pre-existing arrest warrant was an intervening circumstance that attenuated the taint."
+    C: "Yes, because the arrest and the search incident to it would never have occurred but for the officer's unlawful decision to stop the man."
+    D: "No, because the officer would inevitably have discovered the warrant."
+  answer: B
+  explanation_correct: >-
+    B is correct. Evidence derived from an illegal stop is not excluded if the connection is attenuated,
+    judged by temporal proximity, intervening circumstances and the purpose and flagrancy of the misconduct
+    (R-CRM-091; Brown v. Illinois). A valid, pre-existing warrant unconnected to the stop is a compelling
+    intervening circumstance, because the arrest was a ministerial act the warrant required; that
+    circumstance and the absence of flagrant misconduct outweigh the short time elapsed (Utah v. Strieff).
+  explanation_each_wrong_option:
+    A: >-
+      Temporal proximity is one factor and favors suppression, but the intervening warrant and the lack of
+      flagrant misconduct outweigh it (R-CRM-091).
+    C: >-
+      Wrong standard. But-for causation is necessary but not sufficient for exclusion; the attenuation
+      doctrine applies even where the illegality was a but-for cause (R-CRM-091).
+    D: >-
+      Confused rule. Inevitable discovery requires proof that lawful means would have led to the evidence;
+      nothing shows the officer would otherwise have learned of the warrant. The applicable doctrine is
+      attenuation (R-CRM-091).
+  trap_type: wrong-standard
+  authority: ["U.S. Const. amend. IV", "Utah v. Strieff, 579 U.S. 232 (2016)", "Brown v. Illinois, 422 U.S. 590 (1975)", "Nix v. Williams, 467 U.S. 431 (1984)"]
+  source: original
+  tags: [wave2, fourth-amendment, attenuation, exclusionary-rule]
+  status: draft
+  last_verified: 2026-11-04
