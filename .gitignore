@@ -1,0 +1,19 @@
+# Past-exam PDFs downloaded for personal use only (State Bar copyright) — never commit
+06-past-exams/raw/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# Generated exports
+exports/
+*.apkg
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
