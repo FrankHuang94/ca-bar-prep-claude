@@ -74,6 +74,7 @@ python scripts/dashboard.py                           # readiness dashboard + th
 python scripts/coverage_report.py --write             # matrix mapping by subject -> 10-progress/coverage-report.md
 python scripts/coverage_report.py --require-mapped CTR CIV   # Phase 4 definition-of-done gate
 python scripts/frequency_analysis.py                  # past-exam heatmap and top issues (after Phase 3)
+python scripts/build_weeks.py --from 2027-W05         # re-render weekly plan files after editing 01-study-plan/schedule.yml
 ```
 
 ### Slash commands (Claude Code)

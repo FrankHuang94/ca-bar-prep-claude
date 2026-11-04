@@ -168,6 +168,7 @@ python scripts/build_anki.py [--subject EVD] [--tag must-know] [--include-rules]
 python scripts/build_simulation.py build [--allow-short] ; … score SIM-01 --mbe-answers file
 python scripts/frequency_analysis.py                  # regenerates 06-past-exams/frequency-analysis.md block
 python scripts/dashboard.py                           # regenerates readiness dashboard + README status
+python scripts/build_weeks.py [--force | --from 2027-W05 | --totals]   # renders 01-study-plan/weeks from schedule.yml
 ```
 Slash commands live in `.claude/commands/`: `/today` `/quiz` `/essay` `/pt` `/drill` `/spot` `/explain` `/weak-spots` `/weekly-review` `/simulate` `/update-exam-intel`.
 

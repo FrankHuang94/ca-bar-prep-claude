@@ -15,5 +15,5 @@ Run the weekly review for $ARGUMENTS (default: the current ISO week, `date +%G-W
    - metrics table;
    - benchmark status;
    - changes to next week.
-5. Edit next week's file `01-study-plan/weeks/<next week>.md` to apply the adjustments, and list the edits in the review.
+5. Apply the adjustments in `01-study-plan/schedule.yml`, which is the source of truth, then re-render with `python scripts/build_weeks.py --from <next week>`. List the edits in the review. Never hand-edit the generated week files.
 6. Run `python scripts/validate.py`. Commit (`progress: weekly review <week>`) and push.

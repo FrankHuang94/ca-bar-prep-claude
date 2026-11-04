@@ -55,6 +55,7 @@ add the source to `00-exam-intel/sources.md`, and move the row to *Resolved* wit
 | V-034 | 00-exam-intel/recent-changes.md | OT2025 U.S. Supreme Court holdings (about half secondary-sourced) | Secondary | supremecourt.gov slip opinions | High (before Phase 4 Con Law/Crim/Civ Pro) | 2026-11-04 |
 | V-035 | 00-exam-intel/recent-changes.md | OT2022–OT2024 U.S. Supreme Court holdings listed from model knowledge | Not re-checked in Phase 0 | supremecourt.gov | Med | 2026-11-04 |
 | V-036 | 00-exam-intel/recent-changes.md | Kuciemba v. Victory Woodworks (2023) holding and citation | Secondary only | Official opinion | Low | 2026-11-04 |
+| V-060 | 01-study-plan/practice-targets.md | State Bar withdrawal deadline and refund rules for the July 2027 exam (needed for the CP4 sit-or-defer decision) | Not researched | July 2027 exam page; Appendix A [S-028] | Med | 2026-11-04 |
 
 ## Resolved
 
