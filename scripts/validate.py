@@ -370,6 +370,15 @@ def check_refs(rep: Report, f: str, fm: dict, matrix_ids: set[str], rules: dict)
     for rid in fm.get("rule_ids") or []:
         if rid not in rules:
             rep.error(f"{f}: rule_id {rid} not found in any rule-statements.md")
+    for n, issue in enumerate(fm.get("issues") or [], start=1):
+        if not isinstance(issue, dict):
+            continue
+        for cid in issue.get("coverage_ids") or []:
+            if cid not in matrix_ids:
+                rep.error(f"{f}: issue {n}: coverage_id {cid} not in coverage matrix")
+        for rid in issue.get("rule_ids") or []:
+            if rid not in rules:
+                rep.error(f"{f}: issue {n}: rule_id {rid} not found in any rule-statements.md")
 
 
 def check_simulations(rep: Report, mcq_ids: set[str], essay_ids: set[str], pt_ids: set[str]) -> None:

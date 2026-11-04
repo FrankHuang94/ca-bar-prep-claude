@@ -44,6 +44,15 @@ def test_essay_points_must_sum_to_100(repo):
     assert any("must sum to 100" in e for e in errors())
 
 
+def test_essay_issue_level_ids_checked(repo):
+    f = repo / "07-question-bank/essays/evidence/E-EVD-001.md"
+    f.write_text(f.read_text().replace('points: 40, call: 1}',
+                                       'points: 40, call: 1, rule_ids: [R-EVD-999], coverage_ids: [EVD-MBE-Z.Z]}'))
+    errs = errors()
+    assert any("issue 2: rule_id R-EVD-999" in e for e in errs)
+    assert any("issue 2: coverage_id EVD-MBE-Z.Z" in e for e in errs)
+
+
 def test_essay_missing_section(repo):
     f = repo / "07-question-bank/essays/evidence/E-EVD-001.md"
     f.write_text(f.read_text().replace("## Self-Grading Rubric", "## Rubric"))
