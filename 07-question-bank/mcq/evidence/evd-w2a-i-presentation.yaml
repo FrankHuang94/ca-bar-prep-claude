@@ -1,0 +1,563 @@
+# Evidence MCQs — NCBE category I: presentation of evidence (Wave 2, batch A)
+# FRE only (as amended through Dec. 1, 2024). All items original.
+# No item turns on amended FRE 801(d)(1)(A) (V-028).
+questions:
+- id: Q-EVD-0051
+  subject: EVD
+  coverage_ids: [EVD-MBE-I.A.3]
+  rule_ids: [R-EVD-008]
+  difficulty: 2
+  stem: >-
+    In a federal products-liability action, the manufacturer moved in limine before trial to exclude a
+    consumer group's test report on hearsay grounds. After briefing and argument, the court ruled on the
+    record that the report was admissible and stated that its ruling was final and would not be revisited
+    at trial. At trial, when the plaintiff offered the report, the manufacturer's counsel did not object,
+    and the report was received. The jury returned a verdict for the plaintiff. On appeal, the manufacturer
+    argues that admitting the report was error, and the plaintiff responds that the manufacturer forfeited
+    the issue by failing to object at trial.
+  call: Has the manufacturer preserved its claim of error for appeal?
+  options:
+    A: "No, because a party must renew its objection when the evidence is offered at trial in order to preserve a claim of error."
+    B: "Yes, because the court ruled definitively on the record before trial, so the objection did not need to be renewed."
+    C: "No, because a ruling on a motion in limine is necessarily tentative until the evidence is offered at trial."
+    D: "Yes, because the admission of hearsay affects a substantial right and is therefore reviewable as plain error without any objection."
+  answer: B
+  explanation_correct: >-
+    Preservation (R-EVD-008): a party may claim error in admitting evidence only if it made a timely
+    objection stating the specific ground (FRE 103(a)(1)). FRE 103(b) adds that once the court rules
+    definitively on the record, either before or at trial, a party need not renew an objection or offer
+    of proof to preserve the claim. The court ruled on the record after briefing and said its ruling was
+    final, so the manufacturer's motion in limine preserved the hearsay ground. Whether the ruling was
+    correct is a separate question for the appellate court.
+  explanation_each_wrong_option:
+    A: >-
+      Procedural-posture trap. Renewal is needed only when the pretrial ruling was tentative or
+      conditional; FRE 103(b) removes the need to renew after a definitive ruling on the record.
+    C: >-
+      Overbroad. Some in-limine rulings are provisional, and then the objection must be renewed at trial,
+      but a ruling the court makes definitively on the record is not. The court here said its ruling was
+      final.
+    D: >-
+      Plain error (FRE 103(e)) is a narrow fallback for unpreserved errors; hearsay errors are not
+      automatically plain error. It is also unnecessary here, because the error was preserved.
+  trap_type: procedural-posture
+  authority: ["FRE 103(a)", "FRE 103(b)", "FRE 103(e)"]
+  source: original
+  tags: [wave2, W2-EVD, objections, preservation]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-EVD-0052
+  subject: EVD
+  coverage_ids: [EVD-MBE-I.A.5]
+  rule_ids: [R-EVD-010]
+  difficulty: 2
+  stem: >-
+    A lender sues the executor of a borrower's estate in federal court, invoking diversity jurisdiction,
+    to recover $60,000 that he says he lent the borrower in cash a year before the borrower died. There is
+    no written loan agreement. The claim is governed by the contract law of the state where the loan was
+    made. That state has a statute providing that, in an action against a decedent's estate, a party with
+    an interest in the outcome may not testify about transactions with the decedent. The lender takes the
+    stand and begins to describe handing the borrower an envelope containing $60,000 at the borrower's
+    kitchen table. The executor objects.
+  call: How should the court rule on the objection?
+  options:
+    A: "Overrule it, because under the Federal Rules of Evidence every person is competent to be a witness."
+    B: "Overrule it, because the lender's financial interest in the case goes only to the weight of his testimony."
+    C: "Sustain it, because state law governs a witness's competency on a claim for which state law supplies the rule of decision."
+    D: "Sustain it, because a party to a civil action is not competent to testify on his own behalf."
+  answer: C
+  explanation_correct: >-
+    Competency (R-EVD-010; FRE 601): every person is competent to be a witness unless the Rules provide
+    otherwise, but in a civil case state law governs a witness's competency regarding a claim or defense
+    for which state law supplies the rule of decision. The lender's claim is a state-law contract claim
+    heard in diversity, so the state's Dead Man's statute applies through FRE 601 and bars the interested
+    lender from testifying about his transaction with the decedent.
+  explanation_each_wrong_option:
+    A: >-
+      Incomplete reading of FRE 601. Its first sentence is subject to its second, which defers to state
+      competency law on state-law claims in civil cases.
+    B: >-
+      Under the FRE's default rule, interest goes to weight and bias rather than competency, but that
+      default is displaced here because state law supplies the rule of decision.
+    D: >-
+      Overbroad. The common-law disqualification of interested parties is abolished; parties are generally
+      competent. The bar here is the narrower Dead Man's statute, which reaches only testimony about
+      transactions with the decedent in an action against the estate, and it applies only because state law
+      governs the claim.
+  trap_type: confused-rule
+  authority: ["FRE 601"]
+  source: original
+  tags: [wave2, W2-EVD, competency, dead-mans-statute]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-EVD-0053
+  subject: EVD
+  coverage_ids: [EVD-MBE-I.A.7]
+  rule_ids: [R-EVD-005, R-EVD-006, R-EVD-094]
+  difficulty: 3
+  stem: >-
+    A defendant is prosecuted in federal court for assaulting a store clerk. The clerk does not testify.
+    The prosecution offers, as an excited utterance, a customer's testimony that the clerk, bleeding from
+    the forehead, ran into the parking lot and shouted, "The man in the green hoodie hit me with a bottle!"
+    The defense argues that the clerk was calm when she spoke. At a hearing outside the jury's presence,
+    the prosecution offers a paramedic's written run report stating that, when the paramedic arrived three
+    minutes after the statement, the clerk was "crying, shaking, and hyperventilating." The report has not
+    been shown to fit any hearsay exception, and the defense objects that the court cannot consider it.
+  call: How should the court decide whether the clerk's statement qualifies as an excited utterance?
+  options:
+    A: "It decides by a preponderance of the evidence and may consider the run report even if the report would be inadmissible at trial."
+    B: "It admits the statement if there is evidence sufficient to support a finding that the clerk was excited, leaving the final decision to the jury."
+    C: "It decides by a preponderance of the evidence but may consider only evidence that would be admissible at trial."
+    D: "It must find beyond a reasonable doubt that the clerk was excited, because this is a criminal case."
+  answer: A
+  explanation_correct: >-
+    Preliminary questions (R-EVD-005; FRE 104(a)): whether the foundation facts for a hearsay exception
+    exist, here a startling event and the declarant's speaking under its stress (FRE 803(2), R-EVD-094), is
+    a question of admissibility for the judge, decided by a preponderance of the evidence (Bourjaily v.
+    United States). In deciding it, the court is not bound by the rules of evidence except those on
+    privilege, so it may rely on the paramedic's report even though the report is hearsay.
+  explanation_each_wrong_option:
+    B: >-
+      Confuses FRE 104(a) with conditional relevance under FRE 104(b) (R-EVD-006). The clerk's excitement
+      is a condition of a hearsay exception, not a fact on which logical relevance depends, so the judge,
+      not the jury, decides it.
+    C: >-
+      FRE 104(a) expressly frees the court from the evidence rules, other than privilege, when it decides
+      preliminary questions.
+    D: >-
+      Wrong standard. Proof beyond a reasonable doubt applies to the elements of the offense, not to
+      foundational facts for admissibility; the preponderance standard applies in criminal cases too.
+  trap_type: wrong-standard
+  authority: ["FRE 104(a)", "FRE 104(b)", "FRE 803(2)", "Bourjaily v. United States, 483 U.S. 171 (1987)"]
+  source: original
+  tags: [wave2, W2-EVD, judge-and-jury, preliminary-questions]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-EVD-0054
+  subject: EVD
+  coverage_ids: [EVD-MBE-I.A.8]
+  rule_ids: [R-EVD-007, R-EVD-088]
+  difficulty: 1
+  stem: >-
+    A pedestrian sues two drivers, Avery and Brooks, in federal court, alleging that they were racing each
+    other when Brooks's car struck her. Avery and Brooks are unrelated and have separate lawyers. The
+    pedestrian calls a police officer who will testify that at the scene Avery told him, "Brooks and I were
+    racing from the last light." Brooks was not present when Avery said this. Brooks objects to the
+    officer's testimony and asks the court to exclude it entirely; Avery does not object.
+  call: What is the proper ruling on Brooks's objection?
+  options:
+    A: "Exclude the testimony, because evidence that is inadmissible against one defendant may not be admitted at a joint trial."
+    B: "Admit the testimony against both drivers, because a statement by one defendant is admissible against all defendants on the same side."
+    C: "Admit the testimony against both drivers, because Brooks can protect himself by cross-examining Avery."
+    D: "Admit the testimony against Avery only and, on Brooks's request, instruct the jury not to consider it against Brooks."
+  answer: D
+  explanation_correct: >-
+    Limited admissibility (R-EVD-007; FRE 105): when evidence is admissible against one party but not
+    another, the court, on timely request, must restrict it to its proper scope and instruct the jury
+    accordingly. Avery's statement is an opposing party's statement when offered against Avery (FRE
+    801(d)(2)(A); R-EVD-088). As to Brooks it is hearsay: Brooks did not make or adopt it, Avery was not
+    his agent, and a post-accident remark to police does not further any joint venture. The ordinary
+    remedy is admission against Avery with a limiting instruction.
+  explanation_each_wrong_option:
+    A: >-
+      Overbroad. FRE 105 exists for exactly this situation. The court may exclude the evidence entirely
+      only if, under FRE 403, the danger of unfair prejudice to Brooks substantially outweighs its
+      probative value even with a limiting instruction. The special rule for a nontestifying codefendant's
+      confession (Bruton, R-EVD-113) applies only in criminal cases.
+    B: >-
+      FRE 801(d)(2)(A) admits a party's own statement only against that party. Co-defendants are not each
+      other's agents merely because they are sued together.
+    C: >-
+      The chance to cross-examine Avery does not make his out-of-court statement admissible against
+      Brooks; it remains hearsay as to Brooks.
+  trap_type: overbroad
+  authority: ["FRE 105", "FRE 801(d)(2)(A)", "FRE 403"]
+  source: original
+  tags: [wave2, W2-EVD, limited-admissibility, limiting-instruction]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-EVD-0055
+  subject: EVD
+  coverage_ids: [EVD-MBE-I.B]
+  rule_ids: [R-EVD-015]
+  difficulty: 3
+  stem: >-
+    In a federal civil action in which federal law supplies the rule of decision, a subcontractor must
+    prove that a general contractor received its written notice of claim by June 1. Under the applicable
+    law, a letter that is properly addressed, stamped, and mailed is presumed to have been received; no
+    statute or rule gives that presumption any special effect. The subcontractor's office manager testifies
+    that she mailed the notice, properly addressed and stamped, on May 20. The general contractor's office
+    manager testifies that the company never received it. No other evidence bears on receipt.
+  call: How should the court instruct the jury on the issue of receipt?
+  options:
+    A: "That it must find the notice was received, because the general contractor has not disproved receipt by a preponderance of the evidence."
+    B: "That it must find the notice was not received, because the general contractor's denial rebutted the presumption."
+    C: "That it should decide on all the evidence whether the notice was received, with the subcontractor bearing the burden of persuasion."
+    D: "That it must find the notice was received unless the general contractor proves non-receipt by clear and convincing evidence."
+  answer: C
+  explanation_correct: >-
+    Civil presumptions (R-EVD-015; FRE 301): unless a federal statute or the Rules provide otherwise, a
+    presumption imposes on the party against whom it is directed only the burden of producing evidence to
+    rebut it; it does not shift the burden of persuasion. The general contractor's testimony that it never
+    received the notice is evidence sufficient to support a finding of non-receipt, so the presumption's
+    mandatory effect disappears. The jury then weighs the proof of mailing, from which it may still infer
+    receipt, against the denial, and the subcontractor keeps the burden of persuasion.
+  explanation_each_wrong_option:
+    A: >-
+      Wrong standard. Requiring the opponent to disprove the presumed fact shifts the burden of persuasion,
+      which FRE 301 forbids. (California does this only for public-policy presumptions, CEC § 606.)
+    B: >-
+      Rebuttal evidence removes the presumption's mandatory effect, not the logical inference from proof
+      of mailing. The question of receipt goes to the jury; it is not resolved against the subcontractor.
+    D: >-
+      No rule here imposes a clear-and-convincing standard; FRE 301 shifts only the burden of production.
+  trap_type: wrong-standard
+  authority: ["FRE 301"]
+  source: original
+  tags: [wave2, W2-EVD, presumptions, burden-of-production]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-EVD-0056
+  subject: EVD
+  coverage_ids: [EVD-MBE-I.C.1]
+  rule_ids: [R-EVD-017]
+  difficulty: 3
+  stem: >-
+    In a federal negligence action arising from a warehouse forklift accident, neither party calls the
+    forklift's operator, who saw the accident. Believing the jury should hear from him, the judge, on her
+    own motion, calls the operator as a witness and questions him briefly in the jury's presence. The
+    plaintiff's counsel says nothing at the time. At the next recess, after the jury has left the
+    courtroom, the plaintiff's counsel objects that the court had no authority to call a witness whom
+    neither party chose to call.
+  call: How should the court rule on the objection?
+  options:
+    A: "Sustain it, because in an adversary trial only the parties may decide which witnesses to call."
+    B: "Overrule it, because the court may call a witness on its own, and each party is entitled to cross-examine the witness."
+    C: "Overrule it, because the plaintiff forfeited the objection by not making it when the witness was called."
+    D: "Sustain it, because a witness called by the court may be examined only by the court, which deprives the parties of cross-examination."
+  answer: B
+  explanation_correct: >-
+    Control by the court (R-EVD-017; FRE 611(a), 614): the court may call a witness on its own or at a
+    party's request, each party is entitled to cross-examine that witness, and the court may examine any
+    witness. Under FRE 614(c), a party may object to the court's calling or examining a witness either at
+    the time or at the next opportunity when the jury is not present, so the plaintiff's objection was
+    timely. It fails on the merits.
+  explanation_each_wrong_option:
+    A: >-
+      FRE 614(a) expressly authorizes the court to call witnesses on its own motion.
+    C: >-
+      Right result, wrong reason. FRE 614(c) allowed the plaintiff to wait until the next opportunity
+      outside the jury's presence, which is what counsel did. The objection should be overruled on the
+      merits, not for forfeiture.
+    D: >-
+      FRE 614(a) gives each party the right to cross-examine a witness the court calls.
+  trap_type: right-result-wrong-reason
+  authority: ["FRE 611(a)", "FRE 614"]
+  source: original
+  tags: [wave2, W2-EVD, mode-and-order, court-witness]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-EVD-0057
+  subject: EVD
+  coverage_ids: [EVD-MBE-I.C.2]
+  rule_ids: [R-EVD-018, R-EVD-019]
+  difficulty: 2
+  stem: >-
+    A buyer sues a boat dealer in federal court for breach of warranty, claiming that the engine of the
+    boat he bought was defective. The dealer counterclaims for $8,000 that it says the buyer still owes on
+    the purchase price. The buyer calls a mechanic employed by the marina where the boat was stored, who
+    inspected the engine at the marina's request and has no connection to either party. On direct, the
+    mechanic testifies only about the cracked engine block he found. On cross-examination, the dealer's
+    counsel asks, "Isn't it true that the buyer told you last month that he was still behind on his
+    payments for the boat?" The buyer objects that the question is beyond the scope of the direct
+    examination.
+  call: Which ruling on the objection would be proper?
+  options:
+    A: "Sustaining it or, in the court's discretion, allowing the inquiry as if on direct examination, ordinarily without leading questions."
+    B: "Overruling it and allowing the question as asked, because leading questions are always permitted on cross-examination."
+    C: "Overruling it, because cross-examination may extend to any matter relevant to any issue in the case."
+    D: "Sustaining it, because the dealer may never elicit testimony on its counterclaim from a witness the buyer called."
+  answer: A
+  explanation_correct: >-
+    Scope of cross (R-EVD-018; FRE 611(b)): cross-examination should not go beyond the subject matter of
+    the direct and matters affecting credibility, but the court may allow inquiry into additional matters
+    as if on direct. The direct covered only the engine's condition; the buyer's unpaid balance relates to
+    the counterclaim and does not bear on the mechanic's credibility. If the court allows the inquiry, the
+    dealer examines as if on direct, so leading questions are ordinarily not allowed (FRE 611(c),
+    R-EVD-019): the mechanic is a neutral witness, not hostile or identified with the buyer.
+  explanation_each_wrong_option:
+    B: >-
+      Leading is ordinarily allowed on cross, but once the examiner goes beyond the scope and the court
+      permits it "as if on direct," the direct-examination limits on leading apply.
+    C: >-
+      Minority rule. "Wide-open" cross on any relevant matter is followed in some states, but FRE 611(b)
+      limits cross to the subject matter of the direct and credibility.
+    D: >-
+      Overbroad. The dealer may call the mechanic in its own case, and the court has discretion to permit
+      the inquiry now as if on direct.
+  trap_type: minority-rule
+  authority: ["FRE 611(b)", "FRE 611(c)"]
+  source: original
+  tags: [wave2, W2-EVD, scope-of-cross]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-EVD-0058
+  subject: EVD
+  coverage_ids: [EVD-MBE-I.C.4]
+  rule_ids: [R-EVD-021]
+  difficulty: 1
+  stem: >-
+    A homeowner sues a roofing company in federal court for negligent repair of her roof. Before opening
+    statements, the roofing company asks the court to exclude from the courtroom everyone who will testify.
+    The homeowner, who will testify, wants to remain in the courtroom. So does her adult son, who will
+    testify that he saw water pouring through the ceiling after the repair and who wants to sit beside his
+    mother for support.
+  call: How should the court rule?
+  options:
+    A: "Exclude both, because once a party requests exclusion the court must exclude every person who will testify."
+    B: "Exclude neither, because the court may allow a party's family member to remain to provide emotional support."
+    C: "Exclude the son but not the homeowner, because a party who is a natural person may not be excluded."
+    D: "Exclude the homeowner until she testifies, but not the son, because only a party's testimony could be shaped by hearing others."
+  answer: C
+  explanation_correct: >-
+    Exclusion of witnesses (R-EVD-021; FRE 615(a)): at a party's request the court must order witnesses
+    excluded so that they cannot hear other witnesses' testimony, but it may not exclude a party who is a
+    natural person, an entity party's designated representative, a person whose presence a party shows to
+    be essential to presenting its claim or defense, or a person authorized by statute to be present. The
+    homeowner is a natural-person party. Her son is an ordinary fact witness, and a wish to support his
+    mother fits no exemption.
+  explanation_each_wrong_option:
+    A: >-
+      Overbroad. Exclusion is mandatory on request, but only for witnesses outside the listed exemptions,
+      and a natural-person party is exempt.
+    B: >-
+      Once a party requests exclusion, the court has no discretion to let a non-exempt witness remain for
+      emotional support.
+    D: >-
+      Reverses the rule. A natural-person party may never be excluded, while a non-party fact witness must
+      be excluded on request.
+  trap_type: overbroad
+  authority: ["FRE 615(a)"]
+  source: original
+  tags: [wave2, W2-EVD, exclusion-of-witnesses]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-EVD-0059
+  subject: EVD
+  coverage_ids: [EVD-MBE-I.D.3]
+  rule_ids: [R-EVD-025]
+  difficulty: 2
+  stem: >-
+    A defendant is on trial in federal court for assault and testifies that he acted in self-defense. The
+    prosecution seeks to impeach him with his conviction for felony burglary, which was entered 13 years
+    before this trial. He was sentenced to six years in prison for that burglary and was released seven
+    years before this trial. The prosecution has not given written notice of its intent to use the
+    conviction.
+  call: Is the conviction admissible to impeach the defendant?
+  options:
+    A: "No, because more than ten years have passed since the conviction, and the prosecution gave no written notice."
+    B: "Yes, because burglary is a crime of dishonesty, which must be admitted to impeach any witness."
+    C: "Yes, unless its probative value is substantially outweighed by the danger of unfair prejudice."
+    D: "Yes, but only if its probative value outweighs its prejudicial effect to the defendant."
+  answer: D
+  explanation_correct: >-
+    Conviction impeachment (R-EVD-025; FRE 609): the ten-year limit of FRE 609(b) runs from the conviction
+    or release from confinement for it, whichever is later. He was released seven years ago, so 609(b) and
+    its notice requirement do not apply. Burglary is punishable by more than one year, so FRE
+    609(a)(1)(B) governs a testifying criminal defendant: the conviction is admitted only if its probative
+    value outweighs its prejudicial effect to the defendant, considering factors such as its bearing on
+    honesty, age, similarity to the charged crime, and the importance of his testimony.
+  explanation_each_wrong_option:
+    A: >-
+      Fact-misread on the ten-year clock. Measured from release, which is later than the conviction, only
+      seven years have passed.
+    B: >-
+      Burglary's elements do not require proof of a dishonest act or false statement, so it is not an
+      automatic FRE 609(a)(2) crime.
+    C: >-
+      That is the FRE 403 standard used for witnesses other than a criminal defendant (FRE 609(a)(1)(A)).
+      The accused gets the more protective balance of FRE 609(a)(1)(B).
+  trap_type: fact-misread
+  authority: ["FRE 609(a)(1)", "FRE 609(a)(2)", "FRE 609(b)"]
+  source: original
+  tags: [wave2, W2-EVD, impeachment, prior-conviction]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-EVD-0060
+  subject: EVD
+  coverage_ids: [EVD-MBE-I.D.5]
+  rule_ids: [R-EVD-029, R-EVD-027]
+  difficulty: 2
+  stem: >-
+    In a federal breach-of-contract action, the defendant calls its former sales manager, who testifies
+    that the plaintiff orally agreed to extend the delivery deadline. In rebuttal, the plaintiff calls the
+    sales manager's former co-worker of eight years. She is prepared to testify (1) that, in her opinion,
+    the sales manager is not a truthful person, and (2) that the sales manager once lied to her about
+    having repaid a $500 loan she had made to him.
+  call: Which parts of the co-worker's testimony are admissible?
+  options:
+    A: "Both parts, because a witness who gives an opinion may describe the specific facts on which it is based."
+    B: "Only her opinion, because extrinsic evidence of specific instances of conduct may not be used to attack a witness's character for truthfulness."
+    C: "Neither part, because character for truthfulness may be proved only by reputation testimony, not by personal opinion."
+    D: "Neither part, because a witness's credibility may be attacked only through cross-examination of that witness."
+  answer: B
+  explanation_correct: >-
+    Character for truthfulness (R-EVD-029; FRE 608(a)): any witness's credibility may be attacked by
+    reputation or opinion testimony about the witness's character for truthfulness, and an eight-year
+    co-worker has an adequate basis for an opinion. Specific instances (R-EVD-027; FRE 608(b)): except for
+    convictions under FRE 609, extrinsic evidence of specific instances of conduct is not admissible to
+    attack a witness's character for truthfulness. The loan lie, proved through another witness, is
+    extrinsic; it could only have been raised by asking the sales manager about it on cross-examination.
+  explanation_each_wrong_option:
+    A: >-
+      Overbroad. FRE 608(b) bars proving specific instances of untruthfulness through another witness,
+      even to explain an opinion; specific instances may be explored only on cross-examination.
+    C: >-
+      FRE 608(a) expressly permits opinion as well as reputation testimony.
+    D: >-
+      FRE 608(a) authorizes character witnesses, and extrinsic evidence is also allowed for bias,
+      capacity, convictions and non-collateral contradiction.
+  trap_type: overbroad
+  authority: ["FRE 608(a)", "FRE 608(b)"]
+  source: original
+  tags: [wave2, W2-EVD, impeachment, character-for-truthfulness]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-EVD-0061
+  subject: EVD
+  coverage_ids: [EVD-MBE-I.D.6]
+  rule_ids: [R-EVD-030, R-EVD-027, R-EVD-033]
+  difficulty: 1
+  stem: >-
+    A defendant is on trial in federal court for robbing a jewelry store at 10:30 p.m. The prosecution's
+    eyewitness testifies that she saw the defendant run from the store and get into a car. On
+    cross-examination, she denies having had anything to drink that evening. The defense then calls a
+    bartender from a tavern across the street, who will testify that he served the eyewitness five
+    cocktails between 9:30 and 10:15 p.m. that night. The prosecution objects.
+  call: Should the court admit the bartender's testimony?
+  options:
+    A: "No, because her drinking is a specific instance of conduct that may be raised only on cross-examination."
+    B: "Yes, because her intoxication when she made her observations bears on her capacity to perceive and is not collateral."
+    C: "No, because the defense must accept the eyewitness's answer on cross-examination and may not call another witness to contradict it."
+    D: "Yes, because heavy drinking shows that a witness has a character for untruthfulness."
+  answer: B
+  explanation_correct: >-
+    Capacity (R-EVD-030): a witness may be impeached by showing a defect in the capacity to perceive,
+    remember or relate at the relevant time, and intoxication when the witness made the observation is a
+    classic example. Capacity is not collateral, so extrinsic evidence such as the bartender's testimony is
+    allowed, subject to FRE 403. The testimony also contradicts her denial on a non-collateral point
+    (R-EVD-033).
+  explanation_each_wrong_option:
+    A: >-
+      Confused rule. FRE 608(b) (R-EVD-027) bars extrinsic evidence of conduct offered to prove character
+      for truthfulness. Here the purpose is to show impaired perception, which 608(b) does not reach.
+    C: >-
+      The "take the answer" limit applies to collateral matters and FRE 608(b) inquiries. Intoxication at
+      the time of the observation bears directly on the accuracy of her identification.
+    D: >-
+      Drinking says nothing about honesty. The evidence comes in to show impaired perception, not
+      untruthful character.
+  trap_type: confused-rule
+  authority: ["FRE 607", "FRE 608(b)", "FRE 403"]
+  source: original
+  tags: [wave2, W2-EVD, impeachment, capacity]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-EVD-0062
+  subject: EVD
+  coverage_ids: [EVD-MBE-I.D.9]
+  rule_ids: [R-EVD-033, R-EVD-027, R-EVD-022]
+  difficulty: 3
+  stem: >-
+    In a federal negligence action arising from a collision between a city bus and a delivery van, a
+    pedestrian testifies for the plaintiff that she saw the van run a red light while she was waiting at
+    the bus stop on that corner. She adds that she had just bought a coffee at a cafe two doors away. On
+    cross-examination she repeats that she bought coffee at that cafe that morning. The defendant then
+    offers testimony from the cafe's manager that the cafe was closed all that day for a plumbing repair.
+    The defendant does not dispute that the pedestrian was at the bus stop when the collision occurred. The
+    plaintiff objects.
+  call: How should the court most likely rule on the objection?
+  options:
+    A: "Overrule it, because any evidence that contradicts a witness's testimony bears on her credibility."
+    B: "Overrule it, because a party may always prove that a witness testified falsely under oath."
+    C: "Sustain it, because whether the cafe was open is a collateral matter on which extrinsic contradiction is not allowed."
+    D: "Sustain it, because the defendant did not first give the pedestrian an opportunity to explain or deny the contradiction."
+  answer: C
+  explanation_correct: >-
+    Contradiction (R-EVD-033): a witness may always be contradicted on cross-examination, but extrinsic
+    evidence of contradiction is allowed only on a non-collateral matter, meaning one relevant to a
+    substantive issue or independently admissible to impeach (such as bias or capacity). Whether the cafe
+    was open has no bearing on whether she saw the light, and her presence at the corner is undisputed; the
+    manager's testimony would only show a mistake about a side detail. The collateral-matter limit, an
+    application of FRE 403 and 611(a), lets the court exclude it to avoid a sideshow. The defendant was
+    limited to its cross-examination.
+  explanation_each_wrong_option:
+    A: >-
+      Overbroad. Only non-collateral contradictions may be proved by extrinsic evidence.
+    B: >-
+      No such rule exists. Extrinsic proof of a witness's specific lies, offered only to show untruthfulness,
+      is barred by FRE 608(b) (R-EVD-027) and the collateral-matter limit.
+    D: >-
+      Confused rule. The opportunity-to-explain-or-deny foundation comes from FRE 613(b) (R-EVD-023) and
+      governs extrinsic proof of a witness's prior inconsistent statement, not contradiction by another
+      witness's account of the facts. In any event, no foundation would make extrinsic contradiction on a
+      collateral matter admissible.
+  trap_type: overbroad
+  authority: ["FRE 403", "FRE 607", "FRE 611(a)", "FRE 608(b)", "FRE 613(b)"]
+  source: original
+  tags: [wave2, W2-EVD, impeachment, contradiction, collateral-matter]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-EVD-0063
+  subject: EVD
+  coverage_ids: [EVD-MBE-I.E, EVD-MBE-III.A]
+  rule_ids: [R-EVD-034, R-EVD-069, R-EVD-068]
+  difficulty: 3
+  stem: >-
+    A defendant pleaded guilty in federal court to distributing cocaine. At his sentencing hearing, the
+    government seeks to prove that he also sold two more kilograms that were not charged. It calls (1) a
+    detective, who testifies that a confidential informant told him that the defendant sold the informant
+    two kilograms in March, and (2) the defendant's wife, who is willing to testify that one night in March,
+    when they were alone at home, the defendant told her that he had "moved two more kilos." The couple
+    remain married. The defendant objects to the detective's testimony as hearsay and to his wife's
+    testimony as privileged.
+  call: How should the court rule on the objections?
+  options:
+    A: "Sustain both, because the Federal Rules of Evidence apply at every stage of a federal criminal case."
+    B: "Overrule both, because the Federal Rules of Evidence do not apply at sentencing."
+    C: "Sustain the hearsay objection only, because the decision whether to testify against a spouse belongs to the witness-spouse."
+    D: "Sustain the privilege objection only, because privilege rules apply at sentencing even though the other rules of evidence do not."
+  answer: D
+  explanation_correct: >-
+    Proceedings (R-EVD-034): under FRE 1101(d)(3), the rules of evidence, except those on privilege, do
+    not apply at sentencing, so the hearsay objection fails. Under FRE 1101(c), privilege rules apply at
+    every stage. The defendant's statement to his wife, made in private during a valid marriage, is a
+    confidential marital communication (R-EVD-069); both spouses hold that privilege, so the defendant
+    can prevent her from disclosing it even though she is willing to testify.
+  explanation_each_wrong_option:
+    A: >-
+      FRE 1101(d)(3) expressly excludes sentencing from the rules other than privilege.
+    B: >-
+      Overbroad. FRE 1101(c) makes privileges applicable in all stages of all proceedings.
+    C: >-
+      Confuses the two marital privileges. Under Trammel, the witness-spouse alone decides whether to give
+      adverse spousal testimony (R-EVD-068), but the confidential-communications privilege is held by both
+      spouses. And the hearsay rule does not apply at sentencing.
+  trap_type: confused-rule
+  authority: ["FRE 1101(c)", "FRE 1101(d)(3)", "FRE 501", "Trammel v. United States, 445 U.S. 40 (1980)"]
+  source: original
+  tags: [wave2, W2-EVD, proceedings, sentencing, marital-privilege]
+  status: draft
+  last_verified: "2026-11-04"

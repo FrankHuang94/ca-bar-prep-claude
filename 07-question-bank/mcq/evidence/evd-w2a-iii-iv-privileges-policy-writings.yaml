@@ -1,0 +1,343 @@
+# Evidence MCQs — NCBE categories III (privileges and policy exclusions) and IV (writings, recordings,
+# photographs) (Wave 2, batch A). FRE only (as amended through Dec. 1, 2024). All items original.
+questions:
+- id: Q-EVD-0080
+  subject: EVD
+  coverage_ids: [EVD-MBE-III.C]
+  rule_ids: [R-EVD-070, R-EVD-071, R-EVD-062]
+  difficulty: 1
+  stem: >-
+    A motorist sues a city police officer in federal court under 42 U.S.C. § 1983, alleging that the
+    officer used excessive force during a traffic stop and broke the motorist's wrist. The motorist asserts
+    no state-law claims and seeks damages only for the wrist injury and lost wages; he does not claim
+    emotional distress. The officer seeks to call (1) the emergency-room physician who set the wrist, to
+    testify that the motorist told her he had been drinking heavily that evening, and (2) a licensed
+    clinical social worker who counseled the motorist about his marriage in confidential sessions the next
+    month, to testify about what the motorist told her about the stop. The motorist claims privilege as to
+    both witnesses.
+  call: How should the court rule on the privilege claims?
+  options:
+    A: "Both witnesses' testimony is privileged, because communications made to obtain medical or mental-health treatment are confidential."
+    B: "Neither witness's testimony is privileged, because federal law recognizes no privilege for communications with health-care providers."
+    C: "The physician's testimony is privileged, but the social worker's is not, because only psychiatrists and psychologists are psychotherapists."
+    D: "The social worker's testimony is privileged, but the physician's is not, because federal law recognizes no physician-patient privilege."
+  answer: D
+  explanation_correct: >-
+    Governing law (R-EVD-062; FRE 501): the only claim is federal, so federal common law governs
+    privilege. Federal law recognizes no general physician-patient privilege (R-EVD-070), so the physician
+    may testify. It does recognize a psychotherapist-patient privilege covering confidential
+    communications made for diagnosis or treatment to licensed psychiatrists, psychologists and clinical
+    social workers, with no case-by-case balancing (Jaffee v. Redmond; R-EVD-071). The motorist has not
+    put his mental condition in issue, so he has not waived it.
+  explanation_each_wrong_option:
+    A: >-
+      Imports a state-law physician-patient privilege (such as California's) into a federal-question case,
+      where federal common law recognizes none.
+    B: >-
+      Overbroad. Jaffee recognized a federal psychotherapist-patient privilege.
+    C: >-
+      Reverses both points. Jaffee extended the privilege to licensed clinical social workers, and there is
+      no federal physician-patient privilege.
+  trap_type: confused-rule
+  authority: ["FRE 501", "Jaffee v. Redmond, 518 U.S. 1 (1996)"]
+  source: original
+  tags: [wave2, W2-EVD, privilege, psychotherapist, physician]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-EVD-0081
+  subject: EVD
+  coverage_ids: [EVD-MBE-III.D]
+  rule_ids: [R-EVD-072]
+  difficulty: 3
+  stem: >-
+    A defendant is prosecuted in federal court for selling heroin. The government's evidence is that a
+    confidential informant arranged the sale, that the informant and the seller were alone inside a parked
+    car when the sale occurred, and that agents watched the car from 200 feet away but could not see
+    inside it. The defendant claims that he was not the seller and that the informant set him up. He moves
+    to compel disclosure of the informant's identity. The government asserts the informer's privilege; the
+    informant has expressed no view.
+  call: How should the court rule on the motion?
+  options:
+    A: "Deny it, because the government's privilege to withhold an informer's identity is absolute."
+    B: "Grant it, because the informer was the only witness to the sale besides the seller, so disclosure is essential to a fair defense."
+    C: "Deny it, because the defendant can cross-examine the agents who watched the car."
+    D: "Deny it, because the informer's privilege belongs to the informer, who has not consented to the disclosure of his identity."
+  answer: B
+  explanation_correct: >-
+    Informer's privilege (R-EVD-072): the government may withhold the identity of persons who give it
+    information about crimes, but under Roviaro v. United States the privilege gives way when disclosure
+    is relevant and helpful to the defense or essential to a fair determination of the case, balancing the
+    public interest in the flow of information against the defendant's right to prepare a defense. Here
+    the informant was the only other participant in, and the only witness to, the sale, and the defense is
+    misidentification. The balance favors disclosure; if the government refuses, the court may dismiss.
+  explanation_each_wrong_option:
+    A: >-
+      Overbroad. Roviaro holds that the privilege is qualified and yields to the needs of a fair defense.
+    C: >-
+      The agents could not see inside the car, so they cannot substitute for the only percipient witness on
+      the identity of the seller.
+    D: >-
+      Wrong holder. The privilege belongs to the government, which protects its sources; the informant's
+      consent is not the question.
+  trap_type: overbroad
+  authority: ["FRE 501", "Roviaro v. United States, 353 U.S. 53 (1957)"]
+  source: original
+  tags: [wave2, W2-EVD, privilege, informer]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-EVD-0082
+  subject: EVD
+  coverage_ids: [EVD-MBE-III.E]
+  rule_ids: [R-EVD-073, R-EVD-007]
+  difficulty: 2
+  stem: >-
+    A visitor fell on an icy exterior staircase at a small office building and sued the building's owner
+    in federal court for negligence. The owner denies that he controlled the staircase, claiming that under
+    the lease his only tenant was responsible for maintaining it. To prove that the owner controlled the
+    staircase, the visitor offers testimony from the owner's insurance agent that the owner bought a
+    liability policy specifically covering injuries on "the building's exterior stairways and walkways."
+    The owner objects.
+  call: How should the court rule?
+  options:
+    A: "Admit the evidence for all purposes, because insurance coverage shows that the owner can pay a judgment."
+    B: "Exclude the evidence, because evidence of liability insurance is not admissible in a negligence action."
+    C: "Admit the evidence to prove control of the staircase, but not to prove negligence, with a limiting instruction on request."
+    D: "Exclude the evidence, because the owner's insurer is not a party to the action."
+  answer: C
+  explanation_correct: >-
+    Liability insurance (R-EVD-073; FRE 411): evidence that a person was or was not insured against
+    liability is not admissible to prove that he acted negligently or otherwise wrongfully, but it may be
+    admitted for another purpose, such as proving agency, ownership or control. Control of the staircase
+    is disputed, and buying coverage for it tends to show control. On request, the court must instruct the
+    jury to use the evidence only for that purpose (FRE 105; R-EVD-007).
+  explanation_each_wrong_option:
+    A: >-
+      Ability to pay is not a proper purpose; it invites a verdict based on the insurer's deep pocket, the
+      very danger FRE 411 guards against.
+    B: >-
+      Overbroad. FRE 411 bars insurance evidence only when offered to prove fault; it expressly allows
+      other purposes such as control.
+    D: >-
+      True but irrelevant. Whether the insurer is a party has nothing to do with admissibility; the
+      question is the purpose for which the evidence is offered.
+  trap_type: overbroad
+  authority: ["FRE 411", "FRE 105"]
+  source: original
+  tags: [wave2, W2-EVD, policy-exclusions, insurance]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-EVD-0083
+  subject: EVD
+  coverage_ids: [EVD-MBE-III.H]
+  rule_ids: [R-EVD-045]
+  difficulty: 1
+  stem: >-
+    A defendant is prosecuted in federal court for sexually assaulting a woman at a campground in a
+    national park. He contends that he never had any contact with her. A government physician testifies
+    that an examination of the woman a few hours after the alleged assault revealed semen, but that the
+    sample was too small for DNA testing. The defendant has filed a timely written motion, with notice to
+    the woman, seeking to offer testimony from her boyfriend that he and the woman had consensual
+    intercourse about six hours before the alleged assault. The government opposes the motion.
+  call: Should the court admit the boyfriend's testimony?
+  options:
+    A: "Yes, because specific instances of the victim's sexual behavior may be offered to show another source of the semen."
+    B: "No, because evidence of a victim's other sexual behavior is never admissible in a criminal sexual-assault case."
+    C: "No, because in a criminal case the only sexual behavior of the victim that may be shown is behavior with the defendant."
+    D: "Yes, because it tends to show the victim's sexual predisposition, which bears on whether she consented."
+  answer: A
+  explanation_correct: >-
+    Rape shield (R-EVD-045; FRE 412): evidence of a victim's other sexual behavior or sexual predisposition
+    is generally inadmissible, but in a criminal case FRE 412(b)(1)(A) admits evidence of specific
+    instances of a victim's sexual behavior offered to prove that someone other than the defendant was the
+    source of semen, injury or other physical evidence. The defendant denies any contact, and the
+    boyfriend's testimony offers another source for the semen. He has followed the FRE 412(c) procedure.
+  explanation_each_wrong_option:
+    B: >-
+      Overbroad. FRE 412(b)(1) lists three criminal-case exceptions, including the source-of-semen
+      exception.
+    C: >-
+      Confuses two exceptions. Behavior with the defendant (FRE 412(b)(1)(B)) is one route; proof that
+      another person was the source of physical evidence is a separate one.
+    D: >-
+      Sexual predisposition is exactly what FRE 412(a)(2) excludes, and consent is not the defense here.
+  trap_type: overbroad
+  authority: ["FRE 412(a)", "FRE 412(b)(1)", "FRE 412(c)"]
+  source: original
+  tags: [wave2, W2-EVD, rape-shield]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-EVD-0084
+  subject: EVD
+  coverage_ids: [EVD-MBE-IV.A]
+  rule_ids: [R-EVD-079, R-EVD-078]
+  difficulty: 2
+  stem: >-
+    A distributor sues a manufacturer in federal court, alleging that the manufacturer breached a signed
+    exclusive-distribution agreement by appointing a second distributor in the same territory. The
+    manufacturer's answer denies that the agreement granted exclusivity. The only signed original is in
+    the manufacturer's files, and the distributor kept no copy. Before trial, the distributor served the
+    manufacturer with written notice to bring the original agreement to trial. At trial, the manufacturer
+    does not produce it, and the distributor's president, who negotiated and signed the agreement,
+    testifies about the wording of its exclusivity clause. The manufacturer objects.
+  call: Should the court admit the president's testimony about the clause?
+  options:
+    A: "No, because the content of a writing may be proved only by the original or a duplicate."
+    B: "Yes, because the manufacturer controlled the original, had notice that its content would be proved, and did not produce it."
+    C: "No, because before offering other evidence the distributor must first subpoena the original and obtain an order compelling its production."
+    D: "Yes, because the best evidence rule does not apply to testimony by a person who signed the writing."
+  answer: B
+  explanation_correct: >-
+    Best evidence rule (R-EVD-078; FRE 1002): the terms of the agreement are in dispute, so the
+    distributor is proving the content of a writing and must use the original unless an exception applies.
+    Under FRE 1004(c) (R-EVD-079), other evidence of content is admissible if the party against whom the
+    original would be offered had control of it, was put on notice, by the pleadings or otherwise, that the
+    original would be a subject of proof, and fails to produce it at trial. All three conditions are met.
+  explanation_each_wrong_option:
+    A: >-
+      Ignores the excuses in FRE 1004. When one applies, other evidence of content, including oral
+      testimony, is admissible.
+    C: >-
+      FRE 1004(c) requires only control, notice and failure to produce; it does not require a subpoena or
+      court order.
+    D: >-
+      A signer's familiarity with the deal does not avoid the rule when the testimony is offered to prove
+      the writing's terms. (FRE 1007 allows proof by the opposing party's own testimony or written
+      statement, not the proponent's.)
+  trap_type: exception-trap
+  authority: ["FRE 1002", "FRE 1004(c)", "FRE 1007"]
+  source: original
+  tags: [wave2, W2-EVD, best-evidence-rule, original-unavailable]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-EVD-0085
+  subject: EVD
+  coverage_ids: [EVD-MBE-IV.A]
+  rule_ids: [R-EVD-078, R-EVD-079]
+  difficulty: 2
+  stem: >-
+    A cashier is prosecuted for stealing from her employer's cash register. The store's loss-prevention
+    officer was not on duty at the time and did not see the theft. The next morning, he reviewed the
+    store's digital security video, which remains in the store's possession and is available. At trial,
+    the prosecution does not offer the video. Instead, it asks the officer to describe what the video
+    showed, and he is prepared to testify that it showed the cashier slipping bills from the register into
+    her apron. The cashier objects.
+  call: How should the court rule on the objection?
+  options:
+    A: "Overrule it, because the officer has personal knowledge of what he saw on the video."
+    B: "Overrule it, because the requirement of an original applies only to writings and documents, not to video recorded by a security camera."
+    C: "Sustain it, because the officer's description of the video is hearsay."
+    D: "Sustain it, because the officer knows only what the video shows, so the video must be offered or its absence excused."
+  answer: D
+  explanation_correct: >-
+    Best evidence rule (R-EVD-078; FRE 1002): an original writing, recording or photograph is required to
+    prove its content, and the rule applies when the witness's knowledge comes from the recording rather
+    than from the event. The officer did not see the theft; he can only describe the video's content. The
+    video is available, so no FRE 1004 excuse applies; the prosecution must offer the original or a
+    duplicate (FRE 1003; R-EVD-079). An eyewitness to the theft could have testified without the video.
+  explanation_each_wrong_option:
+    A: >-
+      His personal knowledge is of the recording's content, which is exactly why the rule applies; he has
+      no independent knowledge of the event.
+    B: >-
+      FRE 1001 defines recordings and photographs, including video images stored in any form, as covered
+      items.
+    C: >-
+      A video is not a statement by a person, and the officer's in-court description is not hearsay; the
+      proper objection is the best evidence rule.
+  trap_type: confused-rule
+  authority: ["FRE 1001", "FRE 1002", "FRE 1003", "FRE 1004"]
+  source: original
+  tags: [wave2, W2-EVD, best-evidence-rule, video]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-EVD-0086
+  subject: EVD
+  coverage_ids: [EVD-MBE-IV.B]
+  rule_ids: [R-EVD-081, R-EVD-092, R-EVD-099]
+  difficulty: 3
+  stem: >-
+    A homeowner sues the maker of a water heater in federal court, alleging that a defective pressure
+    valve caused her heater to burst. To prove that valves of that design commonly failed, she offers a
+    chart prepared by a paralegal summarizing 3,000 emails that customers sent to the manufacturer's
+    customer-service address, each describing a valve failure. The manufacturer keeps all such emails in a
+    database in the ordinary course of its business, produced them in discovery, and they were available
+    to all parties before trial. The manufacturer objects to the chart.
+  call: Should the court admit the chart to prove that the valves failed?
+  options:
+    A: "Yes, because a summary of voluminous records may be admitted even if the underlying records are not introduced."
+    B: "Yes, because the emails are business records of the manufacturer, which received and kept them in the ordinary course of business."
+    C: "No, because a summary is admissible only if the underlying records would themselves be admissible for the same purpose."
+    D: "No, because the homeowner must introduce all 3,000 emails rather than a summary of them."
+  answer: C
+  explanation_correct: >-
+    Summaries (R-EVD-081; FRE 1006): a summary may prove the content of voluminous writings that cannot be
+    conveniently examined in court, whether or not they are introduced, but only if the underlying
+    materials are themselves admissible and were made available to other parties. Offered to prove that
+    valves failed, the emails are customers' out-of-court assertions. The customers had no business duty
+    to report, so the manufacturer's routine storage does not bring their contents within FRE 803(6)
+    (R-EVD-099), and each layer of hearsay needs its own exception (FRE 805; R-EVD-092). The emails might be
+    usable for a non-truth purpose such as notice, but the chart cannot prove the failures themselves.
+  explanation_each_wrong_option:
+    A: >-
+      Missing element. The underlying records need not be introduced, but they must be admissible for the
+      purpose for which the summary is offered.
+    B: >-
+      The business-records exception covers information supplied by someone acting in the regular course
+      of the business; an outsider's statement recorded in a business's files needs its own exception.
+    D: >-
+      FRE 1006 exists so that voluminous admissible records can be proved by a summary instead.
+  trap_type: missing-element
+  authority: ["FRE 1006", "FRE 803(6)", "FRE 805"]
+  source: original
+  tags: [wave2, W2-EVD, summaries, multiple-hearsay]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-EVD-0087
+  subject: EVD
+  coverage_ids: [EVD-MBE-IV.C]
+  rule_ids: [R-EVD-082, R-EVD-035]
+  difficulty: 3
+  stem: >-
+    A bookkeeper is prosecuted in federal court for stealing $9,000 from her employer. The prosecution
+    plays for the jury a short excerpt from her recorded interview with an FBI agent, in which she says,
+    "Yes, I took the $9,000 from the safe on Friday." Immediately after the excerpt ends, the defense asks
+    the court to play two other portions of the same recording: (1) her very next sentence, "The owner told
+    me to take it to the bank's night deposit, and I did"; and (2) a passage from later in the interview in
+    which she described her years of volunteer work at her church. The prosecution objects that both
+    portions are hearsay when offered by the defendant.
+  call: How should the court rule?
+  options:
+    A: "Play the next sentence now, because fairness requires it to correct a misleading impression, but not the passage about her volunteer work."
+    B: "Play both portions now, because once part of a recorded statement is introduced, the adverse party may require the whole statement to be played."
+    C: "Play neither portion, because a defendant's own out-of-court statements are hearsay when she offers them."
+    D: "Play the next sentence, but only during the defense case, because the prosecution may present its evidence in the order it chooses."
+  answer: A
+  explanation_correct: >-
+    Completeness (R-EVD-082; FRE 106, as amended in 2023): if a party introduces all or part of a
+    statement, an adverse party may require the introduction, at that time, of any other part that in
+    fairness ought to be considered at the same time, and may do so over a hearsay objection. The next
+    sentence changes the meaning of "I took the $9,000" from theft to an authorized errand, so fairness
+    requires it now. The church passage neither explains nor qualifies the excerpt; it is an attempt to
+    show good character (R-EVD-035), which FRE 106 does not reach.
+  explanation_each_wrong_option:
+    B: >-
+      Overbroad. FRE 106 reaches only the parts that in fairness ought to be considered with the excerpt,
+      not the whole statement.
+    C: >-
+      Since 2023, FRE 106 expressly allows the completing portion to come in over a hearsay objection.
+    D: >-
+      FRE 106 lets the adverse party require the completing portion "at that time," so the misleading
+      impression is corrected immediately rather than left until the defense case.
+  trap_type: overbroad
+  authority: ["FRE 106", "FRE 801(d)(2)(A)"]
+  source: original
+  tags: [wave2, W2-EVD, completeness]
+  status: draft
+  last_verified: "2026-11-04"

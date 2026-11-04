@@ -85,7 +85,7 @@ status: draft
 
 **MBE vs. CA essay:** Same allocation. California courts generally apply the Evidence Code itself when finding preliminary facts [VERIFY V-409].
 
-**Example:** To admit a coconspirator's statement, the judge may consider the statement itself plus independent evidence and must find the conspiracy more likely than not.
+**Example:** To admit a coconspirator's statement, the judge must consider the statement itself (FRE 801(d)(2), last sentence) together with independent evidence and must find the conspiracy more likely than not.
 
 ### R-EVD-006 — Conditional relevance (jury questions)
 **Rule (write this):** When the relevance of evidence depends on whether a fact exists, the court admits it if the proponent introduces evidence sufficient to support a finding that the fact exists; the jury then decides whether it does.
@@ -564,7 +564,7 @@ status: draft
 ### R-EVD-042 — Other crimes, wrongs or acts
 **Rule (write this):** Evidence of other crimes, wrongs or acts is inadmissible to prove character and conforming conduct, but may be admitted for another purpose, such as motive, opportunity, intent, preparation, plan, knowledge, identity, absence of mistake or lack of accident, if the jury could find the act occurred and its probative value is not substantially outweighed by unfair prejudice.
 
-**Elements:** 1. Non-propensity purpose genuinely in dispute. 2. Relevance without a character inference. 3. Sufficient proof for a jury to find the act (104(b)) — acquittal no bar. 4. 403 / § 352. 5. Limiting instruction. 6. Criminal cases (FRE): reasonable written pretrial notice stating purpose and reasoning.
+**Elements:** 1. Non-propensity purpose genuinely in dispute. 2. Relevance without a character inference. 3. Sufficient proof for a jury to find the act (104(b)) — acquittal no bar (*Dowling v. United States*, 493 U.S. 342 (1990)). 4. 403 / § 352. 5. Limiting instruction. 6. Criminal cases (FRE): reasonable written pretrial notice stating purpose and reasoning.
 
 **Exceptions / defenses:** Identity requires a distinctive signature; intent requires the least similarity (*Ewoldt*). Acts that are part of the charged crime are not "other" acts.
 
@@ -1209,7 +1209,7 @@ status: draft
 **Example:** A delivery driver tells a police officer after a crash, "I was rushing to make my quota." FRE: admissible against the employer (within scope, during employment). California: admissible against the employer only via § 1222 (authority to speak) or § 1224.
 
 ### R-EVD-091 — Co-conspirator statements
-**Rule (write this):** A statement by a party's coconspirator made during and in furtherance of the conspiracy is admissible against the party; the court must find the conspiracy and participation by a preponderance, may consider the statement itself, but cannot rely on it alone.
+**Rule (write this):** A statement by a party's coconspirator made during and in furtherance of the conspiracy is admissible against the party; the court must find the conspiracy and participation by a preponderance, must consider the statement itself, but cannot rely on it alone.
 
 **Elements:** 1. Conspiracy existed. 2. Declarant and party members. 3. During the conspiracy. 4. In furtherance (not narratives, confessions or post-arrest statements). 5. Independent evidence.
 

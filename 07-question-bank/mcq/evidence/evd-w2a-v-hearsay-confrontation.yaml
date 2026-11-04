@@ -1,0 +1,556 @@
+# Evidence MCQs — NCBE category V: hearsay, exclusions, exceptions and the Confrontation Clause
+# (Wave 2, batch A). FRE only (as amended through Dec. 1, 2024). All items original.
+# No item turns on amended FRE 801(d)(1)(A) (prior inconsistent statements as substantive evidence, V-028).
+questions:
+- id: Q-EVD-0088
+  subject: EVD
+  coverage_ids: [EVD-MBE-V.A.1]
+  rule_ids: [R-EVD-083, R-EVD-009, R-EVD-093]
+  difficulty: 3
+  stem: >-
+    A driver sues a county in federal court, alleging that the county negligently failed to salt a bridge,
+    so that her car skidded on ice. The county contends that the bridge was not icy. The driver calls her
+    passenger, who testifies that in the minute before the skid she watched each of the four cars ahead of
+    them slow to a crawl as they reached the bridge, and that two of those cars pulled onto the shoulder
+    and stopped before crossing. The driver offers this testimony to show that the bridge was icy. The
+    county objects on hearsay grounds.
+  call: Should the court admit the passenger's testimony?
+  options:
+    A: "No, because the other drivers' conduct is offered to prove their belief that the bridge was icy, which makes it hearsay."
+    B: "Yes, because the drivers' conduct was not intended as an assertion, so it is not a statement under the hearsay rule."
+    C: "Yes, because the drivers' conduct was a present sense impression of the condition of the bridge."
+    D: "No, because the passenger lacks personal knowledge of what the other drivers saw on the bridge."
+  answer: B
+  explanation_correct: >-
+    Hearsay definition (R-EVD-083; FRE 801(a), (c)): hearsay requires a "statement," which means an oral
+    or written assertion or nonverbal conduct that the person intended as an assertion. Drivers who slow
+    down and pull over are acting for their own safety, not trying to communicate, so their conduct is not
+    a statement, even though it is offered to show what they believed and, through that belief, that the
+    bridge was icy. The passenger saw the conduct herself, so the evidence comes in, and the county may
+    argue other reasons for it.
+  explanation_each_wrong_option:
+    A: >-
+      Minority (common-law) view. Treating nonassertive conduct as an "implied assertion" of the actor's
+      belief was rejected by FRE 801(a), which reaches only conduct intended as an assertion.
+    C: >-
+      Wrong reason. FRE 803(1) (R-EVD-093) is an exception for statements; conduct that is not a statement
+      needs no exception at all.
+    D: >-
+      The passenger testifies only to what she saw the cars do, which she perceived directly (FRE 602,
+      R-EVD-009).
+  trap_type: minority-rule
+  authority: ["FRE 801(a)", "FRE 801(c)", "FRE 602"]
+  source: original
+  tags: [wave2, W2-EVD, hearsay, nonassertive-conduct]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-EVD-0089
+  subject: EVD
+  coverage_ids: [EVD-MBE-V.A.1]
+  rule_ids: [R-EVD-084, R-EVD-038, R-EVD-007]
+  difficulty: 2
+  stem: >-
+    A defendant is prosecuted in federal court for assault after he struck a man with a tire iron in a
+    parking lot on a military base. He claims self-defense. He testifies that when the man walked toward
+    him, he grabbed the tire iron because, a week earlier, a friend had told him that the man "carries a
+    knife and has stabbed two people." The prosecution objects to the testimony about the friend's
+    statement on hearsay grounds.
+  call: Should the court admit the testimony about the friend's statement?
+  options:
+    A: "No, because it is an out-of-court statement offered for its truth, and the friend is available to testify."
+    B: "No, because the defendant may prove the man's violent character only by reputation or opinion testimony, not by specific violent acts."
+    C: "Yes, because it is offered to show its effect on the defendant's state of mind, not that the man was in fact armed or violent."
+    D: "Yes, because it is a statement of the friend's then-existing state of mind."
+  answer: C
+  explanation_correct: >-
+    Non-hearsay purpose (R-EVD-084; FRE 801(c)): a statement offered to show its effect on the listener is
+    not offered for its truth. Self-defense turns on whether the defendant reasonably feared the man, and
+    what he had been told bears on that fear whether or not it was true. Because the evidence is offered to
+    show the defendant's knowledge, not the man's character, it is not limited by FRE 405(a)
+    (R-EVD-038). On request, the court should instruct the jury to use it only on the defendant's state of
+    mind (R-EVD-007).
+  explanation_each_wrong_option:
+    A: >-
+      The statement is not offered for its truth, so it is not hearsay, and availability is irrelevant to
+      the definition.
+    B: >-
+      Confused rule. FRE 405(a) limits proof of the victim's trait when offered to show the victim acted in
+      conformity with it; here the purpose is the defendant's reasonable fear.
+    D: >-
+      FRE 803(3) concerns the declarant's own state of mind; the friend's state of mind is not in issue,
+      and no exception is needed for a non-hearsay statement.
+  trap_type: confused-rule
+  authority: ["FRE 801(c)", "FRE 404(a)(2)(B)", "FRE 405(a)", "FRE 105"]
+  source: original
+  tags: [wave2, W2-EVD, hearsay, effect-on-listener, self-defense]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-EVD-0090
+  subject: EVD
+  coverage_ids: [EVD-MBE-V.A.2]
+  rule_ids: [R-EVD-086, R-EVD-032]
+  difficulty: 2
+  stem: >-
+    A defendant is prosecuted in federal court for smuggling firearms. His former associate testifies for
+    the government that the defendant packed the firearms into a shipping container. On cross-examination,
+    defense counsel suggests that the associate made up his account after he was arrested on March 1, in
+    order to win leniency from the government. On redirect, the government offers a letter that the
+    associate wrote to his sister from jail on March 10, describing the defendant's role exactly as he has
+    testified. The defendant objects.
+  call: Should the court admit the letter as evidence of the defendant's role?
+  options:
+    A: "Yes, because a prior consistent statement is admissible whenever a witness's credibility has been attacked."
+    B: "Yes, because the associate testified at trial and is subject to cross-examination about the letter."
+    C: "No, because a witness's prior consistent statement may be used only to rehabilitate, never as substantive evidence."
+    D: "No, because the letter was written after the alleged motive to fabricate arose."
+  answer: D
+  explanation_correct: >-
+    Prior consistent statements (R-EVD-086; FRE 801(d)(1)(B)(i)): a testifying witness's consistent
+    statement offered to rebut an express or implied charge of recent fabrication or improper motive is
+    not hearsay only if it was made before the alleged motive arose (Tome v. United States). The claimed
+    motive, leniency, arose at the arrest on March 1; the letter was written on March 10, so it does not
+    rebut the charge. The 2014 "another ground" clause (FRE 801(d)(1)(B)(ii)) does not remove this timing
+    requirement when the attack is fabrication from a motive (R-EVD-032).
+  explanation_each_wrong_option:
+    A: >-
+      Overbroad. The consistent statement must actually rebut the particular attack; a statement made
+      after the motive arose does not.
+    B: >-
+      Missing element. Testifying and being subject to cross-examination is necessary, but the statement
+      must also satisfy the rehabilitative purpose and pre-motive timing.
+    C: >-
+      Under the FRE, a consistent statement that qualifies under FRE 801(d)(1)(B) is admissible for its
+      truth, not just to rehabilitate.
+  trap_type: missing-element
+  authority: ["FRE 801(d)(1)(B)", "Tome v. United States, 513 U.S. 150 (1995)"]
+  source: original
+  tags: [wave2, W2-EVD, hearsay, prior-consistent-statement]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-EVD-0091
+  subject: EVD
+  coverage_ids: [EVD-MBE-V.A.3]
+  rule_ids: [R-EVD-089, R-EVD-104]
+  difficulty: 2
+  stem: >-
+    A defendant is prosecuted in federal court for embezzling funds from a federally funded youth-sports
+    program that he managed. At a family barbecue, before any investigation had begun, his brother-in-law
+    said to him in front of several relatives, "Everybody knows you've been taking the program's money to
+    pay for your new boat." The defendant, standing a few feet away and looking directly at his
+    brother-in-law, said nothing, laughed, and walked to his car. The prosecution offers a relative's
+    testimony describing the exchange. The defendant objects.
+  call: Should the court admit the testimony?
+  options:
+    A: "Yes, as an adoptive admission, if he heard and understood the accusation and would naturally have denied it if untrue."
+    B: "No, because a person's silence cannot be a statement for purposes of the hearsay rule."
+    C: "No, because using a person's failure to deny an accusation against him at trial violates his privilege against self-incrimination."
+    D: "Yes, because the brother-in-law's accusation was a statement against his own interest."
+  answer: A
+  explanation_correct: >-
+    Adoptive admission (R-EVD-089; FRE 801(d)(2)(B)): a statement is admissible against a party who
+    manifested that he adopted it or believed it to be true, which can include silence when the party heard
+    and understood the statement, could respond, and the circumstances would naturally call for a denial if
+    it were untrue. A pointed accusation of theft by a relative in front of family is such a circumstance. A factfinder could treat his laughing and walking away without a denial as acquiescence, though he may argue the laugh was a dismissive denial; that goes to weight once the foundation is met. The exchange was private, before any arrest or police
+    questioning, so no constitutional limit on using silence applies.
+  explanation_each_wrong_option:
+    B: >-
+      FRE 801(d)(2)(B) expressly allows a party to adopt a statement by conduct, including silence where a
+      denial would be expected.
+    C: >-
+      The constitutional limits on using a defendant's silence concern silence in the face of government
+      action, most clearly after Miranda warnings (Doyle v. Ohio); a private family exchange involves no
+      government compulsion.
+    D: >-
+      The accusation was against the defendant's interest, not the brother-in-law's, and FRE 804(b)(3)
+      (R-EVD-104) also requires an unavailable declarant.
+  trap_type: confused-rule
+  authority: ["FRE 801(d)(2)(B)", "Doyle v. Ohio, 426 U.S. 610 (1976)"]
+  source: original
+  tags: [wave2, W2-EVD, hearsay, adoptive-admission]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-EVD-0092
+  subject: EVD
+  coverage_ids: [EVD-MBE-V.A.3]
+  rule_ids: [R-EVD-091, R-EVD-005, R-EVD-104, R-EVD-111]
+  difficulty: 2
+  stem: >-
+    A defendant named Dale is prosecuted in federal court for conspiring to sell stolen laptops. An
+    undercover agent testifies that a man named Ferris, while trying to sell him 40 laptops, said, "My
+    partner Dale has the rest in his garage; he'll deliver them Friday." Agents later watched the defendant
+    load laptops from his garage into a van on that Friday. Ferris has pleaded guilty, been sentenced, and
+    is available, but neither side calls him. The defendant objects to the agent's testimony about
+    Ferris's statement.
+  call: Should the court admit Ferris's statement against the defendant?
+  options:
+    A: "No, because the statement was made to an undercover agent rather than to a member of the conspiracy."
+    B: "No, because in deciding whether a conspiracy existed, the court may not consider the content of the statement itself."
+    C: "Yes, because Ferris's statement was against his penal interest when he made it."
+    D: "Yes, because it was made during and in furtherance of a conspiracy shown by the statement plus the surveillance."
+  answer: D
+  explanation_correct: >-
+    Coconspirator statements (R-EVD-091; FRE 801(d)(2)(E)): a statement made by a party's coconspirator
+    during and in furtherance of the conspiracy is not hearsay when offered against the party. The court
+    decides the foundation by a preponderance (FRE 104(a); R-EVD-005) and must consider the statement
+    itself, though it alone is not enough; the surveillance supplies independent evidence. Telling a
+    prospective buyer where the rest of the goods are and when they will be delivered advances the sale.
+    Because Ferris did not know he was talking to an agent, the statement is not testimonial (R-EVD-111).
+  explanation_each_wrong_option:
+    A: >-
+      A statement in furtherance may be made to an outsider, including an unwitting undercover agent; the
+      test is whether it advances the conspiracy.
+    B: >-
+      Wrong standard. FRE 801(d)(2) says the statement must be considered but does not by itself establish
+      the conspiracy (Bourjaily).
+    C: >-
+      FRE 804(b)(3) (R-EVD-104) requires an unavailable declarant, and Ferris is available, which alone
+      defeats this option. (Even if he were unavailable, only the self-inculpatory portions would qualify
+      under Williamson.)
+  trap_type: wrong-standard
+  authority: ["FRE 801(d)(2)(E)", "FRE 104(a)", "Bourjaily v. United States, 483 U.S. 171 (1987)"]
+  source: original
+  tags: [wave2, W2-EVD, hearsay, coconspirator]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-EVD-0093
+  subject: EVD
+  coverage_ids: [EVD-MBE-V.B]
+  rule_ids: [R-EVD-093, R-EVD-094]
+  difficulty: 1
+  stem: >-
+    A pedestrian sues a delivery company in federal court, alleging that its van drifted onto the sidewalk
+    and struck her. A passenger in a car stopped at a nearby light testifies for the pedestrian that, a few
+    seconds before the van left the road, the driver of the car she was riding in said in a calm, ordinary
+    tone, "That white van is drifting toward the curb; its driver is looking down at something." The car's
+    driver has since moved overseas, and the pedestrian has made no effort to locate him. The delivery
+    company objects on hearsay grounds.
+  call: Should the court admit the testimony?
+  options:
+    A: "No, because the driver spoke calmly, so he was not under the stress of excitement."
+    B: "No, because the pedestrian has not shown that the driver is unavailable to testify."
+    C: "Yes, because the statement described an event the driver was perceiving, and he made it while perceiving it."
+    D: "Yes, because the statement related to a startling event and was made shortly after it."
+  answer: C
+  explanation_correct: >-
+    Present sense impression (R-EVD-093; FRE 803(1)): a statement describing or explaining an event or
+    condition, made while or immediately after the declarant perceived it, is admissible. The driver
+    described the van's drift and its driver's conduct as he watched them. Excitement is not required, and
+    as with every FRE 803 exception, the declarant's availability does not matter.
+  explanation_each_wrong_option:
+    A: >-
+      True but irrelevant. Calmness defeats the excited-utterance exception (FRE 803(2)), not the present
+      sense impression.
+    B: >-
+      Unavailability is required only for the FRE 804 exceptions.
+    D: >-
+      The driver was calm, and he spoke before the van left the road, so the excited-utterance requirements
+      (R-EVD-094) are not shown.
+  trap_type: true-but-irrelevant
+  authority: ["FRE 803(1)", "FRE 803(2)"]
+  source: original
+  tags: [wave2, W2-EVD, hearsay, present-sense-impression]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-EVD-0094
+  subject: EVD
+  coverage_ids: [EVD-MBE-V.C]
+  rule_ids: [R-EVD-095, R-EVD-111, R-EVD-102]
+  difficulty: 2
+  stem: >-
+    A defendant is prosecuted in federal court for stalking his former girlfriend across state lines. The
+    girlfriend died in an unrelated car accident before trial. The prosecution calls her co-worker, who will
+    testify that a week before the girlfriend moved to another state, the girlfriend told her over lunch,
+    "I remember seeing him parked outside my apartment almost every night last month." The prosecution
+    offers this testimony to prove that the defendant parked outside her apartment. The defendant objects.
+  call: Is the co-worker's testimony admissible for that purpose?
+  options:
+    A: "Yes, because it is a statement of the girlfriend's then-existing state of mind."
+    B: "No, because a statement of memory is not admissible under the state-of-mind exception to prove the fact remembered."
+    C: "No, because the statement is testimonial, and the defendant never had an opportunity to cross-examine the girlfriend."
+    D: "Yes, because the girlfriend is dead and therefore unavailable."
+  answer: B
+  explanation_correct: >-
+    State of mind (R-EVD-095; FRE 803(3)): a statement of the declarant's then-existing state of mind is
+    admissible, but the exception excludes a statement of memory or belief offered to prove the fact
+    remembered or believed (except about the declarant's will). "I remember seeing him parked outside" is
+    a look backward offered to prove that he was there. Her death makes her unavailable (R-EVD-102), but
+    no FRE 804 exception fits.
+  explanation_each_wrong_option:
+    A: >-
+      Mislabels the statement. 'I remember seeing him...' reports a memory of past events, not a
+      then-existing emotion, plan or intent, and FRE 803(3) expressly excludes a statement of memory
+      offered to prove the fact remembered.
+    C: >-
+      Wrong reason. A casual remark to a co-worker over lunch is not testimonial (R-EVD-111), so the
+      Confrontation Clause is not the obstacle; the hearsay rule is.
+    D: >-
+      Unavailability is not itself an exception; the statement must fit an FRE 804(b) category, and none
+      applies (for example, she did not believe her death was imminent).
+  trap_type: true-but-irrelevant
+  authority: ["FRE 803(3)", "FRE 804", "Shepard v. United States, 290 U.S. 96 (1933)"]
+  source: original
+  tags: [wave2, W2-EVD, hearsay, state-of-mind, memory-or-belief]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-EVD-0095
+  subject: EVD
+  coverage_ids: [EVD-MBE-V.F]
+  rule_ids: [R-EVD-099, R-EVD-088]
+  difficulty: 3
+  stem: >-
+    A motorcyclist sues a trucking company in federal court after a collision with one of its
+    tractor-trailers. The company offers a written accident report that its driver completed on a company
+    form two days after the collision, stating that he was traveling at 45 miles per hour and that the
+    motorcyclist swerved into his lane. The company's safety director testifies that drivers must complete
+    such a report after every accident, that the reports are kept in the company's files, and that they are
+    sent to the company's claims department and outside counsel for use in defending claims. The
+    motorcyclist objects.
+  call: How should the court most likely rule on the objection?
+  options:
+    A: "Sustain it, because the report's preparation for use in defending claims indicates a lack of trustworthiness."
+    B: "Overrule it, because the report was made under a regular practice in the course of the company's regularly conducted business."
+    C: "Sustain it, because the driver is available and should testify instead."
+    D: "Overrule it, because a party's own records are admissible as statements of a party."
+  answer: A
+  explanation_correct: >-
+    Business records (R-EVD-099; FRE 803(6)): a record that meets the regular-course and regular-practice
+    requirements is still excluded if the opponent shows that the source of information or the method or
+    circumstances of preparation indicate a lack of trustworthiness (FRE 803(6)(E)). A self-serving
+    accident report prepared for use in defending claims and offered by the party that prepared it is the
+    classic example (Palmer v. Hoffman). The safety director's own testimony supplies the showing.
+  explanation_each_wrong_option:
+    B: >-
+      Missing element. Regular practice is necessary but not sufficient; the trustworthiness clause of FRE
+      803(6)(E) still applies.
+    C: >-
+      Availability is irrelevant to FRE 803 exceptions; the report fails for untrustworthiness, not
+      because the driver could testify.
+    D: >-
+      An opposing party's statement is admissible only when offered against that party (FRE 801(d)(2);
+      R-EVD-088), not when the party offers its own statements.
+  trap_type: missing-element
+  authority: ["FRE 803(6)", "Palmer v. Hoffman, 318 U.S. 109 (1943)", "FRE 801(d)(2)"]
+  source: original
+  tags: [wave2, W2-EVD, hearsay, business-records, trustworthiness]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-EVD-0096
+  subject: EVD
+  coverage_ids: [EVD-MBE-V.G]
+  rule_ids: [R-EVD-100, R-EVD-115]
+  difficulty: 2
+  stem: >-
+    The owner of a furniture store is prosecuted in federal court for arson after the store burned. The
+    government's expert testifies that the fire was set intentionally. The defendant offers a report by the
+    city fire department's investigation unit, prepared after an investigation required by city ordinance,
+    which concludes that the fire was "accidental, most likely caused by an electrical fault in the showroom
+    ceiling." The government objects.
+  call: Should the court admit the report?
+  options:
+    A: "No, because investigative reports of public agencies are inadmissible in criminal cases."
+    B: "No, because the report states opinions and conclusions rather than facts."
+    C: "Yes, because factual findings of an authorized investigation may be offered against the government in a criminal case."
+    D: "Yes, because a criminal defendant has a constitutional right to introduce any evidence that tends to show his innocence."
+  answer: C
+  explanation_correct: >-
+    Public records (R-EVD-100; FRE 803(8)(A)(iii)): factual findings from a legally authorized
+    investigation are admissible in a civil case or against the government in a criminal case, unless the
+    opponent shows that the source of information or other circumstances indicate a lack of
+    trustworthiness (FRE 803(8)(B)). The ordinance authorized the investigation, and the defendant offers
+    the findings against the government. Under Beech Aircraft, factual findings include conclusions and
+    opinions based on the investigation.
+  explanation_each_wrong_option:
+    A: >-
+      Overbroad. The criminal-case restrictions in FRE 803(8) protect the accused; investigative findings
+      may be used against the government.
+    B: >-
+      Beech Aircraft Corp. v. Rainey holds that "factual findings" include opinions and conclusions.
+    D: >-
+      Overbroad. The constitutional right to present a defense (R-EVD-115) bars only arbitrary or
+      disproportionate exclusion of reliable, critical evidence; it does not suspend the hearsay rule.
+  trap_type: overbroad
+  authority: ["FRE 803(8)", "Beech Aircraft Corp. v. Rainey, 488 U.S. 153 (1988)"]
+  source: original
+  tags: [wave2, W2-EVD, hearsay, public-records]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-EVD-0097
+  subject: EVD
+  coverage_ids: [EVD-MBE-V.H]
+  rule_ids: [R-EVD-101]
+  difficulty: 2
+  stem: >-
+    In a federal medical-malpractice action, the defendant surgeon calls an expert who testifies that the
+    surgeon's technique was proper. On cross-examination, the plaintiff's counsel reads to the expert a
+    passage from a surgical textbook stating that the technique the surgeon used is contraindicated for
+    patients with the plaintiff's condition. The defense expert refuses to accept the textbook as
+    authoritative, but the plaintiff's own expert testified earlier in the trial that it is a standard and
+    reliable authority in the field. The plaintiff asks that the passage be treated as substantive evidence
+    and that the textbook pages be received as an exhibit for the jury to take into deliberations.
+  call: How should the court rule?
+  options:
+    A: "The passage may be used only to impeach the defense expert, because he did not accept the textbook as authoritative."
+    B: "The passage may be considered for its truth, but the pages may not be received as an exhibit."
+    C: "The passage may be considered for its truth, and the pages may be received as an exhibit, because the textbook was established as reliable."
+    D: "The passage may not be used for any purpose, because the defense expert did not rely on the textbook in forming his opinion."
+  answer: B
+  explanation_correct: >-
+    Learned treatises (R-EVD-101; FRE 803(18)): a statement in a treatise is admissible for its truth if it
+    is called to the attention of an expert on cross-examination (or relied on by the expert on direct)
+    and the publication is established as a reliable authority by the expert's admission or testimony, by
+    another expert's testimony, or by judicial notice. The plaintiff's expert established reliability. If
+    admitted, the statement may be read into evidence but not received as an exhibit.
+  explanation_each_wrong_option:
+    A: >-
+      Wrong reason. Under FRE 803(18), reliability may be established by any expert's testimony or by
+      judicial notice, not only by the witness's admission, and the passage is then substantive evidence.
+      (California would limit the passage to cross-examining the expert under CEC § 721(b), because it has
+      no learned-treatise hearsay exception, not because this expert refused to accept the text.)
+    C: >-
+      FRE 803(18) says the statement may be read but not received as an exhibit, so the jury does not
+      over-weight a text it cannot have explained.
+    D: >-
+      Reliance on direct is one route; calling the passage to the expert's attention on cross is the other,
+      and that happened here.
+  trap_type: confused-rule
+  authority: ["FRE 803(18)"]
+  source: original
+  tags: [wave2, W2-EVD, hearsay, learned-treatise]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-EVD-0098
+  subject: EVD
+  coverage_ids: [EVD-MBE-V.I]
+  rule_ids: [R-EVD-103, R-EVD-102]
+  difficulty: 1
+  stem: >-
+    A commuter train derailed, injuring many passengers. In a federal suit brought by one passenger against
+    the railroad, that passenger's lawyer deposed a track inspector who had seen the derailment, and the
+    railroad's lawyer cross-examined him at length about whether the track had been properly maintained.
+    That case settled. A second passenger, injured in the same derailment, now sues the railroad in federal
+    court alleging the same maintenance failures. The inspector died before trial. The second passenger
+    offers the inspector's deposition transcript against the railroad, which objects.
+  call: Should the court admit the deposition transcript?
+  options:
+    A: "Yes, because the inspector is unavailable, and the railroad had an opportunity and similar motive to examine him in the earlier action."
+    B: "No, because deposition testimony may be used only in the action in which the deposition was taken."
+    C: "Yes, because testimony given under oath is admissible in any later proceeding involving the same events."
+    D: "No, because the second passenger was not a party to the earlier action."
+  answer: A
+  explanation_correct: >-
+    Former testimony (R-EVD-103; FRE 804(b)(1)): testimony given as a witness at a trial, hearing or lawful
+    deposition, in the current or a different proceeding, is admissible if the declarant is unavailable
+    and it is offered against a party who had an opportunity and similar motive to develop it by direct,
+    cross or redirect examination. Death makes the inspector unavailable (FRE 804(a)(4); R-EVD-102). The
+    railroad, the party against whom the deposition is offered, cross-examined him about the same
+    maintenance issue in a case arising from the same derailment.
+  explanation_each_wrong_option:
+    B: >-
+      FRE 804(b)(1) expressly covers testimony given in a different proceeding.
+    C: >-
+      Overbroad. Sworn testimony is admissible under FRE 804(b)(1) only if the declarant is unavailable and
+      the opposing party had an opportunity and similar motive to examine.
+    D: >-
+      Confused rule. The test looks to the party against whom the testimony is offered, the railroad, not
+      to the party offering it.
+  trap_type: confused-rule
+  authority: ["FRE 804(a)(4)", "FRE 804(b)(1)"]
+  source: original
+  tags: [wave2, W2-EVD, hearsay, former-testimony]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-EVD-0099
+  subject: EVD
+  coverage_ids: [EVD-MBE-V.K]
+  rule_ids: [R-EVD-108, R-EVD-025]
+  difficulty: 2
+  stem: >-
+    A company's former controller was convicted in federal court, after a jury trial, of wire fraud, a
+    felony punishable by more than one year in prison, for diverting $250,000 of company funds to his own
+    account. His appeal of the conviction is pending. The company now sues him in federal court to recover
+    the $250,000 and offers a certified copy of the judgment of conviction to prove that he diverted the
+    funds. The controller objects.
+  call: Should the court admit the judgment?
+  options:
+    A: "Yes, but only to impeach the controller if he testifies."
+    B: "No, because the controller's appeal is still pending, so the judgment cannot yet be used as evidence."
+    C: "No, because a judgment in a criminal case is hearsay that may not be used in a later civil action."
+    D: "Yes, because a felony conviction is admissible to prove any fact essential to the judgment."
+  answer: D
+  explanation_correct: >-
+    Judgment of previous conviction (R-EVD-108; FRE 803(22)): evidence of a final judgment of conviction
+    entered after a trial or guilty plea (not a nolo contendere plea), for a crime punishable by death or
+    imprisonment for more than a year, is admissible to prove any fact essential to the judgment. The
+    diversion of the funds was essential to the fraud conviction. The pendency of an appeal may be shown
+    but does not affect admissibility. The certified copy is self-authenticating (FRE 902(4)).
+  explanation_each_wrong_option:
+    A: >-
+      Confuses impeachment by conviction (FRE 609, R-EVD-025) with substantive use under FRE 803(22).
+    B: >-
+      FRE 803(22) says expressly that the pendency of an appeal may be shown but does not affect
+      admissibility.
+    C: >-
+      FRE 803(22) is a hearsay exception designed for this use in later civil cases.
+  trap_type: confused-rule
+  authority: ["FRE 803(22)", "FRE 902(4)", "FRE 609"]
+  source: original
+  tags: [wave2, W2-EVD, hearsay, judgment-of-conviction]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-EVD-0100
+  subject: EVD
+  coverage_ids: [EVD-MBE-V.L, EVD-MBE-V.K]
+  rule_ids: [R-EVD-110, R-EVD-111, R-EVD-106]
+  difficulty: 3
+  stem: >-
+    A defendant is prosecuted in federal court for murdering his girlfriend on a military base. Three weeks
+    before her death, the girlfriend went to the base police station and, in a recorded interview with a
+    detective, calmly described how the defendant had beaten her the previous month. No charges were filed,
+    and there is no evidence that the defendant knew of the interview or did anything to keep her from
+    testifying in any proceeding. The prosecution offers the recording to prove the earlier beating as
+    evidence of motive and intent, arguing that by killing her the defendant forfeited any objection. The
+    defendant objects on hearsay and Confrontation Clause grounds.
+  call: Should the court admit the recording?
+  options:
+    A: "Yes, because by killing the girlfriend the defendant forfeited his right to confront her."
+    B: "Yes, because the statement describes the infliction of physical injury on the declarant and was made to a law enforcement officer."
+    C: "No, because the statement is testimonial, and forfeiture applies only if the defendant intended to prevent her from testifying."
+    D: "No, because the only exception that admits a homicide victim's hearsay statement is the dying declaration."
+  answer: C
+  explanation_correct: >-
+    Confrontation (R-EVD-110, R-EVD-111): a recorded station-house interview describing a past beating,
+    made after any emergency had ended, has the primary purpose of proving past events for a possible
+    prosecution, so it is testimonial; the girlfriend never testified and was never cross-examined.
+    Forfeiture by wrongdoing (R-EVD-106; FRE 804(b)(6)) applies only if the defendant wrongfully caused
+    the declarant's unavailability intending to prevent her testimony (Giles v. California). Nothing shows
+    that intent, so neither the confrontation right nor the hearsay objection is forfeited, and no other
+    exception applies to a calm statement made weeks after the event.
+  explanation_each_wrong_option:
+    A: >-
+      Giles rejected forfeiture based on the killing alone; the defendant must have intended to keep the
+      witness from testifying.
+    B: >-
+      Minority rule on the MBE. That is California's Evidence Code § 1370, which has no FRE counterpart, and
+      even a statement fitting it remains barred by Crawford if testimonial.
+    D: >-
+      Right result, wrong reason. Other routes can admit a homicide victim's statements (excited utterance,
+      state of mind, forfeiture with intent); this one fails because it is testimonial and fits no
+      exception.
+  trap_type: minority-rule
+  authority: ["U.S. Const. amend. VI", "FRE 804(b)(6)", "Crawford v. Washington, 541 U.S. 36 (2004)", "Giles v. California, 554 U.S. 353 (2008)"]
+  source: original
+  tags: [wave2, W2-EVD, confrontation, forfeiture, testimonial]
+  status: draft
+  last_verified: "2026-11-04"

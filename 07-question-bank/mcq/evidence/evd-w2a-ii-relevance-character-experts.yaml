@@ -1,0 +1,680 @@
+# Evidence MCQs — NCBE category II: relevance, authentication, character, experts, real evidence
+# (Wave 2, batch A). FRE only (as amended through Dec. 1, 2024). All items original.
+questions:
+- id: Q-EVD-0064
+  subject: EVD
+  coverage_ids: [EVD-MBE-II.A.1]
+  rule_ids: [R-EVD-002, R-EVD-003]
+  difficulty: 2
+  stem: >-
+    A shopper sues a supermarket in federal court, alleging that its automatic sliding door closed on her
+    and broke her wrist. The supermarket denies that the door was dangerous and denies knowing of any
+    problem with it. The shopper offers testimony from two other customers that the same door closed on
+    each of them during the four months before her accident and that each of them reported the incident to
+    the store manager. She also offers evidence that the door's sensor settings were not changed during
+    that period. The supermarket objects.
+  call: Should the court admit the other customers' testimony?
+  options:
+    A: "Yes, because accidents under substantially similar conditions tend to show both danger and notice."
+    B: "No, because evidence of other incidents is not admissible to prove that the supermarket acted negligently on this particular occasion."
+    C: "No, because the other customers' accidents are irrelevant unless the supermarket was held liable for them."
+    D: "Yes, because evidence of other accidents is always admissible in a premises-liability action."
+  answer: A
+  explanation_correct: >-
+    Relevance (R-EVD-002; FRE 401, 402): evidence is relevant if it has any tendency to make a fact of
+    consequence more or less probable. Earlier accidents involving the same door, with unchanged settings,
+    shortly before the plaintiff's accident make it more probable that the door was dangerous, and because
+    they were reported to the manager, that the supermarket knew of the danger. Similar-occurrence evidence
+    is judged under FRE 401-403 (R-EVD-003); substantial similarity and recency keep its probative value
+    high and the risk of a confusing side trial low.
+  explanation_each_wrong_option:
+    B: >-
+      Confused rule. The character ban of FRE 404 addresses a person's propensity. Proof of how the same
+      physical device behaved under the same conditions, and of the store's knowledge, involves no
+      character inference.
+    C: >-
+      Relevance requires only a tendency to prove a fact of consequence; no earlier adjudication of
+      liability is needed.
+    D: >-
+      Overbroad. Other accidents are admissible only if they occurred under substantially similar
+      conditions, and FRE 403 still applies.
+  trap_type: confused-rule
+  authority: ["FRE 401", "FRE 402", "FRE 403"]
+  source: original
+  tags: [wave2, W2-EVD, relevance, similar-occurrences]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-EVD-0065
+  subject: EVD
+  coverage_ids: [EVD-MBE-II.A.1]
+  rule_ids: [R-EVD-002]
+  difficulty: 1
+  stem: >-
+    A man is prosecuted for murdering his neighbor, whose body was found buried in a wooded area
+    behind the man's cabin. The prosecution calls a hardware-store clerk who testifies that, two days
+    before the neighbor disappeared, the man paid cash for a long-handled shovel, a large plastic tarp, and
+    two bags of lime. The man objects that many people buy such items and that the purchase does not show
+    that he killed anyone.
+  call: Should the court sustain the objection?
+  options:
+    A: "Yes, because the purchase, standing alone, does not make it more likely than not that the man killed his neighbor."
+    B: "Yes, because the evidence is circumstantial and requires the jury to infer why he bought the items."
+    C: "No, because the purchase has some tendency to show a plan to hide a body, and its weight is for the jury."
+    D: "No, because evidence offered by the prosecution in a homicide case is presumed to be relevant."
+  answer: C
+  explanation_correct: >-
+    Relevance (R-EVD-002; FRE 401): the test is whether the evidence has any tendency to make a fact of
+    consequence more or less probable. Buying digging tools, a tarp and lime two days before the neighbor
+    vanished and was found buried makes planning and involvement in the killing somewhat more probable.
+    A single item of evidence need not prove guilt by itself; the innocent explanations the man offers go
+    to weight, which the jury decides.
+  explanation_each_wrong_option:
+    A: >-
+      Wrong standard. "More likely than not" is a burden-of-persuasion or sufficiency concept, not the test
+      for relevance, which requires only some tendency.
+    B: >-
+      Circumstantial evidence is relevant on the same terms as direct evidence; the need for an inference
+      does not make it inadmissible.
+    D: >-
+      There is no presumption of relevance. The proponent must show a logical connection to a fact of
+      consequence, which exists here for a different reason.
+  trap_type: wrong-standard
+  authority: ["FRE 401", "FRE 402"]
+  source: original
+  tags: [wave2, W2-EVD, relevance]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-EVD-0066
+  subject: EVD
+  coverage_ids: [EVD-MBE-II.A.2]
+  rule_ids: [R-EVD-003]
+  difficulty: 2
+  stem: >-
+    A woman is on trial in federal court for murdering her husband at their home on a military base. She
+    claims that he fell down the basement stairs. The medical examiner testifies that the husband had three
+    separate skull fractures, on the back and both sides of his head, which in her opinion could not have
+    resulted from a single fall. The prosecution offers four autopsy photographs, each showing one of the
+    wounds, which the examiner uses to explain the location and shape of the fractures. The defense offers
+    to stipulate that the husband died of head injuries and objects to the photographs as gruesome and
+    unfairly prejudicial.
+  call: How should the court most likely rule?
+  options:
+    A: "Admit them, because their value in showing how the injuries occurred is not substantially outweighed by unfair prejudice."
+    B: "Exclude the photographs, because the offer to stipulate to the cause of death makes them unnecessary."
+    C: "Exclude the photographs, because pictures of a homicide victim's wounds are inherently inflammatory and invite a decision based on emotion."
+    D: "Admit them, because Rule 403 does not apply to evidence offered to prove an element of the crime."
+  answer: A
+  explanation_correct: >-
+    Rule 403 (R-EVD-003): relevant evidence may be excluded only if its probative value is substantially
+    outweighed by the danger of unfair prejudice or another listed danger, and the balance favors
+    admission. The disputed issue is how the husband died, a fall or blows, and the photographs show the
+    number and placement of the fractures that support the examiner's opinion. The offered stipulation
+    covers only the cause of death, not the manner, so it does not replace the photographs' probative
+    force. Unlike the felon-status stipulation in Old Chief, it does not cover the point the evidence is
+    offered to prove.
+  explanation_each_wrong_option:
+    B: >-
+      A stipulation to an undisputed fact does not make evidence on a disputed fact unnecessary. Old Chief
+      applies where the stipulation fully covers the point; here the manner of death remains contested.
+    C: >-
+      Overbroad. "Unfair" prejudice means a tendency to prompt a decision on an improper basis.
+      Gruesomeness alone does not require exclusion when the images carry significant probative value; the
+      court may still limit cumulative ones.
+    D: >-
+      FRE 403 applies to all relevant evidence, including the prosecution's proof of elements.
+  trap_type: overbroad
+  authority: ["FRE 403", "Old Chief v. United States, 519 U.S. 172 (1997)"]
+  source: original
+  tags: [wave2, W2-EVD, rule-403, photographs]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-EVD-0067
+  subject: EVD
+  coverage_ids: [EVD-MBE-II.B]
+  rule_ids: [R-EVD-049, R-EVD-048, R-EVD-006]
+  difficulty: 3
+  stem: >-
+    A defendant, Drew Kessler, is prosecuted in federal court for threatening a witness in a pending fraud
+    case. The witness testifies that one evening she received a phone call from a man who said, "This is
+    Drew Kessler. Testify next week and you'll regret it." She had never spoken with or heard the defendant
+    before the call. Two months later, she attended a pretrial hearing at which the defendant spoke at
+    length, and she immediately recognized his voice as the caller's. The prosecution has no telephone
+    records. The defendant objects that the call has not been authenticated.
+  call: Should the court admit the witness's testimony about the call?
+  options:
+    A: "No, because a caller's self-identification is not enough to authenticate an incoming call."
+    B: "No, because familiarity with a voice that was acquired after the call, in connection with the litigation, cannot support an identification."
+    C: "Yes, because the caller identified himself by name, and the jury may decide whether to believe him."
+    D: "Yes, because she identified the voice based on hearing it in circumstances connecting it with the defendant, which supports a finding that he was the caller."
+  answer: D
+  explanation_correct: >-
+    Authentication (R-EVD-048; FRE 901(a)) requires evidence sufficient to support a finding that the
+    item is what the proponent claims, here that the defendant was the caller. FRE 901(b)(5) (R-EVD-049)
+    allows an opinion identifying a voice based on hearing the voice at any time under circumstances that
+    connect it with the alleged speaker, so familiarity may be acquired after the call, even in connection
+    with the case. Her recognition of the voice at the hearing supplies that foundation; whether she is
+    right is for the jury (FRE 104(b), R-EVD-006). Once authenticated, the threat is the defendant's own
+    statement.
+  explanation_each_wrong_option:
+    A: >-
+      True but not decisive. Self-identification alone would not authenticate an incoming call, but here
+      the witness also identified the voice.
+    B: >-
+      Confused rule. The bar on familiarity acquired for the litigation applies to a lay witness's
+      handwriting identification (FRE 901(b)(2)), not to voice identification, which may rest on hearing
+      the voice at any time.
+    C: >-
+      An incoming caller's self-identification, standing alone, is not sufficient to support a finding of
+      identity; the voice identification is what makes the call admissible.
+  trap_type: confused-rule
+  authority: ["FRE 901(a)", "FRE 901(b)(5)", "FRE 901(b)(2)", "FRE 104(b)"]
+  source: original
+  tags: [wave2, W2-EVD, authentication, voice-identification]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-EVD-0068
+  subject: EVD
+  coverage_ids: [EVD-MBE-II.B]
+  rule_ids: [R-EVD-050, R-EVD-088, R-EVD-048]
+  difficulty: 2
+  stem: >-
+    A painter sues Crestline Ladder Co. in federal court, alleging that a defective aluminum extension
+    ladder collapsed under him. Crestline denies that it made the ladder. The painter testifies that the
+    ladder offered in evidence is the one that collapsed. Riveted to its side rail is a metal plate reading
+    "Crestline Ladder Co. -- Model X-28 -- Made in Ohio." No witness testifies about who made the ladder or
+    who attached the plate. Crestline objects to the plate being considered as proof that it made the
+    ladder.
+  call: Should the court allow the jury to consider the plate as proof that Crestline made the ladder?
+  options:
+    A: "Yes, because a trade inscription is self-authenticating, and against Crestline it is Crestline's own statement."
+    B: "No, because the plate is an out-of-court statement offered to prove who made the ladder."
+    C: "No, because a witness with knowledge must first testify that Crestline made the ladder."
+    D: "Yes, but only if the court first finds by a preponderance of the evidence that Crestline itself attached the plate to the ladder."
+  answer: A
+  explanation_correct: >-
+    Self-authentication (R-EVD-050; FRE 902(7)): an inscription, sign, tag or label purporting to have
+    been affixed in the course of business and indicating origin, ownership or control requires no
+    extrinsic evidence of authenticity. Taken as what it purports to be, Crestline's own label, the plate
+    is offered against Crestline and is therefore an opposing party's statement, not hearsay (FRE
+    801(d)(2)(A); R-EVD-088). Crestline may argue that the plate is counterfeit; that goes to weight.
+  explanation_each_wrong_option:
+    B: >-
+      True but not decisive. The plate is an out-of-court assertion, but once it is attributed to Crestline
+      (which FRE 902(7) permits), it is Crestline's own statement offered against it.
+    C: >-
+      FRE 902(7) dispenses with a sponsoring witness; that is the point of self-authentication.
+    D: >-
+      Wrong standard. Authenticity is a conditional-relevance question decided on a sufficiency standard
+      (FRE 104(b), 901(a); R-EVD-048), not a judicial finding by a preponderance, and FRE 902(7) satisfies
+      it.
+  trap_type: true-but-irrelevant
+  authority: ["FRE 902(7)", "FRE 801(d)(2)(A)", "FRE 901(a)"]
+  source: original
+  tags: [wave2, W2-EVD, authentication, self-authentication]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-EVD-0069
+  subject: EVD
+  coverage_ids: [EVD-MBE-II.C.1]
+  rule_ids: [R-EVD-035, R-EVD-037]
+  difficulty: 1
+  stem: >-
+    An investor sues her former financial adviser in federal court for common-law fraud, alleging that he
+    lied to her about the risks of an investment. The adviser denies making any false statement and has not
+    testified. He calls a longtime client, who is prepared to testify that the adviser has an excellent
+    reputation in the community for honesty. The investor objects.
+  call: Should the court admit the client's testimony?
+  options:
+    A: "Yes, because a person accused of fraud may offer evidence of his pertinent trait of honesty."
+    B: "No, because character evidence is not admissible in a civil case to prove conduct on a particular occasion."
+    C: "Yes, because the fraud alleged would also be a crime, so the adviser may offer character evidence as a criminal defendant could."
+    D: "No, because character may be proved only by opinion testimony, not by reputation."
+  answer: B
+  explanation_correct: >-
+    Propensity ban (R-EVD-035; FRE 404(a)(1)): evidence of a person's character trait is not admissible
+    to prove that he acted in accordance with it on a particular occasion. The exception for an accused's
+    pertinent trait (FRE 404(a)(2)(A); R-EVD-037) applies only in a criminal case. Character is not an
+    essential element of a fraud claim, and because the adviser has not testified, FRE 608 does not apply.
+  explanation_each_wrong_option:
+    A: >-
+      Exception trap. The "mercy rule" belongs to the accused in a criminal case; a civil defendant cannot
+      use it.
+    C: >-
+      The FRE make no exception for civil cases in which the alleged conduct is also criminal; the text of
+      FRE 404(a)(2) limits the exceptions to criminal cases.
+    D: >-
+      When character evidence is admissible, FRE 405(a) permits both reputation and opinion testimony.
+      The evidence fails here because of its purpose, not its form.
+  trap_type: exception-trap
+  authority: ["FRE 404(a)(1)", "FRE 404(a)(2)", "FRE 405(a)"]
+  source: original
+  tags: [wave2, W2-EVD, character, civil-case]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-EVD-0070
+  subject: EVD
+  coverage_ids: [EVD-MBE-II.C.1]
+  rule_ids: [R-EVD-038, R-EVD-039]
+  difficulty: 2
+  stem: >-
+    A defendant is on trial in federal court for second-degree murder after a fatal stabbing in a parking
+    lot on federal land. He testifies that the victim lunged at him with a knife first and that he stabbed
+    the victim in self-defense. The defense offers no evidence about the victim's character. In rebuttal,
+    the prosecution calls the victim's neighbor of ten years, who testifies that the victim had a
+    reputation in the neighborhood as a peaceful, nonviolent person. The defendant objects.
+  call: Should the court admit the neighbor's testimony?
+  options:
+    A: "Yes, because in a homicide case the prosecution may rebut first-aggressor evidence with the victim's peacefulness."
+    B: "No, because the defendant offered no evidence of the victim's character, so the prosecution may not offer evidence of it."
+    C: "No, because the prosecution may never initiate character evidence in a criminal case."
+    D: "Yes, because the victim's character becomes an essential element of the charge once the defendant claims self-defense."
+  answer: A
+  explanation_correct: >-
+    Victim's character (R-EVD-038; FRE 404(a)(2)(C)): in a homicide case, the prosecutor may offer
+    evidence of the victim's trait of peacefulness to rebut evidence that the victim was the first
+    aggressor. The defendant's own testimony that the victim lunged first is such evidence, so the door
+    opens even though the defense offered no character evidence. The method is proper: reputation
+    testimony (FRE 405(a); R-EVD-039).
+  explanation_each_wrong_option:
+    B: >-
+      Exception trap. Ordinarily the prosecution may offer the victim's character only after the defendant
+      does (FRE 404(a)(2)(B)), but FRE 404(a)(2)(C) adds the homicide first-aggressor rule, which any
+      first-aggressor evidence triggers.
+    C: >-
+      Overbroad. The prosecution cannot open with the accused's character, but FRE 404(a)(2)(C) lets it
+      offer the victim's peacefulness in this situation.
+    D: >-
+      Character is not an element of murder or of self-defense. The evidence is admissible
+      circumstantially under FRE 404(a)(2)(C), which is why it is limited to reputation or opinion.
+  trap_type: exception-trap
+  authority: ["FRE 404(a)(2)(B)", "FRE 404(a)(2)(C)", "FRE 405(a)"]
+  source: original
+  tags: [wave2, W2-EVD, character, victim, first-aggressor]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-EVD-0071
+  subject: EVD
+  coverage_ids: [EVD-MBE-II.C.2]
+  rule_ids: [R-EVD-039, R-EVD-037, R-EVD-040]
+  difficulty: 2
+  stem: >-
+    A defendant is on trial in federal court for assaulting a postal carrier. He calls his pastor, who
+    testifies that in her opinion the defendant is a peaceful and gentle person. In rebuttal, the
+    prosecution calls the defendant's former co-worker, who will testify that two years ago the defendant
+    punched him in the face during an argument over a parking space. The prosecution offers the testimony
+    only to rebut the pastor's opinion. The defendant objects.
+  call: Should the court admit the co-worker's testimony?
+  options:
+    A: "Yes, because by offering evidence of his peaceful character, the defendant opened the door to evidence of his violent character."
+    B: "Yes, because specific instances of conduct are the most reliable proof of a character trait."
+    C: "No, because the prosecution may never offer evidence of a criminal defendant's character."
+    D: "No, because rebuttal must be by reputation or opinion; specific acts may only be asked about on cross."
+  answer: D
+  explanation_correct: >-
+    Methods of proving character (R-EVD-039; FRE 405(a)): once the accused offers evidence of his
+    pertinent trait (FRE 404(a)(2)(A); R-EVD-037), the prosecution may rebut it, but only by reputation or
+    opinion testimony. Specific instances may be raised only by asking the character witness about them on
+    cross-examination, with a good-faith basis (R-EVD-040). The prosecution could ask the pastor whether
+    she knew about the punch, or call its own opinion or reputation witness, but it cannot prove the punch
+    through the co-worker. No other purpose under FRE 404(b) is offered.
+  explanation_each_wrong_option:
+    A: >-
+      Overbroad. Opening the door permits rebuttal of the trait, but only by the methods FRE 405(a)
+      allows.
+    B: >-
+      Specific acts may prove character on direct only when character is an essential element (FRE
+      405(b)), which it is not in an assault prosecution.
+    C: >-
+      The prosecution cannot initiate character evidence about the accused, but it may rebut once the
+      defendant offers it.
+  trap_type: overbroad
+  authority: ["FRE 404(a)(2)(A)", "FRE 405(a)", "FRE 405(b)"]
+  source: original
+  tags: [wave2, W2-EVD, character, methods-of-proof]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-EVD-0072
+  subject: EVD
+  coverage_ids: [EVD-MBE-II.C.3]
+  rule_ids: [R-EVD-041, R-EVD-035]
+  difficulty: 1
+  stem: >-
+    A patient sues a dermatology clinic in federal court, alleging that it failed to warn her that a skin
+    treatment could cause permanent discoloration. No clinic employee remembers treating her. The clinic
+    calls its office manager, who testifies that for the past six years the clinic's nurses have handed
+    every patient a one-page printed sheet describing the discoloration risk immediately before every
+    treatment of that type, and that she has personally watched the nurses do so hundreds of times. The
+    patient objects.
+  call: Should the court admit the office manager's testimony?
+  options:
+    A: "No, because no witness remembers giving the warning sheet to this patient."
+    B: "No, because evidence of how the clinic usually behaves is character evidence offered to prove conduct on a particular occasion."
+    C: "Yes, because an organization's routine practice may be used to prove its conduct on a particular occasion."
+    D: "Yes, but only if the clinic also produces a written policy requiring the nurses to hand out the sheet."
+  answer: C
+  explanation_correct: >-
+    Routine practice (R-EVD-041; FRE 406): evidence of an organization's routine practice may be admitted
+    to prove that on a particular occasion it acted in accordance with the practice, regardless of whether
+    the evidence is corroborated or there was an eyewitness. Handing out the same sheet before every
+    treatment of one type, observed hundreds of times, is a specific, regular response to a recurring
+    situation, not a general disposition.
+  explanation_each_wrong_option:
+    A: >-
+      Minority rule. Some older common-law decisions required the absence of an eyewitness or
+      corroboration; FRE 406 rejects both requirements.
+    B: >-
+      Confuses routine practice with character. The propensity ban (R-EVD-035) concerns general traits,
+      not specific, regular practices of an organization.
+    D: >-
+      Nothing in FRE 406 requires a written policy; testimony from someone who has observed the practice is
+      sufficient.
+  trap_type: minority-rule
+  authority: ["FRE 406", "FRE 404(a)(1)"]
+  source: original
+  tags: [wave2, W2-EVD, habit, routine-practice]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-EVD-0073
+  subject: EVD
+  coverage_ids: [EVD-MBE-II.C.4]
+  rule_ids: [R-EVD-042, R-EVD-006, R-EVD-007]
+  difficulty: 3
+  stem: >-
+    A defendant is prosecuted in federal court for robbing a credit union. The robber wore a surgical mask
+    and a red baseball cap, handed the teller a demand note written in green ink on the back of a
+    parking-garage ticket, and demanded only $50 bills. The defense is misidentification. After giving
+    proper pretrial notice, the prosecution offers testimony from a teller in another city that the
+    defendant, whose mask slipped during the robbery, robbed her bank eight months earlier wearing a
+    surgical mask and red cap, handing her a green-ink note written on a parking-garage ticket, and
+    demanding only $50 bills. The defendant was tried for that earlier robbery and acquitted.
+  call: Should the court admit the teller's testimony?
+  options:
+    A: "No, because the acquittal established that the defendant did not commit the earlier robbery."
+    B: "Yes, because the distinctive method is probative of identity, and the jury could reasonably find that the defendant committed the earlier robbery."
+    C: "No, because evidence of another crime is admissible only if the prosecution proves by clear and convincing evidence that the defendant committed it."
+    D: "Yes, because the earlier robbery shows the defendant's propensity to commit robberies in the same way."
+  answer: B
+  explanation_correct: >-
+    Other acts (R-EVD-042; FRE 404(b)(2)): another crime may be admitted for a non-propensity purpose
+    such as identity, which requires a distinctive "signature" shared by the two crimes. The mask, cap,
+    green-ink note on a parking ticket and $50-only demand are distinctive. Under Huddleston, the court
+    asks only whether the jury could reasonably find by a preponderance that the defendant committed the
+    other act (FRE 104(b); R-EVD-006); the teller's testimony suffices. An acquittal shows only reasonable doubt, so it is no bar (Dowling v. United States, 493 U.S. 342 (1990)). The court must still balance under FRE 403 and, on request, give a limiting
+    instruction (R-EVD-007).
+  explanation_each_wrong_option:
+    A: >-
+      An acquittal is not a finding of innocence; it means only that guilt was not proved beyond a
+      reasonable doubt, a higher standard than the one that governs FRE 404(b) evidence.
+    C: >-
+      Minority rule. Some states require clear and convincing proof of other crimes; the federal standard
+      is the Huddleston sufficiency test.
+    D: >-
+      Right result, wrong reason. Propensity is exactly the inference FRE 404(b)(1) forbids; the evidence
+      comes in only because the shared signature points to the same person.
+  trap_type: minority-rule
+  authority: ["FRE 404(b)", "FRE 104(b)", "FRE 403", "Huddleston v. United States, 485 U.S. 681 (1988)", "Dowling v. United States, 493 U.S. 342 (1990)"]
+  source: original
+  tags: [wave2, W2-EVD, other-acts, identity, acquitted-conduct]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-EVD-0074
+  subject: EVD
+  coverage_ids: [EVD-MBE-II.C.4]
+  rule_ids: [R-EVD-042, R-EVD-006]
+  difficulty: 1
+  stem: >-
+    A man is prosecuted in federal court for murdering his business partner, who was shot in their shared
+    office. The prosecution offers bank records and a forensic accountant's testimony showing that, over
+    the prior year, the man secretly diverted $300,000 of the partnership's funds to his personal account.
+    It also offers an outside auditor's testimony that, three days before the killing, the partner hired
+    him to begin a review of the partnership's books the following week. The man, who has never been
+    charged with any financial crime, objects to the evidence of the diverted funds.
+  call: Should the court admit the evidence of the diverted funds?
+  options:
+    A: "No, because the man has never been charged with or convicted of embezzlement."
+    B: "No, because evidence of a defendant's other wrongful acts is not admissible to prove that he committed the charged crime."
+    C: "Yes, because it shows that the man is a dishonest person who would be willing to commit a serious crime."
+    D: "Yes, because it tends to show that the man had a motive to kill the partner before the audit exposed him."
+  answer: D
+  explanation_correct: >-
+    Other acts (R-EVD-042; FRE 404(b)(2)): evidence of another wrong is admissible for a purpose other than
+    propensity, including motive. The diversion of funds, combined with the impending audit, explains why
+    the man would want the partner dead, a chain of inference that does not depend on his character. No
+    charge or conviction is needed; the jury need only be able to find that he committed the act (FRE
+    104(b); R-EVD-006). The court should weigh FRE 403 and give a limiting instruction on request.
+  explanation_each_wrong_option:
+    A: >-
+      Other acts need not be charged or proved by conviction; the Huddleston sufficiency standard applies.
+    B: >-
+      Overbroad. FRE 404(b)(1) bars other acts only when offered to prove propensity; FRE 404(b)(2) admits
+      them for other purposes such as motive.
+    C: >-
+      Right result, wrong reason. "He is dishonest, so he would kill" is the forbidden propensity
+      inference.
+  trap_type: right-result-wrong-reason
+  authority: ["FRE 404(b)", "FRE 104(b)", "FRE 403"]
+  source: original
+  tags: [wave2, W2-EVD, other-acts, motive]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-EVD-0075
+  subject: EVD
+  coverage_ids: [EVD-MBE-II.C.5]
+  rule_ids: [R-EVD-043, R-EVD-003]
+  difficulty: 2
+  stem: >-
+    A defendant is prosecuted in federal court for sexually abusing an 8-year-old girl on a military base
+    where he worked as a youth-program aide. Thirty days before trial, the prosecution disclosed to the
+    defense that it would call a woman who will testify that the defendant molested her when she was 10
+    years old, 16 years before this trial. The defendant was never charged with that earlier act. He
+    objects that the evidence is propensity evidence, that the earlier act was never charged, and that it
+    is too old.
+  call: How should the court rule?
+  options:
+    A: "Admit it, subject to Rule 403, because the defendant's other child molestation may be considered for any relevant purpose."
+    B: "Exclude it, because Rule 404(b) forbids using a defendant's other acts to prove his propensity to commit the charged crime."
+    C: "Exclude it, because the earlier act never resulted in a criminal charge or conviction, so it cannot be proved."
+    D: "Exclude it, because an act more than ten years old may be admitted only if its probative value substantially outweighs its prejudicial effect."
+  answer: A
+  explanation_correct: >-
+    Sexual-offense propensity (R-EVD-043; FRE 414): in a criminal case in which the defendant is accused
+    of child molestation, the court may admit evidence that he committed any other child molestation, and
+    the evidence may be considered on any matter to which it is relevant, including propensity. The
+    earlier victim was under 14, so the act is child molestation. The prosecution disclosed the evidence
+    more than 15 days before trial, as FRE 414(b) requires. No charge or conviction is needed. The age of
+    the act is a factor in FRE 403 balancing (R-EVD-003), not a bar.
+  explanation_each_wrong_option:
+    B: >-
+      Confused rule. FRE 414 is a specific exception to the general propensity ban of FRE 404 in
+      child-molestation prosecutions.
+    C: >-
+      FRE 414 admits evidence that the defendant committed the other act; it requires no charge or
+      conviction.
+    D: >-
+      Confuses FRE 609(b)'s ten-year rule for impeachment by conviction with FRE 414, which has no time
+      limit.
+  trap_type: confused-rule
+  authority: ["FRE 414", "FRE 403", "FRE 404(b)"]
+  source: original
+  tags: [wave2, W2-EVD, sexual-misconduct, propensity]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-EVD-0076
+  subject: EVD
+  coverage_ids: [EVD-MBE-II.D.2]
+  rule_ids: [R-EVD-056, R-EVD-054]
+  difficulty: 2
+  stem: >-
+    In a federal negligence action against a crane-rental company, the plaintiff calls a structural
+    engineer as an expert. After her qualifications are established, plaintiff's counsel asks, "Do you
+    have an opinion as to why the crane's boom collapsed?" The defense objects that the engineer must first
+    describe the facts and data underlying her opinion, or answer a hypothetical question based on facts
+    already in evidence, before she may state any opinion. The court has not ordered any particular
+    sequence.
+  call: How should the court rule on the objection?
+  options:
+    A: "Sustain it, because an expert's opinion must be elicited through a hypothetical question based on facts in evidence."
+    B: "Sustain it, because an expert may not give an opinion unless the facts on which it is based have been admitted into evidence."
+    C: "Overrule it, because an expert may state an opinion and the reasons for it without first testifying to the underlying facts or data."
+    D: "Overrule it, because an expert's opinion is admissible whenever the expert is qualified, regardless of its basis."
+  answer: C
+  explanation_correct: >-
+    Bases and disclosure (R-EVD-056; FRE 705): unless the court orders otherwise, an expert may state an
+    opinion, and give the reasons for it, without first testifying to the underlying facts or data, though
+    she may be required to disclose them on cross-examination. FRE 703 also lets an expert rely on facts
+    that are not admitted, or even admissible, if experts in the field would reasonably rely on them.
+  explanation_each_wrong_option:
+    A: >-
+      Minority rule. The common law often required hypothetical questions; the FRE permit them but do not
+      require them.
+    B: >-
+      FRE 703 allows an expert to rely on inadmissible facts or data of a kind reasonably relied on in the
+      field.
+    D: >-
+      Overbroad. FRE 702 (R-EVD-054) still requires that the opinion rest on sufficient facts or data and
+      reflect a reliable application of reliable methods; FRE 705 affects only the order of presentation.
+  trap_type: minority-rule
+  authority: ["FRE 702", "FRE 703", "FRE 705"]
+  source: original
+  tags: [wave2, W2-EVD, experts, bases-of-opinion]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-EVD-0077
+  subject: EVD
+  coverage_ids: [EVD-MBE-II.D.3]
+  rule_ids: [R-EVD-058, R-EVD-054]
+  difficulty: 1
+  stem: >-
+    In a medical-malpractice action in federal court, the plaintiff alleges that an emergency-room
+    physician negligently failed to order a CT scan for a patient who arrived with a sudden severe headache
+    and a stiff neck. The plaintiff's expert, a board-certified emergency physician, explains which
+    symptoms call for a scan. Asked whether the defendant's care met the applicable standard, she answers,
+    "In my opinion, the failure to order a CT scan for this patient fell below the standard of care for
+    emergency physicians." The defendant objects.
+  call: How should the court rule on the objection?
+  options:
+    A: "Sustain it, because the opinion addresses the ultimate issue the jury must decide."
+    B: "Overrule it, because an expert may give any opinion that bears on the defendant's liability."
+    C: "Sustain it, because an expert may not state an opinion about a defendant's mental state."
+    D: "Overrule it, because an opinion is not objectionable just because it embraces an ultimate issue."
+  answer: D
+  explanation_correct: >-
+    Ultimate issue (R-EVD-058; FRE 704(a)): an opinion is not objectionable just because it embraces an
+    ultimate issue. Jurors cannot know the professional standard of care without expert help (FRE 702;
+    R-EVD-054), so the opinion that the physician's omission fell below that standard is helpful and
+    proper. An expert still may not simply tell the jury what legal result to reach, but a
+    standard-of-care opinion is not that.
+  explanation_each_wrong_option:
+    A: >-
+      Minority (common-law) rule. The old ban on ultimate-issue opinions was abolished by FRE 704(a).
+    B: >-
+      Overbroad. Opinions must still be helpful and reliable under FRE 702; bare legal conclusions such as
+      "the defendant is liable" may be excluded.
+    C: >-
+      FRE 704(b) bars expert opinions on a defendant's mental state only in a criminal case, and the
+      standard of care is not a mental state.
+  trap_type: minority-rule
+  authority: ["FRE 702", "FRE 704(a)", "FRE 704(b)"]
+  source: original
+  tags: [wave2, W2-EVD, experts, ultimate-issue]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-EVD-0078
+  subject: EVD
+  coverage_ids: [EVD-MBE-II.D.5]
+  rule_ids: [R-EVD-061, R-EVD-029, R-EVD-054]
+  difficulty: 2
+  stem: >-
+    In a federal civil fraud action, the plaintiff's case depends heavily on the testimony of its former
+    bookkeeper. Before the defense has cross-examined her or offered any evidence about her credibility,
+    the plaintiff calls a licensed psychologist who interviewed the bookkeeper for six hours and reviewed
+    her deposition. The psychologist is prepared to testify that, based on her training in detecting
+    deception and her analysis of the bookkeeper's speech patterns and body language, the bookkeeper's
+    account of the fraud is truthful. The defendant objects.
+  call: Should the court admit the psychologist's testimony?
+  options:
+    A: "Yes, because the psychologist's training in detecting deception goes beyond the jurors' common knowledge."
+    B: "No, because whether a witness is telling the truth is for the jury to decide, and the opinion would not help it."
+    C: "No, because a psychologist is not qualified to give opinions about financial fraud."
+    D: "Yes, because Rule 608(a) permits opinion testimony about a witness's character for truthfulness."
+  answer: B
+  explanation_correct: >-
+    Proper subject matter (R-EVD-061; FRE 702(a)): expert testimony is admissible only if specialized
+    knowledge will help the jury understand the evidence or determine a fact in issue. Deciding whether a
+    particular witness is telling the truth is the jury's core function; an expert's endorsement of a
+    witness's account does not help the jury and invites it to defer to the expert. The opinion would also
+    face reliability problems under FRE 702 (R-EVD-054).
+  explanation_each_wrong_option:
+    A: >-
+      Confused rule. Specialized training is necessary but not sufficient; the testimony must also help the
+      jury on a matter it cannot assess itself, and credibility is not such a matter.
+    C: >-
+      The psychologist's opinion is about the bookkeeper's truthfulness, not about financial fraud; the
+      defect is helpfulness, not her field.
+    D: >-
+      FRE 608(a) covers opinion about a witness's character for truthfulness, not an opinion that specific
+      testimony is true. And evidence of truthful character is admissible only after that character has
+      been attacked (R-EVD-029), which has not happened.
+  trap_type: confused-rule
+  authority: ["FRE 702(a)", "FRE 608(a)"]
+  source: original
+  tags: [wave2, W2-EVD, experts, subject-matter, credibility]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-EVD-0079
+  subject: EVD
+  coverage_ids: [EVD-MBE-II.E]
+  rule_ids: [R-EVD-053, R-EVD-003]
+  difficulty: 2
+  stem: >-
+    A cyclist sues a trucking company in federal court, alleging that its truck could not stop in time
+    because its brakes were badly worn. The collision occurred at night on rain-soaked asphalt. The
+    company offers a video of an experiment its engineer conducted a year later, in which a truck of the
+    same model, fitted with new brakes, stopped from 35 miles per hour within 90 feet on a dry concrete test
+    track in daylight. The company offers the video to prove that the truck involved in the collision could
+    have stopped within 90 feet. The cyclist objects.
+  call: Should the court admit the video?
+  options:
+    A: "No, because the experiment was not conducted under conditions substantially similar to those at the time of the collision."
+    B: "Yes, because any differences between the experiment and the collision go only to the weight of the evidence."
+    C: "Yes, because a video of an experiment is an illustrative aid that the jury may view without restriction."
+    D: "No, because a video recording of an experiment is hearsay."
+  answer: A
+  explanation_correct: >-
+    Experiments (R-EVD-053): evidence of an out-of-court experiment is admissible to prove what happened
+    only if it was conducted under conditions substantially similar to those of the event. This test
+    changed the very variables in dispute (new instead of worn brakes, dry concrete instead of wet asphalt,
+    daylight instead of night), so it says little about whether this truck could stop and would mislead
+    the jury (FRE 403; R-EVD-003).
+  explanation_each_wrong_option:
+    B: >-
+      Overbroad. Minor differences go to weight, but differences in the conditions that matter to the
+      result make the experiment misleading and inadmissible.
+    C: >-
+      The video is offered as substantive proof of stopping ability, not merely to illustrate testimony.
+      Even an illustrative aid is subject to FRE 107 balancing and does not go to the jury room without
+      consent or good cause.
+    D: >-
+      A video of a test is not a statement by a person, so the hearsay rule does not apply; the problems
+      are dissimilarity and FRE 403.
+  trap_type: overbroad
+  authority: ["FRE 401", "FRE 403", "FRE 107"]
+  source: original
+  tags: [wave2, W2-EVD, experiments, demonstrative-evidence]
+  status: draft
+  last_verified: "2026-11-04"
