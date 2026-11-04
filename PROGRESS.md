@@ -11,8 +11,8 @@
 | 0 — Exam intelligence | ✅ Done | `00-exam-intel/` written. Coverage matrix v1: 614 rows. 36 items in VERIFY-QUEUE. |
 | 1 — Scaffold and tooling | ✅ Done | Structure, CLAUDE.md, config, schemas, 7 scripts, 22 tests, 11 slash commands, CI. Validation passes. |
 | 2 — Foundations, strategy, study plan | ✅ **Done (awaiting review)** | 02-foundations (5 files, 475-term glossary), MBE/essay/PT strategy, 38-week plan; VERIFY V-040–V-060 |
-| 3 — Past exams | 🔄 In progress | Archive covers Feb 2012 → July 2026 [S-079] |
-| 4 — Subject content | ☐ | Groups: (1) CTR CIV CON CRM · (2) CMP REM · (3) EVD PRF WIL TRS · (4) TRT PRP BUS |
+| 3 — Past exams | ✅ **Done (awaiting review)** | 31 administrations (Feb 2012–Jul 2026): 166 essays + 42 PTs indexed and analyzed (index-level); frequency analysis; 2 PAST rows | Archive covers Feb 2012 → July 2026 [S-079] |
+| 4 — Subject content | ⏳ Next | Groups: (1) CTR CIV CON CRM · (2) CMP REM · (3) EVD PRF WIL TRS · (4) TRT PRP BUS |
 | 5 — Question bank | ☐ | |
 | 6 — High-yield and memorization | ☐ | |
 | 7 — Independent QA | ☐ | |
@@ -36,6 +36,20 @@
 - **`config/plan.yml`:** finalized phases, no leave (PTO for exam week only), targets and benchmarks aligned to the schedule.
 - **Totals:** ≈ 754 h · 2,210 MBE · 75 essays · 52 `/spot` drills · 12 PTs · 3 simulations (all on weekends).
 - **New sources and verify items:** S-140–S-150 and S-160; V-040–V-044, V-050–V-058 and V-060.
+
+## Phase 3 deliverables
+- **`06-past-exams/index.csv`:** 166 essays, each with subjects, issue coverage_ids, call summary (my words), links to the question and selected-answer PDFs, and its analysis file.
+- **`04-performance-test/past-pt-index.csv`:** 42 PTs with task type and area.
+- **Analysis files:** `06-past-exams/analyses/<exam>-Q<n>.md` (166) and `04-performance-test/analyses/<exam>-<PT>.md` (42). Each has the question in brief, an issue map with coverage rows, the answer structure where captured, and a model approach. **Index-level only**: built from search summaries (V-070, V-071).
+- **`06-past-exams/frequency-analysis.md`:** narrative plus generated tables (`scripts/frequency_analysis.py`). Key results:
+  - **PR on 30/31 exams**;
+  - CP 17, Contracts 16, Remedies 16, Crim 15, Evidence 15, BA 14, Real Property/Civ Pro/Con Law/Wills 13, Torts 12, Trusts 7 (usually with Wills);
+  - top crossovers: Wills+Trusts, Contracts+Remedies, CP+Wills.
+- **`00-exam-intel/grader-expectations.md` §5:** selected-answer patterns.
+- **Coverage matrix v1.1:** +2 PAST rows (`BUS-PAST-001`, `WIL-PAST-001`); all other tagged issues mapped to existing rows.
+- **Plan updates:** essay slots re-weighted (PR 11 + crossovers; CP 7; Remedies 6). Subject READMEs carry `exam_frequency` levels.
+- **Provenance:** `06-past-exams/research/phase3-index.jsonl` (research records) and `build_phase3.py` (re-runnable builder).
+- **Open item:** selected-answer headings and PT task types (16 undetermined) need a direct read of the PDFs once calbar.ca.gov is reachable.
 
 ## Rework with the user's inputs (2026-11-04)
 
@@ -70,16 +84,13 @@
    - which optional PTO days are possible.
 4. **Network access.** Still blocked (calbar.ca.gov, ncbex.org, leginfo, courts.ca.gov, law.cornell.edu, supremecourt.gov, uscourts.gov, americanbar.org).
 
-## Next (Phase 3 plan): past exams
-- **Index every published California essay and PT.** The Past Exams page covers Feb 2012 → July 2026; older files go back to July 2001 [S-079].
-  - `06-past-exams/index.csv`: exam, Q#, subjects, issues (coverage_ids), call summary, links.
-  - `04-performance-test/past-pt-index.csv`: task type and area.
-- **Analyze each question in my own words:** `06-past-exams/analyses/<exam>-Q<n>.md` (issue map, rules needed, how the selected answers organized it, model approach) and `04-performance-test/analyses/`.
-- **Add PAST rows to the coverage matrix** for every issue tested that the current rows don't cover. Re-weight subject `exam_frequency`.
-- **Frequency analysis:** `python scripts/frequency_analysis.py` plus narrative and caveats in `06-past-exams/frequency-analysis.md`; feed it into `schedule.yml` essay slots and `grader-expectations.md` §5.
-- **Constraints:**
-  - Direct fetch of calbar.ca.gov is blocked, so indexing relies on search-index snippets (likely partial) unless network access is opened.
-  - About 28 administrations × 5–6 questions means research must be batched across agents with search caps. Expect several turns.
+## Next (Phase 4 plan): subject content
+- **Groups, in study order:** (1) CTR, CIV, CON, CRM · (2) CMP, REM · (3) EVD, PRF, WIL, TRS · (4) TRT, PRP, BUS.
+- **Every subject folder gets all 15 files.** MBE subjects' `outline.md` follows NCBE numbering. California-only subjects follow the State Bar outline structure, informed by the past-exam issue maps.
+- **Depth follows frequency**, using `06-past-exams/frequency-analysis.md` and each subject's issue list from `index.csv`.
+- **Rule statements** in the CLAUDE.md format (`R-<CODE>-###`), each with an authority, an MBE-vs-CA line and an example. Apply every **Apply** item in `00-exam-intel/recent-changes.md`.
+- **After each group:** `python scripts/coverage_report.py --require-mapped <codes>`; set rows to `mapped`; stop for review.
+- **Subagents** build 2–3 subjects in parallel, each with an explicit WebSearch cap, distinct `V-###`/`S-###` ranges, and no shared-file edits. The coordinator merges sources, verify rows and matrix mappings.
 
 ## Handoff notes for a new session
 - **Read `CLAUDE.md` first.** It holds all conventions.
