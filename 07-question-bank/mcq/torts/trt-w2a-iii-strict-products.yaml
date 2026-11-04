@@ -1,0 +1,332 @@
+# Torts MCQs — NCBE category III: strict liability and products liability
+# Wave 2 (W2-TRT). MBE defaults: pure comparative negligence and joint and several liability unless the stem says otherwise.
+# Majority common-law / Restatement rules only; no California-only rules. All items original.
+questions:
+- id: Q-TRT-0086
+  subject: TRT
+  coverage_ids: [TRT-MBE-III, TRT-CBX-VIII-X]
+  rule_ids: [R-TRT-077, R-TRT-094]
+  difficulty: 3
+  stem: >-
+    A chemical company stores large quantities of chlorine gas in pressurized steel tanks at its plant in an
+    industrial park. A valve failed, and escaping gas damaged crops on a farm next to the park. The farmer sues the
+    company in strict liability only, alleging that storing chlorine gas is an abnormally dangerous activity. The
+    company denies that strict liability applies.
+  call: "Which of the following facts, if proved, would most help the company argue that its activity is not abnormally dangerous?"
+  options:
+    A: "The company used the utmost care in maintaining the valve that failed."
+    B: "With reasonable care, tanks of this type essentially never leak, and the park was built for chemical storage."
+    C: "The farmer bought the farm after the plant had been built."
+    D: "The company's tanks, valves and storage practices complied with every applicable state and federal safety regulation."
+  answer: B
+  explanation_correct: >-
+    Whether an activity is abnormally dangerous is decided by weighing factors such as the likelihood and gravity of
+    harm, the inability to eliminate the risk by the exercise of reasonable care, common usage, appropriateness to the
+    place, and value to the community (R-TRT-077; R2d § 520). Proof that reasonable care essentially eliminates the
+    risk of leaks goes to a central factor, and a park designed for chemical storage shows the activity is appropriate
+    to its location. Together these facts best support treating the claim as one that must be proved in negligence.
+  explanation_each_wrong_option:
+    A: >-
+      True but irrelevant. Care on this occasion is no defense once an activity is abnormally dangerous; the relevant
+      question is whether reasonable care can generally eliminate the activity's risk.
+    C: >-
+      Coming to the nuisance is a factor in nuisance law (R-TRT-094); when the farmer arrived does not bear on whether
+      storing chlorine gas is abnormally dangerous.
+    D: >-
+      Regulatory compliance is not one of the abnormally-dangerous factors and does not show that the activity's risk
+      can be eliminated; at most it suggests that the company was not negligent.
+  trap_type: true-but-irrelevant
+  authority: ["Restatement (Second) of Torts §§ 519, 520"]
+  source: original
+  tags: [wave2, W2-TRT, strict-liability, abnormally-dangerous]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-TRT-0087
+  subject: TRT
+  coverage_ids: [TRT-MBE-III, TRT-CBX-VIII-X]
+  rule_ids: [R-TRT-079]
+  difficulty: 1
+  stem: >-
+    A homeowner's dog had chased and bitten joggers on the road in front of her house twice in the past year, and she
+    had paid both joggers' medical bills. She then installed an electronic containment fence that she reasonably
+    believed would keep the dog in her yard. A month later, the fence malfunctioned through no fault of hers, and the
+    dog ran into the road and bit a passing jogger. The jurisdiction has no dog-bite statute or leash ordinance. The
+    jogger sues the homeowner in strict liability.
+  call: "Is the jogger likely to prevail?"
+  options:
+    A: "Yes, because she knew of the dog's propensity to bite, and the injury resulted from that propensity."
+    B: "No, because the homeowner used reasonable care to confine the dog, and the fence failed through no fault of hers."
+    C: "Yes, because every dog owner is strictly liable for bites by the dog."
+    D: "No, because a dog is a domestic animal, so the jogger must prove negligence."
+  answer: A
+  explanation_correct: >-
+    The possessor of a domestic animal is strictly liable for harm caused by a dangerous propensity abnormal to its
+    class if she knew or had reason to know of that propensity (R-TRT-079). Two earlier bites of joggers gave the
+    homeowner actual knowledge that this dog bites, and the jogger was bitten in exactly that way. Strict liability
+    applies regardless of the reasonable care she took with the fence.
+  explanation_each_wrong_option:
+    B: >-
+      Confused rule. Reasonable care is a defense to negligence, not to strict liability; once the owner knows of the
+      propensity, liability does not depend on fault.
+    C: >-
+      Overbroad. Without a statute, the common law imposes strict liability for a domestic animal only when the owner
+      knows or has reason to know of its dangerous propensity.
+    D: >-
+      Domestic animals ordinarily require proof of negligence, but known dangerous propensity is the exception, and it
+      is met here.
+  trap_type: confused-rule
+  authority: ["Restatement (Second) of Torts § 509"]
+  source: original
+  tags: [wave2, W2-TRT, strict-liability, animals, known-propensity]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-TRT-0088
+  subject: TRT
+  coverage_ids: [TRT-MBE-III, TRT-CBX-VIII-X]
+  rule_ids: [R-TRT-078, R-TRT-079]
+  difficulty: 2
+  stem: >-
+    A man kept a young cheetah as a pet in his house under a state permit. A friend he had invited to dinner walked
+    down a dark hallway, tripped over the cheetah, which was asleep on the floor, and broke her wrist. The cheetah
+    never woke, moved or touched her. The friend sues the man in strict liability only.
+  call: "Is the friend likely to prevail?"
+  options:
+    A: "Yes, because the possessor of a wild animal is strictly liable for any harm the animal causes."
+    B: "No, because the cheetah had been kept for two years without harming anyone, so the man had no reason to know it was dangerous."
+    C: "No, because her injury did not result from a dangerous propensity characteristic of cheetahs."
+    D: "Yes, because the man failed to warn her that the cheetah was lying in the dark hallway."
+  answer: C
+  explanation_correct: >-
+    The possessor of a wild animal is strictly liable for harm that results from a dangerous propensity characteristic
+    of wild animals of its class, such as a big cat's tendency to attack (R-TRT-078). Tripping over a sleeping animal
+    is the kind of accident any object on the floor could cause; it does not arise from the animal's wild
+    propensities. Strict liability therefore does not apply, and the friend, who sued only in strict liability, cannot
+    recover.
+  explanation_each_wrong_option:
+    A: >-
+      Overbroad. Strict liability for wild animals is limited to harm resulting from their characteristic dangerous
+      propensities.
+    B: >-
+      A wild animal's peaceful history is irrelevant; the known-propensity rule applies to domestic animals
+      (R-TRT-079). The claim fails because of the type of harm.
+    D: >-
+      A failure to warn is a negligence theory. The friend sued in strict liability only, and strict liability does
+      not reach this harm.
+  trap_type: overbroad
+  authority: ["Restatement (Second) of Torts §§ 506, 507"]
+  source: original
+  tags: [wave2, W2-TRT, strict-liability, animals, wild-animals]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-TRT-0089
+  subject: TRT
+  coverage_ids: [TRT-MBE-III, TRT-CBX-VI]
+  rule_ids: [R-TRT-082, R-TRT-081]
+  difficulty: 2
+  stem: >-
+    Three weeks after buying a new electric pressure cooker, a home cook used it exactly as the instructions directed.
+    While it was pressurized, the lid suddenly separated from the pot and sprayed her with scalding liquid. The cooker
+    was badly deformed in the incident, and neither side's experts can identify which component failed. There is no
+    evidence that it had been dropped, altered or misused, and the cook's expert testifies that the lids of properly
+    made cookers of this kind do not separate when used as directed. The cook sues the manufacturer in strict products
+    liability. At the close of her case, the manufacturer moves for a directed verdict because she has not identified
+    a specific defect.
+  call: "How should the court rule on the motion?"
+  options:
+    A: "Grant it, because a plaintiff in a strict-liability action must identify the specific defect in the product that caused her injury."
+    B: "Grant it, because three weeks of use before the accident means the defect may have arisen after sale."
+    C: "Deny it, because a manufacturer is liable for any injury caused by its product."
+    D: "Deny it, because the jury may infer from the circumstances that the cooker was defective when sold."
+  answer: D
+  explanation_correct: >-
+    A manufacturing defect may be proved circumstantially (R-TRT-082). When the incident is of a kind that ordinarily
+    occurs as a result of a product defect and was not, in the particular case, solely the result of other causes, the
+    jury may infer that the product was defective when sold, without proof of a specific defect (R3d PL § 3). A
+    properly made pressure cooker used as directed does not blow its lid three weeks after purchase, and the evidence
+    excludes dropping, alteration and misuse.
+  explanation_each_wrong_option:
+    A: >-
+      Wrong standard. The malfunction doctrine relieves the plaintiff of identifying the precise defect when the
+      circumstances point to one, especially when the product was destroyed.
+    B: >-
+      Three weeks of normal use does not suggest a later-arising cause; the evidence excludes mishandling and
+      alteration, so the inference still points to a defect existing at the time of sale.
+    C: >-
+      Overbroad. Strict products liability requires a defect existing when the product left the seller; it is not
+      liability for every injury a product causes (R-TRT-081).
+  trap_type: wrong-standard
+  authority: ["Restatement (Third) of Torts: Products Liability § 3"]
+  source: original
+  tags: [wave2, W2-TRT, products-liability, manufacturing-defect, malfunction-doctrine]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-TRT-0090
+  subject: TRT
+  coverage_ids: [TRT-MBE-III, TRT-CBX-VI]
+  rule_ids: [R-TRT-084, R-TRT-037, R-TRT-070]
+  difficulty: 3
+  stem: >-
+    A manufacturer sold a concentrated drain cleaner whose label did not warn that mixing it with bleach releases
+    toxic gas, a risk the manufacturer knew about. A homeowner poured the cleaner into a sink that already held bleach
+    and was injured by the fumes. At trial, the homeowner testified that she never reads the labels on household
+    cleaning products and did not look at this one, and no one read or described the label to her. The jury could find
+    that the absence of a warning made the product defective. The homeowner sues the manufacturer in strict liability
+    for failure to warn.
+  call: "What is the manufacturer's best argument?"
+  options:
+    A: "An adequate warning would not have prevented the injury, because the homeowner would not have read it."
+    B: "The homeowner was negligent in using the product without reading its label."
+    C: "The danger of mixing household chemicals is obvious, so no warning was required."
+    D: "Strict liability does not apply to claims based on inadequate warnings."
+  answer: A
+  explanation_correct: >-
+    A failure-to-warn plaintiff must prove that an adequate warning would have prevented the harm (R-TRT-084,
+    R-TRT-037). Because the homeowner admits that she never reads such labels and did not read this one, a warning on
+    the label would not have changed her conduct, so the missing warning was not a but-for cause of her injury. That
+    argument defeats the claim entirely, which makes it the manufacturer's best argument.
+  explanation_each_wrong_option:
+    B: >-
+      Under the default pure comparative negligence, her carelessness would at most reduce her damages (R-TRT-070); it
+      would not defeat the claim, so it is weaker than the causation argument.
+    C: >-
+      There is no duty to warn of obvious or generally known risks, but the release of toxic gas when a drain cleaner
+      is mixed with bleach is not a danger ordinary consumers would recognize, and the jury could find a warning
+      defect.
+    D: >-
+      Inadequate instructions or warnings are one of the three recognized kinds of product defect for strict liability
+      (R-TRT-084).
+  trap_type: missing-element
+  authority: ["Restatement (Third) of Torts: Products Liability § 2(c)"]
+  source: original
+  tags: [wave2, W2-TRT, products-liability, warning-defect, causation]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-TRT-0091
+  subject: TRT
+  coverage_ids: [TRT-MBE-III, TRT-CBX-VI]
+  rule_ids: [R-TRT-085, R-TRT-081, R-TRT-089]
+  difficulty: 1
+  stem: >-
+    A retired teacher held a one-day garage sale to clear out her late husband's workshop and sold his used table saw
+    to a neighbor for $75. The saw's blade guard had a hidden crack, a defect dating from its original manufacture,
+    which neither the teacher nor the neighbor could have discovered by inspection. The guard failed the first time
+    the neighbor used the saw, and he was injured. He sues the teacher in strict products liability.
+  call: "Is the neighbor likely to prevail against the teacher?"
+  options:
+    A: "Yes, because the saw was defective when it left the teacher's control and reached the neighbor without substantial change."
+    B: "No, because the teacher was not in the business of selling table saws or similar products."
+    C: "Yes, because the teacher and the neighbor were in privity of contract."
+    D: "No, because the neighbor assumed the risk of hidden defects by choosing to buy a used saw at a garage sale."
+  answer: B
+  explanation_correct: >-
+    Strict products liability applies only to commercial sellers, those in the business of selling products of that
+    kind (R-TRT-081, R-TRT-085). An occasional seller, such as a person selling household items at a garage sale, is
+    not strictly liable even for a product that was defective when sold. The neighbor would have to prove the
+    teacher's negligence, for example that she knew of the crack, and the facts show she could not have known.
+  explanation_each_wrong_option:
+    A: >-
+      Missing element. These facts satisfy the defect and no-substantial-change elements, but the defendant must also
+      be a commercial seller.
+    C: >-
+      Privity matters for warranty claims, not strict tort liability, and it cannot supply the missing
+      commercial-seller element; a garage-sale seller is also not a merchant for the implied warranty of
+      merchantability (R-TRT-089).
+    D: >-
+      Assumption of risk requires knowledge of the specific danger; buying a used saw is not knowingly encountering a
+      hidden crack.
+  trap_type: missing-element
+  authority: ["Restatement (Second) of Torts § 402A cmt. f", "Restatement (Third) of Torts: Products Liability § 1"]
+  source: original
+  tags: [wave2, W2-TRT, products-liability, commercial-seller, occasional-seller]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-TRT-0092
+  subject: TRT
+  coverage_ids: [TRT-MBE-III, TRT-CBX-VI]
+  rule_ids: [R-TRT-087, R-TRT-081, R-TRT-086]
+  difficulty: 2
+  stem: >-
+    A manufacturer sold an electric pressure washer with a relief valve that kept water pressure below 3,000 pounds
+    per square inch. The buyer's brother-in-law, a hobby mechanic, removed the relief valve, welded a plug over its
+    opening, and installed a larger custom pump gear so that the washer would strip paint faster. Nothing in the
+    washer's design, marketing or history suggested that users would modify it in this way. The first time the
+    modified washer was used, the hose burst at more than 5,000 psi, and a flying metal fitting struck a neighbor who
+    was watching, blinding him in one eye. The hose would not have burst without the modifications. The neighbor sues
+    the manufacturer in strict products liability.
+  call: "Is the neighbor likely to prevail against the manufacturer?"
+  options:
+    A: "Yes, because a bystander injured by a defective product may recover in strict liability, even though he did not buy or use it."
+    B: "Yes, because the manufacturer should have designed the washer so that it could not be modified."
+    C: "No, because the neighbor was neither a purchaser nor a user of the washer."
+    D: "No, because a substantial, unforeseeable alteration after sale caused the injury."
+  answer: D
+  explanation_correct: >-
+    Strict liability requires that a defect existing when the product left the seller caused the harm and that the
+    product reached the user without substantial change (R-TRT-081). A substantial, unforeseeable alteration that
+    causes the injury is a defense (R-TRT-087). Removing the relief valve, welding over its opening and installing a
+    custom pump gear deliberately defeated the washer's safety design, and the hose would not have burst without those
+    changes.
+  explanation_each_wrong_option:
+    A: >-
+      True but irrelevant. Bystanders can recover in strict liability (R-TRT-086), but only for a defect for which the
+      manufacturer is responsible; here the alteration caused the harm.
+    B: >-
+      A manufacturer must design against foreseeable misuse and alteration, but it need not make its product proof
+      against deliberate, extensive re-engineering of this kind.
+    C: >-
+      Foreseeable bystanders may recover in strict liability without being purchasers or users (R-TRT-086).
+  trap_type: true-but-irrelevant
+  authority: ["Restatement (Second) of Torts § 402A(1)(b)", "Restatement (Third) of Torts: Products Liability § 2"]
+  source: original
+  tags: [wave2, W2-TRT, products-liability, defenses, substantial-alteration]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-TRT-0093
+  subject: TRT
+  coverage_ids: [TRT-MBE-III, TRT-CBX-VI]
+  rule_ids: [R-TRT-090, R-TRT-107, R-TRT-088, R-TRT-082]
+  difficulty: 3
+  stem: >-
+    A manufacturer of aluminum stepladders advertised a new model on national television and on the ladder's packaging
+    as "Rated to hold 400 pounds." The manufacturer reasonably relied on a report from a respected independent testing
+    laboratory, which, through an error the manufacturer had no reason to suspect, overstated the ladder's capacity.
+    Every ladder of the model was built exactly as designed and holds about 275 pounds, more than the industry
+    standard for household stepladders and enough for nearly all users. A 320-pound buyer chose this model because of
+    the 400-pound claim. While he stood on it, a rung buckled, and he fell and broke his arm. He sues the
+    manufacturer.
+  call: "Which of the following is the buyer's strongest theory of liability?"
+  options:
+    A: "Negligence, because the manufacturer's advertisement was false."
+    B: "Intentional misrepresentation, because the manufacturer made a false statement of material fact on which he relied."
+    C: "Strict liability for public misrepresentation of a material fact on which he justifiably relied."
+    D: "Strict liability for a manufacturing defect, because the ladder failed below its advertised capacity."
+  answer: C
+  explanation_correct: >-
+    A commercial seller that publicly misrepresents a material fact about its product's character or quality is
+    strictly liable for physical harm caused by a consumer's justifiable reliance, even if the misrepresentation was
+    neither fraudulent nor negligent (R-TRT-090; R2d § 402B). The capacity rating is a specific fact, not puffery; the
+    buyer chose the ladder because of it; and the ladder failed under a load it was represented to bear. The
+    manufacturer's good faith and reasonable reliance on the laboratory do not matter.
+  explanation_each_wrong_option:
+    A: >-
+      Falsity is not the same as negligence (R-TRT-088). The manufacturer reasonably relied on a respected laboratory,
+      so the buyer would struggle to prove a lack of reasonable care.
+    B: >-
+      Confused rule. Fraud requires scienter, meaning knowledge of falsity or reckless disregard for the truth
+      (R-TRT-107); the manufacturer honestly and reasonably believed the rating.
+    D: >-
+      A manufacturing defect is a departure from the intended design (R-TRT-082). This ladder was built exactly as
+      designed, like every other unit; the problem is the false statement, not a flawed unit.
+  trap_type: confused-rule
+  authority: ["Restatement (Second) of Torts § 402B"]
+  source: original
+  tags: [wave2, W2-TRT, products-liability, misrepresentation]
+  status: draft
+  last_verified: "2026-11-04"

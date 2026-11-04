@@ -58,7 +58,7 @@ Practical consequences:
 14. **Duty to control third persons** requires a special relationship and knowledge of the danger (R-TRT-022).
 15. **Reasonable person:** objective; physical disability counted; mental deficiency not; superior skill counted (R-TRT-025).
 16. **Children:** like age, intelligence and experience, except **adult activities** (R-TRT-026).
-17. **Professionals:** the profession's standard, proven by experts; **informed consent** is the patient-centered material-risk test (R-TRT-027, R-TRT-028).
+17. **Professionals:** the profession's standard (specialists: national standard), proven by experts (R-TRT-027). **Informed consent:** the physician must disclose material risks and alternatives; jurisdictions split between a reasonable-physician and a reasonable-patient (*Canterbury*) disclosure standard, so apply the standard the stem gives. The undisclosed risk must materialize, and causation is usually objective — a reasonable patient, properly informed, would have declined (R-TRT-028).
 18. **Negligence per se:** class of persons + type of harm + unexcused violation = breach. **Causation is still required** (R-TRT-033, R-TRT-034).
 19. **Custom** is evidence, not conclusive (R-TRT-032).
 20. **Res ipsa:** a permissible inference; Π gets to the jury; Δ's control (R-TRT-035).
@@ -77,7 +77,7 @@ Practical consequences:
 ### Strict and products liability (III)
 32. **Abnormally dangerous activities:** strict liability, but only for the kind of harm that makes the activity dangerous (R-TRT-077).
 33. **Wild animals:** strict liability. **Domestic animals:** strict liability only with known dangerous propensity (R-TRT-078, R-TRT-079).
-34. **Contributory negligence in failing to discover** is no defense to strict liability; knowing assumption of risk is a defense (R-TRT-080).
+34. **Plaintiff's fault and strict liability:** under the MBE default (pure comparative fault), the plaintiff's negligence, including a knowing and unreasonable encounter with the risk, reduces recovery. Only if the stem says contributory negligence applies: mere failure to discover the danger is no defense, and a knowing, unreasonable encounter is a complete bar (R-TRT-080).
 35. **Strict products liability:**
     - any commercial seller, including retailers (R-TRT-085);
     - defect existed when the product left Δ;

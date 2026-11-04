@@ -1114,17 +1114,17 @@ status: draft
 **Example:** A puppy with no history of aggression bites a visitor's hand during a home viewing. At common law there is no strict liability (no known propensity), so the visitor must prove negligence; under § 3342 the owner is strictly liable.
 
 ### R-TRT-080 — Defenses to strict liability
-**Rule (write this):** Ordinary contributory negligence, such as failing to discover or guard against the danger, is not a defense to strict liability. A plaintiff who knowingly and voluntarily encounters the danger assumes the risk, and in comparative-fault jurisdictions the plaintiff's fault reduces recovery.
+**Rule (write this):** In a comparative-fault jurisdiction, which is the MBE default, a plaintiff's negligence, including knowingly and unreasonably encountering the danger, reduces recovery on a strict-liability claim in proportion to his share of fault rather than barring it. In a contributory-negligence jurisdiction, a plaintiff's mere failure to discover or guard against the danger is no defense, but knowingly and unreasonably subjecting himself to it (assumption of risk) is a complete defense. Express assumption of risk can bar the claim in either system.
 
-**Elements:** 1. Contributory negligence in failing to discover: no defense (contributory states). 2. Knowing, unreasonable encounter of the risk: defense (R2d § 524). 3. Assumption of risk: defense (R2d § 523). 4. Comparative fault: reduces damages (most states; California). 5. Abnormally sensitive activity of Π: no strict liability (R2d § 524A).
+**Elements:** 1. Comparative-fault jurisdictions (MBE default; California): Π's negligence, including a knowing and unreasonable encounter with the risk, reduces damages. 2. Contributory-negligence jurisdictions: failure to discover the danger is no defense (R2d § 524(1)); a knowing, unreasonable encounter is a complete defense (R2d §§ 523, 524(2)). 3. Express assumption of risk can bar the claim. 4. Abnormally sensitive activity of Π: no strict liability (R2d § 524A).
 
 **Exceptions / defenses:** An unforeseeable intervening act of a third person or force of nature does not, by itself, defeat strict liability for an abnormally dangerous activity (R-TRT-077). Products cases have their own defenses (R-TRT-087).
 
-**Authority:** R2d §§ 523, 524, 524A [VERIFY V-600]; *Daly v. General Motors Corp.* (1978) 20 Cal.3d 725.
+**Authority:** R2d §§ 523, 524, 524A [VERIFY V-600]; Restatement (Third) of Torts: Apportionment of Liability § 8 [VERIFY V-600]; *Daly v. General Motors Corp.* (1978) 20 Cal.3d 725.
 
 **MBE vs. CA essay:** MBE: pure comparative fault reduces strict-liability recovery by default. California essay: comparative fault (*Daly*); primary AOR (*Knight*) where inherent.
 
-**Example:** A trespasser who climbs into a fenced blasting zone to watch, despite warning signs, assumed the risk.
+**Example:** A trespasser climbs into a fenced blasting zone to watch, despite warning signs, and is hurt. Under pure comparative fault (MBE default) his knowing, unreasonable conduct reduces his recovery by his share of fault; in a contributory-negligence jurisdiction it is assumption of risk and bars recovery.
 
 ---
 

@@ -1,0 +1,291 @@
+# Torts MCQs — NCBE category IV: other torts
+# Wave 2 (W2-TRT). MBE defaults: pure comparative negligence and joint and several liability unless the stem says otherwise.
+# Majority common-law / Restatement rules only; no California-only rules. All items original.
+questions:
+- id: Q-TRT-0094
+  subject: TRT
+  coverage_ids: [TRT-MBE-IV.A, TRT-CBX-VII]
+  rule_ids: [R-TRT-092, R-TRT-006]
+  difficulty: 1
+  stem: >-
+    A homeowner has a rare neurological condition that gives her severe migraines when she is exposed to even faint
+    flickering light. Her next-door neighbor installed a motion-activated porch light of ordinary brightness, like
+    many others in the neighborhood. Several times a night, when animals pass, it switches on and casts a faint glow
+    through a gap in the homeowner's bedroom curtains. People of ordinary sensitivity in the neighborhood are not
+    bothered by such lights. The neighbor refused the homeowner's request to remove the light. The homeowner sues the
+    neighbor for private nuisance.
+  call: "Is the homeowner likely to prevail?"
+  options:
+    A: "Yes, because the light regularly enters her bedroom at night and causes her severe pain in her own home."
+    B: "Yes, because the neighbor kept using the light after learning that it caused her severe migraines."
+    C: "No, because light, unlike smoke or debris, does not physically invade her land and so cannot be a nuisance."
+    D: "No, because a person of normal sensitivity would not find the light substantially offensive."
+  answer: D
+  explanation_correct: >-
+    A private nuisance must be a substantial and unreasonable interference with the use and enjoyment of land
+    (R-TRT-092). Substantiality is measured by the effect on a normal person in the community, not on a hypersensitive
+    one. An ordinary porch light that does not bother people of normal sensitivity is not a substantial interference,
+    however severe its effect on the homeowner because of her condition.
+  explanation_each_wrong_option:
+    A: >-
+      Wrong standard. Severe harm to an abnormally sensitive plaintiff does not make an interference substantial; the
+      test is the reaction of a normal person in the community.
+    B: >-
+      Knowledge makes the interference intentional, but intent does not supply the missing element of a substantial
+      interference measured by the normal-person standard.
+    C: >-
+      Confused rule. A physical invasion is required for trespass (R-TRT-006), not for nuisance; light, noise and
+      odors are classic nuisance interferences. The claim fails on substantiality, not for lack of a physical entry.
+  trap_type: wrong-standard
+  authority: ["Restatement (Second) of Torts §§ 821D, 821F"]
+  source: original
+  tags: [wave2, W2-TRT, other-torts, nuisance, hypersensitive-plaintiff]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-TRT-0095
+  subject: TRT
+  coverage_ids: [TRT-MBE-IV.A, TRT-CBX-VII]
+  rule_ids: [R-TRT-092, R-TRT-094]
+  difficulty: 2
+  stem: >-
+    A company built a concrete-crushing plant on land zoned for heavy industry, next to a long-established residential
+    neighborhood. The plant holds every required permit and complies with all zoning and noise ordinances. Its
+    crushers run from 5 a.m. to 10 p.m., and the dust and vibration crack plaster in nearby homes and coat cars and
+    patio furniture throughout the neighborhood every day. Enclosures and dust controls that would greatly reduce the
+    interference are available at modest cost, but the company has refused to install them. Several homeowners sue the
+    company for private nuisance, and the company argues that its compliance with the zoning laws and its permits
+    defeats their claim.
+  call: "Is the company's argument likely to succeed?"
+  options:
+    A: "No, because zoning compliance is only a factor in deciding whether the interference is unreasonable."
+    B: "Yes, because an activity conducted in full compliance with zoning laws and all required permits cannot be a private nuisance."
+    C: "Yes, because the homeowners' land and the plant are in different zones."
+    D: "No, because any activity that physically damages neighboring property is a nuisance per se."
+  answer: A
+  explanation_correct: >-
+    A private nuisance is a substantial and unreasonable interference with the use and enjoyment of land (R-TRT-092).
+    Zoning compliance and permits are evidence that the use suits the locality, but they are not a defense; only
+    express statutory authorization of the specific conduct complained of would be (R-TRT-094). Daily cracking of
+    plaster and coating of property is serious harm that the company could greatly reduce at modest cost, so a court
+    may find the interference unreasonable.
+  explanation_each_wrong_option:
+    B: >-
+      Overbroad. Zoning decides where a use may be located, not whether it may be operated in a way that seriously
+      harms neighbors; compliance is only a factor.
+    C: >-
+      That the properties lie in different zones does not authorize harm across the zone line; it is at most part of
+      the locality analysis.
+    D: >-
+      Physical damage makes the harm serious, but it does not make the activity a nuisance per se; the court still
+      asks whether the interference is substantial and unreasonable.
+  trap_type: overbroad
+  authority: ["Restatement (Second) of Torts §§ 821D, 826"]
+  source: original
+  tags: [wave2, W2-TRT, other-torts, nuisance, zoning]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-TRT-0096
+  subject: TRT
+  coverage_ids: [TRT-MBE-IV.B, TRT-CBX-I.x2]
+  rule_ids: [R-TRT-097, R-TRT-098, R-TRT-099, R-TRT-100]
+  difficulty: 2
+  stem: >-
+    At a neighborhood block party, a man who was angry that his neighbor had complained about his barking dog told
+    several other neighbors that she "has been stealing packages off people's porches for months - I've seen her do
+    it." He knew the statement was false. The neighbor is a private person. She cannot show that she lost any money,
+    job or other economic advantage because of the statement, but several neighbors have stopped speaking to her. She
+    sues the man for defamation.
+  call: "Is the neighbor likely to recover damages?"
+  options:
+    A: "No, because the statement was spoken and she cannot prove special damages."
+    B: "Yes, because the statement imputed a crime, so her damages are presumed."
+    C: "No, because the man's statement was an expression of his personal opinion."
+    D: "Yes, but only nominal damages, because she cannot show any economic loss caused by the statement."
+  answer: B
+  explanation_correct: >-
+    Spoken defamation is slander, which ordinarily requires proof of special (pecuniary) damages unless it is slander
+    per se: a statement imputing a serious crime, a loathsome disease, misconduct in the plaintiff's business or
+    profession, or serious sexual misconduct (R-TRT-097). Accusing the neighbor of repeated theft imputes a crime, so
+    general damages for reputational harm are presumed. Because the man knew the statement was false, he acted with
+    actual malice, so no constitutional limit bars presumed damages (R-TRT-098, R-TRT-099).
+  explanation_each_wrong_option:
+    A: >-
+      Exception trap. Special damages are required for ordinary slander, but not for slander per se.
+    C: >-
+      "I've seen her do it" asserts a provably false fact; it is not protected opinion (R-TRT-100).
+    D: >-
+      In slander per se, general damages for harm to reputation are presumed and are not limited to nominal damages;
+      the lost friendships also show actual reputational harm.
+  trap_type: exception-trap
+  authority: ["Restatement (Second) of Torts §§ 570, 571"]
+  source: original
+  tags: [wave2, W2-TRT, other-torts, defamation, slander-per-se]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-TRT-0097
+  subject: TRT
+  coverage_ids: [TRT-MBE-IV.B, TRT-CBX-I.x2]
+  rule_ids: [R-TRT-100, R-TRT-096]
+  difficulty: 3
+  stem: >-
+    A hotel considering a job applicant for a catering-supervisor position called the regional manager of a restaurant
+    chain where the applicant had worked. The manager checked the chain's personnel file for the applicant, which,
+    because of a clerical error that the manager had no reason to suspect, contained the termination record of a
+    different employee. Relying on it, the manager told the hotel's hiring director, and no one else, "She was fired
+    for stealing from the cash register." The statement was false; the applicant had resigned voluntarily. The hotel
+    did not hire her. She sues the chain for defamation.
+  call: "What is the chain's best defense?"
+  options:
+    A: "Truth, because the manager accurately repeated what the chain's own personnel records showed about the applicant's departure."
+    B: "No publication, because the manager spoke privately to only one person, the hiring director who had asked for the information."
+    C: "Qualified privilege, because the manager answered a reference request in good faith and did not abuse the privilege."
+    D: "Opinion, because the manager was giving an assessment of the applicant's character."
+  answer: C
+  explanation_correct: >-
+    A qualified privilege protects good-faith statements made to protect a legitimate interest of the recipient, such
+    as a former employer's answer to a prospective employer's reference request (R-TRT-100). It is lost only by abuse:
+    knowledge of falsity or reckless disregard of the truth, excessive publication, or an improper purpose. The
+    manager relied reasonably on the chain's own records, had no reason to suspect the error, and spoke only to the
+    person who asked. The privilege therefore defeats the claim even though the statement was false. The misfiled record was at most the chain's negligence; under the majority (Restatement) rule, negligence does not abuse a qualified privilege, which is lost only by knowledge of falsity, reckless disregard of the truth, an improper purpose or excessive publication (R2d §§ 600, 603, 604). A few states treat the privilege as lost when the speaker lacked reasonable grounds, but none of the other options states a valid defense in any event.
+  explanation_each_wrong_option:
+    A: >-
+      Truth requires that the statement itself be substantially true. The statement was that she was fired for
+      stealing, which was false; what a misfiled record said does not make it true.
+    B: >-
+      Publication requires communication to only one third person (R-TRT-096); telling the hotel's hiring director was
+      publication.
+    D: >-
+      "Fired for stealing from the cash register" asserts a provably false fact, not an opinion (R-TRT-100).
+  trap_type: confused-rule
+  authority: ["Restatement (Second) of Torts §§ 595, 596, 600", "Restatement (Second) of Torts \u00a7\u00a7 600, 603, 604"]
+  source: original
+  tags: [wave2, W2-TRT, other-torts, defamation, qualified-privilege]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-TRT-0098
+  subject: TRT
+  coverage_ids: [TRT-MBE-IV.B, TRT-CBX-I.x2]
+  rule_ids: [R-TRT-103, R-TRT-102, R-TRT-104]
+  difficulty: 1
+  stem: >-
+    A woman learned from her sister, a nurse, that a man who lived on their street had been treated two years earlier
+    at an inpatient clinic for alcohol addiction. The man is a private person who has not had a drink since, and his
+    treatment was not a matter of public record. The woman posted the information, with the man's name and photograph,
+    on a neighborhood social-media page with 4,000 members. Everything in her post was true. The man sues the woman
+    for invasion of privacy.
+  call: "Is the man likely to prevail?"
+  options:
+    A: "Yes, because she publicized highly offensive private facts that were not of legitimate public concern."
+    B: "No, because everything in her post was true."
+    C: "No, because she did not intrude on his seclusion or private affairs; she merely repeated what her sister had told her."
+    D: "Yes, because her post placed him in a false light."
+  answer: A
+  explanation_correct: >-
+    Public disclosure of private facts (R-TRT-103) requires publicity given to private facts, the disclosure of which
+    would be highly offensive to a reasonable person, about a matter not of legitimate public concern. A post to 4,000
+    people is publicity; past addiction treatment is a private medical matter not in any public record; a reasonable
+    person would find its disclosure highly offensive; and a private person's long-past treatment is not newsworthy.
+    Truth is no defense to this tort.
+  explanation_each_wrong_option:
+    B: >-
+      True but irrelevant. Truth defeats defamation and false light, but public disclosure concerns true private
+      facts, so truth is no defense.
+    C: >-
+      Intrusion upon seclusion (R-TRT-102) is a separate privacy tort. Public disclosure does not require that the
+      defendant obtained the information by intrusion.
+    D: >-
+      False light requires a false or misleading portrayal (R-TRT-104); everything she posted was true, and nothing in
+      the facts suggests a false implication.
+  trap_type: true-but-irrelevant
+  authority: ["Restatement (Second) of Torts § 652D"]
+  source: original
+  tags: [wave2, W2-TRT, other-torts, privacy, public-disclosure]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-TRT-0099
+  subject: TRT
+  coverage_ids: [TRT-MBE-IV.C, TRT-CBX-IV]
+  rule_ids: [R-TRT-108, R-TRT-107]
+  difficulty: 2
+  stem: >-
+    Before listing her house for sale, an owner learned that termites had badly damaged the floor joists under the
+    kitchen. Instead of having the damage repaired, she had new vinyl flooring laid over the soft spots and stacked
+    storage boxes in the basement in front of the damaged joists. A buyer toured the house twice, asked no questions
+    about pests and, to save money, did not get a professional inspection. The owner said nothing about termites.
+    After the closing, the kitchen floor sagged, and repairs cost $40,000. The buyer sues the owner for
+    misrepresentation.
+  call: "Is the buyer likely to prevail?"
+  options:
+    A: "No, because the owner made no statement about the condition of the house."
+    B: "No, because the buyer was negligent in not getting a professional inspection."
+    C: "Yes, because a seller of real property is strictly liable for defects that exist at the time of sale."
+    D: "Yes, because the owner actively concealed a material defect, which is treated as a misrepresentation."
+  answer: D
+  explanation_correct: >-
+    Active concealment of a material fact is treated as a misrepresentation (R-TRT-108). Laying new flooring over the
+    soft spots and stacking boxes in front of the damaged joists were acts intended to hide the termite damage and
+    keep the buyer from discovering it. With scienter, materiality and reliance present, the owner is liable for
+    intentional misrepresentation (R-TRT-107), and the buyer's failure to hire an inspector does not defeat the claim.
+  explanation_each_wrong_option:
+    A: >-
+      A misrepresentation can be made by conduct; deliberately hiding a defect is the equivalent of a false statement,
+      whether or not any words are spoken.
+    B: >-
+      Confused rule. Contributory negligence is not a defense to fraud, and there is no duty to investigate unless the
+      falsity is obvious; the concealment was designed to defeat an ordinary look (R-TRT-107).
+    C: >-
+      Overbroad. Sellers of land are not strictly liable for defects; liability rests on fraud, concealment or, in
+      some states, a duty to disclose known latent defects.
+  trap_type: confused-rule
+  authority: ["Restatement (Second) of Torts § 550"]
+  source: original
+  tags: [wave2, W2-TRT, other-torts, misrepresentation, concealment]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-TRT-0100
+  subject: TRT
+  coverage_ids: [TRT-MBE-IV.D, TRT-CBX-V]
+  rule_ids: [R-TRT-111, R-TRT-110]
+  difficulty: 2
+  stem: >-
+    For six years, a landscaping company had maintained the grounds of an office park under month-to-month
+    arrangements that either party could end at any time on 30 days' notice. A rival landscaping company, knowing of
+    the arrangement, approached the office park's manager, truthfully described its services, and offered to do the
+    same work for 15% less. The office park gave the first company 30 days' notice, as it was entitled to do, and
+    hired the rival. The rival acted to win the business for itself. The first company sues the rival for intentional
+    interference with its business relations.
+  call: "Is the first company likely to prevail?"
+  options:
+    A: "Yes, because the rival knew of the relationship and intentionally caused the office park to end it."
+    B: "No, because the rival used fair competitive means to win business that was terminable at will."
+    C: "Yes, because after six years the first company had a reasonable expectation that the relationship would continue."
+    D: "No, because a claim for interference requires the breach of an existing contract."
+  answer: B
+  explanation_correct: >-
+    Intentional interference requires improper conduct (R-TRT-110, R-TRT-111). A competitor is privileged to take
+    business from a rival where the relationship is terminable at will or merely prospective, so long as it uses no
+    wrongful means, such as fraud, threats or defamation, and acts at least in part to advance its competitive
+    interest (R2d § 768). Truthful marketing and a lower price are proper means, and the office park lawfully ended
+    the at-will arrangement.
+  explanation_each_wrong_option:
+    A: >-
+      Missing element. Knowledge and intent are not enough; the interference must also be improper, and fair
+      competition for at-will business is privileged.
+    C: >-
+      A reasonable expectation of future business makes the relationship protectable against improper interference,
+      but it does not defeat the competition privilege.
+    D: >-
+      Interference with prospective economic relations, and with at-will contracts, does not require a breach of
+      contract; it requires improper interference with the relationship.
+  trap_type: missing-element
+  authority: ["Restatement (Second) of Torts §§ 766B, 768"]
+  source: original
+  tags: [wave2, W2-TRT, other-torts, interference, competition-privilege]
+  status: draft
+  last_verified: "2026-11-04"

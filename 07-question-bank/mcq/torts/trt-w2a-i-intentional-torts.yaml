@@ -1,0 +1,426 @@
+# Torts MCQs — NCBE category I: intentional torts and defenses
+# Wave 2 (W2-TRT). MBE defaults: pure comparative negligence and joint and several liability unless the stem says otherwise.
+# Majority common-law / Restatement rules only; no California-only rules. All items original.
+questions:
+- id: Q-TRT-0051
+  subject: TRT
+  coverage_ids: [TRT-MBE-I.A, TRT-CBX-I.x1]
+  rule_ids: [R-TRT-002, R-TRT-001, R-TRT-045]
+  difficulty: 2
+  stem: >-
+    During an argument over a parking space outside a hardware store, a customer jabbed another man twice in the chest
+    with his index finger and said, "Back off." The customer meant the jabs as a gesture of contempt; they were not
+    hard enough to hurt a healthy adult. Unknown to the customer, the man had a pacemaker that had been implanted just
+    beneath the skin of his chest two weeks earlier. One jab dislodged a pacemaker lead, and the man needed emergency
+    surgery to reposition it. The man sues the customer for battery and seeks damages for the surgery.
+  call: "Is the man likely to recover damages for the surgery?"
+  options:
+    A: "Yes, because he intended an offensive contact and is liable for all resulting harm, foreseeable or not."
+    B: "No, because the customer did not intend to cause any physical harm."
+    C: "No, because a healthy adult would not have been hurt by the jabs, so the customer could not reasonably have foreseen an injury of this kind."
+    D: "Yes, but only if the customer was negligent in failing to notice the man's medical condition."
+  answer: A
+  explanation_correct: >-
+    Battery (R-TRT-002) requires an act intended to cause a harmful or offensive contact and a resulting harmful or
+    offensive contact. Jabbing a stranger in the chest to show contempt is an intended contact that offends a
+    reasonable sense of personal dignity, so the battery is complete although no injury was intended. Once the tort is
+    established, the defendant is liable for all harm that results from the contact, including unforeseeably severe
+    harm caused by the plaintiff's hidden condition (the eggshell-plaintiff rule, R-TRT-002, R-TRT-045). The customer
+    pays for the surgery.
+  explanation_each_wrong_option:
+    B: >-
+      Wrong element. Battery requires intent to cause a harmful or offensive contact, not intent to injure
+      (R-TRT-001). An intended offensive contact suffices, and liability then extends to the physical harm that
+      results.
+    C: >-
+      Confused rule. Foreseeability of the extent of harm is a negligence concept, and even in negligence the
+      eggshell-plaintiff rule makes the defendant liable for unforeseeable severity (R-TRT-045). An intentional
+      tortfeasor likewise takes the plaintiff as he finds him.
+    D: >-
+      Wrong standard. Battery is an intentional tort; the plaintiff need not prove that the customer was careless
+      about his condition. The intended offensive contact is enough.
+  trap_type: confused-rule
+  authority: ["Restatement (Second) of Torts §§ 13, 18", "Vosburg v. Putney, 80 Wis. 523 (1891)"]
+  source: original
+  tags: [wave2, W2-TRT, intentional-torts, battery, eggshell-plaintiff]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-TRT-0052
+  subject: TRT
+  coverage_ids: [TRT-MBE-I.A, TRT-CBX-I.x3]
+  rule_ids: [R-TRT-006, R-TRT-007]
+  difficulty: 1
+  stem: >-
+    A landowner hired a licensed surveyor to mark the boundary between her wooded lot and her neighbor's. Relying on
+    the surveyor's stakes, she and her son cleared a walking trail along what they believed was her side of the line.
+    The surveyor had misread a plat, and about 200 feet of the trail actually ran 15 feet onto the neighbor's land.
+    Clearing the trail removed only dead brush, and the neighbor concedes that the value of his land was not affected.
+    When the landowner learned of the error, she apologized and stopped using that part of the trail. The neighbor
+    sues her for trespass to land.
+  call: "What is the most likely result?"
+  options:
+    A: "The landowner is not liable, because she reasonably relied on a licensed surveyor and did not intend to enter the neighbor's land."
+    B: "The landowner is not liable, because the neighbor suffered no actual damage."
+    C: "The landowner is liable for at least nominal damages, because she intended to enter the strip she cleared."
+    D: "The landowner is liable only if she was negligent in relying on the surveyor's stakes rather than checking the recorded plat herself."
+  answer: C
+  explanation_correct: >-
+    Trespass to land (R-TRT-006) requires only an intent to enter the particular land; the defendant need not know or
+    intend that it belongs to someone else. The landowner deliberately walked onto and cleared the strip where the
+    trail ran, so the intent element is met even though she honestly and reasonably believed the strip was hers.
+    Trespass to land is actionable without proof of harm, so the neighbor recovers at least nominal damages.
+  explanation_each_wrong_option:
+    A: >-
+      Wrong standard. The required intent is the intent to be on the land, not an intent to trespass. A reasonable
+      mistake about ownership or the boundary, even one caused by a professional's error, is no defense (R-TRT-006).
+    B: >-
+      Confused rule. Actual harm is an element of trespass to chattels (R-TRT-007), not of trespass to land, where
+      damages are presumed and nominal damages are available.
+    D: >-
+      Negligence matters only for unintentional entries, which are actionable only if they cause actual harm. This
+      entry was intentional, so liability does not depend on whether her reliance on the surveyor was careless.
+  trap_type: wrong-standard
+  authority: ["Restatement (Second) of Torts §§ 158, 164"]
+  source: original
+  tags: [wave2, W2-TRT, intentional-torts, trespass-to-land, mistake]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-TRT-0053
+  subject: TRT
+  coverage_ids: [TRT-MBE-I.A, TRT-CBX-I.x3]
+  rule_ids: [R-TRT-008, R-TRT-007]
+  difficulty: 2
+  stem: >-
+    A homeowner's next-door neighbor, whose own mower had broken, took the homeowner's $1,600 riding mower from her
+    open garage without asking while she was at work. He planned to return it that afternoon. While mowing, he clipped
+    a tree stump and bent the mower's blade housing. He returned the mower to the garage two hours after taking it and
+    left a note admitting what had happened. The repair cost $240, and the homeowner could not use the mower for the
+    three days the repair took. She sues the neighbor for conversion, seeking the mower's full $1,600 value.
+  call: "Is the homeowner likely to recover $1,600?"
+  options:
+    A: "Yes, because the neighbor intentionally took the mower without permission, and any unauthorized taking of a chattel is conversion, however briefly it is kept."
+    B: "Yes, because the neighbor damaged the mower while using it without permission."
+    C: "No, because conversion requires an intent to keep the chattel permanently."
+    D: "No, because the interference was not serious enough to be conversion, so she is limited to damages for trespass to chattels."
+  answer: D
+  explanation_correct: >-
+    Conversion (R-TRT-008) is an intentional exercise of control so serious that the defendant may fairly be required
+    to pay the chattel's full value, a forced sale. Seriousness turns on the extent and duration of the control, the
+    defendant's intent to assert a right inconsistent with the owner's, his good or bad faith, and the harm done. A
+    two-hour use, a prompt return with an admission, and $240 of repairable damage are not that serious. The neighbor
+    is liable instead for trespass to chattels (R-TRT-007), an intentional intermeddling that caused actual harm,
+    measured by the cost of repair and the loss of use.
+  explanation_each_wrong_option:
+    A: >-
+      Overbroad. An unauthorized taking is not automatically conversion; a brief or minor interference is trespass to
+      chattels. Only a serious interference justifies a forced sale at full value.
+    B: >-
+      Damage supports conversion only when it is severe, such as destroying or substantially changing the chattel.
+      Minor, repairable damage is the actual harm that completes trespass to chattels.
+    C: >-
+      Wrong element. Conversion does not require an intent to keep the chattel permanently; a long joyride,
+      destruction or a refusal to return it on demand can be conversion. Intent to return is only one factor in
+      judging seriousness.
+  trap_type: overbroad
+  authority: ["Restatement (Second) of Torts §§ 217, 218, 222A"]
+  source: original
+  tags: [wave2, W2-TRT, intentional-torts, conversion, trespass-to-chattels]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-TRT-0054
+  subject: TRT
+  coverage_ids: [TRT-MBE-I.A, TRT-CBX-I.x1]
+  rule_ids: [R-TRT-005, R-TRT-001]
+  difficulty: 3
+  stem: >-
+    A building contractor, furious that a homeowner had posted a negative online review of his work, went to the
+    homeowner's house and found him on the front porch with his 16-year-old daughter. Seeing the daughter standing
+    beside her father, the contractor shoved the homeowner down the porch steps and kicked him repeatedly as he lay on
+    the walkway, breaking two of his ribs, while the daughter screamed at him to stop. The contractor never touched
+    the daughter, and she suffered no physical injury. For months afterward she had nightmares and panic attacks and
+    needed counseling. The daughter sues the contractor for intentional infliction of emotional distress.
+  call: "Is the daughter likely to prevail?"
+  options:
+    A: "No, because the contractor's outrageous conduct was directed at her father, and liability for intentional infliction of emotional distress runs only to the person at whom the conduct is aimed."
+    B: "Yes, because the contractor's outrageous conduct was directed at a member of her immediate family in her presence, and he knew she was there."
+    C: "Yes, because the contractor intended to commit a battery on her father, and under the transferred-intent doctrine that intent satisfies the intent element of her claim."
+    D: "No, because her emotional distress did not result in bodily harm."
+  answer: B
+  explanation_correct: >-
+    IIED (R-TRT-005) requires extreme and outrageous conduct, intent or recklessness, causation and severe emotional
+    distress. When the conduct is directed at a third person, the actor is liable to a member of that person's
+    immediate family who is present at the time, if the actor knows of her presence, whether or not the distress
+    causes bodily harm (R2d § 46(2)(a)). A savage beating of a father in front of his teenage daughter, whom the
+    contractor saw, is outrageous and at least reckless as to her distress, and months of nightmares and panic attacks
+    requiring counseling are severe distress.
+  explanation_each_wrong_option:
+    A: >-
+      Exception trap. The general rule that the conduct must be aimed at the plaintiff has a third-party exception for
+      immediate family members who are present, when the actor knows they are present.
+    C: >-
+      Confused rule. Transferred intent operates only among assault, battery, false imprisonment, trespass to land and
+      trespass to chattels; it does not carry battery intent into an IIED claim (R-TRT-001). The daughter recovers
+      under the IIED third-party rule, not by transfer.
+    D: >-
+      Bodily harm is required only for other persons present who are not immediate family members (R2d § 46(2)(b)). An
+      immediate family member need not show bodily harm.
+  trap_type: exception-trap
+  authority: ["Restatement (Second) of Torts § 46(2)"]
+  source: original
+  tags: [wave2, W2-TRT, intentional-torts, iied, third-party-iied]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-TRT-0055
+  subject: TRT
+  coverage_ids: [TRT-MBE-I.B.1]
+  rule_ids: [R-TRT-009, R-TRT-002, R-TRT-028]
+  difficulty: 1
+  stem: >-
+    At a community health fair, a sign over one table read "Free flu shots - line forms here." A woman who had come
+    for a free blood-pressure check joined that line by mistake because it was the shortest. When she reached the
+    front, a nurse holding a syringe asked, "Ready for your shot?" The woman, who was looking at her phone, said
+    "Sure," rolled up her sleeve and held out her arm. The nurse gave her a flu shot, which left her arm sore for two
+    days. The woman had not wanted a flu shot, and she sues the nurse for battery.
+  call: "Is the woman likely to prevail?"
+  options:
+    A: "Yes, because she did not actually consent to receiving a flu shot."
+    B: "Yes, because consent to a medical procedure is effective only if it is informed."
+    C: "No, because a sore arm for two days is not a harmful contact."
+    D: "No, because her words and conduct reasonably appeared to the nurse to be consent to the injection."
+  answer: D
+  explanation_correct: >-
+    Consent (R-TRT-009) may be apparent: words or conduct that a reasonable person would understand as consent are as
+    effective as actual consent. Standing in a line under a flu-shot sign, answering "Sure" to "Ready for your shot?",
+    rolling up her sleeve and holding out her arm would lead any reasonable nurse to believe she consented. Her
+    unexpressed contrary wish does not matter, so the injection was privileged.
+  explanation_each_wrong_option:
+    A: >-
+      Wrong standard. Consent is judged by its outward manifestation; apparent consent is effective even if the
+      plaintiff did not subjectively agree (R-TRT-009).
+    B: >-
+      Confused rule. Lack of informed consent concerns undisclosed risks and is ordinarily a negligence claim
+      (R-TRT-028). Battery requires the absence of consent to the contact itself, and here there was apparent consent
+      to the injection.
+    C: >-
+      Battery requires no lasting injury; an unconsented injection is a harmful or offensive contact, and nominal
+      damages are available (R-TRT-002). The claim fails because of consent, not for lack of harm.
+  trap_type: wrong-standard
+  authority: ["Restatement (Second) of Torts § 892(2)", "O'Brien v. Cunard S.S. Co., 154 Mass. 272 (1891)"]
+  source: original
+  tags: [wave2, W2-TRT, defenses, consent, apparent-consent]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-TRT-0056
+  subject: TRT
+  coverage_ids: [TRT-MBE-I.B.2.a]
+  rule_ids: [R-TRT-010]
+  difficulty: 1
+  stem: >-
+    In a crowded bar, a patron accidentally spilled a drink on a man of about the same size. The man grabbed the
+    patron's collar with one hand, raised his other, open hand as if to slap him, and shouted, "You're going to pay
+    for that." The patron had no reason to believe that the man was armed or meant to do more than slap him. The
+    patron pulled a folding knife from his pocket and stabbed the man in the forearm, causing a deep wound that
+    required surgery. The man sues the patron for battery, and the patron asserts self-defense.
+  call: "Is the patron likely to prevail on his claim of self-defense?"
+  options:
+    A: "No, because he used force likely to cause serious bodily harm to repel a threatened slap."
+    B: "Yes, because the man was the initial aggressor."
+    C: "Yes, because he reasonably believed that the man was about to strike him."
+    D: "No, because he was required to retreat before using any force."
+  answer: A
+  explanation_correct: >-
+    Self-defense (R-TRT-010) permits reasonable force against force the defendant reasonably believes is about to be
+    used against him, but the force must be proportionate. Deadly force, meaning force likely to cause death or
+    serious bodily harm, is privileged only against a reasonably perceived threat of death or serious bodily harm.
+    Stabbing with a knife is deadly force, and the patron faced, and reasonably perceived, only a slap. The privilege
+    does not cover the stabbing, so the patron is liable.
+  explanation_each_wrong_option:
+    B: >-
+      Being the aggressor exposes the man to reasonable defensive force, not to any force at all; proportionality
+      still applies (R-TRT-010).
+    C: >-
+      Missing element. A reasonable belief in an imminent attack is necessary but not sufficient; the force used must
+      also be proportionate to the threat.
+    D: >-
+      There is no duty to retreat before using nondeadly force, and the patron could have met the threatened slap with
+      reasonable nondeadly force. The privilege fails because the force was disproportionate, not because he failed to
+      retreat.
+  trap_type: missing-element
+  authority: ["Restatement (Second) of Torts §§ 63, 65"]
+  source: original
+  tags: [wave2, W2-TRT, defenses, self-defense, deadly-force]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-TRT-0057
+  subject: TRT
+  coverage_ids: [TRT-MBE-I.B.2.b]
+  rule_ids: [R-TRT-013, R-TRT-004]
+  difficulty: 2
+  stem: >-
+    A store security officer watched on a monitor as a shopper picked up a $90 pair of headphones, glanced around and
+    put them into her tote bag. A few minutes later the shopper walked toward the exit without stopping at a register.
+    The officer stopped her at the door, told her she could not leave until the matter was cleared up, and escorted
+    her, without touching her, to an office next to the exit. She let him look through her bag, and the headphones
+    were not there; a second camera later showed that she had taken them out and left them on another shelf. The
+    officer apologized and let her go about 15 minutes after he stopped her. The shopper sues the store for false
+    imprisonment.
+  call: "Is the shopper likely to prevail?"
+  options:
+    A: "Yes, because she had not taken any merchandise, and a merchant who detains an innocent customer does so at its own risk."
+    B: "No, because the store reasonably suspected theft and held her reasonably and briefly."
+    C: "No, because she consented to being detained when she let the officer search through her tote bag."
+    D: "Yes, because only a police officer may detain a person suspected of shoplifting."
+  answer: B
+  explanation_correct: >-
+    Under the shopkeeper's privilege (R-TRT-013), a merchant who reasonably believes a person has taken merchandise
+    may detain her on or near the premises, in a reasonable manner and for a reasonable time, to investigate. The
+    officer saw her put the headphones in her bag and head for the exit without paying, which supports a reasonable
+    belief. He used no force, held her next to the exit, and released her within 15 minutes, as soon as the
+    investigation cleared her. The privilege protects a reasonable mistake, so the detention, although a confinement
+    (R-TRT-004), was privileged.
+  explanation_each_wrong_option:
+    A: >-
+      Confused rule. One who recaptures a chattel acts at his own risk if he is mistaken about the wrongful taking,
+      but the shopkeeper's privilege protects a merchant's reasonable mistake (R-TRT-013).
+    C: >-
+      Allowing a bag search is not consent to being held. She was told she could not leave, so she was confined; the
+      store's defense is the privilege, not consent.
+    D: >-
+      Merchants have a recognized privilege of temporary detention for investigation; it is not limited to police
+      officers.
+  trap_type: confused-rule
+  authority: ["Restatement (Second) of Torts § 120A"]
+  source: original
+  tags: [wave2, W2-TRT, defenses, shopkeepers-privilege, false-imprisonment]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-TRT-0058
+  subject: TRT
+  coverage_ids: [TRT-MBE-I.B.2.c]
+  rule_ids: [R-TRT-014, R-TRT-074, R-TRT-002]
+  difficulty: 2
+  stem: >-
+    A 9-year-old boy deliberately hit his younger sister in the face with a metal toy truck, cutting her lip. His
+    mother, who had twice warned him that day to stop hitting his sister, took him by the arm and gave him two swats
+    on the bottom with her open hand. The swats caused momentary pain but left no bruise or other injury. Later,
+    during the parents' divorce, the boy's father, acting as his guardian ad litem, sued the mother on the boy's
+    behalf for battery. The jurisdiction has abolished parent-child tort immunity.
+  call: "Is the mother likely to be held liable?"
+  options:
+    A: "Yes, because the jurisdiction has abolished parent-child tort immunity."
+    B: "Yes, because she intentionally made a harmful contact with the boy."
+    C: "No, because the swats were reasonable parental discipline."
+    D: "No, because the boy suffered no physical injury."
+  answer: C
+  explanation_correct: >-
+    Parental discipline (R-TRT-014): a parent may use reasonable force, and impose reasonable confinement, that she
+    reasonably believes necessary for the child's proper control, training or education. Reasonableness turns on the
+    child's age, the nature of the misconduct, whether force was needed, and whether it was excessive or degrading.
+    Two open-hand swats that left no mark, given after a 9-year-old ignored warnings and injured his sister, fall
+    within the privilege, so the battery claim fails.
+  explanation_each_wrong_option:
+    A: >-
+      True but irrelevant. Abolishing immunity means a child may sue a parent; it does not remove the parent's
+      substantive privilege to discipline (R-TRT-074, R-TRT-014). The claim fails on the merits.
+    B: >-
+      The swats were an intended contact, but the privilege makes reasonable disciplinary force non-tortious. Only
+      excessive or malicious force is battery.
+    D: >-
+      Right result, wrong reason. Battery requires no physical injury; an intended harmful or offensive contact is
+      enough (R-TRT-002). The defense is the privilege.
+  trap_type: true-but-irrelevant
+  authority: ["Restatement (Second) of Torts §§ 147, 150"]
+  source: original
+  tags: [wave2, W2-TRT, defenses, parental-discipline]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-TRT-0059
+  subject: TRT
+  coverage_ids: [TRT-MBE-I.B.2.d]
+  rule_ids: [R-TRT-015, R-TRT-011, R-TRT-004]
+  difficulty: 3
+  stem: >-
+    A pharmacist saw a man in a gray hooded sweatshirt grab cash from the register of the coffee shop next door, shove
+    the cashier to the floor, and run out. About thirty seconds later, the pharmacist saw a man in a gray hooded
+    sweatshirt, of similar height and build, running down the sidewalk in the same direction. Reasonably believing he
+    was the robber, the pharmacist tackled him, using no more force than necessary, and held him on the ground until
+    police arrived ten minutes later. The man was a jogger who had nothing to do with the robbery; police caught the
+    actual robber an hour later. Robbery is a felony in the jurisdiction. The jogger sues the pharmacist for battery
+    and false imprisonment.
+  call: "Is the pharmacist likely to be held liable?"
+  options:
+    A: "Yes, because a private person who arrests the wrong person is liable, however reasonable his belief."
+    B: "No, because the pharmacist was acting in defense of the cashier."
+    C: "Yes, because a private person may not make an arrest without a warrant."
+    D: "No, because a felony had in fact been committed and the pharmacist reasonably believed that the jogger had committed it."
+  answer: D
+  explanation_correct: >-
+    Arrest privilege (R-TRT-015): a private person may arrest without a warrant for a felony if the felony has in fact
+    been committed and he reasonably believes the person arrested committed it, using reasonable force. The robbery
+    actually occurred; the pharmacist's belief that the jogger, who matched the robber's clothing and build and was
+    running from the scene seconds later, was the robber was reasonable; and he used only necessary force and promptly
+    turned the man over to the police. The privilege protects his reasonable mistake about identity.
+  explanation_each_wrong_option:
+    A: >-
+      Overbroad. A private person bears the risk that no felony was committed at all, but not the risk of a reasonable
+      mistake about who committed a felony that did occur.
+    B: >-
+      Defense of others requires a reasonable belief that the third person faces imminent harm (R-TRT-011). The robber
+      had already fled and the cashier was no longer threatened, so that privilege does not apply.
+    C: >-
+      Private persons may arrest without a warrant for a felony actually committed, and for a breach of the peace
+      committed in their presence; a warrant is not required.
+  trap_type: overbroad
+  authority: ["Restatement (Second) of Torts § 119"]
+  source: original
+  tags: [wave2, W2-TRT, defenses, arrest-privilege, mistake]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-TRT-0060
+  subject: TRT
+  coverage_ids: [TRT-MBE-I.B.2.e]
+  rule_ids: [R-TRT-016, R-TRT-017]
+  difficulty: 2
+  stem: >-
+    A wind-driven brush fire was racing toward a small town. Before firefighters arrived, a rancher who lived at the
+    edge of town drove his bulldozer onto his neighbor's property and knocked down the neighbor's wooden hay barn,
+    which stood in the fire's path next to a row of houses. The rancher reasonably believed that if the barn caught
+    fire, the fire would spread into the town. The fire stopped at the cleared ground, and the town was saved. The
+    barn and the hay in it were worth $60,000. The neighbor sues the rancher for that amount.
+  call: "What is the most likely result?"
+  options:
+    A: "The neighbor recovers nothing, because the rancher reasonably acted to avert an imminent public disaster."
+    B: "The neighbor recovers $60,000, because one who intentionally damages another's property to prevent harm must pay for the actual damage he causes."
+    C: "The neighbor recovers nothing, but only because the barn probably would have burned anyway."
+    D: "The neighbor recovers $60,000, because the public-necessity privilege is available only to public officials."
+  answer: A
+  explanation_correct: >-
+    Public necessity (R-TRT-016) is a complete privilege: a person who enters or destroys another's property when he
+    reasonably believes it necessary to avert an imminent public disaster, such as a fire spreading into a town, is
+    not liable for the damage under the majority rule. The privilege is not limited to officials. The rancher
+    reasonably believed that destroying the barn would save the town, so he owes nothing.
+  explanation_each_wrong_option:
+    B: >-
+      Confused rule. Paying for actual damage is the rule for private necessity, an incomplete privilege used to
+      protect oneself or a few people (R-TRT-017). Protecting a whole town is public necessity, which is complete.
+    C: >-
+      Right result, wrong reason. Public necessity bars liability whether or not the property would otherwise have
+      been destroyed; the outcome does not turn on that probability.
+    D: >-
+      Any person, not only a public official, may invoke public necessity when he reasonably believes the act
+      necessary to avert a public disaster.
+  trap_type: confused-rule
+  authority: ["Restatement (Second) of Torts §§ 196, 262", "Surocco v. Geary, 3 Cal. 69 (1853)"]
+  source: original
+  tags: [wave2, W2-TRT, defenses, necessity, public-necessity]
+  status: draft
+  last_verified: "2026-11-04"
