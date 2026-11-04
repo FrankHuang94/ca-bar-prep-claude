@@ -121,6 +121,9 @@ status: draft
 | Case | Area | Holding (one line) | Verification in Phase 0 |
 |---|---|---|---|
 | *Trump v. Slaughter* (2026) | Separation of powers: removal | Overrules *Humphrey's Executor*; the President may remove FTC commissioners at will. | Secondary |
+| *Trump v. Cook* (2026) | Separation of powers: removal | On a stay application (5–4), treated Federal Reserve governors' for-cause removal protection as valid; notice and hearing required. Interim posture. | Primary (CRS/LII, search) [S-315] [VERIFY V-201] |
+| *United States v. Hemani* (2026) | Second Amendment | 18 U.S.C. § 922(g)(3) unconstitutional as applied to a defendant prosecuted solely for occasional marijuana use. | Search [S-316] [S-317] [VERIFY V-202] |
+| *Mullin v. Doe* (2026) | Equal protection (discriminatory purpose) | Termination of Temporary Protected Status; equal-protection purpose analysis. | Search [VERIFY V-202] |
 | *Learning Resources, Inc. v. Trump* (2026) | Separation of powers (statutory) | IEEPA does not authorize the President to impose tariffs. | Primary (search) |
 | *Trump v. Barbara* (2026) | 14th Am. Citizenship Clause | The birthright-citizenship executive order is invalid; children born in the U.S. to unlawfully or temporarily present parents are citizens. | Primary (CRS, search) |
 | *Chiles v. Salazar* (2026) | Free speech | A conversion-therapy ban, as applied to talk therapy, regulates speech by viewpoint; strict scrutiny applies. | Secondary |
