@@ -12,20 +12,20 @@ status: draft
 
 `coverage-matrix.csv` defines what "complete" means for this repo. Every topic the exam can test is a row. Every row must point to the file and heading that teaches it. `scripts/validate.py` fails if any row is unmapped.
 
-## Where the rows come from (v1, Phase 0)
+## Where the rows come from (v1 Phase 0; v1.1 after Phase 3)
 
 | `source` | Meaning | Rows | Built from |
 |---|---|---|---|
 | `MBE` | NCBE MBE Subject Matter Outline: every category, topic and subtopic in NCBE's numbering | 387 | [S-040], reconstructed line by line via search (`research/phase0-ncbe-mbe-outline.csv`) |
 | `CBX` | State Bar essay outlines (the `CBX-Outline-*.pdf` "content maps") for all 13 subjects | 176 | [S-082]–[S-094], reconstructed via search (`research/phase0-calbar-essay-outlines.csv`) |
 | `SUP` | Author-added rows: California distinctions the scope statements require, and stand-ins for outline sections the search could not capture | 51 | Scope statements [S-082] [S-083] [S-084], plus Phase 0 gap list |
-| `PAST` | Issues from published California essays | 0 (Phase 3) | `06-past-exams/index.csv` |
+| `PAST` | Issues from published California essays (2012–2026) that no existing row covered | 2 | `06-past-exams/index.csv` (Phase 3: 166 essays, 410+ issue tags; all other issues mapped to existing rows) |
 
-Total **614 rows**. By verification status, **432** are `confirmed-primary` (search-quoted primary text) and **182** are `unconfirmed`.
+Total **616 rows**. By verification status, **434** are `confirmed-primary` (search-quoted primary text) and **182** are `unconfirmed`. Phase 3 tagged every published essay's issues to these rows; frequency by subject is in `06-past-exams/frequency-analysis.md`.
 
 | Subject | Code | Rows | Confirmed | Unconfirmed | CA-specific |
 |---|---|---|---|---|---|
-| Business Associations | BUS | 12 | 0 | 12 | 0 |
+| Business Associations | BUS | 13 | 1 | 12 | 0 |
 | Civil Procedure | CIV | 50 | 35 | 15 | 11 |
 | Community Property | CMP | 51 | 18 | 33 | 51 |
 | Constitutional Law | CON | 68 | 61 | 7 | 0 |
@@ -36,7 +36,7 @@ Total **614 rows**. By verification status, **432** are `confirmed-primary` (sea
 | Real Property | PRP | 104 | 97 | 7 | 0 |
 | Remedies | REM | 11 | 2 | 9 | 0 |
 | Torts | TRT | 49 | 42 | 7 | 0 |
-| Wills and Succession | WIL | 41 | 9 | 32 | 41 |
+| Wills and Succession | WIL | 42 | 10 | 32 | 42 |
 | Trusts | TRS | 18 | 3 | 15 | 18 |
 | Performance Test | PT | 2 | 1 | 1 | 0 |
 
@@ -73,4 +73,4 @@ Total **614 rows**. By verification status, **432** are `confirmed-primary` (sea
 - CBX rows are mostly paraphrased, and their `coverage_id`s stay provisional until the 13 outline PDFs are read directly [VERIFY V-024].
 - Ten outline sections were not captured at all. SUP rows stand in for them [VERIFY V-025].
 - The CBX outlines are undated. Whether they remain the official essay scope is unconfirmed, though nothing indicates they were withdrawn [VERIFY V-026].
-- Unmapped in v1 by design: `PAST` rows arrive in Phase 3.
+- `PAST` rows were added in Phase 3: `BUS-PAST-001` and `WIL-PAST-001`.
