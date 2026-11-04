@@ -546,7 +546,7 @@ status: draft
 
 **Exceptions / defenses:** Killings after the felon reaches temporary safety are outside the rule. Felony murder applies even to an unforeseeable heart attack in many courts if the felony caused it.
 
-**Authority:** *People v. Ireland* (1969) 70 Cal.2d 522; *People v. Chun* (2009) 45 Cal.4th 1172; *People v. Stamp* (1969) 2 Cal.App.3d 203.
+**Authority:** Common law (majority rule; the merger and in-furtherance limits are general doctrine tested on the MBE); California illustrations: *People v. Ireland* (1969) 70 Cal.2d 522; *People v. Chun* (2009) 45 Cal.4th 1172; *People v. Stamp* (1969) 2 Cal.App.3d 203.
 
 **MBE vs. CA essay:** Same rule.
 
