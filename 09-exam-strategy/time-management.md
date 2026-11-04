@@ -141,10 +141,19 @@ The PT is worth two essays [S-010], is the least dependent on memorized law, and
 - The study plan sets the frequency. When a weekend is lost, **move the PT block to the next free evening rather than skipping it.** Skip an essay before you skip a PT.
 - Do PTs on the same laptop and in Examplify-like conditions: one screen, no internet, paper File and Library if you can print them.
 
-### B4. Leave and the intensive phase
-- 35–45 h/week is not compatible with a full-time job, so the plan includes a **full-time study leave** for the intensive phase. The dates and status are under `leave:` in `config/plan.yml` and are decided with you in the Phase 2 study plan.
-- **Raise the leave with your employer early.** It is more likely to be granted when it is planned around deal timelines.
-- During leave, **keep a work-day rhythm**: start at the time the exam starts (seated 8:20 a.m. [S-003]), do 3-hour morning and afternoon blocks, and stop at a fixed hour. This trains you for exam-day timing.
+### B4. The intensive phase without study leave
+- Full-time leave is not possible, so the intensive phase (May–July 2027) runs at **35–40 h/week on top of your job**: **3–4 h every weekday + about 20 h across the weekend** (see `01-study-plan/master-plan.md` §3–4).
+- **Weekday evenings are for short, timed units:**
+  - one timed essay (60 min) + self-grading (30 min);
+  - one timed MBE set + review;
+  - a `/drill`.
+  Do not attempt new reading on a tired weekday evening; schedule it for weekend mornings.
+- **Weekends carry the long units:** full PTs, long timed MBE sets, second-pass reading, and the three full simulations (all on weekends).
+- **Use PTO surgically:**
+  - Mon–Thu July 26–29 (exam week): book it now.
+  - If possible, one or two days before each weekend simulation, and the Fridays of the last two weeks.
+  - Ask for light work weeks in July if your role allows.
+- **Rehearse exam timing on weekends:** at least once a month from May, start at 8:20 a.m. [S-003] and run 3-hour blocks.
 
 ### B5. Weekly time hygiene
 - **Track hours actually studied** (the dashboard counts attempts; a simple weekly total is enough for hours).

@@ -8,7 +8,7 @@ Run the weekly review for $ARGUMENTS (default: the current ISO week, `date +%G-W
 2. Compare **planned vs. done** for the week: hours (ask the user for actual hours if they weren't logged), MCQs, essays, PTs, drills, and subjects covered. Check cumulative volume and the **benchmark** for the current date.
 3. Decide for each benchmark: **go**, **adjust** or **escalate**.
    - **adjust:** rebalance next week.
-   - **escalate:** the plan itself needs to change, for example adding hours, moving the leave start or cutting scope. Propose the change and ask the user before editing `config/plan.yml`.
+   - **escalate:** the plan itself needs to change, for example adding PTO days, re-weighting weekends or cutting scope. Propose the change and ask the user before editing `config/plan.yml`.
 4. Write `10-progress/weekly-reviews/<week>.md` (front matter `subject: progress`) with:
    - wins;
    - misses and why;

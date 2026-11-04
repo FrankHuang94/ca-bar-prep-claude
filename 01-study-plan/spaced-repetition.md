@@ -16,7 +16,7 @@ status: draft
 
 | Loop | What | Tool | Cadence |
 |---|---|---|---|
-| 1. Flashcards | Rule fragments, elements, CA-vs-MBE splits, numbers (e.g. deadlines, thresholds) | Anki deck built by `python scripts/build_anki.py --include-rules` from `03-subjects/*/flashcards.csv` and `rule-statements.md` | **Daily**, 10–20 min (more on leave). Anki schedules the intervals. |
+| 1. Flashcards | Rule fragments, elements, CA-vs-MBE splits, numbers (e.g. deadlines, thresholds) | Anki deck built by `python scripts/build_anki.py --include-rules` from `03-subjects/*/flashcards.csv` and `rule-statements.md` | **Daily**, 10–20 min (20–30 min in the intensive phase). Anki schedules the intervals. |
 | 2. Rule drills | Full essay-ready rule statements typed from memory | `/drill <subject>` | Expanding intervals: §2 |
 | 3. Missed MBE questions | Questions you got wrong | `quiz.py pick` puts missed questions first once ≥ 2 days old | Automatic, inside every `/quiz` |
 | 4. Error log | Rules you missed on any item, with root cause | `10-progress/error-log.md` "Revisit on" column | +3, +7, +14 days after the miss |
@@ -37,7 +37,7 @@ When a rule is first learned (the week its subject is studied), drill it on day 
 
 ## 3. Anki settings (recommended)
 
-| Setting | Foundation (working) | On leave |
+| Setting | Foundation (10–12 h/week) | Intensive (35–38 h/week, working) |
 |---|---|---|
 | New cards per day | 15–20 | 30–40 |
 | Maximum reviews per day | No cap. Clear all due cards. | No cap |

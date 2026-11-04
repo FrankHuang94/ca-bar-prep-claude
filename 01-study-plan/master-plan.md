@@ -10,15 +10,21 @@ status: draft
 
 # Master study plan: Nov 9, 2026 → July 27, 2027
 
+> **Revised 2026-11-04 with your inputs:**
+> - Eligibility is settled: Route B, and Cardozo has confirmed it.
+> - The LL.M. ends May or June 2027.
+> - **There is no study leave.** You will study 3–4 h every weekday and about 20 h on weekends.
+> - The repo is built in the agreed phase order.
+
 **At a glance**
 
 | | |
 |---|---|
 | Duration | **38 weeks**: 2026-W46 to 2027-W30 |
-| Total study time | **≈ 755 hours** (sum of weekly targets) |
-| Practice | **≈ 2,170 MBE questions · 68 timed essays · 53 issue-spotting drills · 12 PTs · 3 full simulations** (justified in [practice-targets.md](practice-targets.md)) |
-| Leave | Study leave is needed: **full-time from Mon May 17, 2027 at the latest**. Request it by Feb 15, 2027 (§4). |
-| Key dates | MPRE Mar 23–24 · exam application timely by about Apr 1 · SIM-01 May 1–2 · SIM-02 Jun 15–16 · SIM-03 Jul 6–7 · **exam Jul 27–28** |
+| Total study time | **≈ 754 hours** (sum of weekly targets) |
+| Practice | **≈ 2,210 MBE questions · 75 timed essays · 52 issue-spotting drills · 12 PTs · 3 full simulations** (justified in [practice-targets.md](practice-targets.md)) |
+| Work | Full-time throughout. **No leave.** The intensive phase is **35–38 h/week**: weeknight evenings plus long weekends. **PTO Mon–Thu Jul 26–29** for exam week. |
+| Key dates | MPRE Mar 23–24 · exam application timely by about Apr 1 · SIM-01 Sat–Sun May 1–2 · SIM-02 Sat–Sun Jun 19–20 · SIM-03 Sat–Sun Jul 10–11 · **exam Jul 27–28** |
 
 The week-by-week source of truth is [`schedule.yml`](schedule.yml), rendered into `weeks/<ISO week>.md` by `python scripts/build_weeks.py`. To change the plan, edit `schedule.yml` and re-render with `--from <week>`. `/weekly-review` does this.
 
@@ -27,10 +33,10 @@ The week-by-week source of truth is [`schedule.yml`](schedule.yml), rendered int
 | Phase | Dates | Weeks | Hours/week | Focus |
 |---|---|---|---|---|
 | **Foundation** | Nov 9 – Mar 28 | 20 | 10–12 (finals week ≈ 6) | Learn the gap subjects in order: **Contracts → Civil Procedure → Constitutional Law → Criminal Law & Procedure**, then begin **Community Property**. MPRE in March. MBE practice and flashcards from week 1. Fall LL.M. subjects kept warm with MBE sets. |
-| **Integration** | Mar 29 – May 2 | 5 | 16–20 | Finish **Community Property**, learn **Remedies**, **PT method**, California-law passes of **Evidence, PR, Wills, Trusts** (all in your Fall LL.M.), Torts/Property essay refresh, **diagnostic SIM-01**. |
-| **Intensive** | May 3 – Jul 11 | 10 | 25 while working (W18–W19), then **40–44 on leave** | Second pass of all 13 subjects in pairs, daily timed MBE, 3–5 timed essays/week, 1 PT/week, memorization cycles, **SIM-02 (week −6)** and **SIM-03 (week −3)**. |
-| **Final review** | Jul 12 – Jul 25 | 2 | 30–35 | High-yield sets, attack outlines, light timed practice, logistics. |
-| Exam week | Jul 26 – 28 | 1 | — | Light review Monday; exam Tue–Wed; upload Thursday. |
+| **Integration** | Mar 29 – May 2 | 5 | 16–20 | Finish **Community Property**, learn **Remedies**, **PT method**, California-law passes of **Evidence, PR, Wills, Trusts**, Torts/Property essay refresh, **diagnostic SIM-01** (weekend). |
+| **Intensive** | May 3 – Jul 11 | 10 | **35–38 while working**: 3–4 h each weekday + ~20 h weekends | Second pass of all 13 subjects in pairs. **Weeknights:** timed essays and MBE sets. **Weekends:** PTs, long MBE sets, reading, and the simulations: **SIM-02 (week −6)** and **SIM-03 (week −3)**. |
+| **Final review** | Jul 12 – Jul 25 | 2 | 32–35 | SIM-03 review, high-yield sets, attack outlines, light timed practice, logistics. |
+| Exam week | Jul 26 – 29 (PTO) | 1 | — | Light review Monday; exam Tue–Wed; upload Thursday. |
 
 ```mermaid
 gantt
@@ -49,16 +55,16 @@ gantt
     Evidence + PR (CA law)            :i2, 2027-04-12, 2027-04-18
     Wills + Trusts                    :i3, 2027-04-19, 2027-04-25
     Torts/Property refresh + SIM-01   :i4, 2027-04-26, 2027-05-02
-    section Intensive
+    section Intensive (no leave)
     BA + diagnostic review            :n1, 2027-05-03, 2027-05-09
     2nd pass Contracts + Remedies     :n2, 2027-05-10, 2027-05-16
     2nd pass Civ Pro + Evidence       :n3, 2027-05-17, 2027-05-23
     2nd pass Con Law + Crim           :n4, 2027-05-24, 2027-05-30
     2nd pass CP + Wills + Trusts      :n5, 2027-05-31, 2027-06-06
     2nd pass Torts + Property + PR    :n6, 2027-06-07, 2027-06-13
-    SIM-02 + review                   :crit, n7, 2027-06-14, 2027-06-20
+    SIM-02 weekend (Jun 19-20)        :crit, n7, 2027-06-14, 2027-06-20
     3rd pass weak areas               :n8, 2027-06-21, 2027-07-04
-    SIM-03 + review                   :crit, n9, 2027-07-05, 2027-07-11
+    SIM-03 weekend (Jul 10-11)        :crit, n9, 2027-07-05, 2027-07-11
     section Final
     Final review                      :f1, 2027-07-12, 2027-07-25
     EXAM                              :crit, f2, 2027-07-27, 2027-07-28
@@ -66,110 +72,126 @@ gantt
 
 ## 2. Why the plan is shaped this way
 
-This follows your proposed four-phase design. Where I changed it, the reason is given.
+This follows your four-phase design. Changes and their reasons:
 
-1. **Gap subjects come first, in your order.** Contracts gets 5 weeks: it is the largest gap subject, carries the UCC overlay (about a quarter of Contracts MBE questions [S-040]), and is the most frequent crossover partner for Remedies. Civil Procedure gets 4 weeks; Con Law about 4; Crim 3.
-2. **The MPRE sits inside the foundation phase (W09–W12).** Your Fall PR course makes March the cheapest time to take it, and a passing MPRE is required before admission [S-065]. The cost is that Community Property starts in W11 instead of W09.
-3. **Fall LL.M. subjects are reinforced, not re-taught.** Evidence is in most foundation MBE sets while you take the course. PR flashcards start in W49 for the MPRE. Their **California-law** layer (CEC vs. FRE, CA Rules vs. ABA, Probate Code) comes in integration, once the courses are done.
-4. **Torts and Real Property** (completed courses, but 50 of the 175 scored MBE questions [S-007]) stay warm through MBE sets from W47 onward. They get an essay refresh in W17 and a full second pass in W23.
-5. **The intensive phase has a 2-week ramp (W18–W19 at 25 h)**, because 35–45 h/week is not realistic while working full-time. If you can start leave on May 3 (option A, §4), set those two weeks to 40 h.
-6. **Simulations:** SIM-01 is diagnostic, at the end of integration (a weekend, so no PTO is needed). SIM-02 is at **week −6** and SIM-03 at **week −3**, as you specified. Both run on a Tuesday–Wednesday with real start times, to rehearse the actual exam days.
-7. **Business Associations** gets its first essay-level pass in W18. You completed Corporations, and BA is essay-only, so it was the safest subject to defer.
+1. **Gap subjects first, in your order.**
+   - Contracts gets 5 weeks: it is the largest gap, carries the UCC overlay (about a quarter of Contracts MBE questions [S-040]), and is Remedies' most frequent crossover partner.
+   - Civil Procedure gets 4 weeks, Con Law about 4, Criminal Law & Procedure 3.
+2. **The MPRE sits inside the foundation phase (W09–W12).** Your Fall PR course makes March the cheapest time to take it, and a passing MPRE is required before admission [S-065].
+3. **Fall LL.M. subjects are reinforced, not re-taught.**
+   - Evidence is in most foundation MBE sets while you take the course.
+   - PR flashcards start in W49.
+   - The **California-law** layer of Evidence, PR, Wills and Trusts comes in integration.
+4. **Torts and Real Property** stay warm with MBE sets from W47; they are 50 of the 175 scored MBE questions [S-007]. A full second pass follows in W23.
+5. **No study leave, so the intensive phase is split by type of work.**
+   - **Weeknight evenings (3–4 h)** hold the short, timed units: one timed essay plus self-grading, one timed MBE set plus review, and rule drills. A tired brain can still do these well.
+   - **Weekends (about 10 h a day)** hold everything that needs long, fresh blocks: PTs, long MBE sets, second-pass reading, and all three full simulations.
+6. **Simulations run on weekends:**
+   - SIM-01 May 1–2 (diagnostic);
+   - **SIM-02 Jun 19–20 (week −6)**;
+   - **SIM-03 Jul 10–11 (week −3)**.
+
+   They use real start times (seated by 8:20 a.m. [S-003]). If you can spare two PTO days, SIM-03 can instead run Tue–Wed Jul 6–7 to rehearse real exam weekdays.
+7. **The foundation phase stays at 10–12 h/week**, as in your original brief. You now say you can do 3–4 h per weekday plus 20 h per weekend. **If that capacity is available now**, the foundation can be compressed and the second pass started earlier; tell me and I'll re-plan it.
 
 ## 3. Weekly rhythms
 
-**Foundation (working, about 11 h)**
+**Foundation (about 11 h)**
 | Day | Time | Blocks |
 |---|---|---|
-| Mon–Thu | ~75 min | 35 min learn (primer/outline + rule statements) · 30 min MBE mini-set (5–8 Qs) with review · 10 min Anki |
+| Mon–Thu | ~75 min | 35 min learn (primer/outline + rule statements) · 30 min MBE mini-set with review · 10 min Anki |
 | Fri | ~45 min | `/drill` on the week's rules |
 | Sat | ~3 h | 2 h learn block · 1 h essay or `/spot` · Anki |
-| Sun | ~3 h | Timed MBE set (15–20 Qs) + full review · `/weekly-review` (30 min) · Anki |
+| Sun | ~3 h | Timed MBE set + full review · `/weekly-review` (30 min) · Anki |
 
-**Integration (working, 16–20 h):** weekdays about 2 h (learn + MBE); weekends about 5 h each (essays, PT, longer MBE sets).
+**Integration (16–20 h):** weekdays about 2 h (learn + MBE); weekends about 5 h each (essays, PT, longer MBE sets).
 
-**Intensive while working (W18–W19, 25 h):** weekdays about 2.5 h; Saturday 7 h; Sunday 6 h.
-
-**Intensive on leave (40–44 h; Mon–Sat about 7 h, Sunday half day)**
+**Intensive while working (35–38 h): weeknight evening, about 3.5 h**
 | Time | Block |
 |---|---|
-| 08:00–09:15 | Timed MBE set (15–20 Qs at 1.8 min) + review of every miss |
-| 09:30–10:30 | Timed essay (real conditions) |
-| 10:30–11:15 | Self-grade against the model answer; log it; error-log entries |
-| 12:15–14:45 | Second-pass reading: outline + rule statements + `ca-distinctions.md` |
-| 15:00–15:45 | `/drill` and `/spot` |
-| 16:00–16:30 | Anki |
-| Saturday | PT (90 min) + review instead of the essay block |
-| Sunday | Rest until afternoon; Anki + `/weekly-review` |
+| 18:30–19:30 | Timed essay (60 min, real conditions) |
+| 19:30–20:00 | Self-grade against the model answer; log; error-log rows |
+| 20:15–21:15 | Timed MBE set (15–20 Qs at 1.8 min) + review of every miss |
+| 21:15–21:45 | `/drill` on the week's rules + Anki |
+| 22:00 | Stop. Protect 7+ hours of sleep. |
 
-**Final review (30–35 h):** mornings high-yield reading; midday a short timed MBE set; afternoons one essay or `/spot`; evenings memorization lists. Sleep is shifted to exam timing in W29.
+On Fridays, swap the essay for a lighter block if the week was heavy.
 
-## 4. Study leave: when and how long
+**Intensive weekend day (about 10 h)**
+| Time | Saturday | Sunday |
+|---|---|---|
+| 08:20–11:30 | Second-pass reading: outline + rule statements + `ca-distinctions.md` | Long timed MBE set (33–50 Qs) |
+| 11:30–12:30 | Review | Review of every miss |
+| 13:30–15:00 | **PT (90 min, timed)** | Second-pass reading |
+| 15:15–16:15 | PT self-grading | `/spot` ×2 + `/drill` |
+| 16:30–18:30 | Long timed MBE set + review | `/weekly-review` + attack-outline memorization |
 
-A 35–45 h/week intensive cannot coexist with a full-time job, so the plan **requires study leave**.
+Starting at 08:20 on weekends trains the exam-day start [S-003].
 
-| Option | Leave starts | Weeks off before exam | Effect on the plan | Recommendation |
-|---|---|---|---|---|
-| **A** | Mon May 3 (W18) | ≈ 12.3 | W18–W19 rise from 25 h to 40 h (≈ +30 h) | Best, if your employer allows it |
-| **B** | **Mon May 17 (W20)** | ≈ 10.3 | As scheduled: 2-week ramp at 25 h while working | **Baseline / minimum** |
-| C | Tue Jun 1 | ≈ 8 | W20–W21 at 25 h instead of 40–42 (≈ −32 h, including Memorial Day week) | Not recommended for your applicant category (first-time pass rate 12.9% in Jul 2026, 18.8% in Jul 2025 [S-012] [S-014]) |
+**Final review (32–35 h):**
+- weeknights: short timed MBE set and must-know lists;
+- weekends: high-yield reading, one essay or `/spot`, attack outlines;
+- W29: shift your sleep toward exam timing.
 
-- **Action:** decide by **Feb 15, 2027** and request the leave from your employer. That date is also in `config/plan.yml` admissions.
-- Separately, plan PTO for the MPRE (Tue–Wed Mar 23–24) if the testing time conflicts with work.
+## 4. Making 35–40 h/week work without leave
+
+This is the hardest part of the plan: for 10 weeks you will carry roughly **80+ hours a week of work plus study**.
+
+- **Use PTO surgically, since leave isn't available:**
+  - **Required:** Mon–Thu **Jul 26–29** (exam week). Book it in May.
+  - **Valuable if available:**
+    - Fri Jun 18 (often a Juneteenth holiday) and Fri Jul 9, to rest before each weekend simulation;
+    - Fri Jul 23, the Examplify mock deadline and last Friday;
+    - two days for a weekday SIM-03 (§2.6).
+  - **Ask for a lighter workload in July** if your role allows it, even without leave.
+- **Cut order when work spikes.** Drop items in this order: (1) the 5th weekly essay, (2) MBE questions above 80 in that week, (3) weekend reading. **Never cut the PT or a simulation.** Log what you cut; `/weekly-review` reflows it.
+- **Sustainability rules:**
+  - 7+ hours of sleep;
+  - one lighter evening a week;
+  - short exercise most days;
+  - stop at 22:00 on weeknights.
+
+  Warning signs and responses are in `09-exam-strategy/mindset-and-fatigue.md`. Two consecutive weeks more than 20% under target trigger an **escalate** review ([practice-targets.md](practice-targets.md) §4).
+- **Retakes.** You've said you're willing to sit more than once. The plan still aims to pass on the first attempt. **Feb 2028 is the only retake in this format**; from July 2028 the exam is the NextGen UBE [S-020].
 
 ## 5. LL.M. and MPRE alignment
-- **Fall 2026 (T&E, Evidence, PR, Family Law):** the plan assumes finals around **W51** (Dec 14–20) and cuts bar time to 6 h that week. **Family Law** is not a General Bar Exam subject, so it gets no bar time; it will matter only for a future California component (from July 2029 at the earliest [S-005]).
-- **Final LL.M. term (2027): dates unknown.** If it runs through the integration phase (Mar 29 – May 2), the integration hours (16–20) are at risk. Tell me the term dates and I'll rebalance in `schedule.yml`. The transcript deadline (about July 13) is in [admissions-checklist.md](../00-exam-intel/admissions-checklist.md).
-- **MPRE (Mar 23–24):** register by **Jan 21**. Prep is 2 h in W09, 3 h in W10 and 5 h in W11, built on your Fall PR course. California requires a scaled 86 [S-065].
+- **Fall 2026** (T&E, Evidence, PR, Family Law): the plan assumes finals around **W51** (Dec 14–20) and cuts bar time to 6 h that week. **Family Law** is not a General Bar Exam subject.
+- **Final LL.M. term** (ends May or June 2027) overlaps integration and the start of the intensive phase.
+  - The hours here are **bar-study hours on top of LL.M. coursework**.
+  - If coursework spikes in April–June, use the cut order in §4. Tell me the term's courses and I'll align them (e.g., if a course matches a bar subject).
+  - Ask Cardozo when the final transcript issues; it must **arrive** at the State Bar by about Jul 13 ([admissions-checklist.md](../00-exam-intel/admissions-checklist.md)).
+- **MPRE (Mar 23–24):** register by **Jan 21**. Prep is 2 h in W09, 3 h in W10 and 5 h in W11. California requires a scaled 86 [S-065]. The test is on a weekday, so plan PTO if needed.
 
-## 6. Repo build must stay ahead of the schedule
-
-This repo is your primary source, so each subject's files must exist before you study it:
-
-| Subject | First study week | Needed by | Repo phase |
-|---|---|---|---|
-| Contracts | W46 | **now** | Phase 4, group 1 |
-| Civil Procedure | W52 | Dec 21 | Phase 4, group 1 |
-| Constitutional Law | W04 | Jan 25 | Phase 4, group 1 |
-| Criminal Law & Procedure | W08 | Feb 22 | Phase 4, group 1 |
-| Community Property | W11 | Mar 15 | Phase 4, group 2 |
-| Remedies | W14 | Apr 5 | Phase 4, group 2 |
-| Evidence, PR | W15 | Apr 12 | Phase 4, group 3 |
-| Wills, Trusts | W16 | Apr 19 | Phase 4, group 3 |
-| Torts, Real Property | W17 | Apr 26 | Phase 4, group 4 |
-| Business Associations | W18 | May 3 | Phase 4, group 4 |
-| MBE question bank | W46 (Evidence, Contracts) | ongoing | Phase 5 |
-
-- **Gap:** Contracts starts this week, but its repo files come in Phase 4, after Phase 3 (past exams).
-- **Until then:** read the primary texts (Restatement (Second) of Contracts, UCC Article 2), and use **licensed NCBE practice questions** for MBE sets, logged with `quiz.py log --source official`. Licensed NCBE questions remain the best calibration for real MBE difficulty throughout.
+## 6. Repo build status
+You are building the whole repo now, in the agreed phase order, so each subject's files should exist before its study week. If a file is missing when you reach it, study from the primary texts (FRCP, FRE, Restatements, UCC Article 2, California codes) and flag it. Licensed NCBE practice questions remain the best calibration for real MBE difficulty throughout. Log them with `quiz.py log --source official`.
 
 ## 7. Risks and buffers
 
 | Risk | Buffer / response |
 |---|---|
-| Work travel or crunch weeks | Buffer weeks W51–W53 and W05. Add blackout dates to `config/plan.yml`; `/weekly-review` reflows the schedule. |
+| Fatigue from 80+ h/week (work + study) in May–July | §4 sustainability rules; lighter Friday evenings; cut order; PTO around simulations if possible |
+| Work crunch or travel weeks | Buffer weeks W51–W53 and W05 in the foundation. In the intensive phase, use the cut order and add blackouts to `config/plan.yml`; `/weekly-review` reflows the schedule. |
+| LL.M. final term overlaps integration and the early intensive phase | Cut order; tell me the courses so the plan can align |
+| Transcript arrives late (V-015) | Ask Cardozo now; ask the State Bar about conditional clearance if the degree posts late [S-057] |
 | Falling behind a checkpoint | Go / adjust / escalate rules in [practice-targets.md](practice-targets.md) §4 |
-| Eligibility problem (V-012, V-014, V-015) | Resolve by CP1 (Jan 31). If July 2027 is impossible, the same plan shifts about 7 months to **Feb 2028**, the last exam in the current format [S-027]. |
-| Repo content lags the schedule (§6) | Use primary texts and licensed questions temporarily; escalate the build order with me. |
-| Burnout | One half day off every week; Sundays light on leave; see `09-exam-strategy/mindset-and-fatigue.md` |
-| Illness during intensive | W25–W26 are third-pass weeks that can absorb up to one lost week. |
+| Illness in May–July | W25–W26 are third-pass weeks that can absorb up to one lost week |
 
 ## 8. Assumptions to confirm (tell me and I'll rebalance)
-1. Leave start date: option A, B or C (§4).
-2. Fall LL.M. finals week (assumed **W51**) and the **2027 final-term dates and courses**.
-3. Realistic weekday and weekend hours. The plan assumes about 75 min on weekdays and 3 h per weekend day in the foundation phase.
-4. Known work travel, holidays or family commitments, including Lunar New Year (Sat Feb 6, 2027) and Christmas.
-5. Whether you will buy licensed NCBE MBE practice questions. This is strongly recommended; see §6.
+1. **Does the 3–4 h/weekday + 20 h/weekend capacity apply now, or only from May?** The plan assumes from May; foundation and integration keep your original 10–20 h.
+2. Fall LL.M. finals week (assumed **W51**) and the 2027 final-term courses and dates.
+3. Known work travel, holidays or family commitments (Lunar New Year is Sat Feb 6, 2027).
+4. Whether you will buy licensed NCBE MBE practice questions (strongly recommended).
+5. Which PTO days in §4 you can actually take.
 
 ## 9. Checkpoints (summary)
 
 | ID | Date | MBE accuracy (last 200) | Written average | Admin gate |
 |---|---|---|---|---|
-| CP1 | Jan 31 | ≥ 50% | ≥ 55 | Eligibility determination requested; MPRE registered |
+| CP1 | Jan 31 | ≥ 50% | ≥ 55 | Registered as general applicant; credential evaluation ordered; MPRE registered |
 | CP2 | Mar 28 | ≥ 56% | ≥ 58 | MPRE taken; moral character filed; application drafted |
-| CP3 | May 2 (SIM-01) | ≥ 60% | ≥ 60 | Application filed; leave confirmed |
-| CP4 | Jun 20 (SIM-02) | ≥ 65% | ≥ 63 | Transcript or CGS mailing plan set |
-| CP5 | Jul 11 (SIM-03) | ≥ 68% | ≥ 65 | Examplify mock exam done |
+| CP3 | May 2 (SIM-01) | ≥ 60% | ≥ 60 | Application filed; Cardozo transcript date known; exam-week PTO requested |
+| CP4 | Jun 20 (SIM-02) | ≥ 65% | ≥ 63 | Transcript mailing confirmed for June |
+| CP5 | Jul 11 (SIM-03) | ≥ 68% | ≥ 65 | Transcript received; Examplify mock exam done |
 
 Rationale and the go / adjust / escalate rules are in [practice-targets.md](practice-targets.md).
 
@@ -202,19 +224,19 @@ Rationale and the go / adjust / escalate rules are in [practice-targets.md](prac
 | [2027-W15](weeks/2027-W15.md) | Apr 12 | integration | 17 | Evidence (CA vs FRE) + Professional Responsibility (CA vs ABA) | 60 | 2 | 0 | 710 / 11 / 1 |
 | [2027-W16](weeks/2027-W16.md) | Apr 19 | integration | 18 | Wills & Succession + Trusts (California Probate Code) | 60 | 2 | 1 | 770 / 13 / 2 |
 | [2027-W17](weeks/2027-W17.md) | Apr 26 | integration | 20 | Torts + Real Property essay refresh; DIAGNOSTIC SIMULATION #1 (Sat–Sun May 1–2) — CHECKPOINT 3 **CP3** | 200 | 5 | 1 | 970 / 18 / 3 |
-| [2027-W18](weeks/2027-W18.md) | May 03 | intensive | 25 | Diagnostic review + Business Associations (still working) | 60 | 3 | 0 | 1030 / 21 / 3 |
-| [2027-W19](weeks/2027-W19.md) | May 10 | intensive | 25 | Second pass: Contracts + Remedies (last working week before leave) | 60 | 3 | 1 | 1090 / 24 / 4 |
-| [2027-W20](weeks/2027-W20.md) | May 17 | intensive | 40 | STUDY LEAVE BEGINS (proposed) — second pass: Civil Procedure + Evidence | 100 | 4 | 1 | 1190 / 28 / 5 |
-| [2027-W21](weeks/2027-W21.md) | May 24 | intensive | 42 | Second pass: Constitutional Law + Criminal Law & Procedure | 100 | 5 | 1 | 1290 / 33 / 6 |
-| [2027-W22](weeks/2027-W22.md) | May 31 | intensive | 40 | Second pass: Community Property + Wills + Trusts (California trio) | 80 | 5 | 1 | 1370 / 38 / 7 |
-| [2027-W23](weeks/2027-W23.md) | Jun 07 | intensive | 42 | Second pass: Torts + Real Property + Professional Responsibility | 100 | 5 | 1 | 1470 / 43 / 8 |
-| [2027-W24](weeks/2027-W24.md) | Jun 14 | intensive | 42 | SIMULATION #2 (Tue–Wed Jun 15–16, week −6) — CHECKPOINT 4 **CP4** | 200 | 5 | 1 | 1670 / 48 / 9 |
-| [2027-W25](weeks/2027-W25.md) | Jun 21 | intensive | 42 | Third pass: weakest subjects (from SIM-02) + crossovers | 100 | 5 | 1 | 1770 / 53 / 10 |
-| [2027-W26](weeks/2027-W26.md) | Jun 28 | intensive | 42 | Third pass continued + full memorization cycle | 100 | 5 | 1 | 1870 / 58 / 11 |
-| [2027-W27](weeks/2027-W27.md) | Jul 05 | intensive | 40 | SIMULATION #3 (Tue–Wed Jul 6–7, week −3) — CHECKPOINT 5 **CP5** | 200 | 5 | 1 | 2070 / 63 / 12 |
-| [2027-W28](weeks/2027-W28.md) | Jul 12 | final-review | 35 | Final review 1: high-yield + attack outlines | 60 | 3 | 0 | 2130 / 66 / 12 |
-| [2027-W29](weeks/2027-W29.md) | Jul 19 | final-review | 30 | Final review 2: final-2-weeks-review set; taper | 40 | 2 | 0 | 2170 / 68 / 12 |
-| [2027-W30](weeks/2027-W30.md) | Jul 26 | exam | 4 | EXAM WEEK — Tue–Wed Jul 27–28 | 0 | 0 | 0 | 2170 / 68 / 12 |
+| [2027-W18](weeks/2027-W18.md) | May 03 | intensive | 36 | Diagnostic review + Business Associations | 80 | 4 | 0 | 1050 / 22 / 3 |
+| [2027-W19](weeks/2027-W19.md) | May 10 | intensive | 37 | Second pass: Contracts + Remedies | 90 | 4 | 1 | 1140 / 26 / 4 |
+| [2027-W20](weeks/2027-W20.md) | May 17 | intensive | 38 | Second pass: Civil Procedure + Evidence | 100 | 5 | 1 | 1240 / 31 / 5 |
+| [2027-W21](weeks/2027-W21.md) | May 24 | intensive | 38 | Second pass: Constitutional Law + Criminal Law & Procedure | 100 | 5 | 1 | 1340 / 36 / 6 |
+| [2027-W22](weeks/2027-W22.md) | May 31 | intensive | 38 | Second pass: Community Property + Wills + Trusts (California trio) | 90 | 5 | 1 | 1430 / 41 / 7 |
+| [2027-W23](weeks/2027-W23.md) | Jun 07 | intensive | 38 | Second pass: Torts + Real Property + Professional Responsibility | 100 | 5 | 1 | 1530 / 46 / 8 |
+| [2027-W24](weeks/2027-W24.md) | Jun 14 | intensive | 38 | SIMULATION #2 (Sat–Sun Jun 19–20, week −6) — CHECKPOINT 4 **CP4** | 200 | 8 | 1 | 1730 / 54 / 9 |
+| [2027-W25](weeks/2027-W25.md) | Jun 21 | intensive | 38 | SIM-02 review + third pass on weakest subjects | 90 | 4 | 1 | 1820 / 58 / 10 |
+| [2027-W26](weeks/2027-W26.md) | Jun 28 | intensive | 38 | Third pass continued + full memorization cycle | 90 | 5 | 1 | 1910 / 63 / 11 |
+| [2027-W27](weeks/2027-W27.md) | Jul 05 | intensive | 38 | SIMULATION #3 (Sat–Sun Jul 10–11, week −3) — CHECKPOINT 5 **CP5** | 200 | 7 | 1 | 2110 / 70 / 12 |
+| [2027-W28](weeks/2027-W28.md) | Jul 12 | final-review | 35 | SIM-03 review + final review 1: high-yield + attack outlines | 60 | 3 | 0 | 2170 / 73 / 12 |
+| [2027-W29](weeks/2027-W29.md) | Jul 19 | final-review | 32 | Final review 2: final-2-weeks-review set; taper | 40 | 2 | 0 | 2210 / 75 / 12 |
+| [2027-W30](weeks/2027-W30.md) | Jul 26 | exam | 4 | EXAM WEEK — Tue–Wed Jul 27–28 (PTO Mon–Thu) | 0 | 0 | 0 | 2210 / 75 / 12 |
 
-**Totals:** 755 hours · 2170 MBE questions · 68 essays (incl. simulations) · 12 PTs · 53 issue-spotting drills.
+**Totals:** 754 hours · 2210 MBE questions · 75 essays (incl. simulations) · 12 PTs · 52 issue-spotting drills.
 <!-- END WEEK-TABLE -->
