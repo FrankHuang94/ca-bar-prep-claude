@@ -11,7 +11,7 @@
 | 0 — Exam intelligence | ✅ Done | `00-exam-intel/` written. Coverage matrix v1: 614 rows. 36 items in VERIFY-QUEUE. |
 | 1 — Scaffold and tooling | ✅ Done | Structure, CLAUDE.md, config, schemas, 7 scripts, 22 tests, 11 slash commands, CI. Validation passes. |
 | 2 — Foundations, strategy, study plan | ✅ **Done (awaiting review)** | 02-foundations (5 files, 475-term glossary), MBE/essay/PT strategy, 38-week plan; VERIFY V-040–V-060 |
-| 3 — Past exams | ⏳ Next | Archive covers Feb 2012 → July 2026 [S-079] |
+| 3 — Past exams | 🔄 In progress | Archive covers Feb 2012 → July 2026 [S-079] |
 | 4 — Subject content | ☐ | Groups: (1) CTR CIV CON CRM · (2) CMP REM · (3) EVD PRF WIL TRS · (4) TRT PRP BUS |
 | 5 — Question bank | ☐ | |
 | 6 — High-yield and memorization | ☐ | |
@@ -61,13 +61,12 @@
   - `practice-targets.md` totals recomputed; `time-management.md` B4 rewritten.
 
 ## Decisions waiting on the user
-1. **Capacity timing.** Does the 3–4 h/weekday + 20 h/weekend capacity apply **now** (foundation) or only from May? The plan currently assumes from May.
+1. ~~Capacity timing~~ **Answered:** the capacity applies from December. The plan is re-built at ≈ 1,200 h: first pass of all 13 subjects by Mar 28, SIM-01 on Apr 10–11, ≈ 3,140 MBE · 109 essays · 17 PTs · 74 `/spot` drills. Licensed questions are bought as needed.
 2. **Transcript timing (V-015).** Ask Cardozo when the final transcript issues after the May/June term. It must arrive at the State Bar by about Jul 13.
 3. **Plan assumptions** (`master-plan.md` §8):
    - Fall finals week (assumed W51);
    - 2027 LL.M. courses;
    - travel and blackouts;
-   - whether you'll buy licensed NCBE practice questions;
    - which optional PTO days are possible.
 4. **Network access.** Still blocked (calbar.ca.gov, ncbex.org, leginfo, courts.ca.gov, law.cornell.edu, supremecourt.gov, uscourts.gov, americanbar.org).
 

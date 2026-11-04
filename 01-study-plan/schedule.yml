@@ -52,216 +52,217 @@ weeks:
   pt: {n: 0}
   notes: "Thanksgiving Thu–Fri: extra hours available; keep Friday as an optional catch-up block."
 
+# ---- From December the user's capacity is 3–4 h every weekday + ~20 h on weekends (35–40 h/week).
+# ---- The plan uses 30–35 h/week in Dec–Mar (leaving room for LL.M. coursework) to finish the FIRST PASS of all 13 subjects by end of March.
 - week: 2026-W49
   phase: foundation
-  hours: 11
-  theme: "Contracts IV: performance, breach, discharge"
+  hours: 30
+  theme: "Contracts IV–VI: performance, breach, discharge, remedies, third parties (capacity ramps up)"
   learn:
-    - "Contracts IV: conditions, substantial performance, divisibility, anticipatory repudiation, adequate assurance, impossibility/impracticability/frustration, discharge, UCC perfect tender and cure [CTR-MBE-IV]"
-  reinforce: ["Evidence (LL.M.): MBE set", "PR (LL.M.): start PR flashcards for the March MPRE"]
-  mbe: {n: 25, mix: {CTR: 15, EVD: 5, TRT: 5}}
-  essays: {n: 0}
-  spot: 0
+    - "Contracts IV: conditions, substantial performance, anticipatory repudiation, adequate assurance, impossibility/impracticability/frustration, discharge, UCC perfect tender and cure [CTR-MBE-IV]"
+    - "Contracts V remedies (expectation, consequential, reliance, restitution, liquidated damages, mitigation, specific performance, UCC remedies) and VI third-party rights [CTR-MBE-V, CTR-MBE-VI]"
+  reinforce: ["Read 09-exam-strategy/essay-method before the first essay", "PR (LL.M.): start PR flashcards for the March MPRE"]
+  mbe: {n: 60, mix: {CTR: 40, EVD: 10, TRT: 10}}
+  essays: {n: 2, subjects: [CTR, CTR], mode: untimed}
+  spot: 1
   pt: {n: 0}
+  notes: "First essays are open-book and untimed: practise IRAC structure, not speed."
 
 - week: 2026-W50
   phase: foundation
-  hours: 10
-  theme: "Contracts V–VI: remedies and third-party rights; first essay"
+  hours: 32
+  theme: "Civil Procedure I–II: jurisdiction, venue, Erie; first timed Contracts essay"
   learn:
-    - "Contracts V remedies: expectation, consequential, reliance, restitution, liquidated damages, mitigation, specific performance, UCC buyer/seller remedies [CTR-MBE-V]"
-    - "Contracts VI third-party beneficiaries, assignment and delegation [CTR-MBE-VI]"
-  reinforce: ["Read 09-exam-strategy/essay-method before the essay"]
-  mbe: {n: 25, mix: {CTR: 20, EVD: 5}}
-  essays: {n: 1, subjects: [CTR], mode: untimed}
-  spot: 0
+    - "Civil Procedure I subject-matter jurisdiction, personal jurisdiction, service, venue, transfer [CIV-MBE-I]"
+    - "Civil Procedure II law applied by federal courts (Erie) [CIV-MBE-II]"
+  reinforce: ["Contracts rule drill", "Evidence (LL.M.) MBE set"]
+  mbe: {n: 70, mix: {CIV: 30, CTR: 25, EVD: 15}}
+  essays: {n: 2, subjects: [CTR, CIV], mode: timed}
+  spot: 2
   pt: {n: 0}
-  notes: "First essay is open-book and untimed: practise IRAC structure, not speed."
 
 - week: 2026-W51
   phase: foundation
-  hours: 6
+  hours: 15
   theme: "LL.M. finals week (assumed) — maintenance only"
-  learn: ["Contracts: re-read attack outline and rule statements; no new material"]
-  reinforce: ["Anki/rule drills only"]
-  mbe: {n: 15, mix: {CTR: 15}}
+  learn: ["Civil Procedure I–II: rule statements and flashcards; no new material"]
+  reinforce: ["Anki and rule drills"]
+  mbe: {n: 30, mix: {CIV: 15, CTR: 15}}
   essays: {n: 0}
-  spot: 0
+  spot: 1
   pt: {n: 0}
   buffer: true
-  notes: "ASSUMPTION: Fall LL.M. exams fall around this week. If not, move the Civ Pro start here."
+  notes: "ASSUMPTION: Fall LL.M. exams fall around this week. If not, raise to 30 h and pull W52 forward."
 
 - week: 2026-W52
   phase: foundation
-  hours: 12
-  theme: "Holiday week: Contracts timed essay + Civil Procedure I begins"
-  learn: ["Civil Procedure I.A federal subject-matter jurisdiction: federal question, diversity, supplemental, removal [CIV-MBE-I.A]"]
-  reinforce: ["Contracts: timed essay", "Mixed set across studied subjects"]
-  mbe: {n: 30, mix: {CIV: 10, CTR: 10, TRT: 5, PRP: 5}}
+  hours: 28
+  theme: "Civil Procedure III–IV: pleadings, joinder, discovery, PI/TRO, jury (holiday week)"
+  learn: ["Civil Procedure III pretrial procedures and IV jury trials [CIV-MBE-III, CIV-MBE-IV]"]
+  reinforce: ["Contracts mixed set"]
+  mbe: {n: 60, mix: {CIV: 30, CTR: 20, TRT: 10}}
   essays: {n: 1, subjects: [CTR], mode: timed}
-  spot: 1
+  spot: 2
   pt: {n: 0}
   buffer: true
-  notes: "Christmas Eve/Day: plan the hours around family time; this is also a catch-up buffer."
+  notes: "Christmas Eve/Day: hours flex around family time."
 
 - week: 2026-W53
   phase: foundation
-  hours: 12
-  theme: "Civil Procedure I: personal jurisdiction, service, venue, transfer"
-  learn: ["Civil Procedure I.B–I.D personal jurisdiction, service and notice, venue, forum non conveniens, transfer [CIV-MBE-I]"]
-  reinforce: ["Contracts rule drill"]
-  mbe: {n: 30, mix: {CIV: 15, CTR: 10, EVD: 5}}
-  essays: {n: 0}
-  spot: 1
+  hours: 28
+  theme: "Civil Procedure V–VII + California CCP distinctions (holiday week)"
+  learn:
+    - "Civil Procedure V motions, VI judgments and preclusion, VII appealability [CIV-MBE-V, CIV-MBE-VI, CIV-MBE-VII]"
+    - "California CCP distinctions: demurrer, motion to strike, anti-SLAPP, cross-complaints, initial disclosures, summary judgment timing, primary rights [CIV-SUP]"
+  reinforce: ["Evidence mixed set"]
+  mbe: {n: 60, mix: {CIV: 35, EVD: 15, PRP: 10}}
+  essays: {n: 2, subjects: [CIV, CIV], mode: timed}
+  spot: 2
   pt: {n: 0}
   buffer: true
-  notes: "New Year's Eve/Day: catch-up buffer."
 
 # ------------------------------------------------------------------------------ 2027
 - week: 2027-W01
   phase: foundation
-  hours: 11
-  theme: "Civil Procedure II–III (part 1): Erie, pleadings, Rule 11, joinder, class actions"
+  hours: 35
+  theme: "Constitutional Law I–III: judicial review, separation of powers, federalism"
   learn:
-    - "Civil Procedure II law applied by federal courts (Erie) [CIV-MBE-II]"
-    - "Civil Procedure III.B–D pleadings and amendment, Rule 11, joinder of claims and parties, class actions [CIV-MBE-III]"
-  reinforce: ["Contracts mixed set"]
-  mbe: {n: 30, mix: {CIV: 15, CTR: 10, TRT: 5}}
-  essays: {n: 0}
-  spot: 1
+    - "Constitutional Law I justiciability; II separation of powers; III intergovernmental immunities, dormant commerce clause, preemption [CON-MBE-I, CON-MBE-II, CON-MBE-III]"
+  reinforce: ["Civil Procedure drill", "Contracts mixed set"]
+  mbe: {n: 80, mix: {CON: 30, CIV: 25, CTR: 25}}
+  essays: {n: 2, subjects: [CIV, CTR], mode: timed}
+  spot: 2
   pt: {n: 0}
 
 - week: 2027-W02
   phase: foundation
-  hours: 11
-  theme: "Civil Procedure III (part 2)–IV: discovery, summary judgment, PI/TRO, jury"
-  learn:
-    - "Civil Procedure III.A, E–G: preliminary injunctions/TROs, discovery and sanctions, adjudication without trial, pretrial conference [CIV-MBE-III]"
-    - "Civil Procedure IV jury trials [CIV-MBE-IV]"
-  reinforce: ["Evidence mixed set (keep LL.M. material warm)"]
-  mbe: {n: 30, mix: {CIV: 15, EVD: 10, PRP: 5}}
-  essays: {n: 0}
-  spot: 1
+  hours: 35
+  theme: "Constitutional Law IV: individual rights (due process, equal protection, takings, First Amendment)"
+  learn: ["Constitutional Law IV state action, due process, equal protection, takings, contracts clause, First Amendment [CON-MBE-IV]"]
+  reinforce: ["Torts mixed set (completed course)"]
+  mbe: {n: 80, mix: {CON: 40, TRT: 20, CIV: 20}}
+  essays: {n: 2, subjects: [CON, CON], mode: timed}
+  spot: 2
   pt: {n: 0}
 
 - week: 2027-W03
   phase: foundation
-  hours: 12
-  theme: "Civil Procedure V–VII + California CCP distinctions; Civ Pro essay"
-  learn:
-    - "Civil Procedure V motions, VI verdicts/judgments incl. claim and issue preclusion, VII appealability [CIV-MBE-V, CIV-MBE-VI, CIV-MBE-VII]"
-    - "California CCP distinctions: demurrer, motion to strike, anti-SLAPP, cross-complaints, initial disclosures on demand, summary judgment timing, primary rights [CIV-SUP]"
-  reinforce: ["Contracts drill"]
-  mbe: {n: 30, mix: {CIV: 20, CTR: 10}}
-  essays: {n: 1, subjects: [CIV], mode: timed}
-  spot: 1
+  hours: 35
+  theme: "Criminal Law I–IV: homicide, other crimes, inchoate crimes, defenses"
+  learn: ["Criminal Law I–IV: homicide, theft and other crimes, inchoate crimes and parties, mens rea/actus reus, causation, defenses [CRM-MBE-I to IV]"]
+  reinforce: ["Constitutional Law drill"]
+  mbe: {n: 80, mix: {CRM: 35, CON: 25, PRP: 20}}
+  essays: {n: 2, subjects: [CRM, CTR], mode: timed}
+  spot: 2
   pt: {n: 0}
   notes: "MLK Day Monday: extra block available."
 
 - week: 2027-W04
   phase: foundation
-  hours: 11
-  theme: "Constitutional Law I–II: judicial review, justiciability, separation of powers — CHECKPOINT 1"
-  learn:
-    - "Constitutional Law I nature of judicial review: case or controversy, standing, ripeness, mootness, political question, Eleventh Amendment [CON-MBE-I]"
-    - "Constitutional Law II separation of powers: congressional powers, presidential powers, interbranch relations [CON-MBE-II]"
-  reinforce: ["Civil Procedure drill"]
-  mbe: {n: 30, mix: {CON: 10, CIV: 10, CTR: 10}}
-  essays: {n: 1, subjects: [CTR], mode: timed}
-  spot: 1
+  hours: 35
+  theme: "Criminal Procedure: Fourth, Fifth and Sixth Amendments — CHECKPOINT 1"
+  learn: ["Criminal Procedure V: searches and seizures, exclusionary rule, Miranda, confessions, identifications, right to counsel, jury trial, double jeopardy [CRM-MBE-V]"]
+  reinforce: ["Civil Procedure mixed set"]
+  mbe: {n: 80, mix: {CRM: 40, CIV: 20, EVD: 20}}
+  essays: {n: 2, subjects: [CRM, CIV], mode: timed}
+  spot: 2
   pt: {n: 0}
   checkpoint: CP1
 
 - week: 2027-W05
   phase: foundation
-  hours: 9
-  theme: "Constitutional Law III: federalism"
-  learn: ["Constitutional Law III intergovernmental immunities, dormant commerce clause, privileges and immunities, preemption [CON-MBE-III]"]
-  reinforce: ["Civil Procedure mixed set"]
-  mbe: {n: 25, mix: {CON: 10, CIV: 10, EVD: 5}}
-  essays: {n: 0}
-  spot: 1
+  hours: 28
+  theme: "Community Property I–II: characterization, presumptions, transmutation, tracing, apportionment"
+  learn: ["Community Property: definitions, presumptions, transmutation, commingling and tracing, Pereira/Van Camp, Moore/Marsden-type apportionment, credit acquisitions [CMP-CBX-I, CMP-CBX-II, CMP-SUP]"]
+  reinforce: ["Criminal Law/Procedure mixed set"]
+  mbe: {n: 70, mix: {CRM: 25, CON: 25, CTR: 20}}
+  essays: {n: 2, subjects: [CMP, CRM], mode: timed}
+  spot: 2
   pt: {n: 0}
   buffer: true
   notes: "Lunar New Year (Sat Feb 6): lighter weekend."
 
 - week: 2027-W06
   phase: foundation
-  hours: 11
-  theme: "Constitutional Law IV (part 1): state action, due process, equal protection, takings"
-  learn: ["Constitutional Law IV.A–E state action, procedural and substantive due process, equal protection, takings, other protections [CON-MBE-IV]"]
-  reinforce: ["Torts mixed set"]
-  mbe: {n: 30, mix: {CON: 15, TRT: 10, CTR: 5}}
-  essays: {n: 0}
-  spot: 1
+  hours: 35
+  theme: "Community Property III–VII: management, separation, division, death, debts, putative spouses"
+  learn: ["Community Property: management and control, date of separation, division at dissolution and at death, debts, reimbursements, quasi-community property, putative spouses [CMP-CBX-III to VII, CMP-SUP]"]
+  reinforce: ["Evidence mixed set"]
+  mbe: {n: 80, mix: {EVD: 30, CIV: 25, TRT: 25}}
+  essays: {n: 2, subjects: [CMP, CMP], mode: timed}
+  spot: 2
   pt: {n: 0}
 
 - week: 2027-W07
   phase: foundation
-  hours: 12
-  theme: "Constitutional Law IV (part 2): First Amendment; Con Law essay"
-  learn: ["Constitutional Law IV.F freedom of religion, speech (content-based/neutral, unprotected speech, forums, prior restraint, vagueness/overbreadth), press, association [CON-MBE-IV]"]
-  reinforce: ["Civil Procedure drill"]
-  mbe: {n: 30, mix: {CON: 20, CIV: 10}}
-  essays: {n: 1, subjects: [CON], mode: timed}
-  spot: 1
-  pt: {n: 0}
+  hours: 35
+  theme: "Remedies + Performance Test method"
+  learn:
+    - "Remedies: legal vs equitable remedies, damages, restitution, injunctions (TRO/PI/permanent), specific performance, rescission/reformation, equitable defenses [REM-CBX, REM-SUP]"
+    - "Performance Test: 04-performance-test/method.md and task-types/"
+  reinforce: ["Contracts + Remedies crossover practice"]
+  mbe: {n: 80, mix: {CTR: 30, PRP: 25, CON: 25}}
+  essays: {n: 2, subjects: [REM, XO], mode: timed}
+  spot: 2
+  pt: {n: 1, mode: untimed}
   notes: "Presidents' Day Monday: extra block available."
 
 - week: 2027-W08
   phase: foundation
-  hours: 11
-  theme: "Criminal Law I–IV: homicide, other crimes, inchoate crimes, general principles"
-  learn: ["Criminal Law I–IV: homicide, theft and other crimes, inchoate crimes and parties, mens rea/actus reus, causation, defenses [CRM-MBE-I to IV]"]
-  reinforce: ["Constitutional Law mixed set"]
-  mbe: {n: 35, mix: {CRM: 15, CON: 10, PRP: 10}}
-  essays: {n: 0}
-  spot: 1
+  hours: 35
+  theme: "Evidence: full pass (FRE for the MBE + California Evidence Code distinctions)"
+  learn: ["Evidence I–V (presentation, relevance/character, privileges, writings, hearsay) + CEC vs FRE distinctions and Truth-in-Evidence [EVD-MBE, EVD-SUP, EVD-CBX]"]
+  reinforce: ["Criminal Procedure drill (Evidence + Crim Pro crossovers)"]
+  mbe: {n: 90, mix: {EVD: 45, CRM: 25, CIV: 20}}
+  essays: {n: 2, subjects: [EVD, EVD], mode: timed}
+  spot: 2
   pt: {n: 0}
 
 - week: 2027-W09
   phase: foundation
-  hours: 11
-  theme: "Criminal Procedure: Fourth Amendment; MPRE prep begins"
-  learn: ["Criminal Procedure V: Fourth Amendment searches and seizures, warrants and exceptions, exclusionary rule [CRM-MBE-V]"]
-  reinforce: ["MPRE: 2 h (Professional Responsibility course material + ABA Model Rules)"]
-  mbe: {n: 35, mix: {CRM: 15, CTR: 10, EVD: 10}}
-  essays: {n: 0}
-  spot: 1
+  hours: 35
+  theme: "Professional Responsibility (California Rules + B&P vs ABA) + MPRE prep"
+  learn: ["Professional Responsibility: California Rules of Professional Conduct and Bus. & Prof. Code vs ABA Model Rules [PRF-CBX, PRF-SUP]"]
+  reinforce: ["MPRE: 6 h (ABA Model Rules emphasis)"]
+  mbe: {n: 80, mix: {EVD: 25, CTR: 30, TRT: 25}}
+  essays: {n: 2, subjects: [PRF, XO], mode: timed}
+  spot: 2
   pt: {n: 0}
-  notes: "Around Mar 1: the July 2027 exam application should open (estimate). Moral character application should be filed by about now."
+  notes: "Around Mar 1: the July 2027 exam application should open (estimate). File the moral character application by now."
 
 - week: 2027-W10
   phase: foundation
-  hours: 12
-  theme: "Criminal Procedure: Fifth and Sixth Amendments; Crim essay; MPRE prep"
-  learn: ["Criminal Procedure V: Miranda, confessions, identifications, right to counsel, jury trial, double jeopardy, Confrontation Clause basics [CRM-MBE-V]"]
-  reinforce: ["MPRE: 3 h"]
-  mbe: {n: 35, mix: {CRM: 20, CON: 10, CIV: 5}}
-  essays: {n: 1, subjects: [CRM], mode: timed}
-  spot: 1
-  pt: {n: 0}
+  hours: 35
+  theme: "Wills & Succession + Trusts (California Probate Code); MPRE prep"
+  learn:
+    - "Wills and Succession: intestacy, execution, revocation, components, changes after execution, omitted heirs [WIL-CBX, WIL-SUP]"
+    - "Trusts: creation, revocability (California default), modification/termination, trustee duties, remedies [TRS-CBX, TRS-SUP]"
+  reinforce: ["MPRE: 4 h", "Community Property drill (CP + Wills crossovers are common)"]
+  mbe: {n: 80, mix: {CIV: 25, CON: 30, CRM: 25}}
+  essays: {n: 2, subjects: [WIL, TRS], mode: timed}
+  spot: 2
+  pt: {n: 1, mode: timed}
 
 - week: 2027-W11
   phase: foundation
-  hours: 12
-  theme: "MPRE intensive + Community Property begins"
-  learn: ["Community Property: definitions, general presumptions, characterization basics [CMP-CBX-I, CMP-CBX-II]"]
-  reinforce: ["MPRE: 5 h, including a full timed practice set"]
-  mbe: {n: 30, mix: {CRM: 10, CTR: 10, CIV: 10}}
-  essays: {n: 0}
-  spot: 1
+  hours: 35
+  theme: "Torts: full pass (MBE + California rules); MPRE practice exam"
+  learn: ["Torts I–IV: intentional torts, negligence, strict and products liability, other torts + California rules (pure comparative fault, Prop 51, bystander NIED) [TRT-MBE, TRT-CBX]"]
+  reinforce: ["MPRE: 6 h incl. a full timed practice set"]
+  mbe: {n: 80, mix: {TRT: 45, EVD: 15, CTR: 20}}
+  essays: {n: 2, subjects: [TRT, XO], mode: timed}
+  spot: 2
   pt: {n: 0}
 
 - week: 2027-W12
   phase: foundation
-  hours: 12
-  theme: "MPRE (Tue–Wed Mar 23–24) + Community Property characterization — CHECKPOINT 2"
-  learn: ["Community Property: transmutation, commingling and tracing, Pereira/Van Camp, credit acquisitions, reimbursement [CMP-CBX-II]"]
-  reinforce: ["MPRE exam Mar 23–24 (take PTO if needed)"]
-  mbe: {n: 25, mix: {CON: 10, CIV: 10, CTR: 5}}
-  essays: {n: 1, subjects: [CIV], mode: timed}
-  spot: 0
+  hours: 30
+  theme: "MPRE (Tue–Wed Mar 23–24) + Real Property begins — CHECKPOINT 2"
+  learn: ["Real Property I–II: estates and future interests, concurrent ownership, landlord-tenant, servitudes, fixtures, zoning [PRP-MBE-I, PRP-MBE-II]"]
+  reinforce: ["MPRE exam Mar 23–24 (plan PTO if the test time conflicts with work)"]
+  mbe: {n: 60, mix: {PRP: 30, TRT: 15, CON: 15}}
+  essays: {n: 1, subjects: [PRP], mode: timed}
+  spot: 1
   pt: {n: 0}
   checkpoint: CP2
   overrides: {Tue: "MPRE (registered by Jan 21)", Wed: "MPRE window day / rest"}
@@ -269,68 +270,64 @@ weeks:
 # --------------------------------------------------------------- INTEGRATION (Mar 29 – May 2, 2027)
 - week: 2027-W13
   phase: integration
-  hours: 16
-  theme: "Community Property (finish) + CP essay; FILE THE EXAM APPLICATION"
-  learn: ["Community Property: management and control, separation, division at dissolution and at death, debts, putative spouses [CMP-CBX-III to VII, CMP-SUP]"]
-  reinforce: ["Contracts + Civ Pro mixed sets"]
-  mbe: {n: 50, mix: {CTR: 15, CIV: 15, CON: 10, CRM: 10}}
-  essays: {n: 1, subjects: [CMP], mode: timed}
+  hours: 36
+  theme: "Real Property (finish) + Business Associations: FIRST PASS COMPLETE; FILE THE EXAM APPLICATION"
+  learn:
+    - "Real Property III–V: real estate contracts, mortgages, titles and recording [PRP-MBE-III to V]"
+    - "Business Associations: agency, partnerships, LLCs, corporations (formation, veil piercing, duties, BJR, derivative suits, securities) [BUS-CBX]"
+  reinforce: ["Timely filing deadline about Thu Apr 1 (estimate): choose laptop + San Diego-area site"]
+  mbe: {n: 100, mix: {PRP: 45, MIX: 55}}
+  essays: {n: 3, subjects: [PRP, BUS, BUS], mode: timed}
   spot: 2
-  pt: {n: 0}
-  notes: "Timely filing deadline about Thu Apr 1 (estimate): choose laptop + San Diego-area site."
+  pt: {n: 1, mode: timed}
 
 - week: 2027-W14
   phase: integration
-  hours: 16
-  theme: "Remedies + Performance Test method"
-  learn:
-    - "Remedies: legal vs equitable remedies, damages, restitution, injunctions (TRO/PI/permanent), specific performance, rescission/reformation, equitable defenses [REM-CBX, REM-SUP]"
-    - "Performance Test: 04-performance-test/method.md and task-types/"
-  reinforce: ["Torts + Real Property mixed sets"]
-  mbe: {n: 50, mix: {TRT: 15, PRP: 15, EVD: 10, CTR: 10}}
-  essays: {n: 1, subjects: [REM], mode: timed}
-  spot: 2
-  pt: {n: 1, mode: untimed}
+  hours: 36
+  theme: "DIAGNOSTIC SIMULATION #1 (Sat–Sun Apr 10–11)"
+  learn: ["Mon–Wed evenings: mixed weak-area review; Thu–Fri light before the simulation"]
+  reinforce: ["Crossover essays on weeknights"]
+  mbe: {n: 200, mix: {MIX: 200}}
+  essays: {n: 7, subjects: [MIX], mode: simulation}
+  spot: 1
+  pt: {n: 1, mode: simulation}
+  sim: {id: SIM-01, days: [Sat, Sun]}
+  overrides: {Mon: "Evening: timed crossover essay → `/essay crossover`", Tue: "Evening: timed essay (weakest so far) → `/essay`", Wed: "Evening: 30 MBE timed + review", Thu: "Light: `/drill` + Anki; early night", Fri: "Light: Anki only; pack laptop; early night", Sat: "SIM-01 Day 1: Essays 1–3 (3 h) + Essays 4–5 and PT (3.5 h)", Sun: "SIM-01 Day 2: MBE 100 + 100 (two 3-hour sessions)"}
+  notes: "The 2 weekday essays plus the 5 simulation essays make this week's count 7."
 
 - week: 2027-W15
   phase: integration
-  hours: 17
-  theme: "Evidence (CA vs FRE) + Professional Responsibility (CA vs ABA)"
-  learn:
-    - "Evidence: California Evidence Code vs FRE distinctions, Truth-in-Evidence, hearsay exceptions comparison [EVD-SUP, EVD-CBX]"
-    - "Professional Responsibility: California Rules of Professional Conduct + Bus. & Prof. Code vs ABA Model Rules [PRF-CBX, PRF-SUP]"
-  reinforce: ["Evidence MBE set"]
-  mbe: {n: 60, mix: {EVD: 20, CON: 15, CRM: 15, CIV: 10}}
-  essays: {n: 2, subjects: [EVD, PRF], mode: timed}
-  spot: 2
-  pt: {n: 0}
+  hours: 36
+  theme: "SIM-01 review + second pass on the two weakest subjects"
+  learn: ["Mon–Tue evenings: full SIM-01 review (/simulate scoring, /weak-spots)", "Second pass on the two weakest subjects from SIM-01"]
+  reinforce: ["Evidence + Criminal Procedure crossovers"]
+  mbe: {n: 100, mix: {MIX: 100}}
+  essays: {n: 4, subjects: [WEAK, WEAK, XO, XO], mode: timed}
+  spot: 3
+  pt: {n: 1, mode: timed}
 
 - week: 2027-W16
   phase: integration
-  hours: 18
-  theme: "Wills & Succession + Trusts (California Probate Code)"
-  learn:
-    - "Wills and Succession: intestacy, execution, revocation, components, changes after execution, omitted heirs [WIL-CBX, WIL-SUP]"
-    - "Trusts: creation, revocability (California default), modification/termination, trustee duties, remedies [TRS-CBX, TRS-SUP]"
-  reinforce: ["Community Property drill (CP + Wills crossovers are common)"]
-  mbe: {n: 60, mix: {PRP: 15, TRT: 15, CTR: 15, EVD: 15}}
-  essays: {n: 2, subjects: [WIL, TRS], mode: timed}
-  spot: 2
+  hours: 36
+  theme: "Crossover month: Contracts + Remedies, Wills/Trusts + Community Property, PR + anything"
+  learn: ["Crossover organization: 08-high-yield/crossover-guide (when built) and essay-method §crossovers; second pass on the California trio"]
+  reinforce: ["Memorization: Contracts, Remedies, CP, Wills, Trusts attack outlines"]
+  mbe: {n: 100, mix: {MIX: 100}}
+  essays: {n: 4, subjects: [XO, XO, CMP, WIL], mode: timed}
+  spot: 3
   pt: {n: 1, mode: timed}
 
 - week: 2027-W17
   phase: integration
-  hours: 20
-  theme: "Torts + Real Property essay refresh; DIAGNOSTIC SIMULATION #1 (Sat–Sun May 1–2) — CHECKPOINT 3"
-  learn: ["Torts and Real Property: essay-level refresh of the LL.M. material (negligence, products, defamation; estates, landlord-tenant, servitudes, mortgages) [TRT-MBE, PRP-MBE]"]
+  hours: 36
+  theme: "Second pass: weakest subjects + Torts/Property essays — CHECKPOINT 3"
+  learn: ["Second pass on the next two weakest subjects; Torts and Real Property essay technique"]
   reinforce: ["Book PTO for exam week (Mon Jul 26 – Thu Jul 29); ask for a light workload in July if your role allows"]
-  mbe: {n: 200, mix: {MIX: 200}}
-  essays: {n: 5, subjects: [MIX], mode: simulation}
-  spot: 0
-  pt: {n: 1, mode: simulation}
-  sim: {id: SIM-01, days: [Sat, Sun]}
+  mbe: {n: 100, mix: {TRT: 30, PRP: 30, MIX: 40}}
+  essays: {n: 4, subjects: [TRT, PRP, WEAK, XO], mode: timed}
+  spot: 3
+  pt: {n: 1, mode: timed}
   checkpoint: CP3
-  overrides: {Sat: "SIM-01 Day 1: Essays 1–3 (3 h) + Essays 4–5 and PT (3.5 h)", Sun: "SIM-01 Day 2: MBE 100 + 100 (two 3-hour sessions)"}
 
 # ------------------------------------------------------------------ INTENSIVE (May 3 – Jul 11, 2027)
 # No study leave: 3–4 h every weekday evening + ~20 h across the weekend (35–40 h/week) while working full-time.
@@ -338,15 +335,13 @@ weeks:
 - week: 2027-W18
   phase: intensive
   hours: 36
-  theme: "Diagnostic review + Business Associations"
-  learn:
-    - "SIM-01 review (Mon–Tue evenings): run /weak-spots; re-rank subjects for the second pass"
-    - "Business Associations: agency, partnerships, LLCs, corporations (formation, veil piercing, duties, BJR, derivative suits, securities) [BUS-CBX]"
-  reinforce: ["Weakest MBE subject from SIM-01"]
-  mbe: {n: 80, mix: {MIX: 80}}
-  essays: {n: 4, subjects: [BUS, TRT, PRP, BUS], mode: timed}
+  theme: "Second pass: Business Associations + Professional Responsibility"
+  learn: ["Second pass Business Associations and Professional Responsibility (PR + anything crossovers) [BUS-CBX, PRF-CBX, PRF-SUP]"]
+  reinforce: ["Memorization cycle: BA and PR attack outlines"]
+  mbe: {n: 100, mix: {MIX: 100}}
+  essays: {n: 4, subjects: [BUS, PRF, XO, BUS], mode: timed}
   spot: 2
-  pt: {n: 0}
+  pt: {n: 1, mode: timed}
   notes: "LL.M. final term may still be running (ends May/June): if coursework spikes, cut the 4th essay first, never the PT."
 
 - week: 2027-W19
@@ -397,11 +392,11 @@ weeks:
 - week: 2027-W23
   phase: intensive
   hours: 38
-  theme: "Second pass: Torts + Real Property + Professional Responsibility"
-  learn: ["Second pass Torts, Real Property, Professional Responsibility (PR + anything crossovers) [TRT-MBE, PRP-MBE, PRF-CBX]"]
-  reinforce: ["Memorization cycle: Torts, Property, PR"]
+  theme: "Second pass: Torts + Real Property"
+  learn: ["Second pass Torts and Real Property (largest MBE pair: 50 of 175 scored) [TRT-MBE, PRP-MBE]"]
+  reinforce: ["Memorization cycle: Torts and Property"]
   mbe: {n: 100, mix: {TRT: 35, PRP: 35, MIX: 30}}
-  essays: {n: 5, subjects: [TRT, PRP, PRF, XO, BUS], mode: timed}
+  essays: {n: 5, subjects: [TRT, PRP, XO, TRT, PRP], mode: timed}
   spot: 3
   pt: {n: 1, mode: timed}
 

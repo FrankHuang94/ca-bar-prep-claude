@@ -21,14 +21,14 @@ phases:
     start: 2026-11-09
     end: 2027-03-28
     weeks: 20
-    hours_per_week: [10, 12]                # finals week ~6 h; holiday weeks ~12 h
-    focus: "Gap subjects in study order (Contracts, Civ Pro, Con Law, Crim), then Community Property; MPRE in March; reinforce Fall LL.M. courses with MBE sets; daily flashcards"
+    hours_per_week: [10, 35]                # Nov 10–12 h; from Dec 30–35 h (user capacity 35–40; margin for LL.M. coursework); finals week 15 h
+    focus: "FIRST PASS of all 13 subjects by Mar 28: Contracts, Civ Pro, Con Law, Crim (Nov–Jan), Community Property, Remedies, Evidence, PR, Wills, Trusts, Torts, Real Property (Feb–Mar); MPRE in March; daily MBE + flashcards"
   - id: integration
     start: 2027-03-29
     end: 2027-05-02
     weeks: 5
-    hours_per_week: [15, 20]
-    focus: "Community Property finish, Remedies, CA-law passes of Evidence/PR/Wills/Trusts, Torts and Property refresh, PT method, diagnostic SIM-01"
+    hours_per_week: [36, 36]
+    focus: "Finish Real Property + Business Associations; diagnostic SIM-01 (Apr 10–11); second pass on weakest subjects; crossover month; PTs weekly"
   - id: intensive
     start: 2027-05-03
     end: 2027-07-11
@@ -48,8 +48,8 @@ phases:
     hours_per_week: [4, 4]
     focus: "Exam week"
 
-weekly_template:                            # foundation default (10–12 h/week); /today scales it to the week's target
-                                            # intensive/final (no leave): weekdays 3–4 h each, ~10 h each weekend day (user capacity, 2026-11-04)
+weekly_template:                            # November default (10–12 h/week); /today scales it to the week's target
+                                            # from December (user capacity, confirmed 2026-11-04): weekdays 3–4 h each, ~10 h each weekend day
   mon: 1.25
   tue: 1.25
   wed: 1.25
@@ -105,21 +105,21 @@ admissions:                                 # from 00-exam-intel/admissions-chec
   - {date: 2027-07-29, task: "Answer upload deadline, noon PT (est)"}
 
 targets:                                    # cumulative, matching 01-study-plan/schedule.yml (justified in practice-targets.md)
-  final: {mcq: 2210, essays: 75, pts: 12, simulations: 3, spot: 52}
+  final: {mcq: 3140, essays: 109, pts: 17, simulations: 3, spot: 74}
   cumulative:                               # dashboard interpolates linearly between checkpoints
     - {date: 2026-11-09, mcq: 0, essays: 0, pts: 0, simulations: 0}
-    - {date: 2027-01-31, mcq: 305, essays: 4, pts: 0, simulations: 0}      # CP1
-    - {date: 2027-03-28, mcq: 550, essays: 7, pts: 0, simulations: 0}      # CP2
-    - {date: 2027-05-02, mcq: 970, essays: 18, pts: 3, simulations: 1}     # CP3 (SIM-01, Sat–Sun May 1–2)
-    - {date: 2027-06-20, mcq: 1730, essays: 54, pts: 9, simulations: 2}    # CP4 (SIM-02, Sat–Sun Jun 19–20)
-    - {date: 2027-07-11, mcq: 2110, essays: 70, pts: 12, simulations: 3}   # CP5 (SIM-03, Sat–Sun Jul 10–11)
-    - {date: 2027-07-26, mcq: 2210, essays: 75, pts: 12, simulations: 3}
+    - {date: 2027-01-31, mcq: 660, essays: 15, pts: 0, simulations: 0}     # CP1
+    - {date: 2027-03-28, mcq: 1280, essays: 30, pts: 2, simulations: 0}    # CP2 (first pass complete)
+    - {date: 2027-05-02, mcq: 1880, essays: 52, pts: 7, simulations: 1}    # CP3 (SIM-01 Apr 10–11)
+    - {date: 2027-06-20, mcq: 2660, essays: 88, pts: 14, simulations: 2}   # CP4 (SIM-02 Jun 19–20)
+    - {date: 2027-07-11, mcq: 3040, essays: 104, pts: 17, simulations: 3}  # CP5 (SIM-03 Jul 10–11)
+    - {date: 2027-07-26, mcq: 3140, essays: 109, pts: 17, simulations: 3}
 
 benchmarks:                                 # go / adjust / escalate rules in 01-study-plan/practice-targets.md §4
   - {id: CP1, by: 2027-01-31, mbe_accuracy: 0.50, essay_avg: 55}
-  - {id: CP2, by: 2027-03-28, mbe_accuracy: 0.56, essay_avg: 58}
-  - {id: CP3, by: 2027-05-02, mbe_accuracy: 0.60, essay_avg: 60}
-  - {id: CP4, by: 2027-06-20, mbe_accuracy: 0.65, essay_avg: 63}
+  - {id: CP2, by: 2027-03-28, mbe_accuracy: 0.58, essay_avg: 60}
+  - {id: CP3, by: 2027-05-02, mbe_accuracy: 0.62, essay_avg: 62}
+  - {id: CP4, by: 2027-06-20, mbe_accuracy: 0.66, essay_avg: 64}
   - {id: CP5, by: 2027-07-11, mbe_accuracy: 0.68, essay_avg: 65}
 
 question_bank_targets:
