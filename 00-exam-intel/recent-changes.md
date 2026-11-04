@@ -113,6 +113,9 @@ status: draft
 | *Kuciemba v. Victory Woodworks* (2023) | Torts (duty) | Employers owe no duty to prevent take-home COVID-19 transmission to employees' household members (policy factors); workers' comp exclusivity does not bar the spouse's claim. | [VERIFY V-036] |
 | *People v. Lynch* (2024) 16 Cal.5th 730 | Crim Pro (sentencing) | Aggravating facts used for an upper term (other than prior convictions) must be found by the jury beyond a reasonable doubt or admitted. | [S-133] |
 
+**California criminal statutes**
+- **Proposition 36 (Nov 2024; effective Dec 18, 2024):** permits aggregating multiple thefts to reach the grand-theft threshold, and felony charging of repeat petty theft (Pen. Code §§ 490.3, 666.1) [S-362] [S-363] [VERIFY V-257]. Exam impact: low; essays use general theft law.
+
 ## 9. U.S. Supreme Court decisions (Con Law, Crim Pro, Civ Pro, Evidence)
 
 > **Status warning.** The October 2025 term rows below come from web-search results. About half were confirmed only through secondary sources such as law-firm alerts and SCOTUSblog. Every holding must be checked against the slip opinion on supremecourt.gov **before** it is written into a subject outline [VERIFY V-034]. The October 2022–2024 term holdings are listed from model knowledge and were **not** re-checked in Phase 0 [VERIFY V-035].
@@ -138,6 +141,8 @@ status: draft
 | *Villarreal v. Texas* (2026) | Sixth Amendment (counsel) | A court may bar counsel from discussing the defendant's ongoing testimony during an overnight recess if other consultation is allowed. | Primary (search) |
 | *Pitts v. Mississippi* (2025) | Confrontation | Screening a child witness requires a case-specific finding of necessity. | Single secondary |
 | *Ellingburg v. United States* (2026) | Ex Post Facto | MVRA restitution is criminal punishment. | Primary (CRS, search) |
+| *Barrett v. United States* (2026) | Double jeopardy / multiple punishment | Congress did not authorize convictions under both 18 U.S.C. § 924(c)(1)(A)(i) and § 924(j) for the same conduct. | Primary (search) [S-350] [VERIFY V-255] |
+| *Hunter v. United States* (2026) | Guilty pleas / appeal waivers | A judge's oral statement at sentencing that the defendant could appeal did not undo a written appeal waiver modifiable only in writing. | Primary (search) [S-356] [VERIFY V-255] |
 | *Berk v. Choy* (2026) | Erie / FRCP | FRCP 8 displaces a state affidavit-of-merit requirement in federal diversity suits. | Primary (CRS, search) |
 | *Coney Island Auto Parts v. Burton* (2026) | FRCP 60 | A Rule 60(b)(4) motion attacking a void judgment must be made within a reasonable time. | Primary (CRS, search) |
 | *Hain Celestial Group v. Palmquist* (2026) | Diversity / removal | Erroneously dismissing a nondiverse defendant does not cure the jurisdictional defect; the judgment must be vacated. | Primary (CRS, search) |
