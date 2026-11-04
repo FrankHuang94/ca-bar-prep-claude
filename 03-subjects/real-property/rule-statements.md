@@ -544,7 +544,7 @@ status: draft
 **Example:** Two weeks after T reports mold to the city, L serves a 30-day notice ending T's month-to-month tenancy. Retaliation is presumed; L must show a legitimate reason.
 
 ### R-PRP-039 — Assignment versus sublease; privity
-**Rule (write this):** An assignment transfers the tenant's entire remaining interest in the leasehold; a sublease transfers less than the entire remaining term, so the original tenant keeps a reversion. An assignee is in privity of estate with the landlord and is directly liable for rent and for covenants that run with the land while in possession; a sublessee is in privity with neither estate nor contract with the landlord and is not directly liable to the landlord unless it assumes the lease.
+**Rule (write this):** An assignment transfers the tenant's entire remaining interest in the leasehold; a sublease transfers less than the entire remaining term, so the original tenant keeps a reversion. An assignee is in privity of estate with the landlord and is directly liable for rent and for covenants that run with the land while it holds the leasehold (until it reassigns); a sublessee is in privity with neither estate nor contract with the landlord and is not directly liable to the landlord unless it assumes the lease.
 
 **Elements:** 1. Did the tenant transfer the whole remaining term (assignment) or keep a reversion (sublease)? 2. Majority: objective test by duration; minority looks to the parties' intent or retained right of re-entry. 3. Privity map: landlord–original tenant (contract and, until assignment, estate); landlord–assignee (estate; contract only if assumed); landlord–sublessee (none).
 
@@ -561,7 +561,7 @@ status: draft
 ### R-PRP-040 — Liability after assignment or sublease
 **Rule (write this):** After an assignment, the original tenant remains liable to the landlord for rent and lease covenants by privity of contract, as a surety, unless the landlord releases the tenant (novation). An assignee who does not assume the lease is liable only for obligations that accrue while it holds the estate and may end that liability by reassigning; an assignee who expressly assumes the lease is liable for the whole remaining term, even after reassignment.
 
-**Elements:** 1. Identify each party's privity. 2. Original tenant: contract liability for the entire term. 3. Non-assuming assignee: privity of estate only, while in possession. 4. Assuming assignee: privity of contract (landlord is a third-party beneficiary of the assumption). 5. Sublessee: liable only to the sublessor.
+**Elements:** 1. Identify each party's privity. 2. Original tenant: contract liability for the entire term. 3. Non-assuming assignee: privity of estate only, while it holds the leasehold (ends on reassignment, not on vacating). 4. Assuming assignee: privity of contract (landlord is a third-party beneficiary of the assumption). 5. Sublessee: liable only to the sublessor.
 
 **Exceptions / defenses:** Landlord's acceptance of rent from an assignee does not by itself release the original tenant. A material modification of the lease between the landlord and assignee without the original tenant's consent may release the original tenant as surety to that extent.
 

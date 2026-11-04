@@ -68,7 +68,7 @@ Each example is original. Format: facts → rule (with ID) → application → c
 
 ### 10. Assignment chain
 **Facts.** T leases for five years, then assigns to A, who promises to "assume and perform all lease obligations." A assigns to B, who makes no promise. B stops paying.
-**Rule.** Original tenant liable on contract; assuming assignee liable on contract; non-assuming assignee liable on privity of estate while in possession (R-PRP-039, R-PRP-040).
+**Rule.** Original tenant liable on contract; assuming assignee liable on contract; non-assuming assignee liable on privity of estate while it holds the leasehold (R-PRP-039, R-PRP-040).
 **Conclusion.** L may sue T, A and B for rent accruing during B's possession; after B reassigns or leaves, B's liability ends but T's and A's continue.
 
 ### 11. Tenant leaves early

@@ -32,7 +32,7 @@ status: draft
 - Life tenant pays taxes and mortgage interest (to the extent of income or rental value); remainderman pays principal. R-PRP-007.
 - Joint tenancy: conveyance severs; will does not; mortgage severs only in a title-theory state (the question will tell you the theory). R-PRP-021, R-PRP-022.
 - Cotenant in possession owes no rent absent ouster; third-party rents are shared. R-PRP-024.
-- Landlord-tenant: English rule on delivery of possession (majority); assignee liable on privity of estate only while in possession unless it assumed; original tenant liable on contract; sublessee not liable to landlord. R-PRP-030, R-PRP-039, R-PRP-040.
+- Landlord-tenant: English rule on delivery of possession (majority); non-assuming assignee liable on privity of estate only while it holds the leasehold (until it reassigns; moving out does not end it), unless it assumed; original tenant liable on contract; sublessee not liable to landlord. R-PRP-030, R-PRP-039, R-PRP-040.
 - Constructive eviction requires vacating; habitability (residential) does not. R-PRP-035, R-PRP-036.
 - Majority duty to mitigate. R-PRP-033.
 - Landlord tort liability: common-law exceptions (common areas, latent defects, negligent repairs, public use). R-PRP-045.

@@ -170,8 +170,8 @@ Essay favorite: four of the 14 Real Property essays turned on landlord-tenant is
 | Relationship | Privity of contract | Privity of estate | Who can L sue for rent? |
 |---|---|---|---|
 | L – original T (after assignment) | Yes | No | T (as surety) |
-| L – assignee who did not assume | No | Yes, while in possession | Assignee, for rent accruing during its tenure |
-| L – assignee who assumed | Yes | Yes (while in possession) | Assignee, for the whole term, even after reassignment |
+| L – assignee who did not assume | No | Yes, while it holds the leasehold (until reassignment) | Assignee, for rent accruing during its tenure |
+| L – assignee who assumed | Yes | Yes (while it holds the leasehold) | Assignee, for the whole term, even after reassignment |
 | L – sublessee | No | No | Not directly (only via the master tenant), unless sublessee assumed |
 
 - **Liability after transfer** (R-PRP-040); **covenants running with the leasehold** (R-PRP-041): intent + touch and concern + privity of estate (*Spencer's Case* (1583) 5 Co. Rep. 16a); covenants to pay rent, repair, insure (when proceeds benefit the premises), options to renew or purchase usually run.
