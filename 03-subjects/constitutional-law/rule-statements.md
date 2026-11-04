@@ -183,7 +183,7 @@ status: draft
 
 **Exceptions / defenses:** No standing to challenge executive discretionary spending (Hein), tax credits (Winn) or property transfers under the Property Clause (Valley Forge). State taxpayers lack standing in federal court to challenge state tax or spending decisions (DaimlerChrysler). Municipal taxpayers have traditionally been allowed to challenge municipal spending (dictum in Frothingham v. Mellon).
 
-**Authority:** *Flast v. Cohen*, 392 U.S. 83 (1968); *Hein v. Freedom From Religion Found.*, 551 U.S. 587 (2007); *Arizona Christian School Tuition Org. v. Winn*, 563 U.S. 125 (2011); *DaimlerChrysler Corp. v. Cuno*, 547 U.S. 332 (2006); *Lance v. Coffman*, 549 U.S. 437 (2007); *Massachusetts v. Mellon*, 262 U.S. 447 (1923).
+**Authority:** *Flast v. Cohen*, 392 U.S. 83 (1968); *Valley Forge Christian College v. Americans United for Separation of Church & State, Inc.*, 454 U.S. 464 (1982); *Hein v. Freedom From Religion Found.*, 551 U.S. 587 (2007); *Arizona Christian School Tuition Org. v. Winn*, 563 U.S. 125 (2011); *DaimlerChrysler Corp. v. Cuno*, 547 U.S. 332 (2006); *Lance v. Coffman*, 549 U.S. 437 (2007); *Massachusetts v. Mellon*, 262 U.S. 447 (1923).
 
 **MBE vs. CA essay:** same rule for federal court. CA note: California taxpayer suits (Code Civ. Proc. § 526a) are broader in state court [VERIFY V-205].
 

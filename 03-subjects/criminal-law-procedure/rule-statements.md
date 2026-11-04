@@ -1482,7 +1482,7 @@ status: draft
 
 **Exceptions / defenses:** Aggregated petty offenses do not trigger the right (Lewis). California requires 12 jurors and unanimity in felonies and adds Code Civ. Proc. § 231.7 for peremptory challenges.
 
-**Authority:** U.S. Const. amend. VI; *Duncan v. Louisiana*, 391 U.S. 145 (1968); *Baldwin v. New York*, 399 U.S. 66 (1970); *Ballew v. Georgia*, 435 U.S. 223 (1978); *Burch v. Louisiana*, 441 U.S. 130 (1979); *Ramos v. Louisiana* (2020) [VERIFY V-250]; *Duren v. Missouri*, 439 U.S. 357 (1979); *Batson v. Kentucky*, 476 U.S. 79 (1986); *J.E.B. v. Alabama ex rel. T.B.*, 511 U.S. 127 (1994); Cal. Const. art. I, § 16; Code Civ. Proc. § 231.7 [S-365].
+**Authority:** U.S. Const. amend. VI; *Duncan v. Louisiana*, 391 U.S. 145 (1968); *Baldwin v. New York*, 399 U.S. 66 (1970); *Blanton v. City of North Las Vegas*, 489 U.S. 538 (1989); *Lewis v. United States*, 518 U.S. 322 (1996); *Ballew v. Georgia*, 435 U.S. 223 (1978); *Burch v. Louisiana*, 441 U.S. 130 (1979); *Ramos v. Louisiana* (2020) [VERIFY V-250]; *Duren v. Missouri*, 439 U.S. 357 (1979); *Batson v. Kentucky*, 476 U.S. 79 (1986); *J.E.B. v. Alabama ex rel. T.B.*, 511 U.S. 127 (1994); Cal. Const. art. I, § 16; Code Civ. Proc. § 231.7 [S-365].
 
 **MBE vs. CA essay:** Same federal rule; California's 12-juror and § 231.7 rules only if asked.
 
@@ -1586,7 +1586,7 @@ status: draft
 
 **Exceptions / defenses:** Long recidivist sentences are upheld (Ewing; Harmelin).
 
-**Authority:** U.S. Const. amend. VIII; *Harmelin v. Michigan*, 501 U.S. 957 (1991); *Ewing v. California*, 538 U.S. 11 (2003); *Coker v. Georgia*, 433 U.S. 584 (1977); *Kennedy v. Louisiana*, 554 U.S. 407 (2008); *Enmund v. Florida*, 458 U.S. 782 (1982); *Tison v. Arizona*, 481 U.S. 137 (1987); *Atkins v. Virginia*, 536 U.S. 304 (2002); *Roper v. Simmons*, 543 U.S. 551 (2005); *Graham v. Florida*, 560 U.S. 48 (2010); *Miller v. Alabama*, 567 U.S. 460 (2012); *Robinson v. California*, 370 U.S. 660 (1962); *City of Grants Pass v. Johnson* (2024) [S-366]; *Timbs v. Indiana*, 586 U.S. 146 (2019).
+**Authority:** U.S. Const. amend. VIII; *Harmelin v. Michigan*, 501 U.S. 957 (1991); *Ewing v. California*, 538 U.S. 11 (2003); *Coker v. Georgia*, 433 U.S. 584 (1977); *Kennedy v. Louisiana*, 554 U.S. 407 (2008); *Enmund v. Florida*, 458 U.S. 782 (1982); *Tison v. Arizona*, 481 U.S. 137 (1987); *Atkins v. Virginia*, 536 U.S. 304 (2002); *Roper v. Simmons*, 543 U.S. 551 (2005); *Graham v. Florida*, 560 U.S. 48 (2010); *Miller v. Alabama*, 567 U.S. 460 (2012); *Robinson v. California*, 370 U.S. 660 (1962); *Powell v. Texas*, 392 U.S. 514 (1968); *City of Grants Pass v. Johnson* (2024) [S-366]; *Timbs v. Indiana*, 586 U.S. 146 (2019).
 
 **MBE vs. CA essay:** Same rule.
 
