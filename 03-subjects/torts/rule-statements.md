@@ -402,13 +402,13 @@ status: draft
 ### R-TRT-028 — Informed consent
 **Rule (write this):** A physician must disclose the material risks of a proposed treatment, and its alternatives, that a reasonable patient would consider significant in deciding whether to undergo it. The patient recovers if the undisclosed risk materialized and a reasonable person in the patient's position, properly informed, would have declined the treatment.
 
-**Elements:** 1. Duty to disclose material information (patient-centered standard, majority and California). 2. Nondisclosure. 3. Undisclosed risk materialized. 4. Causation: objective test (a reasonable patient would have refused). 5. Damages.
+**Elements:** 1. Duty to disclose material information (patient-centered standard in California and many states; jurisdictions are roughly split). 2. Nondisclosure. 3. Undisclosed risk materialized. 4. Causation: objective test (a reasonable patient would have refused). 5. Damages.
 
-**Exceptions / defenses:** No duty to disclose risks that are commonly known, remote, or already known to the patient; emergency; patient's waiver; therapeutic privilege (rare). A minority uses a professional-custom standard. In California, a physician must also disclose the risks of **refusing** a recommended test (*Truman*). Treatment that differs substantially from the consented procedure is battery, not negligence.
+**Exceptions / defenses:** No duty to disclose risks that are commonly known, remote, or already known to the patient; emergency; patient's waiver; therapeutic privilege (rare). Many other states use a professional (reasonable-physician) disclosure standard instead. In California, a physician must also disclose the risks of **refusing** a recommended test (*Truman*). Treatment that differs substantially from the consented procedure is battery, not negligence.
 
 **Authority:** *Cobbs v. Grant* (1972) 8 Cal.3d 229; *Truman v. Thomas* (1980) 27 Cal.3d 285; *Canterbury v. Spence*, 464 F.2d 772 (D.C. Cir. 1972).
 
-**MBE vs. CA essay:** same rule (patient standard, objective causation).
+**MBE vs. CA essay:** differs by jurisdiction — on the MBE apply the standard the stem gives (or reason from both); on a California essay use the *Cobbs* patient standard with objective causation.
 
 **Example:** A surgeon does not mention a 5% risk of permanent nerve damage from an elective procedure. Damage occurs, and a reasonable patient would have chosen physical therapy instead. The surgeon is liable even though the operation was performed skillfully.
 
