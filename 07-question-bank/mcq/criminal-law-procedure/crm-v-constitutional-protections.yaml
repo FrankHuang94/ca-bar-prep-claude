@@ -1,0 +1,958 @@
+# Criminal Law and Procedure — NCBE category V: constitutional protection of accused persons
+# Original MBE-style items (wave 1). Federal constitutional law as the Supreme Court reads it.
+questions:
+- id: Q-CRM-0027
+  subject: CRM
+  coverage_ids: [CRM-MBE-V.A]
+  rule_ids: [R-CRM-075, R-CRM-079, R-CRM-083]
+  difficulty: 3
+  stem: >-
+    An officer lawfully stopped a car for a broken taillight. The car belonged to its driver; the defendant
+    was a passenger. After the driver refused consent to a search, the officer, without probable cause or
+    any other justification, searched under the front seats and found a handgun under the passenger seat.
+    The defendant, a convicted felon, admitted that the gun was his and was charged with unlawful
+    possession. He moves to suppress the gun as the product of an unconstitutional search.
+  call: "Should the motion be granted?"
+  options:
+    A: "Yes, because the officer searched the car without probable cause."
+    B: "Yes, because a passenger is seized during a traffic stop and may challenge evidence found as a result."
+    C: "No, because the defendant had no reasonable expectation of privacy in the area under the seats of another person's car."
+    D: "No, because the search was valid as incident to the traffic stop."
+  answer: C
+  explanation_correct: >-
+    C is correct. Fourth Amendment rights are personal; a defendant may suppress evidence only if the search
+    violated his own reasonable expectation of privacy or property interest (R-CRM-075). A passenger
+    ordinarily has no reasonable expectation of privacy in the interior areas of another person's car
+    (Rakas v. Illinois), and claiming ownership of the item seized does not create one in the place
+    searched (Rawlings v. Kentucky). The search may have violated the driver's rights, but not his.
+  explanation_each_wrong_option:
+    A: >-
+      Skips standing. The search lacked probable cause, but only someone whose own rights were violated may
+      obtain suppression (R-CRM-075).
+    B: >-
+      Exception trap. A passenger is seized and may challenge an unlawful stop and its fruits (Brendlin v.
+      California), but this stop was lawful; the challenged action is the search of the car (R-CRM-075,
+      R-CRM-079).
+    D: >-
+      A traffic stop leading only to a citation does not justify a search incident to arrest (Knowles v.
+      Iowa; R-CRM-083).
+  trap_type: exception-trap
+  authority: ["U.S. Const. amend. IV", "Rakas v. Illinois, 439 U.S. 128 (1978)", "Rawlings v. Kentucky, 448 U.S. 98 (1980)", "Brendlin v. California, 551 U.S. 249 (2007)", "Knowles v. Iowa, 525 U.S. 113 (1998)"]
+  source: original
+  tags: [wave1, fourth-amendment, standing]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CRM-0028
+  subject: CRM
+  coverage_ids: [CRM-MBE-V.A]
+  rule_ids: [R-CRM-083, R-CRM-084, R-CRM-085, R-CRM-088]
+  difficulty: 2
+  stem: >-
+    Officers stopped a car and arrested its driver for driving with a suspended license. They handcuffed him
+    and locked him in the back of a patrol car. One officer then searched the passenger compartment of the
+    driver's car and found cocaine inside a closed backpack on the back seat. The officers had no information
+    suggesting that drugs or other evidence were in the car, and the car was lawfully parked and was neither
+    impounded nor inventoried. The driver moves to suppress the cocaine.
+  call: "Should the motion be granted?"
+  options:
+    A: "Yes, because the driver was secured, and it was not reasonable to believe the car contained evidence of the offense of arrest."
+    B: "No, because police may search the passenger compartment of a car incident to the lawful arrest of a recent occupant."
+    C: "No, because the automobile exception permits a warrantless search of a car whose driver has been arrested."
+    D: "No, because the cocaine was in plain view once the officer opened the backpack."
+  answer: A
+  explanation_correct: >-
+    A is correct. Police may search a vehicle's passenger compartment incident to arrest only if the
+    arrestee is unsecured and within reaching distance of it, or if it is reasonable to believe evidence of
+    the offense of arrest is in the vehicle (R-CRM-083; Arizona v. Gant). The driver was handcuffed in a
+    patrol car, and a suspended-license offense leaves no evidence to find in the car. No other exception
+    applies on these facts.
+  explanation_each_wrong_option:
+    B: >-
+      Outdated rule. The broad recent-occupant reading of Belton was rejected in Gant; the arrest alone no
+      longer justifies a vehicle search (R-CRM-083).
+    C: >-
+      Missing element. The automobile exception requires probable cause to believe the car contains
+      contraband or evidence; an arrest for a suspended license supplies none (R-CRM-084).
+    D: >-
+      Plain view requires a lawful vantage point and immediately apparent incriminating character; opening a
+      closed backpack is itself a search that needed justification (R-CRM-085).
+  trap_type: missing-element
+  authority: ["U.S. Const. amend. IV", "Arizona v. Gant, 556 U.S. 332 (2009)", "Carroll v. United States, 267 U.S. 132 (1925)", "Horton v. California, 496 U.S. 128 (1990)"]
+  source: original
+  tags: [wave1, fourth-amendment, search-incident-to-arrest, automobile-exception]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CRM-0029
+  subject: CRM
+  coverage_ids: [CRM-MBE-V.A]
+  rule_ids: [R-CRM-077, R-CRM-078]
+  difficulty: 1
+  stem: >-
+    An anonymous caller told police that "a man in a red jacket standing at the bus stop at Fifth and Main
+    is carrying a gun." The caller gave no other information and did not explain how he knew. Two minutes
+    later officers arrived and saw a man in a red jacket at that bus stop, standing quietly and doing
+    nothing suspicious. The officers stopped him, frisked him and found an unlicensed handgun in his
+    waistband. He moves to suppress the gun.
+  call: "Should the motion be granted?"
+  options:
+    A: "No, because the tip accurately described the man's appearance and location."
+    B: "No, because a report that a person is carrying a gun justifies a frisk for the officers' safety."
+    C: "No, because a frisk is a minimal intrusion that requires no particular justification."
+    D: "Yes, because an anonymous tip that a person is carrying a gun, without predictive information or other corroboration of the criminal allegation, does not create reasonable suspicion."
+  answer: D
+  explanation_correct: >-
+    D is correct. A stop requires reasonable suspicion based on specific, articulable facts, and a frisk
+    requires a lawful stop plus reason to believe the suspect is armed and dangerous (R-CRM-077, R-CRM-078).
+    A bare anonymous tip lacks indicia of reliability unless it predicts future behavior or police
+    corroborate its allegation of criminality (Florida v. J.L.). Confirming a description anyone could see
+    does not show the caller knew about concealed criminal activity.
+  explanation_each_wrong_option:
+    A: >-
+      Missing element. Accuracy about readily observable details shows only that the caller could identify
+      the person, not that the claim of illegality is reliable (J.L.; R-CRM-077).
+    B: >-
+      The Court has refused to create a firearm exception to the reasonable-suspicion requirement (J.L.).
+    C: >-
+      A frisk is a search that requires a lawful stop and a reasonable belief the person is armed and
+      dangerous (R-CRM-078).
+  trap_type: missing-element
+  authority: ["U.S. Const. amend. IV", "Terry v. Ohio, 392 U.S. 1 (1968)", "Florida v. J.L., 529 U.S. 266 (2000)", "Alabama v. White, 496 U.S. 325 (1990)"]
+  source: original
+  tags: [wave1, fourth-amendment, terry-stop, anonymous-tip]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CRM-0030
+  subject: CRM
+  coverage_ids: [CRM-MBE-V.B]
+  rule_ids: [R-CRM-094, R-CRM-095]
+  difficulty: 1
+  stem: >-
+    An officer stopped a driver at 1 a.m. for weaving across lanes. Standing at the driver's window, and
+    without giving Miranda warnings, the officer asked, "How much have you had to drink tonight?" The driver
+    answered, "Four or five beers." He then failed field sobriety tests and was arrested for drunk driving.
+    He moves to suppress his answer to the officer's question.
+  call: "Should the motion be granted?"
+  options:
+    A: "Yes, because the driver had been seized and was not free to leave when the officer questioned him."
+    B: "No, because questioning during a routine traffic stop is not custodial interrogation."
+    C: "No, because the driver volunteered the statement."
+    D: "Yes, because the officer's question was designed to elicit an incriminating response."
+  answer: B
+  explanation_correct: >-
+    B is correct. Miranda warnings are required only for custodial interrogation. A routine traffic stop,
+    though a seizure, is brief and public and lacks the coercive pressures of station-house questioning, so
+    roadside questioning during it is not custody (R-CRM-094; Berkemer v. McCarty).
+  explanation_each_wrong_option:
+    A: >-
+      Confused rule. Being seized under the Fourth Amendment is not the same as being in custody for
+      Miranda; traffic-stop detainees are seized but not in custody (R-CRM-094).
+    C: >-
+      Fact-misread. The statement answered a direct question, so it was not volunteered; it is admissible
+      because there was no custody (R-CRM-095).
+    D: >-
+      True but irrelevant. The question was interrogation, but Miranda requires both custody and
+      interrogation (R-CRM-094, R-CRM-095).
+  trap_type: confused-rule
+  authority: ["U.S. Const. amend. V", "Miranda v. Arizona, 384 U.S. 436 (1966)", "Berkemer v. McCarty, 468 U.S. 420 (1984)"]
+  source: original
+  tags: [wave1, miranda, custody]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CRM-0031
+  subject: CRM
+  coverage_ids: [CRM-MBE-V.B]
+  rule_ids: [R-CRM-098, R-CRM-102]
+  difficulty: 2
+  stem: >-
+    A woman arrested for a burglary was given Miranda warnings at the police station and said, "I want a
+    lawyer before I answer any questions." Questioning stopped. Two hours later, while she remained in
+    custody and before any lawyer had been provided, a detective from another unit who did not know of her
+    request gave her fresh Miranda warnings and asked about an unrelated robbery. She signed a written waiver
+    and confessed to the robbery. She moves to suppress the confession in her robbery prosecution.
+  call: "Should the motion be granted?"
+  options:
+    A: "No, because her request for counsel applied only to questioning about the burglary."
+    B: "No, because she knowingly and voluntarily waived her rights after receiving fresh warnings."
+    C: "Yes, because after she requested counsel, police could not initiate questioning about any crime while she remained in custody without counsel present."
+    D: "No, because the detective who questioned her did not know that she had asked for a lawyer."
+  answer: C
+  explanation_correct: >-
+    C is correct. Once a suspect in custody unambiguously requests counsel, police may not interrogate her
+    about any offense until counsel is present, unless she herself reinitiates communication (R-CRM-098;
+    Edwards v. Arizona). The bar is not offense-specific (Arizona v. Roberson), and a waiver given in
+    response to police-initiated questioning is invalid. She did not reinitiate, and no 14-day break in
+    custody occurred.
+  explanation_each_wrong_option:
+    A: >-
+      Confused rule. The Sixth Amendment right is offense-specific (R-CRM-102); the Miranda-Edwards right to
+      counsel is not (Roberson).
+    B: >-
+      Under Edwards, a waiver obtained through police-initiated interrogation after an invocation of counsel
+      is presumed invalid, fresh warnings notwithstanding (R-CRM-098).
+    D: >-
+      An officer's ignorance does not matter; the invocation binds all police (Roberson).
+  trap_type: confused-rule
+  authority: ["U.S. Const. amend. V", "Edwards v. Arizona, 451 U.S. 477 (1981)", "Arizona v. Roberson, 486 U.S. 675 (1988)", "Maryland v. Shatzer, 559 U.S. 98 (2010)"]
+  source: original
+  tags: [wave1, miranda, edwards, invocation]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CRM-0032
+  subject: CRM
+  coverage_ids: [CRM-MBE-V.B]
+  rule_ids: [R-CRM-100, R-CRM-093]
+  difficulty: 2
+  stem: >-
+    Police arrested a man for assault and questioned him at the station without giving Miranda warnings.
+    There were no threats, promises or other coercion, and he calmly admitted striking the victim. The trial
+    court suppressed the statement from the prosecution's case-in-chief. At trial, the man testified that he
+    had never touched the victim. The prosecution now seeks to use his station-house statement to impeach
+    that testimony.
+  call: "Should the court allow the prosecution to use the statement?"
+  options:
+    A: "Yes, because a voluntary statement obtained in violation of Miranda may be used to impeach the defendant's inconsistent testimony."
+    B: "No, because a statement obtained in violation of Miranda is inadmissible for any purpose."
+    C: "No, because the statement is fruit of the poisonous tree."
+    D: "Yes, because by testifying the defendant waived his Fifth Amendment protection for all of his prior statements, whether voluntary or not."
+  answer: A
+  explanation_correct: >-
+    A is correct. A statement taken in violation of Miranda is excluded from the prosecution's case-in-chief,
+    but if it was voluntary it may be used to impeach the defendant's contrary trial testimony (R-CRM-100;
+    Harris v. New York). The statement was uncoerced, and the defendant took the stand and contradicted it.
+  explanation_each_wrong_option:
+    B: >-
+      Overbroad. Only involuntary (coerced) statements are inadmissible for all purposes (R-CRM-093;
+      Mincey v. Arizona).
+    C: >-
+      Confused rule. The fruit doctrine excludes derivative evidence from the case-in-chief; it does not bar
+      impeachment with the defendant's own voluntary statement (R-CRM-100).
+    D: >-
+      Overbroad. An involuntary statement cannot be used even for impeachment; the correct reason is that
+      this statement was voluntary (R-CRM-093).
+  trap_type: overbroad
+  authority: ["U.S. Const. amend. V", "Harris v. New York, 401 U.S. 222 (1971)", "Mincey v. Arizona, 437 U.S. 385 (1978)"]
+  source: original
+  tags: [wave1, miranda, impeachment]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CRM-0033
+  subject: CRM
+  coverage_ids: [CRM-MBE-V.C]
+  rule_ids: [R-CRM-106, R-CRM-107, R-CRM-102]
+  difficulty: 3
+  stem: >-
+    After a man was indicted for armed robbery and counsel was appointed for him, police placed him in a
+    lineup without notifying his lawyer, who was not present. The man did not waive counsel. The robbery
+    victim picked him out of the lineup. At trial, the man moves to exclude both testimony about the lineup
+    identification and any identification of him by the victim in the courtroom.
+  call: "How should the court rule?"
+  options:
+    A: "Admit both, unless the man shows that the lineup was unnecessarily suggestive."
+    B: "Exclude both, because any identification that follows an uncounseled post-indictment lineup is inadmissible."
+    C: "Exclude the lineup identification, but admit the in-court identification if the prosecution proves by clear and convincing evidence that it has a source independent of the lineup."
+    D: "Admit both, because the right to counsel does not apply to lineups."
+  answer: C
+  explanation_correct: >-
+    C is correct. After formal charges, a live lineup is a critical stage at which the accused has a Sixth
+    Amendment right to counsel (R-CRM-106; United States v. Wade). Testimony about an identification made at
+    an uncounseled post-indictment lineup is excluded (Gilbert v. California). An in-court identification is
+    still admissible if the prosecution proves by clear and convincing evidence that it rests on the
+    witness's independent observation of the crime.
+  explanation_each_wrong_option:
+    A: >-
+      Procedural-posture trap. Due-process suggestiveness is the only protection for pre-charge lineups and
+      photo arrays (R-CRM-107); here charges were filed, so the Sixth Amendment applies (R-CRM-102).
+    B: >-
+      Overbroad. The in-court identification survives if the prosecution shows an independent source
+      (Wade; R-CRM-106).
+    D: >-
+      Wrong. Counsel is required at post-charge live lineups; it is not required at pre-charge lineups
+      (Kirby) or photo arrays (Ash).
+  trap_type: procedural-posture
+  authority: ["U.S. Const. amend. VI", "United States v. Wade, 388 U.S. 218 (1967)", "Gilbert v. California, 388 U.S. 263 (1967)", "Kirby v. Illinois, 406 U.S. 682 (1972)"]
+  source: original
+  tags: [wave1, identification, right-to-counsel, lineup]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CRM-0034
+  subject: CRM
+  coverage_ids: [CRM-MBE-V.C]
+  rule_ids: [R-CRM-107, R-CRM-106]
+  difficulty: 2
+  stem: >-
+    A woman was robbed on a well-lit street by a man who stood face-to-face with her for about two minutes.
+    She immediately gave police a detailed description, including his height, build, a scar on his chin and
+    his green jacket. Forty minutes later, officers detained a man matching the description a few blocks
+    away. They brought the woman to the scene, where the man stood handcuffed beside a patrol car, and asked,
+    "Is this the man?" She said, "Yes, I'm absolutely sure." The man had not yet been charged. He moves to
+    suppress her identification.
+  call: "Should the motion be granted?"
+  options:
+    A: "Yes, because a one-person show-up is unconstitutional per se."
+    B: "Yes, because the man was entitled to have counsel present at the show-up."
+    C: "No, because due-process protections apply only to formal lineups and photo arrays."
+    D: "No, because even if the procedure was suggestive, the identification was reliable under the totality of the circumstances."
+  answer: D
+  explanation_correct: >-
+    D is correct. An identification violates due process only if police used an unnecessarily suggestive
+    procedure that created a substantial likelihood of misidentification (R-CRM-107). Reliability is the
+    linchpin, judged by the witness's opportunity to view, degree of attention, accuracy of her prior
+    description, level of certainty and the time elapsed (Neil v. Biggers; Manson v. Brathwaite). Two
+    minutes face-to-face in good light, a detailed and accurate description, certainty and a 40-minute
+    interval make this identification reliable.
+  explanation_each_wrong_option:
+    A: >-
+      Overbroad. Show-ups are suggestive but not per se invalid; they are judged by reliability under the
+      totality of the circumstances (R-CRM-107).
+    B: >-
+      No charges had been filed, so the Sixth Amendment right to counsel had not attached (Kirby;
+      R-CRM-106).
+    C: >-
+      Wrong. Due process applies to any police-arranged identification procedure, including show-ups
+      (Stovall v. Denno; R-CRM-107).
+  trap_type: overbroad
+  authority: ["U.S. Const. amend. XIV", "Neil v. Biggers, 409 U.S. 188 (1972)", "Manson v. Brathwaite, 432 U.S. 98 (1977)", "Kirby v. Illinois, 406 U.S. 682 (1972)"]
+  source: original
+  tags: [wave1, identification, due-process, show-up]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CRM-0035
+  subject: CRM
+  coverage_ids: [CRM-MBE-V.D]
+  rule_ids: [R-CRM-102, R-CRM-095]
+  difficulty: 3
+  stem: >-
+    After a man was indicted for murder and counsel was appointed, police arranged for a jail informant, who
+    would be paid only if he obtained useful information, to share the man's cell. Over several days the
+    informant repeatedly steered conversations toward the killing and asked the man where he had hidden the
+    gun. The man eventually described the killing and the gun's location. He never knew his cellmate was
+    working with the police. He moves to suppress his statements to the informant.
+  call: "Should the motion be granted?"
+  options:
+    A: "Yes, because the government deliberately elicited statements about the charged offense after his right to counsel had attached."
+    B: "Yes, because the man was in custody and was not given Miranda warnings before being questioned."
+    C: "No, because the man did not know the informant was working with the police, so the conversations were not coercive."
+    D: "No, because the informant was not a police officer."
+  answer: A
+  explanation_correct: >-
+    A is correct. After the Sixth Amendment right to counsel attaches at indictment, the government may not
+    deliberately elicit statements about the charged offense from the accused outside counsel's presence,
+    including through an informant acting as its agent (R-CRM-102; Massiah; United States v. Henry). The
+    paid informant actively questioned the man about the killing, so the statements must be suppressed.
+  explanation_each_wrong_option:
+    B: >-
+      Right result, wrong reason. Miranda does not apply when the suspect does not know he is speaking to a
+      government agent (Illinois v. Perkins; R-CRM-095); the violation is of the Sixth Amendment.
+    C: >-
+      True but irrelevant. Lack of coercion defeats a Miranda claim (Perkins), but the Sixth Amendment bars
+      deliberate elicitation whether or not the accused knows the questioner's role (Henry).
+    D: >-
+      An informant acting under police arrangement, and paid for results, is a government agent for Sixth
+      Amendment purposes (Henry).
+  trap_type: right-result-wrong-reason
+  authority: ["U.S. Const. amend. VI", "Massiah v. United States, 377 U.S. 201 (1964)", "United States v. Henry, 447 U.S. 264 (1980)", "Illinois v. Perkins, 496 U.S. 292 (1990)"]
+  source: original
+  tags: [wave1, sixth-amendment, deliberate-elicitation, informant]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CRM-0036
+  subject: CRM
+  coverage_ids: [CRM-MBE-V.D]
+  rule_ids: [R-CRM-102, R-CRM-098, R-CRM-096]
+  difficulty: 3
+  stem: >-
+    A woman was charged with setting fire to her own restaurant, and a public defender was appointed for her
+    at her arraignment. While she was in jail awaiting trial, detectives investigating an unrelated burglary
+    of a jewelry store, for which she had not been charged, gave her Miranda warnings. She said she
+    understood her rights, signed a written waiver and confessed to the burglary. She had never asked the
+    police for a lawyer. She is later prosecuted for the burglary and moves to suppress the confession.
+  call: "Should the motion be granted?"
+  options:
+    A: "Yes, because once counsel was appointed for her, police could not question her about any crime outside her lawyer's presence."
+    B: "No, because her Sixth Amendment right to counsel had not attached for the uncharged burglary, and she validly waived her Miranda rights."
+    C: "Yes, because the Edwards rule barred police from initiating any interrogation once she had counsel."
+    D: "No, because a person held in jail awaiting trial is never in custody for Miranda purposes."
+  answer: B
+  explanation_correct: >-
+    B is correct. The Sixth Amendment right to counsel is offense-specific: it attached to the arson charge
+    but not to the uncharged burglary, a different offense under the Blockburger test (R-CRM-102; Texas v.
+    Cobb; McNeil v. Wisconsin). Because she never invoked her Miranda right to counsel, Edwards did not bar
+    the approach, and her knowing and voluntary waiver after warnings was valid (R-CRM-096, R-CRM-098).
+  explanation_each_wrong_option:
+    A: >-
+      Confused rule. Appointment of counsel on one charge does not bar questioning about unrelated, uncharged
+      crimes (McNeil; Cobb; R-CRM-102).
+    C: >-
+      Edwards is triggered by the suspect's own unambiguous request for counsel during custodial
+      interrogation, not by counsel's appointment at arraignment (McNeil; R-CRM-098).
+    D: >-
+      Overbroad. Questioning of an inmate is not automatically non-custodial; custody depends on the
+      circumstances. The confession is admissible because of the valid waiver, not because of this rule.
+  trap_type: confused-rule
+  authority: ["U.S. Const. amends. V, VI", "McNeil v. Wisconsin, 501 U.S. 171 (1991)", "Texas v. Cobb, 532 U.S. 162 (2001)", "Montejo v. Louisiana, 556 U.S. 778 (2009)"]
+  source: original
+  tags: [wave1, sixth-amendment, offense-specific, miranda-waiver]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CRM-0037
+  subject: CRM
+  coverage_ids: [CRM-MBE-V.D]
+  rule_ids: [R-CRM-103]
+  difficulty: 2
+  stem: >-
+    An indigent man was charged with shoplifting, a misdemeanor punishable by up to one year in jail, a fine
+    of up to $1,000, or both. He asked for appointed counsel, but the judge refused. After a bench trial, the
+    judge convicted him and imposed a $400 fine with no jail sentence. He appeals, arguing that his
+    conviction violates the Sixth Amendment.
+  call: "Should his conviction be reversed?"
+  options:
+    A: "Yes, because he was charged with a crime for which imprisonment was an authorized penalty."
+    B: "Yes, because the Sixth Amendment guarantees appointed counsel in every criminal prosecution."
+    C: "No, because the right to appointed counsel applies only to felonies."
+    D: "No, because no sentence of imprisonment was actually imposed."
+  answer: D
+  explanation_correct: >-
+    D is correct. An indigent defendant has a right to appointed counsel in every felony case and in any
+    misdemeanor case in which a sentence of imprisonment, including a suspended sentence, is actually
+    imposed (R-CRM-103; Argersinger v. Hamlin; Scott v. Illinois). The judge imposed only a fine, so the
+    uncounseled conviction is valid.
+  explanation_each_wrong_option:
+    A: >-
+      Confused rule. For misdemeanors the test is the sentence actually imposed, not the penalty authorized
+      (Scott; R-CRM-103).
+    B: >-
+      Overbroad. The appointed-counsel right does not extend to fine-only misdemeanor convictions (Scott).
+    C: >-
+      Right result, wrong reason. Misdemeanor defendants have the right if imprisonment is actually imposed
+      (Argersinger); his conviction stands because he received only a fine.
+  trap_type: confused-rule
+  authority: ["U.S. Const. amend. VI", "Gideon v. Wainwright, 372 U.S. 335 (1963)", "Argersinger v. Hamlin, 407 U.S. 25 (1972)", "Scott v. Illinois, 440 U.S. 367 (1979)"]
+  source: original
+  tags: [wave1, right-to-counsel, misdemeanors]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CRM-0038
+  subject: CRM
+  coverage_ids: [CRM-MBE-V.E]
+  rule_ids: [R-CRM-110]
+  difficulty: 3
+  stem: >-
+    A defendant was charged in a single complaint with two misdemeanor counts of obstructing a public
+    officer, arising from two separate incidents. Each count carries a maximum penalty of six months in
+    jail, and the sentences could run consecutively, for a total possible sentence of one year. No other
+    penalties apply. The defendant demanded a jury trial, but the judge denied the demand and tried the case
+    without a jury.
+  call: "Was the defendant entitled to a jury trial?"
+  options:
+    A: "Yes, because the total potential sentence on the two counts exceeds six months."
+    B: "Yes, because every defendant who faces any possible jail sentence is entitled to a jury."
+    C: "No, because each offense is petty, since its maximum authorized penalty does not exceed six months."
+    D: "No, because the right to a jury trial does not apply to misdemeanors."
+  answer: C
+  explanation_correct: >-
+    C is correct. The Sixth Amendment jury right applies to serious offenses, those punishable by more than
+    six months' imprisonment (R-CRM-110; Baldwin v. New York). An offense with a maximum of six months or
+    less is presumptively petty (Blanton). Seriousness is judged offense by offense, so charging several
+    petty offenses together does not create a jury right even if the aggregate exposure exceeds six months
+    (Lewis v. United States).
+  explanation_each_wrong_option:
+    A: >-
+      Overbroad. Aggregate exposure across multiple petty offenses does not trigger the jury right (Lewis;
+      R-CRM-110).
+    B: >-
+      The possibility of some jail time is not enough; the authorized maximum for the offense must exceed
+      six months (Baldwin).
+    D: >-
+      Overbroad. A misdemeanor carrying more than six months' imprisonment is a serious offense with a jury
+      right; the label "misdemeanor" is not the test.
+  trap_type: overbroad
+  authority: ["U.S. Const. amend. VI", "Baldwin v. New York, 399 U.S. 66 (1970)", "Blanton v. City of North Las Vegas, 489 U.S. 538 (1989)", "Lewis v. United States, 518 U.S. 322 (1996)"]
+  source: original
+  tags: [wave1, jury-trial, petty-offenses]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CRM-0039
+  subject: CRM
+  coverage_ids: [CRM-MBE-V.E]
+  rule_ids: [R-CRM-112]
+  difficulty: 2
+  stem: >-
+    Two days after being assaulted, a woman went to the police station and gave a detective a detailed,
+    recorded account of the attack, identifying the defendant as her attacker. Before trial she moved abroad
+    and refused to return, and she is unavailable. The defendant never had an opportunity to cross-examine
+    her. At trial, the prosecution offers the recording.
+  call: "Should the court admit the recording over the defendant's Confrontation Clause objection?"
+  options:
+    A: "No, because the statement is testimonial and the defendant had no prior opportunity to cross-examine her."
+    B: "Yes, because the woman is unavailable to testify."
+    C: "Yes, because a recorded statement made shortly after the crime is reliable."
+    D: "Yes, because statements made to police officers are not testimonial."
+  answer: A
+  explanation_correct: >-
+    A is correct. The Confrontation Clause bars a testimonial statement of a witness who does not testify
+    unless the witness is unavailable and the defendant had a prior opportunity to cross-examine
+    (R-CRM-112; Crawford v. Washington). A formal, recorded station-house account given two days later, with
+    no ongoing emergency, is made primarily to establish past facts for prosecution and is testimonial
+    (Davis v. Washington).
+  explanation_each_wrong_option:
+    B: >-
+      Missing element. Unavailability is only half the exception; the defendant must also have had a prior
+      opportunity to cross-examine (Crawford).
+    C: >-
+      Outdated rule. Crawford rejected admitting testimonial statements on a judicial finding of
+      reliability (overruling Ohio v. Roberts on this point).
+    D: >-
+      Overbroad. Statements to police are testimonial unless their primary purpose is to meet an ongoing
+      emergency (Davis; R-CRM-112).
+  trap_type: missing-element
+  authority: ["U.S. Const. amend. VI", "Crawford v. Washington, 541 U.S. 36 (2004)", "Davis v. Washington, 547 U.S. 813 (2006)"]
+  source: original
+  tags: [wave1, confrontation-clause, testimonial-hearsay]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CRM-0040
+  subject: CRM
+  coverage_ids: [CRM-MBE-V.E]
+  rule_ids: [R-CRM-115]
+  difficulty: 2
+  stem: >-
+    In exchange for a defendant's guilty plea to a burglary charge, the prosecutor promised to recommend a
+    three-year sentence. The court accepted the plea after a proper colloquy. At sentencing months later, a
+    different prosecutor, unaware of the promise, recommended eight years. The judge imposed eight years,
+    stating that the prosecutor's recommendation had not influenced him. The defendant appeals.
+  call: "Is the defendant entitled to relief?"
+  options:
+    A: "No, because the judge stated that the recommendation did not affect the sentence."
+    B: "No, because a judge is not bound by a prosecutor's sentencing recommendation."
+    C: "Yes, because the prosecution broke its promise, and the court must order specific performance of the agreement or permit withdrawal of the plea."
+    D: "Yes, and the charges must be dismissed with prejudice."
+  answer: C
+  explanation_correct: >-
+    C is correct. When a plea rests in significant part on a prosecutor's promise, the promise must be
+    fulfilled; a breach entitles the defendant to relief, even if inadvertent and even if the judge says the
+    recommendation did not influence him (R-CRM-115; Santobello v. New York). The remedy is specific
+    performance, such as resentencing before a different judge with the promised recommendation, or
+    withdrawal of the plea.
+  explanation_each_wrong_option:
+    A: >-
+      Santobello rejected this argument; the integrity of plea bargaining requires relief without proof that
+      the breach changed the sentence.
+    B: >-
+      True but irrelevant. The judge need not follow the recommendation, but the prosecution must keep its
+      promise to make it (R-CRM-115).
+    D: >-
+      Overbroad. The remedy for a breached plea agreement is specific performance or withdrawal of the plea,
+      not dismissal (Santobello).
+  trap_type: true-but-irrelevant
+  authority: ["Santobello v. New York, 404 U.S. 257 (1971)", "Fed. R. Crim. P. 11"]
+  source: original
+  tags: [wave1, guilty-pleas, plea-bargaining]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CRM-0041
+  subject: CRM
+  coverage_ids: [CRM-MBE-V.F]
+  rule_ids: [R-CRM-116, R-CRM-117]
+  difficulty: 2
+  stem: >-
+    A defendant was tried for robbing a gas-station attendant of $200, and the jury acquitted him of
+    robbery. The prosecutor then charged him with larceny of the same $200 from the same attendant in the
+    same incident, arguing that larceny is a different crime because it does not require force or
+    intimidation.
+  call: "Is the larceny prosecution barred by the Double Jeopardy Clause?"
+  options:
+    A: "No, because larceny and robbery are defined by separate statutes."
+    B: "No, because the first jury was never asked to decide whether the defendant committed larceny."
+    C: "No, because larceny requires proof of an element that robbery does not."
+    D: "Yes, because larceny is a lesser included offense of robbery and therefore the same offense."
+  answer: D
+  explanation_correct: >-
+    D is correct. Two offenses are the same unless each requires proof of an element the other does not
+    (R-CRM-116; Blockburger). Every element of larceny is an element of robbery, so larceny is a lesser
+    included offense and the same offense for double-jeopardy purposes. Successive prosecution for a greater
+    and a lesser included offense is barred in either order (Brown v. Ohio).
+  explanation_each_wrong_option:
+    A: >-
+      The number of statutes does not matter; Blockburger compares the elements of the offenses (R-CRM-116).
+    B: >-
+      Whether the jury was instructed on larceny is irrelevant; the Clause bars a second prosecution for the
+      same offense after acquittal (R-CRM-117).
+    C: >-
+      Misapplied test. Robbery requires force or intimidation that larceny does not, but larceny requires
+      nothing robbery lacks; Blockburger requires each offense to have a unique element (R-CRM-116).
+  trap_type: confused-rule
+  authority: ["U.S. Const. amend. V", "Blockburger v. United States, 284 U.S. 299 (1932)", "Brown v. Ohio, 432 U.S. 161 (1977)"]
+  source: original
+  tags: [wave1, double-jeopardy, lesser-included-offense]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CRM-0042
+  subject: CRM
+  coverage_ids: [CRM-MBE-V.F]
+  rule_ids: [R-CRM-117, R-CRM-116]
+  difficulty: 2
+  stem: >-
+    At a defendant's assault trial, after the jury was sworn and evidence was presented, a prosecution
+    witness unexpectedly blurted out that the defendant had "done prison time before." The prosecutor had
+    warned the witness not to mention the conviction and did not intend the remark. On the defendant's
+    motion, the judge declared a mistrial. The state then scheduled a new trial, and the defendant moved to
+    dismiss on double-jeopardy grounds.
+  call: "Should the motion be granted?"
+  options:
+    A: "Yes, because jeopardy attached when the jury was sworn."
+    B: "No, because the defendant requested the mistrial, and the prosecution did not intend to provoke it."
+    C: "Yes, because the mistrial resulted from the conduct of a prosecution witness."
+    D: "No, because jeopardy does not attach until the jury returns a verdict."
+  answer: B
+  explanation_correct: >-
+    B is correct. Jeopardy attached when the jury was sworn (R-CRM-116), but retrial is allowed after a
+    mistrial declared at the defendant's request unless the prosecution intended to goad the defendant into
+    moving for it (R-CRM-117; Oregon v. Kennedy). The prosecutor tried to prevent the remark.
+  explanation_each_wrong_option:
+    A: >-
+      Exception trap. Attachment is necessary but does not end the analysis; a defense-requested mistrial
+      permits retrial (R-CRM-117).
+    C: >-
+      Only prosecutorial conduct intended to provoke a mistrial bars retrial; an unintended remark by a
+      witness does not (Oregon v. Kennedy).
+    D: >-
+      Wrong attachment rule. In a jury trial jeopardy attaches when the jury is sworn (Crist v. Bretz;
+      R-CRM-116).
+  trap_type: exception-trap
+  authority: ["U.S. Const. amend. V", "Oregon v. Kennedy, 456 U.S. 667 (1982)", "Crist v. Bretz, 437 U.S. 28 (1978)"]
+  source: original
+  tags: [wave1, double-jeopardy, mistrial]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CRM-0043
+  subject: CRM
+  coverage_ids: [CRM-MBE-V.F]
+  rule_ids: [R-CRM-117, R-CRM-014]
+  difficulty: 1
+  stem: >-
+    A defendant was convicted in municipal court of violating a city ordinance against disorderly conduct,
+    based on his fighting in a public square. The state then charged him under a state statute with the
+    same elements, based on the same fight.
+  call: "Is the state prosecution barred by the Double Jeopardy Clause?"
+  options:
+    A: "Yes, because a city and the state that created it are a single sovereign."
+    B: "No, because the city and the state are separate sovereigns that may each prosecute the same conduct."
+    C: "No, because the municipal prosecution was for violating an ordinance rather than a criminal statute."
+    D: "Yes, because no government may prosecute a person for conduct for which any other government has already prosecuted him."
+  answer: A
+  explanation_correct: >-
+    A is correct. Under the dual-sovereignty doctrine, separate sovereigns, such as the United States and a
+    state, may each prosecute the same conduct, but a city is a subordinate unit of the state and not a
+    separate sovereign (R-CRM-117; Waller v. Florida). The offenses have the same elements, so the state
+    prosecution after the municipal conviction is barred.
+  explanation_each_wrong_option:
+    B: >-
+      Confused rule. Dual sovereignty covers the federal government and the states (Gamble v. United
+      States), not a state and its own municipalities (R-CRM-014, R-CRM-117).
+    C: >-
+      The municipal prosecution was a criminal proceeding by an arm of the state; the label "ordinance" does
+      not change that (Waller).
+    D: >-
+      Overbroad. The federal government and a state, or two states, may each prosecute the same conduct
+      (R-CRM-014).
+  trap_type: confused-rule
+  authority: ["U.S. Const. amend. V", "Waller v. Florida, 397 U.S. 387 (1970)", "Gamble v. United States, 587 U.S. 678 (2019)"]
+  source: original
+  tags: [wave1, double-jeopardy, dual-sovereignty]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CRM-0044
+  subject: CRM
+  coverage_ids: [CRM-MBE-V.G]
+  rule_ids: [R-CRM-118, R-CRM-002]
+  difficulty: 3
+  stem: >-
+    A man who suffers from chronic alcoholism was arrested while visibly intoxicated and shouting at
+    passersby on a downtown sidewalk. He was convicted under a statute that makes it a misdemeanor to "be
+    found in a state of intoxication in any public place." He has a home where he could drink, and the
+    evidence showed that he walked downtown voluntarily. He argues that punishing him violates the Eighth
+    Amendment because his alcoholism is a disease.
+  call: "Is his conviction constitutional?"
+  options:
+    A: "No, because it is cruel and unusual to punish a person for the symptoms of an illness."
+    B: "No, because the statute punishes the status of being an alcoholic."
+    C: "Yes, because the Eighth Amendment limits only the length of prison sentences."
+    D: "Yes, because the statute punishes the conduct of being intoxicated in public, not the status of being an alcoholic."
+  answer: D
+  explanation_correct: >-
+    D is correct. The Eighth Amendment forbids punishing a mere status, such as being addicted to narcotics
+    (Robinson v. California), but it permits punishing conduct, such as appearing drunk in public, even if
+    the conduct is related to a disease (R-CRM-118; Powell v. Texas). He was convicted for being intoxicated
+    in public, an act he chose to commit.
+  explanation_each_wrong_option:
+    A: >-
+      Overbroad. The Court has not held that conduct related to an illness cannot be punished; Powell upheld
+      a public-intoxication conviction of a chronic alcoholic.
+    B: >-
+      Confused rule. Robinson invalidated a law punishing the status of addiction itself; this statute
+      requires the act of being drunk in a public place (R-CRM-118).
+    C: >-
+      Overbroad. The Eighth Amendment also bars status crimes, excessive fines and certain categories of
+      punishment, not just disproportionate prison terms (R-CRM-118).
+  trap_type: confused-rule
+  authority: ["U.S. Const. amend. VIII", "Robinson v. California, 370 U.S. 660 (1962)", "Powell v. Texas, 392 U.S. 514 (1968)"]
+  source: original
+  tags: [wave1, eighth-amendment, status-crimes]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CRM-0045
+  subject: CRM
+  coverage_ids: [CRM-MBE-V.G]
+  rule_ids: [R-CRM-118, R-CRM-039]
+  difficulty: 2
+  stem: >-
+    A man agreed to drive two friends to a pharmacy that they planned to rob and to wait for them in the car
+    three blocks away. He did not know that either friend was armed and did not intend or expect anyone to
+    be harmed. During the robbery one friend unexpectedly shot and killed the pharmacist. The driver was
+    convicted of felony murder and sentenced to death.
+  call: "Is the death sentence constitutional?"
+  options:
+    A: "Yes, because he was validly convicted of felony murder, a capital crime."
+    B: "No, because he did not kill, attempt or intend to kill, and was not a major participant acting with reckless indifference to human life."
+    C: "Yes, because the death penalty is constitutional for any murder if the sentencer considers mitigating evidence."
+    D: "No, because the Eighth Amendment forbids the death penalty for any felony murder."
+  answer: B
+  explanation_correct: >-
+    B is correct. The Eighth Amendment bars the death penalty for a felony-murder accomplice who did not
+    kill, attempt to kill or intend that a killing take place (Enmund v. Florida), unless he was a major
+    participant in the felony who acted with reckless indifference to human life (Tison v. Arizona)
+    (R-CRM-118). A distant, unarmed getaway driver who did not know his partners were armed meets neither
+    standard.
+  explanation_each_wrong_option:
+    A: >-
+      A valid felony-murder conviction does not by itself make the defendant eligible for death; Enmund and
+      Tison impose a separate culpability requirement (R-CRM-118).
+    C: >-
+      Overbroad. Individualized sentencing is required, but categorical limits, including the Enmund/Tison
+      rule, still apply.
+    D: >-
+      Overbroad. Death may be imposed on a felony murderer who killed, intended to kill, or was a major
+      participant acting with reckless indifference (Tison).
+  trap_type: overbroad
+  authority: ["U.S. Const. amend. VIII", "Enmund v. Florida, 458 U.S. 782 (1982)", "Tison v. Arizona, 481 U.S. 137 (1987)"]
+  source: original
+  tags: [wave1, eighth-amendment, death-penalty, felony-murder]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CRM-0046
+  subject: CRM
+  coverage_ids: [CRM-MBE-V.H]
+  rule_ids: [R-CRM-119, R-CRM-032]
+  difficulty: 2
+  stem: >-
+    At a murder trial in which the defendant claimed that he fired his gun only to frighten the victim, the
+    judge instructed the jury: "The law presumes that a person intends the ordinary and natural consequences
+    of his voluntary acts." The judge gave no further explanation of the presumption. The defendant
+    objected, was convicted and appeals.
+  call: "Was the instruction constitutional?"
+  options:
+    A: "Yes, because it merely permitted the jury to infer intent from the defendant's conduct."
+    B: "Yes, because the defendant remained free to present evidence rebutting the presumption."
+    C: "No, because a reasonable juror could have understood it as a mandatory presumption that shifted to the defendant the burden of proof on intent, an element of the crime."
+    D: "No, because a judge may never instruct the jury about inferences it may draw from the evidence."
+  answer: C
+  explanation_correct: >-
+    C is correct. Due process requires the prosecution to prove every element beyond a reasonable doubt
+    (R-CRM-119; In re Winship). An instruction that a reasonable juror could read as a mandatory presumption
+    of intent, or as shifting the burden of persuasion on intent to the defendant, is unconstitutional
+    (Sandstrom v. Montana). "The law presumes," without more, can be read that way.
+  explanation_each_wrong_option:
+    A: >-
+      Fact-misread. A permissive inference is valid if rational, but this instruction was phrased as a
+      command ("the law presumes") with no statement that the jury was free to reject it (Sandstrom).
+    B: >-
+      Wrong standard. A presumption that shifts the burden of persuasion to the defendant is invalid even if
+      he may offer rebuttal evidence (R-CRM-119).
+    D: >-
+      Overbroad. Judges may instruct on permissive inferences, such as inferring intent to kill from the use
+      of a deadly weapon (R-CRM-032; Ulster County).
+  trap_type: wrong-standard
+  authority: ["U.S. Const. amend. XIV", "In re Winship, 397 U.S. 358 (1970)", "Sandstrom v. Montana, 442 U.S. 510 (1979)", "County Court of Ulster County v. Allen, 442 U.S. 140 (1979)"]
+  source: original
+  tags: [wave1, burden-of-proof, presumptions]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CRM-0047
+  subject: CRM
+  coverage_ids: [CRM-MBE-V.H]
+  rule_ids: [R-CRM-119, R-CRM-038]
+  difficulty: 3
+  stem: >-
+    A state defines murder as intentionally causing the death of another person. A separate statute provides
+    that a defendant may reduce murder to manslaughter by proving, by a preponderance of the evidence, that
+    he acted under the influence of extreme emotional disturbance for which there was a reasonable
+    explanation. A defendant convicted of murder after failing to persuade the jury of extreme emotional
+    disturbance argues that the statute unconstitutionally placed a burden of proof on him.
+  call: "Is the statute constitutional?"
+  options:
+    A: "Yes, because the state proved every element of murder beyond a reasonable doubt, and the defense does not negate any element."
+    B: "No, because due process requires the prosecution to disprove every defense beyond a reasonable doubt once it is raised."
+    C: "No, because extreme emotional disturbance concerns the defendant's mental state, which the prosecution must always prove."
+    D: "Yes, because a state may allocate the burden of proof on any issue in a criminal case as it chooses."
+  answer: A
+  explanation_correct: >-
+    A is correct. Due process requires proof beyond a reasonable doubt of every element of the crime as the
+    state defines it, but a state may require the defendant to prove an affirmative defense that does not
+    negate an element (R-CRM-119; Patterson v. New York). Murder here requires only an intentional killing;
+    extreme emotional disturbance is a mitigating defense outside the elements, so placing it on the
+    defendant is constitutional.
+  explanation_each_wrong_option:
+    B: >-
+      Overbroad. States may place the burden of persuasion on defendants for affirmative defenses such as
+      insanity, self-defense and extreme emotional disturbance (Patterson; Martin v. Ohio).
+    C: >-
+      Confused rule. The prosecution must prove the mental state the offense requires (intent to kill), not
+      the absence of every mitigating mental condition; Mullaney applied only where the absence of
+      provocation was part of the definition of murder (R-CRM-119).
+    D: >-
+      Overbroad. A state may not shift to the defendant the burden on any element of the offense, as
+      Sandstrom and Mullaney show (R-CRM-119).
+  trap_type: confused-rule
+  authority: ["U.S. Const. amend. XIV", "Patterson v. New York, 432 U.S. 197 (1977)", "Mullaney v. Wilbur, 421 U.S. 684 (1975)", "Martin v. Ohio, 480 U.S. 228 (1987)"]
+  source: original
+  tags: [wave1, burden-of-proof, affirmative-defenses]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CRM-0048
+  subject: CRM
+  coverage_ids: [CRM-MBE-V.H]
+  rule_ids: [R-CRM-111]
+  difficulty: 2
+  stem: >-
+    A jury convicted a defendant of aggravated assault, which carries a maximum sentence of five years. A
+    separate sentencing statute allows the maximum to be increased to ten years if the judge finds, by a
+    preponderance of the evidence, that the victim was 65 or older. At sentencing, the judge found that the
+    victim was 67, a fact the jury had not been asked to decide and the defendant had not admitted, and
+    imposed a nine-year sentence.
+  call: "Is the sentence constitutional?"
+  options:
+    A: "Yes, because a judge may find facts relevant to sentencing by a preponderance of the evidence."
+    B: "Yes, because the victim's age is a sentencing factor rather than an element of the offense."
+    C: "No, because every fact that affects a sentence must be found by a jury beyond a reasonable doubt."
+    D: "No, because a fact other than a prior conviction that increases the maximum penalty must be found by a jury beyond a reasonable doubt or admitted by the defendant."
+  answer: D
+  explanation_correct: >-
+    D is correct. Other than the fact of a prior conviction, any fact that increases the penalty beyond the
+    prescribed statutory maximum must be submitted to a jury and proved beyond a reasonable doubt, unless the
+    defendant admits it (R-CRM-111; Apprendi v. New Jersey; Blakely v. Washington). The judge's finding
+    raised the maximum from five to ten years, and the nine-year sentence exceeds the jury-authorized five.
+  explanation_each_wrong_option:
+    A: >-
+      Wrong standard. Judges may find facts that guide a sentence within the statutory range, but not facts
+      that raise the ceiling (R-CRM-111).
+    B: >-
+      Labels do not control. A fact that increases the maximum is the functional equivalent of an element,
+      whatever the legislature calls it (Apprendi).
+    C: >-
+      Overbroad. Judges may still find facts used to choose a sentence within the authorized range, as under
+      the advisory federal guidelines (United States v. Booker).
+  trap_type: wrong-standard
+  authority: ["U.S. Const. amend. VI", "Apprendi v. New Jersey, 530 U.S. 466 (2000)", "Blakely v. Washington, 542 U.S. 296 (2004)", "United States v. Booker, 543 U.S. 220 (2005)"]
+  source: original
+  tags: [wave1, apprendi, sentencing]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CRM-0049
+  subject: CRM
+  coverage_ids: [CRM-MBE-V.I]
+  rule_ids: [R-CRM-120, R-CRM-104, R-CRM-105]
+  difficulty: 3
+  stem: >-
+    A defendant charged with fraud hired an experienced lawyer to represent him. The trial court, misreading
+    a local rule, wrongly refused to allow that lawyer to appear and required the defendant to proceed with
+    a different lawyer. The substitute lawyer performed competently, and the defendant was convicted. On
+    appeal, the state concedes that the trial court erred but argues that the conviction should be affirmed
+    because the evidence of guilt was overwhelming and the substitute lawyer was effective.
+  call: "How should the appellate court rule?"
+  options:
+    A: "Affirm, because the defendant cannot show a reasonable probability that his chosen lawyer would have obtained a different result."
+    B: "Reverse, because the erroneous denial of counsel of choice is structural error requiring automatic reversal."
+    C: "Affirm, because the state has shown beyond a reasonable doubt that the error did not contribute to the verdict."
+    D: "Reverse only if the defendant proves that the substitute lawyer's performance was deficient."
+  answer: B
+  explanation_correct: >-
+    B is correct. A defendant who can retain counsel has a Sixth Amendment right to counsel of his choice,
+    and its erroneous denial is structural error requiring automatic reversal, without any inquiry into
+    prejudice or the quality of substitute counsel (R-CRM-104, R-CRM-120; United States v. Gonzalez-Lopez).
+  explanation_each_wrong_option:
+    A: >-
+      Wrong standard. The Strickland prejudice test governs ineffective-assistance claims (R-CRM-105), not
+      the wrongful denial of chosen counsel.
+    C: >-
+      Wrong standard. Chapman harmless-error review applies to most trial errors, but structural errors are
+      not subject to it (R-CRM-120).
+    D: >-
+      The right violated is the right to the lawyer of one's choice, not to effective representation; the
+      substitute's competence is irrelevant (Gonzalez-Lopez).
+  trap_type: wrong-standard
+  authority: ["U.S. Const. amend. VI", "United States v. Gonzalez-Lopez, 548 U.S. 140 (2006)", "Chapman v. California, 386 U.S. 18 (1967)", "Strickland v. Washington, 466 U.S. 668 (1984)"]
+  source: original
+  tags: [wave1, appeal-and-error, structural-error, counsel-of-choice]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CRM-0050
+  subject: CRM
+  coverage_ids: [CRM-MBE-V.I]
+  rule_ids: [R-CRM-120, R-CRM-093]
+  difficulty: 3
+  stem: >-
+    At a defendant's robbery trial, the court admitted a confession that the police had obtained by
+    threatening to arrest the defendant's elderly mother. On direct appeal, the state concedes that the
+    confession was involuntary. The other evidence of guilt included a clear surveillance video of the
+    robbery, the defendant's fingerprints on the cash drawer and three eyewitness identifications.
+  call: "What standard should the appellate court apply in deciding whether to reverse the conviction?"
+  options:
+    A: "Reverse automatically, because admission of a coerced confession is structural error."
+    B: "Affirm unless the defendant proves by a preponderance of the evidence that the confession affected the verdict."
+    C: "Affirm only if the state proves beyond a reasonable doubt that admission of the confession did not contribute to the verdict."
+    D: "Affirm if the remaining evidence was sufficient for a rational jury to find guilt beyond a reasonable doubt."
+  answer: C
+  explanation_correct: >-
+    C is correct. Admission of an involuntary confession violates due process (R-CRM-093), but it is a
+    trial error subject to harmless-error analysis rather than structural error (Arizona v. Fulminante). On
+    direct appeal, the conviction stands only if the state proves beyond a reasonable doubt that the error
+    did not contribute to the verdict (R-CRM-120; Chapman v. California).
+  explanation_each_wrong_option:
+    A: >-
+      Outdated rule. Coerced confessions were once thought to require automatic reversal, but Fulminante
+      held that harmless-error review applies.
+    B: >-
+      Wrong burden. Under Chapman the state, as beneficiary of the error, must prove harmlessness beyond a
+      reasonable doubt (R-CRM-120).
+    D: >-
+      Confused rule. Sufficiency of the remaining evidence (Jackson v. Virginia) is not the test; the
+      question is whether the error contributed to the verdict actually rendered.
+  trap_type: wrong-standard
+  authority: ["U.S. Const. amend. XIV", "Arizona v. Fulminante, 499 U.S. 279 (1991)", "Chapman v. California, 386 U.S. 18 (1967)"]
+  source: original
+  tags: [wave1, appeal-and-error, harmless-error]
+  status: draft
+  last_verified: 2026-11-04

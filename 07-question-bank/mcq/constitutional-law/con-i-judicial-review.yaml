@@ -1,0 +1,347 @@
+# Constitutional Law — NCBE category I: the nature of judicial review
+# Original MBE-style items (wave 1). MBE rule = federal constitutional law.
+questions:
+- id: Q-CON-0001
+  subject: CON
+  coverage_ids: [CON-MBE-I.B.1]
+  rule_ids: [R-CON-004, R-CON-003]
+  difficulty: 2
+  stem: >-
+    A federal statute requires an employee alleging workplace discrimination to file suit within 90 days
+    after receiving a right-to-sue notice. Over several years, federal district courts dismissed hundreds
+    of such suits as untimely, and in each case the time to appeal expired without an appeal. Congress
+    then enacted a statute providing that any action dismissed as untimely under the 90-day rule "shall be
+    reinstated upon motion of the plaintiff filed within one year," and extending the filing period for
+    future suits to 180 days. A former plaintiff whose dismissal became final two years earlier moves to
+    reinstate her suit. The employer objects that the reinstatement provision is unconstitutional.
+  call: "How should the court rule on the employer's objection?"
+  options:
+    A: "Overrule it, because Congress has plenary power to define and limit the jurisdiction of the lower federal courts."
+    B: "Overrule it, because Congress may change the substantive law and require courts to apply the new law to cases before them."
+    C: "Sustain it, because Congress may not require Article III courts to reopen final judgments."
+    D: "Sustain it, because the provision retroactively impairs the employer's settled expectations in violation of the Contracts Clause."
+  answer: C
+  explanation_correct: >-
+    C is correct. Congress's power over federal jurisdiction is broad, but it may not reopen final
+    judgments of Article III courts (R-CON-004; Plaut v. Spendthrift Farm). Once the time to appeal
+    expired, each dismissal was the final word of the judicial department in that case; a statute
+    commanding courts to set those judgments aside lets Congress revise judicial decisions and violates
+    the separation of powers. The prospective change (180 days for future suits) is valid; only the
+    reinstatement of final judgments fails.
+  explanation_each_wrong_option:
+    A: >-
+      True but irrelevant. Congress may create, abolish and limit lower-court jurisdiction (R-CON-003), but
+      this statute does not withdraw jurisdiction; it orders courts to undo their own final judgments,
+      which Plaut forbids (R-CON-004).
+    B: >-
+      Congress may amend the substantive law and apply it to cases still pending, including on appeal
+      (R-CON-004). These cases were no longer pending; the judgments were final, which is exactly the
+      line Plaut draws.
+    D: >-
+      Wrong clause. The Contracts Clause (art. I, § 10) limits only state legislation impairing existing
+      contracts (R-CON-083); it does not apply to Congress, and no contract is involved.
+  trap_type: confused-rule
+  authority: ["U.S. Const. art. III, § 1", "Plaut v. Spendthrift Farm, Inc., 514 U.S. 211 (1995)", "Sheldon v. Sill, 49 U.S. (8 How.) 441 (1850)"]
+  source: original
+  tags: [wave1, jurisdiction-stripping, separation-of-powers]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CON-0002
+  subject: CON
+  coverage_ids: [CON-MBE-I.B.2]
+  rule_ids: [R-CON-005, R-CON-006, R-CON-045]
+  difficulty: 2
+  stem: >-
+    A maintenance worker employed by a state university, which is an arm of the state, sued the
+    university in federal district court for $18,000 in unpaid overtime wages under a federal
+    wage-and-hour statute. Congress enacted the statute under its Commerce Clause power, and the statute
+    states unmistakably that employees may sue public employers, expressly including states, for damages
+    in federal or state court. The worker is a citizen of the same state as the university. The state has
+    not consented to the suit, and the university moves to dismiss.
+  call: "Should the court grant the motion?"
+  options:
+    A: "Yes, because Congress cannot use its Commerce Clause power to abrogate a state's sovereign immunity from private damages suits."
+    B: "Yes, because a federal wage-and-hour statute cannot constitutionally regulate the wages a state pays its own employees."
+    C: "No, because the Eleventh Amendment bars only suits against a state by citizens of another state."
+    D: "No, because Congress clearly and expressly stated its intent to subject states to damages suits."
+  answer: A
+  explanation_correct: >-
+    A is correct. A nonconsenting state is immune from private suits for damages in federal court, whether
+    the plaintiff is a citizen of another state or of the defendant state (R-CON-005; Hans v. Louisiana).
+    Congress may abrogate that immunity only with an unmistakably clear statement and a valid power to do
+    so; Article I powers such as the Commerce Clause cannot abrogate (R-CON-006; Seminole Tribe). The state
+    university is an arm of the state, has not consented, and the relief sought is retrospective money
+    from the state, so the suit must be dismissed.
+  explanation_each_wrong_option:
+    B: >-
+      Right result, wrong reason. Under Garcia, Congress may apply generally applicable wage laws to
+      states (R-CON-045). The defect is the private damages remedy in court, not the substantive
+      regulation; the United States itself could sue to enforce the statute.
+    C: >-
+      Confused rule. The Amendment's text speaks of citizens of another state, but Hans extended the
+      immunity to suits by a state's own citizens (R-CON-005).
+    D: >-
+      Missing element. A clear statement is necessary but not sufficient; Congress must also act under a
+      power that can abrogate immunity, chiefly § 5 of the Fourteenth Amendment (R-CON-006).
+  trap_type: missing-element
+  authority: ["U.S. Const. amend. XI", "Hans v. Louisiana, 134 U.S. 1 (1890)", "Seminole Tribe of Fla. v. Florida, 517 U.S. 44 (1996)", "Garcia v. San Antonio Metro. Transit Auth., 469 U.S. 528 (1985)"]
+  source: original
+  tags: [wave1, eleventh-amendment, sovereign-immunity]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CON-0003
+  subject: CON
+  coverage_ids: [CON-MBE-I.B.2]
+  rule_ids: [R-CON-006, R-CON-005]
+  difficulty: 2
+  stem: >-
+    A nonprofit organization that publishes a road-safety newsletter sued the director of a state's
+    Department of Motor Vehicles, in her official capacity, in federal district court. The complaint
+    alleges that a state regulation requiring nonprofit publishers to pay a special "distribution permit"
+    fee before handing out literature at highway rest stops violates the First Amendment. The organization
+    asks the court (1) to enjoin the director from enforcing the fee requirement in the future and (2) to
+    order the director to refund, from the state treasury, the $40,000 in fees the organization paid over
+    the past five years. The state has not waived its immunity.
+  call: "If the organization proves its claim, which relief may the federal court award?"
+  options:
+    A: "Both the injunction and the refund, because the suit names a state officer rather than the state."
+    B: "The injunction only, because the refund is retrospective relief payable from the state treasury."
+    C: "The refund only, because an injunction against a state officer would interfere with the state's sovereign functions."
+    D: "Neither, because a suit against a state officer in her official capacity is a suit against the state."
+  answer: B
+  explanation_correct: >-
+    B is correct. Under Ex parte Young, a federal court may grant prospective injunctive or declaratory
+    relief against a state officer to stop an ongoing violation of federal law (R-CON-006). Sovereign
+    immunity still bars retrospective monetary relief that must be paid from the state treasury, even when
+    the suit is nominally against an officer (R-CON-005; Edelman v. Jordan). The future-enforcement
+    injunction is available; the $40,000 refund is not.
+  explanation_each_wrong_option:
+    A: >-
+      Overbroad. Naming the officer opens the door only to prospective relief; a refund of past payments
+      from the treasury is retrospective relief that the Eleventh Amendment bars (Edelman).
+    C: >-
+      Reverses the rule. Prospective injunctions against officers are the core of Ex parte Young; it is
+      the retrospective refund that is barred (R-CON-006).
+    D: >-
+      Overbroad. An official-capacity suit for damages is treated as a suit against the state, but the Ex
+      parte Young doctrine allows prospective relief against the officer (R-CON-006).
+  trap_type: overbroad
+  authority: ["U.S. Const. amend. XI", "Ex parte Young, 209 U.S. 123 (1908)", "Edelman v. Jordan, 415 U.S. 651 (1974)"]
+  source: original
+  tags: [wave1, eleventh-amendment, ex-parte-young]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CON-0004
+  subject: CON
+  coverage_ids: [CON-MBE-I.C.1]
+  rule_ids: [R-CON-013, R-CON-008]
+  difficulty: 2
+  stem: >-
+    Four plaintiffs, each a federal taxpayer, file separate suits in federal court. None of them claims any
+    injury other than the fact that federal tax money is being spent or used in the way the plaintiff
+    challenges.
+  call: "Which plaintiff is most likely to have standing?"
+  options:
+    A: "A taxpayer challenging, as wasteful and beyond Congress's powers, a congressional appropriation to renovate a military museum."
+    B: "A taxpayer challenging, under the Establishment Clause, a federal statute that appropriates funds for grants to churches to buy religious instructional materials."
+    C: "A taxpayer challenging, under the Establishment Clause, a cabinet secretary's decision to use her department's general administrative budget to host conferences for religious charities."
+    D: "A taxpayer challenging, under the Establishment Clause, Congress's transfer of a surplus federal building to a religious college under the Property Clause."
+  answer: B
+  explanation_correct: >-
+    B is correct. Taxpayer status alone is a generalized grievance and does not confer standing (R-CON-013).
+    The single exception (Flast v. Cohen) requires (1) a challenge to a congressional exercise of the
+    taxing and spending power (2) on the ground that it violates the Establishment Clause. A statute
+    appropriating money for grants to churches to buy religious materials satisfies both elements.
+  explanation_each_wrong_option:
+    A: >-
+      Generalized grievance. Flast is limited to Establishment Clause claims; a claim that spending is
+      wasteful or beyond Congress's powers gives no standing (R-CON-013).
+    C: >-
+      Confused rule. Discretionary executive spending from general appropriations is not a congressional
+      exercise of the spending power, so Flast does not apply (Hein v. Freedom From Religion Foundation).
+    D: >-
+      Confused rule. A transfer of property under the Property Clause is not an exercise of the taxing and
+      spending power (Valley Forge), so the Flast exception does not reach it (R-CON-013).
+  trap_type: confused-rule
+  authority: ["Flast v. Cohen, 392 U.S. 83 (1968)", "Hein v. Freedom From Religion Found., 551 U.S. 587 (2007)", "Valley Forge Christian College v. Americans United for Separation of Church & State, 454 U.S. 464 (1982)"]
+  source: original
+  tags: [wave1, standing, taxpayer-standing]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CON-0005
+  subject: CON
+  coverage_ids: [CON-MBE-I.C.1]
+  rule_ids: [R-CON-016]
+  difficulty: 3
+  stem: >-
+    A state university requires every first-year undergraduate to live in university housing. A first-year
+    student sued the university's president in federal court, claiming the rule violates her
+    constitutional rights. She sought only a declaratory judgment and an injunction allowing her to live
+    off campus; she did not seek damages, and no class was certified. The district court ruled for the
+    university in March. By the time the appeal is argued the following October, the student is a
+    sophomore living off campus. The university's rule remains in force for incoming first-year students.
+  call: "How should the court of appeals dispose of the appeal?"
+  options:
+    A: "Decide the merits, because the challenged rule lasts only one academic year, which is too short to be fully litigated."
+    B: "Decide the merits, because the university has not voluntarily abandoned the rule."
+    C: "Decide the merits, because the rule continues to apply to other first-year students."
+    D: "Dismiss the appeal as moot, because the student can no longer be subject to the rule and seeks no damages."
+  answer: D
+  explanation_correct: >-
+    D is correct. A case becomes moot when events after filing leave the court unable to grant the
+    plaintiff effective relief (R-CON-016). The student now lives off campus and will never again be a
+    first-year student, so an injunction or declaration would do nothing for her. No exception applies:
+    she sought no damages, no class was certified, and the capable-of-repetition exception requires a
+    reasonable expectation that the same complaining party will be subjected to the action again.
+  explanation_each_wrong_option:
+    A: >-
+      Exception trap. Shortness is only half of "capable of repetition, yet evading review"; the same
+      plaintiff must also reasonably expect to face the rule again (Weinstein v. Bradford). She cannot.
+    B: >-
+      Wrong doctrine. Voluntary cessation keeps a case alive when the defendant stops the conduct; here
+      the plaintiff's own situation changed, which is ordinary mootness (DeFunis v. Odegaard).
+    C: >-
+      Other students' interests keep a case alive only in a certified class action (Sosna); in an
+      individual suit, the named plaintiff must retain a personal stake (R-CON-016).
+  trap_type: exception-trap
+  authority: ["DeFunis v. Odegaard, 416 U.S. 312 (1974)", "Weinstein v. Bradford, 423 U.S. 147 (1975)", "Sosna v. Iowa, 419 U.S. 393 (1975)"]
+  source: original
+  tags: [wave1, mootness, justiciability]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CON-0006
+  subject: CON
+  coverage_ids: [CON-MBE-I.C.1]
+  rule_ids: [R-CON-015, R-CON-019]
+  difficulty: 2
+  stem: >-
+    A state enacted a statute making it a misdemeanor to "distribute any printed material that criticizes a
+    candidate for public office without disclosing the name of its author." The day after the law took
+    effect, the state attorney general announced at a press conference that her office would "vigorously
+    prosecute" violators during the upcoming campaign. A citizen who regularly writes and hands out
+    anonymous leaflets criticizing incumbent officials wants to continue doing so in the upcoming
+    campaign. She has not been charged. She sues the attorney general in federal court for a declaratory
+    judgment that the statute violates the First Amendment, and the attorney general moves to dismiss.
+  call: "How should the court rule on the motion to dismiss?"
+  options:
+    A: "Grant it, because the claim is not ripe until the citizen is prosecuted."
+    B: "Grant it, because the federal court must abstain so that the citizen can raise the First Amendment as a defense in state court."
+    C: "Deny it, because the citizen intends conduct that is arguably constitutionally protected and proscribed by the statute, and she faces a credible threat of prosecution."
+    D: "Deny it, because any citizen may challenge a statute that restricts political speech."
+  answer: C
+  explanation_correct: >-
+    C is correct. A pre-enforcement challenge is ripe when the plaintiff intends to engage in conduct
+    arguably affected with a constitutional interest, the conduct is arguably proscribed by the statute,
+    and there is a credible threat of enforcement (R-CON-015; Susan B. Anthony List v. Driehaus). The
+    citizen's planned anonymous leafleting is covered by the statute, and the attorney general's public
+    promise to prosecute makes the threat credible. She need not violate the law and risk prosecution
+    first (Steffel v. Thompson).
+  explanation_each_wrong_option:
+    A: >-
+      Wrong standard. Ripeness does not require an actual prosecution; a credible threat suffices, and
+      Steffel permits declaratory relief before any charge (R-CON-015).
+    B: >-
+      Procedural-posture trap. Younger abstention applies only when a state proceeding is already pending
+      (R-CON-019). No prosecution has begun, so the federal court should hear the case.
+    D: >-
+      Overbroad. A citizen as such raises only a generalized grievance; the citizen here has standing
+      because of her own intended speech and the credible threat against her (R-CON-008, R-CON-015).
+  trap_type: procedural-posture
+  authority: ["Steffel v. Thompson, 415 U.S. 452 (1974)", "Susan B. Anthony List v. Driehaus, 573 U.S. 149 (2014)", "Younger v. Harris, 401 U.S. 37 (1971)"]
+  source: original
+  tags: [wave1, ripeness, justiciability]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CON-0007
+  subject: CON
+  coverage_ids: [CON-MBE-I.C.2]
+  rule_ids: [R-CON-018]
+  difficulty: 3
+  stem: >-
+    Police searched a man's car after a traffic stop and found drugs. The state's highest court ordered the
+    evidence suppressed. Its opinion relied entirely on decisions of the United States Supreme Court
+    interpreting the Fourth Amendment, but it stated that the court was enforcing the search-and-seizure
+    clause of the state constitution, which "we have always construed to be coextensive with the Fourth
+    Amendment." The opinion contained no statement that the decision rested on separate, adequate and
+    independent state grounds. The state petitions the United States Supreme Court for review, arguing
+    that the state court misread the Fourth Amendment cases.
+  call: "May the Supreme Court review the state court's decision?"
+  options:
+    A: "Yes, because the state-law ground is not independent of federal law."
+    B: "Yes, because the Supreme Court may review any state-court decision that involves a federal question."
+    C: "No, because the state court expressly rested its decision on the state constitution."
+    D: "No, because a state court's interpretation of its own constitution binds the Supreme Court."
+  answer: A
+  explanation_correct: >-
+    A is correct. The Supreme Court will not review a state judgment resting on a state ground that is
+    both adequate and independent of federal law (R-CON-018). When a state decision fairly appears to
+    rest primarily on federal law or to be interwoven with it, and the court does not plainly state that
+    it rests on independent state grounds, the Court presumes it has jurisdiction (Michigan v. Long). A
+    state clause read in lockstep with the Fourth Amendment and applied solely through federal precedent
+    is not independent: if the state court misread federal law, its state-law holding falls with it.
+  explanation_each_wrong_option:
+    B: >-
+      Overbroad. The presence of a federal question is not enough; an adequate and independent state
+      ground defeats review even when federal issues are also decided (R-CON-018).
+    C: >-
+      Fact-misread. Citing the state constitution is not a plain statement of independence when the
+      analysis depends entirely on federal law (Michigan v. Long).
+    D: >-
+      True but irrelevant. The Court accepts a state court's reading of state law, but here the state
+      court tied its reading to federal law, so the federal question controls the outcome.
+  trap_type: fact-misread
+  authority: ["Michigan v. Long, 463 U.S. 1032 (1983)", "28 U.S.C. § 1257"]
+  source: original
+  tags: [wave1, adequate-independent-state-ground]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CON-0008
+  subject: CON
+  coverage_ids: [CON-MBE-I.C.3]
+  rule_ids: [R-CON-017]
+  difficulty: 2
+  stem: >-
+    A candidate won election to the U.S. House of Representatives. She is 31 years old, has been a U.S.
+    citizen for 15 years and lives in the state she was elected to represent. Before she was sworn in, a
+    newspaper reported that she had misused campaign funds in an earlier state-legislative race. By a
+    simple-majority vote, the House adopted a resolution refusing to seat her. She sued the House officers
+    responsible for paying members' salaries, seeking a declaration that her exclusion was
+    unconstitutional and an award of back pay. The defendants move to dismiss on the ground that the case
+    presents a nonjusticiable political question.
+  call: "Should the court grant the motion?"
+  options:
+    A: "Yes, because the Constitution makes each House the judge of the qualifications of its own members."
+    B: "Yes, because a judgment against the House would express a lack of respect for a coordinate branch."
+    C: "No, because the political question doctrine never applies to disputes involving Congress."
+    D: "No, because the House's power to judge qualifications is limited to the qualifications fixed in the Constitution, and courts can decide whether those were met."
+  answer: D
+  explanation_correct: >-
+    D is correct. A political question exists chiefly where the Constitution textually commits an issue to
+    another branch or no judicially manageable standards exist (R-CON-017; Baker v. Carr). The House's
+    power to judge members' "qualifications" is a commitment only to judge the qualifications the
+    Constitution states (age 25, seven years' citizenship, inhabitancy), and courts can decide whether the
+    House exceeded that power (Powell v. McCormack). She met all three, so the exclusion claim is
+    justiciable.
+  explanation_each_wrong_option:
+    A: >-
+      Political-question overuse. The textual commitment is limited to the constitutional qualifications;
+      it does not let the House add new ones by majority vote (Powell).
+    B: >-
+      A prudential Baker factor does not by itself make a claim nonjusticiable; deciding whether Congress
+      acted within constitutional limits is the ordinary judicial function (R-CON-001, R-CON-017).
+    C: >-
+      Overbroad. Some congressional matters are political questions, such as Senate impeachment-trial
+      procedures (Nixon v. United States). The correct reason is the limited scope of the commitment.
+  trap_type: overbroad
+  authority: ["U.S. Const. art. I, §§ 2, 5", "Baker v. Carr, 369 U.S. 186 (1962)", "Powell v. McCormack, 395 U.S. 486 (1969)", "Nixon v. United States, 506 U.S. 224 (1993)"]
+  source: original
+  tags: [wave1, political-question, justiciability]
+  status: draft
+  last_verified: 2026-11-04

@@ -1,0 +1,325 @@
+# Constitutional Law — NCBE category III: the relation of nation and states in a federal system
+# Original MBE-style items (wave 1).
+questions:
+- id: Q-CON-0018
+  subject: CON
+  coverage_ids: [CON-MBE-III.A.1]
+  rule_ids: [R-CON-044]
+  difficulty: 3
+  stem: >-
+    A state imposes a 2 percent tax on the gross receipts of every business operating in the state. A
+    private corporation that operates a federal research laboratory in the state under a
+    cost-reimbursement contract with the U.S. Department of Energy pays the tax, and under the contract the
+    Department reimburses the corporation for it. The tax applies to the contractor exactly as it applies
+    to every other business in the state. The United States sues to invalidate the tax as applied to the
+    contractor.
+  call: "Is the tax constitutional as applied to the contractor?"
+  options:
+    A: "Yes, because it is a nondiscriminatory tax on a private party, even though its economic burden falls on the federal government."
+    B: "No, because a state may not tax any entity that performs work for the federal government."
+    C: "No, because the legal incidence of the tax falls on the United States, which reimburses it."
+    D: "Yes, because the Supremacy Clause places no limits on a state's power to tax."
+  answer: A
+  explanation_correct: >-
+    A is correct. States may not tax the United States directly or discriminate against it or those who
+    deal with it, but they may impose a nondiscriminatory tax on private parties that contract with the
+    federal government, even when the economic burden is passed on to the United States (R-CON-044; United
+    States v. New Mexico). The legal incidence falls on the contractor, and the tax treats it like every
+    other business.
+  explanation_each_wrong_option:
+    B: >-
+      Overbroad. A federal contractor is not a federal instrumentality merely because it works for the
+      government; only direct taxes on the United States or discriminatory taxes are barred (R-CON-044).
+    C: >-
+      Fact-misread. Reimbursement shifts the economic burden, not the legal incidence; the tax is imposed
+      on the contractor's receipts (United States v. New Mexico).
+    D: >-
+      Overbroad. Intergovernmental immunity, grounded in the Supremacy Clause, forbids direct state taxes
+      on the United States and discrimination against it (McCulloch; North Dakota v. United States).
+  trap_type: fact-misread
+  authority: ["U.S. Const. art. VI, cl. 2", "McCulloch v. Maryland, 17 U.S. (4 Wheat.) 316 (1819)", "United States v. New Mexico, 455 U.S. 720 (1982)"]
+  source: original
+  tags: [wave1, intergovernmental-immunity, state-taxation]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CON-0019
+  subject: CON
+  coverage_ids: [CON-MBE-III.A.2]
+  rule_ids: [R-CON-046, R-CON-045]
+  difficulty: 1
+  stem: >-
+    To reduce bombings, Congress enacted a statute requiring every county sheriff to conduct a
+    criminal-background check, within five days, on anyone who buys more than 50 pounds of commercial
+    explosives from a dealer in the county, and to report the results to a federal agency. Congress fully
+    funded the cost of the checks. A county sheriff refuses to perform them and sues to have the
+    requirement declared unconstitutional.
+  call: "Is the requirement constitutional?"
+  options:
+    A: "Yes, because the sale of explosives substantially affects interstate commerce."
+    B: "No, because Congress may not compel state executive officers to administer a federal regulatory program."
+    C: "Yes, because Congress fully funded the checks, so the requirement imposes no burden on the county."
+    D: "No, because the regulation of explosives is a traditional state police power reserved by the Tenth Amendment."
+  answer: B
+  explanation_correct: >-
+    B is correct. The anti-commandeering rule forbids Congress to conscript state or local executive
+    officers to enforce a federal regulatory program (R-CON-046; Printz v. United States). Ordering
+    sheriffs to perform background checks for a federal scheme is exactly that. Congress may instead
+    regulate dealers and buyers directly or offer funding conditions.
+  explanation_each_wrong_option:
+    A: >-
+      True but irrelevant. Congress could regulate explosives sales directly under the commerce power, but
+      commandeering is an external limit that applies even to laws within an enumerated power (R-CON-046).
+    C: >-
+      Funding does not cure commandeering; the constitutional injury is the compulsion of state officers,
+      not the cost (Printz).
+    D: >-
+      Wrong reason. The Tenth Amendment does not wall off subjects such as explosives from federal
+      regulation; it forbids commandeering (R-CON-045, R-CON-046).
+  trap_type: true-but-irrelevant
+  authority: ["U.S. Const. amend. X", "Printz v. United States, 521 U.S. 898 (1997)", "New York v. United States, 505 U.S. 144 (1992)"]
+  source: original
+  tags: [wave1, anti-commandeering, tenth-amendment]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CON-0020
+  subject: CON
+  coverage_ids: [CON-MBE-III.A.2]
+  rule_ids: [R-CON-045, R-CON-046]
+  difficulty: 2
+  stem: >-
+    Congress amended a federal workplace-safety statute, enacted under the Commerce Clause, to require every
+    employer with more than 20 employees, public or private, to provide high-visibility protective clothing
+    to workers who work near moving traffic. A state highway department, which employs 900 road workers,
+    sues, arguing that the amendment violates the Tenth Amendment by regulating how the state manages its
+    own employees.
+  call: "Is the amendment constitutional as applied to the state?"
+  options:
+    A: "No, because it regulates the states as states in an area of traditional governmental functions."
+    B: "No, because it commandeers the state to implement a federal regulatory program."
+    C: "Yes, because the state accepts federal highway funds and thereby consented to federal regulation."
+    D: "Yes, because Congress may subject states to generally applicable laws that also regulate private employers."
+  answer: D
+  explanation_correct: >-
+    D is correct. Congress may apply a generally applicable law, valid under an enumerated power, to states
+    in the same way it applies to private parties; the states' protection lies mainly in the political
+    process (R-CON-045; Garcia v. San Antonio Metropolitan Transit Authority). The amendment regulates the
+    state as an employer, like any other employer.
+  explanation_each_wrong_option:
+    A: >-
+      Confused rule. The "traditional governmental functions" test of National League of Cities v. Usery
+      was overruled by Garcia (R-CON-045).
+    B: >-
+      Not commandeering. The law does not order the state to legislate or to enforce federal law against
+      others; it regulates the state's own conduct as an employer (R-CON-046).
+    C: >-
+      No facts show a funding condition, and the law is valid without one; consent through spending is
+      irrelevant (R-CON-024).
+  trap_type: confused-rule
+  authority: ["U.S. Const. amend. X", "Garcia v. San Antonio Metro. Transit Auth., 469 U.S. 528 (1985)", "Reno v. Condon, 528 U.S. 141 (2000)"]
+  source: original
+  tags: [wave1, tenth-amendment, state-immunity]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CON-0021
+  subject: CON
+  coverage_ids: [CON-MBE-III.B.1]
+  rule_ids: [R-CON-047, R-CON-048, R-CON-053]
+  difficulty: 2
+  stem: >-
+    A coastal state enacted a statute requiring that all oysters harvested from its waters be shucked and
+    packed at facilities located within the state before being shipped elsewhere. The legislature declared
+    that the law would "guarantee the quality of our oysters and keep processing jobs at home." An
+    out-of-state seafood-processing corporation that previously bought unshucked oysters from the state's
+    harvesters and processed them at its own plant across the border sues to invalidate the law.
+  call: "How should the court rule?"
+  options:
+    A: "Uphold the law, because its burden on interstate commerce is not clearly excessive in relation to its quality-control benefits."
+    B: "Uphold the law, because the state owns the oysters in its waters and may condition their removal."
+    C: "Strike the law, because it discriminates against interstate commerce and the state's quality interest could be served by nondiscriminatory means such as inspection."
+    D: "Strike the law, because it violates the Privileges and Immunities Clause of Article IV."
+  answer: C
+  explanation_correct: >-
+    C is correct. A state law that discriminates against interstate commerce to benefit in-state economic
+    interests is virtually per se invalid unless the state shows a legitimate purpose that cannot be served
+    by reasonable nondiscriminatory alternatives (R-CON-047). A requirement that processing occur in-state
+    hoards the processing business for local firms (Carbone), and the stated quality goal can be met by
+    inspection or grading standards applied to all processors.
+  explanation_each_wrong_option:
+    A: >-
+      Wrong standard. Pike balancing applies only to nondiscriminatory laws (R-CON-048); a local-processing
+      requirement is discriminatory and gets the near-per-se rule.
+    B: >-
+      Outdated rule. The state-ownership theory of wild animals was rejected (Hughes v. Oklahoma); a
+      state's interest in its fish and wildlife does not excuse discrimination (R-CON-047).
+    D: >-
+      Wrong plaintiff. Corporations are not "citizens" protected by Article IV P&I (R-CON-053); the
+      dormant Commerce Clause is the corporation's vehicle.
+  trap_type: wrong-standard
+  authority: ["U.S. Const. art. I, § 8, cl. 3", "C & A Carbone, Inc. v. Town of Clarkstown, 511 U.S. 383 (1994)", "Hughes v. Oklahoma, 441 U.S. 322 (1979)", "Dean Milk Co. v. City of Madison, 340 U.S. 349 (1951)"]
+  source: original
+  tags: [wave1, dormant-commerce-clause, discrimination]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CON-0022
+  subject: CON
+  coverage_ids: [CON-MBE-III.B.1]
+  rule_ids: [R-CON-048, R-CON-047]
+  difficulty: 2
+  stem: >-
+    To reduce litter and landfill waste, a state banned the retail sale of single-use polystyrene foam food
+    containers. Foam containers are made by manufacturers both inside and outside the state, and the paper
+    containers that restaurants will use instead are also made both inside and outside the state. An
+    out-of-state foam-container manufacturer, which will lose about $3 million a year in sales in the state,
+    sues, claiming the ban violates the dormant Commerce Clause.
+  call: "Is the ban likely to be upheld?"
+  options:
+    A: "Yes, because the ban regulates evenhandedly and its incidental burden on interstate commerce is not clearly excessive in relation to its environmental benefits."
+    B: "No, because the ban substantially reduces the interstate sale of foam containers."
+    C: "Yes, because a state law that serves an environmental purpose is not subject to dormant Commerce Clause review."
+    D: "No, because the state cannot prove that the ban is the least restrictive means of reducing litter."
+  answer: A
+  explanation_correct: >-
+    A is correct. A law that regulates evenhandedly to serve a legitimate local interest, with only
+    incidental effects on interstate commerce, is upheld unless the burden on commerce is clearly excessive
+    in relation to the local benefits (R-CON-048; Pike v. Bruce Church). The ban burdens in-state and
+    out-of-state foam makers alike and favors no local industry, and reducing litter and landfill waste is
+    a legitimate interest that the ban plausibly serves.
+  explanation_each_wrong_option:
+    B: >-
+      A burden on some interstate firms is not discrimination, and lost sales alone do not make the burden
+      clearly excessive (Exxon v. Governor of Maryland; R-CON-048).
+    C: >-
+      Overbroad. Environmental laws are reviewed under the dormant Commerce Clause; a discriminatory
+      environmental law fails (Philadelphia v. New Jersey). This one survives because it is neutral.
+    D: >-
+      Wrong standard. The "no less discriminatory alternative" burden on the state applies to
+      discriminatory laws (R-CON-047); Pike asks only whether the burden is clearly excessive.
+  trap_type: wrong-standard
+  authority: ["Pike v. Bruce Church, Inc., 397 U.S. 137 (1970)", "Exxon Corp. v. Governor of Maryland, 437 U.S. 117 (1978)", "City of Philadelphia v. New Jersey, 437 U.S. 617 (1978)"]
+  source: original
+  tags: [wave1, dormant-commerce-clause, pike-balancing]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CON-0023
+  subject: CON
+  coverage_ids: [CON-MBE-III.B.1]
+  rule_ids: [R-CON-049, R-CON-053, R-CON-052]
+  difficulty: 2
+  stem: >-
+    A state owns and operates a plant that manufactures road salt. During a severe winter in which road
+    salt was scarce nationwide, the state adopted a policy that its plant would sell salt only to cities
+    and private snow-removal companies located in the state until their needs were met. An out-of-state
+    snow-removal corporation that had bought salt from the plant for years sues to invalidate the policy.
+  call: "Is the corporation likely to prevail?"
+  options:
+    A: "Yes, because the policy facially discriminates against out-of-state purchasers in violation of the dormant Commerce Clause."
+    B: "Yes, because the policy violates the Privileges and Immunities Clause of Article IV."
+    C: "No, because Congress has implicitly authorized states to favor their residents during emergencies."
+    D: "No, because the state is acting as a market participant in selling its own product."
+  answer: D
+  explanation_correct: >-
+    D is correct. When a state acts as a market participant, buying or selling with its own resources
+    rather than regulating, it may favor in-state buyers without violating the dormant Commerce Clause
+    (R-CON-049; Reeves, Inc. v. Stake). Selling salt from a state-owned plant is proprietary activity.
+  explanation_each_wrong_option:
+    A: >-
+      Exception trap. The policy does discriminate, but the market-participant exception removes it from
+      dormant Commerce Clause scrutiny (R-CON-049).
+    B: >-
+      A corporation is not a "citizen" protected by Article IV P&I (R-CON-053). An individual might raise
+      P&I, which has no market-participant exception, but this plaintiff cannot.
+    C: >-
+      Congressional authorization must be unmistakably clear (R-CON-052); there is no such statute here.
+  trap_type: exception-trap
+  authority: ["Reeves, Inc. v. Stake, 447 U.S. 429 (1980)", "Hughes v. Alexandria Scrap Corp., 426 U.S. 794 (1976)", "U.S. Const. art. IV, § 2, cl. 1"]
+  source: original
+  tags: [wave1, dormant-commerce-clause, market-participant]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CON-0024
+  subject: CON
+  coverage_ids: [CON-MBE-III.B.2]
+  rule_ids: [R-CON-051]
+  difficulty: 2
+  stem: >-
+    A federal regulation issued under a federal food-safety statute requires every package of a particular
+    dietary supplement to bear, on the front panel, a specified 20-word warning about liver damage. To keep
+    that warning prominent, the regulation forbids any other health warning on the front panel. A state law
+    requires the front panel of every package of the supplement sold in the state to display a state-written
+    warning about heart risks. A manufacturer sues to enjoin enforcement of the state law.
+  call: "Is the state law preempted?"
+  options:
+    A: "No, because states may impose health standards stricter than federal minimums."
+    B: "Yes, because it is impossible for the manufacturer to comply with both the federal and the state requirements."
+    C: "No, because there is a presumption against preemption in fields traditionally regulated by the states."
+    D: "Yes, because federal regulation of food labeling occupies the entire field."
+  answer: B
+  explanation_correct: >-
+    B is correct. Under the Supremacy Clause, state law is impliedly preempted when it conflicts with valid
+    federal law, including where compliance with both is impossible (R-CON-051; Florida Lime & Avocado
+    Growers v. Paul). The federal regulation forbids any additional front-panel health warning, and the
+    state law requires one, so a manufacturer cannot obey both.
+  explanation_each_wrong_option:
+    A: >-
+      Exception trap. States may usually add stricter requirements when federal law sets only a floor, but
+      not when federal law forbids exactly what the state requires (R-CON-051).
+    C: >-
+      The presumption against preemption is a tool for reading ambiguous federal law; it cannot save a
+      state law that directly conflicts with federal law.
+    D: >-
+      Right result, wrong reason. Nothing in the facts shows Congress intended to occupy the whole field of
+      food labeling; the preemption here is conflict preemption.
+  trap_type: exception-trap
+  authority: ["U.S. Const. art. VI, cl. 2", "Florida Lime & Avocado Growers, Inc. v. Paul, 373 U.S. 132 (1963)", "Rice v. Santa Fe Elevator Corp., 331 U.S. 218 (1947)"]
+  source: original
+  tags: [wave1, preemption, supremacy-clause]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CON-0025
+  subject: CON
+  coverage_ids: [CON-MBE-III.B.3]
+  rule_ids: [R-CON-052, R-CON-047]
+  difficulty: 3
+  stem: >-
+    Congress enacted a statute declaring that "the several States may tax the business of insurance as they
+    see fit, including by taxing insurers organized in other States at higher rates than domestic
+    insurers." A state then imposed a premium tax of 4 percent on out-of-state insurers and 1 percent on
+    insurers organized under its own laws. An out-of-state insurer sues, claiming only that the tax
+    violates the dormant Commerce Clause.
+  call: "Will the insurer prevail on that claim?"
+  options:
+    A: "Yes, because the tax facially discriminates against interstate commerce."
+    B: "Yes, because Congress may not authorize states to discriminate against interstate commerce."
+    C: "No, because Congress has clearly authorized the discrimination, which removes the dormant Commerce Clause limit."
+    D: "No, because the business of insurance is not interstate commerce."
+  answer: C
+  explanation_correct: >-
+    C is correct. The dormant Commerce Clause is a limit that Congress, which holds the commerce power, can
+    lift. When Congress unmistakably authorizes state regulation or taxation that would otherwise violate
+    it, even discriminatory measures are valid against a dormant Commerce Clause challenge (R-CON-052;
+    Prudential Insurance Co. v. Benjamin). Note the limit: Congress cannot authorize violations of
+    individual rights, so an equal-protection claim, not raised here, could still succeed (Metropolitan
+    Life Insurance Co. v. Ward).
+  explanation_each_wrong_option:
+    A: >-
+      Exception trap. Facial discrimination is normally fatal (R-CON-047), but clear congressional
+      authorization is an exception.
+    B: >-
+      Confused rule. Congress may authorize discrimination against commerce; what it cannot do is authorize
+      violations of equal protection or the right to travel (R-CON-052).
+    D: >-
+      Outdated rule. Insurance is interstate commerce; the old view that it was not was abandoned, and
+      Congress's authorization is needed precisely because it is commerce.
+  trap_type: confused-rule
+  authority: ["Prudential Ins. Co. v. Benjamin, 328 U.S. 408 (1946)", "Metropolitan Life Ins. Co. v. Ward, 470 U.S. 869 (1985)"]
+  source: original
+  tags: [wave1, dormant-commerce-clause, congressional-authorization]
+  status: draft
+  last_verified: 2026-11-04

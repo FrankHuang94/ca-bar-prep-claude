@@ -1,0 +1,279 @@
+# Criminal Law and Procedure — NCBE category III: inchoate crimes; parties
+# Original MBE-style items (wave 1). The stem names the approach (common law / MPC) where the rules split.
+questions:
+- id: Q-CRM-0012
+  subject: CRM
+  coverage_ids: [CRM-MBE-III.A.1]
+  rule_ids: [R-CRM-060, R-CRM-035, R-CRM-036]
+  difficulty: 2
+  stem: >-
+    A man fired a shotgun at a rival's legs from about 30 feet away. He testified that he meant only to wound
+    the rival so that he would "limp for the rest of his life," not to kill him. The shot missed. The man is
+    charged with attempted murder, and the jury believes his testimony about his intent.
+  call: "Should the jury convict him of attempted murder?"
+  options:
+    A: "Yes, because an intent to inflict serious bodily injury is malice aforethought."
+    B: "Yes, because firing a shotgun at a person shows extreme indifference to human life."
+    C: "No, because the shot missed, so no one was harmed."
+    D: "No, because attempted murder requires a specific intent to kill."
+  answer: D
+  explanation_correct: >-
+    D is correct. Attempt requires the specific intent to bring about the result of the target crime, even
+    when the completed crime could be committed with a lesser mental state (R-CRM-060). Murder may rest on
+    intent to inflict serious bodily injury or on depraved-heart recklessness, but attempted murder requires
+    intent to kill. A jury that believes he intended only to wound must acquit of attempted murder; he is
+    guilty of an assault-type offense instead.
+  explanation_each_wrong_option:
+    A: >-
+      Confused rule. Intent to inflict serious bodily injury is malice for completed murder (R-CRM-035), but
+      it will not support attempted murder (R-CRM-060).
+    B: >-
+      Depraved-heart recklessness also supports only completed murder; there is no attempt to commit a crime
+      of recklessness (R-CRM-036, R-CRM-060).
+    C: >-
+      Attempt never requires harm; a miss is the typical attempt. The charge fails for lack of intent to kill,
+      not for lack of injury.
+  trap_type: confused-rule
+  authority: ["Common law", "MPC § 5.01(1)"]
+  source: original
+  tags: [wave1, attempt, mens-rea]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CRM-0013
+  subject: CRM
+  coverage_ids: [CRM-MBE-III.A.1]
+  rule_ids: [R-CRM-063, R-CRM-061]
+  difficulty: 3
+  stem: >-
+    A jurisdiction has adopted the Model Penal Code's provisions on attempt, including its renunciation
+    defense. A man planned to rob a gas-station convenience store. Wearing a ski mask and carrying a loaded
+    pistol in his jacket, he entered the store and walked toward the counter. He then noticed a security
+    camera pointed at the register, turned around and left, deciding to rob a different store across town
+    the following week, where he believed there were no cameras. He was arrested two days later and charged
+    with attempted robbery of the first store.
+  call: "Is he guilty of attempted robbery?"
+  options:
+    A: "Yes, because his abandonment was motivated by the risk of detection and was a postponement rather than a complete renunciation."
+    B: "Yes, because abandonment is never a defense once a defendant has gone beyond mere preparation."
+    C: "No, because he voluntarily abandoned the robbery before threatening anyone."
+    D: "No, because his conduct was mere preparation and did not amount to a substantial step."
+  answer: A
+  explanation_correct: >-
+    A is correct. Entering the store masked and armed and approaching the counter is a substantial step
+    strongly corroborative of his purpose (R-CRM-061). Under the MPC, renunciation is a defense only if it
+    is complete and voluntary; it is not voluntary if prompted by circumstances that increase the risk of
+    detection, and it is not complete if the actor merely postpones the crime or shifts to another victim
+    (R-CRM-063). Both defects are present.
+  explanation_each_wrong_option:
+    B: >-
+      Right result, wrong reason. That is the common-law rule; this jurisdiction follows the MPC, which does
+      recognize renunciation, but his abandonment does not qualify (R-CRM-063).
+    C: >-
+      Fact-misread. Leaving because of the camera was prompted by fear of detection, and planning another
+      robbery is postponement, so the renunciation was neither voluntary nor complete.
+    D: >-
+      Entering a store armed and masked and approaching the register is far beyond preparation under the
+      substantial-step test (R-CRM-061).
+  trap_type: right-result-wrong-reason
+  authority: ["MPC § 5.01(1)(c), (2), (4)"]
+  source: original
+  tags: [wave1, attempt, renunciation]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CRM-0014
+  subject: CRM
+  coverage_ids: [CRM-MBE-II.A, CRM-MBE-III.A.1]
+  rule_ids: [R-CRM-048, R-CRM-062, R-CRM-029]
+  difficulty: 2
+  stem: >-
+    Police arrested a thief who had stolen ten laptop computers. The thief agreed to cooperate, and under
+    police supervision he delivered the laptops to a woman who had bought stolen goods from him several
+    times before. The thief told her the laptops were "hot," and she paid him $1,000 for them. Police then
+    arrested her. The jurisdiction follows the modern approach to impossibility.
+  call: "What is the most serious crime of which the woman can properly be convicted?"
+  options:
+    A: "Receiving stolen property, because she believed the laptops were stolen when she received them."
+    B: "Attempted receipt of stolen property."
+    C: "No crime, because the laptops were no longer stolen, so the crime she attempted was legally impossible."
+    D: "No crime, because the police entrapped her by arranging the sale."
+  answer: B
+  explanation_correct: >-
+    B is correct. Receiving stolen property requires that the property be stolen when received (R-CRM-048).
+    Once police recovered the laptops and used them in a controlled delivery, they were no longer stolen, so
+    the completed crime fails. Under the modern approach, a defendant is guilty of attempt if her conduct
+    would be the crime had the circumstances been as she believed them to be (R-CRM-062). She believed the
+    laptops were stolen and paid for them, so she is guilty of attempted receipt.
+  explanation_each_wrong_option:
+    A: >-
+      Missing element. Belief that goods are stolen does not substitute for their actually being stolen at
+      receipt (R-CRM-048).
+    C: >-
+      Minority rule. Traditional courts treated this as legal impossibility, but the modern approach, which
+      the jurisdiction follows, rejects that defense (R-CRM-062).
+    D: >-
+      Entrapment requires government inducement of a person not predisposed (R-CRM-029). The police merely
+      offered an opportunity to a woman who had bought stolen goods before.
+  trap_type: minority-rule
+  authority: ["Common law", "MPC §§ 5.01(1)(a), 223.6", "People v. Jaffe, 185 N.Y. 497 (1906)"]
+  source: original
+  tags: [wave1, receiving-stolen-property, attempt, impossibility]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CRM-0015
+  subject: CRM
+  coverage_ids: [CRM-MBE-III.A.2]
+  rule_ids: [R-CRM-065, R-CRM-064]
+  difficulty: 1
+  stem: >-
+    A warehouse employee asked a coworker to help him steal televisions from their employer's loading dock
+    over the weekend. The coworker said "count me in," but secretly intended only to report the plan to the
+    employer, which he did that afternoon. The next day the employee bought bolt cutters to cut the dock's
+    padlock. He was arrested on Saturday before taking anything. The jurisdiction follows the common-law
+    (bilateral) approach to conspiracy and requires an overt act.
+  call: "Is the employee guilty of conspiracy to commit larceny?"
+  options:
+    A: "Yes, because he agreed to commit larceny and bought bolt cutters in furtherance of the agreement."
+    B: "Yes, because conspiracy requires only that the defendant himself intend to agree."
+    C: "No, because the coworker never actually agreed to commit the crime."
+    D: "No, because no larceny was ever committed."
+  answer: C
+  explanation_correct: >-
+    C is correct. Under the common-law bilateral approach, conspiracy requires a genuine agreement between at
+    least two persons who each intend the crime (R-CRM-065). The coworker only feigned agreement, so there
+    was no meeting of criminal minds and no conspiracy. The employee is still guilty of solicitation, which
+    was complete when he asked the coworker to help (R-CRM-064).
+  explanation_each_wrong_option:
+    A: >-
+      Missing element. The overt act matters only if there is an agreement; under the bilateral rule a
+      feigned agreement is no agreement (R-CRM-065).
+    B: >-
+      Confused rule. That is the unilateral approach of the MPC; the jurisdiction follows the bilateral rule
+      (R-CRM-065).
+    D: >-
+      Conspiracy does not require that the object crime be committed; it is complete on agreement plus any
+      required overt act (R-CRM-065).
+  trap_type: confused-rule
+  authority: ["Common law", "MPC § 5.03(1)"]
+  source: original
+  tags: [wave1, conspiracy, bilateral-unilateral]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CRM-0016
+  subject: CRM
+  coverage_ids: [CRM-MBE-III.A.2]
+  rule_ids: [R-CRM-068, R-CRM-067, R-CRM-071]
+  difficulty: 2
+  stem: >-
+    Three friends agreed to steal a car from a dealership lot the following weekend, and one of them bought a
+    slim-jim tool for unlocking car doors. Two days later he telephoned each of the other two, told them he
+    was "out" and would have nothing more to do with the plan, and kept the tool. He did not contact the
+    police. That weekend the other two stole a car from the lot using their own tools. The jurisdiction
+    follows the common law and the Pinkerton rule, and requires an overt act for conspiracy.
+  call: "Of which crimes can the friend who withdrew properly be convicted?"
+  options:
+    A: "Conspiracy and larceny."
+    B: "Conspiracy only."
+    C: "Larceny only, because the conspiracy merged into the completed crime."
+    D: "Neither, because he withdrew from the conspiracy before the car was stolen."
+  answer: B
+  explanation_correct: >-
+    B is correct. The conspiracy was complete when the three agreed and he bought the tool (the overt act),
+    and at common law later withdrawal is no defense to the conspiracy itself (R-CRM-068). But a timely
+    withdrawal communicated to all co-conspirators cuts off Pinkerton liability for crimes they commit
+    afterward (R-CRM-067, R-CRM-068). He told both partners he was out, kept his tool and gave no aid, so he
+    is not liable for the later theft.
+  explanation_each_wrong_option:
+    A: >-
+      Overbroad. Pinkerton liability stops at an effective withdrawal communicated to all co-conspirators;
+      he also gave no aid that would make him an accomplice (R-CRM-067, R-CRM-071).
+    C: >-
+      Conspiracy does not merge with the completed crime under the common law, and he is not liable for the
+      larceny at all (R-CRM-068).
+    D: >-
+      At common law withdrawal never undoes a completed conspiracy; it only limits liability for later
+      crimes (R-CRM-068).
+  trap_type: overbroad
+  authority: ["Common law", "Pinkerton v. United States, 328 U.S. 640 (1946)"]
+  source: original
+  tags: [wave1, conspiracy, withdrawal, pinkerton]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CRM-0017
+  subject: CRM
+  coverage_ids: [CRM-MBE-III.A.3]
+  rule_ids: [R-CRM-064, R-CRM-065]
+  difficulty: 1
+  stem: >-
+    A businessman met a man he believed to be a professional killer and offered him $10,000 to kill the
+    businessman's partner. The man refused, left immediately and reported the offer to the police. Nothing
+    further happened.
+  call: "Of which crime, if any, is the businessman guilty?"
+  options:
+    A: "Solicitation of murder, because the crime was complete when he made the request with intent that the killing occur."
+    B: "Conspiracy to commit murder, because he offered to pay for the killing."
+    C: "Both solicitation of murder and conspiracy to commit murder."
+    D: "No crime, because the man refused and nothing further was done toward the killing."
+  answer: A
+  explanation_correct: >-
+    A is correct. Solicitation is asking, encouraging or commanding another to commit a crime with intent
+    that it be committed; it is complete when the request is made, whether or not the other person agrees
+    (R-CRM-064).
+  explanation_each_wrong_option:
+    B: >-
+      Missing element. Conspiracy requires an agreement; the man refused, so there was none under either the
+      bilateral or the unilateral approach (R-CRM-065).
+    C: >-
+      There is no conspiracy without agreement, so only solicitation is available (R-CRM-064, R-CRM-065).
+    D: >-
+      The other person's refusal is no defense; the crime of solicitation was already complete (R-CRM-064).
+  trap_type: missing-element
+  authority: ["Common law", "MPC § 5.02"]
+  source: original
+  tags: [wave1, solicitation]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CRM-0018
+  subject: CRM
+  coverage_ids: [CRM-MBE-III.B]
+  rule_ids: [R-CRM-070, R-CRM-069]
+  difficulty: 2
+  stem: >-
+    A man agreed to act as a lookout while his friend broke into a closed warehouse at night to steal copper
+    wire. Neither was armed, and they had agreed that no one would be hurt. Inside, the friend was surprised
+    by a night watchman and struck him with a crowbar to avoid capture, seriously injuring him. The lookout,
+    who was outside, did not know of the attack until later. The jurisdiction follows the common-law
+    approach to accomplice liability, including the natural-and-probable-consequences doctrine.
+  call: "Is the lookout guilty as an accomplice to the battery on the watchman?"
+  options:
+    A: "No, because he did not intend that anyone be hurt and aided only the break-in and theft."
+    B: "No, because a lookout who remains outside is merely present at the scene of the crime."
+    C: "Yes, because an accomplice is responsible for every crime his principal commits, whether or not it was foreseeable."
+    D: "Yes, because a violent confrontation with someone guarding the premises was a foreseeable consequence of the break-in and theft he aided."
+  answer: D
+  explanation_correct: >-
+    D is correct. A person who aids a crime with intent that it be committed is an accomplice to it
+    (R-CRM-069), and under the common-law natural-and-probable-consequences doctrine he is also liable for
+    other crimes the principal commits that are foreseeable results of the intended crime (R-CRM-070).
+    Violence against a guard who discovers a nighttime break-in is a foreseeable consequence of the
+    break-in and theft he aided.
+  explanation_each_wrong_option:
+    A: >-
+      Minority (MPC) rule. The MPC limits accomplice liability to crimes the accomplice purposely aided, but
+      this jurisdiction follows the common-law doctrine (R-CRM-070).
+    B: >-
+      Serving as a lookout is active aid, not mere presence (R-CRM-069).
+    C: >-
+      Overbroad. Liability for collateral crimes extends only to those that were foreseeable consequences of
+      the crime aided (R-CRM-070).
+  trap_type: minority-rule
+  authority: ["Common law", "MPC § 2.06(3)"]
+  source: original
+  tags: [wave1, accomplice-liability, natural-and-probable-consequences]
+  status: draft
+  last_verified: 2026-11-04

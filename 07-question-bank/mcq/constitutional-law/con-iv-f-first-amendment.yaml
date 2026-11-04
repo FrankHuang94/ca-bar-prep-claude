@@ -1,0 +1,409 @@
+# Constitutional Law — NCBE category IV.F: First Amendment freedoms
+# Original MBE-style items (wave 1). True-threat mental state (Counterman, V-035) deliberately not keyed.
+questions:
+- id: Q-CON-0041
+  subject: CON
+  coverage_ids: [CON-MBE-IV.F.1.a]
+  rule_ids: [R-CON-087, R-CON-089]
+  difficulty: 2
+  stem: >-
+    A state statute makes it a misdemeanor to possess or consume a hallucinogenic plant extract. The statute
+    was enacted after several people were hospitalized, applies to everyone and contains no exceptions of
+    any kind. Members of a small religious community, who sincerely believe that drinking a tea made from
+    the extract during a yearly ceremony brings them closer to God, are prosecuted under the statute. They
+    argue that the prosecution violates their constitutional and statutory rights to the free exercise of
+    religion. The state has no religious-freedom statute of its own.
+  call: "Should the court dismiss the prosecution?"
+  options:
+    A: "Yes, because the federal Religious Freedom Restoration Act requires the state to show that the statute is the least restrictive means of furthering a compelling interest."
+    B: "Yes, because a law that substantially burdens a sincere religious practice must satisfy strict scrutiny under the Free Exercise Clause."
+    C: "No, because the members' beliefs about the tea are not a recognized religious practice."
+    D: "No, because the statute is a neutral law of general applicability, so it need only be rationally related to a legitimate interest."
+  answer: D
+  explanation_correct: >-
+    D is correct. A neutral law of general applicability that incidentally burdens religious practice is
+    valid if rationally related to a legitimate interest (R-CON-087; Employment Division v. Smith). The
+    statute targets the drug, not religion, and has no secular exemptions that would make it less than
+    generally applicable. Protecting health is a legitimate interest.
+  explanation_each_wrong_option:
+    A: >-
+      Confused rule. RFRA binds only the federal government; it is unconstitutional as applied to the
+      states (R-CON-089; City of Boerne v. Flores). RLUIPA covers only prisons and land use.
+    B: >-
+      Outdated standard. Before Smith, burdens on religion triggered strict scrutiny; now strict scrutiny
+      applies only to laws that are not neutral or not generally applicable (R-CON-087).
+    C: >-
+      Courts examine sincerity, not the truth or orthodoxy of a belief (United States v. Ballard;
+      R-CON-088). The members lose on the merits, not because their practice is unrecognized.
+  trap_type: confused-rule
+  authority: ["U.S. Const. amend. I", "Employment Div. v. Smith, 494 U.S. 872 (1990)", "City of Boerne v. Flores, 521 U.S. 507 (1997)"]
+  source: original
+  tags: [wave1, free-exercise]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CON-0042
+  subject: CON
+  coverage_ids: [CON-MBE-IV.F.1.b]
+  rule_ids: [R-CON-090, R-CON-096]
+  difficulty: 2
+  stem: >-
+    A county board of supervisors opens each monthly public meeting with a brief prayer. The board invites
+    any member of the local clergy to volunteer, and the prayer-givers have been mostly Christian, with
+    occasional Jewish and Muslim participants. Board members do not ask the public to participate, and no
+    one is required to stand, bow or remain in the room. A county resident who attends meetings to speak on
+    zoning matters sues, claiming the practice violates the Establishment Clause.
+  call: "How should the court rule?"
+  options:
+    A: "For the resident, because the practice has the primary effect of advancing religion."
+    B: "For the resident, because the prayers are coercive in the same way as prayer at a public-school graduation."
+    C: "For the county, because opening legislative sessions with prayer fits within the nation's historical tradition, and the practice does not coerce participation."
+    D: "For the county, because the Establishment Clause does not apply to speech by government bodies."
+  answer: C
+  explanation_correct: >-
+    C is correct. The Establishment Clause is read in light of historical practices and understandings, and
+    the government may not coerce religious participation (R-CON-090; Kennedy v. Bremerton School
+    District). Legislative prayer has an unbroken history dating to the First Congress, and a practice that
+    invites volunteer clergy and does not pressure adults to participate is constitutional (Town of Greece
+    v. Galloway; Marsh v. Chambers).
+  explanation_each_wrong_option:
+    A: >-
+      Abandoned test. The "primary effect" prong comes from Lemon v. Kurtzman, which the Court has
+      abandoned in favor of history, tradition and coercion (R-CON-090).
+    B: >-
+      Distinguishable. Graduation prayer coerces students who effectively must attend (Lee v. Weisman);
+      adults at a legislative meeting are free to leave or not participate (Town of Greece).
+    D: >-
+      Overbroad. Government speech is free from Free Speech Clause viewpoint limits, but the Establishment
+      Clause still restricts the government's own religious speech (R-CON-096).
+  trap_type: wrong-standard
+  authority: ["U.S. Const. amend. I", "Town of Greece v. Galloway, 572 U.S. 565 (2014)", "Marsh v. Chambers, 463 U.S. 783 (1983)", "Kennedy v. Bremerton School Dist., 597 U.S. 507 (2022)", "Lee v. Weisman, 505 U.S. 577 (1992)"]
+  source: original
+  tags: [wave1, establishment-clause, legislative-prayer]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CON-0043
+  subject: CON
+  coverage_ids: [CON-MBE-IV.F.2.a]
+  rule_ids: [R-CON-092, R-CON-093]
+  difficulty: 3
+  stem: >-
+    A town's sign ordinance allows "opinion signs," which express views on public issues, to be up to 20
+    square feet and to remain posted indefinitely. "Event signs," which announce garage sales, meetings or
+    other one-time events, may be no larger than 4 square feet and must be removed within 48 hours after
+    the event. The town says the ordinance protects traffic safety and the town's appearance, and there is
+    no evidence that it was adopted to suppress any message. A neighborhood association cited for leaving an
+    event sign posted for a week sues.
+  call: "Which standard should the court apply to the ordinance's distinction between the two kinds of signs?"
+  options:
+    A: "Intermediate scrutiny, because the ordinance does not favor any particular viewpoint."
+    B: "Strict scrutiny, because whether a sign is treated as an opinion sign or an event sign depends on its communicative content."
+    C: "Rational basis, because signs on private property are not a public forum."
+    D: "Intermediate scrutiny, because the town's purposes of promoting traffic safety and aesthetics are unrelated to the suppression of speech."
+  answer: B
+  explanation_correct: >-
+    B is correct. A law is content-based on its face if it applies to particular speech because of the
+    topic discussed or the idea or message expressed, and facially content-based laws get strict scrutiny
+    regardless of the government's benign motive (R-CON-092, R-CON-093; Reed v. Town of Gilbert). An
+    official must read a sign to know whether it is an opinion sign or an event sign, so the distinction is
+    content-based.
+  explanation_each_wrong_option:
+    A: >-
+      Confused rule. Viewpoint discrimination is the most egregious form of content discrimination, but a
+      law can be content-based without favoring a viewpoint (R-CON-092).
+    C: >-
+      Wrong framework. Forum analysis governs government property; regulating speech on private property
+      by content still triggers strict scrutiny.
+    D: >-
+      Wrong standard. A neutral justification cannot save a law that is content-based on its face; the
+      purpose inquiry matters only for facially neutral laws (Reed; R-CON-092).
+  trap_type: wrong-standard
+  authority: ["U.S. Const. amend. I", "Reed v. Town of Gilbert, 576 U.S. 155 (2015)", "Police Dep't of Chicago v. Mosley, 408 U.S. 92 (1972)"]
+  source: original
+  tags: [wave1, free-speech, content-based]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CON-0044
+  subject: CON
+  coverage_ids: [CON-MBE-IV.F.2.b]
+  rule_ids: [R-CON-094, R-CON-095]
+  difficulty: 1
+  stem: >-
+    A city ordinance forbids the use of loudspeakers or other sound amplification in city parks between 10
+    p.m. and 7 a.m. The parks are surrounded by residential neighborhoods. An advocacy group that wanted to
+    hold an amplified rally in a park at midnight was denied an exception. It held the rally with
+    amplification anyway, and its leader was cited. The leader argues that the ordinance violates the First
+    Amendment.
+  call: "Is the ordinance constitutional?"
+  options:
+    A: "Yes, because it is a content-neutral regulation narrowly tailored to the significant interest in residential quiet, and it leaves open ample alternative channels for communication."
+    B: "No, because parks are traditional public forums, where restrictions on speech must satisfy strict scrutiny."
+    C: "No, because the city could have adopted a less restrictive decibel limit instead of banning amplification."
+    D: "Yes, because a city park at night is a nonpublic forum."
+  answer: A
+  explanation_correct: >-
+    A is correct. In a traditional public forum, the government may impose content-neutral time, place and
+    manner restrictions that are narrowly tailored to a significant interest and leave open ample
+    alternative channels (R-CON-094; Ward v. Rock Against Racism). The ordinance applies to all messages,
+    protects residents' quiet at night, and leaves the group free to rally without amplification at night
+    or with it during the day.
+  explanation_each_wrong_option:
+    B: >-
+      Wrong standard. Strict scrutiny in a public forum applies to content-based restrictions; content-neutral
+      ones get the time, place and manner test (R-CON-095).
+    C: >-
+      Narrow tailoring for content-neutral rules does not require the least restrictive means; the rule may
+      not burden substantially more speech than necessary (Ward; R-CON-094).
+    D: >-
+      Fact-misread. Parks are traditional public forums at all hours; the time of day affects the
+      reasonableness of the restriction, not the forum's category.
+  trap_type: wrong-standard
+  authority: ["U.S. Const. amend. I", "Ward v. Rock Against Racism, 491 U.S. 781 (1989)", "Hague v. CIO, 307 U.S. 496 (1939)"]
+  source: original
+  tags: [wave1, free-speech, time-place-manner]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CON-0045
+  subject: CON
+  coverage_ids: [CON-MBE-IV.F.2.c]
+  rule_ids: [R-CON-097, R-CON-098]
+  difficulty: 2
+  stem: >-
+    At a rally on the steps of the state capitol protesting a bill that would cut university funding, a
+    student leader told a crowd of 300: "If they pass this bill next session, we should all come back here
+    and occupy this building until they repeal it." The crowd cheered and then dispersed peacefully. The
+    student was convicted under a state statute making it a crime to "advocate the unlawful occupation of
+    any public building." She appeals, arguing that the conviction violates the First Amendment.
+  call: "Should her conviction be reversed?"
+  options:
+    A: "No, because she advocated unlawful conduct to a large and enthusiastic crowd."
+    B: "No, because her words were fighting words likely to provoke a violent reaction."
+    C: "Yes, because her speech was not directed to inciting imminent lawless action."
+    D: "Yes, because the First Amendment protects all political speech made on public property."
+  answer: C
+  explanation_correct: >-
+    C is correct. Advocacy of law violation may be punished only if it is directed to inciting imminent
+    lawless action and is likely to produce such action (R-CON-097; Brandenburg v. Ohio). Urging an
+    occupation at an indefinite future time, conditioned on a future legislative vote, is advocacy of
+    future lawless action, which is protected (Hess v. Indiana).
+  explanation_each_wrong_option:
+    A: >-
+      Missing element. Advocacy of illegality plus a receptive audience is not enough; Brandenburg also
+      requires intent to produce imminent lawless action and its likelihood.
+    B: >-
+      Fighting words are face-to-face personal insults likely to provoke an immediate violent response
+      (R-CON-098); a political speech to a sympathetic crowd is not.
+    D: >-
+      Overbroad. Political speech on public property can be punished if it falls in an unprotected
+      category, such as true incitement.
+  trap_type: missing-element
+  authority: ["U.S. Const. amend. I", "Brandenburg v. Ohio, 395 U.S. 444 (1969)", "Hess v. Indiana, 414 U.S. 105 (1973)"]
+  source: original
+  tags: [wave1, free-speech, incitement]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CON-0046
+  subject: CON
+  coverage_ids: [CON-MBE-IV.F.2.d]
+  rule_ids: [R-CON-101, R-CON-093]
+  difficulty: 3
+  stem: >-
+    A state statute prohibits licensed veterinarians from advertising the prices of routine services such
+    as vaccinations and checkups. The state says that price advertising "demeans the profession" and could
+    lead veterinarians to cut corners on care. A veterinary clinic that wants to advertise truthful prices
+    for vaccinations sues.
+  call: "How should the court rule?"
+  options:
+    A: "For the state, because the statute is rationally related to the legitimate interest in regulating a learned profession."
+    B: "For the state, because commercial speech is not protected by the First Amendment."
+    C: "For the clinic, because a content-based restriction on speech is valid only if it is the least restrictive means of serving a compelling interest."
+    D: "For the clinic, because the ban on truthful advertising of lawful services does not directly advance a substantial interest and is more extensive than necessary."
+  answer: D
+  explanation_correct: >-
+    D is correct. Truthful advertising of lawful services is protected commercial speech. Under Central
+    Hudson, the state must assert a substantial interest, show that the restriction directly and materially
+    advances it, and show a reasonable fit that is not more extensive than necessary (R-CON-101). A total
+    ban on truthful price information does not directly advance quality of care, and the state could
+    regulate care itself rather than suppress information (Virginia Pharmacy; Bates).
+  explanation_each_wrong_option:
+    A: >-
+      Wrong standard. Rational basis does not govern restrictions on protected commercial speech; Central
+      Hudson's intermediate test does (R-CON-101).
+    B: >-
+      Outdated rule. Commercial speech has been protected since Virginia State Board of Pharmacy; only false,
+      misleading or unlawful-activity advertising is unprotected.
+    C: >-
+      Right result, wrong reason. Commercial-speech restrictions are reviewed under Central Hudson's
+      reasonable-fit test, not strict scrutiny's least-restrictive-means test (R-CON-101, R-CON-093).
+  trap_type: right-result-wrong-reason
+  authority: ["U.S. Const. amend. I", "Central Hudson Gas & Elec. Corp. v. Public Serv. Comm'n, 447 U.S. 557 (1980)", "Virginia State Bd. of Pharmacy v. Virginia Citizens Consumer Council, Inc., 425 U.S. 748 (1976)", "Bates v. State Bar of Ariz., 433 U.S. 350 (1977)"]
+  source: original
+  tags: [wave1, free-speech, commercial-speech]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CON-0047
+  subject: CON
+  coverage_ids: [CON-MBE-IV.F.2.e]
+  rule_ids: [R-CON-103]
+  difficulty: 2
+  stem: >-
+    An infection-control nurse at a county-owned hospital is responsible, under her job description, for
+    inspecting patient wards and reporting sanitation problems to the hospital administrator. She wrote an
+    internal report to the administrator stating that the surgical ward's sterilization procedures were
+    dangerously inadequate. The administrator, angered by the report's tone, transferred her to a night
+    shift with lower pay. She sues, claiming retaliation for protected speech.
+  call: "Is she likely to prevail?"
+  options:
+    A: "Yes, because hospital safety is a matter of public concern, and her interest in speaking outweighs any disruption."
+    B: "No, because she made the report pursuant to her official duties rather than as a citizen."
+    C: "Yes, because truthful speech by a public employee may never be the basis for discipline."
+    D: "No, because public employees surrender their First Amendment rights as a condition of employment."
+  answer: B
+  explanation_correct: >-
+    B is correct. A public employee's speech is protected only if the employee spoke as a citizen on a
+    matter of public concern; speech made pursuant to official duties is not protected, however important
+    its subject (R-CON-103; Garcetti v. Ceballos). Writing sanitation reports to the administrator was her
+    assigned job, so the First Amendment does not shield it from employer discipline.
+  explanation_each_wrong_option:
+    A: >-
+      Exception trap. Pickering balancing and the public-concern test come into play only after the
+      threshold question of whether she spoke as a citizen; Garcetti ends the analysis here.
+    C: >-
+      Overbroad. Truth does not exempt job-duty speech from discipline, and even citizen speech is subject
+      to Pickering balancing (R-CON-103).
+    D: >-
+      Overbroad. Public employees keep First Amendment rights when they speak as citizens on public matters
+      (Pickering v. Board of Education).
+  trap_type: exception-trap
+  authority: ["U.S. Const. amend. I", "Garcetti v. Ceballos, 547 U.S. 410 (2006)", "Pickering v. Board of Educ., 391 U.S. 563 (1968)"]
+  source: original
+  tags: [wave1, free-speech, public-employees]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CON-0048
+  subject: CON
+  coverage_ids: [CON-MBE-IV.F.2.f]
+  rule_ids: [R-CON-105, R-CON-095]
+  difficulty: 2
+  stem: >-
+    During the dry season, a city ordinance prohibits lighting any open fire in a city park, to prevent
+    wildfires. A protester opposed to the mayor's policies burned a cardboard effigy of the mayor in a city
+    park during the dry season and was cited under the ordinance. He argues that the citation violates his
+    First Amendment rights because burning the effigy was symbolic political speech.
+  call: "Is the citation constitutional?"
+  options:
+    A: "Yes, because the ordinance furthers an important interest unrelated to the suppression of expression and restricts expression no more than necessary to serve that interest."
+    B: "No, because burning an effigy to criticize a public official is protected symbolic speech, like burning a flag."
+    C: "No, because the ordinance burdens political expression in a traditional public forum and fails strict scrutiny."
+    D: "Yes, because conduct is never speech protected by the First Amendment."
+  answer: A
+  explanation_correct: >-
+    A is correct. When expressive conduct is regulated, the law is valid if it is within the government's
+    power, furthers an important or substantial interest unrelated to suppressing expression, and imposes
+    an incidental restriction no greater than essential to that interest (R-CON-105; United States v.
+    O'Brien). Preventing wildfires has nothing to do with the protester's message, and a dry-season fire ban
+    restricts expression only incidentally; he can protest in many other ways.
+  explanation_each_wrong_option:
+    B: >-
+      Confused rule. Flag-burning laws failed because they targeted the message (Texas v. Johnson); this
+      ordinance bans all open fires regardless of message.
+    C: >-
+      Wrong standard. A content-neutral regulation in a public forum is not subject to strict scrutiny;
+      O'Brien and the time, place and manner test apply (R-CON-094, R-CON-095).
+    D: >-
+      Overbroad. Conduct intended to convey a particularized message likely to be understood is expressive
+      and protected (Spence v. Washington); it is simply subject to O'Brien.
+  trap_type: confused-rule
+  authority: ["U.S. Const. amend. I", "United States v. O'Brien, 391 U.S. 367 (1968)", "Texas v. Johnson, 491 U.S. 397 (1989)"]
+  source: original
+  tags: [wave1, free-speech, expressive-conduct]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CON-0049
+  subject: CON
+  coverage_ids: [CON-MBE-IV.F.2.g]
+  rule_ids: [R-CON-106, R-CON-107]
+  difficulty: 3
+  stem: >-
+    A city ordinance requires a permit for any demonstration by more than ten people on a public sidewalk.
+    The city manager "may deny a permit if, in his judgment, the demonstration would be contrary to the
+    public welfare," and the ordinance provides no other standards. Without applying for a permit, a group
+    of 30 people marched peacefully along a sidewalk to protest a new city tax. Their organizer was
+    prosecuted for violating the ordinance and argues that the ordinance is unconstitutional on its face.
+  call: "May the organizer successfully raise this defense?"
+  options:
+    A: "No, because she was required to apply for a permit and seek judicial review of any denial before demonstrating."
+    B: "No, because a person must obey a government order until it is set aside, even if it is unconstitutional."
+    C: "Yes, but only if she proves the city manager would have denied her a permit because of her message."
+    D: "Yes, because the ordinance gives the official unbridled discretion over speech in a public forum, and a facially invalid licensing law may be challenged without first applying for a permit."
+  answer: D
+  explanation_correct: >-
+    D is correct. A permit scheme for speech in a public forum must use narrow, objective and definite
+    standards; a law that lets an official deny a permit based on his own judgment of the "public welfare"
+    is a prior restraint that vests unbridled discretion and is facially invalid (R-CON-106; Shuttlesworth v.
+    City of Birmingham; City of Lakewood). A person faced with such a law may ignore it and raise its
+    facial invalidity when prosecuted.
+  explanation_each_wrong_option:
+    A: >-
+      Procedural-posture trap. There is no duty to apply under a facially void licensing law; the
+      challenger need not first seek a permit (Shuttlesworth; Lakewood).
+    B: >-
+      Confused rule. The collateral bar rule requires obeying a court injunction until it is vacated
+      (Walker v. City of Birmingham); it does not apply to a facially void statute or ordinance (R-CON-106).
+    C: >-
+      Missing the point of facial invalidity. The danger of unbridled discretion is that censorship cannot be
+      detected; no proof of actual discriminatory motive is required.
+  trap_type: procedural-posture
+  authority: ["U.S. Const. amend. I", "Shuttlesworth v. City of Birmingham, 394 U.S. 147 (1969)", "City of Lakewood v. Plain Dealer Publishing Co., 486 U.S. 750 (1988)", "Walker v. City of Birmingham, 388 U.S. 307 (1967)"]
+  source: original
+  tags: [wave1, free-speech, prior-restraint, licensing]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CON-0050
+  subject: CON
+  coverage_ids: [CON-MBE-IV.F.4]
+  rule_ids: [R-CON-110, R-CON-104]
+  difficulty: 2
+  stem: >-
+    A state statute disqualifies from public employment anyone who "is or has been a member of any
+    organization that advocates the overthrow of the government by force or violence." A public-school
+    librarian was fired after the state discovered that, five years earlier, she had paid dues to a political
+    organization whose platform included such advocacy. She testified, without contradiction, that she
+    joined only to attend its lectures on labor history, did not know of the advocacy and never intended to
+    further any unlawful aim.
+  call: "Is the dismissal constitutional?"
+  options:
+    A: "Yes, because the state has a compelling interest in the loyalty of its employees."
+    B: "Yes, because public employment is a privilege that the state may condition as it chooses."
+    C: "No, because the state may not penalize membership in an organization unless the member knows of its unlawful aims and specifically intends to further them."
+    D: "No, because the state may never ask public employees about their organizational memberships."
+  answer: C
+  explanation_correct: >-
+    C is correct. Freedom of association forbids punishing or denying public employment for mere
+    membership in a group. The government may act only against a person who is a knowing member and has the
+    specific intent to further the group's illegal aims (R-CON-110, R-CON-104; Elfbrandt v. Russell;
+    Keyishian v. Board of Regents). The librarian lacked both knowledge and intent.
+  explanation_each_wrong_option:
+    A: >-
+      Missing element. Even a strong interest in loyalty cannot justify penalizing innocent membership; the
+      statute is not narrowly drawn to knowing, specifically intending members.
+    B: >-
+      Outdated rule. Government may not condition public employment on surrendering First Amendment rights
+      (R-CON-086, R-CON-104).
+    D: >-
+      Overbroad. Narrow inquiries limited to knowing membership with specific intent are permissible
+      (Law Students Civil Rights Research Council v. Wadmond; R-CON-104).
+  trap_type: missing-element
+  authority: ["U.S. Const. amend. I", "Elfbrandt v. Russell, 384 U.S. 11 (1966)", "Keyishian v. Board of Regents, 385 U.S. 589 (1967)", "Scales v. United States, 367 U.S. 203 (1961)"]
+  source: original
+  tags: [wave1, freedom-of-association]
+  status: draft
+  last_verified: 2026-11-04

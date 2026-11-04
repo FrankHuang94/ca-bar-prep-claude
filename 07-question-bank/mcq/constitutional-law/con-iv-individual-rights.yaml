@@ -1,0 +1,616 @@
+# Constitutional Law — NCBE category IV (A–E): state action, due process, equal protection, takings,
+# other protections. Original MBE-style items (wave 1). First Amendment items are in con-iv-f-first-amendment.yaml.
+questions:
+- id: Q-CON-0026
+  subject: CON
+  coverage_ids: [CON-MBE-IV.A]
+  rule_ids: [R-CON-054, R-CON-055]
+  difficulty: 1
+  stem: >-
+    A privately incorporated university receives 40 percent of its annual budget from state research
+    grants, and most of its students pay tuition with state-funded scholarships. The state licenses the
+    university and regulates its health and safety programs. After a student published an editorial
+    harshly criticizing the university's president, the university expelled him under its code of conduct.
+    The student sues the university, claiming the expulsion violated his First Amendment rights.
+  call: "Is the student likely to prevail?"
+  options:
+    A: "No, because the university is not a state actor."
+    B: "Yes, because the state's substantial funding and regulation make the university's conduct state action."
+    C: "Yes, because education is a traditional public function."
+    D: "No, because the student's editorial was not speech on a matter of public concern."
+  answer: A
+  explanation_correct: >-
+    A is correct. The First Amendment restrains only government, so the student must show state action
+    (R-CON-054). Funding, licensing and regulation, even when extensive, do not make a private institution's
+    decisions state action unless the state compelled or significantly encouraged the specific decision or
+    is entwined with the institution's management (R-CON-055; Rendell-Baker v. Kohn; Blum v. Yaretsky).
+    Nothing suggests the state had any role in the expulsion.
+  explanation_each_wrong_option:
+    B: >-
+      Confused rule. Money and regulation alone are not enough (Rendell-Baker); the plaintiff must tie the
+      state to the challenged decision (R-CON-055).
+    C: >-
+      Education is not a function traditionally and exclusively reserved to the state, so the public-function
+      test is not met (R-CON-054; Rendell-Baker).
+    D: >-
+      The public-concern test governs speech by public employees (R-CON-103); it is not the reason this
+      claim fails, and criticism of a university president would likely qualify anyway.
+  trap_type: confused-rule
+  authority: ["Rendell-Baker v. Kohn, 457 U.S. 830 (1982)", "Blum v. Yaretsky, 457 U.S. 991 (1982)", "Jackson v. Metropolitan Edison Co., 419 U.S. 345 (1974)"]
+  source: original
+  tags: [wave1, state-action]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CON-0027
+  subject: CON
+  coverage_ids: [CON-MBE-IV.B.1.a]
+  rule_ids: [R-CON-060, R-CON-061]
+  difficulty: 2
+  stem: >-
+    A state statute makes it a felony for a physician to prescribe medication for the purpose of helping a
+    patient end his or her own life. A terminally ill, mentally competent adult and her physician sue,
+    claiming that the statute violates the Due Process Clause of the Fourteenth Amendment as applied to
+    competent, terminally ill adults.
+  call: "Which standard will the court most likely apply, and with what result?"
+  options:
+    A: "Strict scrutiny, because the right to refuse unwanted medical treatment includes a right to obtain help in ending one's life; the statute is invalid."
+    B: "Strict scrutiny, because decisions about one's own body are protected by a fundamental right of privacy; the statute is invalid."
+    C: "Intermediate scrutiny, because the statute affects important personal interests; the statute is upheld."
+    D: "Rational basis, because there is no fundamental right to assistance in committing suicide; the statute is upheld."
+  answer: D
+  explanation_correct: >-
+    D is correct. A right is fundamental under substantive due process only if, carefully described, it is
+    deeply rooted in the nation's history and tradition and implicit in ordered liberty (R-CON-060;
+    Washington v. Glucksberg). A right to assistance in committing suicide fails that test, so the statute
+    needs only a rational basis, which the state's interests in preserving life and protecting vulnerable
+    people easily supply.
+  explanation_each_wrong_option:
+    A: >-
+      Confused rule. The assumed right to refuse treatment (Cruzan) rests on the tradition of bodily
+      integrity and does not extend to obtaining help to die (R-CON-061; Glucksberg).
+    B: >-
+      Overbroad. There is no general fundamental right to make all bodily decisions; rights are described
+      carefully and tested against history (R-CON-060).
+    C: >-
+      Wrong standard. Substantive due process uses strict scrutiny for fundamental rights and rational basis
+      for everything else; there is no intermediate tier here.
+  trap_type: confused-rule
+  authority: ["U.S. Const. amend. XIV, § 1", "Washington v. Glucksberg, 521 U.S. 702 (1997)", "Cruzan v. Director, Mo. Dep't of Health, 497 U.S. 261 (1990)"]
+  source: original
+  tags: [wave1, substantive-due-process, fundamental-rights]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CON-0028
+  subject: CON
+  coverage_ids: [CON-MBE-IV.B.1.b]
+  rule_ids: [R-CON-063]
+  difficulty: 1
+  stem: >-
+    A state statute forbids the retail sale of consumer fireworks except during the ten days before July 4
+    and the five days before New Year's Day. The owner of a year-round fireworks store, who will lose most
+    of his business, sues, claiming that the statute deprives him of liberty and property without due
+    process of law. At trial he presents expert evidence that the restriction will not reduce total
+    fireworks use or injuries.
+  call: "How should the court rule?"
+  options:
+    A: "For the owner, because the right to pursue a lawful occupation is fundamental, and the state cannot show that the law is necessary to a compelling interest."
+    B: "For the state, because a legislature could rationally believe that limiting sales periods promotes public safety."
+    C: "For the owner, because the state has not proved that the statute actually reduces fireworks injuries."
+    D: "For the state, because economic regulations are not subject to any constitutional review."
+  answer: B
+  explanation_correct: >-
+    B is correct. Economic and social regulations that burden no fundamental right are upheld if rationally
+    related to any legitimate government interest, and the challenger bears the burden of negating every
+    conceivable basis (R-CON-063; Williamson v. Lee Optical). A legislature could rationally think that
+    confining sales to short holiday periods reduces fires, injuries and nuisance, even if experts disagree.
+  explanation_each_wrong_option:
+    A: >-
+      Wrong standard. The right to pursue a particular business is not a fundamental right for
+      substantive-due-process purposes; rational basis applies (R-CON-063).
+    C: >-
+      Wrong burden. Under rational basis the state need not prove the law works; the legislature may act
+      on rational speculation, and the challenger must disprove any conceivable basis.
+    D: >-
+      Overbroad. Economic laws still must survive rational-basis review, and grossly excessive punitive
+      damages, for example, violate due process (R-CON-063).
+  trap_type: wrong-standard
+  authority: ["U.S. Const. amend. XIV, § 1", "Williamson v. Lee Optical of Okla., Inc., 348 U.S. 483 (1955)", "West Coast Hotel Co. v. Parrish, 300 U.S. 379 (1937)"]
+  source: original
+  tags: [wave1, substantive-due-process, rational-basis]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CON-0029
+  subject: CON
+  coverage_ids: [CON-MBE-IV.B.2]
+  rule_ids: [R-CON-057, R-CON-058]
+  difficulty: 1
+  stem: >-
+    A public community college hired an instructor under a written one-year contract that said nothing
+    about renewal. The college has no tenure system, and neither its rules nor any official's statements
+    suggested that instructors would be rehired. At the end of the year, the college notified the
+    instructor that his contract would not be renewed. It gave no reasons, made no public statements about
+    him and offered no hearing. The instructor sues, claiming the nonrenewal without a hearing violated
+    procedural due process.
+  call: "Will the instructor prevail?"
+  options:
+    A: "Yes, because public employment is a valuable government benefit that may not be withdrawn without a hearing."
+    B: "Yes, because the Mathews v. Eldridge balancing test favors a hearing before nonrenewal."
+    C: "No, because the instructor had no legitimate claim of entitlement to continued employment."
+    D: "No, because procedural due process protects only against deprivations of liberty, not loss of employment."
+  answer: C
+  explanation_correct: >-
+    C is correct. Procedural due process applies only when the government deprives a person of a protected
+    liberty or property interest. A property interest requires a legitimate claim of entitlement created by
+    an independent source such as a contract, statute or mutually explicit understanding; a unilateral hope
+    of renewal is not enough (R-CON-057; Board of Regents v. Roth). The one-year contract was fully
+    performed, and no rule or practice promised renewal. No stigmatizing statements were made, so no
+    liberty interest is involved either.
+  explanation_each_wrong_option:
+    A: >-
+      Missing element. The value of a benefit does not create a property interest; entitlement does
+      (R-CON-057). A tenured or for-cause employee would have one.
+    B: >-
+      Sequence error. Mathews balancing decides what process is due only after a protected interest is
+      found (R-CON-058).
+    D: >-
+      Wrong. Employment can be property when there is an entitlement, such as tenure or for-cause
+      protection (Perry v. Sindermann; Loudermill).
+  trap_type: missing-element
+  authority: ["U.S. Const. amend. XIV, § 1", "Board of Regents v. Roth, 408 U.S. 564 (1972)", "Perry v. Sindermann, 408 U.S. 593 (1972)"]
+  source: original
+  tags: [wave1, procedural-due-process, property-interest]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CON-0030
+  subject: CON
+  coverage_ids: [CON-MBE-IV.B.2]
+  rule_ids: [R-CON-058, R-CON-057]
+  difficulty: 2
+  stem: >-
+    A city's civil-service law provides that a classified employee "may be dismissed only for cause." After
+    receiving an anonymous complaint that a classified building inspector had accepted gifts from
+    contractors, the city manager fired the inspector by letter, effective immediately, without telling him
+    the charges in advance or allowing him to respond. Under the civil-service law, the inspector may obtain
+    a full evidentiary hearing before a review board, which ordinarily occurs about three months after
+    dismissal and can order reinstatement with back pay. The inspector sues, claiming he was denied due
+    process.
+  call: "Was the inspector denied due process?"
+  options:
+    A: "Yes, because before being fired he was entitled to notice of the charges, an explanation of the evidence and an opportunity to respond."
+    B: "Yes, because before being fired he was entitled to a full evidentiary hearing with the right to counsel and to cross-examine witnesses."
+    C: "No, because the post-termination hearing with reinstatement and back pay provides all the process that is due."
+    D: "No, because a city job is a privilege rather than a right."
+  answer: A
+  explanation_correct: >-
+    A is correct. The for-cause protection gives the inspector a property interest in his job (R-CON-057).
+    Under Mathews balancing, a tenured public employee is entitled before termination to oral or written
+    notice of the charges, an explanation of the employer's evidence and an opportunity to present his
+    side, followed by a full post-termination hearing (R-CON-058; Cleveland Board of Education v.
+    Loudermill). He received none of the pre-termination protections.
+  explanation_each_wrong_option:
+    B: >-
+      Overbroad. Loudermill requires only a limited pre-termination opportunity to respond; the full
+      evidentiary hearing may come after termination.
+    C: >-
+      Wrong standard. A post-deprivation hearing alone sufficed for disability benefits in Mathews, but for
+      a for-cause public employee the Court requires a pre-termination opportunity to respond (Loudermill).
+    D: >-
+      Outdated rule. The right-privilege distinction was rejected; entitlements created by law are
+      property (R-CON-057).
+  trap_type: wrong-standard
+  authority: ["Cleveland Bd. of Educ. v. Loudermill, 470 U.S. 532 (1985)", "Mathews v. Eldridge, 424 U.S. 319 (1976)"]
+  source: original
+  tags: [wave1, procedural-due-process, what-process-is-due]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CON-0031
+  subject: CON
+  coverage_ids: [CON-MBE-IV.C.1]
+  rule_ids: [R-CON-064, R-CON-066, R-CON-053]
+  difficulty: 3
+  stem: >-
+    A state statute provides that indigent residents may receive state-funded, nonemergency hospital care
+    only if they have resided in the state for at least one year. The state says the requirement protects
+    its limited health-care budget and discourages people from moving to the state to obtain free care. A
+    woman who moved to the state four months ago and has been denied state-funded treatment for a chronic
+    condition sues.
+  call: "Is the statute constitutional?"
+  options:
+    A: "Yes, because it is rationally related to the state's legitimate interest in preserving its fiscal resources."
+    B: "No, because it penalizes the exercise of the right to interstate travel by denying new residents a basic necessity, and it is not necessary to a compelling interest."
+    C: "Yes, because a state may require a period of residence before granting benefits, as it may for in-state college tuition."
+    D: "No, because it discriminates against citizens of other states in violation of the Privileges and Immunities Clause of Article IV."
+  answer: B
+  explanation_correct: >-
+    B is correct. A durational residency requirement that denies new residents basic necessities, such as
+    welfare or nonemergency medical care, penalizes the fundamental right to interstate travel and triggers
+    strict scrutiny (R-CON-064; Memorial Hospital v. Maricopa County; Shapiro v. Thompson). Saving money and
+    deterring the migration of poor people are not compelling interests that justify the penalty
+    (R-CON-066).
+  explanation_each_wrong_option:
+    A: >-
+      Wrong standard. Fiscal savings would satisfy rational basis, but strict scrutiny applies when the
+      classification penalizes the right to travel (R-CON-064).
+    C: >-
+      Confused rule. Reasonable residency periods are allowed for in-state tuition or divorce (Sosna), but
+      not for basic necessities like medical care (R-CON-064).
+    D: >-
+      Wrong clause. The woman is now a resident; Article IV P&I protects nonresidents (R-CON-053). New
+      residents are protected by the right to travel through equal protection and the Fourteenth Amendment
+      Privileges or Immunities Clause (Saenz v. Roe).
+  trap_type: confused-rule
+  authority: ["Memorial Hospital v. Maricopa County, 415 U.S. 250 (1974)", "Shapiro v. Thompson, 394 U.S. 618 (1969)", "Saenz v. Roe, 526 U.S. 489 (1999)"]
+  source: original
+  tags: [wave1, equal-protection, right-to-travel]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CON-0032
+  subject: CON
+  coverage_ids: [CON-MBE-IV.C.2]
+  rule_ids: [R-CON-071, R-CON-066]
+  difficulty: 2
+  stem: >-
+    A state statute authorizes divorce courts to order spousal-support payments to wives but never to
+    husbands. The legislature explained that women historically have had fewer economic opportunities than
+    men. Under existing state law, divorce courts already hold individualized hearings on each spouse's
+    financial needs and resources before deciding on support. A divorced husband who earns far less than
+    his former wife was denied support solely because of the statute, and he challenges it under the Equal
+    Protection Clause.
+  call: "How should the court rule?"
+  options:
+    A: "Uphold the statute, because it is rationally related to the legitimate goal of helping needy spouses."
+    B: "Uphold the statute, because laws that favor women to compensate for past discrimination are not subject to heightened scrutiny."
+    C: "Strike the statute, because sex is a suspect classification and the statute is not necessary to a compelling interest."
+    D: "Strike the statute, because the state cannot show an exceedingly persuasive justification, given that individualized hearings already identify needy spouses of either sex."
+  answer: D
+  explanation_correct: >-
+    D is correct. Sex classifications receive intermediate scrutiny: the government must show an
+    exceedingly persuasive justification, meaning the classification serves important objectives and is
+    substantially related to them (R-CON-071; United States v. Virginia). Because courts already hold
+    individualized needs hearings, using sex as a proxy for need is unnecessary and rests on stereotype, so
+    the statute fails (Orr v. Orr).
+  explanation_each_wrong_option:
+    A: >-
+      Wrong standard. Rational basis does not apply to sex classifications (R-CON-066).
+    B: >-
+      Confused rule. Sex classifications that purport to benefit women are still reviewed under
+      intermediate scrutiny (Mississippi University for Women v. Hogan).
+    C: >-
+      Right result, wrong reason. Under the federal Constitution sex is quasi-suspect (intermediate
+      scrutiny), not suspect (strict scrutiny); California treats sex as suspect only under its own
+      constitution (R-CON-071).
+  trap_type: wrong-standard
+  authority: ["U.S. Const. amend. XIV, § 1", "Orr v. Orr, 440 U.S. 268 (1979)", "United States v. Virginia, 518 U.S. 515 (1996)", "Mississippi Univ. for Women v. Hogan, 458 U.S. 718 (1982)"]
+  source: original
+  tags: [wave1, equal-protection, sex-discrimination]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CON-0033
+  subject: CON
+  coverage_ids: [CON-MBE-IV.C.2]
+  rule_ids: [R-CON-070, R-CON-082]
+  difficulty: 2
+  stem: >-
+    A state statute requires that all state highway-patrol troopers be United States citizens. Troopers
+    carry firearms, make arrests and exercise broad discretion in enforcing the law. A lawful permanent
+    resident who has lived in the state for 12 years and meets every other qualification is rejected solely
+    because he is not a citizen. He sues, claiming the statute violates the Equal Protection Clause.
+  call: "Is the statute constitutional?"
+  options:
+    A: "Yes, because a state may limit positions that carry out important governmental functions to citizens if the limitation is rationally related to a legitimate interest."
+    B: "No, because classifications based on alienage are suspect, and the statute is not necessary to a compelling state interest."
+    C: "Yes, because the regulation of aliens falls within the state's plenary power over immigration."
+    D: "No, because a lawful permanent resident is entitled to the same treatment as a citizen under the Privileges or Immunities Clause."
+  answer: A
+  explanation_correct: >-
+    A is correct. State alienage classifications ordinarily get strict scrutiny, but a state may exclude
+    noncitizens from positions that carry out important governmental functions, such as police officers,
+    under rational-basis review (R-CON-070; Foley v. Connelie). Troopers exercise the state's coercive power
+    over citizens with broad discretion, and limiting the job to citizens is rationally related to
+    self-government.
+  explanation_each_wrong_option:
+    B: >-
+      Exception trap. Strict scrutiny is the general rule for state alienage classifications (Graham v.
+      Richardson), but the political-function exception applies to police officers (R-CON-070).
+    C: >-
+      Plenary power over immigration belongs to the federal government, which is why federal alienage
+      rules get rational basis; states have no immigration power (R-CON-026, R-CON-070).
+    D: >-
+      The Fourteenth Amendment Privileges or Immunities Clause protects the privileges of national
+      citizenship, not aliens (R-CON-082).
+  trap_type: exception-trap
+  authority: ["U.S. Const. amend. XIV, § 1", "Foley v. Connelie, 435 U.S. 291 (1978)", "Graham v. Richardson, 403 U.S. 365 (1971)"]
+  source: original
+  tags: [wave1, equal-protection, alienage]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CON-0034
+  subject: CON
+  coverage_ids: [CON-MBE-IV.C.2]
+  rule_ids: [R-CON-067, R-CON-066]
+  difficulty: 1
+  stem: >-
+    A city fire department requires every applicant to pass a written examination on reading comprehension
+    and basic mechanics. Black applicants fail the examination at nearly twice the rate of white
+    applicants. There is no evidence that the city adopted or kept the examination in order to exclude
+    Black applicants, and the examination is reasonably related to firefighting tasks. Several Black
+    applicants who failed sue the city, claiming only that the examination violates the Equal Protection
+    Clause.
+  call: "How should the court rule?"
+  options:
+    A: "For the applicants, because a test with a racially disproportionate impact is subject to strict scrutiny."
+    B: "For the applicants, because the city cannot prove that the test is the least discriminatory way to select firefighters."
+    C: "For the city, because a facially neutral test with a disparate impact is reviewed under the rational-basis standard absent proof of discriminatory purpose."
+    D: "For the city, because the Equal Protection Clause does not apply to public employment decisions."
+  answer: C
+  explanation_correct: >-
+    C is correct. A facially neutral law is treated as a racial classification only if the challenger
+    proves a discriminatory purpose; disparate impact alone is not enough (R-CON-067; Washington v. Davis).
+    Without such proof, rational basis applies (R-CON-066), and a job-related test easily passes. (Title VII
+    disparate-impact claims are statutory and work differently; the claim here is constitutional only.)
+  explanation_each_wrong_option:
+    A: >-
+      Confused rule. Impact is evidence of purpose under Arlington Heights, but impact alone does not
+      trigger strict scrutiny (R-CON-067).
+    B: >-
+      Wrong standard. A least-discriminatory-alternative burden on the employer is a statutory concept, not
+      the equal-protection test, and the burden under rational basis is on the challenger.
+    D: >-
+      Overbroad. Equal protection applies to government employment decisions; the city wins because no
+      purposeful discrimination is shown.
+  trap_type: confused-rule
+  authority: ["Washington v. Davis, 426 U.S. 229 (1976)", "Village of Arlington Heights v. Metro. Hous. Dev. Corp., 429 U.S. 252 (1977)"]
+  source: original
+  tags: [wave1, equal-protection, discriminatory-purpose]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CON-0035
+  subject: CON
+  coverage_ids: [CON-MBE-IV.C.3]
+  rule_ids: [R-CON-074, R-CON-017]
+  difficulty: 1
+  stem: >-
+    A state constitutional provision requires state trial judges to retire at age 72. A 72-year-old judge
+    with an excellent record and good health challenges the requirement under the Equal Protection Clause.
+    She proves that many judges remain fully capable well past age 72.
+  call: "Is the requirement constitutional?"
+  options:
+    A: "No, because age is a quasi-suspect classification, and the requirement is not substantially related to an important interest."
+    B: "Yes, because age classifications get rational-basis review, and the state could rationally believe that mandatory retirement promotes a capable judiciary even if the rule is imperfect."
+    C: "No, because the requirement is overinclusive as applied to capable judges like the plaintiff."
+    D: "Yes, because a state's choice of qualifications for its own officers is a nonjusticiable political question."
+  answer: B
+  explanation_correct: >-
+    B is correct. Age is not a suspect or quasi-suspect classification, so an age-based rule is upheld if
+    rationally related to any legitimate interest (R-CON-074; Massachusetts Board of Retirement v. Murgia).
+    A state could rationally conclude that physical and mental capacity may decline with age and that a
+    bright-line retirement age avoids case-by-case fitness fights (Gregory v. Ashcroft).
+  explanation_each_wrong_option:
+    A: >-
+      Wrong standard. Intermediate scrutiny applies to sex and nonmarital-birth classifications, not age
+      (R-CON-066, R-CON-074).
+    C: >-
+      Overinclusiveness is tolerated under rational-basis review; a classification need not fit
+      perfectly (R-CON-074).
+    D: >-
+      Political-question overuse. Courts decide equal-protection challenges to state qualifications on the
+      merits, as in Gregory (R-CON-017).
+  trap_type: wrong-standard
+  authority: ["Massachusetts Bd. of Retirement v. Murgia, 427 U.S. 307 (1976)", "Gregory v. Ashcroft, 501 U.S. 452 (1991)"]
+  source: original
+  tags: [wave1, equal-protection, rational-basis, age]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CON-0036
+  subject: CON
+  coverage_ids: [CON-MBE-IV.D]
+  rule_ids: [R-CON-078, R-CON-079, R-CON-077]
+  difficulty: 1
+  stem: >-
+    A city ordinance requires the owner of every apartment building to allow the city's broadband
+    contractor to install a junction box about the size of a shoebox and a cable running along the roof, so
+    that tenants can receive high-speed internet. The equipment will remain indefinitely. The ordinance
+    provides a one-time payment of $1 to each owner. An owner whose building has not lost any value because
+    of the equipment sues, claiming a taking.
+  call: "Has there been a taking for which just compensation is required?"
+  options:
+    A: "Yes, because a permanent physical occupation of property authorized by the government is a taking, regardless of its size or economic impact."
+    B: "No, because the minimal economic impact on the owner means there is no taking under the Penn Central balancing test."
+    C: "No, because the ordinance serves the important public purpose of expanding internet access."
+    D: "Yes, but only if the equipment deprives the owner of all economically beneficial use of the building."
+  answer: A
+  explanation_correct: >-
+    A is correct. A permanent physical occupation authorized by the government is a per se taking, however
+    small the area and whatever the public benefit (R-CON-078; Loretto v. Teleprompter Manhattan CATV
+    Corp.). The government must pay just compensation, measured by the fair market value of what was
+    taken; whether $1 is enough is a separate valuation question, but a taking has occurred.
+  explanation_each_wrong_option:
+    B: >-
+      Wrong test. Penn Central balancing governs regulatory restrictions on use (R-CON-079), not permanent
+      physical occupations, which are takings per se.
+    C: >-
+      A public purpose satisfies the public-use requirement (R-CON-077), but it does not excuse the duty to
+      pay compensation.
+    D: >-
+      Confused rule. Lucas's total-wipeout rule is a separate per se category for regulations (R-CON-079);
+      physical occupation needs no showing of lost value.
+  trap_type: wrong-standard
+  authority: ["U.S. Const. amend. V", "Loretto v. Teleprompter Manhattan CATV Corp., 458 U.S. 419 (1982)", "Penn Central Transp. Co. v. New York City, 438 U.S. 104 (1978)"]
+  source: original
+  tags: [wave1, takings, physical-occupation]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CON-0037
+  subject: CON
+  coverage_ids: [CON-MBE-IV.D]
+  rule_ids: [R-CON-080, R-CON-086, R-CON-079]
+  difficulty: 2
+  stem: >-
+    A restaurant owner applied to a city for a permit to build a 600-square-foot outdoor patio on her
+    property. The city approved the permit on condition that she grant the public a permanent pedestrian
+    easement across a 10-foot strip at the back of her lot, linking two municipal parking lots. The city
+    cited general downtown congestion but made no findings about how the patio would affect pedestrian or
+    vehicle traffic. The owner sues, claiming the condition is an unconstitutional taking.
+  call: "Is the owner likely to prevail?"
+  options:
+    A: "No, because land-use permit conditions are valid if rationally related to a legitimate government interest."
+    B: "No, because the owner was free to decline the permit and therefore gave up nothing involuntarily."
+    C: "No, because the condition does not deprive the owner of all economically beneficial use of her property."
+    D: "Yes, because the city has made no individualized determination that the easement is roughly proportional to the patio's impact."
+  answer: D
+  explanation_correct: >-
+    D is correct. When the government conditions a land-use permit on the dedication of property, the
+    condition must have an essential nexus to a legitimate interest that would justify denying the permit
+    (Nollan) and be roughly proportional, by an individualized determination, to the impact of the
+    proposed development (Dolan) (R-CON-080). A public easement is a classic property dedication. The city
+    relied on general congestion and made no findings tying the patio's impact to the easement, so the
+    condition is an unconstitutional exaction.
+  explanation_each_wrong_option:
+    A: >-
+      Wrong standard. Ordinary zoning gets deferential review, but exactions demanding property get the
+      heightened Nollan/Dolan test (R-CON-080).
+    B: >-
+      Unconstitutional-conditions trap. The government may not condition a benefit it could deny on the
+      surrender of a constitutional right, here the right to compensation (R-CON-086; Koontz).
+    C: >-
+      Confused rule. Lucas's total-wipeout test applies to regulations of use; an exaction is judged by
+      nexus and rough proportionality (R-CON-079, R-CON-080).
+  trap_type: wrong-standard
+  authority: ["U.S. Const. amend. V", "Nollan v. California Coastal Comm'n, 483 U.S. 825 (1987)", "Dolan v. City of Tigard, 512 U.S. 374 (1994)", "Koontz v. St. Johns River Water Mgmt. Dist., 570 U.S. 595 (2013)"]
+  source: original
+  tags: [wave1, takings, exactions]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CON-0038
+  subject: CON
+  coverage_ids: [CON-MBE-IV.E]
+  rule_ids: [R-CON-053, R-CON-049, R-CON-082, R-CON-074]
+  difficulty: 3
+  stem: >-
+    A city ordinance requires that at least 40 percent of the workers on any construction project funded
+    by the city be city residents. The city says the ordinance reduces local unemployment. A carpenter who
+    lives in a neighboring state, and who lost a job on a city-funded library project because of the
+    ordinance, sues the city.
+  call: "Which of the following is the carpenter's strongest constitutional argument?"
+  options:
+    A: "The ordinance discriminates against interstate commerce in violation of the dormant Commerce Clause."
+    B: "The ordinance violates the Privileges or Immunities Clause of the Fourteenth Amendment."
+    C: "The ordinance discriminates against nonresidents in the pursuit of a livelihood, in violation of the Privileges and Immunities Clause of Article IV."
+    D: "The ordinance denies nonresidents equal protection because residence is a suspect classification."
+  answer: C
+  explanation_correct: >-
+    C is correct. Article IV P&I bars a state or city from discriminating against out-of-state citizens in
+    fundamental activities such as pursuing a livelihood, unless it shows a substantial reason and a
+    substantial relationship between the discrimination and that reason (R-CON-053; United Building &
+    Construction Trades Council v. Mayor of Camden). Municipal-residency preferences are covered, the
+    carpenter is an individual citizen, and there is no market-participant exception to P&I. The city
+    still gets a chance to justify the ordinance, but this is the argument most likely to succeed.
+  explanation_each_wrong_option:
+    A: >-
+      Exception trap. The city is spending its own money on its own projects, so the market-participant
+      exception defeats a dormant Commerce Clause claim (R-CON-049; White v. Massachusetts Council).
+    B: >-
+      The Fourteenth Amendment Privileges or Immunities Clause protects only privileges of national
+      citizenship and is rarely a winning argument outside the new-resident travel cases (R-CON-082).
+    D: >-
+      Wrong tier. Residence is not a suspect classification; equal protection would apply rational basis,
+      which the city would likely satisfy (R-CON-074).
+  trap_type: exception-trap
+  authority: ["U.S. Const. art. IV, § 2, cl. 1", "United Bldg. & Constr. Trades Council v. Mayor of Camden, 465 U.S. 208 (1984)", "White v. Mass. Council of Constr. Employers, 460 U.S. 204 (1983)"]
+  source: original
+  tags: [wave1, privileges-and-immunities, market-participant]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CON-0039
+  subject: CON
+  coverage_ids: [CON-MBE-IV.E]
+  rule_ids: [R-CON-083, R-CON-084]
+  difficulty: 2
+  stem: >-
+    During a recession, Congress enacted a statute that caps at 5 percent the interest rate on all existing
+    private student loans held by private lenders, including loans made years earlier at higher contract
+    rates. A private lender holding thousands of such loans sues, arguing only that the statute violates the
+    Contracts Clause of Article I, Section 10.
+  call: "Will the lender prevail on its argument?"
+  options:
+    A: "Yes, because the statute substantially impairs existing contracts without adequate justification."
+    B: "No, because the Contracts Clause restricts only the states, not the federal government."
+    C: "No, because the Contracts Clause protects only contracts to which a government is a party."
+    D: "Yes, because a retroactive law that reduces a creditor's contractual rights is an ex post facto law."
+  answer: B
+  explanation_correct: >-
+    B is correct. The Contracts Clause provides that "No State shall ... pass any ... Law impairing the
+    Obligation of Contracts"; it limits state legislation only (R-CON-083). Retroactive federal economic
+    legislation is reviewed under Fifth Amendment due process, which requires only a rational basis
+    (Pension Benefit Guaranty Corp. v. R.A. Gray & Co.). The lender's only argument fails.
+  explanation_each_wrong_option:
+    A: >-
+      Confused rule. The substantial-impairment analysis is the right test for a state law (R-CON-083), but
+      it does not apply to Congress.
+    C: >-
+      Wrong. The Clause protects private contracts as well as a state's own contracts; courts simply defer
+      less when a state impairs its own obligations (R-CON-083).
+    D: >-
+      The Ex Post Facto Clauses apply only to retroactive criminal or punitive laws, not to civil economic
+      regulation (R-CON-084).
+  trap_type: confused-rule
+  authority: ["U.S. Const. art. I, § 10, cl. 1", "Pension Benefit Guaranty Corp. v. R.A. Gray & Co., 467 U.S. 717 (1984)", "Home Bldg. & Loan Ass'n v. Blaisdell, 290 U.S. 398 (1934)"]
+  source: original
+  tags: [wave1, contracts-clause]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CON-0040
+  subject: CON
+  coverage_ids: [CON-MBE-IV.E]
+  rule_ids: [R-CON-084]
+  difficulty: 3
+  stem: >-
+    A state's statute of limitations for embezzlement was three years. A bookkeeper allegedly embezzled
+    funds from her employer in 2018, and the limitations period for that offense expired in 2021 without
+    any charge being filed. In 2023, the legislature extended the limitations period for embezzlement to ten
+    years and made the extension applicable to "all offenses not yet prosecuted, whether or not the former
+    limitations period has run." In 2024, the state charged the bookkeeper with the 2018 embezzlement. She
+    moves to dismiss.
+  call: "Should the motion be granted?"
+  options:
+    A: "Yes, because applying the new statute to revive a prosecution that was already time-barred violates the Ex Post Facto Clause."
+    B: "No, because statutes of limitations are procedural, and procedural changes may always be applied retroactively."
+    C: "No, because the new statute neither changes the elements of embezzlement nor increases its punishment."
+    D: "Yes, because any extension of a criminal limitations period that applies to past conduct violates the Ex Post Facto Clause."
+  answer: A
+  explanation_correct: >-
+    A is correct. The Ex Post Facto Clauses bar retroactive penal laws that, among other things, aggravate
+    a crime or increase its punishment (R-CON-084; Calder v. Bull). A law that revives a prosecution after
+    the limitations period has already expired exposes the defendant to punishment that the law had
+    already ruled out, and it violates the Clause (Stogner v. California). Her period expired in 2021, two
+    years before the extension.
+  explanation_each_wrong_option:
+    B: >-
+      Overbroad. Labeling a change "procedural" does not save it; reviving a time-barred prosecution is
+      prohibited even though limitations periods are often called procedural (Stogner).
+    C: >-
+      Too narrow a view of the Clause. Reviving an expired prosecution falls within the protected
+      categories even though the elements and penalty are unchanged (Stogner; R-CON-084).
+    D: >-
+      Overbroad. Extending a limitations period that has not yet run is generally permissible; the
+      violation lies in reviving prosecutions already barred (Stogner).
+  trap_type: overbroad
+  authority: ["U.S. Const. art. I, § 10, cl. 1", "Calder v. Bull, 3 U.S. (3 Dall.) 386 (1798)", "Stogner v. California, 539 U.S. 607 (2003)"]
+  source: original
+  tags: [wave1, ex-post-facto]
+  status: draft
+  last_verified: 2026-11-04

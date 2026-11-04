@@ -1,0 +1,198 @@
+# Criminal Law and Procedure — NCBE category II: other crimes
+# Original MBE-style items (wave 1). Common-law elements unless the stem says otherwise.
+questions:
+- id: Q-CRM-0007
+  subject: CRM
+  coverage_ids: [CRM-MBE-II.A]
+  rule_ids: [R-CRM-044, R-CRM-045, R-CRM-046]
+  difficulty: 2
+  stem: >-
+    A part-time cashier at a hardware store was authorized to ring up sales and make change from her
+    register, which held cash that customers had paid earlier in the day. She had no authority to remove
+    money from the register for any other purpose or to make deposits. At the end of her shift, she took
+    $300 from the register drawer, intending to keep it, and left. The jurisdiction retains the common-law
+    theft offenses.
+  call: "Which crime has the cashier committed?"
+  options:
+    A: "Embezzlement, because the money was entrusted to her as an employee."
+    B: "False pretenses, because she obtained the money by abusing her employer's trust."
+    C: "Larceny, because she had only custody of the money and took it from her employer's possession."
+    D: "Larceny by trick, because she obtained access to the money by accepting employment."
+  answer: C
+  explanation_correct: >-
+    C is correct. Larceny is the trespassory taking and carrying away of another's property with intent to
+    permanently deprive (R-CRM-044). A low-level employee who handles the employer's property in the
+    ordinary course has only custody; the employer keeps possession. Taking cash already in the employer's
+    register with intent to keep it is therefore a trespassory taking from the employer's possession.
+  explanation_each_wrong_option:
+    A: >-
+      Confused rule. Embezzlement requires lawful possession, as held by a trustee, agent or bailee with
+      authority over the property; a cashier with mere custody commits larceny (R-CRM-045).
+    B: >-
+      False pretenses requires a false representation of fact that induces the victim to pass title
+      (R-CRM-046); she made no misrepresentation and received no title.
+    D: >-
+      Larceny by trick requires obtaining possession through a misrepresentation (R-CRM-046); she did not
+      obtain the money by any deception.
+  trap_type: confused-rule
+  authority: ["Common law", "MPC § 223.2"]
+  source: original
+  tags: [wave1, theft, larceny, embezzlement]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CRM-0008
+  subject: CRM
+  coverage_ids: [CRM-MBE-II.A]
+  rule_ids: [R-CRM-046, R-CRM-044, R-CRM-045]
+  difficulty: 2
+  stem: >-
+    A woman agreed to buy a used car from a private seller for $9,000. She handed the seller a cashier's
+    check for $9,000 that she knew was forged. Believing the check genuine, the seller signed the
+    certificate of title over to her and gave her the keys. She drove the car away and sold it the next
+    day. The check was later dishonored.
+  call: "Which crime has the woman committed with respect to the car?"
+  options:
+    A: "Larceny, because she took the car without the seller's valid consent."
+    B: "Larceny by trick, because she obtained the car through a misrepresentation."
+    C: "Embezzlement, because she converted the car after lawfully obtaining it."
+    D: "False pretenses, because her misrepresentation of a present fact induced the seller to pass title to her."
+  answer: D
+  explanation_correct: >-
+    D is correct. False pretenses is obtaining title to another's property by a knowing false
+    representation of a past or present material fact, with intent to defraud, that causes the victim to
+    pass title (R-CRM-046). Presenting a forged check represents that it is genuine; relying on that
+    representation, the seller signed over the title.
+  explanation_each_wrong_option:
+    A: >-
+      Larceny requires a trespassory taking; the seller voluntarily transferred the car, so the crime is one
+      of the fraud-based offenses (R-CRM-044, R-CRM-046).
+    B: >-
+      Confused rule. Larceny by trick applies when the deception obtains only possession; a completed sale
+      with a signed title transfers title (R-CRM-046).
+    C: >-
+      Embezzlement requires lawful possession obtained without fraud and later conversion; her possession
+      was obtained by fraud from the outset (R-CRM-045).
+  trap_type: confused-rule
+  authority: ["Common law", "MPC § 223.3"]
+  source: original
+  tags: [wave1, theft, false-pretenses]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CRM-0009
+  subject: CRM
+  coverage_ids: [CRM-MBE-II.B]
+  rule_ids: [R-CRM-049]
+  difficulty: 2
+  stem: >-
+    A man rang the doorbell of a house in the afternoon. When the homeowner opened the door, he pointed a gun
+    at her and made her tell him the combination to the safe in her upstairs bedroom. He then forced her
+    down to the basement and locked her in. He went upstairs, opened the safe and left with $20,000 in
+    jewelry. The homeowner did not see him take the jewelry.
+  call: "Is the man guilty of robbery?"
+  options:
+    A: "Yes, because he used force and intimidation to take property that was in the homeowner's presence and under her control."
+    B: "Yes, because he was armed with a deadly weapon when he took the property."
+    C: "No, because the jewelry was not taken from the homeowner's person."
+    D: "No, because the homeowner did not see the property being taken."
+  answer: A
+  explanation_correct: >-
+    A is correct. Robbery is larceny from the victim's person or presence accomplished by force or
+    intimidation (R-CRM-049). Property is within a victim's presence if it is within her reach, observation
+    or control, so that she could have kept it but for the force or fear. The jewelry was in her home under
+    her control, and he used the threat of the gun to get the combination and confined her to complete the
+    taking.
+  explanation_each_wrong_option:
+    B: >-
+      Right result, wrong reason. A weapon is not an element of robbery; it aggravates the crime. The
+      elements are a taking from person or presence by force or intimidation (R-CRM-049).
+    C: >-
+      Taking from the victim's presence is enough; it need not be from her person (R-CRM-049).
+    D: >-
+      Presence does not require that the victim watch the taking; it is enough that force or fear prevented
+      her from retaining property under her control.
+  trap_type: right-result-wrong-reason
+  authority: ["Common law", "MPC § 222.1"]
+  source: original
+  tags: [wave1, robbery]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CRM-0010
+  subject: CRM
+  coverage_ids: [CRM-MBE-II.C]
+  rule_ids: [R-CRM-050, R-CRM-009, R-CRM-044]
+  difficulty: 1
+  stem: >-
+    At 10 p.m., a man opened his neighbor's closed but unlocked back door and walked into the neighbor's
+    house. He intended only to take back a power drill that he had lent the neighbor and honestly believed
+    he was entitled to recover. Inside, he saw an expensive watch on the kitchen counter, decided to steal
+    it and left with both the drill and the watch. The jurisdiction follows the common law.
+  call: "Of which crimes is the man guilty?"
+  options:
+    A: "Burglary and larceny."
+    B: "Burglary only, because the larceny merges into the burglary."
+    C: "Larceny only."
+    D: "Neither burglary nor larceny, because he entered for a lawful purpose."
+  answer: C
+  explanation_correct: >-
+    C is correct. Common-law burglary requires breaking and entering the dwelling of another at night with
+    intent to commit a felony inside, and the intent must exist at the time of entry (R-CRM-050;
+    R-CRM-009). Opening a closed door is a breaking, but when he entered he meant only to recover his own
+    drill under a claim of right, which is not a felony. His later decision to take the watch is larceny.
+  explanation_each_wrong_option:
+    A: >-
+      Missing element. Every burglary element is present except intent to commit a felony at entry; intent
+      formed after entry does not make the entry burglary (R-CRM-050).
+    B: >-
+      Burglary and the crime committed inside do not merge, and in any event there was no burglary here
+      (R-CRM-050, R-CRM-051).
+    D: >-
+      A lawful purpose at entry defeats burglary only; taking the watch with intent to keep it is larceny
+      (R-CRM-044).
+  trap_type: missing-element
+  authority: ["Common law"]
+  source: original
+  tags: [wave1, burglary, concurrence]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CRM-0011
+  subject: CRM
+  coverage_ids: [CRM-MBE-II.D]
+  rule_ids: [R-CRM-052]
+  difficulty: 2
+  stem: >-
+    Wanting to frighten his former business partner, a man walked up to him on a sidewalk, pointed a pistol
+    at his face and said, "Say goodbye." The man knew the pistol was unloaded. The partner, who did not know
+    this, was terrified. The man laughed and walked away. The jurisdiction recognizes both traditional forms
+    of criminal assault.
+  call: "Is the man guilty of assault?"
+  options:
+    A: "No, because with an unloaded gun he lacked the present ability to commit a battery."
+    B: "Yes, because he intentionally placed the partner in reasonable apprehension of an imminent battery."
+    C: "Yes, because he attempted to commit a battery on the partner."
+    D: "No, because words and gestures cannot constitute an assault without physical contact."
+  answer: B
+  explanation_correct: >-
+    B is correct. Assault is either an attempted battery or the intentional creation of a reasonable
+    apprehension of imminent bodily harm (R-CRM-052). Pointing a gun at someone's face and saying "Say
+    goodbye," intending to frighten him, created exactly that apprehension. That the gun was unloaded does
+    not matter for this form, because the victim reasonably believed it could fire.
+  explanation_each_wrong_option:
+    A: >-
+      Confused rule. Lack of ability to injure may defeat the attempted-battery form of assault, but not
+      the apprehension form, which turns on the victim's reasonable fear (R-CRM-052).
+    C: >-
+      He did not intend to touch or injure the partner, so there was no attempted battery; the conviction
+      rests on the apprehension form (R-CRM-052).
+    D: >-
+      Assault never requires contact (that would be battery), and pointing a gun is conduct, not words
+      alone (R-CRM-052, R-CRM-053).
+  trap_type: confused-rule
+  authority: ["Common law", "MPC § 211.1"]
+  source: original
+  tags: [wave1, assault]
+  status: draft
+  last_verified: 2026-11-04

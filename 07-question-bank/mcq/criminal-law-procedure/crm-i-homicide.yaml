@@ -1,0 +1,240 @@
+# Criminal Law and Procedure — NCBE category I: homicide
+# Original MBE-style items (wave 1). MBE rules only: common law / majority rule unless the stem names the MPC
+# or quotes a statute. No California Penal Code rule is keyed.
+questions:
+- id: Q-CRM-0001
+  subject: CRM
+  coverage_ids: [CRM-MBE-I.A.1]
+  rule_ids: [R-CRM-033, R-CRM-034]
+  difficulty: 1
+  stem: >-
+    A jurisdiction's statute defines first-degree murder as a "willful, deliberate, and premeditated killing"
+    or a killing committed during arson, rape, robbery, burglary or kidnapping; all other murder is
+    second-degree murder. A man learned that his neighbor had given the police information that led to his
+    brother's arrest. Furious, the man walked to his truck, took out a hunting rifle, loaded it and waited
+    behind a hedge near the neighbor's driveway for about 40 minutes. When the neighbor arrived home, the
+    man shot and killed him.
+  call: "What is the most serious crime of which the man can properly be convicted?"
+  options:
+    A: "Second-degree murder, because he acted in anger rather than with a cool mind."
+    B: "First-degree murder, because the killing was willful, deliberate and premeditated."
+    C: "Voluntary manslaughter, because he was provoked by learning of his brother's arrest."
+    D: "Second-degree murder, because he did not plan the killing before he learned of his brother's arrest."
+  answer: B
+  explanation_correct: >-
+    B is correct. A killing is first-degree murder under such a statute if the defendant intended to kill
+    and reflected on the decision beforehand, even briefly (R-CRM-033). Retrieving and loading a rifle, then
+    waiting 40 minutes in hiding for the victim, shows planning and reflection. Anger does not negate
+    premeditation when the defendant had time to and did think it over.
+  explanation_each_wrong_option:
+    A: >-
+      Missing the evidence. Anger is compatible with premeditation; the question is whether he reflected,
+      and his 40-minute wait with a loaded rifle shows he did (R-CRM-033).
+    C: >-
+      Learning that a neighbor helped the police is not adequate provocation, and 40 minutes of waiting
+      also suggests a reasonable person would have cooled (R-CRM-034).
+    D: >-
+      Premeditation need not exist before the motive arose; the reflection here occurred during the
+      preparation and the wait, which is enough (R-CRM-033).
+  trap_type: missing-element
+  authority: ["Common law (statutory degrees of murder)"]
+  source: original
+  tags: [wave1, homicide, premeditation]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CRM-0002
+  subject: CRM
+  coverage_ids: [CRM-MBE-I.A.2]
+  rule_ids: [R-CRM-034, R-CRM-031]
+  difficulty: 2
+  stem: >-
+    At a bar, a customer loudly mocked a man's recently deceased mother and his ethnic background with a
+    stream of vulgar insults in front of the man's friends. The customer never touched or threatened the
+    man. Enraged, the man immediately grabbed a heavy glass beer mug and struck the customer on the head
+    several times, killing him. The jurisdiction follows the common law.
+  call: "What is the most serious homicide crime of which the man can properly be convicted?"
+  options:
+    A: "Involuntary manslaughter, because the man did not plan the killing."
+    B: "Voluntary manslaughter, because the man actually lost his self-control and killed before cooling off."
+    C: "No crime, because the customer's insults provoked the attack."
+    D: "Murder, because words alone are not adequate provocation."
+  answer: D
+  explanation_correct: >-
+    D is correct. Repeatedly striking a person's head with a heavy mug shows intent to kill or to inflict
+    serious bodily injury, which is malice (R-CRM-031). Heat of passion reduces murder to voluntary
+    manslaughter only if the provocation would cause a reasonable person to lose self-control, and under
+    the majority common-law rule insulting words alone are not adequate provocation (R-CRM-034).
+  explanation_each_wrong_option:
+    A: >-
+      Planning is relevant to degree, not to malice. An intentional, unplanned killing with malice is still
+      murder; involuntary manslaughter requires an unintended killing (R-CRM-037).
+    B: >-
+      Missing element. He was actually provoked and did not cool off, but the objective element fails
+      because insults alone are not adequate provocation (R-CRM-034).
+    C: >-
+      Provocation at most mitigates; it is never a complete defense to homicide (R-CRM-034).
+  trap_type: missing-element
+  authority: ["Common law", "MPC § 210.3(1)(b)"]
+  source: original
+  tags: [wave1, homicide, provocation]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CRM-0003
+  subject: CRM
+  coverage_ids: [CRM-MBE-I.B.1]
+  rule_ids: [R-CRM-035, R-CRM-033, R-CRM-013]
+  difficulty: 3
+  stem: >-
+    A jurisdiction's statute defines first-degree murder as a "willful, deliberate, and premeditated
+    killing"; all other murder is second-degree murder. A man who was owed $5,000 by an acquaintance decided,
+    after thinking it over for several days, to "break his kneecaps so he never walks right again." He waited
+    for the acquaintance in a parking lot and struck both of his knees with a steel pipe. The man did not
+    want or expect the acquaintance to die. The injuries caused a blood clot, a well-known complication of
+    such fractures, and the acquaintance died a week later.
+  call: "What is the most serious homicide crime of which the man can properly be convicted?"
+  options:
+    A: "First-degree murder, because he planned the attack for several days."
+    B: "Second-degree murder, because he intended to inflict serious bodily injury."
+    C: "Involuntary manslaughter, because he did not intend to kill."
+    D: "No homicide crime, because the death resulted from a medical complication rather than from the blows."
+  answer: B
+  explanation_correct: >-
+    B is correct. A killing is murder if the defendant intended to inflict serious bodily injury and death
+    resulted, even without intent to kill (R-CRM-035). Shattering both knees with a pipe is serious bodily
+    injury. But a "willful, deliberate, and premeditated killing" requires a premeditated intent to kill
+    (R-CRM-033); premeditating an injury is not enough, so the murder is second-degree.
+  explanation_each_wrong_option:
+    A: >-
+      Confused rule. Premeditation must relate to killing. He planned only to injure, so the murder rests on
+      intent-to-injure malice and is second-degree (R-CRM-033, R-CRM-035).
+    C: >-
+      Intent to inflict serious bodily injury is malice aforethought; involuntary manslaughter is for
+      unintended killings without malice (R-CRM-031, R-CRM-037).
+    D: >-
+      A well-known medical complication of the injuries is a foreseeable, dependent cause and does not break
+      the chain of causation (R-CRM-013).
+  trap_type: confused-rule
+  authority: ["Common law (statutory degrees of murder)"]
+  source: original
+  tags: [wave1, homicide, intent-to-injure]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CRM-0004
+  subject: CRM
+  coverage_ids: [CRM-MBE-I.B.2]
+  rule_ids: [R-CRM-036, R-CRM-037, R-CRM-034]
+  difficulty: 2
+  stem: >-
+    A man, annoyed by loud music from the house next door, fired five rifle shots through the neighbors'
+    lighted front window late one evening "to shut them up." He knew the family was home and could hear
+    voices inside. He testified that he aimed high and did not want to hurt anyone. One bullet ricocheted and
+    killed a teenager inside. The jurisdiction follows the common law.
+  call: "What is the most serious crime of which the man can properly be convicted?"
+  options:
+    A: "Murder, because he consciously disregarded an extremely high risk to human life."
+    B: "Involuntary manslaughter, because he did not intend to kill or injure anyone."
+    C: "Voluntary manslaughter, because he acted in anger after being provoked by the noise."
+    D: "Assault with a deadly weapon only, because the death was an accidental result of a ricochet."
+  answer: A
+  explanation_correct: >-
+    A is correct. Depraved-heart murder is a killing caused by conscious disregard of an extremely high and
+    unjustifiable risk of death, showing extreme indifference to human life (R-CRM-036). Firing a rifle
+    repeatedly into a lighted, occupied room, knowing people were inside, is such conduct; aiming high does
+    not make the risk acceptable.
+  explanation_each_wrong_option:
+    B: >-
+      Wrong standard. Lack of intent to kill does not make the killing involuntary manslaughter when the
+      defendant knowingly created an extreme risk of death; that is malice (R-CRM-036, R-CRM-037).
+    C: >-
+      Loud music is not adequate provocation, and voluntary manslaughter requires a provoked intentional
+      killing (R-CRM-034).
+    D: >-
+      A ricochet is a foreseeable result of firing into a room; the death is not an independent accident
+      (R-CRM-013).
+  trap_type: wrong-standard
+  authority: ["Common law", "MPC § 210.2(1)(b)"]
+  source: original
+  tags: [wave1, homicide, depraved-heart]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CRM-0005
+  subject: CRM
+  coverage_ids: [CRM-MBE-I.B.3]
+  rule_ids: [R-CRM-041, R-CRM-039, R-CRM-040]
+  difficulty: 2
+  stem: >-
+    Two men robbed a convenience store at gunpoint. As they turned to leave with the cash, the store clerk
+    pulled a pistol from under the counter and fired, killing one of the robbers. The surviving robber was
+    arrested outside and charged with felony murder for his partner's death. The jurisdiction follows the
+    majority approach to felony murder.
+  call: "Should he be convicted of felony murder?"
+  options:
+    A: "Yes, because the clerk's armed resistance was a foreseeable result of the robbery."
+    B: "Yes, because robbery is an inherently dangerous felony and the death occurred during its commission."
+    C: "No, because the fatal shot was fired by the clerk, not by a felon acting in furtherance of the robbery."
+    D: "No, because the robbery was complete once the robbers took the cash."
+  answer: C
+  explanation_correct: >-
+    C is correct. Under the majority agency theory, felony murder applies only to killings committed by a
+    felon or an accomplice in furtherance of the felony, not to killings by victims, police or bystanders
+    (R-CRM-041). The clerk, a victim resisting the robbery, fired the fatal shot.
+  explanation_each_wrong_option:
+    A: >-
+      Minority rule. Foreseeable resistance supports liability under the proximate-cause theory, which the
+      jurisdiction does not follow, and many such courts exclude the justified killing of a co-felon
+      (R-CRM-041).
+    B: >-
+      Missing element. Robbery is a qualifying felony and the death occurred during it, but under the agency
+      theory the killer must be a felon (R-CRM-039, R-CRM-041).
+    D: >-
+      The felony continues through immediate flight until the felons reach a place of temporary safety
+      (R-CRM-040); the robbers were still at the counter.
+  trap_type: minority-rule
+  authority: ["Common law", "State v. Canola, 73 N.J. 206 (1977)"]
+  source: original
+  tags: [wave1, homicide, felony-murder, agency-rule]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CRM-0006
+  subject: CRM
+  coverage_ids: [CRM-MBE-I.B.4]
+  rule_ids: [R-CRM-042, R-CRM-035, R-CRM-034]
+  difficulty: 1
+  stem: >-
+    During an argument in a parking lot, a man angrily shoved another man in the chest with both hands,
+    intending only to push him away. The other man stumbled backward, fell, struck his head on a concrete
+    curb and died. The shove was a simple battery, a misdemeanor in the jurisdiction. The jurisdiction
+    applies the misdemeanor-manslaughter rule to misdemeanors that are inherently wrongful.
+  call: "What is the most serious crime of which the man can properly be convicted?"
+  options:
+    A: "Involuntary manslaughter, because the death was caused by a battery, an inherently wrongful misdemeanor."
+    B: "Second-degree murder, because he intended to inflict bodily injury."
+    C: "Voluntary manslaughter, because the killing occurred during a heated argument."
+    D: "Battery only, because he did not intend to cause death or serious bodily injury."
+  answer: A
+  explanation_correct: >-
+    A is correct. An unintended killing caused during the commission of an unlawful act that is not a
+    qualifying felony is involuntary manslaughter; many jurisdictions limit the rule to misdemeanors that
+    are malum in se (R-CRM-042). Battery is inherently wrongful, and a fall after a hard shove is a
+    foreseeable way to cause death.
+  explanation_each_wrong_option:
+    B: >-
+      Confused rule. Murder requires intent to inflict serious bodily injury, not merely some injury
+      (R-CRM-035); a push is not intended to cause grievous harm.
+    C: >-
+      An argument is not adequate provocation, and voluntary manslaughter requires an intentional killing
+      in a provoked heat of passion (R-CRM-034).
+    D: >-
+      The misdemeanor-manslaughter rule exists precisely to impose homicide liability for unintended deaths
+      caused by wrongful misdemeanors (R-CRM-042).
+  trap_type: confused-rule
+  authority: ["Common law"]
+  source: original
+  tags: [wave1, homicide, misdemeanor-manslaughter]
+  status: draft
+  last_verified: 2026-11-04

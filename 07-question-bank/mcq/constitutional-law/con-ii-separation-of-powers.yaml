@@ -1,0 +1,374 @@
+# Constitutional Law — NCBE category II: the separation of powers
+# Original MBE-style items (wave 1). Removal-power items deliberately avoided (Trump v. Slaughter, V-034).
+questions:
+- id: Q-CON-0009
+  subject: CON
+  coverage_ids: [CON-MBE-II.A.1]
+  rule_ids: [R-CON-022, R-CON-021]
+  difficulty: 3
+  stem: >-
+    A federal statute comprehensively regulates the manufacture, distribution and possession of a
+    hallucinogenic mushroom species that is sold in a substantial interstate black market. Among other
+    things, the statute makes it a crime to cultivate the mushroom without a federal license. A woman grows
+    a small quantity of the mushrooms in her basement for her own use. She has never sold any, and all of
+    her growing supplies came from within her state. She is prosecuted under the federal statute and argues
+    that, as applied to her, it exceeds Congress's power under the Commerce Clause.
+  call: "Is her argument likely to succeed?"
+  options:
+    A: "Yes, because her cultivation is purely intrastate and noncommercial, and Congress may not aggregate noneconomic activity."
+    B: "No, because Congress could rationally conclude that home cultivation, in the aggregate, substantially affects the interstate market it is regulating."
+    C: "Yes, because the regulation of drugs for personal use is a power reserved to the states by the Tenth Amendment."
+    D: "No, because Congress may regulate any activity that affects the health of the nation's people."
+  answer: B
+  explanation_correct: >-
+    B is correct. Congress may regulate intrastate economic activity that, in the aggregate, substantially
+    affects interstate commerce, and courts ask only whether Congress had a rational basis for that
+    conclusion (R-CON-022). Producing a commodity for one's own consumption is economic activity that can
+    be aggregated (Wickard v. Filburn), and Congress may reach local cultivation as part of a comprehensive
+    scheme regulating an interstate market (Gonzales v. Raich). Home-grown supply affects price and demand
+    in that market.
+  explanation_each_wrong_option:
+    A: >-
+      Confused rule. Lopez and Morrison bar aggregating noneconomic activity such as gun possession or
+      violence, but cultivating a fungible commodity is economic activity (Wickard; Raich; R-CON-022).
+    C: >-
+      Wrong use of the Tenth Amendment. It reserves only powers not delegated; if the statute is within
+      the commerce power, the Tenth Amendment is no obstacle (R-CON-045).
+    D: >-
+      Overbroad. Congress has no general police power over public health; it must act under an enumerated
+      power such as the Commerce Clause (R-CON-020).
+  trap_type: confused-rule
+  authority: ["U.S. Const. art. I, § 8, cl. 3", "Wickard v. Filburn, 317 U.S. 111 (1942)", "Gonzales v. Raich, 545 U.S. 1 (2005)", "United States v. Lopez, 514 U.S. 549 (1995)"]
+  source: original
+  tags: [wave1, commerce-clause, aggregation]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CON-0010
+  subject: CON
+  coverage_ids: [CON-MBE-II.A.1]
+  rule_ids: [R-CON-024, R-CON-046]
+  difficulty: 1
+  stem: >-
+    Congress enacted a statute providing that any state that does not require all motorcycle riders to wear
+    helmets will lose 4 percent of the federal highway-construction funds it would otherwise receive. The
+    statute states the condition clearly and declares that its purpose is to reduce deaths and injuries on
+    highways built with federal money. A state that has no helmet law sues to have the condition declared
+    unconstitutional.
+  call: "Is the condition constitutional?"
+  options:
+    A: "Yes, because it is unambiguous, related to the federal interest in safe federally funded highways, and not so large as to be coercive."
+    B: "No, because Congress may not use its spending power to induce states to adopt laws that Congress could not enact directly."
+    C: "No, because it commandeers the state legislature to enact a federal regulatory program."
+    D: "Yes, because Congress may attach any condition it chooses to money it gives the states."
+  answer: A
+  explanation_correct: >-
+    A is correct. Congress may attach conditions to federal grants if they serve the general welfare, are
+    stated unambiguously, relate to the federal interest in the program, do not require the state to
+    violate the Constitution, and are not so coercive that pressure becomes compulsion (R-CON-024; South
+    Dakota v. Dole). Helmet laws relate to safety on federally funded highways, and losing 4 percent of
+    highway funds is mild encouragement, comparable to the 5 percent upheld in Dole.
+  explanation_each_wrong_option:
+    B: >-
+      Wrong rule. The spending power may be used to encourage states to do things Congress could not
+      command directly; that is the point of Dole (R-CON-024).
+    C: >-
+      Confused rule. Commandeering means compelling a state to legislate or administer a federal program
+      (R-CON-046). A funding condition the state may decline is not compulsion.
+    D: >-
+      Overbroad. Conditions must meet the Dole requirements and NFIB's coercion limit; threatening all
+      existing Medicaid funds, for example, was unconstitutional (R-CON-024).
+  trap_type: overbroad
+  authority: ["U.S. Const. art. I, § 8, cl. 1", "South Dakota v. Dole, 483 U.S. 203 (1987)", "NFIB v. Sebelius, 567 U.S. 519 (2012)"]
+  source: original
+  tags: [wave1, spending-power, conditional-grants]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CON-0011
+  subject: CON
+  coverage_ids: [CON-MBE-II.A.3]
+  rule_ids: [R-CON-028, R-CON-027]
+  difficulty: 1
+  stem: >-
+    Congress enacted a statute making it unlawful for any private landlord to refuse to rent an apartment
+    to a prospective tenant because of the tenant's race, and authorizing damages suits against violators.
+    A landlord who owns a single building in one town is sued under the statute and argues that Congress
+    lacked power to enact it.
+  call: "Which of the following provides the strongest constitutional support for the statute as applied to the landlord?"
+  options:
+    A: "Section 5 of the Fourteenth Amendment, which authorizes Congress to enforce the Equal Protection Clause."
+    B: "The Privileges and Immunities Clause of Article IV."
+    C: "Section 2 of the Thirteenth Amendment, which authorizes Congress to eliminate the badges and incidents of slavery."
+    D: "The General Welfare Clause of Article I, Section 8."
+  answer: C
+  explanation_correct: >-
+    C is correct. Section 2 of the Thirteenth Amendment lets Congress rationally determine what the badges
+    and incidents of slavery are and legislate against them. Because the Thirteenth Amendment has no
+    state-action requirement, Congress may reach purely private racial discrimination in housing
+    (R-CON-028; Jones v. Alfred H. Mayer Co.).
+  explanation_each_wrong_option:
+    A: >-
+      Section 5 reaches only state action; Congress cannot use it to regulate purely private
+      discrimination (R-CON-027; Civil Rights Cases; United States v. Morrison).
+    B: >-
+      Article IV P&I is a limit on states' discrimination against citizens of other states, not a grant
+      of power to Congress (R-CON-053).
+    D: >-
+      The General Welfare Clause authorizes taxing and spending for the general welfare; it is not a
+      general regulatory power (R-CON-020, R-CON-023).
+  trap_type: confused-rule
+  authority: ["U.S. Const. amend. XIII, § 2", "Jones v. Alfred H. Mayer Co., 392 U.S. 409 (1968)", "Civil Rights Cases, 109 U.S. 3 (1883)"]
+  source: original
+  tags: [wave1, thirteenth-amendment, congressional-power]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CON-0012
+  subject: CON
+  coverage_ids: [CON-MBE-II.A.3, CON-MBE-I.B.2]
+  rule_ids: [R-CON-027, R-CON-006, R-CON-074]
+  difficulty: 3
+  stem: >-
+    Relying expressly on Section 5 of the Fourteenth Amendment, Congress enacted a statute that prohibits
+    public employers from discriminating against employees over 50 on the basis of age. The statute states
+    unequivocally that employees may sue states for money damages in federal court. The legislative record
+    contains few examples of states discriminating against older workers and none showing irrational state
+    age discrimination. A 58-year-old employee of a state agency sues the agency in federal court for
+    damages under the statute, alleging she was denied a promotion because of her age. The agency moves to
+    dismiss.
+  call: "How should the court rule?"
+  options:
+    A: "Deny the motion, because Congress expressly invoked Section 5 and unequivocally abrogated the states' immunity."
+    B: "Deny the motion, because age is a quasi-suspect classification that Congress may protect through prophylactic legislation."
+    C: "Grant the motion, because Congress may never subject states to private damages suits in federal court."
+    D: "Grant the motion, because the damages remedy is not congruent and proportional to any pattern of unconstitutional state conduct."
+  answer: D
+  explanation_correct: >-
+    D is correct. Congress may abrogate state immunity under § 5, but § 5 legislation must show congruence
+    and proportionality between the constitutional injury and the remedy (R-CON-027; City of Boerne). Age
+    classifications get only rational-basis review (R-CON-074), so most age-based decisions by states are
+    constitutional, and the record shows no pattern of unconstitutional state conduct. A broad damages
+    remedy is therefore not valid § 5 legislation and does not abrogate immunity (R-CON-006; Kimel).
+  explanation_each_wrong_option:
+    A: >-
+      Missing element. A clear statement and a recital of § 5 are necessary but not sufficient; the
+      statute must also satisfy congruence and proportionality (R-CON-027).
+    B: >-
+      Wrong standard. Age is not quasi-suspect; it receives rational-basis review (R-CON-074; Murgia).
+    C: >-
+      Overbroad. Congress may validly abrogate under § 5 when the remedy is congruent and proportional,
+      as in Fitzpatrick v. Bitzer and Nevada v. Hibbs (R-CON-006, R-CON-027).
+  trap_type: missing-element
+  authority: ["U.S. Const. amend. XIV, § 5", "City of Boerne v. Flores, 521 U.S. 507 (1997)", "Kimel v. Florida Bd. of Regents, 528 U.S. 62 (2000)", "Fitzpatrick v. Bitzer, 427 U.S. 445 (1976)"]
+  source: original
+  tags: [wave1, section-5, abrogation]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CON-0013
+  subject: CON
+  coverage_ids: [CON-MBE-II.B.1]
+  rule_ids: [R-CON-031]
+  difficulty: 2
+  stem: >-
+    A federal statute prohibits the export of advanced satellite-guidance components to any foreign
+    country without a license from the Department of Commerce, and it expressly forbids issuing licenses
+    for exports to one named foreign nation. Citing the need to strengthen relations with that nation, the
+    President issued an executive order directing customs officials to permit unlicensed exports of the
+    components to it. In a proper proceeding, the executive order is challenged.
+  call: "Is the executive order constitutional?"
+  options:
+    A: "No, because the President acted contrary to the expressed will of Congress in an area where the Constitution gives Congress power, and no exclusive presidential power is involved."
+    B: "Yes, because the President has plenary and exclusive power to conduct the nation's foreign relations."
+    C: "Yes, because the President as commander in chief may control exports of military technology."
+    D: "No, because the President may never take action in foreign affairs without prior congressional authorization."
+  answer: A
+  explanation_correct: >-
+    A is correct. Under Justice Jackson's Youngstown framework, when the President acts against the
+    express or implied will of Congress, his power is at its lowest ebb and the action is valid only if the
+    Constitution gives him exclusive power over the subject (R-CON-031). Regulating foreign commerce is an
+    Article I power of Congress, and Congress has expressly forbidden these exports. No exclusive
+    presidential power, such as recognition of foreign governments, is involved.
+  explanation_each_wrong_option:
+    B: >-
+      Overbroad. The President's foreign-affairs powers are substantial but not plenary; exclusive power
+      has been recognized for narrow matters such as recognition (Zivotofsky v. Kerry), not for overriding
+      export statutes (R-CON-031).
+    C: >-
+      The commander-in-chief power concerns command of the armed forces; it does not authorize overriding
+      Congress's regulation of commerce (Youngstown; R-CON-033).
+    D: >-
+      Overbroad. The President may act in foreign affairs in Congress's silence (the zone of twilight) or
+      under his own constitutional powers; the problem here is acting against an express statute.
+  trap_type: overbroad
+  authority: ["U.S. Const. art. I, § 8, cl. 3", "Youngstown Sheet & Tube Co. v. Sawyer, 343 U.S. 579 (1952) (Jackson, J., concurring)", "Zivotofsky v. Kerry, 576 U.S. 1 (2015)"]
+  source: original
+  tags: [wave1, presidential-power, youngstown]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CON-0014
+  subject: CON
+  coverage_ids: [CON-MBE-II.B.3]
+  rule_ids: [R-CON-034, R-CON-051]
+  difficulty: 3
+  stem: >-
+    To settle disputes over property seized from American companies decades ago, the President, without
+    seeking Senate approval, entered into an executive agreement with a foreign nation. Under the
+    agreement, the foreign nation paid a lump sum into a federal fund for distribution to the companies,
+    and all claims by U.S. nationals against that nation's state-owned enterprises arising from the
+    seizures were extinguished. A state later enacted a statute creating a cause of action in its courts
+    for its residents to recover damages from those state-owned enterprises for the same seizures. One of
+    the enterprises challenges the state statute.
+  call: "Is the state statute valid?"
+  options:
+    A: "Yes, because an executive agreement made without Senate consent is not part of the supreme law of the land."
+    B: "Yes, because the regulation of property and tort claims is a traditional state police power."
+    C: "No, because a valid executive agreement preempts inconsistent state law."
+    D: "No, because states may never enact laws that affect foreign nations or their businesses."
+  answer: C
+  explanation_correct: >-
+    C is correct. The President may make executive agreements without Senate consent, including
+    agreements settling claims of U.S. nationals, and a valid executive agreement preempts inconsistent
+    state law under the Supremacy Clause (R-CON-034; United States v. Belmont; United States v. Pink;
+    American Insurance Ass'n v. Garamendi). The state statute revives claims the agreement extinguished, so
+    it conflicts with the agreement and is invalid (R-CON-051).
+  explanation_each_wrong_option:
+    A: >-
+      Confused rule. Although the Supremacy Clause names treaties, the Court has held that valid executive
+      agreements also displace contrary state law (Belmont; Pink).
+    B: >-
+      A traditional state subject does not survive a direct conflict with valid federal foreign-affairs
+      action; the presumption against preemption yields to actual conflict (R-CON-051).
+    D: >-
+      Overbroad. States may pass many laws that incidentally affect foreign businesses; the statute fails
+      here because it conflicts with a specific federal agreement.
+  trap_type: confused-rule
+  authority: ["U.S. Const. art. VI, cl. 2", "United States v. Belmont, 301 U.S. 324 (1937)", "United States v. Pink, 315 U.S. 203 (1942)", "American Ins. Ass'n v. Garamendi, 539 U.S. 396 (2003)"]
+  source: original
+  tags: [wave1, executive-agreements, foreign-affairs, preemption]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CON-0015
+  subject: CON
+  coverage_ids: [CON-MBE-II.B.4]
+  rule_ids: [R-CON-035, R-CON-040]
+  difficulty: 1
+  stem: >-
+    Congress created a six-member Federal Lobbying Commission with power to issue binding rules on lobbyist
+    registration, to investigate violations and to bring civil enforcement actions in federal court. Under
+    the statute, two members are appointed by the Speaker of the House, two by the Senate majority leader,
+    and two by the President with the Senate's advice and consent. A lobbying firm sued by the Commission
+    moves to dismiss on the ground that the Commission is unconstitutionally constituted.
+  call: "How should the court rule?"
+  options:
+    A: "Deny the motion, because the Necessary and Proper Clause lets Congress structure the agencies it creates as it sees fit."
+    B: "Grant the motion, because officers who exercise significant executive authority must be appointed as the Appointments Clause provides, which does not permit appointment by congressional leaders."
+    C: "Deny the motion, because the President appoints a third of the members and therefore controls the Commission."
+    D: "Grant the motion, because Congress may not delegate rulemaking power to an independent commission."
+  answer: B
+  explanation_correct: >-
+    B is correct. Anyone exercising significant authority under federal law, such as issuing binding rules
+    and bringing enforcement suits, is an officer who must be appointed under the Appointments Clause: by
+    the President with Senate consent, or, for inferior officers, by the President alone, the courts or
+    department heads (R-CON-035; Buckley v. Valeo). Congress and its leaders may not appoint officers who
+    execute the law.
+  explanation_each_wrong_option:
+    A: >-
+      The Necessary and Proper Clause cannot override the specific structural requirements of the
+      Appointments Clause (Buckley).
+    C: >-
+      Partial presidential appointment does not cure the unconstitutional appointment of the other four
+      members, who exercise executive power (R-CON-035).
+    D: >-
+      Right result, wrong reason. Delegating rulemaking power is valid if Congress supplies an intelligible
+      principle (R-CON-040); the defect is the appointment method.
+  trap_type: right-result-wrong-reason
+  authority: ["U.S. Const. art. II, § 2, cl. 2", "Buckley v. Valeo, 424 U.S. 1 (1976)"]
+  source: original
+  tags: [wave1, appointments-clause]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CON-0016
+  subject: CON
+  coverage_ids: [CON-MBE-II.C.1]
+  rule_ids: [R-CON-038, R-CON-039, R-CON-040]
+  difficulty: 1
+  stem: >-
+    A federal statute authorizes the Secretary of Labor to grant individual employers temporary waivers
+    from certain workplace-safety regulations when strict compliance would cause undue hardship. The
+    statute provides that any waiver "shall be void if, within 60 days after it is granted, either House of
+    Congress adopts a resolution disapproving it." The Secretary granted a waiver to a manufacturer, and 30
+    days later the Senate alone adopted a resolution disapproving it. The Secretary then treated the waiver
+    as void, and the manufacturer sued.
+  call: "Is the Senate's disapproval of the waiver legally effective?"
+  options:
+    A: "Yes, because Congress may retain oversight of the authority it delegates to the executive branch."
+    B: "Yes, because Congress could have refused to grant waiver authority in the first place."
+    C: "No, because Congress may not delegate to the Secretary the power to waive regulations."
+    D: "No, because legislative action that alters legal rights must pass both Houses and be presented to the President."
+  answer: D
+  explanation_correct: >-
+    D is correct. Action that alters the legal rights and duties of persons outside the legislative branch
+    is legislative and must satisfy bicameralism and presentment (R-CON-038, R-CON-039; INS v. Chadha). A
+    one-House resolution voiding a waiver is a legislative veto and has no legal effect.
+  explanation_each_wrong_option:
+    A: >-
+      Congress may oversee delegated power through hearings, appropriations and new legislation, but not
+      through a one-House veto (R-CON-038).
+    B: >-
+      True but irrelevant. The greater power to withhold delegation does not include the lesser power to
+      retain a legislative veto; Congress must act by statute (Chadha).
+    C: >-
+      Wrong rule. Delegation is valid if guided by an intelligible principle (R-CON-040); "undue hardship"
+      is a sufficient standard.
+  trap_type: true-but-irrelevant
+  authority: ["U.S. Const. art. I, § 7", "INS v. Chadha, 462 U.S. 919 (1983)"]
+  source: original
+  tags: [wave1, legislative-veto, bicameralism]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CON-0017
+  subject: CON
+  coverage_ids: [CON-MBE-II.C.4]
+  rule_ids: [R-CON-042]
+  difficulty: 2
+  stem: >-
+    During a Senate floor debate on a defense spending bill, a senator stated that a private defense
+    contractor had "systematically defrauded taxpayers." The next day she posted the full text of her floor
+    statement on her official website and mailed a newsletter repeating it to 200,000 constituents. The
+    contractor sued the senator for defamation in federal court, basing its claims on the floor statement,
+    the website posting and the newsletter. The senator moves to dismiss under the Speech or Debate Clause.
+  call: "How should the court rule?"
+  options:
+    A: "Dismiss the entire suit, because all three statements concerned pending legislation."
+    B: "Dismiss the claims based on the website posting and the newsletter only, because those were official communications to constituents."
+    C: "Dismiss the claim based on the floor statement only, because republishing it outside the legislative process is not protected."
+    D: "Deny the motion entirely, because the Clause protects members of Congress only from criminal prosecution."
+  answer: C
+  explanation_correct: >-
+    C is correct. The Speech or Debate Clause gives members absolute immunity from civil and criminal
+    liability for legislative acts, including floor speeches (R-CON-042). It does not protect
+    republication outside the legislative process, such as newsletters and press releases, because those
+    are not an integral part of deliberation on legislation (Hutchinson v. Proxmire). The website posting
+    is the same kind of republication.
+  explanation_each_wrong_option:
+    A: >-
+      Overbroad. The subject matter does not decide immunity; the act must itself be part of the
+      legislative process (Hutchinson).
+    B: >-
+      Reverses the rule. The floor statement is the protected act; communications to constituents are
+      not (R-CON-042).
+    D: >-
+      Wrong. The Clause bars civil suits as well as prosecutions for legislative acts (Gravel v. United
+      States).
+  trap_type: overbroad
+  authority: ["U.S. Const. art. I, § 6, cl. 1", "Hutchinson v. Proxmire, 443 U.S. 111 (1979)", "Gravel v. United States, 408 U.S. 606 (1972)"]
+  source: original
+  tags: [wave1, speech-or-debate, immunities]
+  status: draft
+  last_verified: 2026-11-04
