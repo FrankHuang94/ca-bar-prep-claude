@@ -1,0 +1,113 @@
+# Study-plan parameters read by scripts/dashboard.py and the /today, /weekly-review commands.
+# Values marked PROVISIONAL are placeholders set in Phase 1; Phase 2 (study plan) finalizes and justifies them.
+
+exam:
+  name: California General Bar Examination (GBX)
+  dates: [2027-07-27, 2027-07-28]          # confirmed by the State Bar (00-exam-intel/sources.md S-001)
+  pass_score: 1390                          # of 2000 (S-011)
+  results_expected: "late Oct – early Nov 2027 (estimate; July 2026 results came Oct 30, 2026)"
+  fallback_exam: 2028-02-29                 # estimate: last Tuesday of Feb 2028; last current-format exam (V-009)
+
+profile:
+  location: San Diego, CA
+  timezone: America/Los_Angeles
+  employment: full-time (corporate development, tech company)
+  test_site_preference: San Diego area     # July 2026 sites included DoubleTree Mission Valley and Chula Vista (S-029)
+
+phases:                                     # PROVISIONAL dates and hour bands — finalized in Phase 2
+  - id: foundation
+    start: 2026-11-09
+    end: 2027-03-28
+    hours_per_week: [10, 12]
+    focus: "Gap subjects first (Contracts, Civ Pro, Con Law, Crim), then Community Property and Remedies; reinforce LLM courses; daily MBE + flashcards"
+  - id: integration
+    start: 2027-03-29
+    end: 2027-05-02
+    hours_per_week: [15, 20]
+    focus: "All 13 subjects, crossover essays, PT method, first diagnostic simulation"
+  - id: intensive
+    start: 2027-05-03
+    end: 2027-07-11
+    hours_per_week: [35, 45]
+    focus: "Daily timed MBE sets, 4–6 timed essays/week, 1 PT/week, memorization cycles; simulations at ~week -6 and -3"
+  - id: final-review
+    start: 2027-07-12
+    end: 2027-07-26
+    hours_per_week: [30, 40]
+    focus: "High-yield review, attack outlines, light timed practice, logistics"
+
+weekly_template:                            # PROVISIONAL default hours per day during the foundation phase
+  mon: 1.25
+  tue: 1.25
+  wed: 1.25
+  thu: 1.25
+  fri: 0.75
+  sat: 3.0
+  sun: 3.0
+
+leave:                                      # PROPOSED — decided in Phase 2 with you
+  - start: 2027-05-17
+    end: 2027-07-28
+    type: full-time study leave
+    status: proposed
+    note: "35–45 h/week is not realistic alongside a full-time job; Phase 2 sizes the leave window"
+
+holidays:                                   # US federal / common holidays + Lunar New Year (verify LNY date)
+  - {date: 2026-11-26, name: Thanksgiving}
+  - {date: 2026-11-27, name: Day after Thanksgiving}
+  - {date: 2026-12-24, name: Christmas Eve}
+  - {date: 2026-12-25, name: Christmas}
+  - {date: 2026-12-31, name: New Year's Eve}
+  - {date: 2027-01-01, name: New Year's Day}
+  - {date: 2027-01-18, name: Martin Luther King Jr. Day}
+  - {date: 2027-02-06, name: Lunar New Year (verify)}
+  - {date: 2027-02-15, name: Presidents' Day}
+  - {date: 2027-05-31, name: Memorial Day}
+  - {date: 2027-06-18, name: Juneteenth (observed)}
+  - {date: 2027-07-05, name: Independence Day (observed)}
+
+blackouts: []                               # add work travel / personal commitments: {start, end, reason, hours_available}
+
+llm:
+  school: Cardozo School of Law — online LL.M.
+  completed: [Intro to US Law, Corporations, Property, Torts]
+  fall_2026: [Trusts & Estates, Evidence, Professional Responsibility, Family Law]
+  final_term: TBD                           # USER TO PROVIDE — sealed transcript must reach the State Bar by ~2027-07-13 (V-015)
+
+admissions:                                 # from 00-exam-intel/admissions-checklist.md; (est) = not yet published
+  - {date: 2026-11-30, task: "Decide eligibility route (PRC license vs. LLM); register with State Bar; request written eligibility determination; order credential evaluation (Route B)"}
+  - {date: 2027-01-21, task: "Register for March 2027 MPRE (NCBE deadline)"}
+  - {date: 2027-02-26, task: "File moral character application (latest recommended)"}
+  - {date: 2027-03-01, task: "July 2027 exam application opens (est)"}
+  - {date: 2027-03-23, task: "MPRE (Mar 23–24)"}
+  - {date: 2027-04-01, task: "Exam application timely deadline (est) — choose laptop + San Diego site"}
+  - {date: 2027-06-01, task: "Final filing deadline incl. accommodations (est)"}
+  - {date: 2027-06-25, task: "Mail sealed LLM transcript / certificate of good standing (target)"}
+  - {date: 2027-07-13, task: "Final eligibility deadline (est)"}
+  - {date: 2027-07-23, task: "Examplify registration + mock exam deadline (est)"}
+  - {date: 2027-07-27, task: "EXAM Day 1"}
+  - {date: 2027-07-28, task: "EXAM Day 2"}
+  - {date: 2027-07-29, task: "Answer upload deadline, noon PT (est)"}
+
+targets:
+  final: {mcq: 2000, essays: 60, pts: 9, simulations: 3}   # PROVISIONAL — Phase 2 justifies
+  cumulative:                               # PROVISIONAL checkpoints (dashboard interpolates linearly)
+    - {date: 2026-11-09, mcq: 0, essays: 0, pts: 0, simulations: 0}
+    - {date: 2027-03-28, mcq: 500, essays: 8, pts: 1, simulations: 0}
+    - {date: 2027-05-02, mcq: 800, essays: 18, pts: 3, simulations: 1}
+    - {date: 2027-07-11, mcq: 1850, essays: 58, pts: 9, simulations: 3}
+    - {date: 2027-07-26, mcq: 2000, essays: 62, pts: 10, simulations: 3}
+
+benchmarks:                                 # PROVISIONAL go/adjust thresholds — Phase 2 justifies
+  - {by: 2027-01-31, mbe_accuracy: 0.50, essay_avg: 55}
+  - {by: 2027-03-28, mbe_accuracy: 0.58, essay_avg: 60}
+  - {by: 2027-05-02, mbe_accuracy: 0.62, essay_avg: 62}
+  - {by: 2027-06-15, mbe_accuracy: 0.66, essay_avg: 65}
+  - {by: 2027-07-16, mbe_accuracy: 0.70, essay_avg: 65}
+
+question_bank_targets:
+  mcq_per_mbe_subject: 150
+  essays_per_subject: 8
+  crossover_share: 0.30
+  pts: 8
+  simulations: 3
