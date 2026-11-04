@@ -26,8 +26,9 @@ DAYS = ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"]
 
 # share of the week's hours per day, by day pattern
 PATTERNS = {
-    "working": [0.11, 0.11, 0.11, 0.11, 0.06, 0.25, 0.25],
-    "leave": [0.155, 0.155, 0.155, 0.155, 0.155, 0.155, 0.07],
+    "working": [0.11, 0.11, 0.11, 0.11, 0.06, 0.25, 0.25],          # foundation/integration alongside work
+    "evenings": [0.092, 0.092, 0.092, 0.092, 0.092, 0.27, 0.27],    # intensive without leave: 3-4 h weeknights + ~10 h/day weekends
+    "leave": [0.155, 0.155, 0.155, 0.155, 0.155, 0.155, 0.07],      # full-time study leave (if config/plan.yml lists one)
 }
 
 
@@ -48,15 +49,13 @@ def on_leave(plan: dict, monday: dt.date) -> bool:
 
 
 def pattern_for(w: dict, plan: dict, monday: dt.date) -> str:
-    if w["phase"] in {"final-review", "exam"}:
-        return "leave"
-    if w["phase"] == "intensive" and on_leave(plan, monday):
-        return "leave"
+    if w["phase"] in {"intensive", "final-review", "exam"}:
+        return "leave" if on_leave(plan, monday) else "evenings"
     return "working"
 
 
 def fmt_hours(h: float) -> str:
-    return f"{h:.1f}".rstrip("0").rstrip(".") if h else "0"
+    return f"{h:g}" if h else "0"
 
 
 def subj_label(code: str) -> str:
@@ -99,6 +98,10 @@ def day_plan(w: dict, plan: dict, monday: dt.date) -> list[tuple[str, str, float
         essay_days = ["Sat", "Wed", "Sun"][:n_ess]
         pt_day = "Sun" if n_pt else None
         spot_days = ["Tue", "Thu", "Sat"][:spot]
+    elif pat == "evenings":
+        essay_days = ["Mon", "Tue", "Wed", "Thu", "Fri", "Sun"][:n_ess]
+        pt_day = "Sat" if n_pt else None
+        spot_days = ["Tue", "Thu", "Sat", "Sun"][:spot]
     else:
         essay_days = ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat"][:n_ess]
         pt_day = "Sat" if n_pt else None
@@ -118,6 +121,18 @@ def day_plan(w: dict, plan: dict, monday: dt.date) -> list[tuple[str, str, float
                 parts.append("Learn block (outline + rule statements)")
             else:
                 parts.append("Timed MBE set + full review · `/weekly-review`")
+        elif pat == "evenings":
+            if d in {"Sat", "Sun"}:
+                if w["phase"] == "final-review":
+                    parts.append("Long block: high-yield reading + attack outlines · short timed MBE set")
+                elif d == "Sat":
+                    parts.append("Long block (~10 h): second-pass reading (AM) · long timed MBE set + review (PM)")
+                else:
+                    parts.append("Long block (~10 h): timed MBE set + review · second-pass reading · `/weekly-review`")
+            elif w["phase"] == "final-review":
+                parts.append("Evening: short timed MBE set + must-know list")
+            else:
+                parts.append("Evening (3–4 h): timed MBE set (15–20 Qs) + review · rule statements")
         else:
             if d == "Sun":
                 parts.append("Rest / light: Anki + `/weekly-review`")
@@ -174,7 +189,7 @@ def render(w: dict, cum: dict, plan: dict, idx: int, n_weeks: int) -> str:
              "",
              "| | |", "|---|---|",
              f"| Phase | {w['phase']} (week {idx + 1} of {n_weeks}; {weeks_left} weeks to the exam) |",
-             f"| Target hours | **{fmt_hours(w['hours'])} h** ({'study leave / full-time' if pat == 'leave' else 'alongside full-time work'}) |",
+             f"| Target hours | **{fmt_hours(w['hours'])} h** ({ {'leave': 'study leave / full-time', 'evenings': 'while working: 3–4 h weeknights + ~10 h per weekend day'}.get(pat, 'alongside full-time work') }) |",
              f"| MBE questions | {mbe.get('n', 0)} ({', '.join(f'{subj_label(k)} {v}' for k, v in (mbe.get('mix') or {}).items()) or '—'}) |",
              f"| Essays | {essays.get('n', 0)}"
              + (f" ({essays.get('mode', 'timed')}: {', '.join(subj_label(s) for s in essays.get('subjects') or [])})" if essays.get('n') else "") + " |",

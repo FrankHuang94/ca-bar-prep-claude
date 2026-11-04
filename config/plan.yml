@@ -1,5 +1,6 @@
 # Study-plan parameters read by scripts/dashboard.py, scripts/build_weeks.py and the /today and /weekly-review commands.
-# Finalized in Phase 2 (2026-11-04). Items marked ASSUMPTION need confirmation from the user and are listed in
+# Finalized in Phase 2 and revised 2026-11-04 with the user's inputs (Route B, no leave, 3–4 h weekdays + 20 h weekends).
+# Items marked ASSUMPTION need confirmation from the user and are listed in
 # 01-study-plan/master-plan.md §8. The week-by-week detail lives in 01-study-plan/schedule.yml.
 
 exam:
@@ -32,13 +33,13 @@ phases:
     start: 2027-05-03
     end: 2027-07-11
     weeks: 10
-    hours_per_week: [25, 44]                # 25 while still working (W18–W19), 40–44 on study leave
-    focus: "Second pass of all 13 subjects, daily timed MBE, 3–5 timed essays/week, 1 PT/week, memorization cycles; SIM-02 (week −6) and SIM-03 (week −3)"
+    hours_per_week: [35, 38]                # NO study leave: 3–4 h every weekday evening + ~20 h across the weekend
+    focus: "Second pass of all 13 subjects, daily timed MBE, 4–5 timed essays/week (weeknights), 1 PT/week (weekends), memorization cycles; SIM-02 (week −6) and SIM-03 (week −3) on weekends"
   - id: final-review
     start: 2027-07-12
     end: 2027-07-25
     weeks: 2
-    hours_per_week: [30, 35]
+    hours_per_week: [32, 35]
     focus: "High-yield review, attack outlines, light timed practice, logistics"
   - id: exam
     start: 2027-07-26
@@ -47,7 +48,8 @@ phases:
     hours_per_week: [4, 4]
     focus: "Exam week"
 
-weekly_template:                            # default hours per day while working (foundation); /today scales it to the week's target
+weekly_template:                            # foundation default (10–12 h/week); /today scales it to the week's target
+                                            # intensive/final (no leave): weekdays 3–4 h each, ~10 h each weekend day (user capacity, 2026-11-04)
   mon: 1.25
   tue: 1.25
   wed: 1.25
@@ -56,12 +58,11 @@ weekly_template:                            # default hours per day while workin
   sat: 3.0
   sun: 3.0
 
-leave:
-  - start: 2027-05-17                       # ASSUMPTION — recommended minimum; see master-plan.md §4 (options A/B/C)
-    end: 2027-07-28
-    type: full-time study leave
-    status: proposed
-    note: "Request from employer by ~Feb 15, 2027. 35–45 h/week is not realistic alongside a full-time job."
+leave: []                                   # user (2026-11-04): full-time leave is not possible; PTO only for exam week (Jul 26–29)
+
+pto:                                        # recommended PTO (not leave)
+  - {start: 2027-07-26, end: 2027-07-29, reason: "Exam week: rest Mon, exam Tue–Wed, upload Thu", status: recommended}
+  - {start: 2027-07-23, end: 2027-07-23, reason: "Optional: last Friday before exam (Examplify mock deadline)", status: optional}
 
 holidays:                                   # US federal / common holidays + Lunar New Year
   - {date: 2026-11-26, name: Thanksgiving}
@@ -84,18 +85,19 @@ llm:
   completed: [Intro to US Law, Corporations, Property, Torts]
   fall_2026: [Trusts & Estates, Evidence, Professional Responsibility, Family Law]
   fall_finals_week: 2026-W51                # ASSUMPTION — confirm
-  final_term: TBD                           # USER TO PROVIDE — sealed transcript must reach the State Bar by ~2027-07-13 (V-015)
+  final_term_ends: "May or June 2027"       # user (2026-11-04); Cardozo confirmed eligibility for July 2027
+  transcript_deadline: 2027-07-13           # est. final eligibility deadline: sealed transcript must be RECEIVED (V-015, V-016)
 
 admissions:                                 # from 00-exam-intel/admissions-checklist.md; (est) = not yet published
-  - {date: 2026-11-30, task: "Decide eligibility route (PRC license vs. LLM); register with State Bar; request written eligibility determination; order credential evaluation (Route B)"}
+  - {date: 2026-11-30, task: "Register with State Bar as general applicant (Route B); order Fudan LLB credential evaluation; ask Cardozo for final-transcript issue date"}
   - {date: 2027-01-21, task: "Register for March 2027 MPRE (NCBE deadline)"}
-  - {date: 2027-02-15, task: "Request study leave from employer (proposed start May 17)"}
+  - {date: 2027-05-03, task: "Book PTO for exam week (Mon Jul 26 – Thu Jul 29)"}
   - {date: 2027-02-26, task: "File moral character application (latest recommended)"}
   - {date: 2027-03-01, task: "July 2027 exam application opens (est)"}
   - {date: 2027-03-23, task: "MPRE (Mar 23–24)"}
   - {date: 2027-04-01, task: "Exam application timely deadline (est) — choose laptop + San Diego site"}
   - {date: 2027-06-01, task: "Final filing deadline incl. accommodations (est)"}
-  - {date: 2027-06-25, task: "Mail sealed LLM transcript / certificate of good standing (target)"}
+  - {date: 2027-06-25, task: "Confirm Cardozo has mailed the sealed LL.M. transcript to the State Bar (target)"}
   - {date: 2027-07-13, task: "Final eligibility deadline (est)"}
   - {date: 2027-07-23, task: "Examplify registration + mock exam deadline (est)"}
   - {date: 2027-07-27, task: "EXAM Day 1"}
@@ -103,15 +105,15 @@ admissions:                                 # from 00-exam-intel/admissions-chec
   - {date: 2027-07-29, task: "Answer upload deadline, noon PT (est)"}
 
 targets:                                    # cumulative, matching 01-study-plan/schedule.yml (justified in practice-targets.md)
-  final: {mcq: 2170, essays: 68, pts: 12, simulations: 3, spot: 53}
+  final: {mcq: 2210, essays: 75, pts: 12, simulations: 3, spot: 52}
   cumulative:                               # dashboard interpolates linearly between checkpoints
     - {date: 2026-11-09, mcq: 0, essays: 0, pts: 0, simulations: 0}
     - {date: 2027-01-31, mcq: 305, essays: 4, pts: 0, simulations: 0}      # CP1
     - {date: 2027-03-28, mcq: 550, essays: 7, pts: 0, simulations: 0}      # CP2
-    - {date: 2027-05-02, mcq: 970, essays: 18, pts: 3, simulations: 1}     # CP3 (SIM-01)
-    - {date: 2027-06-20, mcq: 1670, essays: 48, pts: 9, simulations: 2}    # CP4 (SIM-02)
-    - {date: 2027-07-11, mcq: 2070, essays: 63, pts: 12, simulations: 3}   # CP5 (SIM-03)
-    - {date: 2027-07-26, mcq: 2170, essays: 68, pts: 12, simulations: 3}
+    - {date: 2027-05-02, mcq: 970, essays: 18, pts: 3, simulations: 1}     # CP3 (SIM-01, Sat–Sun May 1–2)
+    - {date: 2027-06-20, mcq: 1730, essays: 54, pts: 9, simulations: 2}    # CP4 (SIM-02, Sat–Sun Jun 19–20)
+    - {date: 2027-07-11, mcq: 2110, essays: 70, pts: 12, simulations: 3}   # CP5 (SIM-03, Sat–Sun Jul 10–11)
+    - {date: 2027-07-26, mcq: 2210, essays: 75, pts: 12, simulations: 3}
 
 benchmarks:                                 # go / adjust / escalate rules in 01-study-plan/practice-targets.md §4
   - {id: CP1, by: 2027-01-31, mbe_accuracy: 0.50, essay_avg: 55}
