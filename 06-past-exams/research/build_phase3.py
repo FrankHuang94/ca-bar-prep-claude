@@ -84,7 +84,10 @@ def add_past_rows(recs: list[dict]) -> dict:
                     stats["remapped_invalid"] += 1
                 code = code.strip().upper()
                 if code not in C.SUBJECTS:
-                    code = (rec["subjects"] or ["PRF"])[0]
+                    if rec["type"] == "PT" or not rec["subjects"]:
+                        iss["coverage_id"] = "PT-SUP-002" if rec["type"] == "PT" else ""
+                        continue  # PT library topics are not exam-subject coverage rows
+                    code = rec["subjects"][0]
                 heading = heading.strip().rstrip(".")
                 key = (code, norm(heading))
                 if key not in past:
