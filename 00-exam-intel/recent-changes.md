@@ -112,7 +112,13 @@ status: draft
 | *Quach v. California Commerce Club* (2024) | Civ Pro / Contracts (arbitration) | Waiver of the right to compel arbitration uses ordinary waiver law. The former California requirement that the opposing party show **prejudice** is abrogated. | [S-131] |
 | *Rattagan v. Uber Technologies* (2024) 17 Cal.5th 1 | Torts / Contracts (economic loss rule) | A contracting party may sue for fraudulent concealment during performance if the tort's elements exist independently of the contract and the conduct exposes the plaintiff to risk beyond what the parties contemplated. | [S-132] |
 | *Kuciemba v. Victory Woodworks* (2023) | Torts (duty) | Employers owe no duty to prevent take-home COVID-19 transmission to employees' household members (policy factors); workers' comp exclusivity does not bar the spouse's claim. | [VERIFY V-036] |
+| *Gilead Tenofovir Cases* (Cal. Aug. 3, 2026, S283862) | Torts (duty; products) | A drug manufacturer owes no negligence duty to commercialize a safer alternative to a drug that is not itself defective. **Apply** (Torts duty/products). | [S-709] [S-710] [VERIFY V-603] |
+| *Sanchez v. Rojas* (S294671, review granted) | Torts (NIED, consortium) | Pending: whether to overrule *Elden v. Sheldon* (1988) 46 Cal.3d 267 (no bystander NIED or consortium recovery for unmarried cohabitants). Until decided, apply *Elden*. **Watch** — re-check June 2027. | [S-711] [S-712] [VERIFY V-604] |
 | *People v. Lynch* (2024) 16 Cal.5th 730 | Crim Pro (sentencing) | Aggravating facts used for an upper term (other than prior convictions) must be found by the jury beyond a reasonable doubt or admitted. | [S-133] |
+
+**California tort statutes**
+- **MICRA, Civ. Code § 3333.2 (AB 35; effective Jan 1, 2023):** non-economic damages caps in medical-negligence cases rise each Jan 1 by $40,000 (non-death) and $50,000 (death). For 2027: **$510,000** (non-death) and **$700,000** (wrongful death); separate caps can apply by defendant category [S-701] [S-702] [VERIFY V-601]. Exam impact: low (Remedies/Torts damages note).
+- **CCP § 377.34(b):** the temporary rule allowing pre-death pain-and-suffering damages in survival actions covered only actions filed from Jan 1, 2022 to Dec 31, 2025; SB 29 (2025) was not enacted, so for actions filed now the general bar applies [S-704] [S-723] [VERIFY V-602]. **Apply** (Torts wrongful death/survival).
 
 **California criminal statutes**
 - **Proposition 36 (Nov 2024; effective Dec 18, 2024):** permits aggregating multiple thefts to reach the grand-theft threshold, and felony charging of repeat petty theft (Pen. Code §§ 490.3, 666.1) [S-362] [S-363] [VERIFY V-257]. Exam impact: low; essays use general theft law.
