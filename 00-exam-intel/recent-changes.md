@@ -101,6 +101,7 @@ status: draft
 | Apr 1, 2025 | **Prob. Code § 13100** small-estate threshold | **$208,850** for deaths on or after Apr 1, 2025 (was $184,500). Next adjustment Apr 1, 2028, so this figure governs July 2027. | Apply (if tested) | [S-128] |
 | Apr 1, 2025 | **Prob. Code § 13151** (AB 2016) | A primary residence worth up to $750,000 may pass by court petition. | Moderate | [S-128] |
 | 2024 | ***Haggerty v. Thornton*** (2024) 15 Cal.5th 729 | A settlor may **modify** a revocable trust using the statutory **revocation** method (Prob. Code § 15401), unless the trust makes its own modification method exclusive. | **Apply, high-yield (Trusts)** | [S-129] [VERIFY V-033] |
+| Jan 1, 2025 | **Prob. Code § 15408** (SB 1127, Stats. 2024) | Trustee may terminate an uneconomic trust whose principal is under **$100,000** (threshold raised); a beneficiary may petition the court. | Apply (Trusts, low) | [S-656] [VERIFY V-556] |
 | Jan 1, 2026 | SB 1427 | Joint petition for dissolution. | Low (procedure) | [S-130] |
 | — | Fam. Code §§ 760, 852, 1101, 2640 | No amendments found. | — | — |
 
