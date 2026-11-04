@@ -12,7 +12,7 @@
 | 1 — Scaffold and tooling | ✅ Done | Structure, CLAUDE.md, config, schemas, 7 scripts, 22 tests, 11 slash commands, CI. Validation passes. |
 | 2 — Foundations, strategy, study plan | ✅ **Done (awaiting review)** | 02-foundations (5 files, 475-term glossary), MBE/essay/PT strategy, 38-week plan; VERIFY V-040–V-060 |
 | 3 — Past exams | ✅ Done | 31 administrations (Feb 2012–Jul 2026): 166 essays + 42 PTs indexed and analyzed (index-level); frequency analysis; 2 PAST rows | Archive covers Feb 2012 → July 2026 [S-079] |
-| 4 — Subject content | 🔄 **Groups 1–3 done (awaiting review)**: CTR, CIV, CON, CRM, CMP, REM, EVD, PRF, WIL, TRS; next group 4 (TRT, PRP, BUS) | Groups: (1) CTR CIV CON CRM · (2) CMP REM · (3) EVD PRF WIL TRS · (4) TRT PRP BUS |
+| 4 — Subject content | ✅ **Done (awaiting review)**: all 13 subjects built; all 616 coverage rows mapped | Groups: (1) CTR CIV CON CRM · (2) CMP REM · (3) EVD PRF WIL TRS · (4) TRT PRP BUS |
 | 5 — Question bank | ☐ | |
 | 6 — High-yield and memorization | ☐ | |
 | 7 — Independent QA | ☐ | |
@@ -36,6 +36,32 @@
 - **`config/plan.yml`:** finalized phases, no leave (PTO for exam week only), targets and benchmarks aligned to the schedule.
 - **Totals:** ≈ 754 h · 2,210 MBE · 75 essays · 52 `/spot` drills · 12 PTs · 3 simulations (all on weekends).
 - **New sources and verify items:** S-140–S-150 and S-160; V-040–V-044, V-050–V-058 and V-060.
+
+## Phase 4 — group 4 deliverables (Torts, Real Property, Business Associations) — Phase 4 complete
+
+| Subject | Rules | Flashcards | Outline (words) | Rows mapped | New verify items |
+|---|---|---|---|---|---|
+| Torts | 115 (R-TRT-001–115) | 149 | ~17,100 (NCBE I–IV + State Bar outline sections) | 49/49 | V-600–V-611 |
+| Real Property | 121 (R-PRP-001–121) | 147 | ~11,800 (+ ~30,100 rule statements; NCBE I–V + State Bar labels) | 104/104 | V-650–V-673 |
+| Business Associations | 109 (R-BUS-001–109) | 129 | ~11,500 (State Bar outline I–VI + BUS-PAST-001) | 13/13 | V-700–V-729 |
+
+- **Torts:** NCBE outline with negligence in depth. CA distinctions cover § 1714/*Rowland*, *Brown v. USA Taekwondo*, *Li* pure comparative fault, Prop 51, *Knight* assumption of risk, *Thing* bystander NIED, *Barker*/*Soule* design defect, MICRA and *Rattagan*.
+- **Real Property:** NCBE outline with State Bar labels. CA distinctions cover race-notice (Civ. Code § 1214), adverse possession with taxes (CCP § 325), USRAP, *Riddle* severance, the warranty of habitability, *Kendall*, the Tenant Protection Act, Civ. Code § 1662 risk of loss, deeds of trust, and the one-action/anti-deficiency rules. Takings, trusts of land and spousal ownership are cross-referenced by rule ID.
+- **Business Associations:** agency, partnerships (RUPA), LPs, LLPs, corporations (veil piercing, BJR/§ 309, § 310, § 500 distributions, § 800 derivative suits), securities (10b-5, insider trading, § 16(b)), LLCs and equitable subordination. California calls appear to ask for general law (V-700), so California Corporations Code points are added where the codes differ.
+- **`recent-changes.md` additions (Torts):**
+  - *Gilead Tenofovir Cases* (Aug 2026) — Apply [VERIFY V-603];
+  - *Sanchez v. Rojas* (review of *Elden*) — watch [V-604];
+  - MICRA 2027 caps $510,000 / $700,000 [V-601];
+  - CCP § 377.34(b) survival pain-and-suffering window closed for actions filed from 2026 — Apply [V-602].
+- **Spot-checked (accurate):**
+  - Torts: bystander NIED, design defect burden shift, express assumption, Prop 51, § 1714/*Rowland*.
+  - Real Property: recording-act types, adverse possession (incl. CCP § 325), RAP traps, severance, habitability, Uniform Vendor and Purchaser Risk Act, *Kendall*, § 580b.
+  - Business Associations: BJR, § 310, § 500/501, veil piercing, § 16(b), *Dirks*/*Salman*, *Jones v. Ahmanson*.
+
+### Phase 4 totals
+- **13 subjects × 14–15 files:** 1,432 rule statements and 1,806 flashcards.
+- **Coverage:** `coverage_report.py --require-mapped` passes for every code (616/616 rows mapped). `validate.py --strict`: 0 errors, 0 warnings.
+- **Sources:** 502 logged. **VERIFY queue:** 335 open, 5 resolved. Most open items need a direct read of leginfo / courts.ca.gov / calbar.ca.gov, which this environment cannot fetch (V-001). They are the Phase 7 QA workload.
 
 ## Phase 4 — group 3 deliverables (Evidence, Professional Responsibility, Wills & Succession, Trusts)
 
@@ -140,13 +166,12 @@ All 15 files per subject. All **216 coverage rows mapped** (`coverage_report.py 
    - which optional PTO days are possible.
 4. **Network access.** Still blocked (calbar.ca.gov, ncbex.org, leginfo, courts.ca.gov, law.cornell.edu, supremecourt.gov, uscourts.gov, americanbar.org).
 
-## Next (Phase 4 plan): subject content
-- **Groups, in study order:** (1) CTR, CIV, CON, CRM · (2) CMP, REM · (3) EVD, PRF, WIL, TRS · (4) TRT, PRP, BUS.
-- **Every subject folder gets all 15 files.** MBE subjects' `outline.md` follows NCBE numbering. California-only subjects follow the State Bar outline structure, informed by the past-exam issue maps.
-- **Depth follows frequency**, using `06-past-exams/frequency-analysis.md` and each subject's issue list from `index.csv`.
-- **Rule statements** in the CLAUDE.md format (`R-<CODE>-###`), each with an authority, an MBE-vs-CA line and an example. Apply every **Apply** item in `00-exam-intel/recent-changes.md`.
-- **After each group:** `python scripts/coverage_report.py --require-mapped <codes>`; set rows to `mapped`; stop for review.
-- **Subagents** build 2–3 subjects in parallel, each with an explicit WebSearch cap, distinct `V-###`/`S-###` ranges, and no shared-file edits. The coordinator merges sources, verify rows and matrix mappings.
+## Next: Phase 5 — question bank (Wave 1)
+- **MCQs:** 50 per MBE subject (7 subjects = 350), weighted by NCBE `weight_note`. One best answer; distractors built on commonly confused rules; `explanation_each_wrong_option` for the three wrong letters; each tied to coverage IDs and rule IDs.
+- **Essays:** 3 per subject (39), at least 30% crossovers (`E-XO-###`), with issue lists summing to 100, model answers and rubrics.
+- **PTs:** 3 (State of Columbia), task memo / file / library / model answer / rubric.
+- **After Wave 1:** expand to ≥150 MCQs per MBE subject, ≥8 essays per subject, ≥8 PTs, ≥3 simulations (`build_simulation.py`).
+- Subagents in parallel with distinct ID ranges; schemas in `07-question-bank/schema/`; validator checks every item.
 
 ## Handoff notes for a new session
 - **Read `CLAUDE.md` first.** It holds all conventions.

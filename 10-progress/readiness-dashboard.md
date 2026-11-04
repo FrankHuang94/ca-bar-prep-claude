@@ -71,5 +71,5 @@ _Generated 2026-11-04 by `scripts/dashboard.py`. Heuristic only — see the scri
 
 ## Repo build-out
 
-- Coverage matrix mapped: 450/616 rows (73%)
-- Rule statements: 1087 · MCQs: 0 · Essays: 0 · PTs: 0
+- Coverage matrix mapped: 616/616 rows (100%)
+- Rule statements: 1432 · MCQs: 0 · Essays: 0 · PTs: 0
