@@ -10,5 +10,6 @@ status: draft
 
 # MBE
 
-- `strategy.md`, `subject-weighting.md`: **Phase 2**.
+- [`strategy.md`](strategy.md): the question method, pacing (1.8 min per question), Scantron routine, fatigue management, and the review and error taxonomy.
+- [`subject-weighting.md`](subject-weighting.md): NCBE's category distributions, approximate scored questions per category, NCBE's assumptions, and study-time allocation.
 - [`official-practice-tracker.md`](official-practice-tracker.md): log licensed NCBE/commercial questions here (no question text).
