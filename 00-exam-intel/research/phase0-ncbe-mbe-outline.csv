@@ -1,0 +1,401 @@
+subject,ncbe_ref,level,heading,parent_ref,status,source_url
+Civil Procedure,NOTE-1,note,"Examinees are to assume the application of (1) the Federal Rules of Civil Procedure as currently in effect and (2) the sections of Title 28 of the U.S. Code pertaining to trial and appellate jurisdiction, venue, and transfer.",,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Civil Procedure,NOTE-2,note,"Approximately two-thirds of the Civil Procedure questions on the MBE will be based on categories I, III, and V, and approximately one-third will be based on the remaining categories—II, IV, VI, and VII.",,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Civil Procedure,I,category,Jurisdiction and venue,,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Civil Procedure,I.A,topic,"Federal subject-matter jurisdiction (federal question, diversity, supplemental, and removal)",I,CONFIRMED-APPROX,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Civil Procedure,I.B,topic,Personal jurisdiction,I,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Civil Procedure,I.C,topic,Service of process and notice,I,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Civil Procedure,I.D,topic,"Venue, forum non conveniens, and transfer",I,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Civil Procedure,II,category,Law applied by federal courts,,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Civil Procedure,II.A,topic,State law in federal court,II,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Civil Procedure,II.B,topic,Federal common law,II,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Civil Procedure,III,category,Pretrial procedures,,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Civil Procedure,III.A,topic,Preliminary injunctions and temporary restraining orders,III,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Civil Procedure,III.B,topic,Pleadings and amended and supplemental pleadings,III,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Civil Procedure,III.C,topic,Rule 11,III,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Civil Procedure,III.D,topic,Joinder of parties and claims (including class actions),III,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Civil Procedure,III.E,topic,"Discovery (including e-discovery), disclosure, and sanctions",III,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Civil Procedure,III.F,topic,Adjudication without a trial,III,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Civil Procedure,III.G,topic,Pretrial conference and order,III,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Civil Procedure,IV,category,Jury trials,,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Civil Procedure,IV.A,topic,Right to jury trial,IV,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Civil Procedure,IV.B,topic,Selection and composition of juries,IV,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Civil Procedure,IV.C,topic,Requests for and objections to jury instructions,IV,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Civil Procedure,V,category,Motions,,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Civil Procedure,V.A,topic,"Pretrial motions, including motions addressed to face of pleadings, motions to dismiss, and summary judgment motions",V,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Civil Procedure,V.B,topic,Motions for judgments as a matter of law (directed verdicts and judgments notwithstanding the verdict),V,CONFIRMED-APPROX,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Civil Procedure,V.C,topic,"Posttrial motions, including motions for relief from judgment and for new trial",V,CONFIRMED-APPROX,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Civil Procedure,VI,category,Verdicts and judgments,,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Civil Procedure,VI.A,topic,Defaults and involuntary dismissals,VI,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Civil Procedure,VI.B,topic,Jury verdicts—types and challenges,VI,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Civil Procedure,VI.C,topic,Judicial findings and conclusions,VI,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Civil Procedure,VI.D,topic,Effect; claim and issue preclusion,VI,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Civil Procedure,VII,category,Appealability and review,,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Civil Procedure,VII.A,topic,Availability of interlocutory review,VII,CONFIRMED-APPROX,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Civil Procedure,VII.B,topic,Final judgment rule,VII,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Civil Procedure,VII.C,topic,Scope of review for judge and jury,VII,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Constitutional Law,NOTE-1,note,"The terms ""Constitution,"" ""constitutional,"" and ""unconstitutional"" refer to the federal Constitution unless indicated otherwise. [search output: NOTE is qualified ('unless indicated otherwise'), not 'only'; exact wording approx.]",,CONFIRMED-APPROX,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Constitutional Law,NOTE-2,note,"Approximately half of the Constitutional Law questions on the MBE will be based on category IV, and approximately half will be based on the remaining categories—I, II, and III.",,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Constitutional Law,I,category,The nature of judicial review,,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Constitutional Law,I.A,topic,Organization and relationship of state and federal courts in a federal system,I,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Constitutional Law,I.B,topic,Jurisdiction,I,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Constitutional Law,I.B.1,subtopic,Congressional power to define and limit,I.B,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Constitutional Law,I.B.2,subtopic,The Eleventh Amendment and state sovereign immunity,I.B,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Constitutional Law,I.C,topic,Judicial review in operation,I,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Constitutional Law,I.C.1,subtopic,"The ""case or controversy"" requirement, including the prohibition on advisory opinions, standing, ripeness, and mootness",I.C,CONFIRMED-APPROX,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Constitutional Law,I.C.2,subtopic,"The ""adequate and independent state ground""",I.C,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Constitutional Law,I.C.3,subtopic,Political questions and justiciability,I.C,CONFIRMED-APPROX,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Constitutional Law,II,category,The separation of powers,,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Constitutional Law,II.A,topic,The powers of Congress,II,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Constitutional Law,II.A.1,subtopic,"Commerce, taxing, and spending powers",II.A,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Constitutional Law,II.A.2,subtopic,"War, defense, and foreign affairs powers",II.A,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Constitutional Law,II.A.3,subtopic,"Power to enforce the 13th, 14th, and 15th Amendments",II.A,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Constitutional Law,II.A.4,subtopic,Other powers,II.A,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Constitutional Law,II.B,topic,The powers of the president,II,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Constitutional Law,II.B.1,subtopic,"As chief executive, including the ""take care"" clause",II.B,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Constitutional Law,II.B.2,subtopic,As commander in chief,II.B,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Constitutional Law,II.B.3,subtopic,Treaty and foreign affairs powers,II.B,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Constitutional Law,II.B.4,subtopic,Appointment and removal of officials,II.B,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Constitutional Law,II.C,topic,Federal interbranch relationships,II,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Constitutional Law,II.C.1,subtopic,Congressional limits on the executive,II.C,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Constitutional Law,II.C.2,subtopic,The presentment requirement and the president's power to veto or to withhold action,II.C,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Constitutional Law,II.C.3,subtopic,Nondelegation doctrine,II.C,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Constitutional Law,II.C.4,subtopic,"Executive, legislative, and judicial immunities",II.C,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Constitutional Law,III,category,The relation of nation and states in a federal system,,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Constitutional Law,III.A,topic,Intergovernmental immunities,III,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Constitutional Law,III.A.1,subtopic,Federal immunity from state law,III.A,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Constitutional Law,III.A.2,subtopic,"State immunity from federal law, including the 10th Amendment",III.A,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Constitutional Law,III.B,topic,Federalism-based limits on state authority,III,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Constitutional Law,III.B.1,subtopic,Negative implications of the commerce clause,III.B,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Constitutional Law,III.B.2,subtopic,Supremacy clause and preemption,III.B,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Constitutional Law,III.B.3,subtopic,Authorization of otherwise invalid state action,III.B,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Constitutional Law,IV,category,Individual rights,,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Constitutional Law,IV.A,topic,State action,IV,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Constitutional Law,IV.B,topic,Due process,IV,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Constitutional Law,IV.B.1,subtopic,Substantive due process,IV.B,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Constitutional Law,IV.B.1.a,sub-subtopic,Fundamental rights,IV.B.1,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Constitutional Law,IV.B.1.b,sub-subtopic,Other rights and interests,IV.B.1,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Constitutional Law,IV.B.2,subtopic,"Procedural due process, including personal jurisdiction",IV.B,CONFIRMED-APPROX,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Constitutional Law,IV.C,topic,Equal protection,IV,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Constitutional Law,IV.C.1,subtopic,Fundamental rights,IV.C,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Constitutional Law,IV.C.2,subtopic,Classifications subject to heightened scrutiny,IV.C,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Constitutional Law,IV.C.3,subtopic,Rational basis review,IV.C,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Constitutional Law,IV.D,topic,Takings,IV,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Constitutional Law,IV.E,topic,"Other protections, including the privileges and immunities clauses, the contracts clause, unconstitutional conditions, bills of attainder, and ex post facto laws",IV,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Constitutional Law,IV.F,topic,First Amendment freedoms,IV,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Constitutional Law,IV.F.1,subtopic,Freedom of religion and separation of church and state,IV.F,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Constitutional Law,IV.F.1.a,sub-subtopic,Free exercise,IV.F.1,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Constitutional Law,IV.F.1.b,sub-subtopic,Establishment,IV.F.1,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Constitutional Law,IV.F.2,subtopic,Freedom of expression,IV.F,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Constitutional Law,IV.F.2.a,sub-subtopic,Content-based regulation of protected expression,IV.F.2,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Constitutional Law,IV.F.2.b,sub-subtopic,Content-neutral regulation of protected expression,IV.F.2,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Constitutional Law,IV.F.2.c,sub-subtopic,Regulation of unprotected expression,IV.F.2,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Constitutional Law,IV.F.2.d,sub-subtopic,Regulation of commercial speech,IV.F.2,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Constitutional Law,IV.F.2.e,sub-subtopic,"Regulation of, or impositions upon, public school students, public employment, licenses, or benefits based upon exercise of expressive or associational rights",IV.F.2,CONFIRMED-APPROX,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Constitutional Law,IV.F.2.f,sub-subtopic,Regulation of expressive conduct,IV.F.2,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Constitutional Law,IV.F.2.g,sub-subtopic,"Prior restraint, vagueness, and overbreadth",IV.F.2,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Constitutional Law,IV.F.3,subtopic,Freedom of the press,IV.F,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Constitutional Law,IV.F.4,subtopic,Freedom of association,IV.F,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Contracts,NOTE-1,note,Examinees are to assume that the Official Text of Articles 1 and 2 of the Uniform Commercial Code is in effect (paraphrase of NCBE note).,,CONFIRMED-APPROX,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Contracts,NOTE-2,note,Approximately one-fourth of the Contracts questions on the MBE will be based on the Official Text of Articles 1 and 2 of the Uniform Commercial Code.,,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Contracts,NOTE-3,note,"Approximately half of the Contracts questions on the MBE will be based on categories I and IV [, and approximately half on the remaining categories—II, III, V, and VI: remainder of sentence UNCONFIRMED].",,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Contracts,I,category,Formation of contracts,,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Contracts,I.A,topic,"Mutual assent (offer and acceptance; unilateral, bilateral, and implied-in-fact contracts)",I,CONFIRMED-APPROX,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Contracts,I.B,topic,Indefiniteness or absence of terms,I,CONFIRMED-APPROX,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Contracts,I.C,topic,Consideration (bargained-for exchange),I,CONFIRMED-APPROX,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Contracts,I.D,topic,Obligations enforceable without a bargained-for exchange (including reliance and restitution),I,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Contracts,I.E,topic,Modification of contracts,I,CONFIRMED-APPROX,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Contracts,II,category,Defenses to enforceability,,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Contracts,II.A,topic,Incapacity to contract,II,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Contracts,II.B,topic,Duress and undue influence,II,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Contracts,II.C,topic,Mistake and misunderstanding,II,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Contracts,II.D,topic,"Fraud, misrepresentation, and nondisclosure",II,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Contracts,II.E,topic,"Illegality, unconscionability, and public policy",II,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Contracts,II.F,topic,Statute of frauds,II,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Contracts,III,category,Contract content and meaning,,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Contracts,III.A,topic,Parol evidence,III,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Contracts,III.B,topic,Interpretation,III,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Contracts,III.C,topic,Omitted and implied terms,III,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Contracts,IV,category,"Performance, breach, and discharge",,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Contracts,IV.A,topic,Conditions (express and constructive) [may be split into numbered sub-items 1. Express / 2. Constructive: UNCONFIRMED],IV,CONFIRMED-APPROX,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Contracts,IV.B,topic,Excuse of conditions,IV,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Contracts,IV.C,topic,Breach (material and partial breach; anticipatory repudiation) [exact wording/sub-numbering UNCONFIRMED],IV,CONFIRMED-APPROX,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Contracts,IV.D,topic,Obligations of good faith and fair dealing,IV,CONFIRMED-APPROX,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Contracts,IV.E,topic,Express and implied warranties in sale-of-goods contracts,IV,CONFIRMED-APPROX,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Contracts,IV.F,topic,"Other performance matters (including cure, identification, notice, and risk of loss)",IV,CONFIRMED-APPROX,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Contracts,IV.G,topic,"Impossibility, impracticability, and frustration of purpose",IV,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Contracts,IV.H,topic,"Discharge of duties (accord and satisfaction, substituted contract, novation, rescission, and release) [parenthetical wording approximate]",IV,CONFIRMED-APPROX,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Contracts,V,category,Remedies,,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Contracts,V.A,topic,"Expectation interest (direct, incidental, and consequential damages)",V,CONFIRMED-APPROX,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Contracts,V.B,topic,"Causation, certainty, and foreseeability",V,CONFIRMED-APPROX,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Contracts,V.C,topic,"Liquidated damages and penalties, and limitation of remedies",V,CONFIRMED-APPROX,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Contracts,V.D,topic,Avoidable consequences and mitigation of damages,V,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Contracts,V.E,topic,Rescission and reformation,V,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Contracts,V.F,topic,Specific performance and injunction,V,CONFIRMED-APPROX,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Contracts,V.G,topic,Reliance and restitution interests,V,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Contracts,V.H,topic,Remedial rights of breaching parties,V,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Contracts,VI,category,Third-party rights,,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Contracts,VI.A,topic,Third-party beneficiaries,VI,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Contracts,VI.B,topic,Assignment of rights and delegation of duties,VI,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Criminal Law and Procedure,NOTE-1,note,"Approximately half of the Criminal Law and Procedure questions on the MBE will be based on category V, and approximately half will be based on the remaining categories—I, II, III, and IV.",,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Criminal Law and Procedure,I,category,Homicide,,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Criminal Law and Procedure,I.A,topic,Intended killings,I,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Criminal Law and Procedure,I.A.1,subtopic,"Premeditation, deliberation",I.A,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Criminal Law and Procedure,I.A.2,subtopic,Provocation,I.A,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Criminal Law and Procedure,I.B,topic,Unintended killings,I,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Criminal Law and Procedure,I.B.1,subtopic,Intent to injure,I.B,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Criminal Law and Procedure,I.B.2,subtopic,Reckless and negligent killings,I.B,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Criminal Law and Procedure,I.B.3,subtopic,Felony murder,I.B,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Criminal Law and Procedure,I.B.4,subtopic,Misdemeanor manslaughter,I.B,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Criminal Law and Procedure,II,category,Other crimes,,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Criminal Law and Procedure,II.A,topic,Theft and receiving stolen goods,II,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Criminal Law and Procedure,II.B,topic,Robbery,II,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Criminal Law and Procedure,II.C,topic,Burglary,II,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Criminal Law and Procedure,II.D,topic,Assault and battery,II,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Criminal Law and Procedure,II.E,topic,Rape; statutory rape,II,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Criminal Law and Procedure,II.F,topic,Kidnapping,II,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Criminal Law and Procedure,II.G,topic,Arson,II,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Criminal Law and Procedure,II.H,topic,Possession offenses,II,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Criminal Law and Procedure,III,category,Inchoate crimes; parties,,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Criminal Law and Procedure,III.A,topic,Inchoate offenses,III,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Criminal Law and Procedure,III.A.1,subtopic,Attempts,III.A,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Criminal Law and Procedure,III.A.2,subtopic,Conspiracy,III.A,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Criminal Law and Procedure,III.A.3,subtopic,Solicitation,III.A,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Criminal Law and Procedure,III.B,topic,Parties to crime,III,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Criminal Law and Procedure,IV,category,General principles,,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Criminal Law and Procedure,IV.A,topic,Acts and omissions,IV,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Criminal Law and Procedure,IV.B,topic,State of mind,IV,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Criminal Law and Procedure,IV.B.1,subtopic,Required mental state,IV.B,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Criminal Law and Procedure,IV.B.2,subtopic,Strict liability,IV.B,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Criminal Law and Procedure,IV.B.3,subtopic,Mistake of fact or law,IV.B,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Criminal Law and Procedure,IV.C,topic,Responsibility,IV,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Criminal Law and Procedure,IV.C.1,subtopic,Mental disorder,IV.C,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Criminal Law and Procedure,IV.C.2,subtopic,Intoxication,IV.C,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Criminal Law and Procedure,IV.D,topic,Causation,IV,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Criminal Law and Procedure,IV.E,topic,Justification and excuse,IV,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Criminal Law and Procedure,IV.F,topic,Jurisdiction,IV,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Criminal Law and Procedure,V,category,Constitutional protection of accused persons,,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Criminal Law and Procedure,V.A,topic,"Arrest, search and seizure",V,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Criminal Law and Procedure,V.B,topic,Confessions and privilege against self-incrimination,V,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Criminal Law and Procedure,V.C,topic,Lineups and other forms of identification,V,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Criminal Law and Procedure,V.D,topic,Right to counsel,V,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Criminal Law and Procedure,V.E,topic,Fair trial and guilty pleas,V,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Criminal Law and Procedure,V.F,topic,Double jeopardy,V,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Criminal Law and Procedure,V.G,topic,Cruel and unusual punishment,V,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Criminal Law and Procedure,V.H,topic,Burdens of proof and persuasion,V,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Criminal Law and Procedure,V.I,topic,Appeal and error,V,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Evidence,NOTE-1,note,"All Evidence questions should be answered according to the Federal Rules of Evidence, as currently in effect.",,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Evidence,NOTE-2,note,"Approximately one-quarter of the Evidence questions on the MBE will be based on category I, one-third on category II, one-quarter on category V, and the remainder on categories III and IV.",,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Evidence,I,category,Presentation of evidence,,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Evidence,I.A,topic,Introduction of evidence,I,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Evidence,I.A.1,subtopic,Requirement of personal knowledge,I.A,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Evidence,I.A.2,subtopic,Refreshing recollection,I.A,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Evidence,I.A.3,subtopic,Objections and offers of proof,I.A,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Evidence,I.A.4,subtopic,Lay opinions,I.A,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Evidence,I.A.5,subtopic,Competency of witnesses,I.A,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Evidence,I.A.6,subtopic,Judicial notice,I.A,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Evidence,I.A.7,subtopic,Roles of judge and jury,I.A,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Evidence,I.A.8,subtopic,Limited admissibility,I.A,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Evidence,I.B,topic,Presumptions,I,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Evidence,I.C,topic,Mode and order,I,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Evidence,I.C.1,subtopic,Control by court,I.C,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Evidence,I.C.2,subtopic,Scope of examination,I.C,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Evidence,I.C.3,subtopic,Form of questions,I.C,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Evidence,I.C.4,subtopic,Exclusion of witnesses,I.C,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Evidence,I.D,topic,"Impeachment, contradiction, and rehabilitation",I,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Evidence,I.D.1,subtopic,Inconsistent statements and conduct,I.D,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Evidence,I.D.2,subtopic,Bias and interest,I.D,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Evidence,I.D.3,subtopic,Conviction of crime,I.D,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Evidence,I.D.4,subtopic,Specific instances of conduct,I.D,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Evidence,I.D.5,subtopic,Character for truthfulness,I.D,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Evidence,I.D.6,subtopic,"Ability to observe, remember, or relate accurately",I.D,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Evidence,I.D.7,subtopic,Impeachment of hearsay declarants,I.D,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Evidence,I.D.8,subtopic,Rehabilitation of impeached witnesses,I.D,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Evidence,I.D.9,subtopic,Contradiction,I.D,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Evidence,I.E,topic,Proceedings to which evidence rules apply,I,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Evidence,II,category,Relevancy and reasons for excluding relevant evidence,,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Evidence,II.A,topic,Probative value,II,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Evidence,II.A.1,subtopic,Relevancy,II.A,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Evidence,II.A.2,subtopic,"Exclusion for unfair prejudice, confusion, or waste of time",II.A,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Evidence,II.B,topic,Authentication and identification,II,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Evidence,II.C,topic,Character and related concepts,II,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Evidence,II.C.1,subtopic,Admissibility of character,II.C,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Evidence,II.C.2,subtopic,Methods of proving character,II.C,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Evidence,II.C.3,subtopic,Habit and routine practice,II.C,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Evidence,II.C.4,subtopic,"Other crimes, acts, transactions, and events",II.C,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Evidence,II.C.5,subtopic,Prior sexual misconduct of a defendant,II.C,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Evidence,II.D,topic,Expert testimony,II,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Evidence,II.D.1,subtopic,Qualifications of witnesses,II.D,CONFIRMED-APPROX,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Evidence,II.D.2,subtopic,Bases of testimony,II.D,CONFIRMED-APPROX,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Evidence,II.D.3,subtopic,Ultimate issue rule,II.D,CONFIRMED-APPROX,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Evidence,II.D.4,subtopic,Reliability and relevancy,II.D,CONFIRMED-APPROX,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Evidence,II.D.5,subtopic,Proper subject matter for expert testimony,II.D,CONFIRMED-APPROX,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Evidence,II.E,topic,"Real, demonstrative, and experimental evidence",II,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Evidence,III,category,Privileges and other policy exclusions,,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Evidence,III.A,topic,Spousal immunity and marital communications,III,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Evidence,III.B,topic,Attorney-client and work product,III,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Evidence,III.C,topic,Physician/psychotherapist-patient,III,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Evidence,III.D,topic,Other privileges,III,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Evidence,III.E,topic,Insurance coverage,III,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Evidence,III.F,topic,Remedial measures,III,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Evidence,III.G,topic,"Compromise, payment of medical expenses, and plea negotiations",III,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Evidence,III.H,topic,Past sexual conduct of a victim,III,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Evidence,IV,category,"Writings, recordings, and photographs",,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Evidence,IV.A,topic,Requirement of original,IV,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Evidence,IV.B,topic,Summaries,IV,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Evidence,IV.C,topic,Completeness rule,IV,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Evidence,V,category,Hearsay and circumstances of its admissibility,,CONFIRMED-APPROX,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Evidence,V.A,topic,Definition of hearsay,V,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Evidence,V.A.1,subtopic,What is hearsay,V.A,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Evidence,V.A.2,subtopic,Prior statements by witness,V.A,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Evidence,V.A.3,subtopic,Statements attributable to party-opponent,V.A,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Evidence,V.A.4,subtopic,Multiple hearsay,V.A,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Evidence,V.B,topic,Present sense impressions and excited utterances,V,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Evidence,V.C,topic,"Statements of mental, emotional, or physical condition",V,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Evidence,V.D,topic,Statements for purposes of medical diagnosis and treatment,V,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Evidence,V.E,topic,Past recollection recorded,V,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Evidence,V.F,topic,Business records,V,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Evidence,V.G,topic,Public records and reports,V,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Evidence,V.H,topic,Learned treatises,V,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Evidence,V.I,topic,Former testimony; depositions,V,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Evidence,V.J,topic,Statements against interest,V,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Evidence,V.K,topic,Other exceptions to the hearsay rule,V,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Evidence,V.L,topic,Right to confront witnesses,V,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Real Property,NOTE-1,note,Approximately one-fifth of the Real Property questions on the MBE will be based on each of the categories I through V.,,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Real Property,I,category,Ownership of real property,,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Real Property,I.A,topic,Present estates and future interests,I,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Real Property,I.A.1,subtopic,Present estates,I.A,CONFIRMED-APPROX,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Real Property,I.A.1.a,sub-subtopic,Fees simple [letter inferred],I.A.1,CONFIRMED-APPROX,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Real Property,I.A.1.b,sub-subtopic,Defeasible fees [letter inferred],I.A.1,CONFIRMED-APPROX,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Real Property,I.A.1.c,sub-subtopic,Life estates [letter inferred],I.A.1,CONFIRMED-APPROX,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Real Property,I.A.2,subtopic,Future interests,I.A,CONFIRMED-APPROX,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Real Property,I.A.2.a,sub-subtopic,Reversions [letter inferred],I.A.2,CONFIRMED-APPROX,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Real Property,I.A.2.b,sub-subtopic,Remainders (vested and contingent) [letter inferred],I.A.2,CONFIRMED-APPROX,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Real Property,I.A.2.c,sub-subtopic,Executory interests [letter inferred],I.A.2,CONFIRMED-APPROX,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Real Property,I.A.2.d,sub-subtopic,Possibilities of reverter and powers of termination [letter inferred],I.A.2,CONFIRMED-APPROX,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Real Property,I.A.2.e,sub-subtopic,"Rules affecting these interests (including survivorship, class gifts, waste, and cy pres)",I.A.2,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Real Property,I.B,topic,Cotenancy,I,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Real Property,I.B.1,subtopic,Types: tenancy in common and joint tenancy,I.B,CONFIRMED-APPROX,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Real Property,I.B.2,subtopic,Rights and obligations of cotenants [search output also mentions partition and severance; whether these are parentheticals or separate items is unconfirmed],I.B,CONFIRMED-APPROX,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Real Property,I.C,topic,Landlord-tenant law,I,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Real Property,I.C.1,subtopic,Types of tenancies [number inferred],I.C,CONFIRMED-APPROX,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Real Property,I.C.2,subtopic,Possession and rent [number inferred],I.C,CONFIRMED-APPROX,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Real Property,I.C.3,subtopic,Transfers by landlord or tenant [number inferred],I.C,CONFIRMED-APPROX,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Real Property,I.C.4,subtopic,"Termination (including surrender, mitigation of damages, anticipatory breach, and security deposits)",I.C,CONFIRMED-APPROX,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Real Property,I.C.5,subtopic,Habitability and suitability [number inferred],I.C,CONFIRMED-APPROX,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Real Property,I.D,topic,Special problems,I,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Real Property,I.D.1,subtopic,Rule against perpetuities: common law rule and statutory reforms,I.D,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Real Property,I.D.2,subtopic,"Alienability, descendibility, and devisability of present and future interests",I.D,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Real Property,I.D.3,subtopic,Fair housing/discrimination,I.D,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Real Property,I.D.4,subtopic,Conflicts of law related to disputes involving real property,I.D,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Real Property,II,category,Rights in real property,,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Real Property,II.A,topic,Restrictive covenants,II,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Real Property,II.A.1,subtopic,Nature and type [number inferred],II.A,CONFIRMED-APPROX,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Real Property,II.A.2,subtopic,Creation [number inferred],II.A,CONFIRMED-APPROX,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Real Property,II.A.3,subtopic,Scope [number inferred],II.A,CONFIRMED-APPROX,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Real Property,II.A.4,subtopic,Transfer [number inferred],II.A,CONFIRMED-APPROX,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Real Property,II.A.5,subtopic,Termination [number inferred],II.A,CONFIRMED-APPROX,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Real Property,II.A.6,subtopic,Property owners' associations and common interest ownership communities [number inferred],II.A,CONFIRMED-APPROX,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Real Property,II.B,topic,"Easements, profits, and licenses",II,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Real Property,II.B.1,subtopic,Nature and type [number inferred],II.B,CONFIRMED-APPROX,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Real Property,II.B.2,subtopic,"Methods of creation (express, implied, prescription) [may carry lettered sub-items; unconfirmed]",II.B,CONFIRMED-APPROX,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Real Property,II.B.3,subtopic,Scope and apportionment [number inferred],II.B,CONFIRMED-APPROX,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Real Property,II.B.4,subtopic,Transfer [number inferred],II.B,CONFIRMED-APPROX,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Real Property,II.B.5,subtopic,Termination [number inferred],II.B,CONFIRMED-APPROX,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Real Property,II.C,topic,Fixtures,II,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Real Property,II.D,topic,Zoning (fundamentals other than regulatory taking),II,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Real Property,II.D.1,subtopic,Types of zoning laws [search output paraphrased as 'zoning laws'; exact wording unconfirmed],II.D,CONFIRMED-APPROX,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Real Property,II.D.2,subtopic,Protection of pre-existing property rights,II.D,CONFIRMED-APPROX,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Real Property,II.D.3,subtopic,Rezoning and other zoning changes,II.D,CONFIRMED-APPROX,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Real Property,III,category,Real estate contracts,,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Real Property,III.A,topic,Real estate brokerage,III,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Real Property,III.B,topic,Creation and construction,III,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Real Property,III.B.1,subtopic,Statute of frauds and exceptions,III.B,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Real Property,III.B.2,subtopic,Essential terms,III.B,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Real Property,III.B.3,subtopic,Time for performance,III.B,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Real Property,III.B.4,subtopic,Remedies for breach,III.B,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Real Property,III.C,topic,Marketability of title,III,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Real Property,III.D,topic,Equitable conversion (including risk of loss),III,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Real Property,III.E,topic,Options and rights of first refusal,III,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Real Property,III.F,topic,Fitness and suitability,III,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Real Property,III.G,topic,Merger,III,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Real Property,IV,category,Mortgages/security devices,,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Real Property,IV.A,topic,Types of security devices,IV,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Real Property,IV.A.1,subtopic,Mortgages (including deeds of trust),IV.A,CONFIRMED-APPROX,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Real Property,IV.A.1.a,sub-subtopic,In general [letter and wording approx.],IV.A.1,CONFIRMED-APPROX,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Real Property,IV.A.1.b,sub-subtopic,Purchase money mortgages [letter inferred],IV.A.1,CONFIRMED-APPROX,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Real Property,IV.A.1.c,sub-subtopic,Future advance mortgages [letter inferred],IV.A.1,CONFIRMED-APPROX,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Real Property,IV.A.2,subtopic,Installment land contracts,IV.A,CONFIRMED-APPROX,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Real Property,IV.A.3,subtopic,Absolute deeds as security,IV.A,CONFIRMED-APPROX,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Real Property,IV.B,topic,Security relationships,IV,CONFIRMED-APPROX,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Real Property,IV.B.1,subtopic,Necessity and nature of obligation,IV.B,CONFIRMED-APPROX,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Real Property,IV.B.2,subtopic,"Theories: title, lien, and intermediate",IV.B,CONFIRMED-APPROX,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Real Property,IV.B.3,subtopic,Rights and duties prior to foreclosure,IV.B,CONFIRMED-APPROX,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Real Property,IV.B.4,subtopic,Right to redeem and clogging equity of redemption,IV.B,CONFIRMED-APPROX,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Real Property,IV.C,topic,Transfers by mortgagor,IV,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Real Property,IV.C.1,subtopic,Assumption and transfer subject to [the mortgage] [wording approx.],IV.C,CONFIRMED-APPROX,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Real Property,IV.C.2,subtopic,Rights and obligations [of transferor] [wording approx.],IV.C,CONFIRMED-APPROX,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Real Property,IV.C.3,subtopic,[Application of] subrogation and suretyship [principles] [wording approx.],IV.C,CONFIRMED-APPROX,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Real Property,IV.C.4,subtopic,"Restrictions on transfer, including due-on-sale clauses",IV.C,CONFIRMED-APPROX,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Real Property,IV.D,topic,Transfers by mortgagee,IV,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Real Property,IV.E,topic,Discharge [exact heading wording unconfirmed],IV,CONFIRMED-APPROX,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Real Property,IV.E.1,subtopic,Payment (including prepayment),IV.E,CONFIRMED-APPROX,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Real Property,IV.E.2,subtopic,Deed in lieu of foreclosure,IV.E,CONFIRMED-APPROX,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Real Property,IV.F,topic,Foreclosure,IV,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Real Property,IV.F.1,subtopic,Types,IV.F,CONFIRMED-APPROX,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Real Property,IV.F.2,subtopic,Acceleration,IV.F,CONFIRMED-APPROX,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Real Property,IV.F.3,subtopic,Parties to the proceeding,IV.F,CONFIRMED-APPROX,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Real Property,IV.F.4,subtopic,Deficiency and surplus,IV.F,CONFIRMED-APPROX,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Real Property,IV.F.5,subtopic,Redemption after foreclosure,IV.F,CONFIRMED-APPROX,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Real Property,V,category,Titles,,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Real Property,V.A,topic,Adverse possession,V,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Real Property,V.B,topic,Transfer by deed,V,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Real Property,V.B.1,subtopic,Requirements for deed,V.B,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Real Property,V.B.2,subtopic,Types of deeds (including covenants for title),V.B,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Real Property,V.B.3,subtopic,"Drafting, review, and negotiation of closing documents",V.B,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Real Property,V.B.4,subtopic,Persons authorized to execute documents,V.B,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Real Property,V.C,topic,"Transfer by operation of law and by will [numbered sub-items not confirmed for the MBE; the MEE outline reportedly lists ademption, exoneration, lapse]",V,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Real Property,V.D,topic,Title assurance systems,V,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Real Property,V.D.1,subtopic,"Recording acts (types of recording acts, indexes, chain of title) [wording/numbering approx.]",V.D,CONFIRMED-APPROX,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Real Property,V.D.2,subtopic,Title insurance [number inferred],V.D,CONFIRMED-APPROX,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Real Property,V.E,topic,Special problems (including estoppel by deed and judgment and tax liens),V,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Torts,NOTE-1,note,Examinees are to assume that survival actions and claims for wrongful death are available. Joint and several liability and pure comparative fault are the relevant rules unless otherwise indicated.,,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Torts,NOTE-2,note,"Approximately half of the Torts questions on the MBE will be based on category II, and approximately half will be based on the remaining categories—I, III, and IV.",,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Torts,I,category,Intentional torts,,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Torts,I.A,topic,"Harms to the person, such as assault, battery, false imprisonment, and infliction of mental distress; and harms to property interests, such as trespass to land and chattels, and conversion",I,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Torts,I.B,topic,Defenses to claims for physical harms,I,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Torts,I.B.1,subtopic,Consent,I.B,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Torts,I.B.2,subtopic,Privileges and immunities,I.B,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Torts,I.B.2.a,sub-subtopic,Protection of self and others [letter inferred],I.B.2,CONFIRMED-APPROX,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Torts,I.B.2.b,sub-subtopic,Protection of property interests [letter inferred],I.B.2,CONFIRMED-APPROX,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Torts,I.B.2.c,sub-subtopic,Parental discipline [letter inferred],I.B.2,CONFIRMED-APPROX,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Torts,I.B.2.d,sub-subtopic,Protection of public interests [letter inferred],I.B.2,CONFIRMED-APPROX,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Torts,I.B.2.e,sub-subtopic,Necessity [letter inferred],I.B.2,CONFIRMED-APPROX,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Torts,I.B.2.f,sub-subtopic,Incomplete privilege [letter inferred],I.B.2,CONFIRMED-APPROX,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Torts,II,category,Negligence,,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Torts,II.A,topic,"The duty question, including failure to act, unforeseeable plaintiffs, and obligations to control the conduct of third parties",II,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Torts,II.B,topic,The standard of care,II,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Torts,II.B.1,subtopic,"The reasonably prudent person, including children, physically and mentally impaired individuals, professional people, and other special classes",II.B,CONFIRMED-APPROX,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Torts,II.B.2,subtopic,Rules of conduct derived from statutes and custom,II.B,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Torts,II.C,topic,"Problems relating to proof of fault, including res ipsa loquitur",II,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Torts,II.D,topic,Problems relating to causation,II,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Torts,II.D.1,subtopic,But for and substantial causes,II.D,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Torts,II.D.2,subtopic,Harms traceable to multiple causes,II.D,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Torts,II.D.3,subtopic,"Questions of apportionment of responsibility among multiple tortfeasors, including joint and several liability",II.D,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Torts,II.E,topic,Limitations on liability and special rules of liability,II,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Torts,II.E.1,subtopic,"Problems relating to ""remote"" or ""unforeseeable"" causes, ""legal"" or ""proximate"" cause, and ""superseding"" causes",II.E,CONFIRMED-APPROX,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Torts,II.E.2,subtopic,Claims against owners and occupiers of land,II.E,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Torts,II.E.3,subtopic,Claims for mental distress not arising from physical harm; other intangible injuries,II.E,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Torts,II.E.4,subtopic,Claims for pure economic loss [number inferred],II.E,CONFIRMED-APPROX,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Torts,II.F,topic,Liability for acts of others,II,CONFIRMED-APPROX,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Torts,II.F.1,subtopic,Employees and other agents,II.F,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Torts,II.F.2,subtopic,Independent contractors and nondelegable duties,II.F,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Torts,II.G,topic,Defenses,II,CONFIRMED-APPROX,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Torts,II.G.1,subtopic,"Contributory fault, including common law contributory negligence and last clear chance, and the various forms of comparative negligence [seen in 2025 MEE outline text; MBE excerpt cut off]",II.G,CONFIRMED-APPROX,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Torts,II.G.2,subtopic,Assumption of risk,II.G,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Torts,III,category,"Strict liability and products liability: common law strict liability, including claims arising from abnormally dangerous activities, and defenses to such claims; claims against manufacturers and other defendants arising out of the manufacture and distribution of products, and defenses to such claims [first clause verbatim; second clause paraphrased]",,CONFIRMED-APPROX,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Torts,IV,category,Other torts,,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Torts,IV.A,topic,"Claims based on nuisance, and defenses",IV,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Torts,IV.B,topic,"Claims based on defamation and invasion of privacy, defenses, and constitutional limitations",IV,CONFIRMED,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Torts,IV.C,topic,"Claims based on misrepresentations, and defenses",IV,CONFIRMED-APPROX,https://www.ncbex.org/sites/default/files/2023-01/MBE_Subject_Matter_Outline.pdf
+Torts,IV.D,topic,"Claims based on intentional interference with business relations, and defenses [found in MEE outline text; not seen in MBE excerpt]",IV,UNCONFIRMED,
