@@ -5,36 +5,40 @@ questions:
   rule_ids: [R-PRP-090, R-PRP-100]
   difficulty: 3
   stem: >-
-    Sela agreed to sell a lakeside lot to Ben for $500,000. Ben paid $50,000 of the price in cash and borrowed $350,000
-    of it from Delta Bank, and Sela agreed to accept Ben's promissory note for the remaining $100,000. At the closing,
-    Ben signed and delivered one mortgage on the lot to Delta Bank and another to Sela, each securing its own loan, and
-    the two mortgages were recorded at the same moment. Delta Bank knew of Sela's mortgage, and neither Sela nor Delta
-    agreed to subordinate its mortgage to the other. Ben has defaulted on both loans, and the lot is now worth $300,000.
+    Sela agreed to sell a lakeside lot to Ben for $500,000. Ben paid $50,000 of the price in cash and borrowed
+    $350,000 of it from Delta Bank, and Sela agreed to accept Ben's promissory note for the remaining $100,000. At
+    the closing, Ben signed and delivered one mortgage on the lot to Delta Bank and another to Sela, each securing
+    its own loan, and the two mortgages were recorded at the same moment. Delta Bank knew of Sela's mortgage, and
+    neither Sela nor Delta agreed to subordinate its mortgage to the other. Ben has defaulted on both loans, and
+    the lot is now worth $300,000. The jurisdiction follows the Restatement (Third) of Property: Mortgages on the
+    priority of purchase-money mortgages.
   call: "Which mortgage has priority?"
   options:
     A: "Delta Bank's, because the bank's loan supplied most of the price that Ben paid for the lot."
-    B: "Sela's, because a seller's purchase-money mortgage generally outranks a third-party lender's."
+    B: "Sela's, because a seller's purchase-money mortgage outranks a third-party lender's."
     C: "Neither, because mortgages recorded at the same moment share equally in the proceeds of a foreclosure sale."
     D: "Delta Bank's, because a lender's purchase-money mortgage has priority over every other lien on the land."
   answer: B
   explanation_correct: >-
-    B is correct. Both mortgages are purchase-money mortgages, because each secures credit that Ben used to buy the
-    lot (R-PRP-090). When a seller and a third-party lender both take purchase-money mortgages, the seller's mortgage
-    generally has priority unless the seller agrees otherwise, because the seller is parting with the land itself
-    (R-PRP-090). The recording act does not change that order here: the mortgages were recorded simultaneously, and
-    Delta knew of Sela's mortgage (R-PRP-100). Sela did not agree to subordinate, so her mortgage is first.
+    B is correct. Both mortgages are purchase-money mortgages, because each secures credit that Ben used to buy
+    the lot (R-PRP-090). When a seller and a third-party lender both take purchase-money mortgages, the
+    Restatement rule that this jurisdiction follows gives the seller's mortgage priority unless the seller agrees
+    otherwise, because the seller is parting with the land itself (R-PRP-090). The recording act does not change
+    that order here: the mortgages were recorded simultaneously, and Delta knew of Sela's mortgage (R-PRP-100).
+    Sela did not agree to subordinate, so her mortgage is first.
   explanation_each_wrong_option:
     A: >-
-      The size of each creditor's contribution does not decide priority. Between a seller's and a third-party
-      lender's purchase-money mortgages, the seller's generally comes first (R-PRP-090).
+      The size of each creditor's contribution does not decide priority. Between a seller's and a
+      third-party lender's purchase-money mortgages, the seller's has priority under the Restatement rule
+      the jurisdiction follows (R-PRP-090).
     C: >-
-      Competing purchase-money mortgages are not ranked equally. The seller's mortgage generally has priority over the
-      third-party lender's (R-PRP-090).
+      Competing purchase-money mortgages are not ranked equally. The seller's mortgage has priority over
+      the third-party lender's under the Restatement rule the jurisdiction follows (R-PRP-090).
     D: >-
       A purchase-money mortgage has special priority over earlier liens against the buyer, such as judgment liens that
       attach when the buyer takes title (R-PRP-090). It does not outrank the seller's own purchase-money mortgage.
   trap_type: confused-rule
-  authority: ["Common law: priority of purchase-money mortgages"]
+  authority: ["Common law: priority of purchase-money mortgages", "Restatement (Third) of Property: Mortgages § 7.2"]
   source: original
   tags: [wave2, W2b-PRP, purchase-money-mortgages, priority]
   status: draft
@@ -197,12 +201,13 @@ questions:
     D: "Wexler prevails, because a deed in lieu of foreclosure is valid when it satisfies the entire debt."
   answer: A
   explanation_correct: >-
-    A is correct. Before foreclosure, a mortgagor has an equity of redemption that cannot be waived or cut off in the
-    mortgage transaction itself; a provision made when the loan is made that lets the lender take the property on
-    default without foreclosing, such as a deed held in escrow for delivery on default, is void as a clog on the
-    equity of redemption (R-PRP-093). A deed in lieu of foreclosure is valid only if given voluntarily after default
-    for adequate consideration (R-PRP-098). Wexler extracted this deed as a condition of the loan, so it is
-    unenforceable. Vanya may redeem by paying the debt, and Wexler must foreclose if she does not.
+    A is correct. Before foreclosure, a mortgagor has an equity of redemption that cannot be waived or cut off in
+    the mortgage transaction itself; a provision made when the loan is made that lets the lender take the property
+    on default without foreclosing, such as a deed held in escrow for delivery on default, is void as a clog on
+    the equity of redemption (R-PRP-093). A deed in lieu of foreclosure is valid when it is given voluntarily, for
+    adequate consideration, in a later transaction separate from the loan, typically after default (R-PRP-093,
+    R-PRP-098). Wexler extracted this deed as a condition of the loan, so it is unenforceable. Vanya may redeem by
+    paying the debt, and Wexler must foreclose if she does not.
   explanation_each_wrong_option:
     B: >-
       Clogging does not depend on proof of the property's value. A provision in the original loan transaction that
@@ -211,9 +216,9 @@ questions:
       An escrow passes title when its conditions are met (R-PRP-110), but the escrow cannot validate a deed that is
       itself a void clog on the equity of redemption (R-PRP-093).
     D: >-
-      A deed in lieu is valid when given voluntarily after default for adequate consideration (R-PRP-098). A deed
-      extracted when the loan is made, as a substitute for foreclosure, is a clog whatever it says about satisfying
-      the debt (R-PRP-093).
+      A deed in lieu is valid when it is given voluntarily, for adequate consideration, in a later
+      transaction separate from the loan (R-PRP-093, R-PRP-098). A deed extracted when the loan is made,
+      as a substitute for foreclosure, is a clog whatever it says about satisfying the debt (R-PRP-093).
   trap_type: exception-trap
   authority: ["Common law: equity of redemption and clogging", "Common law: deeds in lieu of foreclosure"]
   source: original
@@ -238,14 +243,17 @@ questions:
   options:
     A: "Yes, because a mortgagor may always redeem the property by paying the full amount of the debt."
     B: "Yes, because a clause forbidding prepayment is an unreasonable restraint on the alienation of the building."
-    C: "No, because Halvorsen has no right to prepay except as the loan terms permit."
+    C: "No, because the note's express prohibition on prepayment before its seventh anniversary is enforceable."
     D: "Yes, but only if Halvorsen pays a reasonable prepayment premium in an amount fixed by the court."
   answer: C
   explanation_correct: >-
-    C is correct. At common law a borrower has no right to prepay a mortgage loan before maturity except as the loan
-    terms permit (R-PRP-098). This commercial note expressly forbids prepayment before its seventh anniversary, no
-    statute governs commercial prepayment, and there is no due-on-sale clause that would make the debt due on a sale.
-    Granite may hold Halvorsen to the bargain and refuse the tender in the fourth year.
+    C is correct. Under the traditional rule, a borrower has no right to prepay a mortgage loan before maturity
+    unless the loan terms or a statute allow it (R-PRP-098). The Restatement (Third) of Property: Mortgages § 6.1
+    reverses that default and lets the borrower prepay unless the note or mortgage prohibits or limits prepayment.
+    Under either view, absent a statute, a bargained-for prohibition in a commercial loan is generally enforced.
+    This note expressly forbids prepayment before its seventh anniversary, no statute governs commercial
+    prepayment, and there is no due-on-sale clause that would make the debt due on a sale. Granite may hold
+    Halvorsen to the bargain and refuse the tender in the fourth year.
   explanation_each_wrong_option:
     A: >-
       The equity of redemption lets a mortgagor redeem by paying the debt that is due, including an accelerated debt
@@ -259,7 +267,7 @@ questions:
       Courts enforce the prepayment terms the parties agreed to (R-PRP-098). They do not rewrite a prohibition into a
       right to prepay on payment of a premium the court sets.
   trap_type: overbroad
-  authority: ["Common law: no right to prepay a mortgage loan except as its terms permit"]
+  authority: ["Common law: perfect tender in time (no right to prepay absent a loan term or statute)", "Restatement (Third) of Property: Mortgages § 6.1"]
   source: original
   tags: [wave2, W2b-PRP, discharge, prepayment]
   status: draft

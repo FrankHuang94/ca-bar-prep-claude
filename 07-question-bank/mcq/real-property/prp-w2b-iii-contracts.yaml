@@ -19,15 +19,17 @@ questions:
     D: "Yes, because Uma knew of a material latent defect and did not disclose it to Victor."
   answer: D
   explanation_correct: >-
-    D is correct. A seller's broker owes fiduciary duties to the seller, but it may not deceive the buyer, and a
-    seller's broker who knows of material defects must disclose them to the buyer (R-PRP-077). The same modern rule
-    makes a seller liable for failing to disclose known material latent defects (R-PRP-084). Uma knew of a $60,000
-    structural crack, the new flooring hid it, and a reasonably careful inspection did not reveal it. Her silence makes
-    her liable to Victor for his damages.
+    D is correct. A seller's broker owes fiduciary duties to the seller, but it may not deceive the buyer. Under
+    the prevailing modern rule, a seller's broker who knows of a material latent defect that the buyer cannot
+    discover by reasonable inspection is liable to the buyer for failing to disclose it, as the seller is
+    (R-PRP-077, R-PRP-084). Uma learned from Talia of a $60,000 structural crack and knew that new flooring hid
+    it, and a reasonably careful inspection did not reveal it. Her silence makes her liable to Victor for his
+    damages.
   explanation_each_wrong_option:
     A: >-
-      Fiduciary duties of loyalty run to the principal, but a broker's duty to disclose known material defects runs
-      to the buyer as well (R-PRP-077).
+      Duties of loyalty run only to the principal, but under the prevailing rule a seller's broker also
+      owes the buyer a duty to disclose known material latent defects that the buyer cannot discover by
+      reasonable inspection (R-PRP-077, R-PRP-084).
     B: >-
       Liability does not require a false statement or a question from the buyer; failing to disclose a known material
       latent defect is enough under the modern rule (R-PRP-077, R-PRP-084).

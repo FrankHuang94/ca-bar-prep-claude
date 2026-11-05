@@ -1072,9 +1072,9 @@ status: draft
 ## III Real estate contracts
 
 ### R-PRP-077 — Real estate brokerage
-**Rule (write this):** A real estate broker is the agent of the party who engages it, usually the seller under a listing agreement, and owes that principal fiduciary duties of loyalty, care and full disclosure. Traditionally the broker earns its commission when it produces a buyer ready, willing and able to buy on the seller's terms, even if the sale never closes; a growing minority makes the commission depend on closing unless the seller wrongfully prevents it. A seller's broker who knows of material defects must disclose them to the buyer.
+**Rule (write this):** A real estate broker is the agent of the party who engages it, usually the seller under a listing agreement, and owes that principal fiduciary duties of loyalty, care and full disclosure. Traditionally the broker earns its commission when it produces a buyer ready, willing and able to buy on the seller's terms, even if the sale never closes; a growing minority makes the commission depend on closing unless the seller wrongfully prevents it. Under the prevailing modern rule, a seller's broker who knows of a material latent defect that the buyer cannot discover by reasonable inspection must disclose it to the buyer.
 
-**Elements:** 1. Listing type: open, exclusive agency, exclusive right to sell. 2. When the commission is earned. 3. Fiduciary duties to the principal. 4. Duties to the other party (no misrepresentation; disclosure of known material defects). 5. License and writing requirements.
+**Elements:** 1. Listing type: open, exclusive agency, exclusive right to sell. 2. When the commission is earned. 3. Fiduciary duties to the principal. 4. Duties to the other party (no misrepresentation; disclosure of known material latent defects). 5. License and writing requirements.
 
 **Exceptions / defenses:** In California an unlicensed broker cannot sue for a commission (Bus. & Prof. Code §§ 10130, 10136), and an agreement to pay a broker's commission for a sale of real property must be in a signed writing (Civ. Code § 1624(a)(4)). For residential property of one to four units, the seller's broker must conduct a reasonably competent and diligent visual inspection of the accessible areas and disclose what it would reveal (Civ. Code § 2079, codifying *Easton v. Strassburger* (1984) 152 Cal.App.3d 90) [S-768]. Dual agency requires the informed consent of both parties [VERIFY V-669].
 
@@ -1253,9 +1253,9 @@ status: draft
 
 **Elements:** 1. Loan proceeds used to buy the land. 2. Executed at or as part of the acquisition. 3. Priority over prior liens against the purchaser. 4. Competing purchase-money mortgages: seller first; between two third-party lenders, the recording act decides.
 
-**Exceptions / defenses:** A later bona fide mortgagee who records first may defeat an unrecorded purchase-money mortgage under the recording act. In California, purchase-money loans also receive anti-deficiency protection (CCP § 580b; R-PRP-104).
+**Exceptions / defenses:** A later bona fide mortgagee who records first may defeat an unrecorded purchase-money mortgage under the recording act. Seller-over-lender priority is the Restatement (Third) of Property: Mortgages § 7.2 position; several courts follow it, but not all [S-781] [VERIFY V-676]. In California, purchase-money loans also receive anti-deficiency protection (CCP § 580b; R-PRP-104).
 
-**Authority:** Common law; Civ. Code § 2898 [S-770]; CCP § 580b [S-777].
+**Authority:** Common law; Restatement (Third) of Property: Mortgages § 7.2 [VERIFY V-676]; Civ. Code § 2898 [S-770]; CCP § 580b [S-777].
 
 **MBE vs. CA essay:** Same rule.
 
@@ -1340,28 +1340,28 @@ status: draft
 **Example:** B sells her house to X, who agrees to keep paying B's 3% loan. Bank discovers the sale and accelerates under its due-on-sale clause. Bank may do so; no exception applies.
 
 ### R-PRP-097 — Transfers by the mortgagee
-**Rule (write this):** A mortgagee may transfer the note and mortgage. The mortgage follows the note: transfer of the note carries the mortgage with it even without a separate assignment, while an assignment of the mortgage without the note gives the assignee nothing enforceable under the majority view. A transferee who takes a negotiable note as a holder in due course takes free of the borrower's personal defenses (such as fraud in the inducement) but not real defenses (such as forgery or fraud in the factum).
+**Rule (write this):** A mortgagee may transfer the note and mortgage; the mortgage follows the note, so a transfer of the note carries the mortgage with it even without a separate assignment unless the parties agree otherwise, and only a person entitled to enforce the note may foreclose. Traditionally an assignment of the mortgage without the note is a nullity, because the mortgage is only an incident of the debt, but the Restatement (Third) of Property: Mortgages presumes that a transfer of the mortgage also transfers the note unless the parties agree otherwise (subject to the UCC). A transferee who takes a negotiable note as a holder in due course takes free of the borrower's personal defenses (such as fraud in the inducement) but not real defenses (such as forgery or fraud in the factum).
 
-**Elements:** 1. Transfer of the note (negotiation or assignment). 2. Mortgage follows. 3. Holder in due course status. 4. Borrower's payments: who must be paid.
+**Elements:** 1. Transfer of the note (negotiation or assignment). 2. Mortgage follows; the person entitled to enforce the note forecloses. 3. Mortgage assigned without the note: traditional nullity vs. Restatement presumption that the note passed too. 4. Holder in due course status. 5. Borrower's payments: who must be paid.
 
 **Exceptions / defenses:** Under the Restatement (Third) of Property: Mortgages and the 2002 revision of UCC Article 3, a borrower who pays the original lender before receiving notice of the transfer is protected; under the traditional negotiable-instrument rule, payment to a person no longer holding the note does not discharge it [VERIFY V-673]. In California, a borrower whose home was sold in a nonjudicial foreclosure has standing to challenge an assignment as void (*Yvanova v. New Century Mortgage Corp.* (2016) 62 Cal.4th 919).
 
-**Authority:** Common law; UCC §§ 3-302, 3-305; *Carpenter v. Longan*, 83 U.S. (16 Wall.) 271 (1872) (mortgage follows the note).
+**Authority:** Common law; UCC §§ 3-302, 3-305; *Carpenter v. Longan*, 83 U.S. (16 Wall.) 271 (1872) (mortgage follows the note); Restatement (Third) of Property: Mortgages § 5.4(a) (transfer of the obligation carries the mortgage), § 5.4(b) (transfer of the mortgage presumptively carries the obligation) [S-779] [VERIFY V-676], § 5.4(c) (only a person entitled to enforce the obligation may enforce the mortgage) [VERIFY V-676].
 
-**MBE vs. CA essay:** Same rule.
+**MBE vs. CA essay:** Same rule. MBE: the mortgage follows the note, and the party who may foreclose is the person entitled to enforce the note; if only the mortgage was assigned, state the traditional rule (a nullity) and the Restatement's contrary presumption.
 
 **Example:** Bank sells B's note to Fund by indorsement and delivery but never records an assignment of the mortgage. Fund may foreclose because the mortgage followed the note.
 
 ### R-PRP-098 — Discharge: payment, prepayment and deed in lieu
-**Rule (write this):** A mortgage is discharged when the secured obligation is paid, and the lender must then record a release or reconveyance. At common law the borrower has no right to prepay before maturity unless the loan permits it, and reasonable prepayment penalties are enforceable. A deed in lieu of foreclosure, in which the borrower voluntarily conveys the property to the lender in satisfaction of the debt, is valid if fair and freely made after default, but the lender takes title subject to junior liens, which a deed in lieu does not extinguish.
+**Rule (write this):** A mortgage is discharged when the secured obligation is paid, and the lender must then record a release or reconveyance. Under the traditional "perfect tender in time" rule the borrower has no right to prepay before maturity unless the loan documents or a statute allow it, while the Restatement (Third) of Property: Mortgages § 6.1 lets the borrower prepay unless the note or mortgage prohibits or limits prepayment; under either view, a bargained-for prohibition or a reasonable prepayment fee is generally enforced, subject to statute. A deed in lieu of foreclosure, in which the borrower voluntarily conveys the property to the lender in satisfaction of the debt, is valid if made fairly and for adequate consideration in a transaction separate from and later than the loan (typically after default), but the lender takes title subject to junior liens, which a deed in lieu does not extinguish.
 
-**Elements:** 1. Payment in full → release or reconveyance. 2. Prepayment: contract terms; statutory rights for residential loans. 3. Deed in lieu: voluntariness, adequate consideration, after default (otherwise a possible clog); effect on junior liens and on the debt (usually satisfied).
+**Elements:** 1. Payment in full → release or reconveyance. 2. Prepayment: traditional rule (no right absent a loan term or statute) vs. Restatement § 6.1 (right unless the loan terms restrict it); express terms control under both; statutory rights for residential loans. 3. Deed in lieu: voluntariness, adequate consideration, a later transaction separate from the loan, typically after default (if exacted at the loan's inception, a clog: R-PRP-093); effect on junior liens and on the debt (usually satisfied).
 
 **Exceptions / defenses:** California requires reconveyance of a deed of trust after payment within a statutory period (Civ. Code § 2941) and regulates prepayment charges on residential loans (Civ. Code § 2954.9) [VERIFY V-658].
 
-**Authority:** Common law; Civ. Code §§ 2941, 2954.9.
+**Authority:** Common law; Restatement (Third) of Property: Mortgages § 6.1 [S-780] [VERIFY V-676]; Civ. Code §§ 2941, 2954.9.
 
-**MBE vs. CA essay:** Same rule.
+**MBE vs. CA essay:** Same rule. MBE: if the loan documents address prepayment, apply them; if they are silent, state the traditional no-right-to-prepay rule and note the Restatement's contrary default. CA essay: add Civ. Code § 2954.9 for residential loans.
 
 **Example:** After default, B gives Bank a deed in lieu of foreclosure. B's second lender, Credit Co., still has its lien, so Bank owns the house subject to Credit Co.'s junior lien; a foreclosure would have wiped it out.
 

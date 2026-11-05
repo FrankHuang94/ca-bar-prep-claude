@@ -310,7 +310,7 @@ questions:
 
 - id: Q-PRP-0118
   subject: PRP
-  coverage_ids: [PRP-MBE-II.D.1]
+  coverage_ids: [PRP-MBE-II.D.1, CON-MBE-IV.C.3]
   rule_ids: [R-PRP-070, R-PRP-072, R-CON-074]
   difficulty: 2
   stem: >-

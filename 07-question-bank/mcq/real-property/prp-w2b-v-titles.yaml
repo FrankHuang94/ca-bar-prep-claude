@@ -1,7 +1,7 @@
 questions:
 - id: Q-PRP-0141
   subject: PRP
-  coverage_ids: [PRP-MBE-V.B.3]
+  coverage_ids: [PRP-MBE-V.B.3, PRP-MBE-V.B.1]
   rule_ids: [R-PRP-109]
   difficulty: 1
   stem: >-
@@ -104,10 +104,12 @@ questions:
     D: "Ruiz, because Saul's authority was not given in a signed writing, so the deed did not convey her title."
   answer: D
   explanation_correct: >-
-    D is correct. Only the owner, or someone with actual authority, can convey an owner's interest in land, and an
-    agent's authority to convey land must be in writing (R-PRP-114). The quoted statute makes that requirement
-    explicit. Ruiz gave Saul authority only by telephone, so the deed he signed in her name did not convey her title.
-    Ruiz did not ratify the deed: she received none of the money and repudiated it promptly when she learned of it.
+    D is correct. An agent can convey the owner's land only if the agent's authority takes the form the law
+    requires; under the equal-dignities rule, which the quoted statute codifies, authority to execute a deed must
+    be conferred by a writing signed by the owner (R-PRP-114). Ruiz gave Saul authority only by telephone, so the
+    deed he signed in her name did not convey her title. Ruiz did not ratify the deed: she received none of the
+    money and repudiated it promptly when she learned of it. Because the deed was not executed with authority in
+    the required form, it conveyed nothing, and Tran's recording does not validate it (R-PRP-113, R-PRP-119).
     Tran's remedy is against Saul.
   explanation_each_wrong_option:
     A: >-
