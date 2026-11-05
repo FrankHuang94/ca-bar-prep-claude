@@ -3,17 +3,17 @@ id: E-WIL-001
 type: single
 subjects: [WIL]
 coverage_ids: [WIL-CBX-stat-6, WIL-CBX-stat-7, WIL-CBX-IV, WIL-CBX-IV.x, WIL-CBX-VI, WIL-CBX-VI.x1, WIL-CBX-VI.x2, WIL-CBX-VI.F, WIL-CBX-interp.E, WIL-CBX-interp.x, WIL-CBX-II.C, WIL-CBX-II.F]
-rule_ids: [R-WIL-015, R-WIL-018, R-WIL-044, R-WIL-047, R-WIL-048, R-WIL-050, R-WIL-051, R-WIL-052, R-WIL-062, R-WIL-063, R-WIL-064, R-WIL-065, R-WIL-077, R-WIL-078, R-WIL-079, R-WIL-085]
+rule_ids: [R-WIL-011, R-WIL-015, R-WIL-018, R-WIL-043, R-WIL-044, R-WIL-047, R-WIL-048, R-WIL-050, R-WIL-051, R-WIL-052, R-WIL-055, R-WIL-062, R-WIL-063, R-WIL-064, R-WIL-065, R-WIL-077, R-WIL-078, R-WIL-079, R-WIL-085]
 calls:
   - "What rights, if any, do Ana, Mia, Teresa and Clara have in Malcolm's estate? Answer according to California law."
 issues:
   - {issue: "Governing law; what the estate contains", points: 3, call: 1, major: false, rule_ids: [R-WIL-015], coverage_ids: [WIL-CBX-II.C]}
   - {issue: "Execution of the 2018 will: witnesses not present at the same time; harmless error (6110(c)(2))", points: 17, call: 1, major: true, rule_ids: [R-WIL-047, R-WIL-048], coverage_ids: [WIL-CBX-stat-6, WIL-CBX-IV, WIL-CBX-IV.x]}
   - {issue: "Ana: partial revocation by physical act of the $20,000 gift", points: 10, call: 1, major: true, rule_ids: [R-WIL-078, R-WIL-079], coverage_ids: [WIL-CBX-stat-7, WIL-CBX-VI.x2]}
-  - {issue: "Ana: unsigned $40,000 interlineation fails (not attested; not a holograph; harmless error cannot cure)", points: 8, call: 1, major: true, rule_ids: [R-WIL-050, R-WIL-079, R-WIL-048], coverage_ids: [WIL-CBX-IV.x]}
+  - {issue: "Ana: unsigned $35,000 interlineation fails (not attested; not a holograph; harmless error cannot cure)", points: 8, call: 1, major: true, rule_ids: [R-WIL-050, R-WIL-055, R-WIL-079, R-WIL-048], coverage_ids: [WIL-CBX-IV.x]}
   - {issue: "Ana: dependent relative revocation restores the $20,000", points: 12, call: 1, major: true, rule_ids: [R-WIL-085], coverage_ids: [WIL-CBX-VI.F]}
-  - {issue: "Mia: anti-lapse for predeceased nephew (kindred; no survivorship words)", points: 12, call: 1, major: true, rule_ids: [R-WIL-062, R-WIL-063, R-WIL-064], coverage_ids: [WIL-CBX-interp.E]}
-  - {issue: "Teresa: holographic codicil (signature and material provisions), testamentary intent, undated holograph and inconsistency", points: 20, call: 1, major: true, rule_ids: [R-WIL-044, R-WIL-050, R-WIL-051, R-WIL-052, R-WIL-077], coverage_ids: [WIL-CBX-IV.x, WIL-CBX-VI.x1]}
+  - {issue: "Mia: anti-lapse for predeceased nephew (kindred; no survivorship words)", points: 12, call: 1, major: true, rule_ids: [R-WIL-011, R-WIL-062, R-WIL-063, R-WIL-064], coverage_ids: [WIL-CBX-interp.E]}
+  - {issue: "Teresa: holographic codicil (signature and material provisions), testamentary intent, undated holograph and inconsistency", points: 20, call: 1, major: true, rule_ids: [R-WIL-043, R-WIL-044, R-WIL-050, R-WIL-051, R-WIL-052, R-WIL-077], coverage_ids: [WIL-CBX-IV.x, WIL-CBX-VI.x1]}
   - {issue: "Clara: lapsed residuary share passes to the other residuary taker (21111(b)); fallback if the card fails", points: 13, call: 1, major: true, rule_ids: [R-WIL-064, R-WIL-065, R-WIL-018], coverage_ids: [WIL-CBX-interp.x, WIL-CBX-II.F]}
   - {issue: "Distribution summary", points: 5, call: 1, major: false, rule_ids: [R-WIL-065], coverage_ids: [WIL-CBX-interp.x]}
 time_minutes: 60
@@ -30,15 +30,15 @@ Malcolm Tate, a widower with no children, died in 2026, domiciled in California.
 **The 2018 will.** In May 2018, Malcolm's lawyer prepared a typed document titled "Last Will and Testament of Malcolm Tate." At the lawyer's office, Malcolm signed it while a paralegal, Wes, watched. Wes signed as a witness and left for lunch. About ten minutes later the office receptionist, Ivy, came in. Malcolm pointed to his signature and said, "This is my will, and that's my signature." Ivy signed as the second witness. Wes and Ivy were never in the room at the same time. The will provides:
 
 > Article 2. I give $20,000 to my friend Ana Ruiz.
-> Article 3. I give my coin collection to my nephew, Lucas Tate.
+> Article 3. I give my stamp collection to my nephew, Lucas Tate.
 > Article 4. I give my cabin at Lake Almanor to my sister Beth Tate, if she survives me.
 > Article 5. I give the residue of my estate to my sisters, Beth Tate and Clara Tate, in equal shares.
 
-**The change to Article 2.** In March 2022, Malcolm drew a line through "$20,000" in Article 2 of the original will and wrote "$40,000" above it in his own handwriting, with the date "3/2/22" beside it. He did not sign or initial the change. At dinner a week later he told Ana, "I doubled your gift in my will."
+**The change to Article 2.** In March 2022, Malcolm drew a line through "$20,000" in Article 2 of the original will and wrote "$35,000" above it in his own handwriting, with the date "3/2/22" beside it. He did not sign or initial the change. At dinner a week later he told Ana, "I raised your gift in my will."
 
 **The card.** After Malcolm's death, his executor found a greeting card in Malcolm's desk drawer, in an envelope with the original will. The front of the card bears the printed words "With Gratitude." Inside, in Malcolm's handwriting, are the words: "My cabin at Lake Almanor should go to my neighbor Teresa Vo, who has made my last years so pleasant. — Malcolm Tate." The card is not dated. Teresa bought the house next to Malcolm's in 2021, and the two became close friends. The card's manufacturer first sold this design in 2022. There is no evidence that Malcolm ever lacked mental capacity.
 
-**The estate.** At his death, Malcolm owned the Lake Almanor cabin (worth $300,000), his coin collection (worth $15,000), and bank and brokerage accounts worth $500,000. Mia has told the executor that she will challenge the 2018 will.
+**The estate.** At his death, Malcolm owned the Lake Almanor cabin (worth $300,000), his stamp collection (worth $15,000), and bank and brokerage accounts worth $500,000. Mia has told the executor that she will challenge the 2018 will.
 
 ## Call of the Question
 
@@ -51,16 +51,16 @@ What rights, if any, do Ana, Mia, Teresa and Clara have in Malcolm's estate? Ans
 | 1 | Governing law; property in the estate | 3 |
 | 2 | 2018 will: witnesses not present at the same time (§ 6110(c)(1)); harmless error (§ 6110(c)(2)) | 17 |
 | 3 | Ana: partial revocation of the $20,000 gift by physical act (§ 6120(b)) | 10 |
-| 4 | Ana: the unsigned "$40,000" fails | 8 |
+| 4 | Ana: the unsigned "$35,000" fails | 8 |
 | 5 | Ana: dependent relative revocation | 12 |
-| 6 | Mia: anti-lapse (§ 21110) for the coin collection | 12 |
+| 6 | Mia: anti-lapse (§ 21110) for the stamp collection | 12 |
 | 7 | Teresa: holographic codicil (§ 6111), testamentary intent, undated holograph (§ 6111(b)), revocation of Article 4 by inconsistency | 20 |
 | 8 | Clara: Beth's lapsed residuary share (§ 21111(b)); cabin fallback | 13 |
 | 9 | Distribution summary | 5 |
 
 ## Model Answer
 
-**Governing law.** Malcolm died domiciled in California, so the California Probate Code governs. He had no spouse, so there is no community property to separate out; his whole estate (the cabin, the coins and $500,000 in accounts) passes under his valid testamentary instruments, and anything not effectively disposed of passes by intestacy (Prob. Code § 6400).
+**Governing law.** Malcolm died domiciled in California, so the California Probate Code governs. He had no spouse, so there is no community property to separate out; his whole estate (the cabin, the stamps and $500,000 in accounts) passes under his valid testamentary instruments, and anything not effectively disposed of passes by intestacy (Prob. Code § 6400).
 
 ### I. Is the 2018 will valid?
 
@@ -70,7 +70,7 @@ What rights, if any, do Ana, Mia, Teresa and Clara have in Malcolm's estate? Ans
 
 **Harmless error.** A will not executed in compliance with § 6110(c)(1) is still treated as validly executed if the proponent establishes by **clear and convincing evidence** that, when the testator signed it, he intended it to be his will (§ 6110(c)(2)). The doctrine cures only witnessing defects; the writing and the testator's signature are still required.
 
-- *Clara (proponent)* will point out that the defect concerns only the witnesses. The document was prepared by Malcolm's lawyer, titled "Last Will and Testament," and signed in the lawyer's office as part of a formal execution. Minutes later, Malcolm told Ivy, "This is my will." He also kept the original with his important papers and later altered it, which shows he regarded it as his operative will.
+- *Clara (proponent)* will point out that the defect concerns only the witnesses. The document was prepared by Malcolm's lawyer, titled "Last Will and Testament," and signed in the lawyer's office as part of a formal execution. Minutes later, Malcolm told Ivy, "This is my will." He also kept the original in his desk and later altered it, which shows he regarded it as his operative will.
 - *Mia (contestant)* will argue that the statutory formalities exist to prevent fraud and mistake, and that clear and convincing evidence is a demanding standard. She takes far more in intestacy (half of the estate) than under the will.
 
 **Conclusion.** The lawyer-supervised execution and Malcolm's own words are strong evidence of testamentary intent at signing, and nothing suggests fraud. Clara will likely meet the clear-and-convincing standard. **The 2018 will is valid under § 6110(c)(2),** and Mia's challenge will likely fail.
@@ -79,17 +79,17 @@ What rights, if any, do Ana, Mia, Teresa and Clara have in Malcolm's estate? Ans
 
 **A. Partial revocation of the $20,000 gift.** A will or any part of it is revoked when the testator, with intent to revoke, burns, tears, cancels, obliterates or destroys it (§ 6120(b)). California allows partial revocation by physical act. Malcolm himself drew a line through "$20,000" on the original will. A line through the amount is a cancellation, and his purpose was to remove that amount from the will. Ana will argue he had no intent to revoke her gift, only to change it. But he intended to revoke the *$20,000 term*; the question is whether the substitute took effect. **The $20,000 term was revoked by physical act, subject to DRR below.**
 
-**B. The "$40,000" is ineffective.** A new gift written onto a will after execution takes effect only if it is separately executed as a will or qualifies on its own as a holographic codicil (*Estate of Uhl*). It was not attested. A holograph requires the testator's **signature** and the material provisions in his handwriting (§ 6111(a)). Malcolm handwrote "$40,000" and a date but did not sign or initial the change, and the other material terms (Ana's name and the gift itself) are in the typed text. Ana will point to his statement, "I doubled your gift." But oral statements cannot supply a missing signature, and harmless error under § 6110(c)(2) cures only witnessing defects, not the absence of the testator's signature. **The $40,000 gift fails.**
+**B. The "$35,000" is ineffective.** A new gift written onto a will after execution takes effect only if it is separately executed as a will or qualifies on its own as a holographic codicil (*Estate of Uhl*). It was not attested. A holograph requires the testator's **signature** and the material provisions in his handwriting (§ 6111(a)). Malcolm handwrote "$35,000" and a date but did not sign or initial the change, and the other material terms (Ana's name and the gift itself) are in the typed text. Ana will point to his statement, "I raised your gift." But oral statements cannot supply a missing signature, and harmless error under § 6110(c)(2) cures only witnessing defects, not the absence of the testator's signature. **The $35,000 gift fails.**
 
 **C. Dependent relative revocation (DRR).** If a testator revokes a will or a gift on the mistaken assumption that another disposition will be effective, and would not have revoked but for that mistake, the revocation is disregarded, provided that result is closer to the testator's intent than the result without the doctrine (*Estate of Kaufman*; *Estate of Uhl*).
 
-- *Mistaken assumption.* Malcolm crossed out $20,000 only because he believed the $40,000 he wrote above it would take its place. His comment to Ana confirms that belief.
+- *Mistaken assumption.* Malcolm crossed out $20,000 only because he believed the $35,000 he wrote above it would take its place. His comment to Ana confirms that belief.
 - *But-for causation.* He did not want Ana to receive less; he wanted her to receive more. He would not have struck the $20,000 except to replace it.
 - *Closer to intent.* The choice is between Ana taking $20,000 and Ana taking nothing. Since Malcolm wanted to increase her gift, $20,000 is much closer to his intent than zero.
 
 Clara, whose residue would be $20,000 larger without the gift, may argue that Malcolm's real wish cannot be carried out and that the court should not rewrite the will. But DRR does not rewrite; it simply disregards a revocation that rested on a mistake. **Under DRR, Ana takes $20,000.**
 
-### III. Mia: the coin collection
+### III. Mia: the stamp collection
 
 **Lapse.** A beneficiary who fails to survive the testator does not take, and at common law the gift lapses (§ 21109). Lucas died in 2025, before Malcolm, so Article 3 would lapse.
 
@@ -98,7 +98,7 @@ Clara, whose residue would be $20,000 larger without the gift, may argue that Ma
 - Lucas left issue, Mia.
 - Article 3 contains no survivorship language. Clara may argue that Malcolm's use of "if she survives me" in Article 4 shows he expected all gifts to require survival. However, the inference runs the other way: Malcolm knew how to impose a survival condition and used it only in Article 4, so its absence from Article 3 shows no contrary intent.
 
-**Conclusion.** Mia takes the **coin collection ($15,000)** under the anti-lapse statute. She takes nothing more unless the will fails, which, as discussed, it likely does not.
+**Conclusion.** Mia takes the **stamp collection ($15,000)** under the anti-lapse statute. She takes nothing more unless the will fails, which, as discussed, it likely does not.
 
 ### IV. Teresa: the card
 
@@ -110,7 +110,7 @@ Clara, whose residue would be $20,000 larger without the gift, may argue that Ma
 
 Because Malcolm stored the card with his will rather than sending it, the better reading is that he meant it as a testamentary disposition. **It is likely a valid holographic codicil.**
 
-**C. The card is undated.** A holograph need not be dated. But if it is undated and inconsistent with another will, it is invalid to the extent of the inconsistency unless its time of execution is shown to have been after the other will; it is also invalid if the testator lacked capacity at any time when it might have been executed (§ 6111(b)). The card conflicts with Article 4 and with the residuary clause. But Teresa did not become Malcolm's neighbor until 2021, and the card design was first sold in 2022, so the card was necessarily written after the 2018 will. There is no evidence that Malcolm ever lacked capacity.
+**C. The card is undated.** A holograph need not be dated. But if it is undated and inconsistent with another will, it is invalid to the extent of the inconsistency unless its time of execution is shown to have been after the other will; and, if the testator lacked capacity at any time during which it might have been executed, it is invalid unless it is shown to have been executed at a time when the testator had capacity (§ 6111(b)(1)–(2)). The card is inconsistent with Article 4, which gives the cabin to Beth. But Teresa did not become Malcolm's neighbor until 2021, and the card design was first sold in 2022, so the card was necessarily written after the 2018 will. There is no evidence that Malcolm ever lacked capacity.
 
 **D. Effect.** A later will revokes an earlier one to the extent of any inconsistency (§ 6120(a)). The card revokes Article 4's gift of the cabin to Beth. **Teresa takes the cabin ($300,000).**
 
@@ -126,8 +126,8 @@ Because Malcolm stored the card with his will rather than sending it, the better
 
 | Claimant | Takes | Basis |
 |---|---|---|
-| Ana | $20,000 | Article 2 restored by DRR; the $40,000 fails |
-| Mia | Coin collection ($15,000) | Anti-lapse for Lucas, Article 3 |
+| Ana | $20,000 | Article 2 restored by DRR; the $35,000 fails |
+| Mia | Stamp collection ($15,000) | Anti-lapse for Lucas, Article 3 |
 | Teresa | Lake Almanor cabin ($300,000) | Holographic codicil, executed after 2018 |
 | Clara | Residue ($480,000) | Article 5 plus Beth's lapsed half (§ 21111(b)); also the cabin if the card fails |
 
@@ -140,10 +140,10 @@ If Mia's contest succeeded, the 2018 will would fail, and the estate, apart from
 | Governing law / estate | 3 | California law; no CP; § 6400 for anything undisposed | R-WIL-015 |
 | Execution and harmless error | 17 | § 6110 elements; "present at the same time" defect identified; § 6110(c)(2) clear-and-convincing standard applied to the lawyer's office and "This is my will"; Mia's motive and argument; conclusion | R-WIL-047, R-WIL-048 |
 | Partial revocation | 10 | § 6120(b) act + intent; partial revocation allowed; act by the testator himself | R-WIL-078, R-WIL-079 |
-| Failed $40,000 | 8 | Not attested; § 6111 needs signature (none); harmless error cannot cure a missing signature | R-WIL-050, R-WIL-079, R-WIL-048 |
+| Failed $35,000 | 8 | Not attested; § 6111 needs signature (none); harmless error cannot cure a missing signature | R-WIL-050, R-WIL-055, R-WIL-079, R-WIL-048 |
 | DRR | 12 | Mistaken assumption; but-for causation; closer to intent ($20,000 vs. nothing); statement to Ana as evidence; conclusion | R-WIL-085 |
-| Anti-lapse (Mia) | 12 | § 21109 lapse; § 21110 kindred + issue; survivorship words as contrary intent in California; contrast Article 3 with Article 4 | R-WIL-062, R-WIL-063, R-WIL-064 |
-| Holographic card (Teresa) | 20 | § 6111 signature + material provisions; printed words irrelevant; testamentary intent argued both ways with § 6111.5 extrinsic evidence; § 6111(b) undated + inconsistency, resolved by the 2021/2022 facts; revocation of Article 4 by inconsistency | R-WIL-044, R-WIL-050, R-WIL-051, R-WIL-052, R-WIL-077 |
+| Anti-lapse (Mia) | 12 | § 21109 lapse; § 21110 kindred + issue; survivorship words as contrary intent in California; contrast Article 3 with Article 4 | R-WIL-011, R-WIL-062, R-WIL-063, R-WIL-064 |
+| Holographic card (Teresa) | 20 | § 6111 signature + material provisions; printed words irrelevant; testamentary intent argued both ways with § 6111.5 extrinsic evidence; § 6111(b) undated + inconsistency, resolved by the 2021/2022 facts (and the capacity limb with its saving clause, not triggered); revocation of Article 4 by inconsistency | R-WIL-043, R-WIL-044, R-WIL-050, R-WIL-051, R-WIL-052, R-WIL-077 |
 | Residue (Clara) | 13 | Beth's share lapses; anti-lapse needs issue; § 21111(b) to other residuary taker, not intestacy; fallback for the cabin if the card fails (survivorship words) | R-WIL-064, R-WIL-065, R-WIL-018 |
 | Distribution | 5 | Table or statement of each claimant's take; effect of a successful contest noted | R-WIL-065 |
 
@@ -151,11 +151,11 @@ If Mia's contest succeeded, the 2018 will would fail, and the estate, apart from
 - **75+:** spots the "same time" witnessing defect and saves the will under § 6110(c)(2); runs partial revocation, the failed interlineation and DRR in order; uses the Article 3 vs. Article 4 contrast for anti-lapse; argues testamentary intent and the undated-holograph rule for the card; sends Beth's share to Clara under § 21111(b); distribution stated.
 - **65–70:** all claimants addressed with correct rules; one sub-issue thin (e.g., the undated-holograph rule or the harmless-error standard stated without application).
 - **55–60:** misses the witnessing defect or DRR, or sends Beth's share to intestacy.
-- **45–50:** conclusions per beneficiary without rules or analysis; treats the $40,000 as valid.
+- **45–50:** conclusions per beneficiary without rules or analysis; treats the $35,000 as valid.
 
 **Common mistakes**
 1. Requiring witnesses to sign in the testator's presence (not the California rule), or missing that the two witnesses must be present at the same time.
-2. Using harmless error to save the unsigned "$40,000." § 6110(c)(2) cures only witnessing defects.
-3. Stopping after "the $40,000 fails" without running partial revocation and DRR.
+2. Using harmless error to save the unsigned "$35,000." § 6110(c)(2) cures only witnessing defects.
+3. Stopping after "the $35,000 fails" without running partial revocation and DRR.
 4. Applying anti-lapse to Article 4 despite "if she survives me," or applying the common-law "no residue of a residue" rule to Beth's share.
 5. Rejecting the card simply because it is undated. A date matters only for inconsistency or capacity, and here the facts prove the card was later.

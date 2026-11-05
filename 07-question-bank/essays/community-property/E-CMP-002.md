@@ -3,20 +3,20 @@ id: E-CMP-002
 type: single
 subjects: [CMP]
 coverage_ids: [CMP-CBX-I.B.x2, CMP-CBX-I.B.x3, CMP-CBX-I.B.x4, CMP-CBX-II.D, CMP-CBX-II.D.3, CMP-CBX-II.D.3.a, CMP-CBX-II.D.3.b, CMP-CBX-II.H, CMP-CBX-III.A, CMP-CBX-V.A, CMP-CBX-V.B, CMP-CBX-VI.A.1, CMP-CBX-VI.B.1, CMP-CBX-VI.B.8]
-rule_ids: [R-CMP-001, R-CMP-002, R-CMP-004, R-CMP-005, R-CMP-010, R-CMP-017, R-CMP-033, R-CMP-034, R-CMP-035, R-CMP-036, R-CMP-048, R-CMP-049, R-CMP-050, R-CMP-062, R-CMP-063, R-CMP-064, R-CMP-070, R-CMP-071, R-CMP-075, R-CMP-076, R-CMP-082]
+rule_ids: [R-CMP-001, R-CMP-002, R-CMP-003, R-CMP-004, R-CMP-005, R-CMP-010, R-CMP-017, R-CMP-033, R-CMP-034, R-CMP-035, R-CMP-036, R-CMP-048, R-CMP-049, R-CMP-050, R-CMP-062, R-CMP-063, R-CMP-064, R-CMP-068, R-CMP-070, R-CMP-071, R-CMP-075, R-CMP-076, R-CMP-082]
 calls:
   - "1. What is the date of separation?"
   - "2. What are Keiko's and Bram's rights in (a) the brokerage account, (b) the painting, (c) Tidewater Kayak Rentals, and (d) Bram's pension and his December 2025 bonus?"
   - "3. What rights does Keiko have regarding the $25,000 Bram gave to Piet?"
 issues:
-  - {issue: "Framework: CP, SP and quasi-community property at dissolution; both spouses domiciled in California", points: 5, call: 2, major: false, rule_ids: [R-CMP-001, R-CMP-002, R-CMP-004, R-CMP-005], coverage_ids: [CMP-CBX-I.B.x3, CMP-CBX-I.B.x4]}
+  - {issue: "Framework: CP, SP and quasi-community property at dissolution; both spouses domiciled in California", points: 5, call: 2, major: false, rule_ids: [R-CMP-001, R-CMP-002, R-CMP-003, R-CMP-004, R-CMP-005], coverage_ids: [CMP-CBX-I.B.x3, CMP-CBX-I.B.x4]}
   - {issue: "Date of separation under Fam. Code 70 (expressed intent + consistent conduct; same roof)", points: 15, call: 1, major: true, rule_ids: [R-CMP-070], coverage_ids: [CMP-CBX-V.A]}
-  - {issue: "Brokerage account bought with State X earnings is QCP, divided equally", points: 12, call: 2, major: true, rule_ids: [R-CMP-005, R-CMP-010, R-CMP-075], coverage_ids: [CMP-CBX-I.B.x3]}
-  - {issue: "Painting given to Keiko in State X is SP, not QCP", points: 5, call: 2, major: false, rule_ids: [R-CMP-002, R-CMP-017], coverage_ids: [CMP-CBX-I.B.x2, CMP-CBX-I.B.x3]}
+  - {issue: "Brokerage account bought with State X earnings is QCP, divided equally", points: 12, call: 2, major: true, rule_ids: [R-CMP-003, R-CMP-005, R-CMP-010, R-CMP-075], coverage_ids: [CMP-CBX-I.B.x3]}
+  - {issue: "Painting given to Keiko in State X is SP, not QCP", points: 5, call: 2, major: false, rule_ids: [R-CMP-002, R-CMP-003, R-CMP-017], coverage_ids: [CMP-CBX-I.B.x2, CMP-CBX-I.B.x3]}
   - {issue: "Inherited business grown by community labor: Pereira vs. Van Camp with figures; choice of method", points: 25, call: 2, major: true, rule_ids: [R-CMP-033, R-CMP-034, R-CMP-035, R-CMP-036], coverage_ids: [CMP-CBX-II.D, CMP-CBX-II.D.3, CMP-CBX-II.D.3.a, CMP-CBX-II.D.3.b]}
   - {issue: "Pension: deferred compensation, vesting irrelevant, time rule, method of division", points: 10, call: 2, major: false, rule_ids: [R-CMP-048, R-CMP-049, R-CMP-050, R-CMP-082], coverage_ids: [CMP-CBX-II.H, CMP-CBX-VI.B.8]}
   - {issue: "Bonus paid after separation for work during marriage", points: 10, call: 2, major: false, rule_ids: [R-CMP-010, R-CMP-071], coverage_ids: [CMP-CBX-V.B]}
-  - {issue: "Gift of CP to Piet without written consent: 1100(b), fiduciary duty, set-aside and division remedies", points: 18, call: 3, major: true, rule_ids: [R-CMP-062, R-CMP-063, R-CMP-064, R-CMP-076], coverage_ids: [CMP-CBX-III.A, CMP-CBX-VI.B.1]}
+  - {issue: "Gift of CP to Piet without written consent: 1100(b), fiduciary duty, set-aside and division remedies", points: 18, call: 3, major: true, rule_ids: [R-CMP-062, R-CMP-063, R-CMP-064, R-CMP-068, R-CMP-076], coverage_ids: [CMP-CBX-III.A, CMP-CBX-VI.B.1]}
 time_minutes: 60
 source: original
 status: draft
@@ -91,7 +91,7 @@ Bram argues that anything acquired in State X during the marriage is QCP. But QC
 
 **Community labor requires apportionment.** A spouse's skill, effort and labor during marriage belong to the community (§ 760). When a spouse's labor during marriage increases the value of an SP business, the increase must be apportioned between the separate estate (a return on the SP capital) and the community (a return on the labor) (*Pereira v. Pereira*; *Van Camp v. Van Camp*). Keiko worked full time in the business for the nine years from January 2017 to the January 2026 DOS.
 
-**Pereira.** The SP owner receives the original capital plus a fair rate of return for the period of the marriage, and the rest is CP. Courts use Pereira when growth is chiefly due to the spouse's personal efforts.
+**Pereira.** The SP owner receives the original capital plus a fair rate of return on it for the period of community effort (here, from the 2017 inheritance to DOS), and the rest is CP. Courts use Pereira when growth is chiefly due to the spouse's personal efforts.
 - SP = $400,000 + (7% × $400,000 × 9 years) = $400,000 + $252,000 = **$652,000**
 - CP = $1,600,000 − $652,000 = **$948,000**
 
@@ -99,10 +99,10 @@ Bram argues that anything acquired in State X during the marriage is QCP. But QC
 - CP = ($95,000 − $45,000) × 9 years = **$450,000**
 - SP = $1,600,000 − $450,000 = **$1,150,000**
 
-**Which method?** The court chooses the method that achieves substantial justice and may combine them for different periods (*Beam v. Bank of America*; *In re Marriage of Dekker*).
+**Which method?** The court may choose whichever method achieves substantial justice between the spouses; neither formula is mandatory (*Beam v. Bank of America*; *In re Marriage of Dekker*). Whether a court may apply Pereira to one period and Van Camp to another is not settled [VERIFY V-900], so a party may argue for a split, but the safer course on the exam is to choose one method and mention the other.
 - *Bram (Pereira).* Keiko's own work drove the growth. She built the online reservation system, opened two new locations and created the guided-tour line. These are the entrepreneurial efforts Pereira rewards. She also paid herself well below market, leaving value in the business that the community earned.
 - *Keiko (Van Camp).* Much of the growth came from outside forces. The 2019 opening of the marine park roughly doubled tourist traffic, and a coastal rental shop would have grown with that traffic whoever ran it. That is the market-driven growth Van Camp addresses.
-- *Likely result.* Both factors are real. Before 2019, growth came mainly from Keiko's efforts; from 2019, the park was a major driver, though Keiko's new locations and tours let the business capture that traffic. A court could apply Pereira overall, or combine Pereira for 2017–2019 with Van Camp for 2019–2026. Because Keiko's expansions were themselves the means by which the business profited from the park, the court will likely lean toward **Pereira**, giving the community roughly $948,000 (about $474,000 to each spouse). Keiko will likely keep the business and pay Bram his share through an offset or an equalizing payment. Under pure Van Camp, Bram's share would be $225,000.
+- *Likely result.* Both factors are real. Before 2019, growth came mainly from Keiko's efforts; from 2019, the park was a major driver, though Keiko's new locations and tours let the business capture that traffic. Bram will urge Pereira for the whole period. Keiko could argue for Pereira for 2017–2019 and Van Camp from 2019, but that split is an argument, not settled law [VERIFY V-900]. Because Keiko's expansions were themselves the means by which the business profited from the park, the court will likely lean toward **Pereira**, giving the community roughly $948,000 (about $474,000 to each spouse). Keiko will likely keep the business and pay Bram his share through an offset or an equalizing payment. Under pure Van Camp, Bram's share would be $225,000.
 
 If the DOS were January 1, 2025, the community's labor period would be only eight years. The Van Camp community share would fall to $400,000, and under Pereira the court would also have to treat growth produced by Keiko's work during 2025 as the product of her post-separation (separate) labor, so the community share would shrink.
 
@@ -120,7 +120,7 @@ The court must protect each spouse's full community share (§ 2610), either by c
 
 ### 3. The $25,000 gift to Piet
 
-**Character.** The money came from the joint savings account, which held only the spouses' salaries. Even on Bram's January 2025 DOS, the balance had accumulated from earnings before then, so the $25,000 was CP.
+**Character.** The money came from the joint savings account, which held only the spouses' salaries. On the likely January 2026 DOS, every salary in the account was earned during marriage, so the $25,000 was CP. Even on Bram's January 2025 date, the account is presumptively CP; Bram would have to trace the withdrawal to his own post-separation salary to claim it as SP, and nothing suggests he can.
 
 **Management limit.** Either spouse may manage community personal property (§ 1100(a)), but a spouse may not make a gift of community personal property, or dispose of it without fair and reasonable value, without the other spouse's **written consent** (§ 1100(b)). Bram gave Piet $25,000 for nothing in return and never told Keiko, let alone obtained her written consent. Bram may argue that, as an equal manager, he could help family members, and that the money was a loan. Nothing in the facts suggests a loan: it was a gift toward Piet's down payment, and equal management does not include giving community funds away.
 
@@ -149,13 +149,13 @@ The court must protect each spouse's full community share (§ 2610), either by c
 | Issue | Points | Full credit requires | Rule IDs |
 |---|---|---|---|
 | Date of separation | 15 | Both § 70 prongs; same-roof separation possible; facts for each side (statement and guest room vs. joint return, vacation, pooled salaries, counseling); committed conclusion; why the date matters (bonus, pension, business years) | R-CMP-070 |
-| Framework / QCP definition | 5 | CP and SP definitions; § 125 QCP "would have been CP"; divided equally at dissolution; both spouses domiciled in California | R-CMP-001, R-CMP-002, R-CMP-004, R-CMP-005 |
-| Brokerage account | 12 | State X title rejected; salary would have been CP in California; QCP; equal division | R-CMP-005, R-CMP-010, R-CMP-075 |
-| Painting | 5 | A gift would be SP in California, so it is not QCP | R-CMP-002, R-CMP-017 |
-| Kayak business | 25 | SP at inception; apportionment required; both formulas with numbers ($652,000/$948,000 and $1,150,000/$450,000); facts for each method (efforts vs. marine park); Beam/Dekker discretion or combination; conclusion and division | R-CMP-033 to R-CMP-036 |
+| Framework / QCP definition | 5 | CP and SP definitions; § 125 QCP "would have been CP"; divided equally at dissolution; both spouses domiciled in California | R-CMP-001, R-CMP-002, R-CMP-003, R-CMP-004, R-CMP-005 |
+| Brokerage account | 12 | State X title rejected; salary would have been CP in California; QCP; equal division | R-CMP-003, R-CMP-005, R-CMP-010, R-CMP-075 |
+| Painting | 5 | A gift would be SP in California, so it is not QCP | R-CMP-002, R-CMP-003, R-CMP-017 |
+| Kayak business | 25 | SP at inception; apportionment required; both formulas with numbers ($652,000/$948,000 and $1,150,000/$450,000); facts for each method (efforts vs. marine park); Beam/Dekker discretion to choose the method (a period-by-period split is an argument only and is not required); conclusion and division | R-CMP-033 to R-CMP-036 |
 | Pension | 10 | Brown (vesting irrelevant); time rule with figures; cash-out vs. in-kind (§ 2610) | R-CMP-048, R-CMP-049, R-CMP-050, R-CMP-082 |
 | Bonus | 10 | Earned-vs-paid rule; CP under January 2026 DOS, SP under January 2025 DOS | R-CMP-010, R-CMP-071 |
-| Gift to Piet | 18 | CP; § 1100(b) written consent; voidable (set aside during donor's life); §§ 721/1100(e) fiduciary duty; § 2602 misappropriation; § 1101 50%/100% remedy argued | R-CMP-062, R-CMP-063, R-CMP-064, R-CMP-076 |
+| Gift to Piet | 18 | CP; § 1100(b) written consent; voidable (set aside during donor's life); §§ 721/1100(e) fiduciary duty; § 2602 misappropriation; § 1101 50%/100% remedy argued | R-CMP-062, R-CMP-063, R-CMP-064, R-CMP-068, R-CMP-076 |
 
 **Scoring on the 40–100 scale** (`00-exam-intel/grader-expectations.md` §4).
 - **75+:** DOS argued on both § 70 prongs with the counseling and tax-return facts; QCP and the painting distinguished correctly; Pereira and Van Camp both computed and the choice argued from the marine-park facts; pension and bonus tied back to the DOS; full set of remedies for the gift.

@@ -3,7 +3,7 @@ id: E-CMP-001
 type: single
 subjects: [CMP]
 coverage_ids: [CMP-CBX-I.B.x1, CMP-CBX-I.B.x2, CMP-CBX-II.A, CMP-CBX-II.B, CMP-CBX-II.C, CMP-CBX-II.C.x1.a, CMP-CBX-II.C.x1.b, CMP-SUP-002, CMP-CBX-II.E-F, CMP-CBX-II.J.x, CMP-CBX-V.A, CMP-CBX-VI.A.1, CMP-CBX-VI.debts]
-rule_ids: [R-CMP-001, R-CMP-002, R-CMP-008, R-CMP-009, R-CMP-011, R-CMP-012, R-CMP-022, R-CMP-023, R-CMP-024, R-CMP-028, R-CMP-029, R-CMP-030, R-CMP-031, R-CMP-032, R-CMP-037, R-CMP-038, R-CMP-040, R-CMP-041, R-CMP-042, R-CMP-070, R-CMP-075, R-CMP-084, R-CMP-086, R-CMP-087, R-CMP-089]
+rule_ids: [R-CMP-001, R-CMP-002, R-CMP-008, R-CMP-009, R-CMP-011, R-CMP-012, R-CMP-013, R-CMP-022, R-CMP-023, R-CMP-024, R-CMP-028, R-CMP-029, R-CMP-030, R-CMP-031, R-CMP-032, R-CMP-037, R-CMP-038, R-CMP-040, R-CMP-041, R-CMP-042, R-CMP-044, R-CMP-058, R-CMP-070, R-CMP-075, R-CMP-084, R-CMP-086, R-CMP-087, R-CMP-089]
 calls:
   - "1. What are Ingrid's and Paolo's rights in the condominium?"
   - "2. What are Ingrid's and Paolo's rights in the lake cabin?"
@@ -14,10 +14,10 @@ issues:
   - {issue: "Framework: CP/SP presumptions, date of separation, equal division", points: 5, call: 1, major: false, rule_ids: [R-CMP-001, R-CMP-002, R-CMP-070, R-CMP-075], coverage_ids: [CMP-CBX-I.B.x1, CMP-CBX-V.A, CMP-CBX-VI.A.1]}
   - {issue: "Condo: SP at inception; failed oral transmutation (Fam. Code 852(a), Benson)", points: 8, call: 1, major: true, rule_ids: [R-CMP-002, R-CMP-022], coverage_ids: [CMP-CBX-II.B]}
   - {issue: "Condo: Moore/Marsden apportionment with figures", points: 17, call: 1, major: true, rule_ids: [R-CMP-037, R-CMP-038, R-CMP-040], coverage_ids: [CMP-SUP-002]}
-  - {issue: "Cabin: joint-title presumption (2581) and 2640 reimbursement; no written waiver", points: 15, call: 2, major: true, rule_ids: [R-CMP-042], coverage_ids: [CMP-CBX-II.A, CMP-CBX-II.E-F, CMP-CBX-II.J.x]}
+  - {issue: "Cabin: joint-title presumption (2581) and 2640 reimbursement; no written waiver", points: 15, call: 2, major: true, rule_ids: [R-CMP-013, R-CMP-042, R-CMP-044], coverage_ids: [CMP-CBX-II.A, CMP-CBX-II.E-F, CMP-CBX-II.J.x]}
   - {issue: "Brokerage account: inheritance as SP; commingling; direct tracing vs. exhaustion; family-expense presumption; growth of SP", points: 20, call: 3, major: true, rule_ids: [R-CMP-009, R-CMP-028, R-CMP-029, R-CMP-030, R-CMP-031, R-CMP-032, R-CMP-041], coverage_ids: [CMP-CBX-II.C, CMP-CBX-II.C.x1.a, CMP-CBX-II.C.x1.b]}
   - {issue: "SUV: title not controlling (Valli); transmutation writing (MacDonald); 852(c) personal-gift exception", points: 15, call: 4, major: true, rule_ids: [R-CMP-011, R-CMP-012, R-CMP-023, R-CMP-024], coverage_ids: [CMP-CBX-II.A, CMP-CBX-II.B]}
-  - {issue: "Mesa Bank loan: creditor reach (910, 913) and allocation (2620-2625, community benefit)", points: 12, call: 5, major: true, rule_ids: [R-CMP-084, R-CMP-086, R-CMP-089], coverage_ids: [CMP-CBX-VI.debts]}
+  - {issue: "Mesa Bank loan: creditor reach (910, 913) and allocation (2620-2625, community benefit)", points: 12, call: 5, major: true, rule_ids: [R-CMP-058, R-CMP-084, R-CMP-086, R-CMP-089], coverage_ids: [CMP-CBX-VI.debts]}
   - {issue: "Post-separation credit-card debt: confirmation to Paolo vs. common necessaries (2623, 914)", points: 8, call: 5, major: false, rule_ids: [R-CMP-084, R-CMP-087, R-CMP-089], coverage_ids: [CMP-CBX-VI.debts]}
 time_minutes: 60
 source: original
@@ -67,7 +67,7 @@ Answer according to California law.
 
 **Introduction**
 
-California is a community property state. Property acquired by a married person during the marriage while domiciled in California is presumed to be community property (CP) (Fam. Code § 760). Separate property (SP) includes property owned before marriage, property acquired by gift or inheritance, its rents, issues and profits, and earnings after the date of separation (§§ 770, 771). Character is fixed by the source of funds and the time of acquisition, then tested against presumptions and any acts of the spouses, such as a transmutation, that changed it. The date of separation is when one spouse expressed to the other the intent to end the marriage and acted consistently with it (§ 70). Here, Paolo told Ingrid on March 1, 2025 that he wanted a divorce and moved out that day, so the date of separation is March 1, 2025. At dissolution the court divides the community estate equally (§ 2550).
+California is a community property state. Property acquired by a married person during the marriage while domiciled in California is presumed to be community property (CP) (Fam. Code § 760). Separate property (SP) includes property owned before marriage, property acquired by gift or inheritance, its rents, issues and profits, and earnings after the date of separation (§§ 770, 771). Character is fixed by the source of funds and the time of acquisition, then tested against presumptions and any acts of the spouses, such as a transmutation, that changed it. The date of separation is the date a complete and final break in the marital relationship occurred, shown by one spouse's expression to the other of the intent to end the marriage and conduct consistent with that intent (§ 70). Here, Paolo told Ingrid on March 1, 2025 that he wanted a divorce and moved out that day, so the date of separation is March 1, 2025. At dissolution the court divides the community estate equally (§ 2550).
 
 ### 1. The condominium
 
@@ -115,7 +115,7 @@ Paolo may argue that the community's payments were simply the cost of housing, l
 
 Paolo will argue that the account also held $12,000 of community funds, so at least part of the $50,000 could have been community, and that Ingrid's labels are self-serving. However, *Mix* accepts contemporaneous records showing availability and intent, and the memo was written when Ingrid had no reason to anticipate a divorce. **Direct tracing likely succeeds for the full $50,000.**
 
-**Exhaustion (See), the alternative.** Under exhaustion, a purchase is SP if all community funds had been exhausted by family expenses when it was made. Community funds ($12,000) were not exhausted on June 20, so exhaustion alone would prove at most $38,000 of the purchase was SP. If the court rejected direct tracing, it would treat the account as 76% SP ($38,000/$50,000) and 24% CP.
+**Exhaustion (See), the alternative.** Under exhaustion, a purchase is SP if all community funds had been exhausted by family expenses when it was made. Community funds ($12,000) were not exhausted on June 20, so exhaustion cannot prove that the whole purchase was SP. If the court rejected direct tracing, Ingrid would argue that at least $38,000 of the $50,000 must have come from SP, because only $12,000 of community funds was in the account; a court accepting that argument would treat the account as about 76% SP ($38,000/$50,000) and 24% CP.
 
 **The rest of the inheritance.** The other $30,000 was spent on household expenses and a family trip. A spouse who uses SP for family expenses is presumed to have made a gift to the community and is not reimbursed (See). Ingrid has no claim for it.
 
@@ -141,7 +141,7 @@ Paolo will argue that the account also held $12,000 of community funds, so at le
 
 *Allocation at dissolution.* Debts incurred during marriage and before separation are generally divided equally with the community estate (§§ 2620–2622). Under § 2625, however, a debt incurred during marriage that was not incurred for the community's benefit is confirmed to the incurring spouse without offset. Ingrid will argue the loan funded Paolo's hobby, taken out without telling her. Paolo will respond that the furniture business was meant to make money for the family, and that its $3,000 of earnings went into the joint account. Because the venture was income-producing and its profits benefited the community, the loan was likely incurred for community benefit.
 
-*Conclusion.* The $32,000 balance is likely a community debt divided equally, netted against the $10,000 of equipment, which is a community asset. If the court accepted Ingrid's "hobby" characterization, it would confirm the debt to Paolo under § 2625.
+*Conclusion.* The $32,000 balance is likely a community debt divided equally, netted against the $10,000 of equipment, which is a community asset (bought on credit during marriage, with nothing showing the bank relied on Paolo's SP). If the court accepted Ingrid's "hobby" characterization, it would confirm the debt to Paolo under § 2625.
 
 **b. The $8,000 credit-card debt**
 
@@ -167,10 +167,10 @@ Paolo will argue that the account also held $12,000 of community funds, so at le
 | Framework | 5 | § 760 presumption; § 770 SP; DOS fixed at March 1, 2025 under § 70 (expressed intent + conduct); equal division § 2550 | R-CMP-001, R-CMP-002, R-CMP-070, R-CMP-075 |
 | Condo: character and oral transmutation | 8 | SP at inception; § 852(a) writing + express declaration; Benson: no part-performance/estoppel exception despite Ingrid's reliance | R-CMP-002, R-CMP-022 |
 | Condo: Moore/Marsden | 17 | Correct formula; only principal counts; premarital appreciation to SP; numbers: 23.33%, $300,000, CP $140,000, Ingrid $70,000; offset | R-CMP-037, R-CMP-038, R-CMP-040 |
-| Cabin | 15 | § 2581 presumption and how it is rebutted; § 2640 tracing, no interest, net-value cap; written waiver required, oral "Fine" fails; division $140,000 / $110,000 | R-CMP-042 |
+| Cabin | 15 | § 2581 presumption and how it is rebutted; § 2640 tracing, no interest, net-value cap; written waiver required, oral "Fine" fails; division $140,000 / $110,000 | R-CMP-013, R-CMP-042, R-CMP-044 |
 | Brokerage account | 20 | Inheritance SP; § 760 presumption for the purchase; See/Mix commingling; direct tracing (availability + intent) with the $12,000 computation; exhaustion as alternative; no total recapitulation; family-expense presumption for the $30,000; passive growth stays SP | R-CMP-009, R-CMP-028 to R-CMP-032, R-CMP-041 |
 | SUV | 15 | CP funds; Valli (title not controlling between spouses); MacDonald express-declaration test applied to the card's words, both sides; § 852(c) elements and why a $45,000 vehicle fails | R-CMP-011, R-CMP-012, R-CMP-023, R-CMP-024 |
-| Mesa Bank loan | 12 | § 910 community estate liable regardless of signature; § 913 Paolo's SP liable, Ingrid's not (not necessaries); allocation §§ 2620–2622 vs. § 2625 community benefit, argued both ways | R-CMP-084, R-CMP-086, R-CMP-089 |
+| Mesa Bank loan | 12 | § 910 community estate liable regardless of signature; § 913 Paolo's SP liable, Ingrid's not (not necessaries); allocation §§ 2620–2622 vs. § 2625 community benefit, argued both ways | R-CMP-058, R-CMP-084, R-CMP-086, R-CMP-089 |
 | Credit-card debt | 8 | § 910(b) post-separation exclusion; § 2623 confirmation vs. common necessaries; § 914 possible personal liability of Ingrid | R-CMP-084, R-CMP-087, R-CMP-089 |
 
 **Scoring on the 40–100 scale** (`00-exam-intel/grader-expectations.md` §4).

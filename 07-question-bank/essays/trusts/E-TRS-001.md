@@ -3,21 +3,21 @@ id: E-TRS-001
 type: single
 subjects: [TRS]
 coverage_ids: [TRS-CBX-I, TRS-CBX-I.x, TRS-CBX-I.J, TRS-SUP-001, TRS-CBX-V, TRS-CBX-VII, TRS-CBX-VIII, TRS-CBX-IX, TRS-CBX-XII]
-rule_ids: [R-TRS-001, R-TRS-002, R-TRS-008, R-TRS-011, R-TRS-012, R-TRS-014, R-TRS-050, R-TRS-051, R-TRS-052, R-TRS-053, R-TRS-057, R-TRS-058, R-TRS-060, R-TRS-062, R-TRS-063, R-TRS-065, R-TRS-072, R-TRS-073, R-TRS-078, R-TRS-079, R-TRS-080, R-TRS-081, R-TRS-084, R-TRS-095]
+rule_ids: [R-TRS-001, R-TRS-002, R-TRS-003, R-TRS-008, R-TRS-011, R-TRS-012, R-TRS-014, R-TRS-050, R-TRS-051, R-TRS-052, R-TRS-053, R-TRS-056, R-TRS-057, R-TRS-058, R-TRS-060, R-TRS-062, R-TRS-063, R-TRS-065, R-TRS-072, R-TRS-073, R-TRS-078, R-TRS-079, R-TRS-080, R-TRS-081, R-TRS-082, R-TRS-084, R-TRS-086, R-TRS-095]
 calls:
   - "1. Is Helen's 2021 amendment valid?"
   - "2. What duties, if any, has Kevin breached as trustee?"
   - "3. What remedies does Grace have?"
 issues:
   - {issue: "Valid trust; no merger; revocable under California default (15400) vs. traditional rule", points: 8, call: 1, major: false, rule_ids: [R-TRS-001, R-TRS-002, R-TRS-008, R-TRS-011], coverage_ids: [TRS-CBX-I.x, TRS-SUP-001]}
-  - {issue: "Amendment: instrument method not explicitly exclusive; statutory method (signed writing delivered to trustee); Haggerty v. Thornton", points: 22, call: 1, major: true, rule_ids: [R-TRS-012, R-TRS-014], coverage_ids: [TRS-CBX-I.J, TRS-SUP-001]}
+  - {issue: "Amendment: instrument method not explicitly exclusive; statutory method (signed writing delivered to trustee); Haggerty v. Thornton", points: 22, call: 1, major: true, rule_ids: [R-TRS-003, R-TRS-012, R-TRS-014], coverage_ids: [TRS-CBX-I.J, TRS-SUP-001]}
   - {issue: "To whom duties run before and after the settlor's death", points: 3, call: 2, major: false, rule_ids: [R-TRS-065], coverage_ids: [TRS-CBX-V]}
   - {issue: "Duty of loyalty: purchase of the duplex (self-dealing; fair price no defense)", points: 15, call: 2, major: true, rule_ids: [R-TRS-052, R-TRS-053], coverage_ids: [TRS-CBX-V]}
   - {issue: "Prudent investor rule and duty to diversify (NovaGene)", points: 15, call: 2, major: true, rule_ids: [R-TRS-051, R-TRS-057, R-TRS-058], coverage_ids: [TRS-CBX-V]}
   - {issue: "Duty to earmark; commingling of rents", points: 5, call: 2, major: false, rule_ids: [R-TRS-060], coverage_ids: [TRS-CBX-V]}
   - {issue: "Duty to inform, report and account", points: 5, call: 2, major: false, rule_ids: [R-TRS-062, R-TRS-063], coverage_ids: [TRS-CBX-V, TRS-CBX-VII]}
-  - {issue: "Duty to administer according to the trust terms (lake house)", points: 5, call: 2, major: false, rule_ids: [R-TRS-050], coverage_ids: [TRS-CBX-V]}
-  - {issue: "Remedies: profit vs. rescission and the good-faith purchaser; surcharge; tracing; removal; petitions; exculpatory clause", points: 22, call: 3, major: true, rule_ids: [R-TRS-072, R-TRS-073, R-TRS-078, R-TRS-079, R-TRS-080, R-TRS-081, R-TRS-084, R-TRS-095], coverage_ids: [TRS-CBX-VIII, TRS-CBX-IX, TRS-CBX-XII]}
+  - {issue: "Duty to administer according to the trust terms (lake house)", points: 5, call: 2, major: false, rule_ids: [R-TRS-050, R-TRS-056], coverage_ids: [TRS-CBX-V]}
+  - {issue: "Remedies: profit vs. rescission and the good-faith purchaser; surcharge; tracing; removal; petitions; exculpatory clause", points: 22, call: 3, major: true, rule_ids: [R-TRS-072, R-TRS-073, R-TRS-078, R-TRS-079, R-TRS-080, R-TRS-081, R-TRS-082, R-TRS-084, R-TRS-086, R-TRS-095], coverage_ids: [TRS-CBX-VIII, TRS-CBX-IX, TRS-CBX-XII]}
 time_minutes: 60
 source: original
 status: draft
@@ -92,7 +92,7 @@ California's Probate Code governs. Where California departs from the general rul
 
 *Kevin's arguments.* Kevin will argue that Helen chose notarization to guard against fraud and hasty changes, so requiring it respects her intent, and that before 2024 some California courts required strict compliance with a trust's own amendment method. However, *Haggerty* rejected that line of cases: a settlor who wants to forbid other methods must say so explicitly, and Helen did not. Kevin's private belief that the amendment "didn't count" is legally irrelevant; as trustee he received it, and receipt is what the statute requires.
 
-*Capacity.* A settlor must have capacity when amending a trust. Kevin might point to Helen's stroke. But her doctors described her as "mentally sharp," and the amendment is a simple one-sentence gift of a single asset she plainly understood. Capacity is not seriously in doubt.
+*Capacity.* A settlor must have capacity when amending a trust; for a simple, will-like amendment courts apply the testamentary-capacity test of § 6100.5 rather than the decision-specific test of §§ 810–812. Kevin might point to Helen's stroke. But her doctors described her as "mentally sharp," and the amendment is a simple one-sentence gift of a single asset she plainly understood. Capacity is not seriously in doubt.
 
 **Conclusion.** The 2021 amendment is **valid**. Grace takes the lake house outright and half of the rest of the trust estate.
 
@@ -121,7 +121,7 @@ Kevin bought trust property for himself. He will argue that he paid the full app
 
 A beneficiary may petition the court about the trust's internal affairs (§ 17200) and, for a breach or threatened breach, may compel performance, enjoin the breach, compel redress, remove the trustee, reduce or deny compensation, set aside the trustee's acts, or impose a constructive trust or equitable lien on property traceable to the breach (§ 16420).
 
-**A. The duplex: rescission or profit.** When a trustee self-deals, the beneficiaries may either set the transaction aside or affirm it and hold the trustee liable for his profit. A third person who acts in good faith and for value, without actual knowledge that the trustee is acting improperly, is protected (§ 18100). The December 2024 buyer was unrelated and paid $950,000; nothing suggests it knew of the breach. Rescission against that buyer is therefore unavailable. Instead, Grace should hold Kevin liable for **the profit he made through the breach, $150,000, with interest** (§ 16440(a)(2)). She may also seek a constructive trust on the sale proceeds Kevin still holds. The recovery goes back into the trust and is divided under its terms.
+**A. The duplex: rescission or profit.** When a trustee self-deals, the beneficiaries may either set the transaction aside or affirm it and hold the trustee liable for his profit. Trust property can be recovered from a transferee until it reaches a bona fide purchaser for value without notice of the breach. (A third person who deals with the trustee in good faith and for value is protected unless it has actual knowledge of the impropriety (§ 18100), but the December 2024 buyer dealt only with Kevin individually.) The buyer was unrelated and paid $950,000. Grace could argue that the recorded deed from Kevin as trustee to Kevin individually put it on inquiry notice of self-dealing; the buyer will answer that a trustee's purchase can be authorized by consent or court order, so the deed alone did not reveal a breach. Nothing suggests the buyer knew of the breach, so rescission against it is unlikely. Instead, Grace should hold Kevin liable for **the profit he made through the breach, $150,000, with interest** (§ 16440(a)(2)). She may also seek a constructive trust on the sale proceeds Kevin still holds. The recovery goes back into the trust and is divided under its terms.
 
 **B. The NovaGene loss: surcharge.** A trustee is chargeable with any loss or depreciation in value of the trust estate resulting from the breach, with interest, or with any profit that would have accrued but for the breach (§ 16440(a)(1), (3)). Kevin is liable for the **$720,000 loss with interest**. Grace could alternatively seek the amount by which the diversified portfolio would have grown, if that is larger.
 
@@ -147,14 +147,14 @@ A court may also excuse a trustee who acted reasonably and in good faith (§ 164
 | Issue | Points | Full credit requires | Rule IDs |
 |---|---|---|---|
 | Validity and revocability | 8 | Elements of a trust; no merger (remainder beneficiaries); § 15400 default stated and contrasted with the traditional rule | R-TRS-001, R-TRS-002, R-TRS-008, R-TRS-011 |
-| Amendment | 22 | § 15402 + § 15401(a) two methods; "may" is not explicitly exclusive; statutory elements (signed, not a will, delivered to trustee during life) applied; *Haggerty* named, with the disapproved strict-compliance view as Kevin's argument; capacity disposed of; conclusion | R-TRS-012, R-TRS-014 |
+| Amendment | 22 | § 15402 + § 15401(a) two methods; "may" is not explicitly exclusive; statutory elements (signed, not a will, delivered to trustee during life) applied; *Haggerty* named, with the disapproved strict-compliance view as Kevin's argument; capacity disposed of; conclusion | R-TRS-003, R-TRS-012, R-TRS-014 |
 | Duties run to whom | 3 | Settlor while revocable (§ 15800); beneficiaries after death | R-TRS-065 |
 | Self-dealing | 15 | §§ 16002, 16004(a); no-further-inquiry; fair price no defense; no authorization, consent or court approval; resale profit noted | R-TRS-052, R-TRS-053 |
 | Prudence and diversification | 15 | § 16047 portfolio standard; § 16048 diversification; § 16051 no hindsight, argued for Kevin and rejected on the facts known in June 2024 | R-TRS-051, R-TRS-057, R-TRS-058 |
 | Commingling | 5 | § 16009; breach even without loss | R-TRS-060 |
 | Inform and account | 5 | §§ 16060–16062; owed after death; refusal of written requests | R-TRS-062, R-TRS-063 |
-| Trust terms | 5 | § 16000 (and impartiality); planned equal split of the lake house is a threatened breach | R-TRS-050 |
-| Remedies | 22 | Election rescind vs. profit; § 18100 protects the good-faith buyer, so profit plus interest; surcharge § 16440(a); tracing; § 17200 petitions; removal § 15642; § 16461 limits on the exculpatory clause applied breach by breach; timeliness | R-TRS-072, R-TRS-073, R-TRS-078 to R-TRS-081, R-TRS-084, R-TRS-095 |
+| Trust terms | 5 | § 16000 (and impartiality); planned equal split of the lake house is a threatened breach | R-TRS-050, R-TRS-056 |
+| Remedies | 22 | Election rescind vs. profit; the later buyer is likely a bona fide purchaser (§ 18100 contrasted), so profit plus interest; surcharge § 16440(a); tracing; § 17200 petitions; removal § 15642; § 16461 limits on the exculpatory clause applied breach by breach; timeliness | R-TRS-072, R-TRS-073, R-TRS-078 to R-TRS-082, R-TRS-084, R-TRS-086, R-TRS-095 |
 
 **Scoring on the 40–100 scale** (`00-exam-intel/grader-expectations.md` §4).
 - **75+:** *Haggerty* analysis is precise (instrument method → exclusivity → statutory method → conclusion); each breach has its own heading with the trustee's best argument; remedies are matched to each breach, including the good-faith purchaser problem and the exculpatory clause's statutory limits.

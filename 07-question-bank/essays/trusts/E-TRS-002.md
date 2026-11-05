@@ -3,7 +3,7 @@ id: E-TRS-002
 type: single
 subjects: [TRS]
 coverage_ids: [TRS-CBX-I.x, TRS-CBX-III, TRS-CBX-IV, TRS-CBX-V, TRS-CBX-VI, TRS-CBX-VII, TRS-CBX-VIII]
-rule_ids: [R-TRS-001, R-TRS-004, R-TRS-039, R-TRS-041, R-TRS-042, R-TRS-043, R-TRS-046, R-TRS-047, R-TRS-048, R-TRS-049, R-TRS-052, R-TRS-056, R-TRS-057, R-TRS-068, R-TRS-069, R-TRS-071, R-TRS-072, R-TRS-078]
+rule_ids: [R-TRS-001, R-TRS-004, R-TRS-039, R-TRS-041, R-TRS-042, R-TRS-043, R-TRS-046, R-TRS-047, R-TRS-048, R-TRS-049, R-TRS-052, R-TRS-056, R-TRS-057, R-TRS-068, R-TRS-069, R-TRS-071, R-TRS-072, R-TRS-073, R-TRS-078, R-TRS-081]
 calls:
   - "1. Did Walter create a trust for Andre's benefit when he gave Lina $100,000?"
   - "2. Can Bianca, Pacific Card Services and Valley Motors reach Andre's interest in the Okafor Family Trust?"
@@ -18,7 +18,7 @@ issues:
   - {issue: "Delta Supply: self-settled trust; creditors reach the maximum the trustee could pay the settlor (15304)", points: 15, call: 3, major: true, rule_ids: [R-TRS-047], coverage_ids: [TRS-CBX-IV]}
   - {issue: "Abuse of discretion in refusing principal for surgery ('sole and absolute' discretion; HEMS standard)", points: 15, call: 4, major: true, rule_ids: [R-TRS-068, R-TRS-069], coverage_ids: [TRS-CBX-VI]}
   - {issue: "Duty of impartiality and prudent investing (zero-coupon bonds)", points: 10, call: 4, major: true, rule_ids: [R-TRS-056, R-TRS-057], coverage_ids: [TRS-CBX-V]}
-  - {issue: "Andre's remedies (petition, compel distribution, surcharge, removal)", points: 4, call: 4, major: false, rule_ids: [R-TRS-071, R-TRS-072, R-TRS-078], coverage_ids: [TRS-CBX-VII, TRS-CBX-VIII]}
+  - {issue: "Andre's remedies (petition, compel distribution, surcharge, removal)", points: 4, call: 4, major: false, rule_ids: [R-TRS-071, R-TRS-072, R-TRS-073, R-TRS-078, R-TRS-081], coverage_ids: [TRS-CBX-VII, TRS-CBX-VIII]}
 time_minutes: 60
 source: original
 status: draft
@@ -104,13 +104,13 @@ Indefinite words, an indefinite amount and a gift-like transfer all point the sa
 
 ### 3. Delta Supply and Walter's interest
 
-**Self-settled trust rule.** If the settlor is also a beneficiary, a restraint on transfer of the settlor's interest is invalid against the settlor's creditors. If the trustee has discretion to pay income or principal to or for the settlor, the settlor's creditors may reach **the maximum amount the trustee could pay** to or for the settlor under the trust's terms (§ 15304). The general rule is the same: a settlor cannot shield assets from his own creditors in a trust for his own benefit.
+**Self-settled trust rule.** If the settlor is also a beneficiary, a restraint on transfer of the settlor's interest is invalid against the settlor's creditors. If the trustee has discretion to pay income or principal to or for the settlor, the settlor's creditors may reach **the maximum amount the trustee could pay** to or for the settlor under the trust's terms, not exceeding the settlor's proportionate contribution to the trust (§ 15304). The general rule is the same: a settlor cannot shield assets from his own creditors in a trust for his own benefit.
 
 **Application.** Walter is the settlor, and Article 4 makes him a discretionary beneficiary of principal ("may also distribute principal to me, Walter, if the trustee determines that I need it").
 - *First Coast's argument.* The trust is irrevocable; Walter is only a contingent, discretionary beneficiary; his right depends on First Coast's finding of "need"; and paying his creditors would defeat Andre's income interest and the grandchildren's remainder, which Walter gave away in good faith in 2019, years before his business failed.
 - *Delta's argument.* The statute looks to what the trustee *could* pay, not what it is likely to pay. Under Article 4, First Coast could distribute any amount of principal, up to all of it, to Walter. The spendthrift clause is ineffective as to him.
 
-The statute favors Delta. Because First Coast could pay Walter the entire principal, **Delta can likely reach trust principal up to its $500,000 judgment.** (If Delta could also show that the 2019 transfer was made to hinder creditors or left Walter insolvent, it might attack the transfer itself as fraudulent; the facts suggest neither, so the self-settled rule is Delta's route.) Because the trust is irrevocable, the rule for settlors' creditors reaching *revocable* trusts (§ 18200) does not apply.
+The statute favors Delta. First Coast could pay Walter the entire principal, and Walter contributed all of it, so the contribution cap does not limit Delta. **Delta can likely reach trust principal up to its $500,000 judgment.** (If Delta could also show that the 2019 transfer was made to hinder creditors or left Walter insolvent, it might attack the transfer itself as fraudulent; the facts suggest neither, so the self-settled rule is Delta's route.) Because the trust is irrevocable, the rule for settlors' creditors reaching *revocable* trusts (§ 18200) does not apply.
 
 ### 4. First Coast's duties to Andre
 
@@ -137,10 +137,10 @@ The refusal rested on a consideration that contradicts the trust's stated standa
 | Valley Motors | 8 | Voluntary assignment barred; funds reachable once received; contract claim against Andre | R-TRS-041, R-TRS-042 |
 | Bianca | 14 | § 15305 child-support exception; income payable vs. discretionary principal only when the trustee decides to pay; equitable allocation; effect of the income collapse | R-TRS-043 |
 | Pacific Card | 14 | General rule (no recovery) stated; California § 15306.5 up to 25% after support needs; § 15307 counted within the same 25% cap (*Carmack*); § 15303 cannot compel discretionary principal; applied to the numbers | R-TRS-046, R-TRS-048 |
-| Delta Supply | 15 | § 15304 self-settled rule; "maximum amount the trustee could pay"; First Coast's arguments rejected; conclusion; § 18200 inapplicable (irrevocable) | R-TRS-047 |
+| Delta Supply | 15 | § 15304 self-settled rule; "maximum amount the trustee could pay," capped at the settlor's proportionate contribution; First Coast's arguments rejected; conclusion; § 18200 inapplicable (irrevocable) | R-TRS-047 |
 | Abuse of discretion | 15 | § 16080 reasonableness and good faith; § 16081 "sole and absolute" limits; HEMS standard applied to surgery; letter shows wrong consideration; conclusion | R-TRS-068, R-TRS-069 |
 | Impartiality and prudence | 10 | § 16003 income vs. remainder balance; § 16047 distribution requirements; zero-coupon bonds as favoring remaindermen | R-TRS-056, R-TRS-057 |
-| Remedies | 4 | § 17200 petition; compel distribution; rebalance; surcharge lost income; removal | R-TRS-071, R-TRS-072, R-TRS-078 |
+| Remedies | 4 | § 17200 petition; compel distribution; rebalance; surcharge lost income; removal | R-TRS-071, R-TRS-072, R-TRS-073, R-TRS-078, R-TRS-081 |
 
 **Scoring on the 40–100 scale** (`00-exam-intel/grader-expectations.md` §4).
 - **75+:** each creditor analyzed separately with the right exception; the general rule and California's 25% and excess-over-support rules both stated for Pacific; the self-settled rule applied to Walter as a discretionary beneficiary; the trustee's letter used as evidence of abuse of discretion and partiality.

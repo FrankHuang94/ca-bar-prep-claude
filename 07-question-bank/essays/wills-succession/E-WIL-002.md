@@ -3,7 +3,7 @@ id: E-WIL-002
 type: single
 subjects: [WIL]
 coverage_ids: [WIL-CBX-VII, WIL-CBX-VIII, WIL-CBX-stat-9, WIL-CBX-II.B, WIL-CBX-II.C, WIL-CBX-stat-2, WIL-SUP-001, WIL-SUP-002, WIL-SUP-003, WIL-SUP-007, WIL-CBX-interp.x]
-rule_ids: [R-WIL-016, R-WIL-018, R-WIL-047, R-WIL-068, R-WIL-069, R-WIL-070, R-WIL-075, R-WIL-086, R-WIL-087, R-WIL-088, R-WIL-090, R-WIL-091, R-WIL-099, R-WIL-104]
+rule_ids: [R-WIL-004, R-WIL-016, R-WIL-018, R-WIL-047, R-WIL-068, R-WIL-069, R-WIL-070, R-WIL-075, R-WIL-086, R-WIL-087, R-WIL-088, R-WIL-090, R-WIL-091, R-WIL-099, R-WIL-104]
 calls:
   - "1. What rights, if any, does Nina have in Rafael's estate?"
   - "2. What rights, if any, does Leo have in Rafael's estate?"
@@ -11,7 +11,7 @@ calls:
 issues:
   - {issue: "Validity of the 2015 will; classification of the gifts", points: 4, call: 3, major: false, rule_ids: [R-WIL-047, R-WIL-068], coverage_ids: [WIL-SUP-001]}
   - {issue: "Nina: omitted spouse (married after all instruments; not provided for)", points: 6, call: 1, major: true, rule_ids: [R-WIL-086], coverage_ids: [WIL-CBX-VII, WIL-CBX-stat-9]}
-  - {issue: "Nina: exceptions - transfer in lieu (life insurance + statements); no waiver; no intent on face", points: 13, call: 1, major: true, rule_ids: [R-WIL-087], coverage_ids: [WIL-CBX-VII]}
+  - {issue: "Nina: exceptions - transfer in lieu (life insurance + statements); no waiver; no intent on face; not a care custodian", points: 13, call: 1, major: true, rule_ids: [R-WIL-004, R-WIL-087], coverage_ids: [WIL-CBX-VII]}
   - {issue: "Nina: share if the claim succeeded (intestate share of SP capped at one-half); life insurance passes outside the estate", points: 9, call: 1, major: false, rule_ids: [R-WIL-016, R-WIL-086, R-WIL-099, R-WIL-104], coverage_ids: [WIL-CBX-II.B, WIL-SUP-007]}
   - {issue: "Leo: omitted child - born after, not provided for, exceptions (other parent; transfer in lieu)", points: 13, call: 2, major: true, rule_ids: [R-WIL-090, R-WIL-091], coverage_ids: [WIL-CBX-VIII, WIL-CBX-stat-9]}
   - {issue: "Leo: intestate share computation (spouse 1/3, children share 2/3)", points: 9, call: 2, major: true, rule_ids: [R-WIL-016, R-WIL-018, R-WIL-090], coverage_ids: [WIL-CBX-II.B, WIL-CBX-II.C, WIL-CBX-stat-2]}
@@ -80,12 +80,13 @@ Answer according to California law.
 
 **A. Is Nina an omitted spouse?** A surviving spouse who married the decedent **after** the execution of all of the decedent's testamentary instruments, and who is **not provided for** in them, takes an omitted spouse's share unless an exception applies (§ 21610). Rafael's only testamentary instrument is the 2015 will; he married Nina in 2021 and never made a new will or codicil. The will makes no provision for Nina. She qualifies unless an exception applies.
 
-**B. Exceptions.** The omitted spouse takes nothing if (1) the failure to provide was intentional and that intent appears in the testamentary instruments; (2) the decedent provided for the spouse by transfer outside the will, with the intent that the transfer be **in lieu of** a testamentary provision, as shown by the decedent's statements, the amount of the transfer, or other evidence; or (3) the spouse validly waived the right to share in the estate (§ 21611).
+**B. Exceptions.** The omitted spouse takes nothing if (1) the failure to provide was intentional and that intent appears in the testamentary instruments; (2) the decedent provided for the spouse by transfer outside the will, with the intent that the transfer be **in lieu of** a testamentary provision, as shown by the decedent's statements, the amount of the transfer, or other evidence; (3) the spouse validly waived the right to share in the estate; or (4) since AB 328 (2019), the spouse was the decedent's care custodian, where the decedent was a dependent adult who died within six months of the marriage, unless the spouse proves by clear and convincing evidence that the marriage was not the product of fraud or undue influence (§ 21611).
 1. *Intent on the face of the will.* The 2015 will was written six years before the marriage and does not mention Nina or any future spouse. This exception does not apply.
 2. *Waiver.* Nina signed no waiver, so this exception does not apply.
-3. *Transfer in lieu.* This is the real dispute.
+3. *Care custodian.* Nothing suggests that Nina was Rafael's care custodian or that he was a dependent adult, and he died about five years after the marriage. This exception does not apply.
+4. *Transfer in lieu.* This is the real dispute.
    - *Sofia's argument.* In 2022, a year after the marriage, Rafael bought a $200,000 life insurance policy naming Nina. He then explained his reason: "I'm not changing my will. Nina's taken care of with the insurance, and the house stays with Sofia." That statement ties the insurance to his decision not to provide for Nina in the will, which is precisely what "in lieu of a testamentary provision" means. The amount is substantial: about a quarter of his probate estate.
-   - *Nina's argument.* Life insurance is ordinary financial planning for a new family, especially with a child on the way; "taken care of" is casual dinner conversation, not a deliberate estate plan; and a policy is not evidence that Rafael meant to cut her out of the probate estate.
+   - *Nina's argument.* Life insurance is ordinary financial planning for a new family, especially for a newly married man; "taken care of" is casual dinner conversation, not a deliberate estate plan; and a policy is not evidence that Rafael meant to cut her out of the probate estate.
    - *Likely result.* § 21611 expressly allows the court to rely on the decedent's statements and the amount of the transfer. Rafael's statement links the insurance directly to leaving his will unchanged, and the amount is significant. **The in-lieu exception likely applies, and Nina takes no omitted-spouse share.**
 
 **C. Nina's share if her claim succeeded.** An omitted spouse receives the decedent's one-half of the CP and QCP and a share of the SP equal to the spouse's intestate share, **but not more than one-half** of the SP (§ 21610). Here all the property is SP. In intestacy, a spouse takes one-third of the SP when the decedent leaves more than one child (§ 6401(c)). Rafael left two children, Sofia and Leo, so Nina's share would be one-third of the net estate: $780,000 ÷ 3 = **$260,000**. That is under the one-half cap.
@@ -160,7 +161,7 @@ If the court rejected the in-lieu exception, Nina would also take $260,000 as an
 |---|---|---|---|
 | Will and classification | 4 | Valid attested will; each gift classified | R-WIL-047, R-WIL-068 |
 | Nina: requirements | 6 | Married after all instruments; not provided for | R-WIL-086 |
-| Nina: exceptions | 13 | All three § 21611 exceptions; in-lieu argued both ways using the statement and the amount; conclusion | R-WIL-087 |
+| Nina: exceptions | 13 | All four § 21611 exceptions (the care-custodian exception disposed of briefly); in-lieu argued both ways using the statement and the amount; conclusion | R-WIL-004, R-WIL-087 |
 | Nina: share and insurance | 9 | Intestate share of SP (one-third with two children), capped at one-half, = $260,000; insurance is nonprobate (§ 5000) and stays with Nina | R-WIL-016, R-WIL-086, R-WIL-099, R-WIL-104 |
 | Leo: requirements and exceptions | 13 | Born after; not provided for; all three § 21621 exceptions applied (no intent on face; "substantially all to other parent" fails; the custodial account is not in lieu) | R-WIL-090, R-WIL-091 |
 | Leo: share | 9 | Hypothetical intestacy: spouse one-third, children split two-thirds; net estate $780,000; Leo $260,000 | R-WIL-016, R-WIL-018, R-WIL-090 |
