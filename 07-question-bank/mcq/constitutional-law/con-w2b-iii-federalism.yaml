@@ -49,7 +49,7 @@ questions:
 
 - id: Q-CON-0118
   subject: CON
-  coverage_ids: [CON-MBE-III.A.2]
+  coverage_ids: [CON-MBE-III.A.2, CON-MBE-II.A.1]
   rule_ids: [R-CON-046, R-CON-045, R-CON-021]
   difficulty: 2
   stem: >-

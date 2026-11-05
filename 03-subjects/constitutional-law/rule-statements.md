@@ -157,7 +157,7 @@ status: draft
 
 **Exceptions / defenses:** Overbreadth challenges in free-speech cases are a recognized exception (R-CON-108). Kowalski rejected standing for lawyers asserting rights of hypothetical future clients.
 
-**Authority:** *Craig v. Boren*, 429 U.S. 190 (1976); *Singleton v. Wulff*, 428 U.S. 106 (1976); *Powers v. Ohio*, 499 U.S. 400 (1991); *Kowalski v. Tesmer*, 543 U.S. 125 (2004).
+**Authority:** *Craig v. Boren*, 429 U.S. 190 (1976); *Singleton v. Wulff*, 428 U.S. 106 (1976) (third-party-standing analysis, Part II-B, plurality); *Powers v. Ohio*, 499 U.S. 400 (1991); *Kowalski v. Tesmer*, 543 U.S. 125 (2004).
 
 **MBE vs. CA essay:** same rule.
 
@@ -341,9 +341,9 @@ status: draft
 
 **Elements:** 1. Textual source (art. I, § 8, cls. 11–16). 2. Rational relation to national defense; heavy deference.
 
-**Exceptions / defenses:** Courts-martial of civilian dependents abroad in peacetime are invalid (Reid v. Covert). The Bill of Rights still applies.
+**Exceptions / defenses:** Civilian dependents of service members may not be tried by court-martial abroad in peacetime (Reid v. Covert (plurality; the concurring Justices limited the result to capital cases); extended to noncapital cases by Kinsella v. Singleton, 361 U.S. 234 (1960)). The Bill of Rights still applies.
 
-**Authority:** U.S. Const. art. I, § 8, cls. 11–16; *Woods v. Cloyd W. Miller Co.*, 333 U.S. 138 (1948); *Ex parte Milligan*, 71 U.S. (4 Wall.) 2 (1866); *Reid v. Covert*, 354 U.S. 1 (1957); *Solorio v. United States*, 483 U.S. 435 (1987); *Selective Draft Law Cases*, 245 U.S. 366 (1918).
+**Authority:** U.S. Const. art. I, § 8, cls. 11–16; *Woods v. Cloyd W. Miller Co.*, 333 U.S. 138 (1948); *Ex parte Milligan*, 71 U.S. (4 Wall.) 2 (1866); *Reid v. Covert*, 354 U.S. 1 (1957) (plurality); *Solorio v. United States*, 483 U.S. 435 (1987); *Selective Draft Law Cases*, 245 U.S. 366 (1918).
 
 **MBE vs. CA essay:** same rule.
 
@@ -356,7 +356,7 @@ status: draft
 
 **Exceptions / defenses:** Federal alienage classifications get only rational-basis review because of the immigration power (Mathews v. Diaz).
 
-**Authority:** U.S. Const. art. I, § 8, cls. 3, 4, 10, 18; *Missouri v. Holland*, 252 U.S. 416 (1920); *Bond v. United States*, 572 U.S. 844 (2014); *Reid v. Covert*, 354 U.S. 1 (1957); *Afroyim v. Rusk*, 387 U.S. 253 (1967); *Arizona v. United States*, 567 U.S. 387 (2012).
+**Authority:** U.S. Const. art. I, § 8, cls. 3, 4, 10, 18; *Missouri v. Holland*, 252 U.S. 416 (1920); *Bond v. United States*, 572 U.S. 844 (2014); *Reid v. Covert*, 354 U.S. 1 (1957) (plurality); *Afroyim v. Rusk*, 387 U.S. 253 (1967); *Arizona v. United States*, 567 U.S. 387 (2012).
 
 **MBE vs. CA essay:** same rule.
 
@@ -430,7 +430,7 @@ status: draft
 ### R-CON-032 — Chief executive and Take Care: enforcement, spending and statutory authority
 **Rule (write this):** The President must take care that the laws be faithfully executed, which includes enforcement discretion and supervision of executive officers, but the President may not make law, refuse to spend funds that a statute requires to be spent, or claim sweeping power from a statute unless Congress has clearly authorized it.
 
-**Elements:** 1. Executive orders valid only if grounded in the Constitution or a statute. 2. Impoundment of mandated appropriations not allowed (Train). 3. Major questions: for decisions of vast economic and political significance, an agency or the President needs clear congressional authorization (West Virginia v. EPA; Biden v. Nebraska [VERIFY V-200]). 4. Courts decide statutory meaning independently; no Chevron deference (Loper Bright [VERIFY V-035]).
+**Elements:** 1. Executive orders valid only if grounded in the Constitution or a statute. 2. Impoundment of mandated appropriations not allowed (Train, decided on statutory grounds). 3. Major questions: for decisions of vast economic and political significance, an agency or the President needs clear congressional authorization (West Virginia v. EPA; Biden v. Nebraska [VERIFY V-200]). 4. Courts decide statutory meaning independently; no Chevron deference (Loper Bright [VERIFY V-035]).
 
 **Exceptions / defenses:** IEEPA's power to "regulate ... importation" does not authorize tariffs (Learning Resources, Inc. v. Trump (2026) [VERIFY V-034] [S-302] [S-303]).
 
@@ -458,7 +458,7 @@ status: draft
 
 **Elements:** 1. Self-executing vs. non-self-executing (Medellín). 2. Executive agreements and foreign-policy preemption of state law (Belmont; Pink; Garamendi). 3. President has exclusive recognition power (Zivotofsky v. Kerry).
 
-**Exceptions / defenses:** A treaty or executive agreement cannot violate individual rights (Reid v. Covert). The President cannot convert a non-self-executing treaty into binding domestic law unilaterally (Medellín).
+**Exceptions / defenses:** A treaty or executive agreement cannot violate individual rights (Reid v. Covert, plurality opinion). The President cannot convert a non-self-executing treaty into binding domestic law unilaterally (Medellín).
 
 **Authority:** U.S. Const. art. II, § 2, cl. 2; art. VI, cl. 2; *Medellín v. Texas*, 552 U.S. 491 (2008); *United States v. Belmont*, 301 U.S. 324 (1937); *United States v. Pink*, 315 U.S. 203 (1942); *American Ins. Ass'n v. Garamendi*, 539 U.S. 396 (2003); *United States v. Curtiss-Wright Export Corp.*, 299 U.S. 304 (1936).
 
@@ -469,7 +469,7 @@ status: draft
 ### R-CON-035 — Appointments Clause
 **Rule (write this):** Principal officers must be appointed by the President with the advice and consent of the Senate; Congress may vest appointment of inferior officers in the President alone, the courts of law or the heads of departments. Congress may not appoint officers who exercise executive power.
 
-**Elements:** 1. Officer: continuing position exercising significant authority under federal law (Buckley; Lucia). 2. Inferior: directed and supervised by a Senate-confirmed principal officer (Edmond); final, unreviewable decisions are inconsistent with inferior status (Arthrex). 3. Recess appointments: only during a Senate recess of 10 days or more (Noel Canning).
+**Elements:** 1. Officer: continuing position exercising significant authority under federal law (Buckley; Lucia). 2. Inferior: directed and supervised by a Senate-confirmed principal officer (Edmond); final, unreviewable decisions are inconsistent with inferior status (Arthrex). 3. Recess appointments: the President may fill any vacancy that exists during a recess of the Senate, whether between sessions or within a session, but a recess of more than 3 and fewer than 10 days is presumptively too short (the presumption yields only to a very unusual circumstance, such as a national catastrophe, and not to political opposition), and a break of 3 days or fewer is too short in any event; the Senate is in session, including during pro forma sessions, when it says it is, provided that under its own rules it retains the capacity to transact Senate business (Noel Canning).
 
 **Exceptions / defenses:** Mere employees need not be appointed under the Clause. Interbranch appointment of inferior officers is allowed unless incongruous (Morrison).
 
@@ -657,11 +657,11 @@ status: draft
 ### R-CON-049 — Dormant Commerce Clause exceptions: market participant and government function
 **Rule (write this):** When a state acts as a market participant — buying, selling or subsidizing with its own funds — rather than as a regulator, it may favor in-state interests without violating the dormant Commerce Clause; laws favoring a state's own public entities performing traditional government functions are also treated as nondiscriminatory.
 
-**Elements:** 1. State's own proprietary activity (Reeves: state cement plant; Alexandria Scrap; White: city-funded construction). 2. No downstream regulation of markets the state is not in (Wunnicke). 3. Public-entity preference (United Haulers: public waste facility; Davis: state bonds) → Pike at most.
+**Elements:** 1. State's own proprietary activity (Reeves: state cement plant; Alexandria Scrap; White: city-funded construction). 2. No downstream regulation of markets the state is not in (Wunnicke, plurality on this point). 3. Public-entity preference (United Haulers: public waste facility; Davis: state bonds) → Pike at most.
 
 **Exceptions / defenses:** The market-participant exception does not apply to the Article IV Privileges and Immunities Clause (Camden). Tax credits and regulatory measures are regulation, not participation (New Energy).
 
-**Authority:** *Reeves, Inc. v. Stake*, 447 U.S. 429 (1980); *Hughes v. Alexandria Scrap Corp.*, 426 U.S. 794 (1976); *White v. Mass. Council of Constr. Employers*, 460 U.S. 204 (1983); *South-Central Timber Dev., Inc. v. Wunnicke*, 467 U.S. 82 (1984); *United Haulers Ass'n v. Oneida-Herkimer Solid Waste Mgmt. Auth.*, 550 U.S. 330 (2007); *Department of Revenue of Ky. v. Davis*, 553 U.S. 328 (2008); *New Energy Co. of Ind. v. Limbach*, 486 U.S. 269 (1988).
+**Authority:** *Reeves, Inc. v. Stake*, 447 U.S. 429 (1980); *Hughes v. Alexandria Scrap Corp.*, 426 U.S. 794 (1976); *White v. Mass. Council of Constr. Employers*, 460 U.S. 204 (1983); *South-Central Timber Dev., Inc. v. Wunnicke*, 467 U.S. 82 (1984) (Part II majority; Parts III–IV plurality); *United Haulers Ass'n v. Oneida-Herkimer Solid Waste Mgmt. Auth.*, 550 U.S. 330 (2007); *Department of Revenue of Ky. v. Davis*, 553 U.S. 328 (2008); *New Energy Co. of Ind. v. Limbach*, 486 U.S. 269 (1988).
 
 **MBE vs. CA essay:** same rule.
 
@@ -817,15 +817,15 @@ status: draft
 ### R-CON-061 — Fundamental rights: marriage, family, parental rights, contraception, intimate conduct
 **Rule (write this):** The Court has recognized as fundamental the rights to marry (including same-sex couples), to procreate, to use contraception, to live with one's extended family, to direct the upbringing and education of one's children, and to engage in private consensual intimate conduct; it has assumed a right to refuse unwanted medical treatment.
 
-**Elements:** Marriage (Loving; Zablocki; Obergefell); procreation (Skinner); contraception (Griswold; Eisenstadt); family living arrangements (Moore); parental rights (Meyer; Pierce; Troxel); intimate conduct (Lawrence); refusing treatment (Cruzan, assumed).
+**Elements:** Marriage (Loving; Zablocki; Obergefell); procreation (Skinner); contraception (Griswold; Eisenstadt); family living arrangements (Moore, plurality); parental rights (Meyer; Pierce; Troxel, plurality); intimate conduct (Lawrence); refusing treatment (Cruzan, assumed).
 
 **Exceptions / defenses:** Reasonable regulations that do not significantly interfere with marriage are valid. No fundamental right to assisted suicide (Glucksberg). Parental rights may yield to compelling child-protection interests.
 
-**Authority:** *Loving v. Virginia*, 388 U.S. 1 (1967); *Zablocki v. Redhail*, 434 U.S. 374 (1978); *Obergefell v. Hodges*, 576 U.S. 644 (2015); *Skinner v. Oklahoma*, 316 U.S. 535 (1942); *Griswold v. Connecticut*, 381 U.S. 479 (1965); *Moore v. City of East Cleveland*, 431 U.S. 494 (1977); *Meyer v. Nebraska*, 262 U.S. 390 (1923); *Pierce v. Society of Sisters*, 268 U.S. 510 (1925); *Troxel v. Granville*, 530 U.S. 57 (2000); *Lawrence v. Texas*, 539 U.S. 558 (2003); *Cruzan v. Director, Mo. Dep't of Health*, 497 U.S. 261 (1990).
+**Authority:** *Loving v. Virginia*, 388 U.S. 1 (1967); *Zablocki v. Redhail*, 434 U.S. 374 (1978); *Obergefell v. Hodges*, 576 U.S. 644 (2015); *Skinner v. Oklahoma*, 316 U.S. 535 (1942); *Griswold v. Connecticut*, 381 U.S. 479 (1965); *Moore v. City of East Cleveland*, 431 U.S. 494 (1977) (plurality); *Meyer v. Nebraska*, 262 U.S. 390 (1923); *Pierce v. Society of Sisters*, 268 U.S. 510 (1925); *Troxel v. Granville*, 530 U.S. 57 (2000) (plurality); *Lawrence v. Texas*, 539 U.S. 558 (2003); *Cruzan v. Director, Mo. Dep't of Health*, 497 U.S. 261 (1990).
 
 **MBE vs. CA essay:** same rule.
 
-**Example:** A zoning ordinance forbids a grandmother from living with two grandsons who are cousins. It intrudes on family living arrangements and fails heightened review (Moore).
+**Example:** A zoning ordinance forbids a grandmother from living with two grandsons who are cousins. It intrudes on family living arrangements and fails heightened review (Moore, plurality).
 
 ### R-CON-062 — Abortion after Dobbs
 **Rule (write this):** The Constitution does not confer a right to abortion; Roe and Casey are overruled, and abortion regulations are reviewed under rational basis, leaving the issue to the people and their elected representatives.

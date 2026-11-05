@@ -112,8 +112,11 @@ questions:
   answer: C
   explanation_correct: >-
     C is correct. Substantive due process protects fundamental rights, and laws that substantially burden
-    them must satisfy strict scrutiny (R-CON-060). The Court has recognized the right to use contraception
-    as fundamental, beginning with married couples in Griswold v. Connecticut (R-CON-061). A flat criminal
+    them must satisfy strict scrutiny (R-CON-060). The Court has protected the decision whether to use
+    contraception as a fundamental privacy right, beginning with married couples in Griswold v.
+    Connecticut and extending to unmarried persons in Eisenstadt v. Baird; Carey v. Population Services
+    Int'l held that regulations burdening that decision must be justified by compelling interests and
+    narrowly drawn (R-CON-061). A flat criminal
     ban on use by married couples is not narrowly tailored to any compelling interest. Dobbs held that
     there is no constitutional right to abortion, but the majority stated that its decision concerns
     abortion only and should not be understood to cast doubt on precedents that do not concern abortion
@@ -131,7 +134,7 @@ questions:
       a suspect or quasi-suspect classification in any event; the claim rests on substantive due process,
       not equal protection (R-CON-066).
   trap_type: overbroad
-  authority: ["U.S. Const. amend. XIV, § 1", "Griswold v. Connecticut, 381 U.S. 479 (1965)", "Dobbs v. Jackson Women's Health Org., 597 U.S. 215 (2022)", "Washington v. Glucksberg, 521 U.S. 702 (1997)"]
+  authority: ["U.S. Const. amend. XIV, § 1", "Griswold v. Connecticut, 381 U.S. 479 (1965)", "Eisenstadt v. Baird, 405 U.S. 438 (1972)", "Carey v. Population Servs. Int'l, 431 U.S. 678 (1977)", "Dobbs v. Jackson Women's Health Org., 597 U.S. 215 (2022)", "Washington v. Glucksberg, 521 U.S. 702 (1997)"]
   source: original
   tags: [wave2, w2b, substantive-due-process, contraception]
   status: draft
@@ -253,8 +256,9 @@ questions:
     D: "For the district, because the right to vote in local elections is not a fundamental right protected by the Equal Protection Clause."
   answer: A
   explanation_correct: >-
-    A is correct. Laws that deny the vote in general-purpose elections get strict scrutiny, and one person,
-    one vote applies to local governments that exercise general governmental powers (R-CON-075; Kramer).
+    A is correct. Laws that deny the vote in general-purpose elections get strict scrutiny (Kramer), and
+    one person, one vote applies to local governments that exercise general governmental powers (Avery v.
+    Midland County) (R-CON-075).
     But when a district has a special, limited purpose and its activities disproportionately affect a
     definable group, such as the landowners who bear its costs, the state may limit or weight the vote
     toward that group if the scheme is reasonable (Salyer Land Co. v. Tulare Lake Basin Water Storage
@@ -271,7 +275,7 @@ questions:
       Overbroad. The right to vote in local general-purpose elections is fundamental (R-CON-075; Kramer);
       the district wins only because of its special, limited purpose.
   trap_type: exception-trap
-  authority: ["U.S. Const. amend. XIV, § 1", "Salyer Land Co. v. Tulare Lake Basin Water Storage Dist., 410 U.S. 719 (1973)", "Ball v. James, 451 U.S. 355 (1981)", "Kramer v. Union Free School Dist. No. 15, 395 U.S. 621 (1969)"]
+  authority: ["U.S. Const. amend. XIV, § 1", "Salyer Land Co. v. Tulare Lake Basin Water Storage Dist., 410 U.S. 719 (1973)", "Ball v. James, 451 U.S. 355 (1981)", "Kramer v. Union Free School Dist. No. 15, 395 U.S. 621 (1969)", "Avery v. Midland County, 390 U.S. 474 (1968)"]
   source: original
   tags: [wave2, w2b, equal-protection, voting, special-purpose-district]
   status: draft

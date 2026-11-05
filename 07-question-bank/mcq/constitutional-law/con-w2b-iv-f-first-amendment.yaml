@@ -95,7 +95,7 @@ questions:
 
 - id: Q-CON-0142
   subject: CON
-  coverage_ids: [CON-MBE-IV.F.2.a]
+  coverage_ids: [CON-MBE-IV.F.2.a, CON-MBE-IV.F.2.c]
   rule_ids: [R-CON-093, R-CON-092, R-CON-099]
   difficulty: 2
   stem: >-
@@ -380,8 +380,9 @@ questions:
     the First Amendment gives a reporter no privilege to refuse to tell a grand jury the identity of sources
     when the investigation is conducted in good faith and the testimony is relevant (R-CON-109; Branzburg
     v. Hayes). She may be held in contempt. On a California essay, note that California's shield law (Cal.
-    Const. art. I, § 2(b); Evid. Code § 1070) protects reporters from contempt as a matter of state law;
-    it is not a First Amendment rule (see ca-distinctions).
+    Const. art. I, § 2(b); Evid. Code § 1070) protects reporters from being held in contempt in state
+    proceedings as a matter of state law; it is not a First Amendment rule and does not bind a federal
+    grand jury, where federal privilege law governs (FRE 501) (see ca-distinctions).
   explanation_each_wrong_option:
     A: >-
       Wrong rule. The First Amendment gives reporters no absolute privilege to withhold sources from a
