@@ -75,6 +75,7 @@ python scripts/coverage_report.py --write             # matrix mapping by subjec
 python scripts/coverage_report.py --require-mapped CTR CIV   # Phase 4 definition-of-done gate
 python scripts/frequency_analysis.py                  # past-exam heatmap and top issues (after Phase 3)
 python scripts/build_weeks.py --from 2027-W05         # re-render weekly plan files after editing 01-study-plan/schedule.yml
+python scripts/bank_targets.py                        # weak MBE topics and essay subjects; where the question bank should grow
 ```
 
 ### Slash commands (Claude Code)
@@ -91,3 +92,4 @@ python scripts/build_weeks.py --from 2027-W05         # re-render weekly plan fi
 | `/weekly-review` | Progress vs. plan; refresh the dashboard; adjust next week |
 | `/simulate` | Assemble, run and score a full mock exam |
 | `/update-exam-intel` | Re-check State Bar and NCBE pages; update dates, deadlines and law changes |
+| `/monthly-maintenance [YYYY-MM]` | Phase 8 cycle: exam intel, dashboard, bank expansion in weak areas, VERIFY burn-down, log |

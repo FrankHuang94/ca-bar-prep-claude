@@ -197,3 +197,16 @@ def test_merge_resolve_moves_item_and_validator_warns(repo, tmp_path, capsys):
     assert M.main(["--resolve", str(r)]) == 1  # already resolved
     rep = validate.run()
     assert rep.errors == [] or all("V-001" not in e for e in rep.errors)
+
+
+def test_bank_targets_flags_weak_topic_with_thin_bank(repo, capsys):
+    import bank_targets
+    assert "No MCQ attempts logged yet" in bank_targets.analyse(0.6, 5, 10, 60)
+    for i in range(5):  # five licensed questions on one topic, all missed
+        assert quiz.main(["log", "--source", "official", "--item", f"NCBE-OPE-1-Q{i}", "--subject", "EVD",
+                          "--correct", "N", "--coverage", "EVD-MBE-V.F.1"]) == 0
+    assert quiz.main(["log", "--kind", "essay", "--item", "E-EVD-001", "--subject", "EVD", "--score", "50"]) == 0
+    report = bank_targets.analyse(0.6, 5, 10, 60)
+    assert "| EVD-MBE-V.F | 5 | 0% | 1 |" in report and "EXPAND" in report
+    assert "| EVD | 1 | 50 |" in report
+    assert bank_targets.topic("EVD-MBE-V.F.2.a") == "EVD-MBE-V.F"

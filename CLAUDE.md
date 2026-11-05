@@ -172,8 +172,9 @@ python scripts/build_simulation.py build [--allow-short] ; … score SIM-01 --mb
 python scripts/frequency_analysis.py                  # regenerates 06-past-exams/frequency-analysis.md block
 python scripts/dashboard.py                           # regenerates readiness dashboard + README status
 python scripts/build_weeks.py [--force | --from 2027-W05 | --totals]   # renders 01-study-plan/weeks from schedule.yml
+python scripts/bank_targets.py [--threshold 0.62 --min-attempts 5 --min-fresh 10]   # weak topics -> bank expansion targets
 ```
-Slash commands live in `.claude/commands/`: `/today` `/quiz` `/essay` `/pt` `/drill` `/spot` `/explain` `/weak-spots` `/weekly-review` `/simulate` `/update-exam-intel`.
+Slash commands live in `.claude/commands/`: `/today` `/quiz` `/essay` `/pt` `/drill` `/spot` `/explain` `/weak-spots` `/weekly-review` `/simulate` `/update-exam-intel` `/monthly-maintenance`.
 
 ## 6. Grading
 - Use `00-exam-intel/grader-expectations.md` §4: the 40–100 scale in 5-point steps, with weights for issues, rule accuracy, analysis, organization and conclusions.
