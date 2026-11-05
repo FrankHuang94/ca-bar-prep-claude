@@ -175,7 +175,7 @@ Essay favorite: four of the 14 Real Property essays turned on landlord-tenant is
 | L – sublessee | No | No | Not directly (only via the master tenant), unless sublessee assumed |
 
 - **Liability after transfer** (R-PRP-040); **covenants running with the leasehold** (R-PRP-041): intent + touch and concern + privity of estate (*Spencer's Case* (1583) 5 Co. Rep. 16a); covenants to pay rent, repair, insure (when proceeds benefit the premises), options to renew or purchase usually run.
-- **Restrictions on transfer** (R-PRP-042): strictly construed; *Dumpor's Case* (1603) 4 Co. Rep. 119b (waiver after one consent; rejected in many states); traditional rule allows arbitrary refusal; modern trend requires reasonableness. **CA note:** *Kendall v. Ernest Pestana, Inc.* (1985) 40 Cal.3d 488; Civ. Code §§ 1995.010–1995.340 (absolute prohibition must be express; no stated standard → not unreasonably withheld, § 1995.260) [S-762].
+- **Restrictions on transfer** (R-PRP-042): strictly construed; *Dumpor's Case* (1603) 4 Co. Rep. 119b (waiver after one consent; rejected in many states); traditional rule allows arbitrary refusal; modern trend requires reasonableness. **CA note:** *Kendall v. Ernest Pestana, Inc.* (1985) 40 Cal.3d 488; Civ. Code §§ 1995.010–1995.340 (absolute prohibition must be express; no stated standard → not unreasonably withheld, § 1995.260) [S-762]. *Kendall* and the statutes concern commercial (nonresidential) leases; whether California extends the reasonableness requirement to residential leases is unsettled, so argue it by analogy [VERIFY V-674].
 - **Transfers by landlord** (R-PRP-043): grantee takes subject to the lease; covenants that touch and concern bind and benefit the grantee; tenant attorns.
 - **How tested:** Feb 2012 Q6 (transfers), Feb 2015 Q2 (covenant to insure) [VERIFY V-071].
 
@@ -217,7 +217,7 @@ Essay favorite: four of the 14 Real Property essays turned on landlord-tenant is
 
 #### I.D.2 Alienability, descendibility, and devisability of present and future interests
 - Present estates and vested future interests: transferable, devisable, descendible (R-PRP-018).
-- Contingent remainders and executory interests: transferable at modern law (California: Civ. Code § 699), unless survival is a condition.
+- Contingent remainders and executory interests: transferable inter vivos at modern law (California: Civ. Code § 699); devisable and descendible unless survival is a condition of the interest (then it ends at the holder's death).
 - Possibilities of reverter and rights of entry: descendible and devisable; inter vivos transfer of a right of entry was restricted at common law.
 - **Restraints on alienation** (R-PRP-017): disabling restraints on a fee void; forfeiture and promissory restraints on a fee generally void; on life estates and leaseholds generally valid; reasonable restraints valid (ROFRs, lease consent clauses, cooperative approvals); Civ. Code § 711.
 
@@ -349,7 +349,7 @@ Rules: R-PRP-050 (burden), R-PRP-051 (benefit), R-PRP-052 (equitable servitude),
 #### II.D.1 Types of zoning laws
 - **Source and test:** police power; rational relation to health, safety, morals or general welfare (*Village of Euclid v. Ambler Realty Co.*, 272 U.S. 365 (1926)). California cities and counties have constitutional police power (Cal. Const. art. XI, § 7), and zoning must be consistent with the general plan (Gov. Code § 65860). R-PRP-070.
 - **Types:** Euclidean (cumulative or exclusive use districts); bulk and density (height, setbacks, lot size, floor-area ratio); aesthetic and architectural review; historic preservation (*Penn Central Transp. Co. v. New York City*, 438 U.S. 104 (1978)); cluster zoning and planned unit developments; growth controls; inclusionary zoning; overlay districts.
-- **Limits:** substantive due process and equal protection (*Village of Belle Terre v. Boraas*, 416 U.S. 1 (1974) (unrelated-persons limit valid); *Moore v. City of East Cleveland*, 431 U.S. 494 (1977) (family definition excluding a grandchild invalid); *City of Cleburne v. Cleburne Living Center*, 473 U.S. 432 (1985) (irrational animus)); First Amendment (signs, adult uses, RLUIPA, 42 U.S.C. § 2000cc); Fair Housing Act (group homes); exclusionary zoning under state law (*Southern Burlington County NAACP v. Township of Mount Laurel*, 67 N.J. 151, 336 A.2d 713 (1975)); takings (R-PRP-073; R-CON-077 to R-CON-081).
+- **Limits:** substantive due process and equal protection (*Village of Belle Terre v. Boraas*, 416 U.S. 1 (1974) (unrelated-persons limit valid); *Moore v. City of East Cleveland*, 431 U.S. 494 (1977) (family definition excluding a grandchild invalid; plurality rationale); *City of Cleburne v. Cleburne Living Center*, 473 U.S. 432 (1985) (irrational animus)); First Amendment (signs, adult uses, RLUIPA, 42 U.S.C. § 2000cc); Fair Housing Act (group homes); exclusionary zoning under state law (*Southern Burlington County NAACP v. Township of Mount Laurel*, 67 N.J. 151, 336 A.2d 713 (1975)); takings (R-PRP-073; R-CON-077 to R-CON-081).
 
 #### II.D.2 Protection of pre-existing property rights
 - **Nonconforming uses** (R-PRP-071): may continue; no substantial expansion or change; lost by abandonment or substantial destruction; amortization valid in many states including California (*City of Los Angeles v. Gage* (1954) 127 Cal.App.2d 442).
@@ -387,7 +387,7 @@ The State Bar's essay outline lists rights that come with ownership itself [S-09
 - Broker = agent of the principal (usually the seller); fiduciary duties of loyalty, care, disclosure, obedience, accounting (R-PRP-077).
 - **Listing agreements:** open; exclusive agency (no commission if the owner sells); exclusive right to sell (commission whoever sells).
 - **Commission earned:** traditional rule: when the broker produces a ready, willing and able buyer on the listing terms; modern minority: only if closing occurs, unless the seller wrongfully prevents it (*Ellsworth Dobbs, Inc. v. Johnson*, 50 N.J. 528, 236 A.2d 843 (1967)) [VERIFY V-669].
-- **Duties to buyers:** no misrepresentation; disclose known material defects. **CA note:** licensing (Bus. & Prof. Code §§ 10130, 10136); commission agreements must be in writing (Civ. Code § 1624(a)(4)); visual-inspection duty for 1–4 residential units (Civ. Code § 2079; *Easton v. Strassburger* (1984) 152 Cal.App.3d 90) [S-768]; agency-disclosure and dual-agency rules [VERIFY V-669].
+- **Duties to buyers:** no misrepresentation; under the prevailing modern rule, disclose known material latent defects the buyer cannot discover by reasonable inspection. **CA note:** licensing (Bus. & Prof. Code §§ 10130, 10136); commission agreements must be in writing (Civ. Code § 1624(a)(4)); visual-inspection duty for 1–4 residential units (Civ. Code § 2079; *Easton v. Strassburger* (1984) 152 Cal.App.3d 90) [S-768]; agency-disclosure and dual-agency rules [VERIFY V-669].
 
 ### III.B Creation and construction
 
@@ -456,7 +456,7 @@ The State Bar's essay outline lists rights that come with ownership itself [S-09
 
 ##### IV.A.1.b Purchase money mortgages
 - Secures funds used to buy the land, given to the seller or to a third-party lender (R-PRP-090).
-- **Priority:** over pre-existing liens against the purchaser (e.g., judgment liens) that attach when title passes, subject to recording (Civ. Code § 2898) [S-770]; seller PMM generally beats third-party PMM; between two third-party PMMs, the recording act decides.
+- **Priority:** over pre-existing liens against the purchaser (e.g., judgment liens) that attach when title passes, subject to recording (Civ. Code § 2898) [S-770]; seller PMM generally beats third-party PMM (the Restatement (Third) of Property: Mortgages § 7.2 position; several courts follow it, but not all) [VERIFY V-676]; between two third-party PMMs, the recording act decides.
 - **CA note:** anti-deficiency protection for seller-financed loans and third-party loans to buy owner-occupied 1–4 unit dwellings (CCP § 580b) [S-777].
 
 ##### IV.A.1.c Future advance mortgages
@@ -530,7 +530,7 @@ The State Bar's essay outline lists rights that come with ownership itself [S-09
 - Due-on-encumbrance clauses: limited for residential junior liens by the same exceptions.
 
 ### IV.D Transfers by mortgagee
-- The mortgage follows the note (*Carpenter v. Longan*, 83 U.S. (16 Wall.) 271 (1872)); transfer of the note transfers the mortgage; an assignment of the mortgage without the note is ineffective under the majority view (R-PRP-097).
+- The mortgage follows the note (*Carpenter v. Longan*, 83 U.S. (16 Wall.) 271 (1872)); transfer of the note transfers the mortgage unless the parties agree otherwise, and only a person entitled to enforce the note may foreclose. An assignment of the mortgage without the note is traditionally a nullity, but the Restatement (Third) of Property: Mortgages § 5.4(b) presumes that a transfer of the mortgage also transfers the note unless the parties agree otherwise [VERIFY V-676]; on the MBE state both (R-PRP-097).
 - **Holder in due course** of a negotiable note takes free of personal defenses (fraud in the inducement, failure of consideration) but not real defenses (forgery, fraud in the factum, incapacity making the note void) (UCC §§ 3-302, 3-305).
 - **Payment to the original lender** after transfer: protected if the borrower lacked notice under the Restatement (Third) of Property: Mortgages and 2002 UCC Article 3; not under the traditional negotiable-instrument rule [VERIFY V-673].
 - **Recording assignments:** protects the assignee against later purchasers of the mortgage, not against the borrower's payments made without notice.
@@ -540,12 +540,12 @@ The State Bar's essay outline lists rights that come with ownership itself [S-09
 
 #### IV.E.1 Payment
 - Payment in full discharges the mortgage; lender must release or reconvey (CA: Civ. Code § 2941) (R-PRP-098).
-- **Prepayment:** no common-law right to prepay before maturity absent a clause ("perfect tender in time"); prepayment fees enforceable if reasonable; CA regulates residential prepayment charges (Civ. Code § 2954.9) [VERIFY V-658].
+- **Prepayment:** traditional rule: no right to prepay before maturity absent a loan term or statute ("perfect tender in time"); Restatement (Third) of Property: Mortgages § 6.1 reverses the default (prepay unless the note or mortgage prohibits or limits it) [VERIFY V-676]; under either view express terms (a bargained-for prohibition or a reasonable prepayment fee) are generally enforced; CA regulates residential prepayment charges (Civ. Code § 2954.9) [VERIFY V-658].
 - **Partial releases:** a release clause lets the mortgagor obtain release of parcels on payment of stated amounts (common in development loans).
 - **Tender:** a valid tender of the full amount due at maturity discharges the lien in many states even if refused (the debt survives).
 
 #### IV.E.2 Deed in lieu of foreclosure
-- Voluntary conveyance after default in satisfaction of the debt; valid if fair and not obtained at the loan's origin (clogging) (R-PRP-098).
+- Voluntary conveyance in satisfaction of the debt; valid if made fairly and for adequate consideration in a transaction separate from and later than the loan, typically after default; if exacted at the loan's origin, it is a clog (R-PRP-093, R-PRP-098).
 - **Risks:** lender takes subject to junior liens (no foreclosure wipeout); merger questions (lender may want the mortgage kept alive to foreclose juniors); possible avoidance in the mortgagor's bankruptcy.
 - Debt is usually extinguished unless the parties agree otherwise.
 

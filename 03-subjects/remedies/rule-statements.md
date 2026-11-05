@@ -1165,7 +1165,7 @@ status: draft
 
 **Elements:** 1. Knowledge of the right. 2. Intentional relinquishment (words or conduct).
 
-**Exceptions / defenses:** A waiver of a condition not yet due may be retracted on reasonable notice unless the other party relied (contract waiver rules, R-CTR-064).
+**Exceptions / defenses:** A waiver of a condition not yet due may be retracted by notice received while a reasonable time remains for the condition to occur, unless the other party has materially changed position in reliance on the waiver (R2d § 84(2); R-CTR-064).
 
 **Authority:** Common law; Civ. Code § 3516 (acquiescence in error takes away the right of objecting to it).
 

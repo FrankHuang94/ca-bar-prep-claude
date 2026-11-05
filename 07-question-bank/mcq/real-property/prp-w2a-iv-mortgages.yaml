@@ -228,15 +228,17 @@ questions:
     D: "Yes, because a reasonable prepayment charge agreed to in the loan is enforceable."
   answer: D
   explanation_correct: >-
-    D is correct. At common law a borrower has no right to prepay before maturity unless the loan permits it, and
-    reasonable prepayment charges are enforceable (R-PRP-098). Here the note gives Gil the right to prepay after year
+    D is correct. Under the traditional rule a borrower has no right to prepay before maturity unless the loan
+    permits it; the Restatement (Third) of Property: Mortgages § 6.1 lets the borrower prepay unless the loan terms
+    restrict it; under either view a reasonable, bargained-for prepayment charge is enforceable (R-PRP-098). Here the note gives Gil the right to prepay after year
     three on condition that he pay 2% of the principal prepaid. Prepaying is a performance the contract allows, not a
     breach, so the penalty rule for liquidated damages does not apply. Once Gil pays the $800,000 balance and the
     $16,000 charge, the debt is discharged and Haven must release the mortgage (R-PRP-098).
   explanation_each_wrong_option:
     A: >-
-      This reverses the common-law rule: absent a clause, a borrower has no right to prepay at all (R-PRP-098). Gil's
-      right to prepay comes from the clause, and it carries the charge.
+      Overbroad. Under the traditional rule, absent a clause a borrower has no right to prepay at all; even under the
+      Restatement's contrary default, the loan's express terms control (R-PRP-098). Gil's right to prepay comes from
+      the clause, and it carries the charge.
     B: >-
       The penalty analysis tests a liquidated-damages clause for breach. Prepayment under the clause is a permitted
       alternative performance, not a breach, and a 2% charge is reasonable (R-PRP-098).

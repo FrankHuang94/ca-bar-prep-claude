@@ -57,7 +57,7 @@ All fact patterns are original. Each gives the **rule** (by ID), a short **appli
 - (b) A supplier of 10,000 steel brackets faces a 50% rise in steel costs after a mill shutdown. The buyer agrees to pay 15% more, then refuses.
 
 **Analysis.**
-- (a) This is common law. The contractor gave nothing new, and an underbid is not an unanticipated circumstance under R2d § 89. **CA:** under Civ. Code § 1698, an oral modification also needs new consideration unless executed.
+- (a) This is common law. The contractor gave nothing new, and an underbid is not an unanticipated circumstance under R2d § 89. **CA:** under Civ. Code § 1698, an oral modification of a written contract also needs new consideration unless executed (only a written modification of an oral contract needs none, § 1697).
 - (b) This is UCC § 2-209: no consideration needed, and the mill shutdown is a legitimate commercial reason, so the modification was made in good faith. Check the SOF: the modified contract for goods of $500 or more must satisfy § 2-201.
 
 **Conclusion.** (a) The extra promise is unenforceable. (b) The modification is enforceable if a sufficient writing exists.

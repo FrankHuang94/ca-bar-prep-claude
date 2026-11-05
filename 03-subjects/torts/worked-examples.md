@@ -160,7 +160,7 @@ Each example is an original fact pattern followed by a short IRAC answer of the 
 **Facts.** At a breeder's home, a visitor enters a room he was told to avoid and is bitten by a pet chimpanzee. Another visitor is nipped by a puppy with no history of biting.
 
 **Analysis.**
-- **Chimpanzee:** a wild animal, so strict liability for a bite, a characteristic danger. The visitor's comparative fault, or assumption of risk if he knew of the chimp, reduces or bars recovery. In some states a trespasser in the room must prove negligence.
+- **Chimpanzee:** a wild animal, so strict liability for a bite, a characteristic danger. If he knew of the chimp, his knowing and unreasonable encounter reduces his recovery under comparative fault (MBE default; California) and bars it only in a contributory-negligence jurisdiction (R-TRT-080). In some states a trespasser in the room must prove negligence.
 - **Puppy:** no known propensity, so no common-law strict liability; negligence only. **CA:** Civ. Code § 3342 imposes strict liability for the bite regardless of knowledge.
 
 **Conclusion.** The chimp claim is likely strong, subject to comparative fault; the puppy claim depends on § 3342 in California.

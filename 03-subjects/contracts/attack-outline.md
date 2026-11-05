@@ -37,7 +37,7 @@ status: draft
 - **Settlement** — forbearance on a valid or good-faith claim counts (R-CTR-025).
 - **Past consideration** — none; § 86 material benefit; time-barred debts (R-CTR-026).
 - **Promissory estoppel** — promise + foreseeable, actual, reasonable reliance + injustice; remedy as justice requires (R-CTR-027).
-- **Modification** — common law needs consideration (§ 89 exceptions); UCC needs only good faith; CA Civ. Code § 1698 (R-CTR-028, R-CTR-029).
+- **Modification** — common law needs consideration (§ 89 exceptions); UCC needs only good faith; CA Civ. Code § 1698 (written contracts), § 1697 (written modification of an oral contract: no consideration) (R-CTR-028, R-CTR-029).
 
 ## 4. Defenses
 - **Minors** — voidable; disaffirm within a reasonable time after 18; necessaries at reasonable value (R-CTR-030).
@@ -46,7 +46,7 @@ status: draft
 - **Undue influence** — unfair persuasion of a dominated or trusting party (R-CTR-033).
 - **Mutual mistake** — basic assumption + material effect + risk not borne (R-CTR-034).
 - **Unilateral mistake** — the same, plus unconscionability or the other party's knowledge (R-CTR-035).
-- **Misunderstanding** — different meanings, neither knew: no contract (R-CTR-036).
+- **Misunderstanding** — different meanings, neither knew (or each knew): no contract; only one knew: the innocent party's meaning (R-CTR-036).
 - **Misrepresentation** — fraudulent or material + inducement + justified reliance = voidable (R-CTR-037).
 - **Nondisclosure** — concealment = assertion; silence only in § 161 cases (R-CTR-038).
 - **Illegality** — void; *in pari delicto*; licensing statutes (R-CTR-039).

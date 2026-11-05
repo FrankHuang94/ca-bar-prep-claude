@@ -272,13 +272,13 @@ The burden is on Δ to plead and prove consent and the privileges. A privilege p
 | Voluntary intoxication | No allowance | — |
 | Children | Reasonable child of like age, intelligence and experience; **adult standard for adult activities** (driving, boating, flying); very young children may be incapable of negligence | R2d § 283A; R3d PEH § 10 (R-TRT-026) |
 | Professionals | Knowledge and skill of a member of the profession in good standing; specialists, the specialty standard; expert testimony usually required; locality rule largely replaced by a national standard | R2d § 299A [VERIFY V-600] (R-TRT-027) |
-| Physicians: informed consent | Disclose material risks a reasonable patient would want; objective causation | *Cobbs v. Grant* (1972) 8 Cal.3d 229; *Canterbury v. Spence*, 464 F.2d 772 (D.C. Cir. 1972) (R-TRT-028) |
+| Physicians: informed consent | Disclose material risks a reasonable patient would want (California and many states; many others use a reasonable-physician standard); objective causation | *Cobbs v. Grant* (1972) 8 Cal.3d 229; *Canterbury v. Spence*, 464 F.2d 772 (D.C. Cir. 1972) (R-TRT-028) |
 | Common carriers and innkeepers | Highest degree of care consistent with practical operation (traditional); many courts now use reasonable care heightened by the circumstances | Civ. Code § 2100 (R-TRT-029) |
 | Emergency | Reasonable person in an emergency not of Δ's making | R3d PEH § 9 (R-TRT-030) |
 | Bailors and bailees | Traditional sliding standards (bailment for the sole benefit of the bailor: slight care; sole benefit of the bailee: great care); modern trend, ordinary care | — |
 
 - **Informed consent, more detail.**
-  - The majority patient-centered standard asks what a reasonable patient would consider material. The minority physician standard asks what reasonable physicians disclose.
+  - Jurisdictions are roughly split. The patient-centered standard (California under *Cobbs*, and many states) asks what a reasonable patient would consider material. The professional standard used in many other states asks what reasonable physicians disclose. MBE: apply the standard the stem gives (or reason from both); California essay: use *Cobbs*.
   - Causation is objective: would a reasonable patient have refused?
   - Exceptions: emergency; risks that are commonly known or remote; patient waiver; therapeutic privilege.
   - **CA note:** a physician must disclose the risks of **declining** a recommended test (*Truman v. Thomas* (1980) 27 Cal.3d 285).
@@ -739,7 +739,7 @@ The July 2023 Q2 selected answers followed this order [VERIFY V-071].
 (R-TRT-087)
 
 - **Comparative fault** reduces recovery (*Daly*). In contributory-negligence states, a mere failure to discover the defect is no defense.
-- **Assumption of risk:** Π knowingly and voluntarily used a product with a known defect.
+- **Assumption of risk:** Π knowingly and voluntarily used a product with a known defect. Under comparative fault (the MBE default; California) this reduces recovery; it is a complete bar only in a contributory-negligence jurisdiction (R-TRT-072, R-TRT-080).
 - **Misuse:** unforeseeable misuse defeats defect or proximate cause. Foreseeable misuse (standing on a chair) does not; the design or warnings must address it.
 - **Substantial alteration** after sale that caused the harm, if unforeseeable.
 - **State of the art:** relevant to design feasibility and warning knowability; irrelevant to manufacturing defects.

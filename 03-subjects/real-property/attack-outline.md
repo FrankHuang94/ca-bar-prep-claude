@@ -48,7 +48,7 @@ status: draft
 - **Retaliation:** **CA:** 180-day presumption (R-PRP-038).
 - **Assignment vs. sublease:** whole term vs. less; privity map (R-PRP-039, R-PRP-040).
 - **Covenants running with leasehold:** intent + touch and concern + privity of estate (R-PRP-041).
-- **Consent:** **CA:** not unreasonably withheld (*Kendall*) (R-PRP-042).
+- **Consent:** **CA:** not unreasonably withheld (*Kendall*; commercial leases; residential only by analogy, unsettled) (R-PRP-042).
 - **Landlord transfers:** grantee bound by and benefits from running covenants (R-PRP-043).
 - **No self-help;** unlawful detainer (R-PRP-044).
 - **Tort:** common-law exceptions; **CA:** ordinary negligence (R-PRP-045).

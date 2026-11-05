@@ -134,7 +134,7 @@ Cite only what you need on an essay; a rule stated correctly without a case name
 |---|---|---|
 | *Village of Euclid v. Ambler Realty Co.*, 272 U.S. 365 (1926) | Comprehensive zoning valid under the police power | R-PRP-070 |
 | *Village of Belle Terre v. Boraas*, 416 U.S. 1 (1974) | Limit on unrelated occupants valid | R-PRP-070 |
-| *Moore v. City of East Cleveland*, 431 U.S. 494 (1977) | Narrow family definition violated due process | R-PRP-070 |
+| *Moore v. City of East Cleveland*, 431 U.S. 494 (1977) | Narrow family definition violated due process (plurality rationale) | R-PRP-070 |
 | *City of Cleburne v. Cleburne Living Center*, 473 U.S. 432 (1985) | Permit denial for group home irrational | R-PRP-070 |
 | *Shelley v. Kraemer*, 334 U.S. 1 (1948) | Courts may not enforce racial covenants | R-PRP-057 |
 | *Jones v. Alfred H. Mayer Co.*, 392 U.S. 409 (1968) | § 1982 bars private race discrimination in property | R-PRP-048 |

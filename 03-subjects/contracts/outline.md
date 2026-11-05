@@ -581,7 +581,7 @@ Puffery is not actionable. A promise made without intent to perform is fraud (pr
 ### IV.B Excuse of conditions (R-CTR-064)
 | Excuse | Rule | Authority |
 |---|---|---|
-| **Waiver** | The party protected by a condition may waive it by words or conduct (accepting late payments). A waiver of a non-material condition needs no consideration. A waiver of a **future** condition is retractable before the time for occurrence unless the other party has relied | R2d § 84 |
+| **Waiver** | The party protected by a condition may waive it by words or conduct (accepting late payments). A waiver of a non-material condition needs no consideration. A waiver of a **future** condition is retractable by notice received while a reasonable time remains for the condition to occur, unless the other party has materially changed position in reliance | R2d § 84 |
 | **Estoppel** | A party who led the other to believe the condition would not be insisted on, inducing reliance | Equity |
 | **Prevention / hindrance** | A party who wrongfully prevents or hinders a condition cannot rely on its failure (implied duty to cooperate) | R2d § 245 [VERIFY V-111]; **CA** Civ. Code § 1511 [VERIFY V-105] |
 | **Repudiation** | Excuses the other party's conditions | R2d § 255 |
@@ -1012,7 +1012,7 @@ Order of analysis:
   - sues; or
   - materially changes position in justifiable reliance.
   - A contract may reserve a power to change beneficiaries (insurance).
-- **Defenses** (§ 309). The promisor may assert against the beneficiary any defense it has against the promisee arising from the contract: fraud, mistake, the promisee's non-performance, failure of a condition. It may **not** assert the promisee's unrelated defenses or claims against the beneficiary.
+- **Defenses** (§ 309). The promisor may assert against the beneficiary any defense it has against the promisee arising from the contract: fraud, mistake, the promisee's non-performance, failure of a condition. It may **not** assert against the beneficiary its claims or defenses against the promisee that arise outside the contract (e.g., set-off of an unrelated debt).
 - **Who sues whom:**
   - beneficiary v. promisor;
   - creditor beneficiary v. promisee (on the original debt);

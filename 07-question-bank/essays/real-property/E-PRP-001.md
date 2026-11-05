@@ -70,7 +70,7 @@ Here, the document is titled "Sublease," which Tara will cite as evidence that t
 
 **Breach of the anti-assignment clause.** Absent a lease restriction, a tenant may freely transfer. Restrictions on transfer are strictly construed against the landlord: a clause barring assignment does not bar subleasing, and vice versa. Lou's clause forbids assignment "without Landlord's prior written consent" and says nothing about subleasing. Had the transfer been a sublease, Tara would not have breached the clause; because it was an assignment, the clause applies. Tara never asked for consent.
 
-As to the consent standard, under the traditional rule a landlord whose consent is required may refuse for any reason; under the modern trend (followed in California, *Kendall v. Ernest Pestana, Inc.*), where the lease requires consent but states no standard, consent may not be unreasonably withheld. Lou might well have had a reasonable basis to evaluate Sam's creditworthiness, but the standard does not matter here because Tara never asked.
+As to the consent standard, under the traditional rule a landlord whose consent is required may refuse for any reason; under the modern trend (followed in California for commercial leases, *Kendall v. Ernest Pestana, Inc.*), where the lease requires consent but states no standard, consent may not be unreasonably withheld; whether California extends that rule to a residential lease like this one is unsettled. Lou might well have had a reasonable basis to evaluate Sam's creditworthiness, but the standard does not matter here because Tara never asked.
 
 **Conclusion:** Tara breached the anti-assignment clause.
 
@@ -147,4 +147,4 @@ If a court found that Sam waited too long, his departure would be an abandonment
 4. Treating habitability and constructive eviction as the same doctrine. Habitability lets the tenant stay and pay less; constructive eviction requires leaving and ends the rent obligation.
 5. Letting Lou recover rent for months he made no effort to relet, under the modern duty to mitigate.
 
-**Accuracy notes.** The call asks for general principles, so the answer uses the majority common-law rules. It mentions California only where the rule is settled in the repo (*Green*, *Kendall*) and does not rely on the California mitigation-burden statute or unlawful-detainer procedure (repo item V-662).
+**Accuracy notes.** The call asks for general principles, so the answer uses the majority common-law rules. It mentions California only where the rule is settled in the repo (*Green*; *Kendall*, flagging that its extension to residential leases is unsettled, V-674) and does not rely on the California mitigation-burden statute or unlawful-detainer procedure (repo item V-662).
