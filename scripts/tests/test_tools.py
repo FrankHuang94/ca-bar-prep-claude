@@ -53,6 +53,9 @@ def test_simulation_short_bank(repo, capsys):
     assert set(m["essays"]) == {"E-EVD-001", "E-XO-001"} or len(m["essays"]) == 1
     assert len(m["mbe"]["am"]) + len(m["mbe"]["pm"]) == 3
     assert (repo / "exports/SIM-01/answer-key.md").exists()
+    (repo / "exports/SIM-01/answer-key.md").unlink()
+    assert build_simulation.main(["render", "SIM-01"]) == 0
+    assert (repo / "exports/SIM-01/answer-key.md").exists()
     assert validate.run().errors == []
     # a second build must not reuse simulated items
     assert build_simulation.main(["build", "--seed", "6", "--allow-short", "--no-render"]) == 0

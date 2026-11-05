@@ -4,14 +4,15 @@
 Build
   python scripts/build_simulation.py build                 # next SIM-## id, random seed
   python scripts/build_simulation.py build --seed 42 --allow-short
+  python scripts/build_simulation.py render SIM-01          # rewrite booklets from the manifest
 Score the MBE part after you sit it
   python scripts/build_simulation.py score SIM-01 --mbe-answers my-answers.txt
       (answers file: 200 letters A-D in order; whitespace/commas/newlines ignored; '-' = blank)
 
 Assembly rules
-  * Essays: 5, distinct primary subjects, at least one crossover when the bank has one;
-    subjects weighted by past-exam frequency (06-past-exams/index.csv) when available;
-    essays already used in an earlier simulation are excluded.
+  * Essays: 5, shaped like a real session: exactly one involves PR, at least one crossover, at least
+    one California-law subject (CP/Wills/Trusts), no subject in two essays; weighted by past-exam
+    frequency (06-past-exams/index.csv); essays used in an earlier simulation are excluded.
   * PT: 1 not used in an earlier simulation.
   * MBE: 200 = 29 x 4 subjects + 28 x 3 subjects (rotated by seed) — NCBE scores 25 per subject plus
     25 unscored pretest items, so a near-even split mirrors the real exam. Within a subject, questions
@@ -65,25 +66,49 @@ def subject_weights() -> dict[str, float]:
     return {c: float(counts.get(c, 0)) + 1.0 for c in C.SUBJECTS}  # +1 smoothing
 
 
+CA_LAW_SUBJECTS = {"CMP", "WIL", "TRS"}
+
+
 def pick_essays(rng: random.Random, used: set[str]) -> tuple[list[str], int]:
+    """Five essays shaped like a real California session.
+
+    Constraints, relaxed in order only if the bank cannot meet them: exactly one essay involves
+    Professional Responsibility; at least one crossover; at least one California-law subject
+    (Community Property, Wills, Trusts); no subject appears in two essays. Remaining picks are
+    weighted by past-exam frequency of the essay's subjects.
+    """
     items = [e for e in C.load_md_items(C.ESSAY_DIR_REL) if e["_fm"].get("id") and e["_fm"]["id"] not in used]
     weights = subject_weights()
-    chosen, primaries = [], set()
-    crossovers = [e for e in items if e["_fm"].get("type") == "crossover"]
-    if crossovers:
-        e = rng.choice(crossovers)
-        chosen.append(e)
-        primaries.add(e["_fm"]["subjects"][0])
-    pool = [e for e in items if e not in chosen]
-    while len(chosen) < ESSAYS_PER_EXAM:
-        cands = [e for e in pool if e["_fm"]["subjects"][0] not in primaries]
+    subj = lambda e: set(e["_fm"].get("subjects") or [])
+    wt = lambda e: max(weights.get(s, 1.0) for s in subj(e)) if subj(e) else 1.0
+    chosen: list[dict] = []
+    covered: set[str] = set()
+
+    def take(cands: list[dict]) -> bool:
+        cands = [e for e in cands if e not in chosen]
         if not cands:
-            break
-        w = [weights.get(e["_fm"]["subjects"][0], 1.0) for e in cands]
-        e = rng.choices(cands, weights=w, k=1)[0]
+            return False
+        e = rng.choices(cands, weights=[wt(x) for x in cands], k=1)[0]
         chosen.append(e)
-        primaries.add(e["_fm"]["subjects"][0])
-        pool.remove(e)
+        covered.update(subj(e))
+        return True
+
+    fresh = lambda e: not (subj(e) & covered)
+    # 1. exactly one PR essay (single or crossover)
+    take([e for e in items if "PRF" in subj(e)])
+    # 2. at least one crossover
+    if not any(e["_fm"].get("type") == "crossover" for e in chosen):
+        take([e for e in items if e["_fm"].get("type") == "crossover" and fresh(e) and "PRF" not in subj(e)])
+    # 3. at least one California-law subject
+    if not (covered & CA_LAW_SUBJECTS):
+        take([e for e in items if subj(e) & CA_LAW_SUBJECTS and fresh(e) and "PRF" not in subj(e)])
+    # 4. fill with essays on new subjects, no further PR
+    while len(chosen) < ESSAYS_PER_EXAM and take([e for e in items if fresh(e) and "PRF" not in subj(e)]):
+        pass
+    # 5. relax: distinct primary subject only
+    primaries = {e["_fm"]["subjects"][0] for e in chosen}
+    while len(chosen) < ESSAYS_PER_EXAM and take([e for e in items if e["_fm"]["subjects"][0] not in primaries]):
+        primaries.add(chosen[-1]["_fm"]["subjects"][0])
     rng.shuffle(chosen)
     return [e["_fm"]["id"] for e in chosen], ESSAYS_PER_EXAM - len(chosen)
 
@@ -225,6 +250,14 @@ def cmd_score(a) -> int:
     return 0
 
 
+def cmd_render(a) -> int:
+    path = C.p(C.SIM_DIR_REL, f"{a.id}.yaml")
+    if not path.exists():
+        raise SystemExit(f"{a.id}: manifest not found")
+    render(C.load_yaml(path))
+    return 0
+
+
 def main(argv: list[str] | None = None) -> int:
     ap = argparse.ArgumentParser(description="Assemble/score full mock exams.")
     sub = ap.add_subparsers(dest="cmd", required=True)
@@ -236,8 +269,10 @@ def main(argv: list[str] | None = None) -> int:
     s = sub.add_parser("score")
     s.add_argument("id")
     s.add_argument("--mbe-answers", required=True)
+    r = sub.add_parser("render", help="(re)write printable booklets for an existing manifest")
+    r.add_argument("id")
     a = ap.parse_args(argv)
-    return cmd_build(a) if a.cmd == "build" else cmd_score(a)
+    return {"build": cmd_build, "score": cmd_score, "render": cmd_render}[a.cmd](a)
 
 
 if __name__ == "__main__":
