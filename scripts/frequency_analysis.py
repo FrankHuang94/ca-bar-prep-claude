@@ -80,7 +80,8 @@ def analyse(since: str | None, top: int) -> str:
             out.append(f"- {cid} — {headings.get(cid, '(not in matrix)')[:80]} — {n}×")
         out.append("")
     out += ["### Crossover pairs", "", "| Pair | Times |", "|---|---|"]
-    for (a, b), n in pairs.most_common(15):
+    # every pair, most frequent first; ties in a stable name order
+    for (a, b), n in sorted(pairs.items(), key=lambda kv: (-kv[1], C.SUBJECTS[kv[0][0]].name, C.SUBJECTS[kv[0][1]].name)):
         out.append(f"| {C.SUBJECTS[a].name} + {C.SUBJECTS[b].name} | {n} |")
     pts = C.read_csv(C.p(C.PAST_PT_INDEX_REL))
     if pts:
