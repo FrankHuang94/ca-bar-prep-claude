@@ -56,7 +56,7 @@ All fact patterns are original. Each states the governing law, then rule → app
 
 **9. The employee's apology (FRE vs. CEC).** Delivery driver E, after hitting P, tells P, "I'm so sorry — I ran the stop sign because my boss makes us rush." P sues E's employer only.
 - *Rule:* FRE 801(d)(2)(D) (R-EVD-090); CEC §§ 1222, 1224 (R-EVD-090); § 1160 sympathy (R-EVD-076).
-- *Application:* FRE: E was an employee speaking about driving within the scope of his job while employed — admissible against the employer. CEC: E had no authority to speak (§ 1222); § 1224 may apply because the employer's liability is derivative of E's negligence (*Labis*) [VERIFY V-401]. "I'm so sorry" is excluded under § 1160; the statement of fault is not excluded by § 1160.
+- *Application:* FRE: E was an employee speaking about driving within the scope of his job while employed — admissible against the employer. CEC: E had no authority to speak (§ 1222); § 1224 may apply because the employer's liability is derivative of E's negligence (*Labis*) [S-503] [S-1826]. "I'm so sorry" is excluded under § 1160; the statement of fault is not excluded by § 1160.
 - *Conclusion:* Admissible under the FRE; arguably admissible under § 1224 in California, minus the apology.
 
 **10. Prior inconsistent statement (after Dec. 1, 2026).** Eyewitness W told a detective on the night of the shooting, "D fired the gun." At trial she testifies she did not see who fired. The detective's notes are offered.

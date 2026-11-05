@@ -453,7 +453,7 @@ Puffery is not actionable. A promise made without intent to perform is fraud (pr
 - agreements authorizing or employing an agent or broker to buy, sell or lease (over one year) real estate, or to find a buyer, seller or lessee, for compensation ((a)(4)) [S-202];
 - agreements that by their terms are not to be performed during the promisor's lifetime ((a)(5)) [S-202];
 - commitments to lend money or extend credit of more than $100,000, not primarily for personal, family or household purposes, by a person in the business of lending ((a)(7)) [S-1350];
-- reportedly, an agreement by a purchaser of real property to pay a debt secured by the property ((a)(6)) — unconfirmed [VERIFY V-100].
+- an agreement by a purchaser of real property to pay an indebtedness secured by a mortgage or deed of trust on the property purchased, unless the conveyance specifically provides for the purchaser's assumption of the debt ((a)(6)) [S-1834].
 
 **Step 2 — Satisfying the statute.**
 - **Common-law memorandum** (R2d § 131): any writing or writings (§ 132) that reasonably identify the subject matter, show a contract was made, state the essential terms with reasonable certainty, and are **signed by the party to be charged** (§ 134; any authenticating mark).
@@ -676,7 +676,7 @@ Puffery is not actionable. A promise made without intent to perform is fraud (pr
 - **Conspicuous** (§ 1-201(b)(10)): a reasonable person ought to have noticed it (headings in capitals, contrasting type).
 - **Timing:** a disclaimer delivered after the contract (on an invoice or in the box) is not part of the bargain unless agreed (§ 2-209 modification).
 - **Notice of breach:** within a reasonable time after discovery, or the buyer loses all remedies (§ 2-607(3)(a)).
-- **Who may sue** (§ 2-318): Alternative A covers natural persons in the buyer's family or household and guests in the buyer's home who may reasonably be expected to use, consume or be affected by the goods and are personally injured; Alternatives B and C are broader. **CA:** the Commercial Code appears not to include a § 2318; privity limits come from case law [VERIFY V-970]. Product injuries also raise tort strict liability.
+- **Who may sue** (§ 2-318): Alternative A covers natural persons in the buyer's family or household and guests in the buyer's home who may reasonably be expected to use, consume or be affected by the goods and are personally injured; Alternatives B and C are broader. **CA:** the Commercial Code has no § 2318 [S-1820]; vertical privity is generally required for implied warranty (*Burr*; *All West Electronics*) [S-1821], with exceptions for an express warranty actually relied on and for members of the purchaser's family (*Hauter v. Zogarts* (1975) 14 Cal.3d 104, 114, fn. 8) [S-1822]. Product injuries also raise tort strict liability.
 - **Limitations:** 4 years from tender of delivery (§ 2-725), which the parties may shorten to 1 year. The claim accrues on tender unless the warranty explicitly extends to future performance.
 - **Consumer overlays:** Magnuson-Moss (15 U.S.C. § 2308: no disclaimer of implied warranties by a written warrantor). **CA:** Song-Beverly Consumer Warranty Act, Civ. Code § 1790 et seq.
 - **Remedy limits:** UCC § 2-719 (repair or replace; failure of essential purpose; consequential-damages exclusions), covered in V.C.

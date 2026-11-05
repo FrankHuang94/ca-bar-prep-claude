@@ -108,7 +108,7 @@ An intended killing is murder (express malice) unless a mitigating doctrine redu
 
 **MBE vs. CA essay.** MBE: common-law categories, words alone insufficient, objective cooling time. Essay: state the common-law rule and add one line on the MPC's broader EMED test.
 
-**Imperfect self-defense** (an honest but unreasonable belief in the need for deadly force) also reduces murder to voluntary manslaughter in many jurisdictions, including California (*In re Christian S.* (1994) 7 Cal.4th 768; *People v. Flannel* (1979) 25 Cal.3d 668). California does not extend it to a defendant whose own wrongful conduct (starting a physical assault) legally justified the adversary's attack [VERIFY V-986]. See R-CRM-023.
+**Imperfect self-defense** (an honest but unreasonable belief in the need for deadly force) also reduces murder to voluntary manslaughter in many jurisdictions, including California (*In re Christian S.* (1994) 7 Cal.4th 768; *People v. Flannel* (1979) 25 Cal.3d 668). California does not extend it to a defendant who, through his own wrongful conduct (such as a physical assault or the commission of a felony), created circumstances that legally justified the adversary's use of force (CALCRIM Nos. 571, 604) [S-1824]. See R-CRM-023.
 
 **Provocation by a person other than the victim.** If the defendant, provoked by A, kills B by mistake while trying to kill A, the mitigation transfers along with the intent (transferred intent, R-CRM-008). If the defendant intentionally kills an innocent bystander who did not provoke him, most courts deny mitigation.
 
@@ -356,7 +356,7 @@ Other crimes are tested on the MBE through their **elements** (often with one el
 - **Knowledge:** the defendant must know of the item's presence and, in most jurisdictions, its illicit nature (knowing it is a drug, though not necessarily which drug). Mere proximity or presence where contraband is found is not enough.
 - **Statutory presumptions** (for example, that all occupants of a car possess a gun found in it) are valid only as **permissive** inferences that are rational on the facts (*County Court of Ulster County v. Allen*, 442 U.S. 140 (1979)) (R-CRM-119).
 - **Strict-liability possession statutes** are disfavored for serious crimes; courts read in a knowledge requirement (*Staples v. United States*, 511 U.S. 600 (1994): knowledge that a weapon had the characteristics bringing it within the statute). For federal felon-in-possession, the government must prove the defendant knew he belonged to the prohibited category (*Rehaif v. United States*, 588 U.S. 225 (2019)).
-- **Second Amendment limits** on possession crimes are a Constitutional Law topic; see `03-subjects/constitutional-law/outline.md` (for example, an as-applied ruling on a drug-user firearm ban, *United States v. Hemani* (2026) [VERIFY V-250]).
+- **Second Amendment limits** on possession crimes are a Constitutional Law topic; see `03-subjects/constitutional-law/outline.md` (for example, an as-applied ruling on a drug-user firearm ban, *United States v. Hemani* (2026) [S-316] [S-1452]).
 
 **Essay pattern.** Drugs found in a car trunk (Jul 2021 Q4) or in a shared apartment: possession questions usually sit behind a Fourth Amendment suppression call; analyze standing and the search first, then (if asked) knowing possession.
 
@@ -666,7 +666,7 @@ California also presumes that a resident who uses deadly force against an unlawf
 
 **Initial aggressor (R-CRM-022).** An initial aggressor may use force in self-defense only if (1) he **withdraws** in good faith and **communicates** the withdrawal, or (2) the victim of his non-deadly aggression **escalates** suddenly to deadly force, and the aggressor cannot safely withdraw.
 
-**Imperfect self-defense (R-CRM-023).** An honest but unreasonable belief in the need for deadly force is not a complete defense, but in many jurisdictions it reduces murder to voluntary manslaughter. Some jurisdictions extend the mitigation to an initial aggressor; California does not where the defendant's own wrongful conduct legally justified the adversary's attack (*Christian S.*) [VERIFY V-986]. The MPC handles it through § 3.09(2): a reckless or negligent belief supports conviction for a crime of recklessness or negligence (manslaughter or negligent homicide).
+**Imperfect self-defense (R-CRM-023).** An honest but unreasonable belief in the need for deadly force is not a complete defense, but in many jurisdictions it reduces murder to voluntary manslaughter. Some jurisdictions extend the mitigation to an initial aggressor; California does not where the defendant's own wrongful conduct (such as a physical assault or the commission of a felony) created circumstances that legally justified the adversary's use of force (*Christian S.*; CALCRIM No. 571) [S-1824]. The MPC handles it through § 3.09(2): a reckless or negligent belief supports conviction for a crime of recklessness or negligence (manslaughter or negligent homicide).
 
 **Defense of others (R-CRM-024).** A person may use force to defend a third person when he **reasonably believes** the third person would be entitled to use that force in self-defense (majority and MPC § 3.05). Under the older minority "alter ego" rule, the defender stands in the shoes of the person defended and has no defense if that person had no right of self-defense. No special relationship is required under the modern rule.
 
@@ -715,7 +715,7 @@ California also presumes that a resident who uses deadly force against an unlawf
 
 **Separate sovereigns.** The state and federal governments (and two states) may each prosecute the same conduct without double jeopardy (*Gamble v. United States*, 587 U.S. 678 (2019); *Heath v. Alabama*, 474 U.S. 82 (1985)); a city is not a separate sovereign from its state (*Waller v. Florida*, 397 U.S. 387 (1970)) (R-CRM-117).
 
-**Venue and vicinage.** Federal trials must be held in the state and district where the crime was committed (U.S. Const. art. III, § 2, cl. 3; Sixth Amendment). Trial in the wrong venue does not bar retrial in the right one (*Smith v. United States* (2023) [VERIFY V-250]).
+**Venue and vicinage.** Federal trials must be held in the state and district where the crime was committed (U.S. Const. art. III, § 2, cl. 3; Sixth Amendment). Trial in the wrong venue does not bar retrial in the right one: the Double Jeopardy Clause does not apply to Venue and Vicinage Clause violations (*Smith v. United States* (2023)) [S-1837].
 
 **Statutes of limitations.** Most crimes have limitation periods; murder has none (California: Pen. Code § 799).
 
@@ -842,7 +842,7 @@ The Fourth Amendment restricts only government agents: police, other public offi
 - **Parents** can usually consent to search of a child's room; a landlord or hotel clerk cannot consent to search a tenant's or guest's room (*Stoner v. California*, 376 U.S. 483 (1964)).
 
 **Exigent circumstances (R-CRM-087).** A warrantless search or entry is reasonable when an emergency makes obtaining a warrant impracticable:
-- **Hot pursuit** of a fleeing felon (*Warden v. Hayden*, 387 U.S. 294 (1967)); pursuit of a fleeing **misdemeanant** does not categorically justify home entry and is judged case by case (*Lange v. California*, 594 U.S. 295 (2021) [S-1515] [VERIFY V-250]).
+- **Hot pursuit** of a fleeing felon (*Warden v. Hayden*, 387 U.S. 294 (1967)); pursuit of a fleeing **misdemeanant** does not categorically justify home entry and is judged case by case (*Lange v. California*, 594 U.S. 295 (2021) [S-1515] [S-1838]); flight is one factor, and officers may act without a warrant only if the totality of circumstances shows a real emergency (imminent harm, destruction of evidence, escape from the home).
 - **Imminent destruction of evidence**, including where police did not create the exigency by violating or threatening to violate the Fourth Amendment (*Kentucky v. King*, 563 U.S. 452 (2011)). The natural dissipation of alcohol in blood does not create a per se exigency for a warrantless blood draw (*Missouri v. McNeely*, 569 U.S. 141 (2013)).
 - **Emergency aid:** police may enter a home without a warrant when they have an **objectively reasonable basis for believing** that an occupant is seriously injured or imminently threatened with such injury (*Brigham City v. Stuart*, 547 U.S. 398 (2006)). The standard is objective reasonableness, **not probable cause** (*Case v. Montana* (2026) [S-351] [S-352]: 911 call and visible signs of a threatened suicide justified entry). There is **no free-standing "community caretaking" exception** for the home (*Caniglia v. Strom* (2021) [S-1510]).
 - **Danger to police or the public** (a suspect with a gun; a fire — officials may remain a reasonable time to investigate its cause, *Michigan v. Tyler*, 436 U.S. 499 (1978)).

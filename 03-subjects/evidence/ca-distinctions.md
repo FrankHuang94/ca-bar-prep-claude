@@ -46,7 +46,7 @@ status: reviewed
 | Prior inconsistent statement — substantive use | From Dec. 1, 2026: any prior inconsistent statement of a testifying witness, subject to 403 (before: only if under oath at a proceeding) | Any prior inconsistent statement meeting § 770 | FRE 801(d)(1)(A) [S-101]; CEC § 1235 | Now largely the same (R-EVD-085) |
 | Prior consistent statement | Rebut fabrication/motive (pre-motive) **or** rehabilitate on another ground | Only after an inconsistent statement (made before it) or a fabrication/bias charge (made before the motive) | FRE 801(d)(1)(B); CEC §§ 791, 1236 | California has no "other ground" clause (R-EVD-086) |
 | Party admissions — label | "Not hearsay" (exclusion) | Hearsay within an exception | FRE 801(d)(2); CEC § 1220 | Use the right label (R-EVD-088) |
-| Employee statements | Agent/employee on matter within scope, during employment | Only if authorized (§ 1222), or derivative liability (§ 1224) | FRE 801(d)(2)(D); CEC §§ 1222, 1224 [S-523]; *Labis* [S-503] | Big difference (R-EVD-090) [VERIFY V-401] |
+| Employee statements | Agent/employee on matter within scope, during employment | Only if authorized (§ 1222), or derivative liability (§ 1224) | FRE 801(d)(2)(D); CEC §§ 1222, 1224 [S-523]; *Labis* [S-503] [S-1826] | Big difference (R-EVD-090) |
 | Coconspirator foundation | Judge finds conspiracy and membership by a preponderance, considering the statement (104(a); *Bourjaily*) | Prima facie evidence independent of the statement, sufficient to sustain a finding; jury told to use the statement only if the conspiracy is proved by a preponderance without it (CALCRIM No. 418); covers statements made before the party joined | FRE 801(d)(2)(E); CEC § 1223; *People v. Hardy* (1992) 2 Cal.4th 86, 139 [S-1558] | Name the independent-evidence requirement (R-EVD-091) |
 | Present sense impression | Admissible | No general exception; § 1241 only for statements explaining declarant's own conduct | FRE 803(1); CEC § 1241 | California gap (R-EVD-093) |
 | Medical diagnosis statements | To anyone, for diagnosis or treatment; history, symptoms, cause | Only child-abuse victims under 12 (§ 1253) | FRE 803(4); CEC § 1253 [S-500] | California gap (R-EVD-097) |
@@ -168,7 +168,7 @@ status: reviewed
 | Party's own statement | 801(d)(2)(A) | § 1220 | Label only |
 | Adoptive | 801(d)(2)(B) | § 1221 | Same |
 | Authorized | 801(d)(2)(C) | § 1222 | Same |
-| Employee/agent | 801(d)(2)(D) | None general; § 1224 derivative liability [VERIFY V-401] | **California narrower** |
+| Employee/agent | 801(d)(2)(D) | None general; § 1224 derivative liability (*Labis*) [S-1826] | **California narrower** |
 | Coconspirator | 801(d)(2)(E) | § 1223 [S-1558] | California: prima facie independent evidence (not a 104(a) preponderance finding); statements before the party joined covered |
 | Successor / predecessor in interest | 801(d)(2) (2024) [S-105] | § 1224 and related sections [VERIFY V-409] | Similar |
 | Prior inconsistent | 801(d)(1)(A) (amended 2026) | § 1235 | Now largely aligned |
@@ -184,7 +184,7 @@ status: reviewed
 | Public records | 803(8) | § 1280 | No express police-report bar |
 | Learned treatise | 803(18) | § 721(b) (impeachment), § 1341 | **California gap** |
 | Judgment of conviction | 803(22) | § 1300 (civil) [VERIFY V-409] | Similar |
-| Unavailability | 804(a) | § 240 [S-516] [S-1551] | Refusal counts only after a contempt finding (§ 240(a)(6)); memory loss not listed [VERIFY V-990] |
+| Unavailability | 804(a) | § 240 [S-516] [S-1551] | Refusal counts only after a contempt finding (§ 240(a)(6)); memory loss not listed; infirmity-caused memory loss can qualify (*Alcala*) [S-1827]; bare or feigned memory loss unsettled [VERIFY V-990] |
 | Former testimony | 804(b)(1) | §§ 1291, 1292 | California broader in civil cases |
 | Dying declaration | 804(b)(2) | § 1242 | California: any case; declarant must die |
 | Against interest | 804(b)(3) | § 1230 | California adds social interest |

@@ -590,7 +590,7 @@ status: reviewed
 ### R-EVD-044 — Domestic-violence propensity (§ 1109)
 **Rule (write this):** In a California criminal action in which the defendant is accused of an offense involving domestic violence, evidence of the defendant's other acts of domestic violence is not made inadmissible by § 1101 if it survives § 352; acts more than ten years before the charged offense are inadmissible unless the court finds admission in the interest of justice.
 
-**Elements:** 1. Criminal action. 2. Charged offense involving domestic violence. 3. Other DV acts. 4. § 352. 5. Ten-year limit. 6. Disclosure to the defense. "Domestic violence" takes its meaning from Pen. Code § 13700 (which reaches spouses, cohabitants, dating or engagement relationships and co-parents [VERIFY V-993]) and, subject to a § 352 hearing, for acts no more than five years before the charged offense, the broader Fam. Code § 6211 definition (§ 1109(d)(3)) [S-1550].
+**Elements:** 1. Criminal action. 2. Charged offense involving domestic violence. 3. Other DV acts. 4. § 352. 5. Ten-year limit. 6. Disclosure to the defense. "Domestic violence" takes its meaning from Pen. Code § 13700 (abuse against a spouse, former spouse, cohabitant, former cohabitant, a person with whom the suspect has had a child, or a person with whom the suspect is having or has had a dating or engagement relationship) [S-1828] and, subject to a § 352 hearing, for acts no more than five years before the charged offense, the broader Fam. Code § 6211 definition (§ 1109(d)(3)) [S-1550].
 
 **Exceptions / defenses:** The section also admits other acts of elder or dependent-person abuse, and of child abuse, when the charged offense is of that kind; the ten-year limit (§ 1109(e)) applies to every category [S-1550].
 
@@ -1202,7 +1202,7 @@ status: reviewed
 
 **Exceptions / defenses:** Statements after employment ends are not covered. Successor liability: since 2024, statements admissible against a predecessor or principal are admissible against a party whose liability derives from them [S-105].
 
-**Authority:** FRE 801(d)(2)(C)–(D); CEC §§ 1222, 1224 [S-523]; *Labis v. Stopper* (1970) 11 Cal.App.3d 1003 [S-503] [VERIFY V-401].
+**Authority:** FRE 801(d)(2)(C)–(D); CEC §§ 1222, 1224 [S-523]; *Labis v. Stopper* (1970) 11 Cal.App.3d 1003 [S-503] [S-1826].
 
 **MBE vs. CA essay:** Differs: no general vicarious-admission rule in California.
 
@@ -1356,7 +1356,7 @@ status: reviewed
 
 **Elements:** One listed ground, shown by the proponent (104(a)); reasonable diligence for absence.
 
-**Exceptions / defenses:** California § 240(a) lists privilege, disqualification, death or then-existing physical or mental illness or infirmity, inability to compel attendance, absence despite reasonable diligence, and (since 2010, § 240(a)(6)) **persistent refusal to testify despite having been found in contempt**; expert proof of crime-caused trauma can establish infirmity [S-516] [S-513] [S-1551]. Memory loss is not listed; whether it qualifies (e.g., as mental infirmity) depends on case law [VERIFY V-990].
+**Exceptions / defenses:** California § 240(a) lists privilege, disqualification, death or then-existing physical or mental illness or infirmity, inability to compel attendance, absence despite reasonable diligence, and (since 2010, § 240(a)(6)) **persistent refusal to testify despite having been found in contempt**; expert proof of crime-caused trauma can establish infirmity [S-516] [S-513] [S-1551]. Memory loss is not listed as such. Where a mental infirmity has left the witness with no memory of the events, the California Supreme Court allowed former testimony as from an unavailable witness under the "then-existing … mental illness or infirmity" ground (*People v. Alcala* (1992) 4 Cal.4th 742) [S-1827]; whether a claimed or feigned lack of memory without such an infirmity qualifies is not settled in the sources checked [VERIFY V-990].
 
 **Authority:** FRE 804(a); CEC § 240 [S-516] [S-1551].
 

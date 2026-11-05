@@ -617,9 +617,9 @@ status: reviewed
 
 **Elements:** 1. Ground for termination (nonpayment, breach of a material covenant, holdover). 2. Required notice (California: three-day notice to pay rent or quit, or to perform a curable covenant). 3. Unlawful detainer action. 4. Damages for rent and holdover.
 
-**Exceptions / defenses:** Common law allowed peaceable self-help in some states; never against a tenant still present who objects in a manner threatening a breach of the peace. California imposes statutory damages for utility shutoffs, lockouts and removal of the tenant's property (Civ. Code § 789.3) [VERIFY V-662]. Tenant defenses: habitability, retaliation, defective notice, waiver by acceptance of rent.
+**Exceptions / defenses:** Common law allowed peaceable self-help in some states; never against a tenant still present who objects in a manner threatening a breach of the peace. California bars a landlord from interrupting utilities, locking the tenant out or removing the tenant's property to force the tenant out; the tenant recovers actual damages plus up to $100 for each day of violation (at least $250 for each separate cause of action), and attorney's fees are available (Civ. Code § 789.3) [S-1831]. Tenant defenses: habitability, retaliation, defective notice, waiver by acceptance of rent.
 
-**Authority:** CCP §§ 1159–1179a (unlawful detainer), § 1161; Civ. Code § 789.3.
+**Authority:** CCP §§ 1159–1179a (unlawful detainer), § 1161; Civ. Code § 789.3 [S-1831].
 
 **MBE vs. CA essay:** Same rule.
 
@@ -643,7 +643,7 @@ status: reviewed
 
 **Elements:** 1. Covered unit (not exempt). 2. Tenancy of 12 months or more. 3. Just cause stated. 4. No-fault: relocation assistance or rent waiver, and SB 567's stricter conditions (owner move-in within 90 days and occupancy as a primary residence for at least 12 months; substantial remodel requires permits and work that cannot be done safely with the tenant in place, displacing for at least 30 days). 5. Rent-increase cap.
 
-**Exceptions / defenses:** Exemptions include housing first occupied within the prior 15 years, many single-family homes and condominiums owned by natural persons where the required notice was given, owner-occupied duplexes and housing under stricter local rent control [VERIFY V-650]. Violations expose the owner to actual damages, attorney's fees and up to treble damages for willful violations [S-753]. The just-cause and rent-cap provisions are scheduled to be repealed on January 1, 2030; a 2025 bill to remove the sunset died in January 2026 [S-755].
+**Exceptions / defenses:** Exemptions include housing issued a certificate of occupancy within the previous 15 years (the clock runs from the certificate, not from construction or purchase; a 2025–26 bill, SB 522, would treat housing rebuilt after a disaster differently, and its status is unconfirmed [VERIFY V-1050]) and a duplex in which the owner occupied one unit as a principal residence at the start of the tenancy and still does [S-1829]; also many single-family homes and condominiums owned by natural persons where the required notice was given, and housing under stricter local rent control [VERIFY V-650]. No-fault relocation assistance equals one month's rent, paid within 15 calendar days of service of the notice or given as a waiver of the final month's rent [S-1829]. Violations expose the owner to actual damages, attorney's fees and up to treble damages for willful violations [S-753]. The just-cause and rent-cap provisions are scheduled to be repealed on January 1, 2030; a 2025 bill to remove the sunset died in January 2026 [S-755].
 
 **Authority:** Civ. Code §§ 1946.2, 1947.12 (AB 1482 (2019), amended by SB 567 (2023)) [S-752] [S-753] [S-754] [S-755].
 
@@ -891,9 +891,9 @@ status: reviewed
 
 **Elements:** 1. Open and notorious. 2. Continuous for the period (seasonal use consistent with the use's nature counts; tacking allowed among successors in privity). 3. Adverse/hostile: no permission. 4. Statutory period (California five years).
 
-**Exceptions / defenses:** Permission defeats prescription; if use began with permission, adversity starts only on a clear repudiation. An owner may interrupt by blocking the use, or in California prevent prescription by posting statutory signs at entrances or every 200 feet ("Right to pass by permission, and subject to control, of owner") or by recording a notice of consent (Civ. Code §§ 813, 1008) [S-764]. No prescription runs against public entities (Civ. Code § 1007). California courts are reluctant to grant a prescriptive easement that excludes the owner from practical use of the land [VERIFY V-654]; *Romero v. Shih* (2024) 15 Cal.5th 680 distinguished the prescriptive-easement cases and allowed an exclusive *implied* easement on clear evidence of intent (R-PRP-062) [S-1601].
+**Exceptions / defenses:** Permission defeats prescription; if use began with permission, adversity starts only on a clear repudiation. An owner may interrupt by blocking the use, or in California prevent prescription by posting statutory signs at entrances or every 200 feet ("Right to pass by permission, and subject to control, of owner") or by recording a notice of consent (Civ. Code §§ 813, 1008) [S-764]. No prescription runs against public entities (Civ. Code § 1007). California courts generally refuse a prescriptive easement that excludes the owner from practical use of the land: a claimant who wants exclusive, fee-like use must prove adverse possession, including payment of taxes (*Raab v. Casper* (1975); *Silacci v. Abramson* (1996) 45 Cal.App.4th 558; *Mehdizadeh v. Mincer* (1996) 46 Cal.App.4th 1296) [S-1833]; *Romero v. Shih* (2024) 15 Cal.5th 680 distinguished the prescriptive-easement cases and allowed an exclusive *implied* easement on clear evidence of intent (R-PRP-062) [S-1601].
 
-**Authority:** Common law; Civ. Code §§ 813, 1007, 1008, 1009 [S-764]; CCP § 321; *Gilardi v. Hallam* (1981) 30 Cal.3d 317 [S-757].
+**Authority:** Common law; Civ. Code §§ 813, 1007, 1008, 1009 [S-764]; CCP § 321; *Gilardi v. Hallam* (1981) 30 Cal.3d 317 [S-757]; *Silacci v. Abramson* (1996) 45 Cal.App.4th 558; *Mehdizadeh v. Mincer* (1996) 46 Cal.App.4th 1296 [S-1833].
 
 **MBE vs. CA essay:** MBE: use the statutory period given in the question. CA essay: five years; no tax payment. Tested Jul 2024 Q2 [VERIFY V-071].
 
@@ -1141,9 +1141,9 @@ status: reviewed
 
 **Elements:** 1. Enforceable contract. 2. Loss between signing and closing. 3. Who bears risk: majority (buyer), UVPRA (seller until title or possession), contract allocation controls. 4. Insurance: credit to buyer to avoid double recovery. 5. Death of a party: the buyer's interest passes as real property and the seller's as personal property (the right to the price).
 
-**Exceptions / defenses:** The parties may allocate risk by contract. Under the UVPRA, if a material part of the property is destroyed without fault of the buyer before title or possession passes, the seller cannot enforce the contract and the buyer may recover any payments made.
+**Exceptions / defenses:** The parties may allocate risk by contract. Under the UVPRA, if a material part of the property is destroyed without fault of the buyer before title or possession passes, the seller cannot enforce the contract and the buyer may recover any payments made. The buyer cannot instead insist on specific performance with a price abatement: on a material loss the seller's performance is excused (*Dixon v. Salvation Army* (1983) 142 Cal.App.3d 463) [S-1839]. *Dixon* noted that New York's version of the Act, unlike California's, expressly provides an abatement when only an immaterial part is destroyed [S-1839].
 
-**Authority:** Common law; *Skelly Oil Co. v. Ashmore*, 365 S.W.2d 582 (Mo. 1963) (insurance credit); Civ. Code § 1662 (UVPRA).
+**Authority:** Common law; *Skelly Oil Co. v. Ashmore*, 365 S.W.2d 582 (Mo. 1963) (insurance credit); Civ. Code § 1662 (UVPRA); *Dixon v. Salvation Army* (1983) 142 Cal.App.3d 463 [S-1839].
 
 **MBE vs. CA essay:** MBE: the majority rule (risk on buyer) unless a statute is given. CA essay: give the majority rule, then "California adopted the UVPRA (Civ. Code § 1662), so the risk remains on the seller until title or possession passes."
 
@@ -1473,7 +1473,7 @@ status: reviewed
 
 **MBE vs. CA essay:** Not on the MBE. CA essay: add "In California, the period is five years and the possessor must have paid all taxes levied and assessed (CCP § 325)" after the general rule.
 
-**Example:** For six years D fenced and gardened a 10-foot strip of P's lot, but the strip was assessed with P's lot and P paid the taxes. D fails to acquire title in California; D may claim a prescriptive easement, but courts rarely grant one that excludes P entirely [VERIFY V-654].
+**Example:** For six years D fenced and gardened a 10-foot strip of P's lot, but the strip was assessed with P's lot and P paid the taxes. D fails to acquire title in California; D may claim a prescriptive easement, but courts generally refuse one that excludes P entirely, since that would give D the equivalent of a fee without paying taxes (*Silacci*; *Mehdizadeh*) [S-1833].
 
 ### R-PRP-107 — Adverse possession: tacking, disabilities, scope and future interests
 **Rule (write this):** Successive adverse possessors may tack their periods together if they are in privity, meaning the possession passed by a voluntary transfer such as a deed, will, inheritance or even an oral transfer of possession, but not by abandonment or ouster. The statute does not run against an owner who was under a disability (minority, insanity, imprisonment) when the adverse possession began, and it does not run against the holder of a future interest until that interest becomes possessory.

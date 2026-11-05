@@ -129,9 +129,9 @@ The burden is on Δ to plead and prove consent and the privileges. A privilege p
 - **Capacity:** young children, incompetents and severely intoxicated persons cannot consent. A parent or guardian may consent for them.
 - **Scope:** exceeding the consent is a battery. Consent to an operation on the right ear is not consent to an operation on the left ear (*Mohr v. Williams*, 95 Minn. 261 (1905)). In sport, a deliberate blow after the play is outside the scope (*Hackbart v. Cincinnati Bengals, Inc.*, 601 F.2d 516 (10th Cir. 1979)).
 - **Fraud or duress:** fraud about the **essential nature** of the act vitiates consent (a "medical exam" that is a sexual touching). Fraud about a **collateral** matter does not (a payment in counterfeit money for a consensual act). Duress vitiates consent; economic pressure usually does not.
-- **Consent to a crime** (courts divide) [VERIFY V-1001]:
+- **Consent to a crime** (courts divide; *Hudson v. Craft* (1949) 33 Cal.2d 654 calls the first view the majority and the Restatement's the minority) [S-1825]:
   - Traditional rule, long described by treatises as the majority: consent to a criminal act (mutual combat, an illegal prize fight) is ineffective, so each combatant can sue the other.
-  - Restatement (R2d § 892C): consent to an illegal act is effective, so mutual combatants cannot sue each other for battery.
+  - Restatement (R2d § 892C): consent to an illegal act is effective, so mutual combatants cannot sue each other for battery (followed in *Hart v. Geysel*, 159 Wash. 632 (1930)) [S-1825].
   - Under either view, consent is ineffective where a statute protects a class against its own consent (statutory rape, child labor).
   - On an essay, state both views.
 - **Medical consent and informed consent:** see II.B.1 and R-TRT-028.
@@ -725,7 +725,7 @@ The July 2023 Q2 selected answers followed this order [VERIFY V-071].
 - **Express warranty** (UCC § 2-313): an affirmation of fact or promise, a description, or a sample or model that is part of the basis of the bargain. Puffery does not count. Labels and advertising can create express warranties.
 - **Implied warranty of merchantability** (§ 2-314): a merchant seller of goods of that kind; the goods must be fit for their ordinary purposes and adequately labeled.
 - **Implied warranty of fitness for a particular purpose** (§ 2-315): the seller has reason to know the particular purpose and that the buyer relies on its skill or judgment.
-- **Privity** (§ 2-318 alternatives): A extends to the buyer's household and guests; B to natural persons reasonably expected to use, consume or be affected who suffer personal injury; C to any person, for any injury. Most courts relax privity for personal injury.
+- **Privity** (§ 2-318 alternatives): A extends to the buyer's household and guests; B to natural persons reasonably expected to use, consume or be affected who suffer personal injury; C to any person, for any injury. Most courts relax privity for personal injury. **CA:** no § 2318 was enacted; case law generally requires vertical privity for implied warranty, with exceptions (express warranty relied on; the purchaser's family) (R-TRT-089) [S-1820] [S-1821] [S-1822].
 - **Disclaimers** (§ 2-316); limitations on remedies (§ 2-719(3): limiting consequential damages for personal injury from consumer goods is prima facie unconscionable).
 - **Notice of breach** within a reasonable time (§ 2-607(3)(a)).
 - **Limitations:** four years from tender (§ 2-725).

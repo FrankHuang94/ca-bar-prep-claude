@@ -99,7 +99,7 @@ One line per authority. Cite cases on an essay by short name only ("*Rowland*");
 | R2d §§ 652A–652E | Privacy torts | R-TRT-101 to R-TRT-104 |
 | R2d §§ 766, 766B, 767, 768 | Interference with contract and prospective relations; factors; competition | R-TRT-110, R-TRT-111 |
 | R2d §§ 821B, 821D, 822, 826 | Public and private nuisance; unreasonableness | R-TRT-092, R-TRT-093 |
-| R2d § 892C [VERIFY V-600] | Consent to crime effective unless a statute protects a class (Restatement view; courts divide [VERIFY V-1001]) | R-TRT-009 |
+| R2d § 892C [VERIFY V-600] | Consent to crime effective unless a statute protects a class (Restatement view, described as the minority in *Hudson v. Craft* (1949) 33 Cal.2d 654 [S-1825]) | R-TRT-009 |
 | R3d PEH §§ 7, 26, 27, 29 | General duty; factual cause; multiple sufficient causes; scope of liability | R-TRT-019, R-TRT-037, R-TRT-038, R-TRT-044 |
 | R3d PEH § 20 | Abnormally dangerous activities | R-TRT-077 |
 | R3d PEH § 48 | Bystander emotional harm | R-TRT-055 |

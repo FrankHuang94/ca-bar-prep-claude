@@ -157,7 +157,7 @@ Only citations the author is confident of are listed; items needing confirmation
 | *People v. Green* (1971) 3 Cal.3d 981 | Deliberately evasive memory loss is inconsistency under § 1235 [S-519] | R-EVD-085 |
 | *People v. Leach* (1975) 15 Cal.3d 419; *People v. Duarte* (2000) 24 Cal.4th 603 | § 1230 excludes collateral and blame-shifting portions [S-508] | R-EVD-104 |
 | *People v. Reyes* (1974) 12 Cal.3d 486 | Psychiatric opinion not an "act, condition or event" under § 1271 [S-515] | R-EVD-099 |
-| *Labis v. Stopper* (1970) 11 Cal.App.3d 1003 | Employee's statement admissible against employer under § 1224; distinguishes *Markley v. Beagle* (1967) 66 Cal.2d 951, 960 dictum [S-503] [VERIFY V-401] | R-EVD-090 |
+| *Labis v. Stopper* (1970) 11 Cal.App.3d 1003 | Employee's statement to an investigating officer admissible against the employer under § 1224; declined to follow *Markley v. Beagle* (1967) 66 Cal.2d 951, 960 (pre-Evidence Code trial) [S-503] [S-1826] | R-EVD-090 |
 | *People v. Hardy* (1992) 2 Cal.4th 86 | § 1223: conspiracy must be shown by evidence independent of the statement (at 139) [S-1558] | R-EVD-091 |
 | *D.I. Chadbourne, Inc. v. Superior Court* (1964) 60 Cal.2d 723 | Dominant-purpose test for employee statements to corporate counsel [S-518] | R-EVD-064 |
 | *Costco Wholesale Corp. v. Superior Court* (2009) 47 Cal.4th 725 | Privilege covers the whole communication; no in camera disclosure to rule on it [S-517] | R-EVD-062 |

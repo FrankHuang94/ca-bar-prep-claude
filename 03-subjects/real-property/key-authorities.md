@@ -44,7 +44,7 @@ Cite only what you need on an essay; a rule stated correctly without a case name
 | Civ. Code § 1950.5 [S-750] [S-751] | Security deposits: one-month cap (small-landlord exception), 21-day return | R-PRP-031 |
 | Civ. Code §§ 1946.2, 1947.12 [S-752] [S-753] [S-754] [S-755] | Tenant Protection Act: just cause; rent cap; sunset Jan 1, 2030 | R-PRP-046 |
 | Civ. Code §§ 1951.2, 1951.3, 1951.4 [VERIFY V-662] | Landlord's damages after abandonment; abandonment notice; lock-in | R-PRP-033 |
-| Civ. Code § 1954 [VERIFY V-662]; § 789.3 [VERIFY V-662] | Entry notice; self-help prohibited | R-PRP-044 |
+| Civ. Code § 1954 [S-1832]; § 789.3 [S-1831] | Entry notice; self-help prohibited | R-PRP-044 |
 | Civ. Code §§ 1995.010–1995.340 [S-762] [S-1600] | Lease transfer restrictions; consent standard; nonresidential leases only (§ 1995.020(b)) | R-PRP-042 |
 | Civ. Code §§ 4000 et seq., 4715, 5975 [S-775]; § 783 | Davis-Stirling Act; pets; declarations as equitable servitudes; condominium | R-PRP-058, R-PRP-059 |
 | Civ. Code §§ 2884, 2889, 2897, 2898 [S-770], 2903 | Future obligations; forfeiture and clogging void; priority by time; purchase-money priority; redemption | R-PRP-090, R-PRP-091, R-PRP-093, R-PRP-100 |
@@ -97,6 +97,8 @@ Cite only what you need on an essay; a rule stated correctly without a case name
 ## Cases — California
 | Case | Holding (one line) | Rule ID |
 |---|---|---|
+| *Dixon v. Salvation Army* (1983) 142 Cal.App.3d 463 [S-1839] | UVPRA: material part destroyed before title or possession passes; seller excused, buyer recovers payments; no specific performance with abatement | R-PRP-082 |
+| *Silacci v. Abramson* (1996) 45 Cal.App.4th 558; *Mehdizadeh v. Mincer* (1996) 46 Cal.App.4th 1296 [S-1833] | No exclusive, fee-like prescriptive easement without proof of adverse possession (including taxes) | R-PRP-064 |
 | *Riddle v. Harmon* (1980) 102 Cal.App.3d 524 | Joint tenant may sever by deed to herself | R-PRP-021 |
 | *Estate of England* (1991) 233 Cal.App.3d 1 [S-761] | Unrecorded will cannot sever; § 683.2 purpose | R-PRP-021 |
 | *People v. Nogarr* (1958) 164 Cal.App.2d 591 [S-765] | One joint tenant's mortgage does not sever; survivor takes free | R-PRP-022 |

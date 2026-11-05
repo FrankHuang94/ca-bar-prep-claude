@@ -305,5 +305,5 @@ Only citations the author is confident of are listed; recent decisions carry the
 |---|---|
 | U.S. ex rel. Newsham v. Lockheed Missiles & Space Co., 190 F.3d 963 (9th Cir. 1999) | California anti-SLAPP applies to state claims in federal court (continued validity debated; Gopher Media assumed without deciding) [VERIFY V-975] |
 | Planned Parenthood Fed'n of Am. v. Center for Medical Progress, 890 F.3d 828 (9th Cir. 2018) | Rule 12(b)(6) or Rule 56 standard for anti-SLAPP motions in federal court |
-| Gopher Media LLC v. Melone, No. 24-2626 (9th Cir. Oct. 9, 2025) (en banc) [S-255] [S-1402] | Denials of anti-SLAPP motions not immediately appealable (Batzel overruled); assumed without deciding that § 425.16 applies; cert petition No. 25-1067 [S-1403] |
+| Gopher Media LLC v. Melone, No. 24-2626 (9th Cir. Oct. 9, 2025) (en banc) [S-255] [S-1402] | Denials of anti-SLAPP motions not immediately appealable (Batzel overruled); assumed without deciding that § 425.16 applies; certiorari declined (No. 25-1067) per a later brief; related petition No. 25-1329 pending fall 2026 [S-1403] [S-1836] |
 | AM Trust v. UBS AG, 681 F. App'x 587 (9th Cir. 2017) (unpublished) [S-1405] | California registration requires consent to service of process, not to general jurisdiction |

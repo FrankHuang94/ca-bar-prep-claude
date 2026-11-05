@@ -69,7 +69,7 @@ status: reviewed
 | 2-210 | Delegation and assignment | R-CTR-112, R-CTR-113, R-CTR-116 |
 | 2-302 | Unconscionability | R-CTR-040 |
 | 2-305 to 2-310 | Open price; output/requirements; delivery lots, place, time; payment | R-CTR-020, R-CTR-021 |
-| 2-312 to 2-318 | Warranties: title, express, merchantability, fitness; disclaimer; cumulation; third parties (California appears to omit § 2318 [VERIFY V-970]) | R-CTR-056 to R-CTR-061 |
+| 2-312 to 2-318 | Warranties: title, express, merchantability, fitness; disclaimer; cumulation; third parties (California enacted no version of § 2318 [S-1820]; case-law privity: *Burr*, *All West Electronics*, *Hauter* [S-1821] [S-1822]) | R-CTR-056 to R-CTR-061 |
 | 2-319, 2-320 | F.O.B., F.A.S.; C.I.F., C. & F. | R-CTR-077 |
 | 2-328 | Auctions | R-CTR-005 |
 | 2-401, 2-403 | Title; voidable title; entrustment | R-CTR-081 |
@@ -98,7 +98,7 @@ status: reviewed
 | Civ. Code § 1550 | Essentials: capable parties, consent, lawful object, consideration | R-CTR-003 |
 | Civ. Code §§ 1582, 1583, 1585, 1587 | Mode of acceptance; acceptance on dispatch; qualified acceptance = new proposal; revocation incl. death of proposer [S-212] | R-CTR-006, R-CTR-012, R-CTR-015 |
 | Civ. Code §§ 1605, 1606, 1614, 1615 | Good consideration; moral obligation [S-207]; written instrument presumes consideration | R-CTR-022, R-CTR-026 |
-| Civ. Code § 1624 | Statute of frauds: (a)(1)–(5), (a)(7) confirmed [S-202] [S-1350]; (a)(6) [VERIFY V-100] | R-CTR-042 |
+| Civ. Code § 1624 | Statute of frauds: (a)(1)–(7) confirmed [S-202] [S-1350] [S-1834]; whether any marriage category remains [VERIFY V-100] | R-CTR-042 |
 | Civ. Code § 1633.7 | Electronic records and signatures (UETA) | R-CTR-043 |
 | Civ. Code §§ 1636, 1639, 1641, 1644, 1654, 1657 | Interpretation; reasonable time | R-CTR-053, R-CTR-055 |
 | Civ. Code §§ 1667, 1668, 1670.5 | Unlawful contracts; exculpation for fraud or willful injury; unconscionability | R-CTR-039 to R-CTR-041 |

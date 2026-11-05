@@ -198,9 +198,9 @@ status: reviewed
 
 **Elements:** 1. Conduct or result element in the state; or attempt/conspiracy outside aimed at a crime inside; or effects. 2. Sovereign's authority (federal crimes need a constitutional basis). 3. Venue and vicinage.
 
-**Exceptions / defenses:** A city is not a separate sovereign from its state. Wrong venue does not bar retrial in the proper venue [VERIFY V-250].
+**Exceptions / defenses:** A city is not a separate sovereign from its state. Wrong venue does not bar retrial in the proper venue: the Double Jeopardy Clause does not preclude retrying a defendant who was tried in an improper venue before a jury drawn from the wrong district (*Smith v. United States* (2023)) [S-1837].
 
-**Authority:** MPC § 1.03; *Strassheim v. Daily*, 221 U.S. 280 (1911); *Gamble v. United States*, 587 U.S. 678 (2019); U.S. Const. art. III, § 2, cl. 3; amend. VI; Cal. Pen. Code §§ 27, 778a.
+**Authority:** MPC § 1.03; *Strassheim v. Daily*, 221 U.S. 280 (1911); *Gamble v. United States*, 587 U.S. 678 (2019); U.S. Const. art. III, § 2, cl. 3; amend. VI; *Smith v. United States*, No. 21-1576 (U.S. June 15, 2023) [S-1837]; Cal. Pen. Code §§ 27, 778a.
 
 **MBE vs. CA essay:** Same rule.
 
@@ -317,9 +317,9 @@ status: reviewed
 
 **Elements:** 1. Actual belief in the need for deadly force. 2. Belief unreasonable. 3. Result: voluntary manslaughter.
 
-**Exceptions / defenses:** The MPC reaches a similar result through § 3.09(2): a reckless or negligent belief supports conviction only for crimes of recklessness or negligence. Some jurisdictions also give this mitigation to an initial aggressor who lost the right of complete self-defense; California does not allow imperfect self-defense where the defendant's own wrongful conduct (such as starting a physical assault) legally justified the adversary's attack (*Christian S.*) [VERIFY V-986].
+**Exceptions / defenses:** The MPC reaches a similar result through § 3.09(2): a reckless or negligent belief supports conviction only for crimes of recklessness or negligence. Some jurisdictions also give this mitigation to an initial aggressor who lost the right of complete self-defense; California does not allow imperfect self-defense where the defendant, through his own wrongful conduct (such as a physical assault or the commission of a felony), created circumstances that legally justified the adversary's use of force (*Christian S.*; CALCRIM Nos. 571, 604) [S-1824].
 
-**Authority:** Common law; MPC § 3.09(2); *In re Christian S.* (1994) 7 Cal.4th 768; *People v. Flannel* (1979) 25 Cal.3d 668.
+**Authority:** Common law; MPC § 3.09(2); *In re Christian S.* (1994) 7 Cal.4th 768; *People v. Flannel* (1979) 25 Cal.3d 668; CALCRIM Nos. 571, 604 [S-1824].
 
 **MBE vs. CA essay:** Same approach; the MBE tests it as the reason a killing is manslaughter rather than murder.
 
@@ -583,9 +583,9 @@ status: reviewed
 
 **Elements:** 1. Enumerated felony (§ 189(a)). 2. Death occurred. 3. Defendant is (a) actual killer, (b) intent-to-kill aider, or (c) major participant + reckless indifference (Banks/Clark factors: planning role, supplying weapons, presence at the scene, ability to prevent the killing, knowledge of a co-felon's propensity for violence).
 
-**Exceptions / defenses:** The limits do not apply where the victim was a peace officer killed in the performance of duty and the defendant knew or reasonably should have known it (§ 189(f)) [VERIFY V-253]. Natural and probable consequences cannot support murder (§ 188(a)(3); Gentile). Section 188(a)(3) exempts only § 189(e) felony murder from the requirement of personal malice, and § 189(e) covers only the § 189(a) felonies; that structure suggests second-degree felony murder no longer survives, but no controlling holding was located [S-1501] [VERIFY V-252]. Persons convicted under abolished theories may petition for resentencing (§ 1172.6).
+**Exceptions / defenses:** The limits do not apply where the victim was a peace officer killed while in the course of duty and the defendant knew or reasonably should have known the victim was a peace officer performing duties (§ 189(f)); in that case the prosecution need not prove malice (*People v. Hernandez* (Cal. Ct. App. 2021, No. B302815)) [S-1823]. Natural and probable consequences cannot support murder (§ 188(a)(3); Gentile). Section 188(a)(3) exempts only § 189(e) felony murder from the requirement of personal malice, and § 189(e) covers only the § 189(a) felonies; that structure suggests second-degree felony murder no longer survives, but no controlling holding was located [S-1501] [VERIFY V-252]. Persons convicted under abolished theories may petition for resentencing (§ 1172.6).
 
-**Authority:** Cal. Pen. Code §§ 188(a)(3), 189(e)–(f), 1172.6 [S-357] [S-360]; *People v. Strong* (2022) 13 Cal.5th 698 [S-358] [S-1502]; *People v. Gentile* (2020) 10 Cal.5th 830 [S-359] [S-1501]; *People v. Banks* (2015) 61 Cal.4th 788; *People v. Clark* (2016) 63 Cal.4th 522 [VERIFY V-251].
+**Authority:** Cal. Pen. Code §§ 188(a)(3), 189(e)–(f), 1172.6 [S-357] [S-360]; *People v. Strong* (2022) 13 Cal.5th 698 [S-358] [S-1502]; *People v. Gentile* (2020) 10 Cal.5th 830 [S-359] [S-1501]; *People v. Banks* (2015) 61 Cal.4th 788; *People v. Clark* (2016) 63 Cal.4th 522 [VERIFY V-251]; *People v. Hernandez* (Cal. Ct. App. 2021, No. B302815) (§ 189(f)) [S-1823].
 
 **MBE vs. CA essay:** Never on the MBE. On essays, add it only if the call asks for California law; otherwise one sentence noting California's narrower rule.
 
@@ -1171,7 +1171,7 @@ status: reviewed
 
 **Exceptions / defenses:** Pursuit of a misdemeanant is judged case by case (Lange). Alcohol dissipation is not a per se exigency (McNeely). No free-standing community-caretaking exception for homes (Caniglia).
 
-**Authority:** *Warden v. Hayden*, 387 U.S. 294 (1967); *Kentucky v. King*, 563 U.S. 452 (2011); *Brigham City v. Stuart*, 547 U.S. 398 (2006); *Missouri v. McNeely*, 569 U.S. 141 (2013); *Case v. Montana* (2026) [S-351] [S-352]; *Lange v. California*, 594 U.S. 295 (2021) [S-1515] [VERIFY V-250]; *Caniglia v. Strom* (2021) [S-1510].
+**Authority:** *Warden v. Hayden*, 387 U.S. 294 (1967); *Kentucky v. King*, 563 U.S. 452 (2011); *Brigham City v. Stuart*, 547 U.S. 398 (2006); *Missouri v. McNeely*, 569 U.S. 141 (2013); *Case v. Montana* (2026) [S-351] [S-352]; *Lange v. California*, 594 U.S. 295 (2021) [S-1515] [S-1838]; *Caniglia v. Strom* (2021) [S-1510].
 
 **MBE vs. CA essay:** Same rule.
 

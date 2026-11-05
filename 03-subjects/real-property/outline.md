@@ -160,8 +160,8 @@ Essay favorite: four of the 14 Real Property essays turned on landlord-tenant is
 - **Rent** (R-PRP-031): independent covenant at common law; modern residential law makes it dependent on habitability. Rent acceleration valid if not a penalty.
 - **Security deposits:** return with itemization; **CA note:** 21-day return; one-month cap (two months for qualifying small landlords; one month for service members) for residential tenancies after July 1, 2024 (Civ. Code § 1950.5, amended by AB 12) [S-750] [S-751].
 - **Tenant's duties** (R-PRP-032): no waste; ordinary repairs; no illegal use; CA residential tenant duties (Civ. Code § 1941.2).
-- **Landlord's entry:** reasonable notice (CA: generally 24 hours' written notice for nonemergency entry, Civ. Code § 1954) [VERIFY V-662].
-- **Landlord's remedies for nonpayment** (R-PRP-044): terminate if lease or statute allows, then unlawful detainer (CCP § 1161: three-day notice to pay or quit); self-help is barred in California (Civ. Code § 789.3) [VERIFY V-662].
+- **Landlord's entry:** reasonable notice (CA: reasonable written notice for nonemergency entry during normal business hours; 24 hours is presumed reasonable, six days if mailed, Civ. Code § 1954) [S-1832].
+- **Landlord's remedies for nonpayment** (R-PRP-044): terminate if lease or statute allows, then unlawful detainer (CCP § 1161: three-day notice to pay or quit); self-help is barred in California, with actual damages plus up to $100 a day (minimum $250 per cause of action) for lockouts, utility shutoffs and removal of the tenant's property (Civ. Code § 789.3) [S-1831].
 - **Landlord tort liability** (R-PRP-045): common-law no-duty rule with exceptions (latent defects known, common areas, negligent repairs, public use, short-term furnished, covenant to repair); modern/CA general negligence (*Rowland v. Christian* (1968) 69 Cal.2d 108; *Uccello v. Laudenslayer* (1975) 44 Cal.App.3d 504; *Peterson v. Superior Court* (1995) 10 Cal.4th 1185; *Ann M. v. Pacific Plaza Shopping Center* (1993) 6 Cal.4th 666). Cross-reference Torts.
 
 #### I.C.3 Transfers by landlord or tenant
@@ -309,7 +309,7 @@ Rules: R-PRP-050 (burden), R-PRP-051 (benefit), R-PRP-052 (equitable servitude),
 | Estoppel / irrevocable license | Permission + substantial, foreseeable reliance | As reliance requires | When reliance protected | *Holbrook v. Taylor*, 532 S.W.2d 763 (Ky. 1976) (R-PRP-065) |
 | Dedication | Offer to public + acceptance | Public use | Vacation | Civ. Code § 1009 limits implied dedication by public recreational use [S-764] |
 
-- **CA note:** owners can block prescription by posting statutory "right to pass by permission" signs at entrances or every 200 feet (Civ. Code § 1008) or recording a notice of consent (Civ. Code § 813) [S-764]; California courts disfavor prescriptive easements that exclude the owner [VERIFY V-654], but an implied easement may be exclusive on clear evidence of the parties' intent at severance (*Romero v. Shih* (2024) 15 Cal.5th 680) [S-1601] (R-PRP-062).
+- **CA note:** owners can block prescription by posting statutory "right to pass by permission" signs at entrances or every 200 feet (Civ. Code § 1008) or recording a notice of consent (Civ. Code § 813) [S-764]; California courts generally refuse prescriptive easements that exclude the owner, because exclusive fee-like use requires adverse possession, including taxes (*Silacci v. Abramson* (1996) 45 Cal.App.4th 558; *Mehdizadeh v. Mincer* (1996) 46 Cal.App.4th 1296) [S-1833], but an implied easement may be exclusive on clear evidence of the parties' intent at severance (*Romero v. Shih* (2024) 15 Cal.5th 680) [S-1601] (R-PRP-062).
 - **How tested:** Jul 2016 Q2; Feb 2021 Q5 (express written right-of-way); Jul 2024 Q2 (necessity, implication, prescription) [VERIFY V-071].
 
 #### II.B.3 Scope and apportionment

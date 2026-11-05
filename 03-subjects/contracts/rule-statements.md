@@ -617,9 +617,9 @@ status: reviewed
 
 **Exceptions / defenses:** See R-CTR-044 to R-CTR-048.
 
-**Authority:** R2d § 110; UCC § 2-201; Cal. Civ. Code § 1624 [S-202] [S-1350] [VERIFY V-100]; Cal. Com. Code § 2201 [S-211].
+**Authority:** R2d § 110; UCC § 2-201; Cal. Civ. Code § 1624 [S-202] [S-1350] [S-1834]; Cal. Com. Code § 2201 [S-211].
 
-**MBE vs. CA essay:** the California list differs. Civil Code § 1624(a) covers: (1) agreements not to be performed within a year of their making; (2) special promises to answer for another's debt; (3) leases for longer than one year and sales of real property or an interest in it; (4) agreements employing an agent or broker, for compensation, to buy, sell or lease (over one year) real estate or to find a buyer, seller or lessee; (5) agreements that by their terms are not to be performed during the promisor's lifetime; and (7) commitments to lend money or extend credit of more than $100,000, not primarily for personal, family or household purposes, made by a person in the business of lending [S-202] [S-1350]. Paragraph (6) (a purchaser's promise to pay a debt secured by the property bought) and whether any marriage category remains (premarital agreements fall under Fam. Code § 1611) are not yet confirmed [VERIFY V-100]. Goods are covered by Com. Code § 2201.
+**MBE vs. CA essay:** the California list differs. Civil Code § 1624(a) covers: (1) agreements not to be performed within a year of their making; (2) special promises to answer for another's debt; (3) leases for longer than one year and sales of real property or an interest in it; (4) agreements employing an agent or broker, for compensation, to buy, sell or lease (over one year) real estate or to find a buyer, seller or lessee; (5) agreements that by their terms are not to be performed during the promisor's lifetime; (6) an agreement by a purchaser of real property to pay an indebtedness secured by a mortgage or deed of trust on the property purchased, unless the conveyance specifically provides for the purchaser's assumption of the debt [S-1834]; and (7) commitments to lend money or extend credit of more than $100,000, not primarily for personal, family or household purposes, made by a person in the business of lending [S-202] [S-1350]. None of paragraphs (1)–(7) concerns marriage; whether any marriage category survives elsewhere is not confirmed (premarital agreements fall under Fam. Code § 1611) [VERIFY V-100]. Goods are covered by Com. Code § 2201.
 
 **Example:** An oral agreement on January 2, 2027 to employ a manager for 18 months is within the one-year provision and unenforceable against an employer who signed nothing.
 
@@ -880,7 +880,7 @@ status: reviewed
 
 **Authority:** UCC §§ 2-607(3)(a), 2-318, 2-725.
 
-**MBE vs. CA essay:** same UCC rule on the MBE. California's Commercial Code appears not to include a § 2318, so in California privity limits on warranty claims come from case law [VERIFY V-970]. Product injuries also raise tort strict liability (Torts).
+**MBE vs. CA essay:** same UCC rule on the MBE. California did not enact any version of § 2-318 [S-1820], so privity limits come from case law: vertical privity is generally required for an implied-warranty claim (*Burr v. Sherwin Williams Co.* (1954) 42 Cal.2d 682; *All West Electronics, Inc. v. M-B-W, Inc.* (1998) 64 Cal.App.4th 717) [S-1821], subject to recognized exceptions, including an express warranty the plaintiff actually relied on (*Burr*) and members of the purchaser's family (*Hauter v. Zogarts* (1975) 14 Cal.3d 104, 114, fn. 8) [S-1822]. On a general essay call, apply § 2-318 Alternative A; if the call asks for California law, use the case-law rules. Product injuries also raise tort strict liability, which needs no privity (Torts).
 
 **Example:** A buyer discovers in March that a boiler's welds are defective but complains only the next January, after the seller's supplier went bankrupt. The buyer risks losing all remedies for lack of reasonable notice.
 
