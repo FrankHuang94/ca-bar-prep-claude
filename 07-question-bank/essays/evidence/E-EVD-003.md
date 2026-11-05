@@ -96,7 +96,7 @@ Assuming all appropriate objections were made, should the court admit the eviden
 
 **Application.** Offered to show the Tavern was negligent, the policy is barred. But the Tavern disputes that Rick was its employee, and the policy lists "all door staff, including R. Stone" as covered *employees*, on an application signed by the Tavern's owner. That is probative of agency, a permitted purpose that is genuinely disputed.
 
-**Hearsay.** The employee listing derives from the application Lou Grady signed for the Tavern, so it is the Tavern's own statement offered against it (FRE 801(d)(2)(A)); the policy also describes operative contract terms.
+**Hearsay.** The employee listing derives from the application Lou Grady signed for the Tavern, so it is the Tavern's statement, made by its owner and agent, offered against it (FRE 801(d)(2)(C), (D)); by accepting and keeping a policy that lists Rick as an employee, the Tavern arguably also adopted the listing (FRE 801(d)(2)(B)). The policy also describes operative contract terms.
 
 **Authentication.** The Tavern produced the policy in discovery, which is sufficient to support a finding that it is the Tavern's policy (FRE 901).
 

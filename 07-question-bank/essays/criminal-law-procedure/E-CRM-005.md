@@ -13,7 +13,7 @@ issues:
   - {issue: "First-degree murder: premeditation and deliberation (planning, motive, manner)", points: 10, call: 1, rule_ids: [R-CRM-033], coverage_ids: [CRM-MBE-I.A.1]}
   - {issue: "Voluntary manslaughter: adequate provocation (beating of a son learned second-hand), cooling time; MPC extreme emotional disturbance", points: 14, call: 1, major: true, rule_ids: [R-CRM-034, R-CRM-038], coverage_ids: [CRM-MBE-I.A.2]}
   - {issue: "Voluntary intoxication: premeditation and specific intent vs. malice and recklessness", points: 6, call: 1, rule_ids: [R-CRM-018], coverage_ids: [CRM-MBE-IV.C.2]}
-  - {issue: "Felony murder rejected: assaultive felony merges", points: 3, call: 1, rule_ids: [R-CRM-040], coverage_ids: [CRM-MBE-I.B.3]}
+  - {issue: "Felony murder rejected: assaultive felony merges (Marco; Paige's death during flight)", points: 3, call: 1, rule_ids: [R-CRM-040], coverage_ids: [CRM-MBE-I.B.3]}
   - {issue: "Paige's death: depraved-heart murder vs. involuntary manslaughter (criminal negligence; misdemeanor manslaughter); intoxication no defense", points: 12, call: 1, major: true, rule_ids: [R-CRM-036, R-CRM-037, R-CRM-042, R-CRM-018], coverage_ids: [CRM-MBE-I.B.2, CRM-MBE-I.B.4]}
   - {issue: "Cal as accomplice in Marco's death: acts of aid and encouragement; intent to aid serious bodily injury; mitigation by provocation is personal to Drew", points: 16, call: 2, major: true, rule_ids: [R-CRM-069, R-CRM-070, R-CRM-034, R-CRM-035], coverage_ids: [CRM-MBE-III.B, CRM-MBE-I.B.1]}
   - {issue: "Scope: natural and probable consequences vs. MPC; California note", points: 5, call: 2, rule_ids: [R-CRM-070], coverage_ids: [CRM-MBE-III.B, CRM-SUP-002]}
@@ -37,7 +37,7 @@ At 9:30 p.m., Drew knocked on Marco's door while Cal waited at the bottom of the
 
 Marco suffered a broken arm and a skull fracture. Surgery went well, and his doctors expected a full recovery. On June 9, a nurse misread Marco's chart and injected ten times the prescribed dose of a sedative. Marco died within hours. The medical examiner found that the overdose was the immediate cause of death and that Marco was receiving sedation only because of his head injury. The hospital's internal review called the error "a serious and unusual departure from standard nursing practice."
 
-After leaving Marco's apartment on June 6, Drew drove Cal's car while Cal sat in the passenger seat. Drew had been convicted of driving under the influence in 2022 and had completed a court-ordered course on the dangers of drunk driving. Cal, who knew Drew had been drinking, said, "Floor it — we need to get out of here." Drew drove 70 mph on a residential street with a 30-mph limit, ran a red light, and struck and killed Paige Lin, who was walking in a marked crosswalk. Drew's blood-alcohol concentration an hour later was 0.14%.
+After leaving Marco's apartment on June 6, Drew drove while Cal sat in the passenger seat. Drew had been convicted of driving under the influence in 2022 and had completed a court-ordered course on the dangers of drunk driving. Cal, who knew Drew had been drinking, said, "Floor it — we need to get out of here." Drew drove 70 mph on a residential street with a 30-mph limit, ran a red light, and struck and killed Paige Lin, who was walking in a marked crosswalk. Drew's blood-alcohol concentration an hour later was 0.14%.
 
 When arrested, Drew told police, "I never meant to kill anybody. I just lost it when I saw Eli's face." Drew had no history of violence.
 
@@ -84,7 +84,7 @@ On balance, most courts would hold Drew to be the proximate cause, because the e
 
 **First-degree murder: premeditation and deliberation.** First-degree murder requires a willful, deliberate and premeditated killing: an intent to kill formed after reflection, even if brief. The prosecution will point to planning (a 25-minute drive, a bat obtained in advance), motive (revenge for Eli) and a manner suggesting purpose ("This is for Eli"). But premeditation must concern a *killing*, and the plan was to injure ("break his arms"); the head blow came in the moment as Marco fell. Drew had also been drinking. **First-degree murder is unlikely; the killing is at most second-degree murder.**
 
-**Voluntary manslaughter: heat of passion.** An intentional killing is reduced to voluntary manslaughter if the defendant acted in a sudden heat of passion caused by adequate provocation, before a reasonable person would have cooled off and before he actually cooled off.
+**Voluntary manslaughter: heat of passion.** A killing that would otherwise be murder (intent to kill or to inflict serious bodily injury) is reduced to voluntary manslaughter if the defendant acted in a sudden heat of passion caused by adequate provocation, before a reasonable person would have cooled off and before he actually cooled off.
 
 - *Adequate provocation.* A serious battery on a close family member is a recognized category of provocation in many jurisdictions; Eli, 16, had his nose and ribs broken. The prosecution will argue that Drew did not *witness* the beating but learned of it from Eli, and that words alone are not adequate provocation. Drew will respond that he saw his son's bloody face and broken nose, which is more than words, and that informational words reporting a provoking event are treated differently from mere insults in some courts.
 - *Actual passion.* "I just lost it when I saw Eli's face" supports actual passion.
@@ -107,6 +107,8 @@ On balance, most courts would hold Drew to be the proximate cause, because the e
 
 **Involuntary manslaughter (alternative).** If the jury finds he did not actually appreciate the risk, the killing is involuntary manslaughter: criminal negligence, a gross deviation from reasonable care creating a substantial risk of death. Misdemeanor (unlawful-act) manslaughter is a further alternative, since speeding and running a red light are unlawful acts that proximately caused the death; many States also have vehicular-manslaughter statutes.
 
+**Felony murder.** A killing during immediate flight from a felony, before the felon reaches a place of temporary safety, is within the felony-murder rule, and Drew killed Paige while fleeing the attack on Marco. But the only felony is the aggravated battery of Marco, an assault-type felony that merges and cannot serve as the predicate. **No felony murder; Paige's death turns on depraved-heart malice.**
+
 **Conclusion on Paige:** Drew is likely guilty of **second-degree (depraved-heart) murder**, or at least **involuntary manslaughter**.
 
 ### 2. Cal
@@ -127,7 +129,7 @@ On balance, most courts would hold Drew to be the proximate cause, because the e
 
 #### B. Paige's death
 
-Cal did not drive, but he supplied the whiskey and the car, knew Drew had been drinking, and urged him to "Floor it." Accomplice liability can extend to unintended homicides when the accomplice intentionally encourages the dangerous conduct (here, fast drunk driving) and himself has the culpability required for the result. Cal will argue that he did not intend anyone's death and that complicity in an unintentional crime is conceptually awkward; some courts are reluctant to impose it. But many courts and the MPC accept it where the accomplice knowingly promotes reckless conduct that causes death.
+Cal did not drive, but he supplied the whiskey, knew Drew had been drinking, and urged him to "Floor it." Accomplice liability can extend to unintended homicides when the accomplice intentionally encourages the dangerous conduct (here, fast drunk driving) and himself has the culpability required for the result. Cal will argue that he did not intend anyone's death and that complicity in an unintentional crime is conceptually awkward; some courts are reluctant to impose it. But many courts and the MPC accept it where the accomplice knowingly promotes reckless conduct that causes death.
 
 Cal was aware that Drew was drunk and urged him to speed on a residential street, a conscious disregard of a substantial risk. That supports **involuntary manslaughter**. Depraved-heart murder is less likely for Cal, because nothing shows he knew of Drew's prior DUI or appreciated an extremely high risk of death to the same degree.
 
@@ -142,11 +144,11 @@ Cal was aware that Drew was drunk and urged him to speed on a residential street
 | Premeditation | 10 | Rule; planning/motive/manner vs. plan to injure and the sudden head blow; intoxication; conclusion | R-CRM-033 |
 | Voluntary manslaughter | 14 | Four elements; serious battery on a relative; words vs. seeing injuries; cooling time (90 minutes; deliberate steps); sober reasonable person; MPC EMED alternative | R-CRM-034, R-CRM-038 |
 | Intoxication | 6 | Negates specific intent/premeditation, not malice by recklessness; purposeful conduct shows intent to injure | R-CRM-018 |
-| Felony murder | 3 | Assaultive felony merges | R-CRM-040 |
+| Felony murder | 3 | Assaultive felony merges, for Marco and for Paige's death during flight | R-CRM-040 |
 | Paige | 12 | Depraved heart with subjective awareness from the prior DUI and course; intoxication no defense; involuntary manslaughter and misdemeanor manslaughter alternatives | R-CRM-036, R-CRM-037, R-CRM-042, R-CRM-018 |
 | Cal: Marco | 16 | Act (bat, whiskey, words, "Again!"); dual intent; accomplice must share the result mental state; SBI malice; provocation personal; accomplice may be convicted of a greater degree | R-CRM-069, R-CRM-070, R-CRM-034, R-CRM-035 |
 | Cal: scope | 5 | Natural and probable consequences vs. MPC § 2.06; one-line California note | R-CRM-070 |
-| Cal: Paige | 8 | Complicity in a reckless homicide; "Floor it," whiskey, car; culpability as to death; manslaughter vs. murder | R-CRM-069, R-CRM-036, R-CRM-037 |
+| Cal: Paige | 8 | Complicity in a reckless homicide; "Floor it," whiskey; culpability as to death; manslaughter vs. murder | R-CRM-069, R-CRM-036, R-CRM-037 |
 | **Total** | **100** | | |
 
 **Scoring on the 40–100 scale** (`00-exam-intel/grader-expectations.md` §4):

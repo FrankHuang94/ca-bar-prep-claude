@@ -30,7 +30,7 @@ tags: [wave2, W2-E4, identification, show-up, lineup, miranda, public-safety, se
 
 At 10:30 p.m. on February 2, 2026, a man robbed the Quick Fuel gas station in Linden at gunpoint. The clerk, Mei Tan, faced him across the counter under bright lights for about 45 seconds while he demanded cash. He ran north on Elm Street toward Linden Elementary School. Mei told police the robber was a white man about 25, about 5'10", thin, wearing a black hoodie, with a star tattoo on the left side of his neck. A customer, Rosa Vega, saw the man for "two or three seconds" as he ran past the door; she described him only as "a white guy in a dark hoodie."
 
-At 10:50 p.m. Officer Grant stopped Theo Mills, 24, walking on Elm Street six blocks north of the station. Theo wore a gray sweatshirt, had a star tattoo on his neck and had $340 in cash in his pocket. Grant handcuffed him and radioed for Mei. At 11:05 p.m. another officer drove Mei to the spot. Theo stood alone beside the patrol car, handcuffed and lit by its spotlight. Officer Grant told Mei, "We think we got him — he had cash on him." Mei said, "That's him. I'm pretty sure. The tattoo is the same."
+At 10:50 p.m. Officer Grant stopped Theo Mills, 24, a thin white man about 5'10", walking on Elm Street six blocks north of the station. Theo wore a gray sweatshirt, had a star tattoo on the left side of his neck and had $340 in cash in his pocket. Grant handcuffed him and radioed for Mei. At 11:05 p.m. another officer drove Mei to the spot. Theo stood alone beside the patrol car, handcuffed and lit by its spotlight. Officer Grant told Mei, "We think we got him — he had cash on him." Mei said, "That's him. I'm pretty sure. The tattoo is the same."
 
 At the station at 11:40 p.m., Detective Ford sat down with the still-handcuffed Theo in an interview room. Without giving Miranda warnings, Ford said, "The gun — where is it? That school's right there; kids will be on that playground at 8 a.m." Theo said, "I tossed it in the dumpster behind the school." Officers found a revolver there at 12:15 a.m. Ford then asked, still without warnings, "So you did the Quick Fuel job?" Theo said, "Yeah. I needed rent."
 
@@ -89,7 +89,7 @@ The Sixth Amendment right to counsel attaches when adversary judicial proceeding
 
 Theo was arraigned on the robbery charge on February 3 and had appointed counsel. The live lineup on February 10 was a critical stage, and police did not notify his lawyer; Theo did not waive counsel. **Mei's lineup identification must be excluded.**
 
-The lineup was also suggestive: Theo was the only participant with a visible neck tattoo, the very feature Mei had described. That is an additional due-process ground for exclusion.
+The lineup was also suggestive: Theo was the only participant with a visible neck tattoo, the very feature Mei had described. But suggestiveness alone does not require exclusion under due process; given Mei's strong opportunity to view, the identification would likely survive *Manson*'s reliability test, so the Sixth Amendment violation is the ground for exclusion.
 
 **C. Mei's in-court identification**
 
@@ -143,7 +143,7 @@ The State will argue that Ford gave complete warnings and Theo signed a written 
 *Edwards.* If a suspect in custody unambiguously requests a lawyer, all police-initiated interrogation must stop until counsel is present, unless the suspect himself reinitiates communication (*Edwards v. Arizona*). The rule covers questioning about *any* offense (*Arizona v. Roberson*) and protects the suspect until he has been out of custody for 14 days (*Maryland v. Shatzer*).
 
 - *Invocation.* "I'm done talking. I want a lawyer" is unambiguous; it invoked both silence and counsel.
-- *Continuous custody.* Theo remained in jail from the invocation on February 2 through February 4, so there was no break in custody, let alone 14 days.
+- *Continuous custody.* Theo remained in jail from the invocation in the early hours of February 3 through February 4, so there was no break in custody, let alone 14 days.
 - *Police-initiated.* Detective Kerr came to Theo; Theo did not reinitiate.
 - *Different crime; different officer.* *Roberson* holds that questioning about a separate offense is still barred, and an officer's ignorance of the invocation does not matter; the obligation binds the police as a whole.
 - *Fresh warnings and waiver.* A waiver obtained through police-initiated interrogation after an invocation of counsel is invalid under *Edwards*, even after new warnings.
@@ -157,7 +157,7 @@ The State will argue that Ford gave complete warnings and Theo signed a written 
 | Item | Ruling |
 |---|---|
 | Mei's show-up | Admissible (suggestive comment, but reliable) |
-| Mei's lineup identification | Excluded (uncounseled post-charge lineup; also suggestive) |
+| Mei's lineup identification | Excluded (uncounseled post-charge lineup) |
 | Mei's in-court identification | Admissible (independent source) |
 | Rosa's photo identification (and in-court) | Excluded (suggestive and unreliable) |
 | Statement 1 and the gun | Admissible (*Quarles*; in any event *Patane* for the gun) |
@@ -195,4 +195,4 @@ The State will argue that Ford gave complete warnings and Theo signed a written 
 
 > 🇨🇳 PRC bridge: the PRC Criminal Procedure Law excludes confessions obtained by torture or other illegal methods, but has no Miranda-style warning requirement or rule that interrogation must stop when a suspect asks for a lawyer (approx.).
 
-**Accuracy notes.** Rules follow R-CRM-093 to -096, -098 to -100, -102, -106 and -107. *Seibert* produced a plurality (effectiveness of midstream warnings) and Justice Kennedy's concurrence (deliberate strategy plus no curative measures); lower courts differ on which controls, and the answer applies both. The point that a prompt on-scene show-up can be justified by the need to confirm or dispel suspicion quickly reflects widespread lower-court practice rather than a specific Supreme Court holding. Whether *Quarles* covers questioning at the station more than an hour later is a judgment call; an answer that excludes Statement 1 but admits the gun under *Patane* should receive full credit.
+**Accuracy notes.** Rules follow R-CRM-093 to -096, -098 to -100, -102, -106 and -107. *Seibert* produced a plurality (effectiveness of midstream warnings) and Justice Kennedy's concurrence (deliberate strategy plus no curative measures); lower courts differ on which controls, and the answer applies both. The point that a prompt on-scene show-up can be justified by the need to confirm or dispel suspicion quickly reflects widespread lower-court practice rather than a specific Supreme Court holding. Whether *Quarles* covers questioning at the station more than an hour later is a judgment call; an answer that excludes Statement 1 but admits the gun under *Patane* should receive full credit. *Patane* has no majority opinion (a plurality plus a two-Justice concurrence in the judgment); its result is the settled rule stated in R-CRM-100.

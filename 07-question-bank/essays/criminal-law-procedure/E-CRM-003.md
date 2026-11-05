@@ -114,11 +114,11 @@ As explained in E below, the claim-of-right argument for the cash is weak. **Nad
 
 Larceny is the trespassory taking and carrying away of the tangible personal property of another with intent to permanently deprive. The $1,800 cash and the original timesheets are tangible property of Coast Motors, taken without consent and carried out. The laptop is Nadia's own property, so taking it is not larceny.
 
-*Claim of right to satisfy a debt.* Some jurisdictions recognize claim of right when a person takes money in good faith to satisfy a debt she believes is owed; many limit the defense to specific property she owns or to liquidated, undisputed debts. Nadia's overtime claim was disputed and unliquidated. Moreover, the $6,000 she already transferred matched her own estimate of the overtime owed, so it is hard to believe she honestly thought another $1,800 was due. The note shows openness, which supports good faith, but it does not make an unliquidated claim a debt she could collect by self-help. **The cash taking is likely larceny.** The timesheets are closer: if Nadia meant only to preserve evidence of her claim, the jury could find no intent to permanently deprive.
+*Claim of right to satisfy a debt.* Some jurisdictions recognize claim of right when a person takes money in good faith to satisfy a debt she believes is owed; many limit the defense to specific property she owns or to liquidated, undisputed debts. Nadia's overtime claim was disputed and unliquidated. The prosecution will add that she had already taken $6,000, her own estimate of the full overtime owed, so she could not honestly think another $1,800 was due. Nadia will answer that she treated the $6,000 as a loan to be repaid, not as overtime, so the overtime was still unpaid; that answer is consistent, but it concedes that she took the $6,000 with no claim of right. The note shows openness, which supports good faith, but it does not make an unliquidated claim a debt she could collect by self-help. **The cash taking is likely larceny.** The timesheets are closer: if Nadia meant only to preserve evidence of her claim, the jury could find no intent to permanently deprive.
 
 **F. Consolidation, grading and merger**
 
-Modern codes consolidate larceny, embezzlement and false pretenses into a single theft offense graded by value, though the prosecution must still prove one recognized form of theft. Here the amounts ($6,000; $9,000; $1,800) would each be felony-grade theft in most States. Burglary does not merge with the theft committed inside, so Nadia may be convicted of both.
+Modern codes consolidate larceny, embezzlement and false pretenses into a single theft offense graded by value, though the prosecution must still prove one recognized form of theft. Here the amounts ($6,000; $9,000; $1,800) would likely be felony-grade theft in many States, and each exceeds California's $950 line. Burglary does not merge with the theft committed inside, so Nadia may be convicted of both.
 
 ### 2. Owen and Kai
 
@@ -151,7 +151,7 @@ The prosecution will argue that the circumstances show actual knowledge or belie
 
 - *Intent to deprive.* Keeping the truck as his own satisfies this element.
 
-**Kai is likely guilty of receiving stolen property**, although his honest-belief defense presents a jury question.
+**Kai is likely guilty of receiving stolen property**, although his honest-belief defense presents a jury question. (Owen's statements that the truck was his cousin's and that he had lost the title also support a false-pretenses charge for Kai's $2,500 if Kai believed them; if Kai knew the truck was stolen, there was no reliance.)
 
 ## Self-Grading Rubric
 
