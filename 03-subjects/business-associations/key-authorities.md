@@ -75,7 +75,7 @@ One line per authority. Items tagged `[VERIFY]` are cited from model knowledge o
 | §§ 301.5, 303–305, 708 | Cumulative voting; removal; vacancies | R-BUS-074, R-BUS-075 |
 | § 307 | Board meetings, quorum, written consent | R-BUS-059 |
 | § 309 | Director standard of care; reliance; protection | R-BUS-061, R-BUS-062 |
-| § 310 | Interested-director transactions [S-803] [VERIFY V-726] | R-BUS-065 |
+| § 310 | Interested-director transactions [S-803]; burden allocation [S-1793]; quorum (§ 310(c)) [S-1806] | R-BUS-065 |
 | §§ 312–313 | Officers; instruments signed by two officers [VERIFY V-728] | R-BUS-060 |
 | § 315 | Loans to directors and officers [VERIFY V-712] | R-BUS-069 |
 | § 316 | Director liability for unlawful distributions and loans | R-BUS-080 |
@@ -194,7 +194,7 @@ One line per authority. Items tagged `[VERIFY]` are cited from model knowledge o
 | Corp. Code §§ 17701.04(e), 17701.10, 17702.01 | LLC nature; no professional services; operating agreement limits [S-826] [VERIFY V-729] | R-BUS-101, R-BUS-108 |
 | Corp. Code § 17703.01 | Agency of members/managers [S-807] [S-1154] | R-BUS-103 |
 | Corp. Code § 17703.04 | Member liability; alter ego; meetings exception [S-805] | R-BUS-102 |
-| Corp. Code §§ 17704.07, 17704.09 | Management [VERIFY V-931]; fiduciary duties [S-806] | R-BUS-103, R-BUS-104 |
+| Corp. Code §§ 17704.07, 17704.09 | Management [S-1796] [VERIFY V-931]; fiduciary duties [S-806] | R-BUS-103, R-BUS-104 |
 | RULLCA § 407(a) | Member-managed unless the operating agreement expressly provides for managers (California: the articles) | R-BUS-101 |
 | *Curci Investments, LLC v. Baldwin* (2017) 14 Cal.App.5th 214; *Postal Instant Press, Inc. v. Kaswa Corp.* (2008) 162 Cal.App.4th 1510 | Reverse piercing: LLC yes, corporation no [VERIFY V-724] | R-BUS-049 |
 | 11 U.S.C. §§ 101(31), 502(b), 510(c), 547(b)(4)(B) | Insiders; claim allowance; equitable subordination; insider preferences | R-BUS-099, R-BUS-100 |

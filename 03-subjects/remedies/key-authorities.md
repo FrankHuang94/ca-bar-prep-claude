@@ -98,7 +98,7 @@ status: reviewed
 | CCP §§ 875 et seq., 877.6 | Contribution; good-faith settlement bars comparative contribution and indemnity claims against the settlor [S-1215] | R-REM-053 |
 | CCP §§ 1021, 1021.5 | American rule; private attorney general fees | R-REM-033 |
 | CCP §§ 1060, 1061 | Declaratory relief; discretion to refuse [S-467] | R-REM-091, R-REM-092 |
-| CCP §§ 1209, 1218, 1219 | Contempt; penalties [S-473]; coercive imprisonment [VERIFY V-358] | R-REM-078 |
+| CCP §§ 1209, 1218, 1219 | Contempt [VERIFY V-358]; penalties [S-473]; coercive imprisonment [S-1803] | R-REM-078 |
 | CCP § 405.20 | Lis pendens [VERIFY V-360] | R-REM-074 |
 | Ins. Code §§ 331, 334, 359 | Insurance rescission for concealment or material misrepresentation; subjective materiality test (§ 334) [S-471] [S-1211] | R-REM-076 |
 | Evid. Code § 623 | Estoppel by own statement or conduct | R-REM-084 |

@@ -614,7 +614,7 @@ status: reviewed
 
 **Elements:** 1. Δ holds title to specific property. 2. Acquired through Δ's wrongful conduct or unjust enrichment at Π's expense. 3. The property is Π's or traceable to Π's property (R-REM-047, R-REM-048). 4. Legal remedy inadequate (unique property, Δ insolvent, or Π wants the appreciation). 5. No bona fide purchaser (R-REM-049).
 
-**Exceptions / defenses:** No constructive trust over property that cannot be traced. Equitable defenses apply. Secured creditors with prior perfected interests keep priority. Element 4 is the traditional bar-exam formulation; the Restatement (Third) of Restitution and California's statutory involuntary-trust provisions may not require inadequacy of the legal remedy as a separate element [VERIFY V-940], so state it briefly and show it is met.
+**Exceptions / defenses:** No constructive trust over property that cannot be traced. Equitable defenses apply. Secured creditors with prior perfected interests keep priority. Element 4 is the traditional bar-exam formulation. California cases state three elements — a specific, identifiable property interest, the plaintiff's right to it, and the defendant's wrongful acquisition or detention of it — without a separate inadequacy element, and a money judgment that cannot be traced to particular property does not support a constructive trust (*Kim v. Kim* (Cal. Ct. App. 2017)) [S-1801]; the Restatement (Third) of Restitution reportedly makes equitable restitution available without regard to the adequacy of legal remedies [VERIFY V-940]. State element 4 briefly and show it is met.
 
 **Authority:** Civ. Code §§ 2223, 2224 (one who wrongfully detains a thing, or gains it by fraud, accident, mistake, undue influence, violation of a trust or other wrongful act, is an involuntary trustee) [S-463]; R3RUE § 55 [VERIFY V-350].
 
@@ -975,7 +975,7 @@ status: reviewed
 
 **Elements:** 1. CCIFD (R-REM-070). 2. Land → inadequacy presumed. 3. California § 3387: conclusive for a single-family home the buyer will occupy; rebuttable otherwise.
 
-**Exceptions / defenses:** Specific performance against a buyer is less readily granted in California, where the seller's damages are usually adequate [VERIFY V-355]. A BFP who bought without notice defeats the buyer's claim (R-REM-074).
+**Exceptions / defenses:** A California seller may also obtain specific performance against a defaulting buyer; the vendor's right under the Civil Code is the same as under traditional equity practice (*Laske v. Lampasona*, 89 Cal.App.2d 284) [S-1802]. Whether California courts grant it less readily than a buyer's suit, because the seller's claim is essentially for money and § 3307 damages are often adequate, is unconfirmed [VERIFY V-355]. A BFP who bought without notice defeats the buyer's claim (R-REM-074).
 
 **Authority:** Civ. Code § 3387 [S-450]; R2d § 360; cross-reference R-CTR-104.
 
@@ -1066,9 +1066,9 @@ status: reviewed
 
 **Elements:** 1. Valid order. 2. Knowledge. 3. Ability to comply. 4. Willful violation. 5. Classify the sanction: coercive, compensatory, or punitive.
 
-**Exceptions / defenses:** Inability to comply is a defense to coercive sanctions. In California, punishment for contempt is limited by statute (generally a fine up to $1,000 and up to five days in jail per act) (CCP § 1218) [S-473]; imprisonment to coerce an act within the person's power continues until it is performed (CCP § 1219) [VERIFY V-358].
+**Exceptions / defenses:** Inability to comply is a defense to coercive sanctions. In California, punishment for contempt is limited by statute (generally a fine up to $1,000 and up to five days in jail per act) (CCP § 1218) [S-473]; imprisonment to coerce an act within the person's power continues until it is performed, and the act must be specified in the warrant of commitment (CCP § 1219(a)) [S-1803]. California treats contempt as quasi-criminal: where punitive sanctions are imposed, the violation must be proved beyond a reasonable doubt (*Mitchell v. Superior Court* (1989) 49 Cal.3d 1230) [S-1803] [S-1804].
 
-**Authority:** *Int'l Union, United Mine Workers v. Bagwell*, 512 U.S. 821 (1994); CCP §§ 1209, 1218 [S-473], 1219 [VERIFY V-358].
+**Authority:** *Int'l Union, United Mine Workers v. Bagwell*, 512 U.S. 821 (1994); CCP §§ 1209 [VERIFY V-358], 1218 [S-473], 1219(a) [S-1803]; *Mitchell v. Superior Court* (1989) 49 Cal.3d 1230 [S-1803].
 
 **MBE vs. CA essay:** Not on the MBE. On a Remedies essay, mention contempt as the enforcement mechanism and as an advantage of equitable relief.
 

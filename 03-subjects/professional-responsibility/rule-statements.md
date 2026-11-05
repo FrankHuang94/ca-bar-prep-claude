@@ -232,7 +232,7 @@ Read with [`outline.md`](outline.md) (full treatment) and [`ca-distinctions.md`]
 
 **Authority:** MR 1.6(b)(1)–(7).
 
-**MBE vs. CA essay:** MPRE tests these heavily. **CA vs. ABA:** differs sharply — California has **no** financial-fraud exception and no rule-based self-defense exception. California recognizes lawyer self-defense only through privilege exceptions (e.g., Evid. Code § 958, breach of duty in a lawyer-client dispute) and narrow case law; write "California likely permits disclosure only to the extent necessary to respond to the client's claim" [VERIFY V-472].
+**MBE vs. CA essay:** MPRE tests these heavily. **CA vs. ABA:** differs sharply — California has **no** financial-fraud exception and no rule-based self-defense exception. California recognizes lawyer self-defense only through privilege exceptions: in a lawyer-client dispute (malpractice, or the lawyer's suit for fees) courts apply Evid. Code § 958 (no privilege for communications relevant to a breach of duty arising from the relationship), but the ethical duty is broader than the privilege, and a Los Angeles County Bar opinion finds no self-defense exception when a third party, not the client, accuses the lawyer (LACBA Formal Op. 519 (2007)) [S-1797] [S-1798]; write "California likely permits disclosure only to the extent necessary to respond to the client's claim."
 
 **Example:** General counsel learns the CEO is using the lawyer's loan documents to defraud lenders. ABA: may disclose to prevent/rectify the fraud (MR 1.6(b)(2)–(3)). California: may not disclose outside the company; must report up (R-PRF-055, R-PRF-056) and may withdraw (cf. July 2023 Q3).
 
@@ -615,9 +615,9 @@ Read with [`outline.md`](outline.md) (full treatment) and [`ca-distinctions.md`]
 
 **Elements:** 1. Family: contingency on obtaining the dissolution or nullity, or on the amount of support or of a property settlement made in lieu of support. A fee contingent on an ordinary division of community property is not expressly covered by the text; argue both ways (text vs. the rule's policy against giving the lawyer a stake in the divorce outcome), and test it under the fee and conflict rules (R-PRF-041, R-PRF-023). 2. Criminal defense: any fee contingent on the result (acquittal, dismissal, reduced charge), including non-cash rewards.
 
-**Exceptions / defenses:** Contingent fees to collect past-due support or property already awarded are generally allowed (MR 1.5 cmt. [6]).
+**Exceptions / defenses:** Contingent fees to collect post-judgment balances due under support or other financial orders are allowed (MR 1.5 cmt. [6]) [S-1792]; California's comment likewise says (c)(1) does not bar a contingent fee in some circumstances [S-1791].
 
-**Authority:** CRPC rule 1.5(c)(1)–(2); MR 1.5(d)(1)–(2) [VERIFY V-1010].
+**Authority:** CRPC rule 1.5(c)(1)–(2) [S-1791]; MR 1.5(d)(1)–(2) [S-1792].
 
 **MBE vs. CA essay:** not on the MBE. **CA vs. ABA:** same.
 

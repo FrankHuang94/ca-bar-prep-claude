@@ -103,7 +103,7 @@ status: reviewed
 
 **Exceptions / defenses:** A **power given as security** (a power coupled with an interest) is irrevocable and survives the principal's death or incapacity. Apparent authority may linger after termination (R-BUS-007).
 
-**Authority:** R3d Agency §§ 3.06–3.10, 3.12–3.13 [VERIFY V-701]; Cal. Civ. Code §§ 2355–2356 [VERIFY V-702].
+**Authority:** R3d Agency § 3.07(2) (death: effective when the agent has notice) [S-1807]; §§ 3.06, 3.08–3.10, 3.12–3.13 [VERIFY V-701]; Cal. Civ. Code §§ 2355–2356 [VERIFY V-702].
 
 **MBE vs. CA essay:** same rule.
 
@@ -114,7 +114,7 @@ status: reviewed
 
 **Elements:** 1. Prior manifestation by the principal to the third party (or a course of dealing). 2. The third party's reasonable belief, traceable to that manifestation. 3. No notice of termination.
 
-**Exceptions / defenses:** Notice ends it: actual notice to those who dealt with the agent; reasonable general notice (publication) for others. Under R3d Agency, the principal's death does not automatically end apparent authority until the third party has notice [VERIFY V-701].
+**Exceptions / defenses:** Notice ends it: actual notice to those who dealt with the agent; reasonable general notice (publication) for others. Under R3d Agency, termination of actual authority does not by itself end apparent authority (§ 3.11), and the principal's death is effective against a third party only when that third party has notice of it (§ 3.07(2)) [S-1807].
 
 **Authority:** R3d Agency § 3.11 [S-1158]; Cal. Civ. Code § 2356 [VERIFY V-702].
 
@@ -764,7 +764,7 @@ status: reviewed
 
 **Exceptions / defenses:** Some courts loosely call adoption "ratification"; on the essay note that true ratification relates back, which is impossible for a nonexistent principal.
 
-**Authority:** *McArthur v. Times Printing Co.* (Minn. 1892) [VERIFY V-714]; R3d Agency § 4.04 [VERIFY V-701]; R-CTR-088 (novation).
+**Authority:** *McArthur v. Times Printing Co.*, 48 Minn. 319, 51 N.W. 216 (1892) [S-1805] (adoption effective from the date of adoption [VERIFY V-714]); R3d Agency § 4.04 [VERIFY V-701]; R-CTR-088 (novation).
 
 **MBE vs. CA essay:** same rule.
 
@@ -892,11 +892,11 @@ status: reviewed
 ### R-BUS-065 — Interested-director transactions: California § 310
 **Rule (write this):** In California, a contract between a corporation and a director (or an entity in which the director has a material financial interest) is not void or voidable because of the interest if: (1) the material facts of the transaction and the director's interest are disclosed to the shareholders and the transaction is approved by the shareholders in good faith, with the interested director's shares not counted; or (2) the material facts are fully disclosed to or known by the board, and the board authorizes it in good faith by a vote sufficient without counting the interested director, and the transaction is just and reasonable to the corporation when approved; or (3) where not so approved, the person asserting validity proves the transaction was just and reasonable to the corporation when authorized.
 
-**Elements:** 1. Material financial interest (a mere common directorship is not one). 2. Route (1): disclosure + disinterested shareholder approval (no fairness requirement). 3. Route (2): disclosure + disinterested board approval + just and reasonable. 4. Route (3): proponent proves just and reasonable.
+**Elements:** 1. Material financial interest (a mere common directorship is not one). 2. Route (1): disclosure + disinterested shareholder approval (no fairness requirement). 3. Route (2): disclosure + disinterested board approval + just and reasonable (the challenger must prove it was not). 4. Route (3): proponent proves just and reasonable.
 
-**Exceptions / defenses:** Interested directors may be counted for the quorum. Common-directorship transactions (§ 310(b)) have their own rule. The allocation of the burden under route (2) is not confirmed [VERIFY V-726].
+**Exceptions / defenses:** Interested (or common) directors may be counted toward the quorum of the approving board or committee, but their votes do not count toward the approval (§ 310(a)(2), (c)) [S-1806]. Common-directorship transactions (§ 310(b)) have their own rule. Burden: once disinterested board approval after full disclosure is shown (route (2)), the person attacking the transaction must prove it was not just and reasonable; without qualifying approval (route (3)), the person asserting validity must prove it was (*Harvey v. The Landing Homeowners Assn.* (2008) 162 Cal.App.4th 809, applying the parallel nonprofit provision, § 7233) [S-1793] [S-1794].
 
-**Authority:** Corp. Code § 310(a)–(b) [S-803].
+**Authority:** Corp. Code § 310(a)–(b) [S-803]; burden allocation [S-1793] [S-1794].
 
 **MBE vs. CA essay:** **differs in detail.** General law (MBCA §§ 8.60–8.63; old DGCL § 144): disclosure plus approval by disinterested directors **or** shareholders, **or** fairness; approval generally restores BJR review. California: board approval still requires that the transaction be just and reasonable. Write both.
 
@@ -1119,7 +1119,7 @@ status: reviewed
 
 **Exceptions / defenses:** Loss of shares in a merger generally ends standing; equitable exceptions are narrow.
 
-**Authority:** Corp. Code § 800(b)(1) [VERIFY V-707]; *Grosset v. Wenaas* (2008) 42 Cal.4th 1100; MBCA § 7.41; DGCL § 327; Fed. R. Civ. P. 23.1.
+**Authority:** Corp. Code § 800(b)(1) (strong prima facie case, no similar action, acquisition before disclosure [S-1795]; remaining findings [VERIFY V-707]); *Grosset v. Wenaas* (2008) 42 Cal.4th 1100; MBCA § 7.41; DGCL § 327; Fed. R. Civ. P. 23.1.
 
 **MBE vs. CA essay:** **differs.** General law: strict contemporaneous ownership. California: discretionary exception under § 800(b)(1). Write both.
 
@@ -1175,7 +1175,7 @@ status: reviewed
 
 **Authority:** Corp. Code §§ 1300–1312 [S-816] [S-1159] [S-1160] [S-1153]; *Steinberg v. Amplica, Inc.* (1986) 42 Cal.3d 1198 [S-1152]; *Busse v. United PanAm Financial Corp.* (Cal. Ct. App. 2014) (§ 1312(b) rescission, not damages) [S-1153] [VERIFY V-938]; MBCA §§ 13.01–13.40; DGCL § 262.
 
-**MBE vs. CA essay:** not on the MBE. Same core; the market-out and valuation date differ, and California makes appraisal more exclusive — no attack on the reorganization except to test the vote unless one party controls, or is under common control with, another party (Corp. Code § 1312; *Steinberg v. Amplica*). A case on the scope of appraisal exclusivity (*Li v. ArcSoft, Inc.*) was pending in late 2026 [S-1162]; check for a decision before the exam [VERIFY V-937].
+**MBE vs. CA essay:** not on the MBE. Same core; the market-out and valuation date differ, and California makes appraisal more exclusive — no attack on the reorganization except to test the vote unless one party controls, or is under common control with, another party (Corp. Code § 1312; *Steinberg v. Amplica*). Pending in late 2026: *Li v. ArcSoft, Inc.*, No. S294190, where the California Supreme Court accepted a Ninth Circuit certified question on whether § 1312(a) and *Steinberg* bar shareholders who did not seek appraisal from suing for damages [S-1162] [S-1799] [S-1800]; until decided, apply *Steinberg*, and check for a decision before the exam [VERIFY V-1040].
 
 **Example:** A minority holder in a closely held company votes against a cash-out merger and demands payment. She is entitled to a court appraisal of fair value.
 
@@ -1212,9 +1212,9 @@ status: reviewed
 
 **Elements:** 1. Insider (or temporary insider). 2. Material, nonpublic information. 3. Trade "on the basis of" it (awareness of the information when trading suffices under Rule 10b5-1). 4. Scienter. 5. Breach of duty (disclose or abstain).
 
-**Exceptions / defenses:** Information that is public or immaterial; trades under a pre-existing written trading plan (Rule 10b5-1(c)) adopted in good faith before awareness, subject to cooling-off periods added in 2022 [VERIFY V-718]. Remedies: SEC civil penalty, set by the court, of up to three times the profit gained or loss avoided (Exchange Act § 21A(a)(2)) [S-1700]; § 21A is reportedly framed for trades on or through a national securities exchange or from or through a broker or dealer, so a privately negotiated trade may fall outside the treble penalty [VERIFY V-1011] — on such facts write "civil penalties" without the multiple; criminal prosecution; private suits by contemporaneous traders capped at the profit (Exchange Act § 20A).
+**Exceptions / defenses:** Information that is public or immaterial; trades under a pre-existing written trading plan (Rule 10b5-1(c)) adopted in good faith before awareness, subject to cooling-off periods added in 2022 [VERIFY V-718]. Remedies: SEC civil penalty, set by the court, of up to three times the profit gained or loss avoided (Exchange Act § 21A(a)(2)) [S-1700]; § 21A(a)(1) reaches only trades on or through the facilities of a national securities exchange or from or through a broker or dealer (and not part of an issuer's public offering), so a privately negotiated face-to-face trade falls outside the treble penalty [S-1790] — on such facts write "civil penalties" without the multiple; criminal prosecution; private suits by contemporaneous traders capped at the profit (Exchange Act § 20A).
 
-**Authority:** *Chiarella v. United States*, 445 U.S. 222 (1980); *Dirks v. SEC*, 463 U.S. 646 (1983) (temporary insiders, fn. 14); 17 C.F.R. § 240.10b5-1; 15 U.S.C. §§ 78t-1, 78u-1 [S-1700].
+**Authority:** *Chiarella v. United States*, 445 U.S. 222 (1980); *Dirks v. SEC*, 463 U.S. 646 (1983) (temporary insiders, fn. 14); 17 C.F.R. § 240.10b5-1; 15 U.S.C. §§ 78t-1, 78u-1 [S-1700] [S-1790].
 
 **MBE vs. CA essay:** federal law; California has a parallel statute (R-BUS-093).
 
@@ -1380,7 +1380,7 @@ status: reviewed
 
 **Exceptions / defenses:** If nothing was filed, the business is a general partnership (or a sole proprietorship). A California LLC may not render licensed professional services, such as law (R-BUS-108).
 
-**Authority:** Corp. Code §§ 17701.02, 17701.04, 17701.10, 17702.01, 17704.07 [S-826] [VERIFY V-729] [VERIFY V-931]; RULLCA §§ 104, 105, 201, 407.
+**Authority:** Corp. Code §§ 17701.02, 17701.04, 17701.10, 17702.01 [S-826] [VERIFY V-729]; § 17704.07(a) (member-managed unless the articles contain the § 17702.01(b)(5) statement) [S-1796]; RULLCA §§ 104, 105, 201, 407.
 
 **MBE vs. CA essay:** same core rule; California differs in two respects: the professional-services bar, and manager management designated in the articles rather than in the operating agreement.
 
@@ -1406,7 +1406,7 @@ status: reviewed
 
 **Exceptions / defenses:** Uniform RULLCA § 301 provides that a member is **not** an agent solely by being a member and leaves authority to agency law; California's version keeps statutory apparent authority [S-807] [S-1154].
 
-**Authority:** Corp. Code § 17703.01 [S-807] [S-1154]; § 17704.07 (default management rules) [VERIFY V-931]; RULLCA §§ 301, 407.
+**Authority:** Corp. Code § 17703.01 [S-807] [S-1154]; § 17704.07(b)(3), (b)(5), (c)(3)–(4) (default management rules: majority of members for ordinary-course matters; all members to amend the operating agreement; in a manager-managed LLC, majority of managers for ordinary matters and all members for acts outside the ordinary course) [S-1796]; § 17704.07(b)(4) (member-managed: acts outside the ordinary course need all members) [VERIFY V-931]; RULLCA §§ 301, 407.
 
 **MBE vs. CA essay:** **differs.** General (RULLCA): no statutory agency for members; use agency law. California: statutory apparent authority for members (member-managed) and managers (manager-managed).
 

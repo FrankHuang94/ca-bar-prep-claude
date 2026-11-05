@@ -97,7 +97,7 @@ status: reviewed
 | Prevent client crime/fraud causing financial injury (lawyer's services used) | Yes (b)(2) | **No** |
 | Prevent, mitigate, rectify such financial injury | Yes (b)(3) | **No** |
 | Lawyer obtains ethics advice | Yes (b)(4) | Not in the rule (consulting ethics counsel is generally treated as consistent with confidentiality) [VERIFY V-472] |
-| Lawyer's claim or defense (fee suit, malpractice, discipline) | Yes (b)(5) | Not in the rule; privilege exception Evid. Code § 958 (breach of duty) [VERIFY V-472] |
+| Lawyer's claim or defense (fee suit, malpractice, discipline) | Yes (b)(5) | Not in the rule; in client-lawyer disputes courts apply the privilege exception of Evid. Code § 958 (breach of duty), but the ethical duty is broader than the privilege; no exception for third-party accusations (LACBA Formal Op. 519) [S-1797] [S-1798] |
 | Comply with law or court order | Yes (b)(6) | Court-ordered disclosure after asserting privilege is not a violation |
 | Conflict checking on lateral moves | Yes (b)(7) | Not express |
 | Candor to tribunal overrides | Yes (MR 3.3(c)) | **No** — rule 3.3 remedial measures stop at § 6068(e) |
@@ -226,7 +226,7 @@ status: reviewed
 - California (**B&P § 6147**): signed by both; copy to the client; rate; how costs affect the fee and the recovery; compensation for related matters; statement that the fee is "not set by law and is negotiable" (unless § 6146 applies).
 - Consequence in California: voidable at the client's option; the lawyer receives a reasonable fee that never exceeds the contract amount [S-560].
 - Medical-malpractice caps: § 6146. Workers' compensation is excluded; claims between merchants fall under § 6147.5 [S-560].
-- **Prohibited** (rule 1.5(c); MR 1.5(d)): contingent fees in criminal defense, and family-law fees contingent on obtaining a dissolution or nullity (ABA: divorce) or on the amount of spousal or child support, "or property settlement in lieu thereof" [VERIFY V-1010]. A fee tied to an ordinary division of community property is not expressly covered by the text; argue the rule's policy and the lawyer's personal stake (R-PRF-044).
+- **Prohibited** (rule 1.5(c); MR 1.5(d)): contingent fees in criminal defense, and family-law fees contingent on obtaining a dissolution or nullity (ABA: divorce) or on the amount of spousal or child support, "or property settlement in lieu thereof" [S-1791] [S-1792]. A fee tied to an ordinary division of community property is not expressly covered by the text; argue the rule's policy and the lawyer's personal stake (R-PRF-044).
 
 **Retainers, advance fees and flat fees** (R-PRF-045):
 - True retainer: paid only for availability; may be "nonrefundable" only with written agreement after disclosure (rule 1.5(d)).

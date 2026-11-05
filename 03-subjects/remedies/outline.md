@@ -268,7 +268,7 @@ status: reviewed
 
 ### III.C Equitable restitutionary remedies: constructive and resulting trusts, equitable lien, equitable rescission, subrogation, indemnity, contribution, accounting (R-REM-044 to R-REM-054)
 #### III.C.1 Constructive trust (R-REM-044)
-- **Elements:** Δ holds **title** to specific property; obtained by **wrongful conduct** or unjust enrichment (fraud, theft/conversion, breach of fiduciary duty, mistake, undue influence); property is Π's or **traceable** to it; legal remedy inadequate (often shown by uniqueness, Δ's insolvency, or appreciation Π wants to capture; the traditional formulation, which modern authority may not require [VERIFY V-940]); no BFP.
+- **Elements:** Δ holds **title** to specific property; obtained by **wrongful conduct** or unjust enrichment (fraud, theft/conversion, breach of fiduciary duty, mistake, undue influence); property is Π's or **traceable** to it; legal remedy inadequate (often shown by uniqueness, Δ's insolvency, or appreciation Π wants to capture; the traditional formulation — California cases list only specific property, Π's right to it, and Δ's wrongful acquisition or detention [S-1801], and the Restatement (Third) may not require it [VERIFY V-940]); no BFP.
 - **Advantages:** Π gets the asset and all **appreciation and income**; **priority** over Δ's unsecured creditors; enforceable by contempt; may reach a donee.
 - **Disadvantages:** if the asset fell in value, Π bears the loss (choose a lien); BFPs take free.
 - **Authority:** Civ. Code §§ 2223–2224 [S-463]; R3RUE § 55 [VERIFY V-350].
@@ -416,7 +416,7 @@ status: reviewed
 
 #### IV.C.2 Land (R-REM-071)
 - Land is unique → buyer's damages presumed inadequate. Most courts let a seller compel payment (mutuality).
-- **CA note:** Civ. Code § 3387: breach of an agreement to transfer real property is **presumed** not adequately relieved by money; the presumption is **conclusive** for a **single-family dwelling** the party seeking performance **intends to occupy**; otherwise it affects the burden of proof [S-450]. Seller's SP against a buyer is less readily granted [VERIFY V-355]. SP unavailable against a party who did not receive adequate consideration or for whom the contract is not just and reasonable (§ 3391 [S-474]).
+- **CA note:** Civ. Code § 3387: breach of an agreement to transfer real property is **presumed** not adequately relieved by money; the presumption is **conclusive** for a **single-family dwelling** the party seeking performance **intends to occupy**; otherwise it affects the burden of proof [S-450]. A seller may also get SP against a defaulting buyer (*Laske v. Lampasona*, 89 Cal.App.2d 284) [S-1802]; whether courts grant it less readily than a buyer's suit is unconfirmed [VERIFY V-355]. SP unavailable against a party who did not receive adequate consideration or for whom the contract is not just and reasonable (§ 3391 [S-474]).
 - **Equitable conversion** (Real Property): buyer bears risk of loss in some states after contracting.
 
 #### IV.C.3 Unique goods (R-REM-072)
@@ -452,7 +452,7 @@ status: reviewed
 | Civil compensatory | Compensate Π for loss from violation | Fine paid to Π | Civil |
 | Criminal | Punish completed defiance | Fixed fine or jail | Criminal protections; proof beyond reasonable doubt; jury for serious penalties (*Int'l Union, UMWA v. Bagwell*, 512 U.S. 821 (1994)) |
 - **Elements:** valid and clear order, knowledge, ability to comply, willful disobedience.
-- **CA note:** CCP § 1209 (contempts), § 1218 (fine up to $1,000 and up to 5 days per act) [S-473]; § 1219 (coercive imprisonment until an act within the person's power is performed) [VERIFY V-358].
+- **CA note:** CCP § 1209 (contempts) [VERIFY V-358], § 1218 (fine up to $1,000 and up to 5 days per act) [S-473]; § 1219(a) (coercive imprisonment until an act within the person's power is performed; the act is specified in the commitment warrant) [S-1803]; punitive contempt sanctions require proof beyond a reasonable doubt (*Mitchell v. Superior Court* (1989) 49 Cal.3d 1230) [S-1803] [S-1804].
 - **Collateral bar** (*United States v. United Mine Workers*, 330 U.S. 258 (1947); *Walker v. City of Birmingham*, 388 U.S. 307 (1967), upholding a state's use of the rule): Δ must obey an order issued with jurisdiction and challenge it on appeal; **CA note:** California permits a challenge to a void (e.g., unconstitutional) order in the contempt proceeding (*In re Berry* (1968) 68 Cal.2d 137) [S-1219].
 - **Who is bound** (FRCP 65(d)(2)): parties; their officers, agents, servants, employees, attorneys; persons in active concert — with actual notice. **Form:** reasons, specific terms, reasonable detail, no incorporation by reference (65(d)(1)).
 - **Scope:** no broader than necessary for complete relief to the plaintiffs; federal courts may not issue universal injunctions (*Trump v. CASA, Inc.* (2025)) [VERIFY V-035].
