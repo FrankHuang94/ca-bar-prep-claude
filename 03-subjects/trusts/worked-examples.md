@@ -51,8 +51,8 @@ Original fact patterns. Read the facts, decide the answer, then check the analys
 
 **Analysis.**
 - *Rule:* a revocable trust may be modified by the procedure for revocation unless the instrument provides otherwise. Under *Haggerty*, the statutory method (a signed writing delivered to the trustee) is available unless the trust's amendment method is explicitly exclusive (R-TRS-014).
-- *Application:* the clause says "may"; it does not say the method is exclusive. Paula signed. Because she is the sole trustee, keeping the writing herself likely counts as delivery (R-TRS-012).
-- *Conclusion:* the amendment is probably valid as an amendment. Ivy is the daughter of a care custodian, so test § 21380 if Paula was a dependent adult (R-TRS-076).
+- *Application:* the clause says "may"; it does not say the method is exclusive. Paula signed. Because she is the sole trustee, argue that holding the writing as trustee counts as delivery; the other side is that nothing was ever "delivered" and the writing sat in her desk. No verified California case settles this point (R-TRS-012).
+- *Conclusion:* the amendment is probably valid as an amendment, though delivery is the weak point. Ivy is the daughter of a care custodian, so test § 21380 if Paula was a dependent adult (R-TRS-076).
 
 ### 6. One spouse revokes (CP crossover)
 **Facts.** Ken and Lia put their community-property home in a joint revocable trust that is silent on revocation. Lia, separated from Ken, signs and delivers to both trustees a revocation of the trust "as to the house."
@@ -106,8 +106,8 @@ Original fact patterns. Read the facts, decide the answer, then check the analys
 **Facts.** Ana is entitled to $6,000 a month from a spendthrift trust; she needs $4,000 a month to live. Bank holds a $50,000 judgment against her. Her ex-husband holds a child-support judgment.
 
 **Analysis.**
-- *Rule:* a valid spendthrift clause blocks creditors before payment (R-TRS-041), but California allows support creditors (R-TRS-043) and, for general creditors, up to 25% of payments considering support needs, or amounts over what is needed for support (R-TRS-046). General law bars general creditors entirely.
-- *Application:* the ex-husband can obtain an order for the support payments. Bank may obtain up to $1,500 a month (25%), and arguably the $2,000 a month above Ana's needs under § 15307. The support order and Ana's needs reduce what Bank gets.
+- *Rule:* a valid spendthrift clause blocks creditors before payment (R-TRS-041), but California allows support creditors (R-TRS-043) and, for general creditors, up to 25% of each future payment, reduced for support needs; under *Carmack*, orders for amounts over support needs (§ 15307) count toward the same 25% cap (R-TRS-046). General law bars general creditors entirely.
+- *Application:* the ex-husband can obtain an order for the support payments. Bank may obtain up to $1,500 a month (25%). The $2,000 a month above Ana's needs does not add to that, because §§ 15306.5 and 15307 orders together cannot exceed 25% of a payment. The support order and Ana's needs may reduce what Bank gets.
 - *Conclusion:* the ex-husband takes first; Bank gets a partial order. Under general law Bank would get nothing.
 
 ### 13. The self-settled shelter
@@ -115,7 +115,7 @@ Original fact patterns. Read the facts, decide the answer, then check the analys
 
 **Analysis.**
 - *Rule:* a spendthrift restraint is invalid as to a settlor-beneficiary; creditors reach the maximum amount the trustee could pay the settlor (R-TRS-047).
-- *Application:* the trustee could pay Dr. Vu the whole $3 million in its discretion.
+- *Application:* the trustee could pay Dr. Vu the whole $3 million in its discretion, and she contributed all of it, so the proportionate-contribution cap does not reduce the amount.
 - *Conclusion:* the patient may reach the trust to satisfy the $1 million judgment.
 
 ### 14. Creditors after death (Feb 2019 pattern)

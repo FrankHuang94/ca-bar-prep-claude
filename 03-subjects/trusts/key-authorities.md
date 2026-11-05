@@ -27,21 +27,21 @@ One line per authority. Where a section's details were not confirmed against cur
 | § 15211 | Noncharitable purpose trust: trustee may perform for only 21 years [S-676] [VERIFY V-558] | R-TRS-022 |
 | § 15212 | Trust for the care of an animal; enforcement; termination [S-676] [VERIFY V-558] | R-TRS-023 |
 | §§ 15300–15301 | Spendthrift restraints on income and principal valid; due principal reachable on petition (§ 15301(b)) [S-672] | R-TRS-041, R-TRS-042 |
-| § 15302 | Support trust: interest necessary for support or education protected until paid [S-672] [VERIFY V-566] | R-TRS-049 |
-| § 15303 | Discretionary trust: creditor cannot compel exercise of discretion [S-672] [VERIFY V-566] | R-TRS-048 |
-| § 15304 | Settlor-beneficiary: restraint invalid; creditors reach maximum trustee could pay [S-672] [VERIFY V-567] | R-TRS-047 |
+| § 15302 | Support trust: interest necessary for support or education protected until paid [S-672] [S-1108] | R-TRS-049 |
+| § 15303 | Discretionary trust: creditor cannot compel exercise of discretion; trustee who pays after notice is liable unless a valid spendthrift restraint applies (b) [S-672] [S-1106] | R-TRS-048 |
+| § 15304 | Settlor-beneficiary: restraint invalid; creditors reach maximum trustee could pay, up to the settlor's proportionate contribution [S-672] [S-1107] | R-TRS-047 |
 | § 15305 | Child and spousal support judgments reach the interest [S-672] | R-TRS-043 |
 | § 15305.5 | Felony restitution judgments reach the interest [S-673] | R-TRS-044 |
-| § 15306 | Public support reimbursement [VERIFY V-565] | R-TRS-045 |
-| § 15306.5 | General creditor: up to 25% of payments, considering support needs [S-654] | R-TRS-046 |
-| § 15307 | Amounts in excess of education and support needs reachable [S-672] | R-TRS-046 |
-| § 15400 | Trust revocable unless expressly made irrevocable [VERIFY V-551] | R-TRS-011 |
-| § 15401 | Revocation by instrument method or signed writing (not a will) delivered to trustee; explicit exclusivity [S-660] | R-TRS-012, R-TRS-013 |
+| § 15306 | Public support reimbursement; (b) protects distributions required for a disabled beneficiary's care [S-655] | R-TRS-045 |
+| § 15306.5 | General creditor: up to 25% of each payment, considering support needs; cap covers § 15307 orders but not § 15301(b) due principal (*Carmack*) [S-654] [S-655] | R-TRS-046 |
+| § 15307 | Amounts in excess of education and support needs reachable, within the § 15306.5 25% cap (*Carmack*) [S-672] [S-655] | R-TRS-046 |
+| § 15400 | Trust revocable unless expressly made irrevocable; applies where settlor domiciled in CA at creation, instrument executed in CA, or CA law chosen [S-1113] | R-TRS-011 |
+| § 15401 | Revocation by instrument method or signed writing (not a will) delivered to trustee; explicit exclusivity; (b) joint settlors; (c) agent only if the trust instrument expressly permits [S-660] [S-1114] | R-TRS-012, R-TRS-013 |
 | § 15402 | Revocable trust may be modified by the revocation procedure unless the instrument provides otherwise | R-TRS-014 |
-| § 15403 | All beneficiaries may petition to modify or terminate; material-purpose balancing [S-674] [VERIFY V-555] | R-TRS-025 |
-| § 15404 | Settlor and all beneficiaries may modify or terminate [VERIFY V-555] | R-TRS-024 |
-| § 15408 | Uneconomic trusts; trustee may terminate if principal ≤ $100,000 (SB 1127, 2024) [S-656] [S-657] [VERIFY V-556] | R-TRS-027 |
-| § 15409 | Modification or termination for unanticipated circumstances [VERIFY V-555] | R-TRS-026 |
+| § 15403 | All beneficiaries may petition to modify or terminate; material-purpose balancing; spendthrift trust terminable only for good cause [S-674] [S-1100] | R-TRS-025 |
+| § 15404 | Settlor and all beneficiaries may modify or terminate by written consent; nonconsenting beneficiary protected unless not substantially impaired (b) [S-1102] | R-TRS-024 |
+| § 15408 | Uneconomic trusts; trustee may terminate if principal ≤ $100,000 (SB 1127, Stats. 2024, ch. 76, eff. Jan. 1, 2025) [S-656] [S-657] [S-1103] | R-TRS-027 |
+| § 15409 | Modification or termination for unanticipated circumstances; spendthrift restraint a factor, not a bar (b) [S-1101] | R-TRS-026 |
 | §§ 15410–15412 | Distribution on termination; combining and dividing trusts [VERIFY V-557] | R-TRS-028, R-TRS-029 |
 
 ## 2. California Probate Code — trustees, duties, discretion, remedies
@@ -50,11 +50,11 @@ One line per authority. Where a section's details were not confirmed against cur
 |---|---|---|
 | §§ 15600–15601 | Acceptance and rejection of trusteeship [VERIFY V-569] | R-TRS-007 |
 | § 15620 | Co-trustees act unanimously unless instrument provides otherwise [VERIFY V-569] | R-TRS-061 |
-| § 15642 | Removal of trustee; grounds incl. disqualified sole trustee (b)(6) [S-658] [VERIFY V-575] | R-TRS-073, R-TRS-074 |
-| §§ 15680–15681 | Trustee compensation: per instrument or reasonable [VERIFY V-574] | R-TRS-066 |
+| § 15642 | Removal of trustee; grounds incl. disqualified sole trustee (b)(6), with exclusions for settlor's relatives, court-approved designations and independent-review certificates [S-658] [S-1118] | R-TRS-073, R-TRS-074 |
+| §§ 15680–15681 | Trustee compensation: per instrument or reasonable [VERIFY V-924] | R-TRS-066 |
 | § 15684 | Reimbursement of properly incurred expenses [VERIFY V-581] | R-TRS-091 |
-| § 15687 | Attorney-trustee: no dual compensation without waiver or court approval [S-677] [VERIFY V-574] | R-TRS-066 |
-| § 15800 | While revocable, beneficiaries' rights subject to settlor's control; duties owed to settlor [S-680] [VERIFY V-572] | R-TRS-065 |
+| § 15687 | Attorney-trustee: no dual compensation unless trustee fees waived or approved by court order or unopposed 30-day notice; not if trustee is settlor's relative or cohabitant [S-677] [S-1116] | R-TRS-066 |
+| § 15800 | While revocable and a power-holder is competent, rights and duties run to the power-holder; if none is competent, 60-day notice and accounts to the beneficiaries who would take at death (AB 1079, Stats. 2021, ch. 749) [S-680] [S-1115] | R-TRS-065 |
 | § 16000 | Administer according to the instrument and the law [VERIFY V-569] | R-TRS-050 |
 | § 16002 | Duty of loyalty: solely in the interest of the beneficiaries | R-TRS-052 |
 | § 16003 | Duty of impartiality | R-TRS-056 |
@@ -63,23 +63,23 @@ One line per authority. Where a section's details were not confirmed against cur
 | § 16013 | Co-trustee's duty to participate and prevent breach [VERIFY V-569] | R-TRS-061 |
 | § 16014 | Duty to use special skills [VERIFY V-569] | R-TRS-051 |
 | § 16040 | Prudent-person standard of care [VERIFY V-569] | R-TRS-051 |
-| §§ 16045–16054 | Uniform Prudent Investor Act: § 16047 standard; § 16048 diversify; § 16049 review; § 16051 no hindsight; § 16052 delegation [VERIFY V-571] | R-TRS-057, R-TRS-058, R-TRS-061 |
-| §§ 16060–16061.5 | Keep informed; report on request; provide terms [VERIFY V-573] | R-TRS-062 |
-| § 16061.7 | Notification within 60 days when trust becomes irrevocable on settlor's death [S-652] [VERIFY V-573] | R-TRS-064 |
+| §§ 16045–16054 | Uniform Prudent Investor Act: § 16047 standard; § 16048 diversify; § 16049 review; § 16051 no hindsight; § 16052 delegation [S-1119] [VERIFY V-569] | R-TRS-057, R-TRS-058, R-TRS-061 |
+| §§ 16060–16061.5 | Keep informed; report on request; provide terms [S-1126] [S-1125] | R-TRS-062 |
+| § 16061.7 | Notification within 60 days when trust becomes irrevocable on settlor's death, to each beneficiary and each heir [S-652] [S-1125] | R-TRS-064 |
 | § 16061.8 | Contest within 120 days of notice or 60 days after requested terms delivered, whichever later [S-652] [S-653] | R-TRS-064 |
 | § 16062 | Account at least annually, at termination, on change of trustee [S-679] | R-TRS-063 |
 | § 16069 | No accounting while trust revocable, or where beneficiary is trustee [S-683] | R-TRS-063 |
 | § 16080 | Discretion must be exercised reasonably [S-659] | R-TRS-068 |
-| § 16081 | "Sole/absolute/uncontrolled" discretion: fiduciary principles, no bad faith; trustee-beneficiary HEMS limit [S-659] [VERIFY V-576] | R-TRS-069 |
-| §§ 16200 et seq. | Trustee's general and specific powers [VERIFY V-576] | R-TRS-067 |
+| § 16081 | "Sole/absolute/uncontrolled" discretion: fiduciary principles, no bad faith; trustee-beneficiary HEMS limit (c) unless the instrument expressly refers to (c) [S-659] [S-1117] | R-TRS-069 |
+| §§ 16200 et seq. | Trustee's general and specific powers [VERIFY V-924] | R-TRS-067 |
 | § 16400 | Breach of trust defined [S-678] | R-TRS-078 |
 | §§ 16401–16403 | Liability for agents, co-trustees and predecessors [VERIFY V-579] | R-TRS-083 |
 | § 16420 | Remedies for breach (compel, enjoin, surcharge, remove, trace, etc.) [S-678] | R-TRS-078 to R-TRS-080 |
 | § 16440 | Measure of liability: loss, trustee's profit, lost profit; court may excuse (b) [S-678] | R-TRS-081, R-TRS-082 |
 | § 16460 | Three-year limitations period [S-662] [VERIFY V-577] | R-TRS-086 |
-| § 16461 | Exculpatory clauses: limits [S-662] [VERIFY V-578] | R-TRS-084 |
-| § 16462 | Revocable trust: trustee following settlor's written directions [S-662] [VERIFY V-578] | R-TRS-065 |
-| §§ 16463–16465 | Beneficiary consent, release, affirmance [S-662] [VERIFY V-578] | R-TRS-085, R-TRS-088 |
+| § 16461 | Exculpatory clauses: not for intentional, grossly negligent, bad-faith or reckless breach, or profit (b) [S-662] [S-1120] | R-TRS-084 |
+| § 16462 | Revocable trust: trustee not liable for acts on the power-holder's written directions [S-662] [S-1121] | R-TRS-065 |
+| §§ 16463–16465 | Beneficiary consent, release, affirmance [S-662] [VERIFY V-925] | R-TRS-085, R-TRS-088 |
 | § 17200 | Petitions concerning internal affairs of a trust | R-TRS-072 |
 
 ## 3. California — third parties, creditors, related statutes
@@ -91,7 +91,7 @@ One line per authority. Where a section's details were not confirmed against cur
 | Prob. Code § 18004 | Claims asserted against the trust by suing the trustee in representative capacity [S-663] | R-TRS-091 |
 | Prob. Code § 18100 | Good-faith third party for value without actual knowledge is protected; no duty to inquire [S-666] | R-TRS-095 |
 | Prob. Code § 18200 | Revocable trust property subject to settlor's creditors during life [S-664] | R-TRS-092 |
-| Prob. Code § 19001 | After death, revocable-trust property subject to creditors to extent probate estate inadequate [S-665] [VERIFY V-568] | R-TRS-093 |
+| Prob. Code § 19001 | After death, revocable-trust property subject to creditors to extent probate estate inadequate [S-665] | R-TRS-093 |
 | Prob. Code §§ 850, 859 | Petition to recover property; double damages for bad-faith taking [S-675] [VERIFY V-584] | R-TRS-096 |
 | Prob. Code § 6300 | Pour-over to trust signed before, with or within 60 days after the will [S-611] [S-612] | R-TRS-010; R-WIL-061 |
 | Prob. Code §§ 21205, 21220 | USRAP: 90-year wait-and-see; reformation [VERIFY V-563] | R-TRS-034 |
@@ -111,23 +111,23 @@ One line per authority. Where a section's details were not confirmed against cur
 | *Haggerty v. Thornton* (2024) 15 Cal.5th 729 | A revocable trust may be modified by the § 15401(a)(2) statutory revocation method unless the instrument explicitly makes its modification method exclusive [S-129] [S-650] [VERIFY V-033] | R-TRS-014 |
 | *King v. Lynch* (2012) 204 Cal.App.4th 1186 | Required use of a trust's stated modification method; **disapproved** by *Haggerty* [VERIFY V-033] | R-TRS-014 |
 | *Estate of Giraldin* (2012) 55 Cal.4th 1058 | After the settlor's death, beneficiaries have standing to sue the trustee for breaches committed while the trust was revocable | R-TRS-065 |
-| *Carmack v. Reynolds* (2017) 2 Cal.5th 844 | The § 15306.5 25% figure is not an absolute limit on what a creditor (bankruptcy trustee) may reach in a spendthrift trust [S-655] [VERIFY V-565] | R-TRS-042, R-TRS-046 |
+| *Carmack v. Reynolds* (2017) 2 Cal.5th 844 | A general creditor (there a bankruptcy trustee) may reach due-and-payable distributions in full (§ 15301(b)) and up to 25% of anticipated payments, reduced for support needs; §§ 15306.5 and 15307 orders share the 25% cap [S-655] [S-1105] | R-TRS-042, R-TRS-046 |
 | *Claflin v. Claflin* (Mass. 1889) 149 Mass. 19 | Beneficiaries cannot compel termination while a material purpose of the settlor remains unaccomplished | R-TRS-025 |
-| *Estate of Heggstad* (1993) 16 Cal.App.4th 943 | A settlor-trustee's signed declaration listing property as trust property can transfer it to the trust without a deed [VERIFY V-583] | R-TRS-005 |
-| *Andersen v. Hunt* (2011) 196 Cal.App.4th 722 | Testamentary-capacity test (§ 6100.5) applies to a trust amendment that resembles a will in complexity [VERIFY V-554] | R-TRS-003 |
-| *Masry v. Masry* (2008) 166 Cal.App.4th 738 | Statutory revocation method available where trust method not explicitly exclusive; settlor-trustee delivery [VERIFY V-553] | R-TRS-012 |
+| *Estate of Heggstad* (1993) 16 Cal.App.4th 943 | A settlor-trustee's signed declaration listing property as trust property can transfer it to the trust without a deed; the signed writing satisfies the statute of frauds [S-1109] | R-TRS-005 |
+| *Andersen v. Hunt* (2011) 196 Cal.App.4th 722 | Testamentary-capacity test (§ 6100.5), not §§ 810–812, applies to trust amendments that closely resemble a will or codicil in content and complexity [S-1111] [S-1112] | R-TRS-003 |
+| *Masry v. Masry* (2008) 166 Cal.App.4th 738 | Cited for: statutory revocation method available where the trust's method is not explicitly exclusive (holding not confirmed; settlor-trustee delivery point unconfirmed) [VERIFY V-553] | R-TRS-012 |
 | *Estate of Gatlin* (1971) 16 Cal.App.3d 644 | Cy pres is an equitable power to carry out a charitable trust where the testator expressed a general charitable intent [S-670] | R-TRS-021 |
 | *Estate of Faulkner* (1954) 128 Cal.App.2d 575 | Court first decides whether a charitable trust was created; if not, cy pres cannot apply [S-682] | R-TRS-019 |
 | *Holt v. College of Osteopathic Physicians & Surgeons* (1964) 61 Cal.2d 750 | Minority trustees of a charitable corporation may sue; AG enforcement not exclusive [VERIFY V-560] | R-TRS-020 |
 | *Adler v. Manor Healthcare Corp.* (1992) 7 Cal.App.4th 1110 | Third parties lose § 18100 protection only on actual knowledge of the trustee's impropriety [S-667] | R-TRS-095 |
-| *Arluk Medical Center Industrial Group, Inc. v. Dobler* (2004) 116 Cal.App.4th 1324 | Successor trustee's duty to a deceased settlor's creditors is limited to avoiding affirmative misconduct [VERIFY V-568] | R-TRS-093 |
+| *Arluk Medical Center Industrial Group, Inc. v. Dobler* (2004) 116 Cal.App.4th 1324 | Trustee's only duty to a deceased settlor's creditors with pending claims is to avoid affirmative misconduct that defeats their reasonable expectation of payment from trust assets [S-1123] [S-1124] | R-TRS-093 |
 
 ## 5. Restatement and uniform acts (comparison only; California has not adopted the UTC)
 
 | Authority | Point | Rule ID |
 |---|---|---|
 | Restatement (Second) of Trusts § 2 | Definition of a trust | R-TRS-001 |
-| Restatement (Second) of Trusts § 330 | Traditional rule: irrevocable unless power reserved [VERIFY V-551] | R-TRS-011 |
+| Restatement (Second) of Trusts § 330 | Traditional rule: irrevocable unless power reserved [VERIFY V-923] | R-TRS-011 |
 | Restatement (Third) of Trusts § 28 | Charitable purposes [VERIFY V-559] | R-TRS-019 |
 | Restatement (Third) of Trusts § 67 | Cy pres; adds "wasteful"; presumes general charitable intent [VERIFY V-559] | R-TRS-021 |
 | UTC § 602 | Revocable unless expressly irrevocable; revocation by later will referring to the trust [VERIFY V-594] | R-TRS-011, R-TRS-013 |

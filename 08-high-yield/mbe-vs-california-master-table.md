@@ -80,7 +80,7 @@ Chosen by how often the subject and the issue appear on California essays: PR 30
 | 22 | **BUS — interested director** | Disclosure + disinterested approval **or** fairness (MBCA §§ 8.60–8.63) | Board approval still requires "just and reasonable" (Corp. Code § 310) [VERIFY V-726] | Test fairness even after board approval | R-BUS-064, R-BUS-065 | Fiduciary duties tagged in 4 |
 | 23 | **WIL / CMP — surviving spouse** | Elective share; title controls | No elective share; survivor owns half CP + half decedent's QCP; will passes only decedent's share (Prob. Code §§ 100, 101, 6101) | Characterize first, then distribute | R-WIL-001, R-CMP-091, R-CMP-092 | CP + Wills crossovers (4) |
 | 24 | **WIL — harmless error** | Any formality (UPC § 2-503) | Witnessing defects only (Prob. Code § 6110(c)(2)) | "Cannot save an unsigned will." | R-WIL-048 | Execution tagged in 4–5 |
-| 25 | **TRS — revoke / amend** | Irrevocable unless reserved; strict method | Revocable unless expressly irrevocable (§ 15400) [VERIFY V-551]; signed writing to trustee unless method **explicitly** exclusive; not by will (§ 15401(a); *Haggerty*) [VERIFY V-033] | "Explicitly exclusive?" | R-TRS-011, R-TRS-012, R-TRS-013, R-TRS-014 | Wills + Trusts crossovers (6) |
+| 25 | **TRS — revoke / amend** | Irrevocable unless reserved; strict method | Revocable unless expressly irrevocable (§ 15400); signed writing to trustee unless method **explicitly** exclusive; not by will (§ 15401(a); *Haggerty*) [VERIFY V-033] | "Explicitly exclusive?" | R-TRS-011, R-TRS-012, R-TRS-013, R-TRS-014 | Wills + Trusts crossovers (6) |
 
 ---
 
@@ -370,12 +370,12 @@ There is no MBE rule. These rows are the **casebook / UPC / UTC / common-law-sta
 
 | Issue | Tempting common-law / UTC rule | California rule | What to write on the essay | Rule IDs |
 |---|---|---|---|---|
-| Revocability; methods; by will; amendment | Top 25 #25 | §§ 15400, 15401(a), 15402; *Haggerty* [VERIFY V-551] [VERIFY V-033] | State both, apply California | R-TRS-011, R-TRS-012, R-TRS-013, R-TRS-014 |
+| Revocability; methods; by will; amendment | Top 25 #25 | §§ 15400, 15401(a), 15402; *Haggerty* [VERIFY V-033] | State both, apply California | R-TRS-011, R-TRS-012, R-TRS-013, R-TRS-014 |
 | CP in a joint revocable trust | Varies | Either spouse may revoke as to CP; modification needs both (Fam. Code § 761) [VERIFY V-585] | CP + Trusts crossovers | R-TRS-015 |
-| Beneficiaries terminating | *Claflin*: no termination while a material purpose remains | Court balances the reason against the material purpose (§ 15403) [VERIFY V-555] | *Claflin*, then balancing | R-TRS-025 |
-| Spendthrift vs. general creditors | Valid clause bars all general creditors | General creditors may reach up to 25% of payments and amounts beyond education and support needs (§§ 15306.5, 15307; *Carmack*) [VERIFY V-565] | General rule, then "California, however…" | R-TRS-046 |
-| Contest deadline | UTC § 604 | Notice within 60 days of death; contest barred 120 days after service or 60 days after delivery of requested terms, whichever is later (§§ 16061.7, 16061.8) [VERIFY V-573] | Do the date arithmetic | R-TRS-064 |
-| Drafter / disqualified person | MR 1.8(c) only | Gift to drafter conclusively invalid (§ 21380); drafter as sole trustee is a removal ground (§ 15642(b)(6)); no dual compensation (§ 15687) [VERIFY V-575] [VERIFY V-574] | Run all three in a PR crossover | R-TRS-066, R-TRS-074, R-TRS-076 |
+| Beneficiaries terminating | *Claflin*: no termination while a material purpose remains | All beneficiaries (written consent, § 15404) may petition; the court balances the reason against any material purpose, and a spendthrift trust may be terminated only on a finding of good cause (§ 15403) | *Claflin*, then balancing | R-TRS-025 |
+| Spendthrift vs. general creditors | Valid clause bars all general creditors | General creditors may reach principal already due but still held, in full (§ 15301(b)), plus up to 25% of each future payment after support needs; orders under § 15307 (amounts beyond education and support needs) count within that same 25% cap (§§ 15306.5, 15307; *Carmack v. Reynolds* (2017)) | General rule, then "California, however…" | R-TRS-046 |
+| Contest deadline | UTC § 604 | Notice within 60 days of death; contest barred 120 days after service or 60 days after delivery of requested terms, whichever is later (§§ 16061.7, 16061.8) | Do the date arithmetic | R-TRS-064 |
+| Drafter / disqualified person | MR 1.8(c) only | Gift to drafter conclusively invalid (§ 21380); drafter as sole trustee is a removal ground (§ 15642(b)(6)); no dual compensation (§ 15687) | Run all three in a PR crossover | R-TRS-066, R-TRS-074, R-TRS-076 |
 | Third parties dealing with trustee | BFP must lack notice | Protected unless **actual knowledge** (§ 18100) | Ask "actual knowledge?" | R-TRS-095 |
 | Cy pres | Modern presumption of general charitable intent (R3d § 67; UTC § 413) | Common-law test: prove general charitable intent (*Gatlin*) [VERIFY V-559] | Prove intent from the facts | R-TRS-021 |
 

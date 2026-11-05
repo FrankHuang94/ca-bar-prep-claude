@@ -47,7 +47,7 @@ flowchart TD
     B -- "Yes" --> IRR["Go to chart 3: irrevocable trust"]
     B -- "No" --> C["California: revocable - R-TRS-011. Traditional rule: irrevocable unless power reserved"]
     C --> D{"Settlor alive and acting personally? R-TRS-016"}
-    D -- "No, agent or conservator" --> D2{"Express POA authority or court approval?"}
+    D -- "No, agent or conservator" --> D2{"Agent: trust instrument expressly permits? Conservator: court approval?"}
     D2 -- "No" --> FAIL["Attempt ineffective"]
     D2 -- "Yes" --> E
     D -- "Yes" --> E{"Complied with method stated in the instrument?"}
@@ -62,7 +62,7 @@ flowchart TD
     H -- "No" --> VALID
     G -- "No, it is a will" --> W["Ineffective in CA unless trust permits revocation by will; argue UTC view - R-TRS-013"]
     G -- "No, not delivered" --> SD{"Settlor is sole trustee?"}
-    SD -- "Yes" --> VALID2["Likely valid: delivery to self - R-TRS-012"]
+    SD -- "Yes" --> VALID2["Arguably valid: holding as trustee may count as delivery; unsettled - R-TRS-012"]
     SD -- "No" --> FAIL
 ```
 
@@ -72,14 +72,14 @@ flowchart TD
 flowchart TD
     A["Request to modify or terminate"] --> B{"Settlor alive and consenting?"}
     B -- "Yes" --> C{"All beneficiaries consent?"}
-    C -- "Yes" --> OK1["Modify or terminate without court; material purpose irrelevant - R-TRS-024"]
-    C -- "No" --> C2{"Nonconsenting interests protected?"}
-    C2 -- "Yes" --> OK2["Court may modify or partially terminate - R-TRS-024"]
+    C -- "Yes, in writing" --> OK1["Modify or terminate without court; material purpose irrelevant - R-TRS-024"]
+    C -- "No" --> C2{"Nonconsenting interests not substantially impaired?"}
+    C2 -- "Yes" --> OK2["On petition by the others with settlor consent, court may modify or terminate - R-TRS-024"]
     C2 -- "No" --> E
     B -- "No" --> D{"All beneficiaries consent, incl. representation of minors and unborns?"}
     D -- "Yes" --> D2{"Material purpose remains? Spendthrift, support, age delay"}
     D2 -- "No" --> OK3["Court may terminate - R-TRS-025"]
-    D2 -- "Yes" --> D3["Claflin: no. California: court balances reason vs. purpose - R-TRS-025"]
+    D2 -- "Yes" --> D3["Claflin: no. California: court balances reason vs. purpose; spendthrift trust ends only for good cause - R-TRS-025"]
     D -- "No" --> E{"Unforeseen circumstances defeat or impair purposes? R-TRS-026"}
     E -- "Yes" --> OK4["Court may modify administrative or dispositive terms, or terminate"]
     E -- "No" --> F{"Principal small relative to costs? R-TRS-027"}
@@ -105,13 +105,13 @@ flowchart TD
     C -- "Yes" --> C1["Reachable like any property - R-TRS-042"]
     C -- "No" --> D{"Valid spendthrift clause? R-TRS-041"}
     D -- "No" --> D1{"Discretionary interest? R-TRS-048"}
-    D1 -- "Yes" --> D2["Cannot compel distribution; trustee paying after notice of levy risks liability"]
+    D1 -- "Yes" --> D2["Cannot compel distribution; trustee paying after notice of transfer or levy is liable to creditor - R-TRS-048"]
     D1 -- "No" --> D3["Creditor may reach the interest"]
     D -- "Yes" --> E{"Exception creditor?"}
     E -- "Child or spousal support" --> E1["Court may order payment - R-TRS-043"]
     E -- "Felony restitution" --> E2["Reachable - R-TRS-044"]
     E -- "Public support" --> E3["Reachable within statute - R-TRS-045"]
-    E -- "General creditor" --> E4["CA: up to 25 percent of payments, plus excess over support needs; principal already due - R-TRS-046, R-TRS-042. General law: barred"]
+    E -- "General creditor" --> E4["CA: principal already due in full; up to 25 percent of future payments, reduced for support needs, with excess-over-support orders inside the same cap - R-TRS-042, R-TRS-046. General law: barred"]
 ```
 
 ## 5. Did the trustee breach a duty? Run once per act

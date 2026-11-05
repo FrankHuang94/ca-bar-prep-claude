@@ -59,14 +59,14 @@ An **express trust** is one the settlor intends to create. It contrasts with **r
 Write: *"A valid express trust requires (1) a settlor with capacity, (2) intent to create a trust, (3) trust property, (4) a lawful purpose and (5) an ascertainable beneficiary (or a charitable purpose)."* Then go element by element.
 
 1. **Methods of creation (§ 15200)** [S-668]. A trust may be created by: (a) the owner's **declaration** that he or she holds property as trustee; (b) an **inter vivos transfer** to another as trustee; (c) a **transfer by will**; (d) the **exercise of a power of appointment** in trust; (e) an **enforceable promise** to create a trust. **No consideration** is required (§ 15208). R-TRS-002.
-2. **Capacity.** The settlor must have capacity to create, amend or revoke. California uses the decision-specific test of §§ 810–812, but where a trust or amendment is no more complex than a will, courts apply the testamentary test of § 6100.5 (*Andersen v. Hunt* (2011) 196 Cal.App.4th 722 [VERIFY V-554]). Undue influence (Prob. Code § 86; R-WIL-039, R-WIL-040) and the § 21380 presumption (R-TRS-076) apply to trusts. R-TRS-003.
+2. **Capacity.** The settlor must have capacity to create, amend or revoke. California uses the decision-specific test of §§ 810–812, but where a trust or amendment closely resembles a will or codicil in content and complexity, courts apply the testamentary test of § 6100.5 (*Andersen v. Hunt* (2011) 196 Cal.App.4th 722 [S-1111]; applied in *Eyford v. Nord* (2021) to an amendment that disinherited one set of beneficiaries [S-1112]). Undue influence (Prob. Code § 86; R-WIL-039, R-WIL-040) and the § 21380 presumption (R-TRS-076) apply to trusts. R-TRS-003.
 3. **Intent (§ 15201)** [S-668]. A **present** manifestation of intent to impose **enforceable duties**. No magic words ("trust" or "trustee" are neither required nor conclusive).
    - **Precatory words** ("wish," "hope," "request," "desire") ordinarily create no trust; the recipient takes outright (R-TRS-039). Context matters: a direction to a fiduciary, or a gift that would otherwise be pointless, may show a duty.
    - **Future intent** ("I will set up a trust for you next year") creates nothing unless an enforceable promise.
    - R-TRS-004.
 4. **Trust property (res) (§ 15202)** [S-668]. Must be an **existing, identifiable** interest the settlor owns.
    - **Expectancies** (a hoped-for inheritance, profits not yet earned) cannot be trust property until they exist and the settlor reaffirms intent (common law).
-   - **Funding.** A living trust is created only as to property actually transferred or declared. A **signed trust instrument in which the settlor-trustee declares that listed property is held in trust** can make that property trust property without a separate deed (*Estate of Heggstad* (1993) 16 Cal.App.4th 943 [VERIFY V-583]). Unfunded assets otherwise pass by will (often a pour-over, I.F) or intestacy.
+   - **Funding.** A living trust is created only as to property actually transferred or declared. A **signed trust instrument in which the settlor-trustee declares that listed property is held in trust** can make that property trust property without a separate deed; for land, the signed declaration satisfies the statute of frauds (*Estate of Heggstad* (1993) 16 Cal.App.4th 943 [S-1109]). Unfunded assets otherwise pass by will (often a pour-over, I.F) or intestacy.
    - R-TRS-005.
 5. **Lawful purpose (§ 15203)** [S-668]. Any purpose not illegal or against public policy. Invalid: trusts to defraud creditors, to induce crime, conditions intended to **restrain marriage** (Civ. Code § 710 [VERIFY V-589]) or to **encourage divorce**. A limitation "until she marries" can be valid if it reflects support rather than an intent to forbid marriage. R-TRS-006.
 6. **Beneficiary (§ 15205)**: see I.x2.
@@ -125,9 +125,9 @@ Write: *"A valid express trust requires (1) a settlor with capacity, (2) intent 
 
 | Rule | Content | Authority |
 |---|---|---|
-| Traditional common law (majority of older cases) | A trust is **irrevocable** unless the settlor expressly reserved a power to revoke | Restatement (Second) of Trusts § 330 [VERIFY V-551] |
+| Traditional common law (majority of older cases) | A trust is **irrevocable** unless the settlor expressly reserved a power to revoke | Restatement (Second) of Trusts § 330 [VERIFY V-923] |
 | Uniform Trust Code (modern) | Revocable unless the terms expressly make it irrevocable (for trusts created after enactment) | UTC § 602(a) [VERIFY V-594] |
-| **California** | "Unless a trust is expressly made irrevocable by the trust instrument, the trust is revocable by the settlor." Applies where the settlor was domiciled in California at creation, the instrument was executed in California, or the instrument selects California law | Prob. Code § 15400 [VERIFY V-551] |
+| **California** | "Unless a trust is expressly made irrevocable by the trust instrument, the trust is revocable by the settlor." Applies where the settlor was domiciled in California at creation, the instrument was executed in California, or the instrument selects California law | Prob. Code § 15400 [S-1113] |
 
 **Write:** "Under the traditional rule a trust is irrevocable unless the settlor reserved a power to revoke; California, like the UTC, presumes the opposite: a trust is revocable unless expressly made irrevocable (§ 15400). Because W created the trust in California and it does not say it is irrevocable, it is revocable." R-TRS-011.
 
@@ -136,11 +136,11 @@ Write: *"A valid express trust requires (1) a settlor with capacity, (2) intent 
 2. by a **writing, other than a will, signed by the settlor** (or another person holding the power) **and delivered to the trustee during the settlor's lifetime**.
 
 - **Exclusivity.** If the instrument **explicitly** makes its method the exclusive method, only that method works. A stated method that is not labelled exclusive leaves the statutory method available [S-660].
-- **Settlor as trustee.** Where the settlor is the sole trustee, courts have treated the settlor's own possession of the signed writing as delivery (*Masry v. Masry* (2008) 166 Cal.App.4th 738 [VERIFY V-553]). With co-trustees (Feb 2016: settlor and her daughter), argue whether delivery to the other co-trustee was needed.
+- **Settlor as trustee.** Where the settlor is the sole trustee, argue that holding the signed writing in her capacity as trustee satisfies delivery; *Masry v. Masry* (2008) 166 Cal.App.4th 738 is cited on § 15401 exclusivity, but no case holding on settlor-trustee delivery has been verified for this repo [VERIFY V-553]. With co-trustees (Feb 2016: settlor and her daughter), argue whether delivery to the other co-trustee was needed.
 - **Revocation by will.** The statutory method excludes wills. A later will revokes the trust only if the trust instrument allows revocation by will (and then only at death). Property already in a funded trust is not in the probate estate, so the will cannot pass it. **Other side:** UTC § 602(c) allows revocation by a later will or codicil that expressly refers to the trust or specifically devises trust property, if the trust's method is not exclusive [VERIFY V-594]. Feb 2016 selected answers reached opposite conclusions; argue both. R-TRS-012, R-TRS-013.
 - **Partial revocation** (withdrawing a single asset) uses the same methods.
-- **Joint settlors and community property.** Unless the instrument says otherwise, each settlor may revoke as to the portion he or she contributed (§ 15401(b) [VERIFY V-552]). For **community property** in a revocable trust, **either spouse alone may revoke** as to CP, but **modification** as to CP during marriage requires **both spouses' joinder or consent** (Fam. Code § 761) [S-681] [VERIFY V-585]. R-TRS-015.
-- **Who may exercise.** The power is personal to the settlor. A **conservator** needs court approval (substituted judgment, § 2580); an **agent under a power of attorney** may act only if the power of attorney expressly authorizes it and the trust does not forbid it [VERIFY V-552]. R-TRS-016.
+- **Joint settlors and community property.** Unless the instrument says otherwise, each settlor may revoke as to the portion he or she contributed, except as Fam. Code § 761 provides (§ 15401(b) [S-1114]). For **community property** in a revocable trust, **either spouse alone may revoke** as to CP, but **modification** as to CP during marriage requires **both spouses' joinder or consent** (Fam. Code § 761) [S-681] [VERIFY V-585]. R-TRS-015.
+- **Who may exercise.** The settlor (or another person to whom the instrument gives the power). An **agent under a power of attorney** may modify or revoke only if the **trust instrument** expressly permits it (§ 15401(c)) [S-1114]; the power of attorney must also grant the authority expressly (§ 4264), and a **conservator** needs court approval (substituted judgment, § 2580) [VERIFY V-922]. R-TRS-016.
 - **At death** the trust becomes irrevocable; the trustee must then give the § 16061.7 notice (V.H).
 
 **3. Modification (§ 15402) and *Haggerty v. Thornton*.**
@@ -200,20 +200,21 @@ Write: *"A valid express trust requires (1) a settlor with capacity, (2) intent 
 
 **1. Revocable trust, settlor alive and competent:** the settlor revokes or modifies (I.G). No one else's consent is needed (except both spouses for CP modification).
 
-**2. Settlor plus all beneficiaries (§ 15404)** [VERIFY V-555]. If the settlor and all beneficiaries consent (in writing), even an irrevocable trust may be modified or terminated **without court approval, without the trustee's consent, and even if a material purpose remains**. If some beneficiaries do not consent, the court may modify or partially terminate if the nonconsenting beneficiaries' interests are not substantially impaired. R-TRS-024.
+**2. Settlor plus all beneficiaries (§ 15404)** [S-1102]. By the **written** consent of the settlor and all beneficiaries, even an irrevocable trust may be modified or terminated **without court approval, without the trustee's consent, and even if a material purpose remains** (§ 15404(a)). If a beneficiary does not consent, the other beneficiaries, with the settlor's consent, may petition, and the court may modify or terminate if the nonconsenting beneficiaries' interests are not substantially impaired (§ 15404(b)). R-TRS-024.
 
-**3. All beneficiaries without the settlor (§ 15403)** [S-674] [VERIFY V-555].
+**3. All beneficiaries without the settlor (§ 15403)** [S-674] [S-1100].
 - All beneficiaries must consent: watch for **minors, unborn or unascertained remainder beneficiaries**, who cannot consent and must be represented.
-- **Material purpose.** If continuing the trust is necessary to carry out a material purpose, the court may modify or terminate only if the reason for doing so **outweighs** the interest in accomplishing that purpose.
-- **Classic material purposes:** a **spendthrift** clause; **discretionary** or **support** provisions; a **postponed age** of distribution ("until age 35"); successive interests designed to protect a beneficiary; a purpose to keep a family business or farm in the family. Older text of § 15403 barred terminating a trust subject to a valid spendthrift restraint under that section [VERIFY V-555].
+- **Material purpose.** If continuing the trust is necessary to carry out a material purpose, the court may modify or terminate only if, in its discretion, the reason for doing so **outweighs** the interest in accomplishing that purpose.
+- **Spendthrift trusts.** If the trust is subject to a valid spendthrift restraint, it may not be terminated under § 15403 unless the court finds **good cause** [S-1100].
+- **Classic material purposes:** a **spendthrift** clause; **discretionary** or **support** provisions; a **postponed age** of distribution ("until age 35"); successive interests designed to protect a beneficiary; a purpose to keep a family business or farm in the family. Older text of § 15403 gave the court no discretion to terminate a trust subject to a valid spendthrift restraint; the current text permits it for good cause [S-1100].
 - **General-law contrast (*Claflin v. Claflin* (Mass. 1889) 149 Mass. 19):** beneficiaries cannot compel termination while a material purpose remains unaccomplished, full stop. California's balancing test is more flexible; write both. R-TRS-025.
-- *Boys & Girls Club of Petaluma v. Walsh* (2008) is reported to hold that broad trustee discretion was not itself a material purpose barring a consensual modification [VERIFY V-555].
+- *Boys & Girls Club of Petaluma v. Walsh* (2008) is reported to hold that broad trustee discretion was not itself a material purpose barring a consensual modification; cite and holding unconfirmed, so do not rely on it on the exam [VERIFY V-920].
 
-**4. Changed circumstances (§ 15409)** [VERIFY V-555]. On petition by a trustee or beneficiary, the court may modify the **administrative or dispositive** provisions or terminate if, **owing to circumstances not known to and not anticipated by the settlor**, continuing under the trust's terms would **defeat or substantially impair** its purposes; the court may order acts the instrument forbids. A spendthrift restraint is a factor but not a bar. R-TRS-026.
+**4. Changed circumstances (§ 15409)** [S-1101]. On petition by a trustee or beneficiary, the court may modify the **administrative or dispositive** provisions or terminate if, **owing to circumstances not known to and not anticipated by the settlor**, continuing under the trust's terms would **defeat or substantially impair** its purposes; the court may order acts the instrument forbids. A spendthrift restraint is a factor the court must consider, but it does not preclude modification or termination (§ 15409(b)). R-TRS-026.
 
-**5. Uneconomic trust (§ 15408)** [S-656] [S-657] [VERIFY V-556].
+**5. Uneconomic trust (§ 15408)** [S-656] [S-657] [S-1103].
 - **Court route:** on petition, the court may modify or terminate if the principal's value has become so low relative to the cost of administration that continuing would defeat or substantially impair the purposes.
-- **Trustee route:** unless the instrument provides otherwise, the trustee of a trust whose principal does **not exceed $100,000** may terminate it without a court order, distributing consistently with the purposes. The threshold was **$20,000** when enacted, then **$40,000**, and was raised to **$100,000 by SB 1127 (Stats. 2024, ch. 76)** [S-656] [S-657]. **Recent change**: confirm the figure in the June 2027 update.
+- **Trustee route:** unless the instrument provides otherwise, the trustee of a trust whose principal does **not exceed $100,000** in fair market value may terminate it without a court order, distributing consistently with the purposes. The threshold was **$20,000** when enacted [S-657] and was raised to **$100,000 by SB 1127 (Stats. 2024, ch. 76, effective January 1, 2025)** [S-656] [S-1103]; the figure immediately before SB 1127 ($40,000 or $50,000) and whether the new figure is inflation-indexed are unconfirmed [VERIFY V-921]. **Recent change**: confirm the figure in the June 2027 update.
 - R-TRS-027.
 
 **6. Termination by its own terms (§§ 15407, 15410)** [VERIFY V-557]: expiration of the term, accomplishment of the purpose, purpose becoming unlawful or impossible, merger. On termination the trustee winds up and distributes as the instrument directs; on revocation, to the settlor. R-TRS-028.
@@ -315,7 +316,7 @@ When an express trust fails, the essay asks **where the property goes**. Work th
 - **Validity (§§ 15300–15301)** [S-672]. If the instrument provides that a beneficiary's interest in **income** (§ 15300) or **principal** (§ 15301(a)) is not subject to **voluntary or involuntary transfer**, the restraint is valid: the beneficiary cannot assign, and creditors cannot reach the interest **before payment**. R-TRS-041.
 - **Must restrain both** voluntary and involuntary transfer to be a true spendthrift clause (common law; the statute speaks of both).
 - **Once paid**, money in the beneficiary's hands is reachable like any other property.
-- **Principal due and payable (§ 15301(b)).** After an amount of principal has become due and payable, a judgment creditor may petition, and the court may order the trustee to satisfy the judgment out of it [S-672]. *Carmack v. Reynolds* (2017) 2 Cal.5th 844 discussed how §§ 15301, 15306.5 and 15307 interact in a bankruptcy [S-655] [VERIFY V-565]. R-TRS-042.
+- **Principal due and payable (§ 15301(b)).** After an amount of principal has become due and payable, a judgment creditor may petition, and the court may order the trustee to satisfy the judgment out of it [S-672]. Under *Carmack v. Reynolds* (2017) 2 Cal.5th 844, a general creditor may reach up to the **full amount** of distributions already due and payable but still in the trustee's hands (except amounts explicitly intended or actually required for support); the 25% cap does not apply to them [S-655]. R-TRS-042.
 - **Material purpose.** A spendthrift clause is a classic material purpose that weighs against termination by beneficiaries (I.J).
 - **Self-settled**: invalid as to the settlor (IV.B).
 
@@ -325,28 +326,28 @@ When an express trust fails, the essay asks **where the property goes**. Work th
 
 | Creditor | Rule | Authority |
 |---|---|---|
-| **Settlor's own creditors** (self-settled trust) | Restraint invalid against the settlor's creditors; if discretionary, creditors reach the **maximum the trustee could pay** the settlor | § 15304 [S-672] [VERIFY V-567] (R-TRS-047) |
+| **Settlor's own creditors** (self-settled trust) | Restraint invalid against the settlor's creditors; if discretionary or support, creditors reach the **maximum the trustee could pay** the settlor, up to the settlor's proportionate contribution | § 15304 [S-672] [S-1107] (R-TRS-047) |
 | **Child or spousal support** | Court may order trustee to pay support from income or principal payable (or that the trustee has decided to pay) to the beneficiary, as equitable | § 15305 [S-672] (R-TRS-043) |
-| **Restitution / damages for a felony** of which the beneficiary was convicted | Reachable notwithstanding the restraint | § 15305.5 [S-673] [VERIFY V-565] (R-TRS-044) |
-| **Public support reimbursement** (State or county) | Reachable within statutory limits | § 15306 [VERIFY V-565] (R-TRS-045) |
-| **General judgment creditors**: 25% | Court may order up to **25%** of each payment otherwise due to the beneficiary paid to the creditor, considering the support needs of the beneficiary and dependents | § 15306.5 [S-654] (R-TRS-046) |
-| **General judgment creditors**: excess over support | Amounts payable that **exceed what is necessary for the beneficiary's education and support** may be applied to the judgment | § 15307 [S-672] (R-TRS-046) |
-| **Principal due and payable** | Court may order payment to the creditor | § 15301(b) [S-672] (R-TRS-042) |
+| **Restitution / damages for a felony** of which the beneficiary was convicted | Reachable notwithstanding the restraint | § 15305.5 [S-673] [S-1122] (R-TRS-044) |
+| **Public support reimbursement** (State or county) | Reachable within statutory limits; not distributions required for a disabled beneficiary's care (§ 15306(b)) | § 15306 [S-655] (R-TRS-045) |
+| **General judgment creditors**: 25% | Court may order up to **25%** of each future payment otherwise due to the beneficiary paid to the creditor, considering the support needs of the beneficiary and dependents | § 15306.5 [S-654] [S-655] (R-TRS-046) |
+| **General judgment creditors**: excess over support | Amounts payable that **exceed what is necessary for the beneficiary's education and support** may be applied to the judgment, but § 15307 orders count toward the same 25% cap (*Carmack*) | § 15307 [S-672] [S-655] (R-TRS-046) |
+| **Principal due and payable** | Court may order payment to the creditor, up to the full amount due (no 25% cap) | § 15301(b) [S-672] [S-655] (R-TRS-042) |
 
-- **General-law contrast.** Under the traditional rule, a valid spendthrift clause bars general creditors entirely; only **exception creditors** (child or spousal support, certain governmental claims, and, in some states, suppliers of necessaries) can reach the interest (UTC § 503 [VERIFY V-594]). California's **25% rule** and **excess-over-support rule** are distinctive. Write the general rule, then: "California, however, allows a general creditor to reach up to 25%..."
-- *Carmack v. Reynolds*: the California Supreme Court held the 25% figure is not an absolute limit on everything a creditor (there, a bankruptcy trustee) may reach [S-655] [VERIFY V-565].
+- **General-law contrast.** Under the traditional rule, a valid spendthrift clause bars general creditors entirely; only **exception creditors** (child or spousal support, certain governmental claims, and, in some states, suppliers of necessaries) can reach the interest (UTC § 503 [VERIFY V-594]). California's **due-principal**, **25%** and **excess-over-support** rules are distinctive. Write the general rule, then: "California, however, allows a general creditor to reach due principal and up to 25% of future payments..."
+- *Carmack v. Reynolds* (2017): the California Supreme Court held the Probate Code does not impose an absolute 25% limit on a general creditor's access to a spendthrift trust. The creditor (there, a bankruptcy trustee) may reach due-and-payable distributions in full (§ 15301(b)) and, separately, up to 25% of anticipated payments, reduced by what the beneficiary needs for support; orders under §§ 15306.5 and 15307 together may not exceed 25% of a payment [S-655] [S-1105].
 
 ### IV.C Discretionary trusts
 
-- **Rule (§ 15303)** [S-672] [VERIFY V-566]. Where the trustee pays "so much as the trustee in its discretion sees fit," a creditor or transferee **cannot compel** the trustee to pay any amount payable only in the exercise of discretion. R-TRS-048.
+- **Rule (§ 15303)** [S-672] [S-1106]. Where the trustee pays "so much as the trustee in its discretion sees fit," a creditor or transferee **cannot compel** the trustee to pay any amount payable only in the exercise of discretion. R-TRS-048.
 - **After the trustee decides to pay**, the payment becomes subject to the support, restitution and general-creditor provisions (§§ 15305–15307).
-- **Notice of levy.** If the trustee has notice of a transfer or levy and still pays the beneficiary, the trustee may be liable to the transferee or creditor for the amount paid [VERIFY V-566].
+- **Notice of transfer or levy.** If the trustee knows of a transfer or has been served with process by a judgment creditor and still makes a discretionary payment to the beneficiary, the trustee is liable to the transferee or creditor to the extent the payment impairs its rights, **unless** the interest is subject to a valid spendthrift restraint (§ 15303(b)) [S-1106].
 - **Self-settled discretionary trust**: creditors reach the maximum the trustee could pay the settlor (§ 15304).
 - **Beneficiary's rights:** the beneficiary can compel the trustee only to exercise discretion in good faith and reasonably (VI).
 
 ### IV.D Support trusts
 
-- **Rule (§ 15302)** [S-672] [VERIFY V-566]. Where the instrument directs payments **for the education or support** of the beneficiary, the interest, **to the extent necessary** for education or support, cannot be transferred and is not subject to enforcement of a money judgment until paid, subject to §§ 15304–15307. R-TRS-049.
+- **Rule (§ 15302)** [S-672] [S-1108]. Where the instrument directs payments **for the education or support** of the beneficiary, the interest, **to the extent necessary** for education or support, cannot be transferred and is not subject to enforcement of a money judgment until paid, subject to §§ 15304–15307. R-TRS-049.
 - **General law:** suppliers of **necessaries** (food, shelter, medical care furnished to the beneficiary) may reach a support trust.
 - **Distinguish:** a **support** trust gives the beneficiary an enforceable right to support (trustee must pay what is needed); a **discretionary** trust gives no enforceable right to any amount, only to good-faith exercise of discretion. Many trusts are hybrids ("in its discretion, for support"): analyze both.
 
@@ -389,7 +390,7 @@ See XI.D. In brief: a settlor's creditors reach a **revocable** trust during lif
 - *Feb 2016 pattern:* the trustee put trust assets into his own new business: a loyalty breach (conflict) and a prudence breach (speculative, undiversified).
 
 **6. Attorney-trustees and drafters** (PR crossover):
-- **Dual compensation**: an attorney-trustee (and the attorney's relatives and firm) may not take both trustee fees and legal fees unless the trustee waives trustee fees or the court approves (§ 15687) [S-677] [VERIFY V-574]. R-TRS-066.
+- **Dual compensation**: an attorney-trustee (and the trustee's relatives and law firm) may not take both trustee fees and legal fees unless the trustee waives trustee fees or the dual compensation is approved, after full disclosure, by court order or by 30 days' advance notice without objection; the section does not apply if the trustee is related by blood or marriage to, or a cohabitant of, the settlor, and a waiver of the section is void (§ 15687) [S-677] [S-1116]. R-TRS-066.
 - **Drafter as beneficiary**: donative transfer presumed invalid; conclusive for the drafter (§ 21380) (R-TRS-076; R-WIL-095).
 - **Drafter as sole trustee**: removal ground (§ 15642(b)(6)) (R-TRS-074).
 - **PR rules**: CRPC rule 1.8.1 (business transactions, R-PRF-026), rule 1.8.3 (gifts, R-PRF-027).
@@ -403,15 +404,15 @@ See XI.D. In brief: a settlor's creditors reach a **revocable** trust during lif
 
 ### V.E Prudent investing (Uniform Prudent Investor Act, Prob. Code §§ 16045–16054)
 
-- **Standard (§ 16047)** [VERIFY V-571]. Invest and manage as a **prudent investor** would, considering the purposes, terms, distribution requirements and other circumstances; exercise reasonable care, skill and caution. R-TRS-057.
+- **Standard (§ 16047)** [S-1119]. Invest and manage as a **prudent investor** would, considering the purposes, terms, distribution requirements and other circumstances; exercise reasonable care, skill and caution. R-TRS-057.
 - **Portfolio approach.** Decisions about individual assets are evaluated in the context of the **portfolio as a whole** and as part of an **overall strategy** with risk and return objectives reasonably suited to the trust. No investment is per se imprudent; the question is fit.
-- **Factors** include general economic conditions, inflation or deflation, tax consequences, the role each investment plays in the portfolio, expected total return, the beneficiaries' other resources, liquidity and income needs, and an asset's special relationship to the trust's purposes [VERIFY V-571].
-- **Diversification (§ 16048).** The trustee must diversify unless, under the circumstances, it is prudent not to (e.g., large tax cost, a family business the settlor wanted kept, a small trust better served by a single fund) [VERIFY V-571]. R-TRS-058.
-- **Review on acceptance (§ 16049).** Within a reasonable time after accepting the trust or receiving assets, decide whether to retain or dispose of them to bring the portfolio into compliance [VERIFY V-571].
-- **No hindsight (§ 16051).** Compliance is judged by the facts and circumstances at the time of the decision, not by outcome [VERIFY V-571].
-- **Costs (§ 16050)**: incur only reasonable costs.
+- **Factors** include general economic conditions, inflation or deflation, tax consequences, the role each investment plays in the portfolio, expected total return, the beneficiaries' other resources, liquidity and income needs, and an asset's special relationship to the trust's purposes (§ 16047(c)) [S-1119].
+- **Diversification (§ 16048).** The trustee must diversify unless, under the circumstances, it is prudent not to (e.g., large tax cost, a family business the settlor wanted kept, a small trust better served by a single fund) [S-1119]. R-TRS-058.
+- **Review on acceptance (§ 16049).** Within a reasonable time after accepting the trust or receiving assets, decide whether to retain or dispose of them to bring the portfolio into compliance [S-1119].
+- **No hindsight (§ 16051).** Compliance is judged by the facts and circumstances at the time of the decision, not by outcome [S-1119].
+- **Costs (§ 16050)**: incur only reasonable costs [VERIFY V-924].
 - **Delegation (§ 16052)**: may delegate investment functions prudently (V.G).
-- **Instrument controls**: the prudent investor rule is a default; the instrument may expand or restrict it (§ 16046), but a retention clause does not license imprudence in the face of obvious danger.
+- **Instrument controls**: the prudent investor rule is a default; the instrument may expand or restrict it (§ 16046 [VERIFY V-924]), but a retention clause does not license imprudence in the face of obvious danger.
 - **Older rule.** The "prudent man" rule judged investments one by one and disfavored speculation; some instruments still use legal-list language. On an essay, apply the UPIA.
 
 **Essay checklist for an investment breach:** (1) what the trust needs (income for a widow? growth for minors?); (2) concentration and risk; (3) any instrument authorization; (4) timing of review; (5) conflict of interest (V.C); (6) hindsight defense; (7) conclusion and measure of loss (IX).
@@ -435,25 +436,25 @@ See XI.D. In brief: a settlor's creditors reach a **revocable** trust during lif
 
 ### V.H Duty to inform and account
 
-- **Inform (§ 16060)**: keep beneficiaries **reasonably informed** of the trust and its administration [VERIFY V-573].
-- **Report on request (§ 16061)**: on reasonable request, report information about assets, liabilities, receipts and disbursements [VERIFY V-573].
-- **Terms (§ 16061.5)**: provide the terms of an irrevocable trust to beneficiaries (and, at the settlor's death, heirs) on request [VERIFY V-573].
-- **Notification on death of settlor (§ 16061.7)**: when a revocable trust becomes irrevocable because of the settlor's death, the trustee must serve a notification on each beneficiary and each heir **within 60 days**, including a boldface warning about the contest deadline [S-652] [VERIFY V-573].
+- **Inform (§ 16060)**: keep beneficiaries **reasonably informed** of the trust and its administration [S-1126].
+- **Report on request (§ 16061)**: on reasonable request, report information about assets, liabilities, receipts and disbursements relevant to the beneficiary's interest [S-1126].
+- **Terms (§ 16061.5)**: when a revocable trust becomes irrevocable at the settlor's death, provide the irrevocable terms to beneficiaries and heirs who request them [S-1125].
+- **Notification on death of settlor (§ 16061.7)**: when a revocable trust becomes irrevocable because of the settlor's death, the trustee must serve a notification on each beneficiary and each heir **within 60 days** (or within 60 days after learning of a person entitled to notice), including a boldface warning about the contest deadline; the settlor cannot waive the notice. A change of trustee of an irrevocable trust also triggers notice [S-652] [S-1125].
 - **Contest period (§ 16061.8)**: no person served may bring an action to contest the trust more than **120 days** after service of the notification, or **60 days** after delivery of trust terms requested during the 120-day period, **whichever is later** [S-652]. Since 2022 (AB 1745) this bar applies only where the notice was given because a revocable trust became irrevocable on a settlor's death [S-653]. R-TRS-064.
 - **Account (§ 16062)** [S-679]: at least **annually**, at **termination**, and on a **change of trustee**, to each beneficiary to whom income or principal is required or authorized to be currently distributed. Contents: receipts, disbursements, assets, liabilities, compensation, agents hired. Waiver in writing is possible within limits (§ 16064) [VERIFY V-593]. R-TRS-063.
-- **Exceptions (§ 16069)** [S-683]: no duty to account (or to provide terms or information) while the trust is **revocable**, or where the beneficiary and trustee are the same person.
+- **Exceptions (§ 16069)** [S-683]: no duty to account (or to provide terms or information) while the trust is **revocable** (unless no person holding the power to revoke is competent: § 15800, AB 1079 [S-1115]), or where the beneficiary and trustee are the same person.
 - **Remedy for failure**: petition to compel (§ 17200), removal (§ 15642), and the statute of limitations does not start without an adequate account (§ 16460).
 
 ### V.I Duties while the trust is revocable (§ 15800)
 
-- While a trust is revocable and the settlor is competent, **the beneficiaries' rights are subject to the settlor's control**, and the trustee's duties are owed to the **settlor** (§ 15800) [S-680] [VERIFY V-572]. A trustee of a revocable trust is not liable to beneficiaries for acts done on the written directions of the person holding the power to revoke (§ 16462) [S-662] [VERIFY V-578]. R-TRS-065.
-- **Incompetent settlor.** A later amendment to § 15800 requires the trustee to account to remainder beneficiaries at least annually while the settlor is incompetent [S-680] [VERIFY V-572].
+- While a trust is revocable and the settlor is competent, **the beneficiaries' rights are subject to the settlor's control**, and the trustee's duties are owed to the **settlor** (§ 15800) [S-680] [S-1115]. A trustee of a revocable trust must follow the power-holder's written directions acceptable to the trustee (§ 16001) and is not liable to beneficiaries for acts done on them (§ 16462) [S-1127] [S-1121]. R-TRS-065.
+- **Incompetent settlor.** AB 1079 (Stats. 2021, ch. 749) amended §§ 15800 and 16069: when no person holding the power to revoke is competent, the trustee must, within 60 days after learning of the incompetence, notify the beneficiaries who would take if the settlor had died and give them a copy of the trust, and the duties to account and to report run to those beneficiaries. Incompetence may be shown by the trust's own method or a judicial determination [S-1115] [S-680].
 - **After death.** *Estate of Giraldin* (2012) 55 Cal.4th 1058: after the settlor's death, beneficiaries have **standing** to sue the trustee for breaches committed during the settlor's lifetime that harmed the trust; the trustee may defend by showing the settlor consented or directed the acts.
 - **Feb 2012 pattern**: a revocable trust with the settlor as trustee and a successor trustee; after death the beneficiaries sue the successor (IX.B) [VERIFY V-071].
 
 ### V.J Trustee compensation and reimbursement
 
-- Compensation as provided in the instrument or, if none, **reasonable** compensation (§§ 15680–15681) [VERIFY V-574]; the court may reduce or deny it for breach (§ 16420).
+- Compensation as provided in the instrument or, if none, **reasonable** compensation (§§ 15680–15681) [VERIFY V-924]; the court may reduce or deny it for breach (§ 16420).
 - Reimbursement for expenses **properly incurred** (§ 15684) [VERIFY V-581]; no reimbursement for the trustee's own torts or breaches.
 - Attorney-trustee dual compensation (§ 15687): V.C.6.
 
@@ -464,18 +465,18 @@ See XI.D. In brief: a settlor's creditors reach a **revocable** trust during lif
 ### VI.A Sources of powers
 
 - **Express powers** in the instrument.
-- **Statutory powers** (Prob. Code §§ 16200 et seq.): unless limited by the instrument, a trustee may, for example, collect, hold and retain assets; sell, exchange, lease and encumber property; borrow; invest; insure; settle claims; employ agents; and make distributions in cash or kind [VERIFY V-576]. R-TRS-067.
+- **Statutory powers** (Prob. Code §§ 16200 et seq.): unless limited by the instrument, a trustee may, for example, collect, hold and retain assets; sell, exchange, lease and encumber property; borrow; invest; insure; settle claims; employ agents; and make distributions in cash or kind [VERIFY V-924]. R-TRS-067.
 - **Implied powers**: those necessary or appropriate to carry out the trust's purposes (common law).
 - **Court-granted powers**: § 15409 (changed circumstances) and § 17200 petitions for instructions.
-- **Limit:** every power is a fiduciary power; having the power to sell does not make a particular sale proper (§ 16202 [VERIFY V-576]).
+- **Limit:** every power is a fiduciary power; having the power to sell does not make a particular sale proper (§ 16202 [VERIFY V-924]).
 
 ### VI.B Discretion granted by trust language and its limits
 
 - **Reasonableness (§ 16080)** [S-659]: except as provided in § 16081, a discretionary power is **not left to the trustee's arbitrary discretion** but must be **exercised reasonably**. R-TRS-068.
-- **"Sole," "absolute" or "uncontrolled" discretion (§ 16081)** [S-659] [VERIFY V-576]: the trustee must still **act in accordance with fiduciary principles** and **not in bad faith or in disregard of the purposes** of the trust. Such words relax the reasonableness standard but do not eliminate review. R-TRS-069.
-- **Trustee-beneficiary.** A trustee who is also a beneficiary may exercise a power to distribute to himself or herself only for **health, education, support or maintenance**, unless the instrument clearly provides otherwise (§ 16081) [VERIFY V-576].
+- **"Sole," "absolute" or "uncontrolled" discretion (§ 16081)** [S-659] [S-1117]: the trustee must still **act in accordance with fiduciary principles** and **not in bad faith or in disregard of the purposes** of the trust. Such words relax the reasonableness standard but do not eliminate review. R-TRS-069.
+- **Trustee-beneficiary.** A beneficiary who, as trustee or co-trustee, may make discretionary distributions to himself or herself may exercise that power in his or her own favor only for **health, education, support or maintenance**, unless the settlor clearly indicates a broader power **by express reference to § 16081(c)**; the limit does not apply to a settlor's power over a revocable trust or to certain marital-deduction trusts (§ 16081(c)–(d)) [S-1117].
 - **Abuse of discretion** includes: bad faith; dishonesty; improper motive (spite, self-interest, favoring the trustee's family); failure to exercise any judgment (a blanket refusal); acting beyond the bounds of reasonable judgment; misreading the standard. R-TRS-070.
-- **Other resources.** Whether the trustee should consider the beneficiary's other income and assets depends on the instrument and the settlor's intent (Restatement (Third) of Trusts § 50 [VERIFY V-576]); absent direction, argue both.
+- **Other resources.** Whether the trustee should consider the beneficiary's other income and assets depends on the instrument and the settlor's intent (Restatement (Third) of Trusts § 50 [VERIFY V-923]); absent direction, argue both.
 - **Courts do not substitute judgment**: if the trustee acts in good faith within the instrument's standard, the court will not interfere even if it would have decided differently.
 
 ### VI.C How to write a discretion issue
@@ -504,13 +505,13 @@ See XI.D. In brief: a settlor's creditors reach a **revocable** trust during lif
 
 ### VII.C Removal and replacement of the trustee
 
-- **Grounds (§ 15642)** [S-658] [VERIFY V-575]: removal under the instrument's terms, on the court's own motion, or on petition of a settlor, co-trustee or beneficiary, including for:
+- **Grounds (§ 15642)** [S-658] [S-1118]: removal under the instrument's terms, on the court's own motion, or on petition of a settlor, co-trustee or beneficiary, including for:
   - breach of trust;
   - insolvency or other unfitness;
   - hostility or lack of cooperation among co-trustees impairing administration;
   - failure or refusal to act;
   - excessive compensation;
-  - a **sole trustee who is a § 21380(a) disqualified person** (drafter, fiduciary-transcriber, care custodian of a dependent adult), unless the court finds the settlor intended that person to serve and that intent was not the product of fraud or undue influence (§ 15642(b)(6)) [S-658];
+  - a **sole trustee who is a § 21380(a) disqualified person** (drafter, fiduciary-transcriber, care custodian of a dependent adult), unless the court finds the settlor intended that person to serve and that intent was not the product of fraud or undue influence (§ 15642(b)(6)); the ground does not apply where the settlor is related by blood or marriage to, or a cohabitant of, the trustee or drafter, where a court approved the designation, or where an independent attorney signed a certificate of review [S-658] [S-1118];
   - other good cause.
 - The court may suspend the trustee and appoint a temporary trustee pending the hearing. R-TRS-073, R-TRS-074.
 
@@ -579,9 +580,9 @@ Covered in VIII–IX: compel, enjoin, surcharge, rescind, trace, remove, reduce 
   1. any **loss or depreciation in value** of the trust estate resulting from the breach, **with interest**;
   2. any **profit made by the trustee** through the breach, **with interest**;
   3. any **profit that would have accrued** to the trust estate if the loss of profit is the result of the breach.
-- **(b)** The court may **excuse** the trustee in whole or in part if the trustee acted **reasonably and in good faith** under the circumstances as known to the trustee and it would be equitable to do so [S-678] [VERIFY V-578]. R-TRS-081, R-TRS-082.
-- **Interest** at the legal rate or the amount actually earned, whichever the statute directs [VERIFY V-578].
-- **No netting** of a gain from one breach against a loss from a separate breach (general rule) [VERIFY V-578].
+- **(b)** The court may **excuse** the trustee in whole or in part if the trustee acted **reasonably and in good faith** under the circumstances as known to the trustee and it would be equitable to do so [S-678] [VERIFY V-925]. R-TRS-081, R-TRS-082.
+- **Interest** at the legal rate or the amount actually earned, whichever the statute directs [VERIFY V-925].
+- **No netting** of a gain from one breach against a loss from a separate breach (general rule) [VERIFY V-925].
 
 ### IX.B Liability for others: co-trustees, predecessors, agents
 
@@ -595,10 +596,10 @@ Covered in VIII–IX: compel, enjoin, surcharge, rescind, trace, remove, reduce 
 
 | Defense | Rule | Authority |
 |---|---|---|
-| **Exculpatory clause** | Enforceable, but **not** for breaches committed **intentionally, with gross negligence, in bad faith, or with reckless indifference**, or for **profit** derived from the breach; construed strictly | § 16461 [S-662] [VERIFY V-578] (R-TRS-084) |
-| **Beneficiary consent** | Bars that beneficiary, unless induced by improper conduct, lack of capacity, or ignorance of material facts or rights | § 16463 [S-662] [VERIFY V-578] (R-TRS-085) |
-| **Release; affirmance** | Same limits; releases favoring the trustee also face § 16004(c) | §§ 16464, 16465 [S-662] [VERIFY V-578] |
-| **Settlor's written direction** (revocable trust) | Trustee not liable for following written directions of the holder of the power to revoke | § 16462 [S-662] [VERIFY V-578] |
+| **Exculpatory clause** | Enforceable, but **not** for breaches committed **intentionally, with gross negligence, in bad faith, or with reckless indifference**, or for **profit** derived from the breach; construed strictly | § 16461(b) [S-662] [S-1120] (R-TRS-084) |
+| **Beneficiary consent** | Bars that beneficiary, unless induced by improper conduct, lack of capacity, or ignorance of material facts or rights | § 16463 [S-662] [VERIFY V-925] (R-TRS-085) |
+| **Release; affirmance** | Same limits; releases favoring the trustee also face § 16004(c) | §§ 16464, 16465 [S-662] [VERIFY V-925] |
+| **Settlor's written direction** (revocable trust) | Trustee not liable for following written directions of the holder of the power to revoke | § 16462 [S-662] [S-1121] |
 | **Statute of limitations** | **3 years** after receipt of an account or report that adequately discloses the claim; otherwise 3 years after the beneficiary discovered or reasonably should have discovered it | § 16460 [S-662] [VERIFY V-577] (R-TRS-086) |
 | **Court excuse** | Reasonable and good-faith conduct | § 16440(b) [S-678] (R-TRS-082) |
 | **Laches** | Equitable delay with prejudice | Common law |
@@ -643,10 +644,10 @@ Covered in VIII–IX: compel, enjoin, surcharge, rescind, trace, remove, reduce 
 ### XI.D Creditors of the settlor reaching trust assets
 
 - **Revocable trust, settlor alive (§ 18200)** [S-664]: if the settlor retains the power to revoke in whole or in part, the trust property is **subject to the claims of the settlor's creditors** to the extent of the power of revocation, during the settlor's lifetime. A spendthrift clause does not help the settlor. R-TRS-092.
-- **Revocable trust, settlor dead (§ 19001)** [S-665] [VERIFY V-568]: property that was subject to the power of revocation at death is subject to the claims of the deceased settlor's creditors and expenses of administration **to the extent the probate estate is inadequate**. Sections 19000 et seq. provide an optional trust claims procedure. R-TRS-093.
+- **Revocable trust, settlor dead (§ 19001)** [S-665]: property that was subject to the power of revocation at death is subject to the claims of the deceased settlor's creditors and expenses of administration **to the extent the probate estate is inadequate**. Sections 19000 et seq. provide an optional trust claims procedure. R-TRS-093.
 - **Irrevocable self-settled trust (§ 15304)**: creditors reach the settlor's interest, or the maximum the trustee could pay the settlor (IV.B).
-- **Irrevocable trust for others**: the settlor's creditors cannot reach it unless the transfer was fraudulent (Civ. Code §§ 3439 et seq., the Uniform Voidable Transactions Act [VERIFY V-568]).
-- **Trustee's duty to the settlor's creditors** after death is limited: the trustee must not engage in affirmative misconduct that defeats creditors' reasonable expectations (*Arluk Medical Center Industrial Group, Inc. v. Dobler* (2004) 116 Cal.App.4th 1324 [VERIFY V-568]).
+- **Irrevocable trust for others**: the settlor's creditors cannot reach it unless the transfer was fraudulent (Civ. Code §§ 3439 et seq., the Uniform Voidable Transactions Act [VERIFY V-924]).
+- **Trustee's duty to the settlor's creditors** after death is limited: the trustee's only duty to creditors with pending claims is to avoid affirmative misconduct that defeats their reasonable expectation of payment from trust assets; there is no general duty to preserve assets for them (*Arluk Medical Center Industrial Group, Inc. v. Dobler* (2004) 116 Cal.App.4th 1324 [S-1123] [S-1124]).
 - **CP note.** Community property in a revocable trust remains CP; community debts can reach it under the Family Code liability rules (R-CMP rules) (Feb 2019 crossover).
 
 ---

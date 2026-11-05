@@ -134,7 +134,7 @@ II. Creditors of a beneficiary
    A. Type of interest: mandatory / support / discretionary           R-TRS-048, R-TRS-049
    B. Spendthrift clause valid?                                       R-TRS-041
    C. Exceptions: support; restitution; public support               R-TRS-043 to R-TRS-045
-   D. General creditors: 25% and excess over support (contrast general rule)  R-TRS-046
+   D. General creditors: due principal; 25% cap incl. excess over support (Carmack; contrast general rule)  R-TRS-046
    E. Amounts paid or principal due                                   R-TRS-042
 ```
 

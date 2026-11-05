@@ -31,7 +31,7 @@ status: draft
 - **Will:** not a § 15401(a)(2) writing; UTC contra. R-TRS-013
 - **Amend (§ 15402; *Haggerty* 2024):** revocation method works unless the amendment method is explicitly exclusive. R-TRS-014
 - **CP (Fam. Code § 761):** one spouse revokes; both modify. R-TRS-015
-- **Agent/conservator:** express POA authority / court approval. R-TRS-016
+- **Agent/conservator:** agent only if the trust instrument expressly permits (§ 15401(c)); conservator needs court approval. R-TRS-016
 
 ## I.x2 Beneficiaries; charity
 - **Ascertainable** class or power of selection. R-TRS-018
@@ -40,8 +40,8 @@ status: draft
 - **Honorary** 21 years (§ 15211); **pet** trusts (§ 15212). R-TRS-022, R-TRS-023
 
 ## I.J Modification and termination
-- **Settlor + all beneficiaries:** yes, even with a material purpose (§ 15404). R-TRS-024
-- **Beneficiaries alone:** material purpose (spendthrift, age, support) → *Claflin* bar; CA balancing (§ 15403). R-TRS-025
+- **Settlor + all beneficiaries:** yes, by written consent, even with a material purpose (§ 15404). R-TRS-024
+- **Beneficiaries alone:** material purpose (spendthrift, age, support) → *Claflin* bar; CA balancing (§ 15403); spendthrift trust ends only for good cause. R-TRS-025
 - **Changed circumstances (§ 15409):** unforeseen; defeats purposes; court may deviate. R-TRS-026
 - **Uneconomic (§ 15408):** court any size; trustee ≤ $100,000. R-TRS-027
 - **By terms; distribution; combine/divide.** R-TRS-028, R-TRS-029
@@ -60,9 +60,9 @@ status: draft
 
 ## IV. Restrictions on the beneficial interest
 - **Spendthrift valid** (§§ 15300–15301); paid money reachable; due principal (§ 15301(b)). R-TRS-041, R-TRS-042
-- **Exceptions:** support (§ 15305); felony restitution (§ 15305.5); public support (§ 15306); general creditors 25% (§ 15306.5) and excess over support (§ 15307). R-TRS-043 to R-TRS-046
-- **Self-settled:** creditors reach max trustee could pay (§ 15304). R-TRS-047
-- **Discretionary:** creditor can't compel (§ 15303). **Support:** protected to extent needed (§ 15302). R-TRS-048, R-TRS-049
+- **Exceptions:** support (§ 15305); felony restitution (§ 15305.5); public support (§ 15306); general creditors: due principal in full, plus up to 25% of future payments with § 15307 inside the cap (§§ 15306.5, 15307; *Carmack*). R-TRS-043 to R-TRS-046
+- **Self-settled:** creditors reach max trustee could pay, up to settlor's contribution (§ 15304). R-TRS-047
+- **Discretionary:** creditor can't compel; trustee who pays after notice is liable unless spendthrift (§ 15303). **Support:** protected to extent needed (§ 15302). R-TRS-048, R-TRS-049
 
 ## V. Duties (one heading each)
 - **Follow terms** (§ 16000). R-TRS-050
@@ -77,14 +77,14 @@ status: draft
 - **Control, preserve, productive, enforce claims** (§§ 16006–16011). R-TRS-059
 - **Earmark, no commingling** (§ 16009). R-TRS-060
 - **Delegation; co-trustees** (§§ 16052, 15620, 16013). R-TRS-061
-- **Inform / account:** annually, termination, change of trustee; not while revocable (§§ 16060–16069). R-TRS-062, R-TRS-063
+- **Inform / account:** annually, termination, change of trustee; not while revocable with a competent power-holder (§§ 16060–16069, 15800). R-TRS-062, R-TRS-063
 - **Death notice 60 days; contest 120 days / 60 days after terms, whichever later** (§§ 16061.7–16061.8). R-TRS-064
 - **Revocable period:** duties to settlor; *Giraldin* standing after death (§ 15800). R-TRS-065
-- **Compensation; lawyer-trustee no dual fees** (§ 15687). R-TRS-066
+- **Compensation; lawyer-trustee no dual fees** without waiver, court order or unopposed notice (§ 15687). R-TRS-066
 
 ## VI. Discretion
 - **Powers:** instrument + statute + implied; all fiduciary. R-TRS-067
-- **Reasonable** (§ 16080); **"sole/absolute"** → good faith, purposes; trustee-beneficiary HEMS (§ 16081). R-TRS-068, R-TRS-069
+- **Reasonable** (§ 16080); **"sole/absolute"** → good faith, purposes; trustee-beneficiary HEMS unless express reference to § 16081(c). R-TRS-068, R-TRS-069
 - **Abuse review; other resources.** R-TRS-070
 
 ## VII. Beneficiary rights

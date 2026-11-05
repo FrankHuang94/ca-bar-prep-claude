@@ -51,13 +51,13 @@ status: draft
 **Example:** Dad signs a note: "From today I hold my 1,000 Apple shares as trustee for my daughter." A valid declaration of trust; no delivery to anyone else is needed because Dad is the trustee.
 
 ### R-TRS-003 — Capacity to create, amend or revoke a trust
-**Rule (write this):** A settlor must have capacity when creating, amending or revoking a trust. California measures capacity by the decision-specific test of Probate Code §§ 810–812, but where the trust or amendment is no more complex than a will, courts apply the testamentary-capacity test of § 6100.5. Fraud, duress and undue influence invalidate a trust or amendment as they do a will.
+**Rule (write this):** A settlor must have capacity when creating, amending or revoking a trust. California measures capacity by the decision-specific test of Probate Code §§ 810–812, but where a trust or amendment closely resembles a will or codicil in content and complexity, courts apply the testamentary-capacity test of § 6100.5. Fraud, duress and undue influence invalidate a trust or amendment as they do a will.
 
 **Elements:** 1. Identify the instrument and its complexity. 2. Choose the test (§ 6100.5 for will-like instruments; § 812 for complex ones). 3. Apply facts about mental state at signing. 4. Check undue influence (R-WIL-039, R-WIL-040) and the § 21380 presumption (R-TRS-076).
 
 **Exceptions / defenses:** A lucid interval suffices. A conservatorship does not by itself prove incapacity.
 
-**Authority:** Prob. Code §§ 810–812, 6100.5; *Andersen v. Hunt* (2011) 196 Cal.App.4th 722 [VERIFY V-554].
+**Authority:** Prob. Code §§ 810–812, 6100.5; *Andersen v. Hunt* (2011) 196 Cal.App.4th 722 [S-1111]; *Eyford v. Nord* (2021) (applying § 6100.5 to a trust amendment that disinherited one set of beneficiaries) [S-1112].
 
 **MBE vs. CA essay:** not on the MBE; California-specific choice of test. Under general law, the capacity to make a revocable trust is usually equated with testamentary capacity.
 
@@ -81,9 +81,9 @@ status: draft
 
 **Elements:** 1. Identifiable property. 2. Owned by the settlor. 3. Transferred or declared in trust. 4. Not a mere expectancy.
 
-**Exceptions / defenses:** A pour-over will can fund an empty trust at death (R-TRS-010). An unfunded trust still has a res if the settlor holds a nominal asset or a contract right (e.g., an insurance designation).
+**Exceptions / defenses:** A pour-over will can fund an empty trust at death (R-TRS-010). A nominally funded trust still has a res if the trustee holds a token asset or the trust is named beneficiary of a contract right (e.g., life insurance).
 
-**Authority:** Prob. Code § 15202 [S-668]; *Estate of Heggstad* (1993) 16 Cal.App.4th 943 [VERIFY V-583]; common law (expectancies).
+**Authority:** Prob. Code § 15202 [S-668]; *Estate of Heggstad* (1993) 16 Cal.App.4th 943 [S-1109]; common law (expectancies).
 
 **MBE vs. CA essay:** not on the MBE; same core rule. The *Heggstad* funding rule is California case law; mention it when land was listed on a trust schedule but never deeded.
 
@@ -100,7 +100,7 @@ status: draft
 
 **MBE vs. CA essay:** not on the MBE; same rule.
 
-**Example:** "Income to my granddaughter only so long as she never marries" is a condition intended to forbid marriage and is void; she takes the income free of the condition.
+**Example:** "$500,000 in trust for my granddaughter, but if she ever marries, her interest passes to my brother," with evidence the settlor wanted to keep her from marrying, is a condition in restraint of marriage and is void, so she keeps her interest free of it. "Income to my granddaughter until she marries" is a valid limitation if the settlor meant only to support her while single; argue intent both ways.
 
 ### R-TRS-007 — Trustee: acceptance, rejection, no failure for want of a trustee
 **Rule (write this):** A trust does not fail for want of a trustee: if the named trustee dies, declines or is removed, the court appoints a successor unless the settlor intended the trust to exist only if that person served. A named trustee accepts by signing the instrument or a written acceptance, or by knowingly exercising powers or performing duties; one who does not accept within a reasonable time is deemed to have rejected the trust.
@@ -161,7 +161,7 @@ status: draft
 
 **Exceptions / defenses:** The trust becomes irrevocable at the settlor's death. An express irrevocability clause controls.
 
-**Authority:** Prob. Code § 15400 [VERIFY V-551]; UTC § 602(a) [VERIFY V-594]; Restatement (Second) of Trusts § 330 (traditional rule) [VERIFY V-551].
+**Authority:** Prob. Code § 15400 [S-1113]; UTC § 602(a) [VERIFY V-594]; Restatement (Second) of Trusts § 330 (traditional rule) [VERIFY V-923].
 
 **MBE vs. CA essay:** not on the MBE. **Differs:** traditional rule = irrevocable unless reserved; California and UTC = revocable unless expressly irrevocable. Write both, then apply California where the call says California law or the settlor is a Californian.
 
@@ -170,13 +170,13 @@ status: draft
 > 🇨🇳 PRC bridge: the PRC Trust Law lets a settlor who is the sole beneficiary terminate the trust but has no general presumption of revocability; California treats a silent living trust as revocable (approx.).
 
 ### R-TRS-012 — Methods of revoking a revocable trust
-**Rule (write this):** A revocable trust may be revoked in whole or in part (1) by any method stated in the trust instrument, or (2) by a writing, other than a will, signed by the settlor and delivered to the trustee during the settlor's lifetime. If the instrument explicitly makes its own method the exclusive method, only that method works.
+**Rule (write this):** A revocable trust may be revoked in whole or in part (1) by any method stated in the trust instrument, or (2) by a writing, other than a will, signed by the settlor (or another person holding the power of revocation) and delivered to the trustee during the settlor's lifetime. If the instrument explicitly makes its own method the exclusive method, only that method works.
 
 **Elements:** 1. Trust revocable (R-TRS-011). 2. Instrument method followed? 3. If not, is the instrument method explicitly exclusive? 4. If not exclusive, statutory method: signed writing, not a will, delivered to the trustee while the settlor is alive.
 
-**Exceptions / defenses:** Where the settlor is the sole trustee, courts have treated the settlor's own retention of the signed writing as delivery [VERIFY V-553]. Community property held in trust: R-TRS-015.
+**Exceptions / defenses:** Where the settlor is the sole trustee, argue that holding the signed writing in her capacity as trustee satisfies delivery; no California case confirming this point has been verified for this repo [VERIFY V-553]. Community property held in trust: R-TRS-015.
 
-**Authority:** Prob. Code § 15401(a) [S-660]; *Haggerty v. Thornton* (2024) 15 Cal.5th 729 [S-129] [S-650] [VERIFY V-033]; *Masry v. Masry* (2008) 166 Cal.App.4th 738 [VERIFY V-553].
+**Authority:** Prob. Code § 15401(a) [S-660] [S-1114]; *Haggerty v. Thornton* (2024) 15 Cal.5th 729 [S-129] [S-650] [VERIFY V-033]; *Masry v. Masry* (2008) 166 Cal.App.4th 738 [VERIFY V-553].
 
 **MBE vs. CA essay:** not on the MBE. **Differs** from the traditional rule, which required strict compliance with any method the instrument stated. Under UTC § 602(c) the settlor may use any method showing clear and convincing intent if the instrument's method is not exclusive [VERIFY V-594].
 
@@ -206,7 +206,7 @@ status: draft
 
 **MBE vs. CA essay:** not on the MBE. California-specific and a **recent change** (recent-changes §7, Apply). Before *Haggerty*, some Courts of Appeal required strict compliance with any stated amendment method.
 
-**Example:** The trust allows amendment "by a signed writing delivered to the trustee." The settlor, who is the trustee, signs and notarizes an amendment and keeps it in her files. The stated method is not exclusive, so the amendment is valid under the statutory method.
+**Example:** The trust allows amendment "by a writing signed by the settlor and acknowledged before a notary." The settlor signs an unnotarized amendment and hands it to the trustee. The notary clause is not explicitly exclusive, so the amendment is valid under the statutory method (signed writing delivered to the trustee).
 
 ### R-TRS-015 — Joint settlors and community property in a revocable trust
 **Rule (write this):** Unless the instrument provides otherwise, when a trust has more than one settlor each may revoke it as to the portion he or she contributed. For community property in a revocable trust, either spouse acting alone may revoke as to that property, but the trust may be modified as to community property during the marriage only with the joinder or consent of both spouses.
@@ -215,24 +215,24 @@ status: draft
 
 **Exceptions / defenses:** The instrument may require both spouses to revoke, or allow one to modify.
 
-**Authority:** Prob. Code § 15401(b) [VERIFY V-552]; Fam. Code § 761 [S-681] [VERIFY V-585].
+**Authority:** Prob. Code § 15401(b) (each settlor may revoke as to the portion he or she contributed, "except as provided in Section 761 of the Family Code") [S-1114]; Fam. Code § 761 [S-681] [VERIFY V-585].
 
 **MBE vs. CA essay:** not on the MBE; California-specific (CP crossover).
 
 **Example:** H and W put community property in a joint revocable trust that is silent on revocation. W alone signs and delivers a revocation; it is effective as to the CP. A one-spouse amendment cutting out H's relatives would need H's consent.
 
 ### R-TRS-016 — Who may exercise the power to revoke or modify
-**Rule (write this):** The power to revoke or modify is personal to the settlor. A conservator may exercise it only with court approval, and an agent under a power of attorney only if the power of attorney expressly authorizes it and the trust instrument does not forbid it. On the settlor's death the trust becomes irrevocable.
+**Rule (write this):** The power to revoke or modify belongs to the settlor (or another person to whom the instrument gives it). A trust may not be modified or revoked by an agent under a power of attorney unless the trust instrument expressly permits it. A conservator may act only with court approval. On the settlor's death the trust becomes irrevocable.
 
-**Elements:** 1. Who acted? 2. Settlor personally, or fiduciary with authority? 3. Court approval or express authority.
+**Elements:** 1. Who acted? 2. Settlor personally, or a fiduciary? 3. Agent: does the trust instrument expressly permit an agent to revoke or modify? 4. Conservator: court approval?
 
-**Exceptions / defenses:** The trust instrument may expressly allow an agent to amend.
+**Exceptions / defenses:** The power of attorney itself must also grant authority over trusts expressly [VERIFY V-922].
 
-**Authority:** Prob. Code §§ 15401(c), 2580 [VERIFY V-552].
+**Authority:** Prob. Code § 15401(c) [S-1114]; Prob. Code §§ 2580, 4264 (conservator; power of attorney) [VERIFY V-922].
 
 **MBE vs. CA essay:** not on the MBE; California-specific details.
 
-**Example:** Daughter, acting under a general durable power of attorney, amends Mom's trust to make herself sole remainder beneficiary. Unless the power of attorney expressly authorizes trust amendments, the amendment is void; it is also self-dealing by a fiduciary.
+**Example:** Daughter, acting under a general durable power of attorney, amends Mom's trust to make herself sole remainder beneficiary. Unless the trust instrument expressly permits amendment by an agent, the amendment is void under § 15401(c), whatever the power of attorney says; it is also self-dealing by a fiduciary.
 
 ### R-TRS-017 — Totten trust (bank-account trust)
 **Rule (write this):** A bank account in the depositor's name "in trust for" another is a revocable will substitute: the depositor owns and may withdraw the funds during life, and at death the beneficiary takes the remaining balance unless clear and convincing evidence shows a different intent. No will formalities are required.
@@ -336,30 +336,30 @@ status: draft
 ## I.J Modification and termination
 
 ### R-TRS-024 — Modification or termination with the settlor's and all beneficiaries' consent
-**Rule (write this):** If the settlor and all beneficiaries consent, even an irrevocable trust may be modified or terminated, without regard to the trustee's wishes or to any material purpose of the trust. If some beneficiaries do not consent, the court may still modify or partially terminate the trust if the interests of the nonconsenting beneficiaries are not substantially impaired.
+**Rule (write this):** By the written consent of the settlor and all beneficiaries, even an irrevocable trust may be modified or terminated without court approval, without regard to the trustee's wishes or to any material purpose of the trust. If a beneficiary does not consent, the other beneficiaries, with the settlor's consent, may petition the court, which may modify or terminate the trust if the interests of the nonconsenting beneficiaries are not substantially impaired.
 
-**Elements:** 1. Settlor alive and consenting. 2. All beneficiaries consent (capacity; minors and unborns need representation). 3. Or nonconsenting interests protected.
+**Elements:** 1. Settlor alive and consenting. 2. All beneficiaries consent in writing (capacity; minors and unborns need representation). 3. Or, on petition, nonconsenting interests not substantially impaired.
 
 **Exceptions / defenses:** Consent obtained by undue influence is invalid.
 
-**Authority:** Prob. Code § 15404 [VERIFY V-555].
+**Authority:** Prob. Code § 15404(a), (b) [S-1102].
 
 **MBE vs. CA essay:** not on the MBE; same as general law (UTC § 411(a)) [VERIFY V-594].
 
 **Example:** Grandma's irrevocable trust pays income to Son, remainder to adult Grandson. All three sign a termination agreement. The trust ends even though the trustee objects.
 
 ### R-TRS-025 — Termination or modification by the beneficiaries alone (material purpose)
-**Rule (write this):** If all beneficiaries of an irrevocable trust consent, they may petition the court to modify or terminate it. But if continuing the trust is necessary to carry out a material purpose, the court may grant the petition only if it finds that the reason for modifying or terminating outweighs the interest in accomplishing that purpose. Spendthrift provisions, discretionary or support provisions, and a postponed age of distribution are classic material purposes.
+**Rule (write this):** If all beneficiaries of an irrevocable trust consent, they may petition the court to modify or terminate it. But if continuing the trust is necessary to carry out a material purpose, the court may grant the petition only if it finds, in its discretion, that the reason for modifying or terminating outweighs the interest in accomplishing that purpose. If the trust is subject to a valid spendthrift restraint, the court may terminate it under this section only if there is good cause.
 
-**Elements:** 1. Settlor dead or not consenting. 2. All beneficiaries consent. 3. Identify any material purpose. 4. Balance the reason for the change against that purpose.
+**Elements:** 1. Settlor dead or not consenting. 2. All beneficiaries consent. 3. Identify any material purpose (spendthrift, discretionary or support provisions, postponed age of distribution are classic examples). 4. Balance the reason for the change against that purpose. 5. Termination of a spendthrift trust: good cause.
 
-**Exceptions / defenses:** Under the traditional *Claflin* rule, a material purpose is an absolute bar. Earlier California text barred termination of a trust subject to a valid spendthrift restraint under this section [VERIFY V-555].
+**Exceptions / defenses:** Under the traditional *Claflin* rule, a material purpose is an absolute bar. Earlier text of § 15403 gave the court no discretion to terminate a trust subject to a valid spendthrift restraint; the current text allows it for good cause [S-1100].
 
-**Authority:** Prob. Code § 15403 [S-674] [VERIFY V-555]; *Claflin v. Claflin* (Mass. 1889) 149 Mass. 19.
+**Authority:** Prob. Code § 15403 [S-674] [S-1100]; *Claflin v. Claflin* (Mass. 1889) 149 Mass. 19.
 
-**MBE vs. CA essay:** not on the MBE. **Differs:** *Claflin*/majority = no termination while a material purpose remains; California = judicial balancing. Write both.
+**MBE vs. CA essay:** not on the MBE. **Differs:** *Claflin*/majority = no termination while a material purpose remains; California = judicial balancing (plus good cause for a spendthrift trust). Write both.
 
-**Example:** After the settlor's death, beneficiaries Beth and Carol want to end a trust that pays them income until age 35 and has a spendthrift clause (Feb 2012 pattern). Under *Claflin* they lose. Under § 15403 they must show a reason, such as an urgent medical need, that outweighs those purposes.
+**Example:** After the settlor's death, beneficiaries Beth and Carol want to end a trust that pays them income until age 35 and has a spendthrift clause (Feb 2012 pattern). Under *Claflin* they lose. Under § 15403 they must show a reason, such as an urgent medical need, that outweighs those purposes and amounts to good cause to end a spendthrift trust.
 
 ### R-TRS-026 — Modification or termination for changed circumstances
 **Rule (write this):** On petition by a trustee or beneficiary, the court may modify the administrative or dispositive provisions of a trust, or terminate it, if, because of circumstances not known to and not anticipated by the settlor, continuing the trust under its terms would defeat or substantially impair the accomplishment of its purposes. The court may authorize acts the instrument forbids, and it must consider a spendthrift restraint as a factor but is not barred by it.
@@ -368,22 +368,22 @@ status: draft
 
 **Exceptions / defenses:** A change the settlor foresaw, or a mere wish for a better return, is not enough.
 
-**Authority:** Prob. Code § 15409 [VERIFY V-555]; common law (equitable deviation).
+**Authority:** Prob. Code § 15409(a), (b) [S-1101]; common law (equitable deviation).
 
 **MBE vs. CA essay:** not on the MBE; same in substance (UTC § 412 [VERIFY V-594]).
 
 **Example:** The trust forbids selling the family farm, which now loses money every year while the income beneficiary is impoverished. The court may authorize a sale because unforeseen conditions defeat the purpose of supporting the family.
 
 ### R-TRS-027 — Uneconomic trusts
-**Rule (write this):** On petition, the court may modify or terminate a trust if the value of its principal has become so low in relation to the cost of administration that continuing it would defeat or substantially impair its purposes. Unless the instrument provides otherwise, the trustee may also terminate, without a court order, a trust whose principal does not exceed $100,000 (raised from $40,000 by SB 1127 in 2024), distributing the property consistently with the trust's purposes.
+**Rule (write this):** On petition, the court may modify or terminate a trust if the value of its principal has become so low in relation to the cost of administration that continuing it would defeat or substantially impair its purposes. Unless the instrument provides otherwise, the trustee may also terminate, without a court order, a trust whose principal does not exceed $100,000 in fair market value (threshold raised by SB 1127, Stats. 2024, ch. 76, effective January 1, 2025), distributing the property consistently with the trust's purposes.
 
 **Elements:** 1. Principal value versus administration cost. 2. Court route (any size) or trustee route (≤ $100,000). 3. Instrument does not forbid. 4. Distribution consistent with purposes.
 
 **Exceptions / defenses:** The instrument may forbid early termination.
 
-**Authority:** Prob. Code § 15408 [S-656] [S-657] [VERIFY V-556].
+**Authority:** Prob. Code § 15408 [S-656] [S-657] [S-1103] [S-1104].
 
-**MBE vs. CA essay:** not on the MBE. **Differs** in amount: UTC § 414 uses $50,000 [VERIFY V-594]. Recent California change; check the figure in June 2027.
+**MBE vs. CA essay:** not on the MBE. **Differs** in amount: UTC § 414 uses $50,000 [VERIFY V-594]. Recent California change; check the figure in June 2027 (whether it is inflation-indexed is unconfirmed [VERIFY V-921]).
 
 **Example:** One of two testamentary trusts now holds $60,000 and pays $8,000 a year in fees. Unless the will forbids it, the trustee may terminate it under § 15408(b), and a beneficiary may petition under § 15408(a).
 
@@ -584,13 +584,13 @@ status: draft
 > 🇨🇳 PRC bridge: the PRC Trust Law makes trust property independent of the beneficiary's own estate and limits enforcement against it, but it has no detailed list of spendthrift exceptions like California's (approx.).
 
 ### R-TRS-042 — Distributed funds and principal that is due
-**Rule (write this):** Once income or principal has been paid to the beneficiary, it is the beneficiary's own property and creditors may reach it. After an amount of principal has become due and payable under the trust instrument, a judgment creditor may petition for an order directing the trustee to satisfy the judgment out of that principal, notwithstanding the restraint.
+**Rule (write this):** Once income or principal has been paid to the beneficiary, it is the beneficiary's own property and creditors may reach it. After an amount of principal has become due and payable under the trust instrument, a judgment creditor may petition for an order directing the trustee to satisfy the judgment out of that principal, notwithstanding the restraint; the 25 percent cap on general creditors does not apply to these due-and-payable amounts.
 
-**Elements:** 1. Paid → reachable in the beneficiary's hands. 2. Principal due and payable → court may order payment to creditor.
+**Elements:** 1. Paid → reachable in the beneficiary's hands. 2. Principal due and payable → court may order payment to creditor, up to the full amount due.
 
-**Exceptions / defenses:** The court has discretion over the amount.
+**Exceptions / defenses:** The court has discretion over the amount. Distributions explicitly intended or actually required for the beneficiary's support remain protected (*Carmack*).
 
-**Authority:** Prob. Code § 15301(b) [S-672]; *Carmack v. Reynolds* (2017) 2 Cal.5th 844 [S-655] [VERIFY V-565].
+**Authority:** Prob. Code § 15301(b) [S-672]; *Carmack v. Reynolds* (2017) 2 Cal.5th 844 [S-655] [S-1105].
 
 **MBE vs. CA essay:** not on the MBE; California-specific on due principal.
 
@@ -616,7 +616,7 @@ status: draft
 
 **Exceptions / defenses:** Limited to the statutory categories.
 
-**Authority:** Prob. Code § 15305.5 [S-673] [VERIFY V-565].
+**Authority:** Prob. Code § 15305.5 [S-673] [S-1122].
 
 **MBE vs. CA essay:** not on the MBE; California-specific.
 
@@ -627,52 +627,52 @@ status: draft
 
 **Elements:** 1. Public support provided. 2. Statutory claim by the public entity. 3. Statutory limits.
 
-**Exceptions / defenses:** Special-needs trusts drafted to supplement public benefits are treated differently [VERIFY V-565].
+**Exceptions / defenses:** Section 15306(b) bars recovery where trust distributions are required for the care of a disabled beneficiary (as *Carmack* describes the subdivision) [S-655].
 
-**Authority:** Prob. Code § 15306 [VERIFY V-565].
+**Authority:** Prob. Code § 15306(a), (b) [S-655].
 
 **MBE vs. CA essay:** not on the MBE; nice-to-know.
 
 **Example:** A county that paid for a beneficiary's institutional care may petition to recover the cost from his trust interest.
 
-### R-TRS-046 — General creditors: the 25 percent rule and excess over support
-**Rule (write this):** Notwithstanding a spendthrift provision, a general judgment creditor may obtain an order requiring the trustee to pay the creditor up to 25 percent of each payment that would otherwise be made to the beneficiary, after the court considers the support needs of the beneficiary and dependents. Separately, the creditor may reach amounts payable to the beneficiary that exceed what is necessary for the beneficiary's education and support. The 25 percent figure is not an absolute ceiling on everything a creditor can reach.
+### R-TRS-046 — General creditors: the 25 percent cap, excess over support, and *Carmack*
+**Rule (write this):** Notwithstanding a spendthrift provision, a general judgment creditor may reach (1) up to the full amount of principal that is already due and payable but still held by the trustee (§ 15301(b)), and (2) up to 25 percent of each future payment to the beneficiary, reduced as needed for the support of the beneficiary and dependents (§ 15306.5). Section 15307 (amounts in excess of the beneficiary's education and support needs) does not let a general creditor take more than that 25 percent of future payments: under *Carmack v. Reynolds* (2017), orders under §§ 15306.5 and 15307 together are capped at 25 percent of each payment, and the cap does not apply to due-and-payable principal.
 
-**Elements:** 1. Money judgment. 2. Payments due or decided on. 3. Up to 25 percent, considering support needs. 4. Plus any excess over education and support needs.
+**Elements:** 1. Money judgment. 2. Principal already due and payable → reachable in full (support carve-out). 3. Future payments → order of up to 25 percent of each payment, considering support needs. 4. § 15307 excess-over-support orders count toward the same 25 percent cap.
 
-**Exceptions / defenses:** Support needs of the beneficiary and dependents; court discretion.
+**Exceptions / defenses:** Support needs of the beneficiary and dependents; amounts explicitly intended or actually required for support; court discretion.
 
-**Authority:** Prob. Code §§ 15306.5, 15307 [S-654] [S-672]; *Carmack v. Reynolds* (2017) 2 Cal.5th 844 [S-655] [VERIFY V-565].
+**Authority:** Prob. Code §§ 15301(b), 15306.5, 15307 [S-654] [S-672]; *Carmack v. Reynolds* (2017) 2 Cal.5th 844 [S-655]; *Frealy v. Reynolds* (9th Cir. 2017) (applying *Carmack*) [S-1105].
 
-**MBE vs. CA essay:** not on the MBE. **Differs:** under general law a valid spendthrift clause bars general creditors entirely (only "exception creditors" can reach the interest); California lets general creditors reach part of it. Write the general rule, then California's two routes.
+**MBE vs. CA essay:** not on the MBE. **Differs:** under general law a valid spendthrift clause bars general creditors entirely (only "exception creditors" can reach the interest); California lets general creditors reach due principal and up to 25 percent of future payments. Write the general rule, then California's rule and *Carmack*.
 
-**Example:** A trust pays Lou $10,000 a month, and a contract creditor holds a $90,000 judgment. The court may order up to $2,500 a month paid to the creditor; if Lou needs only $4,000 a month for support, the creditor may also seek the excess under § 15307.
+**Example:** A trust pays Lou $10,000 a month, and a contract creditor holds a $90,000 judgment. The court may order up to $2,500 a month paid to the creditor, less if Lou and his dependents need more than $7,500 a month for support; § 15307 cannot push the order above $2,500. If a $50,000 principal distribution has already come due and the trustee still holds it, the creditor may reach all of it under § 15301(b).
 
 ### R-TRS-047 — Self-settled trusts
-**Rule (write this):** If the settlor is also a beneficiary, a restraint on the transfer of the settlor's interest is invalid against the settlor's creditors; and if the trustee has discretion to pay income or principal to or for the settlor, the settlor's creditors may reach the maximum amount the trustee could pay to or for the settlor under the trust's terms.
+**Rule (write this):** If the settlor is also a beneficiary, a restraint on the transfer of the settlor's interest is invalid against the settlor's creditors; and if the trustee has discretion (or a support standard) to pay income or principal to or for the settlor, the settlor's creditors may reach the maximum amount the trustee could pay to or for the settlor under the trust's terms, not exceeding the settlor's proportionate contribution to the trust.
 
-**Elements:** 1. Settlor = beneficiary. 2. Spendthrift clause ineffective as to the settlor's interest. 3. Discretionary: creditors reach the maximum the trustee could pay.
+**Elements:** 1. Settlor = beneficiary. 2. Spendthrift clause ineffective as to the settlor's interest. 3. Discretionary or support trust: creditors reach the maximum the trustee could pay. 4. Cap: the settlor's proportionate contribution.
 
-**Exceptions / defenses:** The rule reaches only the settlor's own interest, not interests of others.
+**Exceptions / defenses:** The rule reaches only the settlor's own interest, not interests of others; the trust itself remains valid.
 
-**Authority:** Prob. Code § 15304 [S-672] [VERIFY V-567].
+**Authority:** Prob. Code § 15304(a), (b) [S-672] [S-1107].
 
 **MBE vs. CA essay:** not on the MBE; same as the majority rule. California does not allow self-settled asset-protection trusts.
 
-**Example:** A surgeon puts $2 million in an irrevocable trust for herself with a spendthrift clause and discretionary distributions. Her malpractice creditors may reach the full $2 million the trustee could pay her.
+**Example:** A surgeon alone puts $2 million in an irrevocable trust for herself with a spendthrift clause and discretionary distributions. Her malpractice creditors may reach the full $2 million the trustee could pay her (she contributed all of it).
 
 ### R-TRS-048 — Discretionary trusts
-**Rule (write this):** Where the trustee has discretion whether and how much to pay a beneficiary, a transferee or creditor of the beneficiary cannot compel the trustee to pay any amount that may be paid only in the exercise of that discretion. Once the trustee decides to pay, the payment becomes subject to the support, restitution and general-creditor exceptions, and a trustee who has notice of a transfer or levy and nonetheless pays the beneficiary may be liable to the transferee or creditor.
+**Rule (write this):** Where the trustee has discretion whether and how much to pay a beneficiary, a transferee or creditor of the beneficiary cannot compel the trustee to pay any amount that may be paid only in the exercise of that discretion. Once the trustee decides to pay, the payment becomes subject to the support, restitution and general-creditor exceptions. If the trustee knows of a transfer or has been served in a creditor's proceeding and still makes a discretionary payment to the beneficiary, the trustee is liable to the transferee or creditor to the extent the payment impairs its rights, unless the interest is protected by a valid spendthrift restraint.
 
-**Elements:** 1. Pure discretion? 2. Creditor cannot compel. 3. Amounts the trustee decides to pay → §§ 15305–15307. 4. Notice of levy → trustee risk.
+**Elements:** 1. Pure discretion? 2. Creditor cannot compel. 3. Amounts the trustee decides to pay → §§ 15305–15307. 4. Notice of transfer or service of process → trustee liability, unless a valid spendthrift clause applies.
 
-**Exceptions / defenses:** Self-settled discretionary trusts (R-TRS-047).
+**Exceptions / defenses:** Self-settled discretionary trusts (R-TRS-047). The rule applies whether or not the instrument states a standard for the discretion.
 
-**Authority:** Prob. Code § 15303 [S-672] [VERIFY V-566].
+**Authority:** Prob. Code § 15303(a), (b) [S-672] [S-1106].
 
 **MBE vs. CA essay:** not on the MBE; same core rule.
 
-**Example:** A trust gives Trustee "sole discretion" to pay Pat income. Pat's creditor serves a levy. The creditor cannot force any payment, but if Trustee pays Pat after notice, Trustee may have to pay the creditor too.
+**Example:** A trust without a spendthrift clause gives Trustee "sole discretion" to pay Pat income. Pat's creditor serves process. The creditor cannot force any payment, but if Trustee then pays Pat, Trustee is liable to the creditor to the extent the payment impairs the creditor's rights. With a valid spendthrift clause, that trustee liability does not arise.
 
 ### R-TRS-049 — Support trusts
 **Rule (write this):** Where the instrument directs the trustee to pay income or principal for the education or support of a beneficiary, the beneficiary's interest, to the extent necessary for education or support, cannot be transferred and is not subject to enforcement of a money judgment until paid, except as provided in the self-settled, support-judgment, restitution, public-support and general-creditor provisions.
@@ -681,11 +681,11 @@ status: draft
 
 **Exceptions / defenses:** Under general law, suppliers of necessaries to the beneficiary can reach a support trust.
 
-**Authority:** Prob. Code § 15302 [S-672] [VERIFY V-566].
+**Authority:** Prob. Code § 15302 [S-672] [S-1108].
 
 **MBE vs. CA essay:** not on the MBE; same in substance.
 
-**Example:** A trust pays "so much as needed for Ella's support and education." Ella's credit-card creditor cannot reach the amounts needed for her support, but may reach any surplus.
+**Example:** A trust pays "so much as needed for Ella's support and education." Ella's credit-card creditor cannot reach the amounts needed for her support; any surplus is reachable only within the 25 percent cap on future payments (R-TRS-046).
 
 ---
 
@@ -787,9 +787,9 @@ status: draft
 
 **Elements:** 1. Purposes and distribution needs. 2. Portfolio as a whole. 3. Risk and return. 4. Relevant factors: economic conditions, inflation, taxes, liquidity, expected return, the beneficiaries' other resources, an asset's special relationship to the trust. 5. Judged at the time, not by hindsight (R-TRS-058).
 
-**Exceptions / defenses:** The instrument may expand or restrict the rule; a trustee who reasonably relies on the instrument's terms is protected.
+**Exceptions / defenses:** The instrument may expand or restrict the rule; a trustee who reasonably relies on the instrument's terms is protected (§ 16046 [VERIFY V-924]).
 
-**Authority:** Prob. Code §§ 16045–16054, esp. § 16047 [VERIFY V-571].
+**Authority:** Prob. Code §§ 16045–16054, esp. § 16047(a)–(c) [S-1119].
 
 **MBE vs. CA essay:** not on the MBE; same rule (California adopted the UPIA). The older "prudent man" rule judged each investment alone.
 
@@ -802,7 +802,7 @@ status: draft
 
 **Exceptions / defenses:** The instrument may authorize retention ("retain the family company stock"), but the trustee must still act prudently.
 
-**Authority:** Prob. Code §§ 16048, 16049, 16051 [VERIFY V-571].
+**Authority:** Prob. Code §§ 16048, 16049, 16051 [S-1119].
 
 **MBE vs. CA essay:** not on the MBE; same rule.
 
@@ -852,22 +852,22 @@ status: draft
 
 **Elements:** 1. Beneficiary of an irrevocable trust. 2. Reasonable information and request. 3. Terms on request.
 
-**Exceptions / defenses:** No duty to remainder beneficiaries while the trust is revocable (R-TRS-065).
+**Exceptions / defenses:** No duty to remainder beneficiaries while the trust is revocable and a person holding the power to revoke is competent; when no such person is competent, the duties run to the beneficiaries who would take if the settlor had died (§ 15800; R-TRS-065).
 
-**Authority:** Prob. Code §§ 16060, 16061, 16061.5 [VERIFY V-573].
+**Authority:** Prob. Code §§ 16060, 16061, 16061.5 [S-1126] [S-1125].
 
 **MBE vs. CA essay:** not on the MBE; same in substance (UTC § 813 [VERIFY V-594]).
 
 **Example:** A remainder beneficiary of an irrevocable trust asks for a balance sheet; the trustee refuses because "you get nothing until Mom dies." Breach.
 
 ### R-TRS-063 — Duty to account
-**Rule (write this):** The trustee must account at least annually, at the termination of the trust, and on a change of trustee, to each beneficiary to whom income or principal is required or authorized to be currently distributed. No account is owed while the trust is revocable or where the beneficiary is also the trustee, and a beneficiary may waive accounts in writing.
+**Rule (write this):** The trustee must account at least annually, at the termination of the trust, and on a change of trustee, to each beneficiary to whom income or principal is required or authorized to be currently distributed. No account is owed while the trust is revocable (unless no person holding the power to revoke is competent) or where the beneficiary is also the trustee, and a beneficiary may waive accounts in writing.
 
-**Elements:** 1. Current beneficiary. 2. Timing: annually, termination, change of trustee. 3. Exceptions: revocable; beneficiary is trustee; waiver.
+**Elements:** 1. Current beneficiary. 2. Timing: annually, termination, change of trustee. 3. Exceptions: revocable with a competent power-holder; beneficiary is trustee; waiver.
 
 **Exceptions / defenses:** Waivers have limits, and the court can still order an account.
 
-**Authority:** Prob. Code §§ 16062, 16064, 16069 [S-679] [S-683] [VERIFY V-593].
+**Authority:** Prob. Code §§ 16062, 16064, 16069 [S-679] [S-683] [VERIFY V-593]; § 15800 (as amended by AB 1079, Stats. 2021, ch. 749) [S-1115].
 
 **MBE vs. CA essay:** not on the MBE; California-specific schedule.
 
@@ -880,37 +880,37 @@ status: draft
 
 **Exceptions / defenses:** The 120-day bar applies only to the death-of-settlor notice (2022 amendment) [S-653]. A defective notice may not start the period.
 
-**Authority:** Prob. Code §§ 16061.7, 16061.8 [S-652] [S-653] [VERIFY V-573].
+**Authority:** Prob. Code §§ 16061.7, 16061.8 [S-652] [S-653] [S-1125].
 
 **MBE vs. CA essay:** not on the MBE. **Differs:** California-specific; UTC § 604 uses the earlier of three years after death or 120 days after notice [VERIFY V-594].
 
 **Example:** Mom dies; the trustee serves the notice on Son on March 1. Son requests the trust terms and receives them on June 10. His deadline is the later of June 29 (120 days) and August 9 (60 days after June 10): August 9.
 
 ### R-TRS-065 — Revocable trusts: duties run to the settlor
-**Rule (write this):** While a trust is revocable, the beneficiaries' rights are subject to the settlor's control and the trustee's duties are owed to the settlor; a trustee who follows the settlor's written directions is protected. After the settlor dies, the beneficiaries have standing to sue the trustee for breaches committed during the settlor's life that harmed the trust.
+**Rule (write this):** While a trust is revocable and the person holding the power to revoke is competent, that person, not the beneficiaries, holds the beneficiaries' rights and the trustee's duties are owed to that person; a trustee who acts on the written directions of the holder of the power to revoke is not liable to the beneficiaries. After the settlor dies, the beneficiaries have standing to sue the trustee for breaches committed during the settlor's life that harmed the trust.
 
-**Elements:** 1. Trust revocable and settlor competent? 2. Duties to settlor. 3. Settlor's written direction a defense. 4. After death: beneficiaries may sue.
+**Elements:** 1. Trust revocable and power-holder competent? 2. Duties to the power-holder. 3. Power-holder's written direction a defense. 4. After death: beneficiaries may sue.
 
-**Exceptions / defenses:** If the settlor is incompetent, recent amendments require the trustee to account to remainder beneficiaries [S-680] [VERIFY V-572].
+**Exceptions / defenses:** If no person holding the power to revoke is competent, the trustee must, within 60 days after learning of the incompetence, notify the beneficiaries who would take if the settlor had died and give them a copy of the trust, and the duties to account and to report run to those beneficiaries (AB 1079, Stats. 2021, ch. 749) [S-1115] [S-680].
 
-**Authority:** Prob. Code § 15800 [S-680] [VERIFY V-572]; Prob. Code § 16462 [S-662] [VERIFY V-578]; *Estate of Giraldin* (2012) 55 Cal.4th 1058.
+**Authority:** Prob. Code § 15800 [S-1115] [S-680]; Prob. Code §§ 16001, 16462 [S-1127] [S-1121]; *Estate of Giraldin* (2012) 55 Cal.4th 1058.
 
 **MBE vs. CA essay:** not on the MBE; California-specific (*Giraldin*).
 
 **Example:** Son, trustee of Mom's revocable trust, makes risky investments while Mom is alive. After her death his siblings may sue; Son's best defense is Mom's written direction or consent.
 
 ### R-TRS-066 — Trustee compensation; attorney as trustee
-**Rule (write this):** A trustee is entitled to the compensation the instrument provides or, if none, to reasonable compensation. A trustee who is a lawyer, and the lawyer's close relatives and law firm, may not also be paid for legal services to the trust unless the trustee waives trustee compensation or the court approves.
+**Rule (write this):** A trustee is entitled to the compensation the instrument provides or, if none, to reasonable compensation. Notwithstanding any contrary trust provision, a trustee who is a lawyer, and the trustee's close relatives and law firm, may not also be paid for legal services to the trust unless the trustee waives trustee compensation or the dual compensation is approved, after full disclosure, by court order or by 30 days' advance written notice to which no one entitled to notice objects. The rule does not apply if the trustee is related by blood or marriage to, or is a cohabitant of, the settlor.
 
-**Elements:** 1. Compensation source (instrument or reasonable). 2. Attorney-trustee? 3. Dual compensation only by waiver or court approval.
+**Elements:** 1. Compensation source (instrument or reasonable). 2. Attorney-trustee (or relative or firm paid for legal work)? 3. Dual compensation only by waiver of trustee fees, court order, or unopposed advance notice. 4. Settlor-relative exception.
 
-**Exceptions / defenses:** Excessive compensation is a removal ground (R-TRS-073).
+**Exceptions / defenses:** Excessive compensation is a removal ground (R-TRS-073). A trust clause cannot waive § 15687; such a waiver is void.
 
-**Authority:** Prob. Code §§ 15680, 15681, 15687 [S-677] [VERIFY V-574].
+**Authority:** Prob. Code §§ 15680, 15681 [VERIFY V-924]; § 15687 [S-677] [S-1116].
 
 **MBE vs. CA essay:** not on the MBE. California-specific (PR crossover: rule 1.8.1 business transactions; R-PRF-026).
 
-**Example:** A lawyer-trustee bills the trust $400 an hour for legal work and also takes a 1 percent trustee fee without court approval. That violates § 15687.
+**Example:** A lawyer-trustee unrelated to the settlor bills the trust $400 an hour for legal work and also takes a 1 percent trustee fee without a court order or notice to the beneficiaries. That violates § 15687.
 
 ---
 
@@ -923,7 +923,7 @@ status: draft
 
 **Exceptions / defenses:** A court may authorize acts beyond the powers (R-TRS-026).
 
-**Authority:** Prob. Code §§ 16200, 16202 [VERIFY V-576]; common law.
+**Authority:** Prob. Code §§ 16200, 16202 [VERIFY V-924]; common law.
 
 **MBE vs. CA essay:** not on the MBE; same rule.
 
@@ -943,13 +943,13 @@ status: draft
 **Example:** The trust allows payments for "my grandson's education." The trustee refuses all tuition because he dislikes the art school the grandson chose. Abuse of discretion: an improper motive.
 
 ### R-TRS-069 — "Sole," "absolute" or "uncontrolled" discretion
-**Rule (write this):** Even when the instrument grants "absolute," "sole" or "uncontrolled" discretion, the trustee must act in accordance with fiduciary principles and may not act in bad faith or in disregard of the trust's purposes. A trustee who is also a beneficiary may use a discretionary power to distribute to himself or herself only for health, education, support or maintenance, unless the instrument clearly provides otherwise.
+**Rule (write this):** Even when the instrument grants "absolute," "sole" or "uncontrolled" discretion, the trustee must act in accordance with fiduciary principles and may not act in bad faith or in disregard of the trust's purposes. A beneficiary who, as trustee or co-trustee, may make discretionary distributions to himself or herself may exercise that power in his or her own favor only for health, education, support or maintenance, unless the settlor clearly indicates a broader power by express reference to § 16081(c).
 
-**Elements:** 1. Expanded discretion language. 2. Good faith and purposes still required. 3. Trustee-beneficiary: HEMS limit.
+**Elements:** 1. Expanded discretion language. 2. Good faith and purposes still required. 3. Trustee-beneficiary: HEMS limit unless the instrument expressly refers to § 16081(c).
 
-**Exceptions / defenses:** The court's review is deferential but not absent.
+**Exceptions / defenses:** The court's review is deferential but not absent. The HEMS limit does not apply to a settlor's power over a revocable trust or to certain marital-deduction trusts (§ 16081(d)).
 
-**Authority:** Prob. Code § 16081 [S-659] [VERIFY V-576].
+**Authority:** Prob. Code § 16081(a)–(d) [S-659] [S-1117].
 
 **MBE vs. CA essay:** not on the MBE; same in substance as general law.
 
@@ -962,7 +962,7 @@ status: draft
 
 **Exceptions / defenses:** Express direction to ignore other resources.
 
-**Authority:** Prob. Code § 16080 [S-659]; Restatement (Third) of Trusts § 50 [VERIFY V-576].
+**Authority:** Prob. Code § 16080 [S-659]; Restatement (Third) of Trusts § 50 [VERIFY V-923].
 
 **MBE vs. CA essay:** not on the MBE; same rule.
 
@@ -1005,20 +1005,20 @@ status: draft
 
 **Exceptions / defenses:** The settlor's choice of trustee carries weight; friction alone may not justify removal.
 
-**Authority:** Prob. Code § 15642 [S-658] [VERIFY V-575].
+**Authority:** Prob. Code § 15642 [S-658] [S-1118].
 
 **MBE vs. CA essay:** not on the MBE; same in substance.
 
 **Example:** Sibling co-trustees refuse to speak to each other, and the administration stalls for a year. The court may remove one or both.
 
 ### R-TRS-074 — Drafter or other disqualified person as sole trustee
-**Rule (write this):** A sole trustee who is a person described in § 21380(a), such as the drafter of the instrument, a fiduciary who transcribed it, or a care custodian of a dependent-adult settlor, may be removed on that ground, unless the court finds that the settlor intended that person to serve and that this intent was not the product of fraud or undue influence. Any donative gift to such a person is separately presumed invalid (R-TRS-076).
+**Rule (write this):** A sole trustee who is a person described in § 21380(a), such as the drafter of the instrument, a fiduciary who transcribed it, or a care custodian of a dependent-adult settlor, may be removed on that ground, whether or not the person also receives a gift, unless the court finds that the settlor intended that person to serve and that this intent was not the product of fraud or undue influence. Any donative gift to such a person is separately presumed invalid (R-TRS-076).
 
-**Elements:** 1. Sole trustee. 2. § 21380(a) category. 3. Settlor's untainted intent shown?
+**Elements:** 1. Sole trustee. 2. § 21380(a) category. 3. Statutory exclusion? 4. Settlor's untainted intent shown?
 
-**Exceptions / defenses:** Court finding of the settlor's intent free of fraud or undue influence.
+**Exceptions / defenses:** Court finding of the settlor's intent free of fraud or undue influence. The ground does not apply if the settlor is related by blood or marriage to, or is a cohabitant of, the trustee or the drafter or transcriber; if a court order approved the designation; or if an independent attorney counseled the settlor and signed a certificate of independent review. A trustee removed on this ground may be charged the costs of the proceeding, including attorney's fees.
 
-**Authority:** Prob. Code § 15642(b)(6) [S-658] [VERIFY V-575]; Prob. Code § 21380 [S-645].
+**Authority:** Prob. Code § 15642(b)(6), (c) [S-658] [S-1118]; Prob. Code § 21380 [S-645].
 
 **MBE vs. CA essay:** not on the MBE; California-specific (PR crossover: R-PRF-027).
 
@@ -1038,7 +1038,7 @@ status: draft
 **Example:** Daughter petitions to remove the trustee for breach. That is not a direct contest, so the no-contest clause cannot forfeit her share.
 
 ### R-TRS-076 — Presumptively disqualified donees in trust instruments
-**Rule (write this):** The presumption of fraud or undue influence for donative transfers to the drafter, to a fiduciary who transcribed the instrument, to a care custodian of a dependent adult, and to their relatives and associates applies to trusts and trust amendments as it does to wills. It is rebuttable only by clear and convincing evidence and is conclusive for the drafter, subject to the § 21382 exceptions and the § 21384 certificate of independent review; a failed gift passes as if the donee predeceased without issue.
+**Rule (write this):** The presumption of fraud or undue influence for donative transfers to the drafter, to a fiduciary who transcribed the instrument, to a care custodian of a dependent adult, and to their relatives and associates applies to trusts and trust amendments as it does to wills. It is rebuttable only by clear and convincing evidence and is conclusive for the drafter and persons related to or associated with the drafter, subject to the § 21382 exceptions and the § 21384 certificate of independent review; a failed gift passes as if the donee predeceased without issue.
 
 **Elements:** 1. Donative transfer in a trust instrument. 2. Disqualified category. 3. Exception or certificate? 4. Rebuttal (none for the drafter). 5. Effect.
 
@@ -1048,7 +1048,7 @@ status: draft
 
 **MBE vs. CA essay:** not on the MBE; California-specific (PR crossover: R-PRF-027).
 
-**Example:** The settlor's lawyer drafts a trust amendment giving the lawyer's son $100,000. The son is related to the drafter and not to the settlor, so the gift is presumed invalid and passes as if he predeceased.
+**Example:** The settlor's lawyer drafts a trust amendment giving the lawyer's son $100,000. The son is related to the drafter and not to the settlor, so the gift is conclusively presumed invalid (no rebuttal evidence is allowed) and passes as if he predeceased.
 
 ### R-TRS-077 — Omitted heirs and divorce rules applied to revocable trusts
 **Rule (write this):** California applies the omitted spouse and omitted child statutes to a revocable trust that becomes irrevocable at the settlor's death, computing the share on both probate and trust property, and a nonprobate transfer to a former spouse in a revocable trust fails on dissolution as if the former spouse had predeceased.
@@ -1130,7 +1130,7 @@ status: draft
 
 **Exceptions / defenses:** Rarely available for loyalty breaches or where the trustee profited.
 
-**Authority:** Prob. Code § 16440(b) [S-678] [VERIFY V-578].
+**Authority:** Prob. Code § 16440(b) [S-678] [VERIFY V-925].
 
 **MBE vs. CA essay:** not on the MBE; California-specific in form.
 
@@ -1154,9 +1154,9 @@ status: draft
 
 **Elements:** 1. Clause covers the conduct? 2. Conduct only ordinary negligence? 3. No profit to the trustee.
 
-**Exceptions / defenses:** Further limits apply where the trustee drafted the clause or abused a confidential relationship [VERIFY V-578].
+**Exceptions / defenses:** Section 16461(c)–(d) also restricts trust clauses that treat a beneficiary's failure to object to an account within a short period as a release [VERIFY V-926]. The UTC also refuses to enforce a clause inserted by abuse of a fiduciary or confidential relationship; § 16461 has no such express rule, but argue undue influence or § 16004(c) if the trustee drafted the clause.
 
-**Authority:** Prob. Code § 16461 [S-662] [VERIFY V-578].
+**Authority:** Prob. Code § 16461(a)–(d) [S-662] [S-1120].
 
 **MBE vs. CA essay:** not on the MBE; same in substance (UTC § 1008 [VERIFY V-594]).
 
@@ -1169,7 +1169,7 @@ status: draft
 
 **Exceptions / defenses:** A release obtained by a trustee who gains an advantage is also subject to the § 16004(c) presumption (R-TRS-054).
 
-**Authority:** Prob. Code §§ 16463, 16464, 16465 [S-662] [VERIFY V-578].
+**Authority:** Prob. Code §§ 16463, 16464, 16465 [S-662] [VERIFY V-925].
 
 **MBE vs. CA essay:** not on the MBE; same in substance.
 
@@ -1281,7 +1281,7 @@ status: draft
 
 **Exceptions / defenses:** Property that became irrevocable before death is outside the rule (unless a fraudulent transfer).
 
-**Authority:** Prob. Code § 19001 [S-665] [VERIFY V-568].
+**Authority:** Prob. Code § 19001 [S-665]; *Arluk Medical Center Industrial Group, Inc. v. Dobler* (2004) 116 Cal.App.4th 1324 (trustee's only duty to creditors with pending claims is to avoid affirmative misconduct that defeats their reasonable expectation of payment) [S-1123] [S-1124].
 
 **MBE vs. CA essay:** not on the MBE; same in substance (UTC § 505(a)(3) [VERIFY V-594]).
 

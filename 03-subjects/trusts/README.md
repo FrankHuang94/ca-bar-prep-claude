@@ -101,4 +101,4 @@ Recurring structure of a Trusts essay:
 | [`memorization-list.md`](memorization-list.md) | Must / should / nice-to-know tiers |
 | [`flashcards.csv`](flashcards.csv) | Anki cards (`scripts/build_anki.py --subject TRS`) |
 
-**Recent change to apply:** *Haggerty v. Thornton* (2024) on amending by the statutory revocation method (recent-changes §7). **Also note:** the § 15408 uneconomic-trust threshold rose to $100,000 in 2024 (SB 1127) [S-656]; this item should be added to `00-exam-intel/recent-changes.md`.
+**Recent change to apply:** *Haggerty v. Thornton* (2024) on amending by the statutory revocation method (recent-changes §7). **Also note:** the § 15408 uneconomic-trust threshold rose to $100,000 (SB 1127, Stats. 2024, ch. 76, effective Jan. 1, 2025) [S-656] [S-1103]; it is listed in recent-changes §7 (Apply).

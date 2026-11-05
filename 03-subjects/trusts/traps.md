@@ -29,14 +29,14 @@ Trusts is not on the MBE, so these are **essay traps**: rules that applicants mi
 10. **"Exclusive" must be explicit.** A trust method that is merely stated, not labelled exclusive, does not block the statutory method (R-TRS-012).
 11. ***Haggerty* is about amendments.** Pre-2024 cases such as *King v. Lynch* required strict compliance with the stated amendment method; they were disapproved. Do not cite them as current law (R-TRS-014).
 12. **Community property in a joint trust.** One spouse can **revoke** as to CP alone, but **modification** needs both (R-TRS-015).
-13. **Agents can't amend by default.** A general power of attorney does not carry power to amend or revoke a trust unless it expressly says so (R-TRS-016).
+13. **Agents can't amend by default.** An agent under a power of attorney may modify or revoke a trust only if the **trust instrument** expressly permits it (§ 15401(c)); broad language in the power of attorney alone is not enough (R-TRS-016).
 
 ## Termination
 
 14. **Settlor alive changes everything.** With the settlor's and all beneficiaries' consent, material purpose is irrelevant (§ 15404). Material-purpose analysis applies only when beneficiaries act **without** the settlor (R-TRS-024, R-TRS-025).
-15. ***Claflin* vs. § 15403.** *Claflin* bars termination while a material purpose remains; California lets the court balance. Write both (R-TRS-025).
+15. ***Claflin* vs. § 15403.** *Claflin* bars termination while a material purpose remains; California lets the court balance, and a trust with a valid spendthrift clause may be terminated only for good cause. Write both (R-TRS-025).
 16. **"All beneficiaries"** includes contingent remaindermen, minors and the unborn; missing consent defeats § 15403 (R-TRS-025).
-17. **Uneconomic-trust threshold changed.** The trustee may terminate if principal ≤ **$100,000** (2024 amendment; previously $40,000). Older outlines show the old figure (R-TRS-027).
+17. **Uneconomic-trust threshold changed.** The trustee may terminate if principal ≤ **$100,000** (SB 1127, effective Jan. 1, 2025). Older outlines show a lower figure (R-TRS-027).
 
 ## Charitable trusts
 
@@ -47,7 +47,7 @@ Trusts is not on the MBE, so these are **essay traps**: rules that applicants mi
 
 ## Creditors
 
-22. **California spendthrift exceptions are broader than the general rule.** General creditors can reach up to 25% of payments and amounts above support needs; under general law they get nothing (R-TRS-046).
+22. **California spendthrift exceptions are broader than the general rule.** General creditors can reach principal already due and payable in full and up to 25% of future payments (reduced for support needs); under general law they get nothing. Don't add § 15307's "excess over support" on top of the 25%: *Carmack* puts both inside the same cap (R-TRS-042, R-TRS-046).
 23. **Self-settled = no protection.** The settlor's creditors reach the maximum the trustee could pay the settlor, whatever the spendthrift clause says (R-TRS-047).
 24. **Revocable trusts don't shield the settlor**, during life (§ 18200) or after death if the probate estate is short (§ 19001) (R-TRS-092, R-TRS-093).
 25. **Discretionary vs. support.** Discretionary: no enforceable right to any amount. Support: right to what is needed. Many trusts are hybrids; analyze both (R-TRS-048, R-TRS-049).
@@ -58,7 +58,7 @@ Trusts is not on the MBE, so these are **essay traps**: rules that applicants mi
 27. **One act, two breaches.** Investing in the trustee's own business is a **loyalty** breach and a **prudence** breach. Give each its own heading (R-TRS-055, R-TRS-057).
 28. **Hindsight.** Prudence is judged when the decision is made, not by the outcome; a loss alone does not prove a breach (R-TRS-058).
 29. **Revocable-trust period.** While the settlor is alive and competent, duties run to the settlor; beneficiaries can sue only after death (*Giraldin*), and the settlor's written direction is a defense (R-TRS-065).
-30. **Duty to account is not owed while the trust is revocable** (§ 16069). Don't find a breach for failing to account to remainder beneficiaries then (but see the incompetent-settlor amendment) (R-TRS-063, R-TRS-065).
+30. **Duty to account is not owed while the trust is revocable** (§ 16069) and a power-holder is competent. Don't find a breach for failing to account to remainder beneficiaries then; but if no one holding the power to revoke is competent, notice and accounts are owed to the beneficiaries who would take at death (§ 15800, AB 1079) (R-TRS-063, R-TRS-065).
 31. **"Sole and absolute discretion" is not unlimited.** Good faith and the trust's purposes still apply; a trustee-beneficiary is limited to HEMS for himself (R-TRS-069).
 32. **Exculpatory clauses never cover profit or bad faith** (R-TRS-084).
 33. **Successor trustees can be liable** for failing to fix or pursue a predecessor's breach they knew or should have known about (R-TRS-083).

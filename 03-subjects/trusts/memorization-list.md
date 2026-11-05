@@ -60,8 +60,8 @@ Tiers reflect the Phase 3 issue tags (revocation and modification, termination, 
 | **60 days**: pour-over trust instrument may follow the will | § 6300 (R-TRS-010) |
 | **60 days**: trustee's notice after settlor's death | § 16061.7 (R-TRS-064) |
 | **120 days / 60 days, whichever later**: contest window | § 16061.8 (R-TRS-064) |
-| **25%**: general creditor's share of payments | § 15306.5 (R-TRS-046) |
-| **$100,000**: trustee may end an uneconomic trust (2024; was $40,000) | § 15408 (R-TRS-027) |
+| **25%**: cap on a general creditor's orders against each future payment (§§ 15306.5 and 15307 combined; not due principal) | § 15306.5; *Carmack* (R-TRS-046) |
+| **$100,000**: trustee may end an uneconomic trust (SB 1127, eff. Jan. 1, 2025) | § 15408 (R-TRS-027) |
 | **21 years**: honorary purpose trusts | § 15211 (R-TRS-022) |
 | **90 years**: USRAP wait-and-see | § 21205 (R-TRS-034) |
 | **3 years**: limitations after an adequate account | § 16460 (R-TRS-086) |
