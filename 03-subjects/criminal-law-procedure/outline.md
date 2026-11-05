@@ -799,6 +799,7 @@ The Fourth Amendment restricts only government agents: police, other public offi
 - **Home:** absent exigency or consent, police need an **arrest warrant** to enter the suspect's home to arrest him (*Payton v. New York*, 445 U.S. 573 (1980)) and a **search warrant** to enter a third party's home to arrest a guest (*Steagald v. United States*, 451 U.S. 204 (1981)). A Payton violation does not require suppression of a later station-house statement if police had probable cause (*New York v. Harris*, 495 U.S. 14 (1990)).
 - **Prompt probable-cause determination:** a person arrested without a warrant is entitled to a prompt judicial determination of probable cause (*Gerstein v. Pugh*, 420 U.S. 103 (1975)), presumptively within **48 hours** (*County of Riverside v. McLaughlin*, 500 U.S. 44 (1991)).
 - **Illegal arrest** is not a defense to prosecution and does not void the conviction; it only triggers exclusion of evidence obtained by exploiting it.
+- **Arrest under a later-invalidated law:** an arrest made in good-faith reliance on a statute or ordinance later held unconstitutional is valid, unless the law was so grossly and flagrantly unconstitutional that any reasonable person would see its flaws (*Michigan v. DeFillippo*, 443 U.S. 31 (1979)); evidence found in the search incident to that arrest is admissible (R-CRM-092).
 
 **Excessive force (R-CRM-081).** Force used in an arrest or stop is judged by Fourth Amendment **objective reasonableness**, considering the severity of the crime, whether the suspect posed an immediate threat, and whether he was actively resisting or fleeing (*Graham v. Connor*, 490 U.S. 386 (1989)); deadly force to stop a fleeing suspect requires probable cause of a significant threat of death or serious injury (*Garner*). The analysis looks at the **totality of the circumstances**, not only the moment of the threat (*Barnes v. Felix* (2025) [VERIFY V-035]).
 
@@ -823,7 +824,7 @@ The Fourth Amendment restricts only government agents: police, other public offi
 
 **Search incident to lawful arrest (R-CRM-083).**
 - **Person and wingspan:** after a **lawful custodial arrest**, police may search the arrestee's person and the area within his **immediate control** (*Chimel v. California*, 395 U.S. 752 (1969)), automatically, without suspicion (*United States v. Robinson*, 414 U.S. 218 (1973)). The search must be **contemporaneous** with the arrest.
-- **Vehicles:** police may search the passenger compartment incident to arrest only if (1) the arrestee is **unsecured and within reaching distance** of the compartment at the time of the search, or (2) it is reasonable to believe **evidence of the offense of arrest** might be found in the vehicle (*Arizona v. Gant*, 556 U.S. 332 (2009)).
+- **Vehicles:** if the arrestee is an occupant or **recent occupant** of the vehicle (*Thornton v. United States*, 541 U.S. 615 (2004)), police may search the passenger compartment incident to arrest only if (1) the arrestee is **unsecured and within reaching distance** of the compartment at the time of the search, or (2) it is reasonable to believe **evidence of the offense of arrest** might be found in the vehicle (*Arizona v. Gant*, 556 U.S. 332 (2009)).
 - **Cell phones:** police generally need a **warrant** to search the digital contents of a phone seized incident to arrest (*Riley v. California*, 573 U.S. 373 (2014)). Where a suppression item is a text message or other phone data (Jul 2021 Q4 asked about a text message), consider Riley.
 - **Breath vs. blood:** a breath test is permitted incident to a DUI arrest; a blood test is not (*Birchfield v. North Dakota*, 579 U.S. 438 (2016)).
 - **Citation only:** no search incident to a mere traffic citation (*Knowles v. Iowa*, 525 U.S. 113 (1998)).
@@ -876,7 +877,7 @@ The Fourth Amendment restricts only government agents: police, other public offi
 
 **Good faith and related limits (R-CRM-092).** Evidence is not excluded when police acted in **objectively reasonable reliance** on:
 - a **warrant** later found invalid (*United States v. Leon*, 468 U.S. 897 (1984); *Massachusetts v. Sheppard*, 468 U.S. 981 (1984)), **unless** (1) the affidavit is so lacking in indicia of probable cause that reliance is unreasonable ("bare bones"); (2) the warrant is so facially deficient (particularity) that officers cannot reasonably presume it valid; (3) the affiant misled the magistrate (Franks); or (4) the magistrate wholly abandoned the judicial role;
-- a **statute** later held unconstitutional (*Illinois v. Krull*, 480 U.S. 340 (1987));
+- a **statute** authorizing the search, later held unconstitutional (*Illinois v. Krull*, 480 U.S. 340 (1987)); compare an arrest under a later-invalidated ordinance (*Michigan v. DeFillippo*, 443 U.S. 31 (1979); see Arrest above);
 - **binding appellate precedent** later overruled (*Davis v. United States*, 564 U.S. 229 (2011));
 - **database errors** by court clerks (*Arizona v. Evans*, 514 U.S. 1 (1995)) or isolated negligent police record-keeping errors (*Herring*). Deliberate, reckless, grossly negligent or systemic errors are not protected.
 

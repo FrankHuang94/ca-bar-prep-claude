@@ -33,7 +33,7 @@ status: draft
 18. **Victim's specific acts.** FRE: reputation/opinion only (unless known to the defendant — then offered for fear). CEC § 1103(a): specific acts allowed (R-EVD-038).
 19. **Habit vs. character.** "He is a careful driver" is character; "he always stops fully at this crossing" is habit (R-EVD-041).
 20. **404(b) labels without reasoning.** Saying "intent" is not enough if the only route to intent is "he did it before, so he is the kind of person who…" (R-EVD-042).
-21. **Acquitted conduct under 404(b).** Admissible — the standard is sufficiency for the jury, not proof beyond reasonable doubt (*Huddleston*) (R-EVD-042).
+21. **Acquitted conduct under 404(b).** Admissible — the standard is sufficiency for the jury, not proof beyond reasonable doubt (*Huddleston*), and an acquittal shows only reasonable doubt (*Dowling v. United States*, 493 U.S. 342 (1990)) (R-EVD-042).
 22. **Subsequent repairs offered for feasibility when feasibility is conceded.** Exclude — the exception applies only if feasibility is disputed (R-EVD-074).
 23. **Repairs in California strict liability.** § 1151 does not apply (*Ault*) (R-EVD-074).
 24. **Offers to pay medical bills with admissions.** FRE 409 excludes only the offer; the admission comes in. Contrast 408, where negotiation statements are excluded too (R-EVD-075, R-EVD-076).

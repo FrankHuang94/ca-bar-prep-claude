@@ -40,7 +40,7 @@ status: draft
 6. Leading questions: allowed on cross and with hostile/adverse witnesses (611(c)) (R-EVD-019).
 7. 609: felonies — 403 for witnesses, reverse balancing for the accused; crimen falsi automatic; 10-year rule (R-EVD-025).
 8. 608(b): specific acts of untruthfulness on cross only; no extrinsic evidence; take the answer (R-EVD-027).
-9. Bias is never collateral; extrinsic evidence allowed (R-EVD-024).
+9. Bias is not collateral; extrinsic evidence allowed, subject to 403 (R-EVD-024).
 10. Prior inconsistent statement: no need to show it first, but extrinsic proof only after an opportunity to explain or deny (613, 2024) (R-EVD-023); substantive use under amended 801(d)(1)(A) (R-EVD-085) [VERIFY V-028].
 11. 806: a hearsay declarant may be impeached as if a witness (R-EVD-031).
 12. 606(b): jurors may testify only about extraneous information, outside influence, or a form error (R-EVD-011).
@@ -50,7 +50,7 @@ status: draft
 14. Character to prove conduct is barred; the accused opens the door to his own and the victim's pertinent trait; prosecution responds; reputation/opinion only (404(a), 405(a)) (R-EVD-035 to R-EVD-039).
 15. Homicide first-aggressor: prosecution may show the victim's peacefulness (404(a)(2)(C)) (R-EVD-038).
 16. "Have you heard" / "did you know" cross of character witnesses — no extrinsic proof (R-EVD-040).
-17. 404(b): MIMIC; Huddleston sufficiency (acquittal no bar); 403 (R-EVD-042).
+17. 404(b): MIMIC; Huddleston sufficiency (acquittal no bar — Dowling); 403 (R-EVD-042).
 18. 413–415: propensity allowed in sexual-assault and child-molestation cases, civil and criminal (R-EVD-043).
 19. Habit = specific, repeated, semi-automatic; routine practice of a business (R-EVD-041).
 20. Authentication = sufficient to support a finding; voice ID from any familiarity; handwriting lay familiarity not acquired for litigation (R-EVD-048, R-EVD-049).

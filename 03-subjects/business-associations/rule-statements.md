@@ -1156,13 +1156,13 @@ status: draft
 ### R-BUS-085 — Fundamental changes: amendment, merger, sale of assets, dissolution
 **Rule (write this):** Fundamental corporate changes require board approval followed by shareholder approval. Amendments of the articles, mergers and other reorganizations, and the sale of all or substantially all assets outside the regular course of business require approval by the board and the shareholders — in California and Delaware, a majority of the outstanding shares entitled to vote (and class votes where a class is adversely affected); under the current MBCA, more votes cast for than against at a meeting at which a quorum of a majority of the votes entitled to be cast is present (MBCA §§ 10.03, 11.04, 12.02) [VERIFY V-730]; voluntary dissolution may be elected by shareholders holding 50% of the voting power. A parent owning at least 90% of a subsidiary may merge it without the subsidiary's shareholders' vote (short-form merger).
 
-**Elements:** 1. Identify the change. 2. Board resolution. 3. Shareholder vote (outstanding shares; class votes). 4. Dissenters' rights (R-BUS-086). 5. Filing.
+**Elements:** 1. Identify the change. 2. Board resolution. 3. Shareholder vote (California/Delaware: majority of outstanding shares; current MBCA: more votes for than against at a meeting with a majority quorum [VERIFY V-730]; class votes). 4. Dissenters' rights (R-BUS-086). 5. Filing.
 
 **Exceptions / defenses:** California: no vote is required by the shareholders of a constituent corporation if it or its shareholders will own more than five-sixths of the voting power of the surviving or acquiring corporation [VERIFY V-711]. Delaware: whale-minnow (20% dilution) exception for the survivor's stockholders (DGCL § 251(f)).
 
 **Authority:** Corp. Code §§ 152, 902–903, 1001, 1101, 1110, 1200–1201, 1900 [VERIFY V-711]; MBCA §§ 10.03, 11.04–11.05, 12.02, 14.02; DGCL §§ 242, 251, 253, 271, 275.
 
-**MBE vs. CA essay:** same structure; California's "reorganization" vocabulary (merger, exchange, sale-of-assets reorganizations) is a California label.
+**MBE vs. CA essay:** not on the MBE. Same structure, but the vote differs: California (and Delaware) count a majority of the outstanding shares, the current MBCA counts votes cast at a meeting with a quorum [VERIFY V-730]; California's "reorganization" vocabulary (merger, exchange, sale-of-assets reorganizations) is a California label.
 
 **Example:** A television maker sells its TV plants (90% of its assets) to pivot to bicycles. That is a sale of substantially all assets requiring board and outstanding-share approval.
 
@@ -1175,7 +1175,7 @@ status: draft
 
 **Authority:** Corp. Code §§ 1300–1312 [S-816]; MBCA §§ 13.01–13.40; DGCL § 262.
 
-**MBE vs. CA essay:** same core; details of the market-out and valuation date differ.
+**MBE vs. CA essay:** not on the MBE. Same core; the market-out and valuation date differ, and California makes appraisal more exclusive — no attack on the reorganization except to test the vote unless a party controls the corporation (Corp. Code § 1312; *Steinberg v. Amplica*) [VERIFY V-731].
 
 **Example:** A minority holder in a closely held company votes against a cash-out merger and demands payment. She is entitled to a court appraisal of fair value.
 

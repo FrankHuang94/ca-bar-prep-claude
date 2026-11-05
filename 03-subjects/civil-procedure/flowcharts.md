@@ -220,6 +220,6 @@ flowchart TD
     E -- No --> F{"Judge certified controlling question of law under 1292 b?"}
     F -- Yes --> AP4["Apply to court of appeals within 10 days; discretionary"]
     F -- No --> G{"Collateral order: conclusive, separate from merits, effectively unreviewable later?"}
-    G -- Yes --> AP5["Immediate appeal, e.g. qualified immunity denial"]
+    G -- Yes --> AP5["Immediate appeal, e.g. qualified immunity denial on an issue of law"]
     G -- No --> H["Wait for final judgment; mandamus only for clear abuse"]
 ```

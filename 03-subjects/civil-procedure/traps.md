@@ -68,7 +68,7 @@ Each trap names the wrong instinct, the correct rule and the rule ID in [rule-st
 43. **Issue preclusion from a default judgment.** Defaults are on the merits for claim preclusion but nothing was "actually litigated" for issue preclusion. (R-CIV-094, R-CIV-095)
 44. **Binding a non-party by "virtual representation".** Rejected in Taylor v. Sturgell. (R-CIV-097)
 45. **A pending appeal stops preclusion.** Not in federal court (majority); yes in California. (R-CIV-094, R-CIV-115)
-46. **Appealing a privilege ruling as a collateral order.** Not allowed (Mohawk); use mandamus, § 1292(b) or contempt. (R-CIV-101)
+46. **Appealing a privilege ruling as a collateral order.** Not allowed (Mohawk); appeal after final judgment generally suffices, or seek § 1292(b) certification or mandamus, or defy the order and appeal a contempt sanction. (R-CIV-101)
 47. **Appealing a TRO.** Generally not appealable, unless it operates as a preliminary injunction. (R-CIV-043, R-CIV-100)
 
 ## California-specific traps

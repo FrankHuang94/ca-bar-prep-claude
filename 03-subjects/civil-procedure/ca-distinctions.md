@@ -91,7 +91,7 @@ status: draft
 
 | Device | California | Federal counterpart | Key differences |
 |---|---|---|---|
-| Complaint | Fact pleading: statement of facts constituting the cause of action + demand (CCP § 425.10); no damages amount in personal-injury complaints (§ 425.10(b)); no punitive amount (Civ. Code § 3295(e)) | Rule 8(a) plausibility | More facts needed in California |
+| Complaint | Fact pleading: statement of facts constituting the cause of action + demand (CCP § 425.10); no damages amount in personal-injury complaints (§ 425.10(b)); no punitive amount (Civ. Code § 3295(e)); fraud pleaded with particularity — how, when, where, to whom, by what means (*Lazar v. Superior Court* (1996) 12 Cal.4th 631) | Rule 8(a) plausibility; Rule 9(b) for fraud | More facts needed in California |
 | General demurrer | Failure to state facts sufficient to constitute a cause of action; lack of SMJ; never waived (CCP §§ 430.10(a), (e), 430.80) [S-256] | Rule 12(b)(6), 12(b)(1) | Demurrer limited to face of pleading + judicially noticeable matter |
 | Special demurrer | Uncertainty (ambiguous, unintelligible); lack of capacity; another action pending; defect or misjoinder of parties; contract not shown to be written, oral or implied; certificate requirements (§ 430.10(b)–(d), (f)–(g) and later subdivisions) [VERIFY V-152]; waived if not raised | Rule 12(e) (uncertainty); 12(b)(7) and Rule 19 (parties) | Uncertainty demurrers are disfavored |
 | Meet and confer | Required before filing a demurrer (§ 430.41) | Many local rules; Rule 12 itself does not require | — |

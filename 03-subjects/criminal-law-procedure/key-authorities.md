@@ -155,6 +155,7 @@ On essays you rarely need a citation; the case name as a handle ("under Miranda,
 | *Schneckloth v. Bustamonte*, 412 U.S. 218 (1973) | Consent voluntary under totality; knowledge of right not required |
 | *Franks v. Delaware*, 438 U.S. 154 (1978) | Deliberate or reckless falsehood in affidavit voids warrant |
 | *Rakas v. Illinois*, 439 U.S. 128 (1978) | Fourth Amendment rights are personal; passenger lacks standing |
+| *Michigan v. DeFillippo*, 443 U.S. 31 (1979) | Arrest in good-faith reliance on a later-invalidated ordinance is valid unless the law is grossly and flagrantly unconstitutional |
 | *Payton v. New York*, 445 U.S. 573 (1980) | Arrest warrant needed to enter suspect's home |
 | *Illinois v. Gates*, 462 U.S. 213 (1983) | Probable cause: totality of the circumstances |
 | *United States v. Leon*, 468 U.S. 897 (1984) | Good-faith reliance on a warrant |
@@ -169,6 +170,7 @@ On essays you rarely need a citation; the case name as a handle ("under Miranda,
 | *Illinois v. Wardlow*, 528 U.S. 119 (2000) | Flight in high-crime area → reasonable suspicion |
 | *Florida v. J.L.*, 529 U.S. 266 (2000) | Bare anonymous gun tip insufficient |
 | *Kyllo v. United States*, 533 U.S. 27 (2001) | Thermal imaging of a home is a search |
+| *Thornton v. United States*, 541 U.S. 615 (2004) | Vehicle search incident to arrest reaches a recent occupant (now subject to Gant's limits) |
 | *Brigham City v. Stuart*, 547 U.S. 398 (2006) | Emergency-aid entry: objectively reasonable belief |
 | *Georgia v. Randolph*, 547 U.S. 103 (2006) | Present co-occupant's objection controls |
 | *Hudson v. Michigan*, 547 U.S. 586 (2006) | No exclusion for knock-and-announce violations |
@@ -197,7 +199,7 @@ On essays you rarely need a citation; the case name as a handle ("under Miranda,
 | *Davis v. United States*, 512 U.S. 452 (1994) | Counsel request must be unambiguous |
 | *Dickerson v. United States*, 530 U.S. 428 (2000) | Miranda is constitutional |
 | *Missouri v. Seibert*, 542 U.S. 600 (2004) | Deliberate two-step interrogation |
-| *United States v. Patane*, 542 U.S. 630 (2004) | Physical fruits of unwarned statement admissible |
+| *United States v. Patane*, 542 U.S. 630 (2004) | Physical fruits of voluntary unwarned statement admissible (plurality plus two-Justice concurrence in the judgment) |
 | *Berghuis v. Thompkins*, 560 U.S. 370 (2010) | Silence not invocation; implied waiver |
 | *Maryland v. Shatzer*, 559 U.S. 98 (2010) | Edwards ends after 14-day break in custody |
 | *Massiah v. United States*, 377 U.S. 201 (1964) | No deliberate elicitation after charges |

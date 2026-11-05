@@ -136,7 +136,7 @@ Original fact patterns. Each answer gives the rule (with its ID), the applicatio
 
 **Rule (R-CON-061).** Parents' right to the care, custody and control of their children is fundamental; courts must give special weight to a fit parent's decisions.
 
-**Application.** The statute lets a judge override a fit mother's decision with no deference, as in *Troxel*.
+**Application.** The statute lets a judge override a fit mother's decision with no deference, as in *Troxel* (plurality).
 
 **Conclusion.** Unconstitutional as applied.
 

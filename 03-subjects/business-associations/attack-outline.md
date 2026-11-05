@@ -64,7 +64,7 @@ One line per rule. Full text: [`rule-statements.md`](rule-statements.md). Defaul
 - **Inspection**: proper purpose (**CA** § 1601); directors absolute (§ 1602). (R-BUS-078)
 - **Dividends**: board discretion (BJR); legal limits — **CA** retained earnings or balance sheet + insolvency bar (§§ 500–501); MBCA equity insolvency + balance sheet; directors liable. (R-BUS-079, R-BUS-080)
 - **Derivative**: who was harmed? → contemporaneous + continuous ownership (**CA** § 800(b)(1) exception) → demand or futility (MBCA universal demand; *Zuckerberg*) → **CA** bond up to $50,000 → recovery to corporation. (R-BUS-081 to R-BUS-084)
-- **Fundamental changes**: board + majority of outstanding shares; dissenters get fair value. (R-BUS-085, R-BUS-086)
+- **Fundamental changes**: board + shareholders (CA/DE: majority of outstanding shares; MBCA: votes for > against, majority quorum); dissenters get fair value; appraisal generally exclusive (CA § 1312: only a vote challenge unless a party controls the corporation). (R-BUS-085, R-BUS-086)
 - **10b-5**: material misstatement, scienter, purchase/sale, reliance, loss, loss causation — any security. (R-BUS-088)
 - **Insider trading**: classical (insiders, temporary insiders: disclose or abstain); tippee (tipper's personal benefit + tippee knew); misappropriation (deceive source); Rule 14e-3 (tender offers). (R-BUS-089 to R-BUS-091)
 - **§ 16(b)**: public company; officer/director/>10% holder; purchase and sale within < 6 months; strict liability; lowest-in highest-out. (R-BUS-092)

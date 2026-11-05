@@ -381,7 +381,7 @@ Read with [`outline.md`](outline.md) (full treatment) and [`ca-distinctions.md`]
 
 **Authority:** CRPC rule 1.8.1; MR 1.8(a); *Fletcher v. Davis* (2004) 33 Cal.4th 61.
 
-**MBE vs. CA essay:** not on the MBE. **CA vs. ABA:** same three requirements; differs on liens (CA rule 1.8.1 applies to a charging lien) and CA requires informed written consent.
+**MBE vs. CA essay:** not on the MBE. **CA vs. ABA:** same three requirements; differs on liens (CA rule 1.8.1 applies to a charging lien); both require client consent in writing to the terms and to the lawyer's role (CA: informed written consent, rule 1.8.1(c); ABA: informed consent in a writing signed by the client, MR 1.8(a)(3)).
 
 **Example:** After a divorce, the lawyer drafts a partnership agreement for a florist business with his former client, contributing capital in exchange for 50%. Unless the terms are fair, disclosed in writing, the client is advised in writing to get independent counsel, and she consents in writing, rule 1.8.1 / MR 1.8(a) is violated (cf. Feb. 2025 Q5).
 

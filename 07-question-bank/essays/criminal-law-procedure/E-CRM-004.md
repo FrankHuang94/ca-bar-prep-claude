@@ -123,7 +123,7 @@ On balance, the location of a discarded gun near a school was unknown and the ri
 
 **B. The gun**
 
-If Statement 1 is admissible under *Quarles*, the gun is too. Even if it is not, physical evidence derived from a *voluntary* statement taken without Miranda warnings is not suppressed (*United States v. Patane*). Theo's statement was voluntary. **The gun is admissible.**
+If Statement 1 is admissible under *Quarles*, the gun is too. Even if it is not, physical evidence derived from a *voluntary* statement taken without Miranda warnings is not suppressed (*United States v. Patane*, plurality opinion plus a concurrence in the judgment). Theo's statement was voluntary. **The gun is admissible.**
 
 **C. Statement 2: "Yeah. I needed rent."**
 

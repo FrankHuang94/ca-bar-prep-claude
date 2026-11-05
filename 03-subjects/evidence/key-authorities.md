@@ -89,8 +89,9 @@ Only citations the author is confident of are listed; items needing confirmation
 |---|---|---|
 | *Michelson v. United States*, 335 U.S. 469 (1948) | Character witnesses may be asked "have you heard" about the defendant's arrests | R-EVD-040 |
 | *Huddleston v. United States*, 485 U.S. 681 (1988) | Other acts admissible under 404(b) if a jury could find them by a preponderance (104(b)) | R-EVD-042 |
+| *Dowling v. United States*, 493 U.S. 342 (1990) | Acquitted conduct may still be offered as an other act; an acquittal shows only reasonable doubt | R-EVD-042 |
 | *Old Chief v. United States*, 519 U.S. 172 (1997) | Abuse of discretion to reject a stipulation to felon status and admit the prior offense's name | R-EVD-003 |
-| *Bourjaily v. United States*, 483 U.S. 171 (1987) | Court may consider the coconspirator statement itself; preponderance | R-EVD-005, R-EVD-091 |
+| *Bourjaily v. United States*, 483 U.S. 171 (1987) | Court may consider the coconspirator statement itself; preponderance (FRE 801(d)(2) now says it must be considered but is not alone sufficient) | R-EVD-005, R-EVD-091 |
 | *Tome v. United States*, 513 U.S. 150 (1995) | Prior consistent statement must predate the motive to fabricate | R-EVD-086 |
 | *Williamson v. United States*, 512 U.S. 594 (1994) | Only self-inculpatory statements qualify under 804(b)(3) | R-EVD-104 |
 | *United States v. Owens*, 484 U.S. 554 (1988) | Memory loss does not defeat "subject to cross" | R-EVD-087 |

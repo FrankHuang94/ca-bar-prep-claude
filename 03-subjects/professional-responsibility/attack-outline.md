@@ -17,7 +17,7 @@ status: draft
 ### Duty of loyalty (conflicts)
 - **Current client (1.7):** direct adversity or significant risk of material limitation (other client, former client, third person, own interest) → reasonable belief + not prohibited + not same-litigation adversity + consent. **CA:** informed written consent; **ABA:** informed consent confirmed in writing. (R-PRF-021)
 - **CA 1.7(c):** written disclosure of relationships with a party/witness or with opposing counsel (relative, cohabitant, client, intimate). No ABA twin. (R-PRF-022)
-- **Business transaction (1.8.1 / 1.8(a)):** fair terms in writing + written advice to get independent counsel + written consent; CA: charging lien counts. (R-PRF-026)
+- **Business transaction (1.8.1 / 1.8(a)):** fair terms in writing + written advice to get independent counsel + written consent to the terms and the lawyer's role (ABA: incl. whether lawyer represents client in the deal); CA: charging lien counts. (R-PRF-026)
 - **Gifts (1.8.3 / 1.8(c)):** no soliciting/drafting substantial gifts unless related; CA certificate of independent review. (R-PRF-027)
 - **Financial assistance (1.8.5 / 1.8(e)):** costs only (ABA); CA allows post-retention loans with written promise to repay. (R-PRF-028)
 - **Third-party payor (1.8.6 / 1.8(f)):** no interference + confidentiality + consent (CA written). (R-PRF-029)

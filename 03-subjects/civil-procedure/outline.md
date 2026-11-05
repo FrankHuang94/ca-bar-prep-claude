@@ -244,7 +244,7 @@ A court needs **four things** before it can bind a defendant: subject-matter jur
 ## III Pretrial procedures
 
 ### III.A Preliminary injunctions and temporary restraining orders
-- **Preliminary injunction** (R-CIV-042): notice required (65(a)(1)); Winter factors; findings (52(a)(2)); consolidation with trial (65(a)(2)); mandatory injunctions disfavored; status quo ante.
+- **Preliminary injunction** (R-CIV-042): notice required (65(a)(1)); Winter factors; findings (52(a)(2)); consolidation with trial (65(a)(2)); many circuits require a stronger showing for mandatory injunctions that change the status quo ante; a temporary loss of income ordinarily is not irreparable harm (*Sampson v. Murray*, 415 U.S. 61 (1974)).
 - **TRO** (R-CIV-043): without notice only on specific facts + attorney certification; ≤ 14 days, one extension; motion to dissolve on 2 days' notice; hearing on preliminary injunction at earliest possible time.
 - **Security** (65(c)): in an amount the court considers proper to pay costs and damages of a party wrongfully enjoined; the U.S. is exempt.
 - **Contents and scope** (65(d)): reasons; specific terms; describe acts restrained in reasonable detail (no reference to the complaint); binds parties, officers, agents, servants, employees, attorneys, and those in active concert with actual notice.
@@ -266,7 +266,7 @@ Complaint; answer; answer to counterclaim designated as such; answer to crosscla
 - 8(d): alternative and inconsistent claims allowed; 8(e): construe to do justice.
 - Rule 9: capacity need not be alleged (9(a)); **fraud/mistake with particularity** (9(b)); conditions precedent may be alleged generally, denial must be particular (9(c)); special damages specifically stated (9(g)).
 - Rule 10: caption, numbered paragraphs, separate counts; exhibits part of pleading.
-- **CA note:** fact pleading under CCP § 425.10; no damages amount in personal-injury complaints; Doe defendants (R-CIV-106, R-CIV-107).
+- **CA note:** fact pleading under CCP § 425.10; fraud must be pleaded with particularity — how, when, where, to whom and by what means (*Lazar v. Superior Court* (1996) 12 Cal.4th 631); no damages amount in personal-injury complaints; Doe defendants (R-CIV-106, R-CIV-107).
 
 #### III.B.3 Responses (R-CIV-046, R-CIV-047)
 - **Timing** (12(a)): 21 days after service; 60 days from request if waived (90 abroad); U.S. 60 days; 14 days after ruling on a Rule 12 motion or service of a more definite statement.
@@ -329,11 +329,11 @@ Complaint; answer; answer to counterclaim designated as such; answer to crosscla
 - **Prerequisites** 23(a): numerosity, commonality (Dukes), typicality, adequacy (Amchem); implicit ascertainability in many circuits.
 - **Types** 23(b): (1)(A) incompatible standards; (1)(B) limited fund; (2) injunctive/declaratory (no individualized damages — Dukes); (3) predominance + superiority (Comcast).
 - **Certification** 23(c)(1): at an early practicable time; order defines class and claims and appoints class counsel (23(g)); may be altered before final judgment.
-- **Notice** 23(c)(2): (b)(3) — best practicable, individual notice to identifiable members (mail, electronic or other means), opt-out right; plaintiff pays (Eisen). (b)(1)/(b)(2) — discretionary notice.
+- **Notice** 23(c)(2): (b)(3) — best practicable, individual notice to identifiable members (mail, electronic or other means), opt-out right; plaintiff ordinarily pays (Eisen), though the court may direct the defendant to perform tasks it can do more cheaply, such as identifying members (*Oppenheimer Fund, Inc. v. Sanders*, 437 U.S. 340 (1978)). (b)(1)/(b)(2) — discretionary notice.
 - **Settlement** 23(e): notice, hearing, fair/reasonable/adequate; objectors; court may allow second opt-out.
 - **Appeal** 23(f): permission, petition within 14 days (45 if U.S. party).
 - **Jurisdiction:** named reps' citizenship; at least one named plaintiff over $75,000 (Exxon Mobil); CAFA alternative. PJ over absent plaintiffs not required (Shutts); standing for every member to recover damages (TransUnion).
-- **Binding effect:** adequate representation required (Hansberry).
+- **Binding effect:** adequate representation required (Hansberry); a (b)(3) judgment binds members to whom the 23(c)(2) notice was directed and who did not opt out (23(c)(3)(B)) — actual receipt is not the test.
 - **Derivative actions** (Rule 23.1): verified complaint; contemporaneous ownership; demand on board or futility — see Business Associations.
 - **CA note:** CCP § 382; denial of certification appealable under death-knell doctrine (Daar); cross-complaints replace counterclaims/crossclaims/impleader; compulsory cross-complaint (CCP § 426.30) — R-CIV-109.
 - **How it is tested:** MBE — compulsory counterclaims, crossclaims not compulsory, impleader limited to derivative liability, § 1367(b) combinations, Rule 19 joint tortfeasors, interpleader jurisdiction, 23(b)(3) notice. Essay — Feb. 2023 (Rule 19).
@@ -556,7 +556,7 @@ Discovery is the second most-tested essay topic (Feb. 2015, Jul. 2019, Jul. 2021
 - **§ 1292(a)(1)** injunction orders (R-CIV-100); practical-effect test (Carson); TROs generally not (Sampson).
 - **§ 1292(b)** certified questions: district court certification + court of appeals' permission; 10 days.
 - **Rule 23(f)** class-certification appeals (14 days).
-- **Collateral order doctrine** (R-CIV-101): Cohen three-part test; narrow category; included — denials of qualified immunity, sovereign/Eleventh Amendment immunity, double jeopardy, orders requiring security in Cohen; excluded — privilege disclosure orders (Mohawk), attorney disqualification (Richardson-Merrell), forum-selection-clause denials (Lauro Lines), class-certification denials (Coopers & Lybrand), and denial of a contractor's derivative sovereign immunity (GEO Group v. Menocal (2026) [S-253] [VERIFY V-150]).
+- **Collateral order doctrine** (R-CIV-101): Cohen three-part test; narrow category; included — denials of qualified immunity that turn on issues of law (not fact-based sufficiency rulings: *Johnson v. Jones*, 515 U.S. 304 (1995)), sovereign/Eleventh Amendment immunity, double jeopardy, orders requiring security in Cohen; excluded — privilege disclosure orders (Mohawk: appeal after final judgment generally suffices; § 1292(b), mandamus or a contempt appeal also possible), attorney disqualification (Richardson-Merrell), forum-selection-clause denials (Lauro Lines), class-certification denials (Coopers & Lybrand), and denial of a contractor's derivative sovereign immunity (GEO Group v. Menocal (2026) [S-253] [VERIFY V-150]).
 - **Mandamus** (§ 1651; Cheney): clear abuse or usurpation; no other adequate means; clear and indisputable right.
 - **Other statutory routes:** 9 U.S.C. § 16 (orders refusing arbitration); § 1453(c) (CAFA remand orders); § 1447(d) (federal-officer removal remands).
 - **CA note:** CCP § 904.1 lists appealable interlocutory orders (anti-SLAPP, injunctions, new-trial grants, motion-to-quash grants, FNC); writs for the rest; "death knell" for class-certification denials — R-CIV-118.

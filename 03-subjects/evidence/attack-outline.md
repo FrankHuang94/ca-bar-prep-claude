@@ -34,7 +34,7 @@ status: draft
 
 ## Impeachment
 - **Any party** may impeach (607 / § 785). (R-EVD-022)
-- **Bias:** always; extrinsic OK. (R-EVD-024)
+- **Bias:** not collateral; cross and extrinsic OK, subject to 403 and court control (foundation first in most courts). (R-EVD-024)
 - **PIS:** no need to show; extrinsic only after chance to explain (613(b) 2024) / or witness not excused (§ 770); substantive under 801(d)(1)(A) (2026) and § 1235. (R-EVD-023, R-EVD-085)
 - **609:** felony — 403 (witness) / probative > prejudicial (accused); crimen falsi automatic; >10 yrs substantially outweighs + notice. (R-EVD-025)
 - **CA convictions:** criminal — felony moral turpitude + § 352 (Castro), misdemeanor conduct (Wheeler); civil — felony § 788 + § 352. (R-EVD-026)

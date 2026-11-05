@@ -353,13 +353,13 @@ questions:
   call: Should the court admit the former partner's testimony?
   options:
     A: "No, because a party may not use extrinsic evidence to contradict a witness's answer on a collateral matter."
-    B: "Yes, because bias is never collateral and may be shown by extrinsic evidence."
+    B: "Yes, because bias is not a collateral matter and may be shown by extrinsic evidence."
     C: "No, because the plaintiff is bound by the eyewitness's denial on cross-examination."
     D: "Yes, but only after the eyewitness is recalled and given a second opportunity to admit the arrangement."
   answer: B
   explanation_correct: >-
     Bias (R-EVD-024; United States v. Abel): a witness's bias, interest or motive to testify falsely is
-    never collateral, so it may be shown on cross and by extrinsic evidence. The foundation was laid when the
+    not a collateral matter, so it may be shown on cross and, subject to FRE 403, by extrinsic evidence. The foundation was laid when the
     eyewitness was asked about the arrangement and denied it. The partner's account of the defendant's
     offer is not hearsay for this purpose: it is offered to show the eyewitness's motive, and it is in any
     event the defendant's own statement offered against him.

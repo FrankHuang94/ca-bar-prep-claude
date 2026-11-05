@@ -65,9 +65,9 @@ One line per issue. Full rules: [rule-statements.md](rule-statements.md). Essays
 - **Search** — Katz REP or Jones trespass; not open fields, trash, public view, third-party records (R-CRM-073, 074).
 - **Seizure** — reasonable person not free to leave; submission or physical force (R-CRM-076).
 - **Terry** — reasonable suspicion for stop; armed-and-dangerous for frisk; plain feel (R-CRM-077, 078).
-- **Arrest** — probable cause; warrant to enter home (Payton) (R-CRM-080).
+- **Arrest** — probable cause; warrant to enter home (Payton); good-faith reliance on a later-invalidated law keeps the arrest valid (DeFillippo) (R-CRM-080).
 - **Warrant** — neutral magistrate, probable cause (Gates), particularity; Franks (R-CRM-082).
-- **SIA** — person and wingspan; car only if unsecured/within reach or evidence of arrest offense (Gant); phone needs warrant (Riley) (R-CRM-083).
+- **SIA** — person and wingspan; car (arrestee a recent occupant, Thornton) only if unsecured/within reach or evidence of arrest offense (Gant); phone needs warrant (Riley) (R-CRM-083).
 - **Automobile** — probable cause → whole car and containers (R-CRM-084).
 - **Plain view** — lawful vantage, lawful access, immediately apparent (R-CRM-085).
 - **Consent** — voluntary; actual or apparent authority; present objector controls (R-CRM-086).
@@ -80,7 +80,7 @@ One line per issue. Full rules: [rule-statements.md](rule-statements.md). Essays
 - **Miranda** — custodial interrogation requires warnings and a knowing, voluntary waiver (R-CRM-094–096).
 - **Invocation** — silence: unambiguous, scrupulously honored (Mosley); counsel: unambiguous, all questioning stops unless suspect reinitiates (Edwards); 14-day break (R-CRM-097, 098).
 - **Public safety** — Quarles (R-CRM-099).
-- **Fruits** — physical fruits admissible (Patane); Elstad vs. Seibert; impeachment OK (Harris) (R-CRM-100).
+- **Fruits** — physical fruits admissible (Patane, plurality); Elstad vs. Seibert; impeachment OK (Harris) (R-CRM-100).
 - **Sixth Amendment** — after charges, no deliberate elicitation on the charged offense (R-CRM-102).
 
 **Identification, counsel, trial**

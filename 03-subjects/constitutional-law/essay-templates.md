@@ -154,7 +154,7 @@ VI. Conclusion for each clause
 Seen in: Jul 2015 (zoning and takings) [VERIFY V-071].
 
 ```
-I. Standing / ripeness (final decision by the regulator; Knick — no state-court exhaustion)
+I. Standing / ripeness (final decision by the regulator; Knick — no state-court exhaustion for suits against local governments; State defendant → state court (Will))
 II. Is there a taking?
    A. Physical occupation or access (Loretto; Cedar Point) → per se
    B. Exaction (Nollan nexus; Dolan proportionality; Koontz money; Sheetz legislative)

@@ -945,7 +945,7 @@ status: draft
 **Example:** A court enjoins a shipment pending trial and sets a $50,000 bond. If the plaintiff loses, the defendant recovers its proven losses from the delay up to $50,000.
 
 ### R-REM-069 — Status quo; mandatory preliminary injunctions
-**Rule (write this):** A preliminary injunction usually preserves the status quo ante litem — the last actual, peaceable, uncontested state of affairs before the dispute. A mandatory preliminary injunction, which requires the defendant to take affirmative action before trial, is disfavored and issues only on a clear showing that the law and facts strongly favor the plaintiff.
+**Rule (write this):** A preliminary injunction usually preserves the status quo ante litem — the last actual, peaceable, uncontested state of affairs before the dispute. A mandatory preliminary injunction, which requires the defendant to take affirmative action before trial, is disfavored; many courts issue it only on a clear showing that the law and facts strongly favor the plaintiff.
 
 **Elements:** 1. Identify the last peaceable status. 2. Prohibitory (preserves it) or mandatory (changes it)? 3. Mandatory → heightened showing.
 

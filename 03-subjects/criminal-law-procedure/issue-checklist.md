@@ -67,7 +67,7 @@ Use this in the order printed. **Read the call first**: California Criminal call
 - [ ] **Seizure of the person?** — consensual encounter vs. stop vs. arrest (R-CRM-076).
 - [ ] **Stop and frisk** — reasonable suspicion (tip? flight? nervousness?); armed and dangerous; plain feel (R-CRM-077, R-CRM-078).
 - [ ] **Traffic stop** — basis; prolonged for a dog sniff? (R-CRM-079).
-- [ ] **Arrest** — probable cause; in the home without a warrant? (R-CRM-080).
+- [ ] **Arrest** — probable cause; in the home without a warrant? statute later held invalid (DeFillippo)? (R-CRM-080).
 - [ ] **Warrant** — probable cause (informant: Gates), particularity, Franks, execution, scope (R-CRM-082).
 - [ ] **Exceptions** — incident to arrest (Gant; phone → Riley); automobile; plain view; consent (authority, scope); exigency/emergency aid; inventory; special needs (R-CRM-083–R-CRM-088).
 - [ ] **Exclusion** — fruits; independent source; inevitable discovery; attenuation; good faith; impeachment; California Truth-in-Evidence (R-CRM-090–R-CRM-092).

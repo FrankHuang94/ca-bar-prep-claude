@@ -155,7 +155,7 @@ status: draft
 
 | Topic | ABA | California | Same? |
 |---|---|---|---|
-| Business transaction / adverse interest | MR 1.8(a): fair terms in writing; written advice to seek independent counsel; client's signed informed consent | Rule 1.8.1: same three steps; informed written consent; **charging lien = adverse interest** (*Fletcher v. Davis* (2004) 33 Cal.4th 61) | Mostly (R-PRF-026) |
+| Business transaction / adverse interest | MR 1.8(a): fair terms in writing; written advice to seek independent counsel; client's informed consent, in a signed writing, to the essential terms and the lawyer's role (including whether the lawyer represents the client in the transaction) | Rule 1.8.1: same three steps; informed written consent to the terms and the lawyer's role in the transaction (1.8.1(c)); **charging lien = adverse interest** (*Fletcher v. Davis* (2004) 33 Cal.4th 61) | Mostly (R-PRF-026) |
 | Use of client information | MR 1.8(b) | Rule 1.8.2 | Same (R-PRF-019) |
 | Gifts / instruments | MR 1.8(c): no soliciting or drafting substantial gifts unless related | Rule 1.8.3: same + certificate of independent review (Prob. Code §§ 21380, 21384) [VERIFY V-471] | Differs (R-PRF-027) |
 | Literary/media rights | MR 1.8(d): prohibited before representation ends | No rule; analyzed under rule 1.8.1 [S-569] | Differs (R-PRF-033) |
@@ -431,7 +431,7 @@ Rule 3.10; R-PRF-071.
   - Negotiation puffery about price or settlement intentions is not a material fact.
 - **Represented persons** (rule 4.2 / MR 4.2; R-PRF-073):
   - No communication about the subject of the representation without counsel's consent, unless authorized by law or court order.
-  - Organizations: California covers current officers, directors, partners and managing agents, and current employees whose acts or omissions may be binding on or imputed to the organization.
+  - Organizations: California covers current officers, directors, partners and managing agents, and any current employee or other constituent when the communication concerns that person's own act or omission in the matter that may be binding on or imputed to the organization (rule 4.2(b)). The ABA (MR 4.2 cmt. [7]) covers a constituent who supervises, directs or regularly consults with the organization's lawyer about the matter, has authority to obligate the organization in the matter, or whose act or omission in the matter may be imputed to it. The comment's former "statement may constitute an admission" category was deleted in 2002.
   - Parties may talk directly to each other, and a lawyer may advise a client about such communications (MR 4.2 cmt. [4]).
 - **Unrepresented persons** (rule 4.3 / MR 4.3; R-PRF-074):
   - Do not imply disinterest; correct misunderstandings.

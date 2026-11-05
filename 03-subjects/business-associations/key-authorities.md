@@ -104,6 +104,7 @@ One line per authority. Items tagged `[VERIFY]` are cited from model knowledge o
 | MBCA §§ 7.41–7.45 | Derivative standing; universal demand; dismissal; settlement | R-BUS-082 to R-BUS-084 |
 | MBCA §§ 8.30–8.31 | Directors' standards of conduct and liability | R-BUS-061 |
 | MBCA §§ 8.60–8.63; § 8.70 | Director conflicting-interest transactions; business opportunities | R-BUS-066, R-BUS-067 |
+| MBCA §§ 10.03, 11.04, 12.02 | Shareholder approval of amendments, mergers and asset sales: more votes for than against at a meeting with a majority quorum [VERIFY V-730] | R-BUS-085 |
 | MBCA §§ 13.02, 14.30, 14.34, 16.02 | Appraisal; judicial dissolution; election to purchase; inspection | R-BUS-086, R-BUS-096, R-BUS-078 |
 | DGCL §§ 102(b)(7), 141, 144, 145, 170, 174, 214, 220, 251, 262, 271, 327 | Exculpation; board; interested transactions (amended 2025 [S-811] [VERIFY V-716]); indemnification; dividends; cumulative voting; inspection; mergers; appraisal; sale of assets; contemporaneous ownership | various |
 | *Aronson v. Lewis*, 473 A.2d 805 (Del. 1984) | BJR presumption; former demand-futility test | R-BUS-062, R-BUS-083 |
@@ -158,6 +159,7 @@ One line per authority. Items tagged `[VERIFY]` are cited from model knowledge o
 | *Shields v. Singleton* (1993) 15 Cal.App.4th 1611; *Bader v. Anderson* (2009) 179 Cal.App.4th 775 | Demand futility under § 800(b)(2); particularity [S-824] | R-BUS-083 |
 | *Auerbach v. Bennett*, 47 N.Y.2d 619 (1979) | Deference to independent litigation committee | R-BUS-084 |
 | *Ray v. Alad Corp.* (1977) 19 Cal.3d 22 | Product-line successor liability | outline V.G |
+| *Steinberg v. Amplica, Inc.* (1986) 42 Cal.3d 1198 | Where appraisal is available, a damages claim that in substance challenges the merger price is barred (§ 1312) [VERIFY V-731] | R-BUS-086 |
 | *Turner v. Victoria* (2023) 15 Cal.5th 99 | Nonprofit director standing after removal [VERIFY V-717] | R-BUS-097 |
 
 ## 6. Securities
@@ -191,6 +193,7 @@ One line per authority. Items tagged `[VERIFY]` are cited from model knowledge o
 | Corp. Code § 17703.01 | Agency of members/managers [S-807] [VERIFY V-709] | R-BUS-103 |
 | Corp. Code § 17703.04 | Member liability; alter ego; meetings exception [S-805] | R-BUS-102 |
 | Corp. Code §§ 17704.07, 17704.09 | Management; fiduciary duties [S-806] | R-BUS-103, R-BUS-104 |
+| RULLCA § 407(a) | Member-managed unless the operating agreement expressly provides for managers (California: the articles) | R-BUS-101 |
 | *Curci Investments, LLC v. Baldwin* (2017) 14 Cal.App.5th 214; *Postal Instant Press, Inc. v. Kaswa Corp.* (2008) 162 Cal.App.4th 1510 | Reverse piercing: LLC yes, corporation no [VERIFY V-724] | R-BUS-049 |
 | 11 U.S.C. §§ 101(31), 502(b), 510(c), 547(b)(4)(B) | Insiders; claim allowance; equitable subordination; insider preferences | R-BUS-099, R-BUS-100 |
 | *Pepper v. Litton*, 308 U.S. 295 (1939) | Bankruptcy court may disallow or subordinate a fiduciary's claim | R-BUS-099 |

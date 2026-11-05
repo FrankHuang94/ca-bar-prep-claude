@@ -35,7 +35,7 @@ status: draft
 ## 3. Executive and interbranch
 - **Youngstown** (R-CON-031): authorized = max; silence = twilight; contrary = lowest ebb (exclusive powers only).
 - **Take Care / statutory authority** (R-CON-032): no lawmaking; no impoundment; clear authorization for major questions; IEEPA ≠ tariffs.
-- **Commander in chief** (R-CON-033): repel attacks; Hamdi process for detained citizens.
+- **Commander in chief** (R-CON-033): repel attacks; Hamdi (plurality) process for detained citizens.
 - **Treaties / executive agreements** (R-CON-034): later in time wins vs. statutes; agreements preempt state law; non-self-executing needs legislation.
 - **Appointments** (R-CON-035): principal = President + Senate; inferior = President, courts, department heads; Congress cannot appoint enforcers.
 - **Removal** (R-CON-036): at will for principal executive officers (Slaughter 2026 overrules Humphrey's); limited for-cause OK for inferior officers (Morrison); no double for-cause; Fed governors protected (Cook).

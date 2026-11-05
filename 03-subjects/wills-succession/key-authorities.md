@@ -27,7 +27,7 @@ One line per authority. Cite the **Probate Code section** on the essay; cite a c
 | §§ 240, 246, 247 | Representation; strict per stirpes; per capita at each generation | R-WIL-011 |
 | §§ 250–254 | Slayer rule | R-WIL-012 |
 | § 259 | Elder or dependent-adult abuser deemed predeceased [S-639] | R-WIL-013 |
-| §§ 275–295 | Disclaimers (§ 279 nine-month safe harbor; § 282 effect) [VERIFY V-517] | R-WIL-014 |
+| §§ 275–295 | Disclaimers (§ 279 nine-month safe harbor, after which the disclaimant must prove a reasonable time; § 282 effect) [VERIFY V-517] | R-WIL-014 |
 | § 1871(c) | Conservatee keeps the right to make a will [S-641] | R-WIL-036 |
 | § 2580 | Substituted judgment: court may authorize conservator to make a will or trust | R-WIL-036 |
 | § 8252 | Burdens in a will contest [VERIFY V-525] | R-WIL-035 |

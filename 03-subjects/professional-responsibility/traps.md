@@ -47,7 +47,7 @@ Rule IDs point to [`rule-statements.md`](rule-statements.md). PR is not on the M
 28. **Commingling defenses.** "I paid it back" and "it was only overnight" are not defenses. (R-PRF-047)
 29. **Settlement authority.** The lawyer cannot settle without the client's authority even if the offer is excellent. (R-PRF-005)
 30. **Subordinate lawyer defense.** It applies only to an *arguable* question resolved *reasonably* by the supervisor. (R-PRF-077)
-31. **Represented organization.** Rule 4.2 does not cover every employee — only managers and employees whose conduct may be imputed or bind the organization (CA) or whose statements are admissions (ABA). Former employees are usually fair game. (R-PRF-073)
+31. **Represented organization.** Rule 4.2 does not cover every employee — only managers, plus employees asked about their own act or omission that may bind or be imputed to the organization (CA), or constituents who supervise, direct or regularly consult with the organization's lawyer, can obligate it, or whose act or omission may be imputed (ABA cmt. [7]). The old ABA "admission" category was deleted in 2002. Former employees are usually fair game. (R-PRF-073)
 32. **Inadvertent documents.** California requires the lawyer to stop reading; the ABA only to notify. (R-PRF-075)
 33. **Organization as client.** Advising the CEO personally when the client is the company. Give an Upjohn-style warning when interests diverge. (R-PRF-055)
 34. **Self-reporting (§ 6068(o)).** Three suits **within 12 months**, not three suits ever. A first misdemeanor DUI is generally not self-reportable under (o)(5). (R-PRF-094) [VERIFY V-452]

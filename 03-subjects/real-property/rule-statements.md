@@ -975,11 +975,11 @@ status: draft
 ### R-PRP-070 — Zoning power and constitutional limits
 **Rule (write this):** Zoning is an exercise of the police power and is valid if it is rationally related to a legitimate public purpose such as health, safety, morals or general welfare. Zoning is invalid if it is arbitrary or irrational, violates a fundamental right or a protected class (including through the Fair Housing Act), conflicts with the state's enabling law or comprehensive (general) plan, or goes so far that it is a taking.
 
-**Elements:** 1. Authority (state enabling act; in California, the police power of cities and counties under Cal. Const. art. XI, § 7). 2. Rational basis (deferential). 3. Constitutional limits: family-definition limits on related persons (*Moore*), irrational animus (*Cleburne*), free speech (adult uses, signs), religious uses (RLUIPA, 42 U.S.C. § 2000cc). 4. Consistency with the general plan (in California, Gov. Code § 65860).
+**Elements:** 1. Authority (state enabling act; in California, the police power of cities and counties under Cal. Const. art. XI, § 7). 2. Rational basis (deferential). 3. Constitutional limits: family-definition limits on related persons (*Moore*, plurality opinion), irrational animus (*Cleburne*), free speech (adult uses, signs), religious uses (RLUIPA, 42 U.S.C. § 2000cc). 4. Consistency with the general plan (in California, Gov. Code § 65860).
 
 **Exceptions / defenses:** A limit on the number of unrelated persons living together is valid (*Belle Terre*). Exclusionary zoning may violate state law (e.g., New Jersey's *Mount Laurel* doctrine).
 
-**Authority:** *Village of Euclid v. Ambler Realty Co.*, 272 U.S. 365 (1926); *Village of Belle Terre v. Boraas*, 416 U.S. 1 (1974); *Moore v. City of East Cleveland*, 431 U.S. 494 (1977); *City of Cleburne v. Cleburne Living Center*, 473 U.S. 432 (1985); *Southern Burlington County NAACP v. Township of Mount Laurel*, 67 N.J. 151, 336 A.2d 713 (1975).
+**Authority:** *Village of Euclid v. Ambler Realty Co.*, 272 U.S. 365 (1926); *Village of Belle Terre v. Boraas*, 416 U.S. 1 (1974); *Moore v. City of East Cleveland*, 431 U.S. 494 (1977) (plurality); *City of Cleburne v. Cleburne Living Center*, 473 U.S. 432 (1985); *Southern Burlington County NAACP v. Township of Mount Laurel*, 67 N.J. 151, 336 A.2d 713 (1975).
 
 **MBE vs. CA essay:** Same rule. Tested Feb 2014 Q4 [VERIFY V-071].
 

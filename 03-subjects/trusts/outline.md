@@ -191,7 +191,7 @@ Write: *"A valid express trust requires (1) a settlor with capacity, (2) intent 
 #### Honorary and pet trusts
 
 - **Honorary (noncharitable purpose) trusts (§ 15211).** A trust for a lawful noncharitable purpose, or for a noncharitable corporation or unincorporated society, may be performed by the trustee for **only 21 years**, whether or not there is a beneficiary who can enforce it [S-676] [VERIFY V-558]. Example: maintaining a vintage car or a private garden. R-TRS-022.
-- **Pet trusts (§ 15212).** A trust for the care of a **domestic or pet animal** is a valid trust for a lawful noncharitable purpose, governed by its own rules: it may be enforced by a person **named** in the instrument or **appointed** by the court; unless the instrument provides otherwise it **terminates when no animal living at the settlor's death remains alive**; and accounting rules apply above a value threshold [S-676] [VERIFY V-558]. R-TRS-023.
+- **Pet trusts (§ 15212).** A trust for the care of a **domestic or pet animal** is a valid trust for a lawful noncharitable purpose, governed by its own rules: it may be enforced by a person **named** in the instrument or **appointed** by the court; unless the instrument provides otherwise it **terminates when no animal covered by the trust remains alive** (whether the covered animals are those living at the settlor's death or during the settlor's lifetime is unconfirmed); and accounting rules apply above a value threshold [S-676] [VERIFY V-558]. R-TRS-023.
 - **Common-law background.** Without a statute, a trust with no ascertainable beneficiary and no charitable purpose fails; some courts allowed the trustee to perform voluntarily ("honorary"). California's statutes replace that uncertainty.
 
 ### I.J Modification and termination of trust
@@ -252,7 +252,7 @@ Write: *"A valid express trust requires (1) a settlor with capacity, (2) intent 
 - **When the period starts.** For an interest in a **revocable** trust, the period starts when the settlor's power to revoke ends (usually at death), because until then the settlor is effectively the owner [VERIFY V-563].
 - **Trust applications.** Typical traps: gifts to grandchildren "who reach 25"; gifts to a class that can reopen; administrative contingencies ("when my estate is distributed"). Under USRAP almost all of these are saved by waiting 90 years or by reformation.
 - **Charitable trusts** may last forever; a gift over from one charity to another is exempt; a gift over between private and charitable interests is subject to the rule (R-TRS-035) [VERIFY V-563].
-- **Honorary trusts** are capped at 21 years (§ 15211); pet trusts last for the lives of animals alive at the settlor's death (§ 15212) (I.x2).
+- **Honorary trusts** are capped at 21 years (§ 15211); pet trusts last until no animal covered by the trust remains alive (§ 15212) [VERIFY V-558] (I.x2).
 - **MBE vs. essay.** Real Property MBE questions use the common-law rule (no wait-and-see). On a California Trusts essay, state the common-law test, then USRAP.
 
 ---

@@ -175,7 +175,8 @@ Only citations the author is confident of are listed; recent decisions carry the
 | Schlagenhauf v. Holder, 379 U.S. 104 (1964) | Rule 35: in controversy and good cause |
 | State Farm Fire & Casualty Co. v. Tashire, 386 U.S. 523 (1967) | Minimal diversity for interpleader |
 | Provident Tradesmens Bank & Trust Co. v. Patterson, 390 U.S. 102 (1968) | Rule 19(b) pragmatic analysis |
-| Eisen v. Carlisle & Jacquelin, 417 U.S. 156 (1974) | (b)(3) individual notice; plaintiff pays |
+| Eisen v. Carlisle & Jacquelin, 417 U.S. 156 (1974) | (b)(3) individual notice; plaintiff ordinarily pays |
+| Oppenheimer Fund, Inc. v. Sanders, 437 U.S. 340 (1978) | Court may direct the defendant to perform notice tasks it can do more cheaply (e.g., identifying members) |
 | National Hockey League v. Metropolitan Hockey Club, Inc., 427 U.S. 639 (1976) | Dismissal as discovery sanction |
 | Upjohn Co. v. United States, 449 U.S. 383 (1981) | Corporate privilege |
 | Cooter & Gell v. Hartmarx Corp., 496 U.S. 384 (1990) | Rule 11 reviewed for abuse of discretion |
@@ -212,12 +213,13 @@ Only citations the author is confident of are listed; recent decisions carry the
 | United States v. Mendoza, 464 U.S. 154 (1984) | No offensive non-mutual estoppel against U.S. |
 | Anderson v. City of Bessemer City, 470 U.S. 564 (1985) | Clear-error review |
 | Marrese v. American Academy of Orthopaedic Surgeons, 470 U.S. 373 (1985) | State preclusion law governs state judgments in federal court |
-| Mitchell v. Forsyth, 472 U.S. 511 (1985); Richardson-Merrell Inc. v. Koller, 472 U.S. 424 (1985) | Qualified-immunity denial appealable; disqualification order not |
+| Mitchell v. Forsyth, 472 U.S. 511 (1985); Richardson-Merrell Inc. v. Koller, 472 U.S. 424 (1985) | Qualified-immunity denial on an issue of law appealable; disqualification order not |
 | Anderson v. Liberty Lobby, Inc., 477 U.S. 242 (1986); Celotex Corp. v. Catrett, 477 U.S. 317 (1986); Matsushita Elec. Indus. Co. v. Zenith Radio Corp., 475 U.S. 574 (1986) | Summary-judgment trilogy |
 | Tull v. United States, 481 U.S. 412 (1987) | Remedy decisive for jury right |
 | Lauro Lines s.r.l. v. Chasser, 490 U.S. 495 (1989) | Forum-clause denial not collateral order |
 | Chauffeurs, Teamsters & Helpers Local No. 391 v. Terry, 494 U.S. 558 (1990) | Two-part jury test |
 | Edmonson v. Leesville Concrete Co., 500 U.S. 614 (1991) | Batson in civil cases |
+| Johnson v. Jones, 515 U.S. 304 (1995) | Fact-based (evidence-sufficiency) qualified-immunity denial not a collateral order |
 | Markman v. Westview Instruments, Inc., 517 U.S. 370 (1996) | Claim construction for judge |
 | Weisgram v. Marley Co., 528 U.S. 440 (2000) | Appellate court may direct JMOL |
 | Reeves v. Sanderson Plumbing Products, Inc., 530 U.S. 133 (2000) | JMOL review of the whole record |
@@ -226,7 +228,7 @@ Only citations the author is confident of are listed; recent decisions carry the
 | Scott v. Harris, 550 U.S. 372 (2007) | Video blatantly contradicting testimony |
 | Bowles v. Russell, 551 U.S. 205 (2007) | Statutory appeal deadline jurisdictional |
 | Taylor v. Sturgell, 553 U.S. 880 (2008) | Non-party preclusion categories |
-| Mohawk Industries, Inc. v. Carpenter, 558 U.S. 100 (2009) | Privilege orders not collateral orders |
+| Mohawk Industries, Inc. v. Carpenter, 558 U.S. 100 (2009) | Privilege orders not collateral orders; post-judgment appeal generally suffices |
 | Tolan v. Cotton, 572 U.S. 650 (2014) | Evidence viewed for non-movant |
 | Lucky Brand Dungarees v. Marcel Fashions Group, 590 U.S. 405 (2020) | No preclusion of unraised defenses to different conduct |
 | Kemp v. United States, 596 U.S. 528 (2022) | Rule 60(b)(1) "mistake" includes judicial legal error |

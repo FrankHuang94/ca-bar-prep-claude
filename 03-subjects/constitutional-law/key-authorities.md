@@ -121,7 +121,7 @@ Citations are given only where certain. Recent decisions without a U.S. Reports 
 | *Zivotofsky v. Kerry*, 576 U.S. 1 (2015) | Exclusive recognition power |
 | *Medellín v. Texas*, 552 U.S. 491 (2008) | Non-self-executing treaties |
 | *American Ins. Ass'n v. Garamendi*, 539 U.S. 396 (2003) | Executive-agreement preemption of California law |
-| *Hamdi v. Rumsfeld*, 542 U.S. 507 (2004) | Due process for detained citizen |
+| *Hamdi v. Rumsfeld*, 542 U.S. 507 (2004) | Due process for detained citizen (plurality; five Justices found the detention itself authorized) |
 | *Buckley v. Valeo*, 424 U.S. 1 (1976) | Congress cannot appoint officers; campaign finance framework |
 | *Morrison v. Olson*, 487 U.S. 654 (1988) | Inferior officer; good-cause removal valid |
 | *Myers v. United States*, 272 U.S. 52 (1926) | No Senate role in removal |
@@ -130,7 +130,7 @@ Citations are given only where certain. Recent decisions without a U.S. Reports 
 | *Trump v. Slaughter* (2026) [VERIFY V-034] [S-300] | FTC removal protection invalid; Humphrey's overruled |
 | *Trump v. Cook* (2026) [VERIFY V-201] [S-315] | Federal Reserve governors' for-cause protection treated as valid |
 | *Lucia v. SEC*, 585 U.S. 237 (2018) | ALJs are officers |
-| *NLRB v. Noel Canning*, 573 U.S. 513 (2014) | Recess appointments: 10-day rule |
+| *NLRB v. Noel Canning*, 573 U.S. 513 (2014) | Recess appointments: under 10 days presumptively too short (3 or fewer never enough); pro forma sessions count |
 | ***INS v. Chadha***, 462 U.S. 919 (1983) | Legislative veto invalid |
 | *Bowsher v. Synar*, 478 U.S. 714 (1986) | Congress cannot control executive officers |
 | *Clinton v. City of New York*, 524 U.S. 417 (1998) | Line-item veto invalid |
@@ -157,7 +157,7 @@ Citations are given only where certain. Recent decisions without a U.S. Reports 
 | *Dean Milk Co. v. City of Madison*, 340 U.S. 349 (1951) | Local-processing requirement invalid |
 | *Maine v. Taylor*, 477 U.S. 131 (1986) | Discriminatory law survives: no alternative |
 | *Reeves, Inc. v. Stake*, 447 U.S. 429 (1980) | Market participant |
-| *South-Central Timber Dev., Inc. v. Wunnicke*, 467 U.S. 82 (1984) | No downstream conditions |
+| *South-Central Timber Dev., Inc. v. Wunnicke*, 467 U.S. 82 (1984) | No downstream conditions (Parts III–IV plurality); congressional consent must be unmistakably clear (Part II majority) |
 | *United Haulers Ass'n v. Oneida-Herkimer Solid Waste Mgmt. Auth.*, 550 U.S. 330 (2007) | Favoring public facility not discrimination |
 | *Kassel v. Consolidated Freightways Corp.*, 450 U.S. 662 (1981) | Truck-length ban fails Pike |
 | *South Dakota v. Wayfair, Inc.*, 585 U.S. 162 (2018) | No physical-presence requirement for tax nexus |
@@ -185,7 +185,7 @@ Citations are given only where certain. Recent decisions without a U.S. Reports 
 | ***Washington v. Glucksberg***, 521 U.S. 702 (1997) | Fundamental-rights test |
 | ***Dobbs v. Jackson Women's Health Org.***, 597 U.S. 215 (2022) | No federal abortion right |
 | *Obergefell v. Hodges*, 576 U.S. 644 (2015) | Same-sex marriage |
-| *Troxel v. Granville*, 530 U.S. 57 (2000) | Parental rights |
+| *Troxel v. Granville*, 530 U.S. 57 (2000) | Parental rights (plurality) |
 | *Saenz v. Roe*, 526 U.S. 489 (1999) | New residents' right to equal treatment |
 | ***New York State Rifle & Pistol Ass'n v. Bruen***, 597 U.S. 1 (2022) | Text-and-history test |
 | *District of Columbia v. Heller*, 554 U.S. 570 (2008) | Individual right to arms |

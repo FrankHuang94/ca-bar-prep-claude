@@ -67,7 +67,7 @@ Tiers reflect California essay frequency (Phase 3 tags: execution, omitted heirs
 | 60 days | Pour-over trust instrument may follow the will (§ 6300); TOD deed recording (§ 5626) |
 | 90 days | Care-custodian window around services (§ 21380) |
 | 7 years | Parental abandonment bar (§ 6452) |
-| 9 months | Disclaimer safe harbor (§ 279) |
+| 9 months | Disclaimer safe harbor (§ 279); later, disclaimant proves reasonable time |
 | 15 / 5 years | Predeceased-spouse property: real / personal (§ 6402.5) |
 | $208,850 | Small-estate affidavit, deaths on or after Apr 1, 2025 (§ 13100) [S-128] |
 | $750,000 | Primary residence petition (§ 13151) [S-128] |

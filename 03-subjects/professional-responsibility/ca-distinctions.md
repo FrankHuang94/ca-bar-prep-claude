@@ -152,7 +152,7 @@ For these, write: "California's rule is the same."
 - Candor about law and ex parte disclosure (3.3(a)(1)–(2), (d)).
 - Trial publicity (3.6).
 - Truthfulness to others (4.1).
-- Represented persons (4.2).
+- Represented persons (4.2) — same core; for an organization, compare California's rule 4.2(b) with MR 4.2 cmt. [7] (R-PRF-073).
 - Supervisory and subordinate lawyers (5.1–5.3).
 - Restrictions on practice (5.6).
 - False and misleading advertising (7.1).

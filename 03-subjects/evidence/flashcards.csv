@@ -29,7 +29,7 @@ F-EVD-0027,What did the 2023 amendment add to FRE 615?,Court may order excluded 
 F-EVD-0028,May a party impeach its own witness?,Yes (FRE 607; CEC § 785).,R-EVD-022,should-know;impeachment
 F-EVD-0029,FRE 613(b) after the 2024 amendment?,Extrinsic evidence of a prior inconsistent statement only after the witness has had a chance to explain or deny (unless court orders otherwise); not for an opposing party's statement.,R-EVD-023,must-know;impeachment;recent-change
 F-EVD-0030,CEC § 770 foundation for extrinsic proof of an inconsistent statement?,"Witness was given an opportunity to explain or deny, OR has not been excused from giving further testimony.",R-EVD-023,must-know;impeachment;ca-distinction
-F-EVD-0031,Is bias collateral?,Never. Extrinsic evidence is allowed (usually after a foundation question) (United States v. Abel).,R-EVD-024,must-know;impeachment
+F-EVD-0031,Is bias collateral?,No. Extrinsic evidence is allowed subject to FRE 403 and the court's control (usually after a foundation question) (United States v. Abel).,R-EVD-024,must-know;impeachment
 F-EVD-0032,FRE 609(a)(1) balancing for a criminal defendant vs. other witnesses?,Defendant: probative value must outweigh prejudicial effect to the defendant. Other witnesses: Rule 403.,R-EVD-025,must-know;impeachment
 F-EVD-0033,FRE 609(a)(2)?,"Any crime whose elements required a dishonest act or false statement must be admitted — felony or misdemeanor, no balancing.",R-EVD-025,must-know;impeachment
 F-EVD-0034,FRE 609(b) ten-year rule?,"If >10 years since conviction or release (later), admissible only if probative value substantially outweighs prejudice, with written notice.",R-EVD-025,must-know;impeachment
@@ -52,7 +52,7 @@ F-EVD-0050,FRE 404(a)(2)(C) homicide rule?,Prosecution may show victim's peacefu
 F-EVD-0051,How may a character witness be cross-examined?,"'Have you heard' / 'did you know' about relevant specific acts, with a good-faith basis; no extrinsic proof (Michelson).",R-EVD-040,should-know;character
 F-EVD-0052,Habit vs. character?,"Habit = specific, regular, semi-automatic response to a recurring situation; admissible (FRE 406; § 1105). Character = general disposition; barred.",R-EVD-041,should-know;character
 F-EVD-0053,404(b) permitted purposes (MIMIC+)?,"Motive, intent, absence of mistake/lack of accident, identity, common plan — plus opportunity, preparation, knowledge.",R-EVD-042,must-know;character
-F-EVD-0054,Huddleston standard for other acts?,Admit if a jury could reasonably find by a preponderance that the act occurred (104(b)); acquittal is no bar.,R-EVD-042,must-know;character
+F-EVD-0054,Huddleston standard for other acts?,Admit if a jury could reasonably find by a preponderance that the act occurred (104(b)); acquittal is no bar (Dowling).,R-EVD-042,must-know;character
 F-EVD-0055,Ewoldt similarity scale?,Least similarity for intent; more for common design or plan; most (distinctive) for identity.,R-EVD-042,must-know;character;ca-distinction
 F-EVD-0056,FRE 404(b)(3) notice?,"In criminal cases, prosecution must give reasonable written notice before trial, stating the permitted purpose and the reasoning.",R-EVD-042,must-know;character
 F-EVD-0057,FRE 413–415 / CEC § 1108?,"In sexual-assault or child-molestation cases, other such acts are admissible for propensity, subject to 403/§ 352. CEC: criminal only.",R-EVD-043,must-know;character
@@ -113,7 +113,7 @@ F-EVD-0111,Party admission — personal knowledge or against interest needed?,Ne
 F-EVD-0112,Label for party admissions under FRE vs. CEC?,FRE: not hearsay (exclusion). CEC: hearsay within the § 1220 exception.,R-EVD-088,must-know;hearsay;ca-distinction
 F-EVD-0113,Adoptive admission by silence?,"Party heard and understood, could respond, and a reasonable person would have denied; not after Miranda warnings (Doyle).",R-EVD-089,should-know;hearsay
 F-EVD-0114,Employee statements — FRE vs. CEC?,"FRE 801(d)(2)(D): agent/employee on matter within scope, during relationship. CEC: only if authorized (§ 1222) or derivative liability (§ 1224).",R-EVD-090,must-know;hearsay;ca-distinction
-F-EVD-0115,Coconspirator statement requirements?,During and in furtherance of the conspiracy; conspiracy and membership shown by preponderance; statement considered but not alone (Bourjaily).,R-EVD-091,should-know;hearsay
+F-EVD-0115,Coconspirator statement requirements?,During and in furtherance of the conspiracy; conspiracy and membership shown by preponderance; statement must be considered but is not alone sufficient (FRE 801(d)(2); Bourjaily).,R-EVD-091,should-know;hearsay
 F-EVD-0116,Multiple hearsay rule?,Each layer must satisfy an exclusion or exception (FRE 805; CEC § 1201).,R-EVD-092,must-know;hearsay
 F-EVD-0117,Does California have a present sense impression exception?,No general one. § 1241 covers only statements explaining the declarant's own conduct while engaged in it.,R-EVD-093,should-know;hearsay;ca-distinction
 F-EVD-0118,Excited utterance / spontaneous statement elements?,"Startling event; statement relating to (CEC: narrating, describing, explaining) it; made under the stress of excitement.",R-EVD-094,must-know;hearsay
