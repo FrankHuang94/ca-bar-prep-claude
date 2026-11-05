@@ -123,7 +123,7 @@ A life tenant must not commit waste, meaning conduct that unreasonably injures t
 
 **C. The Elm Street house: Dan's deed of trust.** Whether a mortgage or deed of trust given by one joint tenant severs the joint tenancy depends on the mortgage theory.
 
-- *Lien theory (majority; California).* The mortgagee or beneficiary holds only a lien, and the mortgagor keeps title. One joint tenant's deed of trust therefore does not sever the joint tenancy. If the borrowing joint tenant dies first, his interest ends at death and the survivor takes the whole free of the lien (*People v. Nogarr*; *Hamel v. Gootkin* for a deed of trust).
+- *Lien theory (majority; California).* The mortgagee or beneficiary holds only a lien, and the mortgagor keeps title. In most lien-theory states, and in California, one joint tenant's deed of trust therefore does not sever the joint tenancy. If the borrowing joint tenant dies first, his interest ends at death and the survivor takes the whole free of the lien (*People v. Nogarr*; *Hamel v. Gootkin* for a deed of trust).
 - *Title theory.* The mortgage transfers legal title to the lender, which breaks the unities and severs the joint tenancy. Dan's half would then have been a tenancy in common that passed under his will to Fay, subject to Summit Bank's lien.
 
 Dan did not tell Evan, but unilateral action without consent can sever under either theory; the question is only whether this transaction severs. In California, Dan's deed of trust did not sever. At Dan's death **Evan became sole owner of the Elm Street house, free of Summit Bank's deed of trust.**

@@ -4,7 +4,7 @@ topic: Civil Procedure — exam-day attack outline (headings and one-line rules)
 coverage_ids: [CIV-MBE-I, CIV-MBE-II, CIV-MBE-III, CIV-MBE-IV, CIV-MBE-V, CIV-MBE-VI, CIV-MBE-VII, CIV-SUP-001]
 tested_on: [MBE, essay]
 exam_frequency: {level: high, basis: "Essays: 13 of 31 administrations 2012-02 to 2026-07 (42%); MBE: 25 scored questions every exam"}
-last_verified: 2026-11-04
+last_verified: 2026-11-05
 status: draft
 ---
 
@@ -21,14 +21,14 @@ status: draft
 - **Amount** — good faith unless legal certainty; aggregate only one P v. one D. R-CIV-008
 - **CAFA** — 100+ members, > $5M, minimal diversity; exceptions. R-CIV-009
 - **Supplemental** — common nucleus (§ 1367(a); Gibbs); no plaintiff claims against Rule 14/19/20/24 parties in diversity cases (§ 1367(b); Kroger); Exxon Mobil co-plaintiffs; discretion (§ 1367(c)); Royal Canin remand. R-CIV-010–012
-- **Removal** — defendants only; original jurisdiction; forum-defendant rule (diversity); 30 days from service; unanimity; one-year cap; district embracing state court (§§ 1441, 1446). R-CIV-013–014
+- **Removal** — defendants only; original jurisdiction; forum-defendant rule (diversity); 30 days from service; unanimity; one-year cap for later-removable diversity cases; district embracing state court (§§ 1441, 1446). R-CIV-013–014
 - **Remand** — procedural defects within 30 days; SMJ any time; not appealable; Hain Celestial. R-CIV-015
 - **Federal officer** — "relating to" = plausible close relationship (Chevron v. Plaquemines). R-CIV-016
 - **CA:** superior court has general jurisdiction; limited (≤ $35,000) vs. unlimited. R-CIV-103
 
 ## B. Personal jurisdiction
 - **Framework** — statute (4(k)(1)(A) + long-arm; CA § 410.10 = constitutional limit) + due process. R-CIV-017
-- **Tag / domicile / consent / waiver** — Burnham; Milliken; forum clauses; 12(h)(1). R-CIV-018
+- **Tag / domicile / consent / waiver** — Burnham (unanimous result, no majority rationale); Milliken; forum clauses; 12(h)(1). R-CIV-018
 - **Registration consent** — Mallory (express statute). R-CIV-019
 - **General** — "at home": domicile; incorporation + PPB (Daimler). R-CIV-020
 - **Specific** — purposeful availment (WWVW; Burger King) → arise out of or relate to (Ford; BMS) → fairness factors. R-CIV-021–023
@@ -107,7 +107,7 @@ status: draft
 
 ## J. Jury and trial
 - **Seventh Amendment** — suits at common law in 1791; remedy decisive. R-CIV-078 (**CA:** 1850; three-fourths verdict — R-CIV-116)
-- **Mixed claims** — legal issues to the jury first (Beacon; Dairy Queen). R-CIV-079
+- **Mixed claims** — legal issues to the jury first (Beacon; Dairy Queen). R-CIV-079 (**CA:** court may try equitable issues first)
 - **Demand** — 14 days after last pleading; waiver; Rule 39(b). R-CIV-080
 - **Size and verdict** — 6–12; unanimous unless stipulated; poll. R-CIV-081
 - **Selection** — cause (actual/implied bias); 3 peremptories; Batson. R-CIV-082 (**CA:** 6 peremptories)

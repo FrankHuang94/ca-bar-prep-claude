@@ -4,7 +4,7 @@ topic: Real Property — decision trees (Mermaid)
 coverage_ids: [PRP-MBE-I.A, PRP-MBE-I.B, PRP-MBE-I.C, PRP-MBE-I.D.1, PRP-MBE-II.A, PRP-MBE-II.B, PRP-MBE-IV.F, PRP-MBE-V.A, PRP-MBE-V.D.1]
 tested_on: [MBE, essay]
 exam_frequency: {level: high, basis: "Essays: 13 of 31 administrations 2012-02 to 2026-07 (42%); MBE: 25 scored questions every exam"}
-last_verified: 2026-11-04
+last_verified: 2026-11-05
 status: draft
 ---
 
@@ -72,7 +72,7 @@ flowchart TD
   A -->|Yes| C["Inter vivos act by one joint tenant?"]
   C -->|Conveyance to third party| D["Severed as to that share: transferee is tenant in common"]
   C -->|Deed to self or written declaration| E["California: severs if recorded before death, or signed within 3 days before and recorded within 7 days after death"]
-  C -->|Mortgage or deed of trust| F["Title theory: severs. Lien theory, California: no severance; lien dies with mortgagor"]
+  C -->|Mortgage or deed of trust| F["Title theory: severs. Lien theory, most states and California: no severance; lien dies with mortgagor"]
   C -->|Lease| G["No severance in California; lease ends at lessor death"]
   C -->|Contract to sell| H["Usually severs by equitable conversion"]
   C -->|Will only| I["No severance; survivor takes all"]

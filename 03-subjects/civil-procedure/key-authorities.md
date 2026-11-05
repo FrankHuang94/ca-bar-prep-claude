@@ -4,7 +4,7 @@ topic: Civil Procedure — key statutes, rules and cases
 coverage_ids: [CIV-MBE-I, CIV-MBE-II, CIV-MBE-III, CIV-MBE-IV, CIV-MBE-V, CIV-MBE-VI, CIV-MBE-VII, CIV-SUP-001]
 tested_on: [MBE, essay]
 exam_frequency: {level: high, basis: "Essays: 13 of 31 administrations 2012-02 to 2026-07 (42%); MBE: 25 scored questions every exam"}
-last_verified: 2026-11-04
+last_verified: 2026-11-05
 status: draft
 ---
 
@@ -92,7 +92,7 @@ Only citations the author is confident of are listed; recent decisions carry the
 | Home Depot U.S.A., Inc. v. Jackson (2019) | Third-party counterclaim defendant cannot remove under § 1441(a) |
 | BP p.l.c. v. Mayor & City Council of Baltimore (2021) | Whole remand order reviewable when § 1442 invoked |
 | Royal Canin U.S.A., Inc. v. Wullschleger (2025) [VERIFY V-035] | Post-removal amendment dropping federal claims → remand |
-| Hain Celestial Group, Inc. v. Palmquist (2026) [S-251] [VERIFY V-034] | Erroneous dismissal of non-diverse defendant does not cure; vacate |
+| Hain Celestial Group, Inc. v. Palmquist (2026) [S-251] | Erroneous dismissal of non-diverse defendant does not cure; vacate |
 | Chevron USA Inc. v. Plaquemines Parish (2026) [S-254] [VERIFY V-034] | § 1442 "relating to": plausible close relationship |
 
 ### Personal jurisdiction and notice
@@ -114,7 +114,7 @@ Only citations the author is confident of are listed; recent decisions carry the
 | Burger King Corp. v. Rudzewicz, 471 U.S. 462 (1985) | Contract contacts; fairness factors |
 | Phillips Petroleum Co. v. Shutts, 472 U.S. 797 (1985) | Absent class plaintiffs need no minimum contacts |
 | Asahi Metal Industry Co. v. Superior Court, 480 U.S. 102 (1987) | Stream-of-commerce split; unreasonableness |
-| Burnham v. Superior Court, 495 U.S. 604 (1990) | Tag jurisdiction |
+| Burnham v. Superior Court, 495 U.S. 604 (1990) | Tag jurisdiction (unanimous result; no majority rationale — Scalia plurality on tradition, Brennan concurrence in the judgment on fairness) |
 | Jones v. Flowers, 547 U.S. 220 (2006) | Additional steps after notice fails |
 | Goodyear Dunlop Tires Operations v. Brown, 564 U.S. 915 (2011) | "At home" general jurisdiction |
 | J. McIntyre Machinery, Ltd. v. Nicastro, 564 U.S. 873 (2011) | Targeting; single sale insufficient |
@@ -163,8 +163,8 @@ Only citations the author is confident of are listed; recent decisions carry the
 | Boyle v. United Technologies Corp., 487 U.S. 500 (1988) | Government-contractor defense |
 | Gasperini v. Center for Humanities, Inc., 518 U.S. 415 (1996) | State excessiveness standard; abuse-of-discretion review |
 | Semtek Int'l Inc. v. Lockheed Martin Corp., 531 U.S. 497 (2001) | Preclusive effect of diversity judgments |
-| Shady Grove Orthopedic Associates v. Allstate Ins. Co., 559 U.S. 393 (2010) | Rule 23 controls over state class bar |
-| Berk v. Choy (2026) [S-250] [VERIFY V-034] | Rule 8 displaces state affidavit-of-merit requirement |
+| Shady Grove Orthopedic Associates v. Allstate Ins. Co., 559 U.S. 393 (2010) | Rule 23 controls over state class bar (majority); validity test split — plurality ignores state law's purpose, Stevens concurrence asks whether the state rule defines the state right |
+| Berk v. Choy (2026) [S-250] | Rule 8 displaces state affidavit-of-merit requirement |
 
 ### Pleading, joinder, class actions, discovery
 | Case | Holding / rule |
@@ -232,11 +232,12 @@ Only citations the author is confident of are listed; recent decisions carry the
 | Tolan v. Cotton, 572 U.S. 650 (2014) | Evidence viewed for non-movant |
 | Lucky Brand Dungarees v. Marcel Fashions Group, 590 U.S. 405 (2020) | No preclusion of unraised defenses to different conduct |
 | Kemp v. United States, 596 U.S. 528 (2022) | Rule 60(b)(1) "mistake" includes judicial legal error |
-| Morgan v. Sundance, Inc. (2022) | Arbitration waiver needs no prejudice |
-| Dupree v. Younger (2023) [VERIFY V-161] | Pure legal SJ issues preserved without Rule 50 |
+| Morgan v. Sundance, Inc., 596 U.S. 411 (2022) | Arbitration waiver needs no prejudice |
+| Ortiz v. Jordan, 562 U.S. 180 (2011) | Factual sufficiency issues decided at SJ must be renewed through Rule 50 |
+| Dupree v. Younger, 598 U.S. 729 (2023) [S-1408] | Pure legal SJ issues preserved without Rule 50 |
 | SEC v. Jarkesy (2024) | Jury right for civil-penalty securities-fraud claims |
-| Coney Island Auto Parts Unlimited v. Burton (2026) [S-252] [VERIFY V-034] | Reasonable time applies to 60(b)(4) |
-| GEO Group, Inc. v. Menocal (2026) [S-253] [VERIFY V-150] | Derivative sovereign immunity denial not immediately appealable |
+| Coney Island Auto Parts Unlimited v. Burton (2026) [S-252] | Reasonable time applies to 60(b)(4) |
+| The GEO Group, Inc. v. Menocal, No. 24-758 (U.S. Feb. 25, 2026) [S-253] [S-1400] | Denial of a contractor's Yearsley ("derivative sovereign immunity") defense not immediately appealable; Yearsley is not an immunity from suit |
 
 ## 4. Restatement (Second) of Judgments
 | Section | Rule |
@@ -256,7 +257,7 @@ Only citations the author is confident of are listed; recent decisions carry the
 | Cal. Const. art. VI, § 10 | Superior court original jurisdiction |
 | CCP §§ 85, 88 [S-147]; §§ 116.220, 116.221 [S-270] | Limited vs. unlimited cases; small claims |
 | CCP § 128.7 [S-264] | Sanctions for frivolous filings (21-day safe harbor) |
-| CCP § 231(c) [S-271] | Six peremptory challenges per party (civil) |
+| CCP § 231(c) [S-271] [S-1406] | Six peremptory challenges per party (civil); multiparty allocation by side |
 | CCP §§ 392, 395, 395.5, 396b, 397 | Venue and transfer between counties |
 | CCP § 410.10 | Long-arm to constitutional limit |
 | CCP § 410.30 | Forum non conveniens |
@@ -272,9 +273,12 @@ Only citations the author is confident of are listed; recent decisions carry the
 | CCP §§ 629, 630, 657, 659 [S-261], 660 [S-262], 662.5 | JNOV; directed verdict; new trial; additur and remittitur |
 | CCP §§ 904.1 [S-258], 904.2, 1085, 1102, 1294(a) | Appealable orders; writs; arbitration appeals |
 | CCP § 1049 | Action pending until final determination on appeal |
+| CCP §§ 94, 95 [S-1409] [VERIFY V-978] | Limited civil cases: 35 combined written requests and one deposition per adverse party |
 | CCP §§ 2016.090 [S-113], 2017.010, 2018.030, 2023.050 [S-111], 2030.030, 2032.220 [S-265], 2032.320 [S-266], 2033.030 | Discovery: disclosures on demand; scope; work product; sanctions; limits; exams |
 | Bernhard v. Bank of America (1942) 19 Cal.2d 807 | Mutuality abandoned |
 | Daar v. Yellow Cab Co. (1967) 67 Cal.2d 695 | Death-knell appeal of class-certification denial |
+| Holmes v. David H. Bricker, Inc. (1969) 70 Cal.2d 786 [S-274] [S-1404] | One breach of warranty, one cause of action: personal and property damages in one suit |
+| Raedeke v. Gibraltar Sav. & Loan Assn. (1974) 10 Cal.3d 665 [S-1407] | Court may try equitable issues first; if dispositive, nothing left for the jury |
 | Slater v. Blackwood (1975) 15 Cal.3d 791 [S-272] | One injury, one cause of action |
 | C & K Engineering Contractors v. Amber Steel Co. (1978) 23 Cal.3d 1 | Promissory estoppel: no jury |
 | IT Corp. v. County of Imperial (1983) 35 Cal.3d 63 | Preliminary-injunction balancing |
@@ -286,6 +290,7 @@ Only citations the author is confident of are listed; recent decisions carry the
 | Mycogen Corp. v. Monsanto Co. (2002) 28 Cal.4th 888 | One primary right; all remedies in one suit |
 | Equilon Enterprises v. Consumer Cause, Inc. (2002) 29 Cal.4th 53; Navellier v. Sletten (2002) 29 Cal.4th 82 | Anti-SLAPP: no intent-to-chill requirement; "arising from" |
 | Grafton Partners L.P. v. Superior Court (2005) 36 Cal.4th 944 | Pre-dispute jury waivers unenforceable |
+| Hoopes v. Dolan (2008) 168 Cal.App.4th 146 [S-1407] | Order of trial discretionary; jury findings on common issues bind the court's equitable ruling |
 | Boeken v. Philip Morris USA, Inc. (2010) 48 Cal.4th 788 [S-273] | Primary rights and claim preclusion |
 | Coito v. Superior Court (2012) 54 Cal.4th 480 | Work product for witness statements |
 | DKN Holdings LLC v. Faerber (2015) 61 Cal.4th 813 | Claim/issue preclusion terminology and limits |
@@ -293,11 +298,12 @@ Only citations the author is confident of are listed; recent decisions carry the
 | Park v. Board of Trustees of California State University (2017) 2 Cal.5th 1057 | Protected activity must supply elements of the claim |
 | Samara v. Matar (2018) 5 Cal.5th 322 [S-267] | No preclusion until appeal concluded; unreviewed grounds |
 | FilmOn.com Inc. v. DoubleVerify Inc. (2019) 7 Cal.5th 133 | Context matters under § 425.16(e)(4) |
-| Quach v. California Commerce Club, Inc. (2024) [S-131] | Arbitration waiver without prejudice |
+| Quach v. California Commerce Club, Inc. (2024) 16 Cal.5th 562 [S-131] [VERIFY V-977] | Arbitration waiver without prejudice; clear and convincing proof |
 
 ## 6. Ninth Circuit (federal courts in California)
 | Case | Rule |
 |---|---|
-| U.S. ex rel. Newsham v. Lockheed Missiles & Space Co., 190 F.3d 963 (9th Cir. 1999) | California anti-SLAPP applies to state claims in federal court |
+| U.S. ex rel. Newsham v. Lockheed Missiles & Space Co., 190 F.3d 963 (9th Cir. 1999) | California anti-SLAPP applies to state claims in federal court (continued validity debated; Gopher Media assumed without deciding) [VERIFY V-975] |
 | Planned Parenthood Fed'n of Am. v. Center for Medical Progress, 890 F.3d 828 (9th Cir. 2018) | Rule 12(b)(6) or Rule 56 standard for anti-SLAPP motions in federal court |
-| Gopher Media LLC v. Melone (9th Cir. 2025) (en banc) [S-255] [VERIFY V-151] | Denials of anti-SLAPP motions not immediately appealable |
+| Gopher Media LLC v. Melone, No. 24-2626 (9th Cir. Oct. 9, 2025) (en banc) [S-255] [S-1402] | Denials of anti-SLAPP motions not immediately appealable (Batzel overruled); assumed without deciding that § 425.16 applies; cert petition No. 25-1067 [S-1403] |
+| AM Trust v. UBS AG, 681 F. App'x 587 (9th Cir. 2017) (unpublished) [S-1405] | California registration requires consent to service of process, not to general jurisdiction |

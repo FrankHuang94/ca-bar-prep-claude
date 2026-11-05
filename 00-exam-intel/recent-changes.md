@@ -130,7 +130,7 @@ status: draft
 
 ## 9. U.S. Supreme Court decisions (Con Law, Crim Pro, Civ Pro, Evidence)
 
-> **Status (Phase 7 QA, 2026-11-05).** Most October Term 2025 rows now cite the opinion (supremecourt.gov or Cornell LII) or a CRS Legal Sidebar, found by search; the opinions themselves were not read in full. Two rows still rest on secondary reports (*Chevron v. Plaquemines*, *GEO Group*) and two have no logged source (*Pitts*, *Ellingburg*) [VERIFY V-034]. Rows tied to a subject's own open item keep that tag. The October 2022–2024 term holdings are listed from model knowledge and were **not** re-checked by search [VERIFY V-035].
+> **Status (Phase 7 QA, 2026-11-05).** Most October Term 2025 rows now cite the opinion (supremecourt.gov or Cornell LII) or a CRS Legal Sidebar, found by search; the opinions themselves were not read in full. One row still rests on secondary reports (*Chevron v. Plaquemines*) and two have no logged source (*Pitts*, *Ellingburg*) [VERIFY V-034]. Rows tied to a subject's own open item keep that tag. The October 2022–2024 term holdings are listed from model knowledge and were **not** re-checked by search [VERIFY V-035].
 >
 > **Exam use.** **Apply** = learn it; the subject files reflect it. **Apply (low)** = know the one-line holding; unlikely to decide a question. **Watch** = interim or narrow ruling; do not build a rule on it.
 
@@ -161,7 +161,7 @@ status: draft
 | *Coney Island Auto Parts v. Burton* (2026) | FRCP 60 | A Rule 60(b)(4) motion attacking a void judgment must be made within a reasonable time (Rule 60(c)(1)). | Apply | Opinion text (LII, search) [S-252] |
 | *Hain Celestial Group v. Palmquist* (Feb 24, 2026) | Diversity / removal | Erroneously dismissing a nondiverse defendant does not cure the jurisdictional defect; the judgment must be vacated. | **Apply** | Slip opinion (search) [S-251] |
 | *Chevron USA v. Plaquemines Parish* (Apr 17, 2026) | Federal-officer removal | "Relating to" is satisfied by a plausible close relationship to federal duties; no strict causal nexus. | Apply (low) | Secondary (search) [S-254] |
-| *The GEO Group v. Menocal* (Feb 25, 2026) | Appellate jurisdiction (collateral order) | Denial of a government contractor's derivative sovereign-immunity defense is not immediately appealable under the collateral-order doctrine. | Apply | Secondary (search) [S-253] [VERIFY V-150] |
+| *The GEO Group v. Menocal* (Feb 25, 2026) | Appellate jurisdiction (collateral order) | Denial of a government contractor's derivative sovereign-immunity defense is not immediately appealable under the collateral-order doctrine. | Apply | Slip opinion (search) [S-1400] [S-1401] |
 
 ### October Terms 2022–2024 (model knowledge; verify before use [VERIFY V-035])
 - **Constitutional Law:**

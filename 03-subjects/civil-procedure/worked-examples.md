@@ -4,7 +4,7 @@ topic: Civil Procedure — worked examples (original short fact patterns with an
 coverage_ids: [CIV-MBE-I.A, CIV-MBE-I.B, CIV-MBE-I.C, CIV-MBE-I.D, CIV-MBE-II.A, CIV-MBE-III.A, CIV-MBE-III.B, CIV-MBE-III.C, CIV-MBE-III.D, CIV-MBE-III.E, CIV-MBE-III.F, CIV-MBE-IV.A, CIV-MBE-IV.B, CIV-MBE-V.A, CIV-MBE-V.B, CIV-MBE-V.C, CIV-MBE-VI.D, CIV-MBE-VII.A, CIV-SUP-001]
 tested_on: [MBE, essay]
 exam_frequency: {level: high, basis: "Essays: 13 of 31 administrations 2012-02 to 2026-07 (42%); MBE: 25 scored questions every exam"}
-last_verified: 2026-11-04
+last_verified: 2026-11-05
 status: draft
 ---
 
@@ -50,8 +50,8 @@ Each example is original. Format: **Facts → Rule → Application → Conclusio
 
 ### WE-07 — Tag jurisdiction (R-CIV-018)
 **Facts.** Dr. Lee, domiciled in Arizona, is served in San Diego while attending a two-day conference, in a malpractice suit arising from surgery in Arizona.
-**Rule.** Personal service on an individual voluntarily present in the forum supports general jurisdiction (Burnham).
-**Application.** Lee came voluntarily; nothing suggests fraud or force.
+**Rule.** Personal service on an individual voluntarily present in the forum supports general jurisdiction (Burnham — unanimous result, but no majority rationale: a plurality relied on tradition, a concurrence on fairness).
+**Application.** Lee came voluntarily; nothing suggests fraud or force. Under the plurality's tradition test that ends the inquiry; under the concurrence's fairness view, Lee knowingly availed himself of California's protections during the visit and the burden of defending there is modest, so the result is the same.
 **Conclusion.** California has PJ, although Lee may seek a transfer or dismissal on forum non conveniens grounds.
 
 ### WE-08 — Abode service (R-CIV-029)
@@ -69,7 +69,7 @@ Each example is original. Format: **Facts → Rule → Application → Conclusio
 ### WE-10 — Erie: state affidavit requirement (R-CIV-038)
 **Facts.** In a diversity malpractice suit in federal court, the defendant moves to dismiss because the plaintiff did not file the expert certificate of merit that state law requires with the complaint.
 **Rule.** A valid Federal Rule that answers the question controls; Rule 8 governs the contents of a complaint (Berk v. Choy).
-**Application.** The state requirement adds a filing-stage merits showing that Rule 8 does not require. Rule 8 really regulates procedure; the state law's substantive purpose is irrelevant.
+**Application.** The state requirement adds a filing-stage merits showing that Rule 8 does not require, so the Rule answers the question. Rule 8 really regulates procedure and is valid under the Rules Enabling Act.
 **Conclusion.** Motion denied.
 
 ### WE-11 — Erie: statute of limitations (R-CIV-040)
@@ -158,9 +158,9 @@ Each example is original. Format: **Facts → Rule → Application → Conclusio
 
 ### WE-25 — Claim preclusion, federal and California (R-CIV-094, R-CIV-114)
 **Facts.** P sued D in California superior court for property damage to her car from a collision and won. She now sues D in the same court for personal injuries from the same collision.
-**Rule.** Federal: transactional test bars all claims from the same transaction. California: primary rights — separate injuries to person and property may be separate primary rights.
-**Application.** Because the first judgment is a California judgment, California preclusion law governs (28 U.S.C. § 1738 if refiled in federal court). Personal injury invades a different primary right from property damage.
-**Conclusion.** Likely not barred in California [VERIFY V-155]; under the federal transactional test it would be barred.
+**Rule.** Federal: transactional test bars all claims from the same transaction. California: primary rights — in tort, injury to the person and injury to property have traditionally been treated as separate primary rights; but one breach of contract gives one cause of action for all damages (Holmes v. David H. Bricker, Inc.).
+**Application.** Because the first judgment is a California judgment, California preclusion law governs (28 U.S.C. § 1738 if refiled in federal court). P's claims sound in tort (negligent driving), and personal injury invades a different primary right from property damage. Had P's first suit been for breach of a warranty covering the car, Holmes would require all damages from that breach in one action.
+**Conclusion.** Likely not barred in California [VERIFY V-976]; under the federal transactional test it would be barred.
 
 ### WE-26 — Offensive non-mutual issue preclusion (R-CIV-096)
 **Facts.** After a jury found that a bus company's driver was negligent in a crash, a second passenger who watched the first trial before filing suit seeks to preclude the company on negligence.

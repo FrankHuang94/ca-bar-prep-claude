@@ -4,7 +4,7 @@ topic: Real Property — essay-ready rule statements (R-PRP-001 to R-PRP-121)
 coverage_ids: [PRP-MBE-I, PRP-MBE-I.A, PRP-MBE-I.B, PRP-MBE-I.C, PRP-MBE-I.D, PRP-MBE-II, PRP-MBE-II.A, PRP-MBE-II.B, PRP-MBE-II.C, PRP-MBE-II.D, PRP-MBE-III, PRP-MBE-III.A, PRP-MBE-III.B, PRP-MBE-III.C, PRP-MBE-III.D, PRP-MBE-III.E, PRP-MBE-III.F, PRP-MBE-III.G, PRP-MBE-IV, PRP-MBE-IV.A, PRP-MBE-IV.B, PRP-MBE-IV.C, PRP-MBE-IV.D, PRP-MBE-IV.E, PRP-MBE-IV.F, PRP-MBE-V, PRP-MBE-V.A, PRP-MBE-V.B, PRP-MBE-V.C, PRP-MBE-V.D, PRP-MBE-V.E, PRP-CBX-I, PRP-CBX-II, PRP-CBX-III, PRP-CBX-IV, PRP-CBX-V, PRP-CBX-VI, PRP-CBX-VII-IX]
 tested_on: [MBE, essay]
 exam_frequency: {level: high, basis: "Essays: 13 of 31 administrations 2012-02 to 2026-07 (42%); MBE: 25 scored questions every exam"}
-last_verified: 2026-11-04
+last_verified: 2026-11-05
 status: draft
 ---
 
@@ -139,7 +139,7 @@ status: draft
 
 **MBE vs. CA essay:** Same rule.
 
-**Example:** O conveys "to A for life, then to B if B reaches 25." B is 10. O has a reversion that becomes possessory if A dies before B turns 25 (unless the remainder is destroyed or B later qualifies; see R-PRP-012).
+**Example:** O conveys "to A for life, then to B if B reaches 25." B is 10. O has a reversion that becomes possessory if A dies before B turns 25. Under modern law B can still take when B turns 25 (B's interest then divests O as an executory interest); at common law, destructibility would have ended B's remainder (R-PRP-010, R-PRP-012).
 
 ### R-PRP-009 — Vested remainders
 **Rule (write this):** A remainder is a future interest in a transferee that can become possessory on the natural end of the prior estate. It is vested if it is given to an ascertained person and is not subject to any condition precedent other than the end of the prior estate. A vested remainder may be indefeasibly vested, vested subject to open (a class that can still gain members), or vested subject to complete divestment (a condition subsequent can take it away).
@@ -148,7 +148,7 @@ status: draft
 
 **Exceptions / defenses:** Read the conditional words in order: "to A for life, then to B, but if B dies before A, to C" gives B a vested remainder subject to complete divestment (the condition comes after the gift), while "to A for life, then to B if B survives A" gives B a contingent remainder. Vested remainders subject to open are subject to the RAP; indefeasibly vested remainders are not.
 
-**Authority:** Common law; Civ. Code §§ 768, 769 (vested and contingent future interests defined).
+**Authority:** Common law; Civ. Code §§ 694 (vested future interest defined), 695 (contingent future interest defined) [S-1606].
 
 **MBE vs. CA essay:** Same rule.
 
@@ -161,7 +161,7 @@ status: draft
 
 **Exceptions / defenses:** A contingent remainder that is still contingent when the prior estate ends was destroyed at common law (destructibility); see R-PRP-012. Today, if the remainder is still contingent, the grantor's reversion becomes possessory and the remainder can later spring into possession as an executory interest.
 
-**Authority:** Common law; Civ. Code § 769.
+**Authority:** Common law; Civ. Code § 695 (contingent while the person or the event remains uncertain) [S-1606].
 
 **MBE vs. CA essay:** Same rule.
 
@@ -306,28 +306,28 @@ status: draft
 **Example:** O conveys "to A and B as joint tenants with right of survivorship." A dies with a will leaving everything to C. B owns all of the land; C takes nothing, because the will operates only at death, when A's interest ends.
 
 ### R-PRP-021 — Severance of a joint tenancy by conveyance
-**Rule (write this):** A joint tenant may sever unilaterally by conveying her interest during life, without the other's consent or knowledge; the conveyance turns the transferred share into a tenancy in common, while any remaining joint tenants keep a joint tenancy among themselves. In California and a majority of modern states, a joint tenant may sever by a deed to herself or by a recorded written declaration.
+**Rule (write this):** A joint tenant may sever unilaterally by conveying her interest during life, without the other's consent or knowledge; the conveyance turns the transferred share into a tenancy in common, while any remaining joint tenants keep a joint tenancy among themselves. In California, and in a growing number of states (the modern trend), a joint tenant may also sever unilaterally by a deed to herself or by a written declaration; in California the instrument must be recorded in time to cut off the other joint tenants' survivorship.
 
 **Elements:** 1. Inter vivos transfer of a joint tenant's interest (to a third party or, in California, to herself). 2. Effect: the transferee is a tenant in common with the others. 3. California: to defeat survivorship, the severing instrument must be recorded before death, or executed and acknowledged no earlier than three days before death and recorded within seven days after death.
 
-**Exceptions / defenses:** A will cannot sever (it takes effect only at death). An unrecorded severance is ineffective against the survivor's right of survivorship in California, but it binds the severing tenant's successors in some situations (Civ. Code § 683.2(c)). Spousal joint tenancy may also raise community property issues (R-CMP-014).
+**Exceptions / defenses:** A will cannot sever (it takes effect only at death). In California, a severing instrument that misses the § 683.2(c) recording deadlines does not terminate the other joint tenants' right of survivorship in the severing tenant's share [S-760]. Spousal joint tenancy may also raise community property issues (R-CMP-014).
 
 **Authority:** Civ. Code § 683.2 [S-760]; *Riddle v. Harmon* (1980) 102 Cal.App.3d 524 (self-conveyance severs); *Estate of England* (1991) 233 Cal.App.3d 1 [S-761].
 
-**MBE vs. CA essay:** MBE: a conveyance to a third party severs; the traditional rule required a straw person for self-conveyance. CA essay: unilateral self-conveyance severs (*Riddle*), subject to the § 683.2 recording rule.
+**MBE vs. CA essay:** MBE: a conveyance to a third party severs; the traditional rule required a straw person for self-conveyance (modern trend: a self-deed severs). CA essay: unilateral self-conveyance severs (*Riddle*), subject to the § 683.2 recording rule.
 
 **Example:** A, B and C are joint tenants. A deeds her share to D. D is a tenant in common with a one-third share; B and C remain joint tenants of two-thirds. If B dies, C owns two-thirds and D one-third.
 
 ### R-PRP-022 — Severance by mortgage, lease, contract or killing
-**Rule (write this):** Whether a mortgage by one joint tenant severs depends on the mortgage theory: in a title-theory state the mortgage transfers title and severs; in a lien-theory state (the majority, and California) it does not sever, and if the mortgagor dies first the survivor takes free of the lien. A lease by one joint tenant does not sever in California and ends when the lessor dies; a specifically enforceable contract to sell severs in most states; a joint tenant who feloniously kills another forfeits survivorship.
+**Rule (write this):** Whether a mortgage by one joint tenant severs depends on the mortgage theory: in a title-theory state the mortgage transfers title and severs; in most lien-theory states (lien theory is the majority, and California's rule) it does not sever, and if the mortgagor dies first the survivor takes free of the lien, although lien-theory courts are not uniform on this point. A lease by one joint tenant does not sever in California and ends when the lessor dies; a specifically enforceable contract to sell severs in most states; a joint tenant who feloniously kills another forfeits survivorship.
 
 **Elements:** 1. Identify the act. 2. Apply the state's mortgage theory. 3. Lease: majority, no severance (some courts treat it as a temporary severance). 4. Contract of sale: equitable conversion severs. 5. Killing: severance and no benefit to the killer.
 
-**Exceptions / defenses:** If both joint tenants sign the mortgage, it survives either one's death. If the mortgagor survives, the lien attaches to the whole.
+**Exceptions / defenses:** If both joint tenants sign the mortgage, it survives either one's death. If the mortgagor survives, the lien attaches to the whole. A few lien-theory courts reach a different result, so on the MBE follow the theory and any rule the question states.
 
 **Authority:** *People v. Nogarr* (1958) 164 Cal.App.2d 591 and *Hamel v. Gootkin* (1962) 202 Cal.App.2d 27 (mortgage/deed of trust by one joint tenant does not sever; survivor takes free) [S-765]; *Tenhet v. Boswell* (1976) 18 Cal.3d 150 (lease does not sever; ends at lessor's death) [S-765]; *Harms v. Sprague*, 105 Ill. 2d 215, 473 N.E.2d 930 (1984); Prob. Code § 251 (killing) [VERIFY V-664].
 
-**MBE vs. CA essay:** MBE: lien theory is the majority; know both. CA essay: California is a lien-theory state, so the survivor takes free of a co-owner's sole mortgage (*Nogarr*).
+**MBE vs. CA essay:** MBE: lien theory is the majority, and most lien-theory courts find no severance; know both theories. CA essay: California is a lien-theory state, so the survivor takes free of a co-owner's sole mortgage (*Nogarr*).
 
 **Example:** A and B are joint tenants. A alone gives Bank a deed of trust and dies. In California, B owns the land free of Bank's lien; Bank is left with an unsecured claim against A's estate.
 
@@ -398,7 +398,7 @@ status: draft
 
 **MBE vs. CA essay:** Same rule.
 
-**Example:** T signs a two-year lease but the writing is unsigned by L; T moves in and pays $2,000 monthly. The lease is unenforceable as a term of years, but T is a month-to-month periodic tenant.
+**Example:** L and T agree orally on a two-year lease; T moves in and pays $2,000 monthly. The two-year term is unenforceable under the statute of frauds, but T is a month-to-month periodic tenant.
 
 ### R-PRP-028 — Terminating a periodic tenancy; notice
 **Rule (write this):** A periodic tenancy continues until either party gives notice. At common law, notice must equal one full period (but six months for a year-to-year tenancy) and must end the tenancy at the end of a period. In California, notice must be at least as long as the rental period but need not exceed 30 days; for a residential tenancy, a landlord must give 60 days' notice if the tenant has occupied for a year or more, otherwise 30 days.
@@ -470,7 +470,7 @@ status: draft
 
 **Elements:** 1. Abandonment (vacating with intent not to return and stopping rent). 2. Landlord's response (surrender by operation of law if the landlord retakes for its own use). 3. Mitigation: reasonable efforts, treating the unit like other vacant units. 4. Damages: unpaid rent plus the difference between the lease rent and the reasonably obtainable rent, plus reletting costs.
 
-**Exceptions / defenses:** Burden of proof on mitigation: majority places it on the landlord to show reasonable efforts; California places on the tenant the burden of proving the amount that could reasonably have been avoided (Civ. Code § 1951.2). California also lets the parties agree to a "lock-in" remedy: if the lease so provides and allows reasonable subletting or assignment, the landlord may keep the lease in force and recover rent as it comes due (Civ. Code § 1951.4). A landlord may not refuse a suitable replacement tenant and then sue for full rent.
+**Exceptions / defenses:** Burden of proof on mitigation: majority places it on the landlord to show reasonable efforts; California places on the tenant the burden of proving the amount that could reasonably have been avoided (Civ. Code § 1951.2). California also lets the parties agree to a "lock-in" remedy: if the lease so provides and allows reasonable subletting or assignment, the landlord may keep the lease in force and recover rent as it comes due (Civ. Code § 1951.4). A landlord may not refuse a suitable replacement tenant and then sue for full rent. A landlord with other vacant units satisfies the duty by treating the abandoned unit like the rest of its vacant stock (*Sommer*); it need not fill the abandoned unit first, and it may argue that a new tenant who would have rented one of its other vacant units anyway does not reduce its loss (a "lost volume" argument), so check whether the replacement rented the abandoned unit or a unit that was already available.
 
 **Authority:** *Sommer v. Kridel*, 74 N.J. 446, 378 A.2d 767 (1977); Civ. Code §§ 1951.2, 1951.3, 1951.4 [VERIFY V-662].
 
@@ -492,7 +492,7 @@ status: draft
 **Example:** L locks T out of one of three rented warehouse bays. At common law, T may stay in the other two bays and pay no rent until the eviction ends.
 
 ### R-PRP-035 — Constructive eviction
-**Rule (write this):** A constructive eviction occurs when the landlord's act or failure to perform a legal duty substantially and permanently interferes with the tenant's use and enjoyment of the premises, the tenant gives notice and the landlord fails to cure within a reasonable time, and the tenant vacates within a reasonable time. The tenant is then excused from further rent and may recover damages.
+**Rule (write this):** A constructive eviction occurs when the landlord's act or failure to perform a legal duty substantially interferes with the tenant's use and enjoyment of the premises (more than a temporary inconvenience), the tenant gives notice and the landlord fails to cure within a reasonable time, and the tenant vacates within a reasonable time. The tenant is then excused from further rent and may recover damages.
 
 **Elements:** 1. Substantial interference (e.g., no heat in winter, repeated flooding). 2. Caused by the landlord's act or breach of a duty (including failure to control other tenants' nuisance in areas the landlord controls). 3. Notice and failure to cure. 4. Tenant vacates within a reasonable time.
 
@@ -509,7 +509,7 @@ status: draft
 
 **Elements:** 1. Residential lease. 2. Condition that substantially affects health or safety (no heat, hot water, plumbing, weatherproofing, pest infestation; code violations). 3. Notice to the landlord and reasonable time to repair. 4. Condition not caused by the tenant.
 
-**Exceptions / defenses:** Generally not implied in commercial leases (the tenant may rely on constructive eviction or an express covenant). Minor or cosmetic defects are not a breach. California's statutory list of untenantable conditions includes lack of effective waterproofing, plumbing, gas, hot and cold water, heating, electrical lighting, clean and sanitary premises, garbage receptacles and floors and stairways in good repair (Civ. Code § 1941.1); a lease waiver is void (Civ. Code § 1942.1).
+**Exceptions / defenses:** Generally not implied in commercial leases (the tenant ordinarily relies on constructive eviction or an express covenant). A minority of jurisdictions imply a covenant in a commercial lease that the premises are suitable for their intended commercial purpose, where a latent defect in facilities vital to that use exists at the start of the lease (*Davidow v. Inwood North Professional Group—Phase I*, 747 S.W.2d 373 (Tex. 1988)). Minor or cosmetic defects are not a breach. California's statutory list of untenantable conditions includes lack of effective waterproofing, plumbing, gas, hot and cold water, heating, electrical lighting, clean and sanitary premises, garbage receptacles and floors and stairways in good repair (Civ. Code § 1941.1); a lease waiver is void (Civ. Code § 1942.1).
 
 **Authority:** *Javins v. First National Realty Corp.*, 428 F.2d 1071 (D.C. Cir. 1970); *Green v. Superior Court* (1974) 10 Cal.3d 616; Civ. Code §§ 1941, 1941.1, 1942.1.
 
@@ -522,7 +522,7 @@ status: draft
 
 **Elements:** 1. Breach (R-PRP-036). 2. Notice and reasonable time. 3. Chosen remedy and its limits. 4. Damages: the difference between the agreed rent and the fair rental value in the defective condition (or a percentage reduction).
 
-**Exceptions / defenses:** California's repair-and-deduct remedy is limited to one month's rent and to twice in any 12-month period, after notice and a reasonable time (30 days is presumed reasonable) (Civ. Code § 1942). In a California unlawful detainer for nonpayment, the court determines whether there is a substantial breach of habitability and may reduce the rent owed (CCP § 1174.2) [VERIFY V-662]. A landlord may not collect rent for a unit cited by a public officer and left unrepaired for 35 days (Civ. Code § 1942.4) [VERIFY V-662].
+**Exceptions / defenses:** California's repair-and-deduct remedy is limited to one month's rent and to twice in any 12-month period, after notice and a reasonable time (30 days is presumed reasonable) (Civ. Code § 1942). In a California unlawful detainer for nonpayment, the court determines whether there is a substantial breach of habitability and may reduce the rent owed (CCP § 1174.2) [VERIFY V-662]. A landlord may not demand or collect rent, raise the rent or serve a three-day notice to pay or quit when a dwelling that substantially lacks the § 1941.1 standards has been the subject of a public officer's written notice to abate and the conditions remain unabated, without good cause, 35 days after service of that notice (Civ. Code § 1942.4) [S-1607].
 
 **Authority:** Common law; *Green v. Superior Court* (1974) 10 Cal.3d 616; Civ. Code §§ 1942, 1942.4; CCP § 1174.2.
 
@@ -589,7 +589,7 @@ status: draft
 
 **Elements:** 1. Is there a restriction, and does it cover this transfer? 2. Standard for consent (express standard; none stated → reasonableness in California). 3. Reasonable objections: the transferee's financial responsibility and the suitability of its use; unreasonable: a demand for higher rent or a personal dislike. 4. Waiver: knowingly accepting rent from the transferee waives the breach.
 
-**Exceptions / defenses:** Rule in *Dumpor's Case*: once the landlord consents to one assignment, the restriction is waived for later ones unless the landlord reserves it; many states have rejected the rule. A California lease may absolutely prohibit transfer if it says so expressly, and may give an express standard for consent (Civ. Code §§ 1995.230, 1995.250) [S-762]. Where a lease restricts transfer by requiring consent but states no standard, consent may not be unreasonably withheld (Civ. Code § 1995.260, restrictions executed on or after September 23, 1983) [S-762]. **Scope:** *Kendall* and Civ. Code §§ 1995.010–1995.340 concern commercial (nonresidential) leases; whether California courts extend the reasonableness requirement to residential leases is unsettled, so argue it by analogy on an essay [VERIFY V-674].
+**Exceptions / defenses:** Rule in *Dumpor's Case*: once the landlord consents to one assignment, the restriction is waived for later ones unless the landlord reserves it; many states have rejected the rule. A California lease may absolutely prohibit transfer if it says so expressly, and may give an express standard for consent (Civ. Code §§ 1995.230, 1995.250) [S-762]. Where a lease restricts transfer by requiring consent but states no standard, consent may not be unreasonably withheld (Civ. Code § 1995.260, restrictions executed on or after September 23, 1983) [S-762]. **Scope:** *Kendall* decided a commercial lease, and Civ. Code §§ 1995.010–1995.340 apply only to leases of real property "for other than residential purposes" (§§ 1995.010, 1995.020(b)) [S-1600]. No statute or California Supreme Court decision settles the standard for a residential consent clause, so on an essay argue *Kendall*'s reasoning by analogy.
 
 **Authority:** *Kendall v. Ernest Pestana, Inc.* (1985) 40 Cal.3d 488 [S-762]; Civ. Code §§ 1995.010–1995.340 [S-762]; *Dumpor's Case* (1603) 4 Co. Rep. 119b.
 
@@ -865,9 +865,9 @@ status: draft
 
 **Elements:** 1. Common ownership and severance. 2. Prior use. 3. Apparent and continuous (underground utilities count if visible on reasonable inspection, such as by hookups). 4. Reasonable necessity (many courts require strict necessity when the easement is implied in favor of the grantor, i.e., by reservation).
 
-**Exceptions / defenses:** Courts are slower to imply a reservation (against the grantor's own deed) than a grant.
+**Exceptions / defenses:** Courts are slower to imply a reservation (against the grantor's own deed) than a grant. In California, an implied easement may even exclude the servient owner from most practical uses of the easement area if there is clear evidence that the parties intended such an easement when the parcels were divided (*Romero v. Shih* (2024) 15 Cal.5th 680, distinguishing the prescriptive-easement cases) [S-1601].
 
-**Authority:** Common law; Civ. Code § 1104 (transfer passes easements and creates easements to the extent the property was obviously and permanently used for the benefit of the part transferred).
+**Authority:** Common law; Civ. Code § 1104 (transfer passes easements and creates easements to the extent the property was obviously and permanently used for the benefit of the part transferred); *Romero v. Shih* (2024) 15 Cal.5th 680 [S-1601].
 
 **MBE vs. CA essay:** Same rule. Tested Jul 2024 Q2 [VERIFY V-071].
 
@@ -891,7 +891,7 @@ status: draft
 
 **Elements:** 1. Open and notorious. 2. Continuous for the period (seasonal use consistent with the use's nature counts; tacking allowed among successors in privity). 3. Adverse/hostile: no permission. 4. Statutory period (California five years).
 
-**Exceptions / defenses:** Permission defeats prescription; if use began with permission, adversity starts only on a clear repudiation. An owner may interrupt by blocking the use, or in California prevent prescription by posting statutory signs at entrances or every 200 feet ("Right to pass by permission, and subject to control, of owner") or by recording a notice of consent (Civ. Code §§ 813, 1008) [S-764]. No prescription runs against public entities (Civ. Code § 1007). California courts are reluctant to grant a prescriptive easement that excludes the owner from practical use of the land [VERIFY V-654].
+**Exceptions / defenses:** Permission defeats prescription; if use began with permission, adversity starts only on a clear repudiation. An owner may interrupt by blocking the use, or in California prevent prescription by posting statutory signs at entrances or every 200 feet ("Right to pass by permission, and subject to control, of owner") or by recording a notice of consent (Civ. Code §§ 813, 1008) [S-764]. No prescription runs against public entities (Civ. Code § 1007). California courts are reluctant to grant a prescriptive easement that excludes the owner from practical use of the land [VERIFY V-654]; *Romero v. Shih* (2024) 15 Cal.5th 680 distinguished the prescriptive-easement cases and allowed an exclusive *implied* easement on clear evidence of intent (R-PRP-062) [S-1601].
 
 **Authority:** Common law; Civ. Code §§ 813, 1007, 1008, 1009 [S-764]; CCP § 321; *Gilardi v. Hallam* (1981) 30 Cal.3d 317 [S-757].
 
@@ -1082,7 +1082,7 @@ status: draft
 
 **MBE vs. CA essay:** MBE: the ready-willing-able rule and fiduciary duties. CA essay: rarely tested alone; mention *Easton* and § 2079 when a broker failed to find a visible defect.
 
-**Example:** B's broker shows a house with obvious cracks in the garage slab and says nothing; the house has a failing foundation. In California, the seller's broker is liable for failing to discover and disclose what a visual inspection would have revealed.
+**Example:** S's listing broker shows buyer B a house with obvious cracks in the garage slab and says nothing; the house has a failing foundation. In California, the seller's broker is liable for failing to discover and disclose what a visual inspection would have revealed.
 
 ### R-PRP-078 — Statute of frauds and part performance
 **Rule (write this):** A contract for the sale of land, or of any interest in land, is unenforceable unless evidenced by a writing signed by the party to be charged that identifies the parties, describes the land and states the price (and other essential terms). Under the part-performance doctrine, equity will specifically enforce an oral land contract when the buyer's acts are unequivocally referable to the contract, usually shown by at least two of: possession, payment of all or part of the price, and substantial improvements.
@@ -1253,9 +1253,9 @@ status: draft
 
 **Elements:** 1. Loan proceeds used to buy the land. 2. Executed at or as part of the acquisition. 3. Priority over prior liens against the purchaser. 4. Competing purchase-money mortgages: seller first; between two third-party lenders, the recording act decides.
 
-**Exceptions / defenses:** A later bona fide mortgagee who records first may defeat an unrecorded purchase-money mortgage under the recording act. Seller-over-lender priority is the Restatement (Third) of Property: Mortgages § 7.2 position; several courts follow it, but not all [S-781] [VERIFY V-676]. In California, purchase-money loans also receive anti-deficiency protection (CCP § 580b; R-PRP-104).
+**Exceptions / defenses:** A later bona fide mortgagee who records first may defeat an unrecorded purchase-money mortgage under the recording act. Seller-over-lender priority is the Restatement (Third) of Property: Mortgages § 7.2(c) position; several courts follow it (e.g., Oklahoma), but not all (e.g., Idaho has rejected it) [S-781] [S-1609]. In California, purchase-money loans also receive anti-deficiency protection (CCP § 580b; R-PRP-104).
 
-**Authority:** Common law; Restatement (Third) of Property: Mortgages § 7.2 [VERIFY V-676]; Civ. Code § 2898 [S-770]; CCP § 580b [S-777].
+**Authority:** Common law; Restatement (Third) of Property: Mortgages § 7.2 [S-781] [S-1609]; Civ. Code § 2898 [S-770]; CCP § 580b [S-777].
 
 **MBE vs. CA essay:** Same rule.
 
@@ -1266,11 +1266,11 @@ status: draft
 
 **Elements:** 1. Mortgage securing future advances (and stating a maximum, in some statutes). 2. Intervening lien. 3. Obligatory vs. optional advance. 4. Notice (actual vs. record).
 
-**Exceptions / defenses:** "Dragnet" clauses that sweep in unrelated debts are construed narrowly.
+**Exceptions / defenses:** "Dragnet" clauses that sweep in unrelated debts are construed narrowly. The Restatement (Third) of Property: Mortgages (§ 2.3) departs from the traditional rule: it gives future advances, optional as well as obligatory, the mortgage's original priority, subject to limits such as a mortgagor's notice cutting off further advances [VERIFY V-995]. Not all courts follow it; the Washington Supreme Court (2022) declined to and kept the obligatory/optional distinction [S-1605]. On the MBE, apply the traditional rule unless the question gives a statute or the Restatement.
 
-**Authority:** Common law; Civ. Code § 2884 (lien may secure obligations not yet in existence).
+**Authority:** Common law; Civ. Code § 2884 (lien may secure obligations not yet in existence); Restatement (Third) of Property: Mortgages § 2.3 [VERIFY V-995]; *In re General Receivership of EM Property Holdings, LLC* (Wash. 2022) [S-1605].
 
-**MBE vs. CA essay:** Same rule.
+**MBE vs. CA essay:** Same rule (traditional obligatory/optional distinction; mention the Restatement view as the alternative).
 
 **Example:** Bank records a $1 million construction mortgage and agrees to advance funds as work progresses. A judgment creditor of the owner records a lien midway. Bank's later obligatory advances keep first priority.
 
@@ -1327,13 +1327,13 @@ status: draft
 **Example:** A assumes M's mortgage; Bank and A later agree to raise the rate from 5% to 8%. On A's default, M is liable only for what she would have owed at 5%.
 
 ### R-PRP-096 — Restrictions on transfer: due-on-sale clauses
-**Rule (write this):** A due-on-sale clause lets the lender accelerate the debt if the borrower transfers the property without the lender's consent. Federal law makes such clauses enforceable nationwide, preempting state rules that restricted them, subject to statutory exceptions for residential property of one to four units, including transfers to a spouse or children, transfers on a borrower's death to a relative, transfers under a divorce decree, transfers into an inter vivos trust in which the borrower remains a beneficiary and occupant, the creation of junior liens, and short leases without purchase options.
+**Rule (write this):** A due-on-sale clause lets the lender accelerate the debt if the borrower transfers the property without the lender's consent. Federal law makes such clauses enforceable nationwide, preempting state rules that restricted them, subject to statutory exceptions for residential property of one to four units, including transfers to a spouse or children, transfers on a borrower's death to a relative or on a joint tenant's death, transfers under a divorce decree, transfers into an inter vivos trust in which the borrower remains a beneficiary (and, under the regulation, an occupant), the creation of junior liens, and leases of three years or less without purchase options.
 
 **Elements:** 1. Clause in the mortgage. 2. Transfer. 3. Exception? 4. Lender may accelerate and foreclose if the debt is not paid.
 
 **Exceptions / defenses:** California's former rule limiting enforcement to cases where the transfer impaired the lender's security (*Wellenkamp v. Bank of America* (1978) 21 Cal.3d 943) is preempted by federal law.
 
-**Authority:** Garn–St Germain Depository Institutions Act, 12 U.S.C. § 1701j-3 [VERIFY V-665]; *Fidelity Federal Savings & Loan Ass'n v. de la Cuesta*, 458 U.S. 141 (1982).
+**Authority:** Garn–St Germain Depository Institutions Act, 12 U.S.C. § 1701j-3(d) [S-1608]; 12 C.F.R. § 191.5 [S-1608]; *Fidelity Federal Savings & Loan Ass'n v. de la Cuesta*, 458 U.S. 141 (1982).
 
 **MBE vs. CA essay:** Same rule.
 
@@ -1368,11 +1368,11 @@ status: draft
 ### R-PRP-099 — Foreclosure: types and acceleration
 **Rule (write this):** On default, the mortgagee may foreclose to sell the property and apply the proceeds to the debt. Judicial foreclosure, available everywhere, is a court action ending in a supervised sale; nonjudicial (power-of-sale) foreclosure, used with deeds of trust, is a private sale by the trustee after statutory notices; strict foreclosure (title vests in the lender without a sale) survives in only a few states. If the instrument has an acceleration clause, the lender may declare the entire debt due on default; without one, it may foreclose only for the overdue installments.
 
-**Elements:** 1. Default. 2. Acceleration (clause; notice; waiver by accepting late payments without notice). 3. Method of foreclosure and statutory notices. 4. Fair sale: a low price alone does not invalidate a regularly conducted sale. A court may set the sale aside if the price is so grossly inadequate that it shocks the conscience (Restatement (Third) of Property: Mortgages § 8.3(a): gross inadequacy alone suffices; cmt. b: generally a price below about 20% of fair market value [VERIFY V-675]), or if a substantially inadequate price is coupled with fraud, unfairness or an irregularity in the sale, even a slight one. California requires some unfairness or irregularity in addition to inadequacy of price [VERIFY V-675].
+**Elements:** 1. Default. 2. Acceleration (clause; notice; waiver by accepting late payments without notice). 3. Method of foreclosure and statutory notices. 4. Fair sale: a low price alone does not invalidate a regularly conducted sale. A court may set the sale aside if the price is so grossly inadequate that it shocks the conscience (Restatement (Third) of Property: Mortgages § 8.3(a): gross inadequacy alone suffices; cmt. b: gross inadequacy cannot be fixed as a percentage, but a court is generally warranted in setting aside a sale for less than 20% of fair market value, and usually not above that absent other defects; courts differ on following the comment) [S-1603], or if a substantially inadequate price is coupled with fraud, unfairness or an irregularity in the sale, even a slight one. California does not set aside a trustee's sale for inadequacy of price alone; gross inadequacy plus even slight unfairness or irregularity can suffice, and the irregularity must have contributed to the low price or otherwise injured the trustor (*Foge v. Schmidt* (1951) 101 Cal.App.2d 681; *6 Angels, Inc. v. Stuart-Wright Mortgage, Inc.* (2001) 85 Cal.App.4th 1279) [S-1604].
 
 **Exceptions / defenses:** California nonjudicial foreclosure requires a recorded notice of default, at least three months' wait, and a notice of sale before the trustee's sale (Civ. Code §§ 2924, 2924f), plus the reinstatement right in § 2924c.
 
-**Authority:** Common law; Civ. Code §§ 2924, 2924c, 2924f; CCP § 726 (judicial foreclosure).
+**Authority:** Common law; Civ. Code §§ 2924, 2924c, 2924f; CCP § 726 (judicial foreclosure); Restatement (Third) of Property: Mortgages § 8.3 [S-1603]; *Foge*; *6 Angels* [S-1604].
 
 **MBE vs. CA essay:** Same rule.
 

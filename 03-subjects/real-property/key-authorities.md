@@ -4,7 +4,7 @@ topic: Real Property — key statutes, Restatements and cases
 coverage_ids: [PRP-MBE-I, PRP-MBE-II, PRP-MBE-III, PRP-MBE-IV, PRP-MBE-V, PRP-CBX-I, PRP-CBX-II, PRP-CBX-IV, PRP-CBX-V, PRP-CBX-VI, PRP-CBX-VII-IX]
 tested_on: [MBE, essay]
 exam_frequency: {level: high, basis: "Essays: 13 of 31 administrations 2012-02 to 2026-07 (42%); MBE: 25 scored questions every exam"}
-last_verified: 2026-11-04
+last_verified: 2026-11-05
 status: draft
 ---
 
@@ -17,6 +17,7 @@ Cite only what you need on an essay; a rule stated correctly without a case name
 |---|---|---|
 | Civ. Code §§ 682, 682.1, 683, 685, 686 | Forms of ownership; CP with right of survivorship; joint tenancy must be expressly declared; tenancy in common presumed | R-PRP-019, R-PRP-020, R-PRP-023 |
 | Civ. Code § 683.2 [S-760] | Unilateral severance; recording before death (or 3-day/7-day window) to defeat survivorship | R-PRP-021 |
+| Civ. Code §§ 694, 695 [S-1606] | Vested and contingent future interests defined | R-PRP-009, R-PRP-010 |
 | Civ. Code § 699 | Future interests pass by succession, will and transfer | R-PRP-018 |
 | Civ. Code § 711 | Restraints repugnant to the interest created are void | R-PRP-017 |
 | Civ. Code §§ 763, 779; Prob. Code § 21108 [S-774] | Fee tail → fee simple; remainder to life tenant's heirs takes as remainder; no worthier title | R-PRP-001, R-PRP-012 |
@@ -39,12 +40,12 @@ Cite only what you need on an essay; a rule stated correctly without a case name
 | Civ. Code §§ 895–945.5; CCP § 337.15 | Right to Repair Act (new homes); 10-year latent-defect repose | R-PRP-085 |
 | Civ. Code §§ 789, 1943, 1944, 1945, 1946, 1946.1 | Tenancy at will notice; presumed periods; holdover renewal; termination notices | R-PRP-027 to R-PRP-029 |
 | Civ. Code §§ 1927, 1932, 1933 [S-778] | Quiet possession; tenant's termination rights; termination of hiring | R-PRP-030, R-PRP-034, R-PRP-035, R-PRP-047 |
-| Civ. Code §§ 1941, 1941.1, 1941.2, 1942, 1942.1, 1942.4 [VERIFY V-662], 1942.5 | Habitability; tenant duties; repair and deduct; no waiver; citation rule; retaliation | R-PRP-032, R-PRP-036 to R-PRP-038 |
+| Civ. Code §§ 1941, 1941.1, 1941.2, 1942, 1942.1, 1942.4 [S-1607], 1942.5 | Habitability; tenant duties; repair and deduct; no waiver; citation rule; retaliation | R-PRP-032, R-PRP-036 to R-PRP-038 |
 | Civ. Code § 1950.5 [S-750] [S-751] | Security deposits: one-month cap (small-landlord exception), 21-day return | R-PRP-031 |
 | Civ. Code §§ 1946.2, 1947.12 [S-752] [S-753] [S-754] [S-755] | Tenant Protection Act: just cause; rent cap; sunset Jan 1, 2030 | R-PRP-046 |
 | Civ. Code §§ 1951.2, 1951.3, 1951.4 [VERIFY V-662] | Landlord's damages after abandonment; abandonment notice; lock-in | R-PRP-033 |
 | Civ. Code § 1954 [VERIFY V-662]; § 789.3 [VERIFY V-662] | Entry notice; self-help prohibited | R-PRP-044 |
-| Civ. Code §§ 1995.010–1995.340 [S-762] | Lease transfer restrictions; consent standard | R-PRP-042 |
+| Civ. Code §§ 1995.010–1995.340 [S-762] [S-1600] | Lease transfer restrictions; consent standard; nonresidential leases only (§ 1995.020(b)) | R-PRP-042 |
 | Civ. Code §§ 4000 et seq., 4715, 5975 [S-775]; § 783 | Davis-Stirling Act; pets; declarations as equitable servitudes; condominium | R-PRP-058, R-PRP-059 |
 | Civ. Code §§ 2884, 2889, 2897, 2898 [S-770], 2903 | Future obligations; forfeiture and clogging void; priority by time; purchase-money priority; redemption | R-PRP-090, R-PRP-091, R-PRP-093, R-PRP-100 |
 | Civ. Code §§ 2920, 2924, 2924c, 2924f, 2925, 2927, 2941 | Mortgage defined; security transfer is a mortgage; nonjudicial sale; reinstatement; defeasance; no possession; reconveyance | R-PRP-087, R-PRP-088, R-PRP-093, R-PRP-098, R-PRP-099 |
@@ -75,7 +76,7 @@ Cite only what you need on an essay; a rule stated correctly without a case name
 | 42 U.S.C. §§ 3603(b), 3604, 3607 | Fair Housing Act: prohibited acts, exemptions, advertising | R-PRP-048 |
 | 42 U.S.C. § 1982 | Race discrimination in property, no exemptions | R-PRP-048 |
 | 42 U.S.C. § 2000cc | RLUIPA land-use provisions | R-PRP-070 |
-| 12 U.S.C. § 1701j-3 [VERIFY V-665] | Garn–St Germain: due-on-sale enforceability and exceptions | R-PRP-096 |
+| 12 U.S.C. § 1701j-3 [S-1608]; 12 C.F.R. § 191.5 [S-1608] | Garn–St Germain: due-on-sale enforceability and residential (1–4 unit) exceptions | R-PRP-096 |
 | 26 U.S.C. §§ 6321, 6323 | Federal tax lien; filing requirement for priority | R-PRP-100, R-PRP-121 |
 | UCC §§ 9-334, 9-604(c)–(d) | Fixture priority; removal and reimbursement | R-PRP-069 |
 | UCC §§ 3-302, 3-305 | Holder in due course; defenses | R-PRP-097 |
@@ -87,6 +88,9 @@ Cite only what you need on an essay; a rule stated correctly without a case name
 | Restatement (Third) of Property: Servitudes § 4.8(3) [VERIFY V-653] | Servient owner may relocate an easement | R-PRP-066 |
 | Restatement (Third) of Property: Servitudes § 7.10 [VERIFY V-653] | Changed conditions | R-PRP-056 |
 | Restatement (Third) of Property: Mortgages [VERIFY V-673] | Payment to original mortgagee; subrogation; modifications | R-PRP-095, R-PRP-097 |
+| Restatement (Third) of Property: Mortgages § 2.3 [VERIFY V-995] | Future advances, optional or obligatory, keep the mortgage's priority (not followed everywhere: Washington 2022 [S-1605]) | R-PRP-091 |
+| Restatement (Third) of Property: Mortgages § 7.2(c) [S-781] [S-1609] | Vendor's purchase-money mortgage beats a third-party lender's (split among states) | R-PRP-090 |
+| Restatement (Third) of Property: Mortgages § 8.3 [S-1603] | Gross inadequacy of price alone may void a foreclosure sale; cmt. b: generally below 20% of fair market value | R-PRP-099 |
 | Restatement (Second) of Property: Landlord and Tenant [VERIFY V-651] | English rule on delivery; reasonableness of consent | R-PRP-030, R-PRP-042 |
 | Restatement (Second) of Conflict of Laws §§ 223, 236, 239 [VERIFY V-659] | Situs law for conveyances and succession to land | R-PRP-049 |
 
@@ -110,6 +114,7 @@ Cite only what you need on an essay; a rule stated correctly without a case name
 | *Nahrstedt v. Lakeside Village Condominium Assn.* (1994) 8 Cal.4th 361 [S-775] | Recorded CID restrictions presumed reasonable | R-PRP-058 |
 | *Lamden v. La Jolla Shores Clubdominium Homeowners Assn.* (1999) 21 Cal.4th 249 | Deference to board's good-faith maintenance decisions | R-PRP-058 |
 | *Willard v. First Church of Christ, Scientist* (1972) 7 Cal.3d 473 | Easement may be reserved for a third party | R-PRP-061 |
+| *Romero v. Shih* (2024) 15 Cal.5th 680 [S-1601] | Implied easement may exclude the servient owner from most uses on clear evidence of intent at severance; prescriptive cases distinguished | R-PRP-062, R-PRP-064 |
 | *Gilardi v. Hallam* (1981) 30 Cal.3d 317 [S-757] | No adverse possession without taxes; prescriptive easement needs no taxes where none separately assessed | R-PRP-064, R-PRP-106 |
 | *Bryant v. Blevins* (1994) 9 Cal.4th 47 | Agreed-boundary doctrine applied narrowly | R-PRP-108 |
 | *City of Los Angeles v. Gage* (1954) 127 Cal.App.2d 442 | Amortization of nonconforming uses valid | R-PRP-071 |
@@ -125,6 +130,7 @@ Cite only what you need on an essay; a rule stated correctly without a case name
 | *MacFadden v. Walker* (1971) 5 Cal.3d 809 [S-773] | Willfully defaulting installment buyer's restitution | R-PRP-089 |
 | *Petersen v. Hartell* (1985) 40 Cal.3d 102 [S-773] | Installment buyer's right to redeem after substantial payments | R-PRP-089 |
 | *Wellenkamp v. Bank of America* (1978) 21 Cal.3d 943 | State limit on due-on-sale clauses (preempted) | R-PRP-096 |
+| *Foge v. Schmidt* (1951) 101 Cal.App.2d 681; *6 Angels, Inc. v. Stuart-Wright Mortgage, Inc.* (2001) 85 Cal.App.4th 1279 [S-1604] | Trustee's sale not set aside for inadequate price alone; irregularity contributing to the low price required | R-PRP-099 |
 | *Roseleaf Corp. v. Chierighino* (1963) 59 Cal.2d 35 | Sold-out junior may sue on its note | R-PRP-104 |
 | *Palm v. Schilling* (1988) 199 Cal.App.3d 63 [S-777] | Anti-deficiency protection cannot be waived in advance | R-PRP-104 |
 | *Yvanova v. New Century Mortgage Corp.* (2016) 62 Cal.4th 919 | Borrower may challenge void assignment after nonjudicial sale | R-PRP-097 |
@@ -152,6 +158,7 @@ Cite only what you need on an essay; a rule stated correctly without a case name
 | *Javins v. First National Realty Corp.*, 428 F.2d 1071 (D.C. Cir. 1970) | Implied warranty of habitability | R-PRP-036 |
 | *Sommer v. Kridel*, 74 N.J. 446 (1977) | Landlord's duty to mitigate | R-PRP-033 |
 | *Reste Realty Corp. v. Cooper*, 53 N.J. 444 (1969) | Constructive eviction | R-PRP-035 |
+| *Davidow v. Inwood North Professional Group—Phase I*, 747 S.W.2d 373 (Tex. 1988) | Implied covenant of suitability in a commercial lease (minority) | R-PRP-036 |
 | *Hannan v. Dusch*, 154 Va. 356 (1930) | American rule on delivery | R-PRP-030 |
 | *Ernst v. Conditt*, 54 Tenn. App. 328 (1964) | Assignment vs. sublease by intent | R-PRP-039 |
 | *Van Valkenburgh v. Lutz*, 304 N.Y. 95 (1952); *Manillo v. Gorski*, 54 N.J. 378 (1969); *Howard v. Kunto*, 3 Wash. App. 393 (1970) | Adverse possession elements; boundary encroachments; tacking | R-PRP-105, R-PRP-107 |
@@ -162,7 +169,7 @@ Cite only what you need on an essay; a rule stated correctly without a case name
 | *Lohmeyer v. Bower*, 170 Kan. 442 (1951) | Zoning violation makes title unmarketable | R-PRP-080 |
 | *Skelly Oil Co. v. Ashmore*, 365 S.W.2d 582 (Mo. 1963) | Buyer credited with seller's insurance proceeds | R-PRP-082 |
 | *Ellsworth Dobbs, Inc. v. Johnson*, 50 N.J. 528 (1967) | Commission conditioned on closing | R-PRP-077 |
-| *Harms v. Sprague*, 105 Ill. 2d 215 (1984) | Lien-theory mortgage does not sever | R-PRP-022 |
+| *Harms v. Sprague*, 105 Ill. 2d 215 (1984) | Lien-theory mortgage does not sever (the majority of lien-theory courts) | R-PRP-022 |
 | *Spiller v. Mackereth*, 334 So. 2d 859 (Ala. 1976) | Ouster requires refusal of a demand to share | R-PRP-024 |
 | *Melms v. Pabst Brewing Co.*, 104 Wis. 7 (1899); *Baker v. Weedon*, 262 So. 2d 641 (Miss. 1972) | Ameliorative waste; sale of life-estate land | R-PRP-006, R-PRP-007 |
 | *Fontainebleau Hotel Corp. v. Forty-Five Twenty-Five, Inc.*, 114 So. 2d 357 (Fla. Dist. Ct. App. 1959); *Prah v. Maretti*, 108 Wis. 2d 223 (1982) | No right to light and air; solar-access nuisance (minority) | R-PRP-076 |

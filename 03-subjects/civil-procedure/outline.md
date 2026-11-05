@@ -4,7 +4,7 @@ topic: Civil Procedure — comprehensive outline (NCBE MBE numbering, with Calif
 coverage_ids: [CIV-MBE-I, CIV-MBE-I.A, CIV-MBE-I.B, CIV-MBE-I.C, CIV-MBE-I.D, CIV-MBE-II, CIV-MBE-II.A, CIV-MBE-II.B, CIV-MBE-III, CIV-MBE-III.A, CIV-MBE-III.B, CIV-MBE-III.C, CIV-MBE-III.D, CIV-MBE-III.E, CIV-MBE-III.F, CIV-MBE-III.G, CIV-MBE-IV, CIV-MBE-IV.A, CIV-MBE-IV.B, CIV-MBE-IV.C, CIV-MBE-V, CIV-MBE-V.A, CIV-MBE-V.B, CIV-MBE-V.C, CIV-MBE-VI, CIV-MBE-VI.A, CIV-MBE-VI.B, CIV-MBE-VI.C, CIV-MBE-VI.D, CIV-MBE-VII, CIV-MBE-VII.A, CIV-MBE-VII.B, CIV-MBE-VII.C, CIV-CBX-I, CIV-CBX-II, CIV-CBX-III-IV, CIV-CBX-V, CIV-CBX-VI, CIV-SUP-011]
 tested_on: [MBE, essay]
 exam_frequency: {level: high, basis: "Essays: 13 of 31 administrations 2012-02 to 2026-07 (42%); MBE: 25 scored questions every exam"}
-last_verified: 2026-11-04
+last_verified: 2026-11-05
 status: draft
 ---
 
@@ -12,7 +12,7 @@ status: draft
 
 **Scope and law.** The MBE assumes the Federal Rules of Civil Procedure as currently in effect and the Title 28 sections on jurisdiction, venue and transfer; about two-thirds of the scored questions come from categories I, III and V [S-040]. California essays test the FRCP **and** the California Code of Civil Procedure [S-084]; the recent essays with a visible forum were in federal court (`../../06-past-exams/frequency-analysis.md`). Headings follow NCBE numbering. Each topic cites its rule blocks in [rule-statements.md](rule-statements.md) (R-CIV-###) and ends with **How it is tested**. California points appear as **CA note:** lines; the full comparison is in [ca-distinctions.md](ca-distinctions.md).
 
-**Current-law checkpoints (July 2027).** FRCP 16.1 (MDL) and the 16(b)/26(f) privilege-log amendments took effect Dec. 1, 2025 [S-107]; there were no civil-rule amendments on Dec. 1, 2026 [S-103]; the proposed Dec. 1, 2027 amendments to Rules 7.1, 26, 41, 45 and 81 are **not** testable [S-110]. No amendment to 28 U.S.C. §§ 1332, 1391 or 1441 has been found since 2011 [VERIFY V-027]. Recent Supreme Court decisions: Mallory (2023) and Royal Canin (2025) [VERIFY V-035]; Berk v. Choy, Coney Island, Hain Celestial and Chevron v. Plaquemines (2026) [VERIFY V-034]; GEO Group v. Menocal (2026) [VERIFY V-150].
+**Current-law checkpoints (July 2027).** FRCP 16.1 (MDL) and the 16(b)/26(f) privilege-log amendments took effect Dec. 1, 2025 [S-107]; there were no civil-rule amendments on Dec. 1, 2026 [S-103]; the proposed Dec. 1, 2027 amendments to Rules 7.1, 26, 41, 45 and 81 are **not** testable [S-110]. No amendment to 28 U.S.C. §§ 1332, 1391 or 1441 has been found since 2011 [VERIFY V-027]. Recent Supreme Court decisions: Mallory (2023) and Royal Canin (2025) [VERIFY V-035]; Berk v. Choy [S-250], Coney Island [S-252] and Hain Celestial [S-251] (2026); Chevron v. Plaquemines (2026) [S-254] [VERIFY V-034]; GEO Group v. Menocal (2026) [S-1400].
 
 ---
 
@@ -54,7 +54,7 @@ A court needs **four things** before it can bind a defendant: subject-matter jur
 
 - **Complete diversity** (Strawbridge): no plaintiff shares citizenship with any defendant. Alignment follows real interests; the court may realign.
 - **Timing:** at filing (Grupo Dataflux); a later move neither creates nor destroys diversity. For removal, diversity must exist at filing and at removal.
-- **Cure:** dismissing a dispensable non-diverse party under Rule 21 (Newman-Green) or a cure completed before judgment (Caterpillar v. Lewis) saves the judgment; a court's **erroneous** dismissal of a properly joined non-diverse defendant does **not** — vacate and remand (Hain Celestial (2026) [S-251] [VERIFY V-034]).
+- **Cure:** dismissing a dispensable non-diverse party under Rule 21 (Newman-Green) or a cure completed before judgment (Caterpillar v. Lewis) saves the judgment; a court's **erroneous** dismissal of a properly joined non-diverse defendant does **not** — vacate and remand (Hain Celestial (2026) [S-251]).
 - **Devices to manufacture or defeat diversity:** collusive assignment (§ 1359) is ignored; fraudulent joinder of a non-diverse defendant with no possible claim is disregarded.
 - **Amount in controversy** (R-CIV-008): good-faith demand controls unless legally certain it is ≤ $75,000 (St. Paul Mercury). Exactly $75,000 fails.
   - Aggregation: one plaintiff v. one defendant — aggregate all claims, related or not. Multiple plaintiffs — no aggregation of separate claims (Snyder v. Harris) unless common undivided interest. One plaintiff v. multiple defendants — only if jointly liable.
@@ -95,7 +95,7 @@ A court needs **four things** before it can bind a defendant: subject-matter jur
 - **Forum-defendant rule** (§ 1441(b)(2)): diversity cases only; any properly joined **and served** forum defendant bars removal. Most courts: procedural, waived if not raised within 30 days.
 - **§ 1441(c):** federal-question claim + claims outside original/supplemental jurisdiction → remove all, sever and remand the latter; only defendants on the federal claim must consent.
 - **Non-removable:** state workers' compensation claims; FELA suits against railroads (§ 1445).
-- **Procedure** (§ 1446): notice signed under Rule 11 with short and plain grounds; 30 days from formal service (Murphy Bros.); each defendant has its own 30 days; unanimity of properly joined and served defendants; "other paper" restarts the clock; one-year cap on diversity removals unless plaintiff's bad faith (deliberately hiding the amount counts); notice to adverse parties and state court; state court proceeds no further.
+- **Procedure** (§ 1446): notice signed under Rule 11 with short and plain grounds; 30 days from formal service (Murphy Bros.); each defendant has its own 30 days; unanimity of properly joined and served defendants; "other paper" restarts the clock; one-year cap on diversity removals of cases that became removable only later (§ 1446(b)(3), (c)(1)) unless plaintiff's bad faith (deliberately hiding the amount counts); notice to adverse parties and state court; state court proceeds no further.
 - **Amount on removal:** sum demanded in good faith; if state practice bars a specific demand, the notice may allege it and the court decides by a preponderance; plausible allegation suffices in the notice (Dart Cherokee).
 - **Remand** (§ 1447): procedural defects — motion within 30 days; SMJ — any time before final judgment; fees only if no objectively reasonable basis (Martin v. Franklin Capital); remand orders not reviewable except § 1442/1443 cases (whole order, BP v. Baltimore (2021)) and CAFA by permission; post-removal joinder of a non-diverse defendant → deny or permit and remand (§ 1447(e)).
 - **Federal-officer removal** (§ 1442): "acting under" + "for or relating to" (plausible close relationship to federal duties — Chevron v. Plaquemines (2026) [S-254] [VERIFY V-034]) + colorable federal defense (Mesa). No well-pleaded complaint rule; no unanimity.
@@ -111,11 +111,11 @@ A court needs **four things** before it can bind a defendant: subject-matter jur
 - **CA note:** CCP § 410.10 reaches "any basis not inconsistent with" the state and federal constitutions — skip directly to due process, but cite § 410.10.
 
 #### I.B.2 Traditional bases (R-CIV-018, R-CIV-019)
-- **Presence ("tag")**: personal service while voluntarily in the forum — Burnham (all Justices upheld; plurality on history, concurrence on fairness). Fraud/force exception; litigation-attendance immunity (common law).
+- **Presence ("tag")**: personal service while voluntarily in the forum — Burnham (all nine Justices upheld it, but no majority rationale: Scalia's four-Justice plurality relied on tradition; Brennan's four-Justice concurrence in the judgment on fairness). Fraud/force exception; litigation-attendance immunity (common law).
 - **Domicile:** Milliken v. Meyer — general jurisdiction over a domiciliary wherever served.
 - **Consent:** forum-selection clauses (Burger King; Carnival Cruise), stipulations, appearance; sanction-based finding of jurisdiction (Insurance Corp. of Ireland).
 - **Waiver:** omit PJ from first Rule 12 motion or answer → waived (12(h)(1)).
-- **Registration consent:** Mallory (2023) [VERIFY V-035] upholds Pennsylvania's express-consent statute; dormant Commerce Clause question open. **CA note:** California's registration scheme is not generally read as express consent [VERIFY V-156].
+- **Registration consent:** Mallory (2023) [VERIFY V-035] upholds Pennsylvania's express-consent statute; dormant Commerce Clause question open. **CA note:** California's registration scheme (Corp. Code § 2105) requires consent to service of process, not to general jurisdiction (AM Trust v. UBS AG (9th Cir. 2017) (unpublished)) [S-1405].
 
 #### I.B.3 General ("all-purpose") jurisdiction (R-CIV-020)
 - "At home": individual — domicile; corporation — incorporation State and principal place of business (Goodyear; Daimler); "exceptional case" otherwise (Perkins).
@@ -202,7 +202,7 @@ A court needs **four things** before it can bind a defendant: subject-matter jur
 **Erie roadmap (R-CIV-037 to R-CIV-040):**
 1. Is the claim governed by state law (diversity, supplemental, or state law borrowed in a federal case)? If not, federal law applies.
 2. **Is there a federal statute on point?** If valid (constitutional), it controls (Stewart v. Ricoh — § 1404(a)).
-3. **Is there a Federal Rule on point?** Read it for a "direct collision" — is it sufficiently broad to answer the question (Walker; Burlington Northern)? If yes, apply it if valid under the Rules Enabling Act, § 2072 (really regulates procedure: Sibbach; Hanna; Shady Grove plurality). Berk v. Choy (2026) [S-250] [VERIFY V-034]: Rule 8 displaces a state affidavit-of-merit requirement; the state law's substantive purpose does not matter.
+3. **Is there a Federal Rule on point?** Read it for a "direct collision" — is it sufficiently broad to answer the question (Walker; Burlington Northern)? If yes, apply it if valid under the Rules Enabling Act, § 2072 (really regulates procedure: Sibbach; Hanna; Shady Grove plurality, which disregards the state law's purpose; Justice Stevens's concurrence would ask whether the state rule is bound up with the state-created right). Berk v. Choy (2026) [S-250]: Rule 8 governs what a complaint must contain, so a state affidavit-of-merit requirement does not apply in federal court.
 4. **No federal rule (judge-made practice):** modified outcome-determination — would applying federal practice encourage forum shopping or inequitable administration (Hanna's twin aims)? If yes, use state law (York) — unless the state rule is form-and-mode and an important federal interest outweighs it (Byrd: judge/jury allocation). Gasperini: apply state excessiveness standard in the district court; review for abuse of discretion.
 
 **Standard outcomes**
@@ -214,7 +214,7 @@ A court needs **four things** before it can bind a defendant: subject-matter jur
 | Choice-of-law rules | Forum State's (transferor's after § 1404) | Klaxon; Van Dusen; Ferens |
 | Burden of proof on state claim | State | Cities Service v. Dunlap |
 | Method of service | FRCP 4 | Hanna |
-| Pleading standard / affidavit of merit | FRCP 8 | Berk v. Choy [VERIFY V-034] |
+| Pleading standard / affidavit of merit | FRCP 8 | Berk v. Choy [S-250] |
 | Class actions | FRCP 23 | Shady Grove |
 | Right to jury; judge/jury allocation | Federal | Byrd; Simler |
 | JMOL sufficiency standard | Federal (majority) | — |
@@ -223,7 +223,7 @@ A court needs **four things** before it can bind a defendant: subject-matter jur
 | Privileges on state claims | State | FRE 501 |
 | Preclusive effect of federal diversity judgment | Federal common law adopting forum State's law | Semtek |
 | Appellate sanctions for frivolous appeal | FRAP 38 | Burlington Northern |
-| California anti-SLAPP | Applied by Ninth Circuit; rejected by others | Newsham [VERIFY V-151] |
+| California anti-SLAPP | Applied by Ninth Circuit precedent (Newsham; en banc Gopher Media (2025) assumed without deciding); rejected by several other circuits | Newsham; Gopher Media [S-1402] [VERIFY V-975] |
 
 - **Determining state law:** follow the State's highest court; if none, predict (Bosch); certify if the State permits. Intermediate appellate decisions are data, not binding.
 - **"Reverse Erie":** state courts hearing federal claims must apply federal rules that are part of the federal right (mention only).
@@ -442,7 +442,7 @@ Discovery is the second most-tested essay topic (Feb. 2015, Jul. 2019, Jul. 2021
 - **Mixed cases** (R-CIV-079): jury decides legal claims and common issues first (Beacon Theatres; Dairy Queen); derivative suits (Ross v. Bernhard); declaratory judgment actions — look to the nature of the underlying claim.
 - **Issues for the judge in jury cases:** questions of law; patent claim construction (Markman); preliminary facts for admissibility (FRE 104(a)); amount of civil penalties (Tull).
 - **Demand and waiver** (R-CIV-080): 38(b) 14 days after last pleading on the issue; 38(d) waiver; 39(b) discretion; 81(c)(3) removed cases; advisory jury (39(c)). Essay: Feb. 2015 (timeliness of jury demand).
-- **CA note:** California right as at common law in 1850 (Cal. Const. art. I, § 16 [S-260]); equity first; no pre-dispute jury waivers (Grafton) — R-CIV-116.
+- **CA note:** California right as at common law in 1850 (Cal. Const. art. I, § 16 [S-260]); the court may try equitable issues first (Raedeke; Hoopes v. Dolan) [S-1407]; no pre-dispute jury waivers (Grafton) — R-CIV-116.
 - **How it is tested:** MBE — legal vs. equitable classification, Beacon sequencing, demand timing. Essay — Jul. 2017 ("which issues are triable to a jury?").
 
 ### IV.B Selection and composition of juries
@@ -452,7 +452,7 @@ Discovery is the second most-tested essay topic (Feb. 2015, Jul. 2019, Jul. 2021
 - **Challenges** (R-CIV-082): for cause (unlimited; actual or implied bias); peremptory — 3 per party (§ 1870), multiple parties may be treated as one or given more; Batson/Edmonson/J.E.B. limits.
 - **Post-verdict juror issues** (R-CIV-092): McDonough test for voir dire non-disclosure; FRE 606(b) limits juror testimony.
 - **Essay:** Jul. 2024 ("was seating Juror #5 error?") — analyze the challenge for cause (bias by relationship or statements), whether a peremptory was available and used, preservation, and McDonough if facts surfaced later.
-- **CA note:** six peremptory challenges per party in a two-party civil case (CCP § 231(c) [S-271]); statutory bias-challenge procedure in CCP § 231.7 [VERIFY V-029]; jury of 12 (or fewer by agreement), three-fourths verdict.
+- **CA note:** six peremptory challenges per party in a two-party civil case (CCP § 231(c) [S-271]); statutory bias-challenge procedure in CCP § 231.7, civil trials from Jan. 1, 2026 [S-365]; jury of 12 (or fewer by agreement), three-fourths verdict.
 - **How it is tested:** MBE — number of jurors, peremptories, Batson in civil cases, for-cause grounds. Essay — Jul. 2024.
 
 ### IV.C Requests for and objections to jury instructions
@@ -477,7 +477,7 @@ Discovery is the second most-tested essay topic (Feb. 2015, Jul. 2019, Jul. 2021
 - Evidence: admissible in substance (56(c)(2)); declarations on personal knowledge (56(c)(4)); court need consider only cited materials (56(c)(3)).
 - Genuineness: reasonable jury, with substantive standard (Anderson v. Liberty Lobby); no credibility weighing; inferences for non-movant (Tolan); blatant contradiction by record (Scott v. Harris); implausible economic theories (Matsushita).
 - Timing: any time until 30 days after close of discovery (56(b)); 56(d) more time for discovery; 56(e) failure to address fact; 56(f) independent of motion; 56(g) facts not genuinely in dispute; 56(h) bad-faith affidavits sanctioned.
-- A denial of summary judgment is interlocutory and not appealable; after trial, a sufficiency challenge must be preserved through Rule 50 (Ortiz v. Jordan, 562 U.S. 180 (2011)), though purely legal issues decided at SJ are preserved (Dupree v. Younger (2023)) [VERIFY V-161].
+- A denial of summary judgment is interlocutory and not appealable; after trial, a sufficiency challenge must be preserved through Rule 50 (Ortiz v. Jordan, 562 U.S. 180 (2011)), though purely legal issues decided at SJ are preserved (Dupree v. Younger, 598 U.S. 729 (2023)) [S-1408].
 - **CA note:** separate statement; 81/20/11 days; hearing ≥ 30 days before trial; summary adjudication only of whole causes of action, defenses, punitive-damages claims or duty issues; writ review of denial within 20 days (CCP § 437c [S-114] [S-263]) — R-CIV-113.
 - **How it is tested:** MBE — burden-shifting, genuine vs. material, 12(d) conversion, waiver of 12(b) defenses. Essays — Feb. 2019 (motion to dismiss for lack of SMJ), Feb. 2023 (motion to dismiss for failure to join), Jul. 2015 (summary adjudication).
 
@@ -493,16 +493,16 @@ Discovery is the second most-tested essay topic (Feb. 2015, Jul. 2019, Jul. 2021
 ### V.C Posttrial motions, including motions for relief from judgment and for new trial
 - **New trial** (R-CIV-089): grounds; weighing permitted ("clear weight," "miscarriage of justice"); 28 days, no extension (6(b)(2)); court's own initiative within 28 days; partial new trial if issues separable; remittitur (not additur — Dimick); Gasperini for state excessiveness standards; affidavits supporting the motion (59(c)).
 - **Alter or amend** (59(e)): 28 days; correct manifest errors of law or fact, newly discovered evidence, intervening change of law; not to relitigate.
-- **Relief from judgment** (R-CIV-090): 60(a) clerical; 60(b)(1)–(6); timing (60(c)); void judgments and the reasonable-time limit (Coney Island (2026) [S-252] [VERIFY V-034]); independent action and fraud on the court (60(d)); 60(b)(2) evidence must be (i) discovered after trial, (ii) not discoverable with diligence in time for a Rule 59 motion, (iii) material and not merely cumulative or impeaching, and (iv) likely to change the outcome (general formulation); 60(b)(3) misconduct shown by clear and convincing evidence in most circuits and need not be outcome-changing if it prevented a full and fair presentation.
+- **Relief from judgment** (R-CIV-090): 60(a) clerical; 60(b)(1)–(6); timing (60(c)); void judgments and the reasonable-time limit (Coney Island (2026) [S-252]); independent action and fraud on the court (60(d)); 60(b)(2) evidence must be (i) discovered after trial, (ii) not discoverable with diligence in time for a Rule 59 motion, (iii) material and not merely cumulative or impeaching, and (iv) likely to change the outcome (general formulation); 60(b)(3) misconduct shown by clear and convincing evidence in most circuits and need not be outcome-changing if it prevented a full and fair presentation.
 - **Interplay and timing:** motions under 50(b), 52(b), 59 and Rule 60 (if within 28 days) toll the time to appeal (FRAP 4(a)(4)).
 - **Essay:** Jul. 2024 (new trial based on hidden crash-test reports) — consider Rule 59 (newly discovered evidence / misconduct within 28 days), Rule 60(b)(2) and (b)(3) (within a year), and Rule 37 sanctions for the discovery violation.
-- **CA note:** CCP § 657 grounds with written reasons; notice of intention 15/180 days; 75 days to rule; additur and remittitur (§ 662.5); § 473(b) relief — R-CIV-107, R-CIV-117 [S-261] [S-262].
+- **CA note:** CCP § 657 grounds with written reasons; notice of intention 15/180 days; 75 days from notice of entry to rule; additur and remittitur (§ 662.5); § 473(b) relief — R-CIV-107, R-CIV-117 [S-261] [S-262].
 - **How it is tested:** MBE — 28-day deadlines, remittitur vs. additur, 60(b) categories and one-year limit.
 
 ## VI Verdicts and judgments
 
 ### VI.A Defaults and involuntary dismissals
-- **Default** (R-CIV-076): entry → judgment; clerk vs. court; 54(c) limit; 7-day notice to appearing party; setting aside (good cause vs. 60(b)); void-judgment attacks subject to reasonable time (Coney Island [VERIFY V-034]); default judgment entered without PJ may be attacked collaterally by a defendant who never appeared.
+- **Default** (R-CIV-076): entry → judgment; clerk vs. court; 54(c) limit; 7-day notice to appearing party; setting aside (good cause vs. 60(b)); void-judgment attacks subject to reasonable time (Coney Island [S-252]); default judgment entered without PJ may be attacked collaterally by a defendant who never appeared.
 - **Involuntary dismissal** (R-CIV-075): 41(b); adjudication on the merits unless otherwise stated or jurisdiction/venue/Rule 19; Semtek limits the reach of "on the merits."
 - **CA note:** CCP § 473(b) mandatory relief on attorney affidavit of fault; § 473.5 relief where no actual notice; dismissal for delay (§§ 583.210, 583.310, 583.410) — R-CIV-107.
 - **How it is tested:** MBE — clerk's authority, setting aside, effect of 41(b) dismissal.
@@ -543,7 +543,7 @@ Discovery is the second most-tested essay topic (Feb. 2015, Jul. 2019, Jul. 2021
 | Feature | Federal / MBE | California |
 |---|---|---|
 | Claim definition | Transaction (Restatement § 24) | Primary right (Mycogen; Slater; Boeken) |
-| Finality while appeal pending | Final (majority) | Not final (Samara; CCP § 1049) |
+| Finality while appeal pending | Final (majority) | Not final, for claim or issue preclusion (Samara; CCP § 1049) |
 | Mutuality for issue preclusion | Not required; Parklane limits on offensive use | Not required (Bernhard); fairness/public-policy check (Lucido) |
 | Terminology | Claim / issue preclusion | Same, adopted in DKN Holdings |
 
@@ -556,7 +556,7 @@ Discovery is the second most-tested essay topic (Feb. 2015, Jul. 2019, Jul. 2021
 - **§ 1292(a)(1)** injunction orders (R-CIV-100); practical-effect test (Carson); TROs generally not (Sampson).
 - **§ 1292(b)** certified questions: district court certification + court of appeals' permission; 10 days.
 - **Rule 23(f)** class-certification appeals (14 days).
-- **Collateral order doctrine** (R-CIV-101): Cohen three-part test; narrow category; included — denials of qualified immunity that turn on issues of law (not fact-based sufficiency rulings: *Johnson v. Jones*, 515 U.S. 304 (1995)), sovereign/Eleventh Amendment immunity, double jeopardy, orders requiring security in Cohen; excluded — privilege disclosure orders (Mohawk: appeal after final judgment generally suffices; § 1292(b), mandamus or a contempt appeal also possible), attorney disqualification (Richardson-Merrell), forum-selection-clause denials (Lauro Lines), class-certification denials (Coopers & Lybrand), and denial of a contractor's derivative sovereign immunity (GEO Group v. Menocal (2026) [S-253] [VERIFY V-150]).
+- **Collateral order doctrine** (R-CIV-101): Cohen three-part test; narrow category; included — denials of qualified immunity that turn on issues of law (not fact-based sufficiency rulings: *Johnson v. Jones*, 515 U.S. 304 (1995)), sovereign/Eleventh Amendment immunity, double jeopardy, orders requiring security in Cohen; excluded — privilege disclosure orders (Mohawk: appeal after final judgment generally suffices; § 1292(b), mandamus or a contempt appeal also possible), attorney disqualification (Richardson-Merrell), forum-selection-clause denials (Lauro Lines), class-certification denials (Coopers & Lybrand), and denial of a contractor's derivative sovereign immunity (GEO Group v. Menocal (2026) [S-253] [S-1400]).
 - **Mandamus** (§ 1651; Cheney): clear abuse or usurpation; no other adequate means; clear and indisputable right.
 - **Other statutory routes:** 9 U.S.C. § 16 (orders refusing arbitration); § 1453(c) (CAFA remand orders); § 1447(d) (federal-officer removal remands).
 - **CA note:** CCP § 904.1 lists appealable interlocutory orders (anti-SLAPP, injunctions, new-trial grants, motion-to-quash grants, FNC); writs for the rest; "death knell" for class-certification denials — R-CIV-118.

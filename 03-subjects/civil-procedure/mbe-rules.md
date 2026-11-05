@@ -4,7 +4,7 @@ topic: Civil Procedure — MBE assumptions, favoured black-letter rules and recu
 coverage_ids: [CIV-MBE-I, CIV-MBE-II, CIV-MBE-III, CIV-MBE-IV, CIV-MBE-V, CIV-MBE-VI, CIV-MBE-VII]
 tested_on: [MBE]
 exam_frequency: {level: high, basis: "Essays: 13 of 31 administrations 2012-02 to 2026-07 (42%); MBE: 25 scored questions every exam"}
-last_verified: 2026-11-04
+last_verified: 2026-11-05
 status: draft
 ---
 
@@ -29,7 +29,7 @@ status: draft
 
 ### II. Law applied by federal courts
 - Sorting rules into **state** (limitations, tolling, choice of law, burden of proof, elements) and **federal** (service, pleading, joinder, class actions, jury right). (R-CIV-037 to R-CIV-040)
-- Hanna: a valid Federal Rule on point wins. Byrd: judge/jury allocation is federal. Klaxon: forum State's choice-of-law rules. Berk v. Choy (2026): Rule 8 displaces state affidavit-of-merit rules [VERIFY V-034].
+- Hanna: a valid Federal Rule on point wins. Byrd: judge/jury allocation is federal. Klaxon: forum State's choice-of-law rules. Berk v. Choy (2026): Rule 8 displaces state affidavit-of-merit rules [S-250].
 - Federal common law enclaves (U.S. commercial paper, contractor defense). (R-CIV-041)
 
 ### III. Pretrial procedures (heaviest with I and V)
@@ -53,7 +53,7 @@ status: draft
 - Rule 49 inconsistent answers; Rule 52 clear-error review; McDonough juror non-disclosure; claim preclusion (transactional test; on the merits); issue preclusion (actually litigated and essential); Parklane offensive non-mutual estoppel; Taylor v. Sturgell non-party preclusion; § 1738 and Semtek. (R-CIV-091 to R-CIV-098)
 
 ### VII. Appealability and review
-- Final judgment rule; Rule 54(b); § 1292(a)(1) injunctions; § 1292(b) certification (10 days); 23(f); collateral order doctrine (Mohawk: privilege rulings not appealable; GEO Group: contractor immunity denials not appealable [VERIFY V-150]); standards of review. (R-CIV-099 to R-CIV-102)
+- Final judgment rule; Rule 54(b); § 1292(a)(1) injunctions; § 1292(b) certification (10 days); 23(f); collateral order doctrine (Mohawk: privilege rulings not appealable; GEO Group: contractor immunity denials not appealable [S-1400]); standards of review. (R-CIV-099 to R-CIV-102)
 
 ## 3. Recurring MBE fact patterns and the answer they want
 | Fact pattern | Answer |
@@ -101,7 +101,7 @@ status: draft
 | 60 | Answer after waiver of service (4(d)(3)); appeal if the U.S. is a party |
 | 90 | Service of process (4(m)); expert disclosures before trial; scheduling order after service |
 | 100 miles | Bulge service (4(k)(1)(B)); subpoena range (45(c)); deposition use for distant witness (32(a)(4)(B)) |
-| 1 year | Diversity removal cap (1446(c)(1)); Rule 60(b)(1)–(3) outer limit |
+| 1 year | Diversity removal cap for cases that become removable later (1446(b)(3), (c)(1)); Rule 60(b)(1)–(3) outer limit |
 
 ## 5. Method tips for CIV questions
 - **Identify the Rule first.** Many wrong answers state a correct rule from the wrong context (e.g., a state-court standard, the pre-2015 discovery scope, or a criminal-procedure analogue).

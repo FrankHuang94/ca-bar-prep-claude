@@ -4,7 +4,7 @@ topic: Real Property — plain-English primer (read first)
 coverage_ids: [PRP-MBE-I, PRP-MBE-II, PRP-MBE-III, PRP-MBE-IV, PRP-MBE-V, PRP-CBX-I, PRP-CBX-IV, PRP-CBX-VII-IX]
 tested_on: [MBE, essay]
 exam_frequency: {level: high, basis: "Essays: 13 of 31 administrations 2012-02 to 2026-07 (42%); MBE: 25 scored questions every exam"}
-last_verified: 2026-11-04
+last_verified: 2026-11-05
 status: draft
 ---
 
@@ -50,7 +50,7 @@ The exam then asks what happens when these divided rights are **transferred** (d
 | Adverse possession | Gaining title by possessing another's land long enough |
 
 ## How the pieces connect
-- **Estates feed everything.** You must know what A holds before asking whether A could lease it, mortgage it, or convey it with warranties. A life tenant's lease ends at her death; a joint tenant's mortgage dies with her in a lien-theory state.
+- **Estates feed everything.** You must know what A holds before asking whether A could lease it, mortgage it, or convey it with warranties. A life tenant's lease ends at her death; a joint tenant's mortgage dies with her in most lien-theory states, including California.
 - **Running with the land** is the same idea in three places: lease covenants (R-PRP-041), real covenants and servitudes (R-PRP-050 to R-PRP-053), and easements (R-PRP-067). In each, ask: did the original parties intend it to bind successors, does it touch and concern the land, and does the successor have the required privity or notice?
 - **Notice is the hinge** of transfers: equitable servitudes bind with notice; recording acts protect only purchasers without notice; possession gives inquiry notice of leases, easements and adverse claims.
 - **Mortgages are transfers too.** A mortgage is an interest in land, so recording acts decide priority between mortgages and deeds (Feb 2025 Q3 [VERIFY V-071]).

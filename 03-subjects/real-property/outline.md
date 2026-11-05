@@ -4,7 +4,7 @@ topic: Real Property — comprehensive outline (NCBE MBE numbering; State Bar es
 coverage_ids: [PRP-MBE-I, PRP-MBE-I.A, PRP-MBE-I.A.1, PRP-MBE-I.A.1.a, PRP-MBE-I.A.1.b, PRP-MBE-I.A.1.c, PRP-MBE-I.A.2, PRP-MBE-I.A.2.a, PRP-MBE-I.A.2.b, PRP-MBE-I.A.2.c, PRP-MBE-I.A.2.d, PRP-MBE-I.A.2.e, PRP-MBE-I.B, PRP-MBE-I.B.1, PRP-MBE-I.B.2, PRP-MBE-I.C, PRP-MBE-I.C.1, PRP-MBE-I.C.2, PRP-MBE-I.C.3, PRP-MBE-I.C.4, PRP-MBE-I.C.5, PRP-MBE-I.D, PRP-MBE-I.D.1, PRP-MBE-I.D.2, PRP-MBE-I.D.3, PRP-MBE-I.D.4, PRP-MBE-II, PRP-MBE-II.A, PRP-MBE-II.A.1, PRP-MBE-II.A.2, PRP-MBE-II.A.3, PRP-MBE-II.A.4, PRP-MBE-II.A.5, PRP-MBE-II.A.6, PRP-MBE-II.B, PRP-MBE-II.B.1, PRP-MBE-II.B.2, PRP-MBE-II.B.3, PRP-MBE-II.B.4, PRP-MBE-II.B.5, PRP-MBE-II.C, PRP-MBE-II.D, PRP-MBE-II.D.1, PRP-MBE-II.D.2, PRP-MBE-II.D.3, PRP-MBE-III, PRP-MBE-III.A, PRP-MBE-III.B, PRP-MBE-III.B.1, PRP-MBE-III.B.2, PRP-MBE-III.B.3, PRP-MBE-III.B.4, PRP-MBE-III.C, PRP-MBE-III.D, PRP-MBE-III.E, PRP-MBE-III.F, PRP-MBE-III.G, PRP-MBE-IV, PRP-MBE-IV.A, PRP-MBE-IV.A.1, PRP-MBE-IV.A.1.a, PRP-MBE-IV.A.1.b, PRP-MBE-IV.A.1.c, PRP-MBE-IV.A.2, PRP-MBE-IV.A.3, PRP-MBE-IV.B, PRP-MBE-IV.B.1, PRP-MBE-IV.B.2, PRP-MBE-IV.B.3, PRP-MBE-IV.B.4, PRP-MBE-IV.C, PRP-MBE-IV.C.1, PRP-MBE-IV.C.2, PRP-MBE-IV.C.3, PRP-MBE-IV.C.4, PRP-MBE-IV.D, PRP-MBE-IV.E, PRP-MBE-IV.E.1, PRP-MBE-IV.E.2, PRP-MBE-IV.F, PRP-MBE-IV.F.1, PRP-MBE-IV.F.2, PRP-MBE-IV.F.3, PRP-MBE-IV.F.4, PRP-MBE-IV.F.5, PRP-MBE-V, PRP-MBE-V.A, PRP-MBE-V.B, PRP-MBE-V.B.1, PRP-MBE-V.B.2, PRP-MBE-V.B.3, PRP-MBE-V.B.4, PRP-MBE-V.C, PRP-MBE-V.D, PRP-MBE-V.D.1, PRP-MBE-V.D.2, PRP-MBE-V.E, PRP-CBX-I, PRP-CBX-II, PRP-CBX-III, PRP-CBX-IV, PRP-CBX-V, PRP-CBX-VI, PRP-CBX-VII-IX]
 tested_on: [MBE, essay]
 exam_frequency: {level: high, basis: "Essays: 13 of 31 administrations 2012-02 to 2026-07 (42%); MBE: 25 scored questions every exam"}
-last_verified: 2026-11-04
+last_verified: 2026-11-05
 status: draft
 ---
 
@@ -79,7 +79,7 @@ The system is a timeline. A **present estate** gives possession now; a **future 
 - **Vested** (ascertained taker, no condition precedent): indefeasibly vested; **vested subject to open** (class can grow); **vested subject to complete divestment** (condition subsequent). R-PRP-009.
 - **Contingent** (unborn or unascertained taker, or condition precedent): the grantor keeps a reversion; alternative contingent remainders are common ("to B if …, and if not, to C"). R-PRP-010.
 - **Comma test:** condition in the same clause as the gift ("to B if B survives A") = condition precedent → contingent; condition after a gift that is complete on its face ("to B, but if B dies before A, to C") = condition subsequent → vested subject to divestment.
-- **Statutory definitions:** Civ. Code §§ 767–769 (future interests vested or contingent).
+- **Statutory definitions:** Civ. Code §§ 694 (vested), 695 (contingent) [S-1606].
 
 ##### I.A.2.c Executory interests
 - A transferee's future interest that **divests** a prior transferee (**shifting**) or the grantor (**springing**), or that follows a gap. Subject to the RAP. R-PRP-011.
@@ -120,7 +120,7 @@ R-PRP-012, R-PRP-013.
 - **Joint tenancy:** four unities (time, title, interest, possession) plus clear survivorship language; most states (and California) allow a self-conveyance to oneself and another to create it (R-PRP-020).
 - **Severance by conveyance:** a joint tenant's inter vivos conveyance to a third party severs as to that share; the transferee is a tenant in common; remaining joint tenants stay joint among themselves (R-PRP-021).
 - **Severance by self-conveyance (CA):** *Riddle v. Harmon* (1980) 102 Cal.App.3d 524; recording requirement: severance effective against survivorship only if recorded before death, or executed and acknowledged within three days before death and recorded within seven days after (Civ. Code § 683.2(c)) [S-760]. A will never severs (*Estate of England* (1991) 233 Cal.App.3d 1) [S-761].
-- **Mortgage, lease, contract, killing** (R-PRP-022): title-theory mortgage severs; lien-theory mortgage does not, and in California the survivor takes free of a co-tenant's sole mortgage or deed of trust (*People v. Nogarr* (1958) 164 Cal.App.2d 591; *Hamel v. Gootkin* (1962) 202 Cal.App.2d 27) [S-765]; a lease by one joint tenant does not sever and ends at the lessor's death (*Tenhet v. Boswell* (1976) 18 Cal.3d 150) [S-765]; an enforceable contract to sell severs in most states; a killer forfeits survivorship (Prob. Code § 251) [VERIFY V-664].
+- **Mortgage, lease, contract, killing** (R-PRP-022): title-theory mortgage severs; in most lien-theory states (and California) a mortgage does not sever, and in California the survivor takes free of a co-tenant's sole mortgage or deed of trust (*People v. Nogarr* (1958) 164 Cal.App.2d 591; *Hamel v. Gootkin* (1962) 202 Cal.App.2d 27) [S-765]; a lease by one joint tenant does not sever and ends at the lessor's death (*Tenhet v. Boswell* (1976) 18 Cal.3d 150) [S-765]; an enforceable contract to sell severs in most states; a killer forfeits survivorship (Prob. Code § 251) [VERIFY V-664].
 - **Tenancy by the entirety:** not recognized in California (R-PRP-023). For spouses in California, analyze title under Community Property (R-CMP-012 to R-CMP-014, R-CMP-098) and simultaneous death of joint tenants under Wills (R-WIL-009).
 - **How tested:** Feb 2015 Q2, Jul 2015 Q2, Oct 2020 Q3 [VERIFY V-071]. Typical call: "What interests do A, B, C and D hold?" Draw the timeline and re-state the tenancy after every transfer.
 
@@ -175,13 +175,13 @@ Essay favorite: four of the 14 Real Property essays turned on landlord-tenant is
 | L – sublessee | No | No | Not directly (only via the master tenant), unless sublessee assumed |
 
 - **Liability after transfer** (R-PRP-040); **covenants running with the leasehold** (R-PRP-041): intent + touch and concern + privity of estate (*Spencer's Case* (1583) 5 Co. Rep. 16a); covenants to pay rent, repair, insure (when proceeds benefit the premises), options to renew or purchase usually run.
-- **Restrictions on transfer** (R-PRP-042): strictly construed; *Dumpor's Case* (1603) 4 Co. Rep. 119b (waiver after one consent; rejected in many states); traditional rule allows arbitrary refusal; modern trend requires reasonableness. **CA note:** *Kendall v. Ernest Pestana, Inc.* (1985) 40 Cal.3d 488; Civ. Code §§ 1995.010–1995.340 (absolute prohibition must be express; no stated standard → not unreasonably withheld, § 1995.260) [S-762]. *Kendall* and the statutes concern commercial (nonresidential) leases; whether California extends the reasonableness requirement to residential leases is unsettled, so argue it by analogy [VERIFY V-674].
+- **Restrictions on transfer** (R-PRP-042): strictly construed; *Dumpor's Case* (1603) 4 Co. Rep. 119b (waiver after one consent; rejected in many states); traditional rule allows arbitrary refusal; modern trend requires reasonableness. **CA note:** *Kendall v. Ernest Pestana, Inc.* (1985) 40 Cal.3d 488; Civ. Code §§ 1995.010–1995.340 (absolute prohibition must be express; no stated standard → not unreasonably withheld, § 1995.260) [S-762]. *Kendall* decided a commercial lease, and the statutes apply only to leases "for other than residential purposes" (§§ 1995.010, 1995.020(b)) [S-1600]; no statute or California Supreme Court decision settles the residential standard, so argue *Kendall* by analogy.
 - **Transfers by landlord** (R-PRP-043): grantee takes subject to the lease; covenants that touch and concern bind and benefit the grantee; tenant attorns.
 - **How tested:** Feb 2012 Q6 (transfers), Feb 2015 Q2 (covenant to insure) [VERIFY V-071].
 
 #### I.C.4 Termination
 - **Expiration; notice** (periodic); **holdover** (above).
-- **Abandonment and mitigation** (R-PRP-033): landlord's options (accept surrender; relet for tenant's account; traditional: let it sit). Modern majority: duty to mitigate (*Sommer v. Kridel*, 74 N.J. 446, 378 A.2d 767 (1977)). **CA note:** Civ. Code § 1951.2 (damages = unpaid rent plus excess of remaining rent over what the tenant proves could reasonably have been avoided, discounted); § 1951.4 lock-in remedy if the lease so provides and permits reasonable transfer; § 1951.3 abandonment notice procedure [VERIFY V-662].
+- **Abandonment and mitigation** (R-PRP-033): landlord's options (accept surrender; relet for tenant's account; traditional: let it sit). Modern majority: duty to mitigate (*Sommer v. Kridel*, 74 N.J. 446, 378 A.2d 767 (1977)); a landlord with other vacant units must treat the abandoned unit like the rest of its vacant stock, and may raise a lost-volume argument if the replacement would have rented another vacant unit anyway. **CA note:** Civ. Code § 1951.2 (damages = unpaid rent plus excess of remaining rent over what the tenant proves could reasonably have been avoided, discounted); § 1951.4 lock-in remedy if the lease so provides and permits reasonable transfer; § 1951.3 abandonment notice procedure [VERIFY V-662].
 - **Surrender** (R-PRP-047): express (writing if remaining term over a year) or by operation of law (landlord's inconsistent acceptance).
 - **Destruction, condemnation, illegality, frustration, merger** (R-PRP-047): Civ. Code §§ 1932, 1933.
 - **Anticipatory breach:** tenant's repudiation lets the landlord sue for damages for the whole term (net of mitigation) in many states.
@@ -190,8 +190,8 @@ Essay favorite: four of the 14 Real Property essays turned on landlord-tenant is
 
 #### I.C.5 Habitability and suitability
 - **Implied warranty of habitability** (residential) (R-PRP-036): *Javins v. First National Realty Corp.*, 428 F.2d 1071 (D.C. Cir. 1970); *Green v. Superior Court* (1974) 10 Cal.3d 616; Civ. Code §§ 1941, 1941.1 (untenantable conditions), 1942.1 (waiver void).
-- **Remedies** (R-PRP-037): terminate; repair and deduct (CA: up to one month's rent, twice in 12 months, Civ. Code § 1942); withhold or reduce rent; damages (reduced rental value); defense to eviction (CCP § 1174.2) [VERIFY V-662]; rent not collectible after a public-officer citation left unrepaired 35 days (Civ. Code § 1942.4) [VERIFY V-662].
-- **Commercial leases:** no implied warranty of habitability (majority); tenant relies on constructive eviction, express covenants, and (some states) an implied covenant of suitability where the landlord knew of a latent defect making the premises unsuitable for the known purpose.
+- **Remedies** (R-PRP-037): terminate; repair and deduct (CA: up to one month's rent, twice in 12 months, Civ. Code § 1942); withhold or reduce rent; damages (reduced rental value); defense to eviction (CCP § 1174.2) [VERIFY V-662]; rent not collectible (and no rent increase or three-day notice) while conditions cited in a public officer's notice remain unabated without good cause 35 days after service of the notice (Civ. Code § 1942.4) [S-1607].
+- **Commercial leases:** no implied warranty of habitability (majority); tenant relies on constructive eviction, express covenants, and (minority of states) an implied covenant that the premises are suitable for the intended commercial purpose where a latent defect in facilities vital to that use exists at the start of the lease (*Davidow v. Inwood North Professional Group—Phase I*, 747 S.W.2d 373 (Tex. 1988)) (R-PRP-036).
 - **Illegality:** a lease for an illegal use is unenforceable; if the planned use becomes illegal, the tenant may terminate (frustration).
 - **How tested:** Feb 2023 Q3 (actual eviction and possession issues framed as tenant's claims) [VERIFY V-071].
 
@@ -309,7 +309,7 @@ Rules: R-PRP-050 (burden), R-PRP-051 (benefit), R-PRP-052 (equitable servitude),
 | Estoppel / irrevocable license | Permission + substantial, foreseeable reliance | As reliance requires | When reliance protected | *Holbrook v. Taylor*, 532 S.W.2d 763 (Ky. 1976) (R-PRP-065) |
 | Dedication | Offer to public + acceptance | Public use | Vacation | Civ. Code § 1009 limits implied dedication by public recreational use [S-764] |
 
-- **CA note:** owners can block prescription by posting statutory "right to pass by permission" signs at entrances or every 200 feet (Civ. Code § 1008) or recording a notice of consent (Civ. Code § 813) [S-764]; California courts disfavor prescriptive easements that exclude the owner [VERIFY V-654].
+- **CA note:** owners can block prescription by posting statutory "right to pass by permission" signs at entrances or every 200 feet (Civ. Code § 1008) or recording a notice of consent (Civ. Code § 813) [S-764]; California courts disfavor prescriptive easements that exclude the owner [VERIFY V-654], but an implied easement may be exclusive on clear evidence of the parties' intent at severance (*Romero v. Shih* (2024) 15 Cal.5th 680) [S-1601] (R-PRP-062).
 - **How tested:** Jul 2016 Q2; Feb 2021 Q5 (express written right-of-way); Jul 2024 Q2 (necessity, implication, prescription) [VERIFY V-071].
 
 #### II.B.3 Scope and apportionment
@@ -456,12 +456,13 @@ The State Bar's essay outline lists rights that come with ownership itself [S-09
 
 ##### IV.A.1.b Purchase money mortgages
 - Secures funds used to buy the land, given to the seller or to a third-party lender (R-PRP-090).
-- **Priority:** over pre-existing liens against the purchaser (e.g., judgment liens) that attach when title passes, subject to recording (Civ. Code § 2898) [S-770]; seller PMM generally beats third-party PMM (the Restatement (Third) of Property: Mortgages § 7.2 position; several courts follow it, but not all) [VERIFY V-676]; between two third-party PMMs, the recording act decides.
+- **Priority:** over pre-existing liens against the purchaser (e.g., judgment liens) that attach when title passes, subject to recording (Civ. Code § 2898) [S-770]; seller PMM generally beats third-party PMM (the Restatement (Third) of Property: Mortgages § 7.2(c) position; several courts follow it, but not all) [S-781] [S-1609]; between two third-party PMMs, the recording act decides.
 - **CA note:** anti-deficiency protection for seller-financed loans and third-party loans to buy owner-occupied 1–4 unit dwellings (CCP § 580b) [S-777].
 
 ##### IV.A.1.c Future advance mortgages
 - Secures later advances (lines of credit, construction loans) (R-PRP-091); Civ. Code § 2884.
 - **Obligatory** advances take priority from recording; **optional** advances made with actual notice of an intervening lien are subordinate to it (majority); some statutes protect all advances within a stated maximum.
+- **Restatement (Third) of Property: Mortgages § 2.3:** gives optional as well as obligatory advances the mortgage's original priority, subject to limits such as a mortgagor's cutoff notice [VERIFY V-995]; not universally followed (Washington declined in 2022) [S-1605].
 
 #### IV.A.2 Installment land contracts
 - Seller retains title until the last payment; forfeiture clauses (R-PRP-089).
@@ -526,7 +527,7 @@ The State Bar's essay outline lists rights that come with ownership itself [S-09
 - **Modification of a senior mortgage:** increases in interest or principal are subordinate to existing junior interests [VERIFY V-673].
 
 #### IV.C.4 Restrictions on transfer, including due-on-sale clauses
-- Due-on-sale clauses enforceable under the Garn–St Germain Act (12 U.S.C. § 1701j-3), preempting state limits such as *Wellenkamp v. Bank of America* (1978) 21 Cal.3d 943; residential exceptions (spouse/children, death, divorce, inter vivos trust, junior liens, short leases) [VERIFY V-665] (R-PRP-096). *Fidelity Federal Savings & Loan Ass'n v. de la Cuesta*, 458 U.S. 141 (1982).
+- Due-on-sale clauses enforceable under the Garn–St Germain Act (12 U.S.C. § 1701j-3), preempting state limits such as *Wellenkamp v. Bank of America* (1978) 21 Cal.3d 943; residential (1–4 unit) exceptions (spouse/children, death of a borrower or joint tenant, divorce, inter vivos trust, junior liens, leases of three years or less without an option) [S-1608] (R-PRP-096). *Fidelity Federal Savings & Loan Ass'n v. de la Cuesta*, 458 U.S. 141 (1982).
 - Due-on-encumbrance clauses: limited for residential junior liens by the same exceptions.
 
 ### IV.D Transfers by mortgagee
@@ -558,7 +559,7 @@ The State Bar's essay outline lists rights that come with ownership itself [S-09
 | Nonjudicial (power of sale) | Trustee's private sale after statutory notices (CA: Civ. Code §§ 2924, 2924f) | CA: barred (CCP § 580d) [S-777] | CA: none |
 | Strict foreclosure | Title vests in lender without sale | Varies | Rare (few states) |
 
-- Sale must be conducted fairly and in good faith. A low price alone does not void a regularly conducted sale; a court may set it aside if the price is so grossly inadequate that it shocks the conscience (the Restatement treats gross inadequacy alone as sufficient), or if an inadequate price is coupled with fraud, unfairness or an irregularity. California requires unfairness or irregularity in addition to a low price (R-PRP-099) [VERIFY V-675].
+- Sale must be conducted fairly and in good faith. A low price alone does not void a regularly conducted sale; a court may set it aside if the price is so grossly inadequate that it shocks the conscience (the Restatement treats gross inadequacy alone as sufficient, and its comment treats a price below 20% of fair market value as generally grossly inadequate) [S-1603], or if an inadequate price is coupled with fraud, unfairness or an irregularity. California requires some unfairness or irregularity that contributed to the low price or injured the trustor in addition to inadequacy of price (*Foge v. Schmidt* (1951) 101 Cal.App.2d 681; *6 Angels, Inc. v. Stuart-Wright Mortgage, Inc.* (2001) 85 Cal.App.4th 1279) [S-1604] (R-PRP-099).
 
 #### IV.F.2 Acceleration
 - Acceleration clause lets the lender declare the whole debt due on default; without it, foreclosure only for overdue installments (R-PRP-099).

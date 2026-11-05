@@ -4,7 +4,7 @@ topic: Civil Procedure — decision trees (Mermaid)
 coverage_ids: [CIV-MBE-I.A, CIV-MBE-I.B, CIV-MBE-I.D, CIV-MBE-II.A, CIV-MBE-III.D, CIV-MBE-III.E, CIV-MBE-V.C, CIV-MBE-VI.D, CIV-MBE-VII.A]
 tested_on: [MBE, essay]
 exam_frequency: {level: high, basis: "Essays: 13 of 31 administrations 2012-02 to 2026-07 (42%); MBE: 25 scored questions every exam"}
-last_verified: 2026-11-04
+last_verified: 2026-11-05
 status: draft
 ---
 
@@ -50,7 +50,7 @@ flowchart TD
     E -- No --> X4["Untimely; procedural defect"]
     E -- Yes --> F{"All properly joined and served defendants consent?"}
     F -- No --> X5["Unanimity defect; procedural"]
-    F -- Yes --> G{"Diversity case removed more than one year after commencement?"}
+    F -- Yes --> G{"Diversity case that became removable only later, removed more than one year after commencement?"}
     G -- Yes --> H{"Plaintiff acted in bad faith to prevent removal?"}
     H -- No --> X6["Too late"]
     H -- Yes --> OK["Removal proper to district embracing state court"]

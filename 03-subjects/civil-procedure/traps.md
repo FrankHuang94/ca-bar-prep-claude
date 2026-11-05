@@ -4,7 +4,7 @@ topic: Civil Procedure — traps, MBE distractor patterns and commonly confused 
 coverage_ids: [CIV-MBE-I, CIV-MBE-II, CIV-MBE-III, CIV-MBE-IV, CIV-MBE-V, CIV-MBE-VI, CIV-MBE-VII, CIV-SUP-001]
 tested_on: [MBE, essay]
 exam_frequency: {level: high, basis: "Essays: 13 of 31 administrations 2012-02 to 2026-07 (42%); MBE: 25 scored questions every exam"}
-last_verified: 2026-11-04
+last_verified: 2026-11-05
 status: draft
 ---
 
@@ -64,7 +64,7 @@ Each trap names the wrong instinct, the correct rule and the rule ID in [rule-st
 39. **Extending the 28-day deadlines.** Rules 50(b), 52(b) and 59 deadlines cannot be extended (Rule 6(b)(2)). (R-CIV-088, R-CIV-089)
 40. **Rule 60(b)(1)–(3) after more than one year.** Barred; and even a void-judgment motion must be made within a reasonable time (Coney Island). (R-CIV-090)
 41. **Judge decides credibility on summary judgment or JMOL.** Never; only on a new-trial motion may the judge weigh evidence. (R-CIV-085, R-CIV-087, R-CIV-089)
-42. **Equitable claim tried first.** In federal court, common issues go to the jury first (Beacon); California often does the reverse. (R-CIV-079, R-CIV-116)
+42. **Equitable claim tried first.** In federal court, common issues go to the jury first (Beacon); a California court may try the equitable issues first (Raedeke). (R-CIV-079, R-CIV-116)
 43. **Issue preclusion from a default judgment.** Defaults are on the merits for claim preclusion but nothing was "actually litigated" for issue preclusion. (R-CIV-094, R-CIV-095)
 44. **Binding a non-party by "virtual representation".** Rejected in Taylor v. Sturgell. (R-CIV-097)
 45. **A pending appeal stops preclusion.** Not in federal court (majority); yes in California. (R-CIV-094, R-CIV-115)
