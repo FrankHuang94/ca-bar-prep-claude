@@ -289,7 +289,7 @@ Part 2 — Each item / trial point:
 **Triggers.**
 - Tort or debt of one spouse → which property is liable (community estate; order of satisfaction, R-CMP-088).
 - Lawyer paid from community funds, or takes a lien on the home → third-party payor; business transaction (*Fletcher* charging lien).
-- One lawyer for both spouses in a dissolution → non-consentable direct adversity.
+- One lawyer for both spouses in a dissolution → joint representation of directly adverse parties. It cannot be consented to once one spouse asserts a claim against the other in the same litigation (rule 1.7(d)(3)); otherwise test consentability and get each spouse's informed written consent (R-PRF-021, R-PRF-024).
 - Contingent or bonus fee in a divorce → prohibited contingent fee.
 - Spouse hiding assets → spousal fiduciary duty; § 1101 remedies (R-CMP-068); lawyer must not assist (R-PRF-007).
 

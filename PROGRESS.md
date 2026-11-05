@@ -14,7 +14,7 @@
 | 3 — Past exams | ✅ Done | 31 administrations (Feb 2012–Jul 2026): 166 essays + 42 PTs indexed and analyzed (index-level); frequency analysis; 2 PAST rows | Archive covers Feb 2012 → July 2026 [S-079] |
 | 4 — Subject content | ✅ **Done (awaiting review)**: all 13 subjects built; all 616 coverage rows mapped | Groups: (1) CTR CIV CON CRM · (2) CMP REM · (3) EVD PRF WIL TRS · (4) TRT PRP BUS |
 | 5 — Question bank | ✅ **Done (awaiting review)**: 1,050 MCQs, 84 essays, 8 PTs, 3 simulations | Every item independently reviewed |
-| 6 — High-yield and memorization | 🔄 **Built; accuracy review of 08-high-yield in progress** | 08-high-yield (8 files + README), consistency sweep, Anki decks |
+| 6 — High-yield and memorization | ✅ **Done (awaiting review)** | 08-high-yield (8 files + README), consistency sweep, Anki decks |
 | 7 — Independent QA | ☐ | |
 | 8 — Maintenance | ☐ | |
 
@@ -58,6 +58,8 @@
 - One example: a flashcard still taught the old strict-liability defense rule.
 - No answer key depended on an old rule; all 1,050 keys were verified unchanged.
 - Seven remaining rulebook lines (R-REM-085, R-CIV-042 example, R-REM-069, R-PRP-070, R-PRF-026, R-BUS-085/086 summaries) were aligned.
+
+**Independent accuracy review of `08-high-yield/`.** It found 3 HIGH problems, all fixed: one row of the top-25 flips table stated title theory as the majority (lien theory is the majority), outdated Anki instructions, and a mnemonic contradicting R-CIV-096. It also applied 9 MED fixes. The rulebook itself checked out. Memorization cycle 3 was moved to W28, after SIM-03.
 
 **Anki.**
 - `build_anki.py` now tags each rule card with its memorization tier.

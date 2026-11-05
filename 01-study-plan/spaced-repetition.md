@@ -63,7 +63,7 @@ Re-export after each content phase (`build_anki.py`). Note IDs are stable, so An
 | Subject cycles | W19–W23 | During each subject's second pass: its attack outline from memory, then compare and correct |
 | Cycle 1 | W25 | All 13 attack outlines: write each one's skeleton (headings + rule names) from memory in 15 min, then fix the gaps |
 | Cycle 2 | W26 | Same, aiming for the full rule statements of the must-know tier |
-| Cycle 3 | W27 | Same, timed, after SIM-03 |
+| Cycle 3 | W28 (Jul 12–18) | Same, timed, after SIM-03 (Jul 10–11) |
 | Final | W28–W29 | `08-high-yield/final-2-weeks-review.md` and the must-know tier daily; no new cards after W28 |
 
 ## 7. How `/today` builds the due list (priority order)

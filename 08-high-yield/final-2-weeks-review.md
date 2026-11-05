@@ -17,7 +17,7 @@ The exam is **Tue–Wed Jul 27–28, 2027** [S-001]: Day 1 is written (essays an
 1. **No new material.** You reread, recite and practise briefly. No new Anki cards after W28 ([`spaced-repetition.md`](../01-study-plan/spaced-repetition.md) §6).
 2. **Hours follow the week files.**
    - W28: 3.25 h each weeknight and 9.5 h each weekend day, ≈ 35 h.
-   - W29: 3 h each weeknight and 8.75 h on Saturday. **Sunday Jul 25 is rest.** The W29 file's 32 h total counts Sunday hours, but its day table marks Sunday "Rest", so about 24 h is really scheduled.
+   - W29: 3 h each weeknight and 9 h on Saturday, 24 h in all. **Sunday Jul 25 is rest (0 h).**
    - Stop by 22:00 on weeknights.
 3. **Sleep shift in W29.** From **Mon Jul 19**, get up by **6:30 a.m.** every day, weekends included, and keep a steady bedtime about 8 hours earlier. You must be seated by 8:20 a.m. on both exam days [S-003] [VERIFY V-055].
 4. **Practice volume (from the week files).**
@@ -207,7 +207,7 @@ From today: **up by 6:30 a.m.** Do 15 minutes of Anki before work, so you practi
 - **Checklist:**
   - [ ] **Examplify mock exam deadline (est.)**. It must already be done [VERIFY V-016].
 
-### Sat Jul 24 (T−3) · 8.75 h · light rehearsal
+### Sat Jul 24 (T−3) · 9 h · light rehearsal
 - **Plan:**
   - Start at **08:20**: `/spot` (20 min).
   - 3 h on [`most-tested-issues.md`](most-tested-issues.md) part (c), worked as written.

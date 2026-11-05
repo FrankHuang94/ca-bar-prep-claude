@@ -91,7 +91,7 @@ This ties the tiers to the five loops in [`spaced-repetition.md`](../01-study-pl
 | First pass | W46–W12 (Nov 9 – Mar 28) | Learn each subject's must-know list the week it is taught. Day-0 drill. Anki daily (15–20 new cards a day in the foundation phase; 30–40 in the intensive phase) | Learn as elements in the same week | Read once |
 | Integration | W13–W17 (Mar 29 – May 2) | Real Property finishes and BA is learned the same way in W13. After that, drills as they fall due. SIM-01 misses go into the error log | Drills as due | MBE misses only |
 | Second pass | W18–W23 (May 3 – Jun 13) | Must-know ceiling of 21 days applies. Subject cycles: write the attack outline from memory, then correct it (§6, W19–W23) | Two-sentence versions while you rewrite the attack outline | — |
-| Third pass | W25–W27 (Jun 21 – Jul 11) | Cycle 1: skeletons. **Cycle 2: full must-know statements.** Cycle 3: timed, after SIM-03 | Skeleton level in each cycle | — |
+| Third pass | W25–W28 (Jun 21 – Jul 18) | Cycle 1: skeletons. **Cycle 2: full must-know statements.** Cycle 3 (W28, after SIM-03 on Jul 10–11): timed | Skeleton level in each cycle | — |
 | Final review | W28–W29 (Jul 12 – Jul 25) | **Must-know tier daily**, by the rotation in [`final-2-weeks-review.md`](final-2-weeks-review.md). **No new Anki cards after W28** | Only for subjects flagged by `/weak-spots` | None |
 
 ### 4.3 Anki deck
@@ -99,13 +99,13 @@ This ties the tiers to the five loops in [`spaced-repetition.md`](../01-study-pl
 | Goal | Command | Cards (2026-11-05) |
 |---|---|---|
 | Everything: flashcards plus one card per rule statement | `python scripts/build_anki.py --include-rules` | 3,238 (1,806 flashcards + 1,432 rule cards) |
-| Must-know flashcards | `python scripts/build_anki.py --tag must-know --include-rules` | **984.** The rule-statement cards carry only the tag `rule-statement`, so `--tag must-know` drops all of them. `--include-rules` adds nothing here |
-| Must-know flashcards **plus** every rule-statement card | `python scripts/build_anki.py --tag must-know --tag rule-statement --include-rules` | 2,416 (rule cards for all tiers) |
+| Must-know flashcards **plus** must-know rule cards (the daily deck from W28) | `python scripts/build_anki.py --tag must-know --include-rules` | **1,651** (984 must-know flashcards + 667 must-know rule cards). Each rule card is tagged `rule-statement` and its memorization tier (`must-know`, `should-know` or `nice-to-know`), so the tier filter keeps exactly the must-know rules |
+| Must-know flashcards only | `python scripts/build_anki.py --tag must-know` | 984 |
 | One subject | add `--subject PRF` (repeatable) | — |
 
 **How to use it.**
 - Import the full deck subject by subject as you study each one (spaced-repetition.md §3).
-- From W28, stop adding new cards. In Anki, make a filtered deck with the search `tag:must-know` for the daily must-know review. Anki tags each note with its CSV tags and its subject code, so `tag:must-know tag:PRF` also works.
+- Add no new cards after W28. In Anki, make a filtered deck with the search `tag:must-know` for the daily must-know review; it picks up both the must-know flashcards and the must-know rule cards. Anki tags each note with its CSV tags (rule cards: `rule-statement` plus the tier) and its subject code, so `tag:must-know tag:PRF` also works.
 - Re-export after every content change. Card IDs are stable, so Anki updates notes in place and keeps their history.
 
 ## 5. Self-test protocol (`/drill`)
