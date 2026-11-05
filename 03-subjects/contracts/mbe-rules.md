@@ -12,8 +12,8 @@ status: draft
 
 ## 1. What NCBE tells you
 - **25 scored questions** per exam [S-007].
-- **Assumption:** the Official Text of UCC Articles 1 and 2 is in effect and applies where appropriate. **About one-quarter** of Contracts questions are based on it [S-040]. The exact wording of the assumption is not yet confirmed verbatim [VERIFY V-053].
-- **Distribution:** about **half** of the questions come from **categories I (formation) and IV (performance, breach, discharge)**. The rest come from II (defenses), III (content and meaning), V (remedies) and VI (third-party rights) [S-040] [VERIFY V-053].
+- **Assumption:** the Official Text of UCC Articles 1 and 2 is in effect and applies where appropriate. **About one-quarter** of Contracts questions are based on it [S-040]. The exact wording of the assumption is not yet confirmed verbatim [S-040].
+- **Distribution:** about **half** of the questions come from **categories I (formation) and IV (performance, breach, discharge)**. The rest come from II (defenses), III (content and meaning), V (remedies) and VI (third-party rights) [S-040].
 - **Default law:** answer under generally accepted principles. In practice, follow the Restatement (Second) of Contracts where it states the majority or modern rule, and the UCC for goods. California law is irrelevant on the MBE.
 
 | Category | Approx. share of 25 | Your priority |

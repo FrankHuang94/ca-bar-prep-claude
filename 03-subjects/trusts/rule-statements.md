@@ -176,7 +176,7 @@ status: draft
 
 **Exceptions / defenses:** Where the settlor is the sole trustee, argue that holding the signed writing in her capacity as trustee satisfies delivery; no California case confirming this point has been verified for this repo [VERIFY V-553]. Community property held in trust: R-TRS-015.
 
-**Authority:** Prob. Code § 15401(a) [S-660] [S-1114]; *Haggerty v. Thornton* (2024) 15 Cal.5th 729 [S-129] [S-650] [VERIFY V-033]; *Masry v. Masry* (2008) 166 Cal.App.4th 738 [VERIFY V-553].
+**Authority:** Prob. Code § 15401(a) [S-660] [S-1114]; *Haggerty v. Thornton* (2024) 15 Cal.5th 729 [S-129] [S-650] [S-129]; *Masry v. Masry* (2008) 166 Cal.App.4th 738 [VERIFY V-553].
 
 **MBE vs. CA essay:** not on the MBE. **Differs** from the traditional rule, which required strict compliance with any method the instrument stated. Under UTC § 602(c) the settlor may use any method showing clear and convincing intent if the instrument's method is not exclusive [VERIFY V-594].
 
@@ -202,7 +202,7 @@ status: draft
 
 **Exceptions / defenses:** An explicitly exclusive amendment clause; modification as to community property needs both spouses (R-TRS-015).
 
-**Authority:** Prob. Code § 15402; *Haggerty v. Thornton* (2024) 15 Cal.5th 729 [S-129] [S-650] [VERIFY V-033] (disapproving *King v. Lynch* (2012) 204 Cal.App.4th 1186 [VERIFY V-033]).
+**Authority:** Prob. Code § 15402; *Haggerty v. Thornton* (2024) 15 Cal.5th 729 [S-129] [S-650] [S-129] (disapproving *King v. Lynch* (2012) 204 Cal.App.4th 1186 [S-129]).
 
 **MBE vs. CA essay:** not on the MBE. California-specific and a **recent change** (recent-changes §7, Apply). Before *Haggerty*, some Courts of Appeal required strict compliance with any stated amendment method.
 

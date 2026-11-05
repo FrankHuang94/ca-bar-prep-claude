@@ -74,7 +74,7 @@ V.   Trustee: duties breached → remedies (surcharge, removal, constructive tru
 VI.  Distribution, claimant by claimant
 ```
 
-**Rules most often needed.** R-WIL-061 (pour-over, trust within 60 days) · R-TRS-011 to R-TRS-014 (revocable default; statutory method; no revocation by will; amendment under *Haggerty*) [VERIFY V-033] · R-WIL-095 / R-TRS-076 (disqualified donees) · R-TRS-021 (cy pres) · R-TRS-052, R-TRS-053 (loyalty; self-dealing).
+**Rules most often needed.** R-WIL-061 (pour-over, trust within 60 days) · R-TRS-011 to R-TRS-014 (revocable default; statutory method; no revocation by will; amendment under *Haggerty*) [S-129] · R-WIL-095 / R-TRS-076 (disqualified donees) · R-TRS-021 (cy pres) · R-TRS-052, R-TRS-053 (loyalty; self-dealing).
 
 **Traps.**
 - Writing the traditional "irrevocable unless reserved" rule as the answer. California: revocable unless expressly irrevocable.

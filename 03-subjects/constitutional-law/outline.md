@@ -13,7 +13,7 @@ status: draft
 **What this file is.** The full reference for Constitutional Law, organized exactly by the NCBE MBE Subject Matter Outline [S-040]. Every heading that begins with an NCBE number (I, I.A, I.B.1 …) matches a coverage-matrix row. The State Bar's essay-outline categories (CBX rows, [S-087]) are mapped onto these headings, and three extra sections at the end cover the essay-outline items that the MBE numbering does not name separately (Bill of Rights generally; Amendments Eleven through Fifteen; the uncaptured CBX section IV).
 
 **Ground rules.**
-- On the MBE, "Constitution," "constitutional" and "unconstitutional" mean the **federal** Constitution unless the question says otherwise [S-040] [VERIFY V-053].
+- On the MBE, "Constitution," "constitutional" and "unconstitutional" mean the **federal** Constitution unless the question says otherwise [S-040].
 - On California essays, Constitutional Law is **federal** constitutional law. Calls say "under the U.S. Constitution" or name federal provisions. California's own constitution matters only if the call invites it; see [ca-distinctions.md](ca-distinctions.md).
 - Rule IDs (`R-CON-###`) point to [rule-statements.md](rule-statements.md), where each rule is written in essay-ready form.
 - Weighting: about **half** of MBE Con Law questions come from **IV Individual rights**; the other half from I–III together [S-040].

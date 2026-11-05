@@ -41,7 +41,7 @@ status: draft
 | Prior convictions | 609: felonies with balancing; crimen falsi automatic; 10-year rule | Criminal: felonies of moral turpitude, § 352, plus misdemeanor **conduct** (Wheeler); civil: felonies under § 788 with § 352 | FRE 609; Cal. Const. art. I, § 28(f)(4); CEC § 788; *Castro*; *Wheeler* [S-502]; *Robbins v. Wong* [S-504] | Run moral turpitude + § 352 (R-EVD-025, R-EVD-026) |
 | Specific acts to impeach | Cross only, if probative of untruthfulness; no extrinsic evidence | Civil: inadmissible (§ 787). Criminal: moral-turpitude conduct admissible subject to § 352 (Prop 8) | FRE 608(b); CEC § 787; *Wheeler* [S-502] | Contrast civil vs. criminal (R-EVD-027, R-EVD-028) |
 | Prior inconsistent statement — foundation | 613(b) (2024): opportunity to explain or deny **before** extrinsic evidence, unless court orders otherwise | § 770: opportunity to explain or deny, **or** witness not excused | FRE 613(b) [S-105]; CEC § 770 | California's timing is more flexible (R-EVD-023) |
-| Prior inconsistent statement — substantive use | From Dec. 1, 2026: any prior inconsistent statement of a testifying witness, subject to 403 (before: only if under oath at a proceeding) | Any prior inconsistent statement meeting § 770 | FRE 801(d)(1)(A) [S-101] [VERIFY V-028]; CEC § 1235 | Now largely the same (R-EVD-085) |
+| Prior inconsistent statement — substantive use | From Dec. 1, 2026: any prior inconsistent statement of a testifying witness, subject to 403 (before: only if under oath at a proceeding) | Any prior inconsistent statement meeting § 770 | FRE 801(d)(1)(A) [S-101]; CEC § 1235 | Now largely the same (R-EVD-085) |
 | Prior consistent statement | Rebut fabrication/motive (pre-motive) **or** rehabilitate on another ground | Only after an inconsistent statement (made before it) or a fabrication/bias charge (made before the motive) | FRE 801(d)(1)(B); CEC §§ 791, 1236 | California has no "other ground" clause (R-EVD-086) |
 | Party admissions — label | "Not hearsay" (exclusion) | Hearsay within an exception | FRE 801(d)(2); CEC § 1220 | Use the right label (R-EVD-088) |
 | Employee statements | Agent/employee on matter within scope, during employment | Only if authorized (§ 1222), or derivative liability (§ 1224) | FRE 801(d)(2)(D); CEC §§ 1222, 1224 [S-523]; *Labis* [S-503] | Big difference (R-EVD-090) [VERIFY V-401] |
@@ -141,14 +141,14 @@ status: draft
 | Specific acts of untruthfulness | Cross only; no extrinsic proof (608(b)) | Inadmissible (§ 787) | Admissible if moral turpitude, subject to § 352 (Prop 8) |
 | Reputation/opinion for truthfulness | 608(a); support only after attack | §§ 786, 790 | Same |
 | Prior inconsistent statement — foundation | Before extrinsic evidence (613(b), 2024) | Opportunity to explain **or** witness not excused (§ 770) | Same as civil |
-| Prior inconsistent statement — substantive | Yes from Dec. 1, 2026 (801(d)(1)(A)) [VERIFY V-028]; before, only sworn statements at proceedings | Yes (§ 1235) | Yes (§ 1235) |
+| Prior inconsistent statement — substantive | Yes from Dec. 1, 2026 (801(d)(1)(A)) [S-101]; before, only sworn statements at proceedings | Yes (§ 1235) | Yes (§ 1235) |
 | Prior consistent statement | 801(d)(1)(B)(i)–(ii) | §§ 791, 1236 (narrower) | Same as civil |
 | Hearsay declarant | 806 | §§ 1202–1203 | Same |
 | Religious belief | Barred (610) | Barred (§ 789) | Same |
 
 **801(d)(1)(A) split table.**
 
-| | Pre-amendment FRE (to Nov. 30, 2026) | Amended FRE (from Dec. 1, 2026) [S-101] [VERIFY V-028] | CEC § 1235 |
+| | Pre-amendment FRE (to Nov. 30, 2026) | Amended FRE (from Dec. 1, 2026) [S-101] | CEC § 1235 |
 |---|---|---|---|
 | Unsworn prior inconsistent statement of a testifying witness | Impeachment only | **Substantive** (and impeachment), subject to 403 | **Substantive** (and impeachment) |
 | Sworn statement at trial, hearing, other proceeding or deposition | Substantive | Substantive | Substantive |

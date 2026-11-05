@@ -256,7 +256,7 @@ Removal after *Trump v. Slaughter* (2026) [VERIFY V-034]: an answer that relies 
 |---|---|---|---|---|
 | I Formation | I + IV ≈ 1/2 (≈ 12–13) | 37 | Revocation and irrevocable offers; mailbox; § 2-207; consideration; promissory estoppel | R-CTR-006–R-CTR-015, R-CTR-022, R-CTR-024, R-CTR-027 |
 | IV Performance, breach, discharge | (in the 1/2) | 35 | Conditions; material breach; anticipatory repudiation; perfect tender and cure; risk of loss; excuse | R-CTR-062–R-CTR-070, R-CTR-072–R-CTR-079, R-CTR-082–R-CTR-084 |
-| II, III, V, VI | remainder ≈ 1/2 [VERIFY V-053] | 75 | Parol evidence; mistake; SOF; damages formulas; third-party beneficiaries; assignment | R-CTR-049, R-CTR-050, R-CTR-034, R-CTR-042–R-CTR-047, R-CTR-089–R-CTR-096, R-CTR-110–R-CTR-116 |
+| II, III, V, VI | remainder ≈ 1/2 [S-040] | 75 | Parol evidence; mistake; SOF; damages formulas; third-party beneficiaries; assignment | R-CTR-049, R-CTR-050, R-CTR-034, R-CTR-042–R-CTR-047, R-CTR-089–R-CTR-096, R-CTR-110–R-CTR-116 |
 | UCC Articles 1–2 (cross-cutting) | ≈ 1/4 (≈ 6) | — | Merchant rules; firm offers; § 2-209; remedies | R-CTR-001, R-CTR-002, R-CTR-009, R-CTR-029, R-CTR-099–R-CTR-103 |
 
 Most-used bank rules: R-CTR-022 (11), R-CTR-050 (9), R-CTR-068 (8), R-CTR-110 (8).
@@ -280,7 +280,7 @@ MBE: common-law felony murder and the agency rule unless told otherwise (R-CRM-0
 | I Presentation | ≈ 1/4 (≈ 6) | 37 | Impeachment (609, 608(b), 613); refreshing vs. recorded recollection; lay opinion | R-EVD-012, R-EVD-013, R-EVD-022–R-EVD-027, R-EVD-098 |
 | III Privileges + IV Writings | remainder ≈ 1/6 (≈ 4) | 25 | Policy exclusions (407–411); spousal and attorney-client privilege; BER | R-EVD-063, R-EVD-068, R-EVD-069, R-EVD-073–R-EVD-077, R-EVD-078, R-EVD-079 |
 
-Most-used bank rules: R-EVD-003 (16), R-EVD-088 (14). FRE only, as amended; the Dec 1, 2026 amendment to 801(d)(1)(A) is in force for July 2027 [VERIFY V-028].
+Most-used bank rules: R-EVD-003 (16), R-EVD-088 (14). FRE only, as amended; the Dec 1, 2026 amendment to 801(d)(1)(A) is in force for July 2027 [S-101].
 
 ### Real Property ([mbe-rules](../03-subjects/real-property/mbe-rules.md))
 | Category | NCBE share | Bank | Most tested | Rules |

@@ -330,7 +330,7 @@ status: draft
 | past recollection recorded | 已记录的回忆 | A record read into evidence when memory fails |
 | refreshing recollection | 唤起记忆 | Using any item to jog memory; the item is not evidence |
 | impeachment | 弹劾（质疑证人可信性） | ⚠ Attacking a witness's credibility, not political impeachment |
-| prior inconsistent statement | 先前不一致陈述 | Impeachment; also substantive use (CEC § 1235; FRE 801(d)(1)(A) as amended eff. Dec 1, 2026 [VERIFY V-028]) |
+| prior inconsistent statement | 先前不一致陈述 | Impeachment; also substantive use (CEC § 1235; FRE 801(d)(1)(A) as amended eff. Dec 1, 2026 [S-101]) |
 | authentication | 鉴真 | Evidence that an item is what it is claimed to be |
 | best evidence rule | 最佳证据规则（原件规则） | Original required to prove content of a writing; California calls it the Secondary Evidence Rule |
 | privilege | 特免权（作证特权） | Right to refuse to disclose (attorney-client, spousal, physician/psychotherapist) |

@@ -145,7 +145,7 @@ The State Bar's own instructions ask you to show you can "discern the points of 
 
 ## 7. PRC → US concept map
 
-> **⚠ All rows are approximate bridges.** A bridge is a memory hook only. It is never the rule. On the exam, write the US/California rule from the subject's `rule-statements.md`. PRC article references are to the PRC Civil Code (民法典, 2020) unless another statute is named. All PRC references are pending a check against the official text [VERIFY V-040].
+> **⚠ All rows are approximate bridges.** A bridge is a memory hook only. It is never the rule. On the exam, write the US/California rule from the subject's `rule-statements.md`. PRC article references are to the PRC Civil Code (民法典, 2020) unless another statute is named. All PRC references are pending a check against the official text [VERIFY V-040]; a Phase 7 spot check confirmed art. 533 (情势变更) against a Supreme People's Court commentary [S-1305].
 
 | PRC concept (中文) | Closest US concept | Key difference (what to unlearn) | Where tested |
 |---|---|---|---|

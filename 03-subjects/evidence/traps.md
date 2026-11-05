@@ -21,7 +21,7 @@ status: draft
 8. **Business records with outsiders' statements.** The record layer is fine; the customer's or bystander's statement inside it needs its own exception (R-EVD-092, R-EVD-099).
 9. **Police reports against the accused.** Excluded under 803(8)(A)(ii); also often testimonial (R-EVD-100, R-EVD-110).
 10. **Prior consistent statements made after the motive arose.** Fail Tome (R-EVD-086).
-11. **The old 801(d)(1)(A) answer.** "Admissible only to impeach because not made under oath" was right before Dec. 1, 2026; under amended FRE 801(d)(1)(A), an unsworn inconsistent statement of a testifying witness is substantive [VERIFY V-028] (R-EVD-085).
+11. **The old 801(d)(1)(A) answer.** "Admissible only to impeach because not made under oath" was right before Dec. 1, 2026; under amended FRE 801(d)(1)(A), an unsworn inconsistent statement of a testifying witness is substantive [S-101] (R-EVD-085).
 12. **Coconspirator statements after arrest.** Confessions to police are not "in furtherance" (R-EVD-091).
 13. **Statement against interest — collateral parts.** "X and I robbed the bank" — only "I robbed" is against X's interest (*Williamson*; *Leach*) (R-EVD-104).
 14. **Hearsay exception ≠ confrontation compliance.** A testimonial statement can fit § 1370 or 804(b)(3) and still be barred by Crawford (R-EVD-110).

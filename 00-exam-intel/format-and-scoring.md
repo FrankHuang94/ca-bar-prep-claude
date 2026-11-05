@@ -37,7 +37,7 @@ status: draft
 
 ### Timing inside the written sessions
 - The State Bar describes the written section as "five one-hour essays and one 90-minute Performance Test" [S-003].
-- Essays 1–3 share one 3-hour session, and Essays 4–5 and the PT share one 3.5-hour session. Whether Examplify lets you move unused time between the essays and the PT within a session is not confirmed [VERIFY V-002]. **Plan as if every essay gets exactly 60 minutes and the PT exactly 90.** Overrunning one essay is the most common way to lose a whole answer's worth of points.
+- Essays 1–3 share one 3-hour session, and Essays 4–5 and the PT share one 3.5-hour session. The July 2026 bulletin lets you answer a session's questions **in any order** and **allocate the time within the session as you see fit**; once a session ends you cannot go back to its questions [S-003]. **Still plan as if every essay gets exactly 60 minutes and the PT exactly 90.** Overrunning one essay is the most common way to lose a whole answer's worth of points.
 
 ## 2. How the written section is graded
 
@@ -86,7 +86,7 @@ These figures use the **Feb 2026 formula** for illustration only. The formula ch
 
 ## 3. The November 2024 "study" adjustment does not apply to you
 - Applicants who answered at least 28 of 49 experimental questions in the Nov 2024 study received +40 MBE scaled (+20 total) [S-011].
-- The Supreme Court limited it to "the first bar exam they take during 2025 or 2026" [S-038]. A July 2027 sitting falls outside that window [VERIFY V-006].
+- The Supreme Court limited it to "the first bar exam they take during 2025 or 2026" [S-038]. A July 2027 sitting falls outside that window. `/update-exam-intel` should flag any order extending it.
 
 ## 4. Pass rates (context for your plan)
 
@@ -110,7 +110,7 @@ These figures use the **Feb 2026 formula** for illustration only. The formula ch
 
 For comparison, first-time takers from California ABA-accredited schools passed at **84.4%** in July 2025 and **78.1%** in July 2026 [S-014] [S-012].
 
-**What this means.** For your applicant category, the base rate is roughly **1 in 6 to 1 in 8** on the first attempt. Many applicants in that category sit with little US-doctrine background and limited prep time. You have an LLM, a structured 37-week plan and a full-time intensive at the end, so the base rate is not your forecast. It is a warning that this exam punishes under-preparation, especially in **writing speed in English** and **MBE volume**. The plan's checkpoints are set against the pass line, not against the average.
+**What this means.** For your applicant category, the first-time base rate is roughly **1 in 5 to 1 in 8** (18.8% in July 2025, 12.9% in July 2026). Many applicants in that category sit with little US-doctrine background and limited prep time. You have an LL.M., a structured 38-week plan and an intensive phase of 36–38 h/week from May (alongside your job, with no study leave), so the base rate is not your forecast. It is a warning that this exam punishes under-preparation, especially in **writing speed in English** and **MBE volume**. The plan's checkpoints are set against the pass line, not against the average.
 
 ## 5. Context: why the format is stable for July 2027
 - **February 2025:** the State Bar briefly replaced the MBE with its own questions (developed by Kaplan, with some AI-assisted items) and offered remote testing. After widespread technical failures, the Supreme Court ordered in-person testing and a return to the NCBE MBE starting July 2025 [S-023] [S-022] [S-033].
@@ -121,4 +121,4 @@ For comparison, first-time takers from California ABA-accredited schools passed 
 
 ## 6. Open items for this file
 - July 2027 application deadlines, test sites, laptop-registration window and results date: **not yet published.** They are tracked in [admissions-checklist.md](admissions-checklist.md) and refreshed by `/update-exam-intel`.
-- V-002 through V-008 in `VERIFY-QUEUE.md`.
+- V-003, V-004, V-005, V-007 and V-008 in `VERIFY-QUEUE.md` (V-002 and V-006 were resolved in Phase 7).

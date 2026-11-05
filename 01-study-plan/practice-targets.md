@@ -23,7 +23,7 @@ All numbers come from [`schedule.yml`](schedule.yml); `python scripts/build_week
 | Issue-spotting drills (`/spot`) | **74** | — | 74 × ~20 min ≈ **25 h** |
 | Performance Tests | **17** (14 + 3 in simulations) | 8–10 | 17 × ~2.5 h ≈ **43 h** |
 | Full simulations | **3** (SIM-01 Apr 10–11 diagnostic; SIM-02 Jun 19–20, week −6; SIM-03 Jul 10–11, week −3) | 3 | included above |
-| Total study time | **≈ 1,200 h** | — | Practice ≈ 489 h (41%); learning, memorization, review and MPRE ≈ 713 h (59%) |
+| Total study time | **≈ 1,200 h** (1,194 scheduled) | — | Practice ≈ 489 h (41%); learning, memorization, review and MPRE ≈ 705 h (59%) |
 
 Your example ranges assumed about 750 hours. With roughly 450 more hours, the plan raises practice volume proportionally while keeping about 59% of the time for learning and memorization, which you need for six subjects with no coursework.
 
@@ -96,7 +96,7 @@ The simulation weeks add 22 more: 15 in the simulations and 7 on the weeknights 
 | **Go** | Both signals at or above the benchmark, and volume ≥ 90% of target | Continue unchanged. |
 | **Adjust** | MBE up to 5 points below, **or** written up to 3 below, **or** volume 75–90% of target | For the next 2 weeks, move about 25% of learning time to the 2 weakest subjects or skills (`/weak-spots`). Add one `/spot` per week. |
 | **Escalate** | MBE more than 5 points below, **or** written more than 3 below, **or** two consecutive "adjust" results, **or** volume < 75% | Change the plan with me. Options: add PTO days, re-weight weekends toward the weakest component, cut low-yield reading, re-sequence subjects. |
-| **Sit-or-defer review** | At **CP4**: MBE < 58% **and** written < 58 | You've said retakes are acceptable. Decide deliberately whether July 2027 is a real attempt or a rehearsal. **Feb 2028 is the last exam in this format** [S-027]. Check the State Bar's withdrawal deadline and refund rules first [VERIFY V-060]. |
+| **Sit-or-defer review** | At **CP4**: MBE < 58% **and** written < 58 | You've said retakes are acceptable. Decide deliberately whether July 2027 is a real attempt or a rehearsal. **Feb 2028 is the last exam in this format** [S-027]. **Money:** on the Feb 2027 pattern, withdrawal refunds are 60% within about 30 days after the timely deadline and 30% within about 45 days, then nothing except in limited cases; withdrawal itself stays open until about two weeks before the exam [S-004]. For July 2027 that means about **May 1 (60%)** and **May 16 (30%)** (est. [VERIFY V-016]), so by CP4 no refund is likely. If CP3 (May 2) is already far below target, weigh the refund then. |
 
 **Admin gates are hard.** A missed admin gate is an escalation regardless of scores. Eligibility, the MPRE and application deadlines cannot be recovered by studying harder.
 

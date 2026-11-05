@@ -43,13 +43,13 @@ Part A is the exam itself. Part B is the next nine months of studying around a f
 | **3:00** | **11:40** | Session ends. Exit Examplify as instructed. |
 
 **Order.**
-- The July 2026 bulletin, as returned by search, indicates you may answer a session's questions in any order and divide the time within the session as you choose [S-003]. This is still logged as open [VERIFY V-002].
+- The July 2026 bulletin says you may answer a session's questions in any order and allocate the time within the session as you see fit; once the session ends you cannot return to its questions [S-003]. Confirm in the July 2027 bulletin.
 - **Default: answer in order.** Reordering costs reading time and invites mistakes.
 - **Exception:** after reading all three calls (2 minutes), if one essay is in a subject you know badly, you may do it **last**. It still gets its full 60 minutes. Doing it last only stops it from unsettling the other two.
 
 ### A3. Day 1 afternoon: Essays 4–5 + PT (3.5 hours)
 
-You can do the PT first or last. Test both orders in your two full simulations and keep the one that scores better. **Default: PT first.**
+You can do the PT first or last. Test both orders in SIM-01 and SIM-02 and use the better one in SIM-03 and on the exam. **Default: PT first.**
 - The PT counts as two essays [S-010].
 - It needs the most sustained reading, which is easier when you are fresher.
 - Its 90-minute hard stop protects the essays that follow.
@@ -111,11 +111,11 @@ Full method: [05-mbe/strategy.md](../05-mbe/strategy.md) §3–§4. There are no
 
 ## Part B: Study-time management for a full-time worker
 
-The weekly hours and the phase dates are set in [config/plan.yml](../config/plan.yml) and the study plan (`01-study-plan/`). This part is about *how* to fit them around work. The plan's foundation-phase template has about 1.25 h on weekdays (0.75 h Friday) and about 3 h each weekend day.
+The weekly hours and the phase dates are set in [config/plan.yml](../config/plan.yml) and the study plan (`01-study-plan/`). This part is about *how* to fit them around work. The November template has about 1.25 h on weekdays (0.75 h Friday) and about 3 h each weekend day. From December the plan runs at 28–38 h/week: 3–4 h every weekday evening and about 9–10 h each weekend day (`01-study-plan/master-plan.md` §3).
 
 ### B1. Weekday micro-sessions
 
-**Principle: fixed time slots, fixed content, no decisions in the moment.**
+**Principle: fixed time slots, fixed content, no decisions in the moment.** The slots below are the November pattern; from December the evening slot becomes the 3–4 h block in `master-plan.md` §3.
 
 | Slot | Duration | Content | Why |
 |---|---|---|---|
@@ -128,6 +128,8 @@ The weekly hours and the phase dates are set in [config/plan.yml](../config/plan
 - **Corporate development calendar:** when you can see deal-heavy weeks coming, enter them as `blackouts` in `config/plan.yml` so `/today` and `/weekly-review` re-plan around them instead of letting you fall behind silently.
 
 ### B2. Weekend blocks
+
+November sizes are shown; from December each weekend day is about 9–10 h, so run these blocks plus longer reading and MBE blocks (`master-plan.md` §3).
 
 | Block | Duration | Content |
 |---|---|---|
@@ -142,7 +144,7 @@ The PT is worth two essays [S-010], is the least dependent on memorized law, and
 - Do PTs on the same laptop and in Examplify-like conditions: one screen, no internet, paper File and Library if you can print them.
 
 ### B4. The intensive phase without study leave
-- Full-time leave is not possible, so the intensive phase (May–July 2027) runs at **35–40 h/week on top of your job**: **3–4 h every weekday + about 20 h across the weekend** (see `01-study-plan/master-plan.md` §3–4).
+- Full-time leave is not possible, so from December the plan runs at **28–38 h/week on top of your job**: **3–4 h every weekday + about 20 h across the weekend**. The intensive phase (May 3 – Jul 11, 2027) is the peak, at 36–38 h (see `01-study-plan/master-plan.md` §3–4).
 - **Weekday evenings are for short, timed units:**
   - one timed essay (60 min) + self-grading (30 min);
   - one timed MBE set + review;

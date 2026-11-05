@@ -27,7 +27,9 @@ This file has three layers. Keep them apart when you use it.
 | "...you should not volunteer information or discuss legal doctrines which are not pertinent to the resolution of the issues raised by the call of the question." | [S-077] [S-078] (2024–2026 wording) | **Answer the call.** Off-call doctrine costs you time and earns nothing. |
 | "Unless a question expressly asks you to use California law, you should answer according to legal theories and principles of general application." | [S-077] [S-078] | **The default is general (majority/common law) principles.** Use California law when the call asks for it. In Evidence, Civil Procedure and Professional Responsibility the scope also tests California rules (§3). |
 
-## 2. Official Performance Test instructions (2012–2024 booklets; 2026 wording not yet confirmed [VERIFY V-021])
+## 2. Official Performance Test instructions (2012–2024 booklets; 2026 booklet wording not yet confirmed [VERIFY V-021])
+
+The State Bar's current *Exam Content Instructions by Question Type* page matches the points below: the fictional State of Columbia, a File and a Library, authorities that may be real, modified or invented, a 90-minute design, and grading on responsiveness to the task directions, content, thoroughness and organization [S-076].
 
 | Instruction | Source |
 |---|---|
@@ -55,7 +57,7 @@ This file has three layers. Keep them apart when you use it.
 | "Professional responsibility issues may be included in conjunction with any subject tested on the examination." | [S-082] |
 | Evidence: "Applicants should be prepared to compare and contrast the differences between the Federal Rules and the California Evidence Code." | [S-083] |
 | Civil Procedure: "Applicants should be prepared to answer questions that have issues concerning the Federal Rules of Civil Procedure and the California Code of Civil Procedure." | [S-084] |
-| Professional Responsibility tests "the California Rules of Professional Conduct, relevant sections of the California Business and Professions Code, and leading federal and state case law on the subject". Two State Bar documents add the ABA Model Rules [VERIFY V-022]. | [S-082] [S-096] |
+| Professional Responsibility tests "the California Rules of Professional Conduct, relevant sections of the California Business and Professions Code, and leading federal and state case law on the subject". The State Bar's PR content outline also lists the **ABA Model Rules and Model Code**. | [S-082] [S-096] |
 | Essays can combine subjects ("crossovers"). | [S-097] |
 
 **What these facts imply.**
@@ -85,7 +87,7 @@ This file has three layers. Keep them apart when you use it.
 | 45–50 | Several issues missed, or mostly conclusions. |
 | 40 | Subject identified, minimal attempt to apply law. |
 
-Phase 3 will calibrate these bands against published selected answers, so they stay tied to actual California grading rather than my assumptions.
+Phase 3 indexed the published selected answers only from search summaries (§5, V-070), so these bands are not yet calibrated against full selected answers. Calibrate them when the booklets can be read, so they stay tied to actual California grading rather than my assumptions.
 
 ### For a civil-law-trained writer: the habits that cost points
 - **Code-style deduction without facts.** Writing "under § X, the contract is void" is a conclusion. Graders want *rule → these facts → therefore*.

@@ -15,7 +15,7 @@ status: draft
 - California Constitutional Law essays test the **U.S. Constitution**. Every Con Law call indexed from Feb 2012 to Jul 2026 asks about the U.S. Constitution, a named federal provision (First Amendment, Fourteenth Amendment, Article IV), or federal justiciability (`06-past-exams/index.csv`) [VERIFY V-071].
 - The essay default is "legal theories and principles of general application" unless the call asks for California law [S-077]. For Con Law, that means federal constitutional doctrine as the U.S. Supreme Court states it.
 - **What to do on the exam:** write the federal rule. Do **not** add California constitutional analysis unless the call asks for it ("under the U.S. and California Constitutions") or the facts are set in a California state court and the call is open-ended. If you add it, keep it to one sentence per issue, after the federal analysis.
-- **On the MBE:** never apply a California rule; "Constitution" means the federal Constitution unless the question says otherwise [S-040] [VERIFY V-053].
+- **On the MBE:** never apply a California rule; "Constitution" means the federal Constitution unless the question says otherwise [S-040].
 
 The table below lists the **real** differences that could matter if a call ever opens the door. Most are cases where the California Constitution protects **more** than the federal floor; a state may always give more protection under its own constitution, and such a ruling rests on an independent state ground (R-CON-018).
 

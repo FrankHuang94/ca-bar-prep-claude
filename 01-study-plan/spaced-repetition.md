@@ -20,7 +20,7 @@ status: draft
 | 2. Rule drills | Full essay-ready rule statements typed from memory | `/drill <subject>` | Expanding intervals: §2 |
 | 3. Missed MBE questions | Questions you got wrong | `quiz.py pick` puts missed questions first once ≥ 2 days old | Automatic, inside every `/quiz` |
 | 4. Error log | Rules you missed on any item, with root cause | `10-progress/error-log.md` "Revisit on" column | +3, +7, +14 days after the miss |
-| 5. Memorization cycles | Attack outlines and memorization lists, subject by subject | `03-subjects/*/attack-outline.md`, `memorization-list.md` | Intensive: 3 full cycles (W25, W26, W27); final 2 weeks: must-know tier daily |
+| 5. Memorization cycles | Attack outlines and memorization lists, subject by subject | `03-subjects/*/attack-outline.md`, `memorization-list.md` | 3 full cycles (W25, W26, and W28 after SIM-03); final 2 weeks: must-know tier daily |
 
 ## 2. Rule-drill intervals
 

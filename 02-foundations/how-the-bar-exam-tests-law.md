@@ -41,12 +41,12 @@ Format, timing and scoring details are in [format-and-scoring.md](../00-exam-int
 |---|---|
 | Civil Procedure | The **Federal Rules of Civil Procedure as currently in effect**, and the sections of **Title 28** on trial and appellate jurisdiction, venue and transfer |
 | Evidence | The **Federal Rules of Evidence as currently in effect** |
-| Contracts | The **Official Text of UCC Articles 1 and 2** is in effect (NCBE note, paraphrased [VERIFY V-044]). About one-fourth of Contracts questions are based on it. |
+| Contracts | The **Official Text of UCC Articles 1 and 2** has been adopted and is in effect. About one-fourth of Contracts questions are based on it. |
 | Torts | Survival actions and wrongful-death claims are available. **Joint and several liability and pure comparative fault** are the relevant rules "unless otherwise indicated". |
-| Constitutional Law | "Constitution" means the **federal** Constitution unless indicated otherwise (paraphrased [VERIFY V-044]) |
+| Constitutional Law | "The terms 'Constitution,' 'constitutional,' and 'unconstitutional' refer to the **federal** Constitution unless indicated otherwise." |
 | Criminal Law, Real Property | No single law default. Where a question quotes a statute, apply it exactly; otherwise use the common-law rule and know where the Model Penal Code or modern statutes differ. |
 
-**"As currently in effect" means recent amendments are testable.** The FRE changes of 2023–2026 are listed in [recent-changes.md](../00-exam-intel/recent-changes.md) §2, including the pending Rule 801(d)(1)(A) amendment [VERIFY V-028]. Learn the old and new versions of anything that changed recently.
+**"As currently in effect" means recent amendments are testable.** The FRE changes of 2023–2026 are listed in [recent-changes.md](../00-exam-intel/recent-changes.md) §2, including the Rule 801(d)(1)(A) amendment effective Dec 1, 2026 [S-101]. Learn the old and new versions of anything that changed recently.
 
 **How MBE questions are built**
 - **One best answer.** Two options may be partly right. The best one states the rule that actually decides *these* facts.
@@ -156,8 +156,8 @@ flowchart TD
 ```
 
 **Notes on the flowchart**
-- The EVD/CIV branch for a call that names neither or both legal systems is repo guidance drawn from the scope statements [S-083] [S-084]. Phase 3 will check it against past calls.
-- The ABA reference in the PRF branch follows the State Bar documents [S-082] [VERIFY V-022].
+- The EVD/CIV branch for a call that names neither or both legal systems is repo guidance drawn from the scope statements [S-083] [S-084]. Phase 3 found that Evidence calls name either the CEC or the FRE and switch between exams, and that the recent Civil Procedure essays with a visible forum were set in federal court (`06-past-exams/frequency-analysis.md`, finding 8).
+- The ABA reference in the PRF branch follows the State Bar's PR content outline, which lists the ABA Model Rules and Model Code [S-082]; recent PR calls ask for "California and ABA authorities".
 
 ---
 
@@ -165,7 +165,7 @@ flowchart TD
 
 - **What the State Bar says:** essays can combine subjects [S-097], and "Professional responsibility issues may be included in conjunction with any subject tested on the examination" [S-082].
 - **Why examiners do it:** real legal problems ignore subject boundaries. A crossover tests whether you can see the second subject hiding in the facts.
-- **Pairings that follow from doctrine overlap** (Phase 3's frequency analysis will measure which actually recur):
+- **Pairings that follow from doctrine overlap.** Phase 3 measured the ones that actually recur (Feb 2012 – Jul 2026): Wills + Trusts (6), Contracts + Remedies (4), Community Property + Wills (4), Remedies + Torts (3), then BA + PR, Evidence + PR and Criminal + Evidence (2 each) (`06-past-exams/frequency-analysis.md`).
 
 | Pairing | Why they overlap |
 |---|---|

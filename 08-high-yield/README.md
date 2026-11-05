@@ -37,7 +37,7 @@ This folder holds the **final-stage synthesis** of the repo: what to reread, rec
    - use [`top-rules-mbe-subjects.md`](top-rules-mbe-subjects.md) and [`top-rules-california-subjects.md`](top-rules-california-subjects.md) to review each subject's core rules;
    - use [`mbe-vs-california-master-table.md`](mbe-vs-california-master-table.md) to sharpen MBE versus essay rules;
    - use [`crossover-guide.md`](crossover-guide.md) for every crossover essay.
-3. **Memorization cycles (W25–W27):**
+3. **Memorization cycles (W25–W28):**
    - work the cold-write check and the exam-ready standard in [`memorization-master.md`](memorization-master.md) §5.
 4. **Final two weeks (W28–W29):**
    - follow [`final-2-weeks-review.md`](final-2-weeks-review.md) day by day;

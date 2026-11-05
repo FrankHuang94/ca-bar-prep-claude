@@ -28,7 +28,7 @@ status: draft
   - IV Performance, breach and discharge;
   - V Remedies;
   - VI Third-party rights.
-  - About **half** of the questions come from I and IV; about **one-quarter** are UCC Articles 1–2 questions [S-040] [VERIFY V-053].
+  - About **half** of the questions come from I and IV; about **one-quarter** are UCC Articles 1–2 questions [S-040].
 - **California essay outline** [S-088]: introductory principles (applicable law: UCC vs. common law), formation, consideration, third-party beneficiaries, assignment and delegation, performance, breach, remedies, discharge, and contract defenses. The exact numbering is unconfirmed [VERIFY V-024].
 
 ## How it is tested on California essays

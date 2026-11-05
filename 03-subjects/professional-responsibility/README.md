@@ -14,7 +14,7 @@ status: draft
 |---|---|
 | Code | `PRF` (rule IDs `R-PRF-###`, flashcards `F-PRF-####`) |
 | How tested | **Essays only** — not on the MBE. Ethics issues can also appear inside a Performance Test. The ABA-only **MPRE** is a separate admission requirement (California scaled score 86) [S-065]. |
-| Governing law on essays | California Rules of Professional Conduct, relevant Business & Professions Code sections and California case law [S-082]; nearly every call since 2013 adds **"Answer according to California and ABA authorities"**, so the ABA Model Rules are always the comparison column [VERIFY V-022]. |
+| Governing law on essays | California Rules of Professional Conduct, relevant Business & Professions Code sections and California case law [S-082]; nearly every call since 2013 adds **"Answer according to California and ABA authorities"**, so the ABA Model Rules are always the comparison column [S-082]. |
 | Essay frequency | **30 of 31** administrations, Feb. 2012 – Jul. 2026 (97%); 18% of all essays; tested on **every exam since July 2015** (`06-past-exams/frequency-analysis.md`) |
 | Coverage-matrix rows | 18 (CBX 11, SUP 7), all mapped to [`outline.md`](outline.md) or [`ca-distinctions.md`](ca-distinctions.md) |
 | Your coursework | Fall 2026 Professional Responsibility (Cardozo LL.M.); MPRE Mar. 23–24, 2027 |

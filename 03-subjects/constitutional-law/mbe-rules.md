@@ -12,7 +12,7 @@ status: draft
 
 ## 1. NCBE's assumptions for this subject
 
-- **"Constitution" means the federal Constitution.** NCBE's outline note says that "Constitution," "constitutional" and "unconstitutional" refer to the federal Constitution unless the question indicates otherwise [S-040]. The exact wording is approximate [VERIFY V-053].
+- **"Constitution" means the federal Constitution.** NCBE's outline note says that "Constitution," "constitutional" and "unconstitutional" refer to the federal Constitution unless the question indicates otherwise [S-040]. The exact wording is approximate [S-040].
 - **Distribution:** about half of the questions come from **IV Individual rights**, and about half from **I Judicial review, II Separation of powers and III Federalism** together [S-040]. With 25 scored questions, that is roughly 12–13 items from IV and 12–13 from I–III (see `05-mbe/subject-weighting.md`).
 - **Current law.** The MBE tests generally accepted principles. NCBE has no stated lag rule for new decisions [VERIFY V-027]. Items are written well in advance, so older items may assume pre-2022 law. Apply current law when a question clearly turns on a changed point, such as Lemon, Chevron, Humphrey's Executor or Roe.
 

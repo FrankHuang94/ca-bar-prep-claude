@@ -16,7 +16,7 @@ status: draft
 - California points are flagged **CA note**. The full comparison table is in [`ca-distinctions.md`](ca-distinctions.md).
 
 **Two rules of the road.**
-1. **MBE.** Assume the Official Text of UCC Articles 1 and 2 applies where appropriate. About a quarter of the 25 scored Contracts questions are UCC-based, and about half come from categories I (formation) and IV (performance, breach, discharge) [S-040] [VERIFY V-053].
+1. **MBE.** Assume the Official Text of UCC Articles 1 and 2 applies where appropriate. About a quarter of the 25 scored Contracts questions are UCC-based, and about half come from categories I (formation) and IV (performance, breach, discharge) [S-040].
 2. **California essays.** Answer under general common-law principles plus UCC Article 2 unless the call asks for California law [S-077]. California's Commercial Code mirrors Article 2 section by section (UCC § 2-207 = Com. Code § 2207). A one-line "In California, …" adds credit where the law differs.
 
 **Abbreviations.** R2d = Restatement (Second) of Contracts; UCC = Uniform Commercial Code (Official Text); Civ. Code / CCP = California Civil Code / Code of Civil Procedure; K = contract; Π/Δ = plaintiff/defendant.

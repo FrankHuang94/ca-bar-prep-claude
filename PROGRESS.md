@@ -193,14 +193,14 @@
 | Wills & Succession | 105 (R-WIL-001–105) | 138 | ~15,500 (State Bar outline I–VIII + 7 SUP topics) | 42/42 | V-500–V-540 |
 | Trusts | 96 (R-TRS-001–096) | 118 | ~11,600 (State Bar outline I–XII + 3 SUP topics) | 18/18 | V-550–V-594 |
 
-- **Evidence:** every rule gives the FRE and CEC versions. The ~55-row `ca-distinctions.md` covers Truth-in-Evidence (Prop 8), character, impeachment, hearsay, privileges, expert gatekeeping (*Kelly*/*Sargon*/*Sanchez*) and the secondary evidence rule. The FRE 801(d)(1)(A) amendment (effective Dec 1, 2026) is taught as current law with a pre/post split table [VERIFY V-028]. Essay templates follow the item-by-item method.
+- **Evidence:** every rule gives the FRE and CEC versions. The ~55-row `ca-distinctions.md` covers Truth-in-Evidence (Prop 8), character, impeachment, hearsay, privileges, expert gatekeeping (*Kelly*/*Sargon*/*Sanchez*) and the secondary evidence rule. The FRE 801(d)(1)(A) amendment (effective Dec 1, 2026) is taught as current law with a pre/post split table [S-101]. Essay templates follow the item-by-item method.
 - **PR:** every rule has a **CA vs. ABA** line. The ~55-row CA/ABA table and a State Bar Act duty table are included. `outline.md` follows the State Bar outline I–VIII, with dedicated confidentiality (I.D) and loyalty (I.E) sections and MPRE notes.
 - **Wills and Trusts:** keyed to the Probate Code. Trusts cross-references R-WIL IDs for pour-overs, no-contest clauses, disqualified donees and nonprobate transfers.
 - **Cross-subject fixes the builders found:**
   - Community Property now cites Prob. Code **§ 5040** for nonprobate transfers to a former spouse (former § 5600, now the TOD-deed statute); V-324 resolved.
   - The closing-argument PT template now states that **CA rule 3.4(g)** bars personal opinion only on the guilt or innocence of an accused; V-058 resolved (wording tracked as V-450).
   - Trusts governing law: calls vary, so read the call and give the general rule plus the Probate Code section. V-057 resolved; the remaining check is V-550. `essay-method.md` updated.
-  - `recent-changes.md` §7: Prob. Code **§ 15408** $100,000 threshold (SB 1127, 2024) [VERIFY V-556].
+  - `recent-changes.md` §7: Prob. Code **§ 15408** $100,000 threshold (SB 1127, 2024) [S-1103].
 - **Older amendments the build surfaced:**
   - § 6300 pour-over (2018): the trust instrument may be signed up to 60 days after the will.
   - § 6124: the lost-will presumption covers only a will that cannot be found.

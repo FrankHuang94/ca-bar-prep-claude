@@ -35,7 +35,7 @@ California requires an applicant educated in a non-common-law country to "demons
 | 12 units in 3 separate bar-tested subjects | "Suggested, but not required" | **Required** |
 | Time limit | Within 36 consecutive months of starting qualifying study | Same |
 
-- **Your coursework covers both versions of the guidelines** [VERIFY V-013]. Bar-tested courses: Corporations (Business Associations), Property, Torts, Evidence, Trusts & Estates. Professional Responsibility is in the Fall 2026 cohort.
+- **Your coursework covers both versions of the guidelines** [VERIFY V-013]. The State Bar's foreign-law-degree web page still shows the stricter older wording: at least 12 units across at least **four** bar-tested subjects, one of them Professional Responsibility, completed within three calendar years [S-1306]. The 2024 revision makes the 12 units "suggested, but not required" for degree candidates [S-053]. Your bar-tested courses are Corporations (Business Associations), Property, Torts, Evidence, Trusts & Estates, and Professional Responsibility (Fall 2026), so you meet either version as long as they total at least 12 units.
 - **Cardozo's confirmation.** You checked with Cardozo that the online LL.M. qualifies you for the July 2027 exam. Cardozo's own materials also say its online LL.M. is designed to meet California's requirements [S-054].
 - **The formal decision is the State Bar's.** It decides when it reviews your registration, your application and the proof of law study [S-048]. No separate action is needed unless the State Bar flags a deficiency. Answer any request for documents within its deadline (60 days for registration items [S-059]).
 
@@ -70,7 +70,7 @@ Status key: ☐ to do · ☑ done. **(est.)** = the July 2027 date is not yet pu
 
 | When | Task | Detail | Source |
 |---|---|---|---|
-| ☐ **Nov 2026 (now)** | **Register** with the State Bar as a **general applicant** (Applicant Portal), if not already | Registering is *not* applying for the exam. It must come before the moral character application. Fee **$155**. Missing items are due within 60 days or the file is abandoned. Law students must register within 90 days of starting law study [VERIFY V-019]. | [S-059] [S-028] [S-001] |
+| ☐ **Nov 2026 (now)** | **Register** with the State Bar as a **general applicant** (Applicant Portal), if not already | Registering is *not* applying for the exam. It must come before the moral character application. Fee **$155**. Missing items are due within 60 days or the file is abandoned. The registration page says law students must register within 90 days of beginning law study [S-059]. You are past that point, so register now; no rule found says late registration bars you from the exam [VERIFY V-019]. | [S-059] [S-028] [S-001] |
 | ☐ Nov 2026 | Order the **credential evaluation** of the Fudan LLB | NACES agency on the State Bar list; course-by-course evaluation plus the Foreign Law Study Evaluation Summary | [S-048] [S-056] |
 | ☐ Nov 2026 | Ask Cardozo for the **final-transcript issuance date** | Needed for the July 13 (est.) deadline | [S-048] |
 | ☐ Fall 2026 | **Professional Responsibility** course on the LL.M. transcript | Required; also doubles as MPRE preparation | [S-052] |
@@ -82,6 +82,7 @@ Status key: ☐ to do · ☑ done. **(est.)** = the July 2027 date is not yet pu
 | ☐ ~**Mon Mar 1, 2027** (est.) | July 2027 exam **application opens** | 2026 pattern: opened March 1 | [S-061] |
 | ☐ **by Thu Apr 1, 2027** (est.) | **File the exam application on time** | Timely by April 1 for July; late with fees until June 1. Fee **$878** + **$153** laptop. Choose **typing (laptop)** and a **San Diego-area site** (July 2026 sites included DoubleTree Mission Valley and Chula Vista). | [S-042] [S-028] [S-029] |
 | ☐ Apr 2 – Jun 1, 2027 (est.) | Late window (avoid) | $50 late fee through late April; $250 from the last business day of April. **Nothing is accepted after the final deadline.** | [S-060] [S-042] |
+| ☐ ~May 1 / ~May 16, 2027 (est.) | **Refund windows close** (matters only if you might withdraw) | Feb 2027 pattern: a 60% refund for withdrawing within about 30 days after the timely deadline, 30% within about 45 days, then none except in limited cases (e.g., serious illness). Withdrawal itself stays possible until about two weeks before the exam. | [S-004] [VERIFY V-016] |
 | ☐ **May–June 2027** | **Finish the LL.M.** and have Cardozo **mail the sealed transcript** | It must be *received* by about **Tue July 13, 2027** (est.). Electronic transcripts are not accepted. | [S-048] [S-058] |
 | ☐ May 2027 | **Book PTO**: Mon Jul 26 – Thu Jul 29 | Exam days are Tue–Wed. Monday rest and Thursday's noon upload make the full block worthwhile. | [S-001] [S-009] |
 | ☐ ~late Jun 2027 (est.) | **Admittance ticket** | 2026: notices began June 30. A ticket is withheld if eligibility is pending. | [S-003] |

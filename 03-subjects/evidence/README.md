@@ -27,7 +27,7 @@ status: draft
   - III Privileges and other policy exclusions and IV Writings, recordings and photographs (together ≈ 1/6 — about 4);
   - V Hearsay and circumstances of its admissibility (≈ 1/4 — about 6).
 - **California essay outline** [S-083]: presentation of evidence (general provisions; testimonial evidence), relevance (including § 352, public-policy exclusions, character), privileges, hearsay and exceptions, and contents of writings — under both codes. Exact numbering unconfirmed [VERIFY V-024].
-- **Current law built in:** FRE 106, 615, 702 (2023); 107, 613(b), 801(d)(2), 804(b)(3), 1006 (2024); **801(d)(1)(A) (Dec. 1, 2026)** [VERIFY V-028]; CEC § 352.2 (2023); AB 2556 rape-shield extension [VERIFY V-030]. See `00-exam-intel/recent-changes.md` §§ 2 and 5.
+- **Current law built in:** FRE 106, 615, 702 (2023); 107, 613(b), 801(d)(2), 804(b)(3), 1006 (2024); **801(d)(1)(A) (Dec. 1, 2026)** [S-101]; CEC § 352.2 (2023); AB 2556 rape-shield extension [VERIFY V-030]. See `00-exam-intel/recent-changes.md` §§ 2 and 5.
 
 ## How it is tested on California essays
 Phase 3 issue tags (indicative only [VERIFY V-071]):

@@ -42,7 +42,7 @@ Only citations the author is confident of are listed; items needing confirmation
 | 613 | Prior statements | No need to show; extrinsic only after opportunity (2024) [S-105] | R-EVD-023 |
 | 615 | Exclusion | Mandatory on request; disclosure orders (2023) [S-104] | R-EVD-021 |
 | 701–706 | Opinion | Lay; expert (702, 2023); bases; ultimate issue; disclosure; court experts | R-EVD-013, R-EVD-054 to R-EVD-058 |
-| 801–807 | Hearsay | Definitions; exclusions (801(d)(1)(A) amended 2026 [S-101] [VERIFY V-028]; 801(d)(2) 2024); 803, 804 (804(b)(3) 2024), 805, 806, 807 | R-EVD-083 to R-EVD-108 |
+| 801–807 | Hearsay | Definitions; exclusions (801(d)(1)(A) amended 2026 [S-101]; 801(d)(2) 2024); 803, 804 (804(b)(3) 2024), 805, 806, 807 | R-EVD-083 to R-EVD-108 |
 | 901–902 | Authentication | Sufficient to support a finding; examples; self-authentication | R-EVD-048 to R-EVD-050 |
 | 1001–1008 | Best evidence | Original; duplicates; excuses; public records; summaries (1006, 2024); party admissions; judge/jury | R-EVD-078, R-EVD-079, R-EVD-081 |
 | 1101 | Applicability | Not grand jury, sentencing, bail, etc.; privileges always | R-EVD-034 |

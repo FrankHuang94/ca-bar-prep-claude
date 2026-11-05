@@ -121,7 +121,7 @@ This ties the tiers to the five loops in [`spaced-repetition.md`](../01-study-pl
 3. **For PR, type four parts:** the ABA rule, the California rule, "same/differs", and the reason. A PR rule scores 3 only with its CA vs. ABA line.
 4. **For subjects where the MBE and California differ** (Evidence, Torts, Civil Procedure, Criminal), type both versions. Add which one goes on the MBE and which on a California essay.
 
-**Cold-write check, once per subject in each memorization cycle (W25–W27)**
+**Cold-write check, once per subject in each memorization cycle (W25–W28)**
 1. Take the subject's row in §3 and the rule titles only.
 2. Close everything else and write each must-know rule statement.
 3. Compare each one with `rule-statements.md` and mark it 3/2/1/0 by the `/drill` scale.

@@ -57,7 +57,7 @@ Tiers reflect MBE weight [S-040] and the Phase 3 essay tags [VERIFY V-071]. Rule
 | 702 (2023) | Helpful; sufficient facts; reliable method; reliable application — each by a **preponderance** |
 | Daubert factors | Testing, peer review, error rate, standards, general acceptance |
 | Prop 8 preserved rules | Hearsay, privilege, **§§ 352, 782, 1103**; two-thirds statutes (§ 1101 re-enacted 1986) |
-| Effective dates | FRE 106/615/702: Dec. 1, 2023; 107/613(b)/801(d)(2)/804(b)(3)/1006: Dec. 1, 2024; 801(d)(1)(A): Dec. 1, 2026 [VERIFY V-028]; CEC § 352.2: Jan. 1, 2023 |
+| Effective dates | FRE 106/615/702: Dec. 1, 2023; 107/613(b)/801(d)(2)/804(b)(3)/1006: Dec. 1, 2024; 801(d)(1)(A): Dec. 1, 2026 [S-101]; CEC § 352.2: Jan. 1, 2023 |
 
 ## California gaps and additions (memorize as a list)
 - **Gaps (no CEC equivalent):** general present sense impression; general medical-diagnosis exception; employee/agent admissions; learned-treatise exception; residual exception; FRE 107 illustrative-aid rule; FRE 415 civil sexual-propensity rule.

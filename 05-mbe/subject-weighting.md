@@ -49,14 +49,14 @@ The quoted text is NCBE's distribution note as captured in Phase 0 (via search) 
 | B | I Nature of judicial review · II Separation of powers · III Relation of nation and states | ~1/2 | ~12–13 |
 
 ### Contracts (CTR)
-> "Approximately half of the Contracts questions on the MBE will be based on categories I and IV" [S-040]. The rest of the sentence, "approximately half on the remaining categories", was not captured verbatim [VERIFY V-053].
+> "Approximately half of the Contracts questions on the MBE will be based on categories I and IV, and approximately half will be based on the remaining categories—II, III, V, and VI." [S-040]
 >
 > "Approximately one-fourth of the Contracts questions on the MBE will be based on the Official Text of Articles 1 and 2 of the Uniform Commercial Code." [S-040]
 
 | Group | Categories | NCBE share | ≈ Scored Qs |
 |---|---|---|---|
 | A | I Formation · IV Performance, breach, and discharge | ~1/2 | **~12–13** |
-| B | II Defenses to enforceability · III Contract content and meaning · V Remedies · VI Third-party rights | remainder, ~1/2 [VERIFY V-053] | ~12–13 |
+| B | II Defenses to enforceability · III Contract content and meaning · V Remedies · VI Third-party rights | ~1/2 | ~12–13 |
 | Cross-cutting | UCC Articles 1 and 2 (sale of goods), in any category | ~1/4 | **~6** |
 
 ### Criminal Law and Procedure (CRM)
@@ -68,7 +68,7 @@ The quoted text is NCBE's distribution note as captured in Phase 0 (via search) 
 | B | I Homicide · II Other crimes · III Inchoate crimes; parties · IV General principles | ~1/2 | ~12–13 |
 
 ### Evidence (EVD)
-> "Approximately one-quarter of the Evidence questions on the MBE will be based on category I, one-third on category II, one-quarter on category V, and the remainder on categories III and IV." [S-040]
+> "Approximately one-quarter of the Evidence questions on the MBE will be based on category I, one-third on category II, one-quarter on category V, and the remainder on categories III and IV." [S-040] (Phase 0 search quote. The Phase 7 reviewer recalled a different split, about one-third each for I, V and II–IV together, possibly from an older outline; re-read this note on the PDF before relying on the Evidence II weighting [VERIFY V-960].)
 
 | Category | NCBE share | ≈ Scored Qs |
 |---|---|---|
@@ -119,8 +119,8 @@ These are the defaults the MBE tells you to assume. They override your instincts
 | Subject | NCBE assumption | Status | Source |
 |---|---|---|---|
 | Civil Procedure | Assume the Federal Rules of Civil Procedure **as currently in effect**, and the sections of Title 28 of the U.S. Code on trial and appellate jurisdiction, venue and transfer. | confirmed (search) | [S-040] |
-| Constitutional Law | "Constitution", "constitutional" and "unconstitutional" refer to the **federal** Constitution unless the question indicates otherwise. | wording approximate [VERIFY V-053] | [S-040] |
-| Contracts | Assume the **Official Text of UCC Articles 1 and 2** is in effect, and about 1/4 of Contracts questions are based on it. | first clause paraphrased [VERIFY V-053]; the 1/4 share is confirmed | [S-040] |
+| Constitutional Law | "The terms 'Constitution,' 'constitutional,' and 'unconstitutional' refer to the **federal** Constitution unless indicated otherwise." | confirmed (search) | [S-040] |
+| Contracts | Assume the **Official Text of UCC Articles 1 and 2** has been adopted and is in effect; about 1/4 of Contracts questions are based on it. | confirmed (search) | [S-040] |
 | Evidence | Answer every Evidence question under the **Federal Rules of Evidence, as currently in effect**. | confirmed (search) | [S-040] |
 | Torts | Assume **survival actions and wrongful-death claims are available**. **Joint and several liability** and **pure comparative fault** apply unless the question says otherwise. | confirmed (search) | [S-040] |
 | Criminal Law and Procedure; Real Property | No subject-wide assumption note was captured in Phase 0. Do not assume there is none. | [VERIFY V-054] | [S-040] |
@@ -130,8 +130,8 @@ These are the defaults the MBE tells you to assume. They override your instincts
 - Whether NCBE applies any lag before testing a new rule is open item V-027.
 - **On the MBE, never apply a California rule** (Evidence Code, CCP, Civil Code). California rules belong on essays when the call asks for them (see [essay-method.md](../09-exam-strategy/essay-method.md) §6).
 
-**Which outline applies.** The distributions above come from the January 2023 outline PDF [S-040]. Two points are open [VERIFY V-054]:
-- whether this is still the outline NCBE applies to July 2027;
+**Which outline applies.** The distributions above come from the January 2023 outline PDF [S-040], which was still the MBE outline NCBE served in November 2026 searches. Two points are open [VERIFY V-054]:
+- whether NCBE confirms it for July 2027 (the last MBE-only cycles end in February 2028);
 - whether the distribution notes describe scored questions only.
 
 ## 5. What this means for your study time
@@ -159,5 +159,5 @@ Example: 10 hours of Evidence MBE practice ≈ 2.5 h presentation (I), 3.3 h rel
 
 ### Rule 4: mind the essay side
 - The same subjects appear on the written section, where the State Bar's scope and California law apply.
-- Phase 3 (`06-past-exams/frequency-analysis.md`) will add essay frequency, so final allocations combine both.
+- Phase 3 (`06-past-exams/frequency-analysis.md`) added essay frequency: among the MBE subjects, Contracts, Criminal Law and Evidence each appeared on about half of the 31 exams, and Civil Procedure, Constitutional Law, Real Property and Torts on about 40%. Final allocations combine both.
 - MBE weighting alone should not decide your time for Community Property, Remedies, Wills, Trusts, Business Associations or Professional Responsibility, which are essay-only.

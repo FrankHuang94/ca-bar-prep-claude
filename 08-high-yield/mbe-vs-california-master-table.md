@@ -29,7 +29,7 @@ The official instruction: unless a question expressly asks for California law, a
 |---|---|---|---|
 | **Evidence** | The call names the code; know both [S-083] | CEC: Feb 2016, Jul 2018, Feb 2020, Feb 2024, Feb 2025 retest, Jul 2026. FRE: Feb 2012, Jul 2014, Feb 2017, Feb 2019, Feb 2023 [VERIFY V-071] | Named code only; otherwise both, labelled. CEC + criminal: open with Prop 8 (R-EVD-001, R-EVD-004) |
 | **Civil Procedure** | FRCP **and** CCP, compared where relevant [S-084] | Recent visible forums were federal (Jul 2021, Feb 2023, Feb 2026) | Federal court: FRCP + a CCP sentence if invited. Superior court: CCP first |
-| **Professional Responsibility** | California Rules, State Bar Act, cases [S-082] | Nearly every call since 2013: "California and ABA authorities" [VERIFY V-022] | Duty by duty: ABA → California → apply → conclude each (R-PRF-001) |
+| **Professional Responsibility** | California Rules, State Bar Act, cases [S-082] | Nearly every call since 2013: "California and ABA authorities" [S-082] | Duty by duty: ABA → California → apply → conclude each (R-PRF-001) |
 | **Community Property** | California law [S-079] | Every CP call | California only; other state's law only to explain QCP |
 | **Wills and Succession** | California law [S-079] | Every Wills call | Probate Code; common law only where California adopted it |
 | **Trusts** | Read the call [VERIFY V-550] | California law: Feb 2012, Feb 2015. Silent: Feb 2016 | Silent: general rule + Probate Code section |
@@ -80,7 +80,7 @@ Chosen by how often the subject and the issue appear on California essays: PR 30
 | 22 | **BUS — interested director** | Disclosure + disinterested approval **or** fairness (MBCA §§ 8.60–8.63) | Board approval still requires "just and reasonable" (Corp. Code § 310) [VERIFY V-726] | Test fairness even after board approval | R-BUS-064, R-BUS-065 | Fiduciary duties tagged in 4 |
 | 23 | **WIL / CMP — surviving spouse** | Elective share; title controls | No elective share; survivor owns half CP + half decedent's QCP; will passes only decedent's share (Prob. Code §§ 100, 101, 6101) | Characterize first, then distribute | R-WIL-001, R-CMP-091, R-CMP-092 | CP + Wills crossovers (4) |
 | 24 | **WIL — harmless error** | Any formality (UPC § 2-503) | Witnessing defects only (Prob. Code § 6110(c)(2)) | "Cannot save an unsigned will." | R-WIL-048 | Execution tagged in 4–5 |
-| 25 | **TRS — revoke / amend** | Irrevocable unless reserved; strict method | Revocable unless expressly irrevocable (§ 15400); signed writing to trustee unless method **explicitly** exclusive; not by will (§ 15401(a); *Haggerty*) [VERIFY V-033] | "Explicitly exclusive?" | R-TRS-011, R-TRS-012, R-TRS-013, R-TRS-014 | Wills + Trusts crossovers (6) |
+| 25 | **TRS — revoke / amend** | Irrevocable unless reserved; strict method | Revocable unless expressly irrevocable (§ 15400); signed writing to trustee unless method **explicitly** exclusive; not by will (§ 15401(a); *Haggerty*) [S-129] | "Explicitly exclusive?" | R-TRS-011, R-TRS-012, R-TRS-013, R-TRS-014 | Wills + Trusts crossovers (6) |
 
 ---
 
@@ -108,7 +108,7 @@ Source: [`../03-subjects/evidence/ca-distinctions.md`](../03-subjects/evidence/c
 | **Impeachment:** prior convictions | 609 | Criminal: moral-turpitude felonies + § 352; misdemeanor conduct (*Wheeler*). Civil: § 788 felonies + § 352 (*Robbins v. Wong*) [VERIFY V-400] | Moral turpitude + § 352 | R-EVD-025, R-EVD-026 |
 | Specific acts of untruthfulness | Cross-examination only; no extrinsic proof (608(b)) | Civil: inadmissible even on cross (§ 787). Criminal: moral-turpitude conduct admissible, subject to § 352 | Contrast civil and criminal | R-EVD-027, R-EVD-028 |
 | Prior inconsistent statement — foundation | Opportunity to explain or deny **before** extrinsic evidence, unless court orders otherwise (613(b), 2024) | Opportunity to explain or deny, **or** witness not excused (§ 770) | California timing is looser | R-EVD-023 |
-| Prior inconsistent statement — substantive | From Dec 1, 2026: any PIS of a testifying witness, subject to 403 (before: only sworn statements at a proceeding) [VERIFY V-028] | Substantive under § 1235 | Now the same result; know the old rule for older materials | R-EVD-085 |
+| Prior inconsistent statement — substantive | From Dec 1, 2026: any PIS of a testifying witness, subject to 403 (before: only sworn statements at a proceeding) [S-101] | Substantive under § 1235 | Now the same result; know the old rule for older materials | R-EVD-085 |
 | Prior consistent statement | Rebut fabrication (made before the motive) **or** rehabilitate on another ground (801(d)(1)(B)) | Only after an inconsistent statement (made before it) or a fabrication/bias charge (made before the motive) (§§ 791, 1236) | No "other ground" clause | R-EVD-086 |
 | **Hearsay:** party admissions — label | "Not hearsay" (801(d)(2)) | Hearsay within an exception (§ 1220) | Use the right label | R-EVD-088 |
 | Employee / agent statements | Within scope, during employment (801(d)(2)(D)) | Only authorized (§ 1222) or derivative liability (§ 1224) [VERIFY V-401] | Big difference | R-EVD-090 |
@@ -370,7 +370,7 @@ There is no MBE rule. These rows are the **casebook / UPC / UTC / common-law-sta
 
 | Issue | Tempting common-law / UTC rule | California rule | What to write on the essay | Rule IDs |
 |---|---|---|---|---|
-| Revocability; methods; by will; amendment | Top 25 #25 | §§ 15400, 15401(a), 15402; *Haggerty* [VERIFY V-033] | State both, apply California | R-TRS-011, R-TRS-012, R-TRS-013, R-TRS-014 |
+| Revocability; methods; by will; amendment | Top 25 #25 | §§ 15400, 15401(a), 15402; *Haggerty* [S-129] | State both, apply California | R-TRS-011, R-TRS-012, R-TRS-013, R-TRS-014 |
 | CP in a joint revocable trust | Varies | Either spouse may revoke as to CP; modification needs both (Fam. Code § 761) [VERIFY V-585] | CP + Trusts crossovers | R-TRS-015 |
 | Beneficiaries terminating | *Claflin*: no termination while a material purpose remains | All beneficiaries (written consent, § 15404) may petition; the court balances the reason against any material purpose, and a spendthrift trust may be terminated only on a finding of good cause (§ 15403) | *Claflin*, then balancing | R-TRS-025 |
 | Spendthrift vs. general creditors | Valid clause bars all general creditors | General creditors may reach principal already due but still held, in full (§ 15301(b)), plus up to 25% of each future payment after support needs; orders under § 15307 (amounts beyond education and support needs) count within that same 25% cap (§§ 15306.5, 15307; *Carmack v. Reynolds* (2017)) | General rule, then "California, however…" | R-TRS-046 |

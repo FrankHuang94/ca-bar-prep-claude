@@ -100,7 +100,7 @@ State courts have general jurisdiction. Every court also needs **personal jurisd
 | Source | What it is | Status |
 |---|---|---|
 | **Restatements** (e.g., Restatement (Second) of Contracts; Restatement (Second) and (Third) of Torts) | Published by the American Law Institute (ALI). They summarize, and sometimes reform, the common law in black-letter sections with comments. | Persuasive only. Courts often adopt a section, after which it is that state's law. Many "majority" and "modern" rules you will learn are stated in Restatement sections. |
-| **Uniform Commercial Code (UCC)** | A *uniform act* drafted by the Uniform Law Commission and ALI | Law **only as enacted by each state**. California's enactment is the Commercial Code (Com. Code § 2207 = UCC § 2-207). The MBE assumes the **Official Text** of Articles 1 and 2 [S-040] [VERIFY V-044]. |
+| **Uniform Commercial Code (UCC)** | A *uniform act* drafted by the Uniform Law Commission and ALI | Law **only as enacted by each state**. California's enactment is the Commercial Code (Com. Code § 2207 = UCC § 2-207). The MBE assumes the **Official Text** of Articles 1 and 2 has been adopted and is in effect [S-040]. |
 | **Other uniform acts** (Uniform Probate Code, Revised Uniform Partnership Act, etc.) | Drafted by the Uniform Law Commission for states to enact | Law only where enacted, often with local changes. |
 | **Model codes** (Model Penal Code; ABA Model Rules of Professional Conduct; Model Business Corporation Act) | Drafted by ALI or ABA as models | Same: law only where adopted. The MPC is the usual source of "modern" criminal-law rules (e.g., the substantial-step test for attempt). |
 | Treatises, law reviews | Scholarship | Persuasive only. |

@@ -84,18 +84,18 @@ When the July 2027 bulletin is published, confirm each of these and update the t
 - [ ] **Test site** assignment, parking and pre-exam visit time [VERIFY V-052].
 - [ ] Mock-exam and upload deadlines [VERIFY V-016].
 
-## 3. Countdown checklist (two weeks out to upload deadline)
+## 3. Countdown checklist (SIM-03 to upload deadline)
 
 Dates assume the 2026 pattern holds. **(est.)** = not yet published [VERIFY V-016].
 
 | When | Task | Done |
 |---|---|---|
+| T−17 (Sat–Sun Jul 10–11) | Last full simulation, SIM-03 (the study plan sets this): 2-day, real start times. From here on, only light timed sets. | ☐ |
 | **~Tue July 13, 2027 (est.)** | Your sealed LL.M. transcript must have been **received** by the State Bar by now. Have Cardozo mail it as soon as your final term ends (May or June) ([admissions-checklist.md](../00-exam-intel/admissions-checklist.md)). | ☐ |
 | T−14 (Tue July 13) | Admittance ticket received; test site confirmed. Read the July 2027 bulletin end to end and work through §2 above. | ☐ |
 | T−14 | **Book a hotel** if you will stay near the site (§6). | ☐ |
 | T−14 | Laptop: **turn off automatic operating-system updates** until after the exam. Check the Examplify requirements on ExamSoft's site. Confirm you have administrator rights on the laptop. | ☐ |
 | T−12 to T−5 | **Register in Examplify, download the mock exam, complete it and upload it.** Do it early, not on the deadline day. Deadline about **Fri July 23 (est.)**. Keep the confirmation. | ☐ |
-| T−17 | Last full simulation, SIM-03, Sat–Sun Jul 10–11 (the study plan sets this): 2-day, real start times. From here on, only light timed sets. | ☐ |
 | T−7 (Tue July 20) | **Drive the route** to your site at the real time of day (arrive by 7:50 a.m.). Note parking and the walk to the entrance. | ☐ |
 | T−7 | Buy supplies that fit the 2027 rules: a one-gallon clear bag, foam earplugs, an approved water bottle, and pens and pencils if allowed. | ☐ |
 | T−3 (Sat July 24) | Download the **exam files** when the State Bar instructs. Restart the laptop and test Examplify. Charge it and pack the charger. | ☐ |
@@ -141,7 +141,7 @@ Dates assume the 2026 pattern holds. **(est.)** = not yet published [VERIFY V-01
 
 You live in San Diego, so the question is commute risk, not distance.
 - **Stay near the site if** your normal drive is more than about 30 minutes, or crosses a corridor with unpredictable morning traffic. One accident must not put you near the **one-hour refusal line** [S-003].
-- **If you stay:** book as soon as your site is confirmed. The 2026 Mission Valley site was itself a hotel [S-029], but its rooms may sell out to other applicants. Ask for a quiet room away from elevators and ice machines. Book **Monday to Wednesday nights**.
+- **If you stay:** book as soon as your site is confirmed. The 2026 Mission Valley site was itself a hotel [S-029], but its rooms may sell out to other applicants. Ask for a quiet room away from elevators and ice machines. Book **Monday and Tuesday nights** (check out Wednesday after the MBE).
 - **If you commute:** do the trial drive (T−7). Leave 30 minutes earlier than the trial suggests. Have a plan B route. Ride-share is a backup if parking is uncertain.
 - **Parking:** 2026 Mission Valley parking was paid, with a validation discount [S-029]. Bring a payment card.
 

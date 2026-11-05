@@ -145,8 +145,8 @@ Write: *"A valid express trust requires (1) a settlor with capacity, (2) intent 
 
 **3. Modification (§ 15402) and *Haggerty v. Thornton*.**
 - § 15402: "Unless the trust instrument provides otherwise, if a trust is revocable by the settlor, the settlor may modify the trust by the procedure for revocation."
-- **Before 2024**, Courts of Appeal split. *King v. Lynch* (2012) 204 Cal.App.4th 1186 held that where the trust specified a modification method, that method had to be used [VERIFY V-033].
-- ***Haggerty v. Thornton* (2024) 15 Cal.5th 729**: a revocable trust may be modified by the statutory revocation procedure in § 15401(a)(2) (a signed writing delivered to the trustee) **unless the trust instrument provides a method of modification and explicitly makes that method exclusive**. The Court disapproved *King v. Lynch* and similar decisions [S-129] [S-650] [VERIFY V-033]. R-TRS-014.
+- **Before 2024**, Courts of Appeal split. *King v. Lynch* (2012) 204 Cal.App.4th 1186 held that where the trust specified a modification method, that method had to be used [S-129].
+- ***Haggerty v. Thornton* (2024) 15 Cal.5th 729**: a revocable trust may be modified by the statutory revocation procedure in § 15401(a)(2) (a signed writing delivered to the trustee) **unless the trust instrument provides a method of modification and explicitly makes that method exclusive**. The Court disapproved *King v. Lynch* and similar decisions [S-129] [S-650] [S-129]. R-TRS-014.
 - **Write:** "Under § 15402 and *Haggerty*, S may amend by any signed writing delivered to the trustee unless the trust's amendment clause is explicitly exclusive. The clause here says only that amendments 'may' be made by notarized writing; it is not exclusive, so S's signed, delivered amendment is valid."
 - **General-law contrast.** The traditional rule required strict compliance with a stated method; UTC § 602(c) permits any method manifesting clear and convincing intent unless the stated method is exclusive [VERIFY V-594].
 

@@ -78,7 +78,7 @@ Type the outline at the top of your answer. Write over it as you go, deleting ea
    Consideration (R2d 71): bargain? | "quit... enroll" = price (L) vs. condition of gift (W) | -> likely no  [6 min]
 2. [Call 2 heading]
    Promissory estoppel (R2d 90): promise | expect reliance | actual reliance | injustice | remedy  [14 min]
-   ...
+...
 ```
 
 **Depth allocation by issue weight:**
@@ -129,7 +129,7 @@ however, [why your side's reading is stronger]. Therefore, [element] is likely [
 | The call says "under California law" | California rule as the main rule. Add the general rule only if the call asks you to compare. | [S-077] |
 | **Evidence** | Follow the call: FRE, CEC, or both. Be ready to **compare and contrast** the Federal Rules and the California Evidence Code. When the call asks for both, use a side-by-side or "Under the FRE... Under the CEC..." structure for each item of evidence. | [S-083] |
 | **Civil Procedure** | Expect issues under both the **FRCP** and the **California CCP**. A case in California superior court is governed by California procedure; a case in federal court by the FRCP and Title 28. | [S-084] |
-| **Professional Responsibility** | California Rules of Professional Conduct, relevant Business and Professions Code sections, and leading case law. When the call asks for ABA authorities too, give each rule and flag the differences. | [S-082] (ABA scope: V-022) |
+| **Professional Responsibility** | California Rules of Professional Conduct, relevant Business and Professions Code sections, and leading case law; the content outline also lists the ABA Model Rules and Model Code. When the call asks for ABA authorities too (recent calls do), give each rule and flag the differences. | [S-082] |
 | **Community Property; Wills; Trusts** | California law. Community property is a California system; the Wills outline is keyed to the Probate Code [S-094]; the coverage matrix flags every Trusts row as California-specific. Trusts calls vary: some say "Under California law" (Feb 2012, Feb 2015), others reportedly do not [VERIFY V-550]. Read the call; state the general trust rule and cite the Probate Code section, flagging any California difference (see `03-subjects/trusts/ca-distinctions.md`). | [S-094] |
 
 **Professional Responsibility can appear inside any subject** [S-082]. A Contracts or Civ Pro essay can carry an ethics call.
@@ -225,7 +225,7 @@ Even without consideration, a promise is binding if the promisor should reasonab
 - [ ] If time remains: add one more fact-based "because" to the closest issue.
 
 ## 11. Practice protocol
-1. **Phase 2–4 (learning):** untimed essays with the outline, then compare against the model answer's issue list. Focus on issue-spotting.
-2. **Integration:** timed at 60 minutes, then grade with `/essay`. It logs the attempt for you (`python scripts/quiz.py log --kind essay ...`).
-3. **Intensive:** 4–6 timed essays a week, at least 30% crossovers. Include outline-only drills (`/spot`, 10 minutes) on extra past essays to multiply issue-spotting practice.
+1. **First essays (W49):** untimed, with the outline, then compare against the model answer's issue list. Focus on issue-spotting.
+2. **From W50 (foundation and integration):** timed at 60 minutes, then grade with `/essay`. It logs the attempt for you (`python scripts/quiz.py log --kind essay ...`).
+3. **Intensive:** 4–5 timed essays a week (`01-study-plan/schedule.yml`), at least 30% crossovers. Include outline-only drills (`/spot`, 10 minutes) on extra past essays to multiply issue-spotting practice.
 4. Track your **issue-spotting rate** (issues you found ÷ issues in the model list) separately from the score. If it is below about 80%, the fix is the checklists, not your writing.

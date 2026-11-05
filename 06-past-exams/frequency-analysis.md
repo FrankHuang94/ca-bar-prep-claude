@@ -34,12 +34,12 @@ status: draft
    - Remedies + Torts (3)
    - then BA + PR, Evidence + PR, Criminal + Evidence (2 each)
 
-   `08-high-yield/crossover-guide.md` (Phase 6) will cover how to organize each.
+   `08-high-yield/crossover-guide.md` (Phase 6) covers how to organize each.
 6. **No subject is "due".** Since 2017 no subject has been absent for more than a few administrations, and the State Bar does not rotate predictably. Use frequency to decide **emphasis and depth**, never to skip a subject.
 7. **Since the two-day format (Jul 2017 onward, 100 essays):**
    - PR appears on 20 of 20 exams.
-   - CP and Remedies on 11 each; Contracts, Criminal and Evidence on 10 each.
-   - Torts on 9; BA, Con Law and Real Property on 8 each; Civ Pro and Wills on 7 each; Trusts on 3.
+   - CP on 11; Remedies on 10 (11 essays); Contracts, Criminal and Evidence on 10 each.
+   - Torts on 8 (9 essays); BA, Con Law and Real Property on 8 each; Civ Pro and Wills on 7 each; Trusts on 3.
 
    Run `python scripts/frequency_analysis.py --since 2017-07 --stdout` for the full table.
 8. **California law is explicit in the call.**

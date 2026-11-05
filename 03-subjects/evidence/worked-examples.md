@@ -62,7 +62,7 @@ All fact patterns are original. Each states the governing law, then rule → app
 **10. Prior inconsistent statement (after Dec. 1, 2026).** Eyewitness W told a detective on the night of the shooting, "D fired the gun." At trial she testifies she did not see who fired. The detective's notes are offered.
 - *Rule:* Amended FRE 801(d)(1)(A) and CEC § 1235 make a testifying witness's inconsistent statement substantive (R-EVD-085); foundation under 613(b) / § 770 (R-EVD-023).
 - *Application:* W testifies and can be cross-examined about the statement. Ask her about it first (613(b)); in California, it is enough that she has not been excused. Before the amendment, the unsworn statement would have been impeachment only.
-- *Conclusion:* Admissible for its truth (subject to 403) [VERIFY V-028]; the notes are read or the detective testifies.
+- *Conclusion:* Admissible for its truth (subject to 403) [S-101]; the notes are read or the detective testifies.
 
 ## B. Impeachment
 

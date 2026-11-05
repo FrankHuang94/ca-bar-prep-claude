@@ -40,7 +40,7 @@ Total **616 rows**. By verification status, **434** are `confirmed-primary` (sea
 | Trusts | TRS | 18 | 3 | 15 | 18 |
 | Performance Test | PT | 2 | 1 | 1 | 0 |
 
-**The weak spots are the California-only subjects.** The State Bar's essay outlines for Business Associations, Professional Responsibility, Remedies, Trusts and Wills came back mostly paraphrased, so those rows are thin and "unconfirmed". **Phase 3 (past-exam issues) is the main fix.** Every issue tested on a published California essay becomes a `PAST` row, which gives those subjects a frequency-weighted, verified topic list before Phase 4 content is written.
+**The weak spots are the California-only subjects.** The State Bar's essay outlines for Business Associations, Professional Responsibility, Remedies, Trusts and Wills came back mostly paraphrased, so those rows are thin and "unconfirmed". **Phase 3 (past-exam issues) was the backstop:** every issue tagged on a published California essay was mapped to a row, and the two issues no row covered became `PAST` rows. The CBX rows themselves stay provisional until the outline PDFs are read directly (V-024, V-025).
 
 ## Columns
 
@@ -56,7 +56,7 @@ Total **616 rows**. By verification status, **434** are `confirmed-primary` (sea
 | `tested_on` | `;`-separated: `MBE`, `essay`, `PT` |
 | `ca_specific` | `Y` if California law governs or a CA-vs-federal distinction is tested |
 | `weight_note` | NCBE distribution note, for MBE category rows |
-| `target_file` / `target_heading` | Where the topic is taught. In v1 every target is **planned** (the file does not exist yet). |
+| `target_file` / `target_heading` | Where the topic is taught. In v1 every target was **planned**; since Phase 4 all 616 rows are `mapped`. |
 | `mapping_status` | `planned` → `mapped` (heading exists; the validator checks it) → `verified` (Phase 7 QA) |
 | `source_status` | `confirmed-primary`, `secondary`, `unconfirmed` |
 | `source_id` | `S-###` from `sources.md` |
@@ -69,7 +69,7 @@ Total **616 rows**. By verification status, **434** are `confirmed-primary` (sea
 - **Never delete a row to make validation pass.** If a row is a duplicate, map it to the same heading and note the duplicate.
 
 ## Known gaps and provisional items
-- 97 MBE rows have approximately quoted wording, and Torts IV.D (interference with business relations) is not confirmed for the MBE [VERIFY V-023].
+- 97 MBE rows have approximately quoted wording, and Torts IV.D (interference with business relations) is not confirmed for the MBE [VERIFY V-023]. NCBE's MEE Torts outline does list it under IV, Other torts [S-1307].
 - CBX rows are mostly paraphrased, and their `coverage_id`s stay provisional until the 13 outline PDFs are read directly [VERIFY V-024].
 - Ten outline sections were not captured at all. SUP rows stand in for them [VERIFY V-025].
 - The CBX outlines are undated. Whether they remain the official essay scope is unconfirmed, though nothing indicates they were withdrawn [VERIFY V-026].

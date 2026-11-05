@@ -302,7 +302,7 @@ status: draft
 
 **Elements:** Methods: bias/interest; inconsistent statements; convictions; character for untruthfulness; sensory or mental defects; contradiction. Religious beliefs may not be used (FRE 610; § 789).
 
-**Exceptions / defenses:** A party may not call a witness solely as a pretext to place inadmissible hearsay before the jury (largely moot under amended 801(d)(1)(A) [VERIFY V-028] and § 1235).
+**Exceptions / defenses:** A party may not call a witness solely as a pretext to place inadmissible hearsay before the jury (largely moot under amended 801(d)(1)(A) [S-101] and § 1235).
 
 **Authority:** FRE 607, 608, 610; CEC §§ 780, 785, 786, 789.
 
@@ -1135,7 +1135,7 @@ status: draft
 
 **Elements:** 1. Declarant testifies. 2. Subject to cross about the statement. 3. Inconsistent (including feigned memory loss). 4. Foundation (613(b) / § 770). 5. 403 / § 352.
 
-**Exceptions / defenses:** Before Dec. 1, 2026 the FRE required that the statement have been made under penalty of perjury at a trial, hearing, other proceeding or deposition; otherwise it was impeachment only. Confirm the amendment took effect [VERIFY V-028].
+**Exceptions / defenses:** Before Dec. 1, 2026 the FRE required that the statement have been made under penalty of perjury at a trial, hearing, other proceeding or deposition; otherwise it was impeachment only. Confirm the amendment took effect [S-101].
 
 **Authority:** FRE 801(d)(1)(A) [S-101] [S-102]; CEC §§ 770, 1235; *California v. Green*, 399 U.S. 149 (1970); *People v. Green* (1971) 3 Cal.3d 981 [S-519].
 

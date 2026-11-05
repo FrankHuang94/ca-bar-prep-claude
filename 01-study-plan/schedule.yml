@@ -443,7 +443,7 @@ weeks:
   hours: 38
   theme: "SIMULATION #3 (Sat–Sun Jul 10–11, week −3) — CHECKPOINT 5"
   learn: ["Mon (Independence Day observed): long block — weak-area reading + timed PT-style practice", "Tue–Wed evenings: timed essays; Thu–Fri light before the simulation"]
-  reinforce: ["Memorization cycle 3 of 3"]
+  reinforce: ["Rule drills + Anki only; memorization cycle 3 runs in W28, after SIM-03"]
   mbe: {n: 200, mix: {MIX: 200}}
   essays: {n: 7, subjects: [MIX], mode: simulation}
   spot: 1
@@ -459,7 +459,7 @@ weeks:
   hours: 35
   theme: "SIM-03 review + final review 1: high-yield + attack outlines"
   learn: ["Mon–Tue evenings: SIM-03 review and final weak-spot list", "08-high-yield (top rules, CA-vs-MBE master table, most-tested issues, crossover guide); all 13 attack outlines"]
-  reinforce: ["Short timed MBE sets daily; no new material"]
+  reinforce: ["Memorization cycle 3 of 3 (timed, after SIM-03)", "Short timed MBE sets daily; no new material"]
   mbe: {n: 60, mix: {MIX: 60}}
   essays: {n: 3, subjects: [WEAK, XO, MIX], mode: timed}
   spot: 4

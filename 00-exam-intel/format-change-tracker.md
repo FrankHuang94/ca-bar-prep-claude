@@ -38,7 +38,7 @@ status: draft
 - If the State Bar or the Court announces anything new about February 2028, `/update-exam-intel` must flag it immediately.
 
 ## Watch list (checked by `/update-exam-intel`)
-- An explicit State Bar statement that February 2028 uses the current GBX format [VERIFY V-009].
+- An explicit State Bar statement that February 2028 uses the current GBX format [VERIFY V-009]. None found in Phase 7 either. The inference is strong: B&P § 6046.6 requires two years' notice of a change that substantially alters preparation [S-019], the only notice given (July 15, 2026) is for July 2028 [S-020], and NCBE offers the stand-alone MBE through February 2028 [S-027].
 - California component: preliminary recommendation (due Feb 26, 2027), final recommendation (June 2027) and the subject list the Supreme Court approves [VERIFY V-010].
 - AB 2109 (2026), which would have required a UBE switch by 2029. Its status after March 2026 is unconfirmed [S-031] [VERIFY V-011].
 - The CBE's report under B&P § 6046.2 on a uniform exam, due Nov 30, 2026 [S-032].

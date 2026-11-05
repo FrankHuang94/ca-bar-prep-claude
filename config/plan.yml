@@ -21,7 +21,7 @@ phases:
     start: 2026-11-09
     end: 2027-03-28
     weeks: 20
-    hours_per_week: [10, 35]                # Nov 10–12 h; from Dec 30–35 h (user capacity 35–40; margin for LL.M. coursework); finals week 15 h
+    hours_per_week: [10, 35]                # Nov 10–12 h; from Dec 28–35 h (user capacity 35–40; margin for LL.M. coursework); finals week 15 h; holiday/deload weeks 28 h
     focus: "FIRST PASS of all 13 subjects by Mar 28: Contracts, Civ Pro, Con Law, Crim (Nov–Jan), Community Property, Remedies, Evidence, PR, Wills, Trusts, Torts, Real Property (Feb–Mar); MPRE in March; daily MBE + flashcards"
   - id: integration
     start: 2027-03-29

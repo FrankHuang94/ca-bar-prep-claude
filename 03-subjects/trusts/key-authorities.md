@@ -108,8 +108,8 @@ One line per authority. Where a section's details were not confirmed against cur
 
 | Case | Holding or rule (one line) | Rule ID |
 |---|---|---|
-| *Haggerty v. Thornton* (2024) 15 Cal.5th 729 | A revocable trust may be modified by the § 15401(a)(2) statutory revocation method unless the instrument explicitly makes its modification method exclusive [S-129] [S-650] [VERIFY V-033] | R-TRS-014 |
-| *King v. Lynch* (2012) 204 Cal.App.4th 1186 | Required use of a trust's stated modification method; **disapproved** by *Haggerty* [VERIFY V-033] | R-TRS-014 |
+| *Haggerty v. Thornton* (2024) 15 Cal.5th 729 | A revocable trust may be modified by the § 15401(a)(2) statutory revocation method unless the instrument explicitly makes its modification method exclusive [S-129] [S-650] [S-129] | R-TRS-014 |
+| *King v. Lynch* (2012) 204 Cal.App.4th 1186 | Required use of a trust's stated modification method; **disapproved** by *Haggerty* [S-129] | R-TRS-014 |
 | *Estate of Giraldin* (2012) 55 Cal.4th 1058 | After the settlor's death, beneficiaries have standing to sue the trustee for breaches committed while the trust was revocable | R-TRS-065 |
 | *Carmack v. Reynolds* (2017) 2 Cal.5th 844 | A general creditor (there a bankruptcy trustee) may reach due-and-payable distributions in full (§ 15301(b)) and up to 25% of anticipated payments, reduced for support needs; §§ 15306.5 and 15307 orders share the 25% cap [S-655] [S-1105] | R-TRS-042, R-TRS-046 |
 | *Claflin v. Claflin* (Mass. 1889) 149 Mass. 19 | Beneficiaries cannot compel termination while a material purpose of the settlor remains unaccomplished | R-TRS-025 |

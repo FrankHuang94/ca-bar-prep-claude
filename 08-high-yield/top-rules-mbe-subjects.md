@@ -36,7 +36,7 @@ status: draft
 ## 1. Contracts (CTR)
 
 > **How it is tested**
-> - **MBE:** I Formation + IV Performance/breach ≈ ½ of 25 (~6–7 each); II, V ~3–4 each; III, VI ~2–3 each; UCC ≈ ¼ of items [S-040] [VERIFY V-053].
+> - **MBE:** I Formation + IV Performance/breach ≈ ½ of 25 (~6–7 each); II, V ~3–4 each; III, VI ~2–3 each; UCC ≈ ¼ of items [S-040].
 > - **CA essay:** 17 essays, 16/31 administrations (10/20 since Jul 2017). Tagged: expectation damages 7, breach 5, governing law 5.
 > - **Approach:** pairs with Remedies (4 crossovers). Lead with UCC vs. common law; give each party a damages heading.
 
@@ -153,7 +153,7 @@ status: draft
 ## 5. Evidence (EVD)
 
 > **How it is tested**
-> - **MBE:** II Relevancy ~⅓ of 25 (~8); I Presentation and V Hearsay ~¼ each (~6); III and IV ~⅙ (~4) [S-040]. Includes amended 801(d)(1)(A) (Dec. 1, 2026) [VERIFY V-028].
+> - **MBE:** II Relevancy ~⅓ of 25 (~8); I Presentation and V Hearsay ~¼ each (~6); III and IV ~⅙ (~4) [S-040]. Includes amended 801(d)(1)(A) (Dec. 1, 2026) [S-101].
 > - **CA essay:** 15 essays, 15/31 (10/20 since Jul 2017). The call names CEC or FRE; read it first (R-EVD-001). Tagged: hearsay 3; party admissions, BER, business records, privileges 2 each.
 > - **Method:** item by item: relevance → 403/352 → witness → authentication → BER → policy and privilege → hearsay → Confrontation.
 
@@ -164,7 +164,7 @@ status: draft
 | 1 | **R-EVD-002, R-EVD-003** Relevance; 403 | Relevant evidence has any tendency to make a fact of consequence more or less probable. Exclude if probative value is substantially outweighed by unfair prejudice, confusion, misleading, delay or cumulativeness (FRE 403; CEC § 352). | **CA:** fact must be disputed (§ 210); Prop 8 admits relevant criminal evidence except privileges, hearsay, §§ 352, 782, 1103 (R-EVD-004). |
 | 2 | **R-EVD-035, R-EVD-037, R-EVD-038** Character | Character is inadmissible to prove conforming conduct. A criminal Δ may offer his own or the victim's pertinent trait by reputation or opinion; the prosecution may rebut and, if Δ attacked the victim's trait, offer Δ's same trait. | **CA:** § 1103 allows specific acts of the victim; § 1101 survives Prop 8 (*Ewoldt*). |
 | 3 | **R-EVD-042** Other acts | Other acts are admissible not for propensity but for motive, opportunity, intent, preparation, plan, knowledge, identity or absence of mistake, if a jury could find them and 403 permits (FRE 404(b); *Huddleston*). | **CA:** *Ewoldt* scale: identity needs a signature, intent the least similarity. |
-| 4 | **R-EVD-023, R-EVD-085** Prior inconsistent statements | Impeach without first showing the statement; extrinsic proof only after a chance to explain or deny (FRE 613(b)) and not on collateral matters. Under amended 801(d)(1)(A), a testifying witness's inconsistent statement is also substantive evidence [VERIFY V-028]. | **CA:** § 770 also allows extrinsic proof if the witness is not excused; § 1235 has long allowed substantive use. **MBE:** older questions use the sworn-statement rule. |
+| 4 | **R-EVD-023, R-EVD-085** Prior inconsistent statements | Impeach without first showing the statement; extrinsic proof only after a chance to explain or deny (FRE 613(b)) and not on collateral matters. Under amended 801(d)(1)(A), a testifying witness's inconsistent statement is also substantive evidence [S-101]. | **CA:** § 770 also allows extrinsic proof if the witness is not excused; § 1235 has long allowed substantive use. **MBE:** older questions use the sworn-statement rule. |
 | 5 | **R-EVD-025, R-EVD-026** Convictions | FRE 609: felonies impeach (403 for witnesses; for the accused only if probative value outweighs prejudice); dishonesty crimes always come in; convictions over 10 years old face a stricter test. | **CA:** criminal: moral-turpitude felonies and misdemeanor conduct, subject to § 352 (*Castro*, *Wheeler*); civil: § 788. |
 | 6 | **R-EVD-054** Experts | Proponent shows it is more likely than not that the expert's knowledge will help, the testimony rests on sufficient data, uses reliable methods, and applies them reliably (FRE 702, 2023; *Daubert*). | **MBE:** basis and application are admissibility, not weight. **CA:** *Sargon*, *Kelly* (R-EVD-060). |
 | 7 | **R-EVD-074, R-EVD-075** Policy exclusions | Subsequent remedial measures are inadmissible to prove negligence, defect or culpable conduct, but allowed for ownership, control, feasibility or impeachment (FRE 407). Compromise offers and negotiation statements are inadmissible to prove validity or amount (FRE 408). | **CA:** remedial measures are admissible in strict products cases (*Ault*); § 1152 also covers humanitarian offers. |

@@ -12,7 +12,7 @@ status: draft
 
 ## 1. NCBE's assumptions
 - **Law tested:** "the Federal Rules of Evidence, as currently in effect" [S-040]. No state law, no California rules.
-- **No lag policy** for amendments has been found [VERIFY V-027]. For July 2027 the FRE include the Dec. 1, 2023 (106, 615, 702), Dec. 1, 2024 (107, 613(b), 801(d)(2), 804(b)(3), 1006) and Dec. 1, 2026 (801(d)(1)(A)) amendments [S-104] [S-105] [S-101] [VERIFY V-028]. Items are written well in advance, so a question may avoid a just-changed point; if it clearly turns on it, apply the current rule.
+- **No lag policy** for amendments has been found [VERIFY V-027]. For July 2027 the FRE include the Dec. 1, 2023 (106, 615, 702), Dec. 1, 2024 (107, 613(b), 801(d)(2), 804(b)(3), 1006) and Dec. 1, 2026 (801(d)(1)(A)) amendments [S-104] [S-105] [S-101]. Items are written well in advance, so a question may avoid a just-changed point; if it clearly turns on it, apply the current rule.
 - **25 scored Evidence questions** among 175 scored (plus pretest items) [S-007].
 - **Weighting (NCBE outline) [S-040]:**
 
@@ -41,7 +41,7 @@ status: draft
 7. 609: felonies — 403 for witnesses, reverse balancing for the accused; crimen falsi automatic; 10-year rule (R-EVD-025).
 8. 608(b): specific acts of untruthfulness on cross only; no extrinsic evidence; take the answer (R-EVD-027).
 9. Bias is not collateral; extrinsic evidence allowed, subject to 403 (R-EVD-024).
-10. Prior inconsistent statement: no need to show it first, but extrinsic proof only after an opportunity to explain or deny (613, 2024) (R-EVD-023); substantive use under amended 801(d)(1)(A) (R-EVD-085) [VERIFY V-028].
+10. Prior inconsistent statement: no need to show it first, but extrinsic proof only after an opportunity to explain or deny (613, 2024) (R-EVD-023); substantive use under amended 801(d)(1)(A) (R-EVD-085) [S-101].
 11. 806: a hearsay declarant may be impeached as if a witness (R-EVD-031).
 12. 606(b): jurors may testify only about extraneous information, outside influence, or a form error (R-EVD-011).
 
@@ -106,7 +106,7 @@ status: draft
 | Declarant's statement against penal interest implicating D | Only self-inculpatory part; corroboration; Crawford if testimonial |
 | Lab certificate without analyst | Crawford / Melendez-Diaz violation |
 | Prior consistent statement made after motive to lie arose | Not admissible under 801(d)(1)(B)(i) (Tome) |
-| Prior inconsistent unsworn statement to police (after Dec. 1, 2026) | Substantive under amended 801(d)(1)(A), subject to 403 [VERIFY V-028] |
+| Prior inconsistent unsworn statement to police (after Dec. 1, 2026) | Substantive under amended 801(d)(1)(A), subject to 403 [S-101] |
 
 ## 5. Answer-elimination tips
 - Distinguish **"not hearsay"** (no exception needed) from **"hearsay, but an exception applies"**; the MBE uses both as reasons.
