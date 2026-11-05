@@ -5,7 +5,7 @@ coverage_ids: []
 tested_on: [MBE]
 exam_frequency: {level: high, basis: "Applies to every MBE question"}
 last_verified: 2026-11-05
-status: reviewed
+status: verified
 ---
 
 # MBE strategy

@@ -5,7 +5,7 @@ coverage_ids: []
 tested_on: [MBE, essay, PT]
 exam_frequency: {level: n/a, basis: "Study-sustainability and exam-performance guidance, not a tested topic"}
 last_verified: 2026-11-05
-status: reviewed
+status: verified
 ---
 
 # Mindset and fatigue

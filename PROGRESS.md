@@ -16,7 +16,7 @@
 | 5 — Question bank | ✅ **Done (awaiting review)**: 1,050 MCQs, 84 essays (85 with E-XO-030, added in Phase 7), 8 PTs, 3 simulations | Every item independently reviewed |
 | 6 — High-yield and memorization | ✅ **Done (awaiting review)** | 08-high-yield (8 files + README), consistency sweep, Anki decks |
 | 7 — Independent QA | ✅ **Done (awaiting review)** | All 13 subjects, the exam-intel and strategy files, all 39 Wave 1 essays, PT-001–003 and the 350 Wave 1 MCQs independently reviewed; 12 HIGH and 125 MED rule fixes; 118 VERIFY items resolved; files marked `verified`/`reviewed`. Report: `10-progress/qa-report-phase7.md` |
-| 8 — Maintenance | ☐ | |
+| 8 — Maintenance | 🔄 **Ongoing**: cycle 1 done 2026-11-05 (exam-intel update, VERIFY burn-down, copyright audit, tooling); next cycle early Dec 2026 | Log: `10-progress/maintenance-log.md`; run `/monthly-maintenance` |
 
 ## Phase 2 deliverables
 - **`02-foundations/`:**
@@ -36,6 +36,20 @@
 - **`config/plan.yml`:** finalized phases, no leave (PTO for exam week only), targets and benchmarks aligned to the schedule.
 - **Totals (after the 2026-11-04 rework for 35–40 h/week from December):** ≈ 1,194 h · 3,140 MBE · 109 essays · 74 `/spot` drills · 17 PTs · 3 simulations (all on weekends). The first build's ≈ 754 h figure assumed the November capacity throughout.
 - **New sources and verify items:** S-140–S-150 and S-160; V-040–V-044, V-050–V-058 and V-060.
+
+## Phase 8 — maintenance (ongoing)
+- **How:** run `/monthly-maintenance` once a month; each cycle is logged in `10-progress/maintenance-log.md`. The final full sweep is in **June 2027**.
+- **Cycle 1 (2026-11-05):**
+  - Exam intel: no date moved; the Apr 1 and Jun 1, 2027 deadlines are confirmed by rule; fees unchanged; #2 pencils for the MBE.
+  - Law changes applied: *Enbridge*, *Fuentes*, AB 628, *Landor*.
+  - VERIFY: **267 open / 144 resolved** (from 283 / 123); sources **820**. Corrections include R-WIL-013 (§ 259 exception), no UCC § 2-318 in California, the § 310 burden and the Tenant Protection Act exemption.
+  - Copyright audit: pass on all six checks.
+  - Tooling: `bank_targets.py` and `/monthly-maintenance`.
+  - Bank expansion: none (no attempts logged yet).
+- **Waiting on you:**
+  - Register with the State Bar now (the 90-day rule applies; V-019).
+  - Ask Cardozo when the final transcript will be issued (V-015).
+  - Start logging attempts in December.
 
 ## Phase 7 deliverables (independent QA)
 - **Report:** `10-progress/qa-report-phase7.md` (scope, findings by subject, VERIFY status, what `verified` means, residual risks).

@@ -21,7 +21,7 @@ issues:
   - {issue: "Who is bound: QuickGrocer's store manager; FarmFresh as a person in active concert with actual notice", points: 8, call: 3, major: true, rule_ids: [R-REM-080], coverage_ids: [REM-CBX-IV]}
 time_minutes: 60
 source: original
-status: reviewed
+status: verified
 last_verified: 2026-11-05
 tags: [wave2, W2-E7, permanent-injunction, laches, unclean-hands, contempt]
 ---
