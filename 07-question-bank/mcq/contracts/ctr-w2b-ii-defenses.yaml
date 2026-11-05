@@ -28,7 +28,7 @@ questions:
     to know is an element of the separate volitional test (§ 15(1)(b)) and of the intoxication rule (§
     16). The uncontradicted medical evidence satisfies the cognitive test, and the conservator may avoid
     the contract on Ostrander's behalf. The Restatement limits avoidance where the contract was made on
-    fair terms, the other party had no reason to know of the incapacity, and performance or changed
+    fair terms, the other party did not know of the incapacity, and performance or changed
     circumstances would make avoidance unjust (§ 15(2)); but this contract was wholly executory, and
     Paxton had not changed his position. Trap: borrowing the reason-to-know requirement from the
     volitional and intoxication tests.
@@ -123,12 +123,13 @@ questions:
   answer: D
   explanation_correct: >-
     A misrepresentation is an assertion not in accord with the facts (R2d § 159; R-CTR-037).
-    Nondisclosure counts as an assertion only in limited situations: where the party actively conceals
-    the fact; where disclosure is needed to correct a prior assertion; where the other party is mistaken
-    about a basic assumption and nondisclosure would amount to a failure to act in good faith and in
-    accordance with reasonable standards of fair dealing; where the other party is mistaken about the
-    contents of a writing; or where the parties are in a relationship of trust (R2d §§ 160, 161;
-    R-CTR-038). Parties dealing at arm's length are generally not expected to share what they know about
+    Active concealment is equivalent to an assertion (R2d § 160), but nondisclosure counts as one only
+    where the silent party knows that disclosure is needed to keep a prior assertion from being a
+    misrepresentation; knows that disclosure would correct the other party's mistake about a basic
+    assumption, and silence would amount to a failure to act in good faith and in accordance with
+    reasonable standards of fair dealing; knows that disclosure would correct the other party's mistake
+    about the contents or effect of a writing; or where the other party is entitled to know because of
+    a relationship of trust and confidence (R2d § 161; R-CTR-038). Parties dealing at arm's length are generally not expected to share what they know about
     market value, particularly information a buyer developed through its own research from public
     sources. Halvard hid nothing, said nothing false, had no relationship of trust with Delacorte, and
     paid the land's current market value. Delacorte cannot rescind. Trap: treating every undisclosed
@@ -180,13 +181,15 @@ questions:
     because the buyer paid for goodwill that would be worthless if the seller could immediately reclaim
     the customers. A three-year, 10-mile restriction protecting a practice whose patients live mostly
     within six miles is reasonable, and Ferrante's new office four miles away falls squarely within it.
-    An injunction is the usual remedy. Trap: carrying California's statutory hostility to noncompetes
-    (Bus. & Prof. Code § 16600) into an MBE question.
+    An injunction is the usual remedy. Trap: carrying California's statutory hostility to employee
+    noncompetes (Bus. & Prof. Code § 16600) into an MBE question; California itself excepts a covenant
+    by the seller of a business's goodwill (R-CTR-041).
   explanation_each_wrong_option:
     A: >-
       Overbroad. The common law does not void every restraint on practicing a profession; it enforces
-      reasonable restraints ancillary to the sale of a business or to employment (R2d § 188). The "void"
-      approach reflects California's statute, not the rule tested on the MBE.
+      reasonable restraints ancillary to the sale of a business or to employment (R2d § 188). Voiding such
+      covenants reflects California's treatment of employee noncompetes, not the rule tested on the MBE,
+      and even California excepts a seller of a business's goodwill (R-CTR-041).
     B: >-
       Three years is a common and reasonable period for a buyer to establish its own relationship with the
       patients. That other dentists could serve them is exactly why the buyer needs protection from the

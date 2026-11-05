@@ -6,8 +6,8 @@ questions:
   rule_ids: [R-CTR-062, R-CTR-083]
   difficulty: 3
   stem: >-
-    Corbin Construction, a general contractor, hired Delta Electric as a subcontractor on a
-    shopping-center project. The signed subcontract provided: "Contractor shall pay Subcontractor for
+    The jurisdiction follows the Restatement (Second) of Contracts. Corbin Construction, a general
+    contractor, hired Delta Electric as a subcontractor on a shopping-center project. The signed subcontract provided: "Contractor shall pay Subcontractor for
     its work within 30 days after Contractor receives payment for that work from Owner." Nothing else in
     the subcontract addressed what would happen if the owner never paid, and the jurisdiction has no
     statute governing such clauses. Delta completed its work properly. The owner then became insolvent
@@ -33,7 +33,7 @@ questions:
   explanation_each_wrong_option:
     A: >-
       That reading would make Delta bear the owner's credit risk and forfeit its whole price. Absent clear
-      language making the owner's payment a condition (a "pay-if-paid" clause), courts read such terms as
+      language making the owner's payment a condition (a "pay-if-paid" clause), most courts read such terms as
       fixing the time for payment (R2d § 227).
     B: >-
       Corbin's performance, paying money, remains entirely possible. A third party's failure to supply the
@@ -318,7 +318,7 @@ questions:
       Missing element. Mentioning merchantability is necessary but not sufficient; a written disclaimer of
       merchantability must also be conspicuous (§ 2-316(2)).
     D: >-
-      True but irrelevant. Linden is generally bound by the terms of a form it signed, but the Code itself
+      Overbroad. Linden is generally bound by the terms of a form it signed, but the Code itself
       denies effect to a written disclaimer of merchantability that is not conspicuous.
   trap_type: missing-element
   authority: ["UCC § 1-201(b)(10)", "UCC § 2-314", "UCC § 2-316(2)"]
@@ -386,8 +386,8 @@ questions:
   rule_ids: [R-CTR-082, R-CTR-116]
   difficulty: 1
   stem: >-
-    Gideon Marsh, the sole owner of Marsh Paving, a small paving business with four employees, signed a
-    contract with Westbrook Church to repave the church's parking lot for $42,000. Paving work of that
+    Gideon Marsh owned and operated Marsh Paving, a small paving business with four employees, as a sole
+    proprietorship. He signed a contract with Westbrook Church to repave the church's parking lot for $42,000. Paving work of that
     kind is routinely done by many local contractors, and the church chose Marsh Paving because its bid
     was the lowest. Before work began, Marsh died suddenly. The executor of Marsh's estate notified the
     church that the estate would not perform. The church promptly hired another contractor, which did
@@ -402,8 +402,8 @@ questions:
   explanation_correct: >-
     A party's death discharges its contractual duty only if the existence of that particular person is
     necessary for performance, as with services that depend on the individual's own skill (R2d § 262;
-    R-CTR-082). Routine paving that many contractors could do, and that Marsh would have performed
-    through his employees in any event, does not depend on Marsh personally; the duty was delegable (R2d
+    R-CTR-082). Routine paving that many contractors could do, and for which the church chose Marsh
+    Paving on price rather than for Marsh's personal skill, does not depend on Marsh personally; the duty was delegable (R2d
     § 318; R-CTR-116) and survives as an obligation of his estate. The estate's refusal is a breach, and
     the church recovers the $7,000 extra cost of a substitute. Trap: assuming that death always
     discharges.
