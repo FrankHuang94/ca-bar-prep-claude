@@ -1012,7 +1012,7 @@ Read with [`outline.md`](outline.md) (full treatment) and [`ca-distinctions.md`]
 **Example:** In settlement talks, defense counsel says, "My client has no insurance," knowing there is a $1 million policy. Material misrepresentation — violation of both rules and B&P § 6106.
 
 ### R-PRF-073 — Communicating with a represented person
-**Rule (write this):** In representing a client a lawyer may not communicate directly or indirectly about the subject of the representation with a person the lawyer knows is represented by another lawyer in the matter, unless that lawyer consents or the communication is authorized by law or court order. For a represented organization, the bar covers current officers, directors, partners and managing agents, and current employees whose act or omission in the matter may be binding on or imputed to the organization (California), or whose statements may constitute an admission (ABA).
+**Rule (write this):** In representing a client a lawyer may not communicate directly or indirectly about the subject of the representation with a person the lawyer knows is represented by another lawyer in the matter, unless that lawyer consents or the communication is authorized by law or court order. For a represented organization, California covers current officers, directors, partners and managing agents, and any current employee or other constituent when the communication concerns that person's own act or omission in the matter that may be binding on or imputed to the organization; the ABA covers a constituent who supervises, directs or regularly consults with the organization's lawyer about the matter, has authority to obligate the organization in the matter, or whose act or omission in the matter may be imputed to the organization.
 
 **Elements:** 1. Knowledge of representation in the matter. 2. Subject of the representation. 3. Organizational constituents. 4. No consent of counsel (the represented person's own consent is not enough).
 
@@ -1020,7 +1020,7 @@ Read with [`outline.md`](outline.md) (full treatment) and [`ca-distinctions.md`]
 
 **Authority:** CRPC rule 4.2; MR 4.2 and cmt. [7].
 
-**MBE vs. CA essay:** not on the MBE. **CA vs. ABA:** same core; California defines covered organizational constituents more precisely.
+**MBE vs. CA essay:** not on the MBE. **CA vs. ABA:** same core; California defines covered constituents by position and by the imputed act or omission, while the ABA comment adds those who supervise, direct or regularly consult with the organization's lawyer or can obligate the organization. The ABA comment's former category of constituents "whose statement may constitute an admission" was deleted in 2002.
 
 **Example:** Plaintiff's lawyer calls the defendant company's plant supervisor whose negligence caused the accident. Prohibited under both rules without company counsel's consent.
 

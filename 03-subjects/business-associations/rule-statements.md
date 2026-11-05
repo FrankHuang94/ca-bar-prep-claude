@@ -1374,15 +1374,15 @@ status: draft
 ## VI. Other business structures
 
 ### R-BUS-101 — Limited liability company: formation and nature
-**Rule (write this):** A limited liability company is formed by filing articles of organization with the Secretary of State and is a separate legal entity whose members are not personally liable for its obligations solely by reason of being members. Its internal affairs are governed by the operating agreement (written, oral or implied) and, where the agreement is silent, by the LLC statute; it is member-managed unless the articles state that it is manager-managed.
+**Rule (write this):** A limited liability company is formed by filing articles of organization with the Secretary of State and is a separate legal entity whose members are not personally liable for its obligations solely by reason of being members. Its internal affairs are governed by the operating agreement (written, oral or implied) and, where the agreement is silent, by the LLC statute. It is member-managed unless designated manager-managed: in California, by a statement in the articles of organization that it is managed by one or more managers; under the uniform act, by an express provision in the operating agreement (RULLCA § 407(a)).
 
 **Elements:** 1. Filed articles. 2. Operating agreement (cannot override nonwaivable provisions such as eliminating the duty of loyalty or the obligation of good faith). 3. Management structure.
 
 **Exceptions / defenses:** If nothing was filed, the business is a general partnership (or a sole proprietorship). A California LLC may not render licensed professional services, such as law (R-BUS-108).
 
-**Authority:** Corp. Code §§ 17701.02, 17701.04, 17701.10, 17702.01 [S-826] [VERIFY V-729]; RULLCA §§ 104, 105, 201.
+**Authority:** Corp. Code §§ 17701.02, 17701.04, 17701.10, 17702.01, 17704.07 [S-826] [VERIFY V-729]; RULLCA §§ 104, 105, 201, 407.
 
-**MBE vs. CA essay:** same rule; the professional-services bar is California-specific.
+**MBE vs. CA essay:** same core rule; California differs in two respects: the professional-services bar, and manager management designated in the articles rather than in the operating agreement.
 
 **Example:** Two founders file articles for "Bright Paint LLC" and start trading. Even without a written operating agreement, the LLC exists and the statute fills the gaps.
 

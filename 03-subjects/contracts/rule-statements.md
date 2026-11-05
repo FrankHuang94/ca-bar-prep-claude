@@ -411,9 +411,9 @@ status: draft
 
 **Exceptions / defenses:** The parties can also rescind and make a new contract. Waiver and estoppel may bind a party who accepted different performance.
 
-**Authority:** R2d § 89; *Angel v. Murray*, 113 R.I. 482, 322 A.2d 630 (1974); Cal. Civ. Code § 1698 [S-201].
+**Authority:** R2d § 89; *Angel v. Murray*, 113 R.I. 482, 322 A.2d 630 (1974); Cal. Civ. Code §§ 1697 [S-940], 1698 [S-201].
 
-**MBE vs. CA essay:** differs. Under Civ. Code § 1698, a written contract may be modified by a writing, by an oral agreement to the extent it has been executed, or, unless the contract expressly provides otherwise, by an oral agreement supported by new consideration. The statute of frauds applies if the contract as modified falls within it [S-201].
+**MBE vs. CA essay:** differs. Under Civ. Code § 1698, a written contract may be modified by a writing, by an oral agreement to the extent it has been executed, or, unless the contract expressly provides otherwise, by an oral agreement supported by new consideration. The statute of frauds applies if the contract as modified falls within it [S-201]. A contract not in writing "may be modified in any respect by consent of the parties, in writing, without a new consideration" (Civ. Code § 1697) [S-940], so in California a signed written modification of an oral contract needs no consideration.
 
 **Example:** A city's trash contract assumed stable housing; 400 unexpected new units appear, and the city agrees to pay $10,000 more a year. The modification is enforceable as fair and equitable.
 
