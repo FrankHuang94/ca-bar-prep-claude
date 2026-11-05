@@ -77,9 +77,10 @@ questions:
       (R-CON-046). A funding condition the state may decline is not compulsion.
     D: >-
       Overbroad. Conditions must meet the Dole requirements and NFIB's coercion limit; threatening all
-      existing Medicaid funds, for example, was unconstitutional (R-CON-024).
+      existing Medicaid funds, for example, was held coercive (NFIB: Chief Justice Roberts's opinion on
+      this point was for three Justices, and four dissenters also found coercion) (R-CON-024).
   trap_type: overbroad
-  authority: ["U.S. Const. art. I, § 8, cl. 1", "South Dakota v. Dole, 483 U.S. 203 (1987)", "NFIB v. Sebelius, 567 U.S. 519 (2012)"]
+  authority: ["U.S. Const. art. I, § 8, cl. 1", "South Dakota v. Dole, 483 U.S. 203 (1987)", "NFIB v. Sebelius, 567 U.S. 519 (2012) (Medicaid coercion: Roberts, C.J., for three Justices; seven Justices agreed)"]
   source: original
   tags: [wave1, spending-power, conditional-grants]
   status: draft
@@ -168,7 +169,7 @@ questions:
 
 - id: Q-CON-0013
   subject: CON
-  coverage_ids: [CON-MBE-II.B.1]
+  coverage_ids: [CON-MBE-II.B.1, CON-MBE-II.B.3]
   rule_ids: [R-CON-031]
   difficulty: 2
   stem: >-
@@ -210,7 +211,7 @@ questions:
 
 - id: Q-CON-0014
   subject: CON
-  coverage_ids: [CON-MBE-II.B.3]
+  coverage_ids: [CON-MBE-II.B.3, CON-MBE-III.B.2]
   rule_ids: [R-CON-034, R-CON-051]
   difficulty: 3
   stem: >-
@@ -294,7 +295,7 @@ questions:
 
 - id: Q-CON-0016
   subject: CON
-  coverage_ids: [CON-MBE-II.C.1]
+  coverage_ids: [CON-MBE-II.C.1, CON-MBE-II.C.2]
   rule_ids: [R-CON-038, R-CON-039, R-CON-040]
   difficulty: 1
   stem: >-

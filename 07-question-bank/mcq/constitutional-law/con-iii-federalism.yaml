@@ -153,7 +153,7 @@ questions:
       requirement is discriminatory and gets the near-per-se rule.
     B: >-
       Outdated rule. The state-ownership theory of wild animals was rejected (Hughes v. Oklahoma); a
-      state's interest in its fish and wildlife does not excuse discrimination (R-CON-047).
+      state's interest in its fish and wildlife does not by itself justify discrimination (R-CON-047).
     D: >-
       Wrong plaintiff. Corporations are not "citizens" protected by Article IV P&I (R-CON-053); the
       dormant Commerce Clause is the corporation's vehicle.
@@ -194,7 +194,8 @@ questions:
       clearly excessive (Exxon v. Governor of Maryland; R-CON-048).
     C: >-
       Overbroad. Environmental laws are reviewed under the dormant Commerce Clause; a discriminatory
-      environmental law fails (Philadelphia v. New Jersey). This one survives because it is neutral.
+      environmental law is virtually per se invalid (Philadelphia v. New Jersey). This one survives
+      because it is neutral.
     D: >-
       Wrong standard. The "no less discriminatory alternative" burden on the state applies to
       discriminatory laws (R-CON-047); Pike asks only whether the burden is clearly excessive.
@@ -284,7 +285,7 @@ questions:
 
 - id: Q-CON-0025
   subject: CON
-  coverage_ids: [CON-MBE-III.B.3]
+  coverage_ids: [CON-MBE-III.B.3, CON-MBE-III.B.1]
   rule_ids: [R-CON-052, R-CON-047]
   difficulty: 3
   stem: >-

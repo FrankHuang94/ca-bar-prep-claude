@@ -28,10 +28,12 @@ questions:
   explanation_each_wrong_option:
     A: >-
       Confused rule. RFRA binds only the federal government; it is unconstitutional as applied to the
-      states (R-CON-089; City of Boerne v. Flores). RLUIPA covers only prisons and land use.
+      states (R-CON-089; City of Boerne v. Flores). RLUIPA covers only land-use regulation and persons
+      confined in institutions such as prisons.
     B: >-
-      Outdated standard. Before Smith, burdens on religion triggered strict scrutiny; now strict scrutiny
-      applies only to laws that are not neutral or not generally applicable (R-CON-087).
+      Outdated standard. Before Smith, substantial burdens on religion triggered strict scrutiny; now a
+      neutral, generally applicable law gets only rational-basis review, and strict scrutiny applies to laws
+      that are not neutral or not generally applicable (R-CON-087).
     C: >-
       Courts examine sincerity, not the truth or orthodoxy of a belief (United States v. Ballard;
       R-CON-088). The members lose on the merits, not because their practice is unrecognized.
@@ -65,19 +67,22 @@ questions:
     the government may not coerce religious participation (R-CON-090; Kennedy v. Bremerton School
     District). Legislative prayer has an unbroken history dating to the First Congress, and a practice that
     invites volunteer clergy and does not pressure adults to participate is constitutional (Town of Greece
-    v. Galloway; Marsh v. Chambers).
+    v. Galloway; Marsh v. Chambers). Town of Greece's coercion analysis (Part II-B) was a plurality
+    opinion; two concurring Justices would find coercion only from legal compulsion, which is absent here
+    too.
   explanation_each_wrong_option:
     A: >-
       Abandoned test. The "primary effect" prong comes from Lemon v. Kurtzman, which the Court has
       abandoned in favor of history, tradition and coercion (R-CON-090).
     B: >-
       Distinguishable. Graduation prayer coerces students who effectively must attend (Lee v. Weisman);
-      adults at a legislative meeting are free to leave or not participate (Town of Greece).
+      adults at a legislative meeting are free to leave or not participate (Town of Greece, Part II-B,
+      plurality opinion).
     D: >-
       Overbroad. Government speech is free from Free Speech Clause viewpoint limits, but the Establishment
       Clause still restricts the government's own religious speech (R-CON-096).
   trap_type: wrong-standard
-  authority: ["U.S. Const. amend. I", "Town of Greece v. Galloway, 572 U.S. 565 (2014)", "Marsh v. Chambers, 463 U.S. 783 (1983)", "Kennedy v. Bremerton School Dist., 597 U.S. 507 (2022)", "Lee v. Weisman, 505 U.S. 577 (1992)"]
+  authority: ["U.S. Const. amend. I", "Town of Greece v. Galloway, 572 U.S. 565 (2014) (Part II-B plurality)", "Marsh v. Chambers, 463 U.S. 783 (1983)", "Kennedy v. Bremerton School Dist., 597 U.S. 507 (2022)", "Lee v. Weisman, 505 U.S. 577 (1992)"]
   source: original
   tags: [wave1, establishment-clause, legislative-prayer]
   status: draft
@@ -105,9 +110,11 @@ questions:
   explanation_correct: >-
     B is correct. A law is content-based on its face if it applies to particular speech because of the
     topic discussed or the idea or message expressed, and facially content-based laws get strict scrutiny
-    regardless of the government's benign motive (R-CON-092, R-CON-093; Reed v. Town of Gilbert). An
-    official must read a sign to know whether it is an opinion sign or an event sign, so the distinction is
-    content-based.
+    regardless of the government's benign motive (R-CON-092, R-CON-093; Reed v. Town of Gilbert). The
+    ordinance treats signs differently by their subject matter and function (views on public issues versus
+    announcements of events), so the distinction is content-based on its face. (The mere need to read a
+    sign is not the test; a location-based on-premises/off-premises rule is content-neutral, City of
+    Austin.)
   explanation_each_wrong_option:
     A: >-
       Confused rule. Viewpoint discrimination is the most egregious form of content discrimination, but a
@@ -119,7 +126,7 @@ questions:
       Wrong standard. A neutral justification cannot save a law that is content-based on its face; the
       purpose inquiry matters only for facially neutral laws (Reed; R-CON-092).
   trap_type: wrong-standard
-  authority: ["U.S. Const. amend. I", "Reed v. Town of Gilbert, 576 U.S. 155 (2015)", "Police Dep't of Chicago v. Mosley, 408 U.S. 92 (1972)"]
+  authority: ["U.S. Const. amend. I", "Reed v. Town of Gilbert, 576 U.S. 155 (2015)", "Police Dep't of Chicago v. Mosley, 408 U.S. 92 (1972)", "City of Austin v. Reagan National Advertising of Austin, LLC, 596 U.S. 61 (2022)"]
   source: original
   tags: [wave1, free-speech, content-based]
   status: draft
@@ -157,10 +164,12 @@ questions:
       Narrow tailoring for content-neutral rules does not require the least restrictive means; the rule may
       not burden substantially more speech than necessary (Ward; R-CON-094).
     D: >-
-      Fact-misread. Parks are traditional public forums at all hours; the time of day affects the
-      reasonableness of the restriction, not the forum's category.
+      Fact-misread. Parks are traditional public forums, and nothing in the facts makes this park a
+      different kind of forum at night; the hour bears on whether the restriction is narrowly tailored, not
+      on the forum's category (compare Clark v. Community for Creative Non-Violence, applying the time,
+      place and manner test to a ban on overnight sleeping in a park).
   trap_type: wrong-standard
-  authority: ["U.S. Const. amend. I", "Ward v. Rock Against Racism, 491 U.S. 781 (1989)", "Hague v. CIO, 307 U.S. 496 (1939)"]
+  authority: ["U.S. Const. amend. I", "Ward v. Rock Against Racism, 491 U.S. 781 (1989)", "Hague v. CIO, 307 U.S. 496 (1939) (plurality opinion)", "Clark v. Community for Creative Non-Violence, 468 U.S. 288 (1984)"]
   source: original
   tags: [wave1, free-speech, time-place-manner]
   status: draft
@@ -369,7 +378,7 @@ questions:
 
 - id: Q-CON-0050
   subject: CON
-  coverage_ids: [CON-MBE-IV.F.4]
+  coverage_ids: [CON-MBE-IV.F.4, CON-MBE-IV.F.2.e]
   rule_ids: [R-CON-110, R-CON-104]
   difficulty: 2
   stem: >-

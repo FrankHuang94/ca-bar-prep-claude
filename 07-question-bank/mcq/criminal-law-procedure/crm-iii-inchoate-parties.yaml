@@ -164,7 +164,7 @@ questions:
 
 - id: Q-CRM-0016
   subject: CRM
-  coverage_ids: [CRM-MBE-III.A.2]
+  coverage_ids: [CRM-MBE-III.A.2, CRM-MBE-III.B]
   rule_ids: [R-CRM-068, R-CRM-067, R-CRM-071]
   difficulty: 2
   stem: >-

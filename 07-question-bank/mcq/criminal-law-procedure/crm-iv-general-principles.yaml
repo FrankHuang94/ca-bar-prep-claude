@@ -26,15 +26,16 @@ questions:
     (R-CRM-037).
   explanation_each_wrong_option:
     A: >-
-      True but irrelevant. The no-duty-to-rescue rule governs strangers who did not create the danger; here
-      the man's own conduct put the stranger in the water (R-CRM-003).
+      Exception trap. The no-duty-to-rescue rule governs bystanders who did not create the danger; one who
+      creates the peril, even innocently, has a duty, and the man's own conduct put the stranger in the
+      water (R-CRM-003).
     B: >-
       Liability rests on the omission after the bump, not on the bump. A failure to perform a legal duty one
       is physically able to perform satisfies the act requirement (R-CRM-002).
     D: >-
       Overbroad. There is no general legal duty to rescue, even at no risk; a duty must arise from statute,
       contract, relationship, voluntary assumption or creation of the peril (R-CRM-003).
-  trap_type: true-but-irrelevant
+  trap_type: exception-trap
   authority: ["Common law", "MPC § 2.01(3)", "Jones v. United States, 308 F.2d 307 (D.C. Cir. 1962)"]
   source: original
   tags: [wave1, omissions, duty-to-act]
@@ -203,7 +204,7 @@ questions:
 
 - id: Q-CRM-0024
   subject: CRM
-  coverage_ids: [CRM-MBE-IV.C.2]
+  coverage_ids: [CRM-MBE-IV.C.2, CRM-MBE-IV.B.1]
   rule_ids: [R-CRM-018, R-CRM-004, R-CRM-010, R-CRM-044, R-CRM-053]
   difficulty: 1
   stem: >-
@@ -235,9 +236,10 @@ questions:
       R-CRM-053).
     D: >-
       Overbroad. At common law voluntary intoxication can negate a specific intent (R-CRM-018), though a
-      state may abolish the defense by statute (Montana v. Egelhoff).
+      state may abolish the defense by statute (Montana v. Egelhoff, plurality opinion, with a fifth Justice
+      concurring in the judgment); this jurisdiction follows the common law.
   trap_type: overbroad
-  authority: ["Common law", "MPC § 2.08", "Montana v. Egelhoff, 518 U.S. 37 (1996)"]
+  authority: ["Common law", "MPC § 2.08", "Montana v. Egelhoff, 518 U.S. 37 (1996) (plurality opinion)"]
   source: original
   tags: [wave1, intoxication, specific-intent]
   status: draft

@@ -121,7 +121,7 @@ questions:
 
 - id: Q-CRM-0010
   subject: CRM
-  coverage_ids: [CRM-MBE-II.C]
+  coverage_ids: [CRM-MBE-II.C, CRM-MBE-II.A]
   rule_ids: [R-CRM-050, R-CRM-009, R-CRM-044]
   difficulty: 1
   stem: >-

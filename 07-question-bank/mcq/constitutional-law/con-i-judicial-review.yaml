@@ -161,12 +161,13 @@ questions:
       wasteful or beyond Congress's powers gives no standing (R-CON-013).
     C: >-
       Confused rule. Discretionary executive spending from general appropriations is not a congressional
-      exercise of the spending power, so Flast does not apply (Hein v. Freedom From Religion Foundation).
+      exercise of the spending power, so Flast does not apply (Hein v. Freedom From Religion Foundation,
+      plurality opinion; two more Justices concurred in the judgment that the plaintiffs lacked standing).
     D: >-
       Confused rule. A transfer of property under the Property Clause is not an exercise of the taxing and
       spending power (Valley Forge), so the Flast exception does not reach it (R-CON-013).
   trap_type: confused-rule
-  authority: ["Flast v. Cohen, 392 U.S. 83 (1968)", "Hein v. Freedom From Religion Found., 551 U.S. 587 (2007)", "Valley Forge Christian College v. Americans United for Separation of Church & State, 454 U.S. 464 (1982)"]
+  authority: ["Flast v. Cohen, 392 U.S. 83 (1968)", "Hein v. Freedom From Religion Found., 551 U.S. 587 (2007) (plurality opinion)", "Valley Forge Christian College v. Americans United for Separation of Church & State, 454 U.S. 464 (1982)"]
   source: original
   tags: [wave1, standing, taxpayer-standing]
   status: draft
@@ -284,7 +285,8 @@ questions:
     rest primarily on federal law or to be interwoven with it, and the court does not plainly state that
     it rests on independent state grounds, the Court presumes it has jurisdiction (Michigan v. Long). A
     state clause read in lockstep with the Fourth Amendment and applied solely through federal precedent
-    is not independent: if the state court misread federal law, its state-law holding falls with it.
+    is not independent: as written, the state-law holding depends entirely on the court's reading of
+    federal law.
   explanation_each_wrong_option:
     B: >-
       Overbroad. The presence of a federal question is not enough; an adequate and independent state

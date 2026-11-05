@@ -83,7 +83,7 @@ questions:
 
 - id: Q-CRM-0003
   subject: CRM
-  coverage_ids: [CRM-MBE-I.B.1]
+  coverage_ids: [CRM-MBE-I.B.1, CRM-MBE-I.A.1, CRM-MBE-IV.D]
   rule_ids: [R-CRM-035, R-CRM-033, R-CRM-013]
   difficulty: 3
   stem: >-
@@ -224,8 +224,8 @@ questions:
     foreseeable way to cause death.
   explanation_each_wrong_option:
     B: >-
-      Confused rule. Murder requires intent to inflict serious bodily injury, not merely some injury
-      (R-CRM-035); a push is not intended to cause grievous harm.
+      Confused rule. Intent-to-injure murder requires intent to inflict serious bodily injury, not merely
+      some injury (R-CRM-035); a push meant only to move him away is not intended to cause grievous harm.
     C: >-
       An argument is not adequate provocation, and voluntary manslaughter requires an intentional killing
       in a provoked heat of passion (R-CRM-034).

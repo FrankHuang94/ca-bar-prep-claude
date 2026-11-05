@@ -34,8 +34,8 @@ questions:
       California), but this stop was lawful; the challenged action is the search of the car (R-CRM-075,
       R-CRM-079).
     D: >-
-      A traffic stop leading only to a citation does not justify a search incident to arrest (Knowles v.
-      Iowa; R-CRM-083).
+      No one was arrested, and a traffic stop without a custodial arrest does not justify a search incident
+      to arrest (Knowles v. Iowa; R-CRM-083).
   trap_type: exception-trap
   authority: ["U.S. Const. amend. IV", "Rakas v. Illinois, 439 U.S. 128 (1978)", "Rawlings v. Kentucky, 448 U.S. 98 (1980)", "Brendlin v. California, 551 U.S. 249 (2007)", "Knowles v. Iowa, 525 U.S. 113 (1998)"]
   source: original
@@ -226,8 +226,8 @@ questions:
     Harris v. New York). The statement was uncoerced, and the defendant took the stand and contradicted it.
   explanation_each_wrong_option:
     B: >-
-      Overbroad. Only involuntary (coerced) statements are inadmissible for all purposes (R-CRM-093;
-      Mincey v. Arizona).
+      Overbroad. A statement that is merely unwarned may impeach (Harris); it is an involuntary (coerced)
+      statement that is inadmissible for all purposes (R-CRM-093; Mincey v. Arizona).
     C: >-
       Confused rule. The fruit doctrine excludes derivative evidence from the case-in-chief; it does not bar
       impeachment with the defendant's own voluntary statement (R-CRM-100).
@@ -266,16 +266,17 @@ questions:
     witness's independent observation of the crime.
   explanation_each_wrong_option:
     A: >-
-      Procedural-posture trap. Due-process suggestiveness is the only protection for pre-charge lineups and
-      photo arrays (R-CRM-107); here charges were filed, so the Sixth Amendment applies (R-CRM-102).
+      Procedural-posture trap. Due-process suggestiveness review is the only protection at pre-charge
+      lineups and at photo arrays (R-CRM-107); here charges had been filed and the lineup was live, so the
+      Sixth Amendment applies (R-CRM-102, R-CRM-106).
     B: >-
       Overbroad. The in-court identification survives if the prosecution shows an independent source
       (Wade; R-CRM-106).
     D: >-
       Wrong. Counsel is required at post-charge live lineups; it is not required at pre-charge lineups
-      (Kirby) or photo arrays (Ash).
+      (Kirby v. Illinois, plurality opinion) or at photo arrays (Ash).
   trap_type: procedural-posture
-  authority: ["U.S. Const. amend. VI", "United States v. Wade, 388 U.S. 218 (1967)", "Gilbert v. California, 388 U.S. 263 (1967)", "Kirby v. Illinois, 406 U.S. 682 (1972)"]
+  authority: ["U.S. Const. amend. VI", "United States v. Wade, 388 U.S. 218 (1967)", "Gilbert v. California, 388 U.S. 263 (1967)", "Kirby v. Illinois, 406 U.S. 682 (1972) (plurality opinion)", "United States v. Ash, 413 U.S. 300 (1973)"]
   source: original
   tags: [wave1, identification, right-to-counsel, lineup]
   status: draft
@@ -312,13 +313,13 @@ questions:
       Overbroad. Show-ups are suggestive but not per se invalid; they are judged by reliability under the
       totality of the circumstances (R-CRM-107).
     B: >-
-      No charges had been filed, so the Sixth Amendment right to counsel had not attached (Kirby;
-      R-CRM-106).
+      No charges had been filed, so the Sixth Amendment right to counsel had not attached (Kirby v.
+      Illinois, plurality opinion; R-CRM-102, R-CRM-106).
     C: >-
       Wrong. Due process applies to any police-arranged identification procedure, including show-ups
       (Stovall v. Denno; R-CRM-107).
   trap_type: overbroad
-  authority: ["U.S. Const. amend. XIV", "Neil v. Biggers, 409 U.S. 188 (1972)", "Manson v. Brathwaite, 432 U.S. 98 (1977)", "Kirby v. Illinois, 406 U.S. 682 (1972)"]
+  authority: ["U.S. Const. amend. XIV", "Neil v. Biggers, 409 U.S. 188 (1972)", "Manson v. Brathwaite, 432 U.S. 98 (1977)", "Kirby v. Illinois, 406 U.S. 682 (1972) (plurality opinion)", "Stovall v. Denno, 388 U.S. 293 (1967)"]
   source: original
   tags: [wave1, identification, due-process, show-up]
   status: draft
@@ -366,7 +367,7 @@ questions:
 
 - id: Q-CRM-0036
   subject: CRM
-  coverage_ids: [CRM-MBE-V.D]
+  coverage_ids: [CRM-MBE-V.D, CRM-MBE-V.B]
   rule_ids: [R-CRM-102, R-CRM-098, R-CRM-096]
   difficulty: 3
   stem: >-
@@ -424,8 +425,8 @@ questions:
   explanation_correct: >-
     D is correct. An indigent defendant has a right to appointed counsel in every felony case and in any
     misdemeanor case in which a sentence of imprisonment, including a suspended sentence, is actually
-    imposed (R-CRM-103; Argersinger v. Hamlin; Scott v. Illinois). The judge imposed only a fine, so the
-    uncounseled conviction is valid.
+    imposed (R-CRM-103; Argersinger v. Hamlin; Scott v. Illinois; Alabama v. Shelton for suspended
+    sentences). The judge imposed only a fine, so the uncounseled conviction is valid.
   explanation_each_wrong_option:
     A: >-
       Confused rule. For misdemeanors the test is the sentence actually imposed, not the penalty authorized
@@ -436,7 +437,7 @@ questions:
       Right result, wrong reason. Misdemeanor defendants have the right if imprisonment is actually imposed
       (Argersinger); his conviction stands because he received only a fine.
   trap_type: confused-rule
-  authority: ["U.S. Const. amend. VI", "Gideon v. Wainwright, 372 U.S. 335 (1963)", "Argersinger v. Hamlin, 407 U.S. 25 (1972)", "Scott v. Illinois, 440 U.S. 367 (1979)"]
+  authority: ["U.S. Const. amend. VI", "Gideon v. Wainwright, 372 U.S. 335 (1963)", "Argersinger v. Hamlin, 407 U.S. 25 (1972)", "Scott v. Illinois, 440 U.S. 367 (1979)", "Alabama v. Shelton, 535 U.S. 654 (2002)"]
   source: original
   tags: [wave1, right-to-counsel, misdemeanors]
   status: draft
@@ -462,8 +463,8 @@ questions:
   answer: C
   explanation_correct: >-
     C is correct. The Sixth Amendment jury right applies to serious offenses, those punishable by more than
-    six months' imprisonment (R-CRM-110; Baldwin v. New York). An offense with a maximum of six months or
-    less is presumptively petty (Blanton). Seriousness is judged offense by offense, so charging several
+    six months' imprisonment (R-CRM-110; Baldwin v. New York, plurality opinion; adopted by the Court in
+    Blanton). An offense with a maximum of six months or less is presumptively petty (Blanton). Seriousness is judged offense by offense, so charging several
     petty offenses together does not create a jury right even if the aggregate exposure exceeds six months
     (Lewis v. United States).
   explanation_each_wrong_option:
@@ -472,12 +473,12 @@ questions:
       R-CRM-110).
     B: >-
       The possibility of some jail time is not enough; the authorized maximum for the offense must exceed
-      six months (Baldwin).
+      six months (Blanton; Baldwin, plurality opinion).
     D: >-
       Overbroad. A misdemeanor carrying more than six months' imprisonment is a serious offense with a jury
       right; the label "misdemeanor" is not the test.
   trap_type: overbroad
-  authority: ["U.S. Const. amend. VI", "Baldwin v. New York, 399 U.S. 66 (1970)", "Blanton v. City of North Las Vegas, 489 U.S. 538 (1989)", "Lewis v. United States, 518 U.S. 322 (1996)"]
+  authority: ["U.S. Const. amend. VI", "Baldwin v. New York, 399 U.S. 66 (1970) (plurality opinion)", "Blanton v. City of North Las Vegas, 489 U.S. 538 (1989)", "Lewis v. United States, 518 U.S. 322 (1996)"]
   source: original
   tags: [wave1, jury-trial, petty-offenses]
   status: draft
@@ -514,8 +515,9 @@ questions:
       Outdated rule. Crawford rejected admitting testimonial statements on a judicial finding of
       reliability (overruling Ohio v. Roberts on this point).
     D: >-
-      Overbroad. Statements to police are testimonial unless their primary purpose is to meet an ongoing
-      emergency (Davis; R-CRM-112).
+      Overbroad. Statements to police in response to questioning are testimonial when their primary purpose
+      is to establish past facts for later prosecution, and nontestimonial when it is to meet an ongoing
+      emergency (Davis; R-CRM-112); this calm account two days later is the former.
   trap_type: missing-element
   authority: ["U.S. Const. amend. VI", "Crawford v. Washington, 541 U.S. 36 (2004)", "Davis v. Washington, 547 U.S. 813 (2006)"]
   source: original
@@ -699,12 +701,15 @@ questions:
   explanation_correct: >-
     D is correct. The Eighth Amendment forbids punishing a mere status, such as being addicted to narcotics
     (Robinson v. California), but it permits punishing conduct, such as appearing drunk in public, even if
-    the conduct is related to a disease (R-CRM-118; Powell v. Texas). He was convicted for being intoxicated
-    in public, an act he chose to commit.
+    the conduct is related to a disease (R-CRM-118; Powell v. Texas, plurality opinion; see also City of
+    Grants Pass v. Johnson). Justice White, whose vote decided Powell, concurred only in the result and
+    suggested a different outcome for an alcoholic who could not avoid being in public; that is not this
+    case, because he has a home and walked downtown voluntarily.
   explanation_each_wrong_option:
     A: >-
       Overbroad. The Court has not held that conduct related to an illness cannot be punished; Powell upheld
-      a public-intoxication conviction of a chronic alcoholic.
+      a public-intoxication conviction of a chronic alcoholic (no majority opinion), and Grants Pass
+      declined to extend Robinson to conduct.
     B: >-
       Confused rule. Robinson invalidated a law punishing the status of addiction itself; this statute
       requires the act of being drunk in a public place (R-CRM-118).
@@ -712,7 +717,7 @@ questions:
       Overbroad. The Eighth Amendment also bars status crimes, excessive fines and certain categories of
       punishment, not just disproportionate prison terms (R-CRM-118).
   trap_type: confused-rule
-  authority: ["U.S. Const. amend. VIII", "Robinson v. California, 370 U.S. 660 (1962)", "Powell v. Texas, 392 U.S. 514 (1968)"]
+  authority: ["U.S. Const. amend. VIII", "Robinson v. California, 370 U.S. 660 (1962)", "Powell v. Texas, 392 U.S. 514 (1968) (plurality opinion)", "City of Grants Pass v. Johnson (2024)"]
   source: original
   tags: [wave1, eighth-amendment, status-crimes]
   status: draft
@@ -881,7 +886,7 @@ questions:
 
 - id: Q-CRM-0049
   subject: CRM
-  coverage_ids: [CRM-MBE-V.I]
+  coverage_ids: [CRM-MBE-V.I, CRM-MBE-V.D]
   rule_ids: [R-CRM-120, R-CRM-104, R-CRM-105]
   difficulty: 3
   stem: >-

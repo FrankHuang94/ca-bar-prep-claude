@@ -196,8 +196,9 @@ questions:
       Overbroad. Loudermill requires only a limited pre-termination opportunity to respond; the full
       evidentiary hearing may come after termination.
     C: >-
-      Wrong standard. A post-deprivation hearing alone sufficed for disability benefits in Mathews, but for
-      a for-cause public employee the Court requires a pre-termination opportunity to respond (Loudermill).
+      Wrong standard. Mathews held that no pre-termination evidentiary hearing was needed before disability
+      benefits ended (written pre-termination procedures plus a later hearing sufficed), but for a for-cause
+      public employee the Court requires a pre-termination opportunity to respond (Loudermill).
     D: >-
       Outdated rule. The right-privilege distinction was rejected; entitlements created by law are
       property (R-CON-057).
@@ -321,7 +322,8 @@ questions:
       Richardson), but the political-function exception applies to police officers (R-CON-070).
     C: >-
       Plenary power over immigration belongs to the federal government, which is why federal alienage
-      rules get rational basis; states have no immigration power (R-CON-026, R-CON-070).
+      rules get rational basis; states do not hold that power, so state alienage rules ordinarily get
+      strict scrutiny (R-CON-026, R-CON-070).
     D: >-
       The Fourteenth Amendment Privileges or Immunities Clause protects the privileges of national
       citizenship, not aliens (R-CON-082).
@@ -495,7 +497,7 @@ questions:
 
 - id: Q-CON-0038
   subject: CON
-  coverage_ids: [CON-MBE-IV.E]
+  coverage_ids: [CON-MBE-IV.E, CON-MBE-III.B.1]
   rule_ids: [R-CON-053, R-CON-049, R-CON-082, R-CON-074]
   difficulty: 3
   stem: >-
