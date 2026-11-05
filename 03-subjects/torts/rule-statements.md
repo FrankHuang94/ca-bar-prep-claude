@@ -469,7 +469,7 @@ status: draft
 
 **Elements:** 1. Statute clearly defines required conduct. 2. Π within the protected class. 3. Harm of the type the statute was meant to prevent. 4. Violation without excuse. 5. Causation and damages (proven separately).
 
-**Exceptions / defenses:** Excuse (R-TRT-034). Licensing statutes usually do not set a standard (an unlicensed driver is not negligent for that reason alone). Minority: violation is only evidence of negligence. **California:** violation raises a **presumption** of negligence when the four statutory conditions are met; Δ rebuts by showing he did what a reasonably prudent person who desired to comply would have done (Evid. Code § 669).
+**Exceptions / defenses:** Excuse (R-TRT-034). Licensing statutes usually do not set a standard (an unlicensed driver is not negligent for that reason alone). Minority: violation is only evidence of negligence. **California:** violation raises a **presumption** of negligence when the four statutory conditions are met; Δ rebuts by showing he did what a reasonably prudent person who desired to comply would have done (Evid. Code § 669). The presumption goes to breach; § 669 does not itself create a duty, which must exist independently [VERIFY V-1014].
 
 **Authority:** R2d §§ 286, 288B [VERIFY V-600]; R3d PEH § 14; *Martin v. Herzog*, 228 N.Y. 164 (1920); Evid. Code § 669.
 
@@ -938,7 +938,7 @@ status: draft
 
 **Elements:** 1. Δ knew or should have known of the person's unfitness. 2. The unfitness created the particular risk. 3. The harm resulted from that risk. 4. Causation.
 
-**Exceptions / defenses:** These theories reach conduct outside the scope of employment, where respondeat superior fails.
+**Exceptions / defenses:** These theories reach conduct outside the scope of employment, where respondeat superior fails. In California, once the employer admits vicarious liability for the employee's negligent driving, a negligent-entrustment or negligent-hiring claim based on the same conduct adds nothing, and the jury does not assign the employer a separate share of fault (*Diaz v. Carcamo* (2011) 51 Cal.4th 1148) [VERIFY V-1013].
 
 **Authority:** R2d §§ 308, 390, 317 [VERIFY V-600].
 

@@ -2,8 +2,8 @@
 id: E-TRT-002
 type: single
 subjects: [TRT]
-coverage_ids: [TRT-MBE-III, TRT-CBX-VI, TRT-MBE-II.E.1, TRT-MBE-II.G.1, TRT-MBE-II.G.2, TRT-MBE-IV.C]
-rule_ids: [R-TRT-024, R-TRT-043, R-TRT-044, R-TRT-070, R-TRT-081, R-TRT-082, R-TRT-083, R-TRT-084, R-TRT-085, R-TRT-086, R-TRT-087, R-TRT-088, R-TRT-089, R-TRT-090, R-TRT-114]
+coverage_ids: [TRT-MBE-III, TRT-CBX-VI, TRT-MBE-II.D.3, TRT-MBE-II.E.1, TRT-MBE-II.G.1, TRT-MBE-II.G.2, TRT-MBE-IV.C]
+rule_ids: [R-TRT-024, R-TRT-041, R-TRT-042, R-TRT-043, R-TRT-044, R-TRT-070, R-TRT-081, R-TRT-082, R-TRT-083, R-TRT-084, R-TRT-085, R-TRT-086, R-TRT-087, R-TRT-088, R-TRT-089, R-TRT-090, R-TRT-114]
 calls:
   - "1. What products liability claims may Leo bring against Hearth & Field, and what defenses may Hearth & Field raise? Discuss."
   - "2. What claims may Leo bring against Outdoor Depot? Discuss."
@@ -19,7 +19,7 @@ issues:
   - {issue: "Defenses: comparative fault (Daly), foreseeable misuse, assumption of risk", points: 12, call: 1, major: true, rule_ids: [R-TRT-070, R-TRT-087], coverage_ids: [TRT-MBE-II.G.1, TRT-MBE-II.G.2]}
   - {issue: "Damages: other property vs. the product itself; punitive damages", points: 5, call: 1, rule_ids: [R-TRT-086, R-TRT-114], coverage_ids: [TRT-MBE-III]}
   - {issue: "Outdoor Depot: retailer strict liability, implied warranty, no negligence, indemnity", points: 10, call: 2, rule_ids: [R-TRT-085, R-TRT-088, R-TRT-089, R-TRT-043], coverage_ids: [TRT-MBE-III]}
-  - {issue: "Mia: bystander recovery in strict liability; rescue doctrine; warranty plaintiffs (2-318)", points: 8, call: 3, rule_ids: [R-TRT-086, R-TRT-024, R-TRT-089], coverage_ids: [TRT-MBE-III, TRT-MBE-II.E.1]}
+  - {issue: "Mia: bystander recovery in strict liability; rescue doctrine; warranty plaintiffs (2-318); Leo's fault (Prop 51)", points: 8, call: 3, rule_ids: [R-TRT-086, R-TRT-024, R-TRT-089, R-TRT-041, R-TRT-042], coverage_ids: [TRT-MBE-III, TRT-MBE-II.E.1, TRT-MBE-II.D.3]}
 time_minutes: 60
 source: original
 status: draft
@@ -98,7 +98,7 @@ A manufacturer is liable in negligence if it failed to use reasonable care in th
 #### C. Warranty and misrepresentation
 
 - *Express warranty (UCC § 2-313).* An affirmation of fact about the goods that becomes part of the basis of the bargain creates an express warranty. "TIP-SAFE — automatic shutoff the instant it tips" is a specific factual promise, and Leo chose the heater because of it. The heater did not shut off. **Breach.** Leo must give the seller reasonable notice of breach after discovering it (§ 2-607(3)).
-- *Implied warranty of merchantability (§ 2-314).* A heater that tips easily and keeps burning is not fit for its ordinary purpose. **Breach.**
+- *Implied warranty of merchantability (§ 2-314).* A heater that tips easily and keeps burning is not fit for its ordinary purpose. **Breach.** Hearth & Field may argue lack of vertical privity, because Leo bought from Outdoor Depot; some states still require privity for implied-warranty claims, though the express warranty on the box was addressed to buyers like Leo.
 - *Strict liability for public misrepresentation (R2d § 402B).* A seller that publicly misrepresents a material fact about a product's character or quality is liable for physical harm caused by justifiable reliance, even without fraud or negligence. The "TIP-SAFE" claim was material and false as to Leo's unit, and Leo relied on it in choosing the heater and using it around his dog. **Liability likely.**
 
 #### D. Defenses
@@ -127,9 +127,9 @@ Leo may recover for his burns (medical expenses, pain and suffering) and for dam
 
 **Rescue.** Mia was not burned by the initial fall; she burned her hand trying to smother the fire. Danger invites rescue: a defendant whose product or negligence creates a peril is liable to a person injured in a reasonable attempt to rescue, because a rescue is a foreseeable response, not a superseding cause. Smothering flames with a cushion was a reasonable response to a fire spreading on a patio. If the jury found Mia acted carelessly, her recovery would be reduced, not barred.
 
-**Warranty.** Under UCC § 2-318 (Alternative A), a seller's warranty extends to any natural person who is a guest in the buyer's home and may reasonably be expected to use, consume or be affected by the goods and who is personally injured. Mia was a guest at Leo's home sitting beside the heater, so **the warranties extend to her.**
+**Warranty.** Under UCC § 2-318 (Alternative A), a seller's warranty extends to any natural person who is a guest in the buyer's home and may reasonably be expected to use, consume or be affected by the goods and who is personally injured. Mia was a guest at Leo's home sitting beside the heater, so **the warranties extend to her.** (California's Commercial Code appears not to include § 2318, so a California court would apply case-law privity rules instead [VERIFY V-970].)
 
-**Leo's fault.** Leo's comparative fault does not reduce Mia's recovery against the companies, although they may seek contribution from Leo if he was negligent. **Mia may recover from both Hearth & Field and Outdoor Depot.**
+**Leo's fault.** Leo's negligence does not reduce Mia's own recovery; only her own fault would. Under joint and several liability (the MBE default), Mia may collect all her damages from either company, which may then seek contribution from Leo if he was negligent. In California, the companies remain jointly and severally liable for Mia's economic damages, but each defendant's liability for her non-economic damages is several only, in proportion to its own fault, so they would not pay the share of those damages assigned to Leo (Civ. Code § 1431.2). **Mia may recover from both Hearth & Field and Outdoor Depot.**
 
 ## Self-Grading Rubric
 
@@ -145,7 +145,7 @@ Leo may recover for his burns (medical expenses, pain and suffering) and for dam
 | Defenses | 12 | *Daly* comparative fault; misuse only if unforeseeable; assumption of risk needs knowledge | R-TRT-070, R-TRT-087 |
 | Damages | 5 | Other property vs. the heater itself (*Seely*); punitive standard | R-TRT-086, R-TRT-114 |
 | Outdoor Depot | 10 | Retailer strict liability (*Vandermark*); merchantability in privity; no duty to inspect sealed goods; indemnity | R-TRT-085, R-TRT-088, R-TRT-089, R-TRT-043 |
-| Mia | 8 | Bystander (*Elmore*); rescue doctrine; § 2-318 guest | R-TRT-086, R-TRT-024, R-TRT-089 |
+| Mia | 8 | Bystander (*Elmore*); rescue doctrine; § 2-318 guest; Leo's fault (joint and several vs. Prop 51) | R-TRT-086, R-TRT-024, R-TRT-089, R-TRT-041, R-TRT-042 |
 | **Total** | **100** | | |
 
 **Scoring on the 40–100 scale** (`00-exam-intel/grader-expectations.md` §4):
@@ -163,4 +163,4 @@ Leo may recover for his burns (medical expenses, pain and suffering) and for dam
 
 > 🇨🇳 PRC bridge: the PRC Civil Code also makes producers and sellers liable for harm caused by product defects, letting the victim sue either and the seller seek recourse against the producer; the US splits "defect" into manufacturing, design and warning theories with distinct tests (approx.).
 
-**Accuracy notes.** Rules follow R-TRT-081 to -090, -024, -070 and -114 in `03-subjects/torts/rule-statements.md`. California points (*Barker* burden shift, *Soule*, *Daly*, *Vandermark*, *Elmore*, *Seely*) are given as the subject file states them. The § 2-318 point uses Alternative A, the narrowest version (R-CTR-061).
+**Accuracy notes.** Rules follow R-TRT-081 to -090, -024, -070 and -114 in `03-subjects/torts/rule-statements.md`. California points (*Barker* burden shift, *Soule*, *Daly*, *Vandermark*, *Elmore*, *Seely*, Proposition 51) are given as the subject file states them. The § 2-318 point uses Alternative A, the narrowest version (R-CTR-061); California appears to have no § 2318 (V-970).

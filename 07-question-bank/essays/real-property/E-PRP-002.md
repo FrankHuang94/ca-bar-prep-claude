@@ -108,7 +108,7 @@ Hank and Jay can sue for damages if the promise is a real covenant, or for an in
 5. *Vertical privity.* Dev conveyed his entire fee to Kim.
 6. *Notice.* Kim's own deed is silent, but Dev's deed containing the covenant was recorded in Kim's chain of title, so she had record (constructive) notice.
 
-**Benefit running to Hank and Jay.** The benefit runs to the promisee's successors if the parties intended it and it touches and concerns the benefited land; horizontal privity is not required and vertical privity is relaxed (any succession to the estate suffices). The covenant expressly "benefits Parcel W," and Hank and Iris (and through Iris, Jay) succeeded to Parcel W by devise. **The real covenant runs; damages are available.**
+**Benefit running to Hank and Jay.** The benefit runs to the promisee's successors if the parties intended it and it touches and concerns the benefited land; horizontal privity is not required and vertical privity is relaxed (any succession to the estate suffices). The covenant expressly "benefits Parcel W," and Hank and Iris succeeded to Parcel W by devise (and Jay succeeded to Iris's share if she severed the joint tenancy, Call 3). **The real covenant runs; damages are available.** (California's statute also requires that the instrument describe both parcels, state that successors are bound and be recorded, Civ. Code § 1468; Opal's recorded deed names both parcels and says the covenant runs.)
 
 **Equitable servitude.** A promise concerning land use is enforceable in equity against a successor with notice if it is in writing, intended to bind successors, and touches and concerns the land; no privity is required (*Tulk v. Moxhay*). Each element is met for the reasons above, and Kim had record notice. **An injunction is available.**
 
@@ -117,7 +117,7 @@ Hank and Jay can sue for damages if the promise is a real covenant, or for an in
 - *Hank and Jay's argument.* "Single-family residential purposes" implies occupancy by a household as its home. Fifteen groups a month, staying two to five nights each, is a transient lodging business that functions like an inn. The increase from 4 to 20 trips a day is exactly the kind of harm a residential restriction on rural land is meant to prevent.
 - *Resolution.* Courts are divided on short-term rentals. Given the volume and the commercial, hotel-like turnover, the better view is that Kim's current operation exceeds "single-family residential purposes," although occasional rentals would likely be allowed.
 
-**Who may enforce; defenses; remedy.** Hank and Jay, as owners of the benefited Parcel W, may enforce. No defense is strong: the restriction has not been abandoned, conditions in the area have not changed radically, and Hank objected promptly. Kim may argue unclean hands because Hank unlawfully locked her out of the lane; unclean hands must relate to the transaction at issue, and the gate dispute is closely related, so a court might condition relief on Hank's removing the gate. **Hank and Jay can likely obtain an injunction limiting Kim to residential use (damages for a real covenant would be hard to measure).**
+**Who may enforce; defenses; remedy.** Hank, and Jay if the joint tenancy was severed, may enforce as owners of the benefited Parcel W. No defense is strong: the restriction has not been abandoned, conditions in the area have not changed radically, and Hank objected promptly. Kim may argue unclean hands because Hank unlawfully locked her out of the lane; unclean hands must relate to the transaction at issue, and the gate dispute is closely related, so a court might condition relief on Hank's removing the gate. **Hank and Jay can likely obtain an injunction limiting Kim to residential use (damages for a real covenant would be hard to measure).**
 
 ### Call 3 — Interests in Parcel W and the barn rent
 
@@ -125,8 +125,8 @@ Hank and Jay can sue for damages if the promise is a real covenant, or for an in
 
 **Severance by Iris's 2023 deed to herself.** A joint tenant may sever unilaterally by conveying her interest during her life; the transferred interest becomes a tenancy in common.
 - *Traditional rule.* At common law a conveyance to oneself was ineffective, because a person could not convey to herself; severance required a conveyance to a third party (a "straw") and a reconveyance. Under this rule, Iris's deed did nothing, the joint tenancy continued, and at Iris's death in 2024 Hank took all of Parcel W by survivorship.
-- *Modern majority rule (and California).* Most states now permit a joint tenant to sever by a deed to herself, because the straw-person requirement serves no purpose (*Riddle v. Harmon* in California). California also requires that the severing deed be recorded before the severing tenant's death to defeat survivorship (Civ. Code § 683.2); Iris recorded hers in 2023. Secret severance is permitted; Hank's consent or knowledge is not required.
-- **Conclusion:** Under the modern rule, which most courts would apply, Iris's deed severed the joint tenancy, and Hank and Iris became tenants in common, each with an undivided one-half interest.
+- *Modern trend (and California).* A growing number of states, including California, permit a joint tenant to sever by a deed to herself, because the straw-person requirement serves no purpose (*Riddle v. Harmon* in California). California also requires that the severing deed be recorded before the severing tenant's death (or, if executed and acknowledged within three days before death, recorded within seven days after it) to defeat survivorship (Civ. Code § 683.2); Iris recorded hers in 2023. Secret severance is permitted; Hank's consent or knowledge is not required.
+- **Conclusion:** Under the modern rule, which California follows (*Riddle*), Iris's deed severed the joint tenancy, and Hank and Iris became tenants in common, each with an undivided one-half interest.
 
 **Jay's interest.** A tenancy in common interest is devisable. Iris's will left "all of my property" to Jay, so on her death Jay took Iris's undivided one-half interest. **Hank and Jay are now tenants in common, each owning one half.** As a cotenant, Jay may seek partition; courts prefer partition in kind, which may be feasible on 10 acres, though the house and barn could make a sale more practical. (Under the traditional rule, Hank would own all of Parcel W and Jay nothing.)
 
@@ -150,9 +150,10 @@ Hank and Jay can sue for damages if the promise is a real covenant, or for an in
 | STR as residential use | 8 | Interpretation rule; both sides with the facts (15 groups/month, 2–5 nights, traffic); reasoned conclusion (either way earns credit if reasoned) | R-PRP-055 |
 | Enforcement; defenses | 5 | Benefited owners may sue; no abandonment/changed conditions; unclean hands from the gate considered | R-PRP-055, R-PRP-056 |
 | JT by devise | 5 | Four unities plus survivorship language satisfied by the will | R-PRP-020, R-PRP-115 |
-| Severance | 10 | Traditional straw rule vs. modern self-conveyance (*Riddle*); recording before death; no consent needed; result under each rule | R-PRP-021 |
+| Severance | 10 | Traditional straw rule vs. modern-trend self-conveyance (*Riddle*); recording before death; no consent needed; result under each rule | R-PRP-021 |
 | Jay's interest | 5 | TIC half by will; partition option | R-PRP-115, R-PRP-026 |
 | Rents | 10 | No rent for occupancy absent ouster; duty to account for third-party rents; Iris's accrued claim survives and passes to Jay; post-2024 share | R-PRP-024 |
+| **Total** | **100** | | |
 
 **Scoring on the 40–100 scale** (`00-exam-intel/grader-expectations.md` §4):
 - **75+**: implied-from-prior-use analysis with the reasonable-necessity point, necessity rejected; both real covenant and equitable servitude with record notice through the chain of title; a reasoned answer on short-term rentals; severance under both rules; accounting for third-party rents including Iris's accrued claim.
@@ -167,4 +168,4 @@ Hank and Jay can sue for damages if the promise is a real covenant, or for an in
 4. Charging Hank rent for living in the farmhouse. Without ouster, a cotenant in possession owes nothing for his own use; third-party rents are different.
 5. Forgetting that the traditional rule required a straw for self-conveyance; give both results.
 
-**Accuracy notes.** The call asks for general principles; California points are flagged in one sentence each (*Riddle*; Civ. Code §§ 683.2, 1104). The answer does not rely on the Restatement's servient-owner relocation rule (repo item V-653) or on California's exclusive-prescriptive-easement doctrine (V-654). Courts are divided on whether short-term rentals breach residential-use covenants, so the rubric gives credit for either reasoned conclusion.
+**Accuracy notes.** The call does not specify California law; California points are flagged in one sentence each (*Riddle*; Civ. Code §§ 683.2, 1104, 1468). The answer does not rely on the Restatement's servient-owner relocation rule (repo item V-653) or on California's exclusive-prescriptive-easement doctrine (V-654). Courts are divided on whether short-term rentals breach residential-use covenants, so the rubric gives credit for either reasoned conclusion.

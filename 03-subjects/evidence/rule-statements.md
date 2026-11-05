@@ -1352,7 +1352,7 @@ status: draft
 **Example:** P's counsel reads a passage from a recognized surgical textbook to the defense expert on cross. FRE: substantive evidence. CEC: only to test the expert's opinion.
 
 ### R-EVD-102 — Unavailability
-**Rule (write this):** A declarant is unavailable if exempted by privilege, refuses to testify despite a court order, testifies to not remembering the subject matter, cannot testify because of death or then-existing illness or infirmity, or is absent and the proponent could not procure attendance by process or other reasonable means; a proponent who wrongfully caused the unavailability cannot rely on it.
+**Rule (write this):** Under FRE 804(a), a declarant is unavailable if exempted by privilege, refuses to testify despite a court order, testifies to not remembering the subject matter, cannot testify because of death or then-existing illness or infirmity, or is absent and the proponent could not procure attendance by process or other reasonable means; a proponent who wrongfully caused the unavailability cannot rely on it.
 
 **Elements:** One listed ground, shown by the proponent (104(a)); reasonable diligence for absence.
 
@@ -1382,7 +1382,7 @@ status: draft
 
 **Elements:** 1. Unavailable. 2. Against interest when made. 3. Reasonable-person test. 4. Only self-inculpatory portions. 5. FRE criminal (whichever side offers it): corroborating circumstances clearly indicating trustworthiness — since Dec. 1, 2024, judged "after considering the totality of circumstances under which it was made and any evidence that supports or undermines it" (FRE 804(b)(3)(B)) [S-105].
 
-**Exceptions / defenses:** Collateral and blame-shifting portions are excluded (*Williamson v. United States*, 512 U.S. 594 (1994); *People v. Leach* (1975) 15 Cal.3d 419; *People v. Duarte* (2000) 24 Cal.4th 603) [S-508]. Testimonial statements to police face Crawford.
+**Exceptions / defenses:** Collateral and blame-shifting portions are excluded (*Williamson v. United States*, 512 U.S. 594 (1994); *People v. Leach* (1975) 15 Cal.3d 419; *People v. Duarte* (2000) 24 Cal.4th 603) [S-508]. California reads the statement in context: a portion that is not itself disserving may come in if it is inextricably tied to a specifically disserving statement, judged by the circumstances in which it was made (*People v. Samuels* (2005) 36 Cal.4th 96; *People v. Grimes* (2016) 1 Cal.5th 698) [VERIFY V-1015]. Testimonial statements to police face Crawford.
 
 **Authority:** FRE 804(b)(3) (as amended Dec. 1, 2024) [S-105]; CEC § 1230.
 

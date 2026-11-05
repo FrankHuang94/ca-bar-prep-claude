@@ -111,13 +111,13 @@ As to the consent standard, under the traditional rule a landlord whose consent 
 
 If a court found that Sam waited too long, his departure would be an abandonment: he vacated with the intent not to return and stopped paying. The landlord may then accept a surrender (ending future rent), relet on the tenant's account and recover any deficiency, or, under the traditional rule, leave the premises vacant and sue for rent as it comes due. The modern majority rule, at least for residential leases, requires the landlord to make reasonable efforts to mitigate by reletting.
 - *Surrender?* Sam's returning the keys was an offer to surrender, but Lou did not accept it by retaking the house for his own use; he later relet it. So there was no surrender by operation of law, and the lease continued.
-- *Mitigation.* Lou did nothing for four months (February through May) and listed the house only on June 1. A landlord who fails to make reasonable efforts recovers only the rent he could not have avoided by reasonable reletting. Here, once Lou listed the house it took two months to find a tenant, which suggests that a reasonable effort starting in February would have produced a tenant by about April 1. Lou's recovery for February through July would then be limited to roughly two months' rent (about $5,000), not six.
+- *Mitigation.* Lou did nothing for four months (February through May) and listed the house only on June 1. A landlord who fails to make reasonable efforts recovers only the rent he could not have avoided by reasonable reletting. Here, once Lou listed the house it took two months to find a tenant, which suggests that a reasonable effort starting in February would have produced a tenant by about April 1. Lou's recovery for February through July would then be limited to roughly two months' rent ($5,000), plus $200 a month for April through July if a replacement could have been found only at the $2,300 Lou later obtained (about $5,800 in all), not six months' rent.
 - *The $200 shortfall.* When the landlord relets on the tenant's account for less, the tenant owes the difference for the rest of the original term. The $1,000 shortfall (August–December 2027) would be recoverable in this alternative.
 
 #### D. Likely outcome
 
 - **Lou v. Sam and Tara (jointly, one recovery):** December and January rent only, reduced by the habitability breach to the fair rental value of an unheated house, likely a small fraction of $5,000.
-- **February–December 2027:** Nothing, because Sam was constructively evicted and the lease ended. If the court rejected constructive eviction, Lou's recovery would be limited by his failure to mitigate (about two months' rent plus the $1,000 shortfall).
+- **February–December 2027:** Nothing, because Sam was constructively evicted and the lease ended. If the court rejected constructive eviction, Lou's recovery would be limited by his failure to mitigate (about two months' rent, any shortfall from April, and the $1,000 shortfall for August–December).
 - **Sam's counterclaim:** Sam may recover damages for Lou's breach of the warranty and the repair covenant, such as the cost of the space heaters.
 
 ## Self-Grading Rubric
@@ -133,6 +133,7 @@ If a court found that Sam waited too long, his departure would be an abandonment
 | Repair covenant runs | 6 | Intent, touch and concern, privity of estate → Sam may enforce | R-PRP-041 |
 | Constructive eviction | 12 | Elements; two-month stay argued both ways (promise to repair); conclusion ends rent from Feb. 1 for both tenants | R-PRP-035 |
 | Abandonment / mitigation | 12 | Landlord's three options; no surrender accepted; modern duty to mitigate; four-month delay; shortfall damages for the rest of the term | R-PRP-033, R-PRP-047 |
+| **Total** | **100** | | |
 
 **Scoring on the 40–100 scale** (`00-exam-intel/grader-expectations.md` §4):
 - **75+**: classifies the transfer correctly despite the label; spots waiver; maps privity for both Sam and Tara; argues habitability and constructive eviction separately, then gives the mitigation alternative and a bottom-line outcome.
@@ -147,4 +148,4 @@ If a court found that Sam waited too long, his departure would be an abandonment
 4. Treating habitability and constructive eviction as the same doctrine. Habitability lets the tenant stay and pay less; constructive eviction requires leaving and ends the rent obligation.
 5. Letting Lou recover rent for months he made no effort to relet, under the modern duty to mitigate.
 
-**Accuracy notes.** The call asks for general principles, so the answer uses the majority common-law rules. It mentions California only where the rule is settled in the repo (*Green*; *Kendall*, flagging that its extension to residential leases is unsettled; the nonresidential scope of Civ. Code § 1995.010 et seq. is confirmed [S-1600]) and does not rely on the California mitigation-burden statute or unlawful-detainer procedure (repo item V-662).
+**Accuracy notes.** The call does not specify California law, so the answer uses the majority common-law rules. It mentions California only where the rule is settled in the repo (*Green*; *Kendall*, flagging that its extension to residential leases is unsettled; the nonresidential scope of Civ. Code § 1995.010 et seq. is confirmed [S-1600]) and does not rely on the California mitigation-burden statute or unlawful-detainer procedure (repo item V-662).

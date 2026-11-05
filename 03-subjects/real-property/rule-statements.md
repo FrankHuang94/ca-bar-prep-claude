@@ -585,7 +585,7 @@ status: draft
 **Example:** T covenants to keep the building insured and to use proceeds to rebuild. T assigns to A. The covenant touches and concerns the land, so L may enforce it against A while A holds the estate.
 
 ### R-PRP-042 — Restrictions on assignment and subletting; consent
-**Rule (write this):** Absent a lease restriction, a tenant may freely assign or sublet. Restrictions are strictly construed: a clause barring assignment does not bar subletting, and vice versa. Under the traditional rule, a landlord whose consent is required may withhold it for any reason, but the modern trend (and California) requires that consent not be unreasonably withheld unless the lease clearly states otherwise.
+**Rule (write this):** Absent a lease restriction, a tenant may freely assign or sublet. Restrictions are strictly construed: a clause barring assignment does not bar subletting, and vice versa. Under the traditional rule, a landlord whose consent is required may withhold it for any reason, but the modern trend (and California for commercial leases: *Kendall*; Civ. Code § 1995.260) requires that consent not be unreasonably withheld unless the lease clearly states otherwise; whether *Kendall* extends to residential leases is unsettled.
 
 **Elements:** 1. Is there a restriction, and does it cover this transfer? 2. Standard for consent (express standard; none stated → reasonableness in California). 3. Reasonable objections: the transferee's financial responsibility and the suitability of its use; unreasonable: a demand for higher rent or a personal dislike. 4. Waiver: knowingly accepting rent from the transferee waives the breach.
 
