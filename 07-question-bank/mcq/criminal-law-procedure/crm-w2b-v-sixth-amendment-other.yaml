@@ -48,7 +48,7 @@ questions:
 
 - id: Q-CRM-0145
   subject: CRM
-  coverage_ids: [CRM-MBE-V.D]
+  coverage_ids: [CRM-MBE-V.D, CRM-MBE-V.I]
   rule_ids: [R-CRM-104, R-CRM-120]
   difficulty: 2
   stem: >-
@@ -69,9 +69,10 @@ questions:
   explanation_correct: >-
     C is correct. A competent defendant who makes a timely and unequivocal request, and who knowingly and
     intelligently waives counsel after being warned of the risks, has a Sixth Amendment right to represent
-    himself; lack of legal skill is irrelevant (R-CRM-104; Faretta v. California). Denial of that right is not
-    subject to harmless-error analysis, so the conviction must be reversed without any showing of prejudice
-    (McKaskle v. Wiggins; R-CRM-120).
+    himself; lack of legal skill is irrelevant (R-CRM-104; Faretta v. California). A state may insist on counsel
+    for a defendant who is competent to stand trial but whose severe mental illness leaves him unable to conduct
+    the trial himself (Indiana v. Edwards), but nothing suggests that here. Denial of that right is not subject to harmless-error analysis, so the conviction must be
+    reversed without any showing of prejudice (McKaskle v. Wiggins; R-CRM-120).
   explanation_each_wrong_option:
     A: >-
       Wrong standard. The right of self-representation protects the defendant's autonomy, not the reliability
@@ -83,7 +84,7 @@ questions:
       No showing of prejudice is required; the violation is reversible without harmless-error review
       (R-CRM-104, R-CRM-120).
   trap_type: wrong-standard
-  authority: ["U.S. Const. amend. VI", "Faretta v. California, 422 U.S. 806 (1975)", "McKaskle v. Wiggins, 465 U.S. 168 (1984)"]
+  authority: ["U.S. Const. amend. VI", "Faretta v. California, 422 U.S. 806 (1975)", "McKaskle v. Wiggins, 465 U.S. 168 (1984)", "Indiana v. Edwards, 554 U.S. 164 (2008)"]
   source: original
   tags: [wave2, right-to-counsel, self-representation, faretta]
   status: draft
@@ -147,7 +148,7 @@ questions:
     A: "Sustain it, if the judge finds that the stated reason was a pretext for racial discrimination."
     B: "Overrule it, because the defendant is not Black and so cannot object to the exclusion of Black jurors."
     C: "Overrule it, because a prosecutor may exercise peremptory challenges for any reason or no reason."
-    D: "Sustain it, because striking every member of one race is unconstitutional whatever reason is given."
+    D: "Sustain it, if the four struck jurors were the only Black members of the venire, whatever reason the prosecutor gives."
   answer: A
   explanation_correct: >-
     A is correct. Peremptory challenges may not be based on race (R-CRM-110; Batson v. Kentucky). Batson's three

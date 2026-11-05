@@ -1279,7 +1279,7 @@ status: draft
 
 **Exceptions / defenses:** Undercover questioning after formal charges may violate the Sixth Amendment (Massiah/Henry).
 
-**Authority:** *Rhode Island v. Innis*, 446 U.S. 291 (1980); *Pennsylvania v. Muniz*, 496 U.S. 582 (1990); *Illinois v. Perkins*, 496 U.S. 292 (1990).
+**Authority:** *Rhode Island v. Innis*, 446 U.S. 291 (1980); *Pennsylvania v. Muniz*, 496 U.S. 582 (1990) (routine-booking-question exception recognized by a plurality); *Illinois v. Perkins*, 496 U.S. 292 (1990).
 
 **MBE vs. CA essay:** Same rule.
 

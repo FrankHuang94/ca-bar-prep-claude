@@ -35,8 +35,8 @@ questions:
       Overbroad. Leaving a laptop for repair does not forfeit all privacy in its contents; the officer could
       not have opened files beyond those the technician had viewed (R-CRM-072, R-CRM-073).
     C: >-
-      Confused rule. A warrant was needed to go beyond the private search, which is why the officer later
-      obtained one, but not to replicate what the technician had already exposed (R-CRM-072).
+      Confused rule. A warrant was needed to go beyond the scope of the private search, such as to search the
+      rest of the drive, but not to replicate what the technician had already exposed (R-CRM-072).
   trap_type: confused-rule
   authority: ["U.S. Const. amend. IV", "United States v. Jacobsen, 466 U.S. 109 (1984)"]
   source: original
@@ -246,7 +246,7 @@ questions:
       Overbroad. Third-party consent requires actual common authority or facts making a belief in such authority
       reasonable; merely answering the door is not enough (R-CRM-086).
   trap_type: confused-rule
-  authority: ["U.S. Const. amend. IV", "Illinois v. Rodriguez, 497 U.S. 177 (1990)", "United States v. Matlock, 415 U.S. 164 (1974)"]
+  authority: ["U.S. Const. amend. IV", "Illinois v. Rodriguez, 497 U.S. 177 (1990)", "United States v. Matlock, 415 U.S. 164 (1974)", "Schneckloth v. Bustamonte, 412 U.S. 218 (1973)"]
   source: original
   tags: [wave2, fourth-amendment, consent, apparent-authority]
   status: draft
@@ -455,8 +455,8 @@ questions:
       Inadvertence is not required for plain view (Horton), and in any event discovery during a lawful entry
       does not authorize a further search of the item (R-CRM-085).
     D: >-
-      Plain view applies whenever officers are lawfully present, including during an emergency entry; it fails
-      here because the box had to be moved to reveal what made it incriminating (R-CRM-085, R-CRM-087).
+      Plain view can apply during an emergency entry, as during any other lawful presence; it fails here
+      because the box had to be moved to reveal what made it incriminating (R-CRM-085, R-CRM-087).
   trap_type: missing-element
   authority: ["U.S. Const. amend. IV", "Arizona v. Hicks, 480 U.S. 321 (1987)", "Horton v. California, 496 U.S. 128 (1990)"]
   source: original

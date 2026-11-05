@@ -86,7 +86,7 @@ questions:
 
 - id: Q-CRM-0122
   subject: CRM
-  coverage_ids: [CRM-MBE-IV.A]
+  coverage_ids: [CRM-MBE-IV.A, CRM-MBE-I.B.2]
   rule_ids: [R-CRM-003, R-CRM-037, R-CRM-002]
   difficulty: 1
   stem: >-

@@ -165,7 +165,7 @@ questions:
       applies to all police (R-CRM-098; Arizona v. Roberson). The confession is admissible because of the break
       in custody.
   trap_type: exception-trap
-  authority: ["U.S. Const. amend. V", "Edwards v. Arizona, 451 U.S. 477 (1981)", "Maryland v. Shatzer, 559 U.S. 98 (2010)"]
+  authority: ["U.S. Const. amend. V", "Edwards v. Arizona, 451 U.S. 477 (1981)", "Maryland v. Shatzer, 559 U.S. 98 (2010)", "Arizona v. Roberson, 486 U.S. 675 (1988)"]
   source: original
   tags: [wave2, miranda, edwards, break-in-custody]
   status: draft
