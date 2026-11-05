@@ -36,11 +36,11 @@ questions:
       governed by Rule 12(h)(1). It is California practice that treats a general appearance as a waiver
       (R-CIV-047).
     C: >-
-      Only failure to state a claim, failure to join a required party and failure to state a legal
-      defense survive until trial (FRCP 12(h)(2)); personal jurisdiction is a waivable defense governed by
-      Rule 12(h)(1).
+      Failure to state a claim, failure to join a required party and failure to state a legal defense
+      may be raised as late as trial (FRCP 12(h)(2)), and lack of subject-matter jurisdiction at any time
+      (FRCP 12(h)(3)); personal jurisdiction is not among them and is waivable under Rule 12(h)(1).
   trap_type: exception-trap
-  authority: ["FRCP 12(h)(1)(B)", "FRCP 15(a)(1)(A)", "FRCP 7(a)(7)"]
+  authority: ["FRCP 12(h)(1)(B)", "FRCP 12(h)(2)-(3)", "FRCP 15(a)(1)(A)", "FRCP 7(a)(7)"]
   source: original
   tags: [wave2, w2b, rule-12, waiver, amendment-as-of-course]
   status: draft

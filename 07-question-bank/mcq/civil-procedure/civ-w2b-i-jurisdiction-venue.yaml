@@ -298,9 +298,9 @@ questions:
     Somnex, each seeking more than $75,000 for injuries allegedly caused by the drug. Ten are Illinois
     residents who were prescribed, bought and took the drug in Illinois. The other thirty are Ohio
     residents who were prescribed, bought and took the drug in Ohio and were injured there. Illinois's
-    long-arm statute reaches as far as due process allows. Somnex concedes personal jurisdiction as to
-    the Illinois residents' claims but moves to dismiss the Ohio residents' claims for lack of personal
-    jurisdiction.
+    long-arm statute reaches as far as due process allows, and Somnex has not consented to jurisdiction
+    in Illinois. Somnex concedes personal jurisdiction as to the Illinois residents' claims but moves to
+    dismiss the Ohio residents' claims for lack of personal jurisdiction.
   call: "How should the court rule on the motion?"
   options:
     A: "Deny it, because Somnex's sales of the drug in Illinois are so continuous and systematic that Somnex is at home there."
@@ -310,7 +310,8 @@ questions:
   answer: B
   explanation_correct: >-
     Somnex is not at home in Illinois (it is incorporated in Delaware and headquartered in New Jersey),
-    so only specific jurisdiction is possible (R-CIV-020). Specific jurisdiction requires an adequate
+    and it has not consented to jurisdiction there (contrast R-CIV-019), so only specific jurisdiction
+    is possible (R-CIV-020). Specific jurisdiction requires an adequate
     link between the forum and each plaintiff's specific claims (R-CIV-022). The Ohio residents were
     prescribed, bought and took the drug in Ohio and were injured there; nothing connects their claims
     to Somnex's Illinois conduct. The Illinois residents' similar claims cannot supply that link for the
@@ -462,8 +463,9 @@ questions:
     not allow it. Trap: forgetting that Rule 4 incorporates either State's methods.
   explanation_each_wrong_option:
     A: >-
-      Rule 4 does not itself list mail as a method of service (apart from the waiver procedure), but
-      Rules 4(h)(1)(A) and 4(e)(1) borrow state-law methods, including mail where state law permits it.
+      Rule 4 itself provides no mail method for serving a domestic corporation (apart from the waiver
+      procedure), but Rules 4(h)(1)(A) and 4(e)(1) borrow state-law methods, including mail where state
+      law permits it.
     C: >-
       Rule 4(e)(1) allows the method of either the forum State or the State where service is made; the
       forum State's method suffices.

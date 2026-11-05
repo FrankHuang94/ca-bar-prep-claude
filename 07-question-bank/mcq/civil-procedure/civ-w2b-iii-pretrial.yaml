@@ -159,8 +159,8 @@ questions:
     Presenting a claim that is not warranted by existing law or by a nonfrivolous argument for changing
     it violates Rule 11(b)(2) (R-CIV-050), and the landlord followed the safe-harbor procedure
     (R-CIV-051). But Rule 11(c)(5)(A) forbids a monetary sanction against a represented party for
-    violating Rule 11(b)(2); responsibility for frivolous legal contentions rests with counsel. The court
-    could have sanctioned Whitcomb's lawyer (and, absent exceptional circumstances, the lawyer's firm,
+    violating Rule 11(b)(2); monetary responsibility for frivolous legal contentions rests with counsel.
+    The court could have sanctioned Whitcomb's lawyer (and, absent exceptional circumstances, the lawyer's firm,
     FRCP 11(c)(1)), but it could not order Whitcomb herself to pay fees for the frivolous legal claim.
     Trap: overlooking the represented-party exception.
   explanation_each_wrong_option:
@@ -168,8 +168,8 @@ questions:
       True but irrelevant. Compliance with the safe harbor allows the motion to be filed, but it does not
       lift Rule 11(c)(5)(A)'s bar on monetary sanctions against a represented party for legal contentions.
     B: >-
-      Rule 11 places responsibility for frivolous legal contentions on the lawyer who signs the paper;
-      Rule 11(c)(5)(A) protects the represented client from monetary sanctions for them.
+      Rule 11(c)(5)(A) places monetary responsibility for frivolous legal contentions on counsel, not on
+      the represented client, however much she chose to sue.
     C: >-
       Rule 11(c)(2) expressly authorizes a party's motion for sanctions after the safe harbor; the court
       may also act on its own under Rule 11(c)(3).
@@ -243,7 +243,7 @@ questions:
     A: "Publication suffices, because members of a certified class are bound by the judgment whether or not they receive actual notice."
     B: "No notice is required until the case is settled or tried, because notice protects only members' right to share in a recovery."
     C: "Individual notice must be sent to members identifiable through reasonable effort, ordinarily at the class representatives' expense."
-    D: "Individual notice is required, and Brightwire must pay for it because it holds the class members' names and addresses."
+    D: "Individual notice is required, and Brightwire ordinarily must pay for it because it holds the class members' names and addresses."
   answer: C
   explanation_correct: >-
     For a class certified under Rule 23(b)(3), the court must direct to class members the best notice
@@ -255,17 +255,19 @@ questions:
     assuming that the party holding the records must pay.
   explanation_each_wrong_option:
     A: >-
-      Members of a (b)(3) class are bound only if they received the required notice and an opportunity to
-      opt out (R-CIV-061); publication is not the best practicable notice when members' addresses are
+      Wrong conclusion. A (b)(3) judgment binds members to whom the required notice was directed and who
+      did not opt out (FRCP 23(c)(3)(B); R-CIV-061), so actual receipt is not the test; but the notice
+      directed must be the best practicable, and publication is not that when members' addresses are
       known.
     B: >-
       Rule 23(c)(2)(B) requires notice to a (b)(3) class after certification so that members can decide
       whether to opt out; it is not deferred until settlement or trial.
     D: >-
-      Holding the contact information does not shift the cost; under Eisen the representative plaintiffs
-      ordinarily pay for notice to the class.
+      Holding the contact information does not by itself shift the cost; under Eisen the representative
+      plaintiffs ordinarily pay for notice, although a court may direct a defendant to perform a task it
+      can do more cheaply, such as identifying members (Oppenheimer Fund v. Sanders).
   trap_type: missing-element
-  authority: ["FRCP 23(c)(2)(B)", "Eisen v. Carlisle & Jacquelin, 417 U.S. 156 (1974)"]
+  authority: ["FRCP 23(c)(2)(B)", "FRCP 23(c)(3)(B)", "Eisen v. Carlisle & Jacquelin, 417 U.S. 156 (1974)", "Oppenheimer Fund, Inc. v. Sanders, 437 U.S. 340 (1978)"]
   source: original
   tags: [wave2, w2b, class-actions, notice, opt-out]
   status: draft
@@ -324,7 +326,8 @@ questions:
   stem: >-
     Strickland sued Pinecrest Motors Inc. in federal court, alleging that a defective brake assembly
     caused her crash. During discovery Strickland deposed Gaines, who was then Pinecrest's vice
-    president of engineering, a corporate officer. Gaines testified that Pinecrest's engineers had
+    president of engineering, a corporate officer; Pinecrest's counsel attended and cross-examined him.
+    Gaines testified that Pinecrest's engineers had
     reported brake failures in the same model a year before Strickland's crash. At trial, during her
     case-in-chief, Strickland offered excerpts of Gaines's deposition. Gaines, still Pinecrest's vice
     president, was sitting in the courtroom and available to testify. Pinecrest objected that the
@@ -339,7 +342,8 @@ questions:
   explanation_correct: >-
     An adverse party may use for any purpose the deposition of a party or of anyone who, when deposed,
     was the party's officer, director, managing agent or Rule 30(b)(6) designee (FRCP 32(a)(3);
-    R-CIV-068). Gaines was Pinecrest's officer when deposed, so Strickland may read his testimony as
+    R-CIV-068). Pinecrest was represented at the deposition, satisfying FRCP 32(a)(1)(A), and Gaines was
+    Pinecrest's officer when deposed, so Strickland may read his testimony as
     substantive evidence in her case-in-chief, and his availability does not matter; the unavailability
     conditions of Rule 32(a)(4) apply to other witnesses. The use remains subject to the Federal Rules of
     Evidence as if Gaines were testifying (FRCP 32(a)(1)(B)). FRE 802 recognizes hearsay exceptions
@@ -394,8 +398,10 @@ questions:
     before trial.
   explanation_each_wrong_option:
     B: >-
-      States the California rule (CCP § 581(c)), not the federal one; in federal court the right to
-      dismiss by notice ends when the defendant serves an answer or a summary-judgment motion.
+      Borrows California's timing rule (dismissal any time before trial, CCP § 581(c)); in federal court
+      the right to dismiss by notice ends when the defendant serves an answer or a summary-judgment
+      motion, and nothing in Rule 41 lets a plaintiff's dismissal carry a pending counterclaim out of the
+      case.
     C: >-
       The notice has no effect because it came after Hale's answer, and nothing in Rule 41 pushes a
       pending counterclaim out of the case.

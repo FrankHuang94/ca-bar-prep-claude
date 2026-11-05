@@ -34,8 +34,8 @@ questions:
   explanation_each_wrong_option:
     A: >-
       Mohawk Industries held that disclosure orders adverse to the attorney-client privilege are not
-      collateral orders; review comes by § 1292(b) certification, mandamus or appeal from a contempt
-      sanction.
+      collateral orders; appeal after final judgment generally suffices, and in appropriate cases review
+      may come by § 1292(b) certification, mandamus or appeal from a contempt sanction.
     C: >-
       Orders disqualifying counsel in civil cases are not immediately appealable collateral orders
       (Richardson-Merrell; R-CIV-101).
@@ -63,7 +63,7 @@ questions:
   call: "Will the court of appeals hear Haddad's appeal now?"
   options:
     A: "Yes, because 28 U.S.C. § 1292(a)(1) permits an immediate appeal from any order granting injunctive relief."
-    B: "Yes, because a restraining order issued without notice to the restrained party is an appealable collateral order."
+    B: "Yes, because a restraining order issued without notice to the restrained party is ordinarily treated as an appealable collateral order."
     C: "No, because a temporary restraining order of this kind is generally not an appealable interlocutory order."
     D: "No, because an order restricting a party's conduct may be reviewed only on appeal from the final judgment."
   answer: C
