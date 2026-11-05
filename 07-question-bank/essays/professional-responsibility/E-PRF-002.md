@@ -84,7 +84,7 @@ California lawyers are governed by the California Rules of Professional Conduct 
 
 **Application.** The emails were responsive to Felix's February document request, so Ivy had a legal obligation to produce them unless a privilege applied. Communications between Ivy and her bookkeeper are not attorney-client communications, and Marco did not even list them on a privilege log; there was no good-faith basis to withhold them. Ivy's instruction ("make sure these never see the light of day") was a request to conceal evidence, and Marco carried it out by segregating the emails. He then signed a supplemental response falsely stating that all responsive documents had been produced. Marco may argue that he only "moved" the files and did not destroy them, but concealment and suppression are enough. Acting at Ivy's direction is no defense, and nothing here was an "arguable question" that would protect a subordinate.
 
-**Conclusion:** Marco violated MR 3.4(a) and (d), 4.1 and 8.4(c), and CRPC rules 3.4(a)–(b), 1.2.1 and 8.4(c) (and B&P § 6106). He should have advised Ivy that the emails must be produced and refused to conceal them.
+**Conclusion:** Marco violated MR 3.4(a) and (d), 4.1 and 8.4(c), and CRPC rules 3.4(a)–(b), 1.2.1, 4.1 and 8.4(c) (and B&P § 6106). He should have advised Ivy that the emails must be produced and refused to conceal them.
 
 ### 3. Communication — the $300,000 written offer
 
@@ -117,14 +117,14 @@ California lawyers are governed by the California Rules of Professional Conduct 
 ### 6. Withdrawal
 
 **(a) Grounds.**
-*ABA:* MR 1.16(a) requires withdrawal if the representation will result in a violation of the rules or other law, and (since 2023) if the client persists in using the lawyer's services to commit or further a crime or fraud. MR 1.16(b) permits withdrawal on grounds including that the client fails substantially to fulfill an obligation to the lawyer regarding fees after reasonable warning, or that the representation has been rendered unreasonably difficult by the client.
+*ABA:* MR 1.16(a) requires withdrawal if the representation will result in a violation of the rules or other law, and (since 2023) if the client seeks to use or persists in using the lawyer's services to commit or further a crime or fraud, despite the lawyer's discussion of the limits on the lawyer's assistance (MR 1.16(a)(4)). MR 1.16(b) permits withdrawal on grounds including that the client fails substantially to fulfill an obligation to the lawyer regarding fees after reasonable warning, or that the representation has been rendered unreasonably difficult by the client.
 *California:* Rule 1.16(a) requires withdrawal when the lawyer knows or reasonably should know that the representation will result in a violation of the rules or the State Bar Act. Rule 1.16(b) permits withdrawal on grounds including a client's breach of a material term of an agreement regarding fees after reasonable warning, and conduct by the client that renders the representation unreasonably difficult or that seeks to pursue a fraudulent course.
 *Application:* Ivy's three months of nonpayment after two written warnings is a permissive ground under both systems. If Ivy insists on using her false testimony and concealing the emails, continued representation would require Marco to violate rules 3.3 and 3.4, which makes withdrawal mandatory under both.
 
 **(b) Court permission and protecting the client.** Under MR 1.16(c)–(d) and CRPC rule 1.16(c)–(d), when a matter is pending in court the lawyer must obtain the tribunal's permission and continue if ordered, and on withdrawal must take reasonable steps to avoid foreseeable prejudice to the client (notice, time to find new counsel, return of the file). Marco properly filed a motion rather than simply abandoning the case.
 
 **(c) The confidential disclosure in the motion.**
-*California:* B&P § 6068(e)(1) and rule 1.6 forbid revealing confidential information, and no exception covers a client's past false testimony. A lawyer seeking to withdraw should say only that professional considerations require termination of the representation. By telling the court that Ivy "admitted … her deposition testimony was false," Marco revealed a client confidence in a public filing. Revealing the fee dispute in detail was also unnecessary.
+*California:* B&P § 6068(e)(1) and rule 1.6 forbid revealing confidential information, and no exception covers a client's past false testimony. A lawyer seeking to withdraw should say only that professional considerations require termination of the representation. By telling the court that Ivy "admitted … her deposition testimony was false," Marco revealed a client confidence in a public filing. Even the reference to unpaid fees said more than was needed.
 *ABA:* The comment to MR 1.16 likewise says a statement that professional considerations require termination should ordinarily suffice. Marco will argue that MR 3.3(c) required him to disclose the false testimony. But disclosure under MR 3.3 is the last remedial step, after remonstration and withdrawal fail to cure the false evidence; Marco skipped remonstration entirely, so the disclosure was premature and not shown to be necessary.
 
 **Conclusion:** Withdrawal itself was justified and properly sought by motion. The disclosure in the motion violated B&P § 6068(e)(1) and CRPC rule 1.6 and likely violated MR 1.6 as premature; under the ABA, disclosure might eventually have become mandatory had Ivy refused to correct the record.
@@ -134,7 +134,7 @@ California lawyers are governed by the California Rules of Professional Conduct 
 | Duty | ABA | California |
 |---|---|---|
 | False evidence (MSJ) | Violated 3.3(a)(3), 1.2(d) | Violated 3.3(a)(3), 1.2.1, § 6068(d) |
-| Concealing emails / false response | Violated 3.4(a), (d), 4.1, 8.4(c) | Violated 3.4(a)–(b), 1.2.1, 8.4(c), § 6106 |
+| Concealing emails / false response | Violated 3.4(a), (d), 4.1, 8.4(c) | Violated 3.4(a)–(b), 1.2.1, 4.1, 8.4(c), § 6106 |
 | Settlement offer | Violated 1.4(a)(1), 1.2(a) | Violated 1.4.1, § 6103.5, 1.2(a) |
 | Represented person | Violated 4.2 | Violated 4.2 |
 | Adverse authority | Violated 3.3(a)(2) | Violated 3.3(a)(2) |
@@ -165,4 +165,4 @@ California lawyers are governed by the California Rules of Professional Conduct 
 4. Treating the coffee-shop remark as harmless because Felix is a party who may talk to anyone. The rule binds the lawyer, not the parties.
 5. Forgetting that a motion to withdraw should state only that professional considerations require withdrawal.
 
-**Accuracy notes.** The model answer avoids the numbering of CRPC rule 1.16(b)'s permissive grounds (repo item V-457) and the California criminal-perjury narrative approach (V-461), which is not needed in a civil case. It also avoids the ABA's 2023 duty-to-inquire language in MR 1.16(a) (V-470).
+**Accuracy notes.** The model answer avoids the numbering of CRPC rule 1.16(b)'s permissive grounds (repo item V-457). It does not use the California criminal-defendant narrative approach, which is not needed in a civil case (repo R-PRF-061, now confirmed [S-1265]). Part 6 states MR 1.16(a)(4) in its confirmed 2023 wording [S-1263]; the related ABA inquiry duty sits in the rule's comments [S-1264].

@@ -86,13 +86,13 @@ The question is whether knowing silence is consent. Ruth took no action that ado
 **A. Is the partnership bound?** Each partner is an agent of the partnership for the purpose of its business. An act of a partner for apparently carrying on in the ordinary course the partnership's business, or business of the kind it carries on, binds the partnership, unless the partner had no authority in the matter **and** the third party knew or had received notification of that lack of authority (§ 16301(1)).
 - *Actual authority.* Mateo lacked actual authority, because the partners agreed that neither would spend more than $10,000 without the other's approval.
 - *Apparent authority in the ordinary course.* Nadia will argue that a $60,000 purchase, three times the value of the original fleet, was extraordinary. DroneWorks will respond that buying drones is the core of a drone photography business; a better drone is a routine equipment purchase for such a firm; and Mateo signed in the business's name. The internal $10,000 limit was oral and undisclosed, and DroneWorks had no knowledge or notification of it.
-- *Ratification.* Even if the purchase were outside the ordinary course, a principal ratifies an unauthorized act by knowingly accepting its benefits. After Nadia learned of the purchase, SkyFrame used the drone "on many jobs" rather than returning it. That is ratification.
+- *Ratification.* Even if the purchase were outside the ordinary course, a principal ratifies an unauthorized act by knowingly accepting its benefits. SkyFrame has used the drone "on many jobs" and has not returned it. To the extent that use continued after Nadia learned of the purchase, the partnership knowingly kept the benefit. Nadia will point to her protest ("broken our deal"), but she complained only to Mateo; she did not return the drone or repudiate the contract to DroneWorks. Continued use with knowledge is likely ratification.
 
 **SkyFrame is bound on the contract.**
 
 **B. Who is personally liable?** All partners are jointly and severally liable for all partnership obligations (§ 16306). Nadia and Mateo are both personally liable for the $60,000. A creditor must ordinarily exhaust partnership assets first: it must obtain a judgment against the partnership and have execution returned unsatisfied, unless an exception applies (for example, partnership assets are clearly insufficient) (§ 16307). Forming SkyFrame LLC in 2025 does not discharge debts the partnership and its partners already owed in 2024, and the drone was transferred to the LLC, so DroneWorks can pursue the partners. Ruth is liable only if partnership by estoppel applies.
 
-Between the partners, Mateo exceeded his actual authority, and Nadia may seek to hold him responsible for any loss that causes the partnership.
+Between the partners, Mateo exceeded his actual authority, and Nadia may seek to hold him responsible for any loss this causes the partnership.
 
 ### 3. Liability to Lily
 
