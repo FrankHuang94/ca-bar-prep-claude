@@ -248,7 +248,7 @@ questions:
 
 - id: Q-EVD-0019
   subject: EVD
-  coverage_ids: [EVD-MBE-II.C.4]
+  coverage_ids: [EVD-MBE-II.C.4, EVD-MBE-I.A.7]
   rule_ids: [R-EVD-042, R-EVD-006, R-EVD-003, R-EVD-007]
   difficulty: 3
   stem: >-
@@ -275,7 +275,8 @@ questions:
   explanation_each_wrong_option:
     A: >-
       Exception trap. The 404(b) threshold is far lower than proof beyond a reasonable doubt, so an
-      acquittal does not prevent a jury from finding the act occurred by a preponderance.
+      acquittal does not prevent a jury from finding the act occurred by a preponderance (Dowling v.
+      United States, which also held that the acquittal raises no double-jeopardy bar to this use).
     B: >-
       The evidence is relevant without a character inference: passing the same counterfeit series months
       earlier makes it more likely he knew these bills were fake.
@@ -283,7 +284,7 @@ questions:
       Testifying exposes a defendant to impeachment (FRE 608, 609); it does not place his character in issue
       or make other-act evidence admissible for propensity.
   trap_type: exception-trap
-  authority: ["FRE 404(b)", "FRE 104(b)", "FRE 403", "Huddleston v. United States, 485 U.S. 681 (1988)"]
+  authority: ["FRE 404(b)", "FRE 104(b)", "FRE 403", "Huddleston v. United States, 485 U.S. 681 (1988)", "Dowling v. United States, 493 U.S. 342 (1990)"]
   source: original
   tags: [wave1, M3, other-acts, 404b]
   status: draft

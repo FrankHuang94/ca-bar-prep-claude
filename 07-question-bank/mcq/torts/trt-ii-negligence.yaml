@@ -163,7 +163,7 @@ questions:
 
 - id: Q-TRT-0005
   subject: TRT
-  coverage_ids: [TRT-MBE-II.B.1]
+  coverage_ids: [TRT-MBE-II.B.1, TRT-MBE-II.B.2]
   rule_ids: [R-TRT-025, R-TRT-034, R-TRT-030]
   difficulty: 2
   stem: >-
@@ -203,7 +203,7 @@ questions:
 
 - id: Q-TRT-0006
   subject: TRT
-  coverage_ids: [TRT-MBE-II.B.1]
+  coverage_ids: [TRT-MBE-II.B.1, TRT-MBE-I.B.1]
   rule_ids: [R-TRT-028, R-TRT-009, R-TRT-002]
   difficulty: 2
   stem: >-
@@ -351,8 +351,9 @@ questions:
     B: >-
       Wrong standard. Res ipsa is an inference for the jury, not a rule that compels a finding of negligence.
     C: >-
-      Wrong standard. The majority does not shift the burden of persuasion; it allows an inference.
-      (Some states, including California, give res ipsa presumptive effect, but the MBE uses the majority.)
+      Wrong standard. The majority does not shift the burden of persuasion; it allows an inference. (A few
+      states give res ipsa a stronger effect; California's Evid. Code § 646 makes it a presumption that shifts
+      only the burden of producing evidence, not the burden of proof. The MBE uses the majority inference.)
   trap_type: wrong-standard
   authority: ["Byrne v. Boadle, 159 Eng. Rep. 299 (Ex. 1863)", "Restatement (Second) of Torts § 328D"]
   source: original
@@ -362,7 +363,7 @@ questions:
 
 - id: Q-TRT-0010
   subject: TRT
-  coverage_ids: [TRT-MBE-II.C]
+  coverage_ids: [TRT-MBE-II.C, TRT-MBE-II.E.2]
   rule_ids: [R-TRT-036, R-TRT-050, R-TRT-035]
   difficulty: 1
   stem: >-
@@ -479,7 +480,7 @@ questions:
 
 - id: Q-TRT-0013
   subject: TRT
-  coverage_ids: [TRT-MBE-II.D.3]
+  coverage_ids: [TRT-MBE-II.D.3, TRT-MBE-II.G.1]
   rule_ids: [R-TRT-041, R-TRT-070, R-TRT-043]
   difficulty: 3
   stem: >-
@@ -588,9 +589,10 @@ questions:
       Duty is owed to all foreseeably endangered persons (R-TRT-019); a camper seated at the same table is
       plainly within reach of a risk from the rifle.
     D: >-
-      Assumption of risk requires knowledge and voluntary acceptance of a specific risk. Noticing a rifle
-      leaning against a table is not appreciating and accepting a risk that it will fall and injure her, and
-      a negligent defendant cannot shift its own careless conduct onto a bystander this way.
+      Assumption of risk requires knowledge and voluntary acceptance of a specific risk (R-TRT-072). Noticing
+      a rifle leaning against a table is not appreciating and accepting a risk that it will fall and injure
+      her, and even an unreasonable encounter would, under the MBE's default pure comparative fault, only
+      reduce her damages rather than defeat the claim, so this is a weaker argument than scope of the risk.
   trap_type: confused-rule
   authority: ["Restatement (Third) of Torts: Liability for Physical and Emotional Harm § 29"]
   source: original
@@ -600,7 +602,7 @@ questions:
 
 - id: Q-TRT-0016
   subject: TRT
-  coverage_ids: [TRT-MBE-II.E.1]
+  coverage_ids: [TRT-MBE-II.E.1, TRT-MBE-II.A]
   rule_ids: [R-TRT-024, R-TRT-046, R-TRT-072]
   difficulty: 2
   stem: >-
@@ -699,7 +701,7 @@ questions:
     condition where it knows children are likely to trespass there, the condition poses an unreasonable risk
     of death or serious harm, children because of their youth will not realize the risk, the burden of
     eliminating the danger is slight compared with the risk, and it fails to use reasonable care. Each element
-    fits: prior chasing, a rolling multi-ton pipe, an 8-year-old, and $50 chocks.
+    fits: prior chasing, an unchocked four-foot concrete pipe that could roll, an 8-year-old, and $50 chocks.
   explanation_each_wrong_option:
     B: >-
       Attractive-nuisance liability is negligence-based (failure to use reasonable care), not strict.

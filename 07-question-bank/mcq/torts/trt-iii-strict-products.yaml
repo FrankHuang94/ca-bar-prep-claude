@@ -62,7 +62,8 @@ questions:
     Wild animals (R-TRT-078): a possessor of a wild animal is strictly liable for harm resulting from a
     dangerous propensity characteristic of its species, even if the animal was tame and the possessor used the
     utmost care. A bear clawing someone is exactly that propensity, and the neighbor was an invited guest, a
-    foreseeable plaintiff who followed instructions rather than knowingly courting the danger (R-TRT-080).
+    foreseeable plaintiff who followed instructions; nothing suggests fault on her part that could reduce
+    her recovery under comparative fault (R-TRT-080).
   explanation_each_wrong_option:
     A: >-
       Confused rule. Knowledge of a particular animal's dangerous propensity matters for domestic animals
@@ -71,7 +72,8 @@ questions:
       Care is irrelevant to strict liability; the possessor is liable despite the utmost care.
     C: >-
       Visiting at the owner's invitation and staying behind the rail is not a knowing, voluntary assumption of
-      the risk of an escape.
+      the risk of an escape. Even a knowing, unreasonable encounter would, under the MBE's default pure
+      comparative fault, only reduce her recovery rather than leave "no basis" for liability (R-TRT-080).
   trap_type: confused-rule
   authority: ["Restatement (Second) of Torts § 507"]
   source: original

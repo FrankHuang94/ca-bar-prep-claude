@@ -274,10 +274,10 @@ questions:
   answer: B
   explanation_correct: >-
     FRE 609(a)(1)(A) (R-EVD-025): a conviction for a crime punishable by more than one year must be admitted
-    to impeach a witness other than a criminal defendant, subject to Rule 403 (R-EVD-003). So the
-    conviction comes in unless its probative value on credibility is substantially outweighed by unfair
-    prejudice, confusion or waste of time. It is within ten years of both conviction and release, so FRE
-    609(b) does not apply.
+    to impeach a witness other than a criminal defendant, subject to Rule 403 (R-EVD-003). So the court
+    must admit it unless it finds that its probative value on credibility is substantially outweighed by
+    unfair prejudice, confusion or waste of time, in which case Rule 403 gives it discretion to exclude. It
+    is within ten years of both conviction and release, so FRE 609(b) does not apply.
   explanation_each_wrong_option:
     A: >-
       Overbroad. Felony convictions of ordinary witnesses are not automatic; the text says "subject to Rule
@@ -430,14 +430,14 @@ questions:
 
 - id: Q-EVD-0011
   subject: EVD
-  coverage_ids: [EVD-MBE-I.D.8, EVD-MBE-I.D.5]
-  rule_ids: [R-EVD-029, R-EVD-032, R-EVD-024]
+  coverage_ids: [EVD-MBE-I.D.8, EVD-MBE-I.D.5, EVD-MBE-I.D.2]
+  rule_ids: [R-EVD-029, R-EVD-032, R-EVD-024, R-EVD-086]
   difficulty: 3
   stem: >-
     In a federal prosecution for wire fraud, a government witness testifies that the defendant told her that
     investors in his scheme were certain to lose their money. On cross-examination, defense counsel
-    establishes that the witness was originally charged in the same scheme and that the government agreed to
-    dismiss her charges in exchange for her testimony. The defense offers no evidence about the witness's
+    establishes that the government agreed to dismiss an unrelated drug-possession charge pending against her
+    in exchange for her testimony. The defense offers no evidence about the witness's
     general character. After the cross-examination ends, the prosecution calls the witness's former supervisor
     of ten years to testify that, in his opinion, the witness is a truthful person. The defendant objects.
   call: Should the court admit the supervisor's opinion testimony?
@@ -452,8 +452,8 @@ questions:
     witness's character for truthfulness has been attacked. The defense impeached by bias and interest (the
     dismissal deal, R-EVD-024), which suggests a motive to shade testimony but does not attack her general
     character for truthfulness. Rehabilitation must respond to the kind of attack made; here the
-    prosecution could, for example, offer a prior consistent statement made before the deal (FRE
-    801(d)(1)(B)).
+    prosecution could, for example, offer a prior consistent statement made before her motive to curry
+    favor arose, that is, before the drug charge was filed (FRE 801(d)(1)(B)(i); Tome, R-EVD-086).
   explanation_each_wrong_option:
     A: >-
       Missing element. Opinion testimony on truthfulness is a proper form, but supporting evidence is
@@ -464,7 +464,7 @@ questions:
     C: >-
       FRE 608(a) expressly allows both reputation and opinion testimony.
   trap_type: overbroad
-  authority: ["FRE 608(a)", "FRE 801(d)(1)(B)"]
+  authority: ["FRE 608(a)", "FRE 801(d)(1)(B)", "Tome v. United States, 513 U.S. 150 (1995)"]
   source: original
   tags: [wave1, M3, rehabilitation, character-for-truthfulness]
   status: draft

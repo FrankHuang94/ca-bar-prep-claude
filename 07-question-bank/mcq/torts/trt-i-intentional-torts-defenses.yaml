@@ -265,8 +265,8 @@ questions:
       There is no duty to retreat before using nondeadly force; at most, some jurisdictions require retreat
       before deadly force.
     D: >-
-      Assumption of risk (R-TRT-072) is a negligence defense requiring knowing acceptance of a specific risk;
-      the privilege of self-defense is the proper analysis.
+      Assumption of risk (R-TRT-072) is a defense to negligence and strict-liability claims, not to an
+      intentional tort such as battery; the privilege of self-defense is the proper analysis.
   trap_type: wrong-standard
   authority: ["Restatement (Second) of Torts § 63"]
   source: original
@@ -294,9 +294,9 @@ questions:
   explanation_correct: >-
     Defense of property (R-TRT-012): a possessor may use reasonable, nondeadly force to protect property, but
     deadly force is never privileged to protect property alone. A mechanical device is privileged only to the
-    extent the possessor could have used the same force in person. The farmer could not have shot an
-    unarmed burglar in an empty shed to protect tools, so the spring gun is unprivileged and he is liable for
-    battery.
+    extent the possessor could have used the same force in person. The farmer was away, so nothing suggests
+    any threat to a person; the only interest at stake was the tools, which he could not have protected by
+    shooting the burglar in person. The spring gun is therefore unprivileged and he is liable for battery.
   explanation_each_wrong_option:
     A: >-
       The plaintiff's status as a trespasser or criminal does not privilege the use of deadly force against

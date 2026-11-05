@@ -46,7 +46,7 @@ questions:
 
 - id: Q-EVD-0039
   subject: EVD
-  coverage_ids: [EVD-MBE-V.A.2]
+  coverage_ids: [EVD-MBE-V.A.2, EVD-MBE-V.L]
   rule_ids: [R-EVD-087, R-EVD-110, R-EVD-093]
   difficulty: 3
   stem: >-
@@ -200,8 +200,8 @@ questions:
       FRE 803 exceptions apply whether or not the declarant is available; availability matters only for
       FRE 804.
     B: >-
-      True but irrelevant. The time lapse probably defeats a present sense impression (R-EVD-093), but the
-      excited-utterance exception tolerates a longer gap as long as the stress continues.
+      Likely true but irrelevant. A fifteen-minute lapse probably defeats a present sense impression
+      (R-EVD-093), but the excited-utterance exception tolerates a longer gap as long as the stress continues.
     D: >-
       A household member's statement offered by the household's own lawsuit is not an opposing party's
       statement, and no exception is based on family membership.
@@ -364,8 +364,10 @@ questions:
       Entries may be made from information transmitted by a person with knowledge acting in the regular
       course; treating staff passing information to billing clerks qualifies.
     D: >-
-      A private hospital's billing records are not public records, and self-authentication (FRE 902(11),
-      R-EVD-050) requires a written certification, which the hospital did not use.
+      Wrong rule. Nothing shows these are sealed or certified public documents, and self-authentication
+      (FRE 902, R-EVD-050) answers only the authentication question, not the hearsay objection. The hospital
+      laid its foundation through a live witness rather than a FRE 902(11) certification, and the records
+      come in as business records under FRE 803(6).
   trap_type: missing-element
   authority: ["FRE 803(6)", "FRE 902(11)"]
   source: original
