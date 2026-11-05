@@ -14,7 +14,7 @@
 | 3 — Past exams | ✅ Done | 31 administrations (Feb 2012–Jul 2026): 166 essays + 42 PTs indexed and analyzed (index-level); frequency analysis; 2 PAST rows | Archive covers Feb 2012 → July 2026 [S-079] |
 | 4 — Subject content | ✅ **Done (awaiting review)**: all 13 subjects built; all 616 coverage rows mapped | Groups: (1) CTR CIV CON CRM · (2) CMP REM · (3) EVD PRF WIL TRS · (4) TRT PRP BUS |
 | 5 — Question bank | ✅ **Done (awaiting review)**: 1,050 MCQs, 84 essays, 8 PTs, 3 simulations | Every item independently reviewed |
-| 6 — High-yield and memorization | ☐ | |
+| 6 — High-yield and memorization | 🔄 **Built; accuracy review of 08-high-yield in progress** | 08-high-yield (8 files + README), consistency sweep, Anki decks |
 | 7 — Independent QA | ☐ | |
 | 8 — Maintenance | ☐ | |
 
@@ -36,6 +36,45 @@
 - **`config/plan.yml`:** finalized phases, no leave (PTO for exam week only), targets and benchmarks aligned to the schedule.
 - **Totals:** ≈ 754 h · 2,210 MBE · 75 essays · 52 `/spot` drills · 12 PTs · 3 simulations (all on weekends).
 - **New sources and verify items:** S-140–S-150 and S-160; V-040–V-044, V-050–V-058 and V-060.
+
+## Phase 6 deliverables (high-yield synthesis and memorization)
+
+**`08-high-yield/`** (about 40,000 words, all distilled from the corrected rulebooks, with rule IDs):
+
+| File | What it is |
+|---|---|
+| `top-rules-mbe-subjects.md` | 15–16 must-know rules per MBE subject, exam-ready, with MBE traps and CA notes |
+| `top-rules-california-subjects.md` | 15–16 per essay-only subject (PR with CA vs ABA; CP presumptions/tracing; Probate Code sections) |
+| `mbe-vs-california-master-table.md` | Every MBE-vs-California split, per subject, plus the top 25 flips most likely to cost points and when an essay calls for California law |
+| `crossover-guide.md` | All tested crossover pairs: triggers, answer skeleton, key rules, traps, links to bank essays (simulation essays marked) |
+| `most-tested-issues.md` | Essay issues ranked by how often they were tagged in past essays; MBE categories by NCBE share; a "10 hours left" list |
+| `memorization-master.md` | Tier counts and must-know IDs for all 13 subjects; spaced-repetition and `/drill` protocol |
+| `mnemonics.md` | 50 original memory aids, each tied to its rule ID |
+| `final-2-weeks-review.md` | Day-by-day plan Jul 12–25, matched to plan weeks W28–W29, plus night-before and between-days pages |
+
+**Consistency sweep.**
+- The Phase 5 reviews corrected 56 rules, but the subjects' other files still carried the old wording.
+- Three agents propagated the corrections, fixing **141 stale statements** across outlines, attack outlines, ca-distinctions, traps, worked examples, flashcards and bank items.
+- One example: a flashcard still taught the old strict-liability defense rule.
+- No answer key depended on an old rule; all 1,050 keys were verified unchanged.
+- Seven remaining rulebook lines (R-REM-085, R-CIV-042 example, R-REM-069, R-PRP-070, R-PRF-026, R-BUS-085/086 summaries) were aligned.
+
+**Anki.**
+- `build_anki.py` now tags each rule card with its memorization tier.
+- Decks (written to the gitignored `exports/`; rebuild with the commands in `memorization-master.md`):
+  - full deck: 3,238 cards;
+  - must-know deck (must-know flashcards + must-know rule cards): 1,651 cards.
+
+**Plan fixes:**
+- Rest days now get 0 hours.
+- W29 is a 24-hour taper (3 h weeknights, 9 h Saturday, Sunday Jul 25 off); the plan totals 1,194 h.
+- The exam-day logistics file now matches SIM-03 on Jul 10–11.
+- 27 tests.
+
+**Gaps noted for Phase 7:**
+- No rule statement yet for Pen. Code § 1111 (accomplice corroboration) or the *Pruneyard* mall-speech rule; both appear only in `ca-distinctions.md`.
+- The bank has no Con Law + Remedies crossover essay.
+- `frequency_analysis.py` lists only the top 15 crossover pairs.
 
 ## Phase 5 — Wave 2 deliverables (question bank complete)
 
@@ -246,11 +285,11 @@ All 15 files per subject. All **216 coverage rows mapped** (`coverage_report.py 
    - which optional PTO days are possible.
 4. **Network access.** Still blocked (calbar.ca.gov, ncbex.org, leginfo, courts.ca.gov, law.cornell.edu, supremecourt.gov, uscourts.gov, americanbar.org).
 
-## Next: Phase 6 — high-yield synthesis and memorization
-- **`08-high-yield/`:** cross-subject must-know rules, the most-tested California distinctions, and "rules that flip between MBE and CA essay" tables, built from each subject's `memorization-list.md`, `ca-distinctions.md` and `06-past-exams/frequency-analysis.md`.
-- **Memorization lists:** consolidated tiered lists, a mnemonics page, and the final-2-weeks review plan (`final-2-weeks-review.md`), aligned with `01-study-plan/` weeks W28–W29.
-- **Anki export:** run `build_anki.py` for all subjects (flashcards plus rule cards) and spot-check the deck.
-- **Then Phase 7:** independent QA across all subject files, clearing the VERIFY queue where possible.
+## Next: Phase 7 — independent QA
+- **Subject-file QA:** independent reviewer subagents audit every subject's 15 files for legal accuracy, internal consistency, coverage and citation integrity, then fix the findings. Subjects whose rule statements have not yet had a question-level audit (CP, Wills, Trusts, BA, Remedies, PR) get the deepest review.
+- **VERIFY queue:** close what can be confirmed by search (`confirmed-primary (search)`); re-scope the rest; list the items that need a direct read of leginfo, courts.ca.gov or calbar.ca.gov (V-001).
+- **Fill the gaps noted above** (§ 1111, *Pruneyard*, a Con Law + Remedies essay, the crossover table).
+- **Mark files `verified`** only after QA. Rename `EVD-CBX-II?`. Produce the QA report.
 
 ## Handoff notes for a new session
 - **Read `CLAUDE.md` first.** It holds all conventions.
