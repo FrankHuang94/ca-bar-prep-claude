@@ -590,7 +590,7 @@ status: draft
 ### R-EVD-044 — Domestic-violence propensity (§ 1109)
 **Rule (write this):** In a California criminal action in which the defendant is accused of an offense involving domestic violence, evidence of the defendant's other acts of domestic violence is not made inadmissible by § 1101 if it survives § 352; acts more than ten years before the charged offense are inadmissible unless the court finds admission in the interest of justice.
 
-**Elements:** 1. Criminal action. 2. Charged offense involving domestic violence. 3. Other DV acts. 4. § 352. 5. Ten-year limit. 6. Disclosure to the defense.
+**Elements:** 1. Criminal action. 2. Charged offense involving domestic violence. 3. Other DV acts. 4. § 352. 5. Ten-year limit. 6. Disclosure to the defense. "Domestic violence" takes its meaning from Pen. Code § 13700 (which reaches spouses, cohabitants, dating or engagement relationships and co-parents) and, for acts within five years of the charged offense, the broader Fam. Code § 6211 definition (§ 1109(d)(3)) [VERIFY V-418].
 
 **Exceptions / defenses:** The section also reaches elder or dependent-adult abuse and child abuse cases [VERIFY V-407].
 

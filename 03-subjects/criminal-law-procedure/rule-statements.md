@@ -1078,9 +1078,9 @@ status: draft
 
 **Elements:** 1. Probable cause. 2. Public place → no warrant. 3. Suspect's home → arrest warrant (Payton). 4. Third party's home → search warrant (Steagald). 5. Prompt judicial probable-cause determination (within 48 hours presumptively).
 
-**Exceptions / defenses:** An illegal arrest does not bar prosecution; it supports suppression of its fruits. A Payton violation does not taint a later station-house statement if probable cause existed (Harris).
+**Exceptions / defenses:** An illegal arrest does not bar prosecution; it supports suppression of its fruits. A Payton violation does not taint a later station-house statement if probable cause existed (Harris). An arrest made in good-faith reliance on a statute later held unconstitutional is valid, unless the statute was so grossly and flagrantly unconstitutional that any reasonable person would see its flaws (*DeFillippo*).
 
-**Authority:** *United States v. Watson*, 423 U.S. 411 (1976); *Atwater v. City of Lago Vista*, 532 U.S. 318 (2001); *Payton v. New York*, 445 U.S. 573 (1980); *Steagald v. United States*, 451 U.S. 204 (1981); *County of Riverside v. McLaughlin*, 500 U.S. 44 (1991); *New York v. Harris*, 495 U.S. 14 (1990); *Maryland v. Pringle*, 540 U.S. 366 (2003).
+**Authority:** *United States v. Watson*, 423 U.S. 411 (1976); *Atwater v. City of Lago Vista*, 532 U.S. 318 (2001); *Payton v. New York*, 445 U.S. 573 (1980); *Steagald v. United States*, 451 U.S. 204 (1981); *County of Riverside v. McLaughlin*, 500 U.S. 44 (1991); *New York v. Harris*, 495 U.S. 14 (1990); *Maryland v. Pringle*, 540 U.S. 366 (2003). *Michigan v. DeFillippo*, 443 U.S. 31 (1979).
 
 **MBE vs. CA essay:** Same rule.
 
@@ -1234,9 +1234,9 @@ status: draft
 
 **Elements:** 1. Objective reasonableness of reliance. 2. Not one of the four Leon exceptions. 3. For record errors: isolated negligence, not systemic or reckless.
 
-**Exceptions / defenses:** Knock-and-announce violations do not lead to exclusion (Hudson).
+**Exceptions / defenses:** Knock-and-announce violations do not lead to exclusion (Hudson). Related: evidence found in a search incident to an arrest under a later-invalidated ordinance is admissible if the officer reasonably relied on it (*DeFillippo*; compare *Krull* for statutes authorizing searches).
 
-**Authority:** *United States v. Leon*, 468 U.S. 897 (1984); *Massachusetts v. Sheppard*, 468 U.S. 981 (1984); *Illinois v. Krull*, 480 U.S. 340 (1987); *Arizona v. Evans*, 514 U.S. 1 (1995); *Herring v. United States*, 555 U.S. 135 (2009); *Davis v. United States*, 564 U.S. 229 (2011); *Hudson v. Michigan*, 547 U.S. 586 (2006).
+**Authority:** *United States v. Leon*, 468 U.S. 897 (1984); *Massachusetts v. Sheppard*, 468 U.S. 981 (1984); *Michigan v. DeFillippo*, 443 U.S. 31 (1979); *Illinois v. Krull*, 480 U.S. 340 (1987); *Arizona v. Evans*, 514 U.S. 1 (1995); *Herring v. United States*, 555 U.S. 135 (2009); *Davis v. United States*, 564 U.S. 229 (2011); *Hudson v. Michigan*, 547 U.S. 586 (2006).
 
 **MBE vs. CA essay:** Same rule.
 
