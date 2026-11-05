@@ -30,8 +30,9 @@ questions:
     of $200,000, or $120,000.
   explanation_each_wrong_option:
     A: >-
-      Minority rule. A knowing and unreasonable encounter with the risk is a complete defense to strict liability only
-      in a contributory-negligence jurisdiction. Under pure comparative fault it reduces recovery (R-TRT-080).
+      Minority (traditional) rule, displaced here. Under R2d §§ 523 and 524(2), assuming the risk or knowingly and
+      unreasonably encountering it was a complete defense to strict liability; under pure comparative fault it
+      reduces recovery instead (R3d PEH § 25; R-TRT-080).
     B: >-
       Confused rule. The traditional rule that a plaintiff's negligence is no defense concerns a mere failure to
       discover or guard against the danger. Under comparative fault, the plaintiff's share of responsibility,
@@ -40,7 +41,7 @@ questions:
       Care and warnings are no defense to strict liability for an abnormally dangerous activity (R-TRT-077); the
       warning matters only because it made the neighbor's own conduct unreasonable.
   trap_type: minority-rule
-  authority: ["Restatement (Second) of Torts §§ 519, 520", "Restatement (Third) of Torts: Liability for Physical and Emotional Harm § 25"]
+  authority: ["Restatement (Second) of Torts §§ 519, 520, 523, 524", "Restatement (Third) of Torts: Liability for Physical and Emotional Harm § 25"]
   source: original
   tags: [wave2, W2b-TRT, strict-liability, abnormally-dangerous, comparative-fault]
   status: draft
@@ -160,7 +161,7 @@ questions:
       Right result, wrong reason. Whether a non-buyer may sue in warranty depends on the jurisdiction's version of UCC
       § 2-318, and some versions would not reach a neighbor. Her strict-liability claim succeeds without privity.
   trap_type: confused-rule
-  authority: ["Elmore v. American Motors Corp., 70 Cal.2d 578 (1969)", "Restatement (Second) of Torts § 402A"]
+  authority: ["Elmore v. American Motors Corp., 70 Cal.2d 578 (1969)", "Restatement (Third) of Torts: Products Liability § 1"]
   source: original
   tags: [wave2, W2b-TRT, products-liability, bystander, privity]
   status: draft

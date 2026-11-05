@@ -150,7 +150,7 @@ questions:
   explanation_correct: >-
     A person acts with intent if he desires a consequence or knows that it is substantially certain to result, and
     children can form intent (R-TRT-001). The boy knew that the balloon could not land without striking someone in the
-    dense crowd directly below, a small group in a confined area, so he intended a contact with whoever was hit. Being
+    dense crowd packed into the confined area directly below, so he intended a contact with whoever was hit. Being
     struck by a water balloon dropped from three floors up is at least an offensive contact. Battery (R-TRT-002) does
     not require intent to injure, and the boy is liable for the harm that actually resulted, including the broken
     wrist.
@@ -159,13 +159,13 @@ questions:
       Confused rule. The reasonable-child standard governs a child's negligence (R-TRT-026). This claim is for an
       intentional tort, and the question is whether the boy had the purpose or knowledge that constitutes intent.
     B: >-
-      Substantial certainty that the balloon would strike someone in a small, closely packed group is enough; the
+      Substantial certainty that the balloon would strike someone in the closely packed crowd directly below is enough; the
       defendant need not aim at, or be able to identify, the particular person who is hit.
     D: >-
       Battery requires intent to cause a harmful or offensive contact, not intent to injure. Having intended an
       offensive contact, the boy is liable for the more serious harm that actually resulted (R-TRT-002).
   trap_type: confused-rule
-  authority: ["Restatement (Second) of Torts §§ 8A, 13", "Garratt v. Dailey, 46 Wash.2d 197 (1955)"]
+  authority: ["Restatement (Second) of Torts §§ 8A, 13, 18", "Garratt v. Dailey, 46 Wash.2d 197 (1955)"]
   source: original
   tags: [wave2, W2b-TRT, intentional-torts, battery, substantial-certainty, child-intent]
   status: draft

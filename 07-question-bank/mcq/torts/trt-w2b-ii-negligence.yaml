@@ -155,8 +155,9 @@ questions:
     standard of the specialty; the standard and its breach ordinarily must be proved by expert testimony unless the
     negligence is obvious to a layperson (R-TRT-027). Whether this laser treatment was properly performed is a
     technical question beyond lay knowledge, and the patient offered no expert evidence of a departure from accepted
-    practice. A bad result alone does not show negligence, and the uncontradicted evidence that scarring occurs even
-    with proper treatment rules out res ipsa loquitur. With no evidence of breach, a directed verdict is proper.
+    practice. A bad result alone does not show negligence, and, with uncontradicted evidence that scarring can occur
+    even with proper treatment and no expert evidence that it ordinarily does not occur without negligence, res ipsa
+    loquitur is unavailable. With no evidence of breach, a directed verdict is proper.
   explanation_each_wrong_option:
     B: >-
       Res ipsa loquitur applies only to accidents that ordinarily do not happen without negligence (R-TRT-035). The
@@ -353,8 +354,8 @@ questions:
     for 30 minutes to make personal phone calls, and no one replaced him. It is undisputed that leaving the area
     unwatched was negligent. During that time a member's 15-year-old son was caught in a current about 50 yards from
     shore and drowned; no one saw him in trouble. In the wrongful-death action against the club, uncontradicted expert
-    testimony established that an attentive lifeguard would probably have spotted the boy and that it is about 70%
-    likely he would have been rescued alive. The club argues that the plaintiffs cannot prove that the lifeguard's
+    testimony established that, had an attentive lifeguard been on duty, it is about 70% likely that the boy would have
+    been spotted in time and rescued alive. The club argues that the plaintiffs cannot prove that the lifeguard's
     absence caused the death, because no one can know for certain that the boy would have been saved.
   call: "Is the club's argument likely to succeed?"
   options:
@@ -366,8 +367,8 @@ questions:
   explanation_correct: >-
     Actual cause is proved by showing, by a preponderance of the evidence, that the harm would not have occurred but
     for the defendant's breach (R-TRT-037). Certainty is not required. The uncontradicted expert evidence that an
-    attentive lifeguard would probably have spotted the boy, and that there was about a 70% likelihood he would have
-    been rescued alive, shows that the lifeguard's absence was more likely than not a cause of the death. Because
+    attentive lifeguard would, with about 70% likelihood, have spotted and rescued the boy alive shows that the
+    lifeguard's absence was more likely than not a cause of the death. Because
     causation is proved by a preponderance, full damages are recoverable; loss-of-chance doctrine (R-TRT-040) matters
     only when the lost chance was less than even.
   explanation_each_wrong_option:
@@ -475,8 +476,8 @@ questions:
   difficulty: 2
   stem: >-
     At noon on a weekday, a driver negligently rear-ended a woman's car at a quiet suburban intersection, denting her
-    bumper. While the two stood on the sidewalk exchanging insurance information, a man who lived nearby, in the grip
-    of a sudden psychotic episode, ran out of his house and attacked the woman with a garden tool, seriously injuring
+    bumper. While the two stood on the sidewalk exchanging insurance information, a man who lived nearby, for reasons
+    having nothing to do with the collision, suddenly ran out of his house and attacked the woman with a garden tool, seriously injuring
     her. No violent crime had ever been reported in the neighborhood, and nothing about the scene gave either driver
     reason to anticipate an attack. The woman sues the driver for the injuries that the man inflicted.
   call: "Is the woman likely to recover from the driver for those injuries?"
@@ -948,8 +949,9 @@ questions:
     his 25% share, or $150,000.
   explanation_each_wrong_option:
     A: >-
-      Minority rule. Last clear chance operates only in the few jurisdictions that keep contributory negligence; in a
-      comparative-fault jurisdiction it does not restore full damages.
+      Minority rule. Last clear chance is a contributory-negligence doctrine; comparative-fault jurisdictions
+      generally absorb it into the allocation of fault, so it does not restore full damages here (R-TRT-069,
+      R-TRT-070).
     B: >-
       Contributory negligence as a complete bar is not the rule in a pure comparative-negligence jurisdiction.
     C: >-

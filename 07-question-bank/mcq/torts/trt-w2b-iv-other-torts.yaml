@@ -13,7 +13,7 @@ questions:
     sleeping. After repeated complaints from those residents, the company knows that its fans are causing the problem.
     It runs the fans carefully and in accordance with industry practice. The bakery employs 200 people and has great
     value to the community, but it could pay for the harm its noise causes the neighbors and still operate profitably.
-    A homeowner who lives next to the bakery sues it for private nuisance. The company argues that it cannot be liable
+    A homeowner who lives next to the bakery sues it for damages for private nuisance. The company argues that it cannot be liable
     because it has not acted negligently.
   call: "Is the company's argument likely to succeed?"
   options:
@@ -242,14 +242,15 @@ questions:
     group he intends or knows the information will reach (R-TRT-109). The consultant knew the report would go to
     prospective restaurant tenants, carelessly misreported the zoning, and the operator relied on it to his loss.
     Unlike fraud, negligent misrepresentation is subject to the plaintiff's comparative negligence (R-TRT-109,
-    R-TRT-070), so the operator recovers $100,000 less his 25% share, or $75,000.
+    R-TRT-070), which in a comparative-negligence jurisdiction replaces the complete bar of R2d § 552A, so the
+    operator recovers $100,000 less his 25% share, or $75,000.
   explanation_each_wrong_option:
     A: >-
       Confused rule. A plaintiff's negligence is no defense to intentional misrepresentation (R-TRT-107), but it is a
       defense to negligent misrepresentation, reducing recovery under comparative negligence.
     B: >-
-      Overbroad. In a pure comparative-negligence jurisdiction the operator's failure to check reduces his recovery;
-      it does not bar it.
+      Overbroad. Under R2d § 552A a negligent recipient was barred, but in a pure comparative-negligence jurisdiction
+      the operator's failure to check reduces his recovery; it does not bar it.
     C: >-
       Knowledge of falsity is required for fraud, not for negligent misrepresentation, which rests on a lack of
       reasonable care in obtaining or communicating the information.
