@@ -176,7 +176,7 @@ IV.  Injunction: inadequate remedy, property interest, feasibility, balancing, d
 V.   Best remedy / election
 ```
 
-**Rules most often needed.** R-REM-024 (nuisance damages: permanent vs. continuing) · R-REM-023 (fraud damages; § 3343) [VERIFY V-351] · R-REM-028 (§ 3294 punitive damages) · R-REM-055 / R-REM-062 (permanent injunction; nuisance injunction alternatives) · R-REM-044 (constructive trust).
+**Rules most often needed.** R-REM-024 (nuisance damages: permanent vs. continuing) · R-REM-023 (fraud damages; § 3343) · R-REM-028 (§ 3294 punitive damages) · R-REM-055 / R-REM-062 (permanent injunction; nuisance injunction alternatives) · R-REM-044 (constructive trust).
 
 **Traps.**
 - Calling noise or odor a trespass. California treats it as nuisance unless there is physical damage or deposit (R-TRT-006).

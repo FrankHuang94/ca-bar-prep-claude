@@ -4,7 +4,7 @@ topic: Remedies — worked examples (original fact patterns with IRAC analysis)
 coverage_ids: [REM-CBX-I, REM-CBX-II, REM-CBX-III, REM-CBX-III.a, REM-CBX-III.b, REM-CBX-IV, REM-CBX-V, REM-CBX-VI, REM-SUP-001, REM-SUP-002, REM-SUP-003]
 tested_on: [essay, PT]
 exam_frequency: {level: high, basis: "Essays: 16 of 31 administrations 2012-02 to 2026-07 (52%)"}
-last_verified: 2026-11-04
+last_verified: 2026-11-05
 status: draft
 ---
 
@@ -48,9 +48,9 @@ All fact patterns are original. Each gives the **rule** (by ID in [`rule-stateme
 
 **Analysis.**
 - **Diminution vs. restoration.** The usual measure is the lesser: $12,000. But Owner has a personal reason to restore the lot, so a reasonable restoration cost above diminution may be awarded (*Heninger*).
-- **California § 3346.** Injury to trees on another's land is trebled, or only doubled if the trespass was casual and involuntary. Not checking the survey looks negligent rather than willful, so double damages are the more likely outcome [VERIFY V-354].
+- **California § 3346.** Damages for injury to trees on another's land must be doubled; the court may treble them only for a willful and malicious trespass. Not checking the survey looks negligent rather than willful and malicious, so double damages are the likely outcome [S-1206].
 
-**Conclusion.** Owner likely recovers a reasonable restoration cost (up to $60,000), multiplied under § 3346.
+**Conclusion.** Owner likely recovers a reasonable restoration cost (up to $60,000), doubled under § 3346.
 
 ### WE-05 — Conversion vs. restitution (R-REM-021, R-REM-037)
 **Facts.** Roommate takes Owner's laptop, worth $1,200, and sells it online for $1,900.
@@ -247,7 +247,7 @@ Principal may claim $2,000 from the account. Principal may also trace into the c
 ### WE-23 — Unclean hands (R-REM-082)
 **Facts.** Buyer sues for specific performance of a ranch contract. Evidence shows Buyer secretly paid Seller's broker to discourage other offers.
 
-**Analysis.** Buyer's misconduct relates directly to the transaction he asks equity to enforce, so unclean hands bars equitable relief. Damages may remain, though the same fraud may give Seller a defense.
+**Analysis.** Buyer's misconduct relates directly to the transaction he asks equity to enforce, so unclean hands bars equitable relief. Damages may remain under the general rule, though the same fraud may give Seller a defense; in California, unclean hands can bar the legal claim too (*Kendall-Jackson*) [S-1216].
 
 **Conclusion.** No specific performance.
 

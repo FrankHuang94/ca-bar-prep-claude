@@ -4,7 +4,7 @@ topic: Remedies — comprehensive outline (State Bar essay outline I–VI, with 
 coverage_ids: [REM-CBX-I, REM-CBX-II, REM-CBX-III, REM-CBX-III.a, REM-CBX-III.b, REM-CBX-IV, REM-CBX-V, REM-CBX-VI, REM-SUP-001, REM-SUP-002, REM-SUP-003]
 tested_on: [essay, PT]
 exam_frequency: {level: high, basis: "Essays: 16 of 31 administrations 2012-02 to 2026-07 (52%)"}
-last_verified: 2026-11-04
+last_verified: 2026-11-05
 status: draft
 ---
 
@@ -66,7 +66,7 @@ status: draft
 
 ### I.D Jury trial and procedure (R-REM-004)
 - **Federal.** The Seventh Amendment preserves jury trial for legal claims. With mixed claims, common factual issues go to the jury first (*Beacon Theatres, Inc. v. Westover*, 359 U.S. 500 (1959); *Dairy Queen, Inc. v. Wood*, 369 U.S. 469 (1962)).
-- **CA note:** the state jury right (Cal. Const., art. I, § 16) follows the historical law/equity line; equitable claims (e.g., promissory estoppel, *C & K Engineering Contractors v. Amber Steel Co.* (1978) 23 Cal.3d 1) are tried to the court [VERIFY V-362].
+- **CA note:** the state jury right (Cal. Const., art. I, § 16) follows the historical law/equity line; equitable claims (e.g., promissory estoppel, even where Π seeks money: *C & K Engineering Contractors v. Amber Steel Co.* (1978) 23 Cal.3d 1 [S-1218]) are tried to the court.
 - **Pleading in the alternative** is allowed (FRCP 8(d)); Π elects before judgment (I.E).
 
 ### I.E Election of remedies and no double recovery (R-REM-005)
@@ -113,7 +113,7 @@ status: draft
 
 #### II.B.3 Certainty (R-REM-010)
 - Fact of loss certain; amount reasonably estimable (R2d § 352; Civ. Code § 3301).
-- **Lost profits.** Established business: use history. New business: traditional bar, modern evidentiary hurdle — comparables, market data, expert testimony; California courts admit expert lost-profit projections only if the expert's method is reliable (*Sargon Enterprises, Inc. v. University of Southern California* (2012) 55 Cal.4th 747) [VERIFY V-366].
+- **Lost profits.** Established business: use history. New business: traditional bar, modern evidentiary hurdle — comparables, market data, expert testimony; California courts admit expert lost-profit projections only if the expert's method is reliable and the trial court, as gatekeeper, excludes speculative projections (*Sargon Enterprises, Inc. v. University of Southern California* (2012) 55 Cal.4th 747) [S-1213].
 - **Fallbacks:** reliance damages (R-CTR-107) or restitution (III).
 
 #### II.B.4 Mitigation / avoidable consequences (R-REM-011)
@@ -139,8 +139,8 @@ status: draft
 #### II.D.1 Land-sale contracts (R-REM-015, R-REM-016)
 | Breaching party | Non-breaching party recovers | California |
 |---|---|---|
-| Seller refuses to convey | Market value at breach − contract price, + deposit, + incidental/consequential (American rule). English rule: good-faith seller with title defect liable only for deposit + expenses (*Flureau v. Thornhill* (1776)) | Civ. Code § 3306: price paid, title/document expenses, difference between price and value at breach, expenses preparing to enter, consequential damages, interest [S-461] [VERIFY V-355] |
-| Buyer refuses to buy | Contract price − market value at breach, + incidental (resale costs); credit the deposit | Civ. Code § 3307: excess of amount due over value at breach, plus interest [S-461]; deposit forfeiture limited by § 1671 and *Freedman* [S-210] |
+| Seller refuses to convey | Market value at breach − contract price, + deposit, + incidental/consequential (American rule). English rule: good-faith seller with title defect liable only for deposit + expenses (*Flureau v. Thornhill* (1776)) | Civ. Code § 3306: price paid, title/document expenses, difference between price and value at breach, expenses preparing to enter, consequential damages, interest [S-461] [S-1221] |
+| Buyer refuses to buy | Contract price − market value at breach, + incidental (resale costs); credit the deposit | Civ. Code § 3307: excess of amount due over value at breach, plus consequential damages and interest [S-461] [S-1221]; deposit forfeiture limited by § 1671 and *Freedman* [S-210] |
 - **Alternative:** specific performance (IV.C.2); the § 3387 presumption makes it the usual buyer's remedy in California.
 
 #### II.D.2 Physical harm to land (R-REM-019)
@@ -150,7 +150,7 @@ status: draft
 #### II.D.3 Trespass, encroachment and trees (R-REM-020)
 - Trespass is actionable per se → **nominal damages** at least; actual harm; **mesne profits** (rental value) for wrongful occupation (Civ. Code § 3334 [VERIFY V-357]).
 - Permanent encroachment left in place: value of land taken or diminution of the parcel; often coupled with an equitable easement (IV.A.6).
-- **CA note:** wrongful injury to trees or timber on another's land: damages **trebled**, but only **doubled** for a casual and involuntary trespass or one made in the belief the land was Δ's own (Civ. Code § 3346 [S-460]); requires a trespass on another's land and does not reach negligently spread fires (*Scholes v. Lambirth Trucking Co.* (2020)) [VERIFY V-354].
+- **CA note:** wrongful injury to trees or timber on another's land: damages **doubled** as a minimum (mandatory) and **trebled** in the court's discretion for a willful and malicious trespass; only **doubled** for a casual or involuntary trespass or one made with probable cause to believe the land was Δ's own (Civ. Code § 3346 [S-460]; CCP § 733; CACI 2002–2003; *Gould v. Madonna* (1970) 5 Cal.App.3d 404 [S-1206] [S-1207]); requires an actual trespass on another's land and does not reach negligently spread fires (*Scholes v. Lambirth Trucking Co.* (2020) [S-460]; *Russell v. Man* (2020) [S-1208]).
 
 ### II.E Tort damages (R-REM-018 to R-REM-025)
 #### II.E.1 Personal injury (R-REM-018)
@@ -168,8 +168,8 @@ status: draft
 #### II.E.3 Fraud and misrepresentation (R-REM-023)
 | Measure | Formula | Where used |
 |---|---|---|
-| Out-of-pocket | Value given − value received (+ consequential) | Negligent misrepresentation; **California** for fraud in the purchase, sale or exchange of property (Civ. Code § 3343 [VERIFY V-351]; *Alliance Mortgage Co. v. Rothwell* (1995) 10 Cal.4th 1226 [S-453]) |
-| Benefit of the bargain | Value as represented − value received (+ consequential) | Majority for intentional fraud in a bargain (R2d Torts § 549 [VERIFY V-363]); in California, some courts allow it against a **fiduciary** (split) [S-454] [VERIFY V-351] |
+| Out-of-pocket | Value given − value received (+ consequential) | Negligent misrepresentation; **California** for fraud in the purchase, sale or exchange of property (Civ. Code § 3343; *Alliance Mortgage Co. v. Rothwell* (1995) 10 Cal.4th 1226 [S-453]) |
+| Benefit of the bargain | Value as represented − value received (+ consequential) | Majority for intentional fraud in a bargain (R2d Torts § 549 [VERIFY V-363]); in California, some courts allow it against a **fiduciary** (split: *Fragale v. Faulkner* (2003) 110 Cal.App.4th 229 [S-1201] yes; *Hensley v. McSweeney* (2001) 90 Cal.App.4th 1073 [S-1202] no) [S-454] |
 | Punitive | R-REM-026 to R-REM-030 | Intentional fraud; Civ. Code § 3294 "fraud" |
 | Alternative | Rescission + restitution (+ consequential damages in CA, § 1692) | Where Π wants out of the deal (III.B, IV.E) |
 - **How tested.** Jul 2024 Q5 (fraud in sale of autographed baseballs: damages and equitable remedies) and Feb 2017 Q2 (condo sale) [VERIFY V-071]: compare both damages measures with numbers, then rescission/restitution, then punitive damages.
@@ -193,12 +193,12 @@ status: draft
 
 #### II.F.3 California (R-REM-028 to R-REM-030)
 - **Civ. Code § 3294(a):** non-contract obligation; **clear and convincing evidence** of **oppression, fraud or malice** [S-451].
-- **§ 3294(c) definitions** [S-451] [VERIFY V-369]:
+- **§ 3294(c) definitions** [S-451] [S-1200]:
   - *malice* — conduct intended to injure, or despicable conduct carried on with willful and conscious disregard of the rights or safety of others;
   - *oppression* — despicable conduct subjecting a person to cruel and unjust hardship in conscious disregard of that person's rights;
   - *fraud* — intentional misrepresentation, deceit or concealment of a material fact known to Δ, intended to deprive a person of property or legal rights or otherwise cause injury.
 - **Employers (§ 3294(b)):** advance knowledge and conscious disregard, authorization or ratification, or personal guilt — for a corporation, by an officer, director or **managing agent** (one with substantial discretionary authority over decisions that ultimately determine corporate policy: *White v. Ultramar, Inc.* (1999) 21 Cal.4th 563 [S-452]).
-- **Predicates:** actual damages (*Cheung v. Daley* (1995) 35 Cal.App.4th 1673 [S-470]; Kizer and Mother Cobb's [VERIFY V-356]); Π must prove Δ's **financial condition** (*Adams v. Murakami* (1991) 54 Cal.3d 105 [S-464]); bifurcated financial-condition evidence on Δ's request (Civ. Code § 3295(d)) [VERIFY V-369].
+- **Predicates:** actual damages (*Cheung v. Daley* (1995) 35 Cal.App.4th 1673 [S-470]; *Kizer v. County of San Mateo* (1991) 53 Cal.3d 139; *Mother Cobb's Chicken Turnovers, Inc. v. Fox* (1937) 10 Cal.2d 203 [S-1209]); a small or nominal award can suffice where real harm was hard to measure (*Kluge v. O'Gara* (1964) 227 Cal.App.2d 207 [S-1210]); Π must prove Δ's **financial condition** (*Adams v. Murakami* (1991) 54 Cal.3d 105 [S-464]); bifurcated financial-condition evidence on Δ's request (Civ. Code § 3295(d)); pretrial discovery of it only on court order (§ 3295(c)) [S-1200].
 
 > 🇨🇳 PRC bridge: PRC 惩罚性赔偿 exists only in listed statutory settings and is usually a multiple of loss; US punitive damages are a general tort remedy, bounded by due process (approx.).
 
@@ -268,7 +268,7 @@ status: draft
 
 ### III.C Equitable restitutionary remedies: constructive and resulting trusts, equitable lien, equitable rescission, subrogation, indemnity, contribution, accounting (R-REM-044 to R-REM-054)
 #### III.C.1 Constructive trust (R-REM-044)
-- **Elements:** Δ holds **title** to specific property; obtained by **wrongful conduct** or unjust enrichment (fraud, theft/conversion, breach of fiduciary duty, mistake, undue influence); property is Π's or **traceable** to it; legal remedy inadequate (often shown by uniqueness, Δ's insolvency, or appreciation Π wants to capture); no BFP.
+- **Elements:** Δ holds **title** to specific property; obtained by **wrongful conduct** or unjust enrichment (fraud, theft/conversion, breach of fiduciary duty, mistake, undue influence); property is Π's or **traceable** to it; legal remedy inadequate (often shown by uniqueness, Δ's insolvency, or appreciation Π wants to capture; the traditional formulation, which modern authority may not require [VERIFY V-940]); no BFP.
 - **Advantages:** Π gets the asset and all **appreciation and income**; **priority** over Δ's unsecured creditors; enforceable by contempt; may reach a donee.
 - **Disadvantages:** if the asset fell in value, Π bears the loss (choose a lien); BFPs take free.
 - **Authority:** Civ. Code §§ 2223–2224 [S-463]; R3RUE § 55 [VERIFY V-350].
@@ -301,8 +301,8 @@ status: draft
 - **Essay use:** embezzled funds used to pay off Δ's mortgage → Π subrogated to the bank's first lien (useful where Δ's equity in a homestead would otherwise be protected).
 
 #### III.C.7 Indemnity and contribution (R-REM-052, R-REM-053)
-- **Indemnity** shifts the whole loss to the party primarily responsible (express contract; implied/equitable for vicarious or secondary liability). **CA note:** comparative equitable indemnity among joint tortfeasors (*American Motorcycle Assn. v. Superior Court* (1978) 20 Cal.3d 578) [VERIFY V-367].
-- **Contribution** lets a joint tortfeasor who paid more than its share recover the excess (pro rata or by comparative fault). **CA note:** CCP § 875 et seq.; a good-faith settlement bars contribution claims against the settlor (CCP § 877.6) [VERIFY V-367].
+- **Indemnity** shifts the whole loss to the party primarily responsible (express contract; implied/equitable for vicarious or secondary liability). **CA note:** comparative equitable indemnity among joint tortfeasors (*American Motorcycle Assn. v. Superior Court* (1978) 20 Cal.3d 578) [S-1214].
+- **Contribution** lets a joint tortfeasor who paid more than its share recover the excess (pro rata or by comparative fault). **CA note:** CCP § 875 et seq.; a court-determined good-faith settlement bars other tortfeasors' claims against the settling tortfeasor for comparative contribution or partial/comparative indemnity (CCP § 877.6(c)) [S-1215].
 
 #### III.C.8 Accounting (R-REM-054)
 - Equitable order requiring a fiduciary (trustee, partner, agent) or a party with complex accounts to account for receipts and disgorge profits. Often paired with a constructive trust on profits.
@@ -352,7 +352,7 @@ status: draft
 - **Definition.** A final order after trial on the merits, **prohibitory** (stop) or **mandatory** (act). Grounds in California: Civ. Code § 3422 (damages inadequate; compensation extremely difficult to ascertain; necessary to prevent a multiplicity of proceedings; obligation arising from a trust) [S-458]; CCP § 526.
 - **Essay elements — I-P-F-B-D** (R-REM-055): Inadequate legal remedy; Protectable interest; Feasibility; Balancing of hardships (and public interest); no Defenses.
 - **Federal test** (*eBay*, 547 U.S. 388 (2006); R-REM-056): irreparable injury; inadequate legal remedies; balance of hardships; public interest not disserved.
-- **Statutory limits (CA):** Civ. Code § 3423 lists cases where injunctions may not issue, including staying a pending judicial proceeding (except to prevent a multiplicity of proceedings) and preventing breach of a contract that would not be specifically enforced (subject to the personal-service exception in § 3423(e)) [S-459] [VERIFY V-352].
+- **Statutory limits (CA):** Civ. Code § 3423 lists cases where injunctions may not issue, including staying a pending judicial proceeding (except to prevent a multiplicity of proceedings) and preventing breach of a contract that would not be specifically enforced (subject to the personal-service exception in § 3423(e)) [S-459] [S-1204].
 
 #### IV.A.1 Inadequate legal remedy / irreparable harm (R-REM-057)
 - Unique subject matter (land, art, heirlooms); speculative or unmeasurable harm (goodwill, environmental, aesthetic, constitutional rights); continuing harm (multiplicity of suits); Δ insolvent (split); irreversible harm (demolition, felling a tree).
@@ -379,7 +379,7 @@ status: draft
 | **Trespass (continuing)** | Injunction against repeated entries; damages inadequate because of multiplicity | Civ. Code § 3422 [S-458] |
 | **Waste / trees** | Injunction to prevent irreparable destruction (timber, historic structures); damages multiplied for trees in CA (§ 3346) | [S-460] |
 | **Speech / defamation** | No pre-trial injunction (prior restraint); California allows a narrow post-trial injunction against repeating statements adjudicated defamatory (R-REM-063) | *Balboa Island Village Inn, Inc. v. Lemen* (2007) 40 Cal.4th 1141 [S-476] |
-| **Personal services** | No SP; negative injunction possible for unique services during the term (*Lumley v. Wagner* (1852)); in California only for qualifying written contracts with minimum compensation (Civ. Code § 3423(e)) (R-REM-064) | [S-459] [VERIFY V-352] |
+| **Personal services** | No SP; negative injunction possible for unique services during the term (*Lumley v. Wagner* (1852)); in California only for qualifying written contracts with minimum compensation (Civ. Code § 3423(e)); no end run by enjoining the new employer (*Beverly Glen Music, Inc. v. Warner Communications, Inc.* (1986) 178 Cal.App.3d 1142) (R-REM-064) | [S-459] [S-1203] [S-1204] |
 | **Non-competes** | California voids post-employment non-competes (Bus. & Prof. Code § 16600; R-CTR-041); trade-secret injunctions remain available | Contracts folder |
 | **Government action** | Injunction against enforcement of an unconstitutional law; pair with declaratory relief (*Steffel v. Thompson*, 415 U.S. 452 (1974)) | VI.A |
 
@@ -399,7 +399,7 @@ status: draft
 
 #### IV.B.3 California standard (R-REM-067)
 - **Two interrelated factors:** likelihood Π will prevail on the merits, and the **relative interim harm** to the parties; a stronger showing on one lessens the showing needed on the other (*IT Corp. v. County of Imperial* (1983) 35 Cal.3d 63 [S-455]); but some possibility of success on the merits is always required (*Butt v. State of California* (1992) 4 Cal.4th 668 [S-456]).
-- **TRO (CCP § 527):** may issue on a verified complaint or affidavit showing great or irreparable injury before the matter can be heard on notice; the OSC re: preliminary injunction must be heard within **15 days** (up to **22** for good cause) [S-457] [VERIFY V-353]; ex parte notice under the Rules of Court [VERIFY V-353].
+- **TRO (CCP § 527):** may issue on a verified complaint or affidavit showing great or irreparable injury before the matter can be heard on notice; the applicant certifies under oath that it gave notice, tried in good faith to do so, or why notice should be excused (§ 527(c)); the OSC re: preliminary injunction must be heard within **15 days** (up to **22** for good cause), with service within 5 days of issuance or 2 days before the hearing, whichever is earlier (§ 527(d)) [S-457] [S-1205].
 - **Undertaking mandatory** (CCP § 529) [S-478].
 - **Essay tip:** state the general four factors, then "In California, courts weigh likelihood of success and relative interim harm on a sliding scale (*IT Corp.*)."
 
@@ -442,7 +442,7 @@ status: draft
 ### IV.E Rescission and cancellation (R-REM-043, R-REM-076, R-REM-077)
 - **Grounds:** fraud or material misrepresentation; mutual mistake on a basic assumption; unilateral mistake (R2d § 153); duress; undue influence; incapacity; material breach; mutual agreement (R-CTR-105).
 - **Requirements:** prompt notice; restoration or offer to restore; court decree (equitable) or tender and suit (legal). **CA note:** §§ 1689, 1691, 1692 [S-462].
-- **Insurance (CA):** insurer may rescind for concealment, intentional or unintentional (Ins. Code § 331), or a representation false in a material point (§ 359) [S-471] [VERIFY V-364]; materiality judged by the probable effect on the insurer's decision; premiums returned; waiver/estoppel if the insurer accepted premiums after learning the truth (R-REM-076).
+- **Insurance (CA):** insurer may rescind for concealment, intentional or unintentional (Ins. Code § 331), or a representation false in a material point (§ 359) [S-471] [S-1211]; materiality judged subjectively by the probable and reasonable effect on the particular insurer's decision (§ 334) [S-1212]; premiums returned; waiver/estoppel if the insurer accepted premiums after learning the truth (R-REM-076).
 - **Cancellation of instruments:** Civ. Code § 3412 [VERIFY V-368] (R-REM-077).
 
 ### IV.F Contempt enforcement and scope of decrees (R-REM-078 to R-REM-080)
@@ -453,7 +453,7 @@ status: draft
 | Criminal | Punish completed defiance | Fixed fine or jail | Criminal protections; proof beyond reasonable doubt; jury for serious penalties (*Int'l Union, UMWA v. Bagwell*, 512 U.S. 821 (1994)) |
 - **Elements:** valid and clear order, knowledge, ability to comply, willful disobedience.
 - **CA note:** CCP § 1209 (contempts), § 1218 (fine up to $1,000 and up to 5 days per act) [S-473]; § 1219 (coercive imprisonment until an act within the person's power is performed) [VERIFY V-358].
-- **Collateral bar** (*Walker v. City of Birmingham*, 388 U.S. 307 (1967)): in federal court Δ must obey an order issued with jurisdiction and challenge it on appeal; **CA note:** California permits a challenge to a void (e.g., unconstitutional) order in the contempt proceeding (*In re Berry* (1968) 68 Cal.2d 137) [VERIFY V-358].
+- **Collateral bar** (*United States v. United Mine Workers*, 330 U.S. 258 (1947); *Walker v. City of Birmingham*, 388 U.S. 307 (1967), upholding a state's use of the rule): Δ must obey an order issued with jurisdiction and challenge it on appeal; **CA note:** California permits a challenge to a void (e.g., unconstitutional) order in the contempt proceeding (*In re Berry* (1968) 68 Cal.2d 137) [S-1219].
 - **Who is bound** (FRCP 65(d)(2)): parties; their officers, agents, servants, employees, attorneys; persons in active concert — with actual notice. **Form:** reasons, specific terms, reasonable detail, no incorporation by reference (65(d)(1)).
 - **Scope:** no broader than necessary for complete relief to the plaintiffs; federal courts may not issue universal injunctions (*Trump v. CASA, Inc.* (2025)) [VERIFY V-035].
 
@@ -466,7 +466,7 @@ status: draft
 | Defense | Elements | Bars | Authority / rule |
 |---|---|---|---|
 | **Laches** | Π knew or should have known; unreasonable delay; prejudice to Δ | Equitable relief (not legal damages within the limitations period) | R-REM-081, R-REM-090; *Petrella v. MGM*, 572 U.S. 663 (2014) |
-| **Unclean hands** | Π's inequitable conduct directly related to the claim | Equitable relief (CA: some legal claims too [VERIFY V-370]) | R-REM-082 |
+| **Unclean hands** | Π's inequitable conduct directly related to the claim | Equitable relief (CA: legal claims too, *Kendall-Jackson Winery, Ltd. v. Superior Court* (1999) 76 Cal.App.4th 970 [S-1216]) | R-REM-082 |
 | **In pari delicto** | Illegal transaction; equal fault | Enforcement and restitution | R-REM-083 |
 | **Estoppel** | Representation or conduct; reasonable detrimental reliance | Any remedy inconsistent with the representation | R-REM-084; Evid. Code § 623 |
 | **Waiver** | Intentional relinquishment of a known right | The waived right | R-REM-085; Civ. Code § 3516 |
@@ -526,6 +526,6 @@ status: draft
 ### VI.D Nominal damages (R-REM-094)
 - A trivial sum (e.g., $1) for violation of a right without proven loss: trespass, battery, breach of contract, constitutional violations (Civ. Code § 3360; R2d § 346(2)). Not available for negligence (actual damage is an element).
 - Nominal damages redress a completed injury for Article III standing (*Uzuegbunam v. Preczewski*, 592 U.S. 279 (2021)).
-- **CA note:** nominal damages alone do not support punitive damages [VERIFY V-356].
+- **CA note:** a nominal award reflecting no actual harm likely does not support punitive damages; a small award given because real harm was hard to measure may (R-REM-030) [S-1209] [S-1210].
 
 > 🇨🇳 PRC bridge: a US declaratory judgment resembles a PRC 确认之诉; nominal damages have no PRC counterpart, since PRC compensation requires actual loss (approx.).

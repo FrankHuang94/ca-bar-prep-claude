@@ -4,7 +4,7 @@ topic: Remedies — key authorities (statutes, rules, Restatement sections, case
 coverage_ids: [REM-CBX-I, REM-CBX-II, REM-CBX-III, REM-CBX-III.a, REM-CBX-III.b, REM-CBX-IV, REM-CBX-V, REM-CBX-VI, REM-SUP-001, REM-SUP-002, REM-SUP-003]
 tested_on: [essay, PT]
 exam_frequency: {level: high, basis: "Essays: 16 of 31 administrations 2012-02 to 2026-07 (52%)"}
-last_verified: 2026-11-04
+last_verified: 2026-11-05
 status: draft
 ---
 
@@ -69,14 +69,14 @@ status: draft
 | 3281–3283 | Damages defined; detriment; future detriment | R-REM-007, R-REM-013 |
 | 3287, 3288 | Prejudgment interest [VERIFY V-359] | R-REM-034 |
 | 3294 | Punitive damages: clear and convincing evidence of oppression, fraud or malice; employer rule; definitions [S-451] | R-REM-028, R-REM-029 |
-| 3295(d) | Bifurcation of financial-condition evidence [VERIFY V-369] | R-REM-028 |
+| 3295(c), (d) | Financial-condition evidence: discovery only by court order (c); admitted only after a verdict for actual damages and a finding of oppression, fraud or malice, on Δ's application (d) [S-1200] | R-REM-028 |
 | 3300, 3301 | Contract damages measure; certainty | R-REM-009, R-REM-010 |
-| 3306, 3307 | Land-sale damages for buyer and seller [S-461] [VERIFY V-355] | R-REM-015, R-REM-016 |
+| 3306, 3307 | Land-sale damages for buyer and seller [S-461] [S-1221] | R-REM-015, R-REM-016 |
 | 3333 | Tort damages: all detriment proximately caused [S-469] | R-REM-007, R-REM-009 |
 | 3334 | Wrongful occupation of real property [VERIFY V-357] | R-REM-020, R-REM-042 |
 | 3336 | Conversion damages [S-468] [VERIFY V-357] | R-REM-021 |
-| 3343 | Fraud in property transactions: out-of-pocket [VERIFY V-351] | R-REM-023 |
-| 3346 | Trees and timber: treble or double damages [S-460] [VERIFY V-354] | R-REM-020 |
+| 3343 | Fraud in property transactions: out-of-pocket (fiduciary split) [S-453] [S-454] | R-REM-023 |
+| 3346 | Trees and timber: double damages mandatory; treble discretionary for willful and malicious trespass (with CCP § 733) [S-460] [S-1206] [S-1207] | R-REM-020 |
 | 3355 | Peculiar value of property [VERIFY V-357] | R-REM-021 |
 | 3358, 3360 | No more than full performance; nominal damages | R-REM-007, R-REM-094 |
 | 3386, 3390 | Mutuality; obligations not specifically enforceable [VERIFY V-108] | R-REM-064, R-REM-070 |
@@ -85,22 +85,22 @@ status: draft
 | 3399 | Reformation | R-REM-075 |
 | 3412 | Cancellation of instruments [VERIFY V-368] | R-REM-077 |
 | 3422 | Grounds for a final injunction [S-458] | R-REM-055, R-REM-057 |
-| 3423 | When injunctions cannot be granted; personal-service exception (e) [S-459] [VERIFY V-352] | R-REM-064 |
+| 3423 | When injunctions cannot be granted; personal-service exception (e) [S-459] [S-1204] | R-REM-064 |
 | 3516 | Acquiescence in error takes away the right of objecting | R-REM-085 |
 
 ## 5. Other California statutes
 | Authority | Rule | Rule ID |
 |---|---|---|
 | CCP §§ 511.010, 512.010 | Claim and delivery; writ of possession on probable validity [S-475] | R-REM-041 |
-| CCP §§ 526, 527, 529 | Injunction grounds; TRO and OSC timing [S-457] [VERIFY V-353]; mandatory undertaking [S-478] | R-REM-067, R-REM-068 |
+| CCP §§ 526, 527, 529 | Injunction grounds; TRO notice certification, OSC timing and service [S-457] [S-1205]; mandatory undertaking [S-478] | R-REM-067, R-REM-068 |
 | CCP § 533 | Modification or dissolution of injunction [VERIFY V-365] | R-REM-088 |
 | CCP §§ 760.010 et seq. | Quiet title [VERIFY V-368] | R-REM-093 |
-| CCP §§ 875 et seq., 877.6 | Contribution; good-faith settlement [VERIFY V-367] | R-REM-053 |
+| CCP §§ 875 et seq., 877.6 | Contribution; good-faith settlement bars comparative contribution and indemnity claims against the settlor [S-1215] | R-REM-053 |
 | CCP §§ 1021, 1021.5 | American rule; private attorney general fees | R-REM-033 |
 | CCP §§ 1060, 1061 | Declaratory relief; discretion to refuse [S-467] | R-REM-091, R-REM-092 |
 | CCP §§ 1209, 1218, 1219 | Contempt; penalties [S-473]; coercive imprisonment [VERIFY V-358] | R-REM-078 |
 | CCP § 405.20 | Lis pendens [VERIFY V-360] | R-REM-074 |
-| Ins. Code §§ 331, 359 | Insurance rescission for concealment or material misrepresentation [S-471] [VERIFY V-364] | R-REM-076 |
+| Ins. Code §§ 331, 334, 359 | Insurance rescission for concealment or material misrepresentation; subjective materiality test (§ 334) [S-471] [S-1211] | R-REM-076 |
 | Evid. Code § 623 | Estoppel by own statement or conduct | R-REM-084 |
 | Bus. & Prof. Code § 16600 | Non-compete covenants void | R-REM-064 |
 
@@ -118,7 +118,8 @@ status: draft
 | *Exxon Shipping Co. v. Baker*, 554 U.S. 471 (2008) | 1:1 ratio cap under maritime law | R-REM-027 |
 | *Beacon Theatres, Inc. v. Westover*, 359 U.S. 500 (1959); *Dairy Queen, Inc. v. Wood*, 369 U.S. 469 (1962) | Legal issues tried to the jury first | R-REM-004 |
 | *Int'l Union, United Mine Workers v. Bagwell*, 512 U.S. 821 (1994) | Civil vs. criminal contempt | R-REM-078 |
-| *Walker v. City of Birmingham*, 388 U.S. 307 (1967) | Collateral bar rule | R-REM-079 |
+| *United States v. United Mine Workers*, 330 U.S. 258 (1947) | Collateral bar rule in federal court | R-REM-079 |
+| *Walker v. City of Birmingham*, 388 U.S. 307 (1967) | Upheld a state court's use of the collateral bar rule | R-REM-079 |
 | *Rufo v. Inmates of Suffolk County Jail*, 502 U.S. 367 (1992) | Modification of decrees for significant change | R-REM-088 |
 | *Petrella v. Metro-Goldwyn-Mayer, Inc.*, 572 U.S. 663 (2014); *SCA Hygiene Products v. First Quality Baby Products*, 580 U.S. 328 (2017) | Laches cannot bar legal relief within the limitations period | R-REM-090 |
 | *MedImmune, Inc. v. Genentech, Inc.*, 549 U.S. 118 (2007) | Actual-controversy test for declaratory judgments | R-REM-092 |
@@ -136,7 +137,10 @@ status: draft
 | *Adams v. Murakami* (1991) 54 Cal.3d 105 [S-464] | Π must prove Δ's financial condition for punitive damages | R-REM-030 |
 | *White v. Ultramar, Inc.* (1999) 21 Cal.4th 563 [S-452] | "Managing agent" for § 3294(b) | R-REM-029 |
 | *Cheung v. Daley* (1995) 35 Cal.App.4th 1673 [S-470] | Actual damages predicate for punitive damages | R-REM-030 |
+| *Kizer v. County of San Mateo* (1991) 53 Cal.3d 139; *Mother Cobb's Chicken Turnovers, Inc. v. Fox* (1937) 10 Cal.2d 203 [S-1209] | Actual damages an absolute predicate for punitive damages | R-REM-030 |
+| *Kluge v. O'Gara* (1964) 227 Cal.App.2d 207 [S-1210] | Small or nominal award can support punitive damages where real harm was hard to measure | R-REM-030, R-REM-094 |
 | *Alliance Mortgage Co. v. Rothwell* (1995) 10 Cal.4th 1226 [S-453] | Fraud in property transactions: out-of-pocket under § 3343 | R-REM-023 |
+| *Fragale v. Faulkner* (2003) 110 Cal.App.4th 229 [S-1201]; *Hensley v. McSweeney* (2001) 90 Cal.App.4th 1073 [S-1202] | Split: fiduciary fraud measured under § 3333 (*Fragale*) vs. out-of-pocket (*Hensley*) | R-REM-023 |
 | *Helfend v. Southern Cal. Rapid Transit Dist.* (1970) 2 Cal.3d 1 [S-472] | Collateral source rule | R-REM-012 |
 | *Howell v. Hamilton Meats & Provisions, Inc.* (2011) 52 Cal.4th 541 [S-472] | Past medical damages limited to amounts paid or incurred | R-REM-012 |
 | *Heninger v. Dunn* (1980) 101 Cal.App.3d 858 [S-477] | Restoration cost above diminution for personal reasons | R-REM-019 |
@@ -148,11 +152,14 @@ status: draft
 | *Erlich v. Menezes* (1999) 21 Cal.4th 543 | No emotional-distress damages for negligent home construction | R-REM-025 |
 | *Robinson Helicopter Co., Inc. v. Dana Corp.* (2004) 34 Cal.4th 979 | Economic loss rule; fraud exception | R-REM-032 |
 | *Rattagan v. Uber Technologies, Inc.* (2024) 17 Cal.5th 1 [S-132] | Fraudulent concealment during performance actionable in tort | R-REM-032 |
-| *Scholes v. Lambirth Trucking Co.* (2020) [S-460] | § 3346 does not reach negligently spread fires [VERIFY V-354] | R-REM-020 |
-| *Sargon Enterprises, Inc. v. University of Southern California* (2012) 55 Cal.4th 747 | Reliability of lost-profit projections [VERIFY V-366] | R-REM-010 |
-| *C & K Engineering Contractors v. Amber Steel Co.* (1978) 23 Cal.3d 1 | Promissory estoppel equitable; no jury [VERIFY V-362] | R-REM-004 |
-| *American Motorcycle Assn. v. Superior Court* (1978) 20 Cal.3d 578 | Comparative equitable indemnity [VERIFY V-367] | R-REM-052 |
-| *In re Berry* (1968) 68 Cal.2d 137 | Void order may be challenged in contempt proceeding [VERIFY V-358] | R-REM-079 |
+| *Scholes v. Lambirth Trucking Co.* (2020) [S-460] | § 3346 does not reach negligently spread fires | R-REM-020 |
+| *Gould v. Madonna* (1970) 5 Cal.App.3d 404 [S-1207] | § 3346: double damages mandatory | R-REM-020 |
+| *Sargon Enterprises, Inc. v. University of Southern California* (2012) 55 Cal.4th 747 | Trial court as gatekeeper excludes speculative expert lost-profit testimony [S-1213] | R-REM-010 |
+| *C & K Engineering Contractors v. Amber Steel Co.* (1978) 23 Cal.3d 1 | Promissory estoppel equitable; no jury even when money is sought [S-1218] | R-REM-004 |
+| *American Motorcycle Assn. v. Superior Court* (1978) 20 Cal.3d 578 | Comparative equitable indemnity [S-1214] | R-REM-052, R-REM-053 |
+| *In re Berry* (1968) 68 Cal.2d 137 [S-1219] | Void (e.g., unconstitutional) order may be challenged in contempt proceeding | R-REM-079 |
+| *Beverly Glen Music, Inc. v. Warner Communications, Inc.* (1986) 178 Cal.App.3d 1142 [S-1203] | No injunction against the new employer where § 3423(e) bars one against the performer | R-REM-064 |
+| *Kendall-Jackson Winery, Ltd. v. Superior Court* (1999) 76 Cal.App.4th 970 [S-1216] | Unclean hands available in legal as well as equitable actions | R-REM-002, R-REM-082 |
 
 ## 8. Other leading cases
 | Case | Holding / rule (one line) | Rule ID |

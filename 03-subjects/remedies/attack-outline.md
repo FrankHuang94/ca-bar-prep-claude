@@ -4,7 +4,7 @@ topic: Remedies — exam-day attack outline
 coverage_ids: [REM-CBX-I, REM-CBX-II, REM-CBX-III, REM-CBX-III.a, REM-CBX-III.b, REM-CBX-IV, REM-CBX-V, REM-CBX-VI, REM-SUP-001, REM-SUP-002, REM-SUP-003]
 tested_on: [essay, PT]
 exam_frequency: {level: high, basis: "Essays: 16 of 31 administrations 2012-02 to 2026-07 (52%)"}
-last_verified: 2026-11-04
+last_verified: 2026-11-05
 status: draft
 ---
 
@@ -23,7 +23,7 @@ status: draft
 - **Tort measures:**
   - Personal injury [R-REM-018]: economic + non-economic; eggshell plaintiff.
   - Land [R-REM-019]: lesser of diminution or restoration; personal-reason exception (*Heninger*).
-  - Trespass [R-REM-020]: nominal + harm + rental value; CA § 3346 trees ×3 (×2 if casual/involuntary).
+  - Trespass [R-REM-020]: nominal + harm + rental value; CA § 3346 trees ×2 mandatory, ×3 discretionary if willful and malicious (×2 only if casual/involuntary).
   - Conversion [R-REM-021]: FMV at conversion + interest (forced sale).
   - Fraud [R-REM-023]: out-of-pocket vs. benefit of bargain; CA § 3343 out-of-pocket in property deals.
   - Nuisance [R-REM-024]: permanent (diminution) vs. continuing (past harm + injunction).
@@ -64,7 +64,7 @@ status: draft
 
 ## IV. Equitable defenses [R-REM-081 to R-REM-090]
 - **Laches:** knew + unreasonable delay + prejudice; not a bar to damages within the SOL.
-- **Unclean hands:** Π's misconduct in the same transaction.
+- **Unclean hands:** Π's misconduct in the same transaction (CA: can bar legal claims too).
 - **In pari delicto:** equally guilty in an illegal deal.
 - **Estoppel:** representation + reasonable detrimental reliance. **Waiver:** knowing relinquishment.
 - **Undue hardship:** disproportionate burden; not for willful Δ.

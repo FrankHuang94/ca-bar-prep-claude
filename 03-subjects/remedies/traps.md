@@ -4,7 +4,7 @@ topic: Remedies — traps and commonly confused rules
 coverage_ids: [REM-CBX-I, REM-CBX-II, REM-CBX-III, REM-CBX-III.a, REM-CBX-III.b, REM-CBX-IV, REM-CBX-V, REM-CBX-VI, REM-SUP-001, REM-SUP-002, REM-SUP-003]
 tested_on: [essay, PT]
 exam_frequency: {level: high, basis: "Essays: 16 of 31 administrations 2012-02 to 2026-07 (52%)"}
-last_verified: 2026-11-04
+last_verified: 2026-11-05
 status: draft
 ---
 
@@ -24,7 +24,7 @@ Each item gives the trap, the correct rule, and the rule ID. Remedies is not on 
 7. **Forgetting the four limits.** Each item of damages needs causation, foreseeability, certainty and mitigation, each in a sentence or two (R-REM-008 to R-REM-011).
 8. **Mitigation burden on Π.** The defendant must prove Π could have avoided the loss; reasonable mitigation costs are recoverable even if the effort failed (R-REM-011).
 9. **Automatic restoration cost for harm to land.** The general rule is the lesser of diminution and restoration; restoration above diminution needs a personal reason (R-REM-019).
-10. **Missing the California tree statute.** Cutting or damaging trees on another's land triggers multiple damages under Civ. Code § 3346 (R-REM-020).
+10. **Missing the California tree statute.** Cutting or damaging trees on another's land triggers multiple damages under Civ. Code § 3346: double is mandatory; treble is discretionary and needs a willful and malicious trespass (R-REM-020).
 11. **One measure for fraud.** Give out-of-pocket and benefit-of-the-bargain figures; in California, § 3343 limits property-transaction fraud to out-of-pocket unless the defendant is a fiduciary (split) (R-REM-023).
 12. **Permanent vs. continuing nuisance confused.** Permanent: one award of diminution in value. Continuing: past damages plus an injunction or later suits (R-REM-024).
 13. **Recovering billed medical expenses in California.** *Howell* limits past medical damages to amounts paid or incurred; the collateral source rule still bars credit for insurance (R-REM-012).
@@ -33,7 +33,7 @@ Each item gives the trap, the correct rule, and the rule ID. Remedies is not on 
 14. **Punitive damages for breach of contract.** Never for breach alone, however willful; look for an independent tort (fraud) (R-REM-031, R-REM-032).
 15. **Preponderance standard in California.** Section 3294 requires clear and convincing evidence of oppression, fraud or malice (R-REM-028).
 16. **Corporate punitive damages without a managing agent.** Ratification or authorization must come from an officer, director or managing agent (substantial discretionary authority over corporate policy), not just a supervisor who can hire and fire (R-REM-029).
-17. **No evidence of financial condition.** In California, Π must introduce it, or the award fails (*Adams*) (R-REM-030).
+17. **No evidence of financial condition.** In California, Π must introduce it, or the award fails (*Adams*). Actual damages are also a predicate; a bare nominal award reflecting no real harm likely will not do (R-REM-030).
 18. **Ignoring the ratio.** If the facts give a punitive figure, test it against the single-digit guidance and the *Gore* guideposts (R-REM-027).
 
 ## Restitution
@@ -62,6 +62,6 @@ Each item gives the trap, the correct rule, and the rule ID. Remedies is not on 
 
 ## Defenses and declaratory relief
 39. **Laches without prejudice.** Delay alone is not laches; the defendant must show prejudice. Laches generally does not bar damages filed within the limitations period (R-REM-081, R-REM-090).
-40. **Unclean hands from unrelated misconduct.** The misconduct must relate to the same transaction (R-REM-082).
+40. **Unclean hands from unrelated misconduct.** The misconduct must relate to the same transaction. In California the defense can bar legal claims too (R-REM-082).
 41. **Estoppel vs. waiver.** Estoppel needs detrimental reliance; waiver does not (R-REM-084, R-REM-085).
 42. **Declaratory relief on a hypothetical.** It needs an actual, ripe controversy between adverse parties (R-REM-092).

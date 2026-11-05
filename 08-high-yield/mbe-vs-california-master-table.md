@@ -67,9 +67,9 @@ Chosen by how often the subject and the issue appear on California essays: PR 30
 | 9 | **EVD — employee statements** | Within scope = not hearsay (801(d)(2)(D)) | Only if authorized (§ 1222) or derivative liability (§ 1224) [VERIFY V-401] | "Admissible under the FRE; under the CEC only if authorized." | R-EVD-090 | Party admissions tagged in 2 |
 | 10 | **EVD — hearsay gaps** | PSI 803(1); medical 803(4); treatise 803(18); residual 807 | No general PSI (§ 1241); medical only child-abuse victim < 12 (§ 1253); treatise only to cross (§ 721(b)); no catch-all | One line: "the FRE would admit it" | R-EVD-093, R-EVD-097, R-EVD-101, R-EVD-107 | Hearsay most-tagged Evidence issue |
 | 11 | **EVD — writings** | Best evidence rule (1002–1004) | Secondary evidence rule (§§ 1521, 1523) | "California replaced the BER." | R-EVD-078, R-EVD-080 | Original-writing rule tagged in 2 |
-| 12 | **REM — punitive damages** | Malice or recklessness | Clear and convincing evidence of oppression, fraud or malice; managing agent; D's financial condition; never for contract (Civ. Code § 3294; *Adams*) [VERIFY V-369] | Always add the § 3294 sentence | R-REM-028, R-REM-029, R-REM-030 | Legal remedies tagged in 5 |
+| 12 | **REM — punitive damages** | Malice or recklessness | Clear and convincing evidence of oppression, fraud or malice; managing agent; D's financial condition; never for contract (Civ. Code § 3294; *Adams*) | Always add the § 3294 sentence | R-REM-028, R-REM-029, R-REM-030 | Legal remedies tagged in 5 |
 | 13 | **REM — SP of land** | Land unique | Presumption, **conclusive** for a single-family home the buyer will occupy (Civ. Code § 3387); fairness bar (§ 3391) | Say whether it is that kind of home | R-REM-071, R-REM-087 | Equitable remedies tagged in 8 |
-| 14 | **REM — PI / TRO in state court** | *Winter* four factors; FRCP 65(b) | *IT Corp.* two-factor sliding scale (*Butt*); OSC in 15 days (22 for cause); undertaking mandatory (CCP §§ 527, 529) [VERIFY V-353] | *Winter*, then the *IT Corp.* sentence | R-REM-066, R-REM-067, R-REM-068 | Provisional relief tagged in 3 |
+| 14 | **REM — PI / TRO in state court** | *Winter* four factors; FRCP 65(b) | *IT Corp.* two-factor sliding scale (*Butt*); OSC in 15 days (22 for cause); undertaking mandatory (CCP §§ 527, 529) | *Winter*, then the *IT Corp.* sentence | R-REM-066, R-REM-067, R-REM-068 | Provisional relief tagged in 3 |
 | 15 | **CTR — parol evidence** | Integration tests (R2d § 216; UCC 2-202) | *PG&E* reasonably susceptible; *Masterson*; fraud evidence even if contradictory (*Riverisland*) | General rule, then the California paragraph | R-CTR-049, R-CTR-052 | Feb 2026 Q2 |
 | 16 | **CTR — liquidated damages** | Reasonable forecast; penalty void (R2d § 356) | Presumed valid; challenger proves unreasonable (Civ. Code § 1671(b)) [VERIFY V-107] | "Burden is on the challenger." | R-CTR-096, R-REM-017 | Damages tagged in 7 |
 | 17 | **TRT — apportionment** | Joint and several (MBE default) | Several only for non-economic damages (Prop 51, Civ. Code § 1431.2); pure comparative (*Li*) | Split economic / non-economic | R-TRT-042, R-TRT-070 | Negligence tagged in 3 |
@@ -255,24 +255,26 @@ Source: [`../03-subjects/criminal-law-procedure/ca-distinctions.md`](../03-subje
 
 Source: [`../03-subjects/remedies/ca-distinctions.md`](../03-subjects/remedies/ca-distinctions.md). Not on the MBE; contract-damages basics are tested in MBE Contracts.
 
-**Same in both:** restitution and tracing (lowest intermediate balance; BFP); reformation (Civ. Code § 3399); laches; unclean hands; estoppel; nominal damages; contract damages generally.
+**Differs on unclean hands:** in California the defense can bar legal (damages) claims as well as equitable ones (*Kendall-Jackson*; R-REM-082).
+
+**Same in both:** restitution and tracing (lowest intermediate balance; BFP); reformation (Civ. Code § 3399); laches; estoppel; nominal damages; contract damages generally.
 
 | Issue | General / majority rule | California rule | What to write on the essay | Rule IDs |
 |---|---|---|---|---|
 | Punitive damages | Malice or reckless conduct | § 3294: clear and convincing evidence of oppression, fraud or malice; managing-agent rule; financial condition (*Adams*); never for contract | Always add § 3294 | R-REM-026, R-REM-028, R-REM-029, R-REM-030, R-REM-031 |
-| Fraud damages in a property transaction | Benefit of the bargain (majority) or out-of-pocket | **Out-of-pocket** plus additional damages (Civ. Code § 3343) [VERIFY V-351]; benefit of the bargain possible against a fiduciary | Compute both, then § 3343 | R-REM-023 |
-| Injury to trees | Value or restoration | Treble damages; double for casual or involuntary trespass (Civ. Code § 3346) [VERIFY V-354] | Add whenever trees are cut | R-REM-020 |
+| Fraud damages in a property transaction | Benefit of the bargain (majority) or out-of-pocket | **Out-of-pocket** plus additional damages (Civ. Code § 3343); benefit of the bargain possible against a fiduciary | Compute both, then § 3343 | R-REM-023 |
+| Injury to trees | Value or restoration | At least double damages; trebling is discretionary and requires a willful and malicious trespass (Civ. Code § 3346; CCP § 733) | Add whenever trees are cut | R-REM-020 |
 | Conversion | Value at conversion + interest | Same, or proximate loss, plus compensation for time and money spent pursuing the property (Civ. Code § 3336) [VERIFY V-357] | Mention the pursuit add-on | R-REM-021 |
 | Liquidated damages | Reasonable forecast; penalty void | Presumed valid (Civ. Code § 1671(b)) [VERIFY V-107] | § 1671(b) burden sentence | R-REM-017 |
 | Rescission + damages | Election: inconsistent remedies (UCC 2-721 allows both for fraud) | Unified rescission: notice + restore (§ 1691); damages, incl. consequential, not inconsistent (§ 1692) | Add § 1692 | R-REM-005, R-REM-043 |
 | Unjust enrichment as a claim | Recognized cause of action (R3RUE § 1) | Courts of Appeal split [VERIFY V-361] | Plead quasi-contract or constructive trust | R-REM-035 |
 | SP of land; fairness | Land unique; gross inadequacy may bar SP | § 3387 presumption; § 3391 adequate consideration, just and reasonable | Top 25 #13 | R-REM-071, R-REM-087 |
-| Personal services | No SP; negative injunction for unique services (*Lumley*) | Negative injunction only for a **written** contract for unique services meeting minimum-compensation conditions (Civ. Code § 3423(e)) [VERIFY V-352] | Deny SP; then § 3423(e) | R-REM-064 |
+| Personal services | No SP; negative injunction for unique services (*Lumley*) | Negative injunction only for a **written** contract for unique services meeting minimum-compensation conditions (Civ. Code § 3423(e)) | Deny SP; then § 3423(e) | R-REM-064 |
 | Post-employment non-competes | Enforced if reasonable | Void (B&P § 16600); injunction only for trade-secret misuse | Say the covenant is void | R-CTR-041 |
 | Preliminary injunction | *Winter* four factors | *IT Corp.* two-factor sliding scale; some possibility of success (*Butt*) | Top 25 #14 | R-REM-066, R-REM-067 |
-| TRO | Ex parte with specific facts and certification; ≤ 14 days (FRCP 65(b)) | Verified complaint or affidavit; OSC within 15 days (22 for good cause); undertaking mandatory (CCP §§ 527, 529) [VERIFY V-353] | Forum's rule | R-REM-065, R-REM-067, R-REM-068 |
+| TRO | Ex parte with specific facts and certification; ≤ 14 days (FRCP 65(b)) | Verified complaint or affidavit; OSC within 15 days (22 for good cause); undertaking mandatory (CCP §§ 527, 529) | Forum's rule | R-REM-065, R-REM-067, R-REM-068 |
 | Encroachments | Relative hardship: damages instead of removal | Same, and the court may create an **equitable easement** on payment (innocence; no irreparable injury; greatly disproportionate hardship) | Apply the three factors | R-REM-061 |
-| Insurance rescission | Material misrepresentation, often intent | Concealment, intentional or unintentional, or material false representation (Ins. Code §§ 331, 359) [VERIFY V-364] | Cite §§ 331, 359 | R-REM-076 |
+| Insurance rescission | Material misrepresentation, often intent | Concealment, intentional or unintentional, or material false representation (Ins. Code §§ 331, 359) | Cite §§ 331, 359 | R-REM-076 |
 
 ### 3.8 Business Associations — MBCA / Delaware / uniform acts vs. Corporations Code
 

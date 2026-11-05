@@ -4,7 +4,7 @@ topic: Remedies — essay-ready rule statements (R-REM-001 to R-REM-094)
 coverage_ids: [REM-CBX-I, REM-CBX-II, REM-CBX-III, REM-CBX-III.a, REM-CBX-III.b, REM-CBX-IV, REM-CBX-V, REM-CBX-VI, REM-SUP-001, REM-SUP-002, REM-SUP-003]
 tested_on: [essay, PT]
 exam_frequency: {level: high, basis: "Essays: 16 of 31 administrations 2012-02 to 2026-07 (52%)"}
-last_verified: 2026-11-04
+last_verified: 2026-11-05
 status: draft
 ---
 
@@ -42,7 +42,7 @@ status: draft
 
 **Elements:** 1. Identify whether the remedy is legal or equitable. 2. If equitable: inadequacy of the legal remedy + discretion (hardship, feasibility, defenses).
 
-**Exceptions / defenses:** Equitable defenses (laches, unclean hands) apply to equitable remedies; legal claims are governed by statutes of limitations (R-REM-090). California courts also let unclean hands bar some legal claims [VERIFY V-370].
+**Exceptions / defenses:** Equitable defenses (laches, unclean hands) apply to equitable remedies; legal claims are governed by statutes of limitations (R-REM-090). In California, unclean hands is available as a defense to legal as well as equitable claims (*Kendall-Jackson Winery, Ltd. v. Superior Court* (1999) 76 Cal.App.4th 970) [S-1216].
 
 **Authority:** *eBay Inc. v. MercExchange, L.L.C.*, 547 U.S. 388 (2006); *Weinberger v. Romero-Barcelo*, 456 U.S. 305 (1982); Civ. Code § 3422 [S-458]; R2d § 359.
 
@@ -70,9 +70,9 @@ status: draft
 
 **Elements:** 1. Classify each claim and remedy as legal or equitable. 2. Common issues of fact go to the jury first. 3. The judge then decides equitable relief consistent with the verdict.
 
-**Exceptions / defenses:** The Seventh Amendment does not apply to the states. California's jury right (Cal. Const., art. I, § 16) follows the historical law/equity line; the court decides equitable claims and may try them first [VERIFY V-362].
+**Exceptions / defenses:** The Seventh Amendment does not apply to the states. California's jury right (Cal. Const., art. I, § 16) follows the historical law/equity line, so a claim equitable in nature gets no jury even when Π seeks money (promissory estoppel: *C & K Engineering*) [S-1218]; the court decides equitable claims and may try them first [VERIFY V-362].
 
-**Authority:** U.S. Const. amend. VII; *Beacon Theatres, Inc. v. Westover*, 359 U.S. 500 (1959); *Dairy Queen, Inc. v. Wood*, 369 U.S. 469 (1962); *C & K Engineering Contractors v. Amber Steel Co.* (1978) 23 Cal.3d 1 [VERIFY V-362].
+**Authority:** U.S. Const. amend. VII; *Beacon Theatres, Inc. v. Westover*, 359 U.S. 500 (1959); *Dairy Queen, Inc. v. Wood*, 369 U.S. 469 (1962); *C & K Engineering Contractors v. Amber Steel Co.* (1978) 23 Cal.3d 1 [S-1218].
 
 **MBE vs. CA essay:** Jury right is a Civil Procedure MBE topic; on a Remedies essay it is at most a one-line point when the call mentions trial.
 
@@ -156,7 +156,7 @@ status: draft
 
 **Exceptions / defenses:** The traditional "new business rule" barred lost profits outright; modern courts treat it as an evidentiary hurdle. Uncertainty created by Δ's own wrong is resolved against Δ.
 
-**Authority:** R2d § 352; Civ. Code § 3301; *Sargon Enterprises, Inc. v. University of Southern California* (2012) 55 Cal.4th 747 [VERIFY V-366]; cross-reference R-CTR-093.
+**Authority:** R2d § 352; Civ. Code § 3301; *Sargon Enterprises, Inc. v. University of Southern California* (2012) 55 Cal.4th 747 (trial court as gatekeeper may exclude speculative expert lost-profit testimony) [S-1213]; cross-reference R-CTR-093.
 
 **MBE vs. CA essay:** Not on the MBE for Remedies. On the essay, address certainty for every lost-profit claim and say whether reliance damages are the better fallback.
 
@@ -223,9 +223,9 @@ status: draft
 
 **Exceptions / defenses:** A bad-faith seller is liable for benefit-of-the-bargain damages under every rule.
 
-**Authority:** Majority (American) rule; *Flureau v. Thornhill* (1776) (English rule); Civ. Code § 3306 (price paid, title and document expenses, the difference between price and value at breach, expenses of preparing to enter, consequential damages, interest) [S-461] [VERIFY V-355].
+**Authority:** Majority (American) rule; *Flureau v. Thornhill* (1776) (English rule); Civ. Code § 3306 (price paid, title and document expenses, the difference between price and value at breach, expenses of preparing to enter, consequential damages, interest) [S-461] [S-1221].
 
-**MBE vs. CA essay:** Land-sale damages are a Real Property MBE topic. On the essay, state the benefit-of-the-bargain measure; in California, § 3306 gives that measure without a good-faith limitation [VERIFY V-355].
+**MBE vs. CA essay:** Land-sale damages are a Real Property MBE topic. On the essay, state the benefit-of-the-bargain measure; in California, § 3306 gives that measure without a good-faith limitation [S-1221].
 
 **Example:** S contracts to sell Blackacre to B for $500,000 and refuses to close when the value rises to $560,000. B recovers $60,000 plus her deposit and escrow costs, or seeks specific performance.
 
@@ -247,7 +247,7 @@ status: draft
 
 **Elements:** 1. Damages difficult to estimate at formation. 2. Reasonable forecast. 3. Not intended as a penalty.
 
-**Exceptions / defenses:** A valid clause does not by itself bar specific performance unless the clause is meant as an exclusive alternative. In California, a clause in most contracts is presumed valid unless the challenger proves it was unreasonable when made (Civ. Code § 1671(b)); consumer and residential-lease clauses are void unless actual damages would be impracticable or extremely difficult to fix (§ 1671(c)–(d)) [S-200] [VERIFY V-107].
+**Exceptions / defenses:** R2d § 356(1) and UCC § 2-718(1) also uphold an amount that is reasonable in light of the actual loss, not only the loss anticipated at formation (R-CTR-096). A valid clause does not by itself bar specific performance unless the clause is meant as an exclusive alternative. In California, a clause in most contracts is presumed valid unless the challenger proves it was unreasonable when made (Civ. Code § 1671(b)); consumer and residential-lease clauses are void unless actual damages would be impracticable or extremely difficult to fix (§ 1671(c)–(d)) [S-200] [VERIFY V-107].
 
 **Authority:** R2d § 356; UCC § 2-718(1); Civ. Code § 1671 [S-200]; cross-reference R-CTR-096.
 
@@ -260,7 +260,7 @@ status: draft
 
 **Elements:** 1. Economic items, each proven with reasonable certainty. 2. Non-economic items, valued by the trier of fact. 3. Future items reduced to present value (economic).
 
-**Exceptions / defenses:** Mitigation (failure to seek treatment); comparative fault reduces recovery (Torts). In California, each defendant's liability for non-economic damages is several only, in proportion to fault (Civ. Code § 1431.2) [VERIFY V-363].
+**Exceptions / defenses:** Mitigation (failure to seek treatment); comparative fault reduces recovery (Torts). In California, each defendant's liability for non-economic damages is several only, in proportion to fault (Civ. Code § 1431.2) [VERIFY V-363]. In medical-negligence actions, MICRA caps non-economic damages (Civ. Code § 3333.2, as amended by AB 35; see R-TRT-115) [S-701].
 
 **Authority:** Civ. Code § 3333 [S-469]; R2d Torts §§ 903, 905, 924 [VERIFY V-363]; *Howell* (2011) 52 Cal.4th 541 [S-472].
 
@@ -282,17 +282,17 @@ status: draft
 **Example:** Δ bulldozes a 50-year-old native garden on Π's lot. Market value drops $8,000, but restoring the plantings costs $40,000. Because Π lives there and valued the garden personally, a court may award a reasonable restoration cost above the $8,000 diminution.
 
 ### R-REM-020 — Trespass, encroachment, wrongful occupation and injury to trees
-**Rule (write this):** A trespass to land is actionable without proof of harm, so the plaintiff recovers at least nominal damages, plus actual damage to the land and, for wrongful occupation, the reasonable rental value of the use (mesne profits). For a permanent encroachment that is allowed to remain, the owner recovers the value of the land taken or the diminution in value of the whole parcel. In California, damages for wrongful injury to trees or timber on another's land are trebled, or only doubled where the trespass was casual and involuntary or the defendant believed the land was its own.
+**Rule (write this):** A trespass to land is actionable without proof of harm, so the plaintiff recovers at least nominal damages, plus actual damage to the land and, for wrongful occupation, the reasonable rental value of the use (mesne profits). For a permanent encroachment that is allowed to remain, the owner recovers the value of the land taken or the diminution in value of the whole parcel. In California, damages for wrongful injury to trees or timber on another's land must be at least doubled, and may be trebled in the court's discretion where the trespass was willful and malicious; a casual or involuntary trespass, or one made with probable cause to believe the land was the defendant's own, gets only double damages.
 
-**Elements:** 1. Intentional entry (trespass) or encroachment. 2. Measure: nominal; physical harm (R-REM-019); rental value of use; value of land taken. 3. Statutory multiple for trees (California).
+**Elements:** 1. Intentional entry (trespass) or encroachment. 2. Measure: nominal; physical harm (R-REM-019); rental value of use; value of land taken. 3. Statutory multiple for trees (California): ×2 mandatory; ×3 discretionary for willful and malicious conduct.
 
-**Exceptions / defenses:** The tree multiplier requires a trespass on another's land and does not reach negligently spread fires (*Scholes v. Lambirth Trucking Co.* (2020)) [S-460] [VERIFY V-354].
+**Exceptions / defenses:** The tree multiplier requires an actual trespass on another's land and does not reach negligently spread fires (*Scholes v. Lambirth Trucking Co.* (2020) [S-460]; *Russell v. Man* (2020) [S-1208]).
 
-**Authority:** Civ. Code §§ 3334 (wrongful occupation) [VERIFY V-357], 3346 [S-460] [VERIFY V-354]; R2d Torts §§ 158, 929 [VERIFY V-363].
+**Authority:** Civ. Code §§ 3334 (wrongful occupation) [VERIFY V-357], 3346 [S-460]; CCP § 733; CACI Nos. 2002–2003 and *Gould v. Madonna* (1970) 5 Cal.App.3d 404 (double damages mandatory; treble discretionary) [S-1206] [S-1207]; R2d Torts §§ 158, 929 [VERIFY V-363].
 
 **MBE vs. CA essay:** Not on the MBE for Remedies. On a California essay involving trees (Feb 2015 Q4's oak tree [VERIFY V-071]), mention § 3346 multiple damages and the injunction to prevent cutting.
 
-**Example:** Δ, knowing the boundary, cuts three of Π's mature redwoods to improve his view. Π recovers the trees' value (or restoration cost) trebled under § 3346.
+**Example:** Δ, knowing the boundary, cuts three of Π's mature redwoods to improve his view. Π recovers at least double the trees' value (or restoration cost) under § 3346; because the cutting was deliberate, Π can argue it was willful and malicious and ask the court to treble the award.
 
 ### R-REM-021 — Conversion damages
 **Rule (write this):** A plaintiff whose chattel was converted recovers its fair market value at the time and place of conversion, plus interest from that date; in effect the defendant is forced to buy the chattel. Alternatively, the plaintiff may recover the specific chattel by replevin (R-REM-041) or the defendant's gain from selling or using it by restitution (R-REM-037).
@@ -325,9 +325,9 @@ status: draft
 
 **Elements:** 1. Fraud established (Torts). 2. Choose the measure. 3. Consequential and punitive damages. 4. Alternative: rescission and restitution (R-REM-043).
 
-**Exceptions / defenses:** Benefit-of-the-bargain damages must be proven with reasonable certainty.
+**Exceptions / defenses:** Benefit-of-the-bargain damages must be proven with reasonable certainty. California's fiduciary split: *Fragale v. Faulkner* (2003) 110 Cal.App.4th 229 (fiduciary's fraud measured under § 3333, not confined to out-of-pocket loss) [S-1201] vs. *Hensley v. McSweeney* (2001) 90 Cal.App.4th 1073 (out-of-pocket even for a fiduciary) [S-1202]; CACI No. 1924 still notes the split [S-454].
 
-**Authority:** R2d Torts § 549 [VERIFY V-363]; Civ. Code § 3343 [VERIFY V-351]; *Alliance Mortgage Co. v. Rothwell* (1995) 10 Cal.4th 1226 [S-453]; CACI Nos. 1923–1924 [S-454].
+**Authority:** R2d Torts § 549 [VERIFY V-363]; Civ. Code § 3343 [S-454] [S-1201]; *Alliance Mortgage Co. v. Rothwell* (1995) 10 Cal.4th 1226 [S-453]; CACI Nos. 1923–1924 [S-454].
 
 **MBE vs. CA essay:** Not on the MBE. On a California essay (fraud in a sale: Jul 2024 Q5 baseballs; Feb 2017 Q2 condo [VERIFY V-071]), give the general benefit-of-the-bargain rule, then "In California, § 3343 limits a defrauded buyer to out-of-pocket loss unless Δ was a fiduciary."
 
@@ -392,9 +392,9 @@ status: draft
 
 **Elements:** 1. A non-contract claim (tort). 2. Oppression, fraud or malice as defined. 3. Clear and convincing evidence. 4. Predicates: actual damages and evidence of Δ's financial condition (R-REM-030).
 
-**Exceptions / defenses:** No punitive damages for breach of contract, however willful (R-REM-031). Evidence of Δ's profits or financial condition is held back until liability for punitive damages is found, on Δ's application (Civ. Code § 3295(d)) [VERIFY V-369].
+**Exceptions / defenses:** No punitive damages for breach of contract, however willful (R-REM-031). Evidence of Δ's profits or financial condition is held back until liability for punitive damages is found, on Δ's application (Civ. Code § 3295(d)); pretrial discovery of that evidence needs a court order on a showing of a substantial probability that Π will prevail on the § 3294 claim (§ 3295(c)) [S-1200].
 
-**Authority:** Civ. Code § 3294(a), (c) [S-451] [VERIFY V-369]; Civ. Code § 3295.
+**Authority:** Civ. Code § 3294(a), (c) [S-451] [S-1200]; Civ. Code § 3295 [S-1200].
 
 **MBE vs. CA essay:** Not on the MBE. On a California essay, cite § 3294 by number; graders reward "clear and convincing evidence of oppression, fraud or malice."
 
@@ -416,15 +416,15 @@ status: draft
 ### R-REM-030 — Punitive damages: predicates (actual damages; financial condition)
 **Rule (write this):** Most courts require an award of compensatory damages before punitive damages may be awarded; jurisdictions divide on whether nominal damages suffice. In California, actual damages are a predicate for punitive damages, and the plaintiff must introduce evidence of the defendant's financial condition, because a reviewing court cannot judge whether the award is excessive without it.
 
-**Elements:** 1. Actual damages awarded. 2. Π's evidence of Δ's financial condition (net worth or comparable measure; income alone is inadequate).
+**Elements:** 1. Actual damages awarded (a finding of no actual damage bars punitive damages). 2. Π's evidence of Δ's financial condition (usually net worth).
 
-**Exceptions / defenses:** Without financial-condition evidence, a California punitive award is reversed.
+**Exceptions / defenses:** Without financial-condition evidence, a California punitive award is reversed. California cases allow punitive damages with a small or nominal compensatory award where real harm was shown but was hard to measure (*Kluge v. O'Gara* (1964) 227 Cal.App.2d 207) [S-1210]; a nominal award that merely vindicates a right with no actual harm does not satisfy the predicate (*Mother Cobb's*) [S-1209]. Authority is not uniform, so say "likely."
 
-**Authority:** *Adams v. Murakami* (1991) 54 Cal.3d 105 [S-464]; *Cheung v. Daley* (1995) 35 Cal.App.4th 1673 [S-470]; *Kizer v. County of San Mateo* (1991) and *Mother Cobb's Chicken Turnovers, Inc. v. Fox* (1937) [VERIFY V-356].
+**Authority:** *Adams v. Murakami* (1991) 54 Cal.3d 105 [S-464]; *Cheung v. Daley* (1995) 35 Cal.App.4th 1673 [S-470]; *Kizer v. County of San Mateo* (1991) 53 Cal.3d 139, 147 [S-470]; *Mother Cobb's Chicken Turnovers, Inc. v. Fox* (1937) 10 Cal.2d 203 [S-1209].
 
 **MBE vs. CA essay:** Not on the MBE. One sentence on a California essay that asks about punitive damages.
 
-**Example:** A jury awards $1 nominal and $50,000 punitive damages for a trespass that caused no harm. In California, the punitive award fails for lack of actual damages [VERIFY V-356].
+**Example:** A jury awards $1 nominal and $50,000 punitive damages for a trespass that caused no harm at all. In California, the punitive award likely fails for lack of actual damages; had the trespass caused real but unquantifiable harm, a small award could support punitive damages.
 
 ### R-REM-031 — No punitive damages for breach of contract
 **Rule (write this):** Punitive damages are not recoverable for breach of contract, even a willful breach, unless the conduct constituting the breach is also an independent tort for which punitive damages are recoverable.
@@ -508,7 +508,7 @@ status: draft
 
 **MBE vs. CA essay:** Not on the MBE in this form. On the essay, say which measure applies and why (Δ's state of mind).
 
-**Example:** Δ, believing in good faith that he owned it, paints Π's fence at a market value of $2,000; the house's value rises $500. A court may limit restitution to $500 for an innocent improver. Had Δ knowingly used Π's paint, Π would recover its full value.
+**Example:** Π's crew mistakenly paints Δ's fence instead of the neighbor's; the work's market value is $2,000, but Δ's house rises in value by only $500. Δ is an innocent recipient who never asked for the work, so a court may limit restitution to the $500 increase in Δ's wealth. By contrast, a Δ who knowingly took Π's paint and resold it at a profit is a conscious wrongdoer and disgorges the entire resale price.
 
 ### R-REM-037 — Disgorgement of profits ("waiver of tort")
 **Rule (write this):** A plaintiff whose property was wrongfully taken or used may "waive the tort and sue in assumpsit," recovering the defendant's gain from the wrong (sale proceeds, profits or the value of use saved) instead of the plaintiff's loss. This is valuable when the defendant's gain exceeds the plaintiff's loss.
@@ -567,7 +567,7 @@ status: draft
 > 🇨🇳 PRC bridge: the emergency-services exception overlaps with PRC 无因管理 (negotiorum gestio) (approx.).
 
 ### R-REM-041 — Replevin (California: claim and delivery)
-**Rule (write this):** Replevin is a legal action to recover possession of specific personal property wrongfully held by the defendant, plus damages for its detention. The plaintiff must show a right to immediate possession. A writ of possession may issue before judgment after notice and a hearing at which the plaintiff shows the probable validity of its claim, usually on posting a bond; the sheriff, not the court's contempt power, enforces it.
+**Rule (write this):** Replevin is a legal action to recover possession of specific personal property wrongfully held by the defendant, plus damages for its detention. The plaintiff must show a right to immediate possession. A writ of possession may issue before judgment after notice and a hearing at which the plaintiff shows the probable validity of its claim, usually on posting a bond; a levying officer (sheriff) executes the writ by seizing the property.
 
 **Elements:** 1. Π's right to immediate possession of specific chattel. 2. Δ's wrongful detention. 3. Pre-judgment writ: notice + hearing + probable validity + undertaking.
 
@@ -614,7 +614,7 @@ status: draft
 
 **Elements:** 1. Δ holds title to specific property. 2. Acquired through Δ's wrongful conduct or unjust enrichment at Π's expense. 3. The property is Π's or traceable to Π's property (R-REM-047, R-REM-048). 4. Legal remedy inadequate (unique property, Δ insolvent, or Π wants the appreciation). 5. No bona fide purchaser (R-REM-049).
 
-**Exceptions / defenses:** No constructive trust over property that cannot be traced. Equitable defenses apply. Secured creditors with prior perfected interests keep priority.
+**Exceptions / defenses:** No constructive trust over property that cannot be traced. Equitable defenses apply. Secured creditors with prior perfected interests keep priority. Element 4 is the traditional bar-exam formulation; the Restatement (Third) of Restitution and California's statutory involuntary-trust provisions may not require inadequacy of the legal remedy as a separate element [VERIFY V-940], so state it briefly and show it is met.
 
 **Authority:** Civ. Code §§ 2223, 2224 (one who wrongfully detains a thing, or gains it by fraud, accident, mistake, undue influence, violation of a trust or other wrongful act, is an involuntary trustee) [S-463]; R3RUE § 55 [VERIFY V-350].
 
@@ -648,7 +648,7 @@ status: draft
 
 **MBE vs. CA essay:** Not on the MBE. On the essay, this choice is where graders look for analysis; do the arithmetic for each asset.
 
-**Example:** With $50,000 stolen from Π, Δ buys a painting now worth $30,000 and a lot now worth $90,000. Π takes a constructive trust on the lot ($90,000) and an equitable lien on the painting ($30,000 plus a $20,000 deficiency claim).
+**Example:** Δ steals $50,000 from Π and spends $25,000 of it on a lot (now worth $90,000) and $25,000 on a painting (now worth $15,000). Π takes a constructive trust on the lot ($90,000, capturing the gain) and an equitable lien on the painting for the $25,000 that went into it: the painting sells for $15,000 and Π holds a $10,000 deficiency claim as a general creditor. Each stolen dollar is claimed only once, in the asset it was traced into.
 
 ### R-REM-047 — Tracing through exchanges
 **Rule (write this):** A claimant may follow its property through substitutions into whatever the wrongdoer acquired with it, and may claim the product (by constructive trust) or a lien on it. Tracing ends when the property passes to a bona fide purchaser for value or is dissipated so that no identifiable product remains.
@@ -720,9 +720,9 @@ status: draft
 
 **Elements:** 1. Π paid a liability. 2. Δ is primarily responsible (by contract or by fault). 3. Recovery of the amount paid.
 
-**Exceptions / defenses:** In California, equitable indemnity among joint tortfeasors is apportioned by comparative fault (*American Motorcycle Assn. v. Superior Court* (1978) 20 Cal.3d 578) [VERIFY V-367].
+**Exceptions / defenses:** In California, equitable indemnity among joint tortfeasors is apportioned by comparative fault (*American Motorcycle Assn. v. Superior Court* (1978) 20 Cal.3d 578) [S-1214]; total indemnity survives where it traditionally applied.
 
-**Authority:** Common law; *American Motorcycle* [VERIFY V-367].
+**Authority:** Common law; *American Motorcycle* [S-1214].
 
 **MBE vs. CA essay:** Not on the MBE in this form (Torts touches it). One paragraph on a Torts/BA/Remedies essay with an employer paying for an employee's tort.
 
@@ -733,9 +733,9 @@ status: draft
 
 **Elements:** 1. Common liability to Π. 2. Payor paid more than its share. 3. Recover the excess.
 
-**Exceptions / defenses:** In California, a good-faith settlement with Π bars other joint tortfeasors' claims for contribution or comparative indemnity against the settling tortfeasor (CCP § 877.6) [VERIFY V-367].
+**Exceptions / defenses:** In California, a court-determined good-faith settlement with Π bars other joint tortfeasors' claims against the settling tortfeasor for equitable comparative contribution or partial or comparative indemnity (CCP § 877.6(c), codifying *American Motorcycle*) [S-1214] [S-1215].
 
-**Authority:** CCP § 875 et seq. [VERIFY V-367]; common law.
+**Authority:** CCP § 875 et seq.; CCP § 877.6 [S-1215]; common law.
 
 **MBE vs. CA essay:** Joint-tortfeasor contribution is a Torts MBE point. Rarely more than a line on a Remedies essay.
 
@@ -882,9 +882,9 @@ status: draft
 
 **Elements:** 1. Personal-service contract → no SP. 2. Negative injunction: unique services; during the contract term; reasonable scope; not depriving the employee of a livelihood.
 
-**Exceptions / defenses:** In California, an injunction to prevent breach of a personal-service contract is available only for a written contract for services of a special, unique or extraordinary character that meets statutory minimum-compensation conditions (Civ. Code § 3423(e)) [S-459] [VERIFY V-352]; post-employment non-compete covenants are void (Bus. & Prof. Code § 16600; R-CTR-041).
+**Exceptions / defenses:** In California, an injunction to prevent breach of a personal-service contract is available only for a written contract for services of a special, unique or extraordinary character that meets statutory minimum-compensation conditions (Civ. Code § 3423(e)) [S-459] [S-1204]; where the contract does not qualify, Π cannot get around § 3423(e) by enjoining the competitor from employing the performer, because that would do indirectly what the statute forbids directly (*Beverly Glen Music, Inc. v. Warner Communications, Inc.* (1986) 178 Cal.App.3d 1142) [S-1203]; post-employment non-compete covenants are void (Bus. & Prof. Code § 16600; R-CTR-041).
 
-**Authority:** U.S. Const. amend. XIII; R2d § 367; *Lumley v. Wagner* (1852) 1 De G.M. & G. 604; Civ. Code §§ 3390, 3423(e) [S-459] [VERIFY V-108] [VERIFY V-352].
+**Authority:** U.S. Const. amend. XIII; R2d § 367; *Lumley v. Wagner* (1852) 1 De G.M. & G. 604; Civ. Code §§ 3390, 3423(e) [S-459] [S-1204] [VERIFY V-108]; *Beverly Glen Music* [S-1203].
 
 **MBE vs. CA essay:** The general rule is a Contracts MBE point. On a California essay (Feb 2020 Q3 artist painting borders [VERIFY V-071]), deny SP of the artist's services and consider damages or a negative injunction.
 
@@ -921,11 +921,11 @@ status: draft
 ### R-REM-067 — Preliminary injunction and TRO in California courts
 **Rule (write this):** A California trial court deciding whether to grant a preliminary injunction weighs two interrelated factors: (1) the likelihood that the plaintiff will prevail on the merits at trial, and (2) the relative interim harm to the parties from issuing or withholding the injunction. The greater the plaintiff's showing on one factor, the less it must show on the other, but no injunction may issue unless there is some possibility the plaintiff will ultimately prevail. A TRO may issue without notice on a verified complaint or affidavit showing that great or irreparable injury will result before the matter can be heard on notice; the order to show cause must then be heard within 15 days (22 for good cause), and the applicant must post an undertaking.
 
-**Elements:** 1. Likelihood of prevailing. 2. Relative interim harm (sliding scale). 3. Grounds in CCP § 526. 4. Undertaking (CCP § 529). 5. TRO: irreparable injury before a noticed hearing; prompt OSC hearing.
+**Elements:** 1. Likelihood of prevailing. 2. Relative interim harm (sliding scale). 3. Grounds in CCP § 526. 4. Undertaking (CCP § 529). 5. TRO: great or irreparable injury before a noticed hearing; notice certification; prompt OSC hearing.
 
-**Exceptions / defenses:** Notice rules for ex parte applications are in the California Rules of Court [VERIFY V-353].
+**Exceptions / defenses:** For a TRO without notice, the applicant must also certify under oath that it gave notice, that it tried in good faith and failed, or why notice should not be required (CCP § 527(c)). It must serve the papers within 5 days after the TRO issues or 2 days before the hearing, whichever is earlier; if it is not ready at the hearing or has not served on time, the TRO is dissolved (§ 527(d)) [S-1205].
 
-**Authority:** *IT Corp. v. County of Imperial* (1983) 35 Cal.3d 63 [S-455]; *Butt v. State of California* (1992) 4 Cal.4th 668 [S-456]; CCP §§ 526, 527 [S-457] [VERIFY V-353], 529 [S-478].
+**Authority:** *IT Corp. v. County of Imperial* (1983) 35 Cal.3d 63 [S-455]; *Butt v. State of California* (1992) 4 Cal.4th 668 [S-456]; CCP §§ 526, 527 [S-457] [S-1205], 529 [S-478].
 
 **MBE vs. CA essay:** Not on the MBE. On a California essay, give the general (*Winter*-style) factors and add one sentence that California courts use the *IT Corp.* two-factor sliding scale.
 
@@ -1036,13 +1036,13 @@ status: draft
 **Example:** Buyer and seller agree the sale of a house includes two paintings, but the typed contract lists only one. The buyer may reform the contract to include the second painting, then seek specific performance or replevin of it.
 
 ### R-REM-076 — Rescission of insurance policies (California)
-**Rule (write this):** Under the California Insurance Code, an insurer may rescind a policy for the applicant's concealment of a fact it was bound to disclose, whether intentional or unintentional, or for a representation that is false in a material point. Materiality is judged by the probable effect the true facts would have had on the insurer in deciding whether to issue the policy or at what premium. Rescission voids the policy from the start, and the insurer must return the premiums.
+**Rule (write this):** Under the California Insurance Code, an insurer may rescind a policy for the applicant's concealment of a fact it was bound to disclose, whether intentional or unintentional, or for a representation that is false in a material point. Materiality is judged by the probable and reasonable effect the true facts would have had on the particular insurer (a subjective test) in deciding whether to issue the policy or at what premium. Rescission voids the policy from the start, and the insurer must return the premiums.
 
 **Elements:** 1. Concealment or misrepresentation in the application. 2. Materiality to the insurer's decision. 3. Prompt notice and return of premiums. 4. No waiver or estoppel (e.g., insurer accepted premiums with knowledge).
 
 **Exceptions / defenses:** Waiver, estoppel, laches. The insured may cross-claim for reformation if the policy misstates the agreed coverage.
 
-**Authority:** Ins. Code §§ 331, 359 [S-471] [VERIFY V-364]; Civ. Code §§ 1689, 1691 [S-462].
+**Authority:** Ins. Code §§ 331, 359 [S-471] [S-1211]; Ins. Code § 334 (materiality: "probable and reasonable influence of the facts upon the party to whom the communication is due") [S-1211] [S-1212]; Civ. Code §§ 1689, 1691 [S-462].
 
 **MBE vs. CA essay:** Not on the MBE. On a California essay (Feb 2016 Q4 [VERIFY V-071]), analyze the insurer's rescission, then the insured's defenses and reformation counterclaim.
 
@@ -1081,13 +1081,13 @@ status: draft
 
 **Elements:** 1. Court had jurisdiction. 2. Order not transparently invalid. 3. Adequate opportunity to seek review → defense barred.
 
-**Exceptions / defenses:** California does not follow the collateral bar rule for orders that are void, including unconstitutional orders: the contemnor may challenge validity in the contempt proceeding (*In re Berry* (1968) 68 Cal.2d 137) [VERIFY V-358].
+**Exceptions / defenses:** California does not follow the collateral bar rule for orders that are void, including unconstitutional orders: the contemnor may challenge validity in the contempt proceeding (*In re Berry* (1968) 68 Cal.2d 137; *Elysium, Inc. v. Superior Court* (1968) 266 Cal.App.2d 763) [S-1219] [S-1220].
 
-**Authority:** *Walker v. City of Birmingham*, 388 U.S. 307 (1967).
+**Authority:** *United States v. United Mine Workers*, 330 U.S. 258 (1947) (federal courts); *Walker v. City of Birmingham*, 388 U.S. 307 (1967) (upholding a state court's application of the rule).
 
-**MBE vs. CA essay:** Not on the MBE. On an essay where a protester or party defies an order, state the federal rule and the California difference.
+**MBE vs. CA essay:** Not on the MBE. On an essay where a protester or party defies an order, state the collateral bar rule and the California difference.
 
-**Example:** Marchers defy a state-court injunction against parading without a permit, believing it unconstitutional. Under *Walker* they cannot raise its invalidity as a defense to federal-style contempt; in California, they could challenge a void order [VERIFY V-358].
+**Example:** Marchers defy a state-court injunction against parading without a permit, believing it unconstitutional. Under the collateral bar rule upheld in *Walker*, they cannot raise its invalidity as a defense to contempt; in a California court they could argue that the order is void (*Berry*).
 
 ### R-REM-080 — Who is bound; form and scope of injunctions
 **Rule (write this):** An injunction binds only the parties; their officers, agents, servants, employees and attorneys; and other persons in active concert or participation with them, and only if they receive actual notice of the order. Every injunction must state the reasons it issued, state its terms specifically, and describe in reasonable detail, without referring to other documents, the acts restrained or required. Relief should be no broader than necessary to give the plaintiff complete relief.
@@ -1126,9 +1126,9 @@ status: draft
 
 **Elements:** 1. Π's inequitable conduct. 2. Directly related to the claim. 3. Harm to Δ or to the integrity of the court.
 
-**Exceptions / defenses:** California courts have applied unclean hands to bar some legal claims as well as equitable ones [VERIFY V-370].
+**Exceptions / defenses:** In California, the defense is available in legal as well as equitable actions (e.g., malicious prosecution), so it can bar damages too (*Kendall-Jackson*) [S-1216] [S-1217].
 
-**Authority:** Common law (equitable maxim).
+**Authority:** Common law (equitable maxim); *Kendall-Jackson Winery, Ltd. v. Superior Court* (1999) 76 Cal.App.4th 970 [S-1216].
 
 **MBE vs. CA essay:** Not on the MBE. On the essay, look for Π's own lies, threats or self-help in the same deal.
 
@@ -1193,7 +1193,7 @@ status: draft
 
 **Exceptions / defenses:** Inadequate consideration alone does not make a contract unenforceable at law, so Π may still get damages.
 
-**Authority:** R2d § 364(1)(c); Civ. Code § 3391 [S-474]; UCC § 2-302.
+**Authority:** R2d § 364(1)(a) (mistake or unfair practices), (c) (grossly inadequate exchange or unfair terms); Civ. Code § 3391 [S-474]; UCC § 2-302.
 
 **MBE vs. CA essay:** Unconscionability is a Contracts MBE point. On a California essay seeking specific performance, add one sentence under defenses on § 3391 adequacy of consideration.
 
@@ -1236,7 +1236,7 @@ status: draft
 
 **MBE vs. CA essay:** Not on the MBE. On the essay, say that a delayed Π may lose the injunction but keep damages.
 
-**Example:** Π sues for trespass damages four years after the fence went up, within the five-year limitations period. Her damages claim survives even if laches bars a removal order.
+**Example:** Π waits until shortly before the limitations period runs, then sues for trespass damages and removal of Δ's fence. Her damages claim survives even if laches bars a removal order.
 
 ---
 
@@ -1288,7 +1288,7 @@ status: draft
 
 **Elements:** 1. Invasion of a legal right (trespass, battery, breach of contract, constitutional violation). 2. No proven actual loss.
 
-**Exceptions / defenses:** Negligence requires actual damage, so nominal damages are not available for negligence alone. In California, nominal damages alone do not support punitive damages [VERIFY V-356].
+**Exceptions / defenses:** Negligence requires actual damage, so nominal damages are not available for negligence alone. In California, a nominal award that reflects no actual harm likely does not support punitive damages; one given because real harm was hard to measure may (R-REM-030) [S-1209] [S-1210].
 
 **Authority:** Civ. Code § 3360; R2d § 346(2); *Uzuegbunam v. Preczewski*, 592 U.S. 279 (2021).
 

@@ -111,7 +111,10 @@ def resolve_rows(src: Path, dry: bool) -> int:
     todo = []
     for ln in new:
         vid = rx.match(ln).group(1)
-        if vid in resolved_existing:
+        if "still open" in ln.lower() or len([c for c in ln.strip().strip("|").split("|")]) < 6:
+            print(f"  ! {vid}: row says 'still open' or lacks the 6 Resolved columns; skipped")
+            problems += 1
+        elif vid in resolved_existing:
             print(f"  ! {vid} already resolved; skipped")
             problems += 1
         elif vid not in open_rows:
