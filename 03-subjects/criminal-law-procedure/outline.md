@@ -908,7 +908,7 @@ A confession can be challenged on four separate grounds; analyze each that the f
 
 **Interrogation (R-CRM-095).** Express questioning **or its functional equivalent**: words or actions that the police **should know are reasonably likely to elicit an incriminating response** (*Rhode Island v. Innis*, 446 U.S. 291 (1980): officers' remarks about a missing shotgun and handicapped children were not interrogation on the facts).
 - **Volunteered statements** are not the product of interrogation and are admissible.
-- **Booking questions** (name, address, height) are within a routine-booking exception (*Pennsylvania v. Muniz*, 496 U.S. 582 (1990)).
+- **Booking questions** (name, address, height) are within a routine-booking exception (*Pennsylvania v. Muniz*, 496 U.S. 582 (1990) — the exception was recognized in a plurality opinion; eight Justices agreed the answers were admissible).
 - **Undercover agents:** questioning by an undercover officer posing as a cellmate is not Miranda interrogation, because there is no coercive police-dominated atmosphere (*Illinois v. Perkins*, 496 U.S. 292 (1990)) — but see Massiah after charges.
 
 **Warnings and waiver (R-CRM-096).**
@@ -927,7 +927,7 @@ A confession can be challenged on four separate grounds; analyze each that the f
 **Public-safety exception (R-CRM-099).** Police may ask questions reasonably prompted by an **immediate concern for public safety** (where is the gun?) before giving warnings, and the answers are admissible (*New York v. Quarles*, 467 U.S. 649 (1984)). The test is objective; the exception covers only questions necessary to secure the officers' or the public's safety, not to gather evidence. Typical essay pattern: an officer asks where a gun is right after an arrest in a public place.
 
 **Fruits, two-step interrogation and impeachment (R-CRM-100).**
-- **Physical fruits** of a voluntary but unwarned statement are admissible (*United States v. Patane*, 542 U.S. 630 (2004): gun found from an unwarned statement).
+- **Physical fruits** of a voluntary but unwarned statement are admissible (*United States v. Patane*, 542 U.S. 630 (2004): gun found from an unwarned statement; plurality opinion with a two-Justice concurrence in the judgment).
 - **Later warned statement:** if the first unwarned statement was voluntary, a later statement after proper warnings and waiver is admissible (*Oregon v. Elstad*, 470 U.S. 298 (1985)), **unless** police used a **deliberate two-step** "question first, warn later" strategy that made the midstream warnings ineffective (*Missouri v. Seibert*, 542 U.S. 600 (2004)). Under Justice Kennedy's controlling concurrence, if the two-step was deliberate, the later statement is excluded unless curative measures (a substantial break in time and circumstances, or a warning that the earlier statement is inadmissible) were taken.
 - **Impeachment:** a voluntary statement taken in violation of Miranda may be used to **impeach** the defendant's inconsistent trial testimony (*Harris v. New York*, 401 U.S. 222 (1971)); an **involuntary** one may not (Mincey). California follows Harris (*People v. May* (1988) 44 Cal.3d 309, applying Truth-in-Evidence) [S-364].
 - **Silence:** the prosecution may not use a defendant's **post-Miranda-warning** silence to impeach him (*Doyle v. Ohio*, 426 U.S. 610 (1976)); pre-arrest silence by a suspect who did not expressly invoke the privilege during a non-custodial interview may be used as evidence of guilt (*Salinas v. Texas*, 570 U.S. 178 (2013)).

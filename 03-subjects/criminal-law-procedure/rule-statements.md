@@ -1340,7 +1340,7 @@ status: draft
 ### R-CRM-100 — Miranda fruits, two-step interrogation and impeachment
 **Rule (write this):** Physical evidence derived from a voluntary but unwarned statement is admissible, and a later warned statement is admissible if the first unwarned statement was voluntary — unless police deliberately used a question-first, warn-later strategy without curative measures. A voluntary statement obtained in violation of Miranda may be used to impeach the defendant's inconsistent trial testimony, but an involuntary statement may not.
 
-**Elements:** 1. Physical fruits: admissible (Patane). 2. Second statement: Elstad (admissible) vs. Seibert (deliberate two-step → excluded absent curative steps such as a substantial break or a warning that the first statement is inadmissible). 3. Impeachment (Harris). 4. Silence after warnings cannot be used (Doyle); pre-arrest, non-custodial silence without express invocation can be (Salinas).
+**Elements:** 1. Physical fruits: admissible (Patane — plurality opinion plus a two-Justice concurrence in the judgment). 2. Second statement: Elstad (admissible) vs. Seibert (deliberate two-step → excluded absent curative steps such as a substantial break or a warning that the first statement is inadmissible). 3. Impeachment (Harris). 4. Silence after warnings cannot be used (Doyle); pre-arrest, non-custodial silence without express invocation can be (Salinas).
 
 **Exceptions / defenses:** A Miranda violation does not support a § 1983 damages action [VERIFY V-250].
 
