@@ -295,3 +295,24 @@ def replace_between_markers(text: str, name: str, new_block: str) -> str:
         post = text.split(end, 1)[1]
         return pre + block + post
     return text.rstrip() + "\n\n" + block + "\n"
+
+def reserved_sim_items() -> set[str]:
+    """Item ids (MCQ, essay, PT) set aside for a simulation that has not been sat yet.
+
+    A simulation counts as sat once attempts.csv has a row with kind 'simulation' and item_id SIM-##.
+    Practice pickers exclude reserved items so a simulation stays a fresh diagnostic.
+    """
+    base = p(SIM_DIR_REL)
+    if not base.exists():
+        return set()
+    taken = {a["item_id"] for a in load_attempts() if a.get("kind") == "simulation"}
+    out: set[str] = set()
+    for f in sorted(base.glob("SIM-*.yaml")):
+        d = load_yaml(f) or {}
+        if f.stem in taken:
+            continue
+        mbe = d.get("mbe") or {}
+        out |= set(d.get("essays") or []) | set(mbe.get("am") or []) | set(mbe.get("pm") or [])
+        if d.get("pt"):
+            out.add(d["pt"])
+    return out

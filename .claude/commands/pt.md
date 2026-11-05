@@ -5,7 +5,7 @@ argument-hint: "[past:YYYY-MM | original]"
 Run one Performance Test. Arguments: $ARGUMENTS. The default is `original`.
 
 **Setup**
-- **`original`:** pick an unattempted `07-question-bank/pt/PT-###.md` and present its Task Memorandum, File and Library.
+- **`original`:** pick an unattempted `07-question-bank/pt/PT-###.md` that is not listed by `python scripts/quiz.py reserved` (held back for a simulation) and present its Task Memorandum, File and Library.
 - **`past:YYYY-MM`:** give the link from `04-performance-test/past-pt-index.csv`. If the PDF is in `06-past-exams/raw/`, use it for grading. Never paste State Bar text into repo files.
 - Run `date +%s`. Remind the user of the 90-minute plan in `04-performance-test/method.md` and of the task-type template in `04-performance-test/task-types/`.
 

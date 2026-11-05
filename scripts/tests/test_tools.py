@@ -155,3 +155,15 @@ def test_merge_build_outputs(repo, tmp_path, capsys):
     assert "| S-005 | New source" in src and src.count("| S-001 |") == 1
     q = (repo / "VERIFY-QUEUE.md").read_text()
     assert q.index("| V-001 |") < q.index("| V-003 |") < q.index("| V-009 |")
+
+
+def test_simulation_items_reserved_until_sat(repo, capsys):
+    build_simulation.main(["build", "--seed", "5", "--allow-short", "--no-render"])
+    m = C.load_yaml(repo / "07-question-bank/simulations/SIM-01.yaml")
+    sim_mcqs = set(m["mbe"]["am"] + m["mbe"]["pm"])
+    assert sim_mcqs and sim_mcqs <= C.reserved_sim_items()
+    assert not sim_mcqs & {q["id"] for q in quiz.pick("MIX", 50, seed=1)}
+    assert quiz.main(["reserved"]) == 0 and "PT-001" in capsys.readouterr().out
+    quiz.log_attempt(kind="simulation", item_id="SIM-01", subject="MIX", score=0, max_score=1, source="repo")
+    assert C.reserved_sim_items() == set()
+    assert sim_mcqs & {q["id"] for q in quiz.pick("MIX", 50, seed=1)}

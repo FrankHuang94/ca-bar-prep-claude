@@ -15,6 +15,9 @@ Building blocks (used by the /quiz slash command):
                               --seconds 120 --coverage EVD-MBE-V.F       # licensed question: no text stored
   python scripts/quiz.py stats
 
+Simulation items: questions, essays and PTs reserved for a simulation that has not been sat yet are
+excluded from `pick`/`run`; `python scripts/quiz.py reserved` lists them (for /essay and /pt).
+
 Selection policy for `pick`/`run` (spaced practice):
   1. questions answered wrong whose last attempt is >= 2 days old (review),
   2. never-attempted questions,
@@ -79,7 +82,8 @@ def prioritize(pool: list[dict], attempts: list[dict], rng: random.Random) -> li
 def pick(subject: str, n: int, difficulty: int | None = None, subtopic: str | None = None,
          seed: int | None = None) -> list[dict]:
     rng = random.Random(seed)
-    bank = C.load_mcqs()
+    reserved = C.reserved_sim_items()
+    bank = [q for q in C.load_mcqs() if q["id"] not in reserved]
     attempts = C.load_attempts()
     if subject == "MIX":
         per = {c: prioritize(filter_bank(bank, c, difficulty, subtopic), attempts, rng) for c in C.MBE_CODES}
@@ -253,6 +257,12 @@ def cmd_stats(_a) -> int:
     return 0
 
 
+def cmd_reserved(_a) -> int:
+    ids = sorted(C.reserved_sim_items())
+    print(json.dumps(ids))
+    return 0
+
+
 def main(argv: list[str] | None = None) -> int:
     ap = argparse.ArgumentParser(description="MBE-style quiz and attempt logger.")
     sub = ap.add_subparsers(dest="cmd", required=True)
@@ -289,12 +299,14 @@ def main(argv: list[str] | None = None) -> int:
     sp.add_argument("--source", default="repo", choices=sorted(C.ATTEMPT_SOURCES))
     sp.add_argument("--notes")
     sub.add_parser("stats")
+    sub.add_parser("reserved", help="list item ids reserved for not-yet-sat simulations")
     a = ap.parse_args(argv)
     if getattr(a, "subject", None) is not None and a.cmd in {"pick", "run"}:
         a.subject = "MIX" if a.subject.lower() in {"mixed", "mix"} else (C.resolve_subject(a.subject) or a.subject)
         if a.subject != "MIX" and a.subject not in C.MBE_CODES:
             raise SystemExit(f"--subject must be an MBE subject or 'mixed' (got {a.subject})")
-    return {"pick": cmd_pick, "show": cmd_show, "log": cmd_log, "run": cmd_run, "stats": cmd_stats}[a.cmd](a)
+    return {"pick": cmd_pick, "show": cmd_show, "log": cmd_log, "run": cmd_run, "stats": cmd_stats,
+            "reserved": cmd_reserved}[a.cmd](a)
 
 
 if __name__ == "__main__":

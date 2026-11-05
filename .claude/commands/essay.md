@@ -5,7 +5,7 @@ argument-hint: "<subject|crossover|past:YYYY-MM-Qn> [timed]"
 Run one essay practice. Arguments: $ARGUMENTS
 
 **Pick the prompt**
-- **Subject or `crossover`:** choose an essay from `07-question-bank/essays/<slug or crossover>/`. Prefer one the user has not attempted (check `10-progress/attempts.csv`, kind `essay`).
+- **Subject or `crossover`:** choose an essay from `07-question-bank/essays/<slug or crossover>/`. Prefer one the user has not attempted (check `10-progress/attempts.csv`, kind `essay`). Never pick an essay listed by `python scripts/quiz.py reserved` (held back for a simulation not yet sat).
 - Show **only** the `## Facts` and `## Call of the Question` sections. Never show the issue list or the model answer before grading.
 - **`past:YYYY-MM-Qn`:** look up the row in `06-past-exams/index.csv` and give the official link. If the PDF is in `06-past-exams/raw/`, read the question from there for grading. **Do not paste the State Bar's text into any repo file.**
 - If no matching essay exists yet (the bank is filled in Phase 5), say so and offer a past-exam question instead.
