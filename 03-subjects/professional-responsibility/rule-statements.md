@@ -60,7 +60,7 @@ Read with [`outline.md`](outline.md) (full treatment) and [`ca-distinctions.md`]
 
 **Exceptions / defenses:** A person who communicates unilaterally to disqualify a lawyer, without a reasonable expectation that the lawyer will consider representing him, is not a prospective client (MR 1.18 cmt. [2]).
 
-**Authority:** CRPC rule 1.18(a)–(d) [S-556]; MR 1.18(a)–(d); State Bar Formal Op. 2021-205.
+**Authority:** CRPC rule 1.18(a)–(d) [S-556]; MR 1.18(a)–(d); State Bar Formal Op. 2021-205 [VERIFY V-952].
 
 **MBE vs. CA essay:** not on the MBE (MPRE: "significantly harmful"). **CA vs. ABA:** differs — CA disqualifies on information *material to the matter* (a lower threshold); ABA requires information that *could be significantly harmful*. CA consent must be informed written consent; ABA "confirmed in writing".
 
@@ -69,11 +69,11 @@ Read with [`outline.md`](outline.md) (full treatment) and [`ca-distinctions.md`]
 ### R-PRF-004 — State Bar Act duties of attorneys (B&P § 6068)
 **Rule (write this):** Under Business and Professions Code § 6068 every California attorney must, among other duties, support the federal and state constitutions and laws, maintain respect for the courts, counsel or maintain only actions that appear legal or just (except the defense of a person charged with a public offense), employ only means consistent with truth and never mislead a judge, maintain inviolate the client's confidences, respond to reasonable status inquiries, cooperate with State Bar investigations, and self-report specified events within 30 days.
 
-**Elements:** (a) support constitutions and laws; (b) respect courts; (c) only legal or just actions; (d) truth, no artifice; (e) confidentiality; (f) abstain from offensive personality; (g) no corrupt motive in encouraging litigation; (h) never reject the cause of the defenseless or oppressed for personal reasons; (i) cooperate in discipline; (m) communication; (o) self-reporting.
+**Elements:** (a) support constitutions and laws; (b) respect courts; (c) only legal or just actions; (d) truth, no artifice; (e) confidentiality; (f) advance no fact prejudicial to the honor or reputation of a party or witness unless the justice of the cause requires it [S-1252] [VERIFY V-950]; (g) no corrupt motive in encouraging litigation; (h) never reject the cause of the defenseless or oppressed for personal reasons; (i) cooperate in discipline; (m) communication; (o) self-reporting.
 
 **Exceptions / defenses:** Willful violation of § 6068 is itself a ground for discipline (B&P § 6103 covers willful disobedience of court orders and violation of the attorney's oath or duties).
 
-**Authority:** B&P §§ 6068(a)–(i), (m), (o), 6103 [S-552].
+**Authority:** B&P §§ 6068(a)–(i), (m), (o), 6103 [S-552] [S-1250].
 
 **MBE vs. CA essay:** not on the MBE; no ABA equivalent statute. **CA vs. ABA:** California-only source; cite it alongside the matching CRPC rule (e.g., § 6068(e) with rule 1.6; § 6068(m) with rule 1.4; § 6068(d) with rule 3.3).
 
@@ -183,9 +183,9 @@ Read with [`outline.md`](outline.md) (full treatment) and [`ca-distinctions.md`]
 
 **Elements:** 1. No insurance (or coverage lapses). 2. Written notice at engagement or within 30 days of lapse.
 
-**Exceptions / defenses:** The rule does not apply to government lawyers, in-house lawyers representing their employer, emergencies, and certain other situations listed in the rule [VERIFY V-468].
+**Exceptions / defenses:** The rule does not apply (rule 1.4.2(c)): (1) where the lawyer knows or reasonably should know at engagement that the representation will not exceed four hours (if it later does, the lawyer must then comply); (2) to a government lawyer or in-house counsel representing or advising the employer in that capacity; (3) to legal services rendered in an emergency to avoid foreseeable prejudice to the client; or (4) where the lawyer has already given the client the written notice [S-1262].
 
-**Authority:** CRPC rule 1.4.2.
+**Authority:** CRPC rule 1.4.2(a)–(c) [S-1262].
 
 **MBE vs. CA essay:** not on the MBE. **CA vs. ABA:** California-only rule; the ABA has no disclosure rule (only a Model Court Rule on insurance disclosure to the court).
 
@@ -440,7 +440,7 @@ Read with [`outline.md`](outline.md) (full treatment) and [`ca-distinctions.md`]
 ### R-PRF-031 — Limiting liability to clients and settling malpractice claims
 **Rule (write this):** California: a lawyer may not contract with a client prospectively limiting the lawyer's liability for malpractice, and may not settle a claim for malpractice with a client or former client unless the client is independently represented or is advised in writing to seek independent counsel and given a reasonable opportunity to do so. ABA: a prospective limitation is allowed only if the client is independently represented in making it; settlement rules are the same. California also forbids any agreement that the client will not report the lawyer to, or will withdraw a complaint from, the State Bar.
 
-**Elements:** 1. Prospective limitation (absolute bar in CA). 2. Settlement of an existing claim: independent counsel or written advice + opportunity. 3. No gag on State Bar complaints (B&P § 6090.5).
+**Elements:** 1. Prospective limitation (absolute bar in CA). 2. Settlement of an existing claim: independent counsel or written advice + opportunity. 3. No gag on State Bar complaints (B&P § 6090.5; see also rule 5.6(b), R-PRF-081).
 
 **Exceptions / defenses:** An agreement to arbitrate malpractice claims is not a limitation of liability if the client is fully informed (MR 1.8 cmt. [17]).
 
@@ -455,7 +455,7 @@ Read with [`outline.md`](outline.md) (full treatment) and [`ca-distinctions.md`]
 
 **Elements:** 1. Current client (not a former client). 2. Sexual relations (intercourse or touching of intimate parts for sexual purposes). 3. No pre-existing consensual relationship. 4. Statutory prohibitions (§ 6106.9).
 
-**Exceptions / defenses:** A relationship with a **former** client is not barred by these rules, but a romance that begins during the representation may still create a rule 1.7(b) personal-interest conflict. The rule is not imputed to other firm lawyers (rule 1.8.11(b) / MR 1.8(k)).
+**Exceptions / defenses:** A relationship with a **former** client is not barred by these rules, but a romance that begins during the representation may still create a rule 1.7(b) personal-interest conflict. The rule is not imputed to other firm lawyers (rule 1.8.11 imputes only rules 1.8.1–1.8.9; MR 1.8(k) excludes 1.8(j)).
 
 **Authority:** CRPC rule 1.8.10; B&P § 6106.9 [S-564]; MR 1.8(j).
 
@@ -697,20 +697,20 @@ Read with [`outline.md`](outline.md) (full treatment) and [`ca-distinctions.md`]
 ## Declining and terminating representation
 
 ### R-PRF-050 — Mandatory withdrawal (and ABA's duty to inquire)
-**Rule (write this):** A lawyer must decline or withdraw if the representation will result in a violation of the rules or the State Bar Act (ABA: or other law), if the lawyer's physical or mental condition renders effective representation unreasonably difficult (ABA: materially impairs), or if the client discharges the lawyer; California also requires withdrawal when the client is pursuing litigation without probable cause to harass or maliciously injure. Since 2023 the ABA also requires a lawyer to inquire into and assess the facts of each representation and to decline or withdraw if the client seeks to use or persists in using the lawyer's services to commit or further a crime or fraud.
+**Rule (write this):** A lawyer must decline or withdraw if the representation will result in a violation of the rules or the State Bar Act (ABA: or other law), if the lawyer's physical or mental condition renders effective representation unreasonably difficult (ABA: materially impairs), or if the client discharges the lawyer; California also requires withdrawal when the client is pursuing litigation without probable cause to harass or maliciously injure. Since 2023 the ABA also requires a lawyer to inquire into and assess the facts and circumstances of each representation and to decline or withdraw if the client or prospective client seeks to use or persists in using the lawyer's services to commit or further a crime or fraud, despite the lawyer's discussion of the limits on the lawyer's assistance.
 
-**Elements:** 1. Rule violation will result. 2. Impairment. 3. Discharge (client may fire the lawyer at any time). 4. CA: harassing/malicious litigation. 5. ABA: risk-based inquiry duty and crime-fraud withdrawal (MR 1.16(a), (a)(4)) [S-125] [S-126] [VERIFY V-470].
+**Elements:** 1. Rule violation will result. 2. Impairment. 3. Discharge (client may fire the lawyer at any time). 4. CA: harassing/malicious litigation. 5. ABA: risk-based inquiry duty and crime-fraud withdrawal (MR 1.16(a)(4) and cmts. [1]–[2]) [S-125] [S-126] [S-1263] [S-1264].
 
 **Exceptions / defenses:** If the tribunal's permission is required, the lawyer must continue when ordered (R-PRF-052).
 
-**Authority:** CRPC rule 1.16(a); MR 1.16(a) (as amended Aug. 2023) [S-125]; ABA Formal Op. 513 (2024) [S-126].
+**Authority:** CRPC rule 1.16(a); MR 1.16(a) (as amended Aug. 2023) [S-125] [S-1263]; ABA Formal Op. 513 (2024) [S-126].
 
 **MBE vs. CA essay:** not on the MBE (MPRE: the 2023 inquiry duty). **CA vs. ABA:** differs — CA adds harassing litigation as mandatory; ABA adds the duty to inquire and crime-fraud withdrawal. California has not adopted the ABA inquiry language.
 
 **Example:** A new client wants a series of shell companies formed to move cash with no stated business purpose. ABA: the lawyer must inquire and decline if the client seeks to further a crime. California: decline if the representation would result in assisting a violation of law (rules 1.2.1, 1.16(a)(2)).
 
 ### R-PRF-051 — Permissive withdrawal
-**Rule (write this):** A lawyer may withdraw if, among other grounds, the client insists on a claim or defense not warranted by law; the client seeks to pursue a criminal or fraudulent course or has used the lawyer's services to do so; the client insists the lawyer pursue a criminal or fraudulent course; the client's conduct makes effective representation unreasonably difficult; the client breaches a material term of the agreement (including fees) after reasonable warning; the client knowingly and freely assents; or other good cause exists. The ABA also permits withdrawal when it can be done without material adverse effect on the client or when the client insists on action the lawyer considers repugnant or fundamentally disagrees with.
+**Rule (write this):** California: a lawyer may withdraw if, among other listed grounds, the client insists on a claim, defense or position not warranted by existing law or a good-faith argument for changing it; the client seeks to pursue a criminal or fraudulent course or has used the lawyer's services to advance one; the client insists that the lawyer pursue a criminal or fraudulent course; the client's other conduct makes effective representation unreasonably difficult; the client breaches a material term of the agreement or an obligation (including fees) after a reasonable warning; the client knowingly and freely assents; or, in a pending proceeding, the lawyer believes in good faith that the tribunal will find other good cause. The ABA list overlaps (client crime or fraud; failure to fulfil an obligation after warning; unreasonable financial burden or unreasonable difficulty; other good cause) and adds withdrawal that can be accomplished without material adverse effect on the client and the client's insistence on action the lawyer considers repugnant or with which the lawyer fundamentally disagrees.
 
 **Elements:** CA rule 1.16(b)(1)–(10) [VERIFY V-457]; ABA MR 1.16(b)(1)–(7).
 
@@ -854,11 +854,11 @@ Read with [`outline.md`](outline.md) (full treatment) and [`ca-distinctions.md`]
 ### R-PRF-061 — False evidence and client perjury
 **Rule (write this):** A lawyer may not offer evidence he knows is false. If the lawyer, the client or a witness the lawyer called has offered material evidence and the lawyer later learns it is false, the lawyer must take reasonable remedial measures — first remonstrating with the client, then seeking to withdraw. Under the ABA rule, if necessary the lawyer must disclose to the tribunal even if the information is otherwise confidential; in California, remedial measures stop short of disclosure prohibited by § 6068(e) and rule 1.6. A lawyer may refuse to offer evidence he reasonably believes is false, except a criminal defendant's own testimony.
 
-**Elements:** 1. Knowledge of falsity (actual; may be inferred). 2. Material evidence. 3. Remedial sequence: remonstrate → withdraw → (ABA) disclose. 4. Criminal defendant: right to testify; California permits the narrative approach (*People v. Johnson*). 5. Duties last until the proceeding concludes.
+**Elements:** 1. Knowledge of falsity (actual; may be inferred). 2. Material evidence. 3. Remedial sequence: remonstrate → withdraw → (ABA) disclose. 4. Criminal defendant: right to testify; a California rule 3.3 comment permits the narrative approach (*People v. Johnson*) once the lawyer has made reasonable efforts to dissuade the client and has sought permission to withdraw [S-1265]. 5. Duties last until the proceeding concludes.
 
 **Exceptions / defenses:** A lawyer who merely suspects falsity may present the testimony (resolve doubts in the client's favor).
 
-**Authority:** CRPC rule 3.3(a)(3), (b), (c) and cmts. [VERIFY V-461]; MR 3.3(a)(3), (b), (c); *Nix v. Whiteside*, 475 U.S. 157 (1986); *People v. Johnson* (1998) 62 Cal.App.4th 608 [S-557].
+**Authority:** CRPC rule 3.3(a)(3), (b), (c) and cmt. (narrative approach) [S-550] [S-1265]; MR 3.3(a)(3), (b), (c); *Nix v. Whiteside*, 475 U.S. 157 (1986); *People v. Johnson* (1998) 62 Cal.App.4th 608 [S-557].
 
 **MBE vs. CA essay:** not on the MBE (MPRE: disclose if necessary). **CA vs. ABA:** differs — ABA candor overrides confidentiality; California confidentiality (§ 6068(e)) prevails, so no disclosure to the court.
 
@@ -923,9 +923,9 @@ Read with [`outline.md`](outline.md) (full treatment) and [`ca-distinctions.md`]
 
 **Exceptions / defenses:** Argument framed as an inference from the evidence ("the evidence shows Dan is guilty") is not a personal opinion.
 
-**Authority:** CRPC rule 3.4(g) [S-550] [VERIFY V-450]; MR 3.4(e).
+**Authority:** CRPC rule 3.4(g) [S-550] [S-1255]; MR 3.4(e).
 
-**MBE vs. CA essay:** not on the MBE. **CA vs. ABA:** differs — California's list is narrower. **Resolves V-058:** California does bar personal opinion on the guilt or innocence of an accused, so a claim that California has no such bar is wrong; it is correct only for credibility, justness of the cause and civil culpability [S-550] [VERIFY V-450].
+**MBE vs. CA essay:** not on the MBE. **CA vs. ABA:** differs — California's list is narrower. **Resolves V-058:** California does bar personal opinion on the guilt or innocence of an accused, so a claim that California has no such bar is wrong; it is correct only for credibility, justness of the cause and civil culpability [S-550] [S-1255].
 
 **Example:** In closing, defense counsel says, "I personally believe my client is innocent, and I believe the officer is lying." ABA: both statements violate MR 3.4(e). California: the innocence statement violates rule 3.4(g); the credibility statement is not covered by the rule's text (argue rule 8.4(d) only if prejudicial) (cf. Feb. 2024 Q3).
 
@@ -956,13 +956,13 @@ Read with [`outline.md`](outline.md) (full treatment) and [`ca-distinctions.md`]
 **Example:** Before jury selection, a defense lawyer tells reporters the victim "has a long history of lying to police". Substantial likelihood of material prejudice — violation of both rules.
 
 ### R-PRF-069 — Lawyer as witness
-**Rule (write this):** A lawyer may not act as advocate in a trial in which the lawyer is likely to be a witness unless the testimony relates to an uncontested issue, relates to the nature and value of legal services rendered, or (ABA) disqualification would work substantial hardship on the client or (California) the lawyer has obtained the client's informed written consent; other lawyers in the firm may act as advocate unless barred by the conflict rules.
+**Rule (write this):** A lawyer may not act as advocate in a trial in which the lawyer is likely to be a witness unless the testimony relates to an uncontested issue, relates to the nature and value of legal services rendered, or (ABA) disqualification would work substantial hardship on the client or (California) the lawyer has obtained the client's informed written consent — for a lawyer representing the People or a governmental entity, consent of the head of the office or a designee; other lawyers in the firm may act as advocate unless barred by the conflict rules.
 
 **Elements:** 1. Advocate at trial (pretrial work usually allowed). 2. Likely necessary witness. 3. Exceptions. 4. Imputation: none, unless rule 1.7/1.9 applies.
 
-**Exceptions / defenses:** California's consent exception does not apply to a prosecutor; the court retains discretion to disqualify despite consent.
+**Exceptions / defenses:** California's consent exception is available to a prosecutor or government lawyer, but the consent must come from the head of the office or a designee (rule 3.7(a)(3)). The rule applies to trials (before a jury, judge, administrative law judge or arbitrator), and the court retains discretion to disqualify despite consent (rule 3.7 cmts. [1], [3], citing *Lyle v. Superior Court* (1981)) [S-1253].
 
-**Authority:** CRPC rule 3.7; MR 3.7.
+**Authority:** CRPC rule 3.7 [S-1253]; MR 3.7.
 
 **MBE vs. CA essay:** not on the MBE. **CA vs. ABA:** differs — California allows client informed written consent; the ABA instead allows a substantial-hardship exception.
 
@@ -971,11 +971,11 @@ Read with [`outline.md`](outline.md) (full treatment) and [`ca-distinctions.md`]
 ### R-PRF-070 — Special responsibilities of a prosecutor
 **Rule (write this):** A prosecutor must refrain from prosecuting a charge he knows is not supported by probable cause; make reasonable efforts to assure the accused is advised of the right to counsel; not seek waivers of important pretrial rights from an unrepresented accused; timely disclose to the defense all evidence or information known to the prosecutor (California: that he knows or reasonably should know) that tends to negate guilt, mitigate the offense or mitigate the sentence; exercise reasonable care to prevent others from making improper extrajudicial statements; and act on new, credible and material evidence that a convicted defendant is innocent.
 
-**Elements:** 1. Probable cause. 2. Counsel. 3. No waivers from unrepresented accused. 4. Disclosure (broader than *Brady*: no materiality limit; includes sentencing mitigation). 5. Publicity control. 6. Post-conviction duties.
+**Elements:** 1. Probable cause. 2. Counsel. 3. No waivers from unrepresented accused. 4. Disclosure (broader than *Brady*: no materiality limit; includes sentencing mitigation). 5. Publicity control. 6. Post-conviction duties (CA rule 3.8(f)–(g); MR 3.8(g)–(h)); a good-faith judgment that new evidence does not trigger them, even if later found wrong, is not a violation (CA cmt. [9]) [S-1261].
 
 **Exceptions / defenses:** A protective order may relieve the disclosure duty.
 
-**Authority:** CRPC rule 3.8 (incl. (d)) [VERIFY V-454]; MR 3.8; *Brady v. Maryland*, 373 U.S. 83 (1963); Penal Code § 1054.1.
+**Authority:** CRPC rule 3.8(d), (f)–(g) and cmt. [9] [S-1261] [VERIFY V-454]; MR 3.8; *Brady v. Maryland*, 373 U.S. 83 (1963); Penal Code § 1054.1.
 
 **MBE vs. CA essay:** not on the MBE (constitutional overlap with Criminal Procedure). **CA vs. ABA:** largely the same; California's disclosure duty adds "reasonably should know".
 
@@ -1107,30 +1107,30 @@ Read with [`outline.md`](outline.md) (full treatment) and [`ca-distinctions.md`]
 **Example:** A disbarred lawyer drafts deposition questions and passes notes to the examining lawyer during the deposition. Drafting is permitted; acting as more than clerical help at the deposition is not, and the lawyer must have given written notice to the State Bar and the client (cf. Feb. 2019 Q5).
 
 ### R-PRF-080 — Fee sharing with nonlawyers; nonlawyer ownership; independence
-**Rule (write this):** A lawyer may not share legal fees with a nonlawyer, form a partnership with a nonlawyer if any activity is the practice of law, or practice in a for-profit entity in which a nonlawyer owns an interest, is a director or officer, or controls the lawyer's professional judgment; and may not let a person who recommends, employs or pays the lawyer direct his professional judgment. Exceptions include payments to a deceased lawyer's estate, purchase of a practice, nonlawyer employees' profit-sharing retirement or compensation plans, and sharing court-awarded fees with a nonprofit that employed or recommended the lawyer; California also allows paying a certified lawyer referral service's fees.
+**Rule (write this):** A lawyer may not share legal fees with a nonlawyer, form a partnership with a nonlawyer if any activity is the practice of law, or practice in a for-profit entity in which a nonlawyer owns an interest, is a director or officer, or controls the lawyer's professional judgment; and may not let a person who recommends, employs or pays the lawyer direct his professional judgment. Exceptions include payments to a deceased lawyer's estate, purchase of a practice, nonlawyer employees' profit-sharing retirement or compensation plans, and sharing court-awarded fees with a nonprofit that employed, retained or recommended the lawyer; California also allows paying a certified lawyer referral service's fees and, under rule 5.4(a)(6), sharing a settlement (non-court-awarded) fee with a qualifying 501(c)(3) nonprofit.
 
 **Elements:** 1. Fee sharing (percentage of fees to a nonlawyer, e.g., a "marketing" firm or chiropractor). 2. Ownership/control. 3. Independence. 4. Exceptions.
 
-**Exceptions / defenses:** Under AB 931, until Jan. 1, 2030 a California lawyer may not share fees with an out-of-state alternative business structure (nonlawyer-owned firm), with exceptions [S-124] [VERIFY V-031]. Whether California has extended the nonprofit exception beyond court-awarded fees is unconfirmed [VERIFY V-456].
+**Exceptions / defenses:** Under AB 931, until Jan. 1, 2030 a California lawyer may not share fees with an out-of-state alternative business structure (nonlawyer-owned firm), with exceptions [S-124] [VERIFY V-031]. California rule 5.4(a)(5) covers court-awarded fees shared with a nonprofit that employed, retained, recommended or facilitated the lawyer's employment in the matter; since Mar. 22, 2021, rule 5.4(a)(6) also permits sharing a fee that is not court-awarded but arises from a settlement or other resolution of the matter with a nonprofit that qualifies under IRC § 501(c)(3), under a written fee-division agreement with the nonprofit and the rule's other conditions [S-1258] [S-1259]; whether those conditions include the client's written consent is unconfirmed [VERIFY V-951]. A lawyer sharing fees under (a)(5) or (a)(6) must still exercise independent professional judgment.
 
-**Authority:** CRPC rule 5.4(a)–(d); MR 5.4(a)–(d); AB 931 (2025) [S-124].
+**Authority:** CRPC rule 5.4(a)–(d) [S-1258]; MR 5.4(a)–(d); AB 931 (2025) [S-124].
 
-**MBE vs. CA essay:** not on the MBE. **CA vs. ABA:** largely the same; California adds the lawyer-referral-service exception and the AB 931 bar; the ABA rule allows sharing court-awarded fees with a nonprofit that employed, retained or recommended the lawyer.
+**MBE vs. CA essay:** not on the MBE. **CA vs. ABA:** largely the same; California adds the lawyer-referral-service exception, the settlement-fee nonprofit exception (rule 5.4(a)(6)) and the AB 931 bar; the ABA allows sharing only court-awarded fees with a nonprofit that employed, retained or recommended the lawyer (MR 5.4(a)(4)).
 
 **Example:** A new lawyer pays a chiropractor 10% of each fee from patients he refers. Fee sharing with a nonlawyer (rule 5.4(a)) and paying for recommendations (rule 7.2(b)); possibly also capping (B&P § 6152) (cf. Feb. 2021 Q4).
 
 ### R-PRF-081 — Restrictions on a lawyer's right to practice
-**Rule (write this):** A lawyer may not participate in offering or making an employment, partnership or similar agreement that restricts a lawyer's right to practice after the relationship ends (except retirement-benefit conditions), or a settlement agreement that restricts a lawyer's right to practice.
+**Rule (write this):** A lawyer may not participate in offering or making an employment, partnership or similar agreement that restricts a lawyer's right to practice after the relationship ends (except retirement-benefit conditions), or an agreement that restricts a lawyer's right to practice in connection with the settlement of a client controversy. California also forbids participating in an agreement that precludes the reporting of a violation of the rules.
 
-**Elements:** 1. Agreement type. 2. Restriction on future practice. 3. Retirement exception.
+**Elements:** 1. Agreement type. 2. Restriction on future practice. 3. Retirement exception. 4. CA: no agreement precluding reporting of a rule violation (rule 5.6(b)).
 
 **Exceptions / defenses:** California permits a reasonable cost imposed on departing partners who compete (*Howard v. Babcock*) and agreements in the sale of a practice.
 
-**Authority:** CRPC rule 5.6; MR 5.6; *Howard v. Babcock* (1993) 6 Cal.4th 409.
+**Authority:** CRPC rule 5.6(a)–(b) [S-1254]; MR 5.6(a)–(b); *Howard v. Babcock* (1993) 6 Cal.4th 409.
 
-**MBE vs. CA essay:** not on the MBE. **CA vs. ABA:** largely the same; *Howard* is a California gloss.
+**MBE vs. CA essay:** not on the MBE. **CA vs. ABA:** largely the same, but California numbers the settlement restriction rule 5.6(a)(2) (ABA: MR 5.6(b)) and adds rule 5.6(b), which bars agreements precluding the reporting of a rule violation (carried over from former rule 1-500(B); no ABA counterpart) [S-1254]; *Howard* is a California gloss.
 
-**Example:** Defendant offers a big settlement if plaintiff's lawyer agrees never to sue Defendant again. Proposing or accepting the term violates rule 5.6(b) / MR 5.6(b).
+**Example:** Defendant offers a big settlement if plaintiff's lawyer agrees never to sue Defendant again. Proposing or accepting the term violates rule 5.6(a)(2) / MR 5.6(b).
 
 ### R-PRF-082 — Unauthorized practice of law; assisting UPL
 **Rule (write this):** No person may practice law in California unless an active licensee of the State Bar, and a lawyer may not practice law in a jurisdiction in violation of its regulations or knowingly assist another person in the unauthorized practice of law. "Practice of law" includes giving legal advice, preparing legal instruments and appearing for others; nonlawyers may not do these for others.
@@ -1212,9 +1212,9 @@ Read with [`outline.md`](outline.md) (full treatment) and [`ca-distinctions.md`]
 
 **Exceptions / defenses:** Non-pecuniary solicitation by public-interest lawyers is protected (*In re Primus*, 436 U.S. 412 (1978)). Targeted mail is protected speech (*Shapero v. Kentucky Bar Ass'n*, 486 U.S. 466 (1988)), but a 30-day waiting period after accidents was upheld (*Florida Bar v. Went For It, Inc.*, 515 U.S. 618 (1995)). In-person solicitation may be banned (*Ohralik v. Ohio State Bar Ass'n*, 436 U.S. 447 (1978)).
 
-**Authority:** CRPC rule 7.3 [S-120] [VERIFY V-459]; MR 7.3; B&P § 6152.
+**Authority:** CRPC rule 7.3(a)–(c), (f) [S-120] [S-555] [S-1257]; MR 7.3; B&P § 6152.
 
-**MBE vs. CA essay:** not on the MBE. **CA vs. ABA:** differs — California keeps the "Advertisement" label, has no business-user exception [VERIFY V-459], lists "intrusion", and adds the 2026 DVRO rule.
+**MBE vs. CA essay:** not on the MBE. **CA vs. ABA:** differs — California keeps the "Advertisement" label, has no business-user exception [S-1257], lists "intrusion", and adds the 2026 DVRO rule.
 
 **Example:** A lawyer visits a hospital room to offer representation to an accident victim he has never met. Prohibited live solicitation under both rules; possibly capping if a hospital worker tipped him off for pay.
 
@@ -1266,9 +1266,9 @@ Read with [`outline.md`](outline.md) (full treatment) and [`ca-distinctions.md`]
 
 **Elements:** CA: 1. Knowledge of credible evidence. 2. Another lawyer. 3. Listed categories (criminal act — as defined by California law; dishonesty; fraud; deceit; reckless/intentional misrepresentation; misappropriation). 4. Substantial question about honesty/fitness. 5. Report to State Bar or tribunal. ABA: knowledge of any violation + substantial question.
 
-**Exceptions / defenses:** Neither requires disclosure of confidential client information (§ 6068(e), rule 1.6, rule 1.8.2) or information from a lawyer-assistance (substance use or mental health) program; California also carves out mediation confidentiality and privileges, and excludes acts criminal only in another jurisdiction [S-118] [S-119] [S-570] [VERIFY V-451]. Self-reporting is not required by 8.3 (but see R-PRF-094). Threatening to report to gain a civil advantage violates rule 3.10 (R-PRF-071).
+**Exceptions / defenses:** Neither requires disclosure of confidential client information or information from a lawyer-assistance program (MR 8.3(c)). California's rule 8.3(d) neither requires nor authorizes disclosure of information protected by § 6068(e), rule 1.6 or rule 1.8.2, information gained in a substance-use or mental-health program (including information confidential under B&P § 6234), or information protected by mediation confidentiality, privilege or other law; and its "criminal act" excludes acts criminal only in another jurisdiction (rule 8.3(c)) [S-118] [S-119] [S-570] [S-1256]. Outside the mandatory duty, a California lawyer may, but need not, report other violations of the rules or the State Bar Act (rule 8.3(b)). Self-reporting is not required by 8.3 (but see R-PRF-094). Threatening to report to gain a civil advantage violates rule 3.10 (R-PRF-071).
 
-**Authority:** CRPC rule 8.3 [S-118] [S-119] [S-570]; MR 8.3(a), (c).
+**Authority:** CRPC rule 8.3(a)–(d) [S-118] [S-119] [S-570] [S-1256]; MR 8.3(a), (c).
 
 **MBE vs. CA essay:** not on the MBE (MPRE: ABA "knows"). **CA vs. ABA:** differs — California triggers on credible evidence (lower) but only for listed categories; ABA triggers on knowledge but covers any serious violation.
 
@@ -1301,13 +1301,13 @@ Read with [`outline.md`](outline.md) (full treatment) and [`ca-distinctions.md`]
 **Example:** In-house counsel pleads guilty to a first misdemeanor DUI. No moral turpitude per se; discipline is unlikely unless there is a pattern or a probation violation, but self-reporting duties must be checked (R-PRF-094) (cf. July 2026 Q1).
 
 ### R-PRF-094 — Self-reporting duties (B&P § 6068(o))
-**Rule (write this):** A California attorney must report to the State Bar in writing within 30 days of learning of specified events, including the filing of three or more lawsuits against the attorney in a 12-month period for malpractice or other wrongful conduct in a professional capacity; a civil judgment against the attorney for fraud, misrepresentation, breach of fiduciary duty or gross negligence in a professional capacity; judicial sanctions (other than for discovery or under $1,000); an indictment or information charging a felony; conviction of a felony, or of a misdemeanor committed in the practice of law, in which a client was the victim, or involving dishonesty or other moral turpitude; and discipline by another licensing agency.
+**Rule (write this):** A California attorney must report to the State Bar in writing within 30 days of knowing of: (1) three or more lawsuits filed against the attorney in a 12-month period for malpractice or other wrongful conduct in a professional capacity; (2) a civil judgment against the attorney for fraud, misrepresentation, breach of fiduciary duty or gross negligence in a professional capacity; (3) judicial sanctions (except for failure to make discovery or monetary sanctions under $1,000); (4) an indictment or information charging a felony; (5) conviction — including a guilty verdict or a guilty or no-contest plea — of a felony, or of a misdemeanor committed in the course of practice, in which a client was the victim, or a necessary element of which involves improper conduct of an attorney, including dishonesty or other moral turpitude (attempts, conspiracies and solicitations included); (6) discipline by another professional or occupational disciplinary agency or licensing board; or (7) reversal of a judgment based in whole or in part on the attorney's misconduct, grossly incompetent representation or willful misrepresentation.
 
 **Elements:** 1. Listed event. 2. Knowledge. 3. Written report within 30 days. 4. Failure to report is itself a ground for discipline.
 
-**Exceptions / defenses:** A misdemeanor unrelated to practice, with no client victim and no moral-turpitude element (e.g., a simple DUI), is not self-reportable under (o)(5), although courts transmit conviction records to the State Bar [S-568] [VERIFY V-452].
+**Exceptions / defenses:** A misdemeanor unrelated to practice, with no client victim and no moral-turpitude element (e.g., a simple DUI), is not self-reportable under (o)(5), although courts transmit conviction records to the State Bar [S-568] [S-1250].
 
-**Authority:** B&P § 6068(o)(1)–(7) [S-552] [VERIFY V-452].
+**Authority:** B&P § 6068(o)(1)–(7) [S-552] [S-1250] [S-1251].
 
 **MBE vs. CA essay:** not on the MBE; no ABA counterpart. **CA vs. ABA:** California-only duty (ABA rules have no self-reporting rule; some states do by court rule).
 
@@ -1320,11 +1320,11 @@ Read with [`outline.md`](outline.md) (full treatment) and [`ca-distinctions.md`]
 
 **Exceptions / defenses:** ABA 8.4(g) does not limit accepting, declining or withdrawing from representation under rule 1.16, and legitimate advice or advocacy is protected.
 
-**Authority:** CRPC rule 8.4.1 [VERIFY V-464]; MR 8.4(g) [S-082].
+**Authority:** CRPC rule 8.4.1 [S-1256]; rule 1.0.1(c) [S-1260]; MR 8.4(g) [S-082].
 
 **MBE vs. CA essay:** not on the MBE. **CA vs. ABA:** differs — California never adopted MR 8.4(g); its own rule requires "unlawful" conduct and expressly reaches firm operations and retaliation.
 
-**Example:** An in-house lawyer pursues a subordinate analyst romantically after she says no and then downgrades her review. Unlawful harassment and retaliation in the operations of a legal department — rule 8.4.1 if the department is a "law firm" under rule 1.0.1 [VERIFY V-464]; ABA 8.4(g) conduct related to practice (cf. July 2026 Q1).
+**Example:** An in-house lawyer pursues a subordinate analyst romantically after she says no and then downgrades her review. Unlawful harassment and retaliation in the operations of a legal department — rule 8.4.1, because a corporate legal department is a "law firm" under rule 1.0.1(c) [S-1260]; ABA 8.4(g) conduct related to practice (cf. July 2026 Q1).
 
 ### R-PRF-096 — Disciplinary authority and choice of law
 **Rule (write this):** A lawyer admitted in California is subject to California discipline wherever the conduct occurs, and a lawyer not admitted here is subject to California discipline for providing or offering legal services here. For conduct before a tribunal, the rules of the tribunal's jurisdiction apply; for other conduct, the rules of the jurisdiction where the conduct occurred, or where its predominant effect is, apply.
@@ -1383,7 +1383,7 @@ Read with [`outline.md`](outline.md) (full treatment) and [`ca-distinctions.md`]
 **Example:** A client fires her contingency lawyer midway; new counsel later wins $300,000. The first lawyer recovers the reasonable value of his services out of the recovery, not his full percentage.
 
 ### R-PRF-100 — Civility and the attorney's oath
-**Rule (write this):** California attorneys take an oath that includes a pledge to conduct themselves with dignity, courtesy and integrity, and since Oct. 1, 2025 must annually reaffirm the full oath; the State Bar Act separately requires maintaining respect due to the courts and abstaining from offensive personality, while the Supreme Court has declined to make incivility, as such, a separate ground for discipline.
+**Rule (write this):** California attorneys take an oath that includes a pledge to conduct themselves with dignity, courtesy and integrity, and since Oct. 1, 2025 must annually reaffirm the full oath; the State Bar Act separately requires maintaining the respect due to the courts and advancing no fact prejudicial to the honor or reputation of a party or witness unless the justice of the cause requires it (do not rely on the old "offensive personality" wording) [S-1252] [VERIFY V-950], while the Supreme Court has declined to make incivility, as such, a separate ground for discipline.
 
 **Elements:** 1. Oath (B&P § 6067; Cal. Rules of Court, rule 9.4). 2. Annual reaffirmation (rule 9.7, as amended eff. Oct. 1, 2025) [S-561]. 3. § 6068(b), (f).
 

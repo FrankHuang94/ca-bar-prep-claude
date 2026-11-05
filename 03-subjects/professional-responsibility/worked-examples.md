@@ -123,4 +123,4 @@ All fact patterns are original. Each answer gives the rule (with its ID in [`rul
 
 **24. Refund for release.** A lawyer who took a $40,000 flat fee and did little offers to refund $10,000 if the client signs a general release and agrees not to complain to the State Bar.
 - **Rule:** settling malpractice exposure requires written advice to seek independent counsel; California forbids agreements not to report to the State Bar (R-PRF-031); unearned fees must be refunded (R-PRF-045).
-- **Conclusion:** violates MR 1.8(h)(2) and rule 1.8.8(b) unless the written advice and opportunity were given. The no-complaint term violates B&P § 6090.5. Withholding the unearned remainder violates rule 1.16(e)(2) / MR 1.16(d).
+- **Conclusion:** violates MR 1.8(h)(2) and rule 1.8.8(b) unless the written advice and opportunity were given. The no-complaint term violates B&P § 6090.5 (and rule 5.6(b)). Withholding the unearned remainder violates rule 1.16(e)(2) / MR 1.16(d).

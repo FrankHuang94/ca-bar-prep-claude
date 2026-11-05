@@ -29,7 +29,7 @@ status: draft
 | Knowingly / knows | Actual knowledge; may be inferred from circumstances | Same |
 | Reasonably believes / should know | Objective standard of a reasonably prudent and competent lawyer | Same |
 | Screened | Timely isolation of a lawyer from a matter with procedures adequate to protect information and prevent communication (rule 1.0.1(k)) | Same (MR 1.0(k)) |
-| Firm / law firm | Includes lawyers in a legal services organization or the legal department of a corporation or other organization [VERIFY V-464] | Same (MR 1.0(c)) |
+| Firm / law firm | Includes lawyers in a legal services organization or the legal department of a corporation or other organization (rule 1.0.1(c)) [S-1260] | Same (MR 1.0(c)) |
 | Writing | Includes electronic communications and recordings; "signed" includes electronic signature | Same |
 
 ---
@@ -77,7 +77,7 @@ status: draft
 
 **Settlement and plea offers** (rule 1.4.1; B&P § 6103.5; MR 1.4 cmt. [2]; R-PRF-011): every written civil settlement offer and every plea offer, promptly; *Missouri v. Frye*, 566 U.S. 134 (2012).
 
-**Malpractice insurance disclosure** (rule 1.4.2; R-PRF-012) — California only: written notice at engagement if uninsured, or within 30 days of a lapse; exceptions for government and in-house lawyers and others [VERIFY V-468].
+**Malpractice insurance disclosure** (rule 1.4.2; R-PRF-012) — California only: written notice at engagement if uninsured, or within 30 days of a lapse. Exceptions (rule 1.4.2(c)): representation known at engagement not to exceed four hours (comply if it later does); government lawyers and in-house counsel advising the employer; emergencies; notice already given [S-1262].
 
 **Tested:** Jul. 2012 Q2, Feb. 2013 Q2, Jul. 2013 Q1, Feb. 2016 Q3, Jul. 2018 Q3, Feb. 2020 Q2.
 
@@ -286,7 +286,7 @@ Rules 1.15 / MR 1.15 [S-553]; R-PRF-047 to R-PRF-049.
 | Representation will result in violation of the rules or State Bar Act | Will result in violation of the rules or other law |
 | Mental or physical condition renders it unreasonably difficult to carry out the representation effectively | Condition materially impairs ability |
 | Client discharges the lawyer | Same |
-| — | (2023) Inquiry and assessment duty; client seeks to use or persists in using the lawyer's services to commit or further a crime or fraud [S-125] [VERIFY V-470] |
+| — | (2023) Inquiry and assessment duty (cmts. [1]–[2]); client or prospective client seeks to use or persists in using the lawyer's services to commit or further a crime or fraud despite the lawyer's warning (MR 1.16(a)(4)) [S-125] [S-1263] [S-1264] |
 
 **Permissive** (rule 1.16(b) / MR 1.16(b); R-PRF-051). California grounds (paraphrased) [VERIFY V-457]:
 1. Unwarranted claim or defense.
@@ -355,7 +355,7 @@ Rule 3.3 / MR 3.3; B&P § 6068(d); R-PRF-060, R-PRF-061.
   - Never offer evidence known to be false.
   - If material false evidence has been offered: remonstrate → seek withdrawal → ABA: disclose to the tribunal if necessary, even if confidential (MR 3.3(c)). California: remedial measures **short of** disclosure prohibited by § 6068(e) and rule 1.6.
   - The lawyer may refuse evidence he reasonably believes false, except the criminal defendant's testimony.
-- **Criminal defendant's perjury:** *Nix v. Whiteside*, 475 U.S. 157 (1986) (threatening disclosure did not violate the Sixth Amendment). California: narrative approach (*People v. Johnson* (1998) 62 Cal.App.4th 608) [S-557] [VERIFY V-461].
+- **Criminal defendant's perjury:** *Nix v. Whiteside*, 475 U.S. 157 (1986) (threatening disclosure did not violate the Sixth Amendment). California: a rule 3.3 comment permits the narrative approach (*People v. Johnson* (1998) 62 Cal.App.4th 608) after the lawyer has tried to dissuade the client and has sought permission to withdraw [S-557] [S-1265].
 - **Crimes and frauds related to the proceeding** (juror bribery, witness tampering): reasonable remedial measures. ABA includes disclosure; California only to the extent § 6068(e) and rule 1.6 permit (rule 3.3(b)).
 - **Duration:** until the proceeding concludes, including appeal (rule 3.3(c); MR 3.3(c)).
 - **Tested:** Feb. 2018 Q1 (expert testimony he should have known was false), Feb. 2024 Q3.
@@ -375,9 +375,9 @@ Rule 3.4 / MR 3.4 [S-550]; R-PRF-062 to R-PRF-066.
 | Ask a non-client not to give information voluntarily | (f) (relative/employee/agent exception) | **No counterpart** |
 | Trial: allude to unsupported matters | (e) | Not in rule 3.4 |
 | Trial: personal knowledge of facts | (e) | (g) |
-| Trial: personal opinion | (e): justness of cause, witness credibility, civil culpability, guilt/innocence | (g): **guilt or innocence of an accused only** [S-550] [VERIFY V-450] |
+| Trial: personal opinion | (e): justness of cause, witness credibility, civil culpability, guilt/innocence | (g): **guilt or innocence of an accused only** [S-550] [S-1255] |
 
-**V-058 finding.** California's rule 3.4(g) does prohibit stating a personal opinion as to the guilt or innocence of an accused. It omits the ABA's other three categories: the justness of a cause, the credibility of a witness, and the culpability of a civil litigant. A statement that "California has no express bar" is therefore accurate only for those three categories (R-PRF-066) [S-550] [VERIFY V-450].
+**V-058 finding.** California's rule 3.4(g) does prohibit stating a personal opinion as to the guilt or innocence of an accused. It omits the ABA's other three categories: the justness of a cause, the credibility of a witness, and the culpability of a civil litigant. A statement that "California has no express bar" is therefore accurate only for those three categories (R-PRF-066) [S-550] [S-1255].
 - **Physical evidence** (R-PRF-020).
 - **Tested:** Feb. 2014 Q1, Jul. 2014 Q3 (discovery extension; physician's note), Jul. 2019 Q4 (withheld document), Feb. 2024 Q3 (witness payments; closing argument).
 
@@ -401,7 +401,7 @@ Rule 3.7 / MR 3.7; R-PRF-069.
 - No advocate at trial if likely a necessary witness.
 - Exceptions (both): uncontested issue; nature and value of legal services.
 - ABA-only exception: substantial hardship to the client.
-- California-only exception: **client's informed written consent**. It does not apply to prosecutors, and the court may still disqualify.
+- California-only exception: **client's informed written consent**. For a prosecutor or other government lawyer, the consent must come from the head of the office or a designee (rule 3.7(a)(3)); the court may still disqualify (cmt. [3]) [S-1253].
 - Other firm lawyers may try the case unless rules 1.7/1.9 bar them.
 
 ### III.G Special responsibilities of a prosecutor
@@ -410,9 +410,9 @@ Rule 3.8 / MR 3.8 [VERIFY V-454]; R-PRF-070.
 - Advise the accused of the right to counsel.
 - No waiver of pretrial rights from an unrepresented accused.
 - **Disclosure of exculpatory and mitigating information.** Broader than *Brady v. Maryland*, 373 U.S. 83 (1963): no materiality threshold. California adds "reasonably should know" (rule 3.8(d)); see also Penal Code § 1054.1.
-- Limits on subpoenaing lawyers about clients.
+- Limits on subpoenaing lawyers about clients (MR 3.8(e); California counterpart unconfirmed — V-454).
 - Publicity restraint.
-- Post-conviction duties on new evidence of innocence.
+- Post-conviction duties on new, credible and material evidence of innocence (CA rule 3.8(f)–(g); MR 3.8(g)–(h)); a good-faith judgment that the duties are not triggered is not a violation (CA cmt. [9]) [S-1261].
 - **Tested with Criminal Procedure:** Jul. 2025 Q5 (plea process).
 
 ### III.H Threatening criminal, administrative or disciplinary charges
@@ -440,7 +440,7 @@ Rule 3.10; R-PRF-071.
 - **Inadvertent writings and third-party rights** (rule 4.4 / MR 4.4; R-PRF-075):
   - California: stop reading and notify (*Rico v. Mitsubishi Motors Corp.* (2007) 42 Cal.4th 807; *State Comp. Ins. Fund v. WPS, Inc.* (1999) 70 Cal.App.4th 644).
   - ABA: notify only (MR 4.4(b)); MR 4.4(a) bars tactics whose only purpose is to embarrass, delay or burden, and evidence-gathering that violates legal rights.
-  - California analogues: B&P § 6068(f) (offensive personality); rule 3.10.
+  - California analogues: B&P § 6068(f) (advance no fact prejudicial to a party's or witness's honor or reputation unless the cause requires) [VERIFY V-950]; rule 3.10.
 - **Tested:** Jul. 2012 Q2, Oct. 2020 Q1 (settlement leverage).
 
 ---
@@ -475,7 +475,7 @@ Rule 5.3.1 [S-563]; R-PRF-079.
 
 ### V.D Fee sharing with nonlawyers, ownership and independence
 Rule 5.4 / MR 5.4; R-PRF-080.
-- No fee sharing with nonlawyers, with exceptions: a deceased lawyer's estate; purchase of a practice; nonlawyer employee compensation or retirement plans; court-awarded fees shared with a referring or employing nonprofit; certified lawyer referral service fees (CA) [VERIFY V-456].
+- No fee sharing with nonlawyers, with exceptions: a deceased lawyer's estate; purchase of a practice; nonlawyer employee compensation or retirement plans; court-awarded fees shared with a nonprofit that employed, retained or recommended the lawyer (CA adds "or facilitated employment"); certified lawyer referral service fees (CA); and (CA rule 5.4(a)(6), eff. Mar. 22, 2021) settlement fees shared with a 501(c)(3) nonprofit under a written fee-division agreement [S-1258] [S-1259] [VERIFY V-951].
 - No partnership with nonlawyers for law practice.
 - No nonlawyer ownership, directorship or control.
 - No interference by payors (rule 5.4(c)).
@@ -484,7 +484,7 @@ Rule 5.4 / MR 5.4; R-PRF-080.
 - **Tested:** Feb. 2021 Q4.
 
 ### V.E Restrictions on the right to practice; sale of a practice
-- **Restrictions** (rule 5.6 / MR 5.6; R-PRF-081): no non-competes for lawyers, except retirement benefits; no settlement terms restricting practice. *Howard v. Babcock* (1993) 6 Cal.4th 409 allows a reasonable cost on competing departing partners.
+- **Restrictions** (rule 5.6 / MR 5.6; R-PRF-081): no non-competes for lawyers, except retirement benefits; no settlement terms restricting practice (CA rule 5.6(a)(2); MR 5.6(b)). California rule 5.6(b) also bars agreements that preclude reporting a rule violation (no ABA counterpart) [S-1254]. *Howard v. Babcock* (1993) 6 Cal.4th 409 allows a reasonable cost on competing departing partners.
 - **Sale of a practice** (rule 1.17 / MR 1.17): sale of all or substantially all of a practice or area of practice; written notice to clients; fees not increased because of the sale.
 
 ### V.F Unauthorized practice of law and multijurisdictional practice
@@ -541,7 +541,7 @@ R-PRF-084.
   - name and address of a responsible lawyer [S-555].
 - **Solicitation** (rule 7.3 / MR 7.3; R-PRF-087):
   - Live person-to-person contact (in person, live telephone, real-time electronic) for pecuniary gain is banned.
-  - Exceptions: the person is a lawyer, or has a family, close personal or prior professional relationship with the lawyer. The ABA adds persons who routinely use the type of legal services for business purposes [VERIFY V-459].
+  - Exceptions: the person is a lawyer, or has a family, close personal or prior professional relationship with the lawyer. The ABA adds persons who routinely use the type of legal services for business purposes; California has no such exception [S-1257].
   - No solicitation at all after a refusal, or with coercion, duress or harassment ("intrusion" in California).
   - California "Advertisement" label on targeted written, recorded or electronic solicitations.
   - **New California rule 7.3(f), eff. June 1, 2026:** no solicitation of a respondent in an ex parte DVRO proceeding before service and proof of service, unless a current or former client [S-120].
@@ -568,9 +568,10 @@ R-PRF-091 [S-118] [S-119] [S-570].
 |---|---|---|
 | Trigger | Lawyer **knows** another lawyer committed a violation | Lawyer knows of **credible evidence** |
 | Conduct covered | Any rule violation raising a substantial question as to honesty, trustworthiness or fitness | Criminal act (as defined by California law); dishonesty, fraud, deceit; reckless or intentional misrepresentation; misappropriation of funds or property — raising a substantial question as to honesty, trustworthiness or fitness |
-| Report to | Appropriate professional authority | State Bar or a tribunal with jurisdiction; without undue delay [VERIFY V-451] |
+| Report to | Appropriate professional authority | State Bar or a tribunal with jurisdiction; without undue delay (8.3(a)) [S-119] |
+| Other violations | — | May, but need not, report other violations of the rules or State Bar Act (8.3(b)) [S-1256] |
 | Judges | Must report judicial misconduct (8.3(b)) | Not in rule 8.3 |
-| Exceptions | Information protected by 1.6; lawyer-assistance-program information | § 6068(e), rules 1.6 and 1.8.2; substance-use/mental-health program information; mediation confidentiality and privileges; acts criminal only elsewhere [S-570] [VERIFY V-451] |
+| Exceptions | Information protected by 1.6; lawyer-assistance-program information | § 6068(e), rules 1.6 and 1.8.2; substance-use/mental-health program information; information confidential under B&P § 6234; mediation confidentiality and privileges (8.3(d) — neither required nor authorized); acts criminal only elsewhere (8.3(c)) [S-570] [S-1256] |
 
 **Interplay with other rules.**
 - Threatening to report another lawyer to gain advantage in a civil dispute violates California rule 3.10 (Feb. 2021 Q4).
@@ -595,21 +596,21 @@ R-PRF-091 [S-118] [S-119] [S-570].
 **Tested:** Jul. 2026 Q1 (in-house lawyer's misdemeanor DUI; relationship with a subordinate).
 
 ### VIII.E Self-reporting duties (B&P § 6068(o))
-R-PRF-094 [S-552] [VERIFY V-452]. Within **30 days** of knowledge, report in writing to the State Bar:
+R-PRF-094 [S-552] [S-1250] [S-1251]. Within **30 days** of knowledge, report in writing to the State Bar:
 1. Three or more malpractice or wrongful-conduct suits in 12 months.
 2. Civil judgment for fraud, misrepresentation, breach of fiduciary duty or gross negligence in a professional capacity.
 3. Judicial sanctions (not for discovery, and not under $1,000).
 4. Felony indictment or information.
-5. Conviction of a felony, or of a misdemeanor committed in the practice of law, with a client victim, or involving dishonesty or moral turpitude [S-568].
+5. Conviction (guilty verdict, or guilty or no-contest plea) of a felony, or of a misdemeanor committed in the practice of law, with a client victim, or a necessary element of which involves improper attorney conduct including dishonesty or other moral turpitude; attempts, conspiracies and solicitations included [S-568] [S-1250].
 6. Discipline by another licensing agency.
-7. Reversal of a judgment based on the lawyer's misconduct or grossly incompetent representation.
+7. Reversal of a judgment based in whole or in part on the lawyer's misconduct, grossly incompetent representation or willful misrepresentation [S-1251].
 
 Failure to report is a separate ground for discipline. **Tested:** Feb. 2026 Q3, Jul. 2026 Q1.
 
 ### VIII.F Discrimination, harassment and retaliation (rule 8.4.1 vs. ABA 8.4(g))
-R-PRF-095 [VERIFY V-464].
+R-PRF-095 [S-1256] [S-1260].
 - California never adopted ABA MR 8.4(g) [S-082].
-- **California rule 8.4.1** prohibits **unlawful** discrimination, harassment and retaliation in representing clients, in accepting or terminating representation, and in law firm operations.
+- **California rule 8.4.1** prohibits **unlawful** discrimination, harassment and retaliation in representing clients, in accepting or terminating representation, and in law firm operations — which include a corporate legal department, a "law firm" under rule 1.0.1(c) [S-1260].
 - **ABA 8.4(g)** covers conduct the lawyer knows or reasonably should know is harassment or discrimination in conduct related to the practice of law.
 
 ### VIII.G Disciplinary authority, choice of law and civility

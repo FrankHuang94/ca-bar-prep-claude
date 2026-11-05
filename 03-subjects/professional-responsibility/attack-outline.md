@@ -58,7 +58,7 @@ status: draft
 - **False evidence:** remonstrate → withdraw → ABA disclose / CA no disclosure; criminal defendant narrative (CA). (R-PRF-061)
 - **Fairness (3.4):** no obstruction/destruction/suppression; witness pay only expenses + lost time + expert fee, nothing contingent; ABA 3.4(f) no asking non-clients to stay silent (no CA twin). (R-PRF-062 to R-PRF-064)
 - **Closing:** ABA bars personal opinion on cause, credibility, civil culpability, guilt; CA 3.4(g) only guilt/innocence + personal knowledge. (R-PRF-066)
-- **Judges/jurors (3.5); publicity (3.6); lawyer-witness (3.7):** ABA hardship vs. CA informed written consent. (R-PRF-067 to R-PRF-069)
+- **Judges/jurors (3.5); publicity (3.6); lawyer-witness (3.7):** ABA hardship vs. CA informed written consent (prosecutor: head of office consents). (R-PRF-067 to R-PRF-069)
 - **Prosecutor (3.8):** probable cause; timely disclosure of exculpatory and mitigating information. (R-PRF-070)
 - **CA 3.10:** no threats of criminal, administrative or disciplinary charges in a civil dispute; ABA Op. 92-363. (R-PRF-071)
 
@@ -67,7 +67,7 @@ status: draft
 
 ### Firm, staff, UPL
 - **5.1** managers and supervisors; **5.2** subordinate excused only for a reasonable resolution of an arguable question; **5.3** nonlawyers; **CA 5.3.1** disbarred and suspended lawyers + notice. (R-PRF-076 to R-PRF-079)
-- **5.4** no fee sharing or ownership with nonlawyers; AB 931. (R-PRF-080)
+- **5.4** no fee sharing or ownership with nonlawyers (CA 5.4(a)(6): settlement fees with a 501(c)(3) nonprofit); AB 931. **5.6** no practice restrictions; CA 5.6(b) no agreement barring reports of violations. (R-PRF-080, R-PRF-081)
 - **5.5 / § 6125:** no UPL or assisting it; MJP: CA Rules of Court 9.40–9.48, *Birbrower*; ABA 5.5(c) safe harbors. (R-PRF-082, R-PRF-083)
 
 ### Advertising

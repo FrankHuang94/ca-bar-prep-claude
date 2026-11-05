@@ -45,9 +45,9 @@ Only citations I am confident of are listed. Uncertain authorities used elsewher
 | Third persons | 4.1–4.4 | 4.1–4.4 | 4.3, 4.4 differ | R-PRF-072 to R-PRF-075 |
 | Supervision; nonlawyers | 5.1–5.3 | 5.1–5.3 | Same | R-PRF-076 to R-PRF-078 |
 | Disbarred/suspended lawyers | 5.3.1 | — | CA only | R-PRF-079 |
-| Nonlawyer fee sharing | 5.4 | 5.4 | Similar | R-PRF-080 |
+| Nonlawyer fee sharing | 5.4 | 5.4 | Similar (CA adds 5.4(a)(6); AB 931) | R-PRF-080 |
 | UPL / MJP | 5.5 | 5.5 | Differs (MJP) | R-PRF-082, R-PRF-083 |
-| Restrictions on practice | 5.6 | 5.6 | Same | R-PRF-081 |
+| Restrictions on practice | 5.6 | 5.6 | Same core (CA adds 5.6(b)) | R-PRF-081 |
 | Public service | 6.3–6.5 (6.1–6.2 reserved) | 6.1–6.5 | Differs | R-PRF-084 |
 | Advertising; solicitation | 7.1–7.5 | 7.1–7.3 | Differs | R-PRF-085 to R-PRF-088 |
 | Admission; judges | 8.1, 8.1.1, 8.2 | 8.1, 8.2 | Same | R-PRF-089, R-PRF-090 |
@@ -59,9 +59,9 @@ Only citations I am confident of are listed. Uncertain authorities used elsewher
 
 | Authority | Rule / holding | Rule ID |
 |---|---|---|
-| B&P § 6068(a)–(i), (m) | Core statutory duties (laws, courts, just causes, truth, confidentiality, civility, cooperation, communication) | R-PRF-004 |
+| B&P § 6068(a)–(i), (m) | Core statutory duties (laws, courts, just causes, truth, confidentiality, no prejudicial facts about parties or witnesses, cooperation, communication) | R-PRF-004 |
 | B&P § 6068(e)(1)–(2) | Confidentiality "at every peril"; permissive disclosure only to prevent a criminal act likely to cause death or substantial bodily harm | R-PRF-013, R-PRF-014 |
-| B&P § 6068(o) | 30-day self-reporting of listed events [S-552] | R-PRF-094 |
+| B&P § 6068(o) | 30-day self-reporting of listed events, (o)(1)–(7) [S-552] [S-1250] | R-PRF-094 |
 | B&P § 6090.5 | No agreements barring or withdrawing State Bar complaints | R-PRF-031 |
 | B&P §§ 6101, 6102, 6106 | Discipline for convictions and for any act of moral turpitude, dishonesty or corruption | R-PRF-093 |
 | B&P § 6103 | Willful disobedience of court orders / violation of duties | R-PRF-065 |
@@ -143,7 +143,6 @@ Only citations I am confident of are listed. Uncertain authorities used elsewher
 | ABA Formal Op. 512 (2024) | Generative AI and existing duties | R-PRF-008 |
 | ABA Formal Op. 513 (2024) | Model Rule 1.16(a) duty to inquire [S-126] | R-PRF-050 |
 | State Bar Formal Op. 2020-203 | Data breaches and confidentiality | R-PRF-013 |
-| State Bar Formal Op. 2021-205 | Duties to prospective clients | R-PRF-003 |
 | State Bar Formal Op. 2026-210 | Flat fees and termination [S-559] | R-PRF-045 |
 | State Bar Rule 8.3 FAQ and scenarios | Applying the reporting duty [S-570] | R-PRF-091 |
 | State Bar Practical Guidance for the Use of Generative AI (2023) | AI and existing duties | R-PRF-008 |

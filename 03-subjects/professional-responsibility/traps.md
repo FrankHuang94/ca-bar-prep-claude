@@ -27,10 +27,10 @@ Rule IDs point to [`rule-statements.md`](rule-statements.md). PR is not on the M
 10. **Fee splits.** ABA requires proportionality or joint responsibility. California does **not**, but requires a written lawyer-lawyer agreement and the client's written consent after written disclosure. Do not say "referral fees are banned" in California. (R-PRF-046)
 11. **Loans to clients.** Prohibited under the ABA; permitted in California after retention with a written promise to repay **and** rule 1.7/1.8.1 compliance. (R-PRF-028)
 12. **Prospective malpractice limits.** ABA: allowed if the client is independently represented. California: never. (R-PRF-031)
-13. **Lawyer-witness exception.** ABA: substantial hardship. California: client's informed written consent. Don't swap them. (R-PRF-069)
+13. **Lawyer-witness exception.** ABA: substantial hardship. California: client's informed written consent — and for a prosecutor, consent of the head of the office or a designee (not "unavailable to prosecutors"). Don't swap them. (R-PRF-069)
 14. **Threatening criminal charges.** California rule 3.10 bans it; the ABA has no rule (Formal Op. 92-363). Don't say "both prohibit". (R-PRF-071)
 15. **Duty to report (rule 8.3).** California has had a duty since Aug. 1, 2023 — older selected answers that say "California has no reporting duty" are **out of date**. Trigger: CA "credible evidence" of listed conduct; ABA "knows" of any serious violation. (R-PRF-091)
-16. **Closing argument.** California rule 3.4(g) **does** bar personal opinion on the guilt or innocence of an accused (and personal knowledge). It does **not** list credibility, justness of cause or civil culpability. The Feb. 2024 selected-answer claim that California has no bar at all is wrong as to guilt. (R-PRF-066) [VERIFY V-450]
+16. **Closing argument.** California rule 3.4(g) **does** bar personal opinion on the guilt or innocence of an accused (and personal knowledge). It does **not** list credibility, justness of cause or civil culpability. The Feb. 2024 selected-answer claim that California has no bar at all is wrong as to guilt. (R-PRF-066) [S-1255]
 17. **Client file.** No retaining lien in California — return the file even if unpaid. (R-PRF-053)
 18. **Permissive withdrawal "repugnant" ground.** ABA only; California has no such ground. (R-PRF-051)
 19. **Diminished capacity.** California has no rule 1.14; don't apply ABA protective disclosures to a California lawyer. (R-PRF-054)
@@ -50,7 +50,7 @@ Rule IDs point to [`rule-statements.md`](rule-statements.md). PR is not on the M
 31. **Represented organization.** Rule 4.2 does not cover every employee — only managers, plus employees asked about their own act or omission that may bind or be imputed to the organization (CA), or constituents who supervise, direct or regularly consult with the organization's lawyer, can obligate it, or whose act or omission may be imputed (ABA cmt. [7]). The old ABA "admission" category was deleted in 2002. Former employees are usually fair game. (R-PRF-073)
 32. **Inadvertent documents.** California requires the lawyer to stop reading; the ABA only to notify. (R-PRF-075)
 33. **Organization as client.** Advising the CEO personally when the client is the company. Give an Upjohn-style warning when interests diverge. (R-PRF-055)
-34. **Self-reporting (§ 6068(o)).** Three suits **within 12 months**, not three suits ever. A first misdemeanor DUI is generally not self-reportable under (o)(5). (R-PRF-094) [VERIFY V-452]
+34. **Self-reporting (§ 6068(o)).** Three suits **within 12 months**, not three suits ever. A first misdemeanor DUI is generally not self-reportable under (o)(5). (R-PRF-094) [S-1250]
 35. **Moral turpitude.** It is not limited to crimes or to conduct in practice (B&P § 6106). (R-PRF-093)
 
 ## D. MPRE distractor patterns (ABA only)
