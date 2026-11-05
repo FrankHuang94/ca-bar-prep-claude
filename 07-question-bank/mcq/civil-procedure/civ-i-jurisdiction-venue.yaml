@@ -96,9 +96,9 @@ questions:
     subject-matter jurisdiction.
   call: "How should the court rule on the motion?"
   options:
-    A: "Deny it, because resolving the case will require the court to interpret a federal statute."
+    A: "Deny it, because resolving the case will require the court to interpret a federal statute that Rivas raised in her own complaint."
     B: "Deny it, because the amount in controversy exceeds $75,000."
-    C: "Grant it, because a breach-of-contract claim can never arise under federal law."
+    C: "Grant it, because a breach-of-contract claim can never arise under federal law, whatever federal issues it raises."
     D: "Grant it, because the federal issue appears only as an anticipated defense, not as part of Rivas's own claim."
   answer: D
   explanation_correct: >-
@@ -110,8 +110,9 @@ questions:
     federal defense as a federal question.
   explanation_each_wrong_option:
     A: >-
-      The need to interpret federal law in resolving a defense does not make the plaintiff's claim one
-      that arises under federal law.
+      The need to interpret federal law in resolving a defense does not make the plaintiff's claim
+      one that arises under federal law. Mentioning the anticipated defense in the complaint does
+      not change that.
     B: >-
       The amount matters only for diversity jurisdiction, and both parties are Texas citizens.
     C: >-
@@ -138,9 +139,9 @@ questions:
     claim against it for lack of subject-matter jurisdiction. No federal claim is involved.
   call: "How should the court rule on Rungco's motion?"
   options:
-    A: "Deny it, because Patel's claim against Rungco arises from the same occurrence as her claim against Dynacore and falls within supplemental jurisdiction."
-    B: "Grant it, because when jurisdiction rests solely on diversity, there is no supplemental jurisdiction over a plaintiff's claim against a person made a party under Rule 14, and Patel and Rungco are both Oregon citizens."
-    C: "Grant it, and also dismiss Dynacore's third-party claim against Rungco, because Rungco is not diverse from Patel."
+    A: "Deny it, because Patel's claim against Rungco arises from the same occurrence as her claim against Dynacore, so it falls within supplemental jurisdiction over the whole case or controversy."
+    B: "Grant it, because in a diversity-only case there is no supplemental jurisdiction over a plaintiff's claim against a Rule 14 party, and Patel and Rungco are both Oregon citizens."
+    C: "Grant it, and also dismiss Dynacore's third-party claim against Rungco, because Rungco is not diverse from Patel and complete diversity must exist among all parties."
     D: "Deny it, because Rungco is already a party to the action and has been properly served."
   answer: B
   explanation_correct: >-
@@ -222,8 +223,8 @@ questions:
     jurisdiction.
   call: "How should the court rule on the motion?"
   options:
-    A: "Deny it, because Summit Ridge is a citizen only of Delaware and Kansas."
-    B: "Deny it, because a majority of Summit Ridge's members are diverse from Morrow."
+    A: "Deny it, because Summit Ridge, like a corporation, is a citizen only of Delaware, where it was organized, and Kansas, its principal place of business."
+    B: "Deny it, because two of Summit Ridge's three members are Kansas citizens, so a majority of its members are diverse from Morrow."
     C: "Grant it, because Summit Ridge takes the citizenship of each of its members, including the member who is a Missouri citizen."
     D: "Grant it, because a limited liability company may never invoke diversity jurisdiction."
   answer: C
@@ -263,9 +264,9 @@ questions:
     of personal jurisdiction.
   call: "How should the court rule on the motion?"
   options:
-    A: "Deny it, because Kestrel's sales in Florida are continuous and systematic."
-    B: "Deny it, because Diaz is a Florida citizen and Florida has an interest in giving her a forum."
-    C: "Deny it, because Kestrel's warehouse makes it physically present in Florida."
+    A: "Deny it, because Kestrel's sales in Florida, through thousands of cars and a regional warehouse, are continuous and systematic."
+    B: "Deny it, because Diaz is now a Florida citizen, and Florida has a strong interest in providing its injured residents a convenient forum for their claims."
+    C: "Deny it, because Kestrel's regional parts warehouse makes it physically present in Florida, which supports jurisdiction over any claim against it."
     D: "Grant it, because Kestrel is not at home in Florida, and Diaz's claim does not arise out of or relate to Kestrel's Florida contacts."
   answer: D
   explanation_correct: >-
@@ -306,10 +307,10 @@ questions:
     Oregon for breach of warranty. Voss moved to dismiss for lack of personal jurisdiction.
   call: "Does the federal court in Oregon have personal jurisdiction over Voss?"
   options:
-    A: "Yes, because Voss knew the horse would be taken to Oregon, so harm there was foreseeable."
-    B: "No, because Voss did not purposefully direct any activity at Oregon; her only link to Oregon is Larkin's own decision to live there and take the horse there."
-    C: "Yes, because Voss replied to emails that Larkin sent from Oregon."
-    D: "No, because a defendant must be physically present in the forum to be subject to specific jurisdiction."
+    A: "Yes, because Voss knew when she sold the horse that Larkin lived in Oregon and would take it there, so harm in Oregon from a lame horse was foreseeable to her."
+    B: "No, because Voss did not purposefully direct any activity at Oregon; her only link to Oregon is Larkin's decision to live there and take the horse there."
+    C: "Yes, because Voss replied to emails that Larkin sent from Oregon, which were deliberate communications directed into the forum State."
+    D: "No, because a defendant must be physically present in the forum, or have an office, employee or agent there, to be subject to specific jurisdiction in that State."
   answer: B
   explanation_correct: >-
     Specific jurisdiction requires contacts that the defendant itself purposefully creates with the
@@ -393,10 +394,10 @@ questions:
     never sold this particular heater into Nevada.
   call: "How should the court rule on the motion?"
   options:
-    A: "Grant it, because Arden is not at home in Nevada."
-    B: "Grant it, because Arden's Nevada sales did not cause Cole's injury, so his claim does not arise out of Arden's Nevada contacts."
-    C: "Deny it, because any manufacturer whose product causes injury in a State may be sued there."
-    D: "Deny it, because Arden systematically served the Nevada market for the Model H-7, and Cole's claim relates to those contacts since the heater malfunctioned and injured a Nevada resident in Nevada."
+    A: "Grant it, because Arden is incorporated and headquartered in Ohio, so it is not at home in Nevada and is subject to general jurisdiction only in Ohio."
+    B: "Grant it, because Arden's Nevada sales did not cause Cole's injury, since this particular heater was first sold new in Utah, so his claim does not arise out of Arden's Nevada contacts."
+    C: "Deny it, because any manufacturer whose product causes injury in a State may be sued there, wherever the product was originally sold."
+    D: "Deny it, because Arden systematically served the Nevada market for the Model H-7, and Cole's claim relates to those contacts, since that model malfunctioned and injured him in Nevada."
   answer: D
   explanation_correct: >-
     Specific jurisdiction requires that the claim "arise out of or relate to" the defendant's forum
@@ -477,10 +478,10 @@ questions:
     personal jurisdiction by waiving service and that, in any event, her motion was untimely.
   call: "Which of the following is correct?"
   options:
-    A: "Haskins waived her personal-jurisdiction objection by returning the waiver of service."
-    B: "Haskins preserved her objection, because waiving service does not waive personal-jurisdiction defenses, and her motion was filed within 60 days after the waiver request was sent."
-    C: "Haskins's motion was untimely, because it was not filed within 21 days after she returned the waiver."
-    D: "Haskins preserved her objection, but only because a defendant who waives service has 90 days to respond."
+    A: "Haskins waived her personal-jurisdiction objection by signing and returning the waiver of service, which operates as a voluntary submission to the court's authority over her."
+    B: "Haskins preserved her objection, because waiving service does not waive personal-jurisdiction defenses, and she moved within 60 days after the waiver request was sent."
+    C: "Haskins's motion was untimely, because a defendant must respond within 21 days after service, and she filed it more than 21 days after she signed and returned the waiver."
+    D: "Haskins preserved her objection, but only because a defendant who waives service has 90 days after the request was sent to answer or move."
   answer: B
   explanation_correct: >-
     Waiving service of a summons does not waive any objection to personal jurisdiction or venue (FRCP
@@ -562,10 +563,10 @@ questions:
     transfer, and Talon then moved in the Oregon federal court to dismiss the claim as time-barred.
   call: "How should the Oregon federal court rule?"
   options:
-    A: "Grant the motion, because a transferee court applies the choice-of-law rules of the State in which it sits."
-    B: "Grant the motion, because statutes of limitations are procedural, so the transferee court applies its own forum's limitations period."
+    A: "Grant the motion, because a transferee court in a diversity case applies the choice-of-law rules of the State in which it sits, here Oregon."
+    B: "Grant the motion, because statutes of limitations are procedural, so the transferee court applies its own forum's limitations period, whatever law governs the merits of the claim."
     C: "Deny the motion, because federal law, not state law, governs the timeliness of a claim filed in federal court."
-    D: "Deny the motion, because after a § 1404(a) transfer the transferee court applies the law, including the choice-of-law rules, that the transferor court would have applied."
+    D: "Deny the motion, because after a § 1404(a) transfer the transferee court applies the law, including choice-of-law rules, that the transferor court would have applied."
   answer: D
   explanation_correct: >-
     A § 1404(a) transfer changes the courtroom, not the law. The transferee court must apply the state
@@ -607,8 +608,8 @@ questions:
   call: "How should the court rule?"
   options:
     A: "Grant the motion, because an adequate alternative forum exists and the private and public interest factors strongly favor trial in Portugal."
-    B: "Deny the motion, because a federal court may not decline to exercise jurisdiction that Congress has conferred."
-    C: "Deny the motion, because the workers would recover less under Portuguese law."
+    B: "Deny the motion, because a federal court may not decline to exercise jurisdiction that Congress has conferred, and jurisdiction and venue in Kansas are proper."
+    C: "Deny the motion, because Portuguese law does not allow strict products liability and limits damages, so the workers would recover less there than in Kansas."
     D: "Transfer the case to a court in Portugal under 28 U.S.C. § 1404(a)."
   answer: A
   explanation_correct: >-

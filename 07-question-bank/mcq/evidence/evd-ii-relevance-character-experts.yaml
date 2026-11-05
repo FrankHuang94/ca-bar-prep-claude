@@ -17,8 +17,8 @@ questions:
   options:
     A: "Grant it, because, given the stipulation, the name and nature of the conviction add unfair prejudice that substantially outweighs their probative value."
     B: "Deny it, because the prosecution is always entitled to prove the elements of its case with evidence of its own choosing."
-    C: "Grant it, because evidence of a defendant's prior crimes is never admissible in the prosecution's case-in-chief."
-    D: "Deny it, because a stipulation cannot remove an element of the offense from the jury's consideration."
+    C: "Grant it, because evidence of a defendant's prior crimes is never admissible in the prosecution's case-in-chief, even when the prior crime is an element of the charged offense."
+    D: "Deny it, because a stipulation cannot remove an element of the offense from the jury's consideration, and the prosecution must prove every element beyond a reasonable doubt."
   answer: A
   explanation_correct: >-
     FRE 403 (R-EVD-003) as applied in Old Chief v. United States: where the prior conviction is offered only

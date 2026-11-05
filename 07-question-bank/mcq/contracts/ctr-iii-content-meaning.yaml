@@ -99,9 +99,9 @@ questions:
   call: "Is Norcross's evidence admissible to establish the meaning of \"2x4\" in the contract?"
   options:
     A: "No, because the written term \"2x4\" is unambiguous on its face."
-    B: "Yes, because a usage of trade regularly observed in the trade in which the parties are engaged gives meaning to the contract's terms whether or not a party actually knew of it."
-    C: "No, because evidence of trade usage may not be used to vary an express term of a written contract."
-    D: "Yes, but only if Norcross proves that Halsey's agent actually knew of the usage when the contract was made."
+    B: "Yes, because a usage of trade regularly observed in the parties' trade gives meaning to the contract's terms whether or not a party actually knew of it."
+    C: "No, because evidence of trade usage may not be used to vary or contradict an express term, such as the stated stud size, of a final written contract signed by both parties."
+    D: "Yes, but only if Norcross proves that Halsey's agent actually knew of the usage when the contract was made, because a party is bound only by usages it knew of."
   answer: B
   explanation_correct: >-
     For this sale of goods, a usage of trade in the vocation or trade in which the parties are engaged,
@@ -142,8 +142,8 @@ questions:
     unenforceable because Ellery never promised to do anything.
   call: "Is Nakamura's argument likely to succeed?"
   options:
-    A: "Yes, because Ellery made no express promise, so the agreement lacked mutuality of obligation."
-    B: "Yes, because an exclusive agency agreement is enforceable only if it states minimum sales targets."
+    A: "Yes, because Ellery made no express promise to do anything, so the agreement lacked mutuality of obligation and Ellery's side of the bargain was illusory."
+    B: "Yes, because an exclusive agency agreement is enforceable only if it states minimum sales targets or some other measurable duty of the agent."
     C: "No, because the exclusive arrangement implies a promise by Ellery to use reasonable efforts to license the software, which is consideration."
     D: "No, because Ellery's later sales efforts supplied the missing consideration."
   answer: C

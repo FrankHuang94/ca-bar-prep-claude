@@ -170,10 +170,10 @@ questions:
     mower was built exactly as designed. The buyer sues the manufacturer in strict products liability.
   call: What is the buyer's strongest argument?
   options:
-    A: "The risks of the design outweighed its benefits, because a feasible, inexpensive alternative design would have reduced the risk without impairing the mower's usefulness."
-    B: "The mower had a manufacturing defect because it caused an injury."
-    C: "The manufacturer failed to use reasonable care in assembling the mower."
-    D: "Any product that causes injury during ordinary use is defective."
+    A: "The design was defective, because a feasible, inexpensive alternative design would have reduced the risk without impairing the mower's usefulness."
+    B: "The mower had a manufacturing defect, because a properly made mower would not have injured an operator who stepped off it to move a branch."
+    C: "The manufacturer failed to use reasonable care in assembling the mower, which allowed the blades to keep spinning after the operator left the seat."
+    D: "Any product that causes serious injury during ordinary, foreseeable use is defective as a matter of law, whatever its design or construction."
   answer: A
   explanation_correct: >-
     Design defect (R-TRT-083): under the risk-utility test, a product is defectively designed if the
@@ -289,10 +289,10 @@ questions:
     manufacturer in strict products liability for the repair cost and the lost profits.
   call: Is the trucking company likely to recover in strict liability?
   options:
-    A: "Yes, because the truck had a manufacturing defect when it left the manufacturer's control."
-    B: "Yes, but only for the repair cost, not the lost profits."
-    C: "No, because damage only to the defective product itself and the resulting lost profits are economic losses, recoverable if at all in warranty or contract."
-    D: "No, because the trucking company bought the truck from a dealer rather than from the manufacturer."
+    A: "Yes, because the truck had a manufacturing defect when it left the manufacturer's control, and the defect caused the compressor to burn out and damage the unit."
+    B: "Yes, but only for the cost of repairing the refrigeration unit, not for the lost profits, which are not physical harm to property."
+    C: "No, because damage only to the defective product itself and the resulting lost profits are economic losses, recoverable if at all in warranty."
+    D: "No, because the trucking company bought the truck from a dealer rather than from the manufacturer, so it lacks privity with the manufacturer."
   answer: C
   explanation_correct: >-
     Economic loss (R-TRT-086): strict products liability covers personal injury and damage to property other

@@ -56,10 +56,10 @@ questions:
     that the judge misinterpreted an unambiguous written term of the contract.
   call: "What standards of review will the court of appeals apply?"
   options:
-    A: "De novo review of both the finding about the oral agreement and the interpretation of the written term."
+    A: "De novo review of both the finding about the oral agreement and the interpretation of the written term, because the appeal follows a bench trial rather than a jury verdict, so no jury finding is owed deference."
     B: "Abuse-of-discretion review of both."
-    C: "De novo review of the finding about the oral agreement, because it rests on witness testimony rather than documents, and clear-error review of the interpretation."
-    D: "Clear-error review of the finding about the oral agreement, giving due regard to the judge's credibility determinations, and de novo review of the interpretation of the unambiguous written term."
+    C: "De novo review of the finding about the oral agreement, because it rests on witness testimony rather than documents, and clear-error review of the judge's interpretation of the written term."
+    D: "Clear-error review of the finding about the oral agreement, with due regard for the judge's credibility determinations, and de novo review of the interpretation of the written term."
   answer: D
   explanation_correct: >-
     Findings of fact in a bench trial, whether based on oral or documentary evidence, are set aside only
@@ -97,9 +97,9 @@ questions:
     30 days after the judgment was entered.
   call: "Is the appeal timely?"
   options:
-    A: "No, because the notice of appeal had to be filed within 30 days after June 2."
-    B: "Yes, because the timely Rule 59 motion postponed the time to appeal until the order disposing of it, and the notice was filed within 30 days after that order."
-    C: "No, because a Rule 59 motion must be filed within 10 days after entry of judgment, so it did not postpone anything."
+    A: "No, because the notice of appeal had to be filed within 30 days after June 2, and a post-trial motion does not extend that deadline."
+    B: "Yes, because the timely Rule 59 motion postponed the time to appeal until the order disposing of it, and the notice came within 30 days after that order."
+    C: "No, because a Rule 59 motion must be filed within 10 days after entry of judgment, so the June 25 motion was untimely and did not postpone the 30-day time to appeal."
     D: "Yes, because a party has 60 days to appeal in any federal civil case."
   answer: B
   explanation_correct: >-

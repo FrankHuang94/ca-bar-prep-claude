@@ -53,8 +53,8 @@ questions:
     wants to consider both documents in ruling on the motion.
   call: "Which of the following is correct?"
   options:
-    A: "The court may consider the documents and decide the Rule 12(b)(6) motion on them, because a release is an affirmative defense."
-    B: "The court must deny the motion, because a Rule 12(b)(6) motion may never be decided once materials outside the pleadings have been filed."
+    A: "The court may consider the documents and decide the Rule 12(b)(6) motion on them, because a release is an affirmative defense that the defendant may properly raise by a pre-answer motion."
+    B: "The court must deny the motion, because a Rule 12(b)(6) motion may never be decided once materials outside the pleadings have been filed, even if the court excludes them."
     C: "The court may consider the documents only if Garnet does not object to them."
     D: "If the court considers the documents, it must treat the motion as one for summary judgment and give all parties a reasonable opportunity to present pertinent material."
   answer: D
@@ -97,8 +97,8 @@ questions:
   call: "How should the court rule on the motion?"
   options:
     A: "Deny it, because Ruiz's testimony creates a genuine dispute of material fact, and the court may not weigh credibility on summary judgment."
-    B: "Grant it, because the weight of the evidence overwhelmingly favors the defendant."
-    C: "Grant it, because a party's own testimony cannot create a genuine dispute of fact."
+    B: "Grant it, because the weight of the evidence, three disinterested bystanders and a traffic engineer against one interested party, overwhelmingly favors the defendant."
+    C: "Grant it, because a party's own self-serving testimony cannot by itself create a genuine dispute of fact when disinterested witnesses contradict it."
     D: "Deny it, because summary judgment is never appropriate in negligence cases."
   answer: A
   explanation_correct: >-
@@ -141,8 +141,8 @@ questions:
     specifying the lack of evidence that the defect caused the fire.
   call: "How should the court rule on the motion?"
   options:
-    A: "Deny it, because only the jury may decide whether the plaintiff has proved her claim."
-    B: "Deny it, because a motion for judgment as a matter of law may be made only after the jury returns its verdict."
+    A: "Deny it, because only the jury may decide whether the plaintiff has proved her claim, and taking the case from the jury would violate the Seventh Amendment."
+    B: "Deny it, because a motion for judgment as a matter of law may be made only after the jury has returned its verdict on the claim."
     C: "Grant it, because the plaintiff has been fully heard and a reasonable jury would not have a legally sufficient evidentiary basis to find causation."
     D: "Grant it only if the judge personally finds the defendant's evidence more credible than the plaintiff's."
   answer: C
@@ -266,10 +266,10 @@ questions:
     relief under Rule 60(b)(6) on the same facts. The judgment is not void.
   call: "How should the court rule?"
   options:
-    A: "Grant relief under Rule 60(b)(1), because the motion was made within a reasonable time after Lindqvist decided to act."
-    B: "Grant relief under Rule 60(b)(6), because that clause has no fixed time limit and Lindqvist has a meritorious defense."
+    A: "Grant relief under Rule 60(b)(1), because the motion was made within a reasonable time after Lindqvist decided to act, and her lawyer's calendaring error may be excusable neglect."
+    B: "Grant relief under Rule 60(b)(6), because that clause has no fixed time limit, only a reasonable-time requirement, and Lindqvist has presented a meritorious defense to the claim."
     C: "Grant relief, because a default judgment may be set aside for good cause at any time."
-    D: "Deny relief, because a Rule 60(b)(1) motion must be made no more than a year after entry of the judgment, and Rule 60(b)(6) is unavailable for grounds covered by Rule 60(b)(1)."
+    D: "Deny relief, because a Rule 60(b)(1) motion must be made within a year after entry of the judgment, and Rule 60(b)(6) cannot be used for grounds covered by Rule 60(b)(1)."
   answer: D
   explanation_correct: >-
     A Rule 60(b) motion must be made within a reasonable time, and for mistake, inadvertence, surprise
@@ -281,6 +281,7 @@ questions:
   explanation_each_wrong_option:
     A: >-
       The one-year limit for 60(b)(1)-(3) is an outer limit; "reasonable time" cannot extend it.
+      Whether the calendaring error was excusable neglect does not matter once that year has run.
     B: >-
       Clause (6) is mutually exclusive with clauses (1)-(5); a calendaring error is excusable-neglect
       territory under clause (1).

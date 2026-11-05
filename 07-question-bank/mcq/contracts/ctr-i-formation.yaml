@@ -108,7 +108,7 @@ questions:
   call: "What is Ruiz's strongest argument that Brandt's statement on June 11 did not end Ruiz's right to earn the $4,000?"
   options:
     A: "Once Ruiz began the requested performance, an option contract arose, and Brandt could not revoke while Ruiz had time to complete the work."
-    B: "Brandt's offer invited acceptance by a promise, and Ruiz's arrival with his crew was a promise by conduct to finish the job."
+    B: "Brandt's offer invited acceptance by a promise, and Ruiz's arrival with his crew and equipment was a promise by conduct to finish the whole job."
     C: "An offer that sets a deadline for performance is irrevocable until the deadline passes."
     D: "Ruiz's preparations in assembling a crew and equipment made Brandt's offer binding however little work was done."
   answer: A
@@ -151,10 +151,10 @@ questions:
     applicable statute of frauds is satisfied.
   call: "Is Linwood bound to sell the paper at $6.10 per ream?"
   options:
-    A: "No, because Ames gave no consideration for Linwood's promise to keep the offer open."
+    A: "No, because Ames gave no consideration for Linwood's promise to keep the offer open, so no option contract was formed and Linwood remained free to revoke."
     B: "No, because Linwood withdrew the offer before Ames accepted it."
     C: "Yes, because Linwood is a merchant that made a signed written offer to sell goods giving assurance it would be held open for less than three months."
-    D: "Yes, because Ames is a merchant that is entitled to rely on a stated acceptance period."
+    D: "Yes, because Ames is a merchant that was entitled to rely on the 45-day acceptance period stated in Linwood's offer."
   answer: C
   explanation_correct: >-
     UCC § 2-205 (R-CTR-009): a merchant's signed written offer to buy or sell goods that by its terms
@@ -236,7 +236,7 @@ questions:
   call: "Which of the following is correct?"
   options:
     A: "Gardner is not liable, because shipping goods different from those ordered is a counteroffer, which the store rejected."
-    B: "Gardner is not liable, because an order for prompt shipment can be accepted only by a prompt promise to ship."
+    B: "Gardner is not liable, because an order for prompt shipment can be accepted only by a prompt promise to ship, which Gardner never made."
     C: "Gardner is liable only if it knew, when it shipped, that the SP-16 stockpots did not conform to the order."
     D: "Gardner is liable, because its shipment of nonconforming goods was both an acceptance of the order and a breach."
   answer: D
@@ -320,7 +320,7 @@ questions:
     Crestline sued for breach.
   call: "Is Millbrook likely to be liable for refusing to supply the additional flour?"
   options:
-    A: "Yes, because a requirements contract obligates the seller to supply whatever quantity the buyer orders."
+    A: "Yes, because a requirements contract obligates the seller to supply whatever quantity the buyer orders during the term at the agreed price."
     B: "No, because Crestline's demand was not made in good faith and was unreasonably disproportionate to its prior requirements."
     C: "No, because a requirements contract states no definite quantity and is unenforceable as illusory."
     D: "Yes, because Millbrook assumed the risk of a rise in market price when it agreed to a fixed price."
@@ -363,10 +363,10 @@ questions:
     sues for it.
   call: "Is Pace likely to prevail?"
   options:
-    A: "No, because Pace was already bound to build the garage, and the lumber price increase was not an unanticipated circumstance that made the modification fair and equitable."
-    B: "No, because the common law never enforces a promise to modify a contract unless new consideration is given."
+    A: "No, because Pace was already bound to build the garage, and the lumber price increase was not an unanticipated circumstance making the modification fair and equitable."
+    B: "No, because the common law never enforces a promise to modify a contract unless new consideration is given, and Pace gave Huang nothing new in exchange for the extra $8,000."
     C: "Yes, because Huang's promise to pay more was in a signed writing."
-    D: "Yes, because parties may always modify their contract, and Huang received the benefit of a finished garage."
+    D: "Yes, because parties are always free to modify their contract by mutual agreement, and Huang received the benefit he wanted when he signed: a garage finished before winter."
   answer: A
   explanation_correct: >-
     Performing a duty already owed to the promisor is not consideration, so a promise to pay more for
@@ -407,8 +407,8 @@ questions:
     promise other than accept the payments.
   call: "In a jurisdiction that follows the Restatement (Second) of Contracts, which of the following is Daley's best argument for enforcing the promise?"
   options:
-    A: "Mercer's promise was supported by consideration, because Daley's rescue was a legal detriment to Daley."
-    B: "Mercer's promise is enforceable under promissory estoppel, because Daley relied on it."
+    A: "Mercer's promise was supported by consideration, because Daley's rescue was a legal detriment to Daley that Mercer valued enough to promise lifetime payments."
+    B: "Mercer's promise is enforceable under promissory estoppel, because Daley relied on it by accepting the monthly payments for two years after Mercer made it."
     C: "Mercer's signed writing made the promise enforceable without consideration."
     D: "Mercer's promise was made in recognition of a material benefit Daley conferred, not as a gift, and enforcing it is necessary to prevent injustice."
   answer: D
@@ -426,7 +426,8 @@ questions:
       for it, so it is not consideration.
     B: >-
       Promissory estoppel (R-CTR-027) needs action or forbearance induced by the promise. The facts
-      say Daley did nothing in reliance except accept payments.
+      say Daley did nothing in reliance except accept payments, and accepting the promised payments
+      is not a detrimental change of position.
     C: >-
       A signed writing is not a substitute for consideration under the Restatement, apart from narrow
       categories such as options and guaranties.
@@ -450,7 +451,7 @@ questions:
     told Eli that she had changed her mind and would pay nothing.
   call: "What is Eli's best theory for recovering from Rosa?"
   options:
-    A: "Breach of contract, because Eli's enrollment in the program was consideration for Rosa's promise."
+    A: "Breach of contract, because Eli's quitting his job and enrolling in the program was consideration for Rosa's promise."
     B: "Quasi-contract, because Rosa was unjustly enriched by Eli's enrollment."
     C: "Promissory estoppel, because Rosa should reasonably have expected her promise to induce Eli to act, and it did."
     D: "None, because a promise to make a gift is unenforceable in all circumstances."
@@ -463,8 +464,8 @@ questions:
     Relief may be limited to his reliance losses. Trap: treating every gift promise as unenforceable.
   explanation_each_wrong_option:
     A: >-
-      Enrollment was a consequence of the gift, not something Rosa bargained for in exchange, so it
-      is not consideration.
+      Quitting his job and enrolling were consequences of the gift, not something Rosa bargained for
+      in exchange, so they are not consideration.
     B: >-
       Quasi-contract (R-CTR-018) requires a benefit conferred on the defendant. Eli's enrollment gave
       Rosa no benefit.
@@ -584,9 +585,9 @@ questions:
     Quarry in breach for missing the May 1 date.
   call: "Was Lakeside entitled to reject the May delivery on the ground that it was late?"
   options:
-    A: "No, because although the phone call could not modify the contract, it operated as a waiver that Lakeside could retract only by reasonable notice to Quarry that strict performance would be required."
-    B: "No, because the phone call validly modified the contract, since a good-faith modification of a sale of goods needs no consideration."
-    C: "Yes, because the contract could be modified only by a signed writing, so the delivery date remained the 1st of each month."
+    A: "No, because although the phone call could not modify the contract, it operated as a waiver that Lakeside could retract only by reasonable notice that strict performance would be required."
+    B: "No, because the phone call validly modified the contract, since a good-faith modification of a contract for the sale of goods needs no consideration and the parties then performed under it for three months."
+    C: "Yes, because the contract could be modified only by a writing signed by both parties, so the delivery date remained the 1st of each month despite the phone call."
     D: "Yes, because Lakeside's oral statement was not supported by any consideration."
   answer: A
   explanation_correct: >-
@@ -601,8 +602,9 @@ questions:
     Trap: stopping at the no-oral-modification clause.
   explanation_each_wrong_option:
     B: >-
-      Good faith dispenses with consideration under § 2-209(1), but § 2-209(2) still gives effect to a
-      signed no-oral-modification clause, so there was no valid modification.
+      Good faith dispenses with consideration under § 2-209(1), but § 2-209(2) still gives effect to
+      a signed no-oral-modification clause, so there was no valid modification. The three months of
+      performance show a waiver, not a modification.
     C: >-
       Ignores § 2-209(4)-(5). The failed modification still operated as a waiver, which Lakeside could
       not withdraw without reasonable notice.

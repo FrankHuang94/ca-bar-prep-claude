@@ -97,7 +97,7 @@ questions:
     paying Cobalt. Cobalt sued Orbis.
   call: "Is Cobalt likely to recover from Orbis?"
   options:
-    A: "No, because the contract prohibited assignment of rights without Orbis's consent, so the assignment was void."
+    A: "No, because the contract expressly prohibited either party from assigning its rights without the other's written consent, so the assignment was void."
     B: "No, because Orbis's payment to Tolland, the original obligee, discharged its obligation."
     C: "Yes, but only because Cobalt gave value for the assignment."
     D: "Yes, because the clause did not make the assignment ineffective, and Orbis paid Tolland after receiving notice of the assignment."
@@ -144,7 +144,7 @@ questions:
   options:
     A: "From either Kendrick or Lorne, because Kendrick remained liable after delegating, and Lorne became liable by assuming the duties."
     B: "Only from Lorne, because by not objecting to the delegation the association released Kendrick."
-    C: "Only from Kendrick, because the association was not a party to the agreement between Kendrick and Lorne."
+    C: "Only from Kendrick, because the association was not a party to the agreement between Kendrick and Lorne and so cannot enforce Lorne's promise."
     D: "Only from Lorne, because delegating routine duties transfers the duty of performance to the delegate."
   answer: A
   explanation_correct: >-

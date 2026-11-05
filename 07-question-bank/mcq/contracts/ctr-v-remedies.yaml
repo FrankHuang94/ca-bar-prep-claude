@@ -14,10 +14,10 @@ questions:
     sued Unity. No consequential damages are claimed.
   call: "How much can Tessler recover?"
   options:
-    A: "$400, because a buyer that fails to cover is limited to its out-of-pocket expenses."
-    B: "$4,500, because a buyer that does not cover may not recover incidental damages."
+    A: "$400, because a buyer that fails to cover is limited to the out-of-pocket expenses it reasonably incurred in looking for a substitute mixer."
+    B: "$4,500, the market price at the time of the breach minus the contract price, because a buyer that does not cover may not recover incidental damages."
     C: "$4,900, the difference between the market price when Tessler learned of the breach and the contract price, plus incidental damages."
-    D: "Nothing, because Tessler failed to mitigate by buying a substitute mixer."
+    D: "Nothing, because Tessler failed to mitigate its damages by buying a substitute mixer when one was available."
   answer: C
   explanation_correct: >-
     For non-delivery in a sale of goods, a buyer that does not cover may recover the market price at
@@ -57,9 +57,9 @@ questions:
     materials already incorporated into the site have no salvage value to Haverford.
   call: "What is the proper measure of Haverford's damages?"
   options:
-    A: "$700,000, the unpaid balance of the contract price."
-    B: "$150,000, its expected profit on the whole contract."
-    C: "$100,000, its costs incurred less the payments it received."
+    A: "$700,000, the unpaid balance of the contract price, because Oakmont's repudiation was wrongful."
+    B: "$150,000, its expected profit on the whole contract, which is what full performance would have earned."
+    C: "$100,000, its costs incurred less the payments it received, which restores it to its pre-contract position."
     D: "$250,000, its expected profit plus the costs it incurred, less the payments it received."
   answer: D
   explanation_correct: >-
@@ -268,9 +268,9 @@ questions:
     requiring her to return to work at Marigold.
   call: "What relief is the court most likely to grant Marigold?"
   options:
-    A: "An order requiring Celeste to return and serve as Marigold's head chef for the rest of the term."
-    B: "An injunction barring Celeste from working as a chef for another restaurant in the city for the rest of the term, because her services are unique and she expressly promised not to compete."
-    C: "Damages only, because courts never grant injunctive relief in personal-services contracts."
+    A: "An order requiring Celeste to return and serve as Marigold's head chef for the rest of the term, because her services as a celebrated chef are unique."
+    B: "An injunction barring Celeste from working as a chef for any other restaurant in the city for the rest of the term."
+    C: "Damages only, because courts never grant injunctive relief of any kind to enforce a personal-services contract."
     D: "Rescission of the contract and restitution of all salary Marigold paid Celeste."
   answer: B
   explanation_correct: >-

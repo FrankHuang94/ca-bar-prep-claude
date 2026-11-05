@@ -16,9 +16,9 @@ questions:
   call: "Which aspect of the TRO is improper?"
   options:
     A: "Its duration, because a TRO issued without notice may not exceed 14 days unless extended for good cause or with the adverse party's consent."
-    B: "Its issuance without notice, because a TRO may never issue without notice to the adverse party."
-    C: "The security requirement, because security may be required only for preliminary injunctions."
-    D: "Its issuance before the employee had answered the complaint."
+    B: "Its issuance without notice, because a TRO may never issue without notice to the adverse party, however urgent and irreparable the threatened harm may be."
+    C: "The security requirement, because security may be required only for preliminary injunctions, not for a TRO issued before the adverse party has any hearing."
+    D: "Its issuance before the employee had answered the complaint or had any opportunity to appear and oppose the motion."
   answer: A
   explanation_correct: >-
     Rule 65(b) permits a TRO without notice if specific facts in an affidavit or verified complaint
@@ -35,7 +35,8 @@ questions:
     C: >-
       Rule 65(c) requires security for TROs as well as preliminary injunctions.
     D: >-
-      TROs are designed for use at the start of a case; nothing requires an answer first.
+      TROs are designed for use at the start of a case, and Rule 65(b)(1) allows one without notice
+      or a hearing when its requirements are met; nothing requires an answer first.
   trap_type: overbroad
   authority: ["FRCP 65(b)(1)-(2)", "FRCP 65(c)"]
   source: original
@@ -56,7 +57,7 @@ questions:
     moved to strike the amended complaint as filed without leave.
   call: "How should the court rule on the motion?"
   options:
-    A: "Grant it, because a party may amend without leave only within 21 days after serving its own pleading."
+    A: "Grant it, because a party may amend without leave only within 21 days after serving its own pleading, and Bianchi served the complaint on February 1."
     B: "Grant it, because once an answer has been served, a party may amend only with the court's leave."
     C: "Deny it, because Bianchi amended within 21 days after service of the answer, which a party may do once as a matter of course."
     D: "Deny it, because a party may amend its pleading as a matter of course at any time before trial."
@@ -102,10 +103,10 @@ questions:
     suing. State law provides no more lenient relation-back rule.
   call: "Should the amendment relate back to the date of the original complaint?"
   options:
-    A: "No, because Navarro's failure to check public records shows that she made a choice, not a mistake."
-    B: "Yes, because the claim arises from the same occurrence, and within the Rule 4(m) period Summit Mall Services received notice of the action and knew or should have known that it would have been sued but for a mistake about the proper party's identity."
+    A: "No, because Navarro could easily have found the correct name in public records before she sued, so naming the wrong company was a deliberate choice on her part rather than a mistake about the proper party's identity."
+    B: "Yes, because the claim arises from the same occurrence, and within the Rule 4(m) period Summit Mall Services had notice of the action and knew it would have been sued but for a mistake about its identity."
     C: "No, because an amendment that changes the defendant never relates back."
-    D: "Yes, because an amendment relates back whenever the claim arises from the same occurrence as the original pleading."
+    D: "Yes, because an amendment relates back whenever the claim arises from the same conduct, transaction or occurrence set out in the original pleading, as Navarro's does."
   answer: B
   explanation_correct: >-
     An amendment changing the party against whom a claim is asserted relates back if (1) the claim
@@ -229,10 +230,10 @@ questions:
     her own injuries from the collision.
   call: "What is the effect of the first action on Polk's suit?"
   options:
-    A: "Polk's suit is barred, because her claim arose from the same occurrence as Ingram's claim and was a compulsory counterclaim that she failed to assert."
+    A: "Polk's suit is barred, because her claim arose from the same occurrence as Ingram's claim and was a compulsory counterclaim she failed to assert."
     B: "Polk's suit may proceed, because she won the first action."
-    C: "Polk's suit may proceed, because counterclaims are always optional in federal court."
-    D: "Polk's suit is barred only if the jury in the first action found that Polk was negligent."
+    C: "Polk's suit may proceed, because counterclaims are always optional in federal court, and a defendant may choose to bring its own claim later."
+    D: "Polk's suit is barred only if the jury in the first action actually found that Polk was negligent, because preclusion reaches only issues actually litigated and decided."
   answer: A
   explanation_correct: >-
     A pleading must state as a counterclaim any claim that the pleader has against an opposing party if
@@ -273,10 +274,10 @@ questions:
     third-party claim against it. Assume subject-matter and personal jurisdiction exist.
   call: "How should the court rule?"
   options:
-    A: "Deny both motions, because both third-party claims arise from the same occurrence as Ochoa's claim."
-    B: "Grant both motions, because Clearwater needed leave of court to file a third-party complaint after answering."
-    C: "Deny Drainco's motion but grant Velez's, because impleader is available only against a non-party who is or may be liable to the defendant for all or part of the plaintiff's claim."
-    D: "Grant Drainco's motion but deny Velez's, because indemnity claims must be brought in a separate action."
+    A: "Deny both motions, because both third-party claims arise from the same occurrence as Ochoa's claim, and that common origin is all Rule 14 requires for impleader."
+    B: "Grant both motions, because Clearwater needed the court's leave to file any third-party complaint once it had served its answer to Ochoa's complaint on April 1."
+    C: "Deny Drainco's motion but grant Velez's, because impleader reaches only a non-party who may be liable to the defendant for all or part of the plaintiff's claim."
+    D: "Grant Drainco's motion but deny Velez's, because indemnity claims must be brought in a separate action after the defendant has been held liable."
   answer: C
   explanation_correct: >-
     A defending party may implead a non-party "who is or may be liable to it for all or part of the
@@ -316,8 +317,8 @@ questions:
     $75,000.
   call: "How should the court rule on the motion?"
   options:
-    A: "Grant it, because the stakeholder and one claimant are both New York citizens."
-    B: "Grant it, because the amount in controversy does not exceed $75,000."
+    A: "Grant it, because the stakeholder and one claimant are both New York citizens, so complete diversity between the opposing parties to the action is lacking."
+    B: "Grant it, because the amount in controversy, the $60,000 face value of the policy, does not exceed the $75,000 required for diversity jurisdiction."
     C: "Deny it, but only if the court treats the action as a Rule 22 interpleader."
     D: "Deny it, because statutory interpleader requires only $500 or more in controversy and minimal diversity between two or more adverse claimants."
   answer: D
@@ -358,10 +359,10 @@ questions:
     litigation strategy. The company objects that both documents are protected work product.
   call: "How should the court rule?"
   options:
-    A: "Order production of the eyewitness statement on a showing of substantial need and undue hardship, but protect the investigator's evaluation of liability and strategy."
-    B: "Order production of both documents, because materials prepared by an insurer rather than an attorney are not work product."
+    A: "Order production of the eyewitness statement on a showing of substantial need and undue hardship, but protect the memorandum's evaluation of liability and strategy."
+    B: "Order production of both documents, because materials prepared by an insurer and its investigator, rather than by an attorney, are not work product and are freely discoverable."
     C: "Deny production of both documents, because work product is absolutely protected from discovery."
-    D: "Order production of both documents, because the eyewitness is dead and the visitor has no other source of information."
+    D: "Order production of both documents, because the eyewitness is dead and the visitor has no other source of information about what happened in the warehouse."
   answer: A
   explanation_correct: >-
     Documents prepared in anticipation of litigation by or for a party or its representative,
@@ -403,7 +404,7 @@ questions:
     examinations.
   call: "What is the court's most likely ruling?"
   options:
-    A: "Order both examinations, because a plaintiff who sues for personal injuries automatically waives any objection to examinations."
+    A: "Order both examinations, because a plaintiff who sues for personal injuries automatically waives any objection to physical and mental examinations by the defendant's doctors."
     B: "Order the orthopedic examination on a showing of good cause, but deny the psychiatric examination because Larue's mental condition is not in controversy."
     C: "Deny both examinations, because a party may never be examined by a doctor chosen by the opposing party."
     D: "Sanction Larue for refusing to appear, because Dorne's notice was sufficient to require her attendance."
@@ -491,10 +492,10 @@ questions:
     the second dismissal bars the claim.
   call: "How should the court rule on Ransom's motion?"
   options:
-    A: "Deny it, because a voluntary dismissal by notice is always without prejudice."
-    B: "Deny it, because the first dismissal occurred in state court and does not count."
-    C: "Grant it, because a notice of dismissal operates as an adjudication on the merits when the plaintiff previously dismissed an action in any federal or state court based on the same claim."
-    D: "Grant it, because a plaintiff may voluntarily dismiss a federal action only with the court's approval."
+    A: "Deny it, because a voluntary dismissal by notice before the defendant answers is always without prejudice, however many times the plaintiff has dismissed."
+    B: "Deny it, because the first dismissal occurred in state court, and only an earlier dismissal of a federal action on the same claim counts toward the two-dismissal rule."
+    C: "Grant it, because Quill's second notice of dismissal, which followed a dismissal of the state action on the same claim, operated as an adjudication on the merits."
+    D: "Grant it, because a plaintiff may voluntarily dismiss a federal action only with the court's approval, which Quill never sought before filing the notice of dismissal."
   answer: C
   explanation_correct: >-
     A plaintiff may dismiss without a court order by filing a notice before the opposing party serves

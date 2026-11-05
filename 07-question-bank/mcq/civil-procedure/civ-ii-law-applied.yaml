@@ -15,10 +15,10 @@ questions:
     Rule 3, which provides that a civil action is commenced by filing a complaint.
   call: "How should the court rule on the motion?"
   options:
-    A: "Deny it, because Rule 3 is a valid Federal Rule on point and controls over the state statute."
+    A: "Deny it, because Rule 3 is a valid Federal Rule on point, so under Hanna it controls over the conflicting state statute on when an action is commenced."
     B: "Grant it, because state law determines when a state-law action is commenced for limitations purposes, and Rule 3 does not address that question."
     C: "Deny it, because Moreau served Grantham within the 90 days allowed by Rule 4(m)."
-    D: "Grant it, because a federal court in a diversity case must apply every state rule that could affect the outcome."
+    D: "Grant it, because a federal court in a diversity case must apply every state rule that could affect the outcome of the litigation, including procedural rules."
   answer: B
   explanation_correct: >-
     In diversity, federal courts apply state limitations law, including the State's rule on when an
@@ -60,8 +60,8 @@ questions:
     of a case.
   call: "How should the court rule on the motion?"
   options:
-    A: "Grant it, because ignoring the state rule would be outcome-determinative and would encourage forum shopping."
-    B: "Grant it, because the manner of service is a matter of substantive state law in diversity cases."
+    A: "Grant it, because ignoring the state rule would be outcome-determinative and would encourage forum shopping by defamation plaintiffs who could choose federal court."
+    B: "Grant it, because the manner of service is a matter of substantive state law in diversity cases, at least where the State has a special rule for the claim."
     C: "Deny it, but only because Bode actually received the papers."
     D: "Deny it, because Rule 4 directly governs the manner of service and is a valid exercise of the rulemaking power, so it controls over the state rule."
   answer: D
@@ -103,9 +103,9 @@ questions:
     jury.
   call: "Who should decide the disputed facts about Sutter's status?"
   options:
-    A: "The jury, because the allocation of fact-finding between judge and jury in federal court is governed by federal law, reflecting the strong federal policy embodied in the Seventh Amendment."
-    B: "The judge, because a federal court must follow a state practice whenever ignoring it might affect the outcome."
-    C: "The judge, because the standard of care owed to a trespasser is a matter of state substantive law."
+    A: "The jury, because federal law governs the allocation of fact-finding between judge and jury in federal court, reflecting the federal policy of the Seventh Amendment."
+    B: "The judge, because a federal court in a diversity case must follow a state practice whenever ignoring it might change the outcome and encourage forum shopping between courts."
+    C: "The judge, because the standard of care owed to a trespasser or an invitee is a matter of State D substantive law, and Sutter's status determines which standard applies."
     D: "The jury, but only if State D's legislature has expressly provided a jury right for premises-liability claims."
   answer: A
   explanation_correct: >-
@@ -147,10 +147,10 @@ questions:
     the forgery bars recovery.
   call: "Which law governs the government's rights on the check?"
   options:
-    A: "The law of the State where the check was cashed, under the Erie doctrine."
+    A: "The law of the State where the check was cashed, under the Erie doctrine, because there is no federal general common law and no federal statute applies."
     B: "The law of the State where Mills resided, because Mills was the named payee."
     C: "Federal common law, because the rights and duties of the United States on commercial paper it issues involve uniquely federal interests."
-    D: "A version of the Uniform Commercial Code that Congress enacted for federal transactions."
+    D: "A version of the Uniform Commercial Code that Congress enacted to govern commercial paper issued in federal transactions."
   answer: C
   explanation_correct: >-
     Although there is no federal general common law (Erie, R-CIV-037), federal courts create federal

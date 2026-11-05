@@ -14,8 +14,8 @@ questions:
     court.
   call: "What is the effect of the first dismissal on Brandt's new action?"
   options:
-    A: "The new action may proceed, because a dismissal that does not state that it is with prejudice is without prejudice."
-    B: "The new action may proceed, because the first action was never decided on its merits by a judge or jury."
+    A: "The new action may proceed, because a dismissal order that does not state that it is with prejudice is treated as a dismissal without prejudice."
+    B: "The new action may proceed, because the first action was never decided on its merits by a judge or jury, so there is no judgment that could preclude it."
     C: "The new action is barred, because a dismissal under Rule 41(b) operates as an adjudication on the merits unless the order states otherwise."
     D: "The new action is barred only if Corwin had served an answer before the dismissal."
   answer: C
@@ -97,10 +97,10 @@ questions:
     water damage to her furniture and floors caused by the same leaks.
   call: "What is the effect of the first judgment on the second action?"
   options:
-    A: "The second action may proceed, because it asserts a different legal theory."
-    B: "The second action may proceed, because it seeks damages for different property."
-    C: "The second action is barred only if negligence was actually litigated and decided in the first action."
-    D: "The second action is barred, because it arises from the same transaction as the first action, which ended in a valid final judgment on the merits between the same parties."
+    A: "The second action may proceed, because it asserts a different legal theory, negligence, that was never raised or decided in the contract action."
+    B: "The second action may proceed, because it seeks damages for different property, the furniture and floors, rather than the cost of re-roofing the house."
+    C: "The second action is barred only if the issue of the contractor's negligence was actually litigated and decided in the first action."
+    D: "The second action is barred, because it arises from the same transaction as the first action, which ended in a final judgment on the merits."
   answer: D
   explanation_correct: >-
     Claim preclusion bars the same parties from relitigating the same claim after a valid final

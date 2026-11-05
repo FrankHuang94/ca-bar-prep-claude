@@ -13,10 +13,10 @@ questions:
     Ridge he was disaffirming the contract, and stopped paying. Ridge sued Toby for the $600 balance.
   call: "Is Ridge likely to recover the $600 balance?"
   options:
-    A: "Yes, because Toby damaged the laptop before disaffirming and so cannot return what he received."
+    A: "Yes, because Toby damaged the laptop before disaffirming and so cannot return what he received in the condition in which he received it."
     B: "Yes, because a laptop is a necessary, for which a minor is liable at the contract price."
     C: "No, because Toby, as a minor, could disaffirm before reaching majority by returning the laptop in whatever condition it was in."
-    D: "No, because the contract was void from the outset, since a minor has no capacity to contract."
+    D: "No, because the contract was void from the outset, since a minor has no capacity to contract and Ridge could never enforce the installment agreement."
   answer: C
   explanation_correct: >-
     A minor's contract is voidable at the minor's option; the minor may disaffirm before reaching
@@ -100,8 +100,8 @@ questions:
     explained it, and asked to withdraw. Delacroix insists that Carver perform for $212,000.
   call: "Can Carver avoid the contract?"
   options:
-    A: "No, because the mistake was Carver's alone, and a unilateral mistake never permits avoidance."
-    B: "No, because Carver bore the risk of errors in its own bid calculations."
+    A: "No, because the mistake was Carver's alone, and a unilateral mistake never permits avoidance, however large the error or however obvious it was to the other party."
+    B: "No, because Carver bore the risk of errors in its own bid calculations, and its negligence in preparing the bid bars it from avoiding the contract."
     C: "Yes, because any bid far below competing bids is unconscionable as a matter of law."
     D: "Yes, because Carver's clerical error concerned a basic assumption, had a material effect on the exchange, and Delacroix had reason to know of it."
   answer: D
@@ -187,8 +187,8 @@ questions:
     his work.
   call: "Is Vance likely to recover?"
   options:
-    A: "Yes, the contract price, because the work was competently performed and passed inspection."
-    B: "Yes, the reasonable value of the work in quasi-contract, because Paulson would otherwise be unjustly enriched."
+    A: "Yes, the contract price, because the work was competently performed and passed the city's inspection, so the public was never put at risk."
+    B: "Yes, the reasonable value of the work in quasi-contract, because Paulson received competent electrical work and would otherwise be unjustly enriched at Vance's expense."
     C: "No, because the licensing statute protects the public, so an unlicensed person cannot enforce a contract to do the regulated work."
     D: "No, because the agreement was not in writing."
   answer: C
@@ -272,9 +272,9 @@ questions:
     Brightline told Hollis it would not deliver because it had never signed anything. Hollis sued.
   call: "Can Brightline successfully assert the statute of frauds as a defense?"
   options:
-    A: "Yes, because Brightline never signed a writing, and the statute requires the signature of the party against whom enforcement is sought."
-    B: "No, because Brightline, a merchant, received a signed written confirmation within a reasonable time, had reason to know its contents, and did not object in writing within 10 days."
-    C: "No, because Hollis's act of sending the confirmation was part performance that takes the contract out of the statute."
+    A: "Yes, because Brightline never signed any writing, and the statute of frauds requires a writing signed by the party against whom enforcement is sought, which here is Brightline, not Hollis."
+    B: "No, because Brightline, a merchant, received a signed confirmation within a reasonable time, had reason to know its contents, and did not object in writing within 10 days."
+    C: "No, because Hollis's act of sending the confirmation, which Brightline's sales manager read and never disputed, was part performance that takes the oral contract out of the statute."
     D: "Yes, because a written confirmation binds only the merchant that sends it."
   answer: B
   explanation_correct: >-

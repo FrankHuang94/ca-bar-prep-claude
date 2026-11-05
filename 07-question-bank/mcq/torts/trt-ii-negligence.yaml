@@ -98,9 +98,9 @@ questions:
   call: Which of the following is the stranger's best argument?
   options:
     A: "The hospital took charge of a patient it knew was likely to cause bodily harm if not controlled, so it owed a duty to use reasonable care to control him."
-    B: "A psychotherapist must warn reasonably identifiable victims of a patient's threats, and the stranger was such a victim."
-    C: "The hospital is vicariously liable for the patient's battery because the patient was in its custody."
-    D: "The hospital is strictly liable for harm caused by patients with dangerous propensities."
+    B: "A psychotherapist must warn reasonably identifiable victims of a dangerous patient, and anyone the patient might foreseeably attack after release is such a victim."
+    C: "The hospital is vicariously liable for the patient's battery, because the patient was in its custody and under its control when its ward nurse released him on a day pass."
+    D: "The hospital is strictly liable for harm caused by patients with dangerous propensities, whether or not its staff acted carefully."
   answer: A
   explanation_correct: >-
     Duty to control third persons (R-TRT-022): there is generally no duty to control another's conduct, but
@@ -612,10 +612,10 @@ questions:
     truck driver.
   call: Is the motorist likely to prevail against the truck driver?
   options:
-    A: "No, because the truck driver owed a duty only to persons endangered by his driving, not to people who later chose to stop."
-    B: "Yes, because a person who negligently places himself in peril owes a duty to a rescuer, and the second car's negligence was a foreseeable intervening cause."
-    C: "No, because the motorist voluntarily assumed the risk of injury when she undertook the rescue."
-    D: "No, because the second driver's negligence was a superseding cause."
+    A: "No, because the truck driver owed a duty only to persons endangered by his own driving, not to people who later chose to stop and expose themselves to traffic."
+    B: "Yes, because one who negligently imperils himself owes a duty to a rescuer, and the second car's negligence was a foreseeable intervening cause."
+    C: "No, because the motorist voluntarily assumed the risk of injury from passing traffic on an icy highway when she chose to stop and undertake the rescue."
+    D: "No, because the second driver's careless driving was an independent intervening act and a superseding cause of her injuries."
   answer: B
   explanation_correct: >-
     Rescue doctrine (R-TRT-024): danger invites rescue, so one who negligently imperils himself or another
@@ -691,9 +691,9 @@ questions:
     crushed. The boy's parents sue the contractor on his behalf.
   call: Is the contractor likely to be liable?
   options:
-    A: "Yes, because the contractor knew children were likely to trespass, the unsecured pipes posed a risk of serious harm that young children would not appreciate, and the burden of securing them was slight."
-    B: "Yes, because a possessor of land is strictly liable for injuries to trespassing children."
-    C: "No, because the boy was a trespasser, to whom the contractor owed only a duty to refrain from willful or wanton conduct."
+    A: "Yes, because the contractor knew children were likely to trespass, the unchocked pipes posed a risk of serious harm children would not appreciate, and chocks were cheap."
+    B: "Yes, because a possessor of land is strictly liable for injuries to trespassing children caused by dangerous artificial conditions it keeps on the land."
+    C: "No, because the boy was a trespasser, to whom the contractor owed only a duty to refrain from willful or wanton conduct, and stacking pipes on its own leased work site was neither."
     D: "No, because the boy was not lured onto the lot by the pipes; he came to play in the park."
   answer: A
   explanation_correct: >-
@@ -851,10 +851,10 @@ questions:
     when the step collapsed. The store had no way to detect the faulty reassembly. The customer sues the store.
   call: Is the customer likely to prevail against the store?
   options:
-    A: "No, because the store exercised reasonable care in selecting a competent contractor."
-    B: "No, because a hirer is not vicariously liable for the negligence of an independent contractor."
-    C: "Yes, because escalator maintenance is an abnormally dangerous activity, so the store is strictly liable."
-    D: "Yes, because a business's duty to keep its premises reasonably safe for invitees is nondelegable, so the store is liable for its contractor's negligence in performing that duty."
+    A: "No, because the store exercised reasonable care in selecting a competent contractor with an excellent reputation and had no way to detect the faulty work."
+    B: "No, because a hirer is not vicariously liable for the negligence of an independent contractor whose work it did not control."
+    C: "Yes, because escalator maintenance is an abnormally dangerous activity, so the store is strictly liable for any injury the work causes to its customers."
+    D: "Yes, because a business's duty to keep its premises reasonably safe for invitees is nondelegable, so the store answers for its contractor's negligence."
   answer: D
   explanation_correct: >-
     Independent contractors (R-TRT-064): a hirer generally is not liable for an independent contractor's
@@ -864,7 +864,8 @@ questions:
     It may seek indemnity from the contractor.
   explanation_each_wrong_option:
     A: >-
-      True but irrelevant. Careful selection defeats a claim for negligent hiring of the contractor, but not
+      True but irrelevant. Careful selection and the store's inability to detect the defect defeat a
+      claim based on the store's own negligence, such as negligent hiring of the contractor, but not
       liability under a nondelegable duty.
     B: >-
       Exception trap. This is the general rule, which the nondelegable-duty exception displaces.

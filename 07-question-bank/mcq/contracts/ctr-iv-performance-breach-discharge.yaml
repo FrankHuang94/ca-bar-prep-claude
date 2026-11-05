@@ -14,10 +14,10 @@ questions:
     two days late and that the landlord suffered no harm from the delay.
   call: "Must the landlord renew the lease?"
   options:
-    A: "Yes, because Arlo substantially performed the notice requirement."
-    B: "No, because timely written notice was an express condition requiring strict compliance, and no excuse for its non-occurrence applies."
-    C: "Yes, because the landlord suffered no harm from the two-day delay."
-    D: "No, because Arlo's late notice was a material breach of the lease."
+    A: "Yes, because Arlo substantially performed the notice requirement by giving written notice only two days after the deadline."
+    B: "No, because timely written notice was an express condition requiring strict compliance, and no excuse applies."
+    C: "Yes, because the landlord suffered no harm from the two-day delay, so enforcing the deadline strictly would be unfair to Arlo."
+    D: "No, because Arlo's late notice was a material breach of the lease that discharged the landlord's duty to renew."
   answer: B
   explanation_correct: >-
     Language such as "provided that" creates an express condition, which must be strictly satisfied;
@@ -141,8 +141,8 @@ questions:
     Bexley refused them, and Lyle sued for breach.
   call: "Is Lyle likely to prevail?"
   options:
-    A: "No, because Lyle's July statement was an anticipatory repudiation that entitled Bexley to cancel."
-    B: "No, because Bexley had reasonable grounds for insecurity, which permitted it to cancel immediately."
+    A: "No, because Lyle's July statement that it might have trouble filling the whole order was an anticipatory repudiation that entitled Bexley to cancel at once."
+    B: "No, because Lyle's statement gave Bexley reasonable grounds for insecurity about Lyle's performance, which permitted Bexley to cancel at once and buy elsewhere."
     C: "Yes, because Lyle's statement was not an unequivocal refusal to perform; Bexley's remedy was to demand adequate assurance in writing, not to cancel."
     D: "Yes, because a buyer may never suspend or cancel its own performance before the delivery date."
   answer: C
@@ -185,7 +185,7 @@ questions:
   options:
     A: "Yes, because the fourth shipment did not conform to the contract in every respect."
     B: "No, because the defect did not substantially impair the value of that installment or of the whole contract, and Tamsin gave adequate assurance of cure."
-    C: "Yes, because a buyer may reject a nonconforming installment, and rejecting any installment ends an installment contract."
+    C: "Yes, because a buyer may reject a nonconforming installment, and rejecting any installment ends an installment contract and lets the buyer cancel the remainder."
     D: "No, because a buyer under an installment contract must accept every installment and is limited to damages."
   answer: B
   explanation_correct: >-
@@ -225,10 +225,10 @@ questions:
     rated for only 30 pages per minute. Dorsey sued Calloway for breach of warranty.
   call: "Is Dorsey likely to prevail?"
   options:
-    A: "Yes, because the description of the printer created an express warranty, and the disclaimer is inoperative to the extent it is inconsistent with that warranty."
-    B: "No, because the conspicuous \"as is\" clause excluded all warranties."
-    C: "No, because Dorsey could have inspected the printer before buying it."
-    D: "Yes, because a disclaimer of warranties is never effective in a sale by a merchant."
+    A: "Yes, because the description created an express warranty, and the disclaimer is inoperative to the extent it is inconsistent with that warranty."
+    B: "No, because the conspicuous \"as is\" clause, printed in bold capital letters in the signed contract, excluded all warranties, express and implied."
+    C: "No, because Dorsey could have inspected the printer before buying it and so took the risk that it did not match the description."
+    D: "Yes, because a disclaimer of warranties is never effective in a sale by a merchant that deals in goods of the kind, such as a dealer in used office machines."
   answer: A
   explanation_correct: >-
     In a sale of goods, any description of the goods that is part of the basis of the bargain creates
@@ -269,9 +269,9 @@ questions:
     grades. The truck was otherwise in good working order. Fisk sued Elena for breach of warranty.
   call: "Is Fisk likely to prevail?"
   options:
-    A: "No, because Elena is not a merchant, so the sale carried no implied warranty of any kind."
-    B: "Yes, because Elena breached the implied warranty of merchantability."
-    C: "No, because the signed bill of sale said nothing about warranties."
+    A: "No, because Elena is not a merchant who deals in trucks, so the sale carried no implied warranty of any kind, only whatever express warranties she made."
+    B: "Yes, because Elena breached the implied warranty of merchantability, since a truck that cannot pull Fisk's trailer is not fit for ordinary use."
+    C: "No, because the signed bill of sale said nothing about warranties, so no warranty became part of the contract."
     D: "Yes, because Elena had reason to know of Fisk's particular purpose and that he was relying on her judgment to select a suitable truck."
   answer: D
   explanation_correct: >-
@@ -436,9 +436,9 @@ questions:
     market and deliver it. When Whitcomb refused, Granger sued for damages.
   call: "Is Whitcomb liable for failing to deliver?"
   options:
-    A: "Yes, because Whitcomb could have performed by buying wheat elsewhere, so performance was not impossible."
+    A: "Yes, because wheat was readily available elsewhere at $9 per bushel, so Whitcomb could have performed by buying it on the market, and performance was not impossible."
     B: "Yes, because an increase in the cost of performance does not excuse a seller."
-    C: "No, because the flood frustrated Granger's principal purpose in making the contract."
+    C: "No, because the flood, which neither party could have prevented, frustrated Granger's principal purpose in making the contract."
     D: "No, because the contract required wheat from a particular farm, and the destruction of that source without Whitcomb's fault excused his performance."
   answer: D
   explanation_correct: >-

@@ -14,10 +14,10 @@ questions:
     damages issues to a jury.
   call: "Is the judge's plan proper?"
   options:
-    A: "Yes, because the injunction is the primary relief sought, and equitable claims are tried first."
+    A: "Yes, because the injunction is the primary relief Vargas seeks, and when equitable relief predominates the judge may try the equitable claim first."
     B: "Yes, because when legal and equitable claims are joined in one action, the judge decides all issues."
-    C: "No, because a party who seeks any money damages is entitled to have a jury decide every claim, including the request for an injunction."
-    D: "No, because the common issue of ownership must be tried to the jury first, so that the judge's ruling on the injunction does not preclude the jury's determination."
+    C: "No, because a party who seeks any money damages is entitled to have a jury decide every claim in the action, including the request for an injunction against Holt."
+    D: "No, because the common issue of ownership must be tried to the jury first, so that the judge's ruling on the injunction does not foreclose the jury's decision."
   answer: D
   explanation_correct: >-
     The trespass damages claim is legal and carries a Seventh Amendment jury right; the injunction is
@@ -56,10 +56,10 @@ questions:
     untimely.
   call: "Which of the following is correct?"
   options:
-    A: "Pruett is entitled to a jury, because a demand may be made at any time before trial."
-    B: "Pruett waived her right to a jury by failing to demand one within 14 days after the answer was served, although the court may in its discretion order a jury trial on motion."
-    C: "Pruett is entitled to a jury, because the Seventh Amendment right cannot be waived by inaction."
-    D: "Pruett has permanently lost any possibility of a jury trial, because the court has no discretion to excuse a late demand."
+    A: "Pruett is entitled to a jury, because a demand may be made at any time before trial, and Pruett demanded one less than a month after the answer."
+    B: "Pruett waived her right to a jury by not demanding one within 14 days after the answer was served, although the court may still order a jury trial on motion."
+    C: "Pruett is entitled to a jury, because the Seventh Amendment right to a jury in a damages action cannot be waived by mere inaction or delay."
+    D: "Pruett has permanently lost any possibility of a jury trial, because once the 14-day period has run, the court has no discretion to excuse a late demand for any reason."
   answer: B
   explanation_correct: >-
     A party must serve a written jury demand no later than 14 days after the last pleading directed to
@@ -93,10 +93,10 @@ questions:
     she "had a feeling" those jurors would not be fair to her client, and offered nothing more.
   call: "How should the court proceed?"
   options:
-    A: "Sustain the objection if, considering the explanation and all the circumstances, it finds that the strikes were purposefully based on race, because the Batson rule applies to peremptory challenges by private litigants in civil cases."
-    B: "Overrule the objection, because the Batson rule applies only to prosecutors in criminal cases."
+    A: "Sustain the objection if, considering the explanation and all the circumstances, it finds the strikes were purposefully based on race, because Batson applies to private civil litigants."
+    B: "Overrule the objection, because the Batson rule applies only to prosecutors in criminal cases, where the government's use of the strike is state action."
     C: "Overrule the objection, because peremptory challenges may be exercised for any reason or for no reason."
-    D: "Sustain the objection and declare a mistrial automatically, because striking all members of a racial group establishes discrimination as a matter of law."
+    D: "Sustain the objection and declare a mistrial automatically, because striking all members of a racial group from the panel establishes purposeful discrimination as a matter of law, whatever explanation is offered."
   answer: A
   explanation_correct: >-
     Private litigants in civil cases may not exercise peremptory challenges on the basis of race
@@ -128,14 +128,13 @@ questions:
   stem: >-
     Before closing arguments in a federal products-liability trial, the judge gave counsel a copy of the
     proposed jury instructions and an opportunity to object on the record outside the jury's presence.
-    Defense counsel believed that the instruction on comparative fault misstated the governing state law
-    but made no objection, planning to raise the point only if the verdict was unfavorable. The jury
+    Defense counsel did not notice that the instruction on comparative fault misstated the governing state law and made no objection. The jury
     returned a verdict for the plaintiff. On appeal, the defendant argues that the instruction was
     erroneous.
   call: "What review is the court of appeals likely to give the instruction?"
   options:
-    A: "De novo review, because whether a jury instruction correctly states the law is a question of law."
-    B: "None at all, because the defendant waived every form of appellate review by failing to object."
+    A: "De novo review, because whether a jury instruction correctly states the governing state law is a question of law that the appellate court decides for itself."
+    B: "None at all, because the defendant waived every form of appellate review of the instruction by deliberately failing to object at trial."
     C: "Review only for plain error that affects substantial rights, because the defendant did not make a timely objection stating distinct grounds."
     D: "None on appeal, because the issue must instead be raised in a Rule 60(b) motion."
   answer: C

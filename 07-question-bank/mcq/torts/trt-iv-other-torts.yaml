@@ -94,10 +94,10 @@ questions:
     for defamation.
   call: Is the senator likely to prevail?
   options:
-    A: "Yes, because the newspaper was negligent in failing to check readily available records."
-    B: "No, because the senator cannot prove by clear and convincing evidence that the newspaper knew the story was false or published it with serious doubts about its truth."
-    C: "Yes, because the article was false and damaged the senator's reputation."
-    D: "No, because statements about public officials are absolutely privileged."
+    A: "Yes, because the newspaper was negligent in relying on a single tip without calling the senator or checking readily available travel records before it published the story."
+    B: "No, because the senator cannot show by clear and convincing evidence that the newspaper knew the story was false or seriously doubted its truth."
+    C: "Yes, because the article was false, accused the senator of misconduct in office, and damaged his reputation."
+    D: "No, because statements about the official conduct of public officials are absolutely privileged when published in the press."
   answer: B
   explanation_correct: >-
     Actual malice (R-TRT-098): a public official suing for defamation must prove by clear and convincing
@@ -136,10 +136,10 @@ questions:
     presumed damages.
   call: May the contractor recover presumed damages?
   options:
-    A: "Yes, because the statement was broadcast, so damages are presumed as in libel."
-    B: "Yes, because a private-figure plaintiff need prove only negligence to recover any category of damages."
-    C: "No, because when the statement involves a matter of public concern, a private-figure plaintiff may recover presumed damages only by proving actual malice."
-    D: "No, because a private-figure plaintiff can never recover presumed damages for defamation."
+    A: "Yes, because the statement was broadcast, so damages are presumed as in libel without any proof of actual injury."
+    B: "Yes, because a private-figure plaintiff need prove only falsity and negligence to recover any category of damages, including presumed damages."
+    C: "No, because on a matter of public concern a private-figure plaintiff may recover presumed damages only by proving actual malice."
+    D: "No, because a private-figure plaintiff can never recover presumed damages for defamation, whatever the subject of the statement."
   answer: C
   explanation_correct: >-
     Private figures (R-TRT-099; Gertz): on a matter of public concern, a private-figure plaintiff must prove
@@ -261,10 +261,10 @@ questions:
     competitor.
   call: Is the regional bakery likely to prevail against the competitor?
   options:
-    A: "No, because the competitor was engaged in legitimate competition for the chain's business."
-    B: "No, because the regional bakery's only remedy is a breach-of-contract action against the chain."
-    C: "Yes, but only if the competitor used fraud, threats or other independently wrongful means."
-    D: "Yes, because the competitor knowingly and intentionally induced the chain to breach an existing contract, and the competition privilege does not extend to inducing breach of a fixed-term contract."
+    A: "No, because the competitor was engaged in legitimate competition for the chain's business and merely offered a better price, which any competitor may do."
+    B: "No, because the regional bakery's only remedy is a breach-of-contract action against the chain, which is the party that actually broke the contract."
+    C: "Yes, but only if the competitor used fraud, threats or other independently wrongful means to persuade the chain to switch suppliers."
+    D: "Yes, because the competitor knowingly induced the chain to breach an existing fixed-term contract, which the competition privilege does not protect."
   answer: D
   explanation_correct: >-
     Interference with contractual relations (R-TRT-110): a defendant who knows of a valid contract and

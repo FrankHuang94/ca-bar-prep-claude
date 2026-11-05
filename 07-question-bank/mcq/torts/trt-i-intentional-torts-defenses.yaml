@@ -127,10 +127,10 @@ questions:
     intentional infliction of emotional distress.
   call: Is the debtor likely to prevail?
   options:
-    A: "No, because a creditor's agent is privileged to take reasonable steps to collect a valid debt."
-    B: "No, because insults and threats can never be extreme and outrageous enough to support liability."
+    A: "No, because a creditor's agent is privileged to take reasonable steps, including persistent calls and warnings about the consequences of nonpayment, to collect a valid debt."
+    B: "No, because insults and threats, however offensive or persistent, can never be extreme and outrageous enough to support liability for the distress they cause."
     C: "Yes, because the collector's statements to her mother were false and defamatory."
-    D: "Yes, because the collector's repeated, abusive conduct, aimed at a person he knew was especially vulnerable, was extreme and outrageous and caused her severe distress."
+    D: "Yes, because the collector's repeated, abusive conduct toward a person he knew was especially vulnerable was extreme and outrageous and caused severe distress."
   answer: D
   explanation_correct: >-
     IIED (R-TRT-005): a defendant who by extreme and outrageous conduct intentionally or recklessly causes
@@ -168,10 +168,10 @@ questions:
     collector for conversion.
   call: Is the musician likely to prevail?
   options:
-    A: "No, because the collector acted in good faith and paid value for the guitar."
-    B: "Yes, because a purchaser from a thief acquires no title, and the collector's acquisition and refusal to return the guitar on demand seriously interfered with the musician's right to it."
-    C: "No, because the collector did not damage the guitar, so at most he is liable for trespass to chattels."
-    D: "Yes, but only if the musician proves that the collector should have known the guitar was stolen."
+    A: "No, because the collector acted in good faith and paid fair value for the guitar, so as a bona fide purchaser he took good title and may keep it against the musician."
+    B: "Yes, because a purchaser from a thief takes no title, and refusing to return the guitar on demand was a serious interference with the musician's right."
+    C: "No, because the collector did not damage or destroy the guitar, so at most he is liable for trespass to chattels for using it at concerts."
+    D: "Yes, but only if the musician proves that the collector knew or should have known, when he bought it, that the guitar was stolen."
   answer: B
   explanation_correct: >-
     Conversion (R-TRT-008): intentional exercise of dominion or control over a chattel that so seriously
