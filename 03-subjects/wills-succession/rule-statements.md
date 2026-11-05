@@ -144,7 +144,7 @@ status: reviewed
 
 **Elements:** 1. Policy. 2. Insured and beneficiary both dead. 3. No clear and convincing proof that beneficiary survived. 4. Proceeds go as if beneficiary predeceased (contingent beneficiary or insured's estate).
 
-**Exceptions / defenses:** Policy terms. If the policy is community or quasi-community property of the insured and spouse and there is no alternative beneficiary other than the insured's estate, the proceeds are split as CP under § 103 [VERIFY V-916].
+**Exceptions / defenses:** Policy terms. If the policy is community or quasi-community property of the insured and spouse and there is no alternative beneficiary other than the insured's estate, the proceeds are distributed as CP under § 103 [S-1760].
 
 **Authority:** Prob. Code § 224 [S-636].
 
@@ -153,13 +153,13 @@ status: reviewed
 **Example:** H insures his life for W, naming his sister as contingent beneficiary; both H and W die in a crash. The proceeds go to the sister, not W's estate. (If the policy were CP with no contingent beneficiary, see the § 103 split.)
 
 ### R-WIL-011 — Distribution by representation
-**Rule (write this):** Under California's default rule of representation, the property is divided into equal shares at the first generation below the ancestor that has a living member, with one share for each living member and one for each deceased member who left living issue; each deceased member's share passes to his or her issue in the same manner. An instrument calling for "per stirpes" divides at the children's generation, and "per capita at each generation" pools the shares of deceased members at each level.
+**Rule (write this):** Under California's default rule of representation, the property is divided into equal shares at the first generation below the ancestor that has a living member, with one share for each living member and one for each deceased member who left living issue; each deceased member's share passes to his or her issue in the same manner. An instrument calling for "per stirpes", "by representation" or "by right of representation" divides at the children's generation unless it expressly provides otherwise, and "per capita at each generation" pools the shares of deceased members at each level.
 
 **Elements:** 1. Identify the ancestor. 2. Find the nearest generation with a living member. 3. Count living members plus deceased members with issue. 4. Divide equally; drop shares down.
 
 **Exceptions / defenses:** Instrument choosing § 246 or § 247.
 
-**Authority:** Prob. Code §§ 240, 246, 247 [VERIFY V-523].
+**Authority:** Prob. Code §§ 240, 246, 247; § 246 applies to "per stirpes", "by representation" and "by right of representation" in instruments executed on or after January 1, 1986, absent a contrary intent [S-1764].
 
 **MBE vs. CA essay:** not on the MBE; UPC default is per capita at each generation.
 
@@ -181,11 +181,11 @@ status: reviewed
 ### R-WIL-013 — Elder and dependent-adult abuse forfeiture
 **Rule (write this):** A person shown by clear and convincing evidence to be liable for physical abuse, neglect or financial abuse of a decedent who was an elder or dependent adult, and to have acted in bad faith or with recklessness, oppression, fraud or malice, is deemed to have predeceased the decedent to the extent the statute provides; certain criminal convictions have the same effect.
 
-**Elements:** 1. Decedent was an elder or dependent adult. 2. Abuse or neglect. 3. Clear and convincing evidence. 4. Bad faith / recklessness, oppression, fraud or malice. 5. For the civil-liability route, the statute also appears to require that the decedent was substantially unable to manage his or her finances or resist fraud or undue influence from the time of the acts until death [VERIFY V-915]. 6. Treated as predeceased.
+**Elements:** 1. Decedent was an elder or dependent adult. 2. Abuse or neglect. 3. Clear and convincing evidence. 4. Bad faith / recklessness, oppression, fraud or malice. 5. For the civil-liability route, the decedent, at the time of the acts and thereafter until death, must have been substantially unable to manage his or her financial resources or to resist fraud or undue influence (§ 259(a)) [S-1761]. 6. Treated as predeceased.
 
-**Exceptions / defenses:** Statutory exception where the decedent, with capacity, knew of the abuse and later expressed an intent to benefit the abuser [VERIFY V-539].
+**Exceptions / defenses:** § 259 does not apply if, at any time after the abuse, the decedent was substantially able to manage his or her financial resources and to resist fraud or undue influence (the decedent then had the chance to change the estate plan) [S-1761].
 
-**Authority:** Prob. Code § 259 [S-639].
+**Authority:** Prob. Code § 259 [S-639] [S-1761].
 
 **MBE vs. CA essay:** not on the MBE.
 
@@ -239,7 +239,7 @@ status: reviewed
 
 **Elements:** 1. Marital status at death. 2. Final dissolution or annulment? 3. § 78 disqualifications, including an order ending all marital property rights (§ 78(d)).
 
-**Exceptions / defenses:** Remarriage to the decedent restores status (§ 78(a)). Putative spouses may take as spouses in quasi-marital property [VERIFY V-910].
+**Exceptions / defenses:** Remarriage to the decedent restores status (§ 78(a)). A putative spouse is treated as a surviving spouse for intestate succession: the decedent's half of the quasi-marital property passes as CP would, and the putative spouse also takes a surviving spouse's intestate share of the decedent's SP (*Estate of Leslie* (1984) 37 Cal.3d 186) [S-1765]; whether the post-1985 Probate Code changed this has not been checked [VERIFY V-910].
 
 **Authority:** Prob. Code § 78; *Estate of Lahey* (1999) 76 Cal.App.4th 1056 (legal-separation judgment that resolved all property rights barred the spouse) [S-1061].
 
@@ -781,9 +781,9 @@ status: reviewed
 
 **Elements:** 1. Codicil validly executed. 2. Refers to the will. 3. Will deemed re-executed on codicil date. 4. Consequences: omitted heirs, incorporation, validation.
 
-**Exceptions / defenses:** Republication not applied where it would defeat the testator's intent; revoking a codicil does not revoke the will.
+**Exceptions / defenses:** Republication is not applied where it would defeat the testator's intent, for example to invalidate a gift that was valid under the original will; revoking a codicil does not revoke the will.
 
-**Authority:** Prob. Code § 88; common law [VERIFY V-519].
+**Authority:** Prob. Code § 88; *Payne v. Payne* (Cal. 1861) (codicil republishes the will; both speak from the codicil's date) [S-1768]; *Estate of McCauley* (Cal. 1903) (fiction not used to invalidate gifts valid under the original will) [S-1769]; omitted-heir and validation consequences [VERIFY V-519].
 
 **MBE vs. CA essay:** not on the MBE; Feb 2018 Q5 (2001 will, 2006 codicil).
 
@@ -945,7 +945,7 @@ status: reviewed
 
 **Exceptions / defenses:** General and demonstrative gifts do not adeem.
 
-**Authority:** *Estate of Mason* (1965) 62 Cal.2d 213 [S-615]; Prob. Code § 21139 [S-614] [VERIFY V-534].
+**Authority:** *Estate of Mason* (1965) 62 Cal.2d 213 [S-615]; *Estate of Austin* (1980) 113 Cal.App.3d 167 (payment of a specifically given note and reinvestment of the proceeds: a change in form, not an ademption) [S-1767]; Prob. Code § 21139 [S-614].
 
 **MBE vs. CA essay:** not on the MBE; majority identity theory adeems whenever the item is gone.
 
@@ -1196,13 +1196,13 @@ status: reviewed
 **Example:** H's will says "I intentionally make no provision for anyone I may later marry." W, married later, takes no omitted-spouse share (she keeps her own half of the CP).
 
 ### R-WIL-088 — Satisfying an omitted spouse's or child's share
-**Rule (write this):** An omitted spouse's or child's share is taken first from estate property not disposed of by the decedent's will or trust and, if that is not enough, from all beneficiaries of the testamentary instruments in proportion to the value each receives, measured at death, unless the court orders otherwise to preserve the decedent's plan.
+**Rule (write this):** An omitted spouse's or child's share is taken first from estate property not disposed of by the decedent's will or trust and, if that is not enough, from all beneficiaries of the testamentary instruments in proportion to the value each receives, measured at death [VERIFY V-536]; but if that apportionment would defeat the decedent's obvious intention as to a specific gift or other provision, the court may exempt it and adopt a different apportionment consistent with the decedent's intent.
 
-**Elements:** 1. Undisposed property first. 2. Then pro rata from beneficiaries. 3. Values at death. 4. Court adjustment.
+**Elements:** 1. Undisposed property first. 2. Then pro rata from beneficiaries. 3. Values at death. 4. Court may exempt a specific gift to carry out the decedent's obvious intent.
 
-**Exceptions / defenses:** Court may vary the order to carry out the decedent's intent [VERIFY V-536].
+**Exceptions / defenses:** If pro rata apportionment would defeat the decedent's obvious intention as to a specific gift or other provision of a testamentary instrument, that gift may be exempted and a different apportionment consistent with the decedent's intent adopted.
 
-**Authority:** Prob. Code §§ 21612, 21623.
+**Authority:** Prob. Code §§ 21612, 21623 [S-1762] [S-1763].
 
 **MBE vs. CA essay:** not on the MBE.
 

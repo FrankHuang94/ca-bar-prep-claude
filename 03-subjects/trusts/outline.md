@@ -50,7 +50,7 @@ An **express trust** is one the settlor intends to create. It contrasts with **r
   - *Trustee*: holds legal title, owes fiduciary duties (V). An individual, a bank or trust company, or co-trustees.
   - *Beneficiaries*: hold equitable interests: present (income) and future (remainder) interests; ascertainable for a private trust (I.x2).
 - **One person, several roles.** A settlor can be trustee (declaration of trust) and a beneficiary. The only bar is **merger**: a sole trustee who is also the sole beneficiary of every interest. A typical California living trust (settlor = trustee = lifetime beneficiary; children = remainder beneficiaries) is valid because the children hold equitable remainders (common law; Restatement (Third) of Trusts § 69 [VERIFY V-562]). R-TRS-008.
-- **A trust never fails for want of a trustee.** If the named trustee dies, declines, or is removed, the court fills the vacancy (Prob. Code § 15660), unless the settlor intended the trust to exist only if that person served. Acceptance is by signing or by knowingly acting (§ 15600); silence for an unreasonable time is rejection (§ 15601) [VERIFY V-569]. R-TRS-007.
+- **A trust never fails for want of a trustee.** If the named trustee dies, declines, or is removed, the vacancy is filled as the instrument provides; failing that, by a trust company that agrees to serve, with the agreement of all adult beneficiaries who receive or are entitled to income or would take principal if the trust ended then; failing that, by the court on petition (Prob. Code § 15660) [S-1775], unless the settlor intended the trust to exist only if that person served. Acceptance is by signing the instrument or a written acceptance, or by knowingly exercising powers or performing duties (§ 15600); not accepting within a reasonable time after learning of the appointment is rejection (§ 15601) [S-1774]. R-TRS-007.
 
 > 🇨🇳 PRC bridge: the PRC Trust Law's three-party structure (委托人 / 受托人 / 受益人) matches settlor / trustee / beneficiary, but the PRC statute's "entrust" (委托给) language leaves the trustee's title less clear than the common-law split of legal and equitable title (approx.).
 
@@ -136,11 +136,11 @@ Write: *"A valid express trust requires (1) a settlor with capacity, (2) intent 
 2. by a **writing, other than a will, signed by the settlor** (or another person holding the power) **and delivered to the trustee during the settlor's lifetime**.
 
 - **Exclusivity.** If the instrument **explicitly** makes its method the exclusive method, only that method works. A stated method that is not labelled exclusive leaves the statutory method available [S-660].
-- **Settlor as trustee.** Where the settlor is the sole trustee, argue that holding the signed writing in her capacity as trustee satisfies delivery; *Masry v. Masry* (2008) 166 Cal.App.4th 738 is cited on § 15401 exclusivity, but no case holding on settlor-trustee delivery has been verified for this repo [VERIFY V-553]. With co-trustees (Feb 2016: settlor and her daughter), argue whether delivery to the other co-trustee was needed.
+- **Settlor as trustee.** Where the settlor is the sole trustee, argue that holding the signed writing in her capacity as trustee satisfies delivery; *Masry v. Masry* (2008) 166 Cal.App.4th 738 upheld a revocation that complied with § 15401(a)(2) though not with the trust's own method, because that method was not explicitly exclusive [S-1770]; no case holding on settlor-trustee delivery has been verified for this repo [VERIFY V-553]. With co-trustees (Feb 2016: settlor and her daughter), argue whether delivery to the other co-trustee was needed.
 - **Revocation by will.** The statutory method excludes wills. A later will revokes the trust only if the trust instrument allows revocation by will (and then only at death). Property already in a funded trust is not in the probate estate, so the will cannot pass it. **Other side:** UTC § 602(c) allows revocation by a later will or codicil that expressly refers to the trust or specifically devises trust property, if the trust's method is not exclusive [VERIFY V-594]. Feb 2016 selected answers reached opposite conclusions; argue both. R-TRS-012, R-TRS-013.
 - **Partial revocation** (withdrawing a single asset) uses the same methods.
 - **Joint settlors and community property.** Unless the instrument says otherwise, each settlor may revoke as to the portion he or she contributed, except as Fam. Code § 761 provides (§ 15401(b) [S-1114]). For **community property** in a revocable trust, **either spouse alone may revoke** as to CP, but **modification** as to CP during marriage requires **both spouses' joinder or consent** (Fam. Code § 761) [S-681] [VERIFY V-585]. R-TRS-015.
-- **Who may exercise.** The settlor (or another person to whom the instrument gives the power). An **agent under a power of attorney** may modify or revoke only if the **trust instrument** expressly permits it (§ 15401(c)) [S-1114]; the power of attorney must also grant the authority expressly (§ 4264), and a **conservator** needs court approval (substituted judgment, § 2580) [VERIFY V-922]. R-TRS-016.
+- **Who may exercise.** The settlor (or another person to whom the instrument gives the power). An **agent under a power of attorney** may modify or revoke only if the **trust instrument** expressly permits it (§ 15401(c)) [S-1114]; the power of attorney must also grant the authority expressly (§ 4264) [S-1782], and a **conservator** needs court approval (substituted judgment, § 2580), which the court may not give if the instrument reserves the power exclusively to the settlor or expressly bars a conservator from exercising it [S-1783]. R-TRS-016.
 - **At death** the trust becomes irrevocable; the trustee must then give the § 16061.7 notice (V.H).
 
 **3. Modification (§ 15402) and *Haggerty v. Thornton*.**
@@ -171,7 +171,7 @@ Write: *"A valid express trust requires (1) a settlor with capacity, (2) intent 
 **2. Special features.**
 - **No ascertainable beneficiary needed.**
 - **Perpetual duration allowed**; the rule against perpetuities does not limit a charitable trust (II.B; R-TRS-035).
-- **Enforcement by the Attorney General**, which has primary responsibility for supervising charitable trusts in California (Gov. Code § 12598) [S-671]; co-trustees and persons with a special interest may also sue, but not members of the public (*Holt v. College of Osteopathic Physicians & Surgeons* (1964) 61 Cal.2d 750 [VERIFY V-560]). R-TRS-020.
+- **Enforcement by the Attorney General**, which has primary responsibility for supervising charitable trusts in California (Gov. Code § 12598) [S-671]; co-trustees and persons with a special interest may also sue, but not members of the public. *Holt v. College of Osteopathic Physicians & Surgeons* (1964) 61 Cal.2d 750 held that minority trustees of a charitable corporation may sue the majority to enjoin a breach of the charitable trust, because the AG's enforcement power is not exclusive [S-1771]; *Hardman v. Feinstein* (1987) 195 Cal.App.3d 157 denied standing to a person whose only interest was as a taxpayer and member of the benefited public [S-1772]. R-TRS-020.
 - **Favored construction**: courts construe ambiguous gifts in favor of charity [S-682].
 
 **3. Cy pres.**
@@ -182,7 +182,7 @@ Write: *"A valid express trust requires (1) a settlor with capacity, (2) intent 
   3. **General or specific intent?** Evidence: breadth of the stated purpose; the settlor's other charitable giving; any **gift over** on failure (a gift over shows specific intent and defeats cy pres); the settlor's ties to the cause.
   4. **Nearest purpose.** The court, not the trustee, picks a purpose as near as possible. A trustee's preferred project that is only loosely related may be rejected.
   5. **If cy pres fails**: resulting trust to the settlor's estate (III).
-- **Modern presumption.** The Restatement (Third) § 67 and UTC § 413 presume a general charitable intent [VERIFY V-559] [VERIFY V-594]. California applies the common-law test (general charitable intent required) through case law; on the essay, state the test, then note the modern presumption.
+- **Modern presumption.** The Restatement (Third) § 67 (the cy pres section [S-1773]) and UTC § 413 presume a general charitable intent [VERIFY V-559] [VERIFY V-594]. California applies the common-law test (general charitable intent required) through case law; on the essay, state the test, then note the modern presumption.
 - **Petition.** The trustee or AG petitions the probate court (Prob. Code § 17200 [VERIFY V-559]); the AG must be given notice in matters affecting charitable trusts [VERIFY V-560].
 - **Administrative deviation vs. cy pres.** Changing *how* a charitable trust is run (investment limits, location of a scholarship office) is deviation (§ 15409; R-TRS-026). Changing *what* charitable purpose it serves is cy pres.
 
@@ -363,14 +363,14 @@ See XI.D. In brief: a settlor's creditors reach a **revocable** trust during lif
 
 ### V.A Duty to administer according to the trust; acceptance
 
-- On accepting the trust (§ 15600), the trustee must administer it **according to the trust instrument** and, except as the instrument validly provides otherwise, the statutory duties (§ 16000) [VERIFY V-569]. R-TRS-050.
+- On accepting the trust (§ 15600) [S-1774], the trustee must administer it **according to the trust instrument** and, except as the instrument validly provides otherwise, the statutory duties (§ 16000) [VERIFY V-569]. R-TRS-050.
 - The instrument can expand or restrict many duties (e.g., authorize retention of a family business), but it cannot license **bad faith** or excuse intentional or reckless breaches (§ 16461; IX.C).
 - A trustee who has not accepted owes no duties; a trustee may resign as the instrument allows, with beneficiary consent, or with court approval.
 
 ### V.B Standard of care (§ 16040)
 
-- "The trustee shall administer the trust with **reasonable care, skill, and caution** under the circumstances then prevailing that a **prudent person acting in a like capacity** would use in the conduct of an enterprise of like character and with like aims to accomplish the purposes of the trust" (§ 16040) [VERIFY V-569]. R-TRS-051.
-- **Professional and expert trustees**: a trustee who has **special skills**, or who was named because of representations of special skills, must use them (§ 16014) [VERIFY V-569].
+- "The trustee shall administer the trust with **reasonable care, skill, and caution** under the circumstances then prevailing that a **prudent person acting in a like capacity** would use in the conduct of an enterprise of like character and with like aims to accomplish the purposes of the trust" (§ 16040(a)) [S-1779]. The settlor may expand or restrict the standard by express provisions, and § 16040 does not apply to investment and management functions, which the Uniform Prudent Investor Act governs (§ 16040(b)–(c)) [S-1779]. R-TRS-051.
+- **Professional and expert trustees**: a trustee who has **special skills**, or who was named because of representations of special skills, must use them: the trustee must apply the full extent of the trustee's skills, and one chosen in reliance on represented special skills is held to the standard of the skills represented (§ 16014) [S-1778].
 - **Unpaid family trustee**: same standard; lack of pay does not lower it.
 
 ### V.C Duty of loyalty and self-dealing
@@ -419,16 +419,16 @@ See XI.D. In brief: a settlor's creditors reach a **revocable** trust during lif
 
 ### V.F Duties to take control, preserve, enforce claims, make productive, and earmark
 
-- **Take control and preserve (§ 16006)**: collect assets, secure and insure them [VERIFY V-569].
-- **Make productive (§ 16007)**: make trust property productive under the circumstances and consistent with the purposes (e.g., rent the vacant house, invest idle cash) [VERIFY V-569].
+- **Take control and preserve (§ 16006)**: take reasonable steps under the circumstances to take and keep control of and to preserve the trust property: collect assets, secure and insure them [S-1776].
+- **Make productive (§ 16007)**: make trust property productive under the circumstances and consistent with the purposes (e.g., rent the vacant house, invest idle cash) [S-1777].
 - **Enforce claims and defend actions (§§ 16010–16011)**: pursue the trust's claims, including against a predecessor or co-trustee [VERIFY V-569].
-- **Keep trust property separate and earmarked (§ 16009)**: no **commingling** with the trustee's own funds; title in the trustee's fiduciary name [VERIFY V-569]. Commingling is a breach even without loss; losses that follow are charged to the trustee; tracing rules apply (R-REM-048). R-TRS-059, R-TRS-060.
+- **Keep trust property separate and earmarked (§ 16009)**: keep trust property separate from property not subject to the trust and see that it is designated as trust property: no **commingling** with the trustee's own funds; title in the trustee's fiduciary name [S-1777] [S-1787]. Commingling is a breach even without loss; losses that follow are charged to the trustee; tracing rules apply (R-REM-048). R-TRS-059, R-TRS-060.
 
 ### V.G Delegation and co-trustees
 
-- **Delegation (§ 16052)** [VERIFY V-569]. A trustee may delegate investment and management functions a prudent trustee could properly delegate, using reasonable care in **selecting** the agent, **establishing the scope and terms**, and **periodically reviewing** performance. A trustee may not abdicate the entire administration.
+- **Delegation (§ 16052)** [S-1780]. A trustee may delegate investment and management functions a prudent trustee could properly delegate, using reasonable care in **selecting** the agent, **establishing the scope and terms**, and **periodically reviewing** performance. A trustee may not abdicate the entire administration.
 - **Co-trustees.**
-  - Unless the instrument provides otherwise, powers vested in co-trustees are exercised by **unanimous** action (§ 15620).
+  - Unless the instrument provides otherwise, powers vested in co-trustees are exercised by **unanimous** action (§ 15620) [S-1774].
   - Each co-trustee must **participate** in administration and use **reasonable care to prevent** a co-trustee's breach and to **compel redress** (§ 16013) [VERIFY V-569].
   - A passive co-trustee who lets the other loot the trust is liable (§ 16402; IX.B).
   - R-TRS-061.
@@ -580,15 +580,15 @@ Covered in VIII–IX: compel, enjoin, surcharge, rescind, trace, remove, reduce 
   1. any **loss or depreciation in value** of the trust estate resulting from the breach, **with interest**;
   2. any **profit made by the trustee** through the breach, **with interest**;
   3. any **profit that would have accrued** to the trust estate if the loss of profit is the result of the breach.
-- **(b)** The court may **excuse** the trustee in whole or in part if the trustee acted **reasonably and in good faith** under the circumstances as known to the trustee and it would be equitable to do so [S-678] [VERIFY V-925]. R-TRS-081, R-TRS-082.
-- **Interest** at the legal rate or the amount actually earned, whichever the statute directs [VERIFY V-925].
+- **(b)** The court may **excuse** the trustee in whole or in part if the trustee acted **reasonably and in good faith** under the circumstances as known to the trustee and it would be equitable to do so [S-678] [S-1784]. R-TRS-081, R-TRS-082.
+- **Interest (§ 16441).** Where the trustee is liable for interest under § 16440, the trustee owes the **greater** of interest at the legal rate on judgments or the interest actually received [S-1785].
 - **No netting** of a gain from one breach against a loss from a separate breach (general rule) [VERIFY V-925].
 
 ### IX.B Liability for others: co-trustees, predecessors, agents
 
-- **Co-trustee (§ 16402)** [VERIFY V-579]: liable for a co-trustee's breach only if the trustee **participated**, **improperly delegated**, **approved, acquiesced in or concealed** it, **negligently enabled** it, or **neglected to take reasonable steps to compel redress**.
-- **Successor trustee (§ 16403)** [VERIFY V-579]: not liable for a predecessor's breach unless the successor **knew or should have known** of it and **improperly permitted it to continue**, or **neglected to take reasonable steps to compel the predecessor to deliver** trust property or **to redress** the breach.
-- **Agents (§ 16401)** [VERIFY V-579]: liable for an agent's acts only if the trustee directed the act, failed to use reasonable care in selecting or monitoring the agent, or otherwise is at fault.
+- **Co-trustee (§ 16402)** [S-1781]: liable for a co-trustee's breach only if the trustee **participated**, **improperly delegated**, **approved, knowingly acquiesced in or concealed** it, **negligently enabled** it, or **neglected to take reasonable steps to compel redress**.
+- **Successor trustee (§ 16403)** [S-1781]: not liable for a predecessor's breach unless the successor **knew or should have known** of it and **improperly permitted it to continue**, or **neglected to take reasonable steps to compel the predecessor to deliver** trust property or **to redress** the breach.
+- **Agents (§ 16401)** [S-1781]: not liable for an agent's acts except in the listed situations, such as where the trustee **directed** the act, did not use **reasonable prudence in selecting or retaining** the agent, did not **periodically review** the agent's performance, or **concealed** the agent's act.
 - R-TRS-083.
 - *Feb 2012 pattern:* the beneficiaries' claim against successor trustee Tara turns on what she knew and what she did once in office.
 
@@ -597,10 +597,10 @@ Covered in VIII–IX: compel, enjoin, surcharge, rescind, trace, remove, reduce 
 | Defense | Rule | Authority |
 |---|---|---|
 | **Exculpatory clause** | Enforceable, but **not** for breaches committed **intentionally, with gross negligence, in bad faith, or with reckless indifference**, or for **profit** derived from the breach; construed strictly | § 16461(b) [S-662] [S-1120] (R-TRS-084) |
-| **Beneficiary consent** | Bars that beneficiary, unless induced by improper conduct, lack of capacity, or ignorance of material facts or rights | § 16463 [S-662] [VERIFY V-925] (R-TRS-085) |
-| **Release; affirmance** | Same limits; releases favoring the trustee also face § 16004(c) | §§ 16464, 16465 [S-662] [VERIFY V-925] |
+| **Beneficiary consent** | Bars that beneficiary, unless induced by improper conduct, lack of capacity, or ignorance of material facts or rights | § 16463 [S-662] [S-1786] (R-TRS-085) |
+| **Release; affirmance** | Release: same limits, and also ineffective if it was a bargain with the trustee that was not fair and reasonable (§ 16464) [S-1786]; affirmance (§ 16465): limits assumed to track § 16463 [VERIFY V-925]; releases favoring the trustee also face § 16004(c) | §§ 16464, 16465 [S-662] |
 | **Settlor's written direction** (revocable trust) | Trustee not liable for following written directions of the holder of the power to revoke | § 16462 [S-662] [S-1121] |
-| **Statute of limitations** | **3 years** after receipt of an account or report that adequately discloses the claim; otherwise 3 years after the beneficiary discovered or reasonably should have discovered it | § 16460 [S-662] [VERIFY V-577] (R-TRS-086) |
+| **Statute of limitations** | **3 years** after receipt of an account or report that adequately discloses the claim; otherwise 3 years after the beneficiary discovered or reasonably should have discovered it | § 16460 [S-662] [S-1766] (R-TRS-086) |
 | **Court excuse** | Reasonable and good-faith conduct | § 16440(b) [S-678] (R-TRS-082) |
 | **Laches** | Equitable delay with prejudice | Common law |
 

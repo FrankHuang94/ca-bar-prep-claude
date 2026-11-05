@@ -48,8 +48,9 @@ One line per authority. Where a section's details were not confirmed against cur
 
 | Section | Rule in one line | Rule ID |
 |---|---|---|
-| §§ 15600–15601 | Acceptance and rejection of trusteeship [VERIFY V-569] | R-TRS-007 |
-| § 15620 | Co-trustees act unanimously unless instrument provides otherwise [VERIFY V-569] | R-TRS-061 |
+| §§ 15600–15601 | Acceptance (signing, or knowingly exercising powers or performing duties) and rejection (in writing, or by not accepting within a reasonable time) [S-1774] | R-TRS-007 |
+| § 15620 | Co-trustees act unanimously unless instrument provides otherwise [S-1774] | R-TRS-061 |
+| § 15660 | Vacancy: instrument's method; else a trust company with the agreement of all adult income (and present-termination principal) beneficiaries; else court appointment [S-1775] | R-TRS-007 |
 | § 15642 | Removal of trustee; grounds incl. disqualified sole trustee (b)(6), with exclusions for settlor's relatives, court-approved designations and independent-review certificates [S-658] [S-1118] | R-TRS-073, R-TRS-074 |
 | §§ 15680–15681 | Trustee compensation: per instrument or reasonable [VERIFY V-924] | R-TRS-066 |
 | § 15684 | Reimbursement of properly incurred expenses [VERIFY V-581] | R-TRS-091 |
@@ -59,11 +60,11 @@ One line per authority. Where a section's details were not confirmed against cur
 | § 16002 | Duty of loyalty: solely in the interest of the beneficiaries | R-TRS-052 |
 | § 16003 | Duty of impartiality | R-TRS-056 |
 | § 16004 | No self-dealing; presumption against advantageous trustee–beneficiary transactions (c) [S-661] | R-TRS-053, R-TRS-054 |
-| §§ 16006–16011 | Control and preserve; productive; earmark; enforce and defend claims [VERIFY V-569] | R-TRS-059, R-TRS-060 |
+| §§ 16006–16011 | Control and preserve (§ 16006) [S-1776]; productive (§ 16007); separate and designated as trust property (§ 16009) [S-1777] [S-1787]; enforce and defend claims (§§ 16010–16011) [VERIFY V-569] | R-TRS-059, R-TRS-060 |
 | § 16013 | Co-trustee's duty to participate and prevent breach [VERIFY V-569] | R-TRS-061 |
-| § 16014 | Duty to use special skills [VERIFY V-569] | R-TRS-051 |
-| § 16040 | Prudent-person standard of care [VERIFY V-569] | R-TRS-051 |
-| §§ 16045–16054 | Uniform Prudent Investor Act: § 16047 standard; § 16048 diversify; § 16049 review; § 16051 no hindsight; § 16052 delegation [S-1119] [VERIFY V-569] | R-TRS-057, R-TRS-058, R-TRS-061 |
+| § 16014 | Duty to use the full extent of the trustee's skills; represented special skills set the standard [S-1778] | R-TRS-051 |
+| § 16040 | Prudent-person standard of care; settlor may expand or restrict; not for UPIA investment functions [S-1779] | R-TRS-051 |
+| §§ 16045–16054 | Uniform Prudent Investor Act: § 16047 standard; § 16048 diversify; § 16049 review; § 16051 no hindsight; § 16052 delegation (prudence in selecting, setting scope and terms, periodic review) [S-1119] [S-1780] | R-TRS-057, R-TRS-058, R-TRS-061 |
 | §§ 16060–16061.5 | Keep informed; report on request; provide terms [S-1126] [S-1125] | R-TRS-062 |
 | § 16061.7 | Notification within 60 days when trust becomes irrevocable on settlor's death, to each beneficiary and each heir [S-652] [S-1125] | R-TRS-064 |
 | § 16061.8 | Contest within 120 days of notice or 60 days after requested terms delivered, whichever later [S-652] [S-653] | R-TRS-064 |
@@ -73,13 +74,14 @@ One line per authority. Where a section's details were not confirmed against cur
 | § 16081 | "Sole/absolute/uncontrolled" discretion: fiduciary principles, no bad faith; trustee-beneficiary HEMS limit (c) unless the instrument expressly refers to (c) [S-659] [S-1117] | R-TRS-069 |
 | §§ 16200 et seq. | Trustee's general and specific powers [VERIFY V-924] | R-TRS-067 |
 | § 16400 | Breach of trust defined [S-678] | R-TRS-078 |
-| §§ 16401–16403 | Liability for agents, co-trustees and predecessors [VERIFY V-579] | R-TRS-083 |
+| §§ 16401–16403 | Liability for agents, co-trustees and predecessors [S-1781] | R-TRS-083 |
 | § 16420 | Remedies for breach (compel, enjoin, surcharge, remove, trace, etc.) [S-678] | R-TRS-078 to R-TRS-080 |
-| § 16440 | Measure of liability: loss, trustee's profit, lost profit; court may excuse (b) [S-678] | R-TRS-081, R-TRS-082 |
-| § 16460 | Three-year limitations period [S-662] [VERIFY V-577] | R-TRS-086 |
+| § 16440 | Measure of liability: loss, trustee's profit, lost profit; court may excuse (b) [S-678] [S-1784] | R-TRS-081, R-TRS-082 |
+| § 16441 | Interest: greater of legal rate on judgments or interest actually received [S-1785] | R-TRS-081 |
+| § 16460 | Three years after an account or written report that adequately discloses the claim; otherwise three years from actual or constructive discovery [S-662] [S-1766] | R-TRS-086 |
 | § 16461 | Exculpatory clauses: not for intentional, grossly negligent, bad-faith or reckless breach, or profit (b) [S-662] [S-1120] | R-TRS-084 |
 | § 16462 | Revocable trust: trustee not liable for acts on the power-holder's written directions [S-662] [S-1121] | R-TRS-065 |
-| §§ 16463–16465 | Beneficiary consent, release, affirmance [S-662] [VERIFY V-925] | R-TRS-085, R-TRS-088 |
+| §§ 16463–16465 | Beneficiary consent, release, affirmance [S-662] [S-1786] (§ 16465 limits [VERIFY V-925]) | R-TRS-085, R-TRS-088 |
 | § 17200 | Petitions concerning internal affairs of a trust | R-TRS-072 |
 
 ## 3. California — third parties, creditors, related statutes
@@ -115,10 +117,11 @@ One line per authority. Where a section's details were not confirmed against cur
 | *Claflin v. Claflin* (Mass. 1889) 149 Mass. 19 | Beneficiaries cannot compel termination while a material purpose of the settlor remains unaccomplished | R-TRS-025 |
 | *Estate of Heggstad* (1993) 16 Cal.App.4th 943 | A settlor-trustee's signed declaration listing property as trust property can transfer it to the trust without a deed; the signed writing satisfies the statute of frauds [S-1109] | R-TRS-005 |
 | *Andersen v. Hunt* (2011) 196 Cal.App.4th 722 | Testamentary-capacity test (§ 6100.5), not §§ 810–812, applies to trust amendments that closely resemble a will or codicil in content and complexity [S-1111] [S-1112] | R-TRS-003 |
-| *Masry v. Masry* (2008) 166 Cal.App.4th 738 | Cited for: statutory revocation method available where the trust's method is not explicitly exclusive (holding not confirmed; settlor-trustee delivery point unconfirmed) [VERIFY V-553] | R-TRS-012 |
+| *Masry v. Masry* (2008) 166 Cal.App.4th 738 | Statutory revocation method (§ 15401(a)(2)) available where the trust's method is not explicitly exclusive; revocation complying only with the statute upheld [S-1770] (settlor-trustee delivery point unconfirmed [VERIFY V-553]) | R-TRS-012 |
 | *Estate of Gatlin* (1971) 16 Cal.App.3d 644 | Cy pres is an equitable power to carry out a charitable trust where the testator expressed a general charitable intent [S-670] | R-TRS-021 |
 | *Estate of Faulkner* (1954) 128 Cal.App.2d 575 | Court first decides whether a charitable trust was created; if not, cy pres cannot apply [S-682] | R-TRS-019 |
-| *Holt v. College of Osteopathic Physicians & Surgeons* (1964) 61 Cal.2d 750 | Minority trustees of a charitable corporation may sue; AG enforcement not exclusive [VERIFY V-560] | R-TRS-020 |
+| *Holt v. College of Osteopathic Physicians & Surgeons* (1964) 61 Cal.2d 750 | Minority trustees of a charitable corporation may sue to enjoin a breach of charitable trust; AG enforcement not exclusive [S-1771] | R-TRS-020 |
+| *Hardman v. Feinstein* (1987) 195 Cal.App.3d 157 | Besides the AG, only those with a special and definite interest (e.g., a trustee) may sue; a taxpayer or member of the public lacks standing [S-1772] | R-TRS-020 |
 | *Adler v. Manor Healthcare Corp.* (1992) 7 Cal.App.4th 1110 | Third parties lose § 18100 protection only on actual knowledge of the trustee's impropriety [S-667] | R-TRS-095 |
 | *Arluk Medical Center Industrial Group, Inc. v. Dobler* (2004) 116 Cal.App.4th 1324 | Trustee's only duty to a deceased settlor's creditors with pending claims is to avoid affirmative misconduct that defeats their reasonable expectation of payment from trust assets [S-1123] [S-1124] | R-TRS-093 |
 
@@ -129,7 +132,7 @@ One line per authority. Where a section's details were not confirmed against cur
 | Restatement (Second) of Trusts § 2 | Definition of a trust | R-TRS-001 |
 | Restatement (Second) of Trusts § 330 | Traditional rule: irrevocable unless power reserved [VERIFY V-923] | R-TRS-011 |
 | Restatement (Third) of Trusts § 28 | Charitable purposes [VERIFY V-559] | R-TRS-019 |
-| Restatement (Third) of Trusts § 67 | Cy pres; adds "wasteful"; presumes general charitable intent [VERIFY V-559] | R-TRS-021 |
+| Restatement (Third) of Trusts § 67 | Cy pres [S-1773]; adds "wasteful"; presumes general charitable intent [VERIFY V-559] | R-TRS-021 |
 | UTC § 602 | Revocable unless expressly irrevocable; revocation by later will referring to the trust [VERIFY V-594] | R-TRS-011, R-TRS-013 |
 | UTC §§ 411–414 | Consent modification; unanticipated circumstances; cy pres; uneconomic trusts ($50,000) [VERIFY V-594] | R-TRS-024 to R-TRS-027 |
 | UTC §§ 502–503 | Spendthrift provisions and exception creditors [VERIFY V-594] | R-TRS-041, R-TRS-046 |

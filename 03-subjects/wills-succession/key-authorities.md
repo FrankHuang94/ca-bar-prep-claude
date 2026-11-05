@@ -23,10 +23,10 @@ One line per authority. Cite the **Probate Code section** on the essay; cite a c
 | § 102 | Recapture of transferred QCP [S-403] | R-WIL-002 |
 | § 103 | Simultaneous death of spouses: CP and QCP split [VERIFY V-521] | R-WIL-003 |
 | §§ 140–147 | Surviving spouse's waiver of rights; § 143 disclosure/counsel; § 144 alternatives (fair and reasonable disposition at signing, or adequate knowledge + no § 721(b) breach) subject to an unconscionability limit [S-606] [S-607] [S-1060] | R-WIL-004 |
-| §§ 220, 222–224 | Simultaneous death: general; beneficiaries; joint tenants; insurance [S-636] | R-WIL-007 to R-WIL-010 |
-| §§ 240, 246, 247 | Representation; strict per stirpes; per capita at each generation | R-WIL-011 |
+| §§ 220, 222–224 | Simultaneous death: general; beneficiaries; joint tenants; insurance (§ 224 exception: CP/QCP policy with no alternative beneficiary but the insured's estate → § 103) [S-636] [S-1760] | R-WIL-007 to R-WIL-010 |
+| §§ 240, 246, 247 | Representation; strict per stirpes (also "by representation" / "by right of representation" in instruments executed on or after Jan 1, 1986, absent contrary intent) [S-1764]; per capita at each generation | R-WIL-011 |
 | §§ 250–254 | Slayer rule | R-WIL-012 |
-| § 259 | Elder or dependent-adult abuser deemed predeceased [S-639] | R-WIL-013 |
+| § 259 | Elder or dependent-adult abuser deemed predeceased; civil route requires the decedent's substantial inability to manage finances or resist fraud or undue influence from the acts until death [S-639] [S-1761] | R-WIL-013 |
 | §§ 275–295 | Disclaimers (§ 279 nine-month safe harbor, after which the disclaimant must prove a reasonable time; § 282 effect) [S-931] | R-WIL-014 |
 | § 1871(c) | Conservatee keeps the right to make a will [S-641] | R-WIL-036 |
 | § 2580 | Substituted judgment: court may authorize conservator to make a will or trust | R-WIL-036 |
@@ -110,7 +110,7 @@ One line per authority. Cite the **Probate Code section** on the essay; cite a c
 | § 21392 | Part 3.7 applies to instruments that became irrevocable on or after Jan 1, 2011 [S-1054] | R-WIL-095 |
 | §§ 21400–21403 | Abatement: § 21400 instrument, plan or purpose override; § 21402 order; § 21403 pro rata and demonstrative gifts [S-604] [S-1055] | R-WIL-075, R-WIL-076 |
 | § 21601 | Testamentary instruments include revocable trust; estate includes trust property | R-WIL-089 |
-| §§ 21610–21612 | Omitted spouse: share, exceptions (incl. § 21611(d) care-custodian spouse, AB 328 [S-1052]), funding | R-WIL-086 to R-WIL-088 |
+| §§ 21610–21612 | Omitted spouse: share, exceptions (incl. § 21611(d) care-custodian spouse, AB 328 [S-1052]), funding (court may exempt a specific gift to carry out obvious intent [S-1762]) | R-WIL-086 to R-WIL-088 |
 | §§ 21620–21623 | Omitted child: share, exceptions, believed dead, funding | R-WIL-088, R-WIL-090 to R-WIL-092 |
 | § 21700 | Contracts to make or not revoke a will; joint/mutual wills [S-627] | R-WIL-005, R-WIL-006 |
 
@@ -136,12 +136,16 @@ One line per authority. Cite the **Probate Code section** on the essay; cite a c
 
 | Case | Holding or rule (one line) | Rule ID |
 |---|---|---|
+| *Payne v. Payne* (Cal. 1861) | A codicil republishes the will; the two are read as one instrument speaking from the codicil's date [S-1768] | R-WIL-057 |
+| *Estate of McCauley* (Cal. 1903) | Republication fiction not applied to invalidate gifts valid when the original will was signed [S-1769] | R-WIL-057 |
 | *Estate of Kaufman* (1945) 25 Cal.2d 854 | DRR: an earlier will revoked only to give effect to a later one stays effective to the extent the later one fails [S-619] | R-WIL-085 |
 | *Estate of Holmes*, 88 Cal.App.2d 360 | Will found mutilated among papers of a testator who kept it: inference that the testator made the marks [S-1065] | R-WIL-081 |
 | *Estate of Mason* (1965) 62 Cal.2d 213 | Change in form does not adeem without intent; untraceable disposition adeems; guardian's sale during incompetency did not adeem [S-615] | R-WIL-069, R-WIL-074 |
 | *Estate of Russell* (1968) 69 Cal.2d 200 | Extrinsic evidence admissible provisionally to expose and resolve latent ambiguity; gift to a dog fails | R-WIL-044 |
 | *Estate of Uhl* (1969) 1 Cal.App.3d 138 | Cancellation/interlineation needs present intent to revoke; DRR applied to ineffective changes [S-640] | R-WIL-079, R-WIL-085 |
+| *Estate of Austin* (1980) 113 Cal.App.3d 167 | Note paid off and proceeds reinvested: change in form, no ademption absent intent (applies *Mason*) [S-1767] | R-WIL-069 |
 | *Estate of Black* (1982) 30 Cal.3d 880 | Holographic will on preprinted stationery upheld; printed matter disregarded | R-WIL-050 |
+| *Estate of Leslie* (1984) 37 Cal.3d 186 | Putative spouse treated as surviving spouse for intestacy, including a share of the decedent's separate property [S-1765] [VERIFY V-910] | R-WIL-017 |
 | *Estate of Worthy* (1988) 205 Cal.App.3d 760 | Courts avoid ademption through constructional rules [S-644] | R-WIL-068 |
 | *Estate of Shannon* (1990) 224 Cal.App.3d 1148 | General disinheritance clause not mentioning a future spouse does not show intent to omit [S-618] | R-WIL-087 |
 | *Estate of Joseph* (1998) 17 Cal.4th 203 | § 6454 legal barrier must persist until death [S-610] | R-WIL-029 |

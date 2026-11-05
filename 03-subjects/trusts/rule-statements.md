@@ -103,13 +103,13 @@ status: reviewed
 **Example:** "$500,000 in trust for my granddaughter, but if she ever marries, her interest passes to my brother," with evidence the settlor wanted to keep her from marrying, is a condition in restraint of marriage and is void, so she keeps her interest free of it. "Income to my granddaughter until she marries" is a valid limitation if the settlor meant only to support her while single; argue intent both ways.
 
 ### R-TRS-007 — Trustee: acceptance, rejection, no failure for want of a trustee
-**Rule (write this):** A trust does not fail for want of a trustee: if the named trustee dies, declines or is removed, the court appoints a successor unless the settlor intended the trust to exist only if that person served. A named trustee accepts by signing the instrument or a written acceptance, or by knowingly exercising powers or performing duties; one who does not accept within a reasonable time is deemed to have rejected the trust.
+**Rule (write this):** A trust does not fail for want of a trustee: if the named trustee dies, declines or is removed, the vacancy is filled as the trust instrument provides; failing that, by a trust company that agrees to serve, with the agreement of all adult beneficiaries who receive or are entitled to income or would take principal if the trust ended then; failing that, by the court on petition, unless the settlor intended the trust to exist only if that person served. A named trustee accepts by signing the instrument or a written acceptance, or by knowingly exercising powers or performing duties; one who does not accept within a reasonable time is deemed to have rejected the trust.
 
-**Elements:** 1. Named trustee accepted? 2. If not, vacancy. 3. Successor named in the instrument, or appointed by the court.
+**Elements:** 1. Named trustee accepted? 2. If not, vacancy. 3. Successor: under the instrument; else a trust company agreed to by the adult beneficiaries; else appointed by the court.
 
 **Exceptions / defenses:** A trustee who has rejected cannot be forced to serve and owes no duties.
 
-**Authority:** Prob. Code §§ 15600, 15601, 15660 [VERIFY V-569]; common law.
+**Authority:** Prob. Code §§ 15600, 15601 [S-1774]; § 15660 [S-1775]; common law.
 
 **MBE vs. CA essay:** not on the MBE; same rule.
 
@@ -176,7 +176,7 @@ status: reviewed
 
 **Exceptions / defenses:** Where the settlor is the sole trustee, argue that holding the signed writing in her capacity as trustee satisfies delivery; no California case confirming this point has been verified for this repo [VERIFY V-553]. Community property held in trust: R-TRS-015.
 
-**Authority:** Prob. Code § 15401(a) [S-660] [S-1114]; *Haggerty v. Thornton* (2024) 15 Cal.5th 729 [S-129] [S-650] [S-129]; *Masry v. Masry* (2008) 166 Cal.App.4th 738 [VERIFY V-553].
+**Authority:** Prob. Code § 15401(a) [S-660] [S-1114]; *Haggerty v. Thornton* (2024) 15 Cal.5th 729 [S-129] [S-650] [S-129]; *Masry v. Masry* (2008) 166 Cal.App.4th 738 (revocation that complied with § 15401(a)(2) but not the trust's own non-exclusive method was effective) [S-1770].
 
 **MBE vs. CA essay:** not on the MBE. **Differs** from the traditional rule, which required strict compliance with any method the instrument stated. Under UTC § 602(c) the settlor may use any method showing clear and convincing intent if the instrument's method is not exclusive [VERIFY V-594].
 
@@ -222,13 +222,13 @@ status: reviewed
 **Example:** H and W put community property in a joint revocable trust that is silent on revocation. W alone signs and delivers a revocation; it is effective as to the CP. A one-spouse amendment cutting out H's relatives would need H's consent.
 
 ### R-TRS-016 — Who may exercise the power to revoke or modify
-**Rule (write this):** The power to revoke or modify belongs to the settlor (or another person to whom the instrument gives it). A trust may not be modified or revoked by an agent under a power of attorney unless the trust instrument expressly permits it. A conservator may act only with court approval. On the settlor's death the trust becomes irrevocable.
+**Rule (write this):** The power to revoke or modify belongs to the settlor (or another person to whom the instrument gives it). A trust may not be modified or revoked by an agent under a power of attorney unless the trust instrument expressly permits it. A conservator may act only with court approval, and the court may not authorize it if the trust instrument shows an intent to reserve the power exclusively to the settlor or expressly bars a conservator from exercising it. On the settlor's death the trust becomes irrevocable.
 
 **Elements:** 1. Who acted? 2. Settlor personally, or a fiduciary? 3. Agent: does the trust instrument expressly permit an agent to revoke or modify? 4. Conservator: court approval?
 
-**Exceptions / defenses:** The power of attorney itself must also grant authority over trusts expressly [VERIFY V-922].
+**Exceptions / defenses:** The power of attorney itself must also expressly authorize the agent to create, modify or revoke a trust (§ 4264) [S-1782].
 
-**Authority:** Prob. Code § 15401(c) [S-1114]; Prob. Code §§ 2580, 4264 (conservator; power of attorney) [VERIFY V-922].
+**Authority:** Prob. Code § 15401(c) [S-1114]; § 2580 (conservator; substituted judgment) [S-1783]; § 4264 (power of attorney) [S-1782].
 
 **MBE vs. CA essay:** not on the MBE; California-specific details.
 
@@ -284,7 +284,7 @@ status: reviewed
 
 **Exceptions / defenses:** The settlor's retained right to enforce depends on the instrument and jurisdiction.
 
-**Authority:** Gov. Code § 12598 [S-671]; *Holt v. College of Osteopathic Physicians & Surgeons* (1964) 61 Cal.2d 750 [VERIFY V-560].
+**Authority:** Gov. Code § 12598 [S-671]; *Holt v. College of Osteopathic Physicians & Surgeons* (1964) 61 Cal.2d 750 (minority trustees may sue to enjoin a breach; AG's power not exclusive) [S-1771]; *Hardman v. Feinstein* (1987) 195 Cal.App.3d 157 (no standing for one whose only interest is as a taxpayer or member of the public) [S-1772].
 
 **MBE vs. CA essay:** not on the MBE; same rule.
 
@@ -297,7 +297,7 @@ status: reviewed
 
 **Exceptions / defenses:** An express gift over on failure shows a specific intent and defeats cy pres. Mere inconvenience, or a trustee's belief that another purpose is better, is not enough.
 
-**Authority:** *Estate of Gatlin* (1971) 16 Cal.App.3d 644 [S-670]; Restatement (Third) of Trusts § 67 [VERIFY V-559]; Prob. Code § 17200 [VERIFY V-559].
+**Authority:** *Estate of Gatlin* (1971) 16 Cal.App.3d 644 [S-670]; Restatement (Third) of Trusts § 67 [S-1773]; Prob. Code § 17200 [VERIFY V-559].
 
 **MBE vs. CA essay:** not on the MBE. **Mostly same:** California applies the common-law doctrine and requires a general charitable intent; the Restatement (Third) and UTC § 413 presume one [VERIFY V-594]. Write the general-intent test, then note the modern presumption.
 
@@ -698,7 +698,7 @@ status: reviewed
 
 **Exceptions / defenses:** Court-authorized deviation (R-TRS-026); written directions of the settlor of a revocable trust (R-TRS-065).
 
-**Authority:** Prob. Code §§ 16000, 15600 [VERIFY V-569].
+**Authority:** Prob. Code § 16000 [VERIFY V-569]; § 15600 [S-1774].
 
 **MBE vs. CA essay:** not on the MBE; same rule.
 
@@ -709,9 +709,9 @@ status: reviewed
 
 **Elements:** 1. Prudent person in a like capacity. 2. Circumstances at the time. 3. Higher standard for professionals and experts.
 
-**Exceptions / defenses:** The standard is not lowered because the trustee serves without pay.
+**Exceptions / defenses:** The standard is not lowered because the trustee serves without pay. The settlor may expand or restrict the standard by express provisions in the instrument, and investment and management functions are governed by the Uniform Prudent Investor Act (§§ 16045–16054), not § 16040 (§ 16040(b)–(c)).
 
-**Authority:** Prob. Code §§ 16040, 16014 [VERIFY V-569].
+**Authority:** Prob. Code §§ 16040 [S-1779], 16014 [S-1778].
 
 **MBE vs. CA essay:** not on the MBE; same rule.
 
@@ -815,7 +815,7 @@ status: reviewed
 
 **Exceptions / defenses:** Assets the instrument directs be held for use (a residence) need not produce income.
 
-**Authority:** Prob. Code §§ 16006, 16007, 16010, 16011 [VERIFY V-569].
+**Authority:** Prob. Code §§ 16006 [S-1776], 16007 [S-1777]; §§ 16010, 16011 [VERIFY V-569].
 
 **MBE vs. CA essay:** not on the MBE; same rule.
 
@@ -828,7 +828,7 @@ status: reviewed
 
 **Exceptions / defenses:** Statutory exceptions for certain pooled or nominee holdings [VERIFY V-569].
 
-**Authority:** Prob. Code § 16009 [VERIFY V-569].
+**Authority:** Prob. Code § 16009 [S-1777] [S-1787].
 
 **MBE vs. CA essay:** not on the MBE; same rule.
 
@@ -841,7 +841,7 @@ status: reviewed
 
 **Exceptions / defenses:** The instrument may allow majority action or assign duties among co-trustees.
 
-**Authority:** Prob. Code §§ 16052, 15620, 16013 [VERIFY V-569].
+**Authority:** Prob. Code §§ 16052 [S-1780], 15620 [S-1774]; § 16013 [VERIFY V-569].
 
 **MBE vs. CA essay:** not on the MBE; same rule (the older rule barred delegating discretionary functions).
 
@@ -1130,20 +1130,20 @@ status: reviewed
 
 **Exceptions / defenses:** Rarely available for loyalty breaches or where the trustee profited.
 
-**Authority:** Prob. Code § 16440(b) [S-678] [VERIFY V-925].
+**Authority:** Prob. Code § 16440(b) [S-678] [S-1784].
 
 **MBE vs. CA essay:** not on the MBE; California-specific in form.
 
 **Example:** A lay trustee relied on the trust's accountant's written (wrong) advice about a tax deadline. The court may excuse liability for the penalty.
 
 ### R-TRS-083 — Liability for co-trustees, predecessors and agents
-**Rule (write this):** A trustee is not liable for a co-trustee's breach unless the trustee participated in it, improperly delegated to the co-trustee, approved, acquiesced in or concealed it, negligently enabled it, or neglected to take reasonable steps to compel redress. A successor trustee is not liable for a predecessor's breach unless the successor knew or should have known of it and improperly permitted it to continue or neglected to compel redress or delivery of trust property. A trustee is liable for an agent's acts only if the trustee directed them or failed to use reasonable care in selecting or supervising the agent.
+**Rule (write this):** A trustee is not liable for a co-trustee's breach unless the trustee participated in it, improperly delegated to the co-trustee, approved, knowingly acquiesced in or concealed it, negligently enabled it, or neglected to take reasonable steps to compel redress. A successor trustee is not liable for a predecessor's breach unless the successor knew or should have known of it and improperly permitted it to continue or neglected to compel redress or delivery of trust property. A trustee is liable for an agent's acts only in the situations the statute lists, such as directing the act, failing to use reasonable prudence in selecting or retaining the agent, failing to review the agent's performance periodically, or concealing the agent's act.
 
 **Elements:** 1. Whose breach? 2. Trustee's own fault (participation, negligence, inaction). 3. Successor: knowledge plus failure to act.
 
 **Exceptions / defenses:** Reasonable steps taken.
 
-**Authority:** Prob. Code §§ 16401, 16402, 16403 [VERIFY V-579].
+**Authority:** Prob. Code §§ 16401, 16402, 16403 [S-1781].
 
 **MBE vs. CA essay:** not on the MBE; same in substance.
 
@@ -1169,7 +1169,7 @@ status: reviewed
 
 **Exceptions / defenses:** A release obtained by a trustee who gains an advantage is also subject to the § 16004(c) presumption (R-TRS-054).
 
-**Authority:** Prob. Code §§ 16463, 16464, 16465 [S-662] [VERIFY V-925].
+**Authority:** Prob. Code §§ 16463, 16464 [S-662] [S-1786]; § 16465 (affirmance; limits assumed to track § 16463) [VERIFY V-925].
 
 **MBE vs. CA essay:** not on the MBE; same in substance.
 
@@ -1182,7 +1182,7 @@ status: reviewed
 
 **Exceptions / defenses:** Concealment by the trustee delays discovery.
 
-**Authority:** Prob. Code § 16460 [S-662] [VERIFY V-577].
+**Authority:** Prob. Code § 16460 [S-662] [S-1766].
 
 **MBE vs. CA essay:** not on the MBE. **Differs:** UTC § 1005 uses one year after an adequate report and a five-year outside limit [VERIFY V-594].
 
