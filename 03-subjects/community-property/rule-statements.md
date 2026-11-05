@@ -1351,7 +1351,7 @@ status: draft
 
 **Elements:** 1. Marriage after all instruments. 2. No provision. 3. No § 21611 exception. 4. Share: CP/QCP half + SP intestate share ≤ 1/2.
 
-**Exceptions / defenses:** § 21611 exceptions; revocation by dissolution of nonprobate transfers to a former spouse [VERIFY V-324].
+**Exceptions / defenses:** § 21611 exceptions; failure of nonprobate transfers to a former spouse after dissolution (Prob. Code § 5040) [S-605].
 
 **Authority:** Prob. Code §§ 21610, 21611, 6122.
 

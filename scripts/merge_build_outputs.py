@@ -8,6 +8,8 @@
            to mapping_status=mapped. Unknown coverage_ids or missing headings are reported and NOT applied.
 --sources  Markdown table rows "| S-### | ... |" inserted into 00-exam-intel/sources.md in ID order.
 --verify   Markdown table rows "| V-### | ... |" inserted into the Open table of VERIFY-QUEUE.md in ID order.
+--resolve  Resolved-table rows "| V-### | File | Claim | Resolution | Source | Resolved |": each ID's row is
+           removed from the Open table and the given row is inserted into the Resolved table in ID order.
 Duplicate IDs are rejected. Use --dry-run to check without writing.
 """
 from __future__ import annotations
@@ -94,11 +96,52 @@ def insert_rows(kind: str, src: Path, dest_rel: str, anchor_section: str | None,
     return len(dupes)
 
 
+def resolve_rows(src: Path, dry: bool) -> int:
+    rx = ROW_RE["V"]
+    new = [ln.rstrip("\n") for ln in src.read_text(encoding="utf-8").splitlines() if rx.match(ln)]
+    dest = C.p(C.VERIFY_REL)
+    lines = dest.read_text(encoding="utf-8").splitlines()
+    res_start = next((i for i, ln in enumerate(lines) if ln.strip().lower().startswith("## resolved")), None)
+    if res_start is None:
+        print("  ! VERIFY-QUEUE.md has no '## Resolved' section")
+        return 1
+    problems = 0
+    open_rows = {rx.match(ln).group(1): i for i, ln in enumerate(lines[:res_start]) if rx.match(ln)}
+    resolved_existing = {rx.match(ln).group(1) for ln in lines[res_start:] if rx.match(ln)}
+    todo = []
+    for ln in new:
+        vid = rx.match(ln).group(1)
+        if vid in resolved_existing:
+            print(f"  ! {vid} already resolved; skipped")
+            problems += 1
+        elif vid not in open_rows:
+            print(f"  ! {vid} not in the Open table; skipped")
+            problems += 1
+        else:
+            todo.append((vid, ln))
+    drop = {open_rows[v] for v, _ in todo}
+    lines = [ln for i, ln in enumerate(lines) if i not in drop]
+    res_start = next(i for i, ln in enumerate(lines) if ln.strip().lower().startswith("## resolved"))
+    idx = [i for i in range(res_start, len(lines)) if rx.match(lines[i])]
+    rows = [lines[i] for i in idx] + [ln for _, ln in todo]
+    rows.sort(key=lambda x: int(rx.match(x).group(2)))
+    if idx:
+        lines[idx[0]:idx[-1] + 1] = rows
+    else:
+        sep = next(i for i in range(res_start, len(lines)) if lines[i].startswith("|---"))
+        lines[sep + 1:sep + 1] = rows
+    if not dry:
+        dest.write_text("\n".join(lines) + "\n", encoding="utf-8")
+    print(f"{src.name}: resolved {len(todo)} item(s)")
+    return problems
+
+
 def main(argv: list[str] | None = None) -> int:
     ap = argparse.ArgumentParser(description="Merge build-agent outputs into shared files.")
     ap.add_argument("--mapping", action="append", default=[])
     ap.add_argument("--sources", action="append", default=[])
     ap.add_argument("--verify", action="append", default=[])
+    ap.add_argument("--resolve", action="append", default=[])
     ap.add_argument("--dry-run", action="store_true")
     a = ap.parse_args(argv)
     problems = 0
@@ -106,6 +149,8 @@ def main(argv: list[str] | None = None) -> int:
         problems += insert_rows("S", Path(s), C.SOURCES_REL, None, a.dry_run)
     for v in a.verify:
         problems += insert_rows("V", Path(v), C.VERIFY_REL, "## Open", a.dry_run)
+    for r in a.resolve:
+        problems += resolve_rows(Path(r), a.dry_run)
     for m in a.mapping:
         problems += apply_mapping(Path(m), a.dry_run)
     return 1 if problems else 0

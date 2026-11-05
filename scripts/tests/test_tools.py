@@ -182,3 +182,18 @@ def test_build_weeks_rest_day_gets_no_hours(repo):
     rows = build_weeks.day_plan(w, {}, dt.date(2027, 7, 19))
     hours = {r[0]: r[2] for r in rows}
     assert hours["Sun"] == 0 and abs(sum(hours.values()) - 24) <= 0.5
+
+
+def test_merge_resolve_moves_item_and_validator_warns(repo, tmp_path, capsys):
+    import merge_build_outputs as M
+    q = (repo / "VERIFY-QUEUE.md").read_text()
+    assert "| V-001 |" in q.split("## Resolved")[0]
+    r = tmp_path / "res.md"
+    r.write_text("| V-001 | x | claim | confirmed | [S-001] | 2026-11-05 |\n")
+    assert M.main(["--resolve", str(r)]) == 0
+    q = (repo / "VERIFY-QUEUE.md").read_text()
+    open_part, resolved_part = q.split("## Resolved")
+    assert "| V-001 |" not in open_part and "| V-001 | x | claim | confirmed |" in resolved_part
+    assert M.main(["--resolve", str(r)]) == 1  # already resolved
+    rep = validate.run()
+    assert rep.errors == [] or all("V-001" not in e for e in rep.errors)

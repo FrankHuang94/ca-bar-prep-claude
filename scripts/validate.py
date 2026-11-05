@@ -219,12 +219,18 @@ def check_citations_and_verify(rep: Report, rows: list[dict]) -> None:
                 rep.error(f"{C.SOURCES_REL}:{n}: source {sid} has no access date (YYYY-MM-DD)")
     queue = C.p(C.VERIFY_REL)
     queue_ids: set[str] = set()
+    resolved_ids: set[str] = set()
     if queue.exists():
+        in_resolved = False
         for line in queue.read_text(encoding="utf-8").splitlines():
+            if line.startswith("## "):
+                in_resolved = line.strip().lower().startswith("## resolved")
             if m := VERIFY_ROW_RE.match(line):
                 if m.group(1) in queue_ids:
                     rep.error(f"{C.VERIFY_REL}: duplicate entry {m.group(1)}")
                 queue_ids.add(m.group(1))
+                if in_resolved:
+                    resolved_ids.add(m.group(1))
     else:
         rep.error(f"{C.VERIFY_REL}: missing")
     doc_files = {"CLAUDE.md", "README.md", "PROGRESS.md"}
@@ -244,6 +250,8 @@ def check_citations_and_verify(rep: Report, rows: list[dict]) -> None:
                     rep.error(f"{rel(f)}:{n}: bare [VERIFY] tag; use [VERIFY V-###] and log it in VERIFY-QUEUE.md")
                 elif vid not in queue_ids and not in_tooling:
                     rep.error(f"{rel(f)}:{n}: [VERIFY {vid}] not logged in VERIFY-QUEUE.md")
+                elif vid in resolved_ids and f.name not in doc_files and not in_tooling:
+                    rep.warn(f"{rel(f)}:{n}: [VERIFY {vid}] cites a resolved item; drop the tag or cite its source")
     for r in rows:
         for s in C.split_list(r["source_id"]):
             if s not in source_ids:
