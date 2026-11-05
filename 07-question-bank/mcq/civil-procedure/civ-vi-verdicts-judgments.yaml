@@ -2,7 +2,7 @@
 questions:
 - id: Q-CIV-0043
   subject: CIV
-  coverage_ids: [CIV-MBE-VI.A]
+  coverage_ids: [CIV-MBE-VI.A, CIV-MBE-VI.D]
   rule_ids: [R-CIV-075, R-CIV-094]
   difficulty: 2
   stem: >-

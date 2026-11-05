@@ -134,7 +134,7 @@ questions:
 
 - id: Q-CIV-0023
   subject: CIV
-  coverage_ids: [CIV-CBX-V]
+  coverage_ids: [CIV-MBE-III.B, CIV-CBX-V]
   rule_ids: [R-CIV-046, R-CIV-048]
   difficulty: 1
   stem: >-
@@ -218,7 +218,7 @@ questions:
 
 - id: Q-CIV-0025
   subject: CIV
-  coverage_ids: [CIV-MBE-III.D]
+  coverage_ids: [CIV-MBE-III.D, CIV-MBE-VI.D]
   rule_ids: [R-CIV-052, R-CIV-094]
   difficulty: 2
   stem: >-
@@ -303,7 +303,7 @@ questions:
 
 - id: Q-CIV-0027
   subject: CIV
-  coverage_ids: [CIV-CBX-VI]
+  coverage_ids: [CIV-MBE-III.D, CIV-CBX-VI, CIV-MBE-I.A]
   rule_ids: [R-CIV-058, R-CIV-004]
   difficulty: 3
   stem: >-
@@ -468,8 +468,8 @@ questions:
       Prejudice supports only curative measures under 37(e)(1); the harsher 37(e)(2) measures turn on
       intent, not prejudice.
     C: >-
-      Overbroad. Negligent loss that causes prejudice permits curative measures under 37(e)(1); the
-      ordinary sanctions framework (R-CIV-073) does not displace that rule.
+      Overbroad. Negligent loss that causes prejudice permits curative measures under 37(e)(1); only
+      the severe 37(e)(2) measures require intent to deprive.
   trap_type: missing-element
   authority: ["FRCP 37(e)(1)-(2)"]
   source: original
@@ -479,7 +479,7 @@ questions:
 
 - id: Q-CIV-0031
   subject: CIV
-  coverage_ids: [CIV-MBE-III.F]
+  coverage_ids: [CIV-MBE-III.F, CIV-MBE-VI.D]
   rule_ids: [R-CIV-074, R-CIV-094]
   difficulty: 3
   stem: >-

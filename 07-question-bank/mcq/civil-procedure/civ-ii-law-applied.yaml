@@ -90,7 +90,7 @@ questions:
 
 - id: Q-CIV-0018
   subject: CIV
-  coverage_ids: [CIV-MBE-II.A]
+  coverage_ids: [CIV-MBE-II.A, CIV-MBE-IV.A]
   rule_ids: [R-CIV-039, R-CIV-040, R-CIV-078]
   difficulty: 3
   stem: >-

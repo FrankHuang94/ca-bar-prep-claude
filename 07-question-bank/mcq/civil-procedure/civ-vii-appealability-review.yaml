@@ -45,7 +45,7 @@ questions:
 
 - id: Q-CIV-0049
   subject: CIV
-  coverage_ids: [CIV-MBE-VII.C]
+  coverage_ids: [CIV-MBE-VII.C, CIV-MBE-VI.C]
   rule_ids: [R-CIV-102, R-CIV-093]
   difficulty: 2
   stem: >-

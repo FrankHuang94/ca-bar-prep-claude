@@ -139,7 +139,7 @@ questions:
 
 - id: Q-CTR-0004
   subject: CTR
-  coverage_ids: [CTR-CBX-II-IV]
+  coverage_ids: [CTR-MBE-I.A, CTR-CBX-II-IV]
   rule_ids: [R-CTR-009, R-CTR-007]
   difficulty: 1
   stem: >-
@@ -181,7 +181,7 @@ questions:
 
 - id: Q-CTR-0005
   subject: CTR
-  coverage_ids: [CTR-CBX-II-IV]
+  coverage_ids: [CTR-MBE-I.A, CTR-CBX-II-IV]
   rule_ids: [R-CTR-015, R-CTR-006]
   difficulty: 3
   stem: >-
@@ -209,7 +209,7 @@ questions:
       Right result, wrong reason. Because a rejection had already been sent, the acceptance could not
       take effect on dispatch; it counted only because it arrived first.
     C: >-
-      A rejection terminates the power of acceptance only when the offeror receives it (R2d § 38), and
+      A rejection terminates the power of acceptance only when the offeror receives it (R2d §§ 38, 40), and
       the acceptance arrived first.
     D: >-
       Overbroad. The later acceptance becomes a mere counteroffer only if the rejection arrives first;
@@ -223,7 +223,7 @@ questions:
 
 - id: Q-CTR-0006
   subject: CTR
-  coverage_ids: [CTR-CBX-II-IV]
+  coverage_ids: [CTR-MBE-I.A, CTR-CBX-II-IV]
   rule_ids: [R-CTR-016, R-CTR-072]
   difficulty: 2
   stem: >-
@@ -339,7 +339,7 @@ questions:
       Requirements contracts are enforceable; the buyer's good-faith requirements supply a definite
       enough quantity and keep the promise from being illusory.
     D: >-
-      True but irrelevant. Millbrook bore the price risk for Crestline's genuine requirements, not for
+      Partly true but not controlling. Millbrook bore the price risk for Crestline's genuine requirements, not for
       a speculative demand made in bad faith.
   trap_type: overbroad
   authority: ["UCC § 2-306(1)", "UCC § 1-304"]
@@ -350,7 +350,7 @@ questions:
 
 - id: Q-CTR-0009
   subject: CTR
-  coverage_ids: [CTR-MBE-I.C]
+  coverage_ids: [CTR-MBE-I.C, CTR-MBE-I.E]
   rule_ids: [R-CTR-024, R-CTR-028]
   difficulty: 2
   stem: >-
@@ -511,8 +511,8 @@ questions:
       irrevocable even before acceptance.
     C: >-
       The firm-offer rule (UCC § 2-205, R-CTR-009) applies only to a merchant's signed written offer to
-      buy or sell goods. A roofing subcontract is chiefly services, and the bid gave no written
-      assurance of firmness.
+      buy or sell goods. A roofing subcontract is chiefly services, and nothing in the facts shows a
+      signed written assurance that the bid would be held open.
     D: >-
       Unilateral mistake (R-CTR-035) permits avoidance only if the other party had reason to know of the
       error or enforcement would be unconscionable. Nothing signaled an error, and a misjudged cost
@@ -548,8 +548,8 @@ questions:
     For a sale of goods, UCC § 2-209(1) (R-CTR-029) provides that an agreement modifying the contract
     needs no consideration; the test is good faith, meaning a legitimate commercial reason rather than
     extortion (cmt. 2). Bellamy's sharply increased costs after the fire were a legitimate reason, it
-    disclosed them, and Fairway agreed in a signed writing, which also satisfies the statute of frauds
-    for the modified contract. The common-law pre-existing duty rule (R-CTR-024) does not apply.
+    disclosed them, and Fairway's purchasing manager agreed in a signed letter; Fairway's only
+    objection is the lack of consideration. The common-law pre-existing duty rule (R-CTR-024) does not apply.
     Trap: right result for the common-law reason.
   explanation_each_wrong_option:
     A: >-
@@ -562,7 +562,7 @@ questions:
       Right result, wrong reason. The "unanticipated circumstances, fair and equitable" test is R2d
       § 89 for common-law contracts; the UCC asks only about good faith.
   trap_type: right-result-wrong-reason
-  authority: ["UCC § 2-209(1) and cmt. 2", "UCC § 2-209(3)"]
+  authority: ["UCC § 2-209(1) and cmt. 2"]
   source: original
   tags: [wave1, M1, ucc, modification]
   status: draft

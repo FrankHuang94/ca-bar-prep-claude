@@ -126,7 +126,7 @@ questions:
 
 - id: Q-CIV-0004
   subject: CIV
-  coverage_ids: [CIV-CBX-I]
+  coverage_ids: [CIV-MBE-I.A, CIV-CBX-I, CIV-MBE-III.D]
   rule_ids: [R-CIV-011, R-CIV-056, R-CIV-010]
   difficulty: 3
   stem: >-
@@ -169,7 +169,7 @@ questions:
 
 - id: Q-CIV-0005
   subject: CIV
-  coverage_ids: [CIV-CBX-I]
+  coverage_ids: [CIV-MBE-I.A, CIV-CBX-I]
   rule_ids: [R-CIV-014, R-CIV-015]
   difficulty: 3
   stem: >-
@@ -211,7 +211,7 @@ questions:
 
 - id: Q-CIV-0006
   subject: CIV
-  coverage_ids: [CIV-CBX-I]
+  coverage_ids: [CIV-MBE-I.A, CIV-CBX-I]
   rule_ids: [R-CIV-007, R-CIV-004]
   difficulty: 2
   stem: >-
@@ -259,7 +259,8 @@ questions:
     and earns about 8% of its national revenue there. Diaz, who now lives in Florida, was injured in
     Ohio when the brakes failed on a Kestrel car she had bought in Ohio while living there. She sued
     Kestrel for $1 million in federal court in Florida. Florida's long-arm statute reaches the limits of
-    due process. Kestrel moved to dismiss for lack of personal jurisdiction.
+    due process, and Kestrel has not consented to jurisdiction there. Kestrel moved to dismiss for lack
+    of personal jurisdiction.
   call: "How should the court rule on the motion?"
   options:
     A: "Deny it, because Kestrel's sales in Florida are continuous and systematic."
@@ -336,7 +337,7 @@ questions:
 
 - id: Q-CIV-0009
   subject: CIV
-  coverage_ids: [CIV-CBX-II]
+  coverage_ids: [CIV-MBE-I.B, CIV-CBX-II]
   rule_ids: [R-CIV-018, R-CIV-017]
   difficulty: 1
   stem: >-
@@ -355,8 +356,10 @@ questions:
   explanation_correct: >-
     A federal court borrows the forum State's reach under Rule 4(k)(1)(A) (R-CIV-017). Personal service
     on an individual who is voluntarily present in the forum State ("tag" jurisdiction) satisfies due
-    process without any minimum-contacts analysis (R-CIV-018; Burnham v. Superior Court). Whitaker was
-    voluntarily in Chicago when served, so the court has jurisdiction even though the claim arose in
+    process (R-CIV-018). In Burnham v. Superior Court all nine Justices upheld tag jurisdiction without
+    a majority opinion: a four-Justice plurality relied on its long tradition alone, and four others
+    found it fair to a defendant who voluntarily enters the State. Whitaker was voluntarily in Chicago
+    when served, so the court has jurisdiction even though the claim arose in
     Georgia. Trap: running a minimum-contacts analysis where a traditional basis applies.
   explanation_each_wrong_option:
     B: >-
@@ -377,7 +380,7 @@ questions:
 
 - id: Q-CIV-0010
   subject: CIV
-  coverage_ids: [CIV-CBX-II]
+  coverage_ids: [CIV-MBE-I.B, CIV-CBX-II]
   rule_ids: [R-CIV-022, R-CIV-021, R-CIV-020]
   difficulty: 3
   stem: >-
@@ -546,7 +549,7 @@ questions:
 
 - id: Q-CIV-0014
   subject: CIV
-  coverage_ids: [CIV-MBE-I.D]
+  coverage_ids: [CIV-MBE-I.D, CIV-MBE-II.A]
   rule_ids: [R-CIV-033, R-CIV-040, R-CIV-035]
   difficulty: 3
   stem: >-

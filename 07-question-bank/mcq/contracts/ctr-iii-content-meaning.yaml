@@ -23,8 +23,8 @@ questions:
     The parol evidence rule bars evidence of prior or contemporaneous agreements offered to
     contradict or supplement an integrated writing (R-CTR-049), but it does not bar evidence that the
     parties agreed the writing would not become effective until a condition occurred (R-CTR-050; R2d
-    § 217). Such evidence goes to whether there is an operative contract at all, so even a merger clause
-    does not exclude it. Trap: treating a merger clause as an absolute bar.
+    § 217). Such evidence goes to whether there is an operative contract at all, so a merger clause
+    generally does not exclude it. Trap: treating a merger clause as an absolute bar.
   explanation_each_wrong_option:
     B: >-
       Overbroad. A merger clause is strong evidence of complete integration, but the rule still admits
@@ -44,7 +44,7 @@ questions:
 
 - id: Q-CTR-0023
   subject: CTR
-  coverage_ids: [CTR-MBE-III.A]
+  coverage_ids: [CTR-MBE-III.A, CTR-MBE-I.E]
   rule_ids: [R-CTR-050, R-CTR-028]
   difficulty: 1
   stem: >-
@@ -86,7 +86,7 @@ questions:
 
 - id: Q-CTR-0024
   subject: CTR
-  coverage_ids: [CTR-MBE-III.B]
+  coverage_ids: [CTR-MBE-III.B, CTR-MBE-III.A]
   rule_ids: [R-CTR-054, R-CTR-051, R-CTR-053]
   difficulty: 3
   stem: >-
@@ -130,7 +130,7 @@ questions:
 
 - id: Q-CTR-0025
   subject: CTR
-  coverage_ids: [CTR-MBE-III.C]
+  coverage_ids: [CTR-MBE-III.C, CTR-MBE-I.C]
   rule_ids: [R-CTR-055, R-CTR-023]
   difficulty: 2
   stem: >-

@@ -45,7 +45,7 @@ questions:
 
 - id: Q-CTR-0027
   subject: CTR
-  coverage_ids: [CTR-MBE-IV.B]
+  coverage_ids: [CTR-MBE-IV.B, CTR-MBE-IV.D]
   rule_ids: [R-CTR-064, R-CTR-071, R-CTR-023]
   difficulty: 2
   stem: >-
@@ -172,7 +172,7 @@ questions:
 
 - id: Q-CTR-0030
   subject: CTR
-  coverage_ids: [CTR-MBE-IV.C]
+  coverage_ids: [CTR-MBE-IV.C, CTR-MBE-IV.F]
   rule_ids: [R-CTR-076, R-CTR-072]
   difficulty: 2
   stem: >-

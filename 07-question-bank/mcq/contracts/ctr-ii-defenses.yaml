@@ -117,9 +117,9 @@ questions:
       Overbroad. Unilateral mistake permits avoidance when the other party knew or had reason to know
       of the mistake, or when enforcement would be unconscionable.
     B: >-
-      A party's negligence in making a clerical error does not by itself place the risk on it (R2d
-      § 157); the risk rule targets errors of judgment and contractual allocations, not an omitted line
-      item the other side spotted.
+      A party's fault in making a clerical error does not by itself bar avoidance (R2d § 157). Nothing
+      in the bid allocated the risk to Carver, and an omitted line item that the other side spotted is
+      not the kind of business-judgment error a bidder must bear.
     C: >-
       Overbroad and the wrong test. Unconscionability (R-CTR-040) is not established merely by a low
       price; the correct basis is § 153's reason-to-know prong.
@@ -132,7 +132,7 @@ questions:
 
 - id: Q-CTR-0018
   subject: CTR
-  coverage_ids: [CTR-MBE-II.D]
+  coverage_ids: [CTR-MBE-II.D, CTR-MBE-V.E]
   rule_ids: [R-CTR-037, R-CTR-105]
   difficulty: 2
   stem: >-
@@ -204,14 +204,14 @@ questions:
       True but irrelevant. Competent performance does not make a contract barred by a regulatory
       licensing statute enforceable.
     B: >-
-      Restitution (R-CTR-018) is generally denied to the unlicensed party under a public-protection
-      statute, because allowing it would undercut the statute's purpose; Vance is the party the
+      Restitution (R-CTR-018; R2d § 197) is generally denied to the unlicensed party under a
+      public-protection statute, because allowing it would undercut the statute's purpose; Vance is the party the
       statute targets, not one it protects.
     D: >-
       A contract to rewire a house can be performed within a year and is not within any statute of
       frauds category, so no writing was needed.
   trap_type: true-but-irrelevant
-  authority: ["R2d § 178"]
+  authority: ["R2d § 178", "R2d § 197"]
   source: original
   tags: [wave1, M1, illegality, licensing]
   status: draft

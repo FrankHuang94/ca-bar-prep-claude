@@ -25,7 +25,7 @@ questions:
     plus incidental and consequential damages, less expenses saved (UCC §§ 2-711, 2-713; R-CTR-102).
     That is $24,500 - $20,000 = $4,500. Reasonable expenses of searching for a substitute are incidental
     damages (§ 2-715(1); R-CTR-094): $4,500 + $400 = $4,900. Cover is optional; failing to cover bars
-    only consequential losses cover would have prevented (§ 2-712(3); R-CTR-095). Trap: treating cover
+    only consequential losses cover would have prevented (§§ 2-712(3), 2-715(2)(a); R-CTR-095). Trap: treating cover
     as mandatory.
   explanation_each_wrong_option:
     A: >-
@@ -35,10 +35,10 @@ questions:
       Section 2-713 expressly adds incidental damages to the market differential whether or not the
       buyer covers.
     D: >-
-      Wrong standard. Under § 2-712(3), a buyer's failure to cover does not bar any other remedy; it
-      only limits consequential damages that cover would have avoided.
+      Wrong standard. Under § 2-712(3), a buyer's failure to cover does not bar any other remedy;
+      under § 2-715(2)(a) it only limits consequential damages that cover would have avoided.
   trap_type: wrong-standard
-  authority: ["UCC § 2-711", "UCC § 2-712(3)", "UCC § 2-713", "UCC § 2-715(1)"]
+  authority: ["UCC § 2-711", "UCC § 2-712(3)", "UCC § 2-713", "UCC § 2-715(1), (2)(a)"]
   source: original
   tags: [wave1, M1, ucc, buyer-remedies, market-damages]
   status: draft
@@ -299,7 +299,7 @@ questions:
 
 - id: Q-CTR-0045
   subject: CTR
-  coverage_ids: [CTR-MBE-V.G]
+  coverage_ids: [CTR-MBE-V.G, CTR-MBE-V.B]
   rule_ids: [R-CTR-107, R-CTR-093]
   difficulty: 1
   stem: >-

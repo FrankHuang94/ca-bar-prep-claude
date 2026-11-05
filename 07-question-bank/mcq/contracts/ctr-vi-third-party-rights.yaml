@@ -92,8 +92,8 @@ questions:
     $150,000, payable 30 days after delivery. The contract stated: "Neither party shall assign its
     rights under this agreement without the other party's written consent." After delivering
     conforming equipment, Tolland assigned its right to the $150,000 payment to Cobalt Finance in
-    exchange for a cash advance, without asking Orbis. Cobalt promptly notified Orbis of the
-    assignment. When payment came due, Orbis paid Tolland anyway, and Tolland went bankrupt without
+    exchange for a cash advance, without asking Orbis. Cobalt promptly sent Orbis a signed notice of
+    the assignment directing Orbis to pay Cobalt. When payment came due, Orbis paid Tolland anyway, and Tolland went bankrupt without
     paying Cobalt. Cobalt sued Orbis.
   call: "Is Cobalt likely to recover from Orbis?"
   options:
@@ -129,7 +129,7 @@ questions:
 
 - id: Q-CTR-0050
   subject: CTR
-  coverage_ids: [CTR-MBE-VI.B]
+  coverage_ids: [CTR-MBE-VI.B, CTR-MBE-VI.A]
   rule_ids: [R-CTR-116, R-CTR-088, R-CTR-110]
   difficulty: 3
   stem: >-

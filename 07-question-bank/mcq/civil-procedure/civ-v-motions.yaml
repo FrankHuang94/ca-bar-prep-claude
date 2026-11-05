@@ -195,7 +195,7 @@ questions:
     case was submitted, and it is limited to the grounds raised there (R-CIV-088; Unitherm Food Systems
     v. Swift-Eckrich). With no pre-verdict motion there is nothing to renew. A Rule 59 motion for a new
     trial has no such prerequisite; it must be filed within 28 days after entry of judgment, and this
-    one was filed after 20 (R-CIV-089). Trap: assuming the missing 50(a) motion forfeits every
+    one was filed 20 days after entry (R-CIV-089). Trap: assuming the missing 50(a) motion forfeits every
     post-trial remedy.
   explanation_each_wrong_option:
     A: >-
@@ -255,7 +255,7 @@ questions:
 
 - id: Q-CIV-0042
   subject: CIV
-  coverage_ids: [CIV-MBE-V.C]
+  coverage_ids: [CIV-MBE-V.C, CIV-MBE-VI.A]
   rule_ids: [R-CIV-090, R-CIV-076]
   difficulty: 3
   stem: >-

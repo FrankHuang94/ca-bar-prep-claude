@@ -122,7 +122,7 @@ questions:
 
 - id: Q-CIV-0035
   subject: CIV
-  coverage_ids: [CIV-MBE-IV.C]
+  coverage_ids: [CIV-MBE-IV.C, CIV-MBE-VII.C]
   rule_ids: [R-CIV-083, R-CIV-102]
   difficulty: 2
   stem: >-
