@@ -4,8 +4,8 @@ topic: Evidence — plain-English primer (read first)
 coverage_ids: [EVD-MBE-I, EVD-MBE-II, EVD-MBE-III, EVD-MBE-IV, EVD-MBE-V, EVD-SUP-001]
 tested_on: [MBE, essay]
 exam_frequency: {level: high, basis: "Essays: 15 of 31 administrations 2012-02 to 2026-07 (48%); MBE: 25 scored questions every exam"}
-last_verified: 2026-11-04
-status: draft
+last_verified: 2026-11-05
+status: verified
 ---
 
 # Evidence — primer

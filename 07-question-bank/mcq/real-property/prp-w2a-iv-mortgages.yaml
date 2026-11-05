@@ -38,8 +38,8 @@ questions:
   authority: ["Common law: nature of the mortgage and the secured obligation"]
   source: original
   tags: [wave2, W2-PRP, mortgages, secured-obligation]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-PRP-0082
   subject: PRP
@@ -83,8 +83,8 @@ questions:
   authority: ["Common law: limits on forfeiture under installment land contracts"]
   source: original
   tags: [wave2, W2-PRP, installment-contracts, forfeiture]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-PRP-0083
   subject: PRP
@@ -124,8 +124,8 @@ questions:
   authority: ["Common law: lien theory of mortgages; mortgagor's possession and rents before foreclosure"]
   source: original
   tags: [wave2, W2-PRP, mortgages, rights-before-foreclosure]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-PRP-0084
   subject: PRP
@@ -165,8 +165,8 @@ questions:
   authority: ["Common law of suretyship: subrogation of a paying surety", "Common law: assumption and subject-to transfers"]
   source: original
   tags: [wave2, W2-PRP, suretyship, subrogation, assumption]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-PRP-0085
   subject: PRP
@@ -206,8 +206,8 @@ questions:
   authority: ["12 U.S.C. § 1701j-3", "Fidelity Federal Savings & Loan Ass'n v. de la Cuesta, 458 U.S. 141 (1982)"]
   source: original
   tags: [wave2, W2-PRP, due-on-sale, transfers-by-mortgagor]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-PRP-0086
   subject: PRP
@@ -249,8 +249,8 @@ questions:
   authority: ["Common law: prepayment and prepayment charges", "Common law: discharge and release of a mortgage on payment"]
   source: original
   tags: [wave2, W2-PRP, discharge, prepayment]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-PRP-0087
   subject: PRP
@@ -290,8 +290,8 @@ questions:
   authority: ["Common law: power-of-sale foreclosure; inadequacy of price", "Statute described in the stem"]
   source: original
   tags: [wave2, W2-PRP, foreclosure, power-of-sale]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-PRP-0088
   subject: PRP
@@ -331,8 +331,8 @@ questions:
   authority: ["Common law: clogging the equity of redemption"]
   source: original
   tags: [wave2, W2-PRP, clogging, redemption]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-PRP-0089
   subject: PRP
@@ -372,8 +372,8 @@ questions:
   authority: ["Common law: necessary parties to foreclosure; omitted junior lienholders"]
   source: original
   tags: [wave2, W2-PRP, foreclosure, parties]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-PRP-0090
   subject: PRP
@@ -415,5 +415,5 @@ questions:
   authority: ["Common law: obligatory and optional future advances"]
   source: original
   tags: [wave2, W2-PRP, future-advances, priorities]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"

@@ -20,8 +20,8 @@ issues:
   - {issue: "Non-mutual offensive issue preclusion: Parklane fairness factors", points: 12, call: 4, major: true, rule_ids: [R-CIV-096], coverage_ids: [CIV-MBE-VI.D]}
 time_minutes: 60
 source: original
-status: draft
-last_verified: 2026-11-04
+status: verified
+last_verified: 2026-11-05
 tags: [wave1, E1, federal, diversity, personal-jurisdiction, erie, preclusion]
 ---
 

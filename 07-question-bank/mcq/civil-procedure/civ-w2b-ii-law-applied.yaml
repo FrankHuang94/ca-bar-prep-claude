@@ -43,8 +43,8 @@ questions:
   authority: ["Gasperini v. Center for Humanities, Inc., 518 U.S. 415 (1996)", "FRCP 59(a)", "U.S. Const. amend. VII"]
   source: original
   tags: [wave2, w2b, erie, gasperini, excessive-verdict]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CIV-0117
   subject: CIV
@@ -90,8 +90,8 @@ questions:
   authority: ["Guaranty Trust Co. v. York, 326 U.S. 99 (1945)", "Erie R.R. v. Tompkins, 304 U.S. 64 (1938)", "28 U.S.C. § 1652"]
   source: original
   tags: [wave2, w2b, erie, statute-of-limitations, equity]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CIV-0118
   subject: CIV
@@ -135,8 +135,8 @@ questions:
   authority: ["FRE 501", "FRCP 26(b)(1)", "FRCP 26(c)(1)"]
   source: original
   tags: [wave2, w2b, erie, privilege, fre-501, discovery]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CIV-0119
   subject: CIV
@@ -181,8 +181,8 @@ questions:
   authority: ["Erie R.R. v. Tompkins, 304 U.S. 64 (1938)", "28 U.S.C. § 1652", "28 U.S.C. § 1367(a), (c)"]
   source: original
   tags: [wave2, w2b, erie, supplemental-jurisdiction]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CIV-0120
   subject: CIV
@@ -228,8 +228,8 @@ questions:
   authority: ["Semtek Int'l Inc. v. Lockheed Martin Corp., 531 U.S. 497 (2001)", "FRCP 41(b)", "28 U.S.C. § 1738"]
   source: original
   tags: [wave2, w2b, federal-common-law, preclusion, semtek]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CIV-0121
   subject: CIV
@@ -277,5 +277,5 @@ questions:
   authority: ["United States v. Kimbell Foods, Inc., 440 U.S. 715 (1979)", "Clearfield Trust Co. v. United States, 318 U.S. 363 (1943)"]
   source: original
   tags: [wave2, w2b, federal-common-law, kimbell-foods]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"

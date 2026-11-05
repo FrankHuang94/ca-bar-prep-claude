@@ -5,7 +5,7 @@ coverage_ids: []
 tested_on: [MBE, essay, PT]
 exam_frequency: {level: high, basis: "Final-review weeks 2027-W28 and 2027-W29 of 01-study-plan/schedule.yml; exam Tue-Wed Jul 27-28, 2027 (S-001)"}
 last_verified: 2026-11-05
-status: draft
+status: reviewed
 ---
 
 # Final two weeks: Mon Jul 12 – Sun Jul 25, 2027

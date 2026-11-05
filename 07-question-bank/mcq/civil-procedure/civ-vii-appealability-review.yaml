@@ -40,8 +40,8 @@ questions:
   authority: ["28 U.S.C. § 1291", "28 U.S.C. § 1292(a)(1)", "Mohawk Industries, Inc. v. Carpenter, 558 U.S. 100 (2009)"]
   source: original
   tags: [wave1, M1, appeals, interlocutory]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CIV-0049
   subject: CIV
@@ -81,8 +81,8 @@ questions:
   authority: ["FRCP 52(a)(6)", "Anderson v. City of Bessemer City, 470 U.S. 564 (1985)"]
   source: original
   tags: [wave1, M1, appeals, standards-of-review]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CIV-0050
   subject: CIV
@@ -121,5 +121,5 @@ questions:
   authority: ["FRAP 4(a)(1)(A)", "FRAP 4(a)(4)(A)(v)", "FRCP 59(b)"]
   source: original
   tags: [wave1, M1, appeals, timing]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"

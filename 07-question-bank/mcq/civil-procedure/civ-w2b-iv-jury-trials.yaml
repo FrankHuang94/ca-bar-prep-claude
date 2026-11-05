@@ -39,8 +39,8 @@ questions:
   authority: ["FRCP 38(b)", "FRCP 38(d)", "FRCP 39(a)-(b)"]
   source: original
   tags: [wave2, w2b, jury-demand, withdrawal]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CIV-0132
   subject: CIV
@@ -81,8 +81,8 @@ questions:
   authority: ["28 U.S.C. § 1870", "FRCP 47(a)-(b)"]
   source: original
   tags: [wave2, w2b, jury-selection, challenge-for-cause, implied-bias]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CIV-0133
   subject: CIV
@@ -123,8 +123,8 @@ questions:
   authority: ["28 U.S.C. § 1870", "FRCP 47(b)"]
   source: original
   tags: [wave2, w2b, jury-selection, peremptory-challenges, multiple-parties]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CIV-0134
   subject: CIV
@@ -175,5 +175,5 @@ questions:
   authority: ["FRCP 51(b)(1)-(2)", "FRCP 51(c)(1)-(2)", "FRCP 51(d)(1)-(2)"]
   source: original
   tags: [wave2, w2b, jury-instructions, objections, preservation]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"

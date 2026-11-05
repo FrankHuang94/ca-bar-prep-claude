@@ -26,8 +26,8 @@ issues:
   - {issue: "Offense-specific right: drug case vs. uncharged car theft; impeachment (Ventris)", points: 6, call: 4, rule_ids: [R-CRM-102], coverage_ids: [CRM-MBE-V.D]}
 time_minutes: 60
 source: original
-status: draft
-last_verified: 2026-11-04
+status: verified
+last_verified: 2026-11-05
 tags: [wave1, E1, fourth-amendment, rodriguez, riley, miranda, massiah]
 ---
 

@@ -20,8 +20,8 @@ issues:
   - {issue: "Notice of breach; damages for accepted goods (2-714, 2-715)", points: 8, call: 2, rule_ids: [R-CTR-061, R-CTR-103, R-CTR-092], coverage_ids: [CTR-MBE-IV.E, CTR-MBE-V.A, CTR-MBE-V.B]}
 time_minutes: 60
 source: original
-status: draft
-last_verified: 2026-11-04
+status: verified
+last_verified: 2026-11-05
 tags: [wave2, W2-E5, ucc, firm-offer, statute-of-frauds, merchant-confirmation, parol-evidence, warranties]
 ---
 

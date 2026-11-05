@@ -5,7 +5,7 @@ coverage_ids: [BUS-CBX-I, BUS-CBX-II, BUS-CBX-III, BUS-CBX-IV, BUS-CBX-V, BUS-CB
 tested_on: [essay, PT]
 exam_frequency: {level: high, basis: "Essays: 14 of 31 administrations 2012-02 to 2026-07 (45%)"}
 last_verified: 2026-11-05
-status: draft
+status: reviewed
 ---
 
 # Business Associations — outline

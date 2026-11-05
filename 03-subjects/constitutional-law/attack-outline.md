@@ -4,8 +4,8 @@ topic: Constitutional Law — exam-day attack outline
 coverage_ids: [CON-MBE-I, CON-MBE-II, CON-MBE-III, CON-MBE-IV]
 tested_on: [MBE, essay]
 exam_frequency: {level: high, basis: "Essays: 13 of 31 administrations 2012-02 to 2026-07 (42%); MBE: 25 scored questions every exam"}
-last_verified: 2026-11-04
-status: draft
+last_verified: 2026-11-05
+status: verified
 ---
 
 # Constitutional Law — attack outline

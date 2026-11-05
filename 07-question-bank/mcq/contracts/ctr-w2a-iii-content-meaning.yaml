@@ -41,8 +41,8 @@ questions:
   authority: ["R2d § 213", "R2d § 215"]
   source: original
   tags: [wave2, parol-evidence, merger-clause]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CTR-0073
   subject: CTR
@@ -89,8 +89,8 @@ questions:
   authority: ["UCC § 2-202 and cmt. 2", "UCC § 1-303(b), (e)", "UCC § 1-201(b)(3)"]
   source: original
   tags: [wave2, ucc, parol-evidence, course-of-dealing]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CTR-0074
   subject: CTR
@@ -131,8 +131,8 @@ questions:
   authority: ["R2d § 203(c)-(d)", "R2d § 206"]
   source: original
   tags: [wave2, interpretation, canons]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CTR-0075
   subject: CTR
@@ -178,8 +178,8 @@ questions:
   authority: ["R2d § 202(4)", "R2d § 203(b)"]
   source: original
   tags: [wave2, interpretation, course-of-performance, usage-of-trade]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CTR-0076
   subject: CTR
@@ -222,5 +222,5 @@ questions:
   authority: ["R2d § 204", "R2d § 250"]
   source: original
   tags: [wave2, implied-terms, reasonable-time]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"

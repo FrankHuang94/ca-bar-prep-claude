@@ -4,8 +4,8 @@ topic: Criminal Law and Procedure — decision flowcharts (Mermaid)
 coverage_ids: [CRM-MBE-I, CRM-MBE-I.B.3, CRM-MBE-III.A.1, CRM-MBE-III.A.2, CRM-MBE-IV.E, CRM-MBE-V.A, CRM-MBE-V.B, CRM-MBE-V.C, CRM-MBE-V.F]
 tested_on: [MBE, essay]
 exam_frequency: {level: high, basis: "Essays: 15 of 31 administrations 2012-02 to 2026-07 (48%); MBE: 25 scored questions every exam"}
-last_verified: 2026-11-04
-status: draft
+last_verified: 2026-11-05
+status: verified
 ---
 
 # Criminal Law and Procedure — flowcharts

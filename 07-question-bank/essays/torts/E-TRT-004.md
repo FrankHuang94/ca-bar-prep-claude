@@ -23,8 +23,8 @@ issues:
   - {issue: "Damages: nominal, compensatory, punitive against Kurt; punitive damages against the companies (managing agent)", points: 4, call: 3, rule_ids: [R-TRT-114], coverage_ids: [TRT-MBE-I.A]}
 time_minutes: 60
 source: original
-status: draft
-last_verified: 2026-11-04
+status: verified
+last_verified: 2026-11-05
 tags: [wave2, W2-E5, battery, assault, false-imprisonment, shopkeeper-privilege, self-defense, defense-of-others, respondeat-superior, independent-contractor]
 ---
 

@@ -4,8 +4,8 @@ topic: Trusts — primer (big picture, vocabulary, key ideas)
 coverage_ids: [TRS-CBX-I, TRS-CBX-III, TRS-CBX-IV, TRS-CBX-V, TRS-CBX-VIII, TRS-SUP-001]
 tested_on: [essay]
 exam_frequency: {level: low, basis: "Essays: 7 of 31 administrations 2012-02 to 2026-07 (23%); usually tested with Wills"}
-last_verified: 2026-11-04
-status: draft
+last_verified: 2026-11-05
+status: verified
 ---
 
 # Trusts — primer

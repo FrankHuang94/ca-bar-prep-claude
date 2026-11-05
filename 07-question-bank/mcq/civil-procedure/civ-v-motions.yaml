@@ -37,8 +37,8 @@ questions:
   authority: ["FRCP 12(g)(2)", "FRCP 12(h)(1)-(3)"]
   source: original
   tags: [wave1, M1, rule-12, waiver]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CIV-0037
   subject: CIV
@@ -79,8 +79,8 @@ questions:
   authority: ["FRCP 12(b)(6), 12(d)", "FRCP 56"]
   source: original
   tags: [wave1, M1, rule-12, conversion]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CIV-0038
   subject: CIV
@@ -123,8 +123,8 @@ questions:
   authority: ["FRCP 56(a), (c)", "Anderson v. Liberty Lobby, Inc., 477 U.S. 242 (1986)", "Tolan v. Cotton, 572 U.S. 650 (2014)"]
   source: original
   tags: [wave1, M1, summary-judgment]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CIV-0039
   subject: CIV
@@ -168,8 +168,8 @@ questions:
   authority: ["FRCP 50(a)", "Reeves v. Sanderson Plumbing Products, Inc., 530 U.S. 133 (2000)", "Galloway v. United States, 319 U.S. 372 (1943)"]
   source: original
   tags: [wave1, M1, jmol, directed-verdict]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CIV-0040
   subject: CIV
@@ -209,8 +209,8 @@ questions:
   authority: ["FRCP 50(b)", "FRCP 59(a)-(b)", "FRCP 6(b)(2)", "Unitherm Food Systems, Inc. v. Swift-Eckrich, Inc., 546 U.S. 394 (2006)"]
   source: original
   tags: [wave1, M1, renewed-jmol, new-trial]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CIV-0041
   subject: CIV
@@ -250,8 +250,8 @@ questions:
   authority: ["FRCP 59(a)", "Dimick v. Schiedt, 293 U.S. 474 (1935)", "U.S. Const. amend. VII"]
   source: original
   tags: [wave1, M1, new-trial, additur, remittitur]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CIV-0042
   subject: CIV
@@ -292,5 +292,5 @@ questions:
   authority: ["FRCP 60(b)(1), (b)(6), (c)(1)", "FRCP 55(c)", "Kemp v. United States, 596 U.S. 528 (2022)"]
   source: original
   tags: [wave1, M1, rule-60, relief-from-judgment]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"

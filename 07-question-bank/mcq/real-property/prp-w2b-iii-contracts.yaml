@@ -40,8 +40,8 @@ questions:
   authority: ["Common law of agency and misrepresentation: broker's duty to disclose known material defects"]
   source: original
   tags: [wave2, W2b-PRP, brokerage, disclosure]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-PRP-0122
   subject: PRP
@@ -85,8 +85,8 @@ questions:
   authority: ["Ellsworth Dobbs, Inc. v. Johnson, 50 N.J. 528, 236 A.2d 843 (1967)"]
   source: original
   tags: [wave2, W2b-PRP, brokerage, commission]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-PRP-0123
   subject: PRP
@@ -127,8 +127,8 @@ questions:
   authority: ["Statute of frauds: contracts for the sale of land", "Common law: part-performance doctrine"]
   source: original
   tags: [wave2, W2b-PRP, statute-of-frauds, part-performance]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-PRP-0124
   subject: PRP
@@ -169,8 +169,8 @@ questions:
   authority: ["Common law: essential terms of land contracts", "Statute of frauds: description of the land"]
   source: original
   tags: [wave2, W2b-PRP, essential-terms, description]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-PRP-0125
   subject: PRP
@@ -211,8 +211,8 @@ questions:
   authority: ["Common law: time of the essence in land contracts"]
   source: original
   tags: [wave2, W2b-PRP, time-of-performance, time-of-the-essence]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-PRP-0126
   subject: PRP
@@ -252,8 +252,8 @@ questions:
   authority: ["Common law: concurrent conditions and tender in land contracts"]
   source: original
   tags: [wave2, W2b-PRP, time-of-performance, tender, remedies]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-PRP-0127
   subject: PRP
@@ -295,8 +295,8 @@ questions:
   authority: ["Common law: marketable title"]
   source: original
   tags: [wave2, W2b-PRP, marketable-title, encroachment]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-PRP-0128
   subject: PRP
@@ -341,8 +341,8 @@ questions:
   authority: ["Uniform Vendor and Purchaser Risk Act (statute quoted in the stem)"]
   source: original
   tags: [wave2, W2b-PRP, equitable-conversion, risk-of-loss]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-PRP-0129
   subject: PRP
@@ -386,8 +386,8 @@ questions:
   authority: ["Common law: covenants running with leaseholds", "Common law: options to purchase"]
   source: original
   tags: [wave2, W2b-PRP, options, landlord-tenant, covenants-in-leases]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-PRP-0130
   subject: PRP
@@ -428,5 +428,5 @@ questions:
   authority: ["Common law: caveat emptor; seller's duty to disclose known latent defects", "Johnson v. Davis, 480 So. 2d 625 (Fla. 1985)"]
   source: original
   tags: [wave2, W2b-PRP, fitness-and-suitability, caveat-emptor]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"

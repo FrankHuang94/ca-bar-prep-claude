@@ -46,8 +46,8 @@ questions:
   authority: ["28 U.S.C. § 1291", "Cohen v. Beneficial Industrial Loan Corp., 337 U.S. 541 (1949)", "Mitchell v. Forsyth, 472 U.S. 511 (1985)", "Mohawk Industries, Inc. v. Carpenter, 558 U.S. 100 (2009)", "Richardson-Merrell Inc. v. Koller, 472 U.S. 424 (1985)"]
   source: original
   tags: [wave2, w2b, collateral-order, qualified-immunity, interlocutory-appeal]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CIV-0148
   subject: CIV
@@ -91,8 +91,8 @@ questions:
   authority: ["28 U.S.C. § 1292(a)(1)", "FRCP 65(b)(2), (4)", "Sampson v. Murray, 415 U.S. 61 (1974)"]
   source: original
   tags: [wave2, w2b, interlocutory-appeal, tro]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CIV-0149
   subject: CIV
@@ -138,8 +138,8 @@ questions:
   authority: ["28 U.S.C. § 1291", "FRCP 23(f)", "Microsoft Corp. v. Baker, 582 U.S. 23 (2017)", "Coopers & Lybrand v. Livesay, 437 U.S. 463 (1978)"]
   source: original
   tags: [wave2, w2b, final-judgment-rule, class-actions, voluntary-dismissal]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CIV-0150
   subject: CIV
@@ -182,5 +182,5 @@ questions:
   authority: ["Cooter & Gell v. Hartmarx Corp., 496 U.S. 384 (1990)", "FRCP 56(a)", "FRCP 11(b)(3)"]
   source: original
   tags: [wave2, w2b, standards-of-review, summary-judgment, rule-11]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"

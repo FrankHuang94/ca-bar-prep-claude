@@ -46,7 +46,7 @@ questions:
   authority: ["R2d § 224", "R2d § 227(1)"]
   source: original
   tags: [wave2, w2b, conditions, promise-vs-condition, pay-when-paid]
-  status: draft
+  status: verified
   last_verified: "2026-11-05"
 
 - id: Q-CTR-0126
@@ -91,7 +91,7 @@ questions:
   authority: ["R2d § 224", "R2d § 225(3)", "R2d § 227"]
   source: original
   tags: [wave2, w2b, conditions, express-condition]
-  status: draft
+  status: verified
   last_verified: "2026-11-05"
 
 - id: Q-CTR-0127
@@ -137,7 +137,7 @@ questions:
   authority: ["R2d § 253(2)", "R2d § 254(1)", "R2d § 255"]
   source: original
   tags: [wave2, w2b, excuse-of-conditions, repudiation, tender]
-  status: draft
+  status: verified
   last_verified: "2026-11-05"
 
 - id: Q-CTR-0128
@@ -184,7 +184,7 @@ questions:
   authority: ["R2d § 250", "R2d § 256"]
   source: original
   tags: [wave2, w2b, anticipatory-repudiation, retraction]
-  status: draft
+  status: verified
   last_verified: "2026-11-05"
 
 - id: Q-CTR-0129
@@ -229,7 +229,7 @@ questions:
   authority: ["R2d § 237", "R2d § 241"]
   source: original
   tags: [wave2, w2b, breach, material-breach, wrongful-termination]
-  status: draft
+  status: verified
   last_verified: "2026-11-05"
 
 - id: Q-CTR-0130
@@ -275,7 +275,7 @@ questions:
   authority: ["R2d § 205", "UCC § 1-304"]
   source: original
   tags: [wave2, w2b, good-faith, negotiations, letter-of-intent]
-  status: draft
+  status: verified
   last_verified: "2026-11-05"
 
 - id: Q-CTR-0131
@@ -324,7 +324,7 @@ questions:
   authority: ["UCC § 1-201(b)(10)", "UCC § 2-314", "UCC § 2-316(2)"]
   source: original
   tags: [wave2, w2b, ucc, warranties, merchantability, disclaimer]
-  status: draft
+  status: verified
   last_verified: "2026-11-05"
 
 - id: Q-CTR-0132
@@ -377,7 +377,7 @@ questions:
   authority: ["UCC § 2-503(4)", "UCC § 2-509(2)", "UCC § 2-613"]
   source: original
   tags: [wave2, w2b, ucc, risk-of-loss, bailee]
-  status: draft
+  status: verified
   last_verified: "2026-11-05"
 
 - id: Q-CTR-0133
@@ -421,7 +421,7 @@ questions:
   authority: ["R2d § 262", "R2d § 318"]
   source: original
   tags: [wave2, w2b, impossibility, death-of-party]
-  status: draft
+  status: verified
   last_verified: "2026-11-05"
 
 - id: Q-CTR-0134
@@ -465,7 +465,7 @@ questions:
   authority: ["R2d § 261", "R2d § 263"]
   source: original
   tags: [wave2, w2b, impossibility, destruction-of-subject-matter]
-  status: draft
+  status: verified
   last_verified: "2026-11-05"
 
 - id: Q-CTR-0135
@@ -510,5 +510,5 @@ questions:
   authority: ["R2d § 283"]
   source: original
   tags: [wave2, w2b, discharge, mutual-rescission]
-  status: draft
+  status: verified
   last_verified: "2026-11-05"

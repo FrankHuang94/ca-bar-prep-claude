@@ -41,8 +41,8 @@ questions:
   authority: ["U.S. Const. amend. IV", "United States v. Jacobsen, 466 U.S. 109 (1984)"]
   source: original
   tags: [wave2, fourth-amendment, government-action, private-search]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CRM-0126
   subject: CRM
@@ -82,8 +82,8 @@ questions:
   authority: ["U.S. Const. amend. IV", "California v. Greenwood, 486 U.S. 35 (1988)"]
   source: original
   tags: [wave2, fourth-amendment, garbage, expectation-of-privacy]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CRM-0127
   subject: CRM
@@ -124,8 +124,8 @@ questions:
   authority: ["U.S. Const. amend. IV", "Kyllo v. United States, 533 U.S. 27 (2001)", "Katz v. United States, 389 U.S. 347 (1967)"]
   source: original
   tags: [wave2, fourth-amendment, what-is-a-search, technology, home]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CRM-0128
   subject: CRM
@@ -166,8 +166,8 @@ questions:
   authority: ["U.S. Const. amend. IV", "Rodriguez v. United States, 575 U.S. 348 (2015)", "Illinois v. Caballes, 543 U.S. 405 (2005)"]
   source: original
   tags: [wave2, fourth-amendment, traffic-stop, dog-sniff, prolonged-detention]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CRM-0129
   subject: CRM
@@ -207,8 +207,8 @@ questions:
   authority: ["U.S. Const. amend. IV", "Payton v. New York, 445 U.S. 573 (1980)", "United States v. Watson, 423 U.S. 411 (1976)", "Horton v. California, 496 U.S. 128 (1990)"]
   source: original
   tags: [wave2, fourth-amendment, arrest, home-entry, plain-view]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CRM-0130
   subject: CRM
@@ -249,8 +249,8 @@ questions:
   authority: ["U.S. Const. amend. IV", "Illinois v. Rodriguez, 497 U.S. 177 (1990)", "United States v. Matlock, 415 U.S. 164 (1974)", "Schneckloth v. Bustamonte, 412 U.S. 218 (1973)"]
   source: original
   tags: [wave2, fourth-amendment, consent, apparent-authority]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CRM-0131
   subject: CRM
@@ -291,8 +291,8 @@ questions:
   authority: ["U.S. Const. amend. IV", "Colorado v. Bertine, 479 U.S. 367 (1987)", "Florida v. Wells, 495 U.S. 1 (1990)"]
   source: original
   tags: [wave2, fourth-amendment, inventory-search]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CRM-0132
   subject: CRM
@@ -336,8 +336,8 @@ questions:
   authority: ["U.S. Const. amend. IV", "Nix v. Williams, 467 U.S. 431 (1984)", "Riley v. California, 573 U.S. 373 (2014)", "Murray v. United States, 487 U.S. 533 (1988)"]
   source: original
   tags: [wave2, fourth-amendment, inevitable-discovery, fruit-of-the-poisonous-tree]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CRM-0133
   subject: CRM
@@ -378,8 +378,8 @@ questions:
   authority: ["U.S. Const. amend. IV", "Walder v. United States, 347 U.S. 62 (1954)", "United States v. Havens, 446 U.S. 620 (1980)"]
   source: original
   tags: [wave2, fourth-amendment, exclusionary-rule, impeachment]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CRM-0134
   subject: CRM
@@ -418,8 +418,8 @@ questions:
   authority: ["U.S. Const. amend. IV", "Terry v. Ohio, 392 U.S. 1 (1968)", "Illinois v. Wardlow, 528 U.S. 119 (2000)"]
   source: original
   tags: [wave2, fourth-amendment, terry-stop, flight, reasonable-suspicion]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CRM-0135
   subject: CRM
@@ -461,5 +461,5 @@ questions:
   authority: ["U.S. Const. amend. IV", "Arizona v. Hicks, 480 U.S. 321 (1987)", "Horton v. California, 496 U.S. 128 (1990)"]
   source: original
   tags: [wave2, fourth-amendment, plain-view, exigent-circumstances]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"

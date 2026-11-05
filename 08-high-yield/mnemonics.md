@@ -5,7 +5,7 @@ coverage_ids: []
 tested_on: [MBE, essay]
 exam_frequency: {level: high, basis: "Each aid encodes a must-know or heavily tested rule from 03-subjects/*/rule-statements.md"}
 last_verified: 2026-11-05
-status: draft
+status: reviewed
 ---
 
 # Mnemonics

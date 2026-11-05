@@ -4,8 +4,8 @@ topic: Professional Responsibility — exam-day attack outline
 coverage_ids: [PRF-CBX-I, PRF-CBX-II, PRF-CBX-III, PRF-CBX-IV, PRF-CBX-V, PRF-CBX-VI, PRF-CBX-VII, PRF-CBX-VIII, PRF-SUP-001]
 tested_on: [essay]
 exam_frequency: {level: high, basis: "Essays: 30 of 31 administrations 2012-02 to 2026-07 (97%)"}
-last_verified: 2026-11-04
-status: draft
+last_verified: 2026-11-05
+status: verified
 ---
 
 # Professional Responsibility — attack outline

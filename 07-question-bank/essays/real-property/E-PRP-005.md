@@ -21,8 +21,8 @@ issues:
   - {issue: "Amortization: reasonableness; California (Gage); taking and vested-rights arguments", points: 8, call: 3, rule_ids: [R-PRP-071, R-PRP-073], coverage_ids: [PRP-MBE-II.D.2]}
 time_minutes: 60
 source: original
-status: draft
-last_verified: 2026-11-04
+status: verified
+last_verified: 2026-11-05
 tags: [wave2, W2-E5, real-covenant, equitable-servitude, affirmative-covenant, easement-scope, nonconforming-use, variance, amortization]
 ---
 

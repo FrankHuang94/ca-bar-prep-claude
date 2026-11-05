@@ -21,8 +21,8 @@ issues:
   - {issue: "Andre's remedies (petition, compel distribution, surcharge, removal)", points: 4, call: 4, major: false, rule_ids: [R-TRS-071, R-TRS-072, R-TRS-073, R-TRS-078, R-TRS-081], coverage_ids: [TRS-CBX-VII, TRS-CBX-VIII]}
 time_minutes: 60
 source: original
-status: draft
-last_verified: 2026-11-04
+status: verified
+last_verified: 2026-11-05
 tags: [wave1, E3, spendthrift, creditors, discretion, impartiality]
 ---
 

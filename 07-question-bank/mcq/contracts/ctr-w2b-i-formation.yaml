@@ -51,7 +51,7 @@ questions:
   authority: ["R2d § 42", "R2d § 43", "Dickinson v. Dodds (1876) 2 Ch. D. 463"]
   source: original
   tags: [wave2, w2b, revocation, indirect-revocation]
-  status: draft
+  status: verified
   last_verified: "2026-11-05"
 
 - id: Q-CTR-0102
@@ -100,7 +100,7 @@ questions:
   authority: ["R2d § 59", "R2d § 61", "R2d § 63"]
   source: original
   tags: [wave2, w2b, acceptance, mirror-image, request-vs-condition]
-  status: draft
+  status: verified
   last_verified: "2026-11-05"
 
 - id: Q-CTR-0103
@@ -148,7 +148,7 @@ questions:
   authority: ["UCC § 2-328(2)-(3)", "R2d § 28"]
   source: original
   tags: [wave2, w2b, ucc, auction, offer]
-  status: draft
+  status: verified
   last_verified: "2026-11-05"
 
 - id: Q-CTR-0104
@@ -194,7 +194,7 @@ questions:
   authority: ["R2d § 4", "R2d § 33", "R2d § 204"]
   source: original
   tags: [wave2, w2b, indefiniteness, implied-in-fact, reasonable-price]
-  status: draft
+  status: verified
   last_verified: "2026-11-05"
 
 - id: Q-CTR-0105
@@ -242,7 +242,7 @@ questions:
   authority: ["R2d § 71", "R2d § 79", "R2d § 81"]
   source: original
   tags: [wave2, w2b, consideration, adequacy]
-  status: draft
+  status: verified
   last_verified: "2026-11-05"
 
 - id: Q-CTR-0106
@@ -288,7 +288,7 @@ questions:
   authority: ["R2d § 71", "Kirksey v. Kirksey, 8 Ala. 131 (1845)"]
   source: original
   tags: [wave2, w2b, consideration, conditional-gift]
-  status: draft
+  status: verified
   last_verified: "2026-11-05"
 
 - id: Q-CTR-0107
@@ -337,7 +337,7 @@ questions:
   authority: ["R2d § 25", "R2d § 87(1)(a)"]
   source: original
   tags: [wave2, w2b, option-contract, nominal-consideration]
-  status: draft
+  status: verified
   last_verified: "2026-11-05"
 
 - id: Q-CTR-0108
@@ -385,7 +385,7 @@ questions:
   authority: ["R2d § 71", "R2d § 86", "R2d § 90"]
   source: original
   tags: [wave2, w2b, past-consideration, material-benefit, promissory-estoppel]
-  status: draft
+  status: verified
   last_verified: "2026-11-05"
 
 - id: Q-CTR-0109
@@ -431,7 +431,7 @@ questions:
   authority: ["R2d § 2", "R2d § 90"]
   source: original
   tags: [wave2, w2b, promissory-estoppel, promise-vs-prediction]
-  status: draft
+  status: verified
   last_verified: "2026-11-05"
 
 - id: Q-CTR-0110
@@ -477,7 +477,7 @@ questions:
   authority: ["Restatement (Third) of Restitution and Unjust Enrichment § 20", "R2d § 19"]
   source: original
   tags: [wave2, w2b, quasi-contract, restitution, emergency-services]
-  status: draft
+  status: verified
   last_verified: "2026-11-05"
 
 - id: Q-CTR-0111
@@ -524,7 +524,7 @@ questions:
   authority: ["R2d § 71", "R2d § 73", "UCC § 2-209(1)-(2)"]
   source: original
   tags: [wave2, w2b, modification, no-oral-modification, common-law-vs-ucc]
-  status: draft
+  status: verified
   last_verified: "2026-11-05"
 
 - id: Q-CTR-0112
@@ -567,5 +567,5 @@ questions:
   authority: ["R2d § 73", "R2d § 89"]
   source: original
   tags: [wave2, w2b, modification, pre-existing-duty, new-consideration]
-  status: draft
+  status: verified
   last_verified: "2026-11-05"

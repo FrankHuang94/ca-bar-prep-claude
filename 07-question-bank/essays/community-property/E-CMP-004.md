@@ -20,8 +20,8 @@ issues:
   - {issue: "Refusal of account information: 721(b) and 1100(e) disclosure and access duties; accounting; dissolution disclosure", points: 8, call: 3, major: false, rule_ids: [R-CMP-063, R-CMP-068, R-CMP-077], coverage_ids: [CMP-CBX-III.A, CMP-CBX-VI.B.2]}
 time_minutes: 60
 source: original
-status: draft
-last_verified: 2026-11-04
+status: verified
+last_verified: 2026-11-05
 tags: [wave2, W2-E6, premarital-agreement, transmutation, undue-influence, fiduciary-duty]
 ---
 

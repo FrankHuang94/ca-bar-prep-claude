@@ -4,8 +4,8 @@ topic: Community Property — worked examples (short fact patterns with rule, ap
 coverage_ids: [CMP-CBX-I.B.x2, CMP-CBX-I.B.x3, CMP-CBX-II.A, CMP-CBX-II.B, CMP-CBX-II.C.x1.a, CMP-CBX-II.C.x1.b, CMP-CBX-II.D.3, CMP-CBX-II.E-F, CMP-CBX-II.G, CMP-CBX-II.H, CMP-CBX-II.I, CMP-CBX-III.A, CMP-CBX-V.A, CMP-CBX-V.B, CMP-CBX-VI.B.3, CMP-CBX-VI.debts, CMP-CBX-VII.x, CMP-CBX-preempt, CMP-SUP-001, CMP-SUP-002, CMP-SUP-003, CMP-SUP-004]
 tested_on: [essay]
 exam_frequency: {level: high, basis: "Essays: 17 of 31 administrations 2012-02 to 2026-07 (55%)"}
-last_verified: 2026-11-04
-status: draft
+last_verified: 2026-11-05
+status: verified
 ---
 
 # Community Property — worked examples

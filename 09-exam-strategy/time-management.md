@@ -4,8 +4,8 @@ topic: Exam-day time plans, hard stops, recovery when behind, and study-time man
 coverage_ids: []
 tested_on: [MBE, essay, PT]
 exam_frequency: {level: high, basis: "Applies to every MBE question, essay and PT"}
-last_verified: 2026-11-04
-status: draft
+last_verified: 2026-11-05
+status: reviewed
 ---
 
 # Time management

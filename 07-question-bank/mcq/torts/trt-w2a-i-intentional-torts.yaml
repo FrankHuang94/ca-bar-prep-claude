@@ -43,8 +43,8 @@ questions:
   authority: ["Restatement (Second) of Torts §§ 13, 18", "Vosburg v. Putney, 80 Wis. 523 (1891)"]
   source: original
   tags: [wave2, W2-TRT, intentional-torts, battery, eggshell-plaintiff]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-TRT-0052
   subject: TRT
@@ -84,8 +84,8 @@ questions:
   authority: ["Restatement (Second) of Torts §§ 158, 164"]
   source: original
   tags: [wave2, W2-TRT, intentional-torts, trespass-to-land, mistake]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-TRT-0053
   subject: TRT
@@ -127,8 +127,8 @@ questions:
   authority: ["Restatement (Second) of Torts §§ 217, 218, 222A"]
   source: original
   tags: [wave2, W2-TRT, intentional-torts, conversion, trespass-to-chattels]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-TRT-0054
   subject: TRT
@@ -171,8 +171,8 @@ questions:
   authority: ["Restatement (Second) of Torts § 46(2)"]
   source: original
   tags: [wave2, W2-TRT, intentional-torts, iied, third-party-iied]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-TRT-0055
   subject: TRT
@@ -212,8 +212,8 @@ questions:
   authority: ["Restatement (Second) of Torts § 892(2)", "O'Brien v. Cunard S.S. Co., 154 Mass. 272 (1891)"]
   source: original
   tags: [wave2, W2-TRT, defenses, consent, apparent-consent]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-TRT-0056
   subject: TRT
@@ -254,8 +254,8 @@ questions:
   authority: ["Restatement (Second) of Torts §§ 63, 65"]
   source: original
   tags: [wave2, W2-TRT, defenses, self-defense, deadly-force]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-TRT-0057
   subject: TRT
@@ -298,8 +298,8 @@ questions:
   authority: ["Restatement (Second) of Torts § 120A"]
   source: original
   tags: [wave2, W2-TRT, defenses, shopkeepers-privilege, false-imprisonment]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-TRT-0058
   subject: TRT
@@ -339,8 +339,8 @@ questions:
   authority: ["Restatement (Second) of Torts §§ 147, 150"]
   source: original
   tags: [wave2, W2-TRT, defenses, parental-discipline]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-TRT-0059
   subject: TRT
@@ -382,8 +382,8 @@ questions:
   authority: ["Restatement (Second) of Torts § 119"]
   source: original
   tags: [wave2, W2-TRT, defenses, arrest-privilege, mistake]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-TRT-0060
   subject: TRT
@@ -422,5 +422,5 @@ questions:
   authority: ["Restatement (Second) of Torts §§ 196, 262", "Surocco v. Geary, 3 Cal. 69 (1853)"]
   source: original
   tags: [wave2, W2-TRT, defenses, necessity, public-necessity]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"

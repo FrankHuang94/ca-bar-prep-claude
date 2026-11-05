@@ -43,8 +43,8 @@ questions:
   authority: ["U.S. Const. amend. VI", "Strickland v. Washington, 466 U.S. 668 (1984)"]
   source: original
   tags: [wave2, right-to-counsel, ineffective-assistance, strickland]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CRM-0145
   subject: CRM
@@ -87,8 +87,8 @@ questions:
   authority: ["U.S. Const. amend. VI", "Faretta v. California, 422 U.S. 806 (1975)", "McKaskle v. Wiggins, 465 U.S. 168 (1984)", "Indiana v. Edwards, 554 U.S. 164 (2008)"]
   source: original
   tags: [wave2, right-to-counsel, self-representation, faretta]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CRM-0146
   subject: CRM
@@ -129,8 +129,8 @@ questions:
   authority: ["U.S. Const. amend. VI", "Montejo v. Louisiana, 556 U.S. 778 (2009)", "Patterson v. Illinois, 487 U.S. 285 (1988)"]
   source: original
   tags: [wave2, right-to-counsel, sixth-amendment, waiver]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CRM-0147
   subject: CRM
@@ -170,8 +170,8 @@ questions:
   authority: ["U.S. Const. amend. XIV", "Batson v. Kentucky, 476 U.S. 79 (1986)", "Powers v. Ohio, 499 U.S. 400 (1991)", "Flowers v. Mississippi, 588 U.S. 284 (2019)"]
   source: original
   tags: [wave2, jury-trial, batson, peremptory-challenges]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CRM-0148
   subject: CRM
@@ -212,8 +212,8 @@ questions:
   authority: ["U.S. Const. amend. VI", "Crawford v. Washington, 541 U.S. 36 (2004)", "Davis v. Washington, 547 U.S. 813 (2006)"]
   source: original
   tags: [wave2, confrontation-clause, testimonial-hearsay, ongoing-emergency]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CRM-0149
   subject: CRM
@@ -251,8 +251,8 @@ questions:
   authority: ["U.S. Const. amend. VI", "United States v. Ash, 413 U.S. 300 (1973)", "United States v. Wade, 388 U.S. 218 (1967)"]
   source: original
   tags: [wave2, identification, photo-array, right-to-counsel]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CRM-0150
   subject: CRM
@@ -292,5 +292,5 @@ questions:
   authority: ["U.S. Const. amend. V", "Ashe v. Swenson, 397 U.S. 436 (1970)", "Blockburger v. United States, 284 U.S. 299 (1932)"]
   source: original
   tags: [wave2, double-jeopardy, collateral-estoppel]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"

@@ -21,8 +21,8 @@ issues:
   - {issue: "Post-separation credit-card debt: confirmation to Paolo vs. common necessaries (2623, 914)", points: 8, call: 5, major: false, rule_ids: [R-CMP-084, R-CMP-087, R-CMP-089], coverage_ids: [CMP-CBX-VI.debts]}
 time_minutes: 60
 source: original
-status: draft
-last_verified: 2026-11-04
+status: verified
+last_verified: 2026-11-05
 tags: [wave1, E3, dissolution, tracing, moore-marsden, transmutation]
 ---
 

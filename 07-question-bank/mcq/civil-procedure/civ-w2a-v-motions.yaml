@@ -40,8 +40,8 @@ questions:
   authority: ["FRCP 8(a)(2)", "FRCP 12(b)(6)", "Bell Atlantic Corp. v. Twombly, 550 U.S. 544 (2007)", "Ashcroft v. Iqbal, 556 U.S. 662 (2009)", "Swierkiewicz v. Sorema N.A., 534 U.S. 506 (2002)"]
   source: original
   tags: [wave2, w2a, motion-to-dismiss, plausibility]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CIV-0085
   subject: CIV
@@ -84,8 +84,8 @@ questions:
   authority: ["FRCP 56(a), (c)(1), (e)", "Celotex Corp. v. Catrett, 477 U.S. 317 (1986)"]
   source: original
   tags: [wave2, w2a, summary-judgment]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CIV-0086
   subject: CIV
@@ -129,8 +129,8 @@ questions:
   authority: ["FRCP 56(b)", "FRCP 56(c)(4)", "FRCP 56(d)"]
   source: original
   tags: [wave2, w2a, summary-judgment, rule-56d]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CIV-0087
   subject: CIV
@@ -173,8 +173,8 @@ questions:
   authority: ["FRCP 8(c)(1)", "FRCP 12(b)(6), 12(d)", "Jones v. Bock, 549 U.S. 199 (2007)"]
   source: original
   tags: [wave2, w2a, motion-to-dismiss, statute-of-limitations]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CIV-0088
   subject: CIV
@@ -216,8 +216,8 @@ questions:
   authority: ["FRCP 50(a)(2)", "FRCP 50(b)", "Unitherm Food Systems, Inc. v. Swift-Eckrich, Inc., 546 U.S. 394 (2006)"]
   source: original
   tags: [wave2, w2a, jmol, renewed-jmol]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CIV-0089
   subject: CIV
@@ -260,8 +260,8 @@ questions:
   authority: ["FRCP 50(a)(1)-(2)", "Reeves v. Sanderson Plumbing Products, Inc., 530 U.S. 133 (2000)"]
   source: original
   tags: [wave2, w2a, jmol, credibility]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CIV-0090
   subject: CIV
@@ -303,8 +303,8 @@ questions:
   authority: ["FRCP 50(b)", "FRCP 59(a)(1)(A), 59(b)"]
   source: original
   tags: [wave2, w2a, new-trial, jmol]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CIV-0091
   subject: CIV
@@ -349,8 +349,8 @@ questions:
   authority: ["FRCP 60(b)(2)", "FRCP 60(c)(1)", "FRCP 59(b)"]
   source: original
   tags: [wave2, w2a, rule-60b, newly-discovered-evidence]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CIV-0092
   subject: CIV
@@ -390,5 +390,5 @@ questions:
   authority: ["FRCP 59(a)", "U.S. Const. amend. VII", "Hetzel v. Prince William County, 523 U.S. 208 (1998)", "Dimick v. Schiedt, 293 U.S. 474 (1935)"]
   source: original
   tags: [wave2, w2a, new-trial, remittitur]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"

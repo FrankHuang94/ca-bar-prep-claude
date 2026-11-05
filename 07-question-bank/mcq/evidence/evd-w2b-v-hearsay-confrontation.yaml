@@ -41,8 +41,8 @@ questions:
   authority: ["FRE 801(c)", "FRE 801(d)(2)"]
   source: original
   tags: [wave2, W2b-EVD, hearsay, verbal-acts]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0140
   subject: EVD
@@ -83,8 +83,8 @@ questions:
   authority: ["FRE 801(d)(2)(A)", "FRE 602", "FRE 804(b)(3)"]
   source: original
   tags: [wave2, W2b-EVD, hearsay, party-opponent, personal-knowledge]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0141
   subject: EVD
@@ -133,8 +133,8 @@ questions:
   authority: ["FRE 805", "FRE 803(8)", "FRE 801(d)(2)(A)", "FRE 902(4)"]
   source: original
   tags: [wave2, W2b-EVD, hearsay, multiple-hearsay, public-records]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0142
   subject: EVD
@@ -177,8 +177,8 @@ questions:
   authority: ["FRE 803(2)", "FRE 803(1)", "FRE 801(d)(2)"]
   source: original
   tags: [wave2, W2b-EVD, hearsay, excited-utterance]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0143
   subject: EVD
@@ -219,8 +219,8 @@ questions:
   authority: ["FRE 803(3)", "Shepard v. United States, 290 U.S. 96 (1933)"]
   source: original
   tags: [wave2, W2b-EVD, hearsay, state-of-mind, wills]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0144
   subject: EVD
@@ -263,8 +263,8 @@ questions:
   authority: ["FRE 803(4)", "FRE 803(4) advisory committee's note", "FRE 801(d)(2)"]
   source: original
   tags: [wave2, W2b-EVD, hearsay, medical-diagnosis]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0145
   subject: EVD
@@ -309,8 +309,8 @@ questions:
   authority: ["FRE 803(5)", "FRE 612", "FRE 803(8)(A)(ii)"]
   source: original
   tags: [wave2, W2b-EVD, hearsay, recorded-recollection]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0146
   subject: EVD
@@ -354,8 +354,8 @@ questions:
   authority: ["FRE 803(7)", "FRE 803(6)"]
   source: original
   tags: [wave2, W2b-EVD, hearsay, business-records, absence-of-record]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0147
   subject: EVD
@@ -399,8 +399,8 @@ questions:
   authority: ["FRE 803(18)"]
   source: original
   tags: [wave2, W2b-EVD, hearsay, learned-treatise]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0148
   subject: EVD
@@ -448,8 +448,8 @@ questions:
   authority: ["FRE 804(a)(4)", "FRE 804(b)(1)", "U.S. Const. amend. VI", "Crawford v. Washington, 541 U.S. 36 (2004)"]
   source: original
   tags: [wave2, W2b-EVD, hearsay, former-testimony, confrontation]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0149
   subject: EVD
@@ -491,8 +491,8 @@ questions:
   authority: ["FRE 804(a)(4)", "FRE 804(b)(3)", "FRE 803(3)"]
   source: original
   tags: [wave2, W2b-EVD, hearsay, statement-against-interest]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0150
   subject: EVD
@@ -538,5 +538,5 @@ questions:
   authority: ["U.S. Const. amend. VI", "Crawford v. Washington, 541 U.S. 36 (2004)", "Davis v. Washington, 547 U.S. 813 (2006)", "FRE 803(1)", "FRE 803(2)"]
   source: original
   tags: [wave2, W2b-EVD, confrontation, testimonial, ongoing-emergency]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"

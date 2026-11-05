@@ -16,8 +16,8 @@ issues:
   - {issue: "Withdrawal: grounds (mandatory/permissive), court permission, protecting the client, and the confidential disclosure in the motion", points: 20, call: 1, major: true, rule_ids: [R-PRF-050, R-PRF-051, R-PRF-052, R-PRF-013], coverage_ids: [PRF-CBX-I, PRF-SUP-002, PRF-SUP-003]}
 time_minutes: 60
 source: original
-status: draft
-last_verified: 2026-11-04
+status: verified
+last_verified: 2026-11-05
 tags: [wave1, E2, candor, fairness, withdrawal, communication]
 ---
 

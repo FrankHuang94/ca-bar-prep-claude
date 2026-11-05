@@ -4,8 +4,8 @@ topic: Professional Responsibility — issue-spotting checklist (analysis order)
 coverage_ids: [PRF-CBX-I, PRF-CBX-I.x1, PRF-CBX-I.x2, PRF-CBX-I.x3, PRF-CBX-II, PRF-CBX-III, PRF-CBX-IV, PRF-CBX-V, PRF-CBX-VI, PRF-CBX-VII, PRF-CBX-VIII, PRF-SUP-003, PRF-SUP-004, PRF-SUP-005, PRF-SUP-006, PRF-SUP-007]
 tested_on: [essay]
 exam_frequency: {level: high, basis: "Essays: 30 of 31 administrations 2012-02 to 2026-07 (97%)"}
-last_verified: 2026-11-04
-status: draft
+last_verified: 2026-11-05
+status: verified
 ---
 
 # Professional Responsibility — issue checklist

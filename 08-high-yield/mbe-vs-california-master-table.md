@@ -5,7 +5,7 @@ coverage_ids: [EVD-SUP-001, CIV-SUP-001, PRF-SUP-001, CRM-SUP-002, TRS-SUP-001]
 tested_on: [MBE, essay]
 exam_frequency: {level: high, basis: "PR on 30 of 31 administrations 2012-02 to 2026-07; Evidence 15/31 (CEC named in 6 of the 11 calls whose law was recorded); Civ Pro 13/31; issue counts are index-level tags (06-past-exams/frequency-analysis.md)"}
 last_verified: 2026-11-05
-status: draft
+status: reviewed
 ---
 
 # MBE vs. California: the master flip table

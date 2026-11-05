@@ -4,8 +4,8 @@ topic: How the bar exam tests law — what each component rewards, which rule to
 coverage_ids: []
 tested_on: [MBE, essay, PT]
 exam_frequency: {level: n/a, basis: "Foundations reference"}
-last_verified: 2026-11-04
-status: draft
+last_verified: 2026-11-05
+status: reviewed
 ---
 
 # How the bar exam tests law

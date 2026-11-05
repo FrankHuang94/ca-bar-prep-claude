@@ -14,8 +14,8 @@ issues:
   - {issue: "Item 5: experts under FRE 702 as amended 2023 - Dr. Park (qualified; reliable method and application); Price's staffing opinion (experience-based expertise, Kumho) and causation opinion (outside expertise; insufficient basis)", points: 30, call: 1, major: true, rule_ids: [R-EVD-054, R-EVD-055, R-EVD-056, R-EVD-058, R-EVD-059, R-EVD-061, R-EVD-005], coverage_ids: [EVD-MBE-II.D, EVD-MBE-II.D.1, EVD-MBE-II.D.2, EVD-MBE-II.D.3, EVD-MBE-II.D.4, EVD-MBE-II.D.5]}
 time_minutes: 60
 source: original
-status: draft
-last_verified: 2026-11-04
+status: verified
+last_verified: 2026-11-05
 tags: [wave2, W2-E4, fre, civil, item-by-item, character, habit, insurance, compromise, expert-702]
 ---
 

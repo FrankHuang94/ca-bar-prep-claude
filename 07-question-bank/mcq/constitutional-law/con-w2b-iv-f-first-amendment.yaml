@@ -46,8 +46,8 @@ questions:
   authority: ["U.S. Const. amend. I", "Trinity Lutheran Church of Columbia, Inc. v. Comer, 582 U.S. 449 (2017)", "Espinoza v. Montana Dep't of Revenue, 591 U.S. 464 (2020)", "Carson v. Makin, 596 U.S. 767 (2022)", "Locke v. Davey, 540 U.S. 712 (2004)"]
   source: original
   tags: [wave2, w2b, free-exercise, religious-exclusion]
-  status: draft
-  last_verified: 2026-11-05
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CON-0141
   subject: CON
@@ -90,8 +90,8 @@ questions:
   authority: ["U.S. Const. amend. I", "Larson v. Valente, 456 U.S. 228 (1982)", "Walz v. Tax Comm'n, 397 U.S. 664 (1970)", "Kennedy v. Bremerton School Dist., 597 U.S. 507 (2022)"]
   source: original
   tags: [wave2, w2b, establishment, denominational-preference]
-  status: draft
-  last_verified: 2026-11-05
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CON-0142
   subject: CON
@@ -135,8 +135,8 @@ questions:
   authority: ["U.S. Const. amend. I", "Brown v. Entertainment Merchants Ass'n, 564 U.S. 786 (2011)", "United States v. Stevens, 559 U.S. 460 (2010)", "Ginsberg v. New York, 390 U.S. 629 (1968)"]
   source: original
   tags: [wave2, w2b, free-speech, content-based, minors]
-  status: draft
-  last_verified: 2026-11-05
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CON-0143
   subject: CON
@@ -181,8 +181,8 @@ questions:
   authority: ["U.S. Const. amend. I", "City of Austin v. Reagan National Advertising of Austin, LLC, 596 U.S. 61 (2022)", "Reed v. Town of Gilbert, 576 U.S. 155 (2015)"]
   source: original
   tags: [wave2, w2b, free-speech, content-neutral, signs]
-  status: draft
-  last_verified: 2026-11-05
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CON-0144
   subject: CON
@@ -222,8 +222,8 @@ questions:
   authority: ["U.S. Const. amend. I", "Stanley v. Georgia, 394 U.S. 557 (1969)", "Osborne v. Ohio, 495 U.S. 103 (1990)", "Miller v. California, 413 U.S. 15 (1973)", "Pope v. Illinois, 481 U.S. 497 (1987)"]
   source: original
   tags: [wave2, w2b, obscenity, unprotected-speech]
-  status: draft
-  last_verified: 2026-11-05
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CON-0145
   subject: CON
@@ -265,8 +265,8 @@ questions:
   authority: ["U.S. Const. amend. I", "Ohralik v. Ohio State Bar Ass'n, 436 U.S. 447 (1978)", "Bates v. State Bar of Ariz., 433 U.S. 350 (1977)", "Central Hudson Gas & Elec. Corp. v. Public Serv. Comm'n, 447 U.S. 557 (1980)"]
   source: original
   tags: [wave2, w2b, commercial-speech, lawyer-solicitation]
-  status: draft
-  last_verified: 2026-11-05
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CON-0146
   subject: CON
@@ -308,8 +308,8 @@ questions:
   authority: ["U.S. Const. amend. I", "Tinker v. Des Moines Indep. Community School Dist., 393 U.S. 503 (1969)", "Hazelwood School Dist. v. Kuhlmeier, 484 U.S. 260 (1988)"]
   source: original
   tags: [wave2, w2b, student-speech, tinker]
-  status: draft
-  last_verified: 2026-11-05
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CON-0147
   subject: CON
@@ -353,8 +353,8 @@ questions:
   authority: ["U.S. Const. amend. I", "Broadrick v. Oklahoma, 413 U.S. 601 (1973)", "United States v. Stevens, 559 U.S. 460 (2010)", "Board of Airport Comm'rs v. Jews for Jesus, Inc., 482 U.S. 569 (1987)"]
   source: original
   tags: [wave2, w2b, overbreadth, vagueness]
-  status: draft
-  last_verified: 2026-11-05
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CON-0148
   subject: CON
@@ -399,8 +399,8 @@ questions:
   authority: ["U.S. Const. amend. I", "Branzburg v. Hayes, 408 U.S. 665 (1972)"]
   source: original
   tags: [wave2, w2b, freedom-of-press, reporters-privilege]
-  status: draft
-  last_verified: 2026-11-05
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CON-0149
   subject: CON
@@ -448,8 +448,8 @@ questions:
   authority: ["U.S. Const. amend. I", "Roberts v. United States Jaycees, 468 U.S. 609 (1984)", "Board of Directors of Rotary Int'l v. Rotary Club of Duarte, 481 U.S. 537 (1987)", "Boy Scouts of America v. Dale, 530 U.S. 640 (2000)"]
   source: original
   tags: [wave2, w2b, freedom-of-association, expressive-association]
-  status: draft
-  last_verified: 2026-11-05
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CON-0150
   subject: CON
@@ -495,5 +495,5 @@ questions:
   authority: ["U.S. Const. amend. I", "NAACP v. Alabama ex rel. Patterson, 357 U.S. 449 (1958)", "Shelton v. Tucker, 364 U.S. 479 (1960)", "Americans for Prosperity Found. v. Bonta, 594 U.S. 595 (2021)"]
   source: original
   tags: [wave2, w2b, freedom-of-association, compelled-disclosure]
-  status: draft
-  last_verified: 2026-11-05
+  status: verified
+  last_verified: "2026-11-05"

@@ -42,8 +42,8 @@ questions:
   authority: ["R2d § 16"]
   source: original
   tags: [wave2, capacity, intoxication]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CTR-0066
   subject: CTR
@@ -86,8 +86,8 @@ questions:
   authority: ["R2d § 174", "R2d § 175", "R2d § 176(1)(a)", "R2d \u00a7\u00a7 380, 381"]
   source: original
   tags: [wave2, duress, ratification]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CTR-0067
   subject: CTR
@@ -132,8 +132,8 @@ questions:
   authority: ["R2d § 177"]
   source: original
   tags: [wave2, undue-influence]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CTR-0068
   subject: CTR
@@ -179,8 +179,8 @@ questions:
   authority: ["R2d § 20(2)", "R2d § 201(2)", "R2d \u00a7 20(1)"]
   source: original
   tags: [wave2, misunderstanding, interpretation]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CTR-0069
   subject: CTR
@@ -226,8 +226,8 @@ questions:
   authority: ["R2d § 160", "R2d § 161", "R2d § 164"]
   source: original
   tags: [wave2, misrepresentation, concealment, as-is]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CTR-0070
   subject: CTR
@@ -271,8 +271,8 @@ questions:
   authority: ["R2d § 208", "UCC § 2-302"]
   source: original
   tags: [wave2, unconscionability]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CTR-0071
   subject: CTR
@@ -316,5 +316,5 @@ questions:
   authority: ["UCC § 2-201(1)", "UCC § 2-201(3)(a)"]
   source: original
   tags: [wave2, ucc, statute-of-frauds, specially-manufactured-goods]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"

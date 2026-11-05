@@ -37,8 +37,8 @@ questions:
   authority: ["Common law", "MPC § 5.01(1)"]
   source: original
   tags: [wave1, attempt, mens-rea]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CRM-0013
   subject: CRM
@@ -79,8 +79,8 @@ questions:
   authority: ["MPC § 5.01(1)(c), (2), (4)"]
   source: original
   tags: [wave1, attempt, renunciation]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CRM-0014
   subject: CRM
@@ -119,8 +119,8 @@ questions:
   authority: ["Common law", "MPC §§ 5.01(1)(a), 223.6", "People v. Jaffe, 185 N.Y. 497 (1906)"]
   source: original
   tags: [wave1, receiving-stolen-property, attempt, impossibility]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CRM-0015
   subject: CRM
@@ -159,8 +159,8 @@ questions:
   authority: ["Common law", "MPC § 5.03(1)"]
   source: original
   tags: [wave1, conspiracy, bilateral-unilateral]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CRM-0016
   subject: CRM
@@ -200,8 +200,8 @@ questions:
   authority: ["Common law", "Pinkerton v. United States, 328 U.S. 640 (1946)"]
   source: original
   tags: [wave1, conspiracy, withdrawal, pinkerton]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CRM-0017
   subject: CRM
@@ -236,8 +236,8 @@ questions:
   authority: ["Common law", "MPC § 5.02"]
   source: original
   tags: [wave1, solicitation]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CRM-0018
   subject: CRM
@@ -276,5 +276,5 @@ questions:
   authority: ["Common law", "MPC § 2.06(3)"]
   source: original
   tags: [wave1, accomplice-liability, natural-and-probable-consequences]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"

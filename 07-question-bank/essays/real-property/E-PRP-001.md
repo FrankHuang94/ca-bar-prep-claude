@@ -19,8 +19,8 @@ issues:
   - {issue: "Alternative: abandonment, surrender and the landlord's duty to mitigate; damages", points: 12, call: 2, major: true, rule_ids: [R-PRP-033, R-PRP-047], coverage_ids: [PRP-MBE-I.C.4]}
 time_minutes: 60
 source: original
-status: draft
-last_verified: 2026-11-04
+status: verified
+last_verified: 2026-11-05
 tags: [wave1, E2, landlord-tenant, assignment, habitability, mitigation]
 ---
 

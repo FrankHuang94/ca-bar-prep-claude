@@ -41,8 +41,8 @@ questions:
   authority: ["MPC § 5.02(1)", "MPC § 5.02(2)", "MPC § 5.02(3)"]
   source: original
   tags: [wave2, solicitation, mpc, uncommunicated-solicitation]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CRM-0115
   subject: CRM
@@ -80,8 +80,8 @@ questions:
   authority: ["Common law (solicitation)", "MPC § 5.02(1)"]
   source: original
   tags: [wave2, solicitation, impossibility]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CRM-0116
   subject: CRM
@@ -123,8 +123,8 @@ questions:
   authority: ["MPC § 5.01(1)(a)", "Common law (legal impossibility; legality principle)"]
   source: original
   tags: [wave2, attempt, impossibility, legal-impossibility]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CRM-0117
   subject: CRM
@@ -163,8 +163,8 @@ questions:
   authority: ["Common law (conspiracy)", "18 U.S.C. § 371", "MPC § 5.03(5)"]
   source: original
   tags: [wave2, conspiracy, overt-act]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CRM-0118
   subject: CRM
@@ -205,8 +205,8 @@ questions:
   authority: ["Common law (accomplice withdrawal)", "MPC § 2.06(6)(c)"]
   source: original
   tags: [wave2, accomplice, withdrawal]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CRM-0119
   subject: CRM
@@ -248,5 +248,5 @@ questions:
   authority: ["Common law (accomplice liability: purpose)", "MPC § 2.06(3)(a)"]
   source: original
   tags: [wave2, accomplice, purpose-vs-knowledge]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"

@@ -4,8 +4,8 @@ topic: Criminal Law and Procedure — California distinctions
 coverage_ids: [CRM-SUP-002, CRM-MBE-I.B.3, CRM-MBE-IV.C.1, CRM-MBE-IV.C.2, CRM-MBE-IV.E, CRM-MBE-V.A, CRM-MBE-V.B, CRM-MBE-V.E]
 tested_on: [essay]
 exam_frequency: {level: high, basis: "Essays: 15 of 31 administrations 2012-02 to 2026-07 (48%); MBE: 25 scored questions every exam"}
-last_verified: 2026-11-04
-status: draft
+last_verified: 2026-11-05
+status: reviewed
 ---
 
 # Criminal Law and Procedure — California distinctions

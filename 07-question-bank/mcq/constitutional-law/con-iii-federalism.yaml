@@ -40,8 +40,8 @@ questions:
   authority: ["U.S. Const. art. VI, cl. 2", "McCulloch v. Maryland, 17 U.S. (4 Wheat.) 316 (1819)", "United States v. New Mexico, 455 U.S. 720 (1982)"]
   source: original
   tags: [wave1, intergovernmental-immunity, state-taxation]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CON-0019
   subject: CON
@@ -80,8 +80,8 @@ questions:
   authority: ["U.S. Const. amend. X", "Printz v. United States, 521 U.S. 898 (1997)", "New York v. United States, 505 U.S. 144 (1992)"]
   source: original
   tags: [wave1, anti-commandeering, tenth-amendment]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CON-0020
   subject: CON
@@ -120,8 +120,8 @@ questions:
   authority: ["U.S. Const. amend. X", "Garcia v. San Antonio Metro. Transit Auth., 469 U.S. 528 (1985)", "Reno v. Condon, 528 U.S. 141 (2000)"]
   source: original
   tags: [wave1, tenth-amendment, state-immunity]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CON-0021
   subject: CON
@@ -161,8 +161,8 @@ questions:
   authority: ["U.S. Const. art. I, § 8, cl. 3", "C & A Carbone, Inc. v. Town of Clarkstown, 511 U.S. 383 (1994)", "Hughes v. Oklahoma, 441 U.S. 322 (1979)", "Dean Milk Co. v. City of Madison, 340 U.S. 349 (1951)"]
   source: original
   tags: [wave1, dormant-commerce-clause, discrimination]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CON-0022
   subject: CON
@@ -203,8 +203,8 @@ questions:
   authority: ["Pike v. Bruce Church, Inc., 397 U.S. 137 (1970)", "Exxon Corp. v. Governor of Maryland, 437 U.S. 117 (1978)", "City of Philadelphia v. New Jersey, 437 U.S. 617 (1978)"]
   source: original
   tags: [wave1, dormant-commerce-clause, pike-balancing]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CON-0023
   subject: CON
@@ -240,8 +240,8 @@ questions:
   authority: ["Reeves, Inc. v. Stake, 447 U.S. 429 (1980)", "Hughes v. Alexandria Scrap Corp., 426 U.S. 794 (1976)", "U.S. Const. art. IV, § 2, cl. 1"]
   source: original
   tags: [wave1, dormant-commerce-clause, market-participant]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CON-0024
   subject: CON
@@ -280,8 +280,8 @@ questions:
   authority: ["U.S. Const. art. VI, cl. 2", "Florida Lime & Avocado Growers, Inc. v. Paul, 373 U.S. 132 (1963)", "Rice v. Santa Fe Elevator Corp., 331 U.S. 218 (1947)"]
   source: original
   tags: [wave1, preemption, supremacy-clause]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CON-0025
   subject: CON
@@ -322,5 +322,5 @@ questions:
   authority: ["Prudential Ins. Co. v. Benjamin, 328 U.S. 408 (1946)", "Metropolitan Life Ins. Co. v. Ward, 470 U.S. 869 (1985)"]
   source: original
   tags: [wave1, dormant-commerce-clause, congressional-authorization]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"

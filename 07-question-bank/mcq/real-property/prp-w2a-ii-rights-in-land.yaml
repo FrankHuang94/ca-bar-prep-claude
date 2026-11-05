@@ -42,8 +42,8 @@ questions:
   authority: ["Common law: interpretation and enforcement of servitudes", "Tulk v. Moxhay (1848) 2 Ph. 774, 41 Eng. Rep. 1143"]
   source: original
   tags: [wave2, W2-PRP, servitudes, scope]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-PRP-0062
   subject: PRP
@@ -87,8 +87,8 @@ questions:
   authority: ["Common law: negative easements; no prescriptive easement of light and air", "Fontainebleau Hotel Corp. v. Forty-Five Twenty-Five, Inc., 114 So. 2d 357 (Fla. Dist. Ct. App. 1959)"]
   source: original
   tags: [wave2, W2-PRP, easements, negative-easements]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-PRP-0063
   subject: PRP
@@ -130,8 +130,8 @@ questions:
   authority: ["Common law: transferability of commercial easements in gross"]
   source: original
   tags: [wave2, W2-PRP, easements, easements-in-gross]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-PRP-0064
   subject: PRP
@@ -175,8 +175,8 @@ questions:
   authority: ["Village of Euclid v. Ambler Realty Co., 272 U.S. 365 (1926)", "Village of Belle Terre v. Boraas, 416 U.S. 1 (1974)", "Moore v. City of East Cleveland, 431 U.S. 494 (1977)"]
   source: original
   tags: [wave2, W2-PRP, zoning, constitutional-limits]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-PRP-0065
   subject: PRP
@@ -217,8 +217,8 @@ questions:
   authority: ["Common law: spot zoning; consistency with the comprehensive plan"]
   source: original
   tags: [wave2, W2-PRP, zoning, spot-zoning]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-PRP-0066
   subject: PRP
@@ -258,8 +258,8 @@ questions:
   authority: ["Common law: variance standards (unnecessary hardship; self-created hardship)"]
   source: original
   tags: [wave2, W2-PRP, zoning, variances]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-PRP-0067
   subject: PRP
@@ -302,8 +302,8 @@ questions:
   authority: ["Holbrook v. Taylor, 532 S.W.2d 763 (Ky. 1976)", "Common law: irrevocable license (easement by estoppel)"]
   source: original
   tags: [wave2, W2-PRP, easements, estoppel, licenses]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-PRP-0068
   subject: PRP
@@ -348,8 +348,8 @@ questions:
   authority: ["UCC § 9-334(d), (h)", "UCC § 9-604(c)-(d)"]
   source: original
   tags: [wave2, W2-PRP, fixtures, ucc-article-9]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-PRP-0069
   subject: PRP
@@ -390,8 +390,8 @@ questions:
   authority: ["Common law: equitable servitudes; acceptance of a deed binds the grantee to its covenants", "Tulk v. Moxhay (1848) 2 Ph. 774, 41 Eng. Rep. 1143"]
   source: original
   tags: [wave2, W2-PRP, covenants, equitable-servitudes, creation]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-PRP-0070
   subject: PRP
@@ -430,5 +430,5 @@ questions:
   authority: ["Common law: scope of prescriptive easements; remedy for misuse"]
   source: original
   tags: [wave2, W2-PRP, easements, scope]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"

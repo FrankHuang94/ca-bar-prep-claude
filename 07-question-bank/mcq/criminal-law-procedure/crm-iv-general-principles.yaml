@@ -39,8 +39,8 @@ questions:
   authority: ["Common law", "MPC § 2.01(3)", "Jones v. United States, 308 F.2d 307 (D.C. Cir. 1962)"]
   source: original
   tags: [wave1, omissions, duty-to-act]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CRM-0020
   subject: CRM
@@ -80,8 +80,8 @@ questions:
   authority: ["MPC §§ 2.02(4), 2.04(1)"]
   source: original
   tags: [wave1, mens-rea, mpc-culpability, mistake-of-fact]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CRM-0021
   subject: CRM
@@ -120,8 +120,8 @@ questions:
   authority: ["Common law", "MPC §§ 2.05, 213.6(1)"]
   source: original
   tags: [wave1, strict-liability, statutory-rape]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CRM-0022
   subject: CRM
@@ -160,8 +160,8 @@ questions:
   authority: ["Common law", "MPC § 2.04(3)", "Cheek v. United States, 498 U.S. 192 (1991)"]
   source: original
   tags: [wave1, mistake-of-law]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CRM-0023
   subject: CRM
@@ -199,8 +199,8 @@ questions:
   authority: ["M'Naghten's Case (1843)", "MPC § 4.01"]
   source: original
   tags: [wave1, insanity, mnaghten]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CRM-0024
   subject: CRM
@@ -242,8 +242,8 @@ questions:
   authority: ["Common law", "MPC § 2.08", "Montana v. Egelhoff, 518 U.S. 37 (1996) (plurality opinion)"]
   source: original
   tags: [wave1, intoxication, specific-intent]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CRM-0025
   subject: CRM
@@ -283,8 +283,8 @@ questions:
   authority: ["Common law", "MPC § 2.03"]
   source: original
   tags: [wave1, causation, intervening-cause]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CRM-0026
   subject: CRM
@@ -322,5 +322,5 @@ questions:
   authority: ["Common law", "MPC § 3.04(2)(b)"]
   source: original
   tags: [wave1, self-defense, duty-to-retreat]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"

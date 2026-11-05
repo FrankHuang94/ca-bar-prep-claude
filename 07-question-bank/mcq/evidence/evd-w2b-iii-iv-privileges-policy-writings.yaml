@@ -44,8 +44,8 @@ questions:
   authority: ["FRE 410(a)(4)", "FRE 801(d)(2)(A)", "United States v. Mezzanatto, 513 U.S. 196 (1995)"]
   source: original
   tags: [wave2, W2b-EVD, plea-discussions, policy-exclusion]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0132
   subject: EVD
@@ -91,8 +91,8 @@ questions:
   authority: ["FRE 501", "United States v. Zolin, 491 U.S. 554 (1989)"]
   source: original
   tags: [wave2, W2b-EVD, attorney-client, crime-fraud]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0133
   subject: EVD
@@ -135,8 +135,8 @@ questions:
   authority: ["FRE 407", "FRE 407 advisory committee's note (1997)", "FRE 403"]
   source: original
   tags: [wave2, W2b-EVD, remedial-measures, timing]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0134
   subject: EVD
@@ -178,8 +178,8 @@ questions:
   authority: ["FRE 412(a)", "FRE 412(b)(2)", "FRE 412(c)"]
   source: original
   tags: [wave2, W2b-EVD, rape-shield, civil-case]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0135
   subject: EVD
@@ -222,8 +222,8 @@ questions:
   authority: ["FRE 1006(a)", "FRE 1006(b)", "FRE 1002", "FRE 803(6)"]
   source: original
   tags: [wave2, W2b-EVD, summaries, voluminous-records]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0136
   subject: EVD
@@ -264,8 +264,8 @@ questions:
   authority: ["FRE 1006", "FRE 107", "FRE 803(6)"]
   source: original
   tags: [wave2, W2b-EVD, summaries, illustrative-aid]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0137
   subject: EVD
@@ -309,8 +309,8 @@ questions:
   authority: ["FRE 106"]
   source: original
   tags: [wave2, W2b-EVD, completeness]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0138
   subject: EVD
@@ -351,5 +351,5 @@ questions:
   authority: ["FRE 801(c)", "FRE 801(d)(2)(A)", "FRE 106"]
   source: original
   tags: [wave2, W2b-EVD, completeness, self-serving-hearsay]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"

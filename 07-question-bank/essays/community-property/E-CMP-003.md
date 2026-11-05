@@ -20,8 +20,8 @@ issues:
   - {issue: "Allocation at division (2627 without offset) and liability after division (916)", points: 10, call: 2, major: true, rule_ids: [R-CMP-081, R-CMP-089, R-CMP-090], coverage_ids: [CMP-CBX-VI.debts]}
 time_minutes: 60
 source: original
-status: draft
-last_verified: 2026-11-04
+status: reviewed
+last_verified: 2026-11-05
 tags: [wave2, W2-E6, dissolution, pereira-van-camp, personal-injury, education-reimbursement, tort-debt]
 ---
 

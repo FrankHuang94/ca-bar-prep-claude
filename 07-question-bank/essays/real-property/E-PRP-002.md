@@ -23,8 +23,8 @@ issues:
   - {issue: "Barn rents: accounting for third-party rents; ouster; survival of Iris's accrued claim", points: 10, call: 3, major: true, rule_ids: [R-PRP-024], coverage_ids: [PRP-MBE-I.B.2]}
 time_minutes: 60
 source: original
-status: draft
-last_verified: 2026-11-04
+status: verified
+last_verified: 2026-11-05
 tags: [wave1, E2, easements, covenants, joint-tenancy, recording]
 ---
 

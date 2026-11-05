@@ -22,8 +22,8 @@ issues:
   - {issue: "Mia: bystander recovery in strict liability; rescue doctrine; warranty plaintiffs (2-318); Leo's fault (Prop 51)", points: 8, call: 3, rule_ids: [R-TRT-086, R-TRT-024, R-TRT-089, R-TRT-041, R-TRT-042], coverage_ids: [TRT-MBE-III, TRT-MBE-II.E.1, TRT-MBE-II.D.3]}
 time_minutes: 60
 source: original
-status: draft
-last_verified: 2026-11-04
+status: reviewed
+last_verified: 2026-11-05
 tags: [wave1, E1, products-liability, design-defect, warnings, warranty, rescue]
 ---
 

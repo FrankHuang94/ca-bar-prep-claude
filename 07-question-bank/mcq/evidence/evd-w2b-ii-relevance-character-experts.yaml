@@ -45,8 +45,8 @@ questions:
   authority: ["FRE 401", "FRE 402", "Restatement (Second) of Torts § 402A(2)(a)", "Restatement (Third) of Torts: Products Liability § 2(a)"]
   source: original
   tags: [wave2, W2b-EVD, relevance, materiality]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0114
   subject: EVD
@@ -91,8 +91,8 @@ questions:
   authority: ["FRE 401", "FRE 401 advisory committee's note", "FRE 403", "Old Chief v. United States, 519 U.S. 172 (1997)"]
   source: original
   tags: [wave2, W2b-EVD, relevance, stipulation]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0115
   subject: EVD
@@ -136,8 +136,8 @@ questions:
   authority: ["FRE 403", "FRE 403 advisory committee's note", "FRE 801(d)(2)(D)"]
   source: original
   tags: [wave2, W2b-EVD, rule-403, unfair-prejudice]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0116
   subject: EVD
@@ -178,8 +178,8 @@ questions:
   authority: ["FRE 403", "FRE 611(a)"]
   source: original
   tags: [wave2, W2b-EVD, rule-403, cumulative-evidence]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0117
   subject: EVD
@@ -221,8 +221,8 @@ questions:
   authority: ["FRE 404(a)(2)(A)", "FRE 405(a)", "Michelson v. United States, 335 U.S. 469 (1948)"]
   source: original
   tags: [wave2, W2b-EVD, character, character-witness]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0118
   subject: EVD
@@ -268,8 +268,8 @@ questions:
   authority: ["FRE 404(a)(1)", "FRE 406"]
   source: original
   tags: [wave2, W2b-EVD, habit, character]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0119
   subject: EVD
@@ -316,8 +316,8 @@ questions:
   authority: ["FRE 404(b)", "FRE 403", "FRE 105", "Huddleston v. United States, 485 U.S. 681 (1988)"]
   source: original
   tags: [wave2, W2b-EVD, other-acts, absence-of-accident, civil-404b]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0120
   subject: EVD
@@ -361,8 +361,8 @@ questions:
   authority: ["FRE 413(a)", "FRE 404(a)(1)", "FRE 404(b)(1)"]
   source: original
   tags: [wave2, W2b-EVD, sexual-assault-propensity, character]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0121
   subject: EVD
@@ -403,8 +403,8 @@ questions:
   authority: ["FRE 702", "FRE 104(a)", "FRE 602", "FRE 703"]
   source: original
   tags: [wave2, W2b-EVD, expert, qualifications]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0122
   subject: EVD
@@ -448,8 +448,8 @@ questions:
   authority: ["FRE 104(a)", "FRE 104(b)", "FRE 104(e)", "FRE 702"]
   source: original
   tags: [wave2, W2b-EVD, expert, qualifications, judge-and-jury]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0123
   subject: EVD
@@ -491,8 +491,8 @@ questions:
   authority: ["FRE 703", "FRE 602", "FRE 705"]
   source: original
   tags: [wave2, W2b-EVD, expert, bases-of-opinion]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0124
   subject: EVD
@@ -535,8 +535,8 @@ questions:
   authority: ["FRE 704(a)", "FRE 704(b)", "FRE 702"]
   source: original
   tags: [wave2, W2b-EVD, expert, ultimate-issue, mental-state]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0125
   subject: EVD
@@ -580,8 +580,8 @@ questions:
   authority: ["FRE 702(a)", "FRE 704(a)", "FRE 704 advisory committee's note"]
   source: original
   tags: [wave2, W2b-EVD, expert, legal-conclusion, ultimate-issue]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0126
   subject: EVD
@@ -625,8 +625,8 @@ questions:
   authority: ["FRE 702", "FRE 104(a)", "Kumho Tire Co. v. Carmichael, 526 U.S. 137 (1999)", "Daubert v. Merrell Dow Pharmaceuticals, Inc., 509 U.S. 579 (1993)"]
   source: original
   tags: [wave2, W2b-EVD, expert, reliability, kumho]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0127
   subject: EVD
@@ -670,8 +670,8 @@ questions:
   authority: ["FRE 702", "FRE 104(a)", "General Electric Co. v. Joiner, 522 U.S. 136 (1997)"]
   source: original
   tags: [wave2, W2b-EVD, expert, reliability, causation]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0128
   subject: EVD
@@ -711,8 +711,8 @@ questions:
   authority: ["FRE 702(a)", "FRE 704(a)"]
   source: original
   tags: [wave2, W2b-EVD, expert, helpfulness, common-knowledge]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0129
   subject: EVD
@@ -754,8 +754,8 @@ questions:
   authority: ["FRE 401", "FRE 402", "FRE 403"]
   source: original
   tags: [wave2, W2b-EVD, real-evidence, display-of-injury]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0130
   subject: EVD
@@ -803,5 +803,5 @@ questions:
   authority: ["FRE 703", "FRE 703 advisory committee's note (2000)", "FRE 705", "FRE 105"]
   source: original
   tags: [wave2, W2b-EVD, expert, bases-of-opinion, cross-examination]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"

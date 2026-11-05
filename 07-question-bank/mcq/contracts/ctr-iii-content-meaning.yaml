@@ -39,8 +39,8 @@ questions:
   authority: ["R2d § 213", "R2d § 217"]
   source: original
   tags: [wave1, M1, parol-evidence, condition-precedent]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CTR-0023
   subject: CTR
@@ -81,8 +81,8 @@ questions:
   authority: ["R2d § 213", "R2d § 89"]
   source: original
   tags: [wave1, M1, parol-evidence, modification]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CTR-0024
   subject: CTR
@@ -125,8 +125,8 @@ questions:
   authority: ["UCC § 1-303(c)-(e)", "UCC § 2-202 and cmt. 1"]
   source: original
   tags: [wave1, M1, ucc, interpretation, trade-usage]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CTR-0025
   subject: CTR
@@ -167,5 +167,5 @@ questions:
   authority: ["Wood v. Lucy, Lady Duff-Gordon, 222 N.Y. 88, 118 N.E. 214 (1917)", "R2d § 204", "R2d § 77"]
   source: original
   tags: [wave1, M1, implied-terms, illusory-promise]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"

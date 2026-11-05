@@ -41,8 +41,8 @@ questions:
   authority: ["Common law: priority of purchase-money mortgages", "Restatement (Third) of Property: Mortgages § 7.2"]
   source: original
   tags: [wave2, W2b-PRP, purchase-money-mortgages, priority]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-PRP-0132
   subject: PRP
@@ -89,8 +89,8 @@ questions:
   authority: ["Common law: equitable mortgages", "Recording act (quoted in the stem)"]
   source: original
   tags: [wave2, W2b-PRP, equitable-mortgage, absolute-deed, inquiry-notice]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-PRP-0133
   subject: PRP
@@ -133,8 +133,8 @@ questions:
   authority: ["Common law: lien, title and intermediate theories of mortgages", "Common law: duties of a mortgagee in possession"]
   source: original
   tags: [wave2, W2b-PRP, mortgage-theories, mortgagee-in-possession]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-PRP-0134
   subject: PRP
@@ -177,8 +177,8 @@ questions:
   authority: ["Common law: assumption of mortgages by grantees", "Statute of frauds: suretyship provision", "Common law: third-party beneficiaries"]
   source: original
   tags: [wave2, W2b-PRP, assumption, transfers-by-mortgagor]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-PRP-0135
   subject: PRP
@@ -223,8 +223,8 @@ questions:
   authority: ["Common law: equity of redemption and clogging", "Common law: deeds in lieu of foreclosure"]
   source: original
   tags: [wave2, W2b-PRP, deed-in-lieu, clogging, equity-of-redemption]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-PRP-0136
   subject: PRP
@@ -270,8 +270,8 @@ questions:
   authority: ["Common law: perfect tender in time (no right to prepay absent a loan term or statute)", "Restatement (Third) of Property: Mortgages § 6.1"]
   source: original
   tags: [wave2, W2b-PRP, discharge, prepayment]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-PRP-0137
   subject: PRP
@@ -312,8 +312,8 @@ questions:
   authority: ["Statute quoted in the stem", "Common law: judicial and power-of-sale foreclosure"]
   source: original
   tags: [wave2, W2b-PRP, foreclosure, power-of-sale]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-PRP-0138
   subject: PRP
@@ -352,8 +352,8 @@ questions:
   authority: ["Common law: acceleration of mortgage debt"]
   source: original
   tags: [wave2, W2b-PRP, foreclosure, acceleration]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-PRP-0139
   subject: PRP
@@ -395,8 +395,8 @@ questions:
   authority: ["Fair-value deficiency statute (quoted in the stem)"]
   source: original
   tags: [wave2, W2b-PRP, foreclosure, deficiency, fair-value]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-PRP-0140
   subject: PRP
@@ -436,5 +436,5 @@ questions:
   authority: ["Common law: equity of redemption ends at the foreclosure sale", "Statutory redemption (none in this jurisdiction)"]
   source: original
   tags: [wave2, W2b-PRP, foreclosure, redemption]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"

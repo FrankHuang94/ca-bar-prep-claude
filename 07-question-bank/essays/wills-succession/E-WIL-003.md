@@ -21,8 +21,8 @@ issues:
   - {issue: "Carl's estate: issue of either parent; half-blood siblings take equally; adopted sibling", points: 10, call: 3, major: true, rule_ids: [R-WIL-018, R-WIL-022, R-WIL-027], coverage_ids: [WIL-CBX-II.C, WIL-CBX-II.D]}
 time_minutes: 60
 source: original
-status: draft
-last_verified: 2026-11-04
+status: verified
+last_verified: 2026-11-05
 tags: [wave2, W2-E6, intestacy, stepchild, adoption, half-blood, advancement, 120-hour-rule, disclaimer, slayer]
 ---
 

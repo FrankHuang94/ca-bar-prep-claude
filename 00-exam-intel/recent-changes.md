@@ -4,8 +4,8 @@ topic: Recent legal changes relevant to the July 2027 exam
 coverage_ids: []
 tested_on: [MBE, essay]
 exam_frequency: {level: med, basis: "New rules are tested once in effect (MBE: 'as currently in effect'); a few items are high-yield"}
-last_verified: 2026-11-04
-status: draft
+last_verified: 2026-11-05
+status: reviewed
 ---
 
 # Recent changes (law in effect for July 27–28, 2027)

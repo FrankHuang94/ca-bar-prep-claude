@@ -4,8 +4,8 @@ topic: Real Property — subject overview, frequency, crossover map and study or
 coverage_ids: [PRP-MBE-I, PRP-MBE-II, PRP-MBE-III, PRP-MBE-IV, PRP-MBE-V, PRP-CBX-I, PRP-CBX-II, PRP-CBX-III, PRP-CBX-IV, PRP-CBX-V, PRP-CBX-VI, PRP-CBX-VII-IX]
 tested_on: [MBE, essay]
 exam_frequency: {level: high, basis: "Essays: 13 of 31 administrations 2012-02 to 2026-07 (42%); MBE: 25 scored questions every exam"}
-last_verified: 2026-11-04
-status: draft
+last_verified: 2026-11-05
+status: reviewed
 ---
 
 # Real Property

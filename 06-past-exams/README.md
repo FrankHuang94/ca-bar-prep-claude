@@ -4,8 +4,8 @@ topic: Past exams (Phase 3)
 coverage_ids: []
 tested_on: [essay, PT]
 exam_frequency: {level: n/a, basis: "Scaffold file"}
-last_verified: 2026-11-04
-status: draft
+last_verified: 2026-11-05
+status: verified
 ---
 
 # Past exams

@@ -41,7 +41,7 @@ questions:
   authority: ["R2d § 302(1)(a)", "R2d § 310"]
   source: original
   tags: [wave2, w2b, third-party-beneficiary, creditor-beneficiary]
-  status: draft
+  status: verified
   last_verified: "2026-11-05"
 
 - id: Q-CTR-0146
@@ -87,7 +87,7 @@ questions:
   authority: ["R2d § 302(1)(a)", "R2d § 309"]
   source: original
   tags: [wave2, w2b, third-party-beneficiary, defenses, set-off]
-  status: draft
+  status: verified
   last_verified: "2026-11-05"
 
 - id: Q-CTR-0147
@@ -133,7 +133,7 @@ questions:
   authority: ["R2d § 302(1)(b)", "R2d § 311(3)"]
   source: original
   tags: [wave2, w2b, third-party-beneficiary, vesting, donee-beneficiary]
-  status: draft
+  status: verified
   last_verified: "2026-11-05"
 
 - id: Q-CTR-0148
@@ -178,7 +178,7 @@ questions:
   authority: ["R2d § 317(2)(a)"]
   source: original
   tags: [wave2, w2b, assignment, non-assignable-rights]
-  status: draft
+  status: verified
   last_verified: "2026-11-05"
 
 - id: Q-CTR-0149
@@ -226,7 +226,7 @@ questions:
   authority: ["R2d § 333", "R2d § 336"]
   source: original
   tags: [wave2, w2b, assignment, assignor-warranties]
-  status: draft
+  status: verified
   last_verified: "2026-11-05"
 
 - id: Q-CTR-0150
@@ -271,5 +271,5 @@ questions:
   authority: ["R2d § 318", "R2d § 322(1)"]
   source: original
   tags: [wave2, w2b, delegation, anti-assignment-clause]
-  status: draft
+  status: verified
   last_verified: "2026-11-05"

@@ -4,8 +4,8 @@ topic: Exam-day logistics, laptop preparation and countdown checklist (July 2027
 coverage_ids: []
 tested_on: [none]
 exam_frequency: {level: n/a, basis: "Logistics reference, not a tested topic"}
-last_verified: 2026-11-04
-status: draft
+last_verified: 2026-11-05
+status: reviewed
 ---
 
 # Exam-day logistics

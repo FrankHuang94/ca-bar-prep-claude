@@ -23,8 +23,8 @@ issues:
   - {issue: "Substantive due process (rational basis) and remedy", points: 5, call: 3, rule_ids: [R-CON-063], coverage_ids: [CON-MBE-IV.B.2]}
 time_minutes: 60
 source: original
-status: draft
-last_verified: 2026-11-04
+status: verified
+last_verified: 2026-11-05
 tags: [wave1, E1, dormant-commerce-clause, equal-protection, alienage, procedural-due-process]
 ---
 

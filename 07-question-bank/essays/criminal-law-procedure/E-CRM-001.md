@@ -28,8 +28,8 @@ issues:
   - {issue: "Marco: withdrawal (accomplice and conspirator)", points: 4, call: 3, rule_ids: [R-CRM-068, R-CRM-071], coverage_ids: [CRM-MBE-III.B, CRM-CBX-III]}
 time_minutes: 60
 source: original
-status: draft
-last_verified: 2026-11-04
+status: verified
+last_verified: 2026-11-05
 tags: [wave1, E1, homicide, felony-murder, arson, conspiracy, accomplice, attempt]
 ---
 

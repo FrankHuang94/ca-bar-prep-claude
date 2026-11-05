@@ -36,8 +36,8 @@ questions:
   authority: ["R2d § 302", "R2d § 315"]
   source: original
   tags: [wave1, M1, third-party-beneficiary]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CTR-0048
   subject: CTR
@@ -79,8 +79,8 @@ questions:
   authority: ["R2d § 302", "R2d § 311"]
   source: original
   tags: [wave1, M1, third-party-beneficiary, vesting]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CTR-0049
   subject: CTR
@@ -124,8 +124,8 @@ questions:
   authority: ["R2d § 322(2)", "R2d § 338", "UCC § 9-406(a), (d)"]
   source: original
   tags: [wave1, M1, assignment, anti-assignment-clause]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CTR-0050
   subject: CTR
@@ -166,5 +166,5 @@ questions:
   authority: ["R2d § 318(3)", "R2d § 328", "R2d § 302"]
   source: original
   tags: [wave1, M1, delegation, assumption, novation]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"

@@ -39,8 +39,8 @@ questions:
   authority: ["FRCP 41(b)", "Semtek Int'l Inc. v. Lockheed Martin Corp., 531 U.S. 497 (2001)"]
   source: original
   tags: [wave1, M1, involuntary-dismissal]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CIV-0044
   subject: CIV
@@ -81,8 +81,8 @@ questions:
   authority: ["FRCP 49(b)(3)-(4)"]
   source: original
   tags: [wave1, M1, verdicts, inconsistent-verdict]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CIV-0045
   subject: CIV
@@ -122,8 +122,8 @@ questions:
   authority: ["Restatement (Second) of Judgments §§ 19, 24", "Federated Department Stores, Inc. v. Moitie, 452 U.S. 394 (1981)"]
   source: original
   tags: [wave1, M1, claim-preclusion]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CIV-0046
   subject: CIV
@@ -166,8 +166,8 @@ questions:
   authority: ["Restatement (Second) of Judgments § 27 & cmt. e", "FRCP 13(a)"]
   source: original
   tags: [wave1, M1, issue-preclusion, default]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CIV-0047
   subject: CIV
@@ -208,5 +208,5 @@ questions:
   authority: ["Parklane Hosiery Co. v. Shore, 439 U.S. 322 (1979)", "Blonder-Tongue Laboratories, Inc. v. University of Illinois Foundation, 402 U.S. 313 (1971)"]
   source: original
   tags: [wave1, M1, issue-preclusion, non-mutual]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"

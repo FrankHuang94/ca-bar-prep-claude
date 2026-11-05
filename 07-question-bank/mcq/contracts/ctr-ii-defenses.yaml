@@ -41,8 +41,8 @@ questions:
   authority: ["R2d § 12", "R2d § 14"]
   source: original
   tags: [wave1, M1, capacity, minors]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CTR-0016
   subject: CTR
@@ -83,8 +83,8 @@ questions:
   authority: ["R2d § 152", "R2d § 154"]
   source: original
   tags: [wave1, M1, mistake, risk-allocation]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CTR-0017
   subject: CTR
@@ -127,8 +127,8 @@ questions:
   authority: ["R2d § 153", "R2d § 157"]
   source: original
   tags: [wave1, M1, mistake, unilateral-mistake]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CTR-0018
   subject: CTR
@@ -170,8 +170,8 @@ questions:
   authority: ["R2d § 162", "R2d § 164", "R2d § 172", "UCC § 2-721"]
   source: original
   tags: [wave1, M1, misrepresentation, rescission]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CTR-0019
   subject: CTR
@@ -214,8 +214,8 @@ questions:
   authority: ["R2d § 178", "R2d § 197"]
   source: original
   tags: [wave1, M1, illegality, licensing]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CTR-0020
   subject: CTR
@@ -255,8 +255,8 @@ questions:
   authority: ["R2d § 110", "R2d § 130"]
   source: original
   tags: [wave1, M1, statute-of-frauds, one-year]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CTR-0021
   subject: CTR
@@ -299,5 +299,5 @@ questions:
   authority: ["UCC § 2-201(1)-(2)", "UCC § 2-104(1)"]
   source: original
   tags: [wave1, M1, ucc, statute-of-frauds, merchant-confirmation]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"

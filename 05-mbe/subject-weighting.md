@@ -4,8 +4,8 @@ topic: MBE subject and category weighting, NCBE assumptions, study-time allocati
 coverage_ids: []
 tested_on: [MBE]
 exam_frequency: {level: high, basis: "Applies to every MBE question"}
-last_verified: 2026-11-04
-status: draft
+last_verified: 2026-11-05
+status: reviewed
 ---
 
 # MBE subject weighting

@@ -14,8 +14,8 @@ issues:
   - {issue: "Item 5: ER record - multiple hearsay; 803(6) for the record; 803(4) for symptoms and general cause; fault statements redacted", points: 20, call: 1, major: true, rule_ids: [R-EVD-092, R-EVD-099, R-EVD-097, R-EVD-088], coverage_ids: [EVD-MBE-V.A.4, EVD-MBE-V.F, EVD-MBE-V.D]}
 time_minutes: 60
 source: original
-status: draft
-last_verified: 2026-11-04
+status: verified
+last_verified: 2026-11-05
 tags: [wave1, E2, fre, civil, item-by-item]
 ---
 

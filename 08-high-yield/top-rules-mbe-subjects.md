@@ -5,7 +5,7 @@ coverage_ids: []
 tested_on: [MBE, essay]
 exam_frequency: {level: high, basis: "25 scored MBE questions per subject on every exam [S-040]; each subject also appeared on 12-16 of 31 California essay administrations, 2012-02 to 2026-07 (06-past-exams/frequency-analysis.md)"}
 last_verified: 2026-11-05
-status: draft
+status: reviewed
 ---
 
 # Top rules: MBE subjects

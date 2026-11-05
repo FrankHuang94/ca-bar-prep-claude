@@ -24,8 +24,8 @@ issues:
   - {issue: "Ridgeline's recovery: unpaid price less offsets; restitution fallback", points: 6, call: 3, rule_ids: [R-CTR-089, R-CTR-109], coverage_ids: [CTR-MBE-V.H]}
 time_minutes: 60
 source: original
-status: draft
-last_verified: 2026-11-04
+status: verified
+last_verified: 2026-11-05
 tags: [wave1, E1, construction, modification, substantial-performance, damages]
 ---
 

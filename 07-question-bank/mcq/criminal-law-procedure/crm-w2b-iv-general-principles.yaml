@@ -41,8 +41,8 @@ questions:
   authority: ["MPC § 4.01(1)", "M'Naghten's Case (1843)"]
   source: original
   tags: [wave2, insanity, mpc-test, volitional-prong]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CRM-0121
   subject: CRM
@@ -81,8 +81,8 @@ questions:
   authority: ["Strassheim v. Daily, 221 U.S. 280 (1911)", "MPC § 1.03(1)(a)"]
   source: original
   tags: [wave2, jurisdiction, territorial-jurisdiction]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CRM-0122
   subject: CRM
@@ -123,8 +123,8 @@ questions:
   authority: ["MPC § 2.01(3)", "Jones v. United States, 308 F.2d 307 (D.C. Cir. 1962)"]
   source: original
   tags: [wave2, omissions, duty-to-act, contract-duty]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CRM-0123
   subject: CRM
@@ -166,8 +166,8 @@ questions:
   authority: ["MPC § 2.04(3)(b)(iv)", "Common law (mistake of law)"]
   source: original
   tags: [wave2, mistake-of-law, official-reliance, mpc]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CRM-0124
   subject: CRM
@@ -208,5 +208,5 @@ questions:
   authority: ["Common law (duress)"]
   source: original
   tags: [wave2, defenses, duress, imminence]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"

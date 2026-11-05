@@ -19,8 +19,8 @@ issues:
   - {issue: "Kai: receiving stolen property; knowledge vs. suspicion; mistake of fact; willful blindness", points: 13, call: 2, major: true, rule_ids: [R-CRM-048, R-CRM-010], coverage_ids: [CRM-MBE-II.A, CRM-MBE-IV.B.1, CRM-MBE-IV.B.3]}
 time_minutes: 60
 source: original
-status: draft
-last_verified: 2026-11-04
+status: verified
+last_verified: 2026-11-05
 tags: [wave2, W2-E4, theft, embezzlement, false-pretenses, larceny-by-trick, robbery, burglary, receiving, claim-of-right]
 ---
 

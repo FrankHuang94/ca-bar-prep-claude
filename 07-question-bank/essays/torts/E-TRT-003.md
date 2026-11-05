@@ -21,8 +21,8 @@ issues:
   - {issue: "Mei: other theories (defamation, false light, IIED) and anti-SLAPP", points: 5, call: 3, rule_ids: [R-TRT-005, R-TRT-100, R-TRT-104], coverage_ids: [TRT-CBX-I.x1, TRT-MBE-I.A]}
 time_minutes: 60
 source: original
-status: draft
-last_verified: 2026-11-04
+status: verified
+last_verified: 2026-11-05
 tags: [wave2, W2-E5, defamation, actual-malice, gertz, privacy, intrusion, appropriation, public-disclosure]
 ---
 

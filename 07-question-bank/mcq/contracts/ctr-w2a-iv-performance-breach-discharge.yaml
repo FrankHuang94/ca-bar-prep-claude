@@ -38,8 +38,8 @@ questions:
   authority: ["R2d § 234(2)", "R2d § 237"]
   source: original
   tags: [wave2, constructive-conditions, order-of-performance]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CTR-0078
   subject: CTR
@@ -81,8 +81,8 @@ questions:
   authority: ["R2d § 234(1)", "R2d § 238"]
   source: original
   tags: [wave2, concurrent-conditions, tender]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CTR-0079
   subject: CTR
@@ -132,8 +132,8 @@ questions:
   authority: ["R2d § 84(1)-(2)", "R2d § 224", "R2d \u00a7 229"]
   source: original
   tags: [wave2, excuse-of-conditions, waiver, retraction]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CTR-0080
   subject: CTR
@@ -179,8 +179,8 @@ questions:
   authority: ["UCC § 2-609", "UCC § 2-610", "UCC § 2-703"]
   source: original
   tags: [wave2, ucc, adequate-assurance, repudiation]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CTR-0081
   subject: CTR
@@ -227,8 +227,8 @@ questions:
   authority: ["UCC § 1-201(b)(20)", "UCC § 1-304", "UCC § 2-305(2) and cmt. 3"]
   source: original
   tags: [wave2, ucc, good-faith, open-price]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CTR-0082
   subject: CTR
@@ -274,8 +274,8 @@ questions:
   authority: ["R2d § 205"]
   source: original
   tags: [wave2, good-faith, termination-clause]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CTR-0083
   subject: CTR
@@ -319,8 +319,8 @@ questions:
   authority: ["UCC § 2-312(1)-(2) and cmt. 6", "UCC § 2-316(3)(a)"]
   source: original
   tags: [wave2, ucc, warranties, title, disclaimer]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CTR-0084
   subject: CTR
@@ -364,8 +364,8 @@ questions:
   authority: ["UCC § 2-314", "UCC § 2-316(3)(b) and cmt. 8"]
   source: original
   tags: [wave2, ucc, warranties, merchantability, examination]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CTR-0085
   subject: CTR
@@ -410,8 +410,8 @@ questions:
   authority: ["UCC § 2-606", "UCC § 2-608"]
   source: original
   tags: [wave2, ucc, revocation-of-acceptance]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CTR-0086
   subject: CTR
@@ -456,8 +456,8 @@ questions:
   authority: ["UCC § 2-501", "UCC § 2-509(3)", "UCC § 2-613(a)"]
   source: original
   tags: [wave2, ucc, casualty-to-identified-goods, risk-of-loss]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CTR-0087
   subject: CTR
@@ -500,8 +500,8 @@ questions:
   authority: ["R2d § 265"]
   source: original
   tags: [wave2, frustration-of-purpose]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CTR-0088
   subject: CTR
@@ -540,5 +540,5 @@ questions:
   authority: ["R2d § 279", "R2d § 280"]
   source: original
   tags: [wave2, discharge, novation]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"

@@ -41,8 +41,8 @@ questions:
   authority: ["FRE 801(c)", "FRE 105"]
   source: original
   tags: [wave1, M3, hearsay, not-for-truth]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0039
   subject: EVD
@@ -82,8 +82,8 @@ questions:
   authority: ["FRE 801(d)(1)(C)", "United States v. Owens, 484 U.S. 554 (1988)", "U.S. Const. amend. VI"]
   source: original
   tags: [wave1, M3, hearsay, prior-identification]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0040
   subject: EVD
@@ -124,8 +124,8 @@ questions:
   authority: ["FRE 801(d)(2)(D)", "FRE 804(a)", "FRE 804(b)(3)"]
   source: original
   tags: [wave1, M3, hearsay, party-opponent]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0041
   subject: EVD
@@ -166,8 +166,8 @@ questions:
   authority: ["FRE 805", "FRE 803(8)(A)(ii)", "FRE 803(2)"]
   source: original
   tags: [wave1, M3, hearsay, multiple-hearsay, public-records]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0042
   subject: EVD
@@ -209,8 +209,8 @@ questions:
   authority: ["FRE 803(2)", "FRE 803(1)"]
   source: original
   tags: [wave1, M3, hearsay, excited-utterance]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0043
   subject: EVD
@@ -250,8 +250,8 @@ questions:
   authority: ["FRE 803(3)", "Mutual Life Insurance Co. v. Hillmon, 145 U.S. 285 (1892)", "Shepard v. United States, 290 U.S. 96 (1933)"]
   source: original
   tags: [wave1, M3, hearsay, state-of-mind]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0044
   subject: EVD
@@ -289,8 +289,8 @@ questions:
   authority: ["FRE 803(4)"]
   source: original
   tags: [wave1, M3, hearsay, medical-diagnosis]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0045
   subject: EVD
@@ -328,8 +328,8 @@ questions:
   authority: ["FRE 803(5)", "FRE 612"]
   source: original
   tags: [wave1, M3, hearsay, recorded-recollection]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0046
   subject: EVD
@@ -372,8 +372,8 @@ questions:
   authority: ["FRE 803(6)", "FRE 902(11)"]
   source: original
   tags: [wave1, M3, hearsay, business-records]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0047
   subject: EVD
@@ -412,8 +412,8 @@ questions:
   authority: ["FRE 804(a)(4)", "FRE 804(b)(1)", "Crawford v. Washington, 541 U.S. 36 (2004)"]
   source: original
   tags: [wave1, M3, hearsay, former-testimony, confrontation]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0048
   subject: EVD
@@ -456,8 +456,8 @@ questions:
   authority: ["FRE 804(a)(1)", "FRE 804(b)(3) (as amended Dec. 1, 2024)"]
   source: original
   tags: [wave1, M3, hearsay, against-interest, 2024-amendment]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0049
   subject: EVD
@@ -497,8 +497,8 @@ questions:
   authority: ["FRE 804(a)(4)", "FRE 804(b)(2)"]
   source: original
   tags: [wave1, M3, hearsay, dying-declaration]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0050
   subject: EVD
@@ -539,5 +539,5 @@ questions:
   authority: ["U.S. Const. amend. VI", "Crawford v. Washington, 541 U.S. 36 (2004)", "Davis v. Washington, 547 U.S. 813 (2006)"]
   source: original
   tags: [wave1, M3, confrontation]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"

@@ -4,8 +4,8 @@ topic: English–Chinese legal glossary (terms of art, grouped by subject; all t
 coverage_ids: []
 tested_on: [MBE, essay, PT]
 exam_frequency: {level: n/a, basis: "Foundations reference"}
-last_verified: 2026-11-04
-status: draft
+last_verified: 2026-11-05
+status: verified
 ---
 
 # Legal English glossary (English–中文)

@@ -40,8 +40,8 @@ questions:
   authority: ["FRCP 52(a)(1)", "FRCP 52(c)"]
   source: original
   tags: [wave2, w2a, bench-trial, findings, rule-52c]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CIV-0094
   subject: CIV
@@ -83,8 +83,8 @@ questions:
   authority: ["FRCP 55(a)", "FRCP 55(b)(1)-(2)"]
   source: original
   tags: [wave2, w2a, default-judgment]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CIV-0095
   subject: CIV
@@ -127,8 +127,8 @@ questions:
   authority: ["McDonough Power Equipment, Inc. v. Greenwood, 464 U.S. 548 (1984)", "Warger v. Shauers, 574 U.S. 40 (2014)", "FRE 606(b)", "FRCP 59(a)"]
   source: original
   tags: [wave2, w2a, verdict-challenges, juror-nondisclosure]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CIV-0096
   subject: CIV
@@ -174,5 +174,5 @@ questions:
   authority: ["Blonder-Tongue Laboratories, Inc. v. University of Illinois Foundation, 402 U.S. 313 (1971)", "Parklane Hosiery Co. v. Shore, 439 U.S. 322 (1979)", "Restatement (Second) of Judgments §§ 27, 29"]
   source: original
   tags: [wave2, w2a, issue-preclusion, nonmutual]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"

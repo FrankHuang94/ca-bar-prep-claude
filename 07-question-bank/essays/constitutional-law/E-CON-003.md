@@ -20,8 +20,8 @@ issues:
   - {issue: "Section 4(b): helmet condition on all highway funds; relatedness; coercion (Dole vs. NFIB)", points: 18, call: 3, major: true, rule_ids: [R-CON-024, R-CON-045], coverage_ids: [CON-MBE-II.A.1, CON-MBE-III.A.2]}
 time_minutes: 60
 source: original
-status: draft
-last_verified: 2026-11-04
+status: verified
+last_verified: 2026-11-05
 tags: [wave2, W2-E4, commerce-clause, anti-commandeering, tenth-amendment, spending-power, standing]
 ---
 

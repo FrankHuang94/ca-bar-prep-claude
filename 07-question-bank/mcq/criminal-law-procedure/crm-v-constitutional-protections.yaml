@@ -40,8 +40,8 @@ questions:
   authority: ["U.S. Const. amend. IV", "Rakas v. Illinois, 439 U.S. 128 (1978)", "Rawlings v. Kentucky, 448 U.S. 98 (1980)", "Brendlin v. California, 551 U.S. 249 (2007)", "Knowles v. Iowa, 525 U.S. 113 (1998)"]
   source: original
   tags: [wave1, fourth-amendment, standing]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CRM-0028
   subject: CRM
@@ -81,8 +81,8 @@ questions:
   authority: ["U.S. Const. amend. IV", "Arizona v. Gant, 556 U.S. 332 (2009)", "Carroll v. United States, 267 U.S. 132 (1925)", "Horton v. California, 496 U.S. 128 (1990)"]
   source: original
   tags: [wave1, fourth-amendment, search-incident-to-arrest, automobile-exception]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CRM-0029
   subject: CRM
@@ -121,8 +121,8 @@ questions:
   authority: ["U.S. Const. amend. IV", "Terry v. Ohio, 392 U.S. 1 (1968)", "Florida v. J.L., 529 U.S. 266 (2000)", "Alabama v. White, 496 U.S. 325 (1990)"]
   source: original
   tags: [wave1, fourth-amendment, terry-stop, anonymous-tip]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CRM-0030
   subject: CRM
@@ -159,8 +159,8 @@ questions:
   authority: ["U.S. Const. amend. V", "Miranda v. Arizona, 384 U.S. 436 (1966)", "Berkemer v. McCarty, 468 U.S. 420 (1984)"]
   source: original
   tags: [wave1, miranda, custody]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CRM-0031
   subject: CRM
@@ -199,8 +199,8 @@ questions:
   authority: ["U.S. Const. amend. V", "Edwards v. Arizona, 451 U.S. 477 (1981)", "Arizona v. Roberson, 486 U.S. 675 (1988)", "Maryland v. Shatzer, 559 U.S. 98 (2010)"]
   source: original
   tags: [wave1, miranda, edwards, invocation]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CRM-0032
   subject: CRM
@@ -238,8 +238,8 @@ questions:
   authority: ["U.S. Const. amend. V", "Harris v. New York, 401 U.S. 222 (1971)", "Mincey v. Arizona, 437 U.S. 385 (1978)"]
   source: original
   tags: [wave1, miranda, impeachment]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CRM-0033
   subject: CRM
@@ -279,8 +279,8 @@ questions:
   authority: ["U.S. Const. amend. VI", "United States v. Wade, 388 U.S. 218 (1967)", "Gilbert v. California, 388 U.S. 263 (1967)", "Kirby v. Illinois, 406 U.S. 682 (1972) (plurality opinion)", "United States v. Ash, 413 U.S. 300 (1973)"]
   source: original
   tags: [wave1, identification, right-to-counsel, lineup]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CRM-0034
   subject: CRM
@@ -322,8 +322,8 @@ questions:
   authority: ["U.S. Const. amend. XIV", "Neil v. Biggers, 409 U.S. 188 (1972)", "Manson v. Brathwaite, 432 U.S. 98 (1977)", "Kirby v. Illinois, 406 U.S. 682 (1972) (plurality opinion)", "Stovall v. Denno, 388 U.S. 293 (1967)"]
   source: original
   tags: [wave1, identification, due-process, show-up]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CRM-0035
   subject: CRM
@@ -362,8 +362,8 @@ questions:
   authority: ["U.S. Const. amend. VI", "Massiah v. United States, 377 U.S. 201 (1964)", "United States v. Henry, 447 U.S. 264 (1980)", "Illinois v. Perkins, 496 U.S. 292 (1990)"]
   source: original
   tags: [wave1, sixth-amendment, deliberate-elicitation, informant]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CRM-0036
   subject: CRM
@@ -402,8 +402,8 @@ questions:
   authority: ["U.S. Const. amends. V, VI", "McNeil v. Wisconsin, 501 U.S. 171 (1991)", "Texas v. Cobb, 532 U.S. 162 (2001)", "Montejo v. Louisiana, 556 U.S. 778 (2009)"]
   source: original
   tags: [wave1, sixth-amendment, offense-specific, miranda-waiver]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CRM-0037
   subject: CRM
@@ -440,8 +440,8 @@ questions:
   authority: ["U.S. Const. amend. VI", "Gideon v. Wainwright, 372 U.S. 335 (1963)", "Argersinger v. Hamlin, 407 U.S. 25 (1972)", "Scott v. Illinois, 440 U.S. 367 (1979)", "Alabama v. Shelton, 535 U.S. 654 (2002)"]
   source: original
   tags: [wave1, right-to-counsel, misdemeanors]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CRM-0038
   subject: CRM
@@ -481,8 +481,8 @@ questions:
   authority: ["U.S. Const. amend. VI", "Baldwin v. New York, 399 U.S. 66 (1970) (plurality opinion)", "Blanton v. City of North Las Vegas, 489 U.S. 538 (1989)", "Lewis v. United States, 518 U.S. 322 (1996)"]
   source: original
   tags: [wave1, jury-trial, petty-offenses]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CRM-0039
   subject: CRM
@@ -522,8 +522,8 @@ questions:
   authority: ["U.S. Const. amend. VI", "Crawford v. Washington, 541 U.S. 36 (2004)", "Davis v. Washington, 547 U.S. 813 (2006)"]
   source: original
   tags: [wave1, confrontation-clause, testimonial-hearsay]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CRM-0040
   subject: CRM
@@ -562,8 +562,8 @@ questions:
   authority: ["Santobello v. New York, 404 U.S. 257 (1971)", "Fed. R. Crim. P. 11"]
   source: original
   tags: [wave1, guilty-pleas, plea-bargaining]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CRM-0041
   subject: CRM
@@ -600,8 +600,8 @@ questions:
   authority: ["U.S. Const. amend. V", "Blockburger v. United States, 284 U.S. 299 (1932)", "Brown v. Ohio, 432 U.S. 161 (1977)"]
   source: original
   tags: [wave1, double-jeopardy, lesser-included-offense]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CRM-0042
   subject: CRM
@@ -639,8 +639,8 @@ questions:
   authority: ["U.S. Const. amend. V", "Oregon v. Kennedy, 456 U.S. 667 (1982)", "Crist v. Bretz, 437 U.S. 28 (1978)"]
   source: original
   tags: [wave1, double-jeopardy, mistrial]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CRM-0043
   subject: CRM
@@ -677,8 +677,8 @@ questions:
   authority: ["U.S. Const. amend. V", "Waller v. Florida, 397 U.S. 387 (1970)", "Gamble v. United States, 587 U.S. 678 (2019)"]
   source: original
   tags: [wave1, double-jeopardy, dual-sovereignty]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CRM-0044
   subject: CRM
@@ -720,8 +720,8 @@ questions:
   authority: ["U.S. Const. amend. VIII", "Robinson v. California, 370 U.S. 660 (1962)", "Powell v. Texas, 392 U.S. 514 (1968) (plurality opinion)", "City of Grants Pass v. Johnson (2024)"]
   source: original
   tags: [wave1, eighth-amendment, status-crimes]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CRM-0045
   subject: CRM
@@ -760,8 +760,8 @@ questions:
   authority: ["U.S. Const. amend. VIII", "Enmund v. Florida, 458 U.S. 782 (1982)", "Tison v. Arizona, 481 U.S. 137 (1987)"]
   source: original
   tags: [wave1, eighth-amendment, death-penalty, felony-murder]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CRM-0046
   subject: CRM
@@ -799,8 +799,8 @@ questions:
   authority: ["U.S. Const. amend. XIV", "In re Winship, 397 U.S. 358 (1970)", "Sandstrom v. Montana, 442 U.S. 510 (1979)", "County Court of Ulster County v. Allen, 442 U.S. 140 (1979)"]
   source: original
   tags: [wave1, burden-of-proof, presumptions]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CRM-0047
   subject: CRM
@@ -841,8 +841,8 @@ questions:
   authority: ["U.S. Const. amend. XIV", "Patterson v. New York, 432 U.S. 197 (1977)", "Mullaney v. Wilbur, 421 U.S. 684 (1975)", "Martin v. Ohio, 480 U.S. 228 (1987)"]
   source: original
   tags: [wave1, burden-of-proof, affirmative-defenses]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CRM-0048
   subject: CRM
@@ -881,8 +881,8 @@ questions:
   authority: ["U.S. Const. amend. VI", "Apprendi v. New Jersey, 530 U.S. 466 (2000)", "Blakely v. Washington, 542 U.S. 296 (2004)", "United States v. Booker, 543 U.S. 220 (2005)"]
   source: original
   tags: [wave1, apprendi, sentencing]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CRM-0049
   subject: CRM
@@ -920,8 +920,8 @@ questions:
   authority: ["U.S. Const. amend. VI", "United States v. Gonzalez-Lopez, 548 U.S. 140 (2006)", "Chapman v. California, 386 U.S. 18 (1967)", "Strickland v. Washington, 466 U.S. 668 (1984)"]
   source: original
   tags: [wave1, appeal-and-error, structural-error, counsel-of-choice]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CRM-0050
   subject: CRM
@@ -959,5 +959,5 @@ questions:
   authority: ["U.S. Const. amend. XIV", "Arizona v. Fulminante, 499 U.S. 279 (1991)", "Chapman v. California, 386 U.S. 18 (1967)"]
   source: original
   tags: [wave1, appeal-and-error, harmless-error]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"

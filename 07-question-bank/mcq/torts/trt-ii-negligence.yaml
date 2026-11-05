@@ -41,8 +41,8 @@ questions:
   authority: ["Restatement (Second) of Torts § 322"]
   source: original
   tags: [wave1, M3, negligence, duty, affirmative-duty]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-TRT-0002
   subject: TRT
@@ -81,8 +81,8 @@ questions:
   authority: ["Palsgraf v. Long Island R.R. Co., 248 N.Y. 339 (1928)"]
   source: original
   tags: [wave1, M3, negligence, duty, unforeseeable-plaintiff]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-TRT-0003
   subject: TRT
@@ -121,8 +121,8 @@ questions:
   authority: ["Restatement (Second) of Torts § 319"]
   source: original
   tags: [wave1, M3, negligence, duty, third-persons]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-TRT-0004
   subject: TRT
@@ -158,8 +158,8 @@ questions:
   authority: ["Restatement (Second) of Torts § 283A", "Restatement (Third) of Torts: Liability for Physical and Emotional Harm § 10"]
   source: original
   tags: [wave1, M3, negligence, standard-of-care, children]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-TRT-0005
   subject: TRT
@@ -198,8 +198,8 @@ questions:
   authority: ["Restatement (Third) of Torts: Liability for Physical and Emotional Harm § 11", "Restatement (Second) of Torts § 288A"]
   source: original
   tags: [wave1, M3, negligence, standard-of-care, incapacity]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-TRT-0006
   subject: TRT
@@ -238,8 +238,8 @@ questions:
   authority: ["Canterbury v. Spence, 464 F.2d 772 (D.C. Cir. 1972)", "Restatement (Second) of Torts § 13"]
   source: original
   tags: [wave1, M3, negligence, professionals, informed-consent]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-TRT-0007
   subject: TRT
@@ -280,8 +280,8 @@ questions:
   authority: ["Restatement (Third) of Torts: Liability for Physical and Emotional Harm § 14", "Restatement (Second) of Torts § 286"]
   source: original
   tags: [wave1, M3, negligence, negligence-per-se]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-TRT-0008
   subject: TRT
@@ -319,8 +319,8 @@ questions:
   authority: ["Restatement (Second) of Torts § 288A", "Tedla v. Ellman, 280 N.Y. 124 (1939)"]
   source: original
   tags: [wave1, M3, negligence, negligence-per-se, excuse]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-TRT-0009
   subject: TRT
@@ -358,8 +358,8 @@ questions:
   authority: ["Byrne v. Boadle, 159 Eng. Rep. 299 (Ex. 1863)", "Restatement (Second) of Torts § 328D"]
   source: original
   tags: [wave1, M3, negligence, res-ipsa]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-TRT-0010
   subject: TRT
@@ -397,8 +397,8 @@ questions:
   authority: ["Restatement (Second) of Torts § 343"]
   source: original
   tags: [wave1, M3, negligence, proof-of-breach, notice]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-TRT-0011
   subject: TRT
@@ -436,8 +436,8 @@ questions:
   authority: ["Restatement (Third) of Torts: Liability for Physical and Emotional Harm § 26"]
   source: original
   tags: [wave1, M3, negligence, causation, but-for]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-TRT-0012
   subject: TRT
@@ -475,8 +475,8 @@ questions:
   authority: ["Summers v. Tice (1948) 33 Cal.2d 80", "Restatement (Second) of Torts § 433B(3)"]
   source: original
   tags: [wave1, M3, negligence, causation, alternative-liability]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-TRT-0013
   subject: TRT
@@ -516,8 +516,8 @@ questions:
   authority: ["Restatement (Second) of Torts § 875", "NCBE MBE Torts outline default: joint and several liability with pure comparative negligence"]
   source: original
   tags: [wave1, M3, negligence, apportionment, joint-and-several]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-TRT-0014
   subject: TRT
@@ -555,8 +555,8 @@ questions:
   authority: ["Restatement (Second) of Torts § 457", "Restatement (Third) of Torts: Liability for Physical and Emotional Harm § 34"]
   source: original
   tags: [wave1, M3, negligence, proximate-cause, intervening-cause]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-TRT-0015
   subject: TRT
@@ -597,8 +597,8 @@ questions:
   authority: ["Restatement (Third) of Torts: Liability for Physical and Emotional Harm § 29"]
   source: original
   tags: [wave1, M3, negligence, proximate-cause, scope-of-risk]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-TRT-0016
   subject: TRT
@@ -635,8 +635,8 @@ questions:
   authority: ["Wagner v. International Ry. Co., 232 N.Y. 176 (1921)"]
   source: original
   tags: [wave1, M3, negligence, rescue-doctrine]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-TRT-0017
   subject: TRT
@@ -675,8 +675,8 @@ questions:
   authority: ["Restatement (Second) of Torts § 342"]
   source: original
   tags: [wave1, M3, negligence, premises-liability, licensee]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-TRT-0018
   subject: TRT
@@ -715,8 +715,8 @@ questions:
   authority: ["Restatement (Second) of Torts § 339"]
   source: original
   tags: [wave1, M3, negligence, premises-liability, attractive-nuisance]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-TRT-0019
   subject: TRT
@@ -755,8 +755,8 @@ questions:
   authority: ["Restatement (Third) of Torts: Liability for Physical and Emotional Harm § 48", "Thing v. La Chusa (1989) 48 Cal.3d 644"]
   source: original
   tags: [wave1, M3, negligence, nied, bystander]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-TRT-0020
   subject: TRT
@@ -795,8 +795,8 @@ questions:
   authority: ["Robins Dry Dock & Repair Co. v. Flint, 275 U.S. 303 (1927)", "Southern California Gas Leak Cases (2019) 7 Cal.5th 391"]
   source: original
   tags: [wave1, M3, negligence, economic-loss]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-TRT-0021
   subject: TRT
@@ -836,8 +836,8 @@ questions:
   authority: ["Restatement (Third) of Agency § 7.07"]
   source: original
   tags: [wave1, M3, negligence, vicarious-liability, frolic]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-TRT-0022
   subject: TRT
@@ -876,8 +876,8 @@ questions:
   authority: ["Restatement (Second) of Torts § 409"]
   source: original
   tags: [wave1, M3, negligence, vicarious-liability, nondelegable-duty]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-TRT-0023
   subject: TRT
@@ -913,8 +913,8 @@ questions:
   authority: ["NCBE MBE Torts outline default: pure comparative negligence", "Li v. Yellow Cab Co. (1975) 13 Cal.3d 804"]
   source: original
   tags: [wave1, M3, negligence, defenses, comparative-fault]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-TRT-0024
   subject: TRT
@@ -954,8 +954,8 @@ questions:
   authority: ["Restatement (Second) of Torts § 496B"]
   source: original
   tags: [wave1, M3, negligence, defenses, express-assumption]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-TRT-0025
   subject: TRT
@@ -995,5 +995,5 @@ questions:
   authority: ["Restatement (Second) of Torts § 496D"]
   source: original
   tags: [wave1, M3, negligence, defenses, implied-assumption]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"

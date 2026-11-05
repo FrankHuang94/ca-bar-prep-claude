@@ -19,8 +19,8 @@ issues:
   - {issue: "Statement 4 (burglary admission): Edwards/Roberson after invocation of counsel; no Shatzer break; Sixth Amendment offense-specific", points: 16, call: 2, major: true, rule_ids: [R-CRM-098, R-CRM-102], coverage_ids: [CRM-MBE-V.B, CRM-MBE-V.D]}
 time_minutes: 60
 source: original
-status: draft
-last_verified: 2026-11-04
+status: verified
+last_verified: 2026-11-05
 tags: [wave2, W2-E4, identification, show-up, lineup, miranda, public-safety, seibert, edwards]
 ---
 

@@ -45,8 +45,8 @@ questions:
   authority: ["U.S. Const. amend. I", "Hudgens v. NLRB, 424 U.S. 507 (1976)", "Lloyd Corp. v. Tanner, 407 U.S. 551 (1972)", "Marsh v. Alabama, 326 U.S. 501 (1946)", "PruneYard Shopping Center v. Robins, 447 U.S. 74 (1980)"]
   source: original
   tags: [wave2, w2b, state-action, public-function]
-  status: draft
-  last_verified: 2026-11-05
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CON-0127
   subject: CON
@@ -89,8 +89,8 @@ questions:
   authority: ["U.S. Const. amend. XIV, § 1", "Pierce v. Society of Sisters, 268 U.S. 510 (1925)", "Meyer v. Nebraska, 262 U.S. 390 (1923)", "Washington v. Glucksberg, 521 U.S. 702 (1997)", "San Antonio Indep. School Dist. v. Rodriguez, 411 U.S. 1 (1973)"]
   source: original
   tags: [wave2, w2b, substantive-due-process, parental-rights]
-  status: draft
-  last_verified: 2026-11-05
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CON-0128
   subject: CON
@@ -137,8 +137,8 @@ questions:
   authority: ["U.S. Const. amend. XIV, § 1", "Griswold v. Connecticut, 381 U.S. 479 (1965)", "Eisenstadt v. Baird, 405 U.S. 438 (1972)", "Carey v. Population Servs. Int'l, 431 U.S. 678 (1977)", "Dobbs v. Jackson Women's Health Org., 597 U.S. 215 (2022)", "Washington v. Glucksberg, 521 U.S. 702 (1997)"]
   source: original
   tags: [wave2, w2b, substantive-due-process, contraception]
-  status: draft
-  last_verified: 2026-11-05
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CON-0129
   subject: CON
@@ -183,8 +183,8 @@ questions:
   authority: ["U.S. Const. amend. XIV, § 1", "County of Sacramento v. Lewis, 523 U.S. 833 (1998)", "42 U.S.C. § 1983"]
   source: original
   tags: [wave2, w2b, substantive-due-process, shocks-the-conscience]
-  status: draft
-  last_verified: 2026-11-05
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CON-0130
   subject: CON
@@ -232,8 +232,8 @@ questions:
   authority: ["U.S. Const. amend. XIV, § 1", "Mathews v. Eldridge, 424 U.S. 319 (1976)", "Goldberg v. Kelly, 397 U.S. 254 (1970)", "Board of Regents v. Roth, 408 U.S. 564 (1972)"]
   source: original
   tags: [wave2, w2b, procedural-due-process, mathews-balancing]
-  status: draft
-  last_verified: 2026-11-05
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CON-0131
   subject: CON
@@ -278,8 +278,8 @@ questions:
   authority: ["U.S. Const. amend. XIV, § 1", "Salyer Land Co. v. Tulare Lake Basin Water Storage Dist., 410 U.S. 719 (1973)", "Ball v. James, 451 U.S. 355 (1981)", "Kramer v. Union Free School Dist. No. 15, 395 U.S. 621 (1969)", "Avery v. Midland County, 390 U.S. 474 (1968)"]
   source: original
   tags: [wave2, w2b, equal-protection, voting, special-purpose-district]
-  status: draft
-  last_verified: 2026-11-05
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CON-0132
   subject: CON
@@ -321,8 +321,8 @@ questions:
   authority: ["U.S. Const. amend. XIV, § 1", "M.L.B. v. S.L.J., 519 U.S. 102 (1996)", "Griffin v. Illinois, 351 U.S. 12 (1956)", "United States v. Kras, 409 U.S. 434 (1973)"]
   source: original
   tags: [wave2, w2b, equal-protection, access-to-courts]
-  status: draft
-  last_verified: 2026-11-05
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CON-0133
   subject: CON
@@ -364,8 +364,8 @@ questions:
   authority: ["U.S. Const. amend. XIV, § 1", "Graham v. Richardson, 403 U.S. 365 (1971)", "In re Griffiths, 413 U.S. 717 (1973)", "Bernal v. Fainter, 467 U.S. 216 (1984)", "Mathews v. Diaz, 426 U.S. 67 (1976)"]
   source: original
   tags: [wave2, w2b, equal-protection, alienage]
-  status: draft
-  last_verified: 2026-11-05
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CON-0134
   subject: CON
@@ -407,8 +407,8 @@ questions:
   authority: ["U.S. Const. amend. XIV, § 1", "Clark v. Jeter, 486 U.S. 456 (1988)", "Trimble v. Gordon, 430 U.S. 762 (1977)"]
   source: original
   tags: [wave2, w2b, equal-protection, nonmarital-children]
-  status: draft
-  last_verified: 2026-11-05
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CON-0135
   subject: CON
@@ -452,8 +452,8 @@ questions:
   authority: ["U.S. Const. amend. XIV, § 1", "City of Cleburne v. Cleburne Living Center, 473 U.S. 432 (1985)", "U.S. Dep't of Agric. v. Moreno, 413 U.S. 528 (1973)"]
   source: original
   tags: [wave2, w2b, equal-protection, rational-basis, animus]
-  status: draft
-  last_verified: 2026-11-05
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CON-0136
   subject: CON
@@ -497,8 +497,8 @@ questions:
   authority: ["U.S. Const. amend. V", "Kelo v. City of New London, 545 U.S. 469 (2005)", "Hawaii Housing Auth. v. Midkiff, 467 U.S. 229 (1984)", "Berman v. Parker, 348 U.S. 26 (1954)"]
   source: original
   tags: [wave2, w2b, takings, public-use]
-  status: draft
-  last_verified: 2026-11-05
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CON-0137
   subject: CON
@@ -546,8 +546,8 @@ questions:
   authority: ["U.S. Const. art. I, § 10, cl. 1", "Sveen v. Melin, 584 U.S. 811 (2018)", "Energy Reserves Group, Inc. v. Kansas Power & Light Co., 459 U.S. 400 (1983)"]
   source: original
   tags: [wave2, w2b, contracts-clause, revocation-on-divorce]
-  status: draft
-  last_verified: 2026-11-05
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CON-0138
   subject: CON
@@ -590,8 +590,8 @@ questions:
   authority: ["U.S. Const. art. IV, § 2, cl. 1", "Baldwin v. Fish & Game Comm'n of Mont., 436 U.S. 371 (1978)", "Toomer v. Witsell, 334 U.S. 385 (1948)", "Hughes v. Oklahoma, 441 U.S. 322 (1979)"]
   source: original
   tags: [wave2, w2b, privileges-and-immunities, article-iv]
-  status: draft
-  last_verified: 2026-11-05
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CON-0139
   subject: CON
@@ -635,5 +635,5 @@ questions:
   authority: ["U.S. Const. art. I, § 10, cl. 1", "Smith v. Doe, 538 U.S. 84 (2003)", "Calder v. Bull, 3 U.S. (3 Dall.) 386 (1798)"]
   source: original
   tags: [wave2, w2b, ex-post-facto, sex-offender-registration]
-  status: draft
-  last_verified: 2026-11-05
+  status: verified
+  last_verified: "2026-11-05"

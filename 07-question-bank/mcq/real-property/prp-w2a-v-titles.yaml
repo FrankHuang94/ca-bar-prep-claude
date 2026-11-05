@@ -41,8 +41,8 @@ questions:
   authority: ["Restatement (Second) of Contracts § 155", "Common law: reformation of deeds for mutual mistake; merger exception for mistake"]
   source: original
   tags: [wave2, W2-PRP, deeds, reformation, closing-documents]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-PRP-0092
   subject: PRP
@@ -82,8 +82,8 @@ questions:
   authority: ["Common law: a cotenant conveys only her own share", "Common law: tenancy in common"]
   source: original
   tags: [wave2, W2-PRP, deeds, authority-to-convey, cotenancy]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-PRP-0093
   subject: PRP
@@ -124,8 +124,8 @@ questions:
   authority: ["Anti-lapse statute quoted in the stem", "Common law: lapse of devises"]
   source: original
   tags: [wave2, W2-PRP, transfer-by-will, lapse]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-PRP-0094
   subject: PRP
@@ -171,8 +171,8 @@ questions:
   authority: ["Statute of limitations quoted in the stem", "Common law: tacking and disabilities in adverse possession"]
   source: original
   tags: [wave2, W2-PRP, adverse-possession, tacking, disabilities]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-PRP-0095
   subject: PRP
@@ -216,8 +216,8 @@ questions:
   authority: ["Common law: delivery of deeds; death escrows", "Recording act quoted in the stem"]
   source: original
   tags: [wave2, W2-PRP, deeds, delivery, escrow]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-PRP-0096
   subject: PRP
@@ -260,8 +260,8 @@ questions:
   authority: ["Common law: covenants of title in a general warranty deed; running of future covenants; measure of damages"]
   source: original
   tags: [wave2, W2-PRP, deeds, covenants-of-title]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-PRP-0097
   subject: PRP
@@ -307,8 +307,8 @@ questions:
   authority: ["Recording act quoted in the stem", "Common law: record and inquiry notice from references in recorded instruments"]
   source: original
   tags: [wave2, W2-PRP, recording-acts, inquiry-notice]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-PRP-0098
   subject: PRP
@@ -350,8 +350,8 @@ questions:
   authority: ["Title insurance policy terms (governmental-regulation exclusion)"]
   source: original
   tags: [wave2, W2-PRP, title-insurance]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-PRP-0099
   subject: PRP
@@ -393,8 +393,8 @@ questions:
   authority: ["Common law and lis pendens statutes: constructive notice of pending litigation affecting title", "Recording act quoted in the stem"]
   source: original
   tags: [wave2, W2-PRP, lis-pendens, notice]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-PRP-0100
   subject: PRP
@@ -438,5 +438,5 @@ questions:
   authority: ["Common law: adverse possession under color of title (constructive possession)"]
   source: original
   tags: [wave2, W2-PRP, adverse-possession, color-of-title]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"

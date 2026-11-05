@@ -4,8 +4,8 @@ topic: The 60-minute California essay method (reading, issue-spotting, outlining
 coverage_ids: []
 tested_on: [essay]
 exam_frequency: {level: high, basis: "Applies to every essay"}
-last_verified: 2026-11-04
-status: draft
+last_verified: 2026-11-05
+status: reviewed
 ---
 
 # The 60-minute essay method

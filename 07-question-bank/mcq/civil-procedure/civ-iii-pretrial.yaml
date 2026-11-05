@@ -41,8 +41,8 @@ questions:
   authority: ["FRCP 65(b)(1)-(2)", "FRCP 65(c)"]
   source: original
   tags: [wave1, M1, tro, injunctions]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CIV-0021
   subject: CIV
@@ -82,8 +82,8 @@ questions:
   authority: ["FRCP 15(a)(1)-(2)"]
   source: original
   tags: [wave1, M1, pleadings, amendment]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CIV-0022
   subject: CIV
@@ -130,8 +130,8 @@ questions:
   authority: ["FRCP 15(c)(1)(B)-(C)", "Krupski v. Costa Crociere S.p.A., 560 U.S. 538 (2010)"]
   source: original
   tags: [wave1, M1, pleadings, relation-back]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CIV-0023
   subject: CIV
@@ -173,8 +173,8 @@ questions:
   authority: ["FRCP 8(b)(6)", "FRCP 15(a)(2)"]
   source: original
   tags: [wave1, M1, pleadings, answer]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CIV-0024
   subject: CIV
@@ -214,8 +214,8 @@ questions:
   authority: ["FRCP 11(c)(2)", "FRCP 11(c)(5)(A)"]
   source: original
   tags: [wave1, M1, rule-11, sanctions]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CIV-0025
   subject: CIV
@@ -256,8 +256,8 @@ questions:
   authority: ["FRCP 13(a)"]
   source: original
   tags: [wave1, M1, joinder, compulsory-counterclaim]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CIV-0026
   subject: CIV
@@ -299,8 +299,8 @@ questions:
   authority: ["FRCP 14(a)(1)"]
   source: original
   tags: [wave1, M1, joinder, impleader]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CIV-0027
   subject: CIV
@@ -342,8 +342,8 @@ questions:
   authority: ["28 U.S.C. § 1335", "28 U.S.C. § 2361", "State Farm Fire & Casualty Co. v. Tashire, 386 U.S. 523 (1967)"]
   source: original
   tags: [wave1, M1, joinder, interpleader]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CIV-0028
   subject: CIV
@@ -386,8 +386,8 @@ questions:
   authority: ["FRCP 26(b)(3)(A)-(B)", "Hickman v. Taylor, 329 U.S. 495 (1947)"]
   source: original
   tags: [wave1, M1, discovery, work-product]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CIV-0029
   subject: CIV
@@ -431,8 +431,8 @@ questions:
   authority: ["FRCP 35(a)", "Schlagenhauf v. Holder, 379 U.S. 104 (1964)"]
   source: original
   tags: [wave1, M1, discovery, rule-35]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CIV-0030
   subject: CIV
@@ -475,8 +475,8 @@ questions:
   authority: ["FRCP 37(e)(1)-(2)"]
   source: original
   tags: [wave1, M1, discovery, esi, spoliation]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CIV-0031
   subject: CIV
@@ -517,5 +517,5 @@ questions:
   authority: ["FRCP 41(a)(1)(A)(i)", "FRCP 41(a)(1)(B)"]
   source: original
   tags: [wave1, M1, voluntary-dismissal, two-dismissal-rule]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"

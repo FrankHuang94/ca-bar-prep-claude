@@ -4,8 +4,8 @@ topic: Criminal Law and Procedure — comprehensive outline (NCBE numbering)
 coverage_ids: [CRM-MBE-I, CRM-MBE-I.A, CRM-MBE-I.A.1, CRM-MBE-I.A.2, CRM-MBE-I.B, CRM-MBE-I.B.1, CRM-MBE-I.B.2, CRM-MBE-I.B.3, CRM-MBE-I.B.4, CRM-MBE-II, CRM-MBE-II.A, CRM-MBE-II.B, CRM-MBE-II.C, CRM-MBE-II.D, CRM-MBE-II.E, CRM-MBE-II.F, CRM-MBE-II.G, CRM-MBE-II.H, CRM-MBE-III, CRM-MBE-III.A, CRM-MBE-III.A.1, CRM-MBE-III.A.2, CRM-MBE-III.A.3, CRM-MBE-III.B, CRM-MBE-IV, CRM-MBE-IV.A, CRM-MBE-IV.B, CRM-MBE-IV.B.1, CRM-MBE-IV.B.2, CRM-MBE-IV.B.3, CRM-MBE-IV.C, CRM-MBE-IV.C.1, CRM-MBE-IV.C.2, CRM-MBE-IV.D, CRM-MBE-IV.E, CRM-MBE-IV.F, CRM-MBE-V, CRM-MBE-V.A, CRM-MBE-V.B, CRM-MBE-V.C, CRM-MBE-V.D, CRM-MBE-V.E, CRM-MBE-V.F, CRM-MBE-V.G, CRM-MBE-V.H, CRM-MBE-V.I, CRM-CBX-I, CRM-CBX-III, CRM-CBX-V, CRM-CBX-P-I, CRM-CBX-P-II, CRM-SUP-001]
 tested_on: [MBE, essay]
 exam_frequency: {level: high, basis: "Essays: 15 of 31 administrations 2012-02 to 2026-07 (48%); MBE: 25 scored questions every exam"}
-last_verified: 2026-11-04
-status: draft
+last_verified: 2026-11-05
+status: reviewed
 ---
 
 # Criminal Law and Procedure — comprehensive outline

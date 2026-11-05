@@ -4,8 +4,8 @@ topic: Source log
 coverage_ids: []
 tested_on: [none]
 exam_frequency: {level: n/a, basis: "Reference file, not a tested topic"}
-last_verified: 2026-11-04
-status: draft
+last_verified: 2026-11-05
+status: verified
 ---
 
 # Source log

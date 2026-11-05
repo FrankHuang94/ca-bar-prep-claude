@@ -4,8 +4,8 @@ topic: Tracker for licensed practice questions
 coverage_ids: []
 tested_on: [MBE]
 exam_frequency: {level: n/a, basis: "Personal log"}
-last_verified: 2026-11-04
-status: draft
+last_verified: 2026-11-05
+status: verified
 ---
 
 # Official / commercial practice tracker

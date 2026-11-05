@@ -5,7 +5,7 @@ coverage_ids: [PRP-CBX-I, PRP-CBX-II, PRP-CBX-IV, PRP-CBX-V, PRP-CBX-VII-IX, PRP
 tested_on: [MBE, essay]
 exam_frequency: {level: high, basis: "Essays: 13 of 31 administrations 2012-02 to 2026-07 (42%); MBE: 25 scored questions every exam"}
 last_verified: 2026-11-05
-status: draft
+status: reviewed
 ---
 
 # Real Property — California distinctions

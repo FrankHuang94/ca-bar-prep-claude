@@ -4,8 +4,8 @@ topic: Cumulative practice targets, benchmarks and go/adjust criteria
 coverage_ids: []
 tested_on: [MBE, essay, PT]
 exam_frequency: {level: n/a, basis: "Planning document"}
-last_verified: 2026-11-04
-status: draft
+last_verified: 2026-11-05
+status: reviewed
 ---
 
 # Practice targets and benchmarks

@@ -4,8 +4,8 @@ topic: Remedies — primer (plain-English big picture)
 coverage_ids: [REM-CBX-I, REM-CBX-II, REM-CBX-III, REM-CBX-IV, REM-CBX-V, REM-CBX-VI]
 tested_on: [essay, PT]
 exam_frequency: {level: high, basis: "Essays: 16 of 31 administrations 2012-02 to 2026-07 (52%)"}
-last_verified: 2026-11-04
-status: draft
+last_verified: 2026-11-05
+status: verified
 ---
 
 # Remedies — primer

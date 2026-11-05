@@ -4,8 +4,8 @@ topic: Torts — decision-tree flowcharts (Mermaid)
 coverage_ids: [TRT-MBE-I.B, TRT-MBE-II, TRT-MBE-II.A, TRT-MBE-II.D.3, TRT-MBE-II.E.2, TRT-MBE-II.E.3, TRT-MBE-II.F, TRT-MBE-II.G.2, TRT-MBE-III, TRT-MBE-IV.B]
 tested_on: [MBE, essay]
 exam_frequency: {level: high, basis: "Essays: 12 of 31 administrations 2012-02 to 2026-07 (39%); MBE: 25 scored questions every exam"}
-last_verified: 2026-11-04
-status: draft
+last_verified: 2026-11-05
+status: verified
 ---
 
 # Torts — flowcharts

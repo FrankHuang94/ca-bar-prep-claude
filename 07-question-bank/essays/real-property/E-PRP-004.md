@@ -21,8 +21,8 @@ issues:
   - {issue: "Dan's deed of trust: lien vs. title theory severance; survivorship; Fay and Summit Bank", points: 14, call: 3, major: true, rule_ids: [R-PRP-021, R-PRP-022, R-PRP-087], coverage_ids: [PRP-MBE-I.B.1, PRP-MBE-IV.B.2]}
 time_minutes: 60
 source: original
-status: draft
-last_verified: 2026-11-04
+status: verified
+last_verified: 2026-11-05
 tags: [wave2, W2-E5, future-interests, class-gift, rule-against-perpetuities, usrap, waste, defeasible-fee, joint-tenancy, lien-theory]
 ---
 

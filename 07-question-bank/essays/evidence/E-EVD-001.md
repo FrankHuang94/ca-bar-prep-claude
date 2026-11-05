@@ -15,8 +15,8 @@ issues:
   - {issue: "Item 5: Text-message screenshot - authentication, secondary evidence rule (§ 1521), party admission (§ 1220)", points: 17, call: 1, major: true, rule_ids: [R-EVD-048, R-EVD-049, R-EVD-080, R-EVD-088], coverage_ids: [EVD-MBE-II.B, EVD-SUP-009, EVD-MBE-V.A.3]}
 time_minutes: 60
 source: original
-status: draft
-last_verified: 2026-11-04
+status: verified
+last_verified: 2026-11-05
 tags: [wave1, E2, cec, criminal, item-by-item]
 ---
 

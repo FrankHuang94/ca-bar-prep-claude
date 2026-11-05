@@ -24,8 +24,8 @@ issues:
   - {issue: "Restitution after discharge: Crescent's deposit; PyroWorks' reliance costs", points: 8, call: 3, rule_ids: [R-CTR-082, R-CTR-108], coverage_ids: [CTR-MBE-V.G]}
 time_minutes: 60
 source: original
-status: draft
-last_verified: 2026-11-04
+status: verified
+last_verified: 2026-11-05
 tags: [wave2, W2-E5, conditions, waiver, adequate-assurance, repudiation, retraction, impracticability, frustration, impossibility]
 ---
 

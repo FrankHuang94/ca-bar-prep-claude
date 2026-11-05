@@ -4,8 +4,8 @@ topic: The US legal system — federalism, courts, sources of law, precedent, re
 coverage_ids: []
 tested_on: [MBE, essay, PT]
 exam_frequency: {level: n/a, basis: "Foundations reference"}
-last_verified: 2026-11-04
-status: draft
+last_verified: 2026-11-05
+status: reviewed
 ---
 
 # The US legal system: a map for a civil-law reader

@@ -38,8 +38,8 @@ questions:
   authority: ["MPC § 5.01(1)(c), (2)", "People v. Rizzo, 246 N.Y. 334 (1927) (contrast: proximity test)"]
   source: original
   tags: [wave2, attempt, substantial-step]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CRM-0066
   subject: CRM
@@ -80,8 +80,8 @@ questions:
   authority: ["Pinkerton v. United States, 328 U.S. 640 (1946)", "MPC § 2.06 (contrast: rejects Pinkerton)"]
   source: original
   tags: [wave2, conspiracy, pinkerton]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CRM-0067
   subject: CRM
@@ -120,8 +120,8 @@ questions:
   authority: ["United States v. Falcone, 311 U.S. 205 (1940)", "Direct Sales Co. v. United States, 319 U.S. 703 (1943)"]
   source: original
   tags: [wave2, conspiracy, supplier, stake-in-venture]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CRM-0068
   subject: CRM
@@ -159,8 +159,8 @@ questions:
   authority: ["Common law", "MPC § 1.07(1)(b) (contrast: MPC bars conviction of both conspiracy and the object crime)"]
   source: original
   tags: [wave2, solicitation, merger, conspiracy]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CRM-0069
   subject: CRM
@@ -199,8 +199,8 @@ questions:
   authority: ["Common law", "MPC § 2.06(3)", "Standefer v. United States, 447 U.S. 10 (1980)"]
   source: original
   tags: [wave2, accomplice, mere-presence]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CRM-0070
   subject: CRM
@@ -241,5 +241,5 @@ questions:
   authority: ["Common law", "18 U.S.C. § 3"]
   source: original
   tags: [wave2, parties, accessory-after-the-fact]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"

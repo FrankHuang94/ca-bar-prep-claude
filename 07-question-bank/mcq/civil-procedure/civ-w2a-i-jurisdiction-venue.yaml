@@ -42,8 +42,8 @@ questions:
   authority: ["28 U.S.C. § 1332(a)(1)", "Grupo Dataflux v. Atlas Global Group, L.P., 541 U.S. 567 (2004)", "FRCP 12(h)(3)"]
   source: original
   tags: [wave2, w2a, diversity, domicile, time-of-filing]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CIV-0052
   subject: CIV
@@ -87,8 +87,8 @@ questions:
   authority: ["28 U.S.C. § 1332(a)", "Snyder v. Harris, 394 U.S. 332 (1969)", "FRCP 18(a)"]
   source: original
   tags: [wave2, w2a, diversity, amount-in-controversy, aggregation]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CIV-0053
   subject: CIV
@@ -130,8 +130,8 @@ questions:
   authority: ["28 U.S.C. § 1332(a)(1)-(2)", "Newman-Green, Inc. v. Alfonzo-Larrain, 490 U.S. 826 (1989)"]
   source: original
   tags: [wave2, w2a, diversity, domicile, stateless-citizen]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CIV-0054
   subject: CIV
@@ -176,8 +176,8 @@ questions:
   authority: ["28 U.S.C. § 1367(a), (c)(3), (d)", "Carnegie-Mellon Univ. v. Cohill, 484 U.S. 343 (1988)", "United Mine Workers v. Gibbs, 383 U.S. 715 (1966)"]
   source: original
   tags: [wave2, w2a, supplemental-jurisdiction]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CIV-0055
   subject: CIV
@@ -221,8 +221,8 @@ questions:
   authority: ["28 U.S.C. §§ 1331, 1441(a), 1441(b)(2)", "28 U.S.C. § 1446(b)(1), (b)(2)(A)", "28 U.S.C. § 1447(c)"]
   source: original
   tags: [wave2, w2a, removal, forum-defendant-rule]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CIV-0056
   subject: CIV
@@ -268,8 +268,8 @@ questions:
   authority: ["28 U.S.C. § 1446(b)(3)", "28 U.S.C. § 1446(c)(1)", "28 U.S.C. § 1447(c)"]
   source: original
   tags: [wave2, w2a, removal, one-year-limit]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CIV-0057
   subject: CIV
@@ -309,8 +309,8 @@ questions:
   authority: ["Milliken v. Meyer, 311 U.S. 457 (1940)", "Daimler AG v. Bauman, 571 U.S. 117 (2014)", "FRCP 4(k)(1)(A)"]
   source: original
   tags: [wave2, w2a, personal-jurisdiction, general-jurisdiction]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CIV-0058
   subject: CIV
@@ -357,8 +357,8 @@ questions:
   authority: ["Burger King Corp. v. Rudzewicz, 471 U.S. 462 (1985)", "International Shoe Co. v. Washington, 326 U.S. 310 (1945)", "Walden v. Fiore, 571 U.S. 277 (2014)"]
   source: original
   tags: [wave2, w2a, personal-jurisdiction, specific-jurisdiction, contracts]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CIV-0059
   subject: CIV
@@ -401,8 +401,8 @@ questions:
   authority: ["Calder v. Jones, 465 U.S. 783 (1984)", "Walden v. Fiore, 571 U.S. 277 (2014)", "Keeton v. Hustler Magazine, Inc., 465 U.S. 770 (1984)"]
   source: original
   tags: [wave2, w2a, personal-jurisdiction, effects-test]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CIV-0060
   subject: CIV
@@ -446,8 +446,8 @@ questions:
   authority: ["Shaffer v. Heitner, 433 U.S. 186 (1977)", "FRCP 4(n)(2)"]
   source: original
   tags: [wave2, w2a, personal-jurisdiction, quasi-in-rem]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CIV-0061
   subject: CIV
@@ -487,8 +487,8 @@ questions:
   authority: ["FRCP 4(c)(2)-(3)", "FRCP 4(e)(1)-(2)", "FRCP 12(b)(5), 12(h)(1)"]
   source: original
   tags: [wave2, w2a, service-of-process]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CIV-0062
   subject: CIV
@@ -531,8 +531,8 @@ questions:
   authority: ["FRCP 4(m)", "FRCP 4(m) advisory committee's note to 1993 amendment", "FRCP 12(b)(5), 12(h)(1)"]
   source: original
   tags: [wave2, w2a, service-of-process, rule-4m]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CIV-0063
   subject: CIV
@@ -575,8 +575,8 @@ questions:
   authority: ["28 U.S.C. § 1391(b)(1)-(3)", "28 U.S.C. § 1391(c)(1), (c)(3)"]
   source: original
   tags: [wave2, w2a, venue]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CIV-0064
   subject: CIV
@@ -623,8 +623,8 @@ questions:
   authority: ["28 U.S.C. § 1404(a)", "Atlantic Marine Construction Co. v. U.S. District Court, 571 U.S. 49 (2013)"]
   source: original
   tags: [wave2, w2a, venue, transfer, forum-selection-clause]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CIV-0065
   subject: CIV
@@ -668,5 +668,5 @@ questions:
   authority: ["28 U.S.C. § 1404(a)", "Hoffman v. Blaski, 363 U.S. 335 (1960)", "Van Dusen v. Barrack, 376 U.S. 612 (1964)"]
   source: original
   tags: [wave2, w2a, venue, transfer]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"

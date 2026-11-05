@@ -43,8 +43,8 @@ questions:
   authority: ["FRCP 65(d)(2)"]
   source: original
   tags: [wave2, w2b, injunctions, persons-bound, contempt]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CIV-0123
   subject: CIV
@@ -88,8 +88,8 @@ questions:
   authority: ["FRCP 9(b)", "FRCP 8(a)(2)", "FRCP 12(b)(6)"]
   source: original
   tags: [wave2, w2b, pleadings, rule-9b, fraud]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CIV-0124
   subject: CIV
@@ -133,8 +133,8 @@ questions:
   authority: ["FRCP 16(b)(3)(A)", "FRCP 16(b)(4)", "FRCP 15(a)(2)"]
   source: original
   tags: [wave2, w2b, scheduling-order, amendment, good-cause]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CIV-0125
   subject: CIV
@@ -177,8 +177,8 @@ questions:
   authority: ["FRCP 11(b)(2)", "FRCP 11(c)(1)-(3)", "FRCP 11(c)(5)(A)"]
   source: original
   tags: [wave2, w2b, rule-11, sanctions, represented-party]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CIV-0126
   subject: CIV
@@ -223,8 +223,8 @@ questions:
   authority: ["FRCP 19(a)(1)", "FRCP 12(b)(7)", "FRCP 12(h)(2)", "Temple v. Synthes Corp., 498 U.S. 5 (1990)"]
   source: original
   tags: [wave2, w2b, joinder, rule-19, joint-tortfeasors]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CIV-0127
   subject: CIV
@@ -270,8 +270,8 @@ questions:
   authority: ["FRCP 23(c)(2)(B)", "FRCP 23(c)(3)(B)", "Eisen v. Carlisle & Jacquelin, 417 U.S. 156 (1974)", "Oppenheimer Fund, Inc. v. Sanders, 437 U.S. 340 (1978)"]
   source: original
   tags: [wave2, w2b, class-actions, notice, opt-out]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CIV-0128
   subject: CIV
@@ -315,8 +315,8 @@ questions:
   authority: ["FRCP 26(a)(1)(A)(i)", "FRCP 26(e)(1)", "FRCP 37(c)(1)"]
   source: original
   tags: [wave2, w2b, discovery, initial-disclosures, exclusion]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CIV-0129
   subject: CIV
@@ -364,8 +364,8 @@ questions:
   authority: ["FRCP 32(a)(1)-(4)", "FRE 801(d)(2)(D)", "FRE 802"]
   source: original
   tags: [wave2, w2b, discovery, depositions, use-at-trial]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CIV-0130
   subject: CIV
@@ -412,5 +412,5 @@ questions:
   authority: ["FRCP 41(a)(1)(A)-(B)", "FRCP 41(a)(2)"]
   source: original
   tags: [wave2, w2b, voluntary-dismissal, counterclaim]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"

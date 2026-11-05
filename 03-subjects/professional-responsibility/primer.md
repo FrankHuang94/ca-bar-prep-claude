@@ -4,8 +4,8 @@ topic: Professional Responsibility — primer (read first)
 coverage_ids: [PRF-CBX-I, PRF-CBX-III, PRF-SUP-001, PRF-SUP-002, PRF-SUP-003, PRF-SUP-004, PRF-SUP-005]
 tested_on: [essay]
 exam_frequency: {level: high, basis: "Essays: 30 of 31 administrations 2012-02 to 2026-07 (97%)"}
-last_verified: 2026-11-04
-status: draft
+last_verified: 2026-11-05
+status: verified
 ---
 
 # Professional Responsibility — primer

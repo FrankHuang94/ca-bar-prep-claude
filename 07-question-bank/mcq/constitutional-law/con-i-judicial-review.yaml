@@ -44,8 +44,8 @@ questions:
   authority: ["U.S. Const. art. III, § 1", "Plaut v. Spendthrift Farm, Inc., 514 U.S. 211 (1995)", "Sheldon v. Sill, 49 U.S. (8 How.) 441 (1850)"]
   source: original
   tags: [wave1, jurisdiction-stripping, separation-of-powers]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CON-0002
   subject: CON
@@ -88,8 +88,8 @@ questions:
   authority: ["U.S. Const. amend. XI", "Hans v. Louisiana, 134 U.S. 1 (1890)", "Seminole Tribe of Fla. v. Florida, 517 U.S. 44 (1996)", "Garcia v. San Antonio Metro. Transit Auth., 469 U.S. 528 (1985)"]
   source: original
   tags: [wave1, eleventh-amendment, sovereign-immunity]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CON-0003
   subject: CON
@@ -131,8 +131,8 @@ questions:
   authority: ["U.S. Const. amend. XI", "Ex parte Young, 209 U.S. 123 (1908)", "Edelman v. Jordan, 415 U.S. 651 (1974)"]
   source: original
   tags: [wave1, eleventh-amendment, ex-parte-young]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CON-0004
   subject: CON
@@ -170,8 +170,8 @@ questions:
   authority: ["Flast v. Cohen, 392 U.S. 83 (1968)", "Hein v. Freedom From Religion Found., 551 U.S. 587 (2007) (plurality opinion)", "Valley Forge Christian College v. Americans United for Separation of Church & State, 454 U.S. 464 (1982)"]
   source: original
   tags: [wave1, standing, taxpayer-standing]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CON-0005
   subject: CON
@@ -212,8 +212,8 @@ questions:
   authority: ["DeFunis v. Odegaard, 416 U.S. 312 (1974)", "Weinstein v. Bradford, 423 U.S. 147 (1975)", "Sosna v. Iowa, 419 U.S. 393 (1975)"]
   source: original
   tags: [wave1, mootness, justiciability]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CON-0006
   subject: CON
@@ -256,8 +256,8 @@ questions:
   authority: ["Steffel v. Thompson, 415 U.S. 452 (1974)", "Susan B. Anthony List v. Driehaus, 573 U.S. 149 (2014)", "Younger v. Harris, 401 U.S. 37 (1971)"]
   source: original
   tags: [wave1, ripeness, justiciability]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CON-0007
   subject: CON
@@ -301,8 +301,8 @@ questions:
   authority: ["Michigan v. Long, 463 U.S. 1032 (1983)", "28 U.S.C. § 1257"]
   source: original
   tags: [wave1, adequate-independent-state-ground]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CON-0008
   subject: CON
@@ -345,5 +345,5 @@ questions:
   authority: ["U.S. Const. art. I, §§ 2, 5", "Baker v. Carr, 369 U.S. 186 (1962)", "Powell v. McCormack, 395 U.S. 486 (1969)", "Nixon v. United States, 506 U.S. 224 (1993)"]
   source: original
   tags: [wave1, political-question, justiciability]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"

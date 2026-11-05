@@ -23,8 +23,8 @@ issues:
   - {issue: "Carl's and First Bank's remaining claims; result if Carl were senior", points: 6, call: 3, rule_ids: [R-PRP-101, R-PRP-094, R-PRP-116], coverage_ids: [PRP-MBE-IV.F.3, PRP-MBE-IV.C.2]}
 time_minutes: 60
 source: original
-status: draft
-last_verified: 2026-11-04
+status: reviewed
+last_verified: 2026-11-05
 tags: [wave2, W2-E5, mortgages, recording-acts, notice-statute, inquiry-notice, assumption, subject-to, foreclosure, deficiency]
 ---
 

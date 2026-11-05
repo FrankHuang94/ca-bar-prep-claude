@@ -39,8 +39,8 @@ questions:
   authority: ["MPC § 1.03(1)(a)", "Heath v. Alabama, 474 U.S. 82 (1985)", "Gamble v. United States, 587 U.S. 678 (2019)", "Benton v. Maryland, 395 U.S. 784 (1969)"]
   source: original
   tags: [wave2, jurisdiction, dual-sovereignty, double-jeopardy]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CRM-0072
   subject: CRM
@@ -79,8 +79,8 @@ questions:
   authority: ["Sorrells v. United States, 287 U.S. 435 (1932)", "Sherman v. United States, 356 U.S. 369 (1958)", "Jacobson v. United States, 503 U.S. 540 (1992)"]
   source: original
   tags: [wave2, defenses, entrapment, predisposition]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CRM-0073
   subject: CRM
@@ -121,8 +121,8 @@ questions:
   authority: ["Common law", "MPC § 3.04(2)(b)(i)"]
   source: original
   tags: [wave2, defenses, self-defense, initial-aggressor]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CRM-0074
   subject: CRM
@@ -164,8 +164,8 @@ questions:
   authority: ["MPC §§ 2.02(2)(c)–(d), 2.02(3), 2.05"]
   source: original
   tags: [wave2, mens-rea, mpc-default-culpability]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CRM-0075
   subject: CRM
@@ -205,5 +205,5 @@ questions:
   authority: ["MPC §§ 2.04(1), 2.02(7)", "Common law"]
   source: original
   tags: [wave2, mistake-of-fact, receiving-stolen-property]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"

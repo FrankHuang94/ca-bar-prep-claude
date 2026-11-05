@@ -4,8 +4,8 @@ topic: Trusts — exam-day attack outline
 coverage_ids: [TRS-CBX-I, TRS-CBX-I.J, TRS-CBX-II, TRS-CBX-III, TRS-CBX-IV, TRS-CBX-V, TRS-CBX-VI, TRS-CBX-VII, TRS-CBX-VIII, TRS-CBX-IX, TRS-CBX-X, TRS-CBX-XI, TRS-CBX-XII, TRS-SUP-001, TRS-SUP-002, TRS-SUP-003]
 tested_on: [essay]
 exam_frequency: {level: low, basis: "Essays: 7 of 31 administrations 2012-02 to 2026-07 (23%); usually tested with Wills"}
-last_verified: 2026-11-04
-status: draft
+last_verified: 2026-11-05
+status: verified
 ---
 
 # Trusts — attack outline

@@ -18,8 +18,8 @@ issues:
   - {issue: "Distribution summary", points: 5, call: 1, major: false, rule_ids: [R-WIL-065], coverage_ids: [WIL-CBX-interp.x]}
 time_minutes: 60
 source: original
-status: draft
-last_verified: 2026-11-04
+status: verified
+last_verified: 2026-11-05
 tags: [wave1, E3, execution, holographic, DRR, anti-lapse]
 ---
 

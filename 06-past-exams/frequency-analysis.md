@@ -4,8 +4,8 @@ topic: Past-exam frequency analysis (Feb 2012 – Jul 2026)
 coverage_ids: []
 tested_on: [essay, PT]
 exam_frequency: {level: n/a, basis: "Analysis of 166 essays and 42 PTs across 31 administrations"}
-last_verified: 2026-11-04
-status: draft
+last_verified: 2026-11-05
+status: reviewed
 ---
 
 # Past-exam frequency analysis

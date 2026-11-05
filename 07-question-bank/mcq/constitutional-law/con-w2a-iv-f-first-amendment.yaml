@@ -46,8 +46,8 @@ questions:
   authority: ["U.S. Const. amend. I", "Employment Div. v. Smith, 494 U.S. 872 (1990)", "Fulton v. City of Philadelphia, 593 U.S. 522 (2021)", "Tandon v. Newsom, 593 U.S. 61 (2021)"]
   source: original
   tags: [wave2, w2a, free-exercise, general-applicability]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CON-0092
   subject: CON
@@ -89,8 +89,8 @@ questions:
   authority: ["U.S. Const. amend. I", "Zelman v. Simmons-Harris, 536 U.S. 639 (2002)", "Kennedy v. Bremerton School Dist., 597 U.S. 507 (2022)"]
   source: original
   tags: [wave2, w2a, establishment, school-aid]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CON-0093
   subject: CON
@@ -133,8 +133,8 @@ questions:
   authority: ["U.S. Const. amend. I", "Police Dep't of Chicago v. Mosley, 408 U.S. 92 (1972)", "Carey v. Brown, 447 U.S. 455 (1980)", "Reed v. Town of Gilbert, 576 U.S. 155 (2015)"]
   source: original
   tags: [wave2, w2a, free-speech, content-based]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CON-0094
   subject: CON
@@ -174,8 +174,8 @@ questions:
   authority: ["U.S. Const. amend. I", "City of Ladue v. Gilleo, 512 U.S. 43 (1994)", "Ward v. Rock Against Racism, 491 U.S. 781 (1989)"]
   source: original
   tags: [wave2, w2a, free-speech, content-neutral]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CON-0095
   subject: CON
@@ -221,8 +221,8 @@ questions:
   authority: ["U.S. Const. amend. I", "Gertz v. Robert Welch, Inc., 418 U.S. 323 (1974)", "New York Times Co. v. Sullivan, 376 U.S. 254 (1964)", "Dun & Bradstreet, Inc. v. Greenmoss Builders, Inc., 472 U.S. 749 (1985)", "Milkovich v. Lorain Journal Co., 497 U.S. 1 (1990)"]
   source: original
   tags: [wave2, w2a, defamation, unprotected-speech]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CON-0096
   subject: CON
@@ -265,8 +265,8 @@ questions:
   authority: ["U.S. Const. amend. I", "Zauderer v. Office of Disciplinary Counsel, 471 U.S. 626 (1985)", "NIFLA v. Becerra, 585 U.S. 755 (2018)", "Central Hudson Gas & Elec. Corp. v. Public Serv. Comm'n, 447 U.S. 557 (1980)"]
   source: original
   tags: [wave2, w2a, commercial-speech, compelled-disclosure]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CON-0097
   subject: CON
@@ -308,8 +308,8 @@ questions:
   authority: ["U.S. Const. amend. I", "Hazelwood School Dist. v. Kuhlmeier, 484 U.S. 260 (1988)", "Tinker v. Des Moines Indep. Community School Dist., 393 U.S. 503 (1969)"]
   source: original
   tags: [wave2, w2a, student-speech]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CON-0098
   subject: CON
@@ -350,8 +350,8 @@ questions:
   authority: ["U.S. Const. amend. I", "Texas v. Johnson, 491 U.S. 397 (1989)", "United States v. O'Brien, 391 U.S. 367 (1968)", "Spence v. Washington, 418 U.S. 405 (1974)"]
   source: original
   tags: [wave2, w2a, expressive-conduct]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CON-0099
   subject: CON
@@ -392,8 +392,8 @@ questions:
   authority: ["U.S. Const. amend. I", "Walker v. City of Birmingham, 388 U.S. 307 (1967)", "Shuttlesworth v. City of Birmingham, 394 U.S. 147 (1969)"]
   source: original
   tags: [wave2, w2a, prior-restraint, collateral-bar]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CON-0100
   subject: CON
@@ -436,5 +436,5 @@ questions:
   authority: ["U.S. Const. amend. I", "Minneapolis Star & Tribune Co. v. Minn. Comm'r of Revenue, 460 U.S. 575 (1983)", "Arkansas Writers' Project, Inc. v. Ragland, 481 U.S. 221 (1987)", "Leathers v. Medlock, 499 U.S. 439 (1991)"]
   source: original
   tags: [wave2, w2a, freedom-of-press]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"

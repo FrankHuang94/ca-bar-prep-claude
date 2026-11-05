@@ -43,8 +43,8 @@ questions:
   authority: ["Common law: running of the burden of real covenants", "Neponsit Property Owners' Ass'n v. Emigrant Industrial Savings Bank, 278 N.Y. 248, 15 N.E.2d 793 (1938)"]
   source: original
   tags: [wave2, W2b-PRP, real-covenants, affirmative-covenants]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-PRP-0112
   subject: PRP
@@ -85,8 +85,8 @@ questions:
   authority: ["Common law: interpretation of restrictive covenants"]
   source: original
   tags: [wave2, W2b-PRP, servitudes, scope, residential-use]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-PRP-0113
   subject: PRP
@@ -132,8 +132,8 @@ questions:
   authority: ["Common law: running of the benefit of real covenants"]
   source: original
   tags: [wave2, W2b-PRP, real-covenants, benefit-runs, privity]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-PRP-0114
   subject: PRP
@@ -177,8 +177,8 @@ questions:
   authority: ["Common law: termination of servitudes by abandonment and acquiescence"]
   source: original
   tags: [wave2, W2b-PRP, servitudes, termination, abandonment]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-PRP-0115
   subject: PRP
@@ -223,8 +223,8 @@ questions:
   authority: ["Common law: enforcement of recorded declarations in common interest communities"]
   source: original
   tags: [wave2, W2b-PRP, common-interest-communities, condominiums]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-PRP-0116
   subject: PRP
@@ -266,8 +266,8 @@ questions:
   authority: ["Common law: profits a prendre"]
   source: original
   tags: [wave2, W2b-PRP, profits, licenses, easements]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-PRP-0117
   subject: PRP
@@ -305,8 +305,8 @@ questions:
   authority: ["Common law: transfer of appurtenant easements"]
   source: original
   tags: [wave2, W2b-PRP, easements, appurtenant, transfer]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-PRP-0118
   subject: PRP
@@ -353,8 +353,8 @@ questions:
   authority: ["U.S. Const. amend. XIV, § 1 (Equal Protection Clause)", "City of Cleburne v. Cleburne Living Center, 473 U.S. 432 (1985)"]
   source: original
   tags: [wave2, W2b-PRP, zoning, special-use-permit, equal-protection]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-PRP-0119
   subject: PRP
@@ -395,8 +395,8 @@ questions:
   authority: ["Common law: vested rights in land use"]
   source: original
   tags: [wave2, W2b-PRP, zoning, vested-rights]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-PRP-0120
   subject: PRP
@@ -440,5 +440,5 @@ questions:
   authority: ["Common law: termination of easements by merger"]
   source: original
   tags: [wave2, W2b-PRP, easements, termination, merger]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"

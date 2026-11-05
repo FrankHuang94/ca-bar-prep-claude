@@ -23,8 +23,8 @@ issues:
   - {issue: "Net recovery computation", points: 4, call: 3, rule_ids: [R-CTR-102], coverage_ids: [CTR-MBE-V.A]}
 time_minutes: 60
 source: original
-status: draft
-last_verified: 2026-11-04
+status: verified
+last_verified: 2026-11-05
 tags: [wave1, E1, ucc, battle-of-forms, rejection, cure, cover]
 ---
 

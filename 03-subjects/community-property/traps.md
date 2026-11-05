@@ -4,8 +4,8 @@ topic: Community Property — traps, common mistakes and frequently confused rul
 coverage_ids: [CMP-CBX-I.B.x3, CMP-CBX-II.A, CMP-CBX-II.B, CMP-CBX-II.C, CMP-CBX-II.D.3, CMP-CBX-II.E-F, CMP-CBX-III.A, CMP-CBX-V.A, CMP-CBX-VI.B, CMP-CBX-VI.debts, CMP-CBX-VII.x, CMP-SUP-002, CMP-SUP-003]
 tested_on: [essay]
 exam_frequency: {level: high, basis: "Essays: 17 of 31 administrations 2012-02 to 2026-07 (55%)"}
-last_verified: 2026-11-04
-status: draft
+last_verified: 2026-11-05
+status: verified
 ---
 
 # Community Property — traps

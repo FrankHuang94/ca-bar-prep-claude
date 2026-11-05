@@ -44,8 +44,8 @@ questions:
   authority: ["U.S. Const. amend. V", "Rhode Island v. Innis, 446 U.S. 291 (1980)", "Edwards v. Arizona, 451 U.S. 477 (1981)"]
   source: original
   tags: [wave2, miranda, interrogation, functional-equivalent]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CRM-0137
   subject: CRM
@@ -84,8 +84,8 @@ questions:
   authority: ["U.S. Const. amend. V", "Miranda v. Arizona, 384 U.S. 436 (1966)", "Duckworth v. Eagan, 492 U.S. 195 (1989)"]
   source: original
   tags: [wave2, miranda, warnings]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CRM-0138
   subject: CRM
@@ -126,8 +126,8 @@ questions:
   authority: ["U.S. Const. amend. V", "North Carolina v. Butler, 441 U.S. 369 (1979)", "Berghuis v. Thompkins, 560 U.S. 370 (2010)"]
   source: original
   tags: [wave2, miranda, waiver, implied-waiver]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CRM-0139
   subject: CRM
@@ -168,8 +168,8 @@ questions:
   authority: ["U.S. Const. amend. V", "Edwards v. Arizona, 451 U.S. 477 (1981)", "Maryland v. Shatzer, 559 U.S. 98 (2010)", "Arizona v. Roberson, 486 U.S. 675 (1988)"]
   source: original
   tags: [wave2, miranda, edwards, break-in-custody]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CRM-0140
   subject: CRM
@@ -210,8 +210,8 @@ questions:
   authority: ["U.S. Const. amend. V", "Edwards v. Arizona, 451 U.S. 477 (1981)", "Minnick v. Mississippi, 498 U.S. 146 (1990)"]
   source: original
   tags: [wave2, miranda, edwards, counsel-present]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CRM-0141
   subject: CRM
@@ -251,8 +251,8 @@ questions:
   authority: ["U.S. Const. amend. XIV", "Mincey v. Arizona, 437 U.S. 385 (1978)", "Harris v. New York, 401 U.S. 222 (1971)"]
   source: original
   tags: [wave2, confessions, voluntariness, impeachment]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CRM-0142
   subject: CRM
@@ -291,8 +291,8 @@ questions:
   authority: ["U.S. Const. amend. V", "Griffin v. California, 380 U.S. 609 (1965)", "Chapman v. California, 386 U.S. 18 (1967)"]
   source: original
   tags: [wave2, fifth-amendment, privilege, comment-on-silence]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CRM-0143
   subject: CRM
@@ -332,5 +332,5 @@ questions:
   authority: ["U.S. Const. amend. V", "Kastigar v. United States, 406 U.S. 441 (1972)"]
   source: original
   tags: [wave2, fifth-amendment, privilege, immunity]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"

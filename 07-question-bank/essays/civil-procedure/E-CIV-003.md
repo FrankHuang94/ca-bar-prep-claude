@@ -18,8 +18,8 @@ issues:
   - {issue: "Forum non conveniens in favor of Mexico", points: 12, call: 2, major: true, rule_ids: [R-CIV-036], coverage_ids: [CIV-MBE-I.D, CIV-CBX-III-IV]}
 time_minutes: 60
 source: original
-status: draft
-last_verified: 2026-11-04
+status: verified
+last_verified: 2026-11-05
 tags: [wave2, W2-E7, supplemental-jurisdiction, removal, remand, venue, transfer, forum-non-conveniens]
 ---
 

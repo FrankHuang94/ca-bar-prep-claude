@@ -4,8 +4,8 @@ topic: Spaced repetition and memorization system
 coverage_ids: []
 tested_on: [MBE, essay]
 exam_frequency: {level: n/a, basis: "Planning document"}
-last_verified: 2026-11-04
-status: draft
+last_verified: 2026-11-05
+status: verified
 ---
 
 # Spaced repetition and memorization

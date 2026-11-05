@@ -37,8 +37,8 @@ questions:
   authority: ["Common law: construction of deed descriptions"]
   source: original
   tags: [wave2, W2b-PRP, deeds, descriptions, closing-documents]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-PRP-0142
   subject: PRP
@@ -80,8 +80,8 @@ questions:
   authority: ["Common law: delivery of deeds"]
   source: original
   tags: [wave2, W2b-PRP, deeds, delivery]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-PRP-0143
   subject: PRP
@@ -125,8 +125,8 @@ questions:
   authority: ["Statute quoted in the stem (written authority to convey)", "Equal dignities rule (statutory; e.g., Cal. Civ. Code § 2309)"]
   source: original
   tags: [wave2, W2b-PRP, deeds, agents, persons-authorized]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-PRP-0144
   subject: PRP
@@ -167,8 +167,8 @@ questions:
   authority: ["Common law: ademption by extinction (identity theory)"]
   source: original
   tags: [wave2, W2b-PRP, transfer-by-will, ademption]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-PRP-0145
   subject: PRP
@@ -209,8 +209,8 @@ questions:
   authority: ["Nonexoneration statute (quoted in the stem)"]
   source: original
   tags: [wave2, W2b-PRP, transfer-by-will, exoneration]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-PRP-0146
   subject: PRP
@@ -251,8 +251,8 @@ questions:
   authority: ["Title insurance: policy terms and standard exceptions"]
   source: original
   tags: [wave2, W2b-PRP, title-insurance, parties-in-possession]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-PRP-0147
   subject: PRP
@@ -291,8 +291,8 @@ questions:
   authority: ["Title insurance: owner's and lender's policies"]
   source: original
   tags: [wave2, W2b-PRP, title-insurance, lenders-policy]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-PRP-0148
   subject: PRP
@@ -335,8 +335,8 @@ questions:
   authority: ["Common law: present and future covenants of title"]
   source: original
   tags: [wave2, W2b-PRP, deeds, covenants-of-title]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-PRP-0149
   subject: PRP
@@ -375,8 +375,8 @@ questions:
   authority: ["Common law: estoppel by deed; quitclaim deeds"]
   source: original
   tags: [wave2, W2b-PRP, estoppel-by-deed, quitclaim]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-PRP-0150
   subject: PRP
@@ -415,5 +415,5 @@ questions:
   authority: ["Common law: tenancy by the entirety"]
   source: original
   tags: [wave2, W2b-PRP, tenancy-by-the-entirety, persons-authorized]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"

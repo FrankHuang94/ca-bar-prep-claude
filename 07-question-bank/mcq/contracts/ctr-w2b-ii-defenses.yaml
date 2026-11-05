@@ -48,7 +48,7 @@ questions:
   authority: ["R2d § 13", "R2d § 15", "R2d § 16"]
   source: original
   tags: [wave2, w2b, capacity, mental-incapacity]
-  status: draft
+  status: verified
   last_verified: "2026-11-05"
 
 - id: Q-CTR-0114
@@ -97,7 +97,7 @@ questions:
   authority: ["R2d § 151", "R2d § 152", "R2d § 154"]
   source: original
   tags: [wave2, w2b, mistake, mutual-mistake, basic-assumption]
-  status: draft
+  status: verified
   last_verified: "2026-11-05"
 
 - id: Q-CTR-0115
@@ -150,7 +150,7 @@ questions:
   authority: ["R2d § 159", "R2d § 160", "R2d § 161"]
   source: original
   tags: [wave2, w2b, misrepresentation, nondisclosure]
-  status: draft
+  status: verified
   last_verified: "2026-11-05"
 
 - id: Q-CTR-0116
@@ -201,7 +201,7 @@ questions:
   authority: ["R2d § 186", "R2d § 187", "R2d § 188"]
   source: original
   tags: [wave2, w2b, public-policy, covenant-not-to-compete, ca-vs-mbe]
-  status: draft
+  status: verified
   last_verified: "2026-11-05"
 
 - id: Q-CTR-0117
@@ -249,7 +249,7 @@ questions:
   authority: ["R2d § 110(1)(b)", "R2d § 116"]
   source: original
   tags: [wave2, w2b, statute-of-frauds, suretyship, main-purpose-rule]
-  status: draft
+  status: verified
   last_verified: "2026-11-05"
 
 - id: Q-CTR-0118
@@ -298,5 +298,5 @@ questions:
   authority: ["R2d § 125", "R2d § 129"]
   source: original
   tags: [wave2, w2b, statute-of-frauds, land, part-performance]
-  status: draft
+  status: verified
   last_verified: "2026-11-05"

@@ -20,8 +20,8 @@ issues:
   - {issue: "Rex: tippee liability (personal benefit by gift; knew or should have known); Paula's tipper liability", points: 10, call: 3, major: true, rule_ids: [R-BUS-090, R-BUS-091], coverage_ids: [BUS-CBX-V.F]}
 time_minutes: 60
 source: original
-status: draft
-last_verified: 2026-11-04
+status: verified
+last_verified: 2026-11-05
 tags: [wave1, E3, promoter, loyalty, business-judgment-rule, derivative-suit, insider-trading]
 ---
 

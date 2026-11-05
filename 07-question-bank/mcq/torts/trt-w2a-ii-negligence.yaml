@@ -42,8 +42,8 @@ questions:
   authority: ["Restatement (Second) of Torts §§ 324A, 327"]
   source: original
   tags: [wave2, W2-TRT, negligence, duty, voluntary-undertaking]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-TRT-0062
   subject: TRT
@@ -82,8 +82,8 @@ questions:
   authority: ["Restatement (Second) of Torts § 283B", "Restatement (Third) of Torts: Liability for Physical and Emotional Harm § 11"]
   source: original
   tags: [wave2, W2-TRT, negligence, standard-of-care, mental-disability]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-TRT-0063
   subject: TRT
@@ -125,8 +125,8 @@ questions:
   authority: ["The T.J. Hooper, 60 F.2d 737 (2d Cir. 1932)", "Restatement (Third) of Torts: Liability for Physical and Emotional Harm § 13"]
   source: original
   tags: [wave2, W2-TRT, negligence, breach, custom]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-TRT-0064
   subject: TRT
@@ -166,8 +166,8 @@ questions:
   authority: ["Restatement (Third) of Torts: Liability for Physical and Emotional Harm § 14", "Martin v. Herzog, 228 N.Y. 164 (1920)"]
   source: original
   tags: [wave2, W2-TRT, negligence, negligence-per-se, licensing-statute]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-TRT-0065
   subject: TRT
@@ -209,8 +209,8 @@ questions:
   authority: ["Restatement (Second) of Torts § 328D", "Byrne v. Boadle, 159 Eng. Rep. 299 (Ex. 1863)"]
   source: original
   tags: [wave2, W2-TRT, negligence, res-ipsa]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-TRT-0066
   subject: TRT
@@ -250,8 +250,8 @@ questions:
   authority: ["Restatement (Second) of Torts § 343"]
   source: original
   tags: [wave2, W2-TRT, negligence, proof-of-breach, constructive-notice]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-TRT-0067
   subject: TRT
@@ -293,8 +293,8 @@ questions:
   authority: ["Restatement (Third) of Torts: Liability for Physical and Emotional Harm § 26"]
   source: original
   tags: [wave2, W2-TRT, negligence, causation, but-for]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-TRT-0068
   subject: TRT
@@ -334,8 +334,8 @@ questions:
   authority: ["Restatement (Third) of Torts: Liability for Physical and Emotional Harm § 27"]
   source: original
   tags: [wave2, W2-TRT, negligence, causation, multiple-sufficient-causes]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-TRT-0069
   subject: TRT
@@ -374,8 +374,8 @@ questions:
   authority: ["Restatement (Second) of Torts § 876"]
   source: original
   tags: [wave2, W2-TRT, negligence, causation, concert-of-action]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-TRT-0070
   subject: TRT
@@ -414,8 +414,8 @@ questions:
   authority: ["Restatement (Second) of Torts § 886A"]
   source: original
   tags: [wave2, W2-TRT, negligence, apportionment, contribution]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-TRT-0071
   subject: TRT
@@ -455,8 +455,8 @@ questions:
   authority: ["Restatement (Second) of Torts § 433A"]
   source: original
   tags: [wave2, W2-TRT, negligence, apportionment, divisible-harm]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-TRT-0072
   subject: TRT
@@ -496,8 +496,8 @@ questions:
   authority: ["Restatement (Second) of Torts §§ 314A, 449"]
   source: original
   tags: [wave2, W2-TRT, negligence, proximate-cause, intervening-crime]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-TRT-0073
   subject: TRT
@@ -540,8 +540,8 @@ questions:
   authority: ["Restatement (Second) of Torts §§ 335, 337"]
   source: original
   tags: [wave2, W2-TRT, negligence, premises-liability, constant-trespassers]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-TRT-0074
   subject: TRT
@@ -582,8 +582,8 @@ questions:
   authority: ["Restatement (Second) of Torts §§ 332, 343"]
   source: original
   tags: [wave2, W2-TRT, negligence, premises-liability, scope-of-invitation]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-TRT-0075
   subject: TRT
@@ -622,8 +622,8 @@ questions:
   authority: ["Restatement (Third) of Torts: Liability for Physical and Emotional Harm § 47"]
   source: original
   tags: [wave2, W2-TRT, negligence, nied, zone-of-danger]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-TRT-0076
   subject: TRT
@@ -663,8 +663,8 @@ questions:
   authority: ["Restatement (Third) of Torts: Liability for Physical and Emotional Harm § 47", "Restatement (Second) of Torts § 868"]
   source: original
   tags: [wave2, W2-TRT, negligence, nied, special-relationship]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-TRT-0077
   subject: TRT
@@ -703,8 +703,8 @@ questions:
   authority: ["Robins Dry Dock & Repair Co. v. Flint, 275 U.S. 303 (1927)"]
   source: original
   tags: [wave2, W2-TRT, negligence, economic-loss]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-TRT-0078
   subject: TRT
@@ -743,8 +743,8 @@ questions:
   authority: ["Restatement (Third) of Agency § 7.07"]
   source: original
   tags: [wave2, W2-TRT, negligence, vicarious-liability, respondeat-superior]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-TRT-0079
   subject: TRT
@@ -783,8 +783,8 @@ questions:
   authority: ["Restatement (Third) of Agency § 7.05"]
   source: original
   tags: [wave2, W2-TRT, negligence, vicarious-liability, negligent-hiring]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-TRT-0080
   subject: TRT
@@ -822,8 +822,8 @@ questions:
   authority: ["Restatement (Second) of Torts §§ 409, 426"]
   source: original
   tags: [wave2, W2-TRT, negligence, independent-contractors]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-TRT-0081
   subject: TRT
@@ -864,8 +864,8 @@ questions:
   authority: ["Restatement (Second) of Torts §§ 416, 417"]
   source: original
   tags: [wave2, W2-TRT, negligence, independent-contractors, inherently-dangerous-work]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-TRT-0082
   subject: TRT
@@ -906,8 +906,8 @@ questions:
   authority: ["Restatement (Second) of Torts §§ 467, 479, 480"]
   source: original
   tags: [wave2, W2-TRT, negligence, defenses, last-clear-chance]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-TRT-0083
   subject: TRT
@@ -945,8 +945,8 @@ questions:
   authority: ["Comparative-negligence statute quoted in the stem", "Restatement (Third) of Torts: Apportionment of Liability § 7"]
   source: original
   tags: [wave2, W2-TRT, negligence, defenses, modified-comparative-fault]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-TRT-0084
   subject: TRT
@@ -988,8 +988,8 @@ questions:
   authority: ["Restatement (Second) of Torts § 496C"]
   source: original
   tags: [wave2, W2-TRT, negligence, defenses, assumption-of-risk]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-TRT-0085
   subject: TRT
@@ -1030,5 +1030,5 @@ questions:
   authority: ["Restatement (Third) of Torts: Liability for Physical and Emotional Harm § 26"]
   source: original
   tags: [wave2, W2-TRT, negligence, causation, loss-of-chance]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"

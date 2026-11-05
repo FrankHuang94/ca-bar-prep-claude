@@ -5,7 +5,7 @@ coverage_ids: [REM-CBX-I, REM-CBX-II, REM-CBX-III, REM-CBX-III.a, REM-CBX-III.b,
 tested_on: [essay, PT]
 exam_frequency: {level: high, basis: "Essays: 16 of 31 administrations 2012-02 to 2026-07 (52%)"}
 last_verified: 2026-11-05
-status: draft
+status: reviewed
 ---
 
 # Remedies — worked examples

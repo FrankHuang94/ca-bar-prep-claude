@@ -40,8 +40,8 @@ questions:
   authority: ["Common law (statutory degrees of murder)"]
   source: original
   tags: [wave1, homicide, premeditation]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CRM-0002
   subject: CRM
@@ -78,8 +78,8 @@ questions:
   authority: ["Common law", "MPC § 210.3(1)(b)"]
   source: original
   tags: [wave1, homicide, provocation]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CRM-0003
   subject: CRM
@@ -119,8 +119,8 @@ questions:
   authority: ["Common law (statutory degrees of murder)"]
   source: original
   tags: [wave1, homicide, intent-to-injure]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CRM-0004
   subject: CRM
@@ -158,8 +158,8 @@ questions:
   authority: ["Common law", "MPC § 210.2(1)(b)"]
   source: original
   tags: [wave1, homicide, depraved-heart]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CRM-0005
   subject: CRM
@@ -197,8 +197,8 @@ questions:
   authority: ["Common law", "State v. Canola, 73 N.J. 206 (1977)"]
   source: original
   tags: [wave1, homicide, felony-murder, agency-rule]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CRM-0006
   subject: CRM
@@ -236,5 +236,5 @@ questions:
   authority: ["Common law"]
   source: original
   tags: [wave1, homicide, misdemeanor-manslaughter]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"

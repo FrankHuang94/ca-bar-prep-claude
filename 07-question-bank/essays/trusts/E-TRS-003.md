@@ -21,8 +21,8 @@ issues:
   - {issue: "Cottage: statute of frauds inapplicable to trusts arising by operation of law; recovery and passage under the residue", points: 10, call: 3, major: false, rule_ids: [R-TRS-030, R-TRS-040, R-TRS-096], coverage_ids: [TRS-CBX-II, TRS-CBX-III]}
 time_minutes: 60
 source: original
-status: draft
-last_verified: 2026-11-04
+status: reviewed
+last_verified: 2026-11-05
 tags: [wave2, W2-E6, charitable-trust, cy-pres, honorary-trust, pet-trust, resulting-trust]
 ---
 

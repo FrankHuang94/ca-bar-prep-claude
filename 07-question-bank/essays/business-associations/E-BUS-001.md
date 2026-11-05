@@ -22,8 +22,8 @@ issues:
   - {issue: "Nadia v. Mateo: partner's duty of loyalty (partnership opportunity; use of partnership property); accounting", points: 14, call: 5, major: true, rule_ids: [R-BUS-033, R-BUS-034, R-BUS-104], coverage_ids: [BUS-CBX-II, BUS-CBX-VI]}
 time_minutes: 60
 source: original
-status: draft
-last_verified: 2026-11-04
+status: verified
+last_verified: 2026-11-05
 tags: [wave1, E3, partnership, agency, respondeat-superior, LLC, veil-piercing]
 ---
 

@@ -41,8 +41,8 @@ questions:
   authority: ["U.S. Const. amend. XIV, § 1", "Shelley v. Kraemer, 334 U.S. 1 (1948)", "Jones v. Alfred H. Mayer Co., 392 U.S. 409 (1968)"]
   source: original
   tags: [wave2, w2a, state-action]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CON-0077
   subject: CON
@@ -84,8 +84,8 @@ questions:
   authority: ["42 U.S.C. § 1983", "West v. Atkins, 487 U.S. 42 (1988)", "Rendell-Baker v. Kohn, 457 U.S. 830 (1982)"]
   source: original
   tags: [wave2, w2a, state-action]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CON-0078
   subject: CON
@@ -128,8 +128,8 @@ questions:
   authority: ["U.S. Const. amend. XIV, § 1", "Zablocki v. Redhail, 434 U.S. 374 (1978)", "Loving v. Virginia, 388 U.S. 1 (1967)"]
   source: original
   tags: [wave2, w2a, substantive-due-process, marriage]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CON-0079
   subject: CON
@@ -171,8 +171,8 @@ questions:
   authority: ["U.S. Const. amend. XIV, § 1", "Village of Belle Terre v. Boraas, 416 U.S. 1 (1974)", "Moore v. City of East Cleveland, 431 U.S. 494 (1977)"]
   source: original
   tags: [wave2, w2a, substantive-due-process, zoning]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CON-0080
   subject: CON
@@ -213,8 +213,8 @@ questions:
   authority: ["U.S. Const. amend. XIV, § 1", "DeShaney v. Winnebago County Dep't of Social Servs., 489 U.S. 189 (1989)", "County of Sacramento v. Lewis, 523 U.S. 833 (1998)"]
   source: original
   tags: [wave2, w2a, substantive-due-process, no-duty-to-protect]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CON-0081
   subject: CON
@@ -256,8 +256,8 @@ questions:
   authority: ["U.S. Const. amend. XIV, § 1", "Goss v. Lopez, 419 U.S. 565 (1975)", "Mathews v. Eldridge, 424 U.S. 319 (1976)"]
   source: original
   tags: [wave2, w2a, procedural-due-process, schools]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CON-0082
   subject: CON
@@ -299,8 +299,8 @@ questions:
   authority: ["U.S. Const. amend. XIV, § 1", "Tumey v. Ohio, 273 U.S. 510 (1927)"]
   source: original
   tags: [wave2, w2a, procedural-due-process, neutral-decisionmaker]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CON-0083
   subject: CON
@@ -341,8 +341,8 @@ questions:
   authority: ["U.S. Const. amend. XIV, § 1", "Reynolds v. Sims, 377 U.S. 533 (1964)", "Baker v. Carr, 369 U.S. 186 (1962)"]
   source: original
   tags: [wave2, w2a, equal-protection, voting]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CON-0084
   subject: CON
@@ -381,8 +381,8 @@ questions:
   authority: ["U.S. Const. amend. XIV, § 1", "Palmore v. Sidoti, 466 U.S. 429 (1984)", "Shelley v. Kraemer, 334 U.S. 1 (1948)"]
   source: original
   tags: [wave2, w2a, equal-protection, race]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CON-0085
   subject: CON
@@ -424,8 +424,8 @@ questions:
   authority: ["U.S. Const. amend. XIV, § 1", "City of New Orleans v. Dukes, 427 U.S. 297 (1976)", "FCC v. Beach Communications, Inc., 508 U.S. 307 (1993)", "Railway Express Agency v. New York, 336 U.S. 106 (1949)"]
   source: original
   tags: [wave2, w2a, equal-protection, rational-basis]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CON-0086
   subject: CON
@@ -468,8 +468,8 @@ questions:
   authority: ["U.S. Const. amend. XIV, § 1", "Village of Willowbrook v. Olech, 528 U.S. 562 (2000)", "Engquist v. Oregon Dep't of Agric., 553 U.S. 591 (2008)"]
   source: original
   tags: [wave2, w2a, equal-protection, class-of-one]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CON-0087
   subject: CON
@@ -513,8 +513,8 @@ questions:
   authority: ["U.S. Const. amend. V", "Lucas v. South Carolina Coastal Council, 505 U.S. 1003 (1992)", "Lingle v. Chevron U.S.A. Inc., 544 U.S. 528 (2005)"]
   source: original
   tags: [wave2, w2a, takings, lucas]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CON-0088
   subject: CON
@@ -556,8 +556,8 @@ questions:
   authority: ["U.S. Const. amend. V", "Penn Central Transp. Co. v. New York City, 438 U.S. 104 (1978)", "Lucas v. South Carolina Coastal Council, 505 U.S. 1003 (1992)"]
   source: original
   tags: [wave2, w2a, takings, penn-central]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CON-0089
   subject: CON
@@ -597,8 +597,8 @@ questions:
   authority: ["U.S. Const. art. I, § 10, cl. 1", "United States v. Lovett, 328 U.S. 303 (1946)", "United States v. Brown, 381 U.S. 437 (1965)"]
   source: original
   tags: [wave2, w2a, bill-of-attainder]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CON-0090
   subject: CON
@@ -643,5 +643,5 @@ questions:
   authority: ["U.S. Const. amend. I", "Rust v. Sullivan, 500 U.S. 173 (1991)", "Agency for Int'l Dev. v. Alliance for Open Society Int'l, Inc., 570 U.S. 205 (2013)", "Regan v. Taxation With Representation of Wash., 461 U.S. 540 (1983)"]
   source: original
   tags: [wave2, w2a, unconstitutional-conditions]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"

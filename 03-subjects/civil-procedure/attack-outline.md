@@ -5,7 +5,7 @@ coverage_ids: [CIV-MBE-I, CIV-MBE-II, CIV-MBE-III, CIV-MBE-IV, CIV-MBE-V, CIV-MB
 tested_on: [MBE, essay]
 exam_frequency: {level: high, basis: "Essays: 13 of 31 administrations 2012-02 to 2026-07 (42%); MBE: 25 scored questions every exam"}
 last_verified: 2026-11-05
-status: draft
+status: verified
 ---
 
 # Civil Procedure — attack outline

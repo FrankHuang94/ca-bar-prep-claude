@@ -4,8 +4,8 @@ topic: Contracts — plain-English primer (read first)
 coverage_ids: [CTR-CBX-I, CTR-MBE-I, CTR-MBE-II, CTR-MBE-III, CTR-MBE-IV, CTR-MBE-V, CTR-MBE-VI]
 tested_on: [MBE, essay]
 exam_frequency: {level: high, basis: "Essays: 16 of 31 administrations 2012-02 to 2026-07 (52%); MBE: 25 scored questions every exam"}
-last_verified: 2026-11-04
-status: draft
+last_verified: 2026-11-05
+status: verified
 ---
 
 # Contracts — primer

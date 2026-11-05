@@ -4,8 +4,8 @@ topic: Community Property — California community property vs. common-law (sepa
 coverage_ids: [CMP-CBX-I, CMP-CBX-I.A, CMP-CBX-I.B.x3, CMP-CBX-I.B.x4, CMP-CBX-II.A, CMP-CBX-II.B, CMP-CBX-III.A, CMP-CBX-VI.A.1, CMP-CBX-VI.debts, CMP-CBX-VII.x, CMP-CBX-preempt, CMP-SUP-001]
 tested_on: [essay]
 exam_frequency: {level: high, basis: "Essays: 17 of 31 administrations 2012-02 to 2026-07 (55%)"}
-last_verified: 2026-11-04
-status: draft
+last_verified: 2026-11-05
+status: verified
 ---
 
 # Community Property — California distinctions

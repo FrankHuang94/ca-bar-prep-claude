@@ -38,8 +38,8 @@ questions:
   authority: ["Restatement (Second) of Torts §§ 519, 520"]
   source: original
   tags: [wave1, M3, strict-liability, abnormally-dangerous]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-TRT-0037
   subject: TRT
@@ -78,8 +78,8 @@ questions:
   authority: ["Restatement (Second) of Torts § 507"]
   source: original
   tags: [wave1, M3, strict-liability, animals]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-TRT-0038
   subject: TRT
@@ -117,8 +117,8 @@ questions:
   authority: ["Restatement (Second) of Torts § 509"]
   source: original
   tags: [wave1, M3, strict-liability, animals]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-TRT-0039
   subject: TRT
@@ -154,8 +154,8 @@ questions:
   authority: ["Restatement (Second) of Torts § 402A", "Restatement (Third) of Torts: Products Liability § 1"]
   source: original
   tags: [wave1, M3, products-liability, retailer]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-TRT-0040
   subject: TRT
@@ -194,8 +194,8 @@ questions:
   authority: ["Restatement (Third) of Torts: Products Liability § 2(b)", "Restatement (Second) of Torts § 402A"]
   source: original
   tags: [wave1, M3, products-liability, design-defect]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-TRT-0041
   subject: TRT
@@ -233,8 +233,8 @@ questions:
   authority: ["Restatement (Third) of Torts: Products Liability § 2", "Daly v. General Motors Corp. (1978) 20 Cal.3d 725"]
   source: original
   tags: [wave1, M3, products-liability, defenses, misuse]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-TRT-0042
   subject: TRT
@@ -273,8 +273,8 @@ questions:
   authority: ["Restatement (Third) of Torts: Products Liability § 2(c)"]
   source: original
   tags: [wave1, M3, products-liability, failure-to-warn]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-TRT-0043
   subject: TRT
@@ -311,5 +311,5 @@ questions:
   authority: ["Seely v. White Motor Co. (1965) 63 Cal.2d 9", "East River S.S. Corp. v. Transamerica Delaval Inc., 476 U.S. 858 (1986)"]
   source: original
   tags: [wave1, M3, products-liability, economic-loss]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"

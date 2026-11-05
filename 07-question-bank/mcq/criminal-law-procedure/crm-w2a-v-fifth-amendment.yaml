@@ -41,8 +41,8 @@ questions:
   authority: ["U.S. Const. amend. V", "Oregon v. Mathiason, 429 U.S. 492 (1977)", "California v. Beheler, 463 U.S. 1121 (1983)", "Stansbury v. California, 511 U.S. 318 (1994)", "Frazier v. Cupp, 394 U.S. 731 (1969)"]
   source: original
   tags: [wave2, miranda, custody]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CRM-0093
   subject: CRM
@@ -83,8 +83,8 @@ questions:
   authority: ["U.S. Const. amends. V, VI", "Illinois v. Perkins, 496 U.S. 292 (1990)", "McNeil v. Wisconsin, 501 U.S. 171 (1991)", "Texas v. Cobb, 532 U.S. 162 (2001)"]
   source: original
   tags: [wave2, miranda, interrogation, undercover, sixth-amendment]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CRM-0094
   subject: CRM
@@ -125,8 +125,8 @@ questions:
   authority: ["U.S. Const. amend. V", "Michigan v. Mosley, 423 U.S. 96 (1975)", "Edwards v. Arizona, 451 U.S. 477 (1981)"]
   source: original
   tags: [wave2, miranda, invocation, right-to-silence]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CRM-0095
   subject: CRM
@@ -162,8 +162,8 @@ questions:
   authority: ["U.S. Const. amend. V", "Davis v. United States, 512 U.S. 452 (1994)", "Edwards v. Arizona, 451 U.S. 477 (1981)"]
   source: original
   tags: [wave2, miranda, invocation, right-to-counsel]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CRM-0096
   subject: CRM
@@ -204,8 +204,8 @@ questions:
   authority: ["U.S. Const. amend. V", "New York v. Quarles, 467 U.S. 649 (1984)", "United States v. Patane, 542 U.S. 630 (2004)"]
   source: original
   tags: [wave2, miranda, public-safety-exception]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CRM-0097
   subject: CRM
@@ -246,8 +246,8 @@ questions:
   authority: ["U.S. Const. amend. V", "Oregon v. Elstad, 470 U.S. 298 (1985)", "Missouri v. Seibert, 542 U.S. 600 (2004)"]
   source: original
   tags: [wave2, miranda, two-step, elstad]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CRM-0098
   subject: CRM
@@ -285,8 +285,8 @@ questions:
   authority: ["U.S. Const. amends. V, XIV", "Doyle v. Ohio, 426 U.S. 610 (1976)", "Harris v. New York, 401 U.S. 222 (1971)", "Fletcher v. Weir, 455 U.S. 603 (1982)"]
   source: original
   tags: [wave2, miranda, doyle, impeachment, silence]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CRM-0099
   subject: CRM
@@ -327,8 +327,8 @@ questions:
   authority: ["U.S. Const. amend. XIV", "Colorado v. Connelly, 479 U.S. 157 (1986)", "Lego v. Twomey, 404 U.S. 477 (1972)"]
   source: original
   tags: [wave2, confessions, voluntariness, due-process]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CRM-0100
   subject: CRM
@@ -366,5 +366,5 @@ questions:
   authority: ["U.S. Const. amend. V", "Gilbert v. California, 388 U.S. 263 (1967)", "Schmerber v. California, 384 U.S. 757 (1966)"]
   source: original
   tags: [wave2, fifth-amendment, privilege, physical-evidence]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"

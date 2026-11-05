@@ -22,8 +22,8 @@ issues:
   - {issue: "Coercion: officials directing the audience to rise, singling out dissenters, pending matters", points: 9, call: 3, major: true, rule_ids: [R-CON-090], coverage_ids: [CON-MBE-IV.F.1.b]}
 time_minutes: 60
 source: original
-status: draft
-last_verified: 2026-11-04
+status: verified
+last_verified: 2026-11-05
 tags: [wave2, W2-E4, free-exercise, establishment-clause, religion, legislative-prayer]
 ---
 

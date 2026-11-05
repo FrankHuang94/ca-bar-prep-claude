@@ -44,7 +44,7 @@ questions:
   authority: ["R2d § 213", "R2d § 216"]
   source: original
   tags: [wave2, w2b, parol-evidence, partial-integration, separate-consideration]
-  status: draft
+  status: verified
   last_verified: "2026-11-05"
 
 - id: Q-CTR-0120
@@ -88,7 +88,7 @@ questions:
   authority: ["R2d § 164", "R2d § 214(d)"]
   source: original
   tags: [wave2, w2b, parol-evidence, merger-clause, fraud]
-  status: draft
+  status: verified
   last_verified: "2026-11-05"
 
 - id: Q-CTR-0121
@@ -135,7 +135,7 @@ questions:
   authority: ["R2d § 201", "R2d § 202", "R2d § 206"]
   source: original
   tags: [wave2, w2b, interpretation, contra-proferentem]
-  status: draft
+  status: verified
   last_verified: "2026-11-05"
 
 - id: Q-CTR-0122
@@ -182,7 +182,7 @@ questions:
   authority: ["R2d § 212", "R2d § 214(c)"]
   source: original
   tags: [wave2, w2b, interpretation, parol-evidence, latent-ambiguity]
-  status: draft
+  status: verified
   last_verified: "2026-11-05"
 
 - id: Q-CTR-0123
@@ -229,7 +229,7 @@ questions:
   authority: ["R2d § 204", "R2d § 205"]
   source: original
   tags: [wave2, w2b, implied-terms, duty-to-cooperate]
-  status: draft
+  status: verified
   last_verified: "2026-11-05"
 
 - id: Q-CTR-0124
@@ -275,5 +275,5 @@ questions:
   authority: ["UCC § 2-309(2)", "UCC § 2-309(3)"]
   source: original
   tags: [wave2, w2b, ucc, implied-terms, termination-notice]
-  status: draft
+  status: verified
   last_verified: "2026-11-05"

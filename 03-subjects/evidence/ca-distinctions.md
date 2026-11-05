@@ -5,7 +5,7 @@ coverage_ids: [EVD-SUP-001, EVD-SUP-002, EVD-SUP-003, EVD-SUP-004, EVD-SUP-005, 
 tested_on: [essay]
 exam_frequency: {level: high, basis: "Essays: 15 of 31 administrations 2012-02 to 2026-07 (48%); MBE: 25 scored questions every exam"}
 last_verified: 2026-11-05
-status: draft
+status: reviewed
 ---
 
 # Evidence — California distinctions

@@ -4,8 +4,8 @@ topic: Criminal Law and Procedure — issue-spotting checklist
 coverage_ids: [CRM-MBE-I, CRM-MBE-II, CRM-MBE-III, CRM-MBE-IV, CRM-MBE-V, CRM-CBX-I, CRM-CBX-III, CRM-CBX-V, CRM-CBX-P-I, CRM-CBX-P-II]
 tested_on: [essay, MBE]
 exam_frequency: {level: high, basis: "Essays: 15 of 31 administrations 2012-02 to 2026-07 (48%); MBE: 25 scored questions every exam"}
-last_verified: 2026-11-04
-status: draft
+last_verified: 2026-11-05
+status: verified
 ---
 
 # Criminal Law and Procedure — issue checklist

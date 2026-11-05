@@ -46,8 +46,8 @@ questions:
   authority: ["U.S. Const. art. VI, cl. 2", "Testa v. Katt, 330 U.S. 386 (1947)", "Haywood v. Drown, 556 U.S. 729 (2009)", "Printz v. United States, 521 U.S. 898 (1997)"]
   source: original
   tags: [wave2, w2a, state-courts, supremacy-clause]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CON-0052
   subject: CON
@@ -92,8 +92,8 @@ questions:
   authority: ["Younger v. Harris, 401 U.S. 37 (1971)", "Steffel v. Thompson, 415 U.S. 452 (1974)", "Railroad Comm'n of Tex. v. Pullman Co., 312 U.S. 496 (1941)"]
   source: original
   tags: [wave2, w2a, abstention, younger]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CON-0053
   subject: CON
@@ -136,8 +136,8 @@ questions:
   authority: ["U.S. Const. art. III, § 2, cl. 2", "Marbury v. Madison, 5 U.S. (1 Cranch) 137 (1803)", "Sheldon v. Sill, 49 U.S. (8 How.) 441 (1850)"]
   source: original
   tags: [wave2, w2a, original-jurisdiction]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CON-0054
   subject: CON
@@ -183,8 +183,8 @@ questions:
   authority: ["United States v. Klein, 80 U.S. (13 Wall.) 128 (1872)", "Plaut v. Spendthrift Farm, Inc., 514 U.S. 211 (1995)", "Bank Markazi v. Peterson, 578 U.S. 212 (2016)"]
   source: original
   tags: [wave2, w2a, separation-of-powers, jurisdiction]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CON-0055
   subject: CON
@@ -231,8 +231,8 @@ questions:
   authority: ["U.S. Const. amend. XI", "Hans v. Louisiana, 134 U.S. 1 (1890)", "Mt. Healthy City School Dist. Bd. of Educ. v. Doyle, 429 U.S. 274 (1977)", "Seminole Tribe of Fla. v. Florida, 517 U.S. 44 (1996)"]
   source: original
   tags: [wave2, w2a, eleventh-amendment, political-subdivisions]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CON-0056
   subject: CON
@@ -278,8 +278,8 @@ questions:
   authority: ["U.S. Const. art. III, § 2", "Hunt v. Washington State Apple Advertising Comm'n, 432 U.S. 333 (1977)", "Warth v. Seldin, 422 U.S. 490 (1975)"]
   source: original
   tags: [wave2, w2a, standing, associational-standing]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CON-0057
   subject: CON
@@ -327,8 +327,8 @@ questions:
   authority: ["28 U.S.C. § 1257", "Michigan v. Long, 463 U.S. 1032 (1983)", "Fox Film Corp. v. Muller, 296 U.S. 207 (1935)"]
   source: original
   tags: [wave2, w2a, adequate-independent-state-ground]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CON-0058
   subject: CON
@@ -368,5 +368,5 @@ questions:
   authority: ["U.S. Const. art. IV, § 4", "Luther v. Borden, 48 U.S. (7 How.) 1 (1849)", "Pacific States Tel. & Tel. Co. v. Oregon, 223 U.S. 118 (1912)", "Baker v. Carr, 369 U.S. 186 (1962)"]
   source: original
   tags: [wave2, w2a, political-question, guarantee-clause]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"

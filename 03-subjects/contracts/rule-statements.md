@@ -5,7 +5,7 @@ coverage_ids: [CTR-MBE-I, CTR-MBE-I.A, CTR-MBE-I.B, CTR-MBE-I.C, CTR-MBE-I.D, CT
 tested_on: [MBE, essay]
 exam_frequency: {level: high, basis: "Essays: 16 of 31 administrations 2012-02 to 2026-07 (52%); MBE: 25 scored questions every exam"}
 last_verified: 2026-11-05
-status: draft
+status: reviewed
 ---
 
 # Contracts — rule statements

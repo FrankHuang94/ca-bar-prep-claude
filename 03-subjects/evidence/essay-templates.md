@@ -4,8 +4,8 @@ topic: Evidence — essay templates (item-by-item method)
 coverage_ids: [EVD-CBX-I, EVD-CBX-hs, EVD-CBX-priv, EVD-CBX-V, EVD-SUP-001, EVD-SUP-002, EVD-SUP-005, EVD-SUP-006, EVD-SUP-007, EVD-SUP-009]
 tested_on: [essay]
 exam_frequency: {level: high, basis: "Essays: 15 of 31 administrations 2012-02 to 2026-07 (48%); MBE: 25 scored questions every exam"}
-last_verified: 2026-11-04
-status: draft
+last_verified: 2026-11-05
+status: reviewed
 ---
 
 # Evidence — essay templates

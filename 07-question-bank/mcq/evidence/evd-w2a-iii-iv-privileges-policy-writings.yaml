@@ -42,8 +42,8 @@ questions:
   authority: ["FRE 501", "Jaffee v. Redmond, 518 U.S. 1 (1996)"]
   source: original
   tags: [wave2, W2-EVD, privilege, psychotherapist, physician]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0081
   subject: EVD
@@ -84,8 +84,8 @@ questions:
   authority: ["FRE 501", "Roviaro v. United States, 353 U.S. 53 (1957)"]
   source: original
   tags: [wave2, W2-EVD, privilege, informer]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0082
   subject: EVD
@@ -126,8 +126,8 @@ questions:
   authority: ["FRE 411", "FRE 105"]
   source: original
   tags: [wave2, W2-EVD, policy-exclusions, insurance]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0083
   subject: EVD
@@ -167,8 +167,8 @@ questions:
   authority: ["FRE 412(a)", "FRE 412(b)(1)", "FRE 412(c)"]
   source: original
   tags: [wave2, W2-EVD, rape-shield]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0084
   subject: EVD
@@ -211,8 +211,8 @@ questions:
   authority: ["FRE 1002", "FRE 1004(c)", "FRE 1007"]
   source: original
   tags: [wave2, W2-EVD, best-evidence-rule, original-unavailable]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0085
   subject: EVD
@@ -253,8 +253,8 @@ questions:
   authority: ["FRE 1001", "FRE 1002", "FRE 1003", "FRE 1004"]
   source: original
   tags: [wave2, W2-EVD, best-evidence-rule, video]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0086
   subject: EVD
@@ -296,8 +296,8 @@ questions:
   authority: ["FRE 1006", "FRE 803(6)", "FRE 805"]
   source: original
   tags: [wave2, W2-EVD, summaries, multiple-hearsay]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0087
   subject: EVD
@@ -339,5 +339,5 @@ questions:
   authority: ["FRE 106", "FRE 801(d)(2)(A)"]
   source: original
   tags: [wave2, W2-EVD, completeness]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"

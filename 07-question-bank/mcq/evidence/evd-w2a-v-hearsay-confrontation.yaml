@@ -42,8 +42,8 @@ questions:
   authority: ["FRE 801(a)", "FRE 801(c)", "FRE 602"]
   source: original
   tags: [wave2, W2-EVD, hearsay, nonassertive-conduct]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0089
   subject: EVD
@@ -84,8 +84,8 @@ questions:
   authority: ["FRE 801(c)", "FRE 404(a)(2)(B)", "FRE 405(a)", "FRE 105"]
   source: original
   tags: [wave2, W2-EVD, hearsay, effect-on-listener, self-defense]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0090
   subject: EVD
@@ -127,8 +127,8 @@ questions:
   authority: ["FRE 801(d)(1)(B)", "Tome v. United States, 513 U.S. 150 (1995)"]
   source: original
   tags: [wave2, W2-EVD, hearsay, prior-consistent-statement]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0091
   subject: EVD
@@ -170,8 +170,8 @@ questions:
   authority: ["FRE 801(d)(2)(B)", "Doyle v. Ohio, 426 U.S. 610 (1976)"]
   source: original
   tags: [wave2, W2-EVD, hearsay, adoptive-admission]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0092
   subject: EVD
@@ -214,8 +214,8 @@ questions:
   authority: ["FRE 801(d)(2)(E)", "FRE 104(a)", "Bourjaily v. United States, 483 U.S. 171 (1987)"]
   source: original
   tags: [wave2, W2-EVD, hearsay, coconspirator]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0093
   subject: EVD
@@ -254,8 +254,8 @@ questions:
   authority: ["FRE 803(1)", "FRE 803(2)"]
   source: original
   tags: [wave2, W2-EVD, hearsay, present-sense-impression]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0094
   subject: EVD
@@ -296,8 +296,8 @@ questions:
   authority: ["FRE 803(3)", "FRE 804", "Shepard v. United States, 290 U.S. 96 (1933)"]
   source: original
   tags: [wave2, W2-EVD, hearsay, state-of-mind, memory-or-belief]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0095
   subject: EVD
@@ -339,8 +339,8 @@ questions:
   authority: ["FRE 803(6)", "Palmer v. Hoffman, 318 U.S. 109 (1943)", "FRE 801(d)(2)"]
   source: original
   tags: [wave2, W2-EVD, hearsay, business-records, trustworthiness]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0096
   subject: EVD
@@ -380,8 +380,8 @@ questions:
   authority: ["FRE 803(8)", "Beech Aircraft Corp. v. Rainey, 488 U.S. 153 (1988)"]
   source: original
   tags: [wave2, W2-EVD, hearsay, public-records]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0097
   subject: EVD
@@ -425,8 +425,8 @@ questions:
   authority: ["FRE 803(18)"]
   source: original
   tags: [wave2, W2-EVD, hearsay, learned-treatise]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0098
   subject: EVD
@@ -467,8 +467,8 @@ questions:
   authority: ["FRE 804(a)(4)", "FRE 804(b)(1)"]
   source: original
   tags: [wave2, W2-EVD, hearsay, former-testimony]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0099
   subject: EVD
@@ -506,8 +506,8 @@ questions:
   authority: ["FRE 803(22)", "FRE 902(4)", "FRE 609"]
   source: original
   tags: [wave2, W2-EVD, hearsay, judgment-of-conviction]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0100
   subject: EVD
@@ -552,5 +552,5 @@ questions:
   authority: ["U.S. Const. amend. VI", "FRE 804(b)(6)", "Crawford v. Washington, 541 U.S. 36 (2004)", "Giles v. California, 554 U.S. 353 (2008)"]
   source: original
   tags: [wave2, W2-EVD, confrontation, forfeiture, testimonial]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"

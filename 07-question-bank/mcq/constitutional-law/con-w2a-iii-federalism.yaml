@@ -40,8 +40,8 @@ questions:
   authority: ["U.S. Const. art. VI, cl. 2", "Davis v. Michigan Dep't of Treasury, 489 U.S. 803 (1989)", "United States v. New Mexico, 455 U.S. 720 (1982)", "4 U.S.C. § 111"]
   source: original
   tags: [wave2, w2a, intergovernmental-immunity]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CON-0069
   subject: CON
@@ -85,8 +85,8 @@ questions:
   authority: ["U.S. Const. art. VI, cl. 2", "Johnson v. Maryland, 254 U.S. 51 (1920)", "Hancock v. Train, 426 U.S. 167 (1976)", "United States v. New Mexico, 455 U.S. 720 (1982)"]
   source: original
   tags: [wave2, w2a, intergovernmental-immunity]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CON-0070
   subject: CON
@@ -128,8 +128,8 @@ questions:
   authority: ["U.S. Const. amend. X", "Murphy v. NCAA, 584 U.S. 453 (2018)", "New York v. United States, 505 U.S. 144 (1992)"]
   source: original
   tags: [wave2, w2a, anti-commandeering]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CON-0071
   subject: CON
@@ -174,8 +174,8 @@ questions:
   authority: ["U.S. Const. amend. X", "New York v. United States, 505 U.S. 144 (1992)", "Hodel v. Virginia Surface Mining & Reclamation Ass'n, 452 U.S. 264 (1981)", "Printz v. United States, 521 U.S. 898 (1997)"]
   source: original
   tags: [wave2, w2a, anti-commandeering, conditional-preemption]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CON-0072
   subject: CON
@@ -218,8 +218,8 @@ questions:
   authority: ["U.S. Const. art. I, § 8, cl. 3", "New Energy Co. of Ind. v. Limbach, 486 U.S. 269 (1988)", "Reeves, Inc. v. Stake, 447 U.S. 429 (1980)"]
   source: original
   tags: [wave2, w2a, dormant-commerce-clause, market-participant]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CON-0073
   subject: CON
@@ -263,8 +263,8 @@ questions:
   authority: ["U.S. Const. art. VI, cl. 2", "Rice v. Santa Fe Elevator Corp., 331 U.S. 218 (1947)", "Florida Lime & Avocado Growers, Inc. v. Paul, 373 U.S. 132 (1963)", "Wyeth v. Levine, 555 U.S. 555 (2009)"]
   source: original
   tags: [wave2, w2a, preemption]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CON-0074
   subject: CON
@@ -307,8 +307,8 @@ questions:
   authority: ["U.S. Const. art. VI, cl. 2", "Hines v. Davidowitz, 312 U.S. 52 (1941)", "Arizona v. United States, 567 U.S. 387 (2012)"]
   source: original
   tags: [wave2, w2a, preemption, field-preemption]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CON-0075
   subject: CON
@@ -351,5 +351,5 @@ questions:
   authority: ["U.S. Const. amend. XIV, § 1", "Saenz v. Roe, 526 U.S. 489 (1999)", "Shapiro v. Thompson, 394 U.S. 618 (1969)"]
   source: original
   tags: [wave2, w2a, congressional-authorization, right-to-travel]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"

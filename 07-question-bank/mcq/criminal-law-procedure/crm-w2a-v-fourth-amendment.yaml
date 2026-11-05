@@ -40,8 +40,8 @@ questions:
   authority: ["U.S. Const. amend. IV", "Oliver v. United States, 466 U.S. 170 (1984)", "United States v. Dunn, 480 U.S. 294 (1987)", "United States v. Jones, 565 U.S. 400 (2012)"]
   source: original
   tags: [wave2, fourth-amendment, open-fields, what-is-a-search]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CRM-0077
   subject: CRM
@@ -82,8 +82,8 @@ questions:
   authority: ["U.S. Const. amend. IV", "Florida v. Jardines, 569 U.S. 1 (2013)", "Illinois v. Caballes, 543 U.S. 405 (2005)", "Florida v. Harris, 568 U.S. 237 (2013)"]
   source: original
   tags: [wave2, fourth-amendment, curtilage, dog-sniff]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CRM-0078
   subject: CRM
@@ -125,8 +125,8 @@ questions:
   authority: ["U.S. Const. amend. IV", "Illinois v. Gates, 462 U.S. 213 (1983)", "Spinelli v. United States, 393 U.S. 410 (1969)"]
   source: original
   tags: [wave2, fourth-amendment, probable-cause, informant]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CRM-0079
   subject: CRM
@@ -168,8 +168,8 @@ questions:
   authority: ["U.S. Const. amend. IV", "United States v. Leon, 468 U.S. 897 (1984)", "Illinois v. Gates, 462 U.S. 213 (1983)"]
   source: original
   tags: [wave2, fourth-amendment, good-faith, warrant]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CRM-0080
   subject: CRM
@@ -208,8 +208,8 @@ questions:
   authority: ["U.S. Const. amend. IV", "Hudson v. Michigan, 547 U.S. 586 (2006)", "Wilson v. Arkansas, 514 U.S. 927 (1995)"]
   source: original
   tags: [wave2, fourth-amendment, knock-and-announce, exclusionary-rule]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CRM-0081
   subject: CRM
@@ -248,8 +248,8 @@ questions:
   authority: ["U.S. Const. amend. IV", "Riley v. California, 573 U.S. 373 (2014)", "United States v. Robinson, 414 U.S. 218 (1973)", "Arizona v. Gant, 556 U.S. 332 (2009)"]
   source: original
   tags: [wave2, fourth-amendment, search-incident-to-arrest, cell-phone]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CRM-0082
   subject: CRM
@@ -289,8 +289,8 @@ questions:
   authority: ["U.S. Const. amend. IV", "Chimel v. California, 395 U.S. 752 (1969)", "Maryland v. Buie, 494 U.S. 325 (1990)"]
   source: original
   tags: [wave2, fourth-amendment, search-incident-to-arrest, protective-sweep]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CRM-0083
   subject: CRM
@@ -331,8 +331,8 @@ questions:
   authority: ["U.S. Const. amend. IV", "Wyoming v. Houghton, 526 U.S. 295 (1999)", "California v. Acevedo, 500 U.S. 565 (1991)", "Carroll v. United States, 267 U.S. 132 (1925)"]
   source: original
   tags: [wave2, fourth-amendment, automobile-exception, containers]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CRM-0084
   subject: CRM
@@ -369,8 +369,8 @@ questions:
   authority: ["U.S. Const. amend. IV", "Horton v. California, 496 U.S. 128 (1990)", "Coolidge v. New Hampshire, 403 U.S. 443 (1971)"]
   source: original
   tags: [wave2, fourth-amendment, warrant-scope, plain-view]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CRM-0085
   subject: CRM
@@ -411,8 +411,8 @@ questions:
   authority: ["U.S. Const. amend. IV", "Fernandez v. California, 571 U.S. 292 (2014)", "Georgia v. Randolph, 547 U.S. 103 (2006)", "United States v. Matlock, 415 U.S. 164 (1974)"]
   source: original
   tags: [wave2, fourth-amendment, consent, co-occupant]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CRM-0086
   subject: CRM
@@ -453,8 +453,8 @@ questions:
   authority: ["U.S. Const. amend. IV", "Kentucky v. King, 563 U.S. 452 (2011)", "Payton v. New York, 445 U.S. 573 (1980)"]
   source: original
   tags: [wave2, fourth-amendment, exigent-circumstances, destruction-of-evidence]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CRM-0087
   subject: CRM
@@ -493,8 +493,8 @@ questions:
   authority: ["U.S. Const. amend. IV", "California v. Hodari D., 499 U.S. 621 (1991)", "United States v. Mendenhall, 446 U.S. 544 (1980)", "Illinois v. Wardlow, 528 U.S. 119 (2000)"]
   source: original
   tags: [wave2, fourth-amendment, seizure, abandonment]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CRM-0088
   subject: CRM
@@ -534,8 +534,8 @@ questions:
   authority: ["U.S. Const. amend. IV", "Terry v. Ohio, 392 U.S. 1 (1968)", "Minnesota v. Dickerson, 508 U.S. 366 (1993)", "Nix v. Williams, 467 U.S. 431 (1984)"]
   source: original
   tags: [wave2, fourth-amendment, terry-frisk, plain-feel]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CRM-0089
   subject: CRM
@@ -574,8 +574,8 @@ questions:
   authority: ["U.S. Const. amend. IV", "Whren v. United States, 517 U.S. 806 (1996)", "Pennsylvania v. Mimms, 434 U.S. 106 (1977)", "Horton v. California, 496 U.S. 128 (1990)"]
   source: original
   tags: [wave2, fourth-amendment, traffic-stop, pretext]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CRM-0090
   subject: CRM
@@ -614,8 +614,8 @@ questions:
   authority: ["U.S. Const. amend. IV", "Minnesota v. Olson, 495 U.S. 91 (1990)", "Minnesota v. Carter, 525 U.S. 83 (1998)"]
   source: original
   tags: [wave2, fourth-amendment, standing, overnight-guest]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CRM-0091
   subject: CRM
@@ -657,5 +657,5 @@ questions:
   authority: ["U.S. Const. amend. IV", "Utah v. Strieff, 579 U.S. 232 (2016)", "Brown v. Illinois, 422 U.S. 590 (1975)", "Nix v. Williams, 467 U.S. 431 (1984)"]
   source: original
   tags: [wave2, fourth-amendment, attenuation, exclusionary-rule]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"

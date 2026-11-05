@@ -43,8 +43,8 @@ questions:
   authority: ["R2d § 42", "R2d § 63", "Adams v. Lindsell (1818) 1 B. & Ald. 681"]
   source: original
   tags: [wave1, M1, mailbox-rule, revocation]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CTR-0002
   subject: CTR
@@ -90,8 +90,8 @@ questions:
   authority: ["UCC § 2-207(1)-(2) and cmt. 4", "UCC § 2-104(1)"]
   source: original
   tags: [wave1, M1, ucc, battle-of-forms]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CTR-0003
   subject: CTR
@@ -134,8 +134,8 @@ questions:
   authority: ["R2d § 45", "R2d § 42"]
   source: original
   tags: [wave1, M1, unilateral-contract]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CTR-0004
   subject: CTR
@@ -176,8 +176,8 @@ questions:
   authority: ["UCC § 2-205", "UCC § 2-104(1)"]
   source: original
   tags: [wave1, M1, ucc, firm-offer]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CTR-0005
   subject: CTR
@@ -218,8 +218,8 @@ questions:
   authority: ["R2d § 38", "R2d § 40", "R2d § 63"]
   source: original
   tags: [wave1, M1, mailbox-rule, rejection]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CTR-0006
   subject: CTR
@@ -261,8 +261,8 @@ questions:
   authority: ["UCC § 2-206(1)(b)", "UCC § 2-601"]
   source: original
   tags: [wave1, M1, ucc, acceptance-by-shipment]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CTR-0007
   subject: CTR
@@ -302,8 +302,8 @@ questions:
   authority: ["UCC § 2-204(3)", "UCC § 2-305(1)(b)", "UCC § 2-201(1)"]
   source: original
   tags: [wave1, M1, ucc, open-price, gap-fillers]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CTR-0008
   subject: CTR
@@ -345,8 +345,8 @@ questions:
   authority: ["UCC § 2-306(1)", "UCC § 1-304"]
   source: original
   tags: [wave1, M1, ucc, requirements-contract]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CTR-0009
   subject: CTR
@@ -390,8 +390,8 @@ questions:
   authority: ["R2d § 73", "R2d § 89", "Alaska Packers' Ass'n v. Domenico, 117 F. 99 (9th Cir. 1902)"]
   source: original
   tags: [wave1, M1, consideration, pre-existing-duty]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CTR-0010
   subject: CTR
@@ -435,8 +435,8 @@ questions:
   authority: ["R2d § 86", "R2d § 71", "Webb v. McGowin, 27 Ala. App. 82, 168 So. 196 (1935)", "Mills v. Wyman, 20 Mass. (3 Pick.) 207 (1825)"]
   source: original
   tags: [wave1, M1, material-benefit, past-consideration]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CTR-0011
   subject: CTR
@@ -476,8 +476,8 @@ questions:
   authority: ["R2d § 90", "R2d § 71", "Ricketts v. Scothorn, 57 Neb. 51, 77 N.W. 365 (1898)"]
   source: original
   tags: [wave1, M1, promissory-estoppel]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CTR-0012
   subject: CTR
@@ -522,8 +522,8 @@ questions:
   authority: ["R2d § 87(2)", "Drennan v. Star Paving Co. (1958) 51 Cal.2d 409", "R2d § 153"]
   source: original
   tags: [wave1, M1, reliance, irrevocable-offer]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CTR-0013
   subject: CTR
@@ -566,8 +566,8 @@ questions:
   authority: ["UCC § 2-209(1) and cmt. 2"]
   source: original
   tags: [wave1, M1, ucc, modification]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CTR-0014
   subject: CTR
@@ -615,5 +615,5 @@ questions:
   authority: ["UCC § 2-209(2), (4), (5)", "UCC § 1-303", "UCC § 2-612(2)"]
   source: original
   tags: [wave1, M1, ucc, modification, waiver, no-oral-modification]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"

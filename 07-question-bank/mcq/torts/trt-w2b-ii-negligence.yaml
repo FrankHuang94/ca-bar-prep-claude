@@ -42,8 +42,8 @@ questions:
   authority: ["Restatement (Second) of Torts § 314A"]
   source: original
   tags: [wave2, W2b-TRT, negligence, duty, special-relationship, common-carrier]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-TRT-0112
   subject: TRT
@@ -82,8 +82,8 @@ questions:
   authority: ["Walters v. Sloan, 20 Cal.3d 199 (1977)"]
   source: original
   tags: [wave2, W2b-TRT, negligence, duty, firefighters-rule]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-TRT-0113
   subject: TRT
@@ -128,8 +128,8 @@ questions:
   authority: ["Canterbury v. Spence, 464 F.2d 772 (D.C. Cir. 1972)"]
   source: original
   tags: [wave2, W2b-TRT, negligence, standard-of-care, informed-consent, causation]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-TRT-0114
   subject: TRT
@@ -173,8 +173,8 @@ questions:
   authority: ["Restatement (Second) of Torts § 299A"]
   source: original
   tags: [wave2, W2b-TRT, negligence, standard-of-care, professionals, expert-testimony]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-TRT-0115
   subject: TRT
@@ -216,8 +216,8 @@ questions:
   authority: ["Restatement (Second) of Torts § 286", "Restatement (Third) of Torts: Liability for Physical and Emotional Harm § 14"]
   source: original
   tags: [wave2, W2b-TRT, negligence, negligence-per-se, protected-class]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-TRT-0116
   subject: TRT
@@ -256,8 +256,8 @@ questions:
   authority: ["Restatement (Second) of Torts § 288C"]
   source: original
   tags: [wave2, W2b-TRT, negligence, statutory-compliance, breach]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-TRT-0117
   subject: TRT
@@ -302,8 +302,8 @@ questions:
   authority: ["Restatement (Second) of Torts § 328D", "Escola v. Coca Cola Bottling Co., 24 Cal.2d 453 (1944)"]
   source: original
   tags: [wave2, W2b-TRT, negligence, res-ipsa, control]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-TRT-0118
   subject: TRT
@@ -341,8 +341,8 @@ questions:
   authority: ["Restatement (Second) of Torts § 343"]
   source: original
   tags: [wave2, W2b-TRT, negligence, premises-liability, notice, proof-of-breach]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-TRT-0119
   subject: TRT
@@ -384,8 +384,8 @@ questions:
   authority: ["Restatement (Third) of Torts: Liability for Physical and Emotional Harm § 26"]
   source: original
   tags: [wave2, W2b-TRT, negligence, causation, but-for, preponderance]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-TRT-0120
   subject: TRT
@@ -427,8 +427,8 @@ questions:
   authority: ["Restatement (Second) of Torts §§ 433A, 433B, 879"]
   source: original
   tags: [wave2, W2b-TRT, negligence, multiple-causes, indivisible-injury, joint-and-several]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-TRT-0121
   subject: TRT
@@ -466,8 +466,8 @@ questions:
   authority: ["Restatement (Second) of Torts § 886B"]
   source: original
   tags: [wave2, W2b-TRT, negligence, apportionment, indemnity, vicarious-liability]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-TRT-0122
   subject: TRT
@@ -507,8 +507,8 @@ questions:
   authority: ["Restatement (Second) of Torts §§ 440, 448"]
   source: original
   tags: [wave2, W2b-TRT, negligence, proximate-cause, superseding-cause, intervening-crime]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-TRT-0123
   subject: TRT
@@ -548,8 +548,8 @@ questions:
   authority: ["Restatement (Second) of Torts § 435", "Restatement (Third) of Torts: Liability for Physical and Emotional Harm § 29"]
   source: original
   tags: [wave2, W2b-TRT, negligence, proximate-cause, manner-of-harm]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-TRT-0124
   subject: TRT
@@ -591,8 +591,8 @@ questions:
   authority: ["Restatement (Second) of Torts § 333"]
   source: original
   tags: [wave2, W2b-TRT, negligence, premises-liability, undiscovered-trespasser]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-TRT-0125
   subject: TRT
@@ -632,8 +632,8 @@ questions:
   authority: ["Restatement (Second) of Torts § 358"]
   source: original
   tags: [wave2, W2b-TRT, negligence, premises-liability, lessor, latent-defect]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-TRT-0126
   subject: TRT
@@ -673,8 +673,8 @@ questions:
   authority: ["Restatement (Second) of Torts § 313", "Restatement (Third) of Torts: Liability for Physical and Emotional Harm §§ 47, 48"]
   source: original
   tags: [wave2, W2b-TRT, negligence, nied, zone-of-danger, bystander]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-TRT-0127
   subject: TRT
@@ -714,8 +714,8 @@ questions:
   authority: ["Restatement (Second) of Torts § 693"]
   source: original
   tags: [wave2, W2b-TRT, negligence, loss-of-consortium, comparative-fault]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-TRT-0128
   subject: TRT
@@ -755,8 +755,8 @@ questions:
   authority: ["Robins Dry Dock & Repair Co. v. Flint, 275 U.S. 303 (1927)"]
   source: original
   tags: [wave2, W2b-TRT, negligence, economic-loss]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-TRT-0129
   subject: TRT
@@ -794,8 +794,8 @@ questions:
   authority: ["Restatement (Third) of Agency § 7.07"]
   source: original
   tags: [wave2, W2b-TRT, negligence, vicarious-liability, going-and-coming, special-errand]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-TRT-0130
   subject: TRT
@@ -833,8 +833,8 @@ questions:
   authority: ["Restatement (Second) of Agency § 230", "Restatement (Third) of Agency § 7.07"]
   source: original
   tags: [wave2, W2b-TRT, negligence, vicarious-liability, scope-of-employment, forbidden-acts]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-TRT-0131
   subject: TRT
@@ -876,8 +876,8 @@ questions:
   authority: ["Restatement (Second) of Torts § 429"]
   source: original
   tags: [wave2, W2b-TRT, negligence, independent-contractors, apparent-agency]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-TRT-0132
   subject: TRT
@@ -920,8 +920,8 @@ questions:
   authority: ["Restatement (Second) of Torts §§ 485, 491"]
   source: original
   tags: [wave2, W2b-TRT, negligence, imputed-negligence, joint-and-several, comparative-fault]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-TRT-0133
   subject: TRT
@@ -961,8 +961,8 @@ questions:
   authority: ["Li v. Yellow Cab Co., 13 Cal.3d 804 (1975)"]
   source: original
   tags: [wave2, W2b-TRT, negligence, defenses, last-clear-chance, comparative-fault]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-TRT-0134
   subject: TRT
@@ -1002,8 +1002,8 @@ questions:
   authority: ["Restatement (Second) of Torts § 496B"]
   source: original
   tags: [wave2, W2b-TRT, negligence, defenses, express-assumption, release]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-TRT-0135
   subject: TRT
@@ -1044,5 +1044,5 @@ questions:
   authority: ["Restatement (Second) of Torts § 496E"]
   source: original
   tags: [wave2, W2b-TRT, negligence, defenses, implied-assumption, voluntariness]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"

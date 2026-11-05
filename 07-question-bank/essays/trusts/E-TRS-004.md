@@ -20,8 +20,8 @@ issues:
   - {issue: "Pine Ridge as knowing participant (actual knowledge; 18100); recovery of land and resale profit; Ardens protected as bona fide purchasers", points: 12, call: 3, major: true, rule_ids: [R-TRS-094, R-TRS-095, R-TRS-096, R-REM-049], coverage_ids: [TRS-CBX-XII]}
 time_minutes: 60
 source: original
-status: draft
-last_verified: 2026-11-04
+status: reviewed
+last_verified: 2026-11-05
 tags: [wave2, W2-E6, trustee-duties, self-dealing, prudent-investor, duty-to-inform, tracing, third-party-liability]
 ---
 

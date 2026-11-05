@@ -4,8 +4,8 @@ topic: Master study plan, Nov 9 2026 → Jul 27 2027
 coverage_ids: []
 tested_on: [MBE, essay, PT]
 exam_frequency: {level: n/a, basis: "Planning document"}
-last_verified: 2026-11-04
-status: draft
+last_verified: 2026-11-05
+status: verified
 ---
 
 # Master study plan: Nov 9, 2026 → July 27, 2027

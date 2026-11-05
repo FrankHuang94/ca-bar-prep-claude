@@ -38,8 +38,8 @@ questions:
   authority: ["Restatement (Second) of Torts § 840D", "Restatement (Second) of Torts § 826"]
   source: original
   tags: [wave1, M3, nuisance, private-nuisance]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-TRT-0045
   subject: TRT
@@ -78,8 +78,8 @@ questions:
   authority: ["Restatement (Second) of Torts §§ 821B, 821C"]
   source: original
   tags: [wave1, M3, nuisance, public-nuisance]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-TRT-0046
   subject: TRT
@@ -119,8 +119,8 @@ questions:
   authority: ["New York Times Co. v. Sullivan, 376 U.S. 254 (1964)", "St. Amant v. Thompson, 390 U.S. 727 (1968)"]
   source: original
   tags: [wave1, M3, defamation, actual-malice]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-TRT-0047
   subject: TRT
@@ -160,8 +160,8 @@ questions:
   authority: ["Gertz v. Robert Welch, Inc., 418 U.S. 323 (1974)", "Dun & Bradstreet, Inc. v. Greenmoss Builders, Inc., 472 U.S. 749 (1985)"]
   source: original
   tags: [wave1, M3, defamation, private-figure, damages]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-TRT-0048
   subject: TRT
@@ -199,8 +199,8 @@ questions:
   authority: ["Restatement (Second) of Torts § 652B", "Restatement (Second) of Torts § 652D"]
   source: original
   tags: [wave1, M3, privacy, intrusion]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-TRT-0049
   subject: TRT
@@ -244,8 +244,8 @@ questions:
   authority: ["Restatement (Second) of Torts § 552"]
   source: original
   tags: [wave1, M3, misrepresentation, negligent-misrepresentation]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-TRT-0050
   subject: TRT
@@ -287,5 +287,5 @@ questions:
   authority: ["Restatement (Second) of Torts §§ 766, 768"]
   source: original
   tags: [wave1, M3, economic-torts, interference-with-contract]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"

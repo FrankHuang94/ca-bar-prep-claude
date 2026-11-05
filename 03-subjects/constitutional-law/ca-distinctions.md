@@ -5,7 +5,7 @@ coverage_ids: [CON-MBE-IV, CON-MBE-IV.A, CON-MBE-IV.C, CON-MBE-IV.D, CON-MBE-IV.
 tested_on: [essay]
 exam_frequency: {level: high, basis: "Essays: 13 of 31 administrations 2012-02 to 2026-07 (42%); MBE: 25 scored questions every exam"}
 last_verified: 2026-11-05
-status: draft
+status: reviewed
 ---
 
 # Constitutional Law — California distinctions

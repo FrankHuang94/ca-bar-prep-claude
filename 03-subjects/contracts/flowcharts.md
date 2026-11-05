@@ -4,8 +4,8 @@ topic: Contracts — decision-tree flowcharts (Mermaid)
 coverage_ids: [CTR-CBX-I, CTR-MBE-I.A, CTR-MBE-I.C, CTR-MBE-II.F, CTR-MBE-III.A, CTR-MBE-IV.C, CTR-MBE-IV.F, CTR-MBE-V.A]
 tested_on: [MBE, essay]
 exam_frequency: {level: high, basis: "Essays: 16 of 31 administrations 2012-02 to 2026-07 (52%); MBE: 25 scored questions every exam"}
-last_verified: 2026-11-04
-status: draft
+last_verified: 2026-11-05
+status: verified
 ---
 
 # Contracts — flowcharts

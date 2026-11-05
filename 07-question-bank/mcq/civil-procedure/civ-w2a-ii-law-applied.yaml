@@ -38,8 +38,8 @@ questions:
   authority: ["Klaxon Co. v. Stentor Electric Mfg. Co., 313 U.S. 487 (1941)", "Erie R.R. v. Tompkins, 304 U.S. 64 (1938)"]
   source: original
   tags: [wave2, w2a, erie, choice-of-law]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CIV-0067
   subject: CIV
@@ -85,8 +85,8 @@ questions:
   authority: ["Shady Grove Orthopedic Associates, P.A. v. Allstate Ins. Co., 559 U.S. 393 (2010)", "Hanna v. Plumer, 380 U.S. 460 (1965)", "28 U.S.C. § 2072", "FRCP 23"]
   source: original
   tags: [wave2, w2a, erie, hanna, class-actions]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CIV-0068
   subject: CIV
@@ -131,8 +131,8 @@ questions:
   authority: ["Erie R.R. v. Tompkins, 304 U.S. 64 (1938)", "Commissioner v. Estate of Bosch, 387 U.S. 456 (1967)", "West v. American Tel. & Tel. Co., 311 U.S. 223 (1940)"]
   source: original
   tags: [wave2, w2a, erie, predicting-state-law]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CIV-0069
   subject: CIV
@@ -175,8 +175,8 @@ questions:
   authority: ["Cities Service Oil Co. v. Dunlap, 308 U.S. 208 (1939)", "Palmer v. Hoffman, 318 U.S. 109 (1943)", "FRCP 8(c)(1)"]
   source: original
   tags: [wave2, w2a, erie, burden-of-proof]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CIV-0070
   subject: CIV
@@ -220,5 +220,5 @@ questions:
   authority: ["Boyle v. United Technologies Corp., 487 U.S. 500 (1988)", "Erie R.R. v. Tompkins, 304 U.S. 64 (1938)"]
   source: original
   tags: [wave2, w2a, federal-common-law]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"

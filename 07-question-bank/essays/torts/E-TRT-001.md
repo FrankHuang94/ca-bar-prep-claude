@@ -21,8 +21,8 @@ issues:
   - {issue: "Paula's compensable damages", points: 4, call: 3, rule_ids: [R-TRT-113], coverage_ids: [TRT-CBX-II]}
 time_minutes: 60
 source: original
-status: draft
-last_verified: 2026-11-04
+status: verified
+last_verified: 2026-11-05
 tags: [wave1, E1, negligence, negligence-per-se, respondeat-superior, bystander, apportionment]
 ---
 

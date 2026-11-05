@@ -5,7 +5,7 @@ coverage_ids: []
 tested_on: [MBE, essay]
 exam_frequency: {level: n/a, basis: "Folder index"}
 last_verified: 2026-11-05
-status: draft
+status: verified
 ---
 
 # High-yield

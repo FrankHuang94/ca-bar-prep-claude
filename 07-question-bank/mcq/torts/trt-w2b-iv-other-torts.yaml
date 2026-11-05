@@ -43,8 +43,8 @@ questions:
   authority: ["Restatement (Second) of Torts §§ 822, 825, 826"]
   source: original
   tags: [wave2, W2b-TRT, other-torts, nuisance, intentional-invasion]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-TRT-0146
   subject: TRT
@@ -89,8 +89,8 @@ questions:
   authority: ["Gertz v. Robert Welch, Inc., 418 U.S. 323 (1974)", "St. Amant v. Thompson, 390 U.S. 727 (1968)"]
   source: original
   tags: [wave2, W2b-TRT, other-torts, defamation, limited-purpose-public-figure, actual-malice]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-TRT-0147
   subject: TRT
@@ -130,8 +130,8 @@ questions:
   authority: ["Milkovich v. Lorain Journal Co., 497 U.S. 1 (1990)", "New York Times Co. v. Sullivan, 376 U.S. 254 (1964)"]
   source: original
   tags: [wave2, W2b-TRT, other-torts, defamation, opinion, public-official]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-TRT-0148
   subject: TRT
@@ -169,8 +169,8 @@ questions:
   authority: ["Restatement (Second) of Torts § 652C"]
   source: original
   tags: [wave2, W2b-TRT, other-torts, privacy, appropriation]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-TRT-0149
   subject: TRT
@@ -212,8 +212,8 @@ questions:
   authority: ["Restatement (Second) of Torts § 526", "Derry v. Peek, 14 App. Cas. 337 (H.L. 1889)"]
   source: original
   tags: [wave2, W2b-TRT, other-torts, misrepresentation, fraud, scienter]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-TRT-0150
   subject: TRT
@@ -258,5 +258,5 @@ questions:
   authority: ["Restatement (Second) of Torts §§ 552, 552A"]
   source: original
   tags: [wave2, W2b-TRT, other-torts, misrepresentation, negligent-misrepresentation, comparative-fault]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"

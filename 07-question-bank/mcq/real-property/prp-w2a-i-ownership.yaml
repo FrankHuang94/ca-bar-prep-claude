@@ -43,8 +43,8 @@ questions:
   authority: ["Common law: words of purchase and words of limitation", "Common law: precatory words do not limit a fee", "Common law: restraints on alienation of a fee simple"]
   source: original
   tags: [wave2, W2-PRP, fee-simple, precatory-words]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-PRP-0052
   subject: PRP
@@ -86,8 +86,8 @@ questions:
   authority: ["Common law: reversions", "Common law: transferability, devisability and descendibility of future interests"]
   source: original
   tags: [wave2, W2-PRP, reversions, future-interests]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-PRP-0053
   subject: PRP
@@ -128,8 +128,8 @@ questions:
   authority: ["Common law: periodic tenancies and notice to terminate"]
   source: original
   tags: [wave2, W2-PRP, landlord-tenant, periodic-tenancy]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-PRP-0054
   subject: PRP
@@ -170,8 +170,8 @@ questions:
   authority: ["Common law (modern rule): alienability of contingent remainders", "Common-law rule against perpetuities"]
   source: original
   tags: [wave2, W2-PRP, alienability, contingent-remainders]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-PRP-0055
   subject: PRP
@@ -215,8 +215,8 @@ questions:
   authority: ["Common law conflict of laws: situs rule for interests in land", "Recording acts quoted in the stem"]
   source: original
   tags: [wave2, W2-PRP, conflict-of-laws, recording-acts]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-PRP-0056
   subject: PRP
@@ -259,8 +259,8 @@ questions:
   authority: ["Common law: landlord's duty to deliver possession (English rule)", "Hannan v. Dusch, 154 Va. 356, 153 S.E. 824 (1930) (American rule, contrasted)"]
   source: original
   tags: [wave2, W2-PRP, landlord-tenant, delivery-of-possession]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-PRP-0057
   subject: PRP
@@ -301,8 +301,8 @@ questions:
   authority: ["Common law: cotenants' improvements; credit in partition"]
   source: original
   tags: [wave2, W2-PRP, cotenancy, partition]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-PRP-0058
   subject: PRP
@@ -344,8 +344,8 @@ questions:
   authority: ["Common law: executory interests", "Common-law rule against perpetuities"]
   source: original
   tags: [wave2, W2-PRP, executory-interests, rap]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-PRP-0059
   subject: PRP
@@ -387,8 +387,8 @@ questions:
   authority: ["Common-law rule against perpetuities (unborn widow)"]
   source: original
   tags: [wave2, W2-PRP, rap, unborn-widow]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-PRP-0060
   subject: PRP
@@ -430,5 +430,5 @@ questions:
   authority: ["42 U.S.C. § 3604(f)(3)(A)", "42 U.S.C. § 3603(b)"]
   source: original
   tags: [wave2, W2-PRP, fair-housing, disability]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"

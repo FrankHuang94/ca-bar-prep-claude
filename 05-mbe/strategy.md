@@ -4,8 +4,8 @@ topic: MBE question method, pacing, bubbling, scoring and review
 coverage_ids: []
 tested_on: [MBE]
 exam_frequency: {level: high, basis: "Applies to every MBE question"}
-last_verified: 2026-11-04
-status: draft
+last_verified: 2026-11-05
+status: reviewed
 ---
 
 # MBE strategy

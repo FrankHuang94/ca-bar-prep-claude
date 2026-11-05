@@ -43,8 +43,8 @@ questions:
   authority: ["FRCP 49(a)(1)", "FRCP 49(a)(3)"]
   source: original
   tags: [wave2, w2b, special-verdict, omitted-issue]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CIV-0145
   subject: CIV
@@ -88,8 +88,8 @@ questions:
   authority: ["FRCP 52(a)(1)-(3)", "FRCP 56(a)", "FRCP 65(a)"]
   source: original
   tags: [wave2, w2b, findings-and-conclusions, rule-52]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CIV-0146
   subject: CIV
@@ -137,5 +137,5 @@ questions:
   authority: ["Taylor v. Sturgell, 553 U.S. 880 (2008)", "Hansberry v. Lee, 311 U.S. 32 (1940)"]
   source: original
   tags: [wave2, w2b, preclusion, non-party, virtual-representation]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"

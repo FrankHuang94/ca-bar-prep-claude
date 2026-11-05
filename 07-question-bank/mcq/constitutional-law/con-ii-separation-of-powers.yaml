@@ -41,8 +41,8 @@ questions:
   authority: ["U.S. Const. art. I, § 8, cl. 3", "Wickard v. Filburn, 317 U.S. 111 (1942)", "Gonzales v. Raich, 545 U.S. 1 (2005)", "United States v. Lopez, 514 U.S. 549 (1995)"]
   source: original
   tags: [wave1, commerce-clause, aggregation]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CON-0010
   subject: CON
@@ -83,8 +83,8 @@ questions:
   authority: ["U.S. Const. art. I, § 8, cl. 1", "South Dakota v. Dole, 483 U.S. 203 (1987)", "NFIB v. Sebelius, 567 U.S. 519 (2012) (Medicaid coercion: Roberts, C.J., for three Justices; seven Justices agreed)"]
   source: original
   tags: [wave1, spending-power, conditional-grants]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CON-0011
   subject: CON
@@ -122,8 +122,8 @@ questions:
   authority: ["U.S. Const. amend. XIII, § 2", "Jones v. Alfred H. Mayer Co., 392 U.S. 409 (1968)", "Civil Rights Cases, 109 U.S. 3 (1883)"]
   source: original
   tags: [wave1, thirteenth-amendment, congressional-power]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CON-0012
   subject: CON
@@ -164,8 +164,8 @@ questions:
   authority: ["U.S. Const. amend. XIV, § 5", "City of Boerne v. Flores, 521 U.S. 507 (1997)", "Kimel v. Florida Bd. of Regents, 528 U.S. 62 (2000)", "Fitzpatrick v. Bitzer, 427 U.S. 445 (1976)"]
   source: original
   tags: [wave1, section-5, abrogation]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CON-0013
   subject: CON
@@ -206,8 +206,8 @@ questions:
   authority: ["U.S. Const. art. I, § 8, cl. 3", "Youngstown Sheet & Tube Co. v. Sawyer, 343 U.S. 579 (1952) (Jackson, J., concurring)", "Zivotofsky v. Kerry, 576 U.S. 1 (2015)"]
   source: original
   tags: [wave1, presidential-power, youngstown]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CON-0014
   subject: CON
@@ -249,8 +249,8 @@ questions:
   authority: ["U.S. Const. art. VI, cl. 2", "United States v. Belmont, 301 U.S. 324 (1937)", "United States v. Pink, 315 U.S. 203 (1942)", "American Ins. Ass'n v. Garamendi, 539 U.S. 396 (2003)"]
   source: original
   tags: [wave1, executive-agreements, foreign-affairs, preemption]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CON-0015
   subject: CON
@@ -290,8 +290,8 @@ questions:
   authority: ["U.S. Const. art. II, § 2, cl. 2", "Buckley v. Valeo, 424 U.S. 1 (1976)"]
   source: original
   tags: [wave1, appointments-clause]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CON-0016
   subject: CON
@@ -330,8 +330,8 @@ questions:
   authority: ["U.S. Const. art. I, § 7", "INS v. Chadha, 462 U.S. 919 (1983)"]
   source: original
   tags: [wave1, legislative-veto, bicameralism]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CON-0017
   subject: CON
@@ -371,5 +371,5 @@ questions:
   authority: ["U.S. Const. art. I, § 6, cl. 1", "Hutchinson v. Proxmire, 443 U.S. 111 (1979)", "Gravel v. United States, 408 U.S. 606 (1972)"]
   source: original
   tags: [wave1, speech-or-debate, immunities]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"

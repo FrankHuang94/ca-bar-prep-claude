@@ -47,8 +47,8 @@ questions:
   authority: ["U.S. Const. art. I, § 8, cl. 3", "United States v. Lopez, 514 U.S. 549 (1995)", "United States v. Morrison, 529 U.S. 598 (2000)", "Wickard v. Filburn, 317 U.S. 111 (1942)"]
   source: original
   tags: [wave2, w2a, commerce-clause]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CON-0060
   subject: CON
@@ -89,8 +89,8 @@ questions:
   authority: ["U.S. Const. art. I, § 8, cl. 1", "NFIB v. Sebelius, 567 U.S. 519 (2012)", "Bailey v. Drexel Furniture Co., 259 U.S. 20 (1922)", "United States v. Butler, 297 U.S. 1 (1936)"]
   source: original
   tags: [wave2, w2a, taxing-power]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CON-0061
   subject: CON
@@ -134,8 +134,8 @@ questions:
   authority: ["U.S. Const. art. II, § 2, cl. 2", "U.S. Const. art. I, § 8, cl. 18", "Missouri v. Holland, 252 U.S. 416 (1920)"]
   source: original
   tags: [wave2, w2a, foreign-affairs, treaty-implementation]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CON-0062
   subject: CON
@@ -175,8 +175,8 @@ questions:
   authority: ["U.S. Const. art. IV, § 3, cl. 2", "U.S. Const. art. VI, cl. 2", "Kleppe v. New Mexico, 426 U.S. 529 (1976)"]
   source: original
   tags: [wave2, w2a, property-clause, other-powers]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CON-0063
   subject: CON
@@ -217,8 +217,8 @@ questions:
   authority: ["U.S. Const. art. II, § 2, cl. 1", "Ex parte Garland, 71 U.S. (4 Wall.) 333 (1867)"]
   source: original
   tags: [wave2, w2a, pardon-power]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CON-0064
   subject: CON
@@ -267,8 +267,8 @@ questions:
   authority: ["U.S. Const. art. II, § 2, cl. 1", "U.S. Const. amend. V", "Hamdi v. Rumsfeld, 542 U.S. 507 (2004)", "Mathews v. Eldridge, 424 U.S. 319 (1976)"]
   source: original
   tags: [wave2, w2a, commander-in-chief, detention]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CON-0065
   subject: CON
@@ -308,8 +308,8 @@ questions:
   authority: ["U.S. Const. art. I, § 7, cl. 2"]
   source: original
   tags: [wave2, w2a, presentment, veto]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CON-0066
   subject: CON
@@ -351,8 +351,8 @@ questions:
   authority: ["U.S. Const. art. I, § 1", "J.W. Hampton, Jr., & Co. v. United States, 276 U.S. 394 (1928)", "Whitman v. American Trucking Ass'ns, 531 U.S. 457 (2001)", "INS v. Chadha, 462 U.S. 919 (1983)"]
   source: original
   tags: [wave2, w2a, nondelegation]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CON-0067
   subject: CON
@@ -394,5 +394,5 @@ questions:
   authority: ["Nixon v. Fitzgerald, 457 U.S. 731 (1982)", "Harlow v. Fitzgerald, 457 U.S. 800 (1982)", "Clinton v. Jones, 520 U.S. 681 (1997)"]
   source: original
   tags: [wave2, w2a, presidential-immunity]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"

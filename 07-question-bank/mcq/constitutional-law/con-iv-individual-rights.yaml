@@ -39,8 +39,8 @@ questions:
   authority: ["Rendell-Baker v. Kohn, 457 U.S. 830 (1982)", "Blum v. Yaretsky, 457 U.S. 991 (1982)", "Jackson v. Metropolitan Edison Co., 419 U.S. 345 (1974)"]
   source: original
   tags: [wave1, state-action]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CON-0027
   subject: CON
@@ -79,8 +79,8 @@ questions:
   authority: ["U.S. Const. amend. XIV, § 1", "Washington v. Glucksberg, 521 U.S. 702 (1997)", "Cruzan v. Director, Mo. Dep't of Health, 497 U.S. 261 (1990)"]
   source: original
   tags: [wave1, substantive-due-process, fundamental-rights]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CON-0028
   subject: CON
@@ -119,8 +119,8 @@ questions:
   authority: ["U.S. Const. amend. XIV, § 1", "Williamson v. Lee Optical of Okla., Inc., 348 U.S. 483 (1955)", "West Coast Hotel Co. v. Parrish, 300 U.S. 379 (1937)"]
   source: original
   tags: [wave1, substantive-due-process, rational-basis]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CON-0029
   subject: CON
@@ -162,8 +162,8 @@ questions:
   authority: ["U.S. Const. amend. XIV, § 1", "Board of Regents v. Roth, 408 U.S. 564 (1972)", "Perry v. Sindermann, 408 U.S. 593 (1972)"]
   source: original
   tags: [wave1, procedural-due-process, property-interest]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CON-0030
   subject: CON
@@ -206,8 +206,8 @@ questions:
   authority: ["Cleveland Bd. of Educ. v. Loudermill, 470 U.S. 532 (1985)", "Mathews v. Eldridge, 424 U.S. 319 (1976)"]
   source: original
   tags: [wave1, procedural-due-process, what-process-is-due]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CON-0031
   subject: CON
@@ -248,8 +248,8 @@ questions:
   authority: ["Memorial Hospital v. Maricopa County, 415 U.S. 250 (1974)", "Shapiro v. Thompson, 394 U.S. 618 (1969)", "Saenz v. Roe, 526 U.S. 489 (1999)"]
   source: original
   tags: [wave1, equal-protection, right-to-travel]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CON-0032
   subject: CON
@@ -290,8 +290,8 @@ questions:
   authority: ["U.S. Const. amend. XIV, § 1", "Orr v. Orr, 440 U.S. 268 (1979)", "United States v. Virginia, 518 U.S. 515 (1996)", "Mississippi Univ. for Women v. Hogan, 458 U.S. 718 (1982)"]
   source: original
   tags: [wave1, equal-protection, sex-discrimination]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CON-0033
   subject: CON
@@ -331,8 +331,8 @@ questions:
   authority: ["U.S. Const. amend. XIV, § 1", "Foley v. Connelie, 435 U.S. 291 (1978)", "Graham v. Richardson, 403 U.S. 365 (1971)"]
   source: original
   tags: [wave1, equal-protection, alienage]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CON-0034
   subject: CON
@@ -372,8 +372,8 @@ questions:
   authority: ["Washington v. Davis, 426 U.S. 229 (1976)", "Village of Arlington Heights v. Metro. Hous. Dev. Corp., 429 U.S. 252 (1977)"]
   source: original
   tags: [wave1, equal-protection, discriminatory-purpose]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CON-0035
   subject: CON
@@ -410,8 +410,8 @@ questions:
   authority: ["Massachusetts Bd. of Retirement v. Murgia, 427 U.S. 307 (1976)", "Gregory v. Ashcroft, 501 U.S. 452 (1991)"]
   source: original
   tags: [wave1, equal-protection, rational-basis, age]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CON-0036
   subject: CON
@@ -450,8 +450,8 @@ questions:
   authority: ["U.S. Const. amend. V", "Loretto v. Teleprompter Manhattan CATV Corp., 458 U.S. 419 (1982)", "Penn Central Transp. Co. v. New York City, 438 U.S. 104 (1978)"]
   source: original
   tags: [wave1, takings, physical-occupation]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CON-0037
   subject: CON
@@ -492,8 +492,8 @@ questions:
   authority: ["U.S. Const. amend. V", "Nollan v. California Coastal Comm'n, 483 U.S. 825 (1987)", "Dolan v. City of Tigard, 512 U.S. 374 (1994)", "Koontz v. St. Johns River Water Mgmt. Dist., 570 U.S. 595 (2013)"]
   source: original
   tags: [wave1, takings, exactions]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CON-0038
   subject: CON
@@ -535,8 +535,8 @@ questions:
   authority: ["U.S. Const. art. IV, § 2, cl. 1", "United Bldg. & Constr. Trades Council v. Mayor of Camden, 465 U.S. 208 (1984)", "White v. Mass. Council of Constr. Employers, 460 U.S. 204 (1983)"]
   source: original
   tags: [wave1, privileges-and-immunities, market-participant]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CON-0039
   subject: CON
@@ -574,8 +574,8 @@ questions:
   authority: ["U.S. Const. art. I, § 10, cl. 1", "Pension Benefit Guaranty Corp. v. R.A. Gray & Co., 467 U.S. 717 (1984)", "Home Bldg. & Loan Ass'n v. Blaisdell, 290 U.S. 398 (1934)"]
   source: original
   tags: [wave1, contracts-clause]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CON-0040
   subject: CON
@@ -616,5 +616,5 @@ questions:
   authority: ["U.S. Const. art. I, § 10, cl. 1", "Calder v. Bull, 3 U.S. (3 Dall.) 386 (1798)", "Stogner v. California, 539 U.S. 607 (2003)"]
   source: original
   tags: [wave1, ex-post-facto]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"

@@ -44,8 +44,8 @@ questions:
   authority: ["U.S. Const. art. I, § 8, cls. 11–12, 18", "U.S. Const. amend. XIII, § 1", "Selective Draft Law Cases, 245 U.S. 366 (1918)", "Butler v. Perry, 240 U.S. 328 (1916)"]
   source: original
   tags: [wave2, w2b, war-powers, conscription]
-  status: draft
-  last_verified: 2026-11-05
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CON-0111
   subject: CON
@@ -89,8 +89,8 @@ questions:
   authority: ["U.S. Const. amend. XIV, § 1", "U.S. Const. art. I, § 8, cl. 4", "Afroyim v. Rusk, 387 U.S. 253 (1967)", "Vance v. Terrazas, 444 U.S. 252 (1980)"]
   source: original
   tags: [wave2, w2b, citizenship, naturalization-power]
-  status: draft
-  last_verified: 2026-11-05
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CON-0112
   subject: CON
@@ -131,8 +131,8 @@ questions:
   authority: ["U.S. Const. art. II, § 2, cl. 1", "U.S. Const. art. I, § 8, cl. 11", "The Prize Cases, 67 U.S. (2 Black) 635 (1863)", "Youngstown Sheet & Tube Co. v. Sawyer, 343 U.S. 579 (1952)", "Ex parte Milligan, 71 U.S. (4 Wall.) 2 (1866)"]
   source: original
   tags: [wave2, w2b, commander-in-chief, war-powers]
-  status: draft
-  last_verified: 2026-11-05
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CON-0113
   subject: CON
@@ -178,8 +178,8 @@ questions:
   authority: ["U.S. Const. art. II, §§ 2–3", "Zivotofsky v. Kerry, 576 U.S. 1 (2015)", "Zivotofsky v. Clinton, 566 U.S. 189 (2012)", "Youngstown Sheet & Tube Co. v. Sawyer, 343 U.S. 579 (1952) (Jackson, J., concurring)"]
   source: original
   tags: [wave2, w2b, foreign-affairs, recognition-power, youngstown]
-  status: draft
-  last_verified: 2026-11-05
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CON-0114
   subject: CON
@@ -221,8 +221,8 @@ questions:
   authority: ["U.S. Const. art. II, § 2, cl. 3", "NLRB v. Noel Canning, 573 U.S. 513 (2014)"]
   source: original
   tags: [wave2, w2b, appointments, recess-appointments]
-  status: draft
-  last_verified: 2026-11-05
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CON-0115
   subject: CON
@@ -267,8 +267,8 @@ questions:
   authority: ["U.S. Const. art. II, §§ 1, 3", "Bowsher v. Synar, 478 U.S. 714 (1986)", "INS v. Chadha, 462 U.S. 919 (1983)", "Myers v. United States, 272 U.S. 52 (1926)"]
   source: original
   tags: [wave2, w2b, removal, congressional-control]
-  status: draft
-  last_verified: 2026-11-05
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CON-0116
   subject: CON
@@ -310,5 +310,5 @@ questions:
   authority: ["U.S. Const. art. I, § 7, cl. 2", "Clinton v. City of New York, 524 U.S. 417 (1998)", "Train v. City of New York, 420 U.S. 35 (1975)", "INS v. Chadha, 462 U.S. 919 (1983)"]
   source: original
   tags: [wave2, w2b, presentment, line-item-veto]
-  status: draft
-  last_verified: 2026-11-05
+  status: verified
+  last_verified: "2026-11-05"

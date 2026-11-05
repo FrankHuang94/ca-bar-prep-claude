@@ -41,8 +41,8 @@ questions:
   authority: ["U.S. Const. amend. VII", "Beacon Theatres, Inc. v. Westover, 359 U.S. 500 (1959)", "Dairy Queen, Inc. v. Wood, 369 U.S. 469 (1962)"]
   source: original
   tags: [wave1, M1, jury-right, legal-equitable]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CIV-0033
   subject: CIV
@@ -78,8 +78,8 @@ questions:
   authority: ["FRCP 38(b), (d)", "FRCP 39(b)"]
   source: original
   tags: [wave1, M1, jury-demand]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CIV-0034
   subject: CIV
@@ -117,8 +117,8 @@ questions:
   authority: ["Batson v. Kentucky, 476 U.S. 79 (1986)", "Edmonson v. Leesville Concrete Co., 500 U.S. 614 (1991)", "28 U.S.C. § 1870"]
   source: original
   tags: [wave1, M1, jury-selection, batson]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CIV-0035
   subject: CIV
@@ -157,5 +157,5 @@ questions:
   authority: ["FRCP 51(c)-(d)"]
   source: original
   tags: [wave1, M1, jury-instructions, preservation]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"

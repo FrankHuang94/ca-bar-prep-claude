@@ -22,8 +22,8 @@ issues:
   - {issue: "Election and best combination of remedies; no double recovery", points: 7, call: 3, major: false, rule_ids: [R-REM-005, R-REM-006], coverage_ids: [REM-CBX-I]}
 time_minutes: 60
 source: original
-status: draft
-last_verified: 2026-11-04
+status: verified
+last_verified: 2026-11-05
 tags: [wave1, E2, tort-remedies, replevin, tracing, constructive-trust, injunction]
 ---
 

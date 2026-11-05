@@ -4,8 +4,8 @@ topic: Common-law reasoning for a PRC civil-law-trained lawyer — mindset, law 
 coverage_ids: []
 tested_on: [MBE, essay, PT]
 exam_frequency: {level: n/a, basis: "Foundations reference"}
-last_verified: 2026-11-04
-status: draft
+last_verified: 2026-11-05
+status: reviewed
 ---
 
 # Common law for civil lawyers

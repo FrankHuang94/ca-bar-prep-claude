@@ -41,8 +41,8 @@ questions:
   authority: ["UCC § 2-711", "UCC § 2-712(3)", "UCC § 2-713", "UCC § 2-715(1), (2)(a)"]
   source: original
   tags: [wave1, M1, ucc, buyer-remedies, market-damages]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CTR-0039
   subject: CTR
@@ -83,8 +83,8 @@ questions:
   authority: ["R2d § 347", "R2d § 348"]
   source: original
   tags: [wave1, M1, damages, construction]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CTR-0040
   subject: CTR
@@ -124,8 +124,8 @@ questions:
   authority: ["UCC § 2-708(2)", "UCC § 2-710", "UCC § 2-709", "Neri v. Retail Marine Corp., 30 N.Y.2d 393, 285 N.E.2d 311 (1972)"]
   source: original
   tags: [wave1, M1, ucc, seller-remedies, lost-volume]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CTR-0041
   subject: CTR
@@ -168,8 +168,8 @@ questions:
   authority: ["Hadley v. Baxendale (1854) 9 Ex. 341", "R2d § 351", "R2d § 352"]
   source: original
   tags: [wave1, M1, damages, foreseeability]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CTR-0042
   subject: CTR
@@ -210,8 +210,8 @@ questions:
   authority: ["R2d § 356", "UCC § 2-718(1)"]
   source: original
   tags: [wave1, M1, damages, liquidated-damages]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CTR-0043
   subject: CTR
@@ -252,8 +252,8 @@ questions:
   authority: ["R2d § 350", "R2d § 347", "Rockingham County v. Luten Bridge Co., 35 F.2d 301 (4th Cir. 1929)"]
   source: original
   tags: [wave1, M1, damages, mitigation]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CTR-0044
   subject: CTR
@@ -294,8 +294,8 @@ questions:
   authority: ["R2d § 367", "Lumley v. Wagner (1852) 1 De G.M. & G. 604"]
   source: original
   tags: [wave1, M1, equitable-remedies, specific-performance]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CTR-0045
   subject: CTR
@@ -335,8 +335,8 @@ questions:
   authority: ["R2d § 349", "R2d § 352"]
   source: original
   tags: [wave1, M1, damages, reliance]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CTR-0046
   subject: CTR
@@ -378,5 +378,5 @@ questions:
   authority: ["UCC § 2-718(2)-(3)", "UCC § 2-706(6)", "R2d § 374"]
   source: original
   tags: [wave1, M1, ucc, restitution, breaching-party]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"

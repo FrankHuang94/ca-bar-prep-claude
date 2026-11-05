@@ -44,8 +44,8 @@ questions:
   authority: ["Restatement (Second) of Torts §§ 519, 520, 523, 524", "Restatement (Third) of Torts: Liability for Physical and Emotional Harm § 25"]
   source: original
   tags: [wave2, W2b-TRT, strict-liability, abnormally-dangerous, comparative-fault]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-TRT-0137
   subject: TRT
@@ -84,8 +84,8 @@ questions:
   authority: ["Restatement (Second) of Torts § 504", "Restatement (Third) of Torts: Liability for Physical and Emotional Harm § 21"]
   source: original
   tags: [wave2, W2b-TRT, strict-liability, animals, livestock-trespass]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-TRT-0138
   subject: TRT
@@ -124,8 +124,8 @@ questions:
   authority: ["Restatement (Third) of Torts: Products Liability § 2(c)"]
   source: original
   tags: [wave2, W2b-TRT, products-liability, warning-defect, obvious-risk]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-TRT-0139
   subject: TRT
@@ -164,8 +164,8 @@ questions:
   authority: ["Elmore v. American Motors Corp., 70 Cal.2d 578 (1969)", "Restatement (Third) of Torts: Products Liability § 1"]
   source: original
   tags: [wave2, W2b-TRT, products-liability, bystander, privity]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-TRT-0140
   subject: TRT
@@ -205,8 +205,8 @@ questions:
   authority: ["Price v. Shell Oil Co., 2 Cal.3d 245 (1970)", "Restatement (Third) of Torts: Products Liability § 20"]
   source: original
   tags: [wave2, W2b-TRT, products-liability, commercial-lessor]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-TRT-0141
   subject: TRT
@@ -246,8 +246,8 @@ questions:
   authority: ["Restatement (Second) of Torts §§ 402, 402A"]
   source: original
   tags: [wave2, W2b-TRT, products-liability, retailer, negligence-vs-strict-liability]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-TRT-0142
   subject: TRT
@@ -291,8 +291,8 @@ questions:
   authority: ["UCC § 2-315", "UCC § 2-314", "UCC § 2-313"]
   source: original
   tags: [wave2, W2b-TRT, products-liability, warranty, fitness-for-particular-purpose]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-TRT-0143
   subject: TRT
@@ -332,8 +332,8 @@ questions:
   authority: ["Restatement (Third) of Torts: Products Liability § 4(b)"]
   source: original
   tags: [wave2, W2b-TRT, products-liability, design-defect, regulatory-compliance]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-TRT-0144
   subject: TRT
@@ -377,5 +377,5 @@ questions:
   authority: ["Restatement (Second) of Torts § 402A", "Restatement (Third) of Torts: Products Liability § 1"]
   source: original
   tags: [wave2, W2b-TRT, products-liability, chain-of-distribution, defect-at-time-of-sale]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"

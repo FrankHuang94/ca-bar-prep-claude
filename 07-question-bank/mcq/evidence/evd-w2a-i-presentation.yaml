@@ -44,8 +44,8 @@ questions:
   authority: ["FRE 103(a)", "FRE 103(b)", "FRE 103(e)"]
   source: original
   tags: [wave2, W2-EVD, objections, preservation]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0052
   subject: EVD
@@ -89,8 +89,8 @@ questions:
   authority: ["FRE 601"]
   source: original
   tags: [wave2, W2-EVD, competency, dead-mans-statute]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0053
   subject: EVD
@@ -133,8 +133,8 @@ questions:
   authority: ["FRE 104(a)", "FRE 104(b)", "FRE 803(2)", "Bourjaily v. United States, 483 U.S. 171 (1987)"]
   source: original
   tags: [wave2, W2-EVD, judge-and-jury, preliminary-questions]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0054
   subject: EVD
@@ -177,8 +177,8 @@ questions:
   authority: ["FRE 105", "FRE 801(d)(2)(A)", "FRE 403"]
   source: original
   tags: [wave2, W2-EVD, limited-admissibility, limiting-instruction]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0055
   subject: EVD
@@ -219,8 +219,8 @@ questions:
   authority: ["FRE 301"]
   source: original
   tags: [wave2, W2-EVD, presumptions, burden-of-production]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0056
   subject: EVD
@@ -260,8 +260,8 @@ questions:
   authority: ["FRE 611(a)", "FRE 614"]
   source: original
   tags: [wave2, W2-EVD, mode-and-order, court-witness]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0057
   subject: EVD
@@ -305,8 +305,8 @@ questions:
   authority: ["FRE 611(b)", "FRE 611(c)"]
   source: original
   tags: [wave2, W2-EVD, scope-of-cross]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0058
   subject: EVD
@@ -347,8 +347,8 @@ questions:
   authority: ["FRE 615(a)"]
   source: original
   tags: [wave2, W2-EVD, exclusion-of-witnesses]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0059
   subject: EVD
@@ -389,8 +389,8 @@ questions:
   authority: ["FRE 609(a)(1)", "FRE 609(a)(2)", "FRE 609(b)"]
   source: original
   tags: [wave2, W2-EVD, impeachment, prior-conviction]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0060
   subject: EVD
@@ -430,8 +430,8 @@ questions:
   authority: ["FRE 608(a)", "FRE 608(b)"]
   source: original
   tags: [wave2, W2-EVD, impeachment, character-for-truthfulness]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0061
   subject: EVD
@@ -471,8 +471,8 @@ questions:
   authority: ["FRE 607", "FRE 608(b)", "FRE 403"]
   source: original
   tags: [wave2, W2-EVD, impeachment, capacity]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0062
   subject: EVD
@@ -517,8 +517,8 @@ questions:
   authority: ["FRE 403", "FRE 607", "FRE 611(a)", "FRE 608(b)", "FRE 613(b)"]
   source: original
   tags: [wave2, W2-EVD, impeachment, contradiction, collateral-matter]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0063
   subject: EVD
@@ -559,5 +559,5 @@ questions:
   authority: ["FRE 1101(c)", "FRE 1101(d)(3)", "FRE 501", "Trammel v. United States, 445 U.S. 40 (1980)"]
   source: original
   tags: [wave2, W2-EVD, proceedings, sentencing, marital-privilege]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"

@@ -41,8 +41,8 @@ questions:
   authority: ["28 U.S.C. § 1292(b)", "FRAP 5(a)"]
   source: original
   tags: [wave2, w2a, interlocutory-appeal, 1292b]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CIV-0098
   subject: CIV
@@ -86,8 +86,8 @@ questions:
   authority: ["FRCP 54(b)", "FRCP 58(a)", "28 U.S.C. § 1291", "FRAP 4(a)(1)(A)"]
   source: original
   tags: [wave2, w2a, final-judgment, rule-54b]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CIV-0099
   subject: CIV
@@ -127,8 +127,8 @@ questions:
   authority: ["28 U.S.C. § 1291", "Allied Chemical Corp. v. Daiflon, Inc., 449 U.S. 33 (1980)", "FRCP 59(a)"]
   source: original
   tags: [wave2, w2a, final-judgment, new-trial]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CIV-0100
   subject: CIV
@@ -169,5 +169,5 @@ questions:
   authority: ["U.S. Const. amend. VII", "FRCP 61", "28 U.S.C. § 2111", "FRCP 52(a)(6)"]
   source: original
   tags: [wave2, w2a, standards-of-review]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"

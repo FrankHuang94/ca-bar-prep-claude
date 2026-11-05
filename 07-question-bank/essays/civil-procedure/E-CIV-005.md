@@ -18,8 +18,8 @@ issues:
   - {issue: "Apex's defensive non-mutual issue preclusion: Lucido elements (identity, actually litigated, necessarily decided by special verdict, party), no mutuality (Bernhard), public policy; premature pending appeal", points: 16, call: 2, major: true, rule_ids: [R-CIV-115, R-CIV-095, R-CIV-096], coverage_ids: [CIV-SUP-008, CIV-MBE-VI.D]}
 time_minutes: 60
 source: original
-status: draft
-last_verified: 2026-11-04
+status: verified
+last_verified: 2026-11-05
 tags: [wave2, W2-E7, california-procedure, jury-trial, primary-rights, res-judicata, collateral-estoppel, compulsory-cross-complaint]
 ---
 

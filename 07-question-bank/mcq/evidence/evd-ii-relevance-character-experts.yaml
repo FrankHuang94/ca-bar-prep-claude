@@ -40,8 +40,8 @@ questions:
   authority: ["FRE 403", "Old Chief v. United States, 519 U.S. 172 (1997)"]
   source: original
   tags: [wave1, M3, rule-403]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0014
   subject: EVD
@@ -81,8 +81,8 @@ questions:
   authority: ["FRE 404(a)(2)(B)", "FRE 405(a)"]
   source: original
   tags: [wave1, M3, character, victim-character]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0015
   subject: EVD
@@ -119,8 +119,8 @@ questions:
   authority: ["FRE 404(a)(2)(A)", "FRE 405(a)"]
   source: original
   tags: [wave1, M3, character, methods-of-proof]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0016
   subject: EVD
@@ -161,8 +161,8 @@ questions:
   authority: ["FRE 405(a)", "Michelson v. United States, 335 U.S. 469 (1948)"]
   source: original
   tags: [wave1, M3, character, character-witness]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0017
   subject: EVD
@@ -203,8 +203,8 @@ questions:
   authority: ["FRE 404(a)(1)", "FRE 405(b)"]
   source: original
   tags: [wave1, M3, character, character-in-issue]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0018
   subject: EVD
@@ -243,8 +243,8 @@ questions:
   authority: ["FRE 406", "FRE 404(a)(1)"]
   source: original
   tags: [wave1, M3, habit]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0019
   subject: EVD
@@ -287,8 +287,8 @@ questions:
   authority: ["FRE 404(b)", "FRE 104(b)", "FRE 403", "Huddleston v. United States, 485 U.S. 681 (1988)", "Dowling v. United States, 493 U.S. 342 (1990)"]
   source: original
   tags: [wave1, M3, other-acts, 404b]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0020
   subject: EVD
@@ -328,8 +328,8 @@ questions:
   authority: ["FRE 415", "FRE 413(d)", "FRE 403"]
   source: original
   tags: [wave1, M3, sexual-assault-propensity]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0021
   subject: EVD
@@ -369,8 +369,8 @@ questions:
   authority: ["FRE 901(a)", "FRE 901(b)(2)", "FRE 901(b)(3)"]
   source: original
   tags: [wave1, M3, authentication, handwriting]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0022
   subject: EVD
@@ -409,8 +409,8 @@ questions:
   authority: ["FRE 901(a)", "FRE 901(b)(1)", "FRE 902"]
   source: original
   tags: [wave1, M3, authentication, photographs]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0023
   subject: EVD
@@ -451,8 +451,8 @@ questions:
   authority: ["FRE 107 (eff. Dec. 1, 2024)", "FRE 1006"]
   source: original
   tags: [wave1, M3, illustrative-aids, 2024-amendment]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0024
   subject: EVD
@@ -494,8 +494,8 @@ questions:
   authority: ["FRE 702 (as amended Dec. 1, 2023)", "FRE 104(a)", "Daubert v. Merrell Dow Pharmaceuticals, Inc., 509 U.S. 579 (1993)"]
   source: original
   tags: [wave1, M3, experts, 2023-amendment]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0025
   subject: EVD
@@ -534,8 +534,8 @@ questions:
   authority: ["FRE 702", "Daubert v. Merrell Dow Pharmaceuticals, Inc., 509 U.S. 579 (1993)"]
   source: original
   tags: [wave1, M3, experts, daubert]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0026
   subject: EVD
@@ -576,8 +576,8 @@ questions:
   authority: ["FRE 703", "FRE 705"]
   source: original
   tags: [wave1, M3, experts, basis]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0027
   subject: EVD
@@ -616,8 +616,8 @@ questions:
   authority: ["FRE 704(a)", "FRE 704(b)"]
   source: original
   tags: [wave1, M3, experts, ultimate-issue]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0028
   subject: EVD
@@ -657,5 +657,5 @@ questions:
   authority: ["FRE 702", "FRE 701(c)", "Kumho Tire Co. v. Carmichael, 526 U.S. 137 (1999)"]
   source: original
   tags: [wave1, M3, experts, qualifications]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"

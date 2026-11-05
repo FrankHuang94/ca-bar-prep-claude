@@ -19,8 +19,8 @@ issues:
   - {issue: "Reliance damages as an alternative; election; no punitive damages for breach", points: 10, call: 4, major: false, rule_ids: [R-CTR-107, R-REM-005, R-REM-031], coverage_ids: [REM-CBX-II, REM-CBX-I]}
 time_minutes: 60
 source: original
-status: draft
-last_verified: 2026-11-04
+status: verified
+last_verified: 2026-11-05
 tags: [wave1, E2, contract-remedies, reformation, rescission, specific-performance, damages]
 ---
 

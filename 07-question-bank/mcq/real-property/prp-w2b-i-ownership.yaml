@@ -45,8 +45,8 @@ questions:
   authority: ["Common-law Rule Against Perpetuities", "Common law: fee simple subject to executory limitation"]
   source: original
   tags: [wave2, W2b-PRP, rule-against-perpetuities, executory-interests, fee-simple]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-PRP-0102
   subject: PRP
@@ -87,8 +87,8 @@ questions:
   authority: ["Common law: construction of defeasible fees; words of purpose"]
   source: original
   tags: [wave2, W2b-PRP, defeasible-fees, words-of-purpose]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-PRP-0103
   subject: PRP
@@ -126,8 +126,8 @@ questions:
   authority: ["Common law: life estate pur autre vie"]
   source: original
   tags: [wave2, W2b-PRP, life-estates, pur-autre-vie]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-PRP-0104
   subject: PRP
@@ -170,8 +170,8 @@ questions:
   authority: ["Common law: reversions and contingent remainders", "Statute abolishing destructibility of contingent remainders (as stated in the stem)"]
   source: original
   tags: [wave2, W2b-PRP, reversions, contingent-remainders, destructibility]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-PRP-0105
   subject: PRP
@@ -210,8 +210,8 @@ questions:
   authority: ["Common law: tenancy for years ends without notice"]
   source: original
   tags: [wave2, W2b-PRP, landlord-tenant, tenancy-for-years]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-PRP-0106
   subject: PRP
@@ -253,8 +253,8 @@ questions:
   authority: ["Common law: assignment and sublease; privity of estate and of contract"]
   source: original
   tags: [wave2, W2b-PRP, landlord-tenant, sublease]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-PRP-0107
   subject: PRP
@@ -299,8 +299,8 @@ questions:
   authority: ["Common law: surrender by operation of law", "Common law: abandonment and mitigation"]
   source: original
   tags: [wave2, W2b-PRP, landlord-tenant, surrender]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-PRP-0108
   subject: PRP
@@ -341,8 +341,8 @@ questions:
   authority: ["Javins v. First National Realty Corp., 428 F.2d 1071 (D.C. Cir. 1970)", "Common law: implied warranty of habitability"]
   source: original
   tags: [wave2, W2b-PRP, landlord-tenant, habitability]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-PRP-0109
   subject: PRP
@@ -382,8 +382,8 @@ questions:
   authority: ["Common law: restraints on alienation of a fee simple"]
   source: original
   tags: [wave2, W2b-PRP, restraints-on-alienation, alienability]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-PRP-0110
   subject: PRP
@@ -422,5 +422,5 @@ questions:
   authority: ["Conflict of laws: the situs rule for succession to land"]
   source: original
   tags: [wave2, W2b-PRP, conflict-of-laws, situs, intestacy]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"

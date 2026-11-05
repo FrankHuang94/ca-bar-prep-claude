@@ -4,8 +4,8 @@ topic: Torts — MBE assumptions, favored black-letter rules, weights and recurr
 coverage_ids: [TRT-MBE-I, TRT-MBE-II, TRT-MBE-III, TRT-MBE-IV]
 tested_on: [MBE]
 exam_frequency: {level: high, basis: "Essays: 12 of 31 administrations 2012-02 to 2026-07 (39%); MBE: 25 scored questions every exam"}
-last_verified: 2026-11-04
-status: draft
+last_verified: 2026-11-05
+status: reviewed
 ---
 
 # Torts — MBE rules

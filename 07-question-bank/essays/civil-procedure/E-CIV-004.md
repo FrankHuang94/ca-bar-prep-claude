@@ -20,8 +20,8 @@ issues:
   - {issue: "Mixed claims: jury decides common issues first (Beacon Theatres); timely demand", points: 6, call: 4, major: false, rule_ids: [R-CIV-079, R-CIV-080], coverage_ids: [CIV-MBE-IV.A]}
 time_minutes: 60
 source: original
-status: draft
-last_verified: 2026-11-04
+status: verified
+last_verified: 2026-11-05
 tags: [wave2, W2-E7, class-action, discovery-sanctions, summary-judgment, jury-trial]
 ---
 

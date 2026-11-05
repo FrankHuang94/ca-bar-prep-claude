@@ -5,7 +5,7 @@ coverage_ids: [WIL-CBX-stat-1, WIL-CBX-stat-2, WIL-CBX-stat-3, WIL-CBX-stat-4, W
 tested_on: [essay]
 exam_frequency: {level: med, basis: "Essays: 13 of 31 administrations 2012-02 to 2026-07 (42%)"}
 last_verified: 2026-11-05
-status: draft
+status: reviewed
 ---
 
 # Wills and Succession — key authorities

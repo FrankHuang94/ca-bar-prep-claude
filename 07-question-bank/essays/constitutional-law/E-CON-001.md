@@ -21,8 +21,8 @@ issues:
   - {issue: "Section 2 as applied: content/viewpoint discrimination; heckler's veto; pretext", points: 13, call: 3, major: true, rule_ids: [R-CON-092, R-CON-095, R-CON-106], coverage_ids: [CON-MBE-IV.F.2.a, CON-CBX-VI]}
 time_minutes: 60
 source: original
-status: draft
-last_verified: 2026-11-04
+status: verified
+last_verified: 2026-11-05
 tags: [wave1, E1, first-amendment, standing, mootness, public-forum, prior-restraint]
 ---
 

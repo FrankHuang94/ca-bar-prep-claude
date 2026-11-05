@@ -41,8 +41,8 @@ questions:
   authority: ["Walker v. Armco Steel Corp., 446 U.S. 740 (1980)", "Guaranty Trust Co. v. York, 326 U.S. 99 (1945)", "FRCP 3"]
   source: original
   tags: [wave1, M1, erie, limitations]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CIV-0017
   subject: CIV
@@ -85,8 +85,8 @@ questions:
   authority: ["Hanna v. Plumer, 380 U.S. 460 (1965)", "28 U.S.C. § 2072", "FRCP 4(e)(2)(B)"]
   source: original
   tags: [wave1, M1, erie, hanna]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CIV-0018
   subject: CIV
@@ -130,8 +130,8 @@ questions:
   authority: ["Byrd v. Blue Ridge Rural Electric Cooperative, Inc., 356 U.S. 525 (1958)", "U.S. Const. amend. VII", "Simler v. Conner, 372 U.S. 221 (1963)"]
   source: original
   tags: [wave1, M1, erie, byrd, judge-jury]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CIV-0019
   subject: CIV
@@ -171,5 +171,5 @@ questions:
   authority: ["Clearfield Trust Co. v. United States, 318 U.S. 363 (1943)", "Erie R.R. v. Tompkins, 304 U.S. 64 (1938)"]
   source: original
   tags: [wave1, M1, federal-common-law]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"

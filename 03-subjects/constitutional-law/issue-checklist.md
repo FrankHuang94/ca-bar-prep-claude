@@ -4,8 +4,8 @@ topic: Constitutional Law — issue-spotting checklist (essay order)
 coverage_ids: [CON-MBE-I.C.1, CON-MBE-I.B.2, CON-MBE-II.A, CON-MBE-II.B, CON-MBE-III.B, CON-MBE-IV.A, CON-MBE-IV.B, CON-MBE-IV.C, CON-MBE-IV.D, CON-MBE-IV.E, CON-MBE-IV.F]
 tested_on: [essay]
 exam_frequency: {level: high, basis: "Essays: 13 of 31 administrations 2012-02 to 2026-07 (42%); MBE: 25 scored questions every exam"}
-last_verified: 2026-11-04
-status: draft
+last_verified: 2026-11-05
+status: verified
 ---
 
 # Constitutional Law — issue checklist

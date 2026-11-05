@@ -20,8 +20,8 @@ issues:
   - {issue: "Theo: child standard of care; comparative fault; assumption of risk fails; damages", points: 6, call: 2, rule_ids: [R-TRT-026, R-TRT-070, R-TRT-072, R-TRT-113], coverage_ids: [TRT-MBE-II.G.1]}
 time_minutes: 60
 source: original
-status: draft
-last_verified: 2026-11-04
+status: verified
+last_verified: 2026-11-05
 tags: [wave2, W2-E5, strict-liability, abnormally-dangerous-activity, negligence-per-se, landowner-duties, trespassers, attractive-nuisance, rowland, recreational-use]
 ---
 

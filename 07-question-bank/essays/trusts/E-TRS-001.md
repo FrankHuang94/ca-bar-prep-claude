@@ -20,8 +20,8 @@ issues:
   - {issue: "Remedies: profit vs. rescission and the good-faith purchaser; surcharge; tracing; removal; petitions; exculpatory clause", points: 22, call: 3, major: true, rule_ids: [R-TRS-072, R-TRS-073, R-TRS-078, R-TRS-079, R-TRS-080, R-TRS-081, R-TRS-082, R-TRS-084, R-TRS-086, R-TRS-095], coverage_ids: [TRS-CBX-VIII, TRS-CBX-IX, TRS-CBX-XII]}
 time_minutes: 60
 source: original
-status: draft
-last_verified: 2026-11-04
+status: verified
+last_verified: 2026-11-05
 tags: [wave1, E3, haggerty, trust-amendment, trustee-duties, remedies]
 ---
 

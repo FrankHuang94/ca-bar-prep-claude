@@ -4,8 +4,8 @@ topic: Constitutional Law — essay templates
 coverage_ids: [CON-MBE-I.C.1, CON-MBE-II.A.1, CON-MBE-III.A.2, CON-MBE-III.B.1, CON-MBE-IV.B, CON-MBE-IV.C, CON-MBE-IV.D, CON-MBE-IV.E, CON-MBE-IV.F.1, CON-MBE-IV.F.2, CON-CBX-VII]
 tested_on: [essay]
 exam_frequency: {level: high, basis: "Essays: 13 of 31 administrations 2012-02 to 2026-07 (42%); MBE: 25 scored questions every exam"}
-last_verified: 2026-11-04
-status: draft
+last_verified: 2026-11-05
+status: reviewed
 ---
 
 # Constitutional Law — essay templates

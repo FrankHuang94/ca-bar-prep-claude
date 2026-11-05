@@ -39,8 +39,8 @@ questions:
   authority: ["Restatement (Second) of Torts §§ 519, 520"]
   source: original
   tags: [wave2, W2-TRT, strict-liability, abnormally-dangerous]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-TRT-0087
   subject: TRT
@@ -79,8 +79,8 @@ questions:
   authority: ["Restatement (Second) of Torts § 509"]
   source: original
   tags: [wave2, W2-TRT, strict-liability, animals, known-propensity]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-TRT-0088
   subject: TRT
@@ -118,8 +118,8 @@ questions:
   authority: ["Restatement (Second) of Torts §§ 506, 507"]
   source: original
   tags: [wave2, W2-TRT, strict-liability, animals, wild-animals]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-TRT-0089
   subject: TRT
@@ -161,8 +161,8 @@ questions:
   authority: ["Restatement (Third) of Torts: Products Liability § 3"]
   source: original
   tags: [wave2, W2-TRT, products-liability, manufacturing-defect, malfunction-doctrine]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-TRT-0090
   subject: TRT
@@ -203,8 +203,8 @@ questions:
   authority: ["Restatement (Third) of Torts: Products Liability § 2(c)"]
   source: original
   tags: [wave2, W2-TRT, products-liability, warning-defect, causation]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-TRT-0091
   subject: TRT
@@ -243,8 +243,8 @@ questions:
   authority: ["Restatement (Second) of Torts § 402A cmt. f", "Restatement (Third) of Torts: Products Liability § 1"]
   source: original
   tags: [wave2, W2-TRT, products-liability, commercial-seller, occasional-seller]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-TRT-0092
   subject: TRT
@@ -285,8 +285,8 @@ questions:
   authority: ["Restatement (Second) of Torts § 402A(1)(b)", "Restatement (Third) of Torts: Products Liability § 2"]
   source: original
   tags: [wave2, W2-TRT, products-liability, defenses, substantial-alteration]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-TRT-0093
   subject: TRT
@@ -328,5 +328,5 @@ questions:
   authority: ["Restatement (Second) of Torts § 402B"]
   source: original
   tags: [wave2, W2-TRT, products-liability, misrepresentation]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"

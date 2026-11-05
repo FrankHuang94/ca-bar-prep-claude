@@ -19,8 +19,8 @@ issues:
   - {issue: "Eli: no fiduciary duty as a non-managing member of a manager-managed LLC; good faith and fair dealing; competition permitted", points: 10, call: 2, major: true, rule_ids: [R-BUS-104], coverage_ids: [BUS-CBX-VI]}
 time_minutes: 60
 source: original
-status: draft
-last_verified: 2026-11-04
+status: verified
+last_verified: 2026-11-05
 tags: [wave2, W2-E7, llc, limited-partnership, veil-piercing, llc-fiduciary-duties]
 ---
 

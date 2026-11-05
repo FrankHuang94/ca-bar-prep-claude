@@ -4,8 +4,8 @@ topic: The California legal system — constitution, courts, codes, precedent, p
 coverage_ids: []
 tested_on: [essay]
 exam_frequency: {level: n/a, basis: "Foundations reference"}
-last_verified: 2026-11-04
-status: draft
+last_verified: 2026-11-05
+status: reviewed
 ---
 
 # The California legal system

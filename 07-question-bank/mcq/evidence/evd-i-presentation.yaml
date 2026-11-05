@@ -41,8 +41,8 @@ questions:
   authority: ["FRE 612", "FRE 803(5)"]
   source: original
   tags: [wave1, M3, refreshing-recollection]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0002
   subject: EVD
@@ -84,8 +84,8 @@ questions:
   authority: ["FRE 701", "FRE 702", "FRE 704(a)"]
   source: original
   tags: [wave1, M3, lay-opinion]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0003
   subject: EVD
@@ -125,8 +125,8 @@ questions:
   authority: ["FRE 201(b)", "FRE 201(f)"]
   source: original
   tags: [wave1, M3, judicial-notice]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0004
   subject: EVD
@@ -169,8 +169,8 @@ questions:
   authority: ["FRE 602", "FRE 103(a)(1)"]
   source: original
   tags: [wave1, M3, personal-knowledge, objections]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0005
   subject: EVD
@@ -209,8 +209,8 @@ questions:
   authority: ["FRE 611(c)"]
   source: original
   tags: [wave1, M3, leading-questions]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0006
   subject: EVD
@@ -251,8 +251,8 @@ questions:
   authority: ["FRE 609(a)(2)", "FRE 609(b)"]
   source: original
   tags: [wave1, M3, impeachment, prior-conviction]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0007
   subject: EVD
@@ -292,8 +292,8 @@ questions:
   authority: ["FRE 609(a)(1)(A)", "FRE 403"]
   source: original
   tags: [wave1, M3, impeachment, prior-conviction]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0008
   subject: EVD
@@ -335,8 +335,8 @@ questions:
   authority: ["FRE 608(b)"]
   source: original
   tags: [wave1, M3, impeachment, specific-instances]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0009
   subject: EVD
@@ -377,8 +377,8 @@ questions:
   authority: ["United States v. Abel, 469 U.S. 45 (1984)", "FRE 607", "FRE 608(b)"]
   source: original
   tags: [wave1, M3, impeachment, bias]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0010
   subject: EVD
@@ -422,8 +422,8 @@ questions:
   authority: ["FRE 613(b) (as amended Dec. 1, 2024)", "FRE 613(a)"]
   source: original
   tags: [wave1, M3, impeachment, prior-inconsistent-statement, 2024-amendment]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
   notes: >-
     Call deliberately limited to impeachment use. Whether the statement is also substantive evidence under
     amended FRE 801(d)(1)(A) (V-028) is not tested.
@@ -467,8 +467,8 @@ questions:
   authority: ["FRE 608(a)", "FRE 801(d)(1)(B)", "Tome v. United States, 513 U.S. 150 (1995)"]
   source: original
   tags: [wave1, M3, rehabilitation, character-for-truthfulness]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0012
   subject: EVD
@@ -509,5 +509,5 @@ questions:
   authority: ["FRE 806", "FRE 613(b)", "FRE 801(c)"]
   source: original
   tags: [wave1, M3, impeachment, hearsay-declarant]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"

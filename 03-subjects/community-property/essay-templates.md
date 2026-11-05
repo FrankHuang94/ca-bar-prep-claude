@@ -4,8 +4,8 @@ topic: Community Property — essay templates (heading skeletons for recurring C
 coverage_ids: [CMP-CBX-I, CMP-CBX-II, CMP-CBX-III.A, CMP-CBX-V.A, CMP-CBX-VI, CMP-CBX-VI.debts, CMP-CBX-VII, CMP-CBX-VII.x]
 tested_on: [essay]
 exam_frequency: {level: high, basis: "Essays: 17 of 31 administrations 2012-02 to 2026-07 (55%)"}
-last_verified: 2026-11-04
-status: draft
+last_verified: 2026-11-05
+status: verified
 ---
 
 # Community Property — essay templates

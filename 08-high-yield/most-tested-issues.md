@@ -5,7 +5,7 @@ coverage_ids: []
 tested_on: [MBE, essay]
 exam_frequency: {level: high, basis: "Issue tags in 06-past-exams/index.csv (166 essays, Feb 2012 to Jul 2026; index-level tags, V-070/V-071) and NCBE MBE category shares (S-040)"}
 last_verified: 2026-11-05
-status: draft
+status: reviewed
 ---
 
 # Most-tested issues

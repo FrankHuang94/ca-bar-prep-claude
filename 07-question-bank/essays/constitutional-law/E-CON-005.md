@@ -22,8 +22,8 @@ issues:
   - {issue: "Summit: significant and legitimate public purpose; reasonable and appropriate means (Blaisdell, Energy Reserves, Allied Structural Steel)", points: 10, call: 3, major: true, rule_ids: [R-CON-083], coverage_ids: [CON-MBE-IV.E]}
 time_minutes: 60
 source: original
-status: draft
-last_verified: 2026-11-04
+status: verified
+last_verified: 2026-11-05
 tags: [wave2, W2-E4, procedural-due-process, takings, contracts-clause, stigma-plus]
 ---
 

@@ -38,8 +38,8 @@ questions:
   authority: ["Common law", "MPC § 223.2"]
   source: original
   tags: [wave1, theft, larceny, embezzlement]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CRM-0008
   subject: CRM
@@ -78,8 +78,8 @@ questions:
   authority: ["Common law", "MPC § 223.3"]
   source: original
   tags: [wave1, theft, false-pretenses]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CRM-0009
   subject: CRM
@@ -117,8 +117,8 @@ questions:
   authority: ["Common law", "MPC § 222.1"]
   source: original
   tags: [wave1, robbery]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CRM-0010
   subject: CRM
@@ -156,8 +156,8 @@ questions:
   authority: ["Common law"]
   source: original
   tags: [wave1, burglary, concurrence]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CRM-0011
   subject: CRM
@@ -195,5 +195,5 @@ questions:
   authority: ["Common law", "MPC § 211.1"]
   source: original
   tags: [wave1, assault]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"

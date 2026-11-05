@@ -40,8 +40,8 @@ questions:
   authority: ["Restatement (Second) of Torts § 21"]
   source: original
   tags: [wave2, W2b-TRT, intentional-torts, assault, apparent-ability]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-TRT-0102
   subject: TRT
@@ -83,8 +83,8 @@ questions:
   authority: ["Restatement (Second) of Torts §§ 35, 36"]
   source: original
   tags: [wave2, W2b-TRT, intentional-torts, false-imprisonment, means-of-escape]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-TRT-0103
   subject: TRT
@@ -126,8 +126,8 @@ questions:
   authority: ["Restatement (Second) of Torts § 46"]
   source: original
   tags: [wave2, W2b-TRT, intentional-torts, iied, recklessness]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-TRT-0104
   subject: TRT
@@ -168,8 +168,8 @@ questions:
   authority: ["Restatement (Second) of Torts §§ 8A, 13, 18", "Garratt v. Dailey, 46 Wash.2d 197 (1955)"]
   source: original
   tags: [wave2, W2b-TRT, intentional-torts, battery, substantial-certainty, child-intent]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-TRT-0105
   subject: TRT
@@ -209,8 +209,8 @@ questions:
   authority: ["Restatement (Second) of Torts § 892A", "Mohr v. Williams, 95 Minn. 261 (1905)"]
   source: original
   tags: [wave2, W2b-TRT, defenses, consent, scope-of-consent, medical]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-TRT-0106
   subject: TRT
@@ -250,8 +250,8 @@ questions:
   authority: ["Restatement (Second) of Torts § 892A"]
   source: original
   tags: [wave2, W2b-TRT, defenses, consent, capacity, intoxication]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-TRT-0107
   subject: TRT
@@ -292,8 +292,8 @@ questions:
   authority: ["Restatement (Second) of Torts § 76"]
   source: original
   tags: [wave2, W2b-TRT, defenses, defense-of-others, reasonable-mistake]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-TRT-0108
   subject: TRT
@@ -333,8 +333,8 @@ questions:
   authority: ["Restatement (Second) of Torts §§ 100-106"]
   source: original
   tags: [wave2, W2b-TRT, defenses, recapture-of-chattels, fresh-pursuit]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-TRT-0109
   subject: TRT
@@ -374,8 +374,8 @@ questions:
   authority: ["Restatement (Second) of Torts §§ 147, 150"]
   source: original
   tags: [wave2, W2b-TRT, defenses, parental-discipline, false-imprisonment]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-TRT-0110
   subject: TRT
@@ -417,5 +417,5 @@ questions:
   authority: ["Restatement (Second) of Torts §§ 197, 263", "Ploof v. Putnam, 81 Vt. 471 (1908)", "Vincent v. Lake Erie Transp. Co., 109 Minn. 456 (1910)"]
   source: original
   tags: [wave2, W2b-TRT, defenses, necessity, incomplete-privilege]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"

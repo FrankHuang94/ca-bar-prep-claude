@@ -45,8 +45,8 @@ questions:
   authority: ["FRE 701", "FRE 704(a)"]
   source: original
   tags: [wave2, W2b-EVD, lay-opinion]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0102
   subject: EVD
@@ -93,8 +93,8 @@ questions:
   authority: ["FRE 612(a)", "FRE 612(b)", "FRE 612(c)"]
   source: original
   tags: [wave2, W2b-EVD, refreshing-recollection]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0103
   subject: EVD
@@ -140,8 +140,8 @@ questions:
   authority: ["FRE 606(b)"]
   source: original
   tags: [wave2, W2b-EVD, juror-testimony, verdict-impeachment]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0104
   subject: EVD
@@ -183,8 +183,8 @@ questions:
   authority: ["FRE 201(b)", "FRE 201(e)", "FRE 201(f)", "FRE 301"]
   source: original
   tags: [wave2, W2b-EVD, judicial-notice]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0105
   subject: EVD
@@ -227,8 +227,8 @@ questions:
   authority: ["FRE 301", "FRE 302"]
   source: original
   tags: [wave2, W2b-EVD, presumptions, diversity]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0106
   subject: EVD
@@ -273,8 +273,8 @@ questions:
   authority: ["FRE 105", "FRE 103(e)", "FRE 407"]
   source: original
   tags: [wave2, W2b-EVD, limiting-instruction, preservation]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0107
   subject: EVD
@@ -321,8 +321,8 @@ questions:
   authority: ["FRE 611(a)", "FRE 608(b)", "U.S. Const. amend. VI", "Davis v. Alaska, 415 U.S. 308 (1974)", "Delaware v. Van Arsdall, 475 U.S. 673 (1986)", "United States v. Abel, 469 U.S. 45 (1984)"]
   source: original
   tags: [wave2, W2b-EVD, bias, cross-examination, confrontation]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0108
   subject: EVD
@@ -366,8 +366,8 @@ questions:
   authority: ["FRE 613(a)", "FRE 613(b)"]
   source: original
   tags: [wave2, W2b-EVD, impeachment, prior-inconsistent-statement]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0109
   subject: EVD
@@ -410,8 +410,8 @@ questions:
   authority: ["FRE 611(c)", "FRE 611(a)", "FRE 607"]
   source: original
   tags: [wave2, W2b-EVD, leading-questions, friendly-cross]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0110
   subject: EVD
@@ -453,8 +453,8 @@ questions:
   authority: ["FRE 608(b)"]
   source: original
   tags: [wave2, W2b-EVD, impeachment, specific-instances]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0111
   subject: EVD
@@ -500,8 +500,8 @@ questions:
   authority: ["FRE 806", "FRE 609(a)(2)", "FRE 609(b)", "FRE 801(d)(2)(E)"]
   source: original
   tags: [wave2, W2b-EVD, impeachment, hearsay-declarant, coconspirator]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0112
   subject: EVD
@@ -543,5 +543,5 @@ questions:
   authority: ["FRE 608(a)", "FRE 608(b)"]
   source: original
   tags: [wave2, W2b-EVD, rehabilitation, character-for-truthfulness]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"

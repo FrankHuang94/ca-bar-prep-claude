@@ -37,8 +37,8 @@ questions:
   authority: ["Common law", "MPC § 223.3"]
   source: original
   tags: [wave2, theft, larceny-by-trick]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CRM-0059
   subject: CRM
@@ -77,8 +77,8 @@ questions:
   authority: ["Common law", "MPC §§ 222.1, 223.4"]
   source: original
   tags: [wave2, robbery, extortion]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CRM-0060
   subject: CRM
@@ -118,8 +118,8 @@ questions:
   authority: ["Common law"]
   source: original
   tags: [wave2, burglary, constructive-breaking]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CRM-0061
   subject: CRM
@@ -157,8 +157,8 @@ questions:
   authority: ["Common law", "MPC § 211.1(1)"]
   source: original
   tags: [wave2, assault, attempted-battery]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CRM-0062
   subject: CRM
@@ -196,8 +196,8 @@ questions:
   authority: ["Common law", "MPC §§ 212.1, 212.3"]
   source: original
   tags: [wave2, kidnapping, false-imprisonment]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CRM-0063
   subject: CRM
@@ -236,8 +236,8 @@ questions:
   authority: ["Common law", "MPC §§ 220.1, 5.01"]
   source: original
   tags: [wave2, arson, charring, attempt]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CRM-0064
   subject: CRM
@@ -278,5 +278,5 @@ questions:
   authority: ["MPC § 2.01(4)", "Robinson v. California, 370 U.S. 660 (1962)"]
   source: original
   tags: [wave2, possession, voluntary-act]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"

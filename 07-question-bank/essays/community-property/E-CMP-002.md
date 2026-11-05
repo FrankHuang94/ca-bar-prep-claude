@@ -19,8 +19,8 @@ issues:
   - {issue: "Gift of CP to Piet without written consent: 1100(b), fiduciary duty, set-aside and division remedies", points: 18, call: 3, major: true, rule_ids: [R-CMP-062, R-CMP-063, R-CMP-064, R-CMP-068, R-CMP-076], coverage_ids: [CMP-CBX-III.A, CMP-CBX-VI.B.1]}
 time_minutes: 60
 source: original
-status: draft
-last_verified: 2026-11-04
+status: reviewed
+last_verified: 2026-11-05
 tags: [wave1, E3, dissolution, quasi-community-property, pereira-van-camp, date-of-separation]
 ---
 

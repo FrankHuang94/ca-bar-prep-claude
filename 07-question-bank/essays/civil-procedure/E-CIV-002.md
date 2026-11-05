@@ -22,8 +22,8 @@ issues:
   - {issue: "Relief: leave to file an omitted cross-complaint (CCP 426.50); Rule 13(a) parallel", points: 7, call: 4, rule_ids: [R-CIV-109, R-CIV-052], coverage_ids: [CIV-SUP-005]}
 time_minutes: 60
 source: original
-status: draft
-last_verified: 2026-11-04
+status: reviewed
+last_verified: 2026-11-05
 tags: [wave1, E1, california-procedure, demurrer, doe-defendants, summary-adjudication, cross-complaint]
 ---
 

@@ -41,8 +41,8 @@ questions:
   authority: ["Common law (rape: fraud in the factum vs. fraud in the inducement)", "MPC § 213.1"]
   source: original
   tags: [wave2, rape, consent, fraud-in-the-inducement]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CRM-0109
   subject: CRM
@@ -85,8 +85,8 @@ questions:
   authority: ["Common law (kidnapping)", "MPC § 212.1"]
   source: original
   tags: [wave2, kidnapping, incidental-movement]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CRM-0110
   subject: CRM
@@ -124,8 +124,8 @@ questions:
   authority: ["Common law (arson)", "MPC § 220.1"]
   source: original
   tags: [wave2, arson, occupancy, dwelling-of-another]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CRM-0111
   subject: CRM
@@ -165,8 +165,8 @@ questions:
   authority: ["MPC § 2.01(4)", "Common law (possession offenses)"]
   source: original
   tags: [wave2, possession, voluntary-act, constructive-possession]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CRM-0112
   subject: CRM
@@ -204,8 +204,8 @@ questions:
   authority: ["Common law (robbery)"]
   source: original
   tags: [wave2, robbery, force, purse-snatching]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CRM-0113
   subject: CRM
@@ -243,5 +243,5 @@ questions:
   authority: ["Common law (burglary)"]
   source: original
   tags: [wave2, burglary, breaking]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"

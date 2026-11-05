@@ -41,8 +41,8 @@ questions:
   authority: ["R2d § 302(1)(a)", "R2d § 311"]
   source: original
   tags: [wave2, third-party-beneficiary, vesting]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CTR-0097
   subject: CTR
@@ -89,8 +89,8 @@ questions:
   authority: ["R2d § 302(1)(b)", "R2d § 309", "R2d \u00a7 311(3)"]
   source: original
   tags: [wave2, third-party-beneficiary, defenses]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CTR-0098
   subject: CTR
@@ -133,8 +133,8 @@ questions:
   authority: ["R2d § 324", "R2d § 332"]
   source: original
   tags: [wave2, assignment, gratuitous-assignment]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CTR-0099
   subject: CTR
@@ -177,8 +177,8 @@ questions:
   authority: ["R2d § 336", "UCC § 9-404(a)(1)"]
   source: original
   tags: [wave2, assignment, assignee-defenses, notice]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CTR-0100
   subject: CTR
@@ -222,5 +222,5 @@ questions:
   authority: ["R2d § 318(2)"]
   source: original
   tags: [wave2, delegation, personal-services]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"

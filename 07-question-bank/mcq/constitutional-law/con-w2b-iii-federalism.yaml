@@ -44,8 +44,8 @@ questions:
   authority: ["U.S. Const. art. VI, cl. 2", "Johnson v. Maryland, 254 U.S. 51 (1920)", "McCulloch v. Maryland, 17 U.S. (4 Wheat.) 316 (1819)"]
   source: original
   tags: [wave2, w2b, intergovernmental-immunity, federal-immunity]
-  status: draft
-  last_verified: 2026-11-05
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CON-0118
   subject: CON
@@ -88,8 +88,8 @@ questions:
   authority: ["U.S. Const. art. I, § 8, cl. 3", "U.S. Const. amend. X", "Reno v. Condon, 528 U.S. 141 (2000)", "Printz v. United States, 521 U.S. 898 (1997)", "New York v. United States, 505 U.S. 144 (1992)"]
   source: original
   tags: [wave2, w2b, tenth-amendment, anti-commandeering]
-  status: draft
-  last_verified: 2026-11-05
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CON-0119
   subject: CON
@@ -133,8 +133,8 @@ questions:
   authority: ["U.S. Const. art. I, § 8, cl. 3", "Complete Auto Transit, Inc. v. Brady, 430 U.S. 274 (1977)", "South Dakota v. Wayfair, Inc., 585 U.S. 162 (2018)", "Quill Corp. v. North Dakota, 504 U.S. 298 (1992)"]
   source: original
   tags: [wave2, w2b, dormant-commerce-clause, state-taxation]
-  status: draft
-  last_verified: 2026-11-05
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CON-0120
   subject: CON
@@ -183,8 +183,8 @@ questions:
   authority: ["U.S. Const. art. I, § 8, cl. 3", "United Haulers Ass'n v. Oneida-Herkimer Solid Waste Mgmt. Auth., 550 U.S. 330 (2007)", "C & A Carbone, Inc. v. Town of Clarkstown, 511 U.S. 383 (1994)", "Pike v. Bruce Church, Inc., 397 U.S. 137 (1970)"]
   source: original
   tags: [wave2, w2b, dormant-commerce-clause, public-facility, flow-control]
-  status: draft
-  last_verified: 2026-11-05
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CON-0121
   subject: CON
@@ -231,8 +231,8 @@ questions:
   authority: ["U.S. Const. art. I, § 8, cl. 3", "Dean Milk Co. v. City of Madison, 340 U.S. 349 (1951)", "Fort Gratiot Sanitary Landfill, Inc. v. Michigan Dep't of Natural Resources, 504 U.S. 353 (1992)"]
   source: original
   tags: [wave2, w2b, dormant-commerce-clause, discrimination]
-  status: draft
-  last_verified: 2026-11-05
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CON-0122
   subject: CON
@@ -276,8 +276,8 @@ questions:
   authority: ["U.S. Const. art. VI, cl. 2", "Puerto Rico v. Franklin Cal. Tax-Free Trust, 579 U.S. 115 (2016)", "Rice v. Santa Fe Elevator Corp., 331 U.S. 218 (1947)"]
   source: original
   tags: [wave2, w2b, preemption, express-preemption]
-  status: draft
-  last_verified: 2026-11-05
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CON-0123
   subject: CON
@@ -321,8 +321,8 @@ questions:
   authority: ["U.S. Const. art. VI, cl. 2", "Crosby v. National Foreign Trade Council, 530 U.S. 363 (2000)", "Hines v. Davidowitz, 312 U.S. 52 (1941)", "Wisconsin Dep't of Industry v. Gould Inc., 475 U.S. 282 (1986)"]
   source: original
   tags: [wave2, w2b, preemption, obstacle-preemption]
-  status: draft
-  last_verified: 2026-11-05
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CON-0124
   subject: CON
@@ -367,8 +367,8 @@ questions:
   authority: ["U.S. Const. art. I, § 8, cl. 3", "South-Central Timber Dev., Inc. v. Wunnicke, 467 U.S. 82 (1984)", "Prudential Ins. Co. v. Benjamin, 328 U.S. 408 (1946)"]
   source: original
   tags: [wave2, w2b, congressional-authorization, dormant-commerce-clause]
-  status: draft
-  last_verified: 2026-11-05
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CON-0125
   subject: CON
@@ -410,5 +410,5 @@ questions:
   authority: ["U.S. Const. amend. XIV, § 1", "Metropolitan Life Ins. Co. v. Ward, 470 U.S. 869 (1985)", "Prudential Ins. Co. v. Benjamin, 328 U.S. 408 (1946)"]
   source: original
   tags: [wave2, w2b, congressional-authorization, equal-protection]
-  status: draft
-  last_verified: 2026-11-05
+  status: verified
+  last_verified: "2026-11-05"

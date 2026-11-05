@@ -36,8 +36,8 @@ questions:
   authority: ["Statute of frauds (contracts for the sale of land)", "Common law: part-performance doctrine"]
   source: original
   tags: [wave1, M4, statute-of-frauds]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-PRP-0023
   subject: PRP
@@ -78,8 +78,8 @@ questions:
   authority: ["Lohmeyer v. Bower, 170 Kan. 442, 227 P.2d 102 (1951)", "Common law: implied covenant of marketable title"]
   source: original
   tags: [wave1, M4, marketable-title]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-PRP-0024
   subject: PRP
@@ -121,8 +121,8 @@ questions:
   authority: ["Common law: implied covenant of marketable title (time for performance)"]
   source: original
   tags: [wave1, M4, marketable-title]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-PRP-0025
   subject: PRP
@@ -163,8 +163,8 @@ questions:
   authority: ["Skelly Oil Co. v. Ashmore, 365 S.W.2d 582 (Mo. 1963)", "Common law: equitable conversion and risk of loss"]
   source: original
   tags: [wave1, M4, equitable-conversion, risk-of-loss]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-PRP-0026
   subject: PRP
@@ -206,8 +206,8 @@ questions:
   authority: ["Common law: rights of first refusal (preemptive rights)"]
   source: original
   tags: [wave1, M4, options, first-refusal]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-PRP-0027
   subject: PRP
@@ -247,8 +247,8 @@ questions:
   authority: ["Johnson v. Davis, 480 So. 2d 625 (Fla. 1985)", "Common law: seller's liability for concealment of known latent defects"]
   source: original
   tags: [wave1, M4, disclosure, fitness]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-PRP-0028
   subject: PRP
@@ -288,8 +288,8 @@ questions:
   authority: ["Common law: builder-vendor's implied warranty of workmanlike construction and habitability", "Common law: merger of contract into deed"]
   source: original
   tags: [wave1, M4, implied-warranty, merger]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-PRP-0029
   subject: PRP
@@ -331,8 +331,8 @@ questions:
   authority: ["Common law: merger of the contract into the deed", "Common law: special warranty deed covenants"]
   source: original
   tags: [wave1, M4, merger, deeds]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-PRP-0030
   subject: PRP
@@ -375,5 +375,5 @@ questions:
   authority: ["Common law: time of the essence in land-sale contracts"]
   source: original
   tags: [wave1, M4, time-of-essence]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"

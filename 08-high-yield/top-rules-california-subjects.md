@@ -5,7 +5,7 @@ coverage_ids: []
 tested_on: [essay]
 exam_frequency: {level: high, basis: "PR on 30 of 31 administrations; CP and Remedies on 16-17; BA 14; Wills 13; Trusts 7 (06-past-exams/frequency-analysis.md, 2012-02 to 2026-07)"}
 last_verified: 2026-11-05
-status: draft
+status: reviewed
 ---
 
 # Top rules: California essay-only subjects

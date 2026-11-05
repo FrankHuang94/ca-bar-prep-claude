@@ -39,8 +39,8 @@ questions:
   authority: ["28 U.S.C. § 1332(a)(1), (c)(1)", "Hertz Corp. v. Friend, 559 U.S. 77 (2010)"]
   source: original
   tags: [wave1, M1, diversity, corporate-citizenship]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CIV-0002
   subject: CIV
@@ -80,8 +80,8 @@ questions:
   authority: ["28 U.S.C. § 1332(a)", "Snyder v. Harris, 394 U.S. 332 (1969)", "Exxon Mobil Corp. v. Allapattah Services, Inc., 545 U.S. 546 (2005)"]
   source: original
   tags: [wave1, M1, diversity, amount-in-controversy]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CIV-0003
   subject: CIV
@@ -122,8 +122,8 @@ questions:
   authority: ["28 U.S.C. § 1331", "Louisville & Nashville R.R. v. Mottley, 211 U.S. 149 (1908)"]
   source: original
   tags: [wave1, M1, federal-question, well-pleaded-complaint]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CIV-0004
   subject: CIV
@@ -165,8 +165,8 @@ questions:
   authority: ["28 U.S.C. § 1367(a)-(b)", "Owen Equipment & Erection Co. v. Kroger, 437 U.S. 365 (1978)"]
   source: original
   tags: [wave1, M1, supplemental-jurisdiction, impleader]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CIV-0005
   subject: CIV
@@ -207,8 +207,8 @@ questions:
   authority: ["28 U.S.C. § 1446(b)(1), (c)(1)", "Murphy Bros. v. Michetti Pipe Stringing, Inc., 526 U.S. 344 (1999)"]
   source: original
   tags: [wave1, M1, removal, timing]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CIV-0006
   subject: CIV
@@ -246,8 +246,8 @@ questions:
   authority: ["28 U.S.C. § 1332(a)(1)", "Carden v. Arkoma Associates, 494 U.S. 185 (1990)"]
   source: original
   tags: [wave1, M1, diversity, llc-citizenship]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CIV-0007
   subject: CIV
@@ -290,8 +290,8 @@ questions:
   authority: ["Daimler AG v. Bauman, 571 U.S. 117 (2014)", "BNSF Ry. v. Tyrrell, 581 U.S. 402 (2017)", "Goodyear Dunlop Tires Operations, S.A. v. Brown, 564 U.S. 915 (2011)"]
   source: original
   tags: [wave1, M1, personal-jurisdiction, general-jurisdiction]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CIV-0008
   subject: CIV
@@ -333,8 +333,8 @@ questions:
   authority: ["World-Wide Volkswagen Corp. v. Woodson, 444 U.S. 286 (1980)", "Walden v. Fiore, 571 U.S. 277 (2014)", "Hanson v. Denckla, 357 U.S. 235 (1958)"]
   source: original
   tags: [wave1, M1, personal-jurisdiction, specific-jurisdiction]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CIV-0009
   subject: CIV
@@ -376,8 +376,8 @@ questions:
   authority: ["Burnham v. Superior Court, 495 U.S. 604 (1990)", "FRCP 4(k)(1)(A)"]
   source: original
   tags: [wave1, M1, personal-jurisdiction, tag-jurisdiction]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CIV-0010
   subject: CIV
@@ -419,8 +419,8 @@ questions:
   authority: ["Ford Motor Co. v. Montana Eighth Judicial District Court, 592 U.S. 351 (2021)", "International Shoe Co. v. Washington, 326 U.S. 310 (1945)"]
   source: original
   tags: [wave1, M1, personal-jurisdiction, relatedness]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CIV-0011
   subject: CIV
@@ -461,8 +461,8 @@ questions:
   authority: ["FRCP 4(e)(2)(B)", "FRCP 12(b)(5)"]
   source: original
   tags: [wave1, M1, service-of-process]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CIV-0012
   subject: CIV
@@ -504,8 +504,8 @@ questions:
   authority: ["FRCP 4(d)(3), (5)", "FRCP 12(a)(1)(A)(ii)", "FRCP 12(h)(1)"]
   source: original
   tags: [wave1, M1, waiver-of-service]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CIV-0013
   subject: CIV
@@ -545,8 +545,8 @@ questions:
   authority: ["28 U.S.C. § 1391(b)-(c)"]
   source: original
   tags: [wave1, M1, venue]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CIV-0014
   subject: CIV
@@ -589,8 +589,8 @@ questions:
   authority: ["28 U.S.C. § 1404(a)", "Van Dusen v. Barrack, 376 U.S. 612 (1964)", "Ferens v. John Deere Co., 494 U.S. 516 (1990)", "Klaxon Co. v. Stentor Electric Mfg. Co., 313 U.S. 487 (1941)"]
   source: original
   tags: [wave1, M1, transfer, choice-of-law]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CIV-0015
   subject: CIV
@@ -633,5 +633,5 @@ questions:
   authority: ["Piper Aircraft Co. v. Reyno, 454 U.S. 235 (1981)", "Gulf Oil Corp. v. Gilbert, 330 U.S. 501 (1947)"]
   source: original
   tags: [wave1, M1, forum-non-conveniens]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"

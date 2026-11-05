@@ -4,8 +4,8 @@ topic: Professional Responsibility — decision flowcharts
 coverage_ids: [PRF-SUP-003, PRF-SUP-004, PRF-SUP-006, PRF-SUP-007, PRF-CBX-I, PRF-CBX-I.x2, PRF-CBX-II, PRF-CBX-III]
 tested_on: [essay]
 exam_frequency: {level: high, basis: "Essays: 30 of 31 administrations 2012-02 to 2026-07 (97%)"}
-last_verified: 2026-11-04
-status: draft
+last_verified: 2026-11-05
+status: verified
 ---
 
 # Professional Responsibility — flowcharts

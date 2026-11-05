@@ -43,8 +43,8 @@ questions:
   authority: ["Common law (transferred intent)", "MPC § 2.03(2)(a)"]
   source: original
   tags: [wave2, homicide, premeditation, transferred-intent]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CRM-0102
   subject: CRM
@@ -86,8 +86,8 @@ questions:
   authority: ["Common law (voluntary manslaughter: heat of passion)"]
   source: original
   tags: [wave2, homicide, provocation, actual-passion]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CRM-0103
   subject: CRM
@@ -127,8 +127,8 @@ questions:
   authority: ["Common law (malice: intent to inflict serious bodily injury)", "Common law (proximate cause; victim's refusal of treatment)"]
   source: original
   tags: [wave2, homicide, intent-to-injure, causation, intervening-cause]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CRM-0104
   subject: CRM
@@ -172,8 +172,8 @@ questions:
   authority: ["MPC § 210.3(1)(a)", "MPC § 210.2(1)(b)", "MPC § 210.4", "MPC § 2.02(2)(c)"]
   source: original
   tags: [wave2, homicide, mpc, recklessness, manslaughter]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CRM-0105
   subject: CRM
@@ -214,8 +214,8 @@ questions:
   authority: ["Common law (involuntary manslaughter: criminal negligence)", "Commonwealth v. Welansky, 316 Mass. 383 (1944)"]
   source: original
   tags: [wave2, homicide, involuntary-manslaughter, criminal-negligence]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CRM-0106
   subject: CRM
@@ -258,8 +258,8 @@ questions:
   authority: ["Common law (felony murder: inherently dangerous felony)"]
   source: original
   tags: [wave2, homicide, felony-murder, inherently-dangerous-felony]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CRM-0107
   subject: CRM
@@ -299,5 +299,5 @@ questions:
   authority: ["Common law (imperfect self-defense)"]
   source: original
   tags: [wave2, homicide, imperfect-self-defense, voluntary-manslaughter]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"

@@ -46,8 +46,8 @@ questions:
   authority: ["28 U.S.C. § 1257", "Rooker v. Fidelity Trust Co., 263 U.S. 413 (1923)", "District of Columbia Court of Appeals v. Feldman, 460 U.S. 462 (1983)", "Exxon Mobil Corp. v. Saudi Basic Indus. Corp., 544 U.S. 280 (2005)"]
   source: original
   tags: [wave2, w2b, rooker-feldman, state-and-federal-courts]
-  status: draft
-  last_verified: 2026-11-05
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CON-0102
   subject: CON
@@ -94,8 +94,8 @@ questions:
   authority: ["Railroad Comm'n of Tex. v. Pullman Co., 312 U.S. 496 (1941)", "Younger v. Harris, 401 U.S. 37 (1971)", "Steffel v. Thompson, 415 U.S. 452 (1974)"]
   source: original
   tags: [wave2, w2b, abstention, pullman]
-  status: draft
-  last_verified: 2026-11-05
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CON-0103
   subject: CON
@@ -139,8 +139,8 @@ questions:
   authority: ["U.S. Const. art. III, § 1", "Sheldon v. Sill, 49 U.S. (8 How.) 441 (1850)", "United States v. Klein, 80 U.S. (13 Wall.) 128 (1872)", "Ex parte Young, 209 U.S. 123 (1908)"]
   source: original
   tags: [wave2, w2b, jurisdiction-stripping, lower-federal-courts]
-  status: draft
-  last_verified: 2026-11-05
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CON-0104
   subject: CON
@@ -189,8 +189,8 @@ questions:
   authority: ["U.S. Const. art. III, § 2", "Craig v. Boren, 429 U.S. 190 (1976)", "Kowalski v. Tesmer, 543 U.S. 125 (2004)"]
   source: original
   tags: [wave2, w2b, standing, third-party-standing]
-  status: draft
-  last_verified: 2026-11-05
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CON-0105
   subject: CON
@@ -234,8 +234,8 @@ questions:
   authority: ["U.S. Const. art. III, § 2", "City of Los Angeles v. Lyons, 461 U.S. 95 (1983)", "Lujan v. Defenders of Wildlife, 504 U.S. 555 (1992)", "Monell v. Department of Social Servs., 436 U.S. 658 (1978)"]
   source: original
   tags: [wave2, w2b, standing, injunctive-relief]
-  status: draft
-  last_verified: 2026-11-05
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CON-0106
   subject: CON
@@ -280,8 +280,8 @@ questions:
   authority: ["28 U.S.C. § 1257", "Michigan v. Long, 463 U.S. 1032 (1983)", "Martin v. Hunter's Lessee, 14 U.S. (1 Wheat.) 304 (1816)"]
   source: original
   tags: [wave2, w2b, adequate-independent-state-ground]
-  status: draft
-  last_verified: 2026-11-05
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CON-0107
   subject: CON
@@ -326,8 +326,8 @@ questions:
   authority: ["28 U.S.C. § 1257", "Michigan v. Long, 463 U.S. 1032 (1983)", "James v. Kentucky, 466 U.S. 341 (1984)", "Ford v. Georgia, 498 U.S. 411 (1991)"]
   source: original
   tags: [wave2, w2b, adequate-independent-state-ground, procedural-default]
-  status: draft
-  last_verified: 2026-11-05
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CON-0108
   subject: CON
@@ -372,8 +372,8 @@ questions:
   authority: ["U.S. Const. art. I, § 3, cl. 6", "Nixon v. United States, 506 U.S. 224 (1993)", "Baker v. Carr, 369 U.S. 186 (1962)", "Powell v. McCormack, 395 U.S. 486 (1969)"]
   source: original
   tags: [wave2, w2b, political-question, impeachment]
-  status: draft
-  last_verified: 2026-11-05
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CON-0109
   subject: CON
@@ -417,5 +417,5 @@ questions:
   authority: ["Rucho v. Common Cause, 588 U.S. 684 (2019)", "Baker v. Carr, 369 U.S. 186 (1962)", "Shaw v. Reno, 509 U.S. 630 (1993)", "Reynolds v. Sims, 377 U.S. 533 (1964)"]
   source: original
   tags: [wave2, w2b, political-question, partisan-gerrymandering]
-  status: draft
-  last_verified: 2026-11-05
+  status: verified
+  last_verified: "2026-11-05"

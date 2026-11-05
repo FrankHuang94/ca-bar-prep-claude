@@ -45,7 +45,7 @@ questions:
   authority: ["UCC § 2-706", "UCC § 2-708(1)", "UCC § 2-710"]
   source: original
   tags: [wave2, w2b, ucc, seller-remedies, resale]
-  status: draft
+  status: verified
   last_verified: "2026-11-05"
 
 - id: Q-CTR-0137
@@ -91,7 +91,7 @@ questions:
   authority: ["R2d § 348(2)", "Jacob & Youngs, Inc. v. Kent, 230 N.Y. 239 (1921)"]
   source: original
   tags: [wave2, w2b, damages, construction, economic-waste]
-  status: draft
+  status: verified
   last_verified: "2026-11-05"
 
 - id: Q-CTR-0138
@@ -137,7 +137,7 @@ questions:
   authority: ["R2d § 351(1)", "Hadley v. Baxendale (1854) 9 Ex. 341"]
   source: original
   tags: [wave2, w2b, damages, foreseeability, lost-profits]
-  status: draft
+  status: verified
   last_verified: "2026-11-05"
 
 - id: Q-CTR-0139
@@ -182,7 +182,7 @@ questions:
   authority: ["R2d § 356(1)"]
   source: original
   tags: [wave2, w2b, damages, liquidated-damages]
-  status: draft
+  status: verified
   last_verified: "2026-11-05"
 
 - id: Q-CTR-0140
@@ -227,7 +227,7 @@ questions:
   authority: ["R2d § 350"]
   source: original
   tags: [wave2, w2b, damages, mitigation, avoidable-consequences]
-  status: draft
+  status: verified
   last_verified: "2026-11-05"
 
 - id: Q-CTR-0141
@@ -272,7 +272,7 @@ questions:
   authority: ["R2d § 164", "R2d § 380", "R2d § 381"]
   source: original
   tags: [wave2, w2b, rescission, affirmation, fraud]
-  status: draft
+  status: verified
   last_verified: "2026-11-05"
 
 - id: Q-CTR-0142
@@ -314,7 +314,7 @@ questions:
   authority: ["R2d § 359", "R2d § 360"]
   source: original
   tags: [wave2, w2b, equitable-remedies, specific-performance, land]
-  status: draft
+  status: verified
   last_verified: "2026-11-05"
 
 - id: Q-CTR-0143
@@ -358,7 +358,7 @@ questions:
   authority: ["R2d § 130", "R2d § 375"]
   source: original
   tags: [wave2, w2b, restitution, statute-of-frauds, one-year]
-  status: draft
+  status: verified
   last_verified: "2026-11-05"
 
 - id: Q-CTR-0144
@@ -400,5 +400,5 @@ questions:
   authority: ["R2d § 374(1)", "Britton v. Turner, 6 N.H. 481 (1834)"]
   source: original
   tags: [wave2, w2b, restitution, breaching-party]
-  status: draft
+  status: verified
   last_verified: "2026-11-05"

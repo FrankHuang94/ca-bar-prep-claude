@@ -20,8 +20,8 @@ issues:
   - {issue: "Funding Leo's share and final distribution to Sofia, Tomas, Elena, Jorge", points: 12, call: 3, major: false, rule_ids: [R-WIL-088, R-WIL-075], coverage_ids: [WIL-CBX-VIII, WIL-CBX-interp.x]}
 time_minutes: 60
 source: original
-status: draft
-last_verified: 2026-11-04
+status: verified
+last_verified: 2026-11-05
 tags: [wave1, E3, omitted-spouse, omitted-child, ademption, abatement, intestacy]
 ---
 

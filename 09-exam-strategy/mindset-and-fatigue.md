@@ -4,8 +4,8 @@ topic: Sustainability, fatigue, panic protocol and mindset for an experienced fo
 coverage_ids: []
 tested_on: [MBE, essay, PT]
 exam_frequency: {level: n/a, basis: "Study-sustainability and exam-performance guidance, not a tested topic"}
-last_verified: 2026-11-04
-status: draft
+last_verified: 2026-11-05
+status: reviewed
 ---
 
 # Mindset and fatigue

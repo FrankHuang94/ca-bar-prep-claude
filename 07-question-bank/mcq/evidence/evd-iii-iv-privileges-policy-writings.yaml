@@ -40,8 +40,8 @@ questions:
   authority: ["FRE 407", "FRE 105"]
   source: original
   tags: [wave1, M3, policy-exclusions, remedial-measures]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0030
   subject: EVD
@@ -82,8 +82,8 @@ questions:
   authority: ["FRE 408(a)", "FRE 801(d)(2)(D)"]
   source: original
   tags: [wave1, M3, policy-exclusions, compromise]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0031
   subject: EVD
@@ -121,8 +121,8 @@ questions:
   authority: ["FRE 409", "FRE 408", "FRE 801(d)(2)(A)"]
   source: original
   tags: [wave1, M3, policy-exclusions, medical-expenses]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0032
   subject: EVD
@@ -161,8 +161,8 @@ questions:
   authority: ["FRE 501", "Trammel v. United States, 445 U.S. 40 (1980)"]
   source: original
   tags: [wave1, M3, privileges, spousal]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0033
   subject: EVD
@@ -202,8 +202,8 @@ questions:
   authority: ["FRE 501", "Upjohn Co. v. United States, 449 U.S. 383 (1981)"]
   source: original
   tags: [wave1, M3, privileges, attorney-client]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0034
   subject: EVD
@@ -241,8 +241,8 @@ questions:
   authority: ["FRE 1001", "FRE 1002"]
   source: original
   tags: [wave1, M3, best-evidence-rule]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0035
   subject: EVD
@@ -282,8 +282,8 @@ questions:
   authority: ["FRE 1002", "FRE 1004(a)", "FRE 1007"]
   source: original
   tags: [wave1, M3, best-evidence-rule, secondary-evidence]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0036
   subject: EVD
@@ -324,8 +324,8 @@ questions:
   authority: ["FRE 1006 (as amended Dec. 1, 2024)", "FRE 107"]
   source: original
   tags: [wave1, M3, summaries, 2024-amendment]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0037
   subject: EVD
@@ -365,5 +365,5 @@ questions:
   authority: ["FRE 106 (as amended Dec. 1, 2023)", "FRE 801(d)(2)(A)"]
   source: original
   tags: [wave1, M3, completeness, 2023-amendment]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"

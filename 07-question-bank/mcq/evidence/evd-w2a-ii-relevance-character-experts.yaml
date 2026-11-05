@@ -42,8 +42,8 @@ questions:
   authority: ["FRE 401", "FRE 402", "FRE 403"]
   source: original
   tags: [wave2, W2-EVD, relevance, similar-occurrences]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0065
   subject: EVD
@@ -83,8 +83,8 @@ questions:
   authority: ["FRE 401", "FRE 402"]
   source: original
   tags: [wave2, W2-EVD, relevance]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0066
   subject: EVD
@@ -128,8 +128,8 @@ questions:
   authority: ["FRE 403", "Old Chief v. United States, 519 U.S. 172 (1997)"]
   source: original
   tags: [wave2, W2-EVD, rule-403, photographs]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0067
   subject: EVD
@@ -173,8 +173,8 @@ questions:
   authority: ["FRE 901(a)", "FRE 901(b)(5)", "FRE 901(b)(2)", "FRE 104(b)"]
   source: original
   tags: [wave2, W2-EVD, authentication, voice-identification]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0068
   subject: EVD
@@ -215,8 +215,8 @@ questions:
   authority: ["FRE 902(7)", "FRE 801(d)(2)(A)", "FRE 901(a)"]
   source: original
   tags: [wave2, W2-EVD, authentication, self-authentication]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0069
   subject: EVD
@@ -254,8 +254,8 @@ questions:
   authority: ["FRE 404(a)(1)", "FRE 404(a)(2)", "FRE 405(a)"]
   source: original
   tags: [wave2, W2-EVD, character, civil-case]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0070
   subject: EVD
@@ -296,8 +296,8 @@ questions:
   authority: ["FRE 404(a)(2)(B)", "FRE 404(a)(2)(C)", "FRE 405(a)"]
   source: original
   tags: [wave2, W2-EVD, character, victim, first-aggressor]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0071
   subject: EVD
@@ -338,8 +338,8 @@ questions:
   authority: ["FRE 404(a)(2)(A)", "FRE 405(a)", "FRE 405(b)"]
   source: original
   tags: [wave2, W2-EVD, character, methods-of-proof]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0072
   subject: EVD
@@ -380,8 +380,8 @@ questions:
   authority: ["FRE 406", "FRE 404(a)(1)"]
   source: original
   tags: [wave2, W2-EVD, habit, routine-practice]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0073
   subject: EVD
@@ -424,8 +424,8 @@ questions:
   authority: ["FRE 404(b)", "FRE 104(b)", "FRE 403", "Huddleston v. United States, 485 U.S. 681 (1988)", "Dowling v. United States, 493 U.S. 342 (1990)"]
   source: original
   tags: [wave2, W2-EVD, other-acts, identity, acquitted-conduct]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0074
   subject: EVD
@@ -465,8 +465,8 @@ questions:
   authority: ["FRE 404(b)", "FRE 104(b)", "FRE 403"]
   source: original
   tags: [wave2, W2-EVD, other-acts, motive]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0075
   subject: EVD
@@ -508,8 +508,8 @@ questions:
   authority: ["FRE 414", "FRE 403", "FRE 404(b)"]
   source: original
   tags: [wave2, W2-EVD, sexual-misconduct, propensity]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0076
   subject: EVD
@@ -549,8 +549,8 @@ questions:
   authority: ["FRE 702", "FRE 703", "FRE 705"]
   source: original
   tags: [wave2, W2-EVD, experts, bases-of-opinion]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0077
   subject: EVD
@@ -590,8 +590,8 @@ questions:
   authority: ["FRE 702", "FRE 704(a)", "FRE 704(b)"]
   source: original
   tags: [wave2, W2-EVD, experts, ultimate-issue]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0078
   subject: EVD
@@ -633,8 +633,8 @@ questions:
   authority: ["FRE 702(a)", "FRE 608(a)"]
   source: original
   tags: [wave2, W2-EVD, experts, subject-matter, credibility]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-EVD-0079
   subject: EVD
@@ -676,5 +676,5 @@ questions:
   authority: ["FRE 401", "FRE 403", "FRE 107"]
   source: original
   tags: [wave2, W2-EVD, experiments, demonstrative-evidence]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"

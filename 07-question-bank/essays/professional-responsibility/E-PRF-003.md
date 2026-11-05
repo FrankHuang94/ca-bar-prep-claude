@@ -19,8 +19,8 @@ issues:
   - {issue: "Leo's offer to stay silent for a larger share: CA rule 3.10 vs. ABA; misconduct", points: 6, call: 2, major: false, rule_ids: [R-PRF-071, R-PRF-092], coverage_ids: [PRF-CBX-VIII]}
 time_minutes: 60
 source: original
-status: draft
-last_verified: 2026-11-04
+status: reviewed
+last_verified: 2026-11-05
 tags: [wave2, W2-E6, advertising, solicitation, contingent-fee, fee-division, trust-account, duty-to-report]
 ---
 

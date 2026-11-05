@@ -43,8 +43,8 @@ questions:
   authority: ["Common law", "MPC § 2.08(1)"]
   source: original
   tags: [wave2, homicide, premeditation, intoxication]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CRM-0052
   subject: CRM
@@ -84,8 +84,8 @@ questions:
   authority: ["Common law", "MPC § 210.3(1)(b) (contrast: extreme mental or emotional disturbance)"]
   source: original
   tags: [wave2, homicide, provocation, cooling-time]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CRM-0053
   subject: CRM
@@ -125,8 +125,8 @@ questions:
   authority: ["Common law", "MPC § 2.03(2)(a)"]
   source: original
   tags: [wave2, homicide, intent-to-injure, transferred-intent]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CRM-0054
   subject: CRM
@@ -168,8 +168,8 @@ questions:
   authority: ["Common law", "MPC §§ 2.02(2)(c)–(d), 210.2(1)(b)", "MPC § 210.4 (contrast: under the MPC a negligent killing is negligent homicide, not manslaughter)"]
   source: original
   tags: [wave2, homicide, depraved-heart, criminal-negligence]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CRM-0055
   subject: CRM
@@ -209,8 +209,8 @@ questions:
   authority: ["Common law (felony murder ends at a place of temporary safety)"]
   source: original
   tags: [wave2, homicide, felony-murder, temporary-safety]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CRM-0056
   subject: CRM
@@ -249,8 +249,8 @@ questions:
   authority: ["Common law (merger limitation on felony murder)"]
   source: original
   tags: [wave2, homicide, felony-murder, merger]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CRM-0057
   subject: CRM
@@ -291,5 +291,5 @@ questions:
   authority: ["Common law", "MPC § 2.03 (causation); the MPC rejects the misdemeanor-manslaughter rule"]
   source: original
   tags: [wave2, homicide, misdemeanor-manslaughter]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"

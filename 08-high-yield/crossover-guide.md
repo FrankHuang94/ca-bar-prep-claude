@@ -5,7 +5,7 @@ coverage_ids: []
 tested_on: [essay]
 exam_frequency: {level: high, basis: "31 of the 166 indexed essays (2012-02 to 2026-07) carried two or more subject labels; pair counts from 06-past-exams/frequency-analysis.md and index.csv"}
 last_verified: 2026-11-05
-status: draft
+status: reviewed
 ---
 
 # Crossover essay guide

@@ -22,8 +22,8 @@ issues:
   - {issue: "Lumen's defenses against Meridian; Meridian's damages (foreseeability, certainty, no double counting, reliance alternative)", points: 6, call: 3, rule_ids: [R-CTR-111, R-CTR-089, R-CTR-092, R-CTR-093, R-CTR-095, R-CTR-107], coverage_ids: [CTR-MBE-V.A, CTR-MBE-V.B, CTR-MBE-V.G]}
 time_minutes: 60
 source: original
-status: draft
-last_verified: 2026-11-04
+status: verified
+last_verified: 2026-11-05
 tags: [wave2, W2-E5, delegation, assignment, third-party-beneficiary, vesting, anti-assignment]
 ---
 

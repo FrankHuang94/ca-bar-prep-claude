@@ -4,8 +4,8 @@ topic: Professional Responsibility — California Rules and State Bar Act vs. AB
 coverage_ids: [PRF-SUP-001, PRF-SUP-002, PRF-SUP-003, PRF-SUP-004, PRF-SUP-006, PRF-SUP-007, PRF-CBX-I.x2, PRF-CBX-III, PRF-CBX-VII, PRF-CBX-VIII]
 tested_on: [essay]
 exam_frequency: {level: high, basis: "Essays: 30 of 31 administrations 2012-02 to 2026-07 (97%)"}
-last_verified: 2026-11-04
-status: draft
+last_verified: 2026-11-05
+status: reviewed
 ---
 
 # Professional Responsibility — California vs. ABA

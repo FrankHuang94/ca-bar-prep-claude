@@ -43,8 +43,8 @@ questions:
   authority: ["FRCP 12(h)(1)(B)", "FRCP 12(h)(2)-(3)", "FRCP 15(a)(1)(A)", "FRCP 7(a)(7)"]
   source: original
   tags: [wave2, w2b, rule-12, waiver, amendment-as-of-course]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CIV-0136
   subject: CIV
@@ -84,8 +84,8 @@ questions:
   authority: ["FRCP 12(a)(1)(A)(i)", "FRCP 12(a)(4)(A)", "FRCP 55(a)"]
   source: original
   tags: [wave2, w2b, rule-12, time-to-answer]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CIV-0137
   subject: CIV
@@ -128,8 +128,8 @@ questions:
   authority: ["FRCP 56(a)", "FRCP 56(f)(2)"]
   source: original
   tags: [wave2, w2b, summary-judgment, rule-56f, notice]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CIV-0138
   subject: CIV
@@ -174,8 +174,8 @@ questions:
   authority: ["FRCP 56(a)", "Anderson v. Liberty Lobby, Inc., 477 U.S. 242 (1986)"]
   source: original
   tags: [wave2, w2b, summary-judgment, materiality]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CIV-0139
   subject: CIV
@@ -218,8 +218,8 @@ questions:
   authority: ["FRCP 50(a)(1)-(2)"]
   source: original
   tags: [wave2, w2b, jmol, fully-heard]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CIV-0140
   subject: CIV
@@ -261,8 +261,8 @@ questions:
   authority: ["FRCP 50(b)", "FRCP 50(c)(1)-(2)"]
   source: original
   tags: [wave2, w2b, renewed-jmol, new-trial, conditional-ruling]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CIV-0141
   subject: CIV
@@ -302,8 +302,8 @@ questions:
   authority: ["FRCP 59(b)", "FRCP 6(b)(1)-(2)"]
   source: original
   tags: [wave2, w2b, new-trial, deadlines]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CIV-0142
   subject: CIV
@@ -344,8 +344,8 @@ questions:
   authority: ["FRCP 60(a)", "FRCP 60(c)(1)", "FRCP 59(e)"]
   source: original
   tags: [wave2, w2b, relief-from-judgment, clerical-mistake, rule-60a]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CIV-0143
   subject: CIV
@@ -390,5 +390,5 @@ questions:
   authority: ["FRCP 59(a)(1)(A)", "FRCP 59(d)", "FRCP 61"]
   source: original
   tags: [wave2, w2b, new-trial, court-initiative, rule-59d]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"

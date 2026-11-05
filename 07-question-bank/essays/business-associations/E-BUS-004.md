@@ -21,8 +21,8 @@ issues:
   - {issue: "Section 16(b): director's purchase and sale within six months; strict liability; profit computation", points: 8, call: 4, major: true, rule_ids: [R-BUS-092], coverage_ids: [BUS-CBX-V.F]}
 time_minutes: 60
 source: original
-status: draft
-last_verified: 2026-11-04
+status: verified
+last_verified: 2026-11-05
 tags: [wave2, W2-E7, close-corporation, voting-agreement, inspection, appraisal, controlling-shareholder, insider-trading, section-16b]
 ---
 

@@ -21,8 +21,8 @@ issues:
   - {issue: "Physical test: resulting tier - rational basis if no purpose; intermediate scrutiny if purpose shown", points: 10, call: 3, rule_ids: [R-CON-066, R-CON-071, R-CON-074], coverage_ids: [CON-MBE-IV.C.2, CON-MBE-IV.C.3]}
 time_minutes: 60
 source: original
-status: draft
-last_verified: 2026-11-04
+status: verified
+last_verified: 2026-11-05
 tags: [wave2, W2-E4, equal-protection, sex-discrimination, state-action, intermediate-scrutiny]
 ---
 

@@ -42,8 +42,8 @@ questions:
   authority: ["Common law: running of the burden of real covenants (horizontal privity)", "Tulk v. Moxhay (1848) 2 Ph. 774, 41 Eng. Rep. 1143"]
   source: original
   tags: [wave1, M4, real-covenants, equitable-servitudes]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-PRP-0013
   subject: PRP
@@ -89,8 +89,8 @@ questions:
   authority: ["Sanborn v. McLean, 233 Mich. 227, 206 N.W. 496 (1925)", "Common law: implied reciprocal negative servitudes"]
   source: original
   tags: [wave1, M4, common-scheme, equitable-servitudes]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-PRP-0014
   subject: PRP
@@ -132,8 +132,8 @@ questions:
   authority: ["Common law: changed-conditions doctrine"]
   source: original
   tags: [wave1, M4, covenant-termination]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-PRP-0015
   subject: PRP
@@ -176,8 +176,8 @@ questions:
   authority: ["Neponsit Property Owners' Ass'n v. Emigrant Industrial Savings Bank, 278 N.Y. 248, 15 N.E.2d 793 (1938)", "Common law: covenants running with the land"]
   source: original
   tags: [wave1, M4, hoa, affirmative-covenants]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-PRP-0016
   subject: PRP
@@ -221,8 +221,8 @@ questions:
   authority: ["Common law: easement by necessity", "Common law: easement implied from prior use"]
   source: original
   tags: [wave1, M4, easements, necessity]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-PRP-0017
   subject: PRP
@@ -263,8 +263,8 @@ questions:
   authority: ["Common law: prescriptive easements and tacking"]
   source: original
   tags: [wave1, M4, easements, prescription]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-PRP-0018
   subject: PRP
@@ -304,8 +304,8 @@ questions:
   authority: ["Brown v. Voss, 105 Wash. 2d 366, 715 P.2d 514 (1986)", "Common law: scope of easements"]
   source: original
   tags: [wave1, M4, easements, scope]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-PRP-0019
   subject: PRP
@@ -347,8 +347,8 @@ questions:
   authority: ["Common law: termination of easements by abandonment and by prescription"]
   source: original
   tags: [wave1, M4, easements, termination]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-PRP-0020
   subject: PRP
@@ -389,8 +389,8 @@ questions:
   authority: ["Common law: trade fixtures"]
   source: original
   tags: [wave1, M4, fixtures]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-PRP-0021
   subject: PRP
@@ -430,5 +430,5 @@ questions:
   authority: ["Common law: nonconforming uses", "Lucas v. South Carolina Coastal Council, 505 U.S. 1003 (1992)", "Penn Central Transp. Co. v. New York City, 438 U.S. 104 (1978)"]
   source: original
   tags: [wave1, M4, zoning]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"

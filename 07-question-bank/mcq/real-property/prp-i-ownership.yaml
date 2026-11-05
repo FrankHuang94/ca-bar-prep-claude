@@ -43,8 +43,8 @@ questions:
   authority: ["Common law: fee simple subject to condition subsequent and right of entry", "Common law: devisability of future interests"]
   source: original
   tags: [wave1, M4, defeasible-fees]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-PRP-0002
   subject: PRP
@@ -90,8 +90,8 @@ questions:
   authority: ["Common-law rule against perpetuities", "Common law: fee simple determinable and executory interests"]
   source: original
   tags: [wave1, M4, executory-interests, rap]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-PRP-0003
   subject: PRP
@@ -136,8 +136,8 @@ questions:
   authority: ["Common law: rule of convenience (class closing)", "Common law: vested remainder subject to open"]
   source: original
   tags: [wave1, M4, class-gifts, remainders]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-PRP-0004
   subject: PRP
@@ -179,8 +179,8 @@ questions:
   authority: ["Common law: life tenant's duties and permissive waste"]
   source: original
   tags: [wave1, M4, life-estates, waste]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-PRP-0005
   subject: PRP
@@ -221,8 +221,8 @@ questions:
   authority: ["Common law: severance of joint tenancy by conveyance", "Common law: four unities of joint tenancy"]
   source: original
   tags: [wave1, M4, joint-tenancy]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-PRP-0006
   subject: PRP
@@ -262,8 +262,8 @@ questions:
   authority: ["Common law: cotenants' duty to account; ouster", "Spiller v. Mackereth, 334 So. 2d 859 (Ala. 1976)"]
   source: original
   tags: [wave1, M4, cotenancy]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-PRP-0007
   subject: PRP
@@ -305,8 +305,8 @@ questions:
   authority: ["Common law: privity of estate and privity of contract in leases"]
   source: original
   tags: [wave1, M4, landlord-tenant, assignment]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-PRP-0008
   subject: PRP
@@ -350,8 +350,8 @@ questions:
   authority: ["Sommer v. Kridel, 74 N.J. 446, 378 A.2d 767 (1977)", "Common law: surrender by operation of law"]
   source: original
   tags: [wave1, M4, landlord-tenant, mitigation]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-PRP-0009
   subject: PRP
@@ -394,8 +394,8 @@ questions:
   authority: ["Javins v. First National Realty Corp., 428 F.2d 1071 (D.C. Cir. 1970)", "Reste Realty Corp. v. Cooper, 53 N.J. 444, 251 A.2d 268 (1969)"]
   source: original
   tags: [wave1, M4, landlord-tenant, habitability, constructive-eviction]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-PRP-0010
   subject: PRP
@@ -437,8 +437,8 @@ questions:
   authority: ["Common-law rule against perpetuities (options in gross)"]
   source: original
   tags: [wave1, M4, rap, options]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-PRP-0011
   subject: PRP
@@ -480,5 +480,5 @@ questions:
   authority: ["42 U.S.C. § 3603(b)(2)", "42 U.S.C. § 3604(a), (c)"]
   source: original
   tags: [wave1, M4, fair-housing]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"

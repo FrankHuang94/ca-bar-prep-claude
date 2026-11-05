@@ -37,8 +37,8 @@ questions:
   authority: ["Restatement (Second) of Torts § 13", "Talmage v. Smith, 101 Mich. 370 (1894)"]
   source: original
   tags: [wave1, M3, intentional-torts, battery, transferred-intent]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-TRT-0027
   subject: TRT
@@ -74,8 +74,8 @@ questions:
   authority: ["Restatement (Second) of Torts § 21"]
   source: original
   tags: [wave1, M3, intentional-torts, assault]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-TRT-0028
   subject: TRT
@@ -111,8 +111,8 @@ questions:
   authority: ["Restatement (Second) of Torts § 35"]
   source: original
   tags: [wave1, M3, intentional-torts, false-imprisonment]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-TRT-0029
   subject: TRT
@@ -152,8 +152,8 @@ questions:
   authority: ["Restatement (Second) of Torts § 46"]
   source: original
   tags: [wave1, M3, intentional-torts, iied]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-TRT-0030
   subject: TRT
@@ -193,8 +193,8 @@ questions:
   authority: ["Restatement (Second) of Torts § 222A", "UCC § 2-403(1)"]
   source: original
   tags: [wave1, M3, intentional-torts, conversion]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-TRT-0031
   subject: TRT
@@ -233,8 +233,8 @@ questions:
   authority: ["Restatement (Second) of Torts § 892A", "Hackbart v. Cincinnati Bengals, Inc., 601 F.2d 516 (10th Cir. 1979)"]
   source: original
   tags: [wave1, M3, defenses, consent]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-TRT-0032
   subject: TRT
@@ -271,8 +271,8 @@ questions:
   authority: ["Restatement (Second) of Torts § 63"]
   source: original
   tags: [wave1, M3, defenses, self-defense]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-TRT-0033
   subject: TRT
@@ -311,8 +311,8 @@ questions:
   authority: ["Katko v. Briney, 183 N.W.2d 657 (Iowa 1971)", "Restatement (Second) of Torts § 85"]
   source: original
   tags: [wave1, M3, defenses, defense-of-property]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-TRT-0034
   subject: TRT
@@ -353,8 +353,8 @@ questions:
   authority: ["Restatement (Second) of Torts § 119"]
   source: original
   tags: [wave1, M3, defenses, arrest-privilege]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-TRT-0035
   subject: TRT
@@ -392,5 +392,5 @@ questions:
   authority: ["Vincent v. Lake Erie Transp. Co., 109 Minn. 456 (1910)", "Ploof v. Putnam, 81 Vt. 471 (1908)"]
   source: original
   tags: [wave1, M3, defenses, necessity, incomplete-privilege]
-  status: draft
-  last_verified: "2026-11-04"
+  status: verified
+  last_verified: "2026-11-05"

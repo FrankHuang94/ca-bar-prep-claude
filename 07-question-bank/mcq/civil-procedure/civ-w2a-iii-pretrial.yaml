@@ -39,8 +39,8 @@ questions:
   authority: ["FRCP 65(a)", "Winter v. Natural Resources Defense Council, Inc., 555 U.S. 7 (2008)", "Sampson v. Murray, 415 U.S. 61 (1974)"]
   source: original
   tags: [wave2, w2a, preliminary-injunction]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CIV-0072
   subject: CIV
@@ -83,8 +83,8 @@ questions:
   authority: ["FRCP 15(b)(2)", "FRCP 15(a)", "FRCP 16(b)(4)"]
   source: original
   tags: [wave2, w2a, pleadings, amendment]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CIV-0073
   subject: CIV
@@ -125,8 +125,8 @@ questions:
   authority: ["FRCP 11(c)(1), 11(d)", "FRCP 26(g)", "FRCP 37(a)(4)"]
   source: original
   tags: [wave2, w2a, rule-11, discovery]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CIV-0074
   subject: CIV
@@ -170,8 +170,8 @@ questions:
   authority: ["FRCP 13(a), 13(g)", "28 U.S.C. § 1367(a)-(b)"]
   source: original
   tags: [wave2, w2a, joinder, crossclaims]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CIV-0075
   subject: CIV
@@ -216,8 +216,8 @@ questions:
   authority: ["FRCP 24(a)(2)", "FRCP 24(b)(1)(B)"]
   source: original
   tags: [wave2, w2a, joinder, intervention]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CIV-0076
   subject: CIV
@@ -260,8 +260,8 @@ questions:
   authority: ["FRCP 26(b)(4)(D)", "FRCP 26(b)(1)"]
   source: original
   tags: [wave2, w2a, discovery, experts]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CIV-0077
   subject: CIV
@@ -302,8 +302,8 @@ questions:
   authority: ["FRCP 36(a)(3)", "FRCP 36(b)", "FRCP 56(a)"]
   source: original
   tags: [wave2, w2a, discovery, requests-for-admission]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CIV-0078
   subject: CIV
@@ -345,8 +345,8 @@ questions:
   authority: ["FRCP 41(a)(1)(A)-(B)", "FRCP 12(b)(6)", "FRCP 41(a)(2)"]
   source: original
   tags: [wave2, w2a, voluntary-dismissal]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-CIV-0079
   subject: CIV
@@ -389,5 +389,5 @@ questions:
   authority: ["FRCP 16(d)", "FRCP 16(e)", "FRCP 16(b)(4)"]
   source: original
   tags: [wave2, w2a, pretrial-order]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"

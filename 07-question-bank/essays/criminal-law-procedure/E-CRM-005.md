@@ -20,8 +20,8 @@ issues:
   - {issue: "Cal as accomplice in Paige's death: complicity in a reckless or negligent homicide", points: 8, call: 2, rule_ids: [R-CRM-069, R-CRM-036, R-CRM-037], coverage_ids: [CRM-MBE-III.B, CRM-MBE-I.B.2]}
 time_minutes: 60
 source: original
-status: draft
-last_verified: 2026-11-04
+status: verified
+last_verified: 2026-11-05
 tags: [wave2, W2-E4, homicide, causation, provocation, intoxication, accomplice-liability, depraved-heart]
 ---
 

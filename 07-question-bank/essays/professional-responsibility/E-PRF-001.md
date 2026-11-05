@@ -16,8 +16,8 @@ issues:
   - {issue: "Settlement funds: disputed fee and payment to Harbor (rule 1.15)", points: 15, call: 1, major: true, rule_ids: [R-PRF-047, R-PRF-049], coverage_ids: [PRF-CBX-I.x3]}
 time_minutes: 60
 source: original
-status: draft
-last_verified: 2026-11-04
+status: verified
+last_verified: 2026-11-05
 tags: [wave1, E2, conflicts, confidentiality, fees, trust-account]
 ---
 

@@ -36,8 +36,8 @@ questions:
   authority: ["Common law: adverse possession against future interests"]
   source: original
   tags: [wave1, M4, adverse-possession, future-interests]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-PRP-0042
   subject: PRP
@@ -79,8 +79,8 @@ questions:
   authority: ["Common law: adverse possession (objective hostility)"]
   source: original
   tags: [wave1, M4, adverse-possession]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-PRP-0043
   subject: PRP
@@ -119,8 +119,8 @@ questions:
   authority: ["Common law: delivery of deeds (oral condition on delivery to the grantee)"]
   source: original
   tags: [wave1, M4, deeds, delivery]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-PRP-0044
   subject: PRP
@@ -161,8 +161,8 @@ questions:
   authority: ["Common law: present and future covenants of title"]
   source: original
   tags: [wave1, M4, deeds, covenants-of-title]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-PRP-0045
   subject: PRP
@@ -200,8 +200,8 @@ questions:
   authority: ["Common law: estoppel by deed (after-acquired title)"]
   source: original
   tags: [wave1, M4, estoppel-by-deed]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-PRP-0046
   subject: PRP
@@ -239,8 +239,8 @@ questions:
   authority: ["Common law and standard policy terms: owner's title insurance"]
   source: original
   tags: [wave1, M4, title-insurance]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-PRP-0047
   subject: PRP
@@ -281,8 +281,8 @@ questions:
   authority: ["Notice-type recording statute (as quoted in the question)", "Common law: shelter rule"]
   source: original
   tags: [wave1, M4, recording-acts, shelter-rule]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-PRP-0048
   subject: PRP
@@ -324,8 +324,8 @@ questions:
   authority: ["Race-notice recording statute (as quoted in the question)", "Common law: inquiry notice from possession"]
   source: original
   tags: [wave1, M4, recording-acts, inquiry-notice]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-PRP-0049
   subject: PRP
@@ -366,8 +366,8 @@ questions:
   authority: ["Race-notice recording statute (as quoted in the question)", "Common law: chain of title (wild deeds)"]
   source: original
   tags: [wave1, M4, recording-acts, chain-of-title]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"
 
 - id: Q-PRP-0050
   subject: PRP
@@ -408,5 +408,5 @@ questions:
   authority: ["Common law: void and voidable deeds"]
   source: original
   tags: [wave1, M4, deeds, bona-fide-purchaser]
-  status: draft
-  last_verified: 2026-11-04
+  status: verified
+  last_verified: "2026-11-05"

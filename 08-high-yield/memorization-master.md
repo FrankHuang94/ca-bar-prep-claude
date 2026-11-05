@@ -5,7 +5,7 @@ coverage_ids: []
 tested_on: [MBE, essay]
 exam_frequency: {level: high, basis: "Consolidates the 13 subject memorization-list.md tiers (1,434 rules); tiers reflect NCBE weights and past-essay tags (V-071)"}
 last_verified: 2026-11-05
-status: draft
+status: verified
 ---
 
 # Memorization master plan
