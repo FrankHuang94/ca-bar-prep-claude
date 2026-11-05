@@ -46,7 +46,7 @@ questions:
 
 - id: Q-EVD-0140
   subject: EVD
-  coverage_ids: [EVD-MBE-V.A.3]
+  coverage_ids: [EVD-MBE-V.A.3, EVD-MBE-I.A.1]
   rule_ids: [R-EVD-088, R-EVD-009, R-EVD-104]
   difficulty: 2
   stem: >-
@@ -88,7 +88,7 @@ questions:
 
 - id: Q-EVD-0141
   subject: EVD
-  coverage_ids: [EVD-MBE-V.A.4, EVD-MBE-V.G]
+  coverage_ids: [EVD-MBE-V.A.4, EVD-MBE-V.G, EVD-MBE-V.A.3]
   rule_ids: [R-EVD-092, R-EVD-100, R-EVD-088, R-EVD-050]
   difficulty: 3
   stem: >-

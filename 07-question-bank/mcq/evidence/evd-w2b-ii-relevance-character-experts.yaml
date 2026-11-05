@@ -255,10 +255,11 @@ questions:
       Mislabels character as habit. A general tendency to be careful is a character trait; FRE 406 requires
       a specific, repeated response to a specific situation.
     C: >-
-      The FRE have no such exception. The "no eyewitness" idea comes from older case law that limited when
-      habit evidence of a decedent's care could be used; FRE 406 rejects that limit (habit may be admitted
-      "regardless of whether ... there was an eyewitness"), and it never made character evidence
-      admissible to prove conduct.
+      The FRE have no such exception. Some older cases admitted evidence of a decedent's careful habits
+      (and sometimes of general carefulness) only when no eyewitness saw the accident. FRE 406 drops the
+      eyewitness limit for true habit evidence ("regardless of whether ... there was an eyewitness"), but
+      FRE 404(a)(1) still bars evidence of a careful character offered to prove conduct in a civil case,
+      eyewitness or not.
     D: >-
       Wrong limit. FRE 406 does not confine proof of habit to specific instances; a witness who has
       observed a routine may describe it. The problem here is that the friend described character, not
@@ -350,9 +351,9 @@ questions:
       Overbroad. The "any matter" language of FRE 413(a) applies only when the defendant is accused of a
       sexual assault (FRE 414 similarly applies only when he is accused of child molestation).
     C: >-
-      This is the forbidden propensity inference under FRE 404(b)(1). Identity can be a proper purpose
-      only when the other act shares distinctive features with the charged crime, which is not claimed
-      here.
+      This is the forbidden propensity inference under FRE 404(b)(1). The prosecution offers the assault
+      only to show that the defendant is violent; it claims no non-propensity purpose, such as a
+      distinctive modus operandi shared with the robbery.
     D: >-
       Wrong reason. Other-act evidence does not require a charge or conviction; it is enough that the jury
       could find the act occurred. The evidence fails because of its purpose.
@@ -452,7 +453,7 @@ questions:
 
 - id: Q-EVD-0123
   subject: EVD
-  coverage_ids: [EVD-MBE-II.D.2]
+  coverage_ids: [EVD-MBE-II.D.2, EVD-MBE-I.A.1]
   rule_ids: [R-EVD-056, R-EVD-009]
   difficulty: 1
   stem: >-

@@ -232,7 +232,7 @@ questions:
 
 - id: Q-EVD-0106
   subject: EVD
-  coverage_ids: [EVD-MBE-I.A.8]
+  coverage_ids: [EVD-MBE-I.A.8, EVD-MBE-I.A.3]
   rule_ids: [R-EVD-007, R-EVD-008, R-EVD-074]
   difficulty: 2
   stem: >-
@@ -297,7 +297,9 @@ questions:
   answer: B
   explanation_correct: >-
     Bias and the court's control of cross-examination (R-EVD-024, R-EVD-017): a witness may be impeached
-    for bias, interest, or motive, and bias is never collateral (United States v. Abel). A witness facing
+    for bias, interest, or motive (United States v. Abel recognized bias impeachment under the FRE). Bias
+    is not a collateral matter, so it may be explored on cross-examination and, subject to FRE 403, proved
+    by extrinsic evidence. A witness facing
     charges brought by the same prosecuting office may hope to earn leniency whether or not a promise has
     been made, so her pending charges are classic bias evidence. Under FRE 611(a) the court may impose
     reasonable limits on how far the inquiry goes, but in a criminal case barring all inquiry into a key

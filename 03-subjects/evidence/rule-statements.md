@@ -324,7 +324,7 @@ status: draft
 **Example:** A witness testifies the light was red; he told a friend it was green. Counsel must ask him about it before calling the friend under amended FRE 613(b); in California, counsel may call the friend first if the witness remains subject to recall.
 
 ### R-EVD-024 — Bias, interest and motive
-**Rule (write this):** A witness may always be impeached by evidence of bias, interest or motive to testify falsely, by cross-examination and by extrinsic evidence, because bias is never collateral.
+**Rule (write this):** A witness may be impeached by evidence of bias, interest or motive to testify falsely; because bias is not a collateral matter, it may be shown on cross-examination and, subject to FRE 403 and the court's control, by extrinsic evidence.
 
 **Elements:** 1. Relationship, payment, deal, hostility, litigation interest, organizational loyalty. 2. Most courts require a foundation question before extrinsic proof.
 
