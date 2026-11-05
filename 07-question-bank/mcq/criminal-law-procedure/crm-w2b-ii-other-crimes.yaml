@@ -17,12 +17,12 @@ questions:
   call: "Is the man guilty of rape?"
   options:
     A: "Yes, because her consent was obtained by deliberate lies about facts that mattered to her."
-    B: "No, because his lies induced her consent but did not deceive her about the nature of the act."
+    B: "No, because he used no force and made no threat of force to obtain her agreement."
     C: "Yes, because consent to intercourse is ineffective whenever it is given under a mistake of fact."
-    D: "No, because he used no force and made no threat of force to obtain her agreement."
-  answer: B
+    D: "No, because his lies induced her consent but did not deceive her about the nature of the act."
+  answer: D
   explanation_correct: >-
-    B is correct. Fraud in the factum — deceiving the victim about the nature of the act itself, as when a
+    D is correct. Fraud in the factum — deceiving the victim about the nature of the act itself, as when a
     doctor claims to be inserting an instrument — vitiates consent and supports rape. Fraud in the
     inducement — lies about collateral matters such as wealth, profession or marital status that persuade
     the victim to agree to an act she understands — generally does not (R-CRM-054, R-CRM-030). The woman knew
@@ -31,12 +31,12 @@ questions:
     A: >-
       Confused rule. Deliberate lies are not enough; the deception must go to the nature of the act (fraud in
       the factum), not merely to the reasons for consenting (R-CRM-054).
+    B: >-
+      Right result, wrong reason. The statute requires only lack of consent, not force, so the absence of force
+      would not save him if consent were lacking; he is not guilty because her consent was valid (R-CRM-054).
     C: >-
       Overbroad. Only a mistake about the nature of the act itself vitiates consent; a mistake about the
       partner's circumstances does not (R-CRM-030, R-CRM-054).
-    D: >-
-      Right result, wrong reason. The statute requires only lack of consent, not force, so the absence of force
-      would not save him if consent were lacking; he is not guilty because her consent was valid (R-CRM-054).
   trap_type: confused-rule
   authority: ["Common law (rape: fraud in the factum vs. fraud in the inducement)", "MPC § 213.1"]
   source: original
@@ -60,11 +60,11 @@ questions:
   options:
     A: "No, because moving the woman was incidental to the robbery he committed at the ATM."
     B: "No, because he neither demanded a ransom nor caused the woman any physical injury."
-    C: "Yes, because any movement of a person against her will, however slight, is kidnapping."
-    D: "Yes, because he confined her and moved her far beyond what the robbery required."
-  answer: D
+    C: "Yes, because he confined her and moved her far beyond what the robbery required."
+    D: "Yes, because any movement of a person against her will, however slight, is kidnapping."
+  answer: C
   explanation_correct: >-
-    D is correct. Kidnapping is unlawful confinement of a person against her will, coupled with movement or
+    C is correct. Kidnapping is unlawful confinement of a person against her will, coupled with movement or
     secret concealment (R-CRM-056). Movement merely incidental to another crime does not count, but movement
     that is substantial and independently increases the risk of harm or decreases the chance of detection does
     (R-CRM-057). Forcing the woman at knifepoint to drive seven miles, including to a deserted road, went far
@@ -77,7 +77,7 @@ questions:
     B: >-
       Ransom and injury are aggravating factors that raise the grade of kidnapping; they are not elements of
       simple kidnapping (R-CRM-056, R-CRM-057).
-    C: >-
+    D: >-
       Right result, wrong reason. In this jurisdiction slight movement incidental to another crime is not
       enough; the movement here qualifies because it was substantial (R-CRM-057).
   trap_type: exception-trap
@@ -99,18 +99,18 @@ questions:
     before neighbors called firefighters, who put it out. The jurisdiction follows the common law of arson.
   call: "Is the landlord guilty of arson?"
   options:
-    A: "Yes, because arson protects occupancy, and the house was the tenants' dwelling."
-    B: "No, because a person cannot commit arson by burning a building that he owns."
+    A: "No, because a person cannot commit arson by burning a building that he owns."
+    B: "Yes, because arson protects occupancy, and the house was the tenants' dwelling."
     C: "Yes, because burning a building to defraud an insurance company is arson."
     D: "No, because no one was inside the house when he set the fire."
-  answer: A
+  answer: B
   explanation_correct: >-
-    A is correct. Common-law arson is the malicious burning of the dwelling of another (R-CRM-058). "Of
+    B is correct. Common-law arson is the malicious burning of the dwelling of another (R-CRM-058). "Of
     another" refers to occupancy, not title, so a landlord who burns a house leased to and lived in by tenants
     burns the dwelling of another. The charring of the floor and walls is a burning, and setting a gasoline
     fire on purpose is malice. A house remains a dwelling while its residents are temporarily away.
   explanation_each_wrong_option:
-    B: >-
+    A: >-
       Confused rule. Arson protects the security of the occupants, not ownership; an owner can commit arson
       against a dwelling that others occupy (R-CRM-058).
     C: >-
@@ -180,12 +180,12 @@ questions:
   call: "What is the most serious crime the man has committed?"
   options:
     A: "Larceny, because snatching property from a person's shoulder is larceny rather than robbery."
-    B: "Robbery, because he used force to overcome her resistance to the taking."
+    B: "Larceny and battery, because robbery requires that the victim be injured or threatened."
     C: "Larceny, because he neither displayed a weapon nor threatened her with harm."
-    D: "Larceny and battery, because robbery requires that the victim be injured or threatened."
-  answer: B
+    D: "Robbery, because he used force to overcome her resistance to the taking."
+  answer: D
   explanation_correct: >-
-    B is correct. Robbery is larceny from the victim's person or presence accomplished by force or
+    D is correct. Robbery is larceny from the victim's person or presence accomplished by force or
     intimidation, where the force exceeds what is needed simply to take the property (R-CRM-049). A snatch so
     quick that the victim cannot resist is larceny, but here the woman held on and the man overcame her
     resistance by yanking her off balance. That force, used to obtain the bag, makes the taking robbery.
@@ -193,12 +193,12 @@ questions:
     A: >-
       Overbroad. A snatching is only larceny when no more force is used than needed to take the item; overcoming
       the victim's grip is the force robbery requires (R-CRM-049).
+    B: >-
+      Robbery requires force or intimidation, not injury. The force used merges the battery into the robbery
+      (R-CRM-049).
     C: >-
       Confused rule. Force and intimidation are alternatives; a weapon or threat is unnecessary when actual
       force overcomes resistance (R-CRM-049).
-    D: >-
-      Robbery requires force or intimidation, not injury. The force used merges the battery into the robbery
-      (R-CRM-049).
   trap_type: overbroad
   authority: ["Common law (robbery)"]
   source: original
@@ -218,19 +218,19 @@ questions:
     neighbor, asleep upstairs, did not wake. The jurisdiction follows the common law of burglary.
   call: "Is the man guilty of burglary?"
   options:
-    A: "Yes, because pushing the window farther open to get inside was a breaking."
-    B: "No, because he entered through an opening that the neighbor had left in the window."
+    A: "No, because he entered through an opening that the neighbor had left in the window."
+    B: "Yes, because pushing the window farther open to get inside was a breaking."
     C: "Yes, because he entered a dwelling at night and stole property from inside it."
     D: "No, because he did not damage the window or any other part of the house."
-  answer: A
+  answer: B
   explanation_correct: >-
-    A is correct. Common-law burglary requires a breaking and entering of the dwelling of another at
+    B is correct. Common-law burglary requires a breaking and entering of the dwelling of another at
     nighttime with intent to commit a felony inside, the intent existing at entry (R-CRM-050). A breaking is
     the creation or enlargement of an opening by even slight force; raising a partly open window enough to
     climb through enlarges the opening. The man entered at night with intent to steal, so every element is
     met.
   explanation_each_wrong_option:
-    B: >-
+    A: >-
       Walking through a fully open door or window is not a breaking, but enlarging a partial opening is
       (R-CRM-050).
     C: >-

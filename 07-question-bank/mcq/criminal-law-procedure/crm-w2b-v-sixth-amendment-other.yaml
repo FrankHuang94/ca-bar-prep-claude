@@ -62,12 +62,12 @@ questions:
   call: "On appeal, is the defendant entitled to a new trial?"
   options:
     A: "No, because his appointed lawyer performed competently, so the denial caused him no prejudice."
-    B: "Yes, because he made a timely, unequivocal and knowing request to represent himself."
-    C: "No, because a judge may refuse self-representation to a defendant without legal training."
+    B: "No, because a judge may refuse self-representation to a defendant without legal training."
+    C: "Yes, because he made a timely, unequivocal and knowing request to represent himself."
     D: "Yes, but only if he shows that he probably would have been acquitted had he represented himself."
-  answer: B
+  answer: C
   explanation_correct: >-
-    B is correct. A competent defendant who makes a timely and unequivocal request, and who knowingly and
+    C is correct. A competent defendant who makes a timely and unequivocal request, and who knowingly and
     intelligently waives counsel after being warned of the risks, has a Sixth Amendment right to represent
     himself; lack of legal skill is irrelevant (R-CRM-104; Faretta v. California). Denial of that right is not
     subject to harmless-error analysis, so the conviction must be reversed without any showing of prejudice
@@ -76,7 +76,7 @@ questions:
     A: >-
       Wrong standard. The right of self-representation protects the defendant's autonomy, not the reliability
       of the result; its wrongful denial requires reversal regardless of counsel's competence (R-CRM-104).
-    C: >-
+    B: >-
       Technical legal knowledge is not relevant to whether a defendant may waive counsel; the judge's reason
       contradicts Faretta (R-CRM-104).
     D: >-
@@ -144,26 +144,26 @@ questions:
     The judge must now rule on the objection.
   call: "How should the judge rule?"
   options:
-    A: "Overrule it, because a prosecutor may exercise peremptory challenges for any reason or no reason."
+    A: "Sustain it, if the judge finds that the stated reason was a pretext for racial discrimination."
     B: "Overrule it, because the defendant is not Black and so cannot object to the exclusion of Black jurors."
-    C: "Sustain it, if the judge finds that the stated reason was a pretext for racial discrimination."
+    C: "Overrule it, because a prosecutor may exercise peremptory challenges for any reason or no reason."
     D: "Sustain it, because striking every member of one race is unconstitutional whatever reason is given."
-  answer: C
+  answer: A
   explanation_correct: >-
-    C is correct. Peremptory challenges may not be based on race (R-CRM-110; Batson v. Kentucky). Batson's three
+    A is correct. Peremptory challenges may not be based on race (R-CRM-110; Batson v. Kentucky). Batson's three
     steps are a prima facie showing, a race-neutral explanation, and the court's decision whether the opponent
     has proved purposeful discrimination. The explanation here is facially neutral, but the prosecutor's
     acceptance of white jurors with the same characteristics is strong evidence of pretext, and the judge
     must decide at step three whether the strikes were racially motivated.
   explanation_each_wrong_option:
-    A: >-
-      Confused rule. Peremptory challenges need no cause, but they may not be exercised on the basis of race or
-      sex (R-CRM-110).
     B: >-
       A defendant may raise a Batson objection whether or not he shares the race of the excluded jurors
       (Powers v. Ohio; R-CRM-110).
+    C: >-
+      Confused rule. Peremptory challenges need no cause, but they may not be exercised on the basis of race or
+      sex (R-CRM-110).
     D: >-
-      Overbroad. Striking all members of a race supports a prima facie case, but the judge must still consider
+      Overbroad. Striking all members of a race can support a prima facie case, but the judge must still consider
       the explanation and decide whether discrimination is proved (R-CRM-110).
   trap_type: confused-rule
   authority: ["U.S. Const. amend. XIV", "Batson v. Kentucky, 476 U.S. 79 (1986)", "Powers v. Ohio, 499 U.S. 400 (1991)", "Flowers v. Mississippi, 588 U.S. 284 (2019)"]
@@ -186,19 +186,19 @@ questions:
     qualifies under a hearsay exception. The defendant objects under the Confrontation Clause.
   call: "Should the recording be admitted over the Confrontation Clause objection?"
   options:
-    A: "Yes, because her statements were made primarily to get help with an ongoing emergency."
-    B: "No, because she is absent and the defendant never had an opportunity to cross-examine her."
+    A: "No, because she is absent and the defendant never had an opportunity to cross-examine her."
+    B: "Yes, because her statements were made primarily to get help with an ongoing emergency."
     C: "Yes, because any statement that fits a hearsay exception satisfies the Confrontation Clause."
     D: "No, because statements identifying a suspect to the police are testimonial whenever recorded."
-  answer: A
+  answer: B
   explanation_correct: >-
-    A is correct. The Confrontation Clause bars only testimonial statements of absent witnesses (R-CRM-112;
+    B is correct. The Confrontation Clause bars only testimonial statements of absent witnesses (R-CRM-112;
     Crawford v. Washington). Statements to police or 911 operators are nontestimonial when their primary
     purpose is to enable police to meet an ongoing emergency (Davis v. Washington). The woman described an
     attack in progress and the attacker's identity while he was still present and leaving, so the Clause does
     not bar the recording.
   explanation_each_wrong_option:
-    B: >-
+    A: >-
       True but irrelevant. Unavailability plus a prior opportunity for cross-examination is required only for
       testimonial statements; these were not testimonial (R-CRM-112).
     C: >-
@@ -228,12 +228,12 @@ questions:
   call: "Should the motion be granted?"
   options:
     A: "Yes, because the identification took place after formal charges, when the right to counsel had attached."
-    B: "No, because there is no right to counsel at a photographic identification, even after charges."
-    C: "Yes, because every identification procedure conducted after indictment is a critical stage."
+    B: "Yes, because every identification procedure conducted after indictment is a critical stage."
+    C: "No, because there is no right to counsel at a photographic identification, even after charges."
     D: "No, because the right to counsel applies only at trial, not at any pretrial proceeding."
-  answer: B
+  answer: C
   explanation_correct: >-
-    B is correct. The Sixth Amendment guarantees counsel at a post-charge, in-person lineup or show-up, but not
+    C is correct. The Sixth Amendment guarantees counsel at a post-charge, in-person lineup or show-up, but not
     at a photographic identification, whether before or after charges (R-CRM-106; United States v. Ash).
     Photo arrays are tested only under due process, and this one — six similar photographs and no suggestion
     by the detective — was not unnecessarily suggestive (R-CRM-107).
@@ -241,7 +241,7 @@ questions:
     A: >-
       Missing element. Attachment is necessary but not sufficient; the right applies only at critical stages,
       and a photo array, at which the defendant is not present, is not one (R-CRM-106).
-    C: >-
+    B: >-
       Overbroad. Post-charge in-person lineups are critical stages; photographic displays are not (R-CRM-106).
     D: >-
       The right applies at critical pretrial stages after attachment, such as post-charge lineups and
@@ -268,11 +268,11 @@ questions:
   options:
     A: "No, because robbing a different victim is a different offense under the Blockburger test."
     B: "No, because the state will offer an eyewitness who did not testify at the first trial."
-    C: "No, because jeopardy for robbing the second diner never attached at the first trial."
-    D: "Yes, because the acquittal necessarily decided that he was not one of the robbers."
-  answer: D
+    C: "Yes, because the acquittal necessarily decided that he was not one of the robbers."
+    D: "No, because jeopardy for robbing the second diner never attached at the first trial."
+  answer: C
   explanation_correct: >-
-    D is correct. Double jeopardy includes collateral estoppel: once an issue of ultimate fact has been
+    C is correct. Double jeopardy includes collateral estoppel: once an issue of ultimate fact has been
     determined by a valid final judgment of acquittal, the state may not relitigate it against the same
     defendant (R-CRM-117; Ashe v. Swenson). Because identity was the only contested issue, the acquittal
     necessarily decided that he was not one of the robbers, so the state cannot prosecute him for robbing
@@ -284,7 +284,7 @@ questions:
     B: >-
       New evidence does not permit relitigating an issue already decided by an acquittal; giving the state a
       second chance with a stronger case is what the doctrine forbids (R-CRM-117).
-    C: >-
+    D: >-
       Jeopardy for the second charge did not attach, but collateral estoppel turns on the issue already decided
       in the first trial, not on attachment for the new charge (R-CRM-117).
   trap_type: true-but-irrelevant

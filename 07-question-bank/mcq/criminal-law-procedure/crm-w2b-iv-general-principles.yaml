@@ -56,7 +56,7 @@ questions:
     generally accepted principles of territorial jurisdiction. The man has never been to State B.
   call: "Which state or states may prosecute him for the false-pretenses offense?"
   options:
-    A: "Both states, because his conduct occurred in State A and its intended result occurred in State B."
+    A: "Both states, because he acted in State A and the intended harm to the victim occurred in State B."
     B: "Only State A, because he was physically present in State A throughout the scheme."
     C: "Only State B, because the victim and her money were located in State B when she was deceived."
     D: "Neither state, because only the federal government may prosecute a crime that crosses state lines."
@@ -117,7 +117,7 @@ questions:
       An omission can satisfy the act requirement when the defendant had a legal duty to act and was able to
       perform it (R-CRM-002, R-CRM-003).
     C: >-
-      Right result, wrong reason. A moral duty alone never supports criminal liability; liability rests on the
+      Right result, wrong reason. A moral duty alone does not support criminal liability; liability rests on the
       contractual legal duty (R-CRM-003).
   trap_type: exception-trap
   authority: ["MPC § 2.01(3)", "Jones v. United States, 308 F.2d 307 (D.C. Cir. 1962)"]
@@ -142,12 +142,12 @@ questions:
   call: "Does the fisherman have a valid defense?"
   options:
     A: "No, because ignorance or mistake of law is no excuse for violating a criminal statute."
-    B: "No, because only a court decision, not an agency ruling, can support a reliance defense."
-    C: "Yes, because he reasonably relied on an official interpretation by the responsible agency."
+    B: "Yes, because he reasonably relied on an official interpretation by the responsible agency."
+    C: "No, because only a court decision, not an agency ruling, can support a reliance defense."
     D: "Yes, because he honestly believed that using the net was lawful when he used it."
-  answer: C
+  answer: B
   explanation_correct: >-
-    C is correct. Mistake of law is generally no defense, but a defendant may rely reasonably on an official
+    B is correct. Mistake of law is generally no defense, but a defendant may rely reasonably on an official
     statement of the law later found erroneous, including an official interpretation by the public officer or
     body charged by law with interpreting, administering or enforcing the law that defines the offense (MPC
     § 2.04(3)(b)(iv); R-CRM-011). The fisherman obtained a formal written ruling from the director of the
@@ -156,7 +156,7 @@ questions:
     A: >-
       Overbroad. The general rule has exceptions, and reasonable reliance on an official statement of the law
       is one of them (R-CRM-011).
-    B: >-
+    C: >-
       The MPC's list of official statements includes judicial decisions but also statutes, administrative
       orders and official interpretations by the responsible agency (MPC § 2.04(3)(b)).
     D: >-
@@ -185,12 +185,12 @@ questions:
   call: "Is the defense of duress likely to succeed?"
   options:
     A: "Yes, because the threat was of serious bodily injury to a member of his family."
-    B: "No, because the threatened harm was not imminent and he had a reasonable chance to seek help."
-    C: "Yes, because a person of reasonable firmness would have feared for his son's safety."
+    B: "Yes, because a person of reasonable firmness would have feared for his son's safety."
+    C: "No, because the threatened harm was not imminent and he had a reasonable chance to seek help."
     D: "No, because duress does not apply when the threat is directed at someone other than the defendant."
-  answer: B
+  answer: C
   explanation_correct: >-
-    B is correct. Duress requires a threat of imminent death or serious bodily injury to the defendant or
+    C is correct. Duress requires a threat of imminent death or serious bodily injury to the defendant or
     another, a reasonable fear, and no reasonable opportunity to escape (R-CRM-028). The threat concerned harm
     six days in the future, and the man spent those days free and unwatched, with ample opportunity to go to
     the police. His doubt about police protection does not supply the missing imminence.
@@ -198,7 +198,7 @@ questions:
     A: >-
       Missing element. A threat of serious injury to a family member can support duress, but only if the harm
       is imminent and there is no reasonable escape (R-CRM-028).
-    C: >-
+    B: >-
       Reasonable fear is one element; the defense still fails for lack of an imminent threat and the
       availability of lawful alternatives (R-CRM-028).
     D: >-

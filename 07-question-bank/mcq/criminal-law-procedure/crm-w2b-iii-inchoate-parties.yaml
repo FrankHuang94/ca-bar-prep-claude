@@ -15,21 +15,18 @@ questions:
     steps and did not try to find out what had happened to the letter.
   call: "Is the man guilty of solicitation to commit arson?"
   options:
-    A: "No, because the person he solicited never received the request and never agreed to it."
+    A: "Yes, because his conduct was designed to communicate the request, which is enough."
     B: "No, because he abandoned the plan by taking no further steps after mailing the letter."
     C: "Yes, but only if the acquaintance would have accepted the offer had he received it."
-    D: "Yes, because his conduct was designed to communicate the request, which is enough."
-  answer: D
+    D: "No, because the person he solicited never received the request and never agreed to it."
+  answer: A
   explanation_correct: >-
-    D is correct. Under the MPC, a person is guilty of solicitation if, with the purpose of promoting or
+    A is correct. Under the MPC, a person is guilty of solicitation if, with the purpose of promoting or
     facilitating a crime, he commands, encourages or requests another to commit it (MPC § 5.02(1)), and it is
     immaterial that he fails to communicate with the person solicited if his conduct was designed to effect
     the communication (MPC § 5.02(2); R-CRM-064). Mailing the letter with the purpose that the arson be
     committed completes the crime.
   explanation_each_wrong_option:
-    A: >-
-      Confused rule. Under the MPC, neither receipt nor agreement is required; conduct designed to communicate
-      the request suffices (MPC § 5.02(2)). The other person's refusal or ignorance is no defense (R-CRM-064).
     B: >-
       Doing nothing further is not renunciation. The MPC defense requires that the solicitor persuade the other
       person not to commit the crime or otherwise prevent it, under circumstances showing a complete and
@@ -37,6 +34,9 @@ questions:
     C: >-
       Solicitation focuses on the solicitor's request and purpose; whether the other person would have agreed
       is irrelevant (R-CRM-064).
+    D: >-
+      Confused rule. Under the MPC, neither receipt nor agreement is required; conduct designed to communicate
+      the request suffices (MPC § 5.02(2)). The other person's refusal or ignorance is no defense (R-CRM-064).
   trap_type: confused-rule
   authority: ["MPC § 5.02(1)", "MPC § 5.02(2)", "MPC § 5.02(3)"]
   source: original
@@ -97,19 +97,19 @@ questions:
     in attempt cases.
   call: "Can the man properly be convicted of an attempt?"
   options:
-    A: "Yes, because he intended to commit what he believed was a crime and went beyond mere preparation."
-    B: "No, because the conduct he intended, even if completed exactly as he planned, is not a crime."
+    A: "No, because the conduct he intended, even if completed exactly as he planned, is not a crime."
+    B: "Yes, because he intended to commit what he believed was a crime and went beyond mere preparation."
     C: "Yes, because under the modern approach impossibility is no defense to a charge of attempt."
     D: "No, because he fully completed the conduct he intended, so there was nothing left to attempt."
-  answer: B
+  answer: A
   explanation_correct: >-
-    B is correct. The modern approach rejects factual and "hybrid" legal impossibility by judging conduct on
+    A is correct. The modern approach rejects factual and "hybrid" legal impossibility by judging conduct on
     the circumstances as the defendant believed them to be, but pure legal impossibility — intending to do
     something that is not a crime at all — remains a defense (R-CRM-062). On the facts as the man believed
     them, he was fishing on a Sunday, which no law forbids. His mistaken belief that the law prohibited it
     cannot create a crime, because a person may be punished only under a law that exists (R-CRM-001).
   explanation_each_wrong_option:
-    A: >-
+    B: >-
       A guilty mind about a nonexistent law is not enough. Attempt requires intent to commit an actual crime;
       the man's mistake was about the law, not the facts (R-CRM-062).
     C: >-
@@ -139,18 +139,18 @@ questions:
     requires an overt act in furtherance of the agreement.
   call: "Can the man who did nothing after the agreement properly be convicted of conspiracy to commit robbery?"
   options:
-    A: "Yes, because one conspirator's overt act completed the crime for both of them."
-    B: "No, because renting a van is a lawful act and so cannot serve as the overt act."
+    A: "No, because renting a van is a lawful act and so cannot serve as the overt act."
+    B: "Yes, because one conspirator's overt act completed the crime for both of them."
     C: "No, because he personally took no step in furtherance of the robbery."
     D: "No, because the robbery was never attempted, so the conspiracy was not complete."
-  answer: A
+  answer: B
   explanation_correct: >-
-    A is correct. Conspiracy is an agreement between two or more persons to commit a crime, with intent to
+    B is correct. Conspiracy is an agreement between two or more persons to commit a crime, with intent to
     agree and to achieve the objective, plus, in most jurisdictions, an overt act in furtherance (R-CRM-065).
     The overt act may be any act, even a lawful one, by any conspirator. Renting the getaway van satisfied the
     requirement for both men, so the conspiracy was complete before the arrests.
   explanation_each_wrong_option:
-    B: >-
+    A: >-
       The overt act need not be criminal; any act in furtherance, including renting a vehicle, suffices
       (R-CRM-065).
     C: >-
@@ -182,11 +182,11 @@ questions:
   options:
     A: "No, because he clearly told the friend, before the theft, that he was withdrawing."
     B: "No, because he was not present at the store when the theft took place."
-    C: "Yes, because an accomplice can never withdraw once he has agreed to help."
-    D: "Yes, because he did nothing to neutralize the key and alarm code he had supplied."
-  answer: D
+    C: "Yes, because he did nothing to neutralize the key and alarm code he had supplied."
+    D: "Yes, because an accomplice can never withdraw once he has agreed to help."
+  answer: C
   explanation_correct: >-
-    D is correct. An accomplice escapes liability only by a timely withdrawal that undoes his contribution:
+    C is correct. An accomplice escapes liability only by a timely withdrawal that undoes his contribution:
     repudiating encouragement, neutralizing material aid, or warning the police or otherwise trying to prevent
     the crime (R-CRM-071). The guard supplied material aid — the key and the code — and the friend used both.
     A phone call disclaiming involvement did not neutralize that aid, so he remains liable for the theft he
@@ -194,11 +194,11 @@ questions:
   explanation_each_wrong_option:
     A: >-
       Confused rule. Verbal repudiation can withdraw mere encouragement, but an accomplice who supplied material
-      aid must neutralize it or alert the authorities (R-CRM-071).
+      aid must neutralize it, warn the police or otherwise try to prevent the crime (R-CRM-071).
     B: >-
       Presence is not required. Supplying tools or information before the crime with intent to aid is enough
       for accomplice liability (R-CRM-069).
-    C: >-
+    D: >-
       Overbroad. Withdrawal is possible if it is timely and neutralizes the aid; the guard's attempt failed
       because it did not (R-CRM-071).
   trap_type: confused-rule
@@ -224,15 +224,15 @@ questions:
   options:
     A: "Yes, because he knowingly supplied the tool that was used to commit the theft."
     B: "Yes, because a seller who knows of a buyer's criminal plan must refuse the sale."
-    C: "No, because he did not intend to promote or facilitate the theft."
-    D: "No, because a bolt cutter is an ordinary product that is lawful to sell."
-  answer: C
+    C: "No, because a bolt cutter is an ordinary product that is lawful to sell."
+    D: "No, because he did not intend to promote or facilitate the theft."
+  answer: D
   explanation_correct: >-
-    C is correct. Accomplice liability requires an act of aid plus a dual intent: the intent to assist and the
+    D is correct. Accomplice liability requires an act of aid plus a dual intent: the intent to assist and the
     intent that the principal commit the crime. Under the majority view, knowledge that one's help will be
     used for a crime is not enough (R-CRM-069). The clerk sold an ordinary item at the regular price, had no
     stake in the theft and did not care whether it occurred, so he lacked the purpose to promote the larceny
-    (R-CRM-066 (stake-in-the-venture factors)).
+    (compare the stake-in-the-venture factors in R-CRM-066).
   explanation_each_wrong_option:
     A: >-
       Wrong standard. Supplying the means with knowledge of the buyer's plan does not, without purpose, make a
@@ -240,7 +240,7 @@ questions:
     B: >-
       There is no general duty to refuse a lawful sale; liability for an omission requires a legal duty, and
       accomplice liability requires purpose (R-CRM-003, R-CRM-069).
-    D: >-
+    C: >-
       Right result, wrong reason. Selling a lawful product can make the seller an accomplice if he sells it
       with the purpose of aiding the crime; the clerk escapes liability because he lacked that purpose
       (R-CRM-069).

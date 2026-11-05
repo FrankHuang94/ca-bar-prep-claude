@@ -4,7 +4,7 @@
 questions:
 - id: Q-CRM-0101
   subject: CRM
-  coverage_ids: [CRM-MBE-I.A.1]
+  coverage_ids: [CRM-MBE-I.A.1, CRM-MBE-IV.B.1]
   rule_ids: [R-CRM-033, R-CRM-008]
   difficulty: 2
   stem: >-
@@ -17,12 +17,12 @@ questions:
   call: "What is the most serious crime of which the woman can properly be convicted for the assistant's death?"
   options:
     A: "Attempted murder only, because she never intended to kill the assistant."
-    B: "Second-degree murder, because her premeditation was directed only at the partner."
-    C: "First-degree murder, because her premeditated intent transfers to the assistant."
+    B: "First-degree murder, because her premeditated intent transfers to the assistant."
+    C: "Second-degree murder, because her premeditation was directed only at the partner."
     D: "Involuntary manslaughter, because the assistant's death was an unintended accident."
-  answer: C
+  answer: B
   explanation_correct: >-
-    C is correct. When a defendant intends to harm one person and causes the same kind of harm to another, her
+    B is correct. When a defendant intends to harm one person and causes the same kind of harm to another, her
     intent transfers to the actual victim (R-CRM-008). What transfers is the whole mental state that actuated
     the fatal act, including premeditation and deliberation. The week of planning, the purchase of a gun,
     the practice and the lying in wait show a willful, deliberate and premeditated intent to kill (R-CRM-033),
@@ -32,7 +32,7 @@ questions:
     A: >-
       Confused rule. Attempted murder of the partner is a separate crime, but it does not replace liability for
       the death she actually caused; her intent to kill transfers to the assistant (R-CRM-008).
-    B: >-
+    C: >-
       Transferred intent carries the defendant's mental state as it existed when she fired. Because that state
       included premeditation and deliberation, the killing is first-degree, not second-degree, murder
       (R-CRM-008, R-CRM-033).
@@ -60,28 +60,28 @@ questions:
     divide murder into degrees.
   call: "Of which crime is the man most likely to be convicted?"
   options:
-    A: "Murder, because he was not in fact acting in a heat of passion when he killed."
+    A: "Involuntary manslaughter, because he had not planned the killing before he came home."
     B: "Voluntary manslaughter, because finding a spouse in the act of adultery is adequate provocation."
     C: "Voluntary manslaughter, because he killed before a reasonable person would have cooled off."
-    D: "Involuntary manslaughter, because he had not planned the killing before he came home."
-  answer: A
+    D: "Murder, because he was not in fact acting in a heat of passion when he killed."
+  answer: D
   explanation_correct: >-
-    A is correct. An intentional killing is reduced to voluntary manslaughter only if the defendant (1) faced
+    D is correct. An intentional killing is reduced to voluntary manslaughter only if the defendant (1) faced
     adequate provocation, (2) was actually provoked into a heat of passion, (3) had no reasonable time to cool
     and (4) did not actually cool (R-CRM-034). Discovering a spouse in adultery is a traditional category of
     adequate provocation, but the subjective element is missing: the jury found that the man was calm and
     killed to settle an old grudge. Without actual passion, the intentional killing remains murder (R-CRM-031).
   explanation_each_wrong_option:
+    A: >-
+      Lack of advance planning bears on premeditation, which is irrelevant here because the jurisdiction does
+      not grade murder by degree. The man intended to kill, which is express malice, not criminal negligence
+      (R-CRM-031, R-CRM-037).
     B: >-
       Missing element. Adequate (objective) provocation is only one requirement; the defendant must also have
       actually been in a heat of passion when he killed, and the jury found he was not (R-CRM-034).
     C: >-
       True but not enough. The absence of cooling time matters only if the defendant was inflamed in the first
       place; a defendant who was never in a passion gets no mitigation (R-CRM-034).
-    D: >-
-      Lack of advance planning bears on premeditation, which is irrelevant here because the jurisdiction does
-      not grade murder by degree. The man intended to kill, which is express malice, not criminal negligence
-      (R-CRM-031, R-CRM-037).
   trap_type: missing-element
   authority: ["Common law (voluntary manslaughter: heat of passion)"]
   source: original
@@ -103,26 +103,26 @@ questions:
     and he died two days later. The jurisdiction follows the common law and does not divide murder into degrees.
   call: "What is the most serious crime of which the man can properly be convicted?"
   options:
-    A: "Battery only, because the roommate's refusal of a transfusion was a superseding cause of his death."
+    A: "Murder, because he intended serious bodily injury, and refusing treatment does not break the causal chain."
     B: "Involuntary manslaughter, because the man did not intend to kill and the death came from the roommate's choice."
     C: "Voluntary manslaughter, because the man acted in anger over the roommate's damaging testimony."
-    D: "Murder, because he intended serious bodily injury, and refusing treatment does not break the causal chain."
-  answer: D
+    D: "Battery only, because the roommate's refusal of a transfusion was a superseding cause of his death."
+  answer: A
   explanation_correct: >-
-    D is correct. Malice includes an intent to inflict serious bodily injury, so a death caused by such an
+    A is correct. Malice includes an intent to inflict serious bodily injury, so a death caused by such an
     attack is murder even without intent to kill (R-CRM-035). Causation is also satisfied: the beating was a
     but-for cause, and a victim's refusal of medical treatment is not an independent, unforeseeable
     intervening cause that breaks the chain — the defendant takes his victim as he finds him (R-CRM-013).
   explanation_each_wrong_option:
-    A: >-
-      Confused rule. Only an unforeseeable, independent intervening act breaks the chain; a victim's refusal
-      of treatment for injuries the defendant inflicted does not (R-CRM-013).
     B: >-
       Wrong mental state. Intent to inflict serious bodily injury is malice aforethought, which makes the
       killing murder, not involuntary manslaughter (R-CRM-035, R-CRM-031).
     C: >-
       Anger over testimony given months earlier is not adequate provocation, and the man had ample time to
       cool; the ambush shows a calculated attack, not a sudden heat of passion (R-CRM-034).
+    D: >-
+      Confused rule. Only an unforeseeable, independent intervening act breaks the chain; a victim's refusal
+      of treatment for injuries the defendant inflicted does not (R-CRM-013).
   trap_type: confused-rule
   authority: ["Common law (malice: intent to inflict serious bodily injury)", "Common law (proximate cause; victim's refusal of treatment)"]
   source: original
@@ -145,12 +145,12 @@ questions:
   call: "Of which offense should the driver be convicted?"
   options:
     A: "Murder, because he knowingly engaged in dangerous conduct that caused a death."
-    B: "Manslaughter, because he recklessly caused the child's death."
-    C: "Negligent homicide, because he did not intend to harm anyone."
+    B: "Negligent homicide, because he did not intend to harm anyone."
+    C: "Manslaughter, because he recklessly caused the child's death."
     D: "No homicide offense, because the Code rejects the unlawful-act manslaughter rule."
-  answer: B
+  answer: C
   explanation_correct: >-
-    B is correct. Under the MPC, criminal homicide is manslaughter when it is committed recklessly (MPC
+    C is correct. Under the MPC, criminal homicide is manslaughter when it is committed recklessly (MPC
     § 210.3(1)(a)); a person acts recklessly when he consciously disregards a substantial and unjustifiable
     risk (MPC § 2.02(2)(c); R-CRM-005). A reckless killing becomes murder only if it is committed under
     circumstances manifesting extreme indifference to the value of human life (MPC § 210.2(1)(b)), which the
@@ -160,7 +160,7 @@ questions:
       Wrong standard. Knowing that one's conduct is risky is recklessness as to death, not knowledge that death
       is practically certain. Reckless murder requires extreme indifference, which the jury did not find
       (R-CRM-038; MPC § 210.2(1)).
-    C: >-
+    B: >-
       Negligent homicide applies when the actor should have been aware of the risk but was not (MPC § 210.4).
       This driver was aware of the risk and disregarded it, which is recklessness; lack of intent to harm does
       not lower the grade (R-CRM-005).
@@ -252,7 +252,7 @@ questions:
       Foreseeability of death is a causation limit on qualifying felonies; it cannot substitute for the
       requirement that the felony itself be inherently dangerous, judged by its elements (R-CRM-040).
     C: >-
-      Wrong reason. Felony murder never requires intent to harm; the intent to commit a qualifying felony
+      Wrong reason. Felony murder does not require intent to harm; the intent to commit a qualifying felony
       supplies malice. The charge fails because this felony does not qualify (R-CRM-039).
   trap_type: missing-element
   authority: ["Common law (felony murder: inherently dangerous felony)"]

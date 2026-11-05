@@ -18,12 +18,12 @@ questions:
   call: "Should the motion be granted?"
   options:
     A: "Yes, because he had asked for a lawyer, and the officers spoke about the case before one arrived."
-    B: "No, because the officers' brief remarks to each other were not the functional equivalent of questioning."
+    B: "No, because a suspect who has requested a lawyer waives the request by choosing to speak."
     C: "Yes, because a remark that appeals to a suspect's conscience is the functional equivalent of questioning."
-    D: "No, because a suspect who has requested a lawyer waives the request by choosing to speak."
-  answer: B
+    D: "No, because the officers' brief remarks to each other were not the functional equivalent of questioning."
+  answer: D
   explanation_correct: >-
-    B is correct. Miranda and Edwards bar interrogation: express questioning or its functional equivalent,
+    D is correct. Miranda and Edwards bar interrogation: express questioning or its functional equivalent,
     meaning words or actions that the police should know are reasonably likely to elicit an incriminating
     response, judged mainly from the suspect's perspective (R-CRM-095; Rhode Island v. Innis). A short
     exchange between officers, not addressed to the suspect, with no reason to think him peculiarly
@@ -33,13 +33,13 @@ questions:
     A: >-
       Confused rule. After a request for counsel, Edwards forbids further interrogation, not every remark made in
       the suspect's presence (R-CRM-098).
+    B: >-
+      Wrong reason. The statement is admissible because it was not the product of interrogation, not because
+      speaking waived the earlier request for counsel (R-CRM-095, R-CRM-098).
     C: >-
       Overbroad. An appeal to conscience can be interrogation if police should know it is reasonably likely to
       draw an incriminating response; a brief, offhand exchange between officers, without known susceptibility,
       is not (R-CRM-095).
-    D: >-
-      Wrong reason. The statement is admissible because it was not the product of interrogation, not because
-      speaking waived the earlier request for counsel (R-CRM-095, R-CRM-098).
   trap_type: overbroad
   authority: ["U.S. Const. amend. V", "Rhode Island v. Innis, 446 U.S. 291 (1980)", "Edwards v. Arizona, 451 U.S. 477 (1981)"]
   source: original
@@ -101,27 +101,27 @@ questions:
     her statements.
   call: "Should the motion be granted?"
   options:
-    A: "Yes, because her refusal to sign the waiver form was an invocation of her right to remain silent."
+    A: "No, because she impliedly waived her rights by answering after showing she understood them."
     B: "Yes, because a waiver of Miranda rights is valid only if the suspect expressly states it."
     C: "No, because once full warnings are given, any statement that follows is automatically admissible."
-    D: "No, because she impliedly waived her rights by answering after showing she understood them."
-  answer: D
+    D: "Yes, because her refusal to sign the waiver form was an invocation of her right to remain silent."
+  answer: A
   explanation_correct: >-
-    D is correct. A Miranda waiver must be knowing, intelligent and voluntary, but it need not be express or
+    A is correct. A Miranda waiver must be knowing, intelligent and voluntary, but it need not be express or
     written; it may be implied when a suspect who understood the warnings makes an uncoerced statement
     (R-CRM-096; North Carolina v. Butler; Berghuis v. Thompkins). The bookkeeper read and acknowledged her
     rights, never invoked them, and answered without coercion. Refusing to sign a form is not an unambiguous
     invocation of the right to silence (R-CRM-097).
   explanation_each_wrong_option:
-    A: >-
-      An invocation must be unambiguous. Declining to sign paperwork, while engaging with the questions, does
-      not clearly say that she wants to remain silent (R-CRM-097).
     B: >-
       Wrong standard. An express waiver is strong evidence, but it is not required; implied waivers are valid
       (R-CRM-096).
     C: >-
       Overbroad. Warnings alone do not make later statements admissible; the prosecution must still prove a
       knowing, intelligent and voluntary waiver by a preponderance (R-CRM-096).
+    D: >-
+      An invocation must be unambiguous. Declining to sign paperwork, while engaging with the questions, does
+      not clearly say that she wants to remain silent (R-CRM-097).
   trap_type: wrong-standard
   authority: ["U.S. Const. amend. V", "North Carolina v. Butler, 441 U.S. 369 (1979)", "Berghuis v. Thompkins, 560 U.S. 370 (2010)"]
   source: original
@@ -186,12 +186,12 @@ questions:
   call: "Should the confession be suppressed?"
   options:
     A: "No, because she had already consulted her lawyer privately before the detective approached her."
-    B: "Yes, because police reinitiated questioning without her lawyer after she had asked for one."
+    B: "Yes, because a suspect who has invoked the right to counsel can never later waive that right."
     C: "No, because she received fresh warnings and then validly waived her rights before confessing."
-    D: "Yes, because a suspect who has invoked the right to counsel can never later waive that right."
-  answer: B
+    D: "Yes, because police reinitiated questioning without her lawyer after she had asked for one."
+  answer: D
   explanation_correct: >-
-    B is correct. Once a suspect in custody unambiguously requests counsel, police may not interrogate her
+    D is correct. Once a suspect in custody unambiguously requests counsel, police may not interrogate her
     about any crime until counsel is present, unless she herself reinitiates communication (R-CRM-098). The
     protection continues after she has consulted with a lawyer: "until counsel is present" means present at
     the interrogation (Minnick v. Mississippi). The detective initiated the interview while she remained in
@@ -200,12 +200,12 @@ questions:
     A: >-
       Confused rule. Consultation with a lawyer outside the interrogation room does not end the Edwards
       protection (R-CRM-098).
+    B: >-
+      Overbroad. A suspect may waive after invoking if she reinitiates communication, and the protection lapses
+      after a 14-day break in custody (R-CRM-098).
     C: >-
       After an Edwards invocation, a waiver given in response to police-initiated custodial interrogation is
       invalid even if fresh warnings are given (R-CRM-098, R-CRM-096).
-    D: >-
-      Overbroad. A suspect may waive after invoking if she reinitiates communication, and the protection lapses
-      after a 14-day break in custody (R-CRM-098).
   trap_type: confused-rule
   authority: ["U.S. Const. amend. V", "Edwards v. Arizona, 451 U.S. 477 (1981)", "Minnick v. Mississippi, 498 U.S. 146 (1990)"]
   source: original
@@ -227,18 +227,18 @@ questions:
     prosecutor asks to use the confession to impeach him.
   call: "Should the court permit the prosecutor to use the confession for impeachment?"
   options:
-    A: "No, because an involuntary confession may not be used for any purpose, including impeachment."
-    B: "Yes, because a defendant who testifies may be impeached with his own prior inconsistent statements."
+    A: "Yes, because a defendant who testifies may be impeached with his own prior inconsistent statements."
+    B: "No, because an involuntary confession may not be used for any purpose, including impeachment."
     C: "Yes, because the exclusion applied only to the case-in-chief, leaving the confession usable to impeach."
     D: "No, because a statement obtained in violation of Miranda may never be used to impeach."
-  answer: A
+  answer: B
   explanation_correct: >-
-    A is correct. A confession obtained by police coercion that overbears the suspect's will, judged by the
+    B is correct. A confession obtained by police coercion that overbears the suspect's will, judged by the
     totality of the circumstances, is inadmissible for any purpose, including impeachment (R-CRM-093; Mincey v.
     Arizona). Nine hours of questioning without food or water and a threat to take his children away are
     classic coercion, and the trial court has found the confession involuntary.
   explanation_each_wrong_option:
-    B: >-
+    A: >-
       Overbroad. Prior inconsistent statements ordinarily may impeach, but due process forbids any use of an
       involuntary confession (R-CRM-093).
     C: >-
@@ -267,12 +267,12 @@ questions:
   call: "Was the prosecutor's argument proper?"
   options:
     A: "Yes, because a prosecutor may comment fairly on the evidence and on gaps in the defense case."
-    B: "Yes, because a defendant's failure to explain the evidence is relevant to whether he is guilty."
+    B: "No, because the prosecutor commented on the defendant's exercise of his right not to testify."
     C: "No, because a prosecutor may not use a defendant's silence after Miranda warnings against him."
-    D: "No, because the prosecutor commented on the defendant's exercise of his right not to testify."
-  answer: D
+    D: "Yes, because a defendant's failure to explain the evidence is relevant to whether he is guilty."
+  answer: B
   explanation_correct: >-
-    D is correct. The Fifth Amendment privilege lets a criminal defendant refuse to take the stand, and the
+    B is correct. The Fifth Amendment privilege lets a criminal defendant refuse to take the stand, and the
     prosecution may not comment on his failure to testify or invite the jury to infer guilt from it
     (R-CRM-101; Griffin v. California). The prosecutor's remark asked the jury to draw exactly that inference.
     On appeal, the conviction stands only if the state shows the error harmless beyond a reasonable doubt
@@ -281,12 +281,12 @@ questions:
     A: >-
       Fair comment on the evidence is allowed, but this argument targeted the defendant's own silence at trial,
       which is forbidden (R-CRM-101).
-    B: >-
-      Inviting an inference of guilt from the defendant's decision not to testify penalizes the exercise of the
-      privilege (R-CRM-101).
     C: >-
       Right result, wrong reason. The Doyle rule concerns post-warning silence at the time of arrest
       (R-CRM-097); the prosecutor here commented on the defendant's silence at trial, which Griffin forbids.
+    D: >-
+      Inviting an inference of guilt from the defendant's decision not to testify penalizes the exercise of the
+      privilege (R-CRM-101).
   trap_type: right-result-wrong-reason
   authority: ["U.S. Const. amend. V", "Griffin v. California, 380 U.S. 609 (1965)", "Chapman v. California, 386 U.S. 18 (1967)"]
   source: original
@@ -307,24 +307,24 @@ questions:
     the basis of other evidence, and the court held him in contempt. He appeals the contempt order.
   call: "Should the contempt order be upheld?"
   options:
-    A: "No, because only immunity from any prosecution for the matters he testifies about can displace the privilege."
+    A: "Yes, because immunity from use and derivative use of his testimony is coextensive with the privilege."
     B: "No, because a grand jury witness may always refuse to answer questions that might incriminate him."
-    C: "Yes, because immunity from use and derivative use of his testimony is coextensive with the privilege."
+    C: "No, because only immunity from any prosecution for the matters he testifies about can displace the privilege."
     D: "Yes, because the privilege does not apply in grand jury proceedings, which are not criminal trials."
-  answer: C
+  answer: A
   explanation_correct: >-
-    C is correct. The government may compel testimony over a claim of privilege by granting use and
+    A is correct. The government may compel testimony over a claim of privilege by granting use and
     derivative-use immunity, which leaves the witness in the same position as if he had remained silent; it is
     coextensive with the privilege, and broader transactional immunity is not required (R-CRM-101; Kastigar v.
     United States). If he is later prosecuted, the government must prove that its evidence comes from sources
     independent of the immunized testimony.
   explanation_each_wrong_option:
-    A: >-
-      Wrong standard. Transactional immunity (immunity from prosecution for the underlying matters) is more
-      than the Fifth Amendment requires (R-CRM-101).
     B: >-
       Overbroad. A witness may refuse to answer incriminating questions only until immunity removes the risk of
       incrimination (R-CRM-101).
+    C: >-
+      Wrong standard. Transactional immunity (immunity from prosecution for the underlying matters) is more
+      than the Fifth Amendment requires (R-CRM-101).
     D: >-
       The privilege may be asserted in any proceeding, including a grand jury, where the answers could be used
       in a later criminal case (R-CRM-101).
