@@ -1009,7 +1009,7 @@ status: draft
 
 **Elements:** 1. Actual, subjective knowledge of the specific risk. 2. Appreciation of its nature. 3. Voluntary choice to encounter it (a choice is not voluntary if Δ left no reasonable alternative).
 
-**Exceptions / defenses:** Not a defense to intentional torts. Rescuers usually do not assume the risk. A defense to strict liability for abnormally dangerous activities and products if Π knowingly encountered the danger.
+**Exceptions / defenses:** Not a defense to intentional torts. Rescuers usually do not assume the risk. In a contributory-negligence jurisdiction, a knowing and unreasonable encounter with the danger is a complete defense to strict liability for abnormally dangerous activities and products; under comparative fault (the MBE default) it reduces recovery instead (R-TRT-080).
 
 **Authority:** R2d §§ 496C, 496D, 496E [VERIFY V-600].
 
@@ -1124,7 +1124,7 @@ status: draft
 
 **MBE vs. CA essay:** MBE: pure comparative fault reduces strict-liability recovery by default. California essay: comparative fault (*Daly*); primary AOR (*Knight*) where inherent.
 
-**Example:** A trespasser climbs into a fenced blasting zone to watch, despite warning signs, and is hurt. Under pure comparative fault (MBE default) his knowing, unreasonable conduct reduces his recovery by his share of fault; in a contributory-negligence jurisdiction it is assumption of risk and bars recovery.
+**Example:** A motorist on a public road ignores a flagger's stop signal and posted warnings and drives into an active blasting area, where he is hurt by flying rock. Under pure comparative fault (MBE default) his knowing, unreasonable conduct reduces his recovery by his share of fault; in a contributory-negligence jurisdiction it is assumption of risk and bars recovery.
 
 ---
 

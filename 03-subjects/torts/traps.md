@@ -47,7 +47,7 @@ Each trap names the mistake, the correct rule and the rule ID.
 
 ## Strict and products liability
 28. **Strict liability for an ordinary dog's first bite (MBE).** Not without known propensity; in California, § 3342 changes the result for bites (R-TRT-079).
-29. **Contributory negligence as a defense to strict liability.** Failing to discover the danger is no defense; a knowing assumption of risk is (R-TRT-080).
+29. **Plaintiff's fault in strict liability.** Under the MBE default (pure comparative fault) the plaintiff's negligence, even a knowing and unreasonable encounter with the danger, only reduces recovery. Only in a contributory-negligence jurisdiction is failure to discover no defense and a knowing assumption of risk a complete bar (R-TRT-080).
 30. **Retailer escapes because it could not detect the defect.** Strict liability applies to all commercial sellers; the retailer seeks indemnity (R-TRT-085).
 31. **Foreseeable misuse as a complete defense.** Only unforeseeable misuse defeats liability (R-TRT-087).
 32. **Privity required for strict liability.** No; users, consumers and bystanders recover (R-TRT-086). Privity issues belong to warranty (R-TRT-089). Related: **State-of-the-art defense to a manufacturing defect.** Irrelevant; it matters for design and warning (R-TRT-082, R-TRT-087).

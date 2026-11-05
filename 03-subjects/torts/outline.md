@@ -647,10 +647,10 @@ Effect:
 ### Defenses to strict liability claims
 (R-TRT-080; R2d §§ 523–524A [VERIFY V-600])
 
-- **Contributory negligence** in failing to discover or guard against the danger: no defense (contributory states).
-- **Knowing and unreasonable exposure:** a defense (§ 524(2)).
-- **Assumption of risk:** a defense (§ 523).
-- **Comparative fault:** in most states, Π's fault reduces recovery. California applies comparative principles to strict liability (*Daly*).
+- **Comparative-fault jurisdictions (the MBE default; most states; California under *Daly*):** Π's fault, including a knowing and unreasonable encounter with the danger, reduces recovery in proportion to Π's share; it is not a complete bar.
+- **Contributory-negligence jurisdictions (only if the stem says so):** failing to discover or guard against the danger is no defense (§ 524(1)); a knowing and unreasonable exposure is a complete defense (§§ 523, 524(2)).
+- **Express assumption of risk:** can bar the claim in either system.
+- **Trespassers:** a possessor of land is generally not strictly liable to trespassers for harm from an abnormally dangerous activity on the land (R2d § 520B) [VERIFY V-600]; negligence and willful-or-wanton rules still apply.
 - **Abnormally sensitive activity of Π:** no strict liability for harm that would not have occurred but for Π's abnormal sensitivity (§ 524A).
 - **Statutory authorization:** may defeat strict liability for public-duty activities in some jurisdictions.
 
