@@ -363,8 +363,8 @@ There is no MBE rule. These rows are the **casebook / UPC / UTC / common-law-sta
 | Revival | English automatic revival | Intent-based, with evidence depending on the revocation method (§ 6123) | Pick the right evidence | R-WIL-084 |
 | Spousal protection | Elective share | None: CP/QCP halves, QCP recapture, omitted-spouse share (§§ 100–102, 21610) | Top 25 #23 | R-WIL-001, R-WIL-086 |
 | Omitted spouse / child | UPC §§ 2-301, 2-302 formulas | Spouse: decedent's half of CP and QCP + SP intestate share capped at one-half (§ 21610); child: intestate share (§ 21620) | Compute the California share | R-WIL-086, R-WIL-090 |
-| Undue influence | Common-law presumption only | Common-law presumption + § 86 definition + § 21380 presumption for drafters, transcribers, care custodians (conclusive for drafters) [VERIFY V-505] | Run all three routes | R-WIL-039, R-WIL-040, R-WIL-095 |
-| No-contest clause | Unenforceable with probable cause (UPC § 3-905) | Enforced only against a direct contest without probable cause (§§ 21310–21311) [VERIFY V-506] | Classify the pleading | R-WIL-093 |
+| Undue influence | Common-law presumption only | Common-law presumption + § 86 definition + § 21380 presumption for drafters, transcribers, care custodians (conclusive for drafters) [S-936] | Run all three routes | R-WIL-039, R-WIL-040, R-WIL-095 |
+| No-contest clause | Unenforceable with probable cause (UPC § 3-905) | Enforced only against a direct contest without probable cause (§§ 21310–21311) [S-1056] | Classify the pleading | R-WIL-093 |
 
 **Trusts** — source: [`../03-subjects/trusts/ca-distinctions.md`](../03-subjects/trusts/ca-distinctions.md). Silent call: general rule + Probate Code section [VERIFY V-550]. UTC and Restatement section numbers are for orientation only [VERIFY V-594].
 

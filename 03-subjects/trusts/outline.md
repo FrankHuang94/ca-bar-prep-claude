@@ -519,8 +519,8 @@ See XI.D. In brief: a settlor's creditors reach a **revocable** trust during lif
 
 - **Grounds to contest a trust or amendment**: lack of capacity (R-TRS-003), undue influence, fraud, duress (R-WIL-038 to R-WIL-042), improper execution or revocation (I.G), forgery.
 - **Deadline**: 120-day / 60-day period after the § 16061.7 notification (V.H; R-TRS-064).
-- **No-contest clauses (§§ 21310–21315)** apply to trusts: enforced only against a **direct contest without probable cause** (and, if expressly stated, ownership challenges and creditor's claims) [S-608] [VERIFY V-506]. Petitions to construe the trust or challenge the trustee's conduct are not direct contests. R-TRS-075; R-WIL-093, R-WIL-094.
-- **Presumptively disqualified donees (§§ 21380–21392)** apply to trusts and amendments: gifts to the drafter, a fiduciary-transcriber, a care custodian of a dependent adult, and related persons are presumed the product of fraud or undue influence [S-645] [VERIFY V-505]. R-TRS-076; R-WIL-095 to R-WIL-098.
+- **No-contest clauses (§§ 21310–21315)** apply to trusts: enforced only against a **direct contest without probable cause** (and, if expressly stated, ownership challenges and creditor's claims) [S-608] [S-1056]. Petitions to construe the trust or challenge the trustee's conduct are not direct contests. R-TRS-075; R-WIL-093, R-WIL-094.
+- **Presumptively disqualified donees (§§ 21380–21392)** apply to trusts and amendments: gifts to the drafter, a fiduciary-transcriber, a care custodian of a dependent adult, and related persons are presumed the product of fraud or undue influence [S-645] [S-936]. R-TRS-076; R-WIL-095 to R-WIL-098.
 - **Omitted spouse and omitted child** statutes reach revocable trusts (§ 21601); a former spouse's nonprobate gift fails on dissolution (§ 5040) [S-605]. R-TRS-077; R-WIL-083, R-WIL-089.
 - **Feb 2012 pattern**: a child born after the trust was signed (Dave) claimed against trust assets [VERIFY V-071].
 

@@ -4,7 +4,7 @@ topic: Wills and Succession — memorization list (tiered rule IDs)
 coverage_ids: [WIL-CBX-I, WIL-CBX-II, WIL-CBX-III, WIL-CBX-IV, WIL-CBX-V, WIL-CBX-interp.x, WIL-CBX-VI, WIL-CBX-VII, WIL-CBX-VIII, WIL-SUP-001, WIL-SUP-002, WIL-SUP-003, WIL-SUP-004, WIL-SUP-005, WIL-SUP-006, WIL-SUP-007, WIL-PAST-001]
 tested_on: [essay]
 exam_frequency: {level: med, basis: "Essays: 13 of 31 administrations 2012-02 to 2026-07 (42%)"}
-last_verified: 2026-11-04
+last_verified: 2026-11-05
 status: draft
 ---
 
@@ -66,6 +66,8 @@ Tiers reflect California essay frequency (Phase 3 tags: execution, omitted heirs
 | $25,000 / $5,000 | § 6132 list total / per item |
 | 60 days | Pour-over trust instrument may follow the will (§ 6300); TOD deed recording (§ 5626) |
 | 90 days | Care-custodian window around services (§ 21380) |
+| 6 months | Care custodian who marries or cohabits with a dependent adult: transfer within 6 months of the relationship (§ 21380(a)(4)); omitted-spouse bar if death within 6 months of marriage (§ 21611) |
+| 1 year | § 21134 conservator-sale rule does not apply if the conservatorship ends and the testator survives 1 year |
 | 7 years | Parental abandonment bar (§ 6452) |
 | 9 months | Disclaimer safe harbor (§ 279); later, disclaimant proves reasonable time |
 | 15 / 5 years | Predeceased-spouse property: real / personal (§ 6402.5) |

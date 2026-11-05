@@ -1031,7 +1031,7 @@ status: draft
 
 **Exceptions / defenses:** Strict construction; probable cause.
 
-**Authority:** Prob. Code §§ 21310, 21311 [S-608] [VERIFY V-506]; R-WIL-093, R-WIL-094.
+**Authority:** Prob. Code §§ 21310, 21311 [S-608] [S-1056]; R-WIL-093, R-WIL-094.
 
 **MBE vs. CA essay:** not on the MBE; California-specific.
 

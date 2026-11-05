@@ -4,7 +4,7 @@ topic: Wills and Succession — key statutes and cases
 coverage_ids: [WIL-CBX-stat-1, WIL-CBX-stat-2, WIL-CBX-stat-3, WIL-CBX-stat-4, WIL-CBX-stat-5, WIL-CBX-stat-6, WIL-CBX-stat-7, WIL-CBX-stat-8, WIL-CBX-stat-9, WIL-SUP-001, WIL-SUP-002, WIL-SUP-003, WIL-SUP-004, WIL-SUP-005, WIL-SUP-006, WIL-SUP-007, WIL-PAST-001]
 tested_on: [essay]
 exam_frequency: {level: med, basis: "Essays: 13 of 31 administrations 2012-02 to 2026-07 (42%)"}
-last_verified: 2026-11-04
+last_verified: 2026-11-05
 status: draft
 ---
 
@@ -16,21 +16,21 @@ One line per authority. Cite the **Probate Code section** on the essay; cite a c
 
 | Section | Rule | Rule ID |
 |---|---|---|
-| § 78 | Who is not a "surviving spouse" (dissolution, annulment, certain decrees) [VERIFY V-524] | R-WIL-017 |
+| § 78 | Who is not a "surviving spouse" (dissolution, annulment, unrecognized decrees; (d) party to an order terminating all marital property rights, e.g., a legal-separation judgment dividing all property) [S-1061] | R-WIL-017 |
 | § 86 | "Undue influence" has the meaning in Welf. & Inst. Code § 15610.70; supplements the common law [S-630] | R-WIL-039 |
 | § 88 | "Will" includes a codicil | R-WIL-057 |
 | §§ 100, 101 | One-half of CP, and of the decedent's QCP, belongs to the surviving spouse | R-WIL-001 |
 | § 102 | Recapture of transferred QCP [S-403] | R-WIL-002 |
 | § 103 | Simultaneous death of spouses: CP and QCP split [VERIFY V-521] | R-WIL-003 |
-| §§ 140–147 | Surviving spouse's waiver of rights; § 143 disclosure/counsel; § 144 fair-disposition alternative [S-606] [S-607] | R-WIL-004 |
+| §§ 140–147 | Surviving spouse's waiver of rights; § 143 disclosure/counsel; § 144 alternatives (fair and reasonable disposition at signing, or adequate knowledge + no § 721(b) breach) subject to an unconscionability limit [S-606] [S-607] [S-1060] | R-WIL-004 |
 | §§ 220, 222–224 | Simultaneous death: general; beneficiaries; joint tenants; insurance [S-636] | R-WIL-007 to R-WIL-010 |
 | §§ 240, 246, 247 | Representation; strict per stirpes; per capita at each generation | R-WIL-011 |
 | §§ 250–254 | Slayer rule | R-WIL-012 |
 | § 259 | Elder or dependent-adult abuser deemed predeceased [S-639] | R-WIL-013 |
-| §§ 275–295 | Disclaimers (§ 279 nine-month safe harbor, after which the disclaimant must prove a reasonable time; § 282 effect) [VERIFY V-517] | R-WIL-014 |
+| §§ 275–295 | Disclaimers (§ 279 nine-month safe harbor, after which the disclaimant must prove a reasonable time; § 282 effect) [S-931] | R-WIL-014 |
 | § 1871(c) | Conservatee keeps the right to make a will [S-641] | R-WIL-036 |
 | § 2580 | Substituted judgment: court may authorize conservator to make a will or trust | R-WIL-036 |
-| § 8252 | Burdens in a will contest [VERIFY V-525] | R-WIL-035 |
+| § 8252 | Burdens in a will contest: proponent, due execution; contestant, lack of intent or capacity, undue influence, fraud, duress, mistake, revocation [S-1064] | R-WIL-035 |
 | §§ 13100, 13151 | Small estate: $208,850 affidavit (deaths on or after Apr 1, 2025); $750,000 primary residence petition [S-128] | R-WIL-031 |
 
 ## Probate Code — intestate succession (Part 2)
@@ -49,7 +49,7 @@ One line per authority. Cite the **Probate Code section** on the essay; cite a c
 | § 6410 | Debts owed to the decedent | R-WIL-025 |
 | § 6413 | Single share for double relationship [VERIFY V-510] | R-WIL-018 |
 | § 6450 | Parent-child: natural parents regardless of marriage; adoptive parents | R-WIL-026, R-WIL-027 |
-| § 6451 | Adoption severs natural-parent relationship unless lived together + stepparent or post-death adoption [VERIFY V-526] | R-WIL-027 |
+| § 6451 | Adoption severs natural-parent relationship unless lived together + stepparent or post-death adoption; (b) natural parent's side (except whole-blood siblings and their issue) does not inherit from the adoptee [S-1062] | R-WIL-027 |
 | § 6452 | Parent barred: termination, non-acknowledgment, seven-year abandonment [S-625] | R-WIL-028 |
 | § 6453 | Establishing natural parentage [VERIFY V-511] | R-WIL-026 |
 | § 6454 | Foster parent and stepparent: legal barrier, clear and convincing | R-WIL-029 |
@@ -95,20 +95,22 @@ One line per authority. Cite the **Probate Code section** on the essay; cite a c
 | § 21117 | Classification of gifts | R-WIL-068 |
 | §§ 21120–21122 | Constructional preferences | R-WIL-045 |
 | § 21131 | No exoneration of specific gifts [S-629] | R-WIL-073 |
-| § 21132 | Securities: issuer-initiated changes follow the gift [VERIFY V-512] | R-WIL-071 |
+| § 21132 | Securities: issuer-initiated changes, mergers/reorganizations and reinvestment-plan shares follow the gift; pre-death cash distributions do not [S-1058] | R-WIL-071 |
 | § 21133 | Unpaid sale price, award, insurance, foreclosure property follow specific gift [S-629] | R-WIL-070 |
-| § 21134 | Sale or encumbrance by conservator, agent or trustee → general pecuniary gift [S-602] [S-603] | R-WIL-074 |
+| § 21134 | Sale or encumbrance by conservator, agent or trustee → general pecuniary gift; conservator cases excepted if the conservatorship ends and the testator survives one year [S-602] [S-603] [S-1050] [S-1051] | R-WIL-074 |
 | § 21135 | Satisfaction by lifetime gift requires writing or same property [S-637] | R-WIL-072 |
 | § 21139 | Ademption statutes not exhaustive; not to increase ademption [S-614] | R-WIL-069 |
-| §§ 21310–21315 | No-contest clauses (§ 21311 enforcement; probable cause) [S-608] [VERIFY V-506] | R-WIL-093, R-WIL-094 |
+| §§ 21310–21315 | No-contest clauses (§ 21310 definitions; § 21311 enforcement and probable cause; § 21315 applies to instruments irrevocable on or after Jan 1, 2001) [S-608] [S-1056] | R-WIL-093, R-WIL-094 |
 | § 21362 | Care custodian; personal-relationship exception [S-633] | R-WIL-097 |
-| § 21380 | Presumptively disqualified donees [S-645] [VERIFY V-505] | R-WIL-095 |
+| § 21366 | Dependent adult: 65+ or 18+ meeting the personal-needs or mental-function criterion when the instrument was executed [S-1053] | R-WIL-097 |
+| § 21380 | Presumptively disqualified donees, incl. (a)(4) care custodian who married or cohabited with the dependent adult (AB 328, 2019); conclusive for drafter (subd. (c)) [S-645] [S-936] [S-1052] | R-WIL-095 |
 | § 21382 | Exceptions to § 21380 [S-621] | R-WIL-096 |
 | § 21384 | Certificate of independent review [S-635] | R-WIL-096 |
 | § 21386 | Failed transfer: beneficiary treated as predeceased without spouse, domestic partner or issue [S-646] | R-WIL-098 |
-| §§ 21400–21403 | Abatement; § 21402 order [S-604] [VERIFY V-503] [VERIFY V-504] | R-WIL-075, R-WIL-076 |
+| § 21392 | Part 3.7 applies to instruments that became irrevocable on or after Jan 1, 2011 [S-1054] | R-WIL-095 |
+| §§ 21400–21403 | Abatement: § 21400 instrument, plan or purpose override; § 21402 order; § 21403 pro rata and demonstrative gifts [S-604] [S-1055] | R-WIL-075, R-WIL-076 |
 | § 21601 | Testamentary instruments include revocable trust; estate includes trust property | R-WIL-089 |
-| §§ 21610–21612 | Omitted spouse: share, exceptions, funding | R-WIL-086 to R-WIL-088 |
+| §§ 21610–21612 | Omitted spouse: share, exceptions (incl. § 21611(d) care-custodian spouse, AB 328 [S-1052]), funding | R-WIL-086 to R-WIL-088 |
 | §§ 21620–21623 | Omitted child: share, exceptions, believed dead, funding | R-WIL-088, R-WIL-090 to R-WIL-092 |
 | § 21700 | Contracts to make or not revoke a will; joint/mutual wills [S-627] | R-WIL-005, R-WIL-006 |
 
@@ -119,9 +121,9 @@ One line per authority. Cite the **Probate Code section** on the essay; cite a c
 | § 5000 | Nonprobate transfers valid without will formalities | R-WIL-099 |
 | §§ 5020–5022 | Nonprobate transfers of CP need written spousal consent [S-420] | R-CMP-096 |
 | § 5040 | Nonprobate transfer to former spouse fails [S-605] | R-WIL-083 |
-| § 5042 | Joint tenancy with former spouse severed at death [VERIFY V-516] | R-WIL-100 |
+| § 5042 | Joint tenancy with former spouse severed at death (also CP with right of survivorship) [S-1059] | R-WIL-100 |
 | §§ 5301–5302 | Multiple-party accounts: ownership; survivorship; POD; Totten [VERIFY V-538] | R-WIL-101 |
-| §§ 5600 et seq. | Revocable transfer-on-death deed (§ 5624 witnesses; § 5626 recording) [S-628] [VERIFY V-520] | R-WIL-103 |
+| §§ 5600 et seq. | Revocable transfer-on-death deed (§ 5624 witnesses [S-767]; § 5626 recording) [S-628] [VERIFY V-520] | R-WIL-103 |
 
 ## Other statutes
 
@@ -135,6 +137,7 @@ One line per authority. Cite the **Probate Code section** on the essay; cite a c
 | Case | Holding or rule (one line) | Rule ID |
 |---|---|---|
 | *Estate of Kaufman* (1945) 25 Cal.2d 854 | DRR: an earlier will revoked only to give effect to a later one stays effective to the extent the later one fails [S-619] | R-WIL-085 |
+| *Estate of Holmes*, 88 Cal.App.2d 360 | Will found mutilated among papers of a testator who kept it: inference that the testator made the marks [S-1065] | R-WIL-081 |
 | *Estate of Mason* (1965) 62 Cal.2d 213 | Change in form does not adeem without intent; untraceable disposition adeems; guardian's sale during incompetency did not adeem [S-615] | R-WIL-069, R-WIL-074 |
 | *Estate of Russell* (1968) 69 Cal.2d 200 | Extrinsic evidence admissible provisionally to expose and resolve latent ambiguity; gift to a dog fails | R-WIL-044 |
 | *Estate of Uhl* (1969) 1 Cal.App.3d 138 | Cancellation/interlineation needs present intent to revoke; DRR applied to ineffective changes [S-640] | R-WIL-079, R-WIL-085 |
@@ -142,14 +145,15 @@ One line per authority. Cite the **Probate Code section** on the essay; cite a c
 | *Estate of Worthy* (1988) 205 Cal.App.3d 760 | Courts avoid ademption through constructional rules [S-644] | R-WIL-068 |
 | *Estate of Shannon* (1990) 224 Cal.App.3d 1148 | General disinheritance clause not mentioning a future spouse does not show intent to omit [S-618] | R-WIL-087 |
 | *Estate of Joseph* (1998) 17 Cal.4th 203 | § 6454 legal barrier must persist until death [S-610] | R-WIL-029 |
+| *Estate of Lahey* (1999) 76 Cal.App.4th 1056 | Legal-separation judgment that terminated marital property rights barred the spouse as "surviving spouse" (§ 78(d)) [S-1061] | R-WIL-017 |
 | *Rice v. Clark* (2002) 28 Cal.4th 89 | Common-law presumption elements; "causes to be transcribed" requires direct participation [S-616] | R-WIL-040, R-WIL-095 |
 | *Estate of Ford* (2004) 32 Cal.4th 160 | Equitable adoption requires clear and convincing evidence of intent to adopt [S-624] | R-WIL-030 |
 | *Bernard v. Foley* (2006) 39 Cal.4th 794 | Unpaid friends providing care could be care custodians under the former statute (later narrowed by § 21362) [S-617] | R-WIL-097 |
 | *Estate of Stoker* (2011) | § 6110(c)(2) applied to an unwitnessed will [S-620] [VERIFY V-507] | R-WIL-048 |
-| *Beckwith v. Dahl* (2012) 205 Cal.App.4th 1039 | Tort of intentional interference with expected inheritance [VERIFY V-529] | R-WIL-105 |
-| *Donkin v. Donkin* (2013) 58 Cal.4th 412 | Applied the 2010 no-contest law [S-609] | R-WIL-093 |
+| *Beckwith v. Dahl* (2012) 205 Cal.App.4th 1039 | Tort of intentional interference with expected inheritance; only where no adequate probate remedy [S-1063] | R-WIL-105 |
+| *Donkin v. Donkin* (2013) 58 Cal.4th 412 | Applied the 2010 no-contest law to a trust that became irrevocable after Jan 1, 2001 [S-609] [S-1057] | R-WIL-093 |
 | *Estate of Trikha* (2013) 219 Cal.App.4th 791 | § 6124 presumption affects the burden of producing evidence [S-643] | R-WIL-081 |
 | *Estate of Duke* (2015) 61 Cal.4th 871 | Unambiguous will may be reformed on clear and convincing evidence of mistake and actual intent | R-WIL-046 |
 | *Sachs v. Sachs* (2020) | Informal handwritten ledger satisfied § 21135's writing requirement [S-638] | R-WIL-072 |
-| *Reich v. Reich* (2024) | IRA proceeds not included in "estate" for omitted-spouse share [S-623] [VERIFY V-514] | R-WIL-089 |
-| *Haggerty v. Thornton* (2024) 15 Cal.5th 729 | Trust modification by statutory revocation method (Trusts) [S-129] [VERIFY V-033] | R-WIL-102 |
+| *Reich v. Reich* (2024) | IRA proceeds not included in "estate" for omitted-spouse share [S-623] | R-WIL-089 |
+| *Haggerty v. Thornton* (2024) 15 Cal.5th 729 | Trust modification by statutory revocation method (Trusts) [S-129] | R-WIL-102 |

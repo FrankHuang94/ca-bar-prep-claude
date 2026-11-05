@@ -4,7 +4,7 @@ topic: Wills and Succession — essay-ready rule statements (R-WIL-001 to R-WIL-
 coverage_ids: [WIL-CBX-stat-1, WIL-CBX-stat-2, WIL-CBX-stat-3, WIL-CBX-stat-4, WIL-CBX-stat-5, WIL-CBX-stat-6, WIL-CBX-stat-7, WIL-CBX-stat-8, WIL-CBX-stat-9, WIL-CBX-I, WIL-CBX-II, WIL-CBX-II.A, WIL-CBX-II.B, WIL-CBX-II.C, WIL-CBX-II.D, WIL-CBX-II.E, WIL-CBX-II.F, WIL-CBX-II.G, WIL-CBX-III, WIL-CBX-III.x1, WIL-CBX-III.x2, WIL-CBX-III.x3, WIL-CBX-III.E, WIL-CBX-IV, WIL-CBX-IV.x, WIL-CBX-V, WIL-CBX-interp.x, WIL-CBX-interp.E, WIL-CBX-VI, WIL-CBX-VI.x1, WIL-CBX-VI.x2, WIL-CBX-VI.F, WIL-CBX-VII, WIL-CBX-VIII, WIL-SUP-001, WIL-SUP-002, WIL-SUP-003, WIL-SUP-004, WIL-SUP-005, WIL-SUP-006, WIL-SUP-007, WIL-PAST-001]
 tested_on: [essay, PT]
 exam_frequency: {level: med, basis: "Essays: 13 of 31 administrations 2012-02 to 2026-07 (42%)"}
-last_verified: 2026-11-04
+last_verified: 2026-11-05
 status: draft
 ---
 
@@ -34,9 +34,9 @@ status: draft
 **Example:** H's will leaves "my house" (CP) to his son. The son takes H's half; W keeps her half as a tenant in common with the son.
 
 ### R-WIL-002 — Recapture of quasi-community property
-**Rule (write this):** If a decedent domiciled in California transferred quasi-community property to someone other than the surviving spouse without substantial consideration and without the spouse's written consent or joinder, and kept possession, income, a power to revoke or invade, or a survivorship interest, the surviving spouse may require the transferee to restore one-half of the property or its value.
+**Rule (write this):** If a decedent domiciled in California transferred quasi-community property to someone other than the surviving spouse without substantial consideration and without the spouse's written consent or joinder, and kept possession, income, a power to revoke or invade, or a survivorship interest, the surviving spouse may require the transferee to restore one-half of the property (or its proceeds or value) to the decedent's estate.
 
-**Elements:** 1. QCP. 2. Transfer to a non-spouse. 3. No substantial consideration. 4. No written consent or joinder. 5. Retained interest or survivorship. 6. Survivor recovers one-half.
+**Elements:** 1. QCP. 2. Transfer to a non-spouse. 3. No substantial consideration. 4. No written consent or joinder. 5. Retained interest or survivorship. 6. One-half restored to the estate, where it passes to the survivor as the survivor's QCP half.
 
 **Exceptions / defenses:** Statutory carve-outs for certain insurance, annuity and pension payments (see R-CMP-093).
 
@@ -44,14 +44,14 @@ status: draft
 
 **MBE vs. CA essay:** not on the MBE; Jul 2022 Q5 pattern.
 
-**Example:** H deeds QCP land to "H and daughter D as joint tenants" without W's consent and dies. W can compel D to restore one-half.
+**Example:** H deeds QCP land to "H and daughter D as joint tenants" without W's consent and dies. W can compel D to restore one-half to H's estate for W.
 
 ### R-WIL-003 — Simultaneous death of spouses: community and quasi-community property
 **Rule (write this):** If spouses die and it cannot be established by clear and convincing evidence that one survived the other, one-half of the community and quasi-community property is administered as if it belonged to each spouse and that spouse survived, so each half passes through that spouse's own estate.
 
 **Elements:** 1. Both spouses dead. 2. No clear and convincing evidence of survival. 3. Split CP/QCP in half. 4. Each half passes in that spouse's estate.
 
-**Exceptions / defenses:** A governing instrument that provides otherwise.
+**Exceptions / defenses:** Life insurance on a spouse's life is governed by § 224 (§ 103 opens "except as provided by Section 224").
 
 **Authority:** Prob. Code § 103 [VERIFY V-521].
 
@@ -60,13 +60,13 @@ status: draft
 **Example:** H and W die in a crash; no proof of who died first. Half the CP passes under H's will, half under W's.
 
 ### R-WIL-004 — Surviving spouse's waiver of rights at death
-**Rule (write this):** A spouse may waive rights arising at the other spouse's death, including community property, intestate and omitted-spouse rights, by a written waiver signed by the waiving spouse. The waiver is enforceable unless the surviving spouse proves that fair and reasonable disclosure of the decedent's property and obligations was not provided (and not waived after independent advice) or that the surviving spouse was not represented by independent counsel; even then the court may enforce it to the extent it was a fair and reasonable disposition when signed.
+**Rule (write this):** A spouse may waive rights arising at the other spouse's death, including community property, intestate and omitted-spouse rights, by a written waiver signed by the waiving spouse. The waiver is enforceable unless the surviving spouse proves that fair and reasonable disclosure of the decedent's property and obligations was not provided (and not waived after independent advice) or that the surviving spouse was not represented by independent counsel. Even then the court enforces the waiver if it made a fair and reasonable disposition of the survivor's rights when signed, or if the survivor had (or reasonably should have had) adequate knowledge of the decedent's property and obligations and the decedent did not breach the Family Code § 721(b) fiduciary duty; but the court may refuse or limit enforcement that would be unconscionable when enforcement is sought.
 
-**Elements:** 1. Written waiver. 2. Signed by the surviving spouse. 3. Disclosure or independent counsel (§ 143). 4. Otherwise, court discretion (§ 144).
+**Elements:** 1. Written waiver. 2. Signed by the surviving spouse. 3. Disclosure or independent counsel (§ 143). 4. Otherwise, § 144: fair and reasonable disposition at signing, or adequate knowledge + no § 721(b) breach. 5. Unconscionability limit (§ 144(b)).
 
 **Exceptions / defenses:** Revocation only by a writing signed by both (§ 146); premarital agreements must also satisfy the Family Code.
 
-**Authority:** Prob. Code §§ 140–147 [S-606] [S-607] [VERIFY V-522].
+**Authority:** Prob. Code §§ 140–147 [S-606] [S-607] [S-1060].
 
 **MBE vs. CA essay:** not on the MBE; defeats an omitted-spouse claim under § 21611(c).
 
@@ -124,7 +124,7 @@ status: draft
 
 **MBE vs. CA essay:** not on the MBE.
 
-**Example:** T's will gives $50,000 to her brother B, who dies an hour after T in the same accident with no reliable evidence of the order. B is treated as not surviving; anti-lapse may give the gift to B's issue.
+**Example:** T's will gives $50,000 to her brother B. T and B die in the same accident, and no reliable evidence shows who died first. B is treated as not surviving; anti-lapse may give the gift to B's issue.
 
 ### R-WIL-009 — Joint tenants dying simultaneously
 **Rule (write this):** If joint tenants die and it cannot be established by clear and convincing evidence that one survived the other, the property is divided into equal shares, and each share is administered as if that joint tenant survived the others.
@@ -144,13 +144,13 @@ status: draft
 
 **Elements:** 1. Policy. 2. Insured and beneficiary both dead. 3. No clear and convincing proof that beneficiary survived. 4. Proceeds go as if beneficiary predeceased (contingent beneficiary or insured's estate).
 
-**Exceptions / defenses:** Policy terms.
+**Exceptions / defenses:** Policy terms. If the policy is community or quasi-community property of the insured and spouse and there is no alternative beneficiary other than the insured's estate, the proceeds are split as CP under § 103 [VERIFY V-916].
 
 **Authority:** Prob. Code § 224 [S-636].
 
 **MBE vs. CA essay:** not on the MBE.
 
-**Example:** H insures his life for W; both die in a crash. The proceeds go to the contingent beneficiary or H's estate, not W's estate.
+**Example:** H insures his life for W, naming his sister as contingent beneficiary; both H and W die in a crash. The proceeds go to the sister, not W's estate. (If the policy were CP with no contingent beneficiary, see the § 103 split.)
 
 ### R-WIL-011 — Distribution by representation
 **Rule (write this):** Under California's default rule of representation, the property is divided into equal shares at the first generation below the ancestor that has a living member, with one share for each living member and one for each deceased member who left living issue; each deceased member's share passes to his or her issue in the same manner. An instrument calling for "per stirpes" divides at the children's generation, and "per capita at each generation" pools the shares of deceased members at each level.
@@ -181,7 +181,7 @@ status: draft
 ### R-WIL-013 — Elder and dependent-adult abuse forfeiture
 **Rule (write this):** A person shown by clear and convincing evidence to be liable for physical abuse, neglect or financial abuse of a decedent who was an elder or dependent adult, and to have acted in bad faith or with recklessness, oppression, fraud or malice, is deemed to have predeceased the decedent to the extent the statute provides; certain criminal convictions have the same effect.
 
-**Elements:** 1. Decedent was an elder or dependent adult. 2. Abuse or neglect. 3. Clear and convincing evidence. 4. Bad faith / recklessness, oppression, fraud or malice. 5. Treated as predeceased.
+**Elements:** 1. Decedent was an elder or dependent adult. 2. Abuse or neglect. 3. Clear and convincing evidence. 4. Bad faith / recklessness, oppression, fraud or malice. 5. For the civil-liability route, the statute also appears to require that the decedent was substantially unable to manage his or her finances or resist fraud or undue influence from the time of the acts until death [VERIFY V-915]. 6. Treated as predeceased.
 
 **Exceptions / defenses:** Statutory exception where the decedent, with capacity, knew of the abuse and later expressed an intent to benefit the abuser [VERIFY V-539].
 
@@ -198,7 +198,7 @@ status: draft
 
 **Exceptions / defenses:** Acceptance of benefits bars disclaimer.
 
-**Authority:** Prob. Code §§ 275–295 (esp. §§ 279, 282) [S-931] [VERIFY V-517].
+**Authority:** Prob. Code §§ 275–295 (esp. §§ 279, 282) [S-931].
 
 **MBE vs. CA essay:** not on the MBE; nice-to-know.
 
@@ -222,7 +222,7 @@ status: draft
 **Example:** T's will gives her car to A and has no residuary clause. Her house and bank account pass by intestacy.
 
 ### R-WIL-016 — Surviving spouse's intestate share
-**Rule (write this):** When a married person dies intestate, the surviving spouse takes the decedent's one-half of the community property and of the decedent's quasi-community property, and a share of the separate property: all of it if the decedent left no issue, parent, sibling or issue of a deceased sibling; one-half if the decedent left one child or the issue of one deceased child, or no issue but a parent or a parent's issue; and one-third if the decedent left more than one child or the issue of more than one child.
+**Rule (write this):** When a married person dies intestate, the surviving spouse takes the decedent's one-half of the community property and of the decedent's quasi-community property, and a share of the separate property: all of it if the decedent left no issue, parent, sibling or issue of a deceased sibling; one-half if the decedent left one child or the issue of one deceased child, or no issue but a parent or a parent's issue; and one-third if the decedent left more than one child, one child plus the issue of a deceased child, or the issue of two or more deceased children.
 
 **Elements:** 1. CP → all to spouse. 2. QCP → decedent's half to spouse. 3. SP share: all / one-half / one-third depending on surviving relatives. 4. Rest under § 6402.
 
@@ -235,17 +235,17 @@ status: draft
 **Example:** W dies intestate leaving H and her sister. H takes all CP, W's half of QCP and half of W's SP; the sister takes the other half of the SP.
 
 ### R-WIL-017 — Who is a surviving spouse
-**Rule (write this):** A person whose marriage to the decedent was dissolved or annulled is not a surviving spouse, nor is a person who obtained or consented to a dissolution not recognized in California or who was a party to a proceeding purporting to end all marital property rights; a spouse in a pending dissolution or a legal separation that did not end the marriage remains a surviving spouse.
+**Rule (write this):** A person whose marriage to the decedent was dissolved or annulled is not a surviving spouse, nor is a person who obtained or consented to a dissolution not recognized in California, or who was a party to a valid proceeding concluded by an order purporting to terminate all marital property rights. A spouse in a pending dissolution remains a surviving spouse; a legally separated spouse remains one only if the separation judgment did not terminate all marital property rights.
 
-**Elements:** 1. Marital status at death. 2. Final dissolution or annulment? 3. § 78 disqualifications.
+**Elements:** 1. Marital status at death. 2. Final dissolution or annulment? 3. § 78 disqualifications, including an order ending all marital property rights (§ 78(d)).
 
-**Exceptions / defenses:** Putative spouses may take as spouses in quasi-marital property [VERIFY V-524].
+**Exceptions / defenses:** Remarriage to the decedent restores status (§ 78(a)). Putative spouses may take as spouses in quasi-marital property [VERIFY V-910].
 
-**Authority:** Prob. Code § 78 [VERIFY V-524].
+**Authority:** Prob. Code § 78; *Estate of Lahey* (1999) 76 Cal.App.4th 1056 (legal-separation judgment that resolved all property rights barred the spouse) [S-1061].
 
-**MBE vs. CA essay:** not on the MBE.
+**MBE vs. CA essay:** not on the MBE; note that § 6122 (revocation of will provisions) is triggered only by dissolution or annulment, never by legal separation (R-WIL-082).
 
-**Example:** H dies while his divorce from W is pending. W is still his surviving spouse for intestacy.
+**Example:** H dies while his divorce from W is pending. W is still his surviving spouse for intestacy. Had H and W obtained a legal-separation judgment dividing all their property, W would not be.
 
 ### R-WIL-018 — Other heirs' shares
 **Rule (write this):** The part of the intestate estate not passing to the surviving spouse passes, in order, to the decedent's issue; if none, to the parents; if none, to the issue of the parents; if none, to the grandparents or their issue; if none, to the issue of a predeceased spouse; if none, to the next of kin; and if none, to the parents of a predeceased spouse or their issue. Each class takes by representation where its members are of unequal degree.
@@ -263,7 +263,7 @@ status: draft
 > 🇨🇳 PRC bridge: PRC law puts spouse, children and parents together in the first order; California puts parents behind issue, and siblings behind parents (approx.).
 
 ### R-WIL-019 — Predeceased spouse's relatives
-**Rule (write this):** If the decedent leaves no surviving spouse and no issue, the portion of the estate attributable to a predeceased spouse who died within 15 years (real property) or 5 years (personal property, above the statutory threshold) passes first to the predeceased spouse's issue, then parents, then their issue, before the decedent's own collateral relatives; otherwise the issue of a predeceased spouse take only after the decedent's grandparents and their issue.
+**Rule (write this):** If the decedent leaves no surviving spouse and no issue, the portion of the estate attributable to a predeceased spouse who died within 15 years (real property) or 5 years (personal property, above the statutory threshold) passes first to the predeceased spouse's issue, then parents, then their issue, ahead of the decedent's own parents, siblings and other kin [VERIFY V-508]; otherwise the issue of a predeceased spouse take only after the decedent's grandparents and their issue.
 
 **Elements:** 1. No surviving spouse or issue. 2. Predeceased spouse died within 15 years (real) or 5 years (personal). 3. Property attributable to that spouse. 4. Passes to that spouse's relatives.
 
@@ -371,16 +371,16 @@ status: draft
 
 **Elements:** 1. Adoption → full child of adopters. 2. Severance from natural parents unless both § 6451(a) conditions. 3. One-way inheritance limit (§ 6451(b)).
 
-**Exceptions / defenses:** Stepparent adoption after divorce or death preserves inheritance from the noncustodial natural parent.
+**Exceptions / defenses:** Stepparent adoption after divorce, or adoption after a natural parent's death, preserves the child's inheritance from and through a natural parent the child lived with at any time. The one-way limit may not apply where the adoption was by that natural parent's spouse or surviving spouse [VERIFY V-917].
 
-**Authority:** Prob. Code §§ 6450(b), 6451 [VERIFY V-526].
+**Authority:** Prob. Code §§ 6450(b), 6451 [S-1062].
 
 **MBE vs. CA essay:** not on the MBE; Feb 2018 Q5 (adopted son).
 
 **Example:** C lived with her father F until age 5; after F died, her stepfather adopted her. C can still inherit from F's parents.
 
 ### R-WIL-028 — When a parent cannot inherit from a child
-**Rule (write this):** A parent does not inherit from or through a child if the parent's parental rights were terminated and not reestablished, the parent did not acknowledge the child, or the parent left the child during minority without support or communication for at least seven consecutive years continuing to the end of minority with intent to abandon; the barred parent is treated as having predeceased the child.
+**Rule (write this):** A parent does not inherit from or through a child if the parent's parental rights were terminated and not reestablished, the parent did not acknowledge the child, or the parent left the child during minority without an effort to provide support, or without communication, for at least seven consecutive years continuing to the end of minority with intent to abandon; the barred parent is treated as having predeceased the child.
 
 **Elements:** 1. Termination; or 2. Non-acknowledgment; or 3. Seven-year abandonment through minority. 4. Parent deemed predeceased.
 
@@ -477,13 +477,13 @@ status: draft
 **Example:** T, hallucinating that his daughter poisons his food, disinherits her. The gift away from her fails if the delusion caused it.
 
 ### R-WIL-035 — Burden of proof in will contests
-**Rule (write this):** In a will contest, the proponent has the burden of proving due execution, and the contestant has the burden of proving lack of testamentary intent or capacity, undue influence, fraud, duress, menace, mistake or revocation; presumptions such as the undue-influence presumption, § 6112 and § 21380 can shift that burden.
+**Rule (write this):** In a will contest, the proponent has the burden of proving due execution, and the contestant has the burden of proving lack of testamentary intent or capacity, undue influence, fraud, duress, mistake or revocation; presumptions such as the undue-influence presumption, § 6112 and § 21380 can shift that burden.
 
 **Elements:** 1. Proponent: due execution. 2. Contestant: invalidating grounds. 3. Burden-shifting presumptions.
 
 **Exceptions / defenses:** Statutory presumptions (§§ 6112(c), 21380).
 
-**Authority:** Prob. Code § 8252 [VERIFY V-525].
+**Authority:** Prob. Code § 8252 [S-1064].
 
 **MBE vs. CA essay:** not on the MBE.
 
@@ -563,7 +563,7 @@ status: draft
 
 **Exceptions / defenses:** Innocent misstatements are not fraud (but see mistake).
 
-**Authority:** Prob. Code § 6104; common law; *Beckwith v. Dahl* (2012) 205 Cal.App.4th 1039 (tort alternative) [VERIFY V-529].
+**Authority:** Prob. Code § 6104; common law; *Beckwith v. Dahl* (2012) 205 Cal.App.4th 1039 (tort alternative) [S-1063].
 
 **MBE vs. CA essay:** not on the MBE.
 
@@ -647,7 +647,7 @@ status: draft
 
 **Authority:** Prob. Code § 6110.
 
-**MBE vs. CA essay:** not on the MBE; California does not require witnesses to sign in the testator's presence or publication.
+**MBE vs. CA essay:** not on the MBE; California does not require witnesses to sign in the testator's presence, and the testator need not "publish" (declare) the will, though the witnesses must understand it is a will.
 
 **Example:** T signs in front of A and B together, tells them it is her will, and they sign in the next room. Valid.
 
@@ -695,13 +695,13 @@ status: draft
 > 🇨🇳 PRC bridge: like the PRC holographic will (自书遗嘱), handwritten and signed; but California does not require a date for validity (approx.).
 
 ### R-WIL-051 — Holographic will dating
-**Rule (write this):** A holographic will need not be dated, but if it is undated or incompletely dated it is invalid to the extent it is inconsistent with another will unless its execution is shown to be after that will, and it is invalid if the testator lacked capacity at any time during which it might have been executed.
+**Rule (write this):** A holographic will need not be dated, but if it is undated or incompletely dated it is invalid to the extent it is inconsistent with another will unless its execution is shown to be after that will, and, if the testator lacked capacity at any time during which it might have been executed, it is invalid unless it is shown to have been executed at a time when the testator had capacity.
 
-**Elements:** 1. No date or incomplete date. 2. Inconsistent will? → prove which is later. 3. Period of incapacity in the possible window? → invalid.
+**Elements:** 1. No date or incomplete date. 2. Inconsistent will? → prove which is later. 3. Period of incapacity in the possible window? → invalid unless proponent proves execution during capacity.
 
 **Exceptions / defenses:** Extrinsic evidence of the date (§ 6111.5).
 
-**Authority:** Prob. Code § 6111(b).
+**Authority:** Prob. Code § 6111(b)(1)–(2).
 
 **MBE vs. CA essay:** not on the MBE; Jul 2022 Q5 (undated holograph).
 
@@ -965,13 +965,13 @@ status: draft
 **Example:** T leaves her house to Ben, then sells it on a promissory note; $200,000 is still owed at death. Ben takes the $200,000 balance.
 
 ### R-WIL-071 — Change in form of securities
-**Rule (write this):** A specific gift of securities includes additional securities of the same entity owned at death because of action initiated by the entity, such as stock splits, stock dividends, mergers and reorganizations, but not securities the testator acquired by exercising purchase rights or options.
+**Rule (write this):** If the testator owned securities matching a specific gift when the will was executed, the gift includes additional securities owned at death that the testator acquired because of owning them through action initiated by the issuer (such as stock splits and stock dividends), through a merger, consolidation or reorganization, or through a plan of reinvestment; cash distributions received before death are not part of the gift.
 
-**Elements:** 1. Specific gift of securities. 2. Change initiated by issuer. 3. Beneficiary takes resulting securities.
+**Elements:** 1. Specific gift of securities owned at execution. 2. Additional securities from issuer action, merger/reorganization, or reinvestment plan. 3. Beneficiary takes resulting securities. 4. Pre-death cash distributions excluded.
 
-**Exceptions / defenses:** Testator-initiated purchases are excluded.
+**Exceptions / defenses:** Securities the testator bought by exercising purchase options are believed to be excluded, as under the UPC model [VERIFY V-911].
 
-**Authority:** Prob. Code § 21132 [VERIFY V-512].
+**Authority:** Prob. Code § 21132 [S-1058].
 
 **MBE vs. CA essay:** not on the MBE.
 
@@ -1004,39 +1004,39 @@ status: draft
 **Example:** T leaves her condo (with a $300,000 mortgage) to Dan and says "pay my just debts." Dan takes the condo subject to the mortgage.
 
 ### R-WIL-074 — Sale or encumbrance by conservator, agent or trustee
-**Rule (write this):** If specifically given property is sold after the will is executed by the testator's conservator, by an agent under a durable power of attorney for an incapacitated principal, or by a trustee for an incapacitated settlor, the beneficiary receives a general pecuniary gift equal to the net sale price, unreduced by the payoff of any encumbrance the fiduciary placed on the property; if the fiduciary encumbers it, the beneficiary takes the property plus a pecuniary gift equal to the unpaid encumbrance. The rule does not apply if the incapacity ends and the testator survives that by a year.
+**Rule (write this):** If specifically given property is sold after the will is executed by the testator's conservator, by an agent under a durable power of attorney for an incapacitated principal, or by a trustee for an incapacitated settlor, the beneficiary receives a general pecuniary gift equal to the net sale price, unreduced by the payoff of any encumbrance the fiduciary placed on the property; if the fiduciary encumbers it, the beneficiary takes the property plus a pecuniary gift equal to the unpaid encumbrance. Where a conservator acted, the rule does not apply if the conservatorship is terminated and the testator survives the termination by one year.
 
-**Elements:** 1. Specific gift. 2. Sale, encumbrance, condemnation or casualty while incapacitated. 3. By conservator, agent or trustee. 4. General pecuniary gift equal to net price or proceeds. 5. Recovery-plus-one-year exception.
+**Elements:** 1. Specific gift. 2. Sale, encumbrance, condemnation or casualty while incapacitated. 3. By conservator, agent or trustee. 4. General pecuniary gift equal to net price or proceeds. 5. Conservator cases: termination-plus-one-year exception.
 
-**Exceptions / defenses:** Conservatorship terminated and testator survived one year [VERIFY V-502]; reduced by any § 21133 right.
+**Exceptions / defenses:** Conservatorship terminated and testator survived the termination by one year (§ 21134(c), conservator references only) [S-1050]; the right is reduced by any § 21133 right [S-1051].
 
-**Authority:** Prob. Code § 21134 [S-602] [S-603]; *Estate of Mason* (1965) 62 Cal.2d 213 [S-615].
+**Authority:** Prob. Code § 21134 [S-602] [S-603] [S-1050] [S-1051]; *Estate of Mason* (1965) 62 Cal.2d 213 [S-615].
 
 **MBE vs. CA essay:** not on the MBE; Feb 2015 Q6 (conservatorship).
 
-**Example:** T's will gives her house to Greg. Her conservator sells it for a net $500,000 to pay for her care and spends the money. Greg takes a $500,000 general pecuniary gift (which abates as a general gift if the estate is short).
+**Example:** T's will gives her house to Greg. Her conservator sells it for a net $500,000 to pay for her care and spends the money. Greg takes a $500,000 general pecuniary gift (a general gift under § 21117, so it abates with general gifts under § 21402 if the estate is short).
 
 ### R-WIL-075 — Order of abatement
 **Rule (write this):** When the estate is insufficient to pay all debts, expenses and gifts, shares abate in this order unless the will or the testator's plan requires otherwise: property not disposed of by the will, residuary gifts, general gifts to non-relatives, general gifts to relatives, specific gifts to non-relatives, and specific gifts to relatives; gifts within a class abate pro rata.
 
 **Elements:** 1. Shortfall. 2. Classify each gift. 3. Relative? (would take in intestacy). 4. Abate by the six-step order. 5. Pro rata within class.
 
-**Exceptions / defenses:** Contrary intent or plan (§§ 21400–21401).
+**Exceptions / defenses:** Contrary intent in the instrument, or the transferor's plan or the purpose of a gift (§ 21400) [S-1055].
 
-**Authority:** Prob. Code §§ 21402 [S-604], 21403.
+**Authority:** Prob. Code §§ 21402 [S-604], 21403 [S-1055].
 
 **MBE vs. CA essay:** not on the MBE; common law did not prefer relatives.
 
 **Example:** After debts $60,000 remains for general gifts of $50,000 to niece N and $30,000 to a charity. The charity abates first and takes $10,000; N takes $50,000.
 
 ### R-WIL-076 — Abatement: demonstrative gifts and contrary intent
-**Rule (write this):** A demonstrative gift abates as a specific gift to the extent the designated fund is available and as a general gift for any balance, abatement applies without preference between real and personal property, and the statutory order yields where the will provides otherwise or where it would defeat the testator's plan or the purpose of a gift.
+**Rule (write this):** A demonstrative gift abates as a specific gift to the extent it can be paid from the designated fund or property and as a general gift for any balance, and the statutory order yields where the instrument provides for abatement or where the order would defeat the transferor's plan or the purpose of a gift.
 
-**Elements:** 1. Demonstrative → split treatment. 2. No real/personal priority. 3. Intent or plan override.
+**Elements:** 1. Demonstrative → split treatment (§ 21403(b)). 2. Intent or plan override (§ 21400). 3. No real/personal priority [VERIFY V-912].
 
 **Exceptions / defenses:** Omitted spouse and child shares are funded under §§ 21612, 21623.
 
-**Authority:** Prob. Code §§ 21400–21403 [VERIFY V-503] [VERIFY V-504].
+**Authority:** Prob. Code §§ 21400, 21403 [S-1055]; § 21401 [VERIFY V-912].
 
 **MBE vs. CA essay:** not on the MBE.
 
@@ -1103,9 +1103,9 @@ status: draft
 
 **Elements:** 1. Last in testator's possession. 2. Competent until death. 3. Original and duplicate not found. 4. Presumption of revocation (burden of producing evidence). 5. Rebuttal; proof by copy.
 
-**Exceptions / defenses:** Access by hostile heirs; recent statements affirming the will.
+**Exceptions / defenses:** Access by hostile heirs; recent statements affirming the will. § 6124 covers only a will that cannot be found; if a will kept in the testator's possession is found torn or cancelled among the testator's papers, case law infers that the testator made the marks, and intent to revoke is then decided on all the evidence.
 
-**Authority:** Prob. Code § 6124 [S-600]; *Estate of Trikha* (2013) 219 Cal.App.4th 791 [S-643]; mutilated wills: common law [VERIFY V-501].
+**Authority:** Prob. Code § 6124 [S-600]; *Estate of Trikha* (2013) 219 Cal.App.4th 791 [S-643]; mutilated will found among the testator's papers: *Estate of Holmes*, 88 Cal.App.2d 360 [S-1065].
 
 **MBE vs. CA essay:** not on the MBE.
 
@@ -1131,7 +1131,7 @@ status: draft
 
 **Exceptions / defenses:** Irrevocable transfer; clear and convincing intent to preserve; court order; ERISA preemption.
 
-**Authority:** Prob. Code § 5040 [S-605]; § 5042 (joint tenancy) [VERIFY V-516].
+**Authority:** Prob. Code § 5040 [S-605]; § 5042 (joint tenancy) [S-1059].
 
 **MBE vs. CA essay:** not on the MBE.
 
@@ -1183,13 +1183,13 @@ status: draft
 > 🇨🇳 PRC bridge: PRC law needs no omitted-spouse rule because the spouse is always a first-order heir unless the will excludes her; California presumes the testator forgot a later spouse (approx.).
 
 ### R-WIL-087 — Omitted spouse: exceptions
-**Rule (write this):** The omitted spouse takes nothing if the failure to provide was intentional and that intent appears in the testamentary instruments, if the decedent provided for the spouse outside the instruments with intent that the transfer be in lieu of a testamentary provision, as shown by statements, the amount of the transfer or other evidence, or if the spouse validly waived the right to share in the estate.
+**Rule (write this):** The omitted spouse takes nothing if the failure to provide was intentional and that intent appears in the testamentary instruments, if the decedent provided for the spouse outside the instruments with intent that the transfer be in lieu of a testamentary provision, as shown by statements, the amount of the transfer or other evidence, or if the spouse validly waived the right to share in the estate. Since AB 328 (2019), a spouse who was the decedent's care custodian, where the decedent was a dependent adult who died within six months of the marriage, also takes nothing unless the spouse proves by clear and convincing evidence that the marriage was not the product of fraud or undue influence.
 
-**Elements:** 1. Intent on the face of the instruments. 2. Transfer in lieu outside the instruments. 3. Valid waiver.
+**Elements:** 1. Intent on the face of the instruments. 2. Transfer in lieu outside the instruments. 3. Valid waiver. 4. Care-custodian spouse of a dependent adult who died within six months of the marriage (rebuttable by clear and convincing evidence).
 
 **Exceptions / defenses:** A general disinheritance clause that does not mention the spouse or a future marriage is not enough.
 
-**Authority:** Prob. Code § 21611; *Estate of Shannon* (1990) 224 Cal.App.3d 1148 [S-618].
+**Authority:** Prob. Code § 21611 (subd. (d) added by AB 328 (2019)) [S-1052]; *Estate of Shannon* (1990) 224 Cal.App.3d 1148 [S-618].
 
 **MBE vs. CA essay:** not on the MBE.
 
@@ -1213,9 +1213,9 @@ status: draft
 
 **Elements:** 1. Will and revocable trust both count. 2. Marriage or birth must follow all of them. 3. Share computed on probate plus trust property.
 
-**Exceptions / defenses:** Nonprobate assets passing by beneficiary designation (e.g., IRAs) are not included [VERIFY V-514].
+**Exceptions / defenses:** Nonprobate assets passing by beneficiary designation (e.g., IRAs) are not included.
 
-**Authority:** Prob. Code § 21601; *Reich v. Reich* (2024) [S-623].
+**Authority:** Prob. Code § 21601; *Reich v. Reich* (Cal. Ct. App., filed Oct. 24, 2024, certified for publication) (IRA proceeds excluded from the "estate" for the omitted-spouse share) [S-623].
 
 **MBE vs. CA essay:** not on the MBE; Feb 2012 Q1 (child omitted from a trust).
 
@@ -1273,7 +1273,7 @@ status: draft
 
 **Exceptions / defenses:** Strict construction; probable cause defeats enforcement.
 
-**Authority:** Prob. Code § 21311 [S-608]; *Donkin v. Donkin* (2013) 58 Cal.4th 412 [S-609].
+**Authority:** Prob. Code § 21311 [S-608]; *Donkin v. Donkin* (2013) 58 Cal.4th 412 (current law governed a trust that became irrevocable after Jan 1, 2001) [S-609] [S-1057].
 
 **MBE vs. CA essay:** not on the MBE.
 
@@ -1286,7 +1286,7 @@ status: draft
 
 **Exceptions / defenses:** Petitions to construe the instrument or challenge a fiduciary's conduct are not direct contests.
 
-**Authority:** Prob. Code § 21310 [VERIFY V-506].
+**Authority:** Prob. Code § 21310(b), (e); § 21315 (applies to instruments that became irrevocable on or after Jan 1, 2001) [S-1056].
 
 **MBE vs. CA essay:** not on the MBE.
 
@@ -1297,39 +1297,39 @@ status: draft
 ## Presumptively disqualified donees (outline III.C.5)
 
 ### R-WIL-095 — Presumptively disqualified donees
-**Rule (write this):** A donative transfer to the person who drafted the instrument, to a fiduciary who transcribed it or caused it to be transcribed, to a care custodian of a dependent adult when the instrument was executed during or within 90 days of the care, or to certain relatives, cohabitants, employees or law-firm colleagues of those persons is presumed to be the product of fraud or undue influence. The presumption is rebuttable only by clear and convincing evidence and is conclusive for the drafter and the drafter's associates, and an unsuccessful beneficiary pays the costs and attorney's fees.
+**Rule (write this):** A donative transfer to the person who drafted the instrument, to a fiduciary who transcribed it or caused it to be transcribed, to a care custodian of a dependent adult when the instrument was executed during or within 90 days before or after the care, to a care custodian who began a marriage, cohabitation or domestic partnership with the dependent adult during the care or within 90 days after it if the transfer or instrument came less than six months after that relationship began, or to certain relatives, cohabitants, employees or law-firm colleagues of those persons is presumed to be the product of fraud or undue influence. The presumption is rebuttable only by clear and convincing evidence and is conclusive for the drafter and the drafter's associates, and an unsuccessful beneficiary pays the costs and attorney's fees.
 
 **Elements:** 1. Donative transfer. 2. Disqualified category. 3. Presumption affects burden of proof. 4. Rebuttal by clear and convincing evidence (none for drafter). 5. Fee shifting.
 
 **Exceptions / defenses:** § 21382 exceptions and § 21384 certificate (R-WIL-096).
 
-**Authority:** Prob. Code § 21380 [S-645] [VERIFY V-505]; *Rice v. Clark* (2002) 28 Cal.4th 89 [S-616].
+**Authority:** Prob. Code § 21380 (subd. (a)(4) added by AB 328 (2019); conclusive presumption, subd. (c)) [S-645] [S-936] [S-1052]; § 21392 (applies to instruments that became irrevocable on or after Jan 1, 2011) [S-1054]; *Rice v. Clark* (2002) 28 Cal.4th 89 [S-616].
 
 **MBE vs. CA essay:** not on the MBE; PR crossover (lawyer drafting a gift to himself).
 
 **Example:** Lawyer L drafts a will leaving himself $50,000 from an unrelated client. The gift is conclusively presumed invalid.
 
 ### R-WIL-096 — Exceptions and certificate of independent review
-**Rule (write this):** The presumption does not apply to transfers to a relative within the fourth degree or the transferor's cohabitant, instruments drafted by such a person, instruments approved by court order, gifts to public entities and qualified charities, small gifts of $5,000 or less from estates at or above the small-estate amount, or instruments executed outside California by a nonresident; nor does it apply if an independent attorney counsels the transferor alone and signs a certificate of independent review.
+**Rule (write this):** The presumption does not apply to transfers to a relative within the fourth degree or the transferor's cohabitant (but a care custodian who married or began cohabiting with the dependent adult within the § 21380(a)(4) window is still covered), instruments drafted by such a person, instruments approved by court order, gifts to public entities and qualified charities, small gifts of $5,000 or less from estates at or above the small-estate amount, or instruments executed outside California by a nonresident; nor does it apply if an independent attorney counsels the transferor alone and signs a certificate of independent review.
 
 **Elements:** 1. Relationship or cohabitant. 2. Court-approved instrument. 3. Charity/public entity. 4. $5,000 rule. 5. Out-of-state. 6. Independent-review certificate.
 
 **Exceptions / defenses:** The drafting attorney cannot certify his or her own instrument.
 
-**Authority:** Prob. Code §§ 21382 [S-621], 21384 [S-635].
+**Authority:** Prob. Code §§ 21382 (as amended by AB 328 (2019)) [S-621] [S-1052], 21384 [S-635].
 
 **MBE vs. CA essay:** not on the MBE.
 
 **Example:** T's will gives $40,000 to her paid caregiver; T first meets alone with an independent lawyer, who signs a § 21384 certificate. No presumption.
 
 ### R-WIL-097 — Care custodian and dependent adult
-**Rule (write this):** A care custodian is a person who provides health or social services to a dependent adult, but an unpaid helper is excluded if he or she had a personal relationship with the dependent adult at least 90 days before providing services, at least six months before the death, and before any hospice admission; a dependent adult is generally a person 65 or older who could not provide for personal needs or, because of deficits in mental function, had difficulty managing finances or resisting undue influence.
+**Rule (write this):** A care custodian is a person who provides health or social services to a dependent adult, but an unpaid helper is excluded if he or she had a personal relationship with the dependent adult at least 90 days before providing services, at least six months before the death, and before any hospice admission; a dependent adult is a person who, when the instrument was executed, was 65 or older, or 18 or older, and could not provide properly for personal needs for health, food, clothing or shelter or, because of deficits in mental function, had difficulty managing finances or resisting fraud or undue influence.
 
-**Elements:** 1. Services to a dependent adult. 2. Paid, or unpaid without a qualifying prior personal relationship. 3. Instrument executed during or within 90 days of services.
+**Elements:** 1. Services to a dependent adult (18+ meeting either criterion at execution). 2. Paid, or unpaid without a qualifying prior personal relationship. 3. Instrument executed during or within 90 days before or after services.
 
-**Exceptions / defenses:** Prior personal relationship for unpaid helpers.
+**Exceptions / defenses:** Prior personal relationship for unpaid helpers. For adults under 65 the mental-function criterion may require "substantial" difficulty [VERIFY V-913].
 
-**Authority:** Prob. Code §§ 21362 [S-633], 21366 [VERIFY V-505]; *Bernard v. Foley* (2006) 39 Cal.4th 794 [S-617].
+**Authority:** Prob. Code §§ 21362 [S-633], 21366 [S-1053]; *Bernard v. Foley* (2006) 39 Cal.4th 794 [S-617].
 
 **MBE vs. CA essay:** not on the MBE.
 
@@ -1366,17 +1366,17 @@ status: draft
 **Example:** T names her niece as POD payee on a bank account. The niece takes the account outside probate even though the designation was never witnessed.
 
 ### R-WIL-100 — Joint tenancy and survivorship property
-**Rule (write this):** Property held in joint tenancy passes to the surviving joint tenant by right of survivorship and is not subject to the decedent's will or intestacy, except that a slayer's or former spouse's joint tenancy is severed and CP held in joint-tenancy form may still be community property between spouses.
+**Rule (write this):** Property held in joint tenancy passes to the surviving joint tenant by right of survivorship and is not subject to the decedent's will or intestacy, except that a slayer's or former spouse's joint tenancy is severed. Between spouses, joint-tenancy property bought with community funds is presumptively CP for characterization (*Brace*), but the right of survivorship still operates at death, so the surviving spouse takes the whole asset unless the spouses validly transmuted it in writing into CP held without survivorship.
 
-**Elements:** 1. Valid joint tenancy. 2. Survivor takes outside probate. 3. Severance exceptions.
+**Elements:** 1. Valid joint tenancy. 2. Survivor takes outside probate. 3. Severance exceptions (slayer; former spouse). 4. Spouses: survivorship applies at death absent a § 852 written transmutation.
 
-**Exceptions / defenses:** Slayer (§ 251); former spouse (§ 5042); CP/Brace (R-CMP-014); QCP recapture (§ 102).
+**Exceptions / defenses:** Slayer (§ 251); former spouse (§ 5042: a joint tenancy created before or during the marriage is severed as to the decedent's interest unless not severable by the decedent at death or clear and convincing evidence shows intent to preserve it; CP with right of survivorship is treated the same); a valid written transmutation between spouses (Fam. Code § 852) into CP without survivorship (R-CMP-014); QCP placed in joint tenancy with a non-spouse can be recaptured (§ 102).
 
-**Authority:** Prob. Code §§ 251, 5042 [VERIFY V-516]; common law of joint tenancy.
+**Authority:** Prob. Code §§ 251, 5042 [S-1059]; *In re Brace* (2020) 9 Cal.5th 903 (survivorship at death undisturbed) — see R-CMP-014; common law of joint tenancy.
 
 **MBE vs. CA essay:** not on the MBE; Jul 2022 Q5 (JT deed of QCP).
 
-**Example:** T and her brother own a cabin as joint tenants; T's will leaves "all my real property" to her son. The brother takes the cabin.
+**Example:** T and her brother own a cabin as joint tenants; T's will leaves "all my real property" to her son. The brother takes the cabin. Likewise, if H and W bought a cabin with salaries as joint tenants and H's will leaves "my half of the cabin" to his son, W takes the whole cabin by survivorship.
 
 ### R-WIL-101 — Multiple-party accounts, POD and Totten trust accounts
 **Rule (write this):** During the parties' lives a joint account belongs to them in proportion to their net contributions, and at death the remaining balance belongs to the surviving party, the POD payee or the Totten trust beneficiary, unless clear and convincing evidence shows a different intent.
@@ -1398,7 +1398,7 @@ status: draft
 
 **Exceptions / defenses:** Trust validity, revocation and modification follow Trusts rules.
 
-**Authority:** Prob. Code §§ 21101, 21601, 21380; *Haggerty v. Thornton* (2024) 15 Cal.5th 729 [S-129] [VERIFY V-033].
+**Authority:** Prob. Code §§ 21101, 21601, 21380; *Haggerty v. Thornton* (2024) 15 Cal.5th 729 [S-129].
 
 **MBE vs. CA essay:** not on the MBE; Wills + Trusts crossovers.
 
@@ -1411,7 +1411,7 @@ status: draft
 
 **Exceptions / defenses:** Former-spouse rule (§ 5040).
 
-**Authority:** Prob. Code §§ 5600 et seq. (§§ 5624, 5626) [S-628] [VERIFY V-520].
+**Authority:** Prob. Code §§ 5600 et seq. (§ 5624 signing, dating, notarization and two witnesses [S-767]; § 5626 recording) [S-628] [VERIFY V-520].
 
 **MBE vs. CA essay:** not on the MBE; nice-to-know.
 
@@ -1431,13 +1431,13 @@ status: draft
 **Example:** T's life policy names her ex-boyfriend; her will says "all my insurance to my sister." The ex-boyfriend takes, subject to any CP claim of a spouse.
 
 ### R-WIL-105 — Intentional interference with expected inheritance
-**Rule (write this):** A plaintiff who had a reasonable expectation of an inheritance may sue a defendant who, by independently tortious conduct such as fraud or duress, intentionally interfered with it, but only where the plaintiff has no adequate remedy in probate.
+**Rule (write this):** A plaintiff who had a reasonable expectation of an inheritance may sue a defendant who, by independently tortious conduct directed at the testator such as fraud or duress, intentionally interfered with it, but only where the plaintiff has no adequate remedy in probate.
 
-**Elements:** 1. Expectancy. 2. Defendant's knowledge. 3. Independently tortious conduct. 4. Reasonable certainty the inheritance would have been received. 5. Damages. 6. No adequate probate remedy.
+**Elements:** 1. Expectancy. 2. Defendant's knowledge and intent to interfere. 3. Independently tortious conduct directed at the testator. 4. Reasonable certainty the inheritance would have been received. 5. Damages. 6. No adequate probate remedy.
 
-**Exceptions / defenses:** Available probate remedy (will contest) bars the tort.
+**Exceptions / defenses:** Available probate remedy (will contest) bars the tort. Check for later Court of Appeal decisions narrowing the tort before the exam [VERIFY V-914].
 
-**Authority:** *Beckwith v. Dahl* (2012) 205 Cal.App.4th 1039 [VERIFY V-529].
+**Authority:** *Beckwith v. Dahl* (2012) 205 Cal.App.4th 1039 [S-1063].
 
 **MBE vs. CA essay:** not on the MBE; nice-to-know.
 

@@ -59,7 +59,7 @@ status: draft
 | Rule against perpetuities | Common law: lives in being + 21 years, no wait-and-see | **USRAP**: common-law test **or** actual vesting within **90 years**; reformation | §§ 21205, 21220 [VERIFY V-563] | State both tests (R-TRS-034) |
 | Cy pres | Common law: requires **general charitable intent**. Restatement (Third) § 67 and UTC § 413 **presume** it and add "wasteful" | Common-law test applied by California courts (general charitable intent) | *Estate of Gatlin* (1971) 16 Cal.App.3d 644 [S-670]; [VERIFY V-559] | Prove general intent from the facts; note the modern presumption (R-TRS-021) |
 | Honorary and pet trusts | Common law: unenforceable; UTC §§ 408–409 validate (21 years for purpose trusts) | Validated by statute: purpose trusts 21 years (§ 15211); pet trusts until no animal covered by the trust remains alive (§ 15212) | §§ 15211–15212 [S-676] [VERIFY V-558] | (R-TRS-022, R-TRS-023) |
-| No-contest clauses | Majority: enforced unless probable cause | Enforced **only** against a direct contest **without probable cause** (and two expressly covered pleadings) | §§ 21310–21311 [S-608] [VERIFY V-506] | (R-TRS-075; R-WIL-093) |
+| No-contest clauses | Majority: enforced unless probable cause | Enforced **only** against a direct contest **without probable cause** (and two expressly covered pleadings) | §§ 21310–21311 [S-608] [S-1056] | (R-TRS-075; R-WIL-093) |
 | Recovering wrongfully taken trust property | Constructive trust / conversion damages | Same, plus **§ 850** petition and **§ 859 double damages** for bad-faith takings | §§ 850, 859 [S-675] [VERIFY V-584] | Add § 859 whenever someone grabbed trust assets (R-TRS-096) |
 
 ## 3. Revocation and modification after *Haggerty*: how to write it

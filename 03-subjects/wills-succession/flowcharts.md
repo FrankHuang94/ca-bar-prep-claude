@@ -4,7 +4,7 @@ topic: Wills and Succession — decision-tree flowcharts (Mermaid)
 coverage_ids: [WIL-CBX-I, WIL-CBX-II, WIL-CBX-II.C, WIL-CBX-III.x3, WIL-CBX-IV.x, WIL-CBX-interp.E, WIL-CBX-VI, WIL-CBX-VI.F, WIL-CBX-VII, WIL-CBX-VIII, WIL-SUP-002, WIL-SUP-006, WIL-PAST-001]
 tested_on: [essay]
 exam_frequency: {level: med, basis: "Essays: 13 of 31 administrations 2012-02 to 2026-07 (42%)"}
-last_verified: 2026-11-04
+last_verified: 2026-11-05
 status: draft
 ---
 
@@ -147,7 +147,7 @@ flowchart TD
     B -- "Yes" --> C{"Item in estate at death?"}
     C -- "Yes" --> C1["Passes, subject to liens, no exoneration - R-WIL-073"]
     C -- "No" --> D{"Sold, condemned or insured by conservator, agent or trustee while incapacitated?"}
-    D -- "Yes" --> D1["General pecuniary gift of net price or proceeds - R-WIL-074"]
+    D -- "Yes" --> D1["General pecuniary gift of net price or proceeds, unless conservatorship ended and T survived 1 year - R-WIL-074"]
     D -- "No" --> E{"Unpaid sale price, award, insurance or foreclosure at death?"}
     E -- "Yes" --> E1["Beneficiary takes unpaid amount - R-WIL-070"]
     E -- "No" --> F{"Securities changed by issuer action?"}
@@ -171,7 +171,9 @@ flowchart TD
     D -- "Yes" --> X2
     D -- "No" --> E{"Valid waiver under 140 to 147?"}
     E -- "Yes" --> X2
-    E -- "No" --> F["Share: decedent half CP + half QCP + SP intestate share capped at one half - R-WIL-086"]
+    E -- "No" --> CC{"Spouse was care custodian of dependent-adult decedent who died within 6 months of marriage?"}
+    CC -- "Yes, no clear and convincing rebuttal" --> X2
+    CC -- "No, or rebutted" --> F["Share: decedent half CP + half QCP + SP intestate share capped at one half - R-WIL-086"]
     F --> G["Funded from undisposed property, then pro rata - R-WIL-088"]
 ```
 

@@ -4,7 +4,7 @@ topic: Wills and Succession — California Probate Code vs. common law and the U
 coverage_ids: [WIL-CBX-I, WIL-CBX-II, WIL-CBX-II.B, WIL-CBX-II.D, WIL-CBX-II.E, WIL-CBX-II.F, WIL-CBX-III.x3, WIL-CBX-III.E, WIL-CBX-IV.x, WIL-CBX-V, WIL-CBX-interp.E, WIL-CBX-VI, WIL-CBX-VI.F, WIL-CBX-VII, WIL-CBX-VIII, WIL-SUP-002, WIL-SUP-003, WIL-SUP-004, WIL-SUP-005, WIL-SUP-006, WIL-SUP-007]
 tested_on: [essay]
 exam_frequency: {level: med, basis: "Essays: 13 of 31 administrations 2012-02 to 2026-07 (42%)"}
-last_verified: 2026-11-04
+last_verified: 2026-11-05
 status: draft
 ---
 
@@ -36,11 +36,11 @@ status: draft
 | Representation | UPC: per capita at each generation | Default § 240 (divide at first generation with a living member); "per stirpes" in an instrument → § 246 | §§ 240, 246, 247 | Show the math (R-WIL-011) |
 | Spouse's intestate share | UPC § 2-102: often the whole estate | CP and QCP halves to spouse; SP **all / one-half / one-third** depending on issue, parents, siblings | § 6401 | (R-WIL-016; R-CMP-094) |
 | Spousal protection against disinheritance | **Elective share** of the augmented estate | **No elective share**: survivor owns half of CP and QCP; QCP recapture (§ 102); omitted-spouse share | §§ 100–102, 21610 | "California protects W through community property, not an elective share" (R-WIL-001, R-WIL-086) |
-| Omitted spouse | UPC § 2-301: intestate share of property not given to testator's children | Decedent's half of CP and QCP + SP intestate share **capped at one-half**; three exceptions | §§ 21610–21612 | (R-WIL-086, R-WIL-087) |
+| Omitted spouse | UPC § 2-301: intestate share of property not given to testator's children | Decedent's half of CP and QCP + SP intestate share **capped at one-half**; § 21611 exceptions (intent on face, transfer in lieu, waiver, and (AB 328, 2019) a care-custodian spouse of a dependent adult who died within six months of the marriage [S-1052]) | §§ 21610–21612 | (R-WIL-086, R-WIL-087) |
 | Omitted child | UPC § 2-302: share keyed to gifts to other children | **Intestate share**; exceptions include "substantially all to the other parent"; § 21622 believed-dead child | §§ 21620–21623 | (R-WIL-090 to R-WIL-092) |
 | Stepchildren | UPC: stepchildren inherit before escheat | Only via § 6454 legal barrier (must persist to death), equitable adoption, or as issue of a predeceased spouse (§ 6402(e)) | § 6454; *Estate of Joseph* | (R-WIL-029, R-WIL-030) |
 | Ademption | Identity theory (majority); UPC § 2-606 replacement property and intent | Disfavored: change in form + *Mason* intent; § 21133 unpaid balances; § 21134 conservator/agent sales; § 21139 | §§ 21132–21139; *Mason* | Classify, trace, then statutes (R-WIL-069 to R-WIL-074) |
-| Abatement | Common law: intestate, residue, general, specific; personal before real | Relatives preferred within general and specific classes; **no** real/personal priority | §§ 21400–21403 | Use the six-step order (R-WIL-075, R-WIL-076) |
+| Abatement | Common law: intestate, residue, general, specific; personal before real | Relatives preferred within general and specific classes; instrument, plan or purpose can override (§ 21400) [S-1055]; **no** real/personal priority [VERIFY V-912] | §§ 21400–21403 | Use the six-step order (R-WIL-075, R-WIL-076) |
 | Exoneration | Common law: specific devisee could demand payoff of the mortgage | **No exoneration** despite a general "pay my debts" clause | § 21131 | (R-WIL-073) |
 | Undue influence | Common-law presumption (confidential relationship + procurement + benefit) | Same common-law presumption **plus** § 86 / W&I § 15610.70 definition **plus** statutory presumption for drafters, fiduciary-transcribers and care custodians | *Rice v. Clark*; §§ 86, 21380 | Run all three routes (R-WIL-039, R-WIL-040, R-WIL-095) |
 | No-contest clauses | UPC § 3-905: unenforceable if probable cause | Enforced only against **direct contests without probable cause** (and two expressly covered pleadings) | §§ 21310–21311 | Classify the pleading, then probable cause (R-WIL-093) |

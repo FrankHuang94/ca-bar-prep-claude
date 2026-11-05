@@ -4,7 +4,7 @@ topic: Wills and Succession — worked examples (original fact patterns with ana
 coverage_ids: [WIL-CBX-I, WIL-CBX-II, WIL-CBX-II.B, WIL-CBX-II.C, WIL-CBX-II.E, WIL-CBX-II.F, WIL-CBX-III.x1, WIL-CBX-III.x3, WIL-CBX-III.E, WIL-CBX-IV.x, WIL-CBX-V, WIL-CBX-interp.E, WIL-CBX-VI, WIL-CBX-VI.F, WIL-CBX-VII, WIL-CBX-VIII, WIL-SUP-002, WIL-SUP-003, WIL-SUP-004, WIL-SUP-005, WIL-SUP-006, WIL-SUP-007, WIL-PAST-001]
 tested_on: [essay]
 exam_frequency: {level: med, basis: "Essays: 13 of 31 administrations 2012-02 to 2026-07 (42%)"}
-last_verified: 2026-11-04
+last_verified: 2026-11-05
 status: draft
 ---
 
@@ -32,7 +32,7 @@ Each pattern is original. Read the facts, decide the answer, then check the anal
 ### 4. The beneficiary-witness
 **Facts.** Victor's will leaves $100,000 to his caretaker-friend Fay and the residue to his son. Fay and one neighbor are the only witnesses.
 
-**Analysis.** *Rule:* A gift to a subscribing witness, without two other disinterested witnesses, raises a presumption of duress, menace, fraud or undue influence; if not rebutted, the witness takes no more than her intestate share (R-WIL-049). *Application:* Only one other witness. Fay must rebut; as a non-relative her intestate share is zero. If Fay is a paid care custodian of a dependent adult, § 21380 adds a second presumption (R-WIL-095). *Conclusion:* Unless Fay rebuts, she takes nothing; the will otherwise stands.
+**Analysis.** *Rule:* A gift to a subscribing witness, without two other disinterested witnesses, raises a presumption of duress, menace, fraud or undue influence; if not rebutted, the witness takes no more than her intestate share (R-WIL-049). *Application:* Only one other witness. Fay must rebut; as a non-relative her intestate share is zero. If Fay was Victor's care custodian (paid, or unpaid without a qualifying prior personal relationship) and Victor was a dependent adult, § 21380 adds a second presumption (R-WIL-095, R-WIL-097). *Conclusion:* Unless Fay rebuts, she takes nothing; the will otherwise stands.
 
 ### 5. Signed in Nevada
 **Facts.** Wen, domiciled in Nevada, signs a will with one witness, valid under the law where she signs. She later moves to California and dies here.

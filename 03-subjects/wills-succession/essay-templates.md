@@ -4,7 +4,7 @@ topic: Wills and Succession — essay templates for recurring California questio
 coverage_ids: [WIL-CBX-I, WIL-CBX-II, WIL-CBX-III, WIL-CBX-IV.x, WIL-CBX-V, WIL-CBX-interp.x, WIL-CBX-VI, WIL-CBX-VII, WIL-CBX-VIII, WIL-SUP-002, WIL-SUP-003, WIL-SUP-005, WIL-SUP-006, WIL-PAST-001]
 tested_on: [essay]
 exam_frequency: {level: med, basis: "Essays: 13 of 31 administrations 2012-02 to 2026-07 (42%)"}
-last_verified: 2026-11-04
+last_verified: 2026-11-05
 status: draft
 ---
 
@@ -49,7 +49,8 @@ Used in: Feb 2019 Q1, Jul 2022 Q5, Jul 2026 Q2 (with CP).
 I. Characterization of each asset at death (asset by asset)
    - General presumption; QCP definition at death (§ 66): personal property anywhere + CA land only.
    - Out-of-state land → situs law.
-   - Title, JT form, transmutation (§ 852) where relevant.
+   - Title, JT form, transmutation (§ 852) where relevant; at death JT survivorship still
+     controls between spouses absent a § 852 writing (Brace; R-CMP-014).
 II. Effect of death
    - Survivor owns half of CP and half of decedent's QCP (§§ 100, 101).
    - Recapture of QCP transferred without consent (§ 102).
@@ -92,7 +93,8 @@ Used in: Feb 2012 Q1 (trust), Jul 2013 Q5, Feb 2018 Q5, Jul 2021 Q5.
 Spouse S
   1. Timing: married after ALL testamentary instruments (will, codicils, trust)? Republication?
   2. Not provided for?
-  3. Exceptions (§ 21611): intent on face; transfer in lieu; waiver (§§ 140-147)
+  3. Exceptions (§ 21611): intent on face; transfer in lieu; waiver (§§ 140-147);
+     care-custodian spouse of a dependent adult who died within 6 months (AB 328)
   4. Share (§ 21610): decedent's 1/2 CP + 1/2 QCP + SP intestate share ≤ 1/2 – compute
   5. Funding (§ 21612)
 Child C
@@ -118,6 +120,7 @@ Used in: Feb 2019 Q1 (codicil benefiting a conservator).
    a. Definition (Rice; § 86 / W&I § 15610.70 factors)
    b. Common-law presumption: confidential relationship + active procurement + undue benefit
    c. Statutory presumption (§ 21380): drafter / fiduciary-transcriber / care custodian
+      - care custodian who married/cohabited with the dependent adult (§ 21380(a)(4))
       - exceptions (§ 21382), certificate (§ 21384), effect (§ 21386)
    d. Interested witness (§ 6112) if the beneficiary witnessed
 4. Fraud / duress / menace (§ 6104)

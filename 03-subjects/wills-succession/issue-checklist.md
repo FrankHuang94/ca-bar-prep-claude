@@ -4,7 +4,7 @@ topic: Wills and Succession — issue-spotting checklist in analysis order
 coverage_ids: [WIL-CBX-I, WIL-CBX-II, WIL-CBX-III, WIL-CBX-IV, WIL-CBX-V, WIL-CBX-interp.x, WIL-CBX-VI, WIL-CBX-VII, WIL-CBX-VIII, WIL-SUP-001, WIL-SUP-002, WIL-SUP-003, WIL-SUP-005, WIL-SUP-006, WIL-SUP-007, WIL-PAST-001]
 tested_on: [essay]
 exam_frequency: {level: med, basis: "Essays: 13 of 31 administrations 2012-02 to 2026-07 (42%)"}
-last_verified: 2026-11-04
+last_verified: 2026-11-05
 status: draft
 ---
 
@@ -41,7 +41,7 @@ Run this list **in order** on every Wills fact pattern. Threshold issues come fi
 | 16 | **Insane delusion** | False belief about a relative (poisoning, infidelity) that drives a disinheritance | R-WIL-034 |
 | 17 | **Conservatorship** | Conservator appointed; conservator signs or sells property | R-WIL-036, R-WIL-074 |
 | 18 | **Undue influence** | Caregiver, new friend, child who arranged the lawyer; isolation; sudden change in plan | R-WIL-039, R-WIL-040 |
-| 19 | **Disqualified donee** | Gift to drafter, lawyer's relative, conservator/trustee who transcribed, paid caregiver | R-WIL-095 to R-WIL-098 |
+| 19 | **Disqualified donee** | Gift to drafter, lawyer's relative, conservator/trustee who transcribed, caregiver (including one who married or moved in with the testator) | R-WIL-095 to R-WIL-098 |
 | 20 | **Fraud / duress / menace** | Lies about a relative; threats | R-WIL-041, R-WIL-042 |
 
 ## C. What is in the will?
@@ -88,9 +88,9 @@ Run this list **in order** on every Wills fact pattern. Threshold issues come fi
 
 | # | Issue | Trigger facts | Rules |
 |---|---|---|---|
-| 46 | **Omitted spouse** | Marriage after the will (and after any codicil/trust) | R-WIL-086 to R-WIL-089 |
+| 46 | **Omitted spouse** | Marriage after the will (and after any codicil/trust); caregiver who married a dependent adult shortly before death | R-WIL-086 to R-WIL-089 |
 | 47 | **Omitted child** | Birth or adoption after the will; child believed dead or unknown | R-WIL-088 to R-WIL-092 |
-| 48 | **Intestate shares** | No will, partial failure, omitted heir computation | R-WIL-015 to R-WIL-019 |
+| 48 | **Intestate shares** | No will, partial failure, omitted heir computation; divorce pending or legal-separation judgment (who is a spouse?) | R-WIL-015 to R-WIL-019 |
 | 49 | **Parent-child status** | Adoption, stepchild, foster child, child of unmarried parents, absent parent | R-WIL-026 to R-WIL-030 |
 | 50 | **Representation math** | Predeceased children with grandchildren | R-WIL-011 |
 | 51 | **Advancements / debts** | Lifetime gifts or loans to heirs | R-WIL-024, R-WIL-025 |

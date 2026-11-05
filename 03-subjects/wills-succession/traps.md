@@ -4,7 +4,7 @@ topic: Wills and Succession — traps, common mistakes and confused rules
 coverage_ids: [WIL-CBX-I, WIL-CBX-II, WIL-CBX-III, WIL-CBX-IV.x, WIL-CBX-V, WIL-CBX-interp.E, WIL-CBX-VI, WIL-CBX-VII, WIL-CBX-VIII, WIL-SUP-002, WIL-SUP-003, WIL-SUP-005, WIL-SUP-006, WIL-SUP-007]
 tested_on: [essay]
 exam_frequency: {level: med, basis: "Essays: 13 of 31 administrations 2012-02 to 2026-07 (42%)"}
-last_verified: 2026-11-04
+last_verified: 2026-11-05
 status: draft
 ---
 
@@ -50,7 +50,7 @@ Wills is essay-only, so these are **essay traps**: mistakes that cost points in 
 22. **Giving effect to an unsigned increase.** The new amount fails; then ask partial revocation and DRR (R-WIL-079, R-WIL-085).
 23. **Automatic revival.** California revival depends on intent, proved differently for act vs. third-will revocation (R-WIL-084).
 24. **Overstating § 6124.** It covers a will that **cannot be found**; it is a presumption affecting only the burden of producing evidence (R-WIL-081).
-25. **Extending § 6122 to the ex-spouse's relatives.** It revokes only provisions for the former spouse; and legal separation does not trigger it (R-WIL-082).
+25. **Extending § 6122 to the ex-spouse's relatives.** It revokes only provisions for the former spouse; and legal separation does not trigger it (R-WIL-082). But for **intestacy**, a legal-separation judgment that ended all marital property rights **does** stop the spouse from being a surviving spouse (§ 78(d); *Estate of Lahey*; R-WIL-017).
 26. **Forgetting nonprobate transfers to an ex-spouse** (§ 5040) and ERISA preemption (R-WIL-083).
 
 ## Distribution
@@ -60,14 +60,14 @@ Wills is essay-only, so these are **essay traps**: mistakes that cost points in 
 29. **Sending a lapsed residuary share to intestacy.** It goes to the other residuary takers (§ 21111(b); R-WIL-065).
 30. **Using the 120-hour rule for a will.** It applies only in intestacy; under a will, survival needs clear and convincing evidence (R-WIL-007, R-WIL-020).
 31. **Adeeming a demonstrative or general gift.** Only specific gifts adeem (R-WIL-068, R-WIL-069).
-32. **Missing § 21134.** A conservator's or agent's sale of specifically given property gives the beneficiary the net sale price (R-WIL-074).
+32. **Missing § 21134.** A conservator's, agent's or trustee's sale of specifically given property gives the beneficiary the net sale price; for a conservator's sale, not if the conservatorship ended and the testator survived the termination by a year (R-WIL-074).
 33. **Abating by the common-law order.** California prefers relatives within the general and specific classes and has no real/personal priority (R-WIL-075).
 34. **Exonerating a mortgage because the will says "pay my debts."** § 21131 says no (R-WIL-073).
 
 ## Omitted heirs and intestacy
 
 35. **Giving the omitted spouse all the SP.** The SP share is the intestate share **capped at one-half** (R-WIL-086).
-36. **Treating a general disinheritance clause as intent to omit a later spouse.** It must appear from the instruments; a generic "I disinherit anyone not named" is not enough (*Shannon*; R-WIL-087).
+36. **Treating a general disinheritance clause as intent to omit a later spouse.** It must appear from the instruments; a generic "I disinherit anyone not named" is not enough (*Shannon*; R-WIL-087). And do not forget the AB 328 bar on a care-custodian spouse whose dependent-adult spouse died within six months of the marriage (§ 21611).
 37. **Computing the omitted child's share from SP only without explaining why.** Compute the full intestate share: with a surviving spouse, the spouse takes all CP, so the child's share usually comes from SP (R-WIL-090).
 38. **Missing "substantially all to the other parent."** It defeats the omitted child (R-WIL-091).
 39. **Letting a stepchild inherit because of a close relationship.** § 6454 needs a legal barrier lasting until death; equitable adoption needs intent to adopt (R-WIL-029, R-WIL-030).

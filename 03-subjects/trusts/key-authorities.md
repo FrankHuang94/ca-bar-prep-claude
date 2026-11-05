@@ -95,7 +95,7 @@ One line per authority. Where a section's details were not confirmed against cur
 | Prob. Code §§ 850, 859 | Petition to recover property; double damages for bad-faith taking [S-675] [VERIFY V-584] | R-TRS-096 |
 | Prob. Code § 6300 | Pour-over to trust signed before, with or within 60 days after the will [S-611] [S-612] | R-TRS-010; R-WIL-061 |
 | Prob. Code §§ 21205, 21220 | USRAP: 90-year wait-and-see; reformation [VERIFY V-563] | R-TRS-034 |
-| Prob. Code §§ 21310–21311 | No-contest clauses [S-608] [VERIFY V-506] | R-TRS-075; R-WIL-093 |
+| Prob. Code §§ 21310–21311 | No-contest clauses [S-608] [S-1056] | R-TRS-075; R-WIL-093 |
 | Prob. Code §§ 21380–21386 | Presumptively disqualified donees [S-645] [S-621] [S-635] [S-646] | R-TRS-076; R-WIL-095 to R-WIL-098 |
 | Prob. Code § 21601 | Revocable trusts are testamentary instruments for omitted heirs | R-TRS-077; R-WIL-089 |
 | Prob. Code § 5040 | Nonprobate transfer to former spouse fails on dissolution [S-605] | R-TRS-077; R-WIL-083 |

@@ -4,7 +4,7 @@ topic: Wills and Succession — exam-day attack outline
 coverage_ids: [WIL-CBX-I, WIL-CBX-II, WIL-CBX-III, WIL-CBX-IV, WIL-CBX-V, WIL-CBX-interp.x, WIL-CBX-interp.E, WIL-CBX-VI, WIL-CBX-VII, WIL-CBX-VIII, WIL-SUP-001, WIL-SUP-002, WIL-SUP-003, WIL-SUP-005, WIL-SUP-006, WIL-SUP-007]
 tested_on: [essay]
 exam_frequency: {level: med, basis: "Essays: 13 of 31 administrations 2012-02 to 2026-07 (42%)"}
-last_verified: 2026-11-04
+last_verified: 2026-11-05
 status: draft
 ---
 
@@ -34,7 +34,7 @@ One line per rule. Write the heading, then the one-liner, then apply. Full rules
 - **§ 6104:** duress, menace, fraud, undue influence → tainted parts fail (R-WIL-038).
 - **Undue influence:** free will overborne; § 86 / W&I § 15610.70 factors (R-WIL-039).
 - **Presumption:** confidential relationship + active procurement + undue benefit → burden shifts (*Rice v. Clark*) (R-WIL-040).
-- **Disqualified donee (§ 21380):** drafter, fiduciary-transcriber, care custodian → presumed fraud/UI; clear and convincing to rebut; drafter conclusive (R-WIL-095).
+- **Disqualified donee (§ 21380):** drafter, fiduciary-transcriber, care custodian (incl. one who married/cohabited with the dependent adult) → presumed fraud/UI; clear and convincing to rebut; drafter conclusive (R-WIL-095).
 - **Fraud:** execution vs inducement; reliance; constructive trust for prevented will (R-WIL-041).
 - **Intent / conditional (§ 6105):** motive vs condition (R-WIL-043).
 
@@ -42,7 +42,7 @@ One line per rule. Write the heading, then the one-liner, then apply. Full rules
 - **Attested (§ 6110):** writing; testator signs; two witnesses present at same time; understand it's a will; sign in testator's lifetime (R-WIL-047).
 - **Harmless error (§ 6110(c)(2)):** witnessing defect cured by clear and convincing evidence of intent at signing; not for unsigned wills (R-WIL-048).
 - **Holographic (§ 6111):** signature + material provisions handwritten; form OK for intent (R-WIL-050).
-- **Undated holograph:** fails only if inconsistent with another will (not proved later) or incapacity possible (R-WIL-051).
+- **Undated holograph:** fails only if inconsistent with another will (not proved later), or if incapacity was possible and execution while competent is not proved (R-WIL-051).
 - **Interested witness (§ 6112):** presumption unless two disinterested witnesses; capped at intestate share (R-WIL-049).
 - **Choice of law (§ 6113):** valid if valid where executed, domicile/abode/nationality, or California (R-WIL-053).
 - **Extrinsic evidence (§ 6111.5):** on whether a document is a will and its meaning (R-WIL-052).
@@ -74,8 +74,8 @@ One line per rule. Write the heading, then the one-liner, then apply. Full rules
 - **Failed gift (§ 21111):** alternative → residue → intestacy; residuary share to co-residuary takers (R-WIL-065).
 - **Class gift / terms (§ 21115):** survivors share; adoptees by intestacy rules; third-party adoptee lived in household as minor (R-WIL-066, R-WIL-067).
 - **Classification (§ 21117):** specific, general, demonstrative, residuary (R-WIL-068).
-- **Ademption:** specific gift gone → adeemed unless traceable change in form (*Mason*), § 21133 unpaid balances, § 21134 conservator sale (R-WIL-069, R-WIL-070, R-WIL-074).
-- **Securities (§ 21132):** splits and mergers follow the gift (R-WIL-071).
+- **Ademption:** specific gift gone → adeemed unless traceable change in form (*Mason*), § 21133 unpaid balances, § 21134 conservator/agent/trustee sale (conservator: not if conservatorship ended and T survived 1 year) (R-WIL-069, R-WIL-070, R-WIL-074).
+- **Securities (§ 21132):** splits, mergers and reinvestment shares follow the gift; pre-death cash dividends do not (R-WIL-071).
 - **Satisfaction (§ 21135):** writing needed (R-WIL-072).
 - **Exoneration (§ 21131):** none (R-WIL-073).
 - **Abatement (§ 21402):** intestate → residue → general non-relatives → general relatives → specific non-relatives → specific relatives; pro rata (R-WIL-075).
@@ -83,7 +83,7 @@ One line per rule. Write the heading, then the one-liner, then apply. Full rules
 
 ## VII. Omitted heirs
 - **Omitted spouse (§ 21610):** married after all instruments → decedent's half CP + half QCP + SP intestate share ≤ 1/2 (R-WIL-086).
-- **Spouse exceptions (§ 21611):** intent on face; transfer in lieu; waiver (R-WIL-087).
+- **Spouse exceptions (§ 21611):** intent on face; transfer in lieu; waiver; care-custodian spouse, decedent died within 6 months of marriage, unless clear and convincing rebuttal (R-WIL-087).
 - **Omitted child (§ 21620):** born/adopted after all instruments → intestate share (R-WIL-090).
 - **Child exceptions (§ 21621):** intent on face; substantially all to other parent; transfer in lieu (R-WIL-091).
 - **Believed dead / unknown (§ 21622):** intestate share (R-WIL-092).
@@ -91,7 +91,7 @@ One line per rule. Write the heading, then the one-liner, then apply. Full rules
 - **Trusts count (§ 21601)** (R-WIL-089).
 
 ## VIII. Intestacy
-- **Spouse (§ 6401):** all CP; decedent's half QCP; SP all / 1/2 / 1/3 (R-WIL-016).
+- **Spouse (§ 6401):** all CP; decedent's half QCP; SP all / 1/2 / 1/3 (R-WIL-016). Not a spouse if divorced, or party to an order ending all marital property rights (legal-separation judgment) (§ 78; R-WIL-017).
 - **Others (§ 6402):** issue → parents → parents' issue → grandparents' line → predeceased spouse's issue → next of kin (R-WIL-018).
 - **Representation (§ 240):** divide at first generation with a living member (R-WIL-011).
 - **Half-blood (§ 6406):** equal (R-WIL-022).
