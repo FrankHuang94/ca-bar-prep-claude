@@ -1115,11 +1115,11 @@ status: draft
 ### R-CRM-083 — Search incident to arrest
 **Rule (write this):** After a lawful custodial arrest, police may search the arrestee's person and the area within his immediate control without a warrant. They may search a vehicle's passenger compartment only if the arrestee is unsecured and within reaching distance of it or it is reasonable to believe evidence of the offense of arrest is in the vehicle, and they generally need a warrant to search the digital contents of a cell phone.
 
-**Elements:** 1. Lawful custodial arrest (probable cause). 2. Contemporaneous search. 3. Person and wingspan (Chimel/Robinson). 4. Vehicle: Gant's two prongs. 5. Phone data: warrant (Riley).
+**Elements:** 1. Lawful custodial arrest (probable cause). 2. Contemporaneous search. 3. Person and wingspan (Chimel/Robinson). 4. Vehicle: the arrestee must be a recent occupant (Thornton), then Gant's two prongs. 5. Phone data: warrant (Riley).
 
 **Exceptions / defenses:** No search incident to a citation (Knowles). Breath but not blood tests incident to DUI arrest (Birchfield). Exigency may justify a warrantless phone search in rare cases.
 
-**Authority:** *Chimel v. California*, 395 U.S. 752 (1969); *United States v. Robinson*, 414 U.S. 218 (1973); *Arizona v. Gant*, 556 U.S. 332 (2009); *Riley v. California*, 573 U.S. 373 (2014); *Knowles v. Iowa*, 525 U.S. 113 (1998); *Birchfield v. North Dakota*, 579 U.S. 438 (2016).
+**Authority:** *Chimel v. California*, 395 U.S. 752 (1969); *United States v. Robinson*, 414 U.S. 218 (1973); *Thornton v. United States*, 541 U.S. 615 (2004); *Arizona v. Gant*, 556 U.S. 332 (2009); *Riley v. California*, 573 U.S. 373 (2014); *Knowles v. Iowa*, 525 U.S. 113 (1998); *Birchfield v. North Dakota*, 579 U.S. 438 (2016).
 
 **MBE vs. CA essay:** Same rule.
 

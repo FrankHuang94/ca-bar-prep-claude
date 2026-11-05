@@ -618,7 +618,7 @@ status: draft
 
 **Elements:** 1. Directive to state legislature (New York: take-title provision). 2. Directive to state executive officers (Printz: background checks). 3. Prohibition on state legislation (Murphy: sports-betting authorization ban).
 
-**Exceptions / defenses:** Generally applicable laws (Garcia), reporting requirements imposed on states as owners of data (Reno v. Condon), conditional spending (Dole), and conditional preemption are permitted.
+**Exceptions / defenses:** Generally applicable laws (Garcia), laws regulating states as owners of databases in the same way as private parties, such as limits on disclosing and selling drivers' personal information (Reno v. Condon), conditional spending (Dole), and conditional preemption are permitted.
 
 **Authority:** U.S. Const. amend. X; *New York v. United States*, 505 U.S. 144 (1992); *Printz v. United States*, 521 U.S. 898 (1997); *Murphy v. NCAA*, 584 U.S. 453 (2018).
 
@@ -1079,7 +1079,7 @@ status: draft
 **Example:** The California Coastal Commission conditions a beachfront rebuilding permit on a public lateral-access easement, citing views from the road. No nexus between the easement and the view concern; the condition is a taking (Nollan).
 
 ### R-CON-081 — Temporary takings, remedies and when to sue
-**Rule (write this):** When a regulation effects a taking, the government must pay just compensation for the period it was in effect, even if later rescinded; a property owner may sue in federal court under 42 U.S.C. § 1983 as soon as the government takes property without paying, without first seeking compensation in state court.
+**Rule (write this):** When a regulation effects a taking, the government must pay just compensation for the period it was in effect, even if later rescinded; a property owner may sue a local government in federal court under 42 U.S.C. § 1983 as soon as it takes property without paying, without first seeking compensation in state court (Knick). A State itself is not a § 1983 "person" and may assert sovereign immunity in federal court (*Will v. Michigan Dep't of State Police*, 491 U.S. 58 (1989)), so a takings claim against a State generally proceeds in state court.
 
 **Elements:** 1. Temporary taking compensable (First English). 2. Knick: no state-litigation requirement. 3. Final decision by the regulator still required for regulatory claims.
 
