@@ -4,7 +4,7 @@ topic: Torts — essay-ready rule statements (R-TRT-001 to R-TRT-115)
 coverage_ids: [TRT-MBE-I, TRT-MBE-I.A, TRT-MBE-I.B, TRT-MBE-I.B.1, TRT-MBE-I.B.2, TRT-MBE-I.B.2.a, TRT-MBE-I.B.2.b, TRT-MBE-I.B.2.c, TRT-MBE-I.B.2.d, TRT-MBE-I.B.2.e, TRT-MBE-I.B.2.f, TRT-MBE-II, TRT-MBE-II.A, TRT-MBE-II.B, TRT-MBE-II.B.1, TRT-MBE-II.B.2, TRT-MBE-II.C, TRT-MBE-II.D, TRT-MBE-II.D.1, TRT-MBE-II.D.2, TRT-MBE-II.D.3, TRT-MBE-II.E, TRT-MBE-II.E.1, TRT-MBE-II.E.2, TRT-MBE-II.E.3, TRT-MBE-II.E.4, TRT-MBE-II.F, TRT-MBE-II.F.1, TRT-MBE-II.F.2, TRT-MBE-II.G, TRT-MBE-II.G.1, TRT-MBE-II.G.2, TRT-MBE-III, TRT-MBE-IV, TRT-MBE-IV.A, TRT-MBE-IV.B, TRT-MBE-IV.C, TRT-MBE-IV.D, TRT-CBX-I, TRT-CBX-I.x1, TRT-CBX-I.x2, TRT-CBX-I.x3, TRT-CBX-II, TRT-CBX-III, TRT-CBX-IV, TRT-CBX-V, TRT-CBX-VI, TRT-CBX-VII, TRT-CBX-VIII-X]
 tested_on: [MBE, essay]
 exam_frequency: {level: high, basis: "Essays: 12 of 31 administrations 2012-02 to 2026-07 (39%); MBE: 25 scored questions every exam"}
-last_verified: 2026-11-04
+last_verified: 2026-11-05
 status: draft
 ---
 
@@ -45,7 +45,7 @@ status: draft
 
 **Elements:** 1. Act (volitional). 2. Intent (R-TRT-001). 3. Harmful or offensive contact. 4. With Π's person, including anything closely connected to it (clothing, a held plate, a car Π is sitting in). 5. Causation, direct or indirect (setting a trap counts).
 
-**Exceptions / defenses:** Consent and privileges (R-TRT-009 to R-TRT-017). Π need not be aware of the contact when it happens (a kiss on a sleeping person). No actual damages are needed: nominal damages and, for malice, punitive damages are available. Under the eggshell-plaintiff rule Δ is liable for all resulting harm, even if unforeseeably severe.
+**Exceptions / defenses:** Consent and privileges (R-TRT-009 to R-TRT-017). Π need not be aware of the contact when it happens (a kiss on a sleeping person). No actual damages are needed: nominal damages are available, and punitive damages may be awarded for malice. **California:** actual damages are a predicate for punitive damages, so a nominal award that reflects no real harm likely will not support them, while a small award for real but hard-to-measure harm can (*Mother Cobb's Chicken Turnovers, Inc. v. Fox* (1937) 10 Cal.2d 203; *Kizer v. County of San Mateo* (1991) 53 Cal.3d 139, 147; *Kluge v. O'Gara* (1964) 227 Cal.App.2d 207; R-REM-030) [S-1209] [S-470] [S-1210]. Under the eggshell-plaintiff rule Δ is liable for all resulting harm, even if unforeseeably severe.
 
 **Authority:** R2d §§ 13, 18; *Vosburg v. Putney*, 80 Wis. 523 (1891); *Fisher v. Carrousel Motor Hotel*, 424 S.W.2d 627 (Tex. 1967) (snatching a plate from Π's hand).
 
@@ -97,9 +97,9 @@ status: draft
 ### R-TRT-006 — Trespass to land
 **Rule (write this):** A defendant is liable for trespass to land if he intentionally enters land in the possession of another, causes a thing or third person to enter it, remains on it after a privilege to be there ends, or fails to remove a thing he is under a duty to remove. The intent required is only the intent to enter the land; a mistaken belief that one has the right to enter is no defense, and no actual harm is required.
 
-**Elements:** 1. Intent to be on (or send something onto) the particular land. 2. Physical invasion of Π's land, including its surface, the subsurface and the airspace within the immediate reaches of the land. 3. Π in possession (owner, tenant, adverse possessor). 4. Damages are presumed (nominal), with actual and punitive damages where proved.
+**Elements:** 1. Intent to be on (or send something onto) the particular land. 2. Physical invasion of Π's land, including its surface, the subsurface and the airspace within the immediate reaches of the land. 3. Π in possession (owner, tenant, adverse possessor). 4. Damages are presumed (nominal), with actual and punitive damages where proved (in California, punitive damages need actual damages; see R-TRT-002).
 
-**Exceptions / defenses:** Consent; necessity (R-TRT-016, R-TRT-017); recapture of chattels (R-TRT-013); legal authority. An unintentional entry is actionable only if negligent or abnormally dangerous **and** it causes actual harm (R2d § 165). Intangible intrusions (noise, odor, light) are normally nuisance, not trespass; in California, they are trespass only if they cause physical damage to the property or deposit particulate matter (*Wilson v. Interlake Steel*).
+**Exceptions / defenses:** Consent; necessity (R-TRT-016, R-TRT-017); recapture of chattels (R-TRT-013); legal authority. An unintentional entry is actionable only if negligent or abnormally dangerous **and** it causes actual harm (R2d § 165). Intangible intrusions (noise, odor, light) are normally nuisance, not trespass; in California, they are not trespass unless they cause physical damage to the property (*Wilson v. Interlake Steel*) [S-718].
 
 **Authority:** R2d §§ 158, 159, 164, 165 [VERIFY V-600]; *Wilson v. Interlake Steel Co.* (1982) 32 Cal.3d 229 [S-718]; damages: R-REM-020.
 
@@ -110,9 +110,9 @@ status: draft
 > 🇨🇳 PRC bridge: compare 排除妨害 claims under the PRC property rules; in the US, trespass gives damages even without harm, and the mistaken good-faith entrant is still liable (approx.).
 
 ### R-TRT-007 — Trespass to chattels
-**Rule (write this):** A defendant is liable for trespass to chattels if he intentionally dispossesses another of a chattel or uses or intermeddles with a chattel in the possession of another, and the dispossession or intermeddling causes actual harm: damage to the chattel, deprivation of its use for a substantial time, or harm to the possessor or to something in which he has a legal interest.
+**Rule (write this):** A defendant is liable for trespass to chattels if he intentionally dispossesses another of a chattel, or intentionally uses or intermeddles with a chattel in another's possession and thereby causes actual harm: damage to the chattel, deprivation of its use for a substantial time, or harm to the possessor or to a person or thing in which he has a legally protected interest.
 
-**Elements:** 1. Intent to act upon the chattel (mistake about ownership is no defense). 2. Dispossession or intermeddling. 3. Actual damages (no nominal recovery for mere intermeddling).
+**Elements:** 1. Intent to act upon the chattel (mistake about ownership is no defense). 2. Dispossession or intermeddling. 3. Actual harm for use or intermeddling (no nominal recovery for harmless intermeddling); a dispossession is itself actionable, with damages for the loss of possession (R2d § 218(a)).
 
 **Exceptions / defenses:** Consent; privileges. If the interference is serious enough to justify a forced sale, the claim is conversion (R-TRT-008). In California, unwanted electronic contact with a computer system is not trespass to chattels unless it damages or impairs the system's functioning (*Intel v. Hamidi*).
 
@@ -120,7 +120,7 @@ status: draft
 
 **MBE vs. CA essay:** same rule.
 
-**Example:** D takes P's bicycle for a ten-minute ride and returns it undamaged. There is no actual harm, so P has no trespass-to-chattels claim; had D crashed it, P would recover the cost of repair.
+**Example:** D moves P's parked bicycle a few feet to make room for his own and leaves it undamaged. Harmless intermeddling is not actionable, so P has no trespass-to-chattels claim; had D knocked it over and bent the wheel, P would recover the cost of repair.
 
 ### R-TRT-008 — Conversion
 **Rule (write this):** A defendant is liable for conversion if he intentionally exercises dominion or control over a chattel that so seriously interferes with the right of another to control it that the defendant may justly be required to pay the other the chattel's full value. Seriousness is measured by the extent and duration of the control, the defendant's intent to assert a right inconsistent with the owner's, his good or bad faith, and the harm done.
@@ -146,7 +146,7 @@ status: draft
 
 **Elements:** 1. Express consent, or implied consent: **apparent** consent (words or conduct a reasonable person would read as consent, *O'Brien*), custom (contact sports, crowded places), or consent implied by law (an unconscious emergency patient when a reasonable person would consent and no contrary wish is known). 2. Capacity (not a young child, an incompetent, or a severely intoxicated person). 3. Within scope: same act, same body part, same actor (*Mohr*: consent to surgery on one ear is not consent to the other). 4. Not vitiated by fraud going to the essential nature of the invasion (not a collateral matter) or by duress.
 
-**Exceptions / defenses:** **Sports:** participants consent to contacts within the rules and customs of the game, not to intentional or reckless blows far outside them (*Hackbart*). **Consent to a crime:** the majority (R2d § 892C) treats consent as effective even if the act is illegal (mutual combat), but consent is ineffective where a statute protects a class against its own consent (statutory rape). A minority voids consent to a crime. Medical: lack of **informed** consent is usually negligence (R-TRT-028), but a substantially different procedure is battery.
+**Exceptions / defenses:** **Sports:** participants consent to contacts within the rules and customs of the game, not to intentional or reckless blows far outside them (*Hackbart*). **Consent to a crime:** courts divide. The traditional rule, long described by treatises as the majority, treats consent to a criminal act such as mutual combat or an illegal prize fight as ineffective, so each combatant may sue the other. The Restatement (R2d § 892C) treats the consent as effective, so the combatants cannot sue, unless the conduct is made criminal to protect a class against its own consent (statutory rape), where consent is ineffective under either view [VERIFY V-1001]. On an essay, state both views. Medical: lack of **informed** consent is usually negligence (R-TRT-028), but a substantially different procedure is battery.
 
 **Authority:** R2d §§ 892, 892A, 892B, 892C [VERIFY V-600]; *O'Brien v. Cunard S.S. Co.*, 154 Mass. 272 (1891); *Mohr v. Williams*, 95 Minn. 261 (1905); *Hackbart v. Cincinnati Bengals, Inc.*, 601 F.2d 516 (10th Cir. 1979).
 
@@ -296,9 +296,9 @@ status: draft
 
 **Elements:** *Rowland* factors: 1. foreseeability of harm to Π; 2. degree of certainty that Π suffered injury; 3. closeness of the connection between Δ's conduct and the injury; 4. moral blame attached to Δ's conduct; 5. policy of preventing future harm; 6. extent of the burden to Δ and consequences to the community of imposing a duty; 7. availability, cost and prevalence of insurance.
 
-**Exceptions / defenses:** Recent no-duty holdings: employers owe no duty to employees' household members to prevent take-home COVID-19 (*Kuciemba*, policy factors; the derivative-injury doctrine did not bar the spouse's claim) [S-700]; a drug maker owes no duty to users of a nondefective drug in deciding whether and when to commercialize a safer alternative (*Gilead Tenofovir Cases*, Aug. 2026) [S-709] [VERIFY V-603]. A duty **was** recognized to household members exposed to take-home asbestos (*Kesner*).
+**Exceptions / defenses:** Recent no-duty holdings: employers owe no duty to employees' household members to prevent take-home COVID-19 (*Kuciemba*, policy factors; the derivative-injury doctrine did not bar the spouse's claim) [S-1300] [S-700]; a drug maker owes no duty to users of a nondefective drug in deciding whether and when to develop or commercialize a safer alternative (*Gilead Tenofovir Cases* (Cal. Aug. 3, 2026, S283862): even assuming a general duty, the *Rowland* factors justify a categorical exception) [S-709] [S-1650]. A duty **was** recognized to household members exposed to take-home asbestos (*Kesner*).
 
-**Authority:** Civ. Code § 1714(a); *Rowland v. Christian* (1968) 69 Cal.2d 108; *Cabral v. Ralphs Grocery Co.* (2011) 51 Cal.4th 764; *Kesner v. Superior Court* (2016) 1 Cal.5th 1132; *Kuciemba v. Victory Woodworks, Inc.* (2023) 14 Cal.5th 993 [S-700].
+**Authority:** Civ. Code § 1714(a); *Rowland v. Christian* (1968) 69 Cal.2d 108; *Cabral v. Ralphs Grocery Co.* (2011) 51 Cal.4th 764; *Kesner v. Superior Court* (2016) 1 Cal.5th 1132; *Kuciemba v. Victory Woodworks, Inc.* (2023) 14 Cal.5th 993 [S-1300]; *Gilead Tenofovir Cases* (Cal. Aug. 3, 2026, S283862) [S-1650].
 
 **MBE vs. CA essay:** MBE: general duty to foreseeable plaintiffs (R-TRT-019). California essay: state § 1714 as the general rule; run the *Rowland* factors only where Δ argues for a categorical exception.
 
@@ -324,7 +324,7 @@ status: draft
 
 **Exceptions / defenses:** **California two-step:** (1) ask whether a special relationship or other basis creates a duty; (2) if so, consult the *Rowland* factors to decide whether to limit that duty (*Brown v. USA Taekwondo*). Premises owners' duty to provide security against crime turns on foreseeability (R-TRT-053).
 
-**Authority:** R2d §§ 315, 316, 317, 319 [VERIFY V-600]; *Brown v. USA Taekwondo* (2021) 11 Cal.5th 204; *Regents of University of California v. Superior Court* (2018) 4 Cal.5th 607.
+**Authority:** R2d §§ 315–319 [VERIFY V-600]; *Brown v. USA Taekwondo* (2021) 11 Cal.5th 204; *Regents of University of California v. Superior Court* (2018) 4 Cal.5th 607.
 
 **MBE vs. CA essay:** same core rule. On a California essay, use the *Brown* two-step.
 
@@ -594,9 +594,9 @@ status: draft
 
 **Elements:** 1. Comparative-fault action. 2. Economic damages (medical costs, lost earnings): joint and several. 3. Non-economic damages: each Δ pays its own percentage.
 
-**Exceptions / defenses:** An intentional tortfeasor is generally not allowed to use § 1431.2 to shift non-economic damages to negligent co-defendants [VERIFY V-610]. Vicariously liable defendants (employers) pay the share of the person for whom they are responsible.
+**Exceptions / defenses:** An intentional tortfeasor cannot use § 1431.2 to reduce its liability for non-economic damages by the share of fault attributable to others' negligence (*B.B. v. County of Los Angeles* (2020) 10 Cal.5th 1) [S-1661]. Vicariously liable defendants (employers) pay the share of the person for whom they are responsible.
 
-**Authority:** Civ. Code § 1431.2 (Proposition 51, 1986).
+**Authority:** Civ. Code § 1431.2 (Proposition 51, 1986); *B.B. v. County of Los Angeles* (2020) 10 Cal.5th 1 [S-1661].
 
 **MBE vs. CA essay:** MBE: joint and several (default). California essay: apply § 1431.2 when the call asks how damages are apportioned (e.g., Jul 2017 Q5 [VERIFY V-071]).
 
@@ -666,7 +666,7 @@ status: draft
 
 **Elements:** 1. Status: entered without privilege or consent. 2. Undiscovered → no duty beyond avoiding willful/wanton harm. 3. Discovered or anticipated → (a) reasonable care in activities; (b) warn of known, concealed, artificial, deadly conditions.
 
-**Exceptions / defenses:** No duty for natural conditions or for obvious dangers. Child trespassers: R-TRT-048. Deadly force is never allowed against a trespasser (R-TRT-012).
+**Exceptions / defenses:** No duty for natural conditions or for obvious dangers. Child trespassers: R-TRT-048. Deadly force is never privileged merely to expel a trespasser or protect property (R-TRT-012).
 
 **Authority:** R2d §§ 333, 334, 335, 337 [VERIFY V-600].
 
@@ -774,7 +774,7 @@ status: draft
 
 **Elements:** 1. Close relationship (relatives living in the same household, or parents, siblings, children, grandparents). 2. Presence at the scene and contemporaneous awareness of the injury-causing event. 3. Serious emotional distress.
 
-**Exceptions / defenses:** Arriving after the accident, or learning of it later, is not enough. Contemporaneous sensory awareness need not be visual (hearing the crash and knowing a child is involved can suffice). Awareness that the event is causing injury is required in medical cases (*Bird v. Saenz*). **Unmarried cohabitants** cannot recover (*Elden v. Sheldon*), but the California Supreme Court has granted review to reconsider that rule (*Sanchez v. Rojas*) [S-711] [VERIFY V-604]. Comparative fault of the injured victim may reduce recovery.
+**Exceptions / defenses:** Arriving after the accident, or learning of it later, is not enough. Contemporaneous sensory awareness need not be visual (hearing the crash and knowing a child is involved can suffice). Awareness that the event is causing injury is required in medical cases (*Bird v. Saenz*). **Unmarried cohabitants** cannot recover (*Elden v. Sheldon*), but the California Supreme Court has granted review to reconsider that rule (*Sanchez v. Rojas*, S294671; Court of Appeal affirmed under *Elden*; no decision as of Nov. 2026) [S-711] [S-1653] [S-1654] [VERIFY V-604]. Comparative fault of the injured victim may reduce recovery.
 
 **Authority:** *Dillon v. Legg* (1968) 68 Cal.2d 728; *Thing v. La Chusa* (1989) 48 Cal.3d 644; *Elden v. Sheldon* (1988) 46 Cal.3d 267 [S-712]; *Bird v. Saenz* (2002) 28 Cal.4th 910; R3d PEH § 48.
 
@@ -824,11 +824,11 @@ status: draft
 **Example:** P's husband is paralyzed by D's negligent driving. P recovers for loss of consortium in addition to the husband's own damages.
 
 ### R-TRT-059 — Wrongful death
-**Rule (write this):** A wrongful-death action allows the decedent's statutory beneficiaries to recover their own losses caused by a death that resulted from the defendant's tortious conduct. Recovery covers the financial support and services they would have received and, in California, the loss of the decedent's love, companionship, comfort, care, assistance, protection, affection, society and moral support, but not grief or sorrow, the decedent's own pain, or punitive damages.
+**Rule (write this):** A wrongful-death action allows the decedent's statutory beneficiaries to recover their own losses caused by a death that resulted from the defendant's tortious conduct. Recovery covers the financial support and services they would have received and, in California, the loss of the decedent's love, companionship, comfort, care, assistance, protection, affection, society and moral support, but not grief or sorrow, the decedent's own pain, or (with a narrow statutory exception) punitive damages.
 
 **Elements:** 1. Death caused by Δ's wrongful act or neglect. 2. Π is a statutory beneficiary (CCP § 377.60: spouse, domestic partner, children, issue of deceased children; if none, those who would take by intestacy; also putative spouses, stepchildren and parents or minors who were financially dependent). 3. Damages to the beneficiaries.
 
-**Exceptions / defenses:** Δ may raise any defense it would have had against the decedent (decedent's comparative fault reduces recovery). One action for all heirs. Limitations: two years from death (CCP § 335.1). Medical-negligence deaths: MICRA cap (R-TRT-115).
+**Exceptions / defenses:** Δ may raise any defense it would have had against the decedent (decedent's comparative fault reduces recovery). One action for all heirs. Limitations: two years from death (CCP § 335.1). Punitive damages: R-TRT-114 (felony-homicide exception, Civ. Code § 3294(d)) [VERIFY V-1000]. Medical-negligence deaths: MICRA cap (R-TRT-115).
 
 **Authority:** CCP §§ 377.60–377.62; CCP § 335.1.
 
@@ -837,17 +837,17 @@ status: draft
 **Example:** A negligent driver kills a 40-year-old engineer survived by a wife and two children. They recover his expected financial support and household services plus loss of his companionship; the estate separately brings a survival action for his pre-death losses.
 
 ### R-TRT-060 — Survival actions
-**Rule (write this):** A survival action preserves the claims the decedent had at death, which pass to the decedent's personal representative or successor in interest. In California, damages are limited to the loss the decedent sustained before death, such as medical expenses and lost earnings, plus punitive damages the decedent could have recovered; damages for pain, suffering or disfigurement are not recoverable, except in actions filed from January 1, 2022 through December 31, 2025.
+**Rule (write this):** A survival action preserves the claims the decedent had at death, which pass to the decedent's personal representative or successor in interest. In California, damages are limited to the loss the decedent sustained before death, such as medical expenses and lost earnings, plus punitive damages the decedent could have recovered; damages for pain, suffering or disfigurement are not recoverable, except in actions filed from January 1, 2022 through December 31, 2025 (or granted trial preference before 2022).
 
 **Elements:** 1. Decedent had a cause of action when he died. 2. Brought by the personal representative or successor in interest (CCP § 377.30). 3. Damages: pre-death economic loss and punitive damages; no post-death lost earnings (those belong to the wrongful-death beneficiaries).
 
-**Exceptions / defenses:** The temporary allowance of pain-and-suffering damages (CCP § 377.34(b), added by SB 447) expired for actions filed on or after Jan 1, 2026, and an extension bill (SB 29) was not enacted in 2025 [S-704] [S-705] [VERIFY V-602]. At common law, personal tort claims died with the person; survival statutes reverse that.
+**Exceptions / defenses:** The temporary allowance of pain-and-suffering damages (CCP § 377.34(b), added by SB 447) expired for actions filed on or after Jan 1, 2026. The extension bill (SB 29) died in the 2025 session [S-704] [S-705] [S-723] [S-1651]; a 2026 version reportedly passed the Senate in a form preserving these damages for claims that accrued before Jan 1, 2026, but no enactment has been confirmed. Re-check before the exam [S-1652] [VERIFY V-602]. At common law, personal tort claims died with the person; survival statutes reverse that.
 
 **Authority:** CCP §§ 377.20, 377.30, 377.34.
 
 **MBE vs. CA essay:** MBE: assume survival actions are available [S-040]. California essay: distinguish survival (estate's claim) from wrongful death (heirs' claim).
 
-**Example:** P is injured, lives three months, then dies. The survival action recovers his medical bills and lost wages for those three months, plus punitive damages if available; under current California law, his pain during those months is not recoverable in an action filed in 2027.
+**Example:** P is injured in 2027, lives three months, then dies. The survival action recovers his medical bills and lost wages for those three months, plus punitive damages if available; under current California law, his pain during those months is not recoverable in an action filed in 2027.
 
 ### R-TRT-061 — Pure economic loss
 **Rule (write this):** There is generally no duty to avoid negligently causing purely economic loss, unconnected to personal injury or property damage, to a stranger. Recovery is allowed only where a special relationship makes the plaintiff's loss particularly foreseeable and closely connected to the defendant's conduct, such as negligent misrepresentation to an intended recipient or negligent performance of a service intended to benefit the plaintiff.
@@ -905,7 +905,7 @@ status: draft
 
 **MBE vs. CA essay:** same rule. A California essay asked whether a hospital was liable for its caterer's negligence (Jul 2021 Q3) and whether a caterer's owner was liable for a waiter (Jul 2014 Q6): run employee-vs-contractor, then the exceptions [VERIFY V-071].
 
-**Example:** A hospital hires a caterer that serves peanuts to a patient flagged as allergic. The caterer is an independent contractor, but the hospital's duty to provide safe meals to patients in its care is arguably nondelegable, so it is liable.
+**Example:** A hospital hires a caterer that serves peanuts to a patient flagged as allergic. The caterer is an independent contractor, but the hospital's duty to provide safe meals to patients in its care is arguably nondelegable, so it is likely liable.
 
 ### R-TRT-065 — Partners, joint enterprise, vehicle owners and bailors
 **Rule (write this):** Partners are vicariously liable for torts committed by a partner in the ordinary course of partnership business, and members of a joint enterprise are liable for each other's torts within it. A vehicle owner or other bailor is not vicariously liable at common law for the bailee's negligence, but may be liable for his own negligent entrustment, and many states, including California, make vehicle owners liable by statute for permissive users within limits.
@@ -1046,7 +1046,7 @@ status: draft
 ### R-TRT-075 — Governmental and official immunity
 **Rule (write this):** A government is immune from tort liability except to the extent it has waived immunity by statute. The Federal Tort Claims Act waives federal immunity for negligent acts of employees within the scope of employment, but not for discretionary functions or most intentional torts; California public entities are liable only as provided by statute, notably vicariously for employees' torts and for dangerous conditions of public property, and public employees are immune for discretionary policy decisions.
 
-**Elements:** **Federal (FTCA):** negligence of a federal employee within scope; exceptions: discretionary function, most intentional torts (except listed torts by law-enforcement officers). **California:** 1. No common-law liability (Gov. Code § 815). 2. Vicarious liability for employee acts within scope, if the employee would be liable (§ 815.2). 3. Employee immunity for discretionary acts (§ 820.2): basic policy decisions, not operational ones (*Johnson v. State*). 4. **Dangerous condition of public property** (§ 835): dangerous condition at the time of injury, proximate cause, reasonably foreseeable risk of the kind of injury, and either an employee's negligent act created it or the entity had actual or constructive notice in time to fix it [S-719]. 5. No punitive damages against public entities (§ 818) [VERIFY V-607]. 6. Claim presentation within six months for personal injury (§ 911.2) [VERIFY V-607].
+**Elements:** **Federal (FTCA):** negligence of a federal employee within scope; exceptions: discretionary function, most intentional torts (except listed torts by law-enforcement officers). **California:** 1. No common-law liability (Gov. Code § 815). 2. Vicarious liability for employee acts within scope, if the employee would be liable (§ 815.2). 3. Employee immunity for discretionary acts (§ 820.2): basic policy decisions, not operational ones (*Johnson v. State*). 4. **Dangerous condition of public property** (§ 835): dangerous condition at the time of injury, proximate cause, reasonably foreseeable risk of the kind of injury, and either an employee's negligent act created it or the entity had actual or constructive notice in time to fix it [S-719]. 5. No punitive damages against public entities (§ 818) [S-1660]. 6. Claim presentation within six months of accrual for death or injury to person or personal property, one year for other claims (§ 911.2) [S-1658]; a 2025 bill to extend the six-month period (AB 614) was not enacted [S-1659].
 
 **Exceptions / defenses:** **Officials:** judges, legislators and prosecutors have absolute immunity for official acts; other officials have qualified immunity for discretionary acts in good faith (in § 1983 actions, unless they violate clearly established law). Traditional municipal law distinguished governmental (immune) from proprietary (liable) functions. California public entities are not liable for failure to provide police protection (Gov. Code § 845) [VERIFY V-607].
 
@@ -1163,7 +1163,7 @@ status: draft
 
 **Elements:** **Consumer-expectations test:** ordinary consumer's minimum safety expectations, based on everyday experience. **Risk-utility test:** gravity and likelihood of the danger; feasibility and cost of a safer alternative design; adverse effects of the alternative on the product and the consumer. R3d PL § 2(b): Π must show a **reasonable alternative design** that would have reduced the foreseeable risks.
 
-**Exceptions / defenses:** **California (*Soule*):** the consumer-expectations test applies only where the product's everyday use allows ordinary consumers to form safety expectations; complex technical failures go to risk-benefit. **Prescription drugs:** no strict liability for design defects in California (*Brown v. Superior Court*). **No duty to innovate:** a maker of a nondefective drug has no negligence duty to commercialize a safer alternative sooner (*Gilead Tenofovir Cases*, 2026) [S-709] [VERIFY V-603]. State of the art is relevant to feasibility.
+**Exceptions / defenses:** **California (*Soule*):** the consumer-expectations test applies only where the product's everyday use allows ordinary consumers to form safety expectations; complex technical failures go to risk-benefit. **Prescription drugs:** no strict liability for design defects in California (*Brown v. Superior Court*). **No duty to innovate:** a maker of a nondefective drug has no negligence duty to develop or commercialize a safer alternative sooner; the *Rowland* factors justify a categorical exception (*Gilead Tenofovir Cases* (Cal. 2026)) [S-709] [S-1650]. State of the art is relevant to feasibility.
 
 **Authority:** *Barker v. Lull Engineering Co.* (1978) 20 Cal.3d 413; *Soule v. General Motors Corp.* (1994) 8 Cal.4th 548; R3d PL § 2(b); *Brown v. Superior Court* (1988) 44 Cal.3d 1049.
 
@@ -1176,9 +1176,9 @@ status: draft
 
 **Elements:** 1. Risk known or reasonably knowable in light of scientific knowledge at distribution (California requires knowability even under strict liability, *Anderson*). 2. Warning absent or inadequate (content, conspicuousness, language). 3. Causation: an adequate warning would have been heeded and prevented the harm (some courts presume heeding). 4. Damages.
 
-**Exceptions / defenses:** **Learned intermediary:** a prescription drug or device maker warns the prescribing physician, not the patient. In California, a plaintiff can show causation by proving that a stronger warning would have changed the physician's conduct, including by being communicated to the patient who then would have declined treatment (*Himes v. Somatics*) [S-708] [VERIFY V-605]. Sophisticated users need no warning of risks they know or should know (*Johnson v. American Standard*). Strict-liability failure to warn applies to prescription drugs in California (*Carlin*).
+**Exceptions / defenses:** **Learned intermediary:** a prescription drug or device maker warns the prescribing physician, not the patient. California keeps the doctrine, but the plaintiff need not prove that a stronger warning would have changed the physician's decision to prescribe: causation is also shown if the physician would have communicated the stronger warning to the patient and an objectively prudent person in the patient's position would then have declined the treatment (*Himes v. Somatics, LLC* (2024) 16 Cal.5th 209) [S-708] [S-1656] [S-1657]. Sophisticated users need no warning of risks they know or should know (*Johnson v. American Standard*). Strict-liability failure to warn applies to prescription drugs in California (*Carlin*).
 
-**Authority:** R3d PL § 2(c); *Anderson v. Owens-Corning Fiberglas Corp.* (1991) 53 Cal.3d 987; *Carlin v. Superior Court* (1996) 13 Cal.4th 1104; *Johnson v. American Standard, Inc.* (2008) 43 Cal.4th 56.
+**Authority:** R3d PL § 2(c); *Anderson v. Owens-Corning Fiberglas Corp.* (1991) 53 Cal.3d 987; *Carlin v. Superior Court* (1996) 13 Cal.4th 1104; *Johnson v. American Standard, Inc.* (2008) 43 Cal.4th 56; *Himes v. Somatics, LLC* (2024) 16 Cal.5th 209 [S-708].
 
 **MBE vs. CA essay:** same core rule.
 
@@ -1392,7 +1392,7 @@ status: draft
 
 **Elements:** 1. **Truth** (substantial truth; burden on Π where falsity is constitutionally required). 2. **Opinion:** no separate privilege; the question is whether the statement asserts or implies a provably false fact (*Milkovich*); rhetorical hyperbole is protected. 3. **Absolute:** judicial proceedings (judges, lawyers, parties, witnesses, if related to the proceeding), legislative proceedings, high executive officials, spouses, compelled publications. 4. **Qualified:** common interest, protection of the publisher's or recipient's interest (employment references, credit reports), reports to police, fair and accurate reports of public proceedings. 5. **Abuse** defeats a qualified privilege: knowledge of falsity or reckless disregard (or, in some states, ill will), excessive publication, or an improper purpose. 6. Consent.
 
-**Exceptions / defenses:** **California (Civ. Code § 47):** (a) official duty; (b) legislative, judicial and other official proceedings (the absolute litigation privilege, which bars all torts based on the communication except malicious prosecution, *Silberg*); (c) communications without malice to an interested person; (d) fair and true reports of public proceedings; (e) fair and true reports of public meetings. **Retraction (Civ. Code § 48a):** for statements in a daily or weekly news publication or broadcast, Π recovers only special damages unless he demanded a correction within 20 days of learning of the publication and it was not published [S-713] [S-706] [VERIFY V-606]. **Anti-SLAPP (CCP § 425.16):** a procedural motion to strike claims arising from protected speech unless Π shows a probability of prevailing.
+**Exceptions / defenses:** **California (Civ. Code § 47):** (a) official duty; (b) legislative, judicial and other official proceedings (the absolute litigation privilege, which bars all torts based on the communication except malicious prosecution, *Silberg*); (c) communications without malice to an interested person; (d) fair and true reports of public proceedings; (e) fair and true reports of public meetings. **Retraction (Civ. Code § 48a):** for libel in a daily or weekly news publication (print or electronic, publishing at least weekly) or slander by radio broadcast, Π recovers only special damages unless he served a written correction demand within 20 days after learning of the publication and the correction was not published [S-713] [S-1662] [S-706]. **Anti-SLAPP (CCP § 425.16):** a procedural motion to strike claims arising from protected speech unless Π shows a probability of prevailing.
 
 **Authority:** *Milkovich v. Lorain Journal Co.*, 497 U.S. 1 (1990); R2d §§ 581A, 585–592A, 594–598, 611 [VERIFY V-600]; Civ. Code §§ 47, 48a; *Silberg v. Anderson* (1990) 50 Cal.3d 205; CCP § 425.16.
 
@@ -1575,7 +1575,7 @@ status: draft
 ## Damages in tort (cross-cutting)
 
 ### R-TRT-113 — Compensatory damages in tort
-**Rule (write this):** A tort plaintiff recovers compensatory damages for all detriment proximately caused by the tort: economic damages such as medical expenses and lost earnings, and non-economic damages such as pain and suffering and emotional distress. Nominal damages are available for intentional torts without actual harm, but not for negligence.
+**Rule (write this):** A tort plaintiff recovers compensatory damages for all detriment proximately caused by the tort: economic damages such as medical expenses and lost earnings, and non-economic damages such as pain and suffering and emotional distress. Nominal damages are available for the intentional torts that require no actual harm (battery, assault, false imprisonment, trespass to land), but not for negligence.
 
 **Elements:** 1. Economic: past and future medical costs, lost earnings and earning capacity, property damage (repair cost or diminution in value). 2. Non-economic: pain, suffering, disfigurement, emotional distress, loss of enjoyment. 3. Future losses reduced to present value. 4. Reasonable certainty.
 
@@ -1588,11 +1588,11 @@ status: draft
 **Example:** P, injured by D's negligence, has $40,000 in medical bills (paid by insurance), $20,000 lost wages and severe pain. P recovers all three categories; the insurance payment does not reduce the award.
 
 ### R-TRT-114 — Punitive damages in tort
-**Rule (write this):** Punitive damages may be awarded to punish and deter where the defendant acted with malice, oppression or fraud, or with conscious disregard of the rights or safety of others. In California, the plaintiff must prove oppression, fraud or malice by clear and convincing evidence, and an employer is liable for punitive damages based on an employee's conduct only if an officer, director or managing agent had advance knowledge and consciously disregarded it, authorized or ratified it, or was personally guilty of it.
+**Rule (write this):** Punitive damages may be awarded to punish and deter where the defendant acted with malice, oppression or fraud, or with conscious disregard of the rights or safety of others. In California, the plaintiff must prove oppression, fraud or malice by clear and convincing evidence, and an employer is liable for punitive damages based on an employee's conduct only if an officer, director or managing agent had advance knowledge of the employee's unfitness and employed him with conscious disregard of the rights or safety of others, authorized or ratified the conduct, or was personally guilty of oppression, fraud or malice.
 
-**Elements:** 1. Underlying tort with actual damages. 2. **Malice** (intent to injure, or despicable conduct with willful and conscious disregard of rights or safety), **oppression** (despicable conduct subjecting Π to cruel and unjust hardship in conscious disregard of rights) or **fraud**. 3. Clear and convincing evidence (Civ. Code § 3294). 4. Evidence of Δ's financial condition (*Adams v. Murakami*) [S-464]. 5. Due process: ratio and reprehensibility limits (*Gore*; *State Farm*).
+**Elements:** 1. Underlying tort with actual damages. In California actual damages are a predicate: a nominal award that reflects no real harm likely fails, though a small award for real but hard-to-measure harm can suffice (*Mother Cobb's*; *Kizer*; *Kluge*; R-REM-030) [S-1209] [S-470] [S-1210]. 2. **Malice** (intent to injure, or despicable conduct with willful and conscious disregard of rights or safety), **oppression** (despicable conduct subjecting Π to cruel and unjust hardship in conscious disregard of rights) or **fraud**. 3. Clear and convincing evidence (Civ. Code § 3294). 4. Evidence of Δ's financial condition (*Adams v. Murakami*) [S-464]. 5. Due process: ratio and reprehensibility limits (*Gore*; *State Farm*).
 
-**Exceptions / defenses:** Not available for breach of contract alone, in wrongful-death actions (beneficiaries' claim), or against public entities (Gov. Code § 818) [VERIFY V-607]. Available in a survival action (CCP § 377.34).
+**Exceptions / defenses:** Not available for breach of contract alone; generally not in wrongful-death actions (the beneficiaries' claim), subject to a narrow exception for a death caused by a homicide for which Δ was convicted of a felony (Civ. Code § 3294(d)) [VERIFY V-1000]; and not against public entities (Gov. Code § 818) [S-1660]. Available in a survival action (CCP § 377.34).
 
 **Authority:** Civ. Code § 3294 [S-451]; *BMW of North America, Inc. v. Gore*, 517 U.S. 559 (1996); *State Farm Mut. Auto. Ins. Co. v. Campbell*, 538 U.S. 408 (2003); R-REM-026 to R-REM-030.
 
@@ -1603,7 +1603,7 @@ status: draft
 ### R-TRT-115 — California MICRA: medical negligence damages limits
 **Rule (write this):** In a California action against a health care provider based on professional negligence, non-economic damages are capped by Civil Code § 3333.2 as amended by AB 35. From January 1, 2023, the caps were $350,000 for non-death cases and $500,000 for wrongful-death cases, rising each January 1 by $40,000 and $50,000 respectively until they reach $750,000 and $1,000,000, then adjusting 2% a year; on that schedule, the caps for 2027 are $510,000 and $700,000.
 
-**Elements:** 1. Δ is a health care provider. 2. Claim is based on professional negligence. 3. Non-economic damages only (economic damages uncapped). 4. Separate caps may apply to health care providers, to health care institutions, and to unaffiliated providers or institutions, so up to three caps per case [VERIFY V-601]. 5. The applicable amount is reported to depend on when the judgment, award or settlement is entered [VERIFY V-601].
+**Elements:** 1. Δ is a health care provider. 2. Claim is based on professional negligence. 3. Non-economic damages only (economic damages uncapped). 4. Separate caps apply to health care providers, to health care institutions, and to unaffiliated providers or institutions, so up to three caps per case [S-701] [S-703]. 5. The applicable amount is the one in effect when the judgment, arbitration award or settlement is entered [S-703] [S-1655]. The AB 35 caps govern cases filed on or after Jan 1, 2023; earlier-filed cases keep the old $250,000 cap [S-703].
 
 **Exceptions / defenses:** Claims that are not "professional negligence" (e.g., certain elder-abuse claims based on custodial neglect) fall outside the cap. Related MICRA rules: limitations period (CCP § 340.5); collateral-source evidence (Civ. Code § 3333.1); periodic payments (CCP § 667.7); contingency-fee limits (Bus. & Prof. Code § 6146).
 
@@ -1611,4 +1611,4 @@ status: draft
 
 **MBE vs. CA essay:** Not MBE material. California essay: mention in one line if a doctor or hospital is sued in negligence.
 
-**Example:** A surgeon's negligence in 2026 leaves P with chronic pain; judgment is entered in 2027 with $2 million in non-economic damages. P's non-economic recovery against the surgeon is reduced to the applicable cap (on the AB 35 schedule, $510,000 in 2027) [VERIFY V-601].
+**Example:** A surgeon's negligence in 2026 leaves P with chronic pain; judgment is entered in 2027 with $2 million in non-economic damages. P's non-economic recovery against the surgeon is reduced to the applicable cap (on the AB 35 schedule, $510,000 in 2027) [S-703].

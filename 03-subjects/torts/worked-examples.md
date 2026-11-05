@@ -4,7 +4,7 @@ topic: Torts — worked examples (original fact patterns with rule, application,
 coverage_ids: [TRT-MBE-I.A, TRT-MBE-I.B, TRT-MBE-II.A, TRT-MBE-II.B, TRT-MBE-II.C, TRT-MBE-II.D, TRT-MBE-II.E, TRT-MBE-II.F, TRT-MBE-II.G, TRT-MBE-III, TRT-MBE-IV.A, TRT-MBE-IV.B, TRT-MBE-IV.C, TRT-MBE-IV.D]
 tested_on: [MBE, essay]
 exam_frequency: {level: high, basis: "Essays: 12 of 31 administrations 2012-02 to 2026-07 (39%); MBE: 25 scored questions every exam"}
-last_verified: 2026-11-04
+last_verified: 2026-11-05
 status: draft
 ---
 
@@ -140,7 +140,7 @@ Each example is an original fact pattern followed by a short IRAC answer of the 
 
 **Analysis.** Force is part of a bouncer's job, so the battery was within the scope of employment and the club is vicariously liable. The club is also directly liable for negligent retention, given its knowledge of his prior assaults.
 
-**Conclusion.** The club is liable on both theories; punitive damages are possible against the club in California if a managing agent ratified the conduct or consciously disregarded the risk (Civ. Code § 3294(b)).
+**Conclusion.** The club is liable on both theories; punitive damages are possible against the club in California if an officer, director or managing agent knew of the bouncer's prior assaults and kept him on in conscious disregard of patrons' safety, or ratified the battery (Civ. Code § 3294(b)).
 
 ### 18. The hospital caterer (R-TRT-064)
 **Facts.** A hospital contracts with an independent caterer for patient meals. The caterer ignores an allergy flag and serves peanuts; the patient goes into anaphylaxis.

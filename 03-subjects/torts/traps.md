@@ -4,7 +4,7 @@ topic: Torts — common mistakes, MBE distractor patterns and frequently confuse
 coverage_ids: [TRT-MBE-I, TRT-MBE-II, TRT-MBE-III, TRT-MBE-IV]
 tested_on: [MBE, essay]
 exam_frequency: {level: high, basis: "Essays: 12 of 31 administrations 2012-02 to 2026-07 (39%); MBE: 25 scored questions every exam"}
-last_verified: 2026-11-04
+last_verified: 2026-11-05
 status: draft
 ---
 
@@ -13,14 +13,14 @@ status: draft
 Each trap names the mistake, the correct rule and the rule ID.
 
 ## Intentional torts and privileges
-1. **"No injury, so no battery."** Wrong: battery needs only a harmful **or offensive** contact; nominal damages are available (R-TRT-002).
+1. **"No injury, so no battery."** Wrong: battery needs only a harmful **or offensive** contact; nominal damages are available (R-TRT-002). Related: **Punitive damages on a $1 award in California.** Actual damages are a predicate; a nominal award that reflects no real harm likely will not support them (R-TRT-002, R-TRT-114).
 2. **"P was asleep, so no battery."** Battery needs no awareness. Assault does (R-TRT-002, R-TRT-003). Related: **Words alone as assault.** Usually not enough without an act showing imminent intent; future threats never are (R-TRT-003).
 3. **False imprisonment with an open door P knew about.** A reasonable, known means of escape defeats confinement (R-TRT-004).
 4. **IIED for a single rude insult.** Not outrageous. Look for abuse of power, vulnerability, repetition (R-TRT-005).
 5. **"D honestly thought it was his land."** Mistake is no defense to trespass to land or conversion (R-TRT-006, R-TRT-008).
-6. **Trespass to chattels without damage.** Intermeddling needs actual harm; brief harmless use is not actionable (R-TRT-007).
+6. **Trespass to chattels without damage.** Intermeddling needs actual harm; brief harmless use is not actionable. A dispossession is itself actionable (R-TRT-007).
 7. **Transferred intent applied to IIED or conversion.** It works only among assault, battery, false imprisonment, trespass to land and trespass to chattels (R-TRT-001).
-8. **Consent to a fight is "void because illegal."** The majority treats consent to mutual combat as effective; the exception is statutes protecting a class (R-TRT-009).
+8. **Consent to a fight treated as settled.** Courts divide: the traditional rule voids consent to a criminal act, so each combatant may sue; the Restatement (§ 892C) treats it as effective. Under either view, consent is ineffective where a statute protects a class against its own consent [VERIFY V-1001] (R-TRT-009).
 9. **Deadly force to protect property.** Never privileged, including by spring guns (R-TRT-012). Related: **Reasonable mistake in recapturing chattels or defending property.** Not protected, unlike self-defense and the shopkeeper's privilege (R-TRT-012, R-TRT-013).
 10. **Private necessity = no liability.** Incomplete privilege: pay actual damage. Public necessity = no liability (R-TRT-016, R-TRT-017).
 11. **Private citizen's arrest on reasonable suspicion of a felony that never happened.** Not privileged; the felony must actually have occurred (R-TRT-015).
@@ -41,7 +41,7 @@ Each trap names the mistake, the correct rule and the rule ID.
 ## Defenses and apportionment
 23. **Barring a 60%-at-fault plaintiff on the MBE.** The default is pure comparative fault: P recovers 40% (R-TRT-070). Related: **Using last clear chance in a comparative jurisdiction.** It is abolished there (R-TRT-069).
 24. **Applying Prop 51 on the MBE.** The MBE default is joint and several liability; Prop 51 is California only, and only for non-economic damages (R-TRT-041, R-TRT-042).
-25. **Comparative negligence reducing an intentional tortfeasor's liability.** Generally not (R-TRT-070).
+25. **Comparative negligence reducing an intentional tortfeasor's liability.** Generally not (R-TRT-070). In California, Prop 51 does not reduce an intentional tortfeasor's non-economic damages either (*B.B.*) (R-TRT-042).
 26. **Release covering gross negligence.** Unenforceable in California and most states (R-TRT-071).
 27. **California sports injury analyzed only as implied assumption.** Use *Knight*: primary (no duty for inherent risks) vs. secondary (comparative fault); co-participants and coaches need intent or recklessness (R-TRT-073).
 

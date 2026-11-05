@@ -4,7 +4,7 @@ topic: Torts — key statutes, Restatement sections and leading cases
 coverage_ids: [TRT-MBE-I, TRT-MBE-II, TRT-MBE-III, TRT-MBE-IV, TRT-CBX-I, TRT-CBX-II, TRT-CBX-III, TRT-CBX-IV, TRT-CBX-V, TRT-CBX-VI, TRT-CBX-VII, TRT-CBX-VIII-X]
 tested_on: [MBE, essay]
 exam_frequency: {level: high, basis: "Essays: 12 of 31 administrations 2012-02 to 2026-07 (39%); MBE: 25 scored questions every exam"}
-last_verified: 2026-11-04
+last_verified: 2026-11-05
 status: draft
 ---
 
@@ -20,11 +20,11 @@ One line per authority. Cite cases on an essay by short name only ("*Rowland*");
 | Civ. Code §§ 44–46 | Defamation is libel or slander; definitions; slander-per-se categories | R-TRT-096, R-TRT-097 |
 | Civ. Code § 45a | Libel not defamatory on its face requires proof of special damages | R-TRT-097 |
 | Civ. Code § 47 | Privileged publications: (a) official duty; (b) official proceedings, the litigation privilege; (c) common interest without malice; (d) fair report of proceedings; (e) fair report of public meetings | R-TRT-100 |
-| Civ. Code § 48a | Correction demand within 20 days; otherwise special damages only (news publications and broadcasts) [S-713] [S-706] [VERIFY V-606] | R-TRT-100 |
+| Civ. Code § 48a | Correction demand within 20 days; otherwise special damages only (daily or weekly news publications, print or electronic; radio broadcasts) [S-713] [S-1662] [S-706] | R-TRT-100 |
 | Civ. Code § 50 | Necessary force to protect self, family, guests and others [VERIFY V-609] | R-TRT-010, R-TRT-011 |
 | Civ. Code § 846 | Recreational-use immunity, with exceptions for willful or malicious conduct, consideration, and express invitation | R-TRT-051 |
 | Civ. Code § 847 | Limits liability to persons injured while committing specified felonies on the property [VERIFY V-609] | R-TRT-051 |
-| Civ. Code § 1431.2 (Prop 51) | Several liability for non-economic damages, in proportion to fault | R-TRT-042 |
+| Civ. Code § 1431.2 (Prop 51) | Several liability for non-economic damages, in proportion to fault; no reduction for intentional tortfeasors (*B.B.*) | R-TRT-042 |
 | Civ. Code § 1668 | Contracts exempting a party from fraud, willful injury or violation of law are void | R-TRT-071 |
 | Civ. Code §§ 1709, 1710 | Deceit: liability and its four forms (including negligent misrepresentation and promissory fraud) | R-TRT-107, R-TRT-109 |
 | Civ. Code § 1714(a) | General duty of ordinary care | R-TRT-020 |
@@ -33,9 +33,9 @@ One line per authority. Cite cases on an essay by short name only ("*Rowland*");
 | Civ. Code § 1714.9 | Exceptions to the firefighter's rule [S-722] | R-TRT-024 |
 | Civ. Code § 1714.45 | No product liability for inherently unsafe common consumer products known to be unsafe [VERIFY V-609] | R-TRT-087 |
 | Civ. Code § 2100 | Carrier of persons for reward must use the utmost care and diligence | R-TRT-029 |
-| Civ. Code § 3294 | Punitive damages: oppression, fraud or malice by clear and convincing evidence; employer rule in (b) [S-451] | R-TRT-114 |
+| Civ. Code § 3294 | Punitive damages: oppression, fraud or malice by clear and convincing evidence; employer rule in (b); (d) felony-homicide death actions [VERIFY V-1000] [S-451] | R-TRT-114 |
 | Civ. Code § 3333 | Tort damages: all detriment proximately caused [S-469] | R-TRT-113 |
-| Civ. Code § 3333.2 | MICRA cap on non-economic damages (AB 35 schedule: $510,000 / $700,000 in 2027) [S-701] [VERIFY V-601] | R-TRT-115 |
+| Civ. Code § 3333.2 | MICRA cap on non-economic damages (AB 35 schedule: $510,000 / $700,000 in 2027; amount in effect at judgment, award or settlement; up to three caps) [S-701] [S-703] [S-1655] | R-TRT-115 |
 | Civ. Code § 3333.4 (Prop 213) | No non-economic damages for uninsured motorists or drivers convicted of DUI in motor-vehicle cases [S-720] [VERIFY V-608] | R-TRT-113 |
 | Civ. Code § 3336 | Conversion damages [S-468] | R-TRT-008 |
 | Civ. Code § 3342 | Dog-bite strict liability | R-TRT-079 |
@@ -51,7 +51,7 @@ One line per authority. Cite cases on an essay by short name only ("*Rowland*");
 | Evid. Code § 646 | Res ipsa loquitur: presumption affecting the burden of producing evidence | R-TRT-035 |
 | Evid. Code § 669 | Presumption of negligence from statutory violation | R-TRT-033 |
 | Evid. Code § 1151 | Subsequent remedial measures (inadmissible to prove negligence; *Ault* allows them in strict products liability) | R-TRT-087 |
-| Gov. Code §§ 815, 815.2, 818, 820.2, 835, 845, 911.2 | Government Claims Act: liability only by statute; vicarious liability; no punitive damages; discretionary immunity; dangerous condition; police protection; claim deadline [S-719] [VERIFY V-607] | R-TRT-075 |
+| Gov. Code §§ 815, 815.2, 818, 820.2, 835, 845, 911.2 | Government Claims Act: liability only by statute; vicarious liability; no punitive damages; discretionary immunity; dangerous condition; police protection; claim deadline (six months for death or personal injury) [S-719] [S-1658] [S-1660] [VERIFY V-607] | R-TRT-075 |
 | Bus. & Prof. Code §§ 25602, 25602.1 | Alcohol sellers not liable, except a licensee selling to an obviously intoxicated minor | R-TRT-068 |
 | Pen. Code § 837 | Private-person arrest | R-TRT-015 |
 | Lab. Code §§ 3600, 3602 | Workers' compensation exclusivity | outline II.G |
@@ -99,7 +99,7 @@ One line per authority. Cite cases on an essay by short name only ("*Rowland*");
 | R2d §§ 652A–652E | Privacy torts | R-TRT-101 to R-TRT-104 |
 | R2d §§ 766, 766B, 767, 768 | Interference with contract and prospective relations; factors; competition | R-TRT-110, R-TRT-111 |
 | R2d §§ 821B, 821D, 822, 826 | Public and private nuisance; unreasonableness | R-TRT-092, R-TRT-093 |
-| R2d § 892C [VERIFY V-600] | Consent to crime | R-TRT-009 |
+| R2d § 892C [VERIFY V-600] | Consent to crime effective unless a statute protects a class (Restatement view; courts divide [VERIFY V-1001]) | R-TRT-009 |
 | R3d PEH §§ 7, 26, 27, 29 | General duty; factual cause; multiple sufficient causes; scope of liability | R-TRT-019, R-TRT-037, R-TRT-038, R-TRT-044 |
 | R3d PEH § 20 | Abnormally dangerous activities | R-TRT-077 |
 | R3d PEH § 48 | Bystander emotional harm | R-TRT-055 |
@@ -158,8 +158,8 @@ One line per authority. Cite cases on an essay by short name only ("*Rowland*");
 | *Rowland v. Christian* (1968) 69 Cal.2d 108 | § 1714 general duty; land-entrant categories abolished; *Rowland* factors | R-TRT-020, R-TRT-051 |
 | *Cabral v. Ralphs Grocery Co.* (2011) 51 Cal.4th 764 | *Rowland* applied at a categorical level | R-TRT-020 |
 | *Kesner v. Superior Court* (2016) 1 Cal.5th 1132 | Duty to household members for take-home asbestos | R-TRT-020 |
-| *Kuciemba v. Victory Woodworks, Inc.* (2023) 14 Cal.5th 993 [S-700] | No duty for take-home COVID-19; derivative-injury bar does not apply | R-TRT-020 |
-| *Gilead Tenofovir Cases* (Cal. Aug. 3, 2026, S283862) [S-709] [VERIFY V-603] | No negligence duty to commercialize a safer alternative to a nondefective drug | R-TRT-020, R-TRT-083 |
+| *Kuciemba v. Victory Woodworks, Inc.* (2023) 14 Cal.5th 993 [S-1300] [S-700] | No duty for take-home COVID-19; derivative-injury bar does not apply | R-TRT-020 |
+| *Gilead Tenofovir Cases* (Cal. Aug. 3, 2026, S283862) [S-709] [S-1650] | No negligence duty to develop or commercialize a safer alternative to a nondefective drug (*Rowland* exception) | R-TRT-020, R-TRT-083 |
 | *Brown v. USA Taekwondo* (2021) 11 Cal.5th 204 | Two-step duty analysis for third-party harm | R-TRT-022 |
 | *Regents of University of California v. Superior Court* (2018) 4 Cal.5th 607 | College–student special relationship | R-TRT-021 |
 | *Tarasoff v. Regents* (1976) 17 Cal.3d 425 | Therapist's duty to protect a foreseeable victim | R-TRT-023 |
@@ -173,6 +173,7 @@ One line per authority. Cite cases on an essay by short name only ("*Rowland*");
 | *Mitchell v. Gonzales* (1991) 54 Cal.3d 1041 | Substantial-factor causation instruction | R-TRT-038 |
 | *Rutherford v. Owens-Illinois* (1997) 16 Cal.4th 953 | Asbestos causation: substantial factor in contributing to risk | R-TRT-038 |
 | *Li v. Yellow Cab Co.* (1975) 13 Cal.3d 804 | Pure comparative negligence | R-TRT-070 |
+| *B.B. v. County of Los Angeles* (2020) 10 Cal.5th 1 [S-1661] | § 1431.2 does not reduce an intentional tortfeasor's non-economic damages for others' negligence | R-TRT-042 |
 | *American Motorcycle Assn. v. Superior Court* (1978) 20 Cal.3d 578 | Joint and several liability retained; comparative equitable indemnity | R-TRT-043 |
 | *Tech-Bilt v. Woodward-Clyde* (1985) 38 Cal.3d 488 | Good-faith settlement standard | R-TRT-043 |
 | *Knight v. Jewett* (1992) 3 Cal.4th 296 | Primary vs. secondary assumption of risk | R-TRT-073 |
@@ -226,7 +227,7 @@ One line per authority. Cite cases on an essay by short name only ("*Rowland*");
 | *Johnson v. American Standard* (2008) 43 Cal.4th 56 | Sophisticated-user defense | R-TRT-084 |
 | *O'Neil v. Crane Co.* (2012) 53 Cal.4th 335 | No liability for others' replacement parts | R-TRT-085 |
 | *Webb v. Special Electric Co.* (2016) 63 Cal.4th 167 | Sophisticated-intermediary doctrine | R-TRT-087 |
-| *Himes v. Somatics, LLC* (Cal. 2024) [S-708] [VERIFY V-605] | Learned-intermediary causation | R-TRT-084 |
+| *Himes v. Somatics, LLC* (2024) 16 Cal.5th 209 [S-708] [S-1656] | Learned intermediary kept; causation if the physician would have passed on a stronger warning and a prudent patient would have declined | R-TRT-084 |
 | *Christensen v. Superior Court* (1991) 54 Cal.3d 868 | IIED: conduct directed at Π or in Π's known presence | R-TRT-005 |
 | *Hughes v. Pair* (2009) 46 Cal.4th 1035 [S-721] | IIED outrageousness and severity thresholds | R-TRT-005 |
 | *State Rubbish Collectors Assn. v. Siliznoff* (1952) 38 Cal.2d 330 | IIED recognized | R-TRT-005 |
@@ -256,3 +257,5 @@ One line per authority. Cite cases on an essay by short name only ("*Rowland*");
 | *Helfend v. SCRTD* (1970) 2 Cal.3d 1 | Collateral source rule | R-TRT-113 |
 | *Howell v. Hamilton Meats* (2011) 52 Cal.4th 541 [S-472] | Medical damages limited to amounts paid | R-TRT-113 |
 | *Adams v. Murakami* (1991) 54 Cal.3d 105 [S-464] | Financial-condition evidence for punitive damages | R-TRT-114 |
+| *Mother Cobb's Chicken Turnovers v. Fox* (1937) 10 Cal.2d 203 [S-1209]; *Kizer v. County of San Mateo* (1991) 53 Cal.3d 139 [S-470] | Actual damages are a predicate for punitive damages | R-TRT-002, R-TRT-114 |
+| *Kluge v. O'Gara* (1964) 227 Cal.App.2d 207 [S-1210] (Court of Appeal) | Punitive damages may rest on a small or nominal award where real harm was hard to measure | R-TRT-002, R-TRT-114 |

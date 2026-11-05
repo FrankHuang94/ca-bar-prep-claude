@@ -4,7 +4,7 @@ topic: Torts — subject overview, frequency, crossover map and study order
 coverage_ids: [TRT-MBE-I, TRT-MBE-II, TRT-MBE-III, TRT-MBE-IV, TRT-CBX-I, TRT-CBX-II, TRT-CBX-III, TRT-CBX-IV, TRT-CBX-V, TRT-CBX-VI, TRT-CBX-VII, TRT-CBX-VIII-X]
 tested_on: [MBE, essay]
 exam_frequency: {level: high, basis: "Essays: 12 of 31 administrations 2012-02 to 2026-07 (39%); MBE: 25 scored questions every exam"}
-last_verified: 2026-11-04
+last_verified: 2026-11-05
 status: draft
 ---
 
@@ -93,9 +93,9 @@ Source: [`../../06-past-exams/frequency-analysis.md`](../../06-past-exams/freque
 ## Recent law to watch
 - *Rattagan* (2024): fraud during contract performance.
 - *Kuciemba* (2023): no take-home COVID duty.
-- *Gilead Tenofovir Cases* (Aug 2026): no "duty to innovate" [VERIFY V-603].
-- *Sanchez v. Rojas* (pending): cohabitant bystanders [VERIFY V-604].
-- The survival-action pain-and-suffering window closed for actions filed from Jan 1, 2026 [VERIFY V-602].
-- MICRA caps for 2027 [VERIFY V-601].
+- *Gilead Tenofovir Cases* (Aug 2026): no "duty to innovate" [S-1650].
+- *Sanchez v. Rojas* (review granted; pending): cohabitant bystanders [S-1653] [VERIFY V-604].
+- The survival-action pain-and-suffering window closed for actions filed from Jan 1, 2026; watch for a 2026–2027 revival bill [VERIFY V-602].
+- MICRA caps for 2027: $510,000 / $700,000 [S-703].
 
 Details: [`ca-distinctions.md`](ca-distinctions.md).

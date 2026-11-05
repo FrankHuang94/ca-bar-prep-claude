@@ -4,7 +4,7 @@ topic: Torts — essay templates (heading skeletons and paragraph structures)
 coverage_ids: [TRT-CBX-I, TRT-CBX-I.x1, TRT-CBX-I.x2, TRT-CBX-I.x3, TRT-CBX-II, TRT-CBX-III, TRT-CBX-IV, TRT-CBX-VI, TRT-CBX-VII, TRT-MBE-II.F, TRT-MBE-IV.B]
 tested_on: [essay]
 exam_frequency: {level: high, basis: "Essays: 12 of 31 administrations 2012-02 to 2026-07 (39%); MBE: 25 scored questions every exam"}
-last_verified: 2026-11-04
+last_verified: 2026-11-05
 status: draft
 ---
 
@@ -65,7 +65,7 @@ I. P v. D
      1. Consent (express/apparent; sports scope — Hackbart; CA Knight co-participant rule)
      2. Self-defense / defense of others (reasonable belief, proportional force, aggressor)
      3. Shopkeeper / arrest / property privileges as triggered
-  F. Damages — nominal, compensatory (eggshell), punitive (malice; CA § 3294)
+  F. Damages — nominal, compensatory (eggshell), punitive (malice; CA § 3294; CA needs actual damages)
 II. D v. P (counterclaims — the person who struck back may also be liable)
 III. Negligence in the alternative (if intent is doubtful)
 ```

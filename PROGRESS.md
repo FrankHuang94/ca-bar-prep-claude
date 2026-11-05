@@ -170,9 +170,9 @@
 - **Real Property:** NCBE outline with State Bar labels. CA distinctions cover race-notice (Civ. Code § 1214), adverse possession with taxes (CCP § 325), USRAP, *Riddle* severance, the warranty of habitability, *Kendall*, the Tenant Protection Act, Civ. Code § 1662 risk of loss, deeds of trust, and the one-action/anti-deficiency rules. Takings, trusts of land and spousal ownership are cross-referenced by rule ID.
 - **Business Associations:** agency, partnerships (RUPA), LPs, LLPs, corporations (veil piercing, BJR/§ 309, § 310, § 500 distributions, § 800 derivative suits), securities (10b-5, insider trading, § 16(b)), LLCs and equitable subordination. California calls appear to ask for general law (V-700), so California Corporations Code points are added where the codes differ.
 - **`recent-changes.md` additions (Torts):**
-  - *Gilead Tenofovir Cases* (Aug 2026) — Apply [VERIFY V-603];
+  - *Gilead Tenofovir Cases* (Aug 2026) — Apply (V-603, resolved in Phase 7);
   - *Sanchez v. Rojas* (review of *Elden*) — watch [V-604];
-  - MICRA 2027 caps $510,000 / $700,000 [V-601];
+  - MICRA 2027 caps $510,000 / $700,000 (V-601, resolved in Phase 7);
   - CCP § 377.34(b) survival pain-and-suffering window closed for actions filed from 2026 — Apply [V-602].
 - **Spot-checked (accurate):**
   - Torts: bystander NIED, design defect burden shift, express assumption, Prop 51, § 1714/*Rowland*.

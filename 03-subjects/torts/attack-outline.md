@@ -4,7 +4,7 @@ topic: Torts — exam-day attack outline (headings and one-line rules)
 coverage_ids: [TRT-MBE-I, TRT-MBE-II, TRT-MBE-III, TRT-MBE-IV, TRT-CBX-I, TRT-CBX-II, TRT-CBX-III, TRT-CBX-IV, TRT-CBX-V, TRT-CBX-VI, TRT-CBX-VII]
 tested_on: [MBE, essay]
 exam_frequency: {level: high, basis: "Essays: 12 of 31 administrations 2012-02 to 2026-07 (39%); MBE: 25 scored questions every exam"}
-last_verified: 2026-11-04
+last_verified: 2026-11-05
 status: draft
 ---
 
@@ -21,11 +21,11 @@ Numbers in parentheses are rule IDs (043 = R-TRT-043).
 - **False imprisonment:** intentional confinement within fixed boundaries, no reasonable known escape, Π aware or harmed (004).
 - **IIED:** extreme and outrageous conduct, intent or recklessness, causing severe distress; third parties under § 46(2); CA *Christensen* (005).
 - **Trespass to land:** intentional physical entry onto land in Π's possession; mistake no defense; CA: intangibles are nuisance (*Wilson*) (006).
-- **Trespass to chattels:** intentional intermeddling or dispossession causing actual harm (007).
+- **Trespass to chattels:** intentional dispossession, or intermeddling causing actual harm (007).
 - **Conversion:** serious interference justifying a forced sale at full value (008).
 
 ## B. Defenses to intentional torts
-- **Consent:** express, apparent, customary, implied by law; capacity; scope; fraud as to essence (009).
+- **Consent:** express, apparent, customary, implied by law; capacity; scope; fraud as to essence; consent to a crime: courts divide (009).
 - **Self-defense:** reasonable belief, proportional force; deadly only for deadly threats (010).
 - **Defense of others:** reasonable belief that the third person may defend (majority) (011).
 - **Defense of property:** reasonable nondeadly force after a request; no deadly devices (012).
@@ -42,7 +42,7 @@ Numbers in parentheses are rule IDs (043 = R-TRT-043).
 - **Negligence per se:** protected class + type of harm + unexcused violation; CA presumption (Evid. Code § 669) (033); excuses (034).
 - **Res ipsa:** not without negligence + Δ's control → inference; CA § 646 (035). **Notice** for hazards (036).
 - **Actual cause:** but-for (037); substantial factor (038); *Summers*, concert, market share (039); loss of chance (040).
-- **Apportionment:** joint and several for indivisible harm (041); CA Prop 51 (042); contribution, indemnity, CCP § 877 (043).
+- **Apportionment:** joint and several for indivisible harm (041); CA Prop 51, no reduction for intentional tortfeasors (042); contribution, indemnity, CCP § 877 (043).
 - **Proximate cause:** foreseeable type of harm (044); eggshell (045); foreseeable intervening acts don't cut off; unforeseeable crimes supersede (046).
 - **Land:** trespasser (047); attractive nuisance § 339 (048); licensee: known dangers (049); invitee: inspect (050); **CA:** *Rowland* no categories; § 846 recreational use (051); lessors (052); crime: *Ann M.* and *Delgado* (053).
 - **Emotional distress:** zone of danger (054); bystander *Thing*: close relative, present and aware, serious distress (055); CA direct victim *Burgess* (056); fear of cancer *Potter* (057).
@@ -71,7 +71,7 @@ Numbers in parentheses are rule IDs (043 = R-TRT-043).
 
 ## F. Damages
 - **Compensatory:** economic and non-economic; collateral source; *Howell* (113).
-- **Punitive:** malice, oppression or fraud; CA § 3294, clear and convincing evidence (114).
-- **MICRA:** $510,000 / $700,000 caps in 2027 [VERIFY V-601] (115).
+- **Punitive:** malice, oppression or fraud; CA § 3294, clear and convincing evidence; CA: actual damages a predicate (114).
+- **MICRA:** $510,000 / $700,000 caps in 2027 [S-703] (115).
 
 **Last check:** every Π–Δ pair covered? Defenses for each? Damages? A conclusion on every issue?

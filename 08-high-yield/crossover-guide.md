@@ -179,7 +179,7 @@ V.   Best remedy / election
 **Rules most often needed.** R-REM-024 (nuisance damages: permanent vs. continuing) · R-REM-023 (fraud damages; § 3343) · R-REM-028 (§ 3294 punitive damages) · R-REM-055 / R-REM-062 (permanent injunction; nuisance injunction alternatives) · R-REM-044 (constructive trust).
 
 **Traps.**
-- Calling noise or odor a trespass. California treats it as nuisance unless there is physical damage or deposit (R-TRT-006).
+- Calling noise or odor a trespass. California treats it as nuisance, not trespass, unless it causes physical damage to the property (*Wilson*; R-TRT-006).
 - Forgetting the punitive-damages predicates: actual damages and evidence of D's financial condition (R-REM-030).
 - Choosing an equitable remedy without explaining why damages are inadequate.
 

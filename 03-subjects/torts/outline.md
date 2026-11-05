@@ -4,7 +4,7 @@ topic: Torts — comprehensive outline (NCBE MBE numbering plus California essay
 coverage_ids: [TRT-MBE-I, TRT-MBE-I.A, TRT-MBE-I.B, TRT-MBE-I.B.1, TRT-MBE-I.B.2, TRT-MBE-I.B.2.a, TRT-MBE-I.B.2.b, TRT-MBE-I.B.2.c, TRT-MBE-I.B.2.d, TRT-MBE-I.B.2.e, TRT-MBE-I.B.2.f, TRT-MBE-II, TRT-MBE-II.A, TRT-MBE-II.B, TRT-MBE-II.B.1, TRT-MBE-II.B.2, TRT-MBE-II.C, TRT-MBE-II.D, TRT-MBE-II.D.1, TRT-MBE-II.D.2, TRT-MBE-II.D.3, TRT-MBE-II.E, TRT-MBE-II.E.1, TRT-MBE-II.E.2, TRT-MBE-II.E.3, TRT-MBE-II.E.4, TRT-MBE-II.F, TRT-MBE-II.F.1, TRT-MBE-II.F.2, TRT-MBE-II.G, TRT-MBE-II.G.1, TRT-MBE-II.G.2, TRT-MBE-III, TRT-MBE-IV, TRT-MBE-IV.A, TRT-MBE-IV.B, TRT-MBE-IV.C, TRT-MBE-IV.D, TRT-CBX-I, TRT-CBX-I.x1, TRT-CBX-I.x2, TRT-CBX-I.x3, TRT-CBX-II, TRT-CBX-III, TRT-CBX-IV, TRT-CBX-V, TRT-CBX-VI, TRT-CBX-VII]
 tested_on: [MBE, essay]
 exam_frequency: {level: high, basis: "Essays: 12 of 31 administrations 2012-02 to 2026-07 (39%); MBE: 25 scored questions every exam"}
-last_verified: 2026-11-04
+last_verified: 2026-11-05
 status: draft
 ---
 
@@ -27,7 +27,7 @@ status: draft
 **Common features.**
 - **Intent** means purpose or knowledge to a substantial certainty (R2d § 8A; *Garratt v. Dailey*, 46 Wash.2d 197 (1955)). Motive is irrelevant. Children and mentally ill persons can intend (R-TRT-001).
 - **Transferred intent** applies among the five "trespass" torts: assault, battery, false imprisonment, trespass to land, trespass to chattels. It works across victims and across those torts. It does not apply to IIED or conversion.
-- **Damages.** Nominal damages are available without actual harm for assault, battery, false imprisonment and trespass to land. Trespass to chattels, IIED and conversion need actual damage. Punitive damages are available for malice (R-TRT-114).
+- **Damages.** Nominal damages are available without actual harm for assault, battery, false imprisonment and trespass to land. Trespass to chattels (except a dispossession), IIED and conversion need actual damage. Punitive damages are available for malice (R-TRT-114); in California only with actual damages (R-TRT-002; R-REM-030).
 - **Defenses.** Consent and the privileges in I.B. Contributory or comparative negligence is **not** a defense to intentional torts (majority).
 - **Vicarious liability.** An employer is liable for an employee's intentional tort only if it falls within the scope of employment (II.F.1).
 
@@ -84,15 +84,15 @@ status: draft
 - **Intent** is intent to enter **that place**. A mistake about ownership or permission is no defense.
 - **Land** includes the surface, the subsurface, and the airspace within the immediate reaches of the land. Overflights at ordinary altitudes are not trespass.
 - **Plaintiff:** the person in possession (a tenant, not the landlord, for a trespass during the lease; the landlord sues for permanent damage to the reversion).
-- **Damages:** nominal damages without harm; actual damages; punitive damages for willful trespass. A trespasser is liable for harm to persons or things on the land even if it was unforeseeable (R2d § 162) [VERIFY V-600].
+- **Damages:** nominal damages without harm; actual damages; punitive damages for willful trespass. **CA note:** actual damages are a predicate for punitive damages, so a nominal award that reflects no real harm likely will not support them, while a small award for real but hard-to-measure harm can (*Mother Cobb's Chicken Turnovers, Inc. v. Fox* (1937) 10 Cal.2d 203; *Kizer v. County of San Mateo* (1991) 53 Cal.3d 139, 147; *Kluge v. O'Gara* (1964) 227 Cal.App.2d 207) [S-1209] [S-470] [S-1210] (R-REM-030, R-REM-094). A trespasser is liable for harm to persons or things on the land even if it was unforeseeable (R2d § 162) [VERIFY V-600].
 - **Unintentional entries:** liability only if the entry was negligent, reckless or abnormally dangerous **and** caused harm (R2d § 165) [VERIFY V-600].
 - **Continuing trespass:** a structure left on Π's land is a continuing trespass.
-- **CA note:** noise, odor and light intrusions are trespass only if they cause physical damage or deposit particulate matter (*Wilson v. Interlake Steel Co.* (1982) 32 Cal.3d 229 [S-718]); otherwise use nuisance. Damages for injury to trees are doubled or trebled (Civ. Code § 3346 [S-460]) (R-REM-020).
+- **CA note:** noise, odor and light intrusions are not trespass unless they cause physical damage to the property (*Wilson v. Interlake Steel Co.* (1982) 32 Cal.3d 229 [S-718]); otherwise use nuisance. Damages for injury to trees are doubled or trebled (Civ. Code § 3346 [S-460]) (R-REM-020).
 - **Tested:** entry onto a neighbor's land (to take measurements; to retrieve a dog), combined with nuisance and remedies (Feb 2022 Q3, Feb 2018 Q3); intentional property torts with remedies calls (Feb 2013 Q3, Jul 2013 Q6) [VERIFY V-071].
 
 ##### Trespass to chattels (R-TRT-007)
-- **Rule:** intentional dispossession of, or use of or intermeddling with, a chattel in another's possession, causing actual harm (R2d §§ 217, 218).
-- **Actual harm** means damage to the chattel, loss of its use for a substantial time, or other harm. There are no nominal damages for mere intermeddling.
+- **Rule:** intentional dispossession of a chattel in another's possession, or intentional use of or intermeddling with it that causes actual harm (R2d §§ 217, 218).
+- **Actual harm** means damage to the chattel, loss of its use for a substantial time, or harm to the possessor or to a person or thing in which he has a legally protected interest. A dispossession is itself actionable (R2d § 218(a)). There are no nominal damages for harmless intermeddling.
 - **Damages:** cost of repair or loss of use (rental value) (R-REM-022).
 - **CA note:** unsolicited e-mails that did not impair a computer system were not a trespass to chattels (*Intel Corp. v. Hamidi* (2003) 30 Cal.4th 1342).
 
@@ -111,7 +111,7 @@ status: draft
 |---|---|---|
 | Interference | Minor: brief use, dispossession, slight damage | Serious: theft, destruction, major alteration, long or adverse use |
 | Damages | Actual loss: repair, loss of use | Full market value at conversion (forced sale), or replevin |
-| Nominal damages | No (actual harm required) | Not applicable (value is recovered) |
+| Nominal damages | No (actual harm, or a dispossession, required) | Not applicable (value is recovered) |
 | Mistake or good faith | No defense | No defense (but relevant to seriousness) |
 
 **How I.A is tested.** On the MBE, the traps are: lack of awareness (assault needs it, battery does not); a reasonable means of escape; transferred intent; mistake is no defense to trespass; and outrageousness. On essays, run each tort element by element for each Π–Δ pair, then defenses, then damages. Property torts often come with a Remedies call (replevin, ejectment, injunction).
@@ -129,10 +129,11 @@ The burden is on Δ to plead and prove consent and the privileges. A privilege p
 - **Capacity:** young children, incompetents and severely intoxicated persons cannot consent. A parent or guardian may consent for them.
 - **Scope:** exceeding the consent is a battery. Consent to an operation on the right ear is not consent to an operation on the left ear (*Mohr v. Williams*, 95 Minn. 261 (1905)). In sport, a deliberate blow after the play is outside the scope (*Hackbart v. Cincinnati Bengals, Inc.*, 601 F.2d 516 (10th Cir. 1979)).
 - **Fraud or duress:** fraud about the **essential nature** of the act vitiates consent (a "medical exam" that is a sexual touching). Fraud about a **collateral** matter does not (a payment in counterfeit money for a consensual act). Duress vitiates consent; economic pressure usually does not.
-- **Consent to a crime:**
-  - Majority (R2d § 892C): consent to an illegal act is effective, so mutual combatants cannot sue each other for battery.
-  - Exception: where a statute protects a class against its own consent (statutory rape, child labor).
-  - Minority: consent to a crime is ineffective, so each combatant can sue.
+- **Consent to a crime** (courts divide) [VERIFY V-1001]:
+  - Traditional rule, long described by treatises as the majority: consent to a criminal act (mutual combat, an illegal prize fight) is ineffective, so each combatant can sue the other.
+  - Restatement (R2d § 892C): consent to an illegal act is effective, so mutual combatants cannot sue each other for battery.
+  - Under either view, consent is ineffective where a statute protects a class against its own consent (statutory rape, child labor).
+  - On an essay, state both views.
 - **Medical consent and informed consent:** see II.B.1 and R-TRT-028.
 - **CA note:** California analyzes sports injuries mainly through primary assumption of risk (*Knight v. Jewett* (1992) 3 Cal.4th 296), asking whether Δ's conduct was intentional or totally outside the range of ordinary activity in the sport (R-TRT-073).
 - Rule: R-TRT-009.
@@ -227,8 +228,8 @@ The burden is on Δ to plead and prove consent and the privileges. A privilege p
 | Case | Holding |
 |---|---|
 | *Kesner v. Superior Court* (2016) 1 Cal.5th 1132 | Employers and premises owners who use asbestos owe a duty to members of a worker's household exposed to asbestos carried home on the worker's clothes. |
-| *Kuciemba v. Victory Woodworks, Inc.* (2023) 14 Cal.5th 993 [S-700] | **No duty** to prevent take-home COVID-19 infection of employees' household members: the *Rowland* policy factors (an intolerable burden on employers and society) outweigh foreseeability. The derivative-injury rule of workers' compensation exclusivity did **not** bar the spouse's claim. (Apply.) |
-| *Gilead Tenofovir Cases* (Cal. Aug. 3, 2026, S283862) [S-709] [S-710] [VERIFY V-603] | **No duty** of care, by a maker of a nondefective drug, in deciding whether and when to develop or commercialize an allegedly safer alternative. This reaffirms a defect-centered framework for product negligence. |
+| *Kuciemba v. Victory Woodworks, Inc.* (2023) 14 Cal.5th 993 [S-1300] [S-700] | **No duty** to prevent take-home COVID-19 infection of employees' household members: the *Rowland* policy factors (an intolerable burden on employers and society) outweigh foreseeability. The derivative-injury rule of workers' compensation exclusivity did **not** bar the spouse's claim. (Apply.) |
+| *Gilead Tenofovir Cases* (Cal. Aug. 3, 2026, S283862) [S-709] [S-710] [S-1650] | **No duty** of care, by a maker of a nondefective drug, in deciding whether and when to develop or commercialize an allegedly safer alternative: even assuming a general duty, the *Rowland* factors justify a categorical exception (summary judgment for the maker). This reaffirms a defect-centered framework for product negligence. |
 
 **No duty to act** (R-TRT-021; R2d § 314).
 - No general duty to rescue or aid (*Yania v. Bigan*, 397 Pa. 316 (1959)). The line is misfeasance vs. nonfeasance.
@@ -336,7 +337,7 @@ Effect:
 - **Substantial-factor test** (R-TRT-038; R2d § 431 [VERIFY V-600]): used where multiple causes make the but-for test misleading.
 - **CA note:** California uses the substantial-factor test as its general causation instruction; it subsumes but-for causation (*Mitchell v. Gonzales* (1991) 54 Cal.3d 1041). In asbestos cases, Π must show exposure to Δ's product was a substantial factor contributing to the risk of developing cancer (*Rutherford v. Owens-Illinois, Inc.* (1997) 16 Cal.4th 953).
 - **Loss of chance** (R-TRT-040): some states award proportional damages where malpractice reduced an already-below-50% chance of recovery. Others require more-likely-than-not causation. California appellate courts have generally not recognized it [VERIFY V-610].
-- **Warning cases:** Π must show an adequate warning would have been read and heeded (some states presume heeding). **CA note:** learned-intermediary causation under *Himes v. Somatics, LLC* (Cal. 2024) [S-708] [VERIFY V-605] (see III).
+- **Warning cases:** Π must show an adequate warning would have been read and heeded (some states presume heeding). **CA note:** learned-intermediary causation under *Himes v. Somatics, LLC* (2024) 16 Cal.5th 209 [S-708] (see III).
 
 #### II.D.2 Harms traceable to multiple causes
 - **Multiple sufficient causes:** two fires merge, each enough to burn Π's house. Each is an actual cause (R2d § 432(2) [VERIFY V-600]; R3d PEH § 27) (R-TRT-038).
@@ -349,7 +350,7 @@ Effect:
 - **Joint and several liability** (R-TRT-041): each Δ whose tortious conduct was a legal cause of an indivisible injury is liable for the entire amount. Π may recover the whole from any Δ but may collect only once (the one-satisfaction rule).
 - **MBE default:** joint and several liability with pure comparative negligence, unless the question says otherwise [S-040].
 - **Modern variations** (Restatement (Third) of Torts: Apportionment of Liability § 10 [VERIFY V-600]): several liability only; hybrid systems (joint liability only for Δs above a fault threshold, or only for economic damages); reallocation of an insolvent Δ's share.
-- **CA note:** Proposition 51 (Civ. Code § 1431.2) makes liability for **non-economic** damages several only, in proportion to fault. Economic damages remain joint and several (R-TRT-042).
+- **CA note:** Proposition 51 (Civ. Code § 1431.2) makes liability for **non-economic** damages several only, in proportion to fault. Economic damages remain joint and several (R-TRT-042). An intentional tortfeasor gets no § 1431.2 reduction for others' negligence (*B.B. v. County of Los Angeles* (2020) 10 Cal.5th 1 [S-1661]).
 - **Contribution** (R-TRT-043): a Δ who pays more than his share may recover from the others.
   - Traditional: equal (pro rata) shares.
   - Modern: shares in proportion to comparative fault.
@@ -433,7 +434,7 @@ Effect:
 - **Bystanders** (R-TRT-055):
   - *Dillon v. Legg* (1968) 68 Cal.2d 728 used foreseeability guidelines.
   - **California:** *Thing v. La Chusa* (1989) 48 Cal.3d 644 sets firm requirements: Π (1) is closely related to the injury victim; (2) is present at the scene of the injury-producing event when it occurs and is then aware that it is causing injury to the victim; and (3) as a result suffers serious emotional distress, beyond that of a disinterested witness.
-  - **Closely related:** relatives living in the same household, or parents, siblings, children and grandparents. Unmarried cohabitants are excluded (*Elden v. Sheldon* (1988) 46 Cal.3d 267 [S-712]). That rule is under review (*Sanchez v. Rojas*, S294671) [S-711] [VERIFY V-604].
+  - **Closely related:** relatives living in the same household, or parents, siblings, children and grandparents. Unmarried cohabitants are excluded (*Elden v. Sheldon* (1988) 46 Cal.3d 267 [S-712]). That rule is under review (*Sanchez v. Rojas*, S294671; no decision as of Nov. 2026) [S-711] [S-1653] [VERIFY V-604].
   - **Awareness:** in a medical setting, Π must be aware of the injury-producing event as it happens, not merely of its results (*Bird v. Saenz* (2002) 28 Cal.4th 910).
   - **R3d PEH § 48:** a close family member who perceives the event contemporaneously.
 - **Direct victims** (R-TRT-056):
@@ -588,9 +589,9 @@ Effect:
     - vicarious liability for employees acting within scope (§ 815.2);
     - discretionary-act immunity for employees (§ 820.2), limited to basic policy decisions, not operational acts (*Johnson v. State of California* (1968) 69 Cal.2d 782);
     - dangerous condition of public property (§ 835) [S-719];
-    - no punitive damages (§ 818);
-    - no liability for failing to provide police protection (§ 845);
-    - a six-month claim requirement for personal-injury claims (§ 911.2) [VERIFY V-607].
+    - no punitive damages (§ 818) [S-1660];
+    - no liability for failing to provide police protection (§ 845) [VERIFY V-607];
+    - a claim must be presented within six months of accrual for death or injury to person or personal property, one year for other claims (§ 911.2) [S-1658]; AB 614 (2025), which would have extended the six-month period, was not enacted [S-1659].
 - **Official immunity:**
   - Judges, legislators and prosecutors have absolute immunity for acts within their functions. High executive officials have absolute immunity in some contexts.
   - Other officials have qualified immunity for discretionary acts in good faith. In federal civil-rights suits, an official is immune unless he violated clearly established law (*Harlow v. Fitzgerald*, 457 U.S. 800 (1982)).
@@ -693,8 +694,8 @@ The July 2023 Q2 selected answers followed this order [VERIFY V-071].
 
 **Prescription drugs and devices.**
 - **CA note:** no strict liability for design defects in prescription drugs (*Brown v. Superior Court* (1988) 44 Cal.3d 1049, following R2d § 402A cmt. k). Strict liability for failure to warn does apply (*Carlin v. Superior Court* (1996) 13 Cal.4th 1104).
-- **Learned intermediary:** warnings go to the physician. *Himes v. Somatics, LLC* (Cal. June 20, 2024) [S-708] [VERIFY V-605] held that Π may establish causation by showing a stronger warning would have altered the physician's conduct, e.g., the physician would have conveyed the stronger warning and an objectively prudent patient would have declined the treatment.
-- **No "duty to innovate":** a maker of a nondefective drug owes no negligence duty regarding when to bring a safer alternative to market (*Gilead Tenofovir Cases*, Cal. Aug. 3, 2026) [S-709] [VERIFY V-603].
+- **Learned intermediary:** warnings go to the physician. *Himes v. Somatics, LLC* (2024) 16 Cal.5th 209 (June 20, 2024) [S-708] [S-1656] kept the doctrine but held that Π need not prove a stronger warning would have changed the physician's decision to prescribe: causation is also shown if the physician would have communicated the stronger warning to the patient and an objectively prudent person in the patient's position would have declined the treatment.
+- **No "duty to innovate":** a maker of a nondefective drug owes no negligence duty regarding when to bring a safer alternative to market (*Gilead Tenofovir Cases*, Cal. Aug. 3, 2026; *Rowland* exception) [S-709] [S-1650].
 
 **Post-sale duties.** Some courts recognize a duty to warn of defects discovered after sale (R3d PL § 10). A duty to recall exists only if a statute requires it or Δ voluntarily undertakes one (R3d PL § 11).
 
@@ -866,7 +867,7 @@ The essay pattern: private nuisance (substantial + unreasonable, balancing), pub
    - fair and accurate reports of official proceedings and public meetings.
 4. **Abuse** defeats a qualified privilege: knowledge of falsity or reckless disregard; in some states, a primary purpose of ill will; publication beyond what the privilege's purpose requires; or including unprivileged matter.
 5. **Consent.**
-6. **Retraction:** reduces damages at common law. **CA note:** Civ. Code § 48a [S-713] [VERIFY V-606]. For a publication in a daily or weekly news publication or a broadcast, Π recovers only special damages unless Π served a correction demand within 20 days after knowledge of the publication and the correction was not published.
+6. **Retraction:** reduces damages at common law. **CA note:** Civ. Code § 48a [S-713] [S-1662]. For libel in a daily or weekly news publication (print or electronic, publishing at least once a week) or slander by radio broadcast, Π recovers only special damages unless Π served a written correction demand within 20 days after knowledge of the publication and the correction was not published.
 
 **CA note: Civil Code § 47.** Privileged publications include those made:
 - (a) in the proper discharge of an official duty;
@@ -1054,15 +1055,16 @@ NCBE's inclusion of IV.D on the MBE outline is unconfirmed [VERIFY V-023]. It is
 - **Nominal damages:** for the intentional torts that need no actual harm. Not for negligence.
 - **Punitive damages** (R-TRT-114):
   - **Standard:** malice, oppression or fraud, by clear and convincing evidence (Civ. Code § 3294 [S-451]).
+  - **Predicate (CA):** actual damages; a nominal award that reflects no real harm likely fails, but a small award for real, hard-to-measure harm can suffice (*Mother Cobb's*; *Kizer*; *Kluge*) [S-1209] [S-470] [S-1210] (R-REM-030).
   - **Employers:** liable only through an officer, director or managing agent (§ 3294(b)).
   - **Proof:** evidence of Δ's financial condition is required (*Adams v. Murakami* (1991) 54 Cal.3d 105 [S-464]).
   - **Due process:** *BMW of North America, Inc. v. Gore*, 517 U.S. 559 (1996); *State Farm Mut. Auto. Ins. Co. v. Campbell*, 538 U.S. 408 (2003).
-  - **Not available:** against public entities (Gov. Code § 818) [VERIFY V-607] or in wrongful-death actions.
+  - **Not available:** against public entities (Gov. Code § 818) [S-1660]; generally not in wrongful-death actions (narrow exception for a death caused by a homicide for which Δ was convicted of a felony, Civ. Code § 3294(d) [VERIFY V-1000]).
   - **Available** in survival actions.
 - **CA damages statutes:**
   - **Proposition 51** (Civ. Code § 1431.2), R-TRT-042.
   - **Proposition 213** (Civ. Code § 3333.4) [S-720] [VERIFY V-608]: in motor-vehicle cases, uninsured owners or operators, and drivers convicted of DUI in connection with the accident, cannot recover non-economic damages.
-  - **MICRA** (Civ. Code § 3333.2), R-TRT-115. The non-economic damages cap is on the AB 35 schedule: $350,000 (injury) and $500,000 (death) from Jan 1, 2023, plus $40,000 and $50,000 each year. That gives **$510,000 and $700,000 in 2027** [S-701] [S-702] [S-703] [VERIFY V-601].
+  - **MICRA** (Civ. Code § 3333.2), R-TRT-115. The non-economic damages cap is on the AB 35 schedule: $350,000 (injury) and $500,000 (death) from Jan 1, 2023, plus $40,000 and $50,000 each year. That gives **$510,000 and $700,000 in 2027** [S-701] [S-702] [S-703]. The amount in effect when the judgment, arbitration award or settlement is entered applies; up to three caps (providers, institutions, unaffiliated defendants) [S-703] [S-1655].
 
 ### Wrongful death and survival (CBX III)
 **Wrongful death** (R-TRT-059; CCP §§ 377.60–377.62).
@@ -1072,14 +1074,14 @@ NCBE's inclusion of IV.D on the MBE outline is unconfirmed [VERIFY V-023]. It is
   - if none, those who would take by intestate succession;
   - plus, if dependent on the decedent: a putative spouse, children of a putative spouse, stepchildren, parents, and minors who lived with the decedent for the prior 180 days and received half their support from the decedent.
 - **Damages:** loss of financial support, gifts and household services; funeral and burial expenses; and the loss of the decedent's love, companionship, comfort, care, assistance, protection, affection, society and moral support.
-- **Not recoverable:** the heirs' grief and sorrow, the decedent's pain and suffering, and punitive damages.
+- **Not recoverable:** the heirs' grief and sorrow, the decedent's pain and suffering, and (generally) punitive damages (see the § 3294(d) note above).
 - **Defenses:** the decedent's comparative fault reduces recovery. Δ may raise any defense it had against the decedent.
 - **Procedure:** a single joint action; two-year limitations period from death (CCP § 335.1).
 
 **Survival** (R-TRT-060; CCP §§ 377.20, 377.30, 377.34).
 - **Purpose:** the decedent's own cause of action survives and passes to the personal representative or successor in interest.
 - **Damages:** the loss the decedent sustained before death (medical expenses, lost earnings until death, property damage) and punitive damages the decedent could have recovered.
-- **Pain, suffering and disfigurement are excluded.** The exception in § 377.34(b) covered actions filed Jan 1, 2022 through Dec 31, 2025 (and earlier cases granted trial preference). It **expired**; SB 29 (2025), which would have extended or removed the sunset, was moved to the inactive file and not enacted [S-704] [S-705] [S-723]. Check for any 2026–2027 legislation before the exam [VERIFY V-602].
+- **Pain, suffering and disfigurement are excluded.** The exception in § 377.34(b) covered actions filed Jan 1, 2022 through Dec 31, 2025 (and earlier cases granted trial preference). It **expired**; SB 29 (2025), which would have extended or removed the sunset, was moved to the inactive file and not enacted [S-704] [S-705] [S-723] [S-1651]. A 2026 version reportedly passed the Senate in a form preserving these damages for claims that accrued before Jan 1, 2026; no enactment has been confirmed [S-1652]. Check for any 2026–2027 legislation before the exam [VERIFY V-602].
 - **Common law:** personal tort actions abated at death; survival statutes reverse that.
 
 **MBE:** assume both actions are available [S-040]. Know the difference:
