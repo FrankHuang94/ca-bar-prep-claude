@@ -573,11 +573,11 @@ status: draft
 ### R-CON-043 — Judicial, prosecutorial and qualified immunity
 **Rule (write this):** Judges are absolutely immune from damages for judicial acts unless they act in the clear absence of all jurisdiction; prosecutors are absolutely immune for advocacy functions; and other executive officials have qualified immunity, which shields them unless they violated a clearly established statutory or constitutional right of which a reasonable person would have known.
 
-**Elements:** Judicial act (function normally performed by a judge, parties dealt with the judge in a judicial capacity). Qualified immunity: (1) constitutional violation, (2) clearly established at the time; courts may address either prong first.
+**Elements:** Judicial act (function normally performed by a judge, parties dealt with the judge in a judicial capacity). Qualified immunity: (1) constitutional violation, (2) clearly established at the time; courts may address either prong first. "Clearly established" means existing precedent placed the question beyond debate, so that every reasonable official would have understood the conduct was unlawful; courts must not define the right at a high level of generality (*Ashcroft v. al-Kidd*).
 
 **Exceptions / defenses:** Administrative acts of judges (hiring and firing staff) are not absolutely immune (Forrester). Immunity does not bar prospective injunctive relief.
 
-**Authority:** *Stump v. Sparkman*, 435 U.S. 349 (1978); *Forrester v. White*, 484 U.S. 219 (1988); *Imbler v. Pachtman*, 424 U.S. 409 (1976); *Harlow v. Fitzgerald*, 457 U.S. 800 (1982); *Pearson v. Callahan*, 555 U.S. 223 (2009).
+**Authority:** *Stump v. Sparkman*, 435 U.S. 349 (1978); *Forrester v. White*, 484 U.S. 219 (1988); *Imbler v. Pachtman*, 424 U.S. 409 (1976); *Harlow v. Fitzgerald*, 457 U.S. 800 (1982); *Pearson v. Callahan*, 555 U.S. 223 (2009); *Ashcroft v. al-Kidd*, 563 U.S. 731 (2011).
 
 **MBE vs. CA essay:** same rule.
 
@@ -1341,7 +1341,7 @@ status: draft
 ### R-CON-101 — Commercial speech
 **Rule (write this):** Commercial speech that concerns lawful activity and is not misleading may be regulated only if the government asserts a substantial interest, the regulation directly advances that interest, and it is not more extensive than necessary (a reasonable fit, not the least restrictive means). False, misleading or unlawful-activity advertising is unprotected, and required disclosures of purely factual, uncontroversial information reasonably related to preventing deception are valid.
 
-**Elements:** Central Hudson four steps; Fox reasonable fit; Zauderer disclosures.
+**Elements:** Commercial speech is speech that does no more than propose a commercial transaction (Virginia Pharmacy); speech mixing commercial and noncommercial elements is judged by its advertising format, reference to a specific product and economic motive taken together (*Bolger v. Youngs Drug Products Corp.*, 463 U.S. 60 (1983)). Central Hudson four steps; Fox reasonable fit; Zauderer disclosures.
 
 **Exceptions / defenses:** Lawyer advertising is protected (Bates), but in-person solicitation for pecuniary gain may be banned (Ohralik), while nonprofit civil-rights solicitation is protected (Primus); a 30-day ban on targeted mail to accident victims was upheld (Went For It). Content- and speaker-based burdens on commercial information get heightened scrutiny (Sorrell).
 
@@ -1555,9 +1555,9 @@ status: draft
 
 **Elements:** § 1983: person, color of state law, deprivation, causation. Injunction: Winter factors. Declaratory relief: actual controversy (28 U.S.C. § 2201).
 
-**Exceptions / defenses:** Qualified and absolute immunities (R-CON-043). Bivens damages against federal officers will not be extended to new contexts if there is any reason to think Congress is better suited to create a remedy (Egbert). Loss of First Amendment freedoms, even briefly, is irreparable injury (Elrod plurality). Trump v. CASA (2025) [VERIFY V-035].
+**Exceptions / defenses:** Qualified and absolute immunities (R-CON-043). Local governments have no qualified immunity (*Owen*) and owe no punitive damages under § 1983 (*City of Newport v. Fact Concerts*); an official-capacity suit against a local officer is a suit against the entity (*Kentucky v. Graham*); a single decision by an official with final policymaking authority can be municipal policy (*Pembaur*). A prevailing plaintiff may recover a reasonable attorney's fee (42 U.S.C. § 1988(b)); prevailing requires a judgment or court-ordered change in the parties' legal relationship, not the defendant's voluntary change of conduct (*Buckhannon*), and a preliminary injunction alone does not make a plaintiff a prevailing party (*Lackey v. Stinnie* (2025)) [VERIFY V-035]. Bivens damages against federal officers will not be extended to new contexts if there is any reason to think Congress is better suited to create a remedy (Egbert). Loss of First Amendment freedoms, even briefly, is irreparable injury (Elrod plurality). Trump v. CASA (2025) [VERIFY V-035].
 
-**Authority:** 42 U.S.C. § 1983; *Monell v. Department of Social Servs.*, 436 U.S. 658 (1978); *Will v. Michigan Dep't of State Police*, 491 U.S. 58 (1989); *Owen v. City of Independence*, 445 U.S. 622 (1980); *Bivens v. Six Unknown Named Agents*, 403 U.S. 388 (1971); *Egbert v. Boule*, 596 U.S. 482 (2022); *Winter v. NRDC*, 555 U.S. 7 (2008); *Elrod v. Burns*, 427 U.S. 347 (1976).
+**Authority:** 42 U.S.C. § 1983; *Monell v. Department of Social Servs.*, 436 U.S. 658 (1978); *Will v. Michigan Dep't of State Police*, 491 U.S. 58 (1989); *Owen v. City of Independence*, 445 U.S. 622 (1980); *City of Newport v. Fact Concerts, Inc.*, 453 U.S. 247 (1981); *Kentucky v. Graham*, 473 U.S. 159 (1985); *Pembaur v. City of Cincinnati*, 475 U.S. 469 (1986); 42 U.S.C. § 1988(b); *Buckhannon Board & Care Home, Inc. v. West Virginia Dep't of Health & Human Resources*, 532 U.S. 598 (2001); *Bivens v. Six Unknown Named Agents*, 403 U.S. 388 (1971); *Egbert v. Boule*, 596 U.S. 482 (2022); *Winter v. NRDC*, 555 U.S. 7 (2008); *Elrod v. Burns*, 427 U.S. 347 (1976).
 
 **MBE vs. CA essay:** same rule; on a Con Law + Remedies essay, pair this with the Remedies TRO/PI template.
 

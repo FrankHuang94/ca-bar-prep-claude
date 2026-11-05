@@ -191,6 +191,7 @@ status: draft
 - **Civil Procedure:**
   - *Mallory v. Norfolk Southern* (2023): consent-by-registration jurisdiction.
   - *Royal Canin v. Wullschleger* (2025): post-removal amendment dropping the federal claims requires remand.
+  - *Lackey v. Stinnie* (2025): a preliminary injunction alone does not make a § 1983 plaintiff a prevailing party for § 1988 fees.
 - **Evidence / Criminal Procedure:**
   - *Samia v. United States* (2023): redacted codefendant confession.
   - *Smith v. Arizona* (2024): basis testimony is offered for its truth.
