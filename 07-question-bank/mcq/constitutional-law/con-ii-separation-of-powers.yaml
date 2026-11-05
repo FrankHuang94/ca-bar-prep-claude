@@ -15,10 +15,10 @@ questions:
     that, as applied to her, it exceeds Congress's power under the Commerce Clause.
   call: "Is her argument likely to succeed?"
   options:
-    A: "Yes, because her cultivation is purely intrastate and noncommercial, and Congress may not aggregate noneconomic activity."
-    B: "No, because Congress could rationally conclude that home cultivation, in the aggregate, substantially affects the interstate market it is regulating."
-    C: "Yes, because the regulation of drugs for personal use is a power reserved to the states by the Tenth Amendment."
-    D: "No, because Congress may regulate any activity that affects the health of the nation's people."
+    A: "Yes, because her cultivation is purely intrastate and noncommercial, and under Lopez and Morrison Congress may not aggregate noneconomic activity."
+    B: "No, because Congress could rationally conclude that home cultivation, in the aggregate, substantially affects the interstate market it regulates."
+    C: "Yes, because regulating drugs grown and used at home for personal consumption is a police power reserved to the states by the Tenth Amendment."
+    D: "No, because Congress may regulate any activity that affects the health of the nation's people, including the cultivation of dangerous drugs."
   answer: B
   explanation_correct: >-
     B is correct. Congress may regulate intrastate economic activity that, in the aggregate, substantially
@@ -180,10 +180,10 @@ questions:
     components to it. In a proper proceeding, the executive order is challenged.
   call: "Is the executive order constitutional?"
   options:
-    A: "No, because the President acted contrary to the expressed will of Congress in an area where the Constitution gives Congress power, and no exclusive presidential power is involved."
-    B: "Yes, because the President has plenary and exclusive power to conduct the nation's foreign relations."
-    C: "Yes, because the President as commander in chief may control exports of military technology."
-    D: "No, because the President may never take action in foreign affairs without prior congressional authorization."
+    A: "No, because the President acted against Congress's express will on a matter within Congress's power, and no exclusive presidential power is involved."
+    B: "Yes, because the President has plenary and exclusive power to conduct the nation's foreign relations, which Congress may not restrict by statute."
+    C: "Yes, because the President as commander in chief may control exports of military technology, and satellite-guidance components have military uses."
+    D: "No, because the President may never take action in foreign affairs without prior congressional authorization, whether or not a statute speaks to the matter."
   answer: A
   explanation_correct: >-
     A is correct. Under Justice Jackson's Youngstown framework, when the President acts against the
@@ -265,10 +265,10 @@ questions:
     moves to dismiss on the ground that the Commission is unconstitutionally constituted.
   call: "How should the court rule?"
   options:
-    A: "Deny the motion, because the Necessary and Proper Clause lets Congress structure the agencies it creates as it sees fit."
-    B: "Grant the motion, because officers who exercise significant executive authority must be appointed as the Appointments Clause provides, which does not permit appointment by congressional leaders."
-    C: "Deny the motion, because the President appoints a third of the members and therefore controls the Commission."
-    D: "Grant the motion, because Congress may not delegate rulemaking power to an independent commission."
+    A: "Deny the motion, because the Necessary and Proper Clause lets Congress structure the agencies it creates as it sees fit, including choosing who appoints their members."
+    B: "Grant the motion, because officers wielding significant executive authority must be appointed as the Appointments Clause provides, not by congressional leaders."
+    C: "Deny the motion, because the President appoints a third of the members with the Senate's consent, which gives the executive branch adequate control of the Commission."
+    D: "Grant the motion, because Congress may not delegate the power to issue binding rules governing private conduct to an independent commission."
   answer: B
   explanation_correct: >-
     B is correct. Anyone exercising significant authority under federal law, such as issuing binding rules

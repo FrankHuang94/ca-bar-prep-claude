@@ -222,9 +222,9 @@ questions:
     condition sues.
   call: "Is the statute constitutional?"
   options:
-    A: "Yes, because it is rationally related to the state's legitimate interest in preserving its fiscal resources."
-    B: "No, because it penalizes the exercise of the right to interstate travel by denying new residents a basic necessity, and it is not necessary to a compelling interest."
-    C: "Yes, because a state may require a period of residence before granting benefits, as it may for in-state college tuition."
+    A: "Yes, because it is rationally related to the state's legitimate interest in preserving its limited health-care budget for long-term residents."
+    B: "No, because it penalizes the right to interstate travel by denying new residents a basic necessity, and it is not necessary to a compelling interest."
+    C: "Yes, because a state may require a reasonable period of residence before granting state benefits, as it may for in-state college tuition or for divorce."
     D: "No, because it discriminates against citizens of other states in violation of the Privileges and Immunities Clause of Article IV."
   answer: B
   explanation_correct: >-
@@ -265,10 +265,10 @@ questions:
     Protection Clause.
   call: "How should the court rule?"
   options:
-    A: "Uphold the statute, because it is rationally related to the legitimate goal of helping needy spouses."
-    B: "Uphold the statute, because laws that favor women to compensate for past discrimination are not subject to heightened scrutiny."
-    C: "Strike the statute, because sex is a suspect classification and the statute is not necessary to a compelling interest."
-    D: "Strike the statute, because the state cannot show an exceedingly persuasive justification, given that individualized hearings already identify needy spouses of either sex."
+    A: "Uphold the statute, because it is rationally related to the legitimate goal of helping needy spouses, given women's historically fewer economic opportunities."
+    B: "Uphold the statute, because laws that favor women to compensate for past economic discrimination are benign and not subject to heightened scrutiny."
+    C: "Strike the statute, because sex is a suspect classification under the Equal Protection Clause, and the statute is not necessary to any compelling interest."
+    D: "Strike the statute, because the state cannot show an exceedingly persuasive justification when individualized hearings already identify needy spouses."
   answer: D
   explanation_correct: >-
     D is correct. Sex classifications receive intermediate scrutiny: the government must show an
@@ -305,9 +305,9 @@ questions:
     because he is not a citizen. He sues, claiming the statute violates the Equal Protection Clause.
   call: "Is the statute constitutional?"
   options:
-    A: "Yes, because a state may limit positions that carry out important governmental functions to citizens if the limitation is rationally related to a legitimate interest."
-    B: "No, because classifications based on alienage are suspect, and the statute is not necessary to a compelling state interest."
-    C: "Yes, because the regulation of aliens falls within the state's plenary power over immigration."
+    A: "Yes, because a state may limit jobs that carry out important governmental functions to citizens if the limit is rationally related to a legitimate interest."
+    B: "No, because classifications based on alienage are suspect, and excluding a long-term lawful permanent resident is not necessary to a compelling interest."
+    C: "Yes, because the regulation of resident aliens falls within the state's plenary power over immigration, so state alienage rules get only rational-basis review."
     D: "No, because a lawful permanent resident is entitled to the same treatment as a citizen under the Privileges or Immunities Clause."
   answer: A
   explanation_correct: >-
@@ -348,10 +348,10 @@ questions:
     Clause.
   call: "How should the court rule?"
   options:
-    A: "For the applicants, because a test with a racially disproportionate impact is subject to strict scrutiny."
+    A: "For the applicants, because a test that Black applicants fail at nearly twice the white rate has a racially disproportionate impact and triggers strict scrutiny."
     B: "For the applicants, because the city cannot prove that the test is the least discriminatory way to select firefighters."
-    C: "For the city, because a facially neutral test with a disparate impact is reviewed under the rational-basis standard absent proof of discriminatory purpose."
-    D: "For the city, because the Equal Protection Clause does not apply to public employment decisions."
+    C: "For the city, because a facially neutral test with a disparate impact gets rational-basis review absent proof of discriminatory purpose."
+    D: "For the city, because the Equal Protection Clause does not apply to public employment decisions, which only federal civil-rights statutes govern."
   answer: C
   explanation_correct: >-
     C is correct. A facially neutral law is treated as a racial classification only if the challenger
@@ -386,10 +386,10 @@ questions:
     She proves that many judges remain fully capable well past age 72.
   call: "Is the requirement constitutional?"
   options:
-    A: "No, because age is a quasi-suspect classification, and the requirement is not substantially related to an important interest."
-    B: "Yes, because age classifications get rational-basis review, and the state could rationally believe that mandatory retirement promotes a capable judiciary even if the rule is imperfect."
-    C: "No, because the requirement is overinclusive as applied to capable judges like the plaintiff."
-    D: "Yes, because a state's choice of qualifications for its own officers is a nonjusticiable political question."
+    A: "No, because age is a quasi-suspect classification like sex, and a mandatory retirement age is not substantially related to an important interest."
+    B: "Yes, because age classifications get rational-basis review, and the state could rationally believe that mandatory retirement promotes a capable judiciary."
+    C: "No, because the requirement is overinclusive as applied to capable judges like the plaintiff, whose fitness the state could assess case by case."
+    D: "Yes, because a state's choice of qualifications for its own judges and other officers is a nonjusticiable political question that only the state may decide."
   answer: B
   explanation_correct: >-
     B is correct. Age is not a suspect or quasi-suspect classification, so an age-based rule is upheld if
@@ -426,10 +426,10 @@ questions:
     of the equipment sues, claiming a taking.
   call: "Has there been a taking for which just compensation is required?"
   options:
-    A: "Yes, because a permanent physical occupation of property authorized by the government is a taking, regardless of its size or economic impact."
+    A: "Yes, because a government-authorized permanent physical occupation of property is a taking, regardless of its size or economic impact."
     B: "No, because the minimal economic impact on the owner means there is no taking under the Penn Central balancing test."
-    C: "No, because the ordinance serves the important public purpose of expanding internet access."
-    D: "Yes, but only if the equipment deprives the owner of all economically beneficial use of the building."
+    C: "No, because the ordinance serves the important public purpose of expanding internet access, which satisfies the Takings Clause's public-use requirement."
+    D: "Yes, but only if the equipment deprives the owner of all economically beneficial use of the building, as a total regulatory wipeout would."
   answer: A
   explanation_correct: >-
     A is correct. A permanent physical occupation authorized by the government is a per se taking, however
@@ -467,8 +467,8 @@ questions:
   call: "Is the owner likely to prevail?"
   options:
     A: "No, because land-use permit conditions are valid if rationally related to a legitimate government interest."
-    B: "No, because the owner was free to decline the permit and therefore gave up nothing involuntarily."
-    C: "No, because the condition does not deprive the owner of all economically beneficial use of her property."
+    B: "No, because the owner was free to decline the permit and keep her land, so she gave up nothing involuntarily by accepting the condition."
+    C: "No, because the condition takes only a 10-foot strip and does not deprive the owner of all economically beneficial use of her property."
     D: "Yes, because the city has made no individualized determination that the easement is roughly proportional to the patio's impact."
   answer: D
   explanation_correct: >-
@@ -507,10 +507,10 @@ questions:
     ordinance, sues the city.
   call: "Which of the following is the carpenter's strongest constitutional argument?"
   options:
-    A: "The ordinance discriminates against interstate commerce in violation of the dormant Commerce Clause."
-    B: "The ordinance violates the Privileges or Immunities Clause of the Fourteenth Amendment."
-    C: "The ordinance discriminates against nonresidents in the pursuit of a livelihood, in violation of the Privileges and Immunities Clause of Article IV."
-    D: "The ordinance denies nonresidents equal protection because residence is a suspect classification."
+    A: "The ordinance discriminates against interstate commerce in violation of the dormant Commerce Clause by favoring local workers over out-of-state workers."
+    B: "The ordinance violates the Privileges or Immunities Clause of the Fourteenth Amendment by burdening the carpenter's right to travel between states."
+    C: "The ordinance discriminates against nonresidents in pursuing a livelihood, in violation of the Privileges and Immunities Clause of Article IV."
+    D: "The ordinance denies nonresidents equal protection because residence is a suspect classification that triggers strict scrutiny."
   answer: C
   explanation_correct: >-
     C is correct. Article IV P&I bars a state or city from discriminating against out-of-state citizens in
@@ -526,6 +526,8 @@ questions:
     B: >-
       The Fourteenth Amendment Privileges or Immunities Clause protects only privileges of national
       citizenship and is rarely a winning argument outside the new-resident travel cases (R-CON-082).
+      The carpenter is a nonresident, not a new resident denied equal treatment (Saenz v. Roe), and the
+      ordinance does not stop him from traveling.
     D: >-
       Wrong tier. Residence is not a suspect classification; equal protection would apply rational basis,
       which the city would likely satisfy (R-CON-074).

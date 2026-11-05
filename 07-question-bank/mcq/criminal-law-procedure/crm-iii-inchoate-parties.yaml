@@ -54,10 +54,10 @@ questions:
     with attempted robbery of the first store.
   call: "Is he guilty of attempted robbery?"
   options:
-    A: "Yes, because his abandonment was motivated by the risk of detection and was a postponement rather than a complete renunciation."
-    B: "Yes, because abandonment is never a defense once a defendant has gone beyond mere preparation."
-    C: "No, because he voluntarily abandoned the robbery before threatening anyone."
-    D: "No, because his conduct was mere preparation and did not amount to a substantial step."
+    A: "Yes, because his abandonment was prompted by the risk of detection and was a postponement, not a complete renunciation."
+    B: "Yes, because abandonment is never a defense once a defendant has gone beyond mere preparation and taken a substantial step."
+    C: "No, because he voluntarily abandoned the robbery before threatening anyone, which is a complete defense under the MPC."
+    D: "No, because his conduct was mere preparation and did not amount to a substantial step, since he never displayed the pistol or demanded money."
   answer: A
   explanation_correct: >-
     A is correct. Entering the store masked and armed and approaching the counter is a substantial step
@@ -214,10 +214,10 @@ questions:
     further happened.
   call: "Of which crime, if any, is the businessman guilty?"
   options:
-    A: "Solicitation of murder, because the crime was complete when he made the request with intent that the killing occur."
-    B: "Conspiracy to commit murder, because he offered to pay for the killing."
-    C: "Both solicitation of murder and conspiracy to commit murder."
-    D: "No crime, because the man refused and nothing further was done toward the killing."
+    A: "Solicitation of murder, because the crime was complete when he made the request intending that the killing occur."
+    B: "Conspiracy to commit murder, because under the unilateral approach his own offer to pay for the killing is enough."
+    C: "Both solicitation of murder and conspiracy to commit murder, because he both requested and offered to pay for the killing."
+    D: "No crime, because the man refused and nothing further was done toward the killing, so no substantial step was taken."
   answer: A
   explanation_correct: >-
     A is correct. Solicitation is asking, encouraging or commanding another to commit a crime with intent
@@ -230,7 +230,8 @@ questions:
     C: >-
       There is no conspiracy without agreement, so only solicitation is available (R-CRM-064, R-CRM-065).
     D: >-
-      The other person's refusal is no defense; the crime of solicitation was already complete (R-CRM-064).
+      The other person's refusal is no defense, and solicitation requires no substantial step; the crime
+      was complete when the request was made (R-CRM-064).
   trap_type: missing-element
   authority: ["Common law", "MPC § 5.02"]
   source: original
@@ -251,10 +252,10 @@ questions:
     approach to accomplice liability, including the natural-and-probable-consequences doctrine.
   call: "Is the lookout guilty as an accomplice to the battery on the watchman?"
   options:
-    A: "No, because he did not intend that anyone be hurt and aided only the break-in and theft."
-    B: "No, because a lookout who remains outside is merely present at the scene of the crime."
+    A: "No, because he aided only the break-in and theft, and an accomplice is liable only for crimes he intended to assist."
+    B: "No, because a lookout who remains outside and never enters the building is merely present at the scene and does not aid the crime."
     C: "Yes, because an accomplice is responsible for every crime his principal commits, whether or not it was foreseeable."
-    D: "Yes, because a violent confrontation with someone guarding the premises was a foreseeable consequence of the break-in and theft he aided."
+    D: "Yes, because violence against someone guarding the premises was a foreseeable consequence of the break-in and theft he aided."
   answer: D
   explanation_correct: >-
     D is correct. A person who aids a crime with intent that it be committed is an accomplice to it

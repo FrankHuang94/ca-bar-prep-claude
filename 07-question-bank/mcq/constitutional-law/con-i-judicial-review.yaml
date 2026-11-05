@@ -230,10 +230,10 @@ questions:
     judgment that the statute violates the First Amendment, and the attorney general moves to dismiss.
   call: "How should the court rule on the motion to dismiss?"
   options:
-    A: "Grant it, because the claim is not ripe until the citizen is prosecuted."
+    A: "Grant it, because a pre-enforcement challenge is not ripe until the state actually charges the citizen, since until then her injury is speculative."
     B: "Grant it, because the federal court must abstain so that the citizen can raise the First Amendment as a defense in state court."
-    C: "Deny it, because the citizen intends conduct that is arguably constitutionally protected and proscribed by the statute, and she faces a credible threat of prosecution."
-    D: "Deny it, because any citizen may challenge a statute that restricts political speech."
+    C: "Deny it, because she intends arguably protected conduct that the statute proscribes, and she faces a credible threat of prosecution."
+    D: "Deny it, because any citizen may sue to challenge a statute that restricts political speech, whether or not she intends to engage in that speech herself."
   answer: C
   explanation_correct: >-
     C is correct. A pre-enforcement challenge is ripe when the plaintiff intends to engage in conduct
@@ -319,10 +319,10 @@ questions:
     presents a nonjusticiable political question.
   call: "Should the court grant the motion?"
   options:
-    A: "Yes, because the Constitution makes each House the judge of the qualifications of its own members."
-    B: "Yes, because a judgment against the House would express a lack of respect for a coordinate branch."
-    C: "No, because the political question doctrine never applies to disputes involving Congress."
-    D: "No, because the House's power to judge qualifications is limited to the qualifications fixed in the Constitution, and courts can decide whether those were met."
+    A: "Yes, because the Constitution makes each House the judge of the qualifications of its own members, a textual commitment that courts may not review."
+    B: "Yes, because under Baker v. Carr a judgment against the House would express a lack of the respect due a coordinate branch of government."
+    C: "No, because the political question doctrine never applies to disputes involving Congress, only to disputes over foreign affairs."
+    D: "No, because the House may judge only the qualifications fixed in the Constitution, and courts can decide whether those were met."
   answer: D
   explanation_correct: >-
     D is correct. A political question exists chiefly where the Constitution textually commits an issue to

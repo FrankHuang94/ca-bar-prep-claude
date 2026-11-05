@@ -15,10 +15,10 @@ questions:
     contractor.
   call: "Is the tax constitutional as applied to the contractor?"
   options:
-    A: "Yes, because it is a nondiscriminatory tax on a private party, even though its economic burden falls on the federal government."
-    B: "No, because a state may not tax any entity that performs work for the federal government."
-    C: "No, because the legal incidence of the tax falls on the United States, which reimburses it."
-    D: "Yes, because the Supremacy Clause places no limits on a state's power to tax."
+    A: "Yes, because it is a nondiscriminatory tax on a private party, even though its economic burden falls on the United States."
+    B: "No, because a state may not tax any entity that performs work for the federal government, since such a tax burdens the exercise of federal power."
+    C: "No, because the legal incidence of the tax falls on the United States, which reimburses the contractor for every dollar of the tax it pays."
+    D: "Yes, because the Supremacy Clause places no limits on a state's power to tax, which the Tenth Amendment reserves to the states."
   answer: A
   explanation_correct: >-
     A is correct. States may not tax the United States directly or discriminate against it or those who
@@ -136,10 +136,10 @@ questions:
     harvesters and processed them at its own plant across the border sues to invalidate the law.
   call: "How should the court rule?"
   options:
-    A: "Uphold the law, because its burden on interstate commerce is not clearly excessive in relation to its quality-control benefits."
-    B: "Uphold the law, because the state owns the oysters in its waters and may condition their removal."
-    C: "Strike the law, because it discriminates against interstate commerce and the state's quality interest could be served by nondiscriminatory means such as inspection."
-    D: "Strike the law, because it violates the Privileges and Immunities Clause of Article IV."
+    A: "Uphold the law, because it serves a legitimate quality-control purpose, and its burden on interstate commerce is not clearly excessive in relation to that benefit."
+    B: "Uphold the law, because the state owns the wild oysters in its waters and may condition their removal on processing them within the state."
+    C: "Strike the law, because it discriminates against interstate commerce, and inspection or other nondiscriminatory means could serve the quality interest."
+    D: "Strike the law, because it denies out-of-state processors equal access to a common calling, in violation of the Privileges and Immunities Clause of Article IV."
   answer: C
   explanation_correct: >-
     C is correct. A state law that discriminates against interstate commerce to benefit in-state economic
@@ -177,10 +177,10 @@ questions:
     sues, claiming the ban violates the dormant Commerce Clause.
   call: "Is the ban likely to be upheld?"
   options:
-    A: "Yes, because the ban regulates evenhandedly and its incidental burden on interstate commerce is not clearly excessive in relation to its environmental benefits."
-    B: "No, because the ban substantially reduces the interstate sale of foam containers."
-    C: "Yes, because a state law that serves an environmental purpose is not subject to dormant Commerce Clause review."
-    D: "No, because the state cannot prove that the ban is the least restrictive means of reducing litter."
+    A: "Yes, because the ban regulates evenhandedly, and its incidental burden on interstate commerce is not clearly excessive in relation to its benefits."
+    B: "No, because the ban substantially reduces the interstate sale of foam containers and will cost the out-of-state manufacturer about $3 million a year."
+    C: "Yes, because a state law that serves a genuine environmental purpose, such as reducing litter, is not subject to dormant Commerce Clause review."
+    D: "No, because the state cannot prove that banning an entire product is the least restrictive means of reducing litter, as it must when commerce is burdened."
   answer: A
   explanation_correct: >-
     A is correct. A law that regulates evenhandedly to serve a legitimate local interest, with only
@@ -296,10 +296,10 @@ questions:
     violates the dormant Commerce Clause.
   call: "Will the insurer prevail on that claim?"
   options:
-    A: "Yes, because the tax facially discriminates against interstate commerce."
+    A: "Yes, because the tax facially discriminates against interstate commerce by taxing out-of-state insurers at four times the domestic rate."
     B: "Yes, because Congress may not authorize states to discriminate against interstate commerce."
     C: "No, because Congress has clearly authorized the discrimination, which removes the dormant Commerce Clause limit."
-    D: "No, because the business of insurance is not interstate commerce."
+    D: "No, because the business of insurance is a local activity rather than interstate commerce, so the dormant Commerce Clause does not reach it."
   answer: C
   explanation_correct: >-
     C is correct. The dormant Commerce Clause is a limit that Congress, which holds the commerce power, can

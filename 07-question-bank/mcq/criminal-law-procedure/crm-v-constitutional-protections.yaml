@@ -14,10 +14,10 @@ questions:
     possession. He moves to suppress the gun as the product of an unconstitutional search.
   call: "Should the motion be granted?"
   options:
-    A: "Yes, because the officer searched the car without probable cause."
+    A: "Yes, because the officer searched the car without probable cause after the driver had refused consent."
     B: "Yes, because a passenger is seized during a traffic stop and may challenge evidence found as a result."
-    C: "No, because the defendant had no reasonable expectation of privacy in the area under the seats of another person's car."
-    D: "No, because the search was valid as incident to the traffic stop."
+    C: "No, because the defendant had no reasonable expectation of privacy under the seats of another person's car."
+    D: "No, because the search was valid as a search incident to the lawful traffic stop, which justified checking the passenger compartment."
   answer: C
   explanation_correct: >-
     C is correct. Fourth Amendment rights are personal; a defendant may suppress evidence only if the search
@@ -97,10 +97,10 @@ questions:
     waistband. He moves to suppress the gun.
   call: "Should the motion be granted?"
   options:
-    A: "No, because the tip accurately described the man's appearance and location."
-    B: "No, because a report that a person is carrying a gun justifies a frisk for the officers' safety."
-    C: "No, because a frisk is a minimal intrusion that requires no particular justification."
-    D: "Yes, because an anonymous tip that a person is carrying a gun, without predictive information or other corroboration of the criminal allegation, does not create reasonable suspicion."
+    A: "No, because the tip accurately described the man's appearance and location, and the officers confirmed both details within two minutes of the call."
+    B: "No, because a report that a person is carrying a gun justifies a frisk for the officers' safety, whatever the source of the report."
+    C: "No, because a frisk is a minimal intrusion that requires no particular justification when officers are responding to a citizen's report of a gun."
+    D: "Yes, because an anonymous gun tip lacking predictive information or corroboration of its criminal claim does not create reasonable suspicion."
   answer: D
   explanation_correct: >-
     D is correct. A stop requires reasonable suspicion based on specific, articulable facts, and a frisk
@@ -175,10 +175,10 @@ questions:
     and confessed to the robbery. She moves to suppress the confession in her robbery prosecution.
   call: "Should the motion be granted?"
   options:
-    A: "No, because her request for counsel applied only to questioning about the burglary."
-    B: "No, because she knowingly and voluntarily waived her rights after receiving fresh warnings."
-    C: "Yes, because after she requested counsel, police could not initiate questioning about any crime while she remained in custody without counsel present."
-    D: "No, because the detective who questioned her did not know that she had asked for a lawyer."
+    A: "No, because her request for counsel applied only to questioning about the burglary, and the robbery was an unrelated offense."
+    B: "No, because she knowingly and voluntarily waived her rights in writing after receiving fresh Miranda warnings, which cured any earlier problem."
+    C: "Yes, because once she requested counsel, police could not initiate questioning about any crime while she stayed in custody without counsel."
+    D: "No, because the detective who questioned her did not know that she had asked for a lawyer and so acted in good faith."
   answer: C
   explanation_correct: >-
     C is correct. Once a suspect in custody unambiguously requests counsel, police may not interrogate her
@@ -253,10 +253,10 @@ questions:
     identification and any identification of him by the victim in the courtroom.
   call: "How should the court rule?"
   options:
-    A: "Admit both, unless the man shows that the lineup was unnecessarily suggestive."
-    B: "Exclude both, because any identification that follows an uncounseled post-indictment lineup is inadmissible."
-    C: "Exclude the lineup identification, but admit the in-court identification if the prosecution proves by clear and convincing evidence that it has a source independent of the lineup."
-    D: "Admit both, because the right to counsel does not apply to lineups."
+    A: "Admit both, unless the man shows that the lineup was so unnecessarily suggestive that it created a very substantial likelihood of misidentification."
+    B: "Exclude both, because any identification that follows an uncounseled post-indictment lineup is tainted by the violation and inadmissible for all purposes."
+    C: "Exclude the lineup identification, but admit the in-court identification if the prosecution shows an independent source by clear and convincing evidence."
+    D: "Admit both, because the right to counsel does not apply to lineups, which are not a trial-like confrontation with the prosecution."
   answer: C
   explanation_correct: >-
     C is correct. After formal charges, a live lineup is a critical stage at which the accused has a Sixth
@@ -296,10 +296,10 @@ questions:
     suppress her identification.
   call: "Should the motion be granted?"
   options:
-    A: "Yes, because a one-person show-up is unconstitutional per se."
-    B: "Yes, because the man was entitled to have counsel present at the show-up."
-    C: "No, because due-process protections apply only to formal lineups and photo arrays."
-    D: "No, because even if the procedure was suggestive, the identification was reliable under the totality of the circumstances."
+    A: "Yes, because a one-person show-up with the suspect in handcuffs is so suggestive that it is unconstitutional per se."
+    B: "Yes, because the man was entitled to have counsel present at the show-up, which was a critical stage of the criminal proceedings."
+    C: "No, because due-process protections apply only to formal lineups and photo arrays, not to on-the-scene show-ups."
+    D: "No, because even if the show-up was suggestive, the identification was reliable under the totality of the circumstances."
   answer: D
   explanation_correct: >-
     D is correct. An identification violates due process only if police used an unnecessarily suggestive
@@ -497,9 +497,9 @@ questions:
   call: "Should the court admit the recording over the defendant's Confrontation Clause objection?"
   options:
     A: "No, because the statement is testimonial and the defendant had no prior opportunity to cross-examine her."
-    B: "Yes, because the woman is unavailable to testify."
-    C: "Yes, because a recorded statement made shortly after the crime is reliable."
-    D: "Yes, because statements made to police officers are not testimonial."
+    B: "Yes, because the woman is unavailable to testify, having moved abroad and refused to return for trial."
+    C: "Yes, because a detailed, recorded statement made to police shortly after the crime is sufficiently reliable to be admitted."
+    D: "Yes, because statements made voluntarily to police officers, rather than in court, are not testimonial."
   answer: A
   explanation_correct: >-
     A is correct. The Confrontation Clause bars a testimonial statement of a witness who does not testify
@@ -537,10 +537,10 @@ questions:
     stating that the prosecutor's recommendation had not influenced him. The defendant appeals.
   call: "Is the defendant entitled to relief?"
   options:
-    A: "No, because the judge stated that the recommendation did not affect the sentence."
-    B: "No, because a judge is not bound by a prosecutor's sentencing recommendation."
-    C: "Yes, because the prosecution broke its promise, and the court must order specific performance of the agreement or permit withdrawal of the plea."
-    D: "Yes, and the charges must be dismissed with prejudice."
+    A: "No, because the judge stated that the recommendation did not affect the sentence, so the breach caused the defendant no prejudice at all."
+    B: "No, because a judge is not bound by a prosecutor's sentencing recommendation and could have imposed eight years in any event."
+    C: "Yes, because the prosecution broke its promise, and the remedy is specific performance of the agreement or withdrawal of the plea."
+    D: "Yes, and the charges must be dismissed with prejudice because the prosecution breached its plea agreement."
   answer: C
   explanation_correct: >-
     C is correct. When a plea rests in significant part on a prosecutor's promise, the promise must be
@@ -616,10 +616,10 @@ questions:
     dismiss on double-jeopardy grounds.
   call: "Should the motion be granted?"
   options:
-    A: "Yes, because jeopardy attached when the jury was sworn."
+    A: "Yes, because jeopardy attached when the jury was sworn, and a second trial would put him in jeopardy again."
     B: "No, because the defendant requested the mistrial, and the prosecution did not intend to provoke it."
-    C: "Yes, because the mistrial resulted from the conduct of a prosecution witness."
-    D: "No, because jeopardy does not attach until the jury returns a verdict."
+    C: "Yes, because the mistrial resulted from the conduct of a prosecution witness, which is attributed to the prosecution."
+    D: "No, because jeopardy does not attach until the jury returns a verdict of guilty or not guilty."
   answer: B
   explanation_correct: >-
     B is correct. Jeopardy attached when the jury was sworn (R-CRM-116), but retrial is allowed after a
@@ -693,9 +693,9 @@ questions:
     Amendment because his alcoholism is a disease.
   call: "Is his conviction constitutional?"
   options:
-    A: "No, because it is cruel and unusual to punish a person for the symptoms of an illness."
-    B: "No, because the statute punishes the status of being an alcoholic."
-    C: "Yes, because the Eighth Amendment limits only the length of prison sentences."
+    A: "No, because it is cruel and unusual to punish a person for the symptoms of an illness, and public drunkenness is a symptom of his alcoholism."
+    B: "No, because the statute in effect punishes the status of being an alcoholic, as the law struck down in Robinson punished addiction."
+    C: "Yes, because the Eighth Amendment limits only the length of prison sentences, not the conduct a state chooses to criminalize."
     D: "Yes, because the statute punishes the conduct of being intoxicated in public, not the status of being an alcoholic."
   answer: D
   explanation_correct: >-
@@ -735,10 +735,10 @@ questions:
     convicted of felony murder and sentenced to death.
   call: "Is the death sentence constitutional?"
   options:
-    A: "Yes, because he was validly convicted of felony murder, a capital crime."
+    A: "Yes, because he was validly convicted of felony murder, a capital crime, and each co-felon is liable for a killing by another."
     B: "No, because he did not kill, attempt or intend to kill, and was not a major participant acting with reckless indifference to human life."
-    C: "Yes, because the death penalty is constitutional for any murder if the sentencer considers mitigating evidence."
-    D: "No, because the Eighth Amendment forbids the death penalty for any felony murder."
+    C: "Yes, because the death penalty is constitutional for any murder as long as the sentencer considers all of the defendant's mitigating evidence."
+    D: "No, because the Eighth Amendment forbids the death penalty for any felony murder in which the defendant did not personally kill."
   answer: B
   explanation_correct: >-
     B is correct. The Eighth Amendment bars the death penalty for a felony-murder accomplice who did not
@@ -775,10 +775,10 @@ questions:
     objected, was convicted and appeals.
   call: "Was the instruction constitutional?"
   options:
-    A: "Yes, because it merely permitted the jury to infer intent from the defendant's conduct."
-    B: "Yes, because the defendant remained free to present evidence rebutting the presumption."
-    C: "No, because a reasonable juror could have understood it as a mandatory presumption that shifted to the defendant the burden of proof on intent, an element of the crime."
-    D: "No, because a judge may never instruct the jury about inferences it may draw from the evidence."
+    A: "Yes, because it merely permitted the jury to infer intent from the defendant's conduct, and firing a deadly weapon supports a rational inference of intent."
+    B: "Yes, because the defendant remained free to present evidence rebutting the presumption, so the burden of proof stayed with the state."
+    C: "No, because a reasonable juror could read it as a mandatory presumption shifting the burden of proof on intent, an element, to the defendant."
+    D: "No, because a judge may never instruct the jury about inferences it may draw from the evidence, which is the jury's exclusive province."
   answer: C
   explanation_correct: >-
     C is correct. Due process requires the prosecution to prove every element beyond a reasonable doubt
@@ -857,10 +857,10 @@ questions:
     imposed a nine-year sentence.
   call: "Is the sentence constitutional?"
   options:
-    A: "Yes, because a judge may find facts relevant to sentencing by a preponderance of the evidence."
-    B: "Yes, because the victim's age is a sentencing factor rather than an element of the offense."
-    C: "No, because every fact that affects a sentence must be found by a jury beyond a reasonable doubt."
-    D: "No, because a fact other than a prior conviction that increases the maximum penalty must be found by a jury beyond a reasonable doubt or admitted by the defendant."
+    A: "Yes, because a judge may find facts relevant to sentencing by a preponderance of the evidence, and the sentence is within the ten-year enhanced maximum."
+    B: "Yes, because the legislature defined the victim's age as a sentencing factor in a separate statute rather than as an element of the offense."
+    C: "No, because every fact that affects a sentence, including the victim's age, must be found by a jury beyond a reasonable doubt."
+    D: "No, because any fact other than a prior conviction that raises the maximum penalty must be found by a jury beyond a reasonable doubt or admitted."
   answer: D
   explanation_correct: >-
     D is correct. Other than the fact of a prior conviction, any fact that increases the penalty beyond the

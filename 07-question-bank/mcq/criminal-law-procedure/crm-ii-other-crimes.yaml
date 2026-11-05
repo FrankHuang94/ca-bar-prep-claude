@@ -53,9 +53,9 @@ questions:
     day. The check was later dishonored.
   call: "Which crime has the woman committed with respect to the car?"
   options:
-    A: "Larceny, because she took the car without the seller's valid consent."
-    B: "Larceny by trick, because she obtained the car through a misrepresentation."
-    C: "Embezzlement, because she converted the car after lawfully obtaining it."
+    A: "Larceny, because she took the car without the seller's valid consent, since consent obtained by fraud is no consent."
+    B: "Larceny by trick, because she obtained the car through a misrepresentation that she was paying with a genuine check."
+    C: "Embezzlement, because she converted the car by selling it the next day after lawfully obtaining it from the seller."
     D: "False pretenses, because her misrepresentation of a present fact induced the seller to pass title to her."
   answer: D
   explanation_correct: >-
@@ -65,8 +65,9 @@ questions:
     representation, the seller signed over the title.
   explanation_each_wrong_option:
     A: >-
-      Larceny requires a trespassory taking; the seller voluntarily transferred the car, so the crime is one
-      of the fraud-based offenses (R-CRM-044, R-CRM-046).
+      Larceny requires a trespassory taking; the seller voluntarily transferred title and possession, so
+      the crime is one of the fraud-based offenses. Fraud that obtains possession only is larceny by
+      trick, which does not apply when title passes (R-CRM-044, R-CRM-046).
     B: >-
       Confused rule. Larceny by trick applies when the deception obtains only possession; a completed sale
       with a signed title transfers title (R-CRM-046).
@@ -93,9 +94,9 @@ questions:
   call: "Is the man guilty of robbery?"
   options:
     A: "Yes, because he used force and intimidation to take property that was in the homeowner's presence and under her control."
-    B: "Yes, because he was armed with a deadly weapon when he took the property."
-    C: "No, because the jewelry was not taken from the homeowner's person."
-    D: "No, because the homeowner did not see the property being taken."
+    B: "Yes, because he was armed with a deadly weapon when he took the property, and an armed theft from a dwelling is robbery."
+    C: "No, because the jewelry was taken from a safe upstairs rather than from the homeowner's person."
+    D: "No, because the homeowner was locked in the basement and did not see the jewelry being taken, so it was not taken in her presence."
   answer: A
   explanation_correct: >-
     A is correct. Robbery is larceny from the victim's person or presence accomplished by force or

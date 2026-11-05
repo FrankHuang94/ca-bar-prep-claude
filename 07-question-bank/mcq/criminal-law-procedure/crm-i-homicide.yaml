@@ -213,8 +213,8 @@ questions:
   call: "What is the most serious crime of which the man can properly be convicted?"
   options:
     A: "Involuntary manslaughter, because the death was caused by a battery, an inherently wrongful misdemeanor."
-    B: "Second-degree murder, because he intended to inflict bodily injury."
-    C: "Voluntary manslaughter, because the killing occurred during a heated argument."
+    B: "Second-degree murder, because he intended to inflict bodily injury and the injury he inflicted caused the death."
+    C: "Voluntary manslaughter, because the killing occurred during a heated argument that provoked him to act in anger."
     D: "Battery only, because he did not intend to cause death or serious bodily injury."
   answer: A
   explanation_correct: >-

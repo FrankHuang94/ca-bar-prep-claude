@@ -57,10 +57,10 @@ questions:
     zoning matters sues, claiming the practice violates the Establishment Clause.
   call: "How should the court rule?"
   options:
-    A: "For the resident, because the practice has the primary effect of advancing religion."
-    B: "For the resident, because the prayers are coercive in the same way as prayer at a public-school graduation."
-    C: "For the county, because opening legislative sessions with prayer fits within the nation's historical tradition, and the practice does not coerce participation."
-    D: "For the county, because the Establishment Clause does not apply to speech by government bodies."
+    A: "For the resident, because the practice has the primary effect of advancing religion and fosters excessive government entanglement with religion."
+    B: "For the resident, because the prayers are coercive in the same way as prayer at a public-school graduation, since residents must attend to address the board."
+    C: "For the county, because legislative prayer fits within the nation's historical tradition, and this practice does not coerce participation."
+    D: "For the county, because the Establishment Clause does not apply to speech by government bodies, which is exempt from First Amendment scrutiny."
   answer: C
   explanation_correct: >-
     C is correct. The Establishment Clause is read in light of historical practices and understandings, and
@@ -72,12 +72,12 @@ questions:
     too.
   explanation_each_wrong_option:
     A: >-
-      Abandoned test. The "primary effect" prong comes from Lemon v. Kurtzman, which the Court has
-      abandoned in favor of history, tradition and coercion (R-CON-090).
+      Abandoned test. The "primary effect" and "excessive entanglement" prongs come from Lemon v.
+      Kurtzman, which the Court has abandoned in favor of history, tradition and coercion (R-CON-090).
     B: >-
       Distinguishable. Graduation prayer coerces students who effectively must attend (Lee v. Weisman);
-      adults at a legislative meeting are free to leave or not participate (Town of Greece, Part II-B,
-      plurality opinion).
+      adults at a legislative meeting, including those who come to address the board, are free to leave
+      or not participate (Town of Greece, Part II-B, plurality opinion).
     D: >-
       Overbroad. Government speech is free from Free Speech Clause viewpoint limits, but the Establishment
       Clause still restricts the government's own religious speech (R-CON-096).
@@ -145,10 +145,10 @@ questions:
     Amendment.
   call: "Is the ordinance constitutional?"
   options:
-    A: "Yes, because it is a content-neutral regulation narrowly tailored to the significant interest in residential quiet, and it leaves open ample alternative channels for communication."
-    B: "No, because parks are traditional public forums, where restrictions on speech must satisfy strict scrutiny."
-    C: "No, because the city could have adopted a less restrictive decibel limit instead of banning amplification."
-    D: "Yes, because a city park at night is a nonpublic forum."
+    A: "Yes, because it is a content-neutral rule, narrowly tailored to a significant interest in residential quiet, that leaves open ample alternative channels."
+    B: "No, because parks are traditional public forums, where any restriction on political speech, such as a rally, must satisfy strict scrutiny."
+    C: "No, because the city could have adopted a less restrictive decibel limit instead of banning amplification entirely, so the ordinance is not narrowly tailored."
+    D: "Yes, because a city park at night, when the public is not using it, is a nonpublic forum where reasonable restrictions on speech are allowed."
   answer: A
   explanation_correct: >-
     A is correct. In a traditional public forum, the government may impose content-neutral time, place and
@@ -307,10 +307,10 @@ questions:
     First Amendment rights because burning the effigy was symbolic political speech.
   call: "Is the citation constitutional?"
   options:
-    A: "Yes, because the ordinance furthers an important interest unrelated to the suppression of expression and restricts expression no more than necessary to serve that interest."
-    B: "No, because burning an effigy to criticize a public official is protected symbolic speech, like burning a flag."
-    C: "No, because the ordinance burdens political expression in a traditional public forum and fails strict scrutiny."
-    D: "Yes, because conduct is never speech protected by the First Amendment."
+    A: "Yes, because the ordinance furthers an important interest unrelated to suppressing expression and restricts expression no more than necessary."
+    B: "No, because burning an effigy to criticize a public official is protected symbolic speech, like burning a flag, which the city may not punish."
+    C: "No, because the ordinance burdens political expression in a traditional public forum, so it must satisfy strict scrutiny, which a ban on all open fires fails."
+    D: "Yes, because conduct is never speech protected by the First Amendment, so only the protester's spoken or written words are protected."
   answer: A
   explanation_correct: >-
     A is correct. When expressive conduct is regulated, the law is valid if it is within the government's
@@ -348,10 +348,10 @@ questions:
     prosecuted for violating the ordinance and argues that the ordinance is unconstitutional on its face.
   call: "May the organizer successfully raise this defense?"
   options:
-    A: "No, because she was required to apply for a permit and seek judicial review of any denial before demonstrating."
-    B: "No, because a person must obey a government order until it is set aside, even if it is unconstitutional."
-    C: "Yes, but only if she proves the city manager would have denied her a permit because of her message."
-    D: "Yes, because the ordinance gives the official unbridled discretion over speech in a public forum, and a facially invalid licensing law may be challenged without first applying for a permit."
+    A: "No, because a person subject to a permit law must apply for a permit and seek judicial review of any denial before demonstrating, which she never did."
+    B: "No, because a person must obey a government order until a court sets it aside, even if it is unconstitutional, and this ordinance is such an order."
+    C: "Yes, but only if she proves that the city manager would have denied her a permit because of her political message, since that is what makes such a scheme invalid."
+    D: "Yes, because the ordinance vests unbridled discretion over public-forum speech, and a facially invalid licensing law may be challenged without first applying."
   answer: D
   explanation_correct: >-
     D is correct. A permit scheme for speech in a public forum must use narrow, objective and definite
@@ -390,10 +390,10 @@ questions:
     further any unlawful aim.
   call: "Is the dismissal constitutional?"
   options:
-    A: "Yes, because the state has a compelling interest in the loyalty of its employees."
-    B: "Yes, because public employment is a privilege that the state may condition as it chooses."
-    C: "No, because the state may not penalize membership in an organization unless the member knows of its unlawful aims and specifically intends to further them."
-    D: "No, because the state may never ask public employees about their organizational memberships."
+    A: "Yes, because the state has a compelling interest in the loyalty of its employees, and membership in such an organization is itself evidence of disloyalty."
+    B: "Yes, because public employment is a privilege rather than a right, so the state may condition it on any requirement it chooses, such as loyalty."
+    C: "No, because the state may not penalize membership in a group unless the member knows of its unlawful aims and specifically intends to further them."
+    D: "No, because the state may never inquire into or act on the organizational memberships of its public employees, which are private associational matters."
   answer: C
   explanation_correct: >-
     C is correct. Freedom of association forbids punishing or denying public employment for mere

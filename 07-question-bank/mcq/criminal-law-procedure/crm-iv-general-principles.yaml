@@ -13,10 +13,10 @@ questions:
     anything, and the stranger drowned. The man is charged with involuntary manslaughter.
   call: "Can the man properly be convicted?"
   options:
-    A: "No, because there is no legal duty to rescue a stranger."
-    B: "No, because the bump was accidental, so the man committed no voluntary criminal act."
-    C: "Yes, because by creating the peril, even innocently, he came under a legal duty to take reasonable steps to aid the stranger."
-    D: "Yes, because every person has a legal duty to aid anyone in danger when aid can be given without risk."
+    A: "No, because there is no legal duty to rescue a stranger, even when the rescue could be made at no risk."
+    B: "No, because the bump was accidental, so the man committed no voluntary criminal act on which liability could rest."
+    C: "Yes, because by innocently creating the peril he came under a legal duty to take reasonable steps to aid the stranger."
+    D: "Yes, because every person has a legal duty to aid anyone in danger when aid can be given without risk, as it could be here."
   answer: C
   explanation_correct: >-
     C is correct. An omission is criminal only if the defendant had a legal duty to act, knew the facts
@@ -55,10 +55,10 @@ questions:
     of the common species. He knew that transporting endangered birds was illegal.
   call: "Is the owner guilty?"
   options:
-    A: "No, because the statute's requirement of knowledge applies to the fact that the bird belonged to an endangered species."
-    B: "Yes, because ignorance of the law is no excuse."
+    A: "No, because the statute's knowledge requirement applies to the fact that the bird belonged to an endangered species."
+    B: "Yes, because his mistake about the bird's legal status is a mistake of law, and ignorance of the law is no excuse."
     C: "Yes, because wildlife-protection statutes are public-welfare offenses that impose strict liability."
-    D: "No, because a reasonable mistake of fact is a defense to every crime."
+    D: "No, because his honest and reasonable mistake of fact is a defense to every crime, whatever mental state the statute requires."
   answer: A
   explanation_correct: >-
     A is correct. Under the MPC, when a statute states a culpability term without distinguishing among the
@@ -136,10 +136,10 @@ questions:
     gambling device under the statute, and no court or official had ever stated otherwise.
   call: "Does the owner have a valid defense?"
   options:
-    A: "Yes, because he reasonably relied on the advice of a licensed attorney."
-    B: "Yes, because he did not intend to violate the law."
+    A: "Yes, because he reasonably relied on a written opinion from a licensed attorney that the machine was not a gambling device."
+    B: "Yes, because he believed in good faith that his conduct was lawful and so did not intend to violate the law."
     C: "No, because reliance on a private attorney's advice is not reliance on an official statement of the law."
-    D: "No, because a mistake of law can never be a defense."
+    D: "No, because a mistake of law can never be a defense, no matter how reasonable the defendant's belief was."
   answer: C
   explanation_correct: >-
     C is correct. Mistake of law is generally no defense. Reasonable reliance excuses only when the
@@ -258,10 +258,10 @@ questions:
     caused the death.
   call: "Is the man's argument likely to succeed?"
   options:
-    A: "Yes, because the owner would have survived but for the surgeon's negligence."
-    B: "Yes, because a doctor's negligence is an independent intervening cause that breaks the chain of causation."
+    A: "Yes, because the owner would have survived but for the surgeon's negligence, so the stabbing was not the cause of death."
+    B: "Yes, because a doctor's negligence is an independent intervening cause that breaks the chain of causation between the stabbing and the death."
     C: "No, because the owner would not have needed surgery but for the stabbing, and that alone establishes causation."
-    D: "No, because ordinary negligence in medical treatment is a foreseeable consequence of a wound and does not relieve the man of responsibility."
+    D: "No, because ordinary negligence in treating a wound is foreseeable and does not relieve the man of responsibility for the death."
   answer: D
   explanation_correct: >-
     D is correct. The defendant must be both the actual and the proximate cause of death (R-CRM-012,
