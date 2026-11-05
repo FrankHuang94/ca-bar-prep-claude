@@ -4,7 +4,7 @@ topic: Business Associations — worked examples (original fact patterns with IR
 coverage_ids: [BUS-CBX-I, BUS-CBX-II, BUS-CBX-III, BUS-CBX-IV, BUS-CBX-V, BUS-CBX-V.A.2, BUS-CBX-V.C, BUS-CBX-V.D.3, BUS-CBX-V.E.5, BUS-CBX-V.F, BUS-CBX-V.x, BUS-CBX-VI, BUS-PAST-001]
 tested_on: [essay, PT]
 exam_frequency: {level: high, basis: "Essays: 14 of 31 administrations 2012-02 to 2026-07 (45%)"}
-last_verified: 2026-11-04
+last_verified: 2026-11-05
 status: draft
 ---
 
@@ -58,7 +58,7 @@ Each pattern is original. Read the facts, decide the answer, then check the anal
 
 ### WE-11 — The limited partner who ran the show (R-BUS-042)
 **Facts.** Lia is a limited partner in Vine LP. When the general partner falls ill, Lia negotiates a $200,000 loan from Bank, telling Bank, "I make the decisions here." Vine LP defaults.
-**Analysis.** Under ULPA (2001) § 303, Lia is shielded even though she participated in control. California keeps a narrow control rule: a limited partner who participates in control is liable as a general partner to persons who transact business with actual knowledge of that participation and a reasonable belief, based on her conduct, that she is a general partner (Corp. Code § 15903.03) [VERIFY V-703]. Bank knew of her control and her statements support a reasonable belief. **Conclusion:** Under general law Lia is not liable; in California, Bank has a strong argument that she is.
+**Analysis.** Under ULPA (2001) § 303, Lia is shielded even though she participated in control. California keeps a narrow control rule: a limited partner who participates in control is liable as a general partner to persons who transact business with actual knowledge of that participation and a reasonable belief, based on her conduct, that she is a general partner (Corp. Code § 15903.03) [S-1150]. Bank knew of her control and her statements support a reasonable belief. **Conclusion:** Under general law Lia is not liable; in California, Bank has a strong argument that she is.
 
 ### WE-12 — The law firm that never filed (R-BUS-044, R-BUS-045, R-BUS-108)
 **Facts.** Three lawyers open "Ash, Birch & Cole," share profits and decisions, and hire two salaried associates. They file nothing. Partner Ash commits malpractice.
@@ -108,7 +108,7 @@ Each pattern is original. Read the facts, decide the answer, then check the anal
 
 ### WE-23 — The LLC member's supply contract (R-BUS-102, R-BUS-103)
 **Facts.** Moe is one of three members of member-managed Lumen LLC (California). Its operating agreement requires two signatures for contracts, but Moe alone signs a routine $8,000 supply contract; the vendor knows nothing of the rule. Lumen never holds member meetings, and its agreement does not require them.
-**Analysis.** In California, each member of a member-managed LLC binds it for acts apparently in the usual course unless the third party actually knows of the lack of authority (§ 17703.01) [VERIFY V-709]; the vendor did not know. Under uniform RULLCA, the vendor would need apparent authority under agency law. Missed meetings are not an alter-ego factor where the agreement does not require them (§ 17703.04). **Conclusion:** Lumen is bound; members are not personally liable merely because meetings were skipped.
+**Analysis.** In California, each member of a member-managed LLC binds it for acts apparently in the usual course unless the third party actually knows of the lack of authority (§ 17703.01) [S-1154]; the vendor did not know. Under uniform RULLCA, the vendor would need apparent authority under agency law. Missed meetings are not an alter-ego factor where the agreement does not require them (§ 17703.04). **Conclusion:** Lumen is bound; members are not personally liable merely because meetings were skipped.
 
 ### WE-24 — The majority's holding-company scheme (R-BUS-071, R-BUS-095)
 **Facts.** Holders of 85% of a closely held savings company transfer their shares to a new holding company, take its shares public, and refuse to let the 15% minority exchange on the same terms. The minority's shares become unsellable.

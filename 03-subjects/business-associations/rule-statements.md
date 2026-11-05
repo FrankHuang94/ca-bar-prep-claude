@@ -4,7 +4,7 @@ topic: Business Associations — essay-ready rule statements (R-BUS-001 to R-BUS
 coverage_ids: [BUS-CBX-I, BUS-CBX-II, BUS-CBX-III, BUS-CBX-IV, BUS-CBX-V, BUS-CBX-V.A.2, BUS-CBX-V.C, BUS-CBX-V.D.3, BUS-CBX-V.E.5, BUS-CBX-V.F, BUS-CBX-V.x, BUS-CBX-VI, BUS-PAST-001]
 tested_on: [essay, PT]
 exam_frequency: {level: high, basis: "Essays: 14 of 31 administrations 2012-02 to 2026-07 (45%)"}
-last_verified: 2026-11-04
+last_verified: 2026-11-05
 status: draft
 ---
 
@@ -116,7 +116,7 @@ status: draft
 
 **Exceptions / defenses:** Notice ends it: actual notice to those who dealt with the agent; reasonable general notice (publication) for others. Under R3d Agency, the principal's death does not automatically end apparent authority until the third party has notice [VERIFY V-701].
 
-**Authority:** R3d Agency § 3.11 [VERIFY V-701]; Cal. Civ. Code § 2356 [VERIFY V-702].
+**Authority:** R3d Agency § 3.11 [S-1158]; Cal. Civ. Code § 2356 [VERIFY V-702].
 
 **MBE vs. CA essay:** same rule.
 
@@ -144,14 +144,14 @@ status: draft
 
 **Authority:** R3d Agency §§ 2.03, 3.03 [S-810] [VERIFY V-701]; Cal. Civ. Code §§ 2300, 2317, 2334 (ostensible authority) [VERIFY V-702].
 
-**MBE vs. CA essay:** same rule; California calls it **ostensible** authority. One sentence: "California's Civil Code calls this ostensible authority (§ 2317)."
+**MBE vs. CA essay:** same core rule; California calls it **ostensible** authority, and its Civil Code binds the principal only to third parties who, in good faith and without want of ordinary care, incurred a liability or parted with value in reliance on it (Civ. Code § 2334) [VERIFY V-934]. One sentence: "California's Civil Code calls this ostensible authority (§ 2317) and requires the third party's good-faith, reasonable reliance (§ 2334)."
 
 **Example:** A company names Lee "purchasing director" and lets him place orders for two years. A secret cap of $10,000 does not stop a supplier, unaware of the cap, from enforcing his $25,000 order.
 
 ### R-BUS-010 — Ratification
 **Rule (write this):** A principal ratifies an act done without authority by manifesting assent to be bound or by conduct that justifies a reasonable assumption that it so consents (including knowingly accepting the benefits), with knowledge of the material facts. Ratification relates back and binds the principal as if the act had been authorized from the start.
 
-**Elements:** 1. The act was done (or purported to be done) on the principal's behalf. 2. The principal had **capacity** at the time of the act and of ratification. 3. The principal has **knowledge of material facts**. 4. **Affirmance** of the entire transaction (express, implied by conduct, or by retaining benefits). 5. Timeliness: before the third party withdraws or circumstances materially change.
+**Elements:** 1. The act was done (or purported to be done) on the principal's behalf. 2. The principal **existed** when the act was done and has **capacity** when it ratifies (R3d § 4.04; older law also required capacity at the time of the act) [VERIFY V-701]. 3. The principal has **knowledge of material facts**. 4. **Affirmance** of the entire transaction (express, implied by conduct, or by retaining benefits). 5. Timeliness: before the third party withdraws or circumstances materially change.
 
 **Exceptions / defenses:** Partial ratification is not allowed (all or nothing). A principal that did not exist when the act was done (a corporation not yet formed) cannot ratify in the strict sense; it **adopts** instead, effective from adoption (R-BUS-055).
 
@@ -162,9 +162,9 @@ status: draft
 **Example:** Without authority, an employee signs a contract to buy a delivery van for her employer. The owner learns the terms, and the company uses the van for a month. The company has ratified and is bound to pay.
 
 ### R-BUS-011 — Estoppel, undisclosed principals and "inherent" authority
-**Rule (write this):** A person who intentionally or carelessly causes a third party to believe an actor is its agent, or who knows of the belief and fails to correct it, is estopped to deny the agency to a third party who justifiably and detrimentally relies. An undisclosed principal is liable for an agent's acts within the ordinary scope of the agent's apparent role, even if they exceed actual authority, if the principal did not take reasonable steps to notify third parties of the limits.
+**Rule (write this):** A person who intentionally or carelessly causes a third party to believe an actor is its agent, or who knows of the belief and fails to correct it, is estopped to deny the agency to a third party who justifiably and detrimentally relies. An undisclosed principal may not rely on secret instructions that cut the agent's authority below what a third party would reasonably believe such an agent to have if the principal were disclosed, and is liable for an unauthorized act on which a third party justifiably and detrimentally relies if the principal, knowing of the agent's conduct, did not take reasonable steps to notify the third party.
 
-**Elements:** Estoppel: 1. intentional or careless conduct (or failure to correct); 2. the third party's justifiable belief; 3. detrimental change of position. Undisclosed principal: 1. agent acts on the principal's behalf; 2. within the usual scope of such an agent; 3. third party reasonably believes the agent is the principal.
+**Elements:** Estoppel: 1. intentional or careless conduct (or failure to correct); 2. the third party's justifiable belief; 3. detrimental change of position. Undisclosed principal: 1. agent acts on the principal's behalf while the third party believes it deals with the agent alone; 2. the act is within the authority an agent in that position usually has, and the principal's restrictive instructions were secret; or 3. the principal knew of the agent's conduct and failed to notify a third party who relied.
 
 **Exceptions / defenses:** R2d Agency used "inherent agency power" (§§ 8A, 161, 194) for these cases (*Watteau v. Fenwick* [1893] 1 Q.B. 346); R3d Agency drops that label and uses estoppel (§ 2.05) and the undisclosed-principal rule (§ 2.06) instead [VERIFY V-701].
 
@@ -194,7 +194,7 @@ status: draft
 
 **Exceptions / defenses:** Disclaimer; third party's knowledge; ratification by the principal ends the claim.
 
-**Authority:** R3d Agency § 6.10 [VERIFY V-701]; Cal. Civ. Code § 2343 [VERIFY V-702].
+**Authority:** R3d Agency § 6.10 [VERIFY V-701]; Cal. Civ. Code § 2342 (one who assumes to act as an agent warrants the authority assumed) [VERIFY V-934]; § 2343 [VERIFY V-702].
 
 **MBE vs. CA essay:** same rule.
 
@@ -365,13 +365,13 @@ status: draft
 **Example:** The partners of a shoe store agree that no partner may buy more than $10,000 of inventory alone. Ann orders $50,000 of shoes from Big Shoe Co., which knows nothing of the limit. The partnership is bound (Jul 2025 Q3 pattern).
 
 ### R-BUS-026 — Acts outside the ordinary course; statements of authority
-**Rule (write this):** An act of a partner that is not apparently for carrying on the partnership business in the ordinary course binds the partnership only if the other partners actually authorized it. A statement of partnership authority filed with the Secretary of State may grant or limit partners' authority; a filed limitation on authority to transfer real property is constructive notice to third parties.
+**Rule (write this):** An act of a partner that is not apparently for carrying on the partnership business in the ordinary course binds the partnership only if the other partners actually authorized it. A statement of partnership authority filed with the Secretary of State may grant or limit partners' authority; a filed limitation on a partner's authority to transfer partnership real property is constructive notice once a certified copy of the filed statement is recorded in the office for recording transfers of that property.
 
 **Elements:** 1. Extraordinary act (selling the business's main asset, admitting a partner, guaranteeing a stranger's debt, confessing judgment). 2. Requires **all** partners' consent (or actual authority under the agreement).
 
 **Exceptions / defenses:** Ratification by the partnership. Other filed limits (non-real-property) bind only those with actual knowledge.
 
-**Authority:** Corp. Code §§ 16301(2), 16303, 16401(j); RUPA §§ 301(2), 303, 401(j).
+**Authority:** Corp. Code §§ 16301(2), 16303, 16401(j); RUPA §§ 301(2), 303(e)–(f), 401(j).
 
 **MBE vs. CA essay:** same rule.
 
@@ -449,7 +449,7 @@ status: draft
 
 **Elements:** 1. Profits: equal, regardless of capital contributed. 2. Losses: follow the profit-sharing ratio. 3. No salary by default. 4. Advances beyond agreed capital are loans earning interest.
 
-**Exceptions / defenses:** Service-only partner: in *Kovacik v. Reed* (1957) 49 Cal.2d 166 the California Supreme Court held that where one party contributes only money and the other only services, and they did not agree to share losses, the service partner need not contribute to the capital loss [S-818]. Whether *Kovacik* survives § 16401(b) is unsettled [VERIFY V-706].
+**Exceptions / defenses:** Service-only partner: in *Kovacik v. Reed* (1957) 49 Cal.2d 166 the California Supreme Court held that where one party contributes only money and the other only services, and they did not agree to share losses, the service partner need not contribute to the capital loss [S-818]. Whether *Kovacik* survives § 16401(b) is unsettled; the uniform act's official comment cites *Kovacik* as contrary case law and applies the default loss-sharing rule even to a partner who contributed no capital [VERIFY V-706].
 
 **Authority:** Corp. Code § 16401(a)–(e), (h); RUPA § 401.
 
@@ -458,7 +458,7 @@ status: draft
 **Example:** Kim contributes $100,000; Lu contributes skills. They agree to split profits 50/50 and say nothing about losses. The business loses all $100,000. Under § 16401(b) Lu owes Kim $50,000; under *Kovacik* Lu owes nothing.
 
 ### R-BUS-033 — Information, accounting, transferable interest and charging orders
-**Rule (write this):** Each partner has access to the partnership's books and records and a right to information about the business reasonably needed to exercise partner rights. A partner may sue the partnership or another partner for an accounting or other legal or equitable relief. A partner's only transferable interest is the right to receive distributions; a transferee does not become a partner, and a judgment creditor of a partner reaches that interest only through a charging order.
+**Rule (write this):** Each partner has access to the partnership's books and records and a right to information about the business reasonably needed to exercise partner rights. A partner may sue the partnership or another partner for an accounting or other legal or equitable relief. A partner's only transferable interest is the partner's share of profits and losses and right to receive distributions; a transferee does not become a partner, and a judgment creditor of a partner reaches that interest only through a charging order.
 
 **Elements:** Transfer: 1. assignment of economic rights only; 2. no management or information rights; 3. assignor remains a partner (until expelled or dissociated).
 
@@ -499,7 +499,7 @@ status: draft
 ### R-BUS-036 — Dissociation
 **Rule (write this):** A partner is dissociated on the partnership's notice of the partner's express will to withdraw, an agreed event, expulsion (under the agreement, by unanimous vote in specified cases, or by court order), bankruptcy, death, appointment of a guardian, or similar events. A partner always has the **power** to dissociate, but dissociation is **wrongful** if it breaches an express provision of the agreement or, in a partnership for a definite term or undertaking, occurs before the term ends (with limited exceptions).
 
-**Elements:** 1. Dissociation event. 2. Wrongful? (express breach; early withdrawal from term partnership; expulsion by court; bankruptcy). 3. Wrongful dissociator is liable for damages caused.
+**Elements:** 1. Dissociation event. 2. Wrongful? (breach of an express term; or, in a term partnership, early withdrawal, judicial expulsion or bankruptcy). 3. Wrongful dissociator is liable for damages caused.
 
 **Exceptions / defenses:** Withdrawal from a term partnership within 90 days after another partner's death or wrongful dissociation is not wrongful.
 
@@ -559,7 +559,7 @@ status: draft
 
 **Exceptions / defenses:** If the certificate is never filed, the venture is a general partnership and all owners face unlimited liability, subject to rules protecting a person who erroneously believed he was a limited partner and promptly withdrew or corrected the filing.
 
-**Authority:** Uniform Limited Partnership Act of 2008, Corp. Code § 15900 et seq., incl. §§ 15902.01, 15901.10 [VERIFY V-703]; ULPA (2001) §§ 201, 110.
+**Authority:** Uniform Limited Partnership Act of 2008, Corp. Code § 15900 et seq., incl. §§ 15902.01, 15901.10 [VERIFY V-930]; ULPA (2001) §§ 201, 110.
 
 **MBE vs. CA essay:** same rule.
 
@@ -570,9 +570,9 @@ status: draft
 
 **Elements:** Management authority; agency power; unlimited personal liability; fiduciary duties (loyalty: no secret profits, no adverse dealing, no competition; care: no gross negligence, recklessness, intentional misconduct or knowing violation of law).
 
-**Exceptions / defenses:** A corporate or LLC general partner limits the human principals' exposure (they risk only veil piercing). Some states allow a limited liability limited partnership (LLLP) that shields general partners; whether a domestic California LP can elect LLLP status is not confirmed [VERIFY V-703].
+**Exceptions / defenses:** A corporate or LLC general partner limits the human principals' exposure (they risk only veil piercing). Some states allow a limited liability limited partnership (LLLP) that shields general partners. California's Act registers and recognizes foreign LLLPs [S-1161], but whether a domestic California LP can elect LLLP status is not confirmed [VERIFY V-930].
 
-**Authority:** Corp. Code §§ 15904.02, 15904.04, 15904.08 [VERIFY V-703]; ULPA (2001) §§ 402, 404, 408.
+**Authority:** Corp. Code §§ 15904.02, 15904.04, 15904.08 [VERIFY V-930]; ULPA (2001) §§ 402, 404, 408.
 
 **MBE vs. CA essay:** same rule.
 
@@ -583,22 +583,22 @@ status: draft
 
 **Elements:** California exposure: 1. Participation in control. 2. Third party's **actual knowledge** of that participation. 3. Third party's **reasonable belief**, based on the LP's conduct, that the LP is a general partner. 4. Transaction with the partnership.
 
-**Exceptions / defenses:** Statutory safe-harbor activities (e.g., consulting with or advising a general partner, voting on fundamental matters, acting as an employee or contractor) are not participation in control [VERIFY V-703]. A limited partner remains liable for its own torts and for any unpaid promised contribution.
+**Exceptions / defenses:** Activities listed in § 15903.03(b) are not participation in control — for example, consulting with or advising a general partner, serving as a fiduciary of a corporate or trust general partner, approving amendments to the partnership agreement, and calling or voting at partner meetings — and the list is not exclusive (§ 15903.03(c)) [S-1150]. The section also preserves a limited partner's liability for participating in tortious conduct, and a limited partner remains liable for any unpaid promised contribution.
 
-**Authority:** Corp. Code § 15903.03 [S-808] [VERIFY V-703]; ULPA (2001) § 303; Revised ULPA (1976/1985) § 303 (control rule).
+**Authority:** Corp. Code § 15903.03 [S-808] [S-1150]; ULPA (2001) § 303; Revised ULPA (1976/1985) § 303 (control rule).
 
 **MBE vs. CA essay:** **differs.** General law (ULPA 2001): full shield regardless of control. California: shield unless the narrow control-and-reliance test is met. Write both.
 
 **Example:** A limited partner tells a lender, "I'm running this place now," and negotiates the loan herself. A lender who relied on that conduct may hold her liable as a general partner in California; under ULPA (2001) she would remain shielded.
 
 ### R-BUS-043 — Limited partners' rights; dissociation and dissolution of an LP
-**Rule (write this):** Limited partners have information rights, voting rights on matters the agreement or statute reserves (such as amendments and dissolution), and the right to bring direct and derivative actions; they owe no fiduciary duty solely by reason of being limited partners. A limited partner has no power to dissociate before the partnership's end; the LP is dissolved by agreed events, consent of all general partners and a majority of limited partners in interest, the loss of the last general partner without replacement, or judicial decree.
+**Rule (write this):** Limited partners have information rights, voting rights on matters the agreement or statute reserves (such as amendments and dissolution), and the right to bring direct and derivative actions; they owe no fiduciary duty solely by reason of being limited partners. A limited partner has no right to withdraw and be paid out before the partnership ends (one who dissociates becomes a mere transferee, with no buyout); the LP is dissolved by agreed events, consent of all general partners and a majority of limited partners in interest, the loss of the last general partner without replacement, or judicial decree.
 
 **Elements:** Derivative standing requires a demand on the general partners or a showing that demand would be futile.
 
 **Exceptions / defenses:** The agreement may expand voting or exit rights within statutory limits.
 
-**Authority:** Corp. Code §§ 15903.04–15903.06, 15906.01, 15908.01, 15910.02–15910.03 [VERIFY V-703]; ULPA (2001) §§ 304–306, 601, 801, 1002–1003.
+**Authority:** Corp. Code §§ 15903.04–15903.06, 15906.01, 15908.01, 15910.02–15910.03 [VERIFY V-930]; ULPA (2001) §§ 304–306, 601, 801, 1002–1003.
 
 **MBE vs. CA essay:** same rule in outline.
 
@@ -615,7 +615,7 @@ status: draft
 
 **Exceptions / defenses:** Without registration the firm is an ordinary general partnership with unlimited partner liability. The architecture, engineering and land-surveying categories have been subject to legislative sunset dates [VERIFY V-704].
 
-**Authority:** Corp. Code §§ 16101, 16953, 16956 [S-809] [VERIFY V-704] [VERIFY V-705]; RUPA §§ 1001–1003.
+**Authority:** Corp. Code §§ 16101, 16953, 16956 [S-809] [VERIFY V-704] [VERIFY V-933]; RUPA §§ 1001–1003.
 
 **MBE vs. CA essay:** **differs.** General law: any partnership may register. California: professional firms only. A California law firm's limited-liability choices are an LLP or a professional law corporation, not an LLC (R-BUS-108).
 
@@ -624,15 +624,15 @@ status: draft
 ### R-BUS-045 — LLP liability shield and its limits
 **Rule (write this):** A partner in a registered LLP is not personally liable, directly or by contribution, for debts, obligations or liabilities of the partnership, whether in contract, tort or otherwise, incurred while the partnership is an LLP, solely by reason of being a partner. The partnership itself remains fully liable, and each partner remains personally liable for the partner's own wrongful conduct.
 
-**Elements:** 1. Obligation incurred **while registered**. 2. Liability asserted only because of partner status. 3. Partner's own torts and malpractice (and, under some statutes, those of persons under the partner's direct supervision and control) remain personal.
+**Elements:** 1. Obligation incurred **while registered**. 2. Liability asserted only because of partner status. 3. Partner's own torts and malpractice remain personal (California's § 16306 preserves liability for the partner's own tortious conduct; some other states' statutes also reach those under the partner's direct supervision and control).
 
-**Exceptions / defenses:** Obligations incurred before registration remain under ordinary partnership rules. A partner may personally guarantee obligations. Partners may agree in writing to be liable for specified obligations [VERIFY V-705].
+**Exceptions / defenses:** Obligations incurred before registration remain under ordinary partnership rules. Specified partners may agree in writing to be liable for specified partnership obligations, and a partner may act as guarantor or surety or provide collateral (§ 16306) [S-1156].
 
-**Authority:** Corp. Code § 16306(c), (e) [S-809] [VERIFY V-705]; RUPA § 306(c) (full shield).
+**Authority:** Corp. Code § 16306 [S-809] [S-1156]; RUPA § 306(c) (full shield).
 
 **MBE vs. CA essay:** same full-shield rule; California adds the security requirement (R-BUS-044).
 
-**Example:** A partner of AB Law LLP trades on a client's confidential plans and harms the client. The LLP and the trading partner are liable; the other partner is not personally liable merely for being a partner, unless he participated or supervised (Jul 2014 Q3 pattern) [VERIFY V-071].
+**Example:** A partner of AB Law LLP trades on a client's confidential plans and harms the client. The LLP and the trading partner are liable; the other partner is not personally liable merely for being a partner, unless he participated in the wrong or was himself negligent, for example in supervising (Jul 2014 Q3 pattern) [VERIFY V-071].
 
 ---
 
@@ -645,7 +645,7 @@ status: draft
 
 **Exceptions / defenses:** Veil piercing (R-BUS-047); personal guarantees; promoter liability (R-BUS-054); personal participation in torts (R-BUS-050); receipt of unlawful distributions (R-BUS-080).
 
-**Authority:** MBCA § 6.22; Corp. Code §§ 200(c), 207.
+**Authority:** MBCA § 6.22; Corp. Code §§ 200(c) (existence begins on filing), 207 (powers of a natural person).
 
 **MBE vs. CA essay:** same rule. Open every "is the owner personally liable?" call with this rule, then work through the exceptions.
 
@@ -654,7 +654,7 @@ status: draft
 > 🇨🇳 PRC bridge: the same as 有限责任 under the PRC Company Law, and US veil piercing works like the PRC's 法人人格否认 doctrine for shareholders who abuse the corporate form (approx.).
 
 ### R-BUS-047 — Piercing the corporate veil (alter ego)
-**Rule (write this):** Courts disregard the corporate entity and hold shareholders personally liable when (1) there is such a unity of interest and ownership that the separate personalities of the corporation and the shareholder no longer exist, and (2) adherence to the fiction of separate existence would sanction a fraud or promote injustice. Courts pierce reluctantly, case by case, and only against shareholders who actively participated in the abuse.
+**Rule (write this):** Courts disregard the corporate entity and hold shareholders personally liable when (1) there is such a unity of interest and ownership that the separate personalities of the corporation and the shareholder no longer exist, and (2) adherence to the fiction of separate existence would sanction a fraud or promote injustice. Courts pierce reluctantly, case by case, and generally only against shareholders who actively participated in the abuse.
 
 **Elements:** 1. **Unity of interest** (domination, commingling, undercapitalization, disregard of formalities, R-BUS-048). 2. **Inequitable result** if the entity is respected (fraud, evasion of an existing obligation, injustice beyond the creditor's simple non-payment).
 
@@ -706,7 +706,7 @@ status: draft
 **Example:** Andy, a shareholder-officer of a newsletter corporation, writes and publishes a defamatory story about a ballplayer. Andy is personally liable for libel regardless of whether the veil is pierced (Feb 2015 Q5 pattern) [VERIFY V-071].
 
 ### R-BUS-051 — Formation: de jure incorporation
-**Rule (write this):** A corporation is formed by one or more incorporators executing and filing articles of incorporation with the Secretary of State; corporate existence begins on filing. The articles must state the corporation's name, its purpose (a general purpose clause is enough), the agent for service of process, and the number of shares it is authorized to issue.
+**Rule (write this):** A corporation is formed by one or more incorporators executing and filing articles of incorporation with the Secretary of State; corporate existence begins on filing. In California the articles must state the corporation's name, a statement of purpose (the statutory general-purpose clause is enough), the agent for service of process, and the number of shares it is authorized to issue; the MBCA requires no purpose clause.
 
 **Elements:** 1. Articles with mandatory contents. 2. Filing. 3. Organizational steps (bylaws, directors, issuing shares) follow but do not condition existence.
 
@@ -790,7 +790,7 @@ status: draft
 
 **Elements:** 1. Does the articles' purpose clause limit the business? 2. Is the act outside it? 3. Who is challenging, and how?
 
-**Exceptions / defenses:** An injunction against an ultra vires contract with a third party is granted only if equitable and with compensation for the third party's loss, under the MBCA approach [VERIFY V-728]. Directors who cause ultra vires acts may be liable for resulting losses.
+**Exceptions / defenses:** Under the MBCA, a court may enjoin or set aside the act only if equitable and all affected persons are parties, and may award the third party damages for loss other than anticipated profits (MBCA § 3.04) [VERIFY V-728]. California's § 208(a) allows a shareholder injunction against unauthorized business only where third parties have not acquired rights [VERIFY V-935]. Directors who cause ultra vires acts may be liable for resulting losses.
 
 **Authority:** Corp. Code §§ 206, 207, 208; MBCA §§ 3.01, 3.02, 3.04.
 
@@ -916,13 +916,13 @@ status: draft
 **Example:** A Delaware company buys assets from its 60% stockholder. If a committee of independent directors approves after full disclosure, the 2025 § 144 safe harbor applies; otherwise entire fairness review.
 
 ### R-BUS-067 — Corporate opportunity doctrine
-**Rule (write this):** A director or officer may not usurp a business opportunity that belongs to the corporation. An opportunity belongs to the corporation if it is within the corporation's line of business, the corporation has an interest or expectancy in it, and the corporation is financially able to exploit it (*Guth* factors), or under the MBCA/ALI approach if it came to the fiduciary in a corporate capacity or is closely related to the corporation's business. The fiduciary must first offer it to the corporation with full disclosure; only if the corporation (by disinterested decision) rejects it may the fiduciary take it.
+**Rule (write this):** A director or officer may not usurp a business opportunity that belongs to the corporation. An opportunity belongs to the corporation if it is within the corporation's line of business, the corporation has an interest or expectancy in it, and the corporation is financially able to exploit it (*Guth* factors), or, under the ALI approach (§ 5.05), if it came to the fiduciary in a corporate capacity or through corporate information, or (for senior executives) is closely related to the corporation's business; MBCA § 8.70 adds a disclosure-and-disclaimer safe harbor. The fiduciary must first offer it to the corporation with full disclosure; only if the corporation (by disinterested decision) rejects it may the fiduciary take it.
 
 **Elements:** 1. Corporate opportunity (line of business; interest or expectancy; how it was learned; use of corporate resources). 2. Failure to disclose and offer. 3. Taken personally.
 
 **Exceptions / defenses:** Corporation's financial inability is a defense in some courts (rejected or narrowed in others, e.g., where the fiduciary did not try to help the company raise funds); informed rejection by disinterested directors; the opportunity was personal (not related to the business).
 
-**Authority:** *Guth v. Loft, Inc.*, 5 A.2d 503 (Del. 1939); *Broz v. Cellular Information Systems, Inc.*, 673 A.2d 148 (Del. 1996); ALI Principles of Corporate Governance § 5.05; MBCA § 8.70; *Kelegian v. Mgrdichian* (1995) 33 Cal.App.4th 982 (existence is a question of fact) [S-821] [VERIFY V-725].
+**Authority:** *Guth v. Loft, Inc.*, 5 A.2d 503 (Del. 1939); *Broz v. Cellular Information Systems, Inc.*, 673 A.2d 148 (Del. 1996); ALI Principles of Corporate Governance § 5.05; MBCA § 8.70; *Kelegian v. Mgrdichian* (1995) 33 Cal.App.4th 982 (existence is primarily a question of fact; no usurpation where the corporation had no established policy of repurchasing its shares) [S-821] [S-1157].
 
 **MBE vs. CA essay:** same rule; California treats existence of an opportunity as primarily a factual question and uses similar factors.
 
@@ -942,7 +942,7 @@ status: draft
 **Example:** While still president, Glen recruits the company's key editors to a competitor using confidential salary data. He breached the duty of loyalty.
 
 ### R-BUS-069 — Loans to directors and officers
-**Rule (write this):** In California, a corporation may not make a loan to, or guarantee an obligation of, a director or officer unless the transaction is approved by the shareholders (not counting the shares of the benefited director), except that a corporation with 100 or more shareholders of record may, if its bylaws so provide, allow board approval on a finding that the loan may reasonably be expected to benefit the corporation. Public companies are also barred by federal law from making most personal loans to directors and executive officers.
+**Rule (write this):** In California, a corporation may not make a loan to, or guarantee an obligation of, a director or officer unless the transaction is approved by the shareholders (not counting the shares of the benefited director), except that, for loans to or guaranties for **officers**, a corporation with 100 or more shareholders of record may, under a bylaw approved by the outstanding shares, let the board approve on a finding that the loan may reasonably be expected to benefit the corporation. Public companies are also barred by federal law from making most personal loans to directors and executive officers.
 
 **Elements:** 1. Loan or guarantee to a director or officer. 2. Required approval. 3. Directors who approve a prohibited loan face liability.
 
@@ -1097,7 +1097,7 @@ status: draft
 
 **MBE vs. CA essay:** **differs in form.** MBCA: equity-insolvency test **and** balance-sheet test. Delaware: surplus or current/prior-year net profits. California (since 2012): retained-earnings **or** balance-sheet test, **plus** insolvency limit. The old California "1¼ asset ratio" tests were repealed by AB 571 (2011) [S-801].
 
-**Example:** A corporation with $2 million of assets, $1.9 million of liabilities and no retained earnings pays a $500,000 dividend. Both § 500 tests fail, and the approving directors are liable for the excess.
+**Example:** A corporation with $2 million of assets, $1.9 million of liabilities and no retained earnings pays a $500,000 dividend. Both § 500 tests fail, and the approving directors are liable to the corporation for the unlawful distribution (§ 316).
 
 ### R-BUS-081 — Direct vs. derivative suits
 **Rule (write this):** A suit is derivative when the injury is to the corporation and any recovery would flow to the corporation (mismanagement, waste, self-dealing, usurped opportunities); it is direct when the shareholder suffers an injury independent of the corporation and recovery goes to the shareholder (denial of voting or inspection rights, failure to pay a declared dividend, unfair treatment of the minority, a disclosure claim tied to a vote). The procedural hurdles of a derivative suit apply only to derivative claims.
@@ -1143,7 +1143,7 @@ status: draft
 
 **Elements:** Bond: timely motion; showing; cap. SLC: independence, good faith, reasonable investigation (and, under *Zapata*, the court's own judgment).
 
-**Exceptions / defenses:** The bond is the defendants' exclusive source of recovery for fees under § 800 (*Avikian*). If the plaintiff fails to post the ordered bond, the action is dismissed.
+**Exceptions / defenses:** The bond secures the moving defendants' reasonable expenses if the action fails; case law reportedly treats it as their exclusive source of recovery under § 800 [VERIFY V-936]. If the plaintiff fails to post the ordered bond, the action is dismissed.
 
 **Authority:** Corp. Code § 800(c)–(f) [VERIFY V-707]; *Hale v. Southern California IPA Medical Group, Inc.* (2001) 86 Cal.App.4th 919 ($50,000 total cap) [S-802]; *Zapata Corp. v. Maldonado*, 430 A.2d 779 (Del. 1981); *Auerbach v. Bennett*, 47 N.Y.2d 619 (1979); MBCA §§ 7.44–7.46.
 
@@ -1154,28 +1154,28 @@ status: draft
 ## V. Corporations — fundamental changes
 
 ### R-BUS-085 — Fundamental changes: amendment, merger, sale of assets, dissolution
-**Rule (write this):** Fundamental corporate changes require board approval followed by shareholder approval. Amendments of the articles, mergers and other reorganizations, and the sale of all or substantially all assets outside the regular course of business require approval by the board and the shareholders — in California and Delaware, a majority of the outstanding shares entitled to vote (and class votes where a class is adversely affected); under the current MBCA, more votes cast for than against at a meeting at which a quorum of a majority of the votes entitled to be cast is present (MBCA §§ 10.03, 11.04, 12.02) [VERIFY V-730]; voluntary dissolution may be elected by shareholders holding 50% of the voting power. A parent owning at least 90% of a subsidiary may merge it without the subsidiary's shareholders' vote (short-form merger).
+**Rule (write this):** Fundamental corporate changes require board approval followed by shareholder approval. Amendments of the articles, mergers and other reorganizations, and the sale of all or substantially all assets outside the regular course of business require approval by the board and the shareholders — in California and Delaware, a majority of the outstanding shares entitled to vote (and class votes where a class is adversely affected); under the current MBCA, more votes cast for than against at a meeting at which a quorum of a majority of the votes entitled to be cast is present (MBCA §§ 10.03, 11.04, 12.02; many states still use the older MBCA's majority of all votes entitled to be cast) [S-1151]; voluntary dissolution may be elected by shareholders holding 50% of the voting power. A parent owning at least 90% of a subsidiary may merge it without the subsidiary's shareholders' vote (short-form merger).
 
-**Elements:** 1. Identify the change. 2. Board resolution. 3. Shareholder vote (California/Delaware: majority of outstanding shares; current MBCA: more votes for than against at a meeting with a majority quorum [VERIFY V-730]; class votes). 4. Dissenters' rights (R-BUS-086). 5. Filing.
+**Elements:** 1. Identify the change. 2. Board resolution. 3. Shareholder vote (California/Delaware: majority of outstanding shares; current MBCA: more votes for than against at a meeting with a majority quorum [S-1151]; class votes). 4. Dissenters' rights (R-BUS-086). 5. Filing.
 
 **Exceptions / defenses:** California: no vote is required by the shareholders of a constituent corporation if it or its shareholders will own more than five-sixths of the voting power of the surviving or acquiring corporation [VERIFY V-711]. Delaware: whale-minnow (20% dilution) exception for the survivor's stockholders (DGCL § 251(f)).
 
 **Authority:** Corp. Code §§ 152, 902–903, 1001, 1101, 1110, 1200–1201, 1900 [VERIFY V-711]; MBCA §§ 10.03, 11.04–11.05, 12.02, 14.02; DGCL §§ 242, 251, 253, 271, 275.
 
-**MBE vs. CA essay:** not on the MBE. Same structure, but the vote differs: California (and Delaware) count a majority of the outstanding shares, the current MBCA counts votes cast at a meeting with a quorum [VERIFY V-730]; California's "reorganization" vocabulary (merger, exchange, sale-of-assets reorganizations) is a California label.
+**MBE vs. CA essay:** not on the MBE. Same structure, but the vote differs: California (and Delaware) count a majority of the outstanding shares, the current MBCA counts votes cast at a meeting with a majority quorum [S-1151]; California's "reorganization" vocabulary (merger, exchange, sale-of-assets reorganizations) is a California label.
 
 **Example:** A television maker sells its TV plants (90% of its assets) to pivot to bicycles. That is a sale of substantially all assets requiring board and outstanding-share approval.
 
 ### R-BUS-086 — Dissenters' (appraisal) rights
-**Rule (write this):** A shareholder who does not vote for certain fundamental changes — chiefly mergers and other reorganizations, and in many states sales of substantially all assets — may demand that the corporation buy the shares at their fair value (in California, fair market value as of the day before the first announcement of the terms, excluding any appreciation or depreciation caused by the proposed transaction), by following the statutory steps precisely. Appraisal is generally the exclusive remedy, except to challenge a transaction that was not validly approved or (under the MBCA and Delaware) that involves fraud or unfair dealing by a controller. California is stricter: a shareholder entitled to appraisal may attack the reorganization only to test whether the required vote was obtained, unless a party to the reorganization controls the corporation (Corp. Code § 1312), and *Steinberg v. Amplica, Inc.* (1986) 42 Cal.3d 1198 bars damages claims that in substance challenge the merger price [VERIFY V-731].
+**Rule (write this):** A shareholder who does not vote for certain fundamental changes — chiefly mergers and other reorganizations, and in many states sales of substantially all assets — may demand that the corporation buy the shares at their fair value (in California, fair market value as of the day of, and immediately before, the first announcement of the terms, excluding any appreciation or depreciation caused by the proposed transaction), by following the statutory steps precisely. Appraisal is generally the exclusive remedy, except to challenge a transaction that was not validly approved or (under the MBCA and Delaware) that involves fraud or unfair dealing by a controller. California is stricter: a shareholder entitled to appraisal may not attack the validity of the reorganization except to test whether the required shares were legally voted for it (Corp. Code § 1312(a)); the exception is a reorganization in which one party is controlled by, or under common control with, another party, where a shareholder who has not demanded payment may sue to set it aside or rescind it but not for damages (§ 1312(b)); and *Steinberg v. Amplica, Inc.* (1986) 42 Cal.3d 1198 held appraisal exclusive even though the shareholder alleged that fraud and breach of fiduciary duty by the majority depressed the price.
 
 **Elements:** 1. Triggering transaction. 2. Did not vote in favor. 3. Timely written demand. 4. Tender of shares. 5. Valuation by agreement or court.
 
 **Exceptions / defenses:** Market-out: shares listed on a national securities exchange generally have no appraisal right, with exceptions (e.g., transfer restrictions; in Delaware, when holders must take cash for listed shares) [S-816]. California's former 5% demand carve-back was eliminated in 2012 [VERIFY V-711].
 
-**Authority:** Corp. Code §§ 1300–1312 [S-816]; MBCA §§ 13.01–13.40; DGCL § 262.
+**Authority:** Corp. Code §§ 1300–1312 [S-816] [S-1159] [S-1160] [S-1153]; *Steinberg v. Amplica, Inc.* (1986) 42 Cal.3d 1198 [S-1152]; *Busse v. United PanAm Financial Corp.* (Cal. Ct. App. 2014) (§ 1312(b) rescission, not damages) [S-1153] [VERIFY V-938]; MBCA §§ 13.01–13.40; DGCL § 262.
 
-**MBE vs. CA essay:** not on the MBE. Same core; the market-out and valuation date differ, and California makes appraisal more exclusive — no attack on the reorganization except to test the vote unless a party controls the corporation (Corp. Code § 1312; *Steinberg v. Amplica*) [VERIFY V-731].
+**MBE vs. CA essay:** not on the MBE. Same core; the market-out and valuation date differ, and California makes appraisal more exclusive — no attack on the reorganization except to test the vote unless one party controls, or is under common control with, another party (Corp. Code § 1312; *Steinberg v. Amplica*). A case on the scope of appraisal exclusivity (*Li v. ArcSoft, Inc.*) was pending in late 2026 [S-1162]; check for a decision before the exam [VERIFY V-937].
 
 **Example:** A minority holder in a closely held company votes against a cash-out merger and demands payment. She is entitled to a court appraisal of fair value.
 
@@ -1288,9 +1288,9 @@ status: draft
 **Example:** Three founders elect statutory close corporation status and sign an agreement that they will manage the business directly without a board. The agreement is valid, and skipping board meetings does not support piercing.
 
 ### R-BUS-095 — Fiduciary duties among shareholders of a close corporation
-**Rule (write this):** Some jurisdictions hold that shareholders of a close corporation owe one another a partner-like duty of utmost good faith and loyalty, so that a controlling group may not freeze out a minority (firing them, cutting off dividends, denying equal opportunity to sell shares) unless it shows a legitimate business purpose that could not be achieved by a less harmful alternative. California reaches similar results through the controlling-shareholder duty of *Jones v. Ahmanson* and the involuntary-dissolution statute.
+**Rule (write this):** Some jurisdictions hold that shareholders of a close corporation owe one another a partner-like duty of utmost good faith and loyalty, so that a controlling group may not freeze out a minority (firing them, cutting off dividends, denying equal opportunity to sell shares) without a legitimate business purpose; even then, the minority may prevail by showing that the same objective could have been achieved by an alternative less harmful to its interests. California reaches similar results through the controlling-shareholder duty of *Jones v. Ahmanson* and the involuntary-dissolution statute.
 
-**Elements:** 1. Close corporation. 2. Majority action harming the minority's reasonable expectations. 3. Legitimate business purpose? 4. Less harmful alternative?
+**Elements:** 1. Close corporation. 2. Majority action harming the minority's reasonable expectations. 3. Legitimate business purpose (majority's burden)? 4. Less harmful alternative (minority's burden)?
 
 **Exceptions / defenses:** Delaware rejects a special close-corporation duty and leaves protection to contracts (*Nixon v. Blackwell*, 626 A.2d 1366 (Del. 1993)).
 
@@ -1307,7 +1307,7 @@ status: draft
 
 **Exceptions / defenses:** The court may appoint a receiver or provisional director instead of dissolving.
 
-**Authority:** Corp. Code §§ 1800, 1802–1804, 2000 [S-815] [VERIFY V-710]; MBCA §§ 14.30, 14.34.
+**Authority:** Corp. Code §§ 1800 [S-1155], 1802–1804 [VERIFY V-932], 2000 [S-815]; *Stuparich v. Harbor Furniture Mfg., Inc.* (2000) 83 Cal.App.4th 1268 (applying § 1800(b)(5)) [S-1155]; MBCA §§ 14.30, 14.34.
 
 **MBE vs. CA essay:** same idea; the MBCA calls the ground "oppressive" conduct and offers an election to purchase (§ 14.34).
 
@@ -1380,7 +1380,7 @@ status: draft
 
 **Exceptions / defenses:** If nothing was filed, the business is a general partnership (or a sole proprietorship). A California LLC may not render licensed professional services, such as law (R-BUS-108).
 
-**Authority:** Corp. Code §§ 17701.02, 17701.04, 17701.10, 17702.01, 17704.07 [S-826] [VERIFY V-729]; RULLCA §§ 104, 105, 201, 407.
+**Authority:** Corp. Code §§ 17701.02, 17701.04, 17701.10, 17702.01, 17704.07 [S-826] [VERIFY V-729] [VERIFY V-931]; RULLCA §§ 104, 105, 201, 407.
 
 **MBE vs. CA essay:** same core rule; California differs in two respects: the professional-services bar, and manager management designated in the articles rather than in the operating agreement.
 
@@ -1404,9 +1404,9 @@ status: draft
 
 **Elements:** 1. Member- vs. manager-managed (look at the articles). 2. Actual authority (agreement, votes). 3. Apparent authority (statutory in California; common-law agency under RULLCA).
 
-**Exceptions / defenses:** Uniform RULLCA § 301 provides that a member is **not** an agent solely by being a member and leaves authority to agency law; California's version keeps statutory apparent authority [S-807] [VERIFY V-709].
+**Exceptions / defenses:** Uniform RULLCA § 301 provides that a member is **not** an agent solely by being a member and leaves authority to agency law; California's version keeps statutory apparent authority [S-807] [S-1154].
 
-**Authority:** Corp. Code §§ 17703.01, 17704.07 [S-807] [VERIFY V-709]; RULLCA §§ 301, 407.
+**Authority:** Corp. Code § 17703.01 [S-807] [S-1154]; § 17704.07 (default management rules) [VERIFY V-931]; RULLCA §§ 301, 407.
 
 **MBE vs. CA essay:** **differs.** General (RULLCA): no statutory agency for members; use agency law. California: statutory apparent authority for members (member-managed) and managers (manager-managed).
 

@@ -4,7 +4,7 @@ topic: Business Associations — exam-day attack outline
 coverage_ids: [BUS-CBX-I, BUS-CBX-II, BUS-CBX-III, BUS-CBX-IV, BUS-CBX-V, BUS-CBX-V.A.2, BUS-CBX-V.C, BUS-CBX-V.D.3, BUS-CBX-V.E.5, BUS-CBX-V.F, BUS-CBX-V.x, BUS-CBX-VI, BUS-PAST-001]
 tested_on: [essay]
 exam_frequency: {level: high, basis: "Essays: 14 of 31 administrations 2012-02 to 2026-07 (45%)"}
-last_verified: 2026-11-04
+last_verified: 2026-11-05
 status: draft
 ---
 
@@ -21,7 +21,7 @@ One line per rule. Full text: [`rule-statements.md`](rule-statements.md). Defaul
 - **Agency**: principal's manifestation + agent's consent + acting on behalf + principal's right to control (R3d § 1.01). (R-BUS-001)
 - **Employee**: right to control manner and means; factors (R2d § 220). (R-BUS-002)
 - **Actual authority**: agent reasonably believes, from principal's manifestations to agent, that principal wants the act; express or implied. (R-BUS-008)
-- **Apparent authority**: third party reasonably believes, traceable to principal's manifestations to third party. **CA** "ostensible" (Civ. Code § 2317). (R-BUS-009)
+- **Apparent authority**: third party reasonably believes, traceable to principal's manifestations to third party. **CA** "ostensible" (Civ. Code § 2317) + good-faith reliance (§ 2334). (R-BUS-009)
 - **Ratification**: knowledge of material facts + affirmance (or accepting benefits); relates back; all-or-nothing. (R-BUS-010)
 - **Estoppel / undisclosed principal**: careless creation of belief + reliance; undisclosed principal bound for usual acts. (R-BUS-011)
 - **Agent on contract**: disclosed → agent not liable; unidentified or undisclosed → agent liable; no authority → implied warranty of authority. (R-BUS-012, R-BUS-013)
@@ -64,7 +64,7 @@ One line per rule. Full text: [`rule-statements.md`](rule-statements.md). Defaul
 - **Inspection**: proper purpose (**CA** § 1601); directors absolute (§ 1602). (R-BUS-078)
 - **Dividends**: board discretion (BJR); legal limits — **CA** retained earnings or balance sheet + insolvency bar (§§ 500–501); MBCA equity insolvency + balance sheet; directors liable. (R-BUS-079, R-BUS-080)
 - **Derivative**: who was harmed? → contemporaneous + continuous ownership (**CA** § 800(b)(1) exception) → demand or futility (MBCA universal demand; *Zuckerberg*) → **CA** bond up to $50,000 → recovery to corporation. (R-BUS-081 to R-BUS-084)
-- **Fundamental changes**: board + shareholders (CA/DE: majority of outstanding shares; MBCA: votes for > against, majority quorum); dissenters get fair value; appraisal generally exclusive (CA § 1312: only a vote challenge unless a party controls the corporation). (R-BUS-085, R-BUS-086)
+- **Fundamental changes**: board + shareholders (CA/DE: majority of outstanding shares; MBCA: votes for > against, majority quorum); dissenters get fair value; appraisal generally exclusive (CA § 1312: only a vote challenge unless one party controls, or is under common control with, another; *Steinberg*). (R-BUS-085, R-BUS-086)
 - **10b-5**: material misstatement, scienter, purchase/sale, reliance, loss, loss causation — any security. (R-BUS-088)
 - **Insider trading**: classical (insiders, temporary insiders: disclose or abstain); tippee (tipper's personal benefit + tippee knew); misappropriation (deceive source); Rule 14e-3 (tender offers). (R-BUS-089 to R-BUS-091)
 - **§ 16(b)**: public company; officer/director/>10% holder; purchase and sale within < 6 months; strict liability; lowest-in highest-out. (R-BUS-092)

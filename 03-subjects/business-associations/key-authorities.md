@@ -4,7 +4,7 @@ topic: Business Associations — key authorities (statutes, Restatement sections
 coverage_ids: [BUS-CBX-I, BUS-CBX-II, BUS-CBX-III, BUS-CBX-IV, BUS-CBX-V, BUS-CBX-V.A.2, BUS-CBX-V.C, BUS-CBX-V.D.3, BUS-CBX-V.E.5, BUS-CBX-V.F, BUS-CBX-V.x, BUS-CBX-VI, BUS-PAST-001]
 tested_on: [essay, PT]
 exam_frequency: {level: high, basis: "Essays: 14 of 31 administrations 2012-02 to 2026-07 (45%)"}
-last_verified: 2026-11-04
+last_verified: 2026-11-05
 status: draft
 ---
 
@@ -26,7 +26,7 @@ One line per authority. Items tagged `[VERIFY]` are cited from model knowledge o
 | R3d Agency § 7.07 | Scope of employment; independent course of conduct; employee = right to control manner and means [S-810] | R-BUS-014 |
 | R3d Agency §§ 8.01–8.15 | Agent's and principal's duties [VERIFY V-701] | R-BUS-003 to R-BUS-005 |
 | R2d Agency §§ 220, 228, 8A, 194 | Employee factors; scope of employment; inherent agency power | R-BUS-002, R-BUS-011, R-BUS-014 |
-| Cal. Civ. Code §§ 2295, 2298–2300, 2307, 2309–2310, 2317, 2330, 2332, 2338, 2343, 2355–2356 | California agency code: definition, actual/ostensible agency, ratification, equal dignities, imputed notice, principal's tort liability, agent's liability, termination [VERIFY V-702] | R-BUS-001 to R-BUS-020 |
+| Cal. Civ. Code §§ 2295, 2298–2300, 2307, 2309–2310, 2317, 2330, 2332, 2334, 2338, 2342–2343, 2355–2356 | California agency code: definition, actual/ostensible agency, reliance requirement for ostensible authority (§ 2334), ratification, equal dignities, imputed notice, principal's tort liability, warranty of authority (§ 2342), agent's liability, termination [VERIFY V-702] [VERIFY V-934] | R-BUS-001 to R-BUS-020 |
 | Lab. Code § 2802 | Employer indemnifies employee's necessary expenditures | R-BUS-005 |
 | *Watteau v. Fenwick* [1893] 1 Q.B. 346 | Undisclosed principal liable for agent's usual acts despite secret limits | R-BUS-011 |
 | *S.G. Borello & Sons, Inc. v. Department of Industrial Relations* (1989) 48 Cal.3d 341 | Control-based multi-factor test for employee status | R-BUS-002 |
@@ -54,9 +54,9 @@ One line per authority. Items tagged `[VERIFY]` are cited from model knowledge o
 | Corp. Code §§ 16103, 16404 | Duties of loyalty, care, good faith; limits on modification | R-BUS-034, R-BUS-035 |
 | Corp. Code §§ 16601–16603, 16701–16704 | Dissociation; buyout; lingering authority and liability [VERIFY V-723] | R-BUS-036, R-BUS-037 |
 | Corp. Code §§ 16801–16807 | Dissolution; winding up; settlement of accounts | R-BUS-038, R-BUS-039 |
-| Corp. Code §§ 16101, 16953, 16956 | Registered LLP: eligible professions; registration; security for claims [S-809] [VERIFY V-704] [VERIFY V-705] | R-BUS-044 |
-| Corp. Code § 15900 et seq. (Uniform Limited Partnership Act of 2008) | Limited partnerships [VERIFY V-703] | R-BUS-040 to R-BUS-043 |
-| Corp. Code § 15903.03 | Limited partner's liability; narrow control rule [S-808] [VERIFY V-703] | R-BUS-042 |
+| Corp. Code §§ 16101, 16953, 16956 | Registered LLP: eligible professions; registration; security for claims [S-809] [VERIFY V-704] [VERIFY V-933] | R-BUS-044 |
+| Corp. Code § 15900 et seq. (Uniform Limited Partnership Act of 2008) | Limited partnerships [VERIFY V-930] | R-BUS-040 to R-BUS-043 |
+| Corp. Code § 15903.03 | Limited partner's liability; narrow control rule; non-exclusive list of activities that are not participation in control [S-808] [S-1150] | R-BUS-042 |
 | ULPA (2001) § 303 | Full shield even if limited partner participates in control | R-BUS-042 |
 | *Holmes v. Lerner* (1999) 74 Cal.App.4th 442 | Partnership formed without agreement on all terms | R-BUS-021 |
 | *Kovacik v. Reed* (1957) 49 Cal.2d 166 | Services partner not liable for capital partner's loss absent agreement [S-818] [VERIFY V-706] | R-BUS-032 |
@@ -85,9 +85,9 @@ One line per authority. Items tagged `[VERIFY]` are cited from model knowledge o
 | §§ 600–603, 700, 705–706 | Meetings, notice, quorum, written consent, proxies, voting agreements and trusts [VERIFY V-719] | R-BUS-073, R-BUS-076 |
 | § 800 | Derivative actions: standing exception, demand pleading, security for expenses [VERIFY V-707] | R-BUS-082 to R-BUS-084 |
 | §§ 902–903, 1001, 1101, 1110, 1200–1201, 1900 | Amendments; sale of assets; mergers/reorganizations; dissolution [VERIFY V-711] | R-BUS-085 |
-| §§ 1300–1312 | Dissenters' rights [S-816] | R-BUS-086 |
+| §§ 1300–1312 | Dissenters' rights; fair market value as of the day of, and immediately before, the first announcement (AB 1680, 2012); § 1312 limits attacks on the reorganization [S-816] [S-1159] [S-1153] | R-BUS-086 |
 | §§ 1600–1604 | Inspection rights | R-BUS-078 |
-| §§ 1800, 1802–1804, 2000 | Involuntary dissolution; buyout at fair value [S-815] [VERIFY V-710] | R-BUS-096 |
+| §§ 1800, 1802–1804, 2000 | Involuntary dissolution; buyout at fair value [S-815] [S-1155] [VERIFY V-932] | R-BUS-096 |
 | § 2115 | Pseudo-foreign corporations [S-804] [VERIFY V-708] | R-BUS-098 |
 | §§ 5142, 5227, 5231, 5233 | Nonprofit public benefit corporations: standing, 49% rule, duties, self-dealing [S-822] [VERIFY V-717] | R-BUS-097 |
 | §§ 13400 et seq.; Bus. & Prof. Code § 6160 et seq. | Professional corporations; law corporations | R-BUS-108 |
@@ -104,7 +104,7 @@ One line per authority. Items tagged `[VERIFY]` are cited from model knowledge o
 | MBCA §§ 7.41–7.45 | Derivative standing; universal demand; dismissal; settlement | R-BUS-082 to R-BUS-084 |
 | MBCA §§ 8.30–8.31 | Directors' standards of conduct and liability | R-BUS-061 |
 | MBCA §§ 8.60–8.63; § 8.70 | Director conflicting-interest transactions; business opportunities | R-BUS-066, R-BUS-067 |
-| MBCA §§ 10.03, 11.04, 12.02 | Shareholder approval of amendments, mergers and asset sales: more votes for than against at a meeting with a majority quorum [VERIFY V-730] | R-BUS-085 |
+| MBCA §§ 10.03, 11.04, 12.02 | Shareholder approval of amendments, mergers and asset sales: more votes for than against at a meeting with a majority quorum [S-1151] | R-BUS-085 |
 | MBCA §§ 13.02, 14.30, 14.34, 16.02 | Appraisal; judicial dissolution; election to purchase; inspection | R-BUS-086, R-BUS-096, R-BUS-078 |
 | DGCL §§ 102(b)(7), 141, 144, 145, 170, 174, 214, 220, 251, 262, 271, 327 | Exculpation; board; interested transactions (amended 2025 [S-811] [VERIFY V-716]); indemnification; dividends; cumulative voting; inspection; mergers; appraisal; sale of assets; contemporaneous ownership | various |
 | *Aronson v. Lewis*, 473 A.2d 805 (Del. 1984) | BJR presumption; former demand-futility test | R-BUS-062, R-BUS-083 |
@@ -147,11 +147,12 @@ One line per authority. Items tagged `[VERIFY]` are cited from model knowledge o
 | *Francis v. United Jersey Bank*, 432 A.2d 814 (N.J. 1981) | Inattentive director liable | R-BUS-061 |
 | *Lee v. Interinsurance Exchange* (1996) 50 Cal.App.4th 694; *Gaillard v. Natomas Co.* (1989) 208 Cal.App.3d 1250; *Oakland Raiders v. National Football League* (2001) 93 Cal.App.4th 572 | California statutory and common-law BJR | R-BUS-062 |
 | *Kanter v. Reed* (2023) (Cal. Ct. App.) | "Reckless disregard" under § 204(a)(10); oversight [S-817] [VERIFY V-721] | R-BUS-063, R-BUS-070 |
-| *Kelegian v. Mgrdichian* (1995) 33 Cal.App.4th 982 | Corporate opportunity is a fact question [S-821] [VERIFY V-725] | R-BUS-067 |
+| *Kelegian v. Mgrdichian* (1995) 33 Cal.App.4th 982 | Corporate opportunity is primarily a fact question; no usurpation absent an established corporate policy (interest or expectancy) [S-821] [S-1157] | R-BUS-067 |
 | *Berg & Berg Enterprises, LLC v. Boyle* (2009) 178 Cal.App.4th 1020 | No director duty to creditors beyond trust-fund doctrine | outline V.D.4 |
 | *Jones v. H.F. Ahmanson & Co.* (1969) 1 Cal.3d 93 | Controlling shareholders' duty to minority | R-BUS-071, R-BUS-095 |
 | *Perlman v. Feldmann*, 219 F.2d 173 (2d Cir. 1955) | Sale of control premium representing corporate asset | R-BUS-072 |
 | *Donahue v. Rodd Electrotype Co.*, 328 N.E.2d 505 (Mass. 1975); *Wilkes v. Springside Nursing Home, Inc.*, 353 N.E.2d 657 (Mass. 1976) | Close-corporation partner-like duties; legitimate business purpose | R-BUS-095 |
+| *Stuparich v. Harbor Furniture Mfg., Inc.* (2000) 83 Cal.App.4th 1268 | Applies the § 1800(b)(5) ground (35 or fewer shareholders; liquidation reasonably necessary to protect the complaining shareholders) [S-1155] | R-BUS-096 |
 | *Nixon v. Blackwell*, 626 A.2d 1366 (Del. 1993) | No special Delaware close-corporation duty | R-BUS-095 |
 | *McQuade v. Stoneham*, 263 N.Y. 323 (1934) | Agreements fettering directors' discretion invalid | outline V.E.2 |
 | *Grosset v. Wenaas* (2008) 42 Cal.4th 1100 | Continuous ownership required in derivative suits | R-BUS-082 |
@@ -159,7 +160,8 @@ One line per authority. Items tagged `[VERIFY]` are cited from model knowledge o
 | *Shields v. Singleton* (1993) 15 Cal.App.4th 1611; *Bader v. Anderson* (2009) 179 Cal.App.4th 775 | Demand futility under § 800(b)(2); particularity [S-824] | R-BUS-083 |
 | *Auerbach v. Bennett*, 47 N.Y.2d 619 (1979) | Deference to independent litigation committee | R-BUS-084 |
 | *Ray v. Alad Corp.* (1977) 19 Cal.3d 22 | Product-line successor liability | outline V.G |
-| *Steinberg v. Amplica, Inc.* (1986) 42 Cal.3d 1198 | Where appraisal is available, a damages claim that in substance challenges the merger price is barred (§ 1312) [VERIFY V-731] | R-BUS-086 |
+| *Steinberg v. Amplica, Inc.* (1986) 42 Cal.3d 1198 | Appraisal is the exclusive remedy under § 1312(a) even where the shareholder alleges that fraud and breach of fiduciary duty by the majority depressed the price [S-1152] | R-BUS-086 |
+| *Busse v. United PanAm Financial Corp.* (Cal. Ct. App. 2014) | Common-control reorganization (§ 1312(b)): dissenting shareholders may seek to set aside or rescind, not damages [S-1153] [VERIFY V-938] | R-BUS-086 |
 | *Turner v. Victoria* (2023) 15 Cal.5th 99 | Nonprofit director standing after removal [VERIFY V-717] | R-BUS-097 |
 
 ## 6. Securities
@@ -190,9 +192,9 @@ One line per authority. Items tagged `[VERIFY]` are cited from model knowledge o
 | Authority | Rule | Rule ID |
 |---|---|---|
 | Corp. Code §§ 17701.04(e), 17701.10, 17702.01 | LLC nature; no professional services; operating agreement limits [S-826] [VERIFY V-729] | R-BUS-101, R-BUS-108 |
-| Corp. Code § 17703.01 | Agency of members/managers [S-807] [VERIFY V-709] | R-BUS-103 |
+| Corp. Code § 17703.01 | Agency of members/managers [S-807] [S-1154] | R-BUS-103 |
 | Corp. Code § 17703.04 | Member liability; alter ego; meetings exception [S-805] | R-BUS-102 |
-| Corp. Code §§ 17704.07, 17704.09 | Management; fiduciary duties [S-806] | R-BUS-103, R-BUS-104 |
+| Corp. Code §§ 17704.07, 17704.09 | Management [VERIFY V-931]; fiduciary duties [S-806] | R-BUS-103, R-BUS-104 |
 | RULLCA § 407(a) | Member-managed unless the operating agreement expressly provides for managers (California: the articles) | R-BUS-101 |
 | *Curci Investments, LLC v. Baldwin* (2017) 14 Cal.App.5th 214; *Postal Instant Press, Inc. v. Kaswa Corp.* (2008) 162 Cal.App.4th 1510 | Reverse piercing: LLC yes, corporation no [VERIFY V-724] | R-BUS-049 |
 | 11 U.S.C. §§ 101(31), 502(b), 510(c), 547(b)(4)(B) | Insiders; claim allowance; equitable subordination; insider preferences | R-BUS-099, R-BUS-100 |

@@ -294,8 +294,8 @@ Source: [`../03-subjects/business-associations/ca-distinctions.md`](../03-subjec
 | Demand | MBCA universal demand + 90 days; Delaware futility (*Zuckerberg*) | Plead efforts or reasons with particularity and inform the board (§ 800(b)(2)); Delaware tests persuasive [VERIFY V-715] | Both regimes | R-BUS-083 |
 | Security for expenses | None (MBCA, Delaware) | Bond up to $50,000 on motion within 30 days (§ 800(c)–(f)) [VERIFY V-707] | Mention the bond | R-BUS-084 |
 | Service partner's losses | Losses follow profits (RUPA § 401(b)) | Same statute, but *Kovacik*: money partner bears capital loss absent agreement [VERIFY V-706] | Argue both | R-BUS-032 |
-| Limited partner shield | ULPA (2001): full shield even with control | Narrow control rule retained: liable to those with actual knowledge who reasonably believe she is a GP (§ 15903.03) [VERIFY V-703] | Write both | R-BUS-042 |
-| Who may be an LLP | Any partnership | Only law, accounting, architecture, engineering, land surveying; security required (§ 16956) [VERIFY V-704] [VERIFY V-705] | Check the profession | R-BUS-044 |
+| Limited partner shield | ULPA (2001): full shield even with control | Narrow control rule retained: liable to those who, with actual knowledge of her participation in control, reasonably believe she is a GP; the statute lists safe-harbor activities and is non-exclusive (§ 15903.03(b)–(c)) [S-1150] | Write both | R-BUS-042 |
+| Who may be an LLP | Any partnership | Only law, accounting, architecture, engineering, land surveying; security required (§ 16956) [VERIFY V-704] | Check the profession | R-BUS-044 |
 | Professional LLCs | Many states allow | LLCs may not render professional services (§ 17701.04(e)) | Options: LLP or professional corporation | R-BUS-108 |
 | Scope of employment | R2d § 228 / R3d § 7.07 | Risk typical of or broadly incidental to the enterprise (*Lisa M.*); ABC test only for wage law (*Dynamex*) | Do not use the ABC test for respondeat superior | R-BUS-002, R-BUS-014, R-BUS-016 |
 

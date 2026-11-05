@@ -4,7 +4,7 @@ topic: Business Associations — decision flowcharts (Mermaid)
 coverage_ids: [BUS-CBX-I, BUS-CBX-II, BUS-CBX-V.A.2, BUS-CBX-V.C, BUS-CBX-V.D.3, BUS-CBX-V.E.5, BUS-CBX-V.F, BUS-CBX-VI, BUS-PAST-001]
 tested_on: [essay, PT]
 exam_frequency: {level: high, basis: "Essays: 14 of 31 administrations 2012-02 to 2026-07 (45%)"}
-last_verified: 2026-11-04
+last_verified: 2026-11-05
 status: draft
 ---
 
@@ -88,7 +88,7 @@ flowchart TD
     C --> C1{"Defendant a partner when incurred?"}
     C1 -->|Joined later| C2["Not personally liable; capital at risk"]
     C1 -->|Yes| C3["Liable, but creditor must first exhaust partnership assets unless exception or own tort"]
-    B -->|LLP| D["Partners shielded except own wrongs and supervision issues"]
+    B -->|LLP| D["Partners shielded except own wrongs (incl. own negligent supervision), guarantees and written assumptions"]
     B -->|Limited partnership| E{"General or limited partner?"}
     E -->|General| C
     E -->|Limited| E1{"California: participated in control and creditor knew and reasonably believed she was a GP?"}
