@@ -57,7 +57,7 @@ status: draft
 
 **Exceptions / defenses:** At death, out-of-state real property is not QCP (Prob. Code § 66) and only the decedent's QCP is split; during marriage the acquiring spouse manages it as if SP [VERIFY V-327].
 
-**Authority:** Fam. Code §§ 125, 63, 912, 2550, 2660; Prob. Code §§ 66, 101, 102; *Addison v. Addison* (1965) 62 Cal.2d 558; *In re Marriage of Roesch* (1978) 83 Cal.App.3d 96 [S-408] [VERIFY V-305].
+**Authority:** Fam. Code §§ 125, 63, 912, 2550, 2660; Prob. Code §§ 66, 101, 102; *Addison v. Addison* (1965) 62 Cal.2d 558; *In re Marriage of Roesch* (1978) 83 Cal.App.3d 96 [S-408]; *Fredericks v. Fredericks* (1991) 226 Cal.App.3d 875 (applying Roesch) [S-1014].
 
 **MBE vs. CA essay:** not on the MBE; a "State X, a non-community-property state" fact pattern always calls for it.
 
@@ -198,26 +198,26 @@ status: draft
 **Example:** W pays the $100,000 down payment from her inheritance; the deed reads "H and W, as joint tenants." At divorce the house is CP; W gets $100,000 back under § 2640 and the rest is split.
 
 ### R-CMP-014 — Joint tenancy title at death and against creditors
-**Rule (write this):** Outside dissolution, § 2581 does not apply. Joint tenancy title traditionally governs at death, so the surviving joint tenant takes by survivorship; but property bought during marriage with community funds is presumptively community property despite joint tenancy title, and after 1984 its character changes only by an express written transmutation.
+**Rule (write this):** Outside dissolution, § 2581 does not apply. Property bought during marriage with community funds is presumptively community property even though title was taken in joint tenancy, and after 1984 its character changes only by an express written transmutation (Brace). But Brace expressly left undisturbed the right of survivorship that accompanies joint tenancy title at death, so the surviving joint tenant takes the whole asset and the decedent's will cannot reach it.
 
-**Elements:** 1. Death or creditor context. 2. Joint tenancy title. 3. Source of funds (CP?). 4. Any § 852 writing?
+**Elements:** 1. Death or creditor context. 2. Joint tenancy title. 3. Source of funds (CP → presumptively CP for characterization). 4. Any § 852 writing? 5. At death: survivorship still operates.
 
-**Exceptions / defenses:** If the decedent tried to will half of a joint-tenancy asset, argue survivorship from the title against CP character under Brace [VERIFY V-319]. CP with right of survivorship (Civ. Code § 682.1) passes to the survivor.
+**Exceptions / defenses:** If the spouses validly transmuted the asset in writing (§ 852) into CP held without survivorship, survivorship no longer applies and each spouse may will half. In creditor and bankruptcy disputes (Brace's own setting), the CP character controls what is reachable. QCP put into joint tenancy with a non-spouse can be recaptured under Prob. Code § 102 (R-CMP-093). CP with right of survivorship (Civ. Code § 682.1) also passes to the survivor.
 
-**Authority:** *In re Brace* (2020) 9 Cal.5th 903 [S-422]; Fam. Code § 852; Civ. Code § 682.1.
+**Authority:** *In re Brace* (2020) 9 Cal.5th 903 [S-422] [S-1016]; Fam. Code § 852; Civ. Code § 682.1.
 
 **MBE vs. CA essay:** not on the MBE; use on Wills/CP crossovers.
 
-**Example:** H and W bought a cabin with salaries as joint tenants; H's will leaves "my half of the cabin" to his son. W argues survivorship; the son argues the cabin is CP under Brace, so H could will his half.
+**Example:** H and W bought a cabin with salaries as joint tenants; H's will leaves "my half of the cabin" to his son. Brace makes the cabin presumptively CP, but it did not disturb survivorship at death: W takes the whole cabin and the gift to the son fails.
 
 ### R-CMP-015 — Married woman's pre-1975 presumption
-**Rule (write this):** Property acquired by a married woman by a written instrument before January 1, 1975 is presumed to be her separate property; if she acquired it together with her husband or another person, she is presumed to take her share as a tenant in common, unless a different intention is expressed in the instrument.
+**Rule (write this):** Property acquired by a married woman by a written instrument before January 1, 1975 is presumed to be her separate property; if she acquired it with another person, she is presumed to take her share as a tenant in common; and if husband and wife acquired it by an instrument describing them as husband and wife, it is presumed to be community property, in each case unless the instrument expresses a different intention.
 
-**Elements:** 1. Acquired before Jan. 1, 1975. 2. By written instrument. 3. In the wife's name (alone or with another).
+**Elements:** 1. Acquired before Jan. 1, 1975. 2. By written instrument. 3. Who took: wife alone (SP); wife with another person (tenant in common); "husband and wife" (CP).
 
-**Exceptions / defenses:** Rebuttable; does not apply to acquisitions on or after Jan. 1, 1975.
+**Exceptions / defenses:** Rebuttable between the spouses, but conclusive in favor of a person dealing with the wife in good faith and for value; does not apply to acquisitions on or after Jan. 1, 1975.
 
-**Authority:** Fam. Code § 803 [S-419].
+**Authority:** Fam. Code § 803 [S-419] [S-1018].
 
 **MBE vs. CA essay:** not on the MBE; rarely tested; one sentence when a pre-1975 deed to the wife appears.
 
@@ -273,9 +273,9 @@ status: draft
 
 **Elements:** 1. Independent counsel or separate written waiver after advisement (advisement at least 7 days before signing). 2. Seven-day period (final agreement, for agreements signed on or after Jan. 1, 2020). 3. Written explanation for an unrepresented party, with a signed acknowledgment naming who provided it. 4. No duress, fraud, undue influence or incapacity. 5. Any other relevant factors.
 
-**Exceptions / defenses:** Nonsubstantive amendments do not restart the seven days; agreements signed 2002–2019 use the earlier seven-day wording [VERIFY V-300].
+**Exceptions / defenses:** Nonsubstantive amendments that do not change the terms do not restart the seven days; agreements signed from Jan. 1, 2002 to Jan. 1, 2020 use the earlier wording (seven days from first presentation of the agreement and advice to seek counsel) (§ 1615(c)(2)(A)–(B)).
 
-**Authority:** Fam. Code § 1615(a)(1), (c) [S-401] [S-402]; *In re Marriage of Bonds* (2000) 24 Cal.4th 1.
+**Authority:** Fam. Code § 1615(a)(1), (c) [S-401] [S-402] [S-1000]; *In re Marriage of Bonds* (2000) 24 Cal.4th 1 (decided under the earlier totality test; the Legislature responded by adding § 1615(c), effective 2002).
 
 **MBE vs. CA essay:** not on the MBE; walk through each factor on the facts.
 
@@ -500,11 +500,11 @@ status: draft
 **Example:** W's inherited orchard grows in value from $2 million to $4 million because land prices soar; her services were worth $80,000 a year and she drew $80,000 a year. The community gets nothing more; the growth is SP.
 
 ### R-CMP-036 — Choosing between Pereira and Van Camp
-**Rule (write this):** The court may choose whichever apportionment method achieves substantial justice between the spouses: Pereira when growth is chiefly attributable to the spouse's personal efforts, and Van Camp when growth is chiefly attributable to the separate capital or outside factors. A court may combine the methods for different periods.
+**Rule (write this):** The court may choose whichever apportionment method achieves substantial justice between the spouses: Pereira when growth is chiefly attributable to the spouse's personal efforts, and Van Camp when growth is chiefly attributable to the separate capital or outside factors. Neither formula is mandatory.
 
 **Elements:** 1. Identify the main driver of growth. 2. Apply both formulas. 3. Argue which fits. 4. Conclude.
 
-**Exceptions / defenses:** None mandatory.
+**Exceptions / defenses:** None mandatory. Whether a court may apply different methods to different periods of the same marriage is not settled in this repo [VERIFY V-900]; on an essay, argue for one method and mention the other.
 
 **Authority:** *Beam v. Bank of America* (1971) 6 Cal.3d 12; *In re Marriage of Dekker* (1993) 17 Cal.App.4th 842 [S-410].
 
@@ -541,17 +541,17 @@ status: draft
 **Example:** H bought a condo for $200,000; it was worth $260,000 at marriage. The first $60,000 of appreciation is H's SP.
 
 ### R-CMP-039 — Community funds improving separate property
-**Rule (write this):** When community funds are used during marriage to improve one spouse's separate property, the community is generally entitled to reimbursement, and the non-owner spouse's consent to the expenditure does not by itself show a gift. Courts measure the claim by the amount spent or the resulting increase in value.
+**Rule (write this):** When community funds are used during marriage to improve one spouse's separate property, the community is generally entitled to reimbursement, and the non-owner spouse's consent to the expenditure does not by itself show a gift. Courts measure the claim by the amount spent or by the increase in value the improvement produced.
 
-**Elements:** 1. CP funds. 2. Improvement (not routine maintenance) to SP. 3. No written gift or transmutation. 4. Measure: cost or value added.
+**Elements:** 1. CP funds. 2. Improvement (not routine maintenance or property taxes) to SP. 3. No written gift or transmutation. 4. Measure: cost or value added (argue the measure that favors your client).
 
-**Exceptions / defenses:** Older cases presumed a gift where the non-owner spouse made the improvement; doubtful after § 852 [VERIFY V-306].
+**Exceptions / defenses:** CP payments of property taxes on SP do not give a right of reimbursement (Wolfe). Some courts give the community a pro tanto interest instead, turning on whether the improvements enhanced the property's equity value (*Bono v. Clark* (2002) 103 Cal.App.4th 1409 [S-1010]). Allen rejected inferring a gift from the non-owner spouse's mere consent.
 
-**Authority:** *In re Marriage of Allen* (2002) 96 Cal.App.4th 497 [S-409].
+**Authority:** *In re Marriage of Wolfe* (2001) 91 Cal.App.4th 962 [S-1009]; *In re Marriage of Allen* (2002) 96 Cal.App.4th 497 [S-409].
 
 **MBE vs. CA essay:** not on the MBE.
 
-**Example:** H and W spend $80,000 of CP to add a bedroom to W's premarital house. The community is reimbursed at least $80,000 at divorce.
+**Example:** H and W spend $80,000 of CP to add a bedroom to W's premarital house. At divorce the community has a reimbursement claim measured by the $80,000 spent or the value the bedroom added; H argues for the larger figure.
 
 ### R-CMP-040 — Interest, taxes and insurance on separate property
 **Rule (write this):** Community payments of interest, property taxes, insurance and maintenance on one spouse's separate property do not create a community ownership interest; they are generally treated as the cost of the community's use of the property and are not reimbursed.
@@ -627,9 +627,9 @@ status: draft
 
 **Elements:** 1. Valid transmutation of SP into CP/joint form. 2. Writing silent on reimbursement. 3. Traced SP contribution.
 
-**Exceptions / defenses:** Opponent argues the transmutation writing "has the effect of a waiver" [VERIFY V-313].
+**Exceptions / defenses:** Only an express written waiver or "a writing that has the effect of a waiver" bars the claim; no magic words are needed, but the contributor's donative intent alone does not bar reimbursement (Carpenter). The opponent argues the transmutation writing itself has the effect of a waiver.
 
-**Authority:** Fam. Code §§ 852, 2640(b).
+**Authority:** Fam. Code §§ 852, 2640(b); *In re Marriage of Carpenter* (2002) 100 Cal.App.4th 424 [S-1013].
 
 **MBE vs. CA essay:** not on the MBE.
 
@@ -640,7 +640,7 @@ status: draft
 ## II.G and II.J.2 Education and training
 
 ### R-CMP-046 — Education is not property; § 2641 reimbursement
-**Rule (write this):** A professional degree or enhanced earning capacity is not community property. Instead, the community is reimbursed, with interest at the legal rate, for community contributions to a spouse's education or training that substantially enhanced that spouse's earning capacity, and loans for that education are assigned to the educated spouse. This reimbursement is the community's exclusive remedy.
+**Rule (write this):** A professional degree or enhanced earning capacity is not community property. Instead, the community is reimbursed, with interest at the legal rate, for community contributions to a spouse's education or training that substantially enhanced that spouse's earning capacity, and loans incurred during marriage for that education are assigned to the educated spouse. This reimbursement is the community's exclusive remedy.
 
 **Elements:** 1. Community (or QCP) payments for education/training or its loans. 2. Substantial enhancement of earning capacity. 3. Reimbursement + legal-rate interest from the end of each calendar year of payment. 4. Loans assigned to educated spouse.
 
@@ -743,9 +743,9 @@ status: draft
 
 **Elements:** 1. Grant during marriage (or for marital services). 2. Purpose: past or future services. 3. Hug fraction: start of employment → DOS ÷ start of employment → exercisable date. 4. Nelson fraction: grant → DOS ÷ grant → exercisable date. 5. × shares vesting.
 
-**Exceptions / defenses:** No formula is mandatory; the trial court has broad discretion [VERIFY V-310].
+**Exceptions / defenses:** No formula is mandatory; the trial court has broad discretion and may fit the time rule to the employer's purpose in granting the options.
 
-**Authority:** *In re Marriage of Hug* (1984) 154 Cal.App.3d 780 [S-426]; *In re Marriage of Nelson* (1986) 177 Cal.App.3d 150 [S-427].
+**Authority:** *In re Marriage of Hug* (1984) 154 Cal.App.3d 780 [S-426]; *In re Marriage of Nelson* (1986) 177 Cal.App.3d 150 [S-427] [S-1012].
 
 **MBE vs. CA essay:** not on the MBE.
 
@@ -756,9 +756,9 @@ status: draft
 
 **Elements:** 1. Type of policy (whole vs. term). 2. Source of premiums (all, or final term). 3. Title vs. transmutation. 4. Beneficiary designation and spousal consent.
 
-**Exceptions / defenses:** Federal programs (NSLI, SGLI, FEGLI) follow federal designations (R-CMP-102); courts have used varying theories for term policies [VERIFY V-307].
+**Exceptions / defenses:** Federal programs (NSLI, SGLI, FEGLI) follow federal designations (R-CMP-102). Earlier cases split on the theory for term policies (e.g., *Estate of Logan* (1987) 191 Cal.App.3d 319); Burwell adopted the final-term-premium rule. Spengler is cited for treating group term coverage as having no community value beyond the community-funded term [VERIFY V-901].
 
-**Authority:** *In re Marriage of Valli* (2014) 58 Cal.4th 1396; *Burwell v. Burwell* (2013) 221 Cal.App.4th 1; *In re Marriage of Spengler* (1992) 5 Cal.App.4th 288 [S-411]; Prob. Code § 5020.
+**Authority:** *In re Marriage of Valli* (2014) 58 Cal.4th 1396; *Burwell v. Burwell* (2013) 221 Cal.App.4th 1 [S-1011] [S-1021]; *In re Marriage of Spengler* (1992) 5 Cal.App.4th 288 [S-411]; Prob. Code § 5020.
 
 **MBE vs. CA essay:** not on the MBE.
 
@@ -782,9 +782,9 @@ status: draft
 
 **Elements:** 1. When did the cause of action arise (injury date)? 2. Who is the tortfeasor (third party or spouse)? 3. Commingled? 4. Reimbursement of expenses paid by the other estate.
 
-**Exceptions / defenses:** At dissolution, community PI damages go to the injured spouse unless justice requires otherwise (R-CMP-078) [VERIFY V-311] [VERIFY V-331].
+**Exceptions / defenses:** At dissolution, community PI damages go to the injured spouse unless justice requires otherwise (R-CMP-078). A cause of action that arose before marriage is SP as property owned before marriage [VERIFY V-331].
 
-**Authority:** Fam. Code §§ 780, 781 [S-429], 770(a)(1).
+**Authority:** Fam. Code §§ 780, 781 [S-429] [S-1005], 770(a)(1).
 
 **MBE vs. CA essay:** not on the MBE.
 
@@ -812,7 +812,7 @@ status: draft
 
 **Exceptions / defenses:** Loans after DOS follow the post-DOS rules.
 
-**Authority:** *Gudelj v. Gudelj* (1953) 41 Cal.2d 202; *In re Marriage of Grinius* (1985) 166 Cal.App.3d 1179 [S-428].
+**Authority:** *Gudelj v. Gudelj* (1953) 41 Cal.2d 202; *In re Marriage of Grinius* (1985) 166 Cal.App.3d 1179 [S-428] (Grinius is summarized as requiring reliance solely on SP; whether current law says "primarily" or "solely" [VERIFY V-902]).
 
 **MBE vs. CA essay:** not on the MBE; Feb 2022 Q2 and Feb 2024 Q1.
 
@@ -823,7 +823,7 @@ status: draft
 
 **Elements:** 1. Forgery or unauthorized act. 2. § 910 community liability. 3. § 913 SP protection. 4. § 1102 joinder for real property. 5. § 1101 remedies against the forger.
 
-**Exceptions / defenses:** Good-faith encumbrancer protection where title is in one spouse's name alone (§ 1102(c)) [VERIFY V-316].
+**Exceptions / defenses:** Good-faith encumbrancer protection where title is in one spouse's name alone (§ 1102(c)) [S-1007].
 
 **Authority:** Fam. Code §§ 721, 910, 913, 1100(e), 1101, 1102.
 
@@ -849,13 +849,13 @@ status: draft
 **Example:** W's SP down payment (§ 2640) and her post-DOS mortgage payments (Epstein) are both reimbursed; her SP grocery spending is not.
 
 ### R-CMP-061 — Reimbursement for payment of debts
-**Rule (write this):** A right of reimbursement for applying one estate's property to a debt arises only as a statute provides, is measured by the value of the property applied, may be waived in writing, and must be asserted within the statutory period, generally within three years after actual knowledge or in the dissolution or probate proceeding.
+**Rule (write this):** A statutory right of reimbursement for applying one estate's property to a debt arises whoever applied the property and whether the payment was voluntary or not; it is measured by the value of the property when the right arises, is subject to an express written waiver, and must be exercised no later than the earlier of three years after actual knowledge of the payment or the property-division or death proceeding.
 
-**Elements:** 1. Statutory basis (§§ 914, 915, 916, 2626). 2. Value applied. 3. Timely assertion. 4. No written waiver.
+**Elements:** 1. Statutory basis (e.g., §§ 914(b), 915(b), 916; § 2626 at dissolution). 2. Value at the time the right arises. 3. Timely assertion (earlier of the two deadlines). 4. No express written waiver.
 
-**Exceptions / defenses:** Payment of the payor's own debt is not reimbursable [VERIFY V-314].
+**Exceptions / defenses:** Where community property paid a support obligation not arising from the marriage, the community recovers only to the extent the obligor's non-exempt separate income was available but not applied (§ 915(b)). Reimbursement under § 1000 (tort liabilities) may not be exercised more than seven years after actual knowledge.
 
-**Authority:** Fam. Code §§ 920, 914(b), 915 [VERIFY V-330].
+**Authority:** Fam. Code §§ 920 [S-1019], 914(b), 915 [S-1008], 1000.
 
 **MBE vs. CA essay:** not on the MBE.
 
@@ -896,9 +896,9 @@ status: draft
 
 **Elements:** 1. CP personal property. 2. Gift or transfer for inadequate value. 3. No written consent. 4. Remedy: set aside (whole during life; half after death) and § 1101.
 
-**Exceptions / defenses:** Ratification by the non-consenting spouse; small customary gifts (argue reasonableness).
+**Exceptions / defenses:** Ratification by the non-consenting spouse; small customary gifts (argue reasonableness). § 1100(b) does not apply to gifts both spouses make together to third parties or to gifts between the spouses.
 
-**Authority:** Fam. Code § 1100(b); *Spreckels v. Spreckels* (1916) 172 Cal. 775 [S-433]; *Fields v. Michael* (1949) 91 Cal.App.2d 443 [S-412] [VERIFY V-309].
+**Authority:** Fam. Code § 1100(b); *Spreckels v. Spreckels* (1916) 172 Cal. 775 [S-433]; *Fields v. Michael* (1949) 91 Cal.App.2d 443, 448 [S-412] [S-1015].
 
 **MBE vs. CA essay:** not on the MBE.
 
@@ -935,9 +935,9 @@ status: draft
 
 **Elements:** 1. CP real property. 2. Lease > 1 year, sale, conveyance or encumbrance. 3. One spouse acted alone. 4. BFP without knowledge of marriage + title in transferor's name → presumed valid. 5. One-year limit from recording.
 
-**Exceptions / defenses:** Transactions between the spouses themselves are not subject to joinder [VERIFY V-316].
+**Exceptions / defenses:** Leases, mortgages, conveyances and transfers of real property between the spouses themselves are outside § 1102 (§ 1102(b)).
 
-**Authority:** Fam. Code § 1102.
+**Authority:** Fam. Code § 1102 [S-1007].
 
 **MBE vs. CA essay:** not on the MBE; Jul 2012 Q2, Feb 2014 Q2.
 
@@ -946,11 +946,11 @@ status: draft
 ### R-CMP-068 — Remedies for breach of fiduciary duty (§ 1101)
 **Rule (write this):** A spouse may sue the other for any breach of fiduciary duty that impairs the claimant's one-half interest in the community estate and obtain an accounting, an order adding the claimant's name to title, and an award of 50% of any asset undisclosed or transferred in breach plus attorney's fees and costs, or 100% of the asset when the breach involved oppression, fraud or malice under Civil Code § 3294.
 
-**Elements:** 1. Breach of fiduciary duty. 2. Impairment of the claimant's interest. 3. Remedy: accounting; title; 50%; 100% if § 3294. 4. Timely: generally three years from actual knowledge, or in the dissolution or death proceeding [VERIFY V-301].
+**Elements:** 1. Breach of fiduciary duty. 2. Impairment of the claimant's interest. 3. Remedy: accounting; title; 50%; 100% if § 3294. 4. Timely: within three years of the claimant's actual knowledge of the transaction (§ 1101(d)(1)), or without that limit when brought upon a spouse's death or with a dissolution, legal separation or nullity action (§ 1101(d)(2)).
 
-**Exceptions / defenses:** Limitations; no impairment.
+**Exceptions / defenses:** Limitations; no impairment. Title cannot be reformed for a general-partnership interest held by the other spouse and certain other business interests (§ 1101(c)).
 
-**Authority:** Fam. Code § 1101 [S-405]; Civ. Code § 3294; *In re Marriage of Rossi* (2001) 90 Cal.App.4th 34.
+**Authority:** Fam. Code § 1101 [S-405] [S-1003]; Civ. Code § 3294; *In re Marriage of Rossi* (2001) 90 Cal.App.4th 34.
 
 **MBE vs. CA essay:** not on the MBE.
 
@@ -1055,7 +1055,7 @@ status: draft
 
 **Exceptions / defenses:** Statutory deviations (R-CMP-076 to R-CMP-081); agreement.
 
-**Authority:** Fam. Code §§ 2550, 2552, 2556, 63.
+**Authority:** Fam. Code §§ 2550, 2552, 2601, 63.
 
 **MBE vs. CA essay:** not on the MBE.
 
@@ -1103,13 +1103,13 @@ status: draft
 **Example:** W's $120,000 accident settlement sits untouched in an account in her name. At divorce it goes entirely to W unless H shows great need.
 
 ### R-CMP-079 — Personal-injury claims between spouses
-**Rule (write this):** Damages one spouse recovers from the other for a personal injury during marriage are the injured spouse's separate property, and community property may not be used to pay the tortfeasor spouse's liability to the injured spouse until the tortfeasor's non-exempt separate property is exhausted, unless the injured spouse consents in writing.
+**Rule (write this):** Damages one spouse recovers from the other for a personal injury during marriage are the injured spouse's separate property, and community property may not be used to pay the tortfeasor spouse's liability to the injured spouse until the tortfeasor's non-exempt separate property is exhausted, unless the injured spouse consents in writing after the injury.
 
-**Elements:** 1. Spouse v. spouse injury claim. 2. Recovery = injured spouse's SP. 3. Satisfaction: tortfeasor's SP first. 4. Written consent exception; insurance unaffected.
+**Elements:** 1. Spouse v. spouse injury claim. 2. Recovery = injured spouse's SP. 3. Satisfaction: tortfeasor's SP first (same rule for contribution or indemnity owed to a third-party tortfeasor). 4. Written consent after the injury; insurance unaffected.
 
-**Exceptions / defenses:** Insurance indemnity rights are preserved [VERIFY V-302].
+**Exceptions / defenses:** Rights to indemnity under an insurance or other contract are preserved, even if CP paid the premiums (§ 782(c)).
 
-**Authority:** Fam. Code §§ 781(c), 782 [S-406].
+**Authority:** Fam. Code §§ 781(c), 782 [S-406] [S-1004].
 
 **MBE vs. CA essay:** not on the MBE.
 
@@ -1133,9 +1133,9 @@ status: draft
 
 **Elements:** 1. Tort liability: community-benefit activity? If not → assign to tortfeasor without offset. 2. Debts > assets: allocate excess by ability to pay.
 
-**Exceptions / defenses:** Liability to creditors is unaffected (§§ 910, 1000) [VERIFY V-303]. The State Bar outline's items VI.B.6–7 may label these differently [VERIFY V-025].
+**Exceptions / defenses:** Liability to creditors is unaffected (§§ 910, 1000). The State Bar outline's items VI.B.6–7 may label these differently [VERIFY V-025].
 
-**Authority:** Fam. Code §§ 2627, 2622(b), 1000(b).
+**Authority:** Fam. Code §§ 2627 [S-407] [S-1006], 2622(b), 1000(b).
 
 **MBE vs. CA essay:** not on the MBE.
 
@@ -1295,20 +1295,20 @@ status: draft
 **Example:** H and W earned money in Ohio, bought a California house in H's name and an Ohio farm, then H died domiciled in California. The house is QCP (half to W); the Ohio farm passes under Ohio law.
 
 ### R-CMP-093 — Recapture of quasi-community property (§ 102)
-**Rule (write this):** The surviving spouse may require a transferee to restore one-half of quasi-community property the decedent transferred without substantial consideration and without the survivor's written consent or joinder, if the decedent died domiciled in California and at death retained possession, enjoyment or income, retained a power to revoke or to use the principal, or held the property with the transferee with a right of survivorship.
+**Rule (write this):** The surviving spouse may require a transferee to restore to the decedent's estate one-half of quasi-community property (or of its proceeds or value) that the decedent transferred to someone other than the surviving spouse without substantial consideration and without the survivor's written consent or joinder, if the decedent died domiciled in California and at death retained possession, enjoyment or income, retained a power to revoke or to consume, invade or dispose of the principal, or held the property with the transferee as joint tenants with right of survivorship. Restored property belongs to the surviving spouse as though the transfer had not been made.
 
 **Elements:** 1. Decedent domiciled in California. 2. QCP transferred to a non-spouse. 3. No substantial consideration. 4. No written consent or joinder. 5. Retained interest: possession/income, power to revoke or invade, or survivorship.
 
-**Exceptions / defenses:** Statutory carve-outs (insurance, annuities, pensions) [VERIFY V-304].
+**Exceptions / defenses:** No restoration of life insurance, accident insurance, a joint annuity or a pension payable to someone other than the surviving spouse (§ 102(b)).
 
-**Authority:** Prob. Code § 102 [S-403].
+**Authority:** Prob. Code § 102 [S-403] [S-1002].
 
 **MBE vs. CA essay:** not on the MBE; Jul 2022 Q5.
 
 **Example:** H deeds QCP land to "H and daughter D, joint tenants" without W's consent, then dies. W can compel D to restore one-half.
 
 ### R-CMP-094 — Intestate succession by the surviving spouse
-**Rule (write this):** When a married person dies intestate, the surviving spouse takes the decedent's one-half of the community property and of the decedent's quasi-community property, and a share of the separate property: all of it if the decedent left no issue, parent, sibling or issue of a deceased sibling; one-half if the decedent left one child or the issue of one deceased child, or no issue but a parent or a parent's issue; and one-third if the decedent left more than one child or the issue of more than one child.
+**Rule (write this):** When a married person dies intestate, the surviving spouse takes the decedent's one-half of the community property and of the decedent's quasi-community property, and a share of the separate property: all of it if the decedent left no issue, parent, sibling or issue of a deceased sibling; one-half if the decedent left one child or the issue of one deceased child, or no issue but a parent or a parent's issue; and one-third if the decedent left more than one child, one child and the issue of a deceased child, or the issue of two or more deceased children.
 
 **Elements:** 1. CP → all to survivor. 2. QCP → decedent's half to survivor. 3. SP share depends on surviving relatives (§ 6401(c)). 4. Remainder by § 6402.
 
@@ -1347,7 +1347,7 @@ status: draft
 **Example:** H names his brother beneficiary of a CP-funded life policy without W's consent. W can recover half the proceeds.
 
 ### R-CMP-097 — Omitted spouse and effect of dissolution
-**Rule (write this):** A surviving spouse who married the decedent after all of the decedent's testamentary instruments were executed and was not provided for receives the decedent's one-half of the community and quasi-community property and an intestate share of the separate property capped at one-half, unless the omission was intentional, the spouse was provided for outside the will in lieu of a testamentary gift, or the spouse validly waived the share. Dissolution of marriage revokes will provisions in favor of the former spouse.
+**Rule (write this):** A surviving spouse who married the decedent after all of the decedent's testamentary instruments were executed and was not provided for receives the decedent's one-half of the community and quasi-community property and an intestate share of the separate property capped at one-half, unless the omission was intentional and that intention appears from the testamentary instruments, the spouse was provided for outside the will in lieu of a testamentary gift, or the spouse validly waived the share. Dissolution of marriage revokes will provisions in favor of the former spouse.
 
 **Elements:** 1. Marriage after all instruments. 2. No provision. 3. No § 21611 exception. 4. Share: CP/QCP half + SP intestate share ≤ 1/2.
 
@@ -1377,9 +1377,9 @@ status: draft
 
 **Elements:** 1. Lifetime gift of CP personal property. 2. No written consent. 3. Donor has died. 4. Recovery limited to one-half.
 
-**Exceptions / defenses:** Ratification; laches [VERIFY V-309].
+**Exceptions / defenses:** Ratification; laches. The survivor may instead recover one-half of the value from the decedent's estate.
 
-**Authority:** Fam. Code § 1100(b); *Fields v. Michael* (1949) 91 Cal.App.2d 443 [S-412].
+**Authority:** Fam. Code § 1100(b); *Fields v. Michael* (1949) 91 Cal.App.2d 443, 448 [S-412] [S-1015].
 
 **MBE vs. CA essay:** not on the MBE.
 

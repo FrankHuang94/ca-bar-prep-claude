@@ -70,7 +70,7 @@ status: draft
 
 - **Definition (dissolution).** QCP is all real or personal property, **wherever situated**, acquired (a) by either spouse while domiciled elsewhere that would have been CP had the acquiring spouse been domiciled in California at acquisition, or (b) in exchange for such property (Fam. Code § 125). (R-CMP-003)
 - **Why it exists.** Common-law states give title to the earning spouse. When a couple moves to California, QCP lets California treat the out-of-state earnings like CP at dissolution or death, protecting the non-titled spouse.
-- **At dissolution.** QCP is part of the "community estate" (Fam. Code § 63) and is divided equally with CP (§ 2550). California courts have applied QCP at dissolution only when **both spouses are domiciled in California** when the dissolution is sought (*In re Marriage of Roesch* (1978) 83 Cal.App.3d 96) [S-408] [VERIFY V-305]. Out-of-state real property is included, but the court divides it in a way that avoids changing title to the foreign land where possible (§ 2660; VI.A.3). *Addison v. Addison* (1965) 62 Cal.2d 558 upheld applying QCP at divorce against due process and privileges-and-immunities challenges.
+- **At dissolution.** QCP is part of the "community estate" (Fam. Code § 63) and is divided equally with CP (§ 2550). California courts have applied QCP at dissolution only when **both spouses are domiciled in California** when the dissolution is sought (*In re Marriage of Roesch* (1978) 83 Cal.App.3d 96 [S-408]; followed in *Fredericks v. Fredericks* (1991) 226 Cal.App.3d 875 [S-1014]). Out-of-state real property is included, but the court divides it in a way that avoids changing title to the foreign land where possible (§ 2660; VI.A.3). *Addison v. Addison* (1965) 62 Cal.2d 558 upheld applying QCP at divorce against due process and privileges-and-immunities challenges.
 - **At death.** The Probate Code definition is narrower: QCP is **personal property wherever situated and real property situated in California** acquired while domiciled elsewhere that would have been CP (Prob. Code § 66) [S-404]. Out-of-state land is **not** QCP at death; the situs state's law governs it. Only the **decedent's** QCP is split: half belongs to the surviving spouse, half to the decedent (Prob. Code § 101). The survivor's own QCP is not divided (VII.B).
 - **During marriage.** QCP is generally managed and controlled by the acquiring spouse as though it were that spouse's SP; its quasi-community character matters at dissolution, at death and for creditors [VERIFY V-327]. For debts, QCP is liable to the same extent as CP (Fam. Code § 912).
 - **Recapture at death.** If the decedent gave QCP away while keeping control or enjoyment of it (for example, by deeding it into joint tenancy with a child without the spouse's written consent), the survivor may recover half from the transferee (Prob. Code § 102) [S-403] (VII.B).
@@ -118,9 +118,9 @@ status: draft
 1. **Title in one spouse's name, acquired during marriage with CP.** Title alone does not make it SP. Between spouses, the form-of-title presumption of Evid. Code § 662 (owner of legal title presumed owner of full beneficial title, rebuttable only by clear and convincing proof) **does not apply** where it conflicts with the transmutation statutes; a spouse claiming the asset became his or her SP must show a valid § 852 transmutation (*In re Marriage of Valli* (2014) 58 Cal.4th 1396: life insurance policy bought with CP and titled in W's name remained CP). (R-CMP-012)
 2. **Joint title at dissolution (§ 2581).** For division at dissolution or legal separation, property acquired **during marriage in joint form** (joint tenancy, tenancy in common, tenancy by the entirety, or as CP) is presumed CP. The presumption affects the burden of proof and can be rebutted **only** by (a) a clear statement in the deed or other documentary evidence of title that the property is SP and not CP, or (b) proof of a written agreement that the property is SP (Fam. Code § 2581) [S-425]. A spouse who contributed SP is protected by **§ 2640 reimbursement**, not by rebutting the presumption. (R-CMP-013)
    - **History.** *In re Marriage of Lucas* (1980) 27 Cal.3d 808 held that a spouse who used SP toward an asset taken in joint title got nothing back unless the spouses had agreed otherwise; the SP contribution was treated as a gift to the community. The Legislature replaced Lucas with the predecessors of §§ 2581 and 2640 (effective 1984). Retroactive application of the new statutes to earlier acquisitions was limited on due-process grounds (*In re Marriage of Buol* (1985) 39 Cal.3d 751; *In re Marriage of Fabian* (1986) 41 Cal.3d 440; *In re Marriage of Heikes* (1995) 10 Cal.4th 1211) [VERIFY V-329].
-3. **Joint tenancy outside dissolution (death, creditors).** § 2581 applies only to division at dissolution or legal separation. At death, the traditional answer was that joint tenancy title governs and the survivor takes by survivorship. In *In re Brace* (2020) 9 Cal.5th 903, the Supreme Court held (in a bankruptcy dispute) that property bought with community funds during marriage is presumptively CP even though title was taken as joint tenants; for acquisitions on or after January 1, 1985 a change of character requires an express § 852 writing, and a joint-tenancy deed alone is not enough [S-422]. On a death essay, argue both (survivorship from title vs. CP character after Brace) when the decedent tried to will half of a jointly titled asset [VERIFY V-319]. (R-CMP-014)
+3. **Joint tenancy outside dissolution (death, creditors).** § 2581 applies only to division at dissolution or legal separation. At death, the traditional answer was that joint tenancy title governs and the survivor takes by survivorship. In *In re Brace* (2020) 9 Cal.5th 903, the Supreme Court held (in a bankruptcy dispute) that property bought with community funds during marriage is presumptively CP even though title was taken as joint tenants; for acquisitions on or after January 1, 1985 a change of character requires an express § 852 writing, and a joint-tenancy deed alone is not enough [S-422]. The Court expressly did **not** disturb the right of survivorship that typically accompanies joint tenancy title at death [S-1016]. So on a death essay, absent a valid written transmutation of the asset into CP held without survivorship, the surviving spouse takes a joint-tenancy asset by survivorship and the decedent's will cannot pass "half" of it; Brace's CP presumption matters for characterization against creditors (and for § 102 recapture of QCP put into joint tenancy with a third party). (R-CMP-014)
 4. **Community property with right of survivorship** (Civ. Code § 682.1): CP for all purposes during life and at dissolution; passes to the survivor at death without administration.
-5. **Married woman's pre-1975 presumption.** Property acquired by a married woman by written instrument **before January 1, 1975** is presumed her SP; if she took with her husband or another person, she is presumed to take her part as a tenant in common, unless a different intention appears (Fam. Code § 803) [S-419]. (R-CMP-015) Rarely tested; mention it only if the facts give a pre-1975 deed to the wife.
+5. **Married woman's pre-1975 presumption.** Property acquired by a married woman by written instrument **before January 1, 1975** is presumed her SP; if she took with another person, she is presumed to take her part as a tenant in common; if husband and wife took by an instrument describing them as **husband and wife**, it is presumed CP; in each case unless a different intention is expressed in the instrument. The presumptions are conclusive in favor of a good-faith purchaser or encumbrancer for value (Fam. Code § 803) [S-419] [S-1018]. (R-CMP-015) Rarely tested; mention it only if the facts give a pre-1975 deed to the wife.
 6. **Interspousal transfers.** A deed or other transfer between spouses is analyzed as a **transmutation** (II.B.2) and is subject to the presumption of undue influence (II.A.3), not to a simple title presumption.
 
 #### II.A.3 Presumption of undue influence in interspousal transactions
@@ -153,7 +153,7 @@ status: draft
 - **Enforcement defenses** (§ 1615(a)). The agreement is unenforceable if the challenger proves either: (R-CMP-019, R-CMP-020)
   1. **Involuntary execution**; or
   2. **Unconscionability when executed**, **and** before execution the challenger (A) was not given fair, reasonable and full disclosure of the other's property and financial obligations, (B) did not voluntarily and expressly waive in writing any further disclosure, and (C) did not have, and reasonably could not have had, adequate knowledge of that property and those obligations. Unconscionability is a question of law (§ 1615(b)).
-- **Statutory voluntariness checklist** (§ 1615(c)). The agreement is deemed **not** voluntary unless the court finds, in writing or on the record, **all** of the following [S-401] [S-402] [VERIFY V-300]:
+- **Statutory voluntariness checklist** (§ 1615(c)). The agreement is deemed **not** voluntary unless the court finds, in writing or on the record, **all** of the following [S-401] [S-402] [S-1000]:
   1. The challenger had **independent counsel** at signing, or, after being advised to seek counsel, **expressly waived counsel in a separate writing**; for current agreements the advisement must come at least seven calendar days before the final agreement is signed.
   2. **Seven-day rule.** For agreements signed on or after January 1, 2020: at least **seven calendar days** between first presentation of the **final** agreement and signing, whether or not the party had counsel (for 2002–2019 agreements, seven days from first presentation and advice to seek counsel). Nonsubstantive amendments do not restart the clock.
   3. If **unrepresented**: fully informed in writing, in a language in which the party is proficient, of the terms and basic effect of the agreement and the rights and obligations given up, and the party signed a document declaring receipt and naming who provided it.
@@ -179,7 +179,7 @@ status: draft
 - **Wills.** A statement in a will about the character of property is not admissible as evidence of a transmutation in proceedings commenced before the death of the person who made the will (§ 852(d)).
 - **Third parties.** A transmutation of real property is not effective against third parties without notice unless recorded (§ 852(b)). Transmutations are subject to the laws on fraudulent transfers (§ 851).
 - **Undue influence overlay.** A valid § 852 writing that advantages one spouse is still **presumed** to have been obtained by undue influence (§ 721; Haines; II.A.3). (R-CMP-026)
-- **Effect on reimbursement.** When SP is transmuted into CP or joint form, the contributing spouse may still claim § 2640 reimbursement unless the writing waives it; courts have treated the SP value contributed as a "contribution to the acquisition" of the community asset [VERIFY V-313].
+- **Effect on reimbursement.** When SP is transmuted into CP or joint form, the contributing spouse may still claim § 2640 reimbursement unless there is an express written waiver or a writing that has the effect of a waiver; no magic words are required, but donative intent alone does not bar reimbursement (*In re Marriage of Carpenter* (2002) 100 Cal.App.4th 424) [S-1013].
 - **How tested.** Very often (3 tagged essays; implicit in most title-change facts). Write: rule → is there a writing? → does it expressly state a change of ownership? → § 852(c) gift exception? → undue-influence presumption → § 2640 reimbursement.
 
 > 🇨🇳 PRC bridge: both systems require writing for spousal property agreements, but California's "express declaration" test is stricter than reading the parties' intent from context (approx.).
@@ -229,9 +229,10 @@ The community can acquire an interest in SP in two ways: **labor** (community ef
 
 #### II.D.2 Community funds improving separate property
 
-- **Rule.** When community funds are used to **improve** (build on, renovate) one spouse's SP during marriage, the community is generally entitled to **reimbursement**. Consent of the non-owner spouse to the use of community funds does not, by itself, prove a gift to the SP owner (*In re Marriage of Allen* (2002) 96 Cal.App.4th 497) [S-409]. (R-CMP-039)
-- **Measure.** Courts have measured the community's claim by the amount spent or by the increase in value attributable to the improvement; some decisions allow a pro rata ownership interest instead of reimbursement. On an essay, state the reimbursement claim and argue for the larger measure on the community's side [VERIFY V-306].
-- **Old gift presumption.** Older cases presumed a gift when the non-owner spouse used community funds to improve the other spouse's SP; after § 852 (gifts between spouses need an express writing unless § 852(c) applies) that presumption is doubtful [VERIFY V-306].
+- **Rule.** When community funds are used to **improve** (build on, renovate) one spouse's SP during marriage, the community is generally entitled to **reimbursement** (*In re Marriage of Wolfe* (2001) 91 Cal.App.4th 962 [S-1009]). Consent of the non-owner spouse to the use of community funds does not, by itself, prove a gift to the SP owner (*In re Marriage of Allen* (2002) 96 Cal.App.4th 497) [S-409]. (R-CMP-039)
+- **Measure.** Courts have measured the community's claim by the amount spent or by the increase in value attributable to the improvement; *Bono v. Clark* (2002) 103 Cal.App.4th 1409 tied reimbursement or a pro tanto interest to whether the improvements enhanced the property's equity value [S-1010]. On an essay, state the reimbursement claim and argue both measures; the repo has not confirmed a settled "greater of cost or value added" rule.
+- **Not improvements.** CP payments of property taxes on SP did not support reimbursement in Wolfe; interest, taxes and insurance are treated as the cost of the community's use (Moore).
+- **Old gift presumption.** Older cases presumed a gift in some circumstances when community funds improved one spouse's SP; Allen refused to infer a gift from the non-owner spouse's mere consent.
 - **Taxes, interest, insurance and maintenance** paid with CP on SP do not enlarge the community's ownership share (Moore) and are often offset by the community's use of the property.
 
 #### II.D.3 Apportionment of separate property business value
@@ -255,7 +256,7 @@ When a spouse owned a business before marriage (or inherited it) and worked in i
 
 ##### II.D.3.c Choosing the method
 
-- **Discretion.** The court may use whichever method achieves **substantial justice** on the facts; neither is mandatory (*Beam v. Bank of America* (1971) 6 Cal.3d 12; *In re Marriage of Dekker* (1993) 17 Cal.App.4th 842 [S-410]). Some courts combine the methods over different periods. (R-CMP-036)
+- **Discretion.** The court may use whichever method achieves **substantial justice** on the facts; neither is mandatory (*Beam v. Bank of America* (1971) 6 Cal.3d 12; *In re Marriage of Dekker* (1993) 17 Cal.App.4th 842 [S-410]). Whether a court may apply different methods to different periods of one marriage is not confirmed in this repo [VERIFY V-900]. (R-CMP-036)
 - **Essay technique.** Apply **both** methods, show the numbers if given, then argue which fits: personal effort → Pereira (favors the community); capital or market → Van Camp (favors the SP owner). Conclude with the more likely method.
 - **Feb 2021 Q3** (inherited business grown during marriage) and **Jul 2013 Q3** (restaurant) called for exactly this.
 
@@ -323,7 +324,7 @@ When a spouse owned a business before marriage (or inherited it) and worked in i
 
 ### II.I Credit acquisitions (purchases and loans)
 
-- **Rule.** Property bought **on credit** during marriage is presumptively CP, because loan proceeds acquired during marriage are presumed CP. The character of loan proceeds depends on the **intent of the lender**: if the lender relied **primarily (traditionally, solely) on the borrowing spouse's SP** (for example, SP collateral or SP income from before marriage), the proceeds and what they buy are SP; otherwise they are CP (*Gudelj v. Gudelj* (1953) 41 Cal.2d 202; *In re Marriage of Grinius* (1985) 166 Cal.App.3d 1179) [S-428]. (R-CMP-058)
+- **Rule.** Property bought **on credit** during marriage is presumptively CP, because loan proceeds acquired during marriage are presumed CP. The character of loan proceeds depends on the **intent of the lender**: if the lender relied **primarily (traditionally, solely) on the borrowing spouse's SP** (for example, SP collateral or SP income from before marriage), the proceeds and what they buy are SP; otherwise they are CP (*Gudelj v. Gudelj* (1953) 41 Cal.2d 202; *In re Marriage of Grinius* (1985) 166 Cal.App.3d 1179) [S-428]; the precise standard ("solely" vs. "primarily") is logged for checking [VERIFY V-902]. (R-CMP-058)
 - **Evidence of lender intent.** Hypothecation of SP; the loan application listing only SP assets; the lender's reliance on community income or the other spouse's signature (which points to CP). In Grinius, the community presumption prevailed because the lender relied on the community business and the wife signed the note.
 - **Purchase-money loans** on property bought during marriage are community obligations unless the lender looked solely to SP.
 - **Debts versus assets.** The loan's character tells you the character of what it buys; separately, the community estate is liable to the creditor for debts incurred during marriage regardless of character (§ 910; VI.C).
@@ -340,7 +341,7 @@ The community or a spouse can be reimbursed, without changing title, in these si
 | SP → acquisition of other spouse's SP | Same, unless written transmutation or waiver | § 2640(c) |
 | CP → education/training of one spouse | Reimbursement with interest at legal rate; subject to reduction | § 2641 |
 | CP → principal of SP purchase loan | Pro tanto ownership interest (not mere reimbursement) | Moore; Marsden |
-| CP → improvements to SP | Reimbursement (cost or value added) | Allen [VERIFY V-306] |
+| CP → improvements to SP | Reimbursement (cost or value added) | Wolfe; Allen; Bono v. Clark |
 | SP → family expenses | None (presumed gift) | See |
 | Property of one estate → debt properly chargeable to another | Reimbursement as provided by statute | §§ 914, 915, 920, 2626 |
 | Post-DOS SP → community debt | Epstein credit | Epstein (V.C) |
@@ -350,7 +351,7 @@ The community or a spouse can be reimbursed, without changing title, in these si
 
 - § 2640 is the general rule (II.E-F). Key points to write: (1) contributions defined (down payment, improvements, principal reduction; not interest/taxes/insurance/maintenance); (2) traced to SP; (3) no written waiver; (4) no interest or appreciation; (5) capped at net value at division. (R-CMP-042)
 - **Waiver.** Only a **written** waiver, or a writing that has the effect of a waiver, defeats reimbursement (§ 2640(b)); an oral statement that "it's ours now" does not.
-- **Interaction with transmutation.** If the SP spouse made a valid § 852 transmutation of the funds into CP without reserving reimbursement, the opponent argues the writing "has the effect of a waiver"; the contributor argues § 2640 still applies absent an express waiver [VERIFY V-313].
+- **Interaction with transmutation.** If the SP spouse made a valid § 852 transmutation of the funds into CP without reserving reimbursement, the opponent argues the writing "has the effect of a waiver"; the contributor argues § 2640 still applies because the right is relinquished only by an express written waiver or a writing with that effect, and donative intent alone is not enough (*In re Marriage of Carpenter* (2002) 100 Cal.App.4th 424) [S-1013].
 
 #### II.J.2 Educational and training expenses (§ 2641 reimbursement)
 
@@ -365,8 +366,8 @@ The community or a spouse can be reimbursed, without changing title, in these si
 
 #### II.J.3 Reimbursement for payment of debts and support obligations
 
-- **General rule.** A right of reimbursement for applying property of one estate to a debt arises **only as provided by statute** (Fam. Code § 920); it must be asserted within the statutory time (generally three years from actual knowledge of the application, or in the dissolution or probate proceeding, whichever is earlier), and can be waived in writing [VERIFY V-314].
-- **Premarital child or spousal support** of a prior relationship is treated as a **premarital debt**; if CP pays it when the obligor's separate income was available, the community is reimbursed (Fam. Code § 915) [VERIFY V-330]. (Jul 2015 Q4 involved reimbursement relating to child support.)
+- **General rule.** Fam. Code § 920 governs the reimbursement rights the debt statutes create: the right arises whichever spouse applied the property and whether the application was voluntary or not; it is measured by the **value of the property when the right arises**; it is subject to an **express written waiver**; and it must be exercised **no later than the earlier of** (1) three years after the spouse has actual knowledge of the application or (2) the property-division proceeding or the proceeding on a spouse's death [S-1019]. Reimbursement under § 1000 (tort liabilities) has a seven-year outer limit.
+- **Support from another relationship.** A child or spousal support obligation that does **not arise out of the marriage** is treated as a **premarital debt**; if community property pays it while the obligor's non-exempt separate income was available, the community is reimbursed up to the separate income available (not more than the CP applied) (Fam. Code § 915) [S-1008]. (Jul 2015 Q4 involved reimbursement relating to child support.)
 - **Necessaries.** Where a spouse's SP pays a debt for the other spouse's necessaries while CP or the other's SP was available, reimbursement may be allowed (§ 914(b)) [S-413].
 - **Post-separation payments** of community debts: Epstein credits and § 2626 (V.C; VI.C.5).
 
@@ -374,12 +375,12 @@ The community or a spouse can be reimbursed, without changing title, in these si
 
 - **Life insurance.** (R-CMP-054)
   - **Whole life (cash value):** apportion by the source of premiums (pro rata CP/SP), like any asset bought partly with each.
-  - **Term life:** the policy's character usually follows the **premium paid for the final term** in which the insured died; a term policy that lapses or is renewed with post-DOS SP is generally SP (*Burwell v. Burwell* (2013) 221 Cal.App.4th 1; *In re Marriage of Spengler* (1992) 5 Cal.App.4th 288) [S-411] [VERIFY V-307].
+  - **Term life:** the policy's character usually follows the **premium paid for the final term** in which the insured died; a term policy that lapses or is renewed with post-DOS SP is generally SP (*Burwell v. Burwell* (2013) 221 Cal.App.4th 1 [S-1011], adopting the final-premium rule after earlier cases had split, e.g., *Estate of Logan* (1987) 191 Cal.App.3d 319; *In re Marriage of Spengler* (1992) 5 Cal.App.4th 288 [S-411] [VERIFY V-901]).
   - **Title does not control.** A policy bought with CP and titled in one spouse's name remains CP absent a § 852 transmutation (Valli).
   - **Beneficiary designations** of CP policies need the other spouse's written consent to defeat that spouse's half at death (Prob. Code § 5020; VII.D). Federal policies (NSLI, SGLI, FEGLI) follow federal law (VIII).
 - **Employee stock options.** Options granted during marriage, even if unvested at DOS, are CP to the extent earned by community effort. Use a time-rule fraction that matches the **purpose** of the grant: (R-CMP-053)
   - ***In re Marriage of Hug*** (1984) 154 Cal.App.3d 780 (options mainly reward **past** services and attract the employee): community fraction = time from **start of employment** to DOS ÷ time from start of employment to the date the options are exercisable [S-426].
-  - ***In re Marriage of Nelson*** (1986) 177 Cal.App.3d 150 (options mainly incentivize **future** services): community fraction = time from **grant** to DOS ÷ time from grant to exercisability [S-427] [VERIFY V-310].
+  - ***In re Marriage of Nelson*** (1986) 177 Cal.App.3d 150 (options mainly incentivize **future** services): community fraction = time from **grant** to DOS ÷ time from grant to exercisability [S-427] [S-1012].
   - Hug stresses that no single formula fits every case; the trial court has broad discretion.
 - **Goodwill.** Goodwill of a business or professional practice developed during marriage is a CP asset (*Golden v. Golden* (1969) 270 Cal.App.2d 401; *In re Marriage of Foster* (1974) 42 Cal.App.3d 577 [S-432]); valuation may not include the spouse's post-separation efforts, and courts consider factors such as the practitioner's age, health, skill, reputation and past profits (*In re Marriage of Lopez* (1974) 38 Cal.App.3d 93) [VERIFY V-328]. Personal enhanced earning capacity is not goodwill.
 - **Lottery winnings and prizes** won with a ticket bought with CP during marriage are CP; concealing them is a § 1101 breach (*In re Marriage of Rossi* (2001) 90 Cal.App.4th 34: entire $1.3 million award to the wife under § 1101(h)).
@@ -391,7 +392,7 @@ The community or a spouse can be reimbursed, without changing title, in these si
 ### II.L Personal injury damages (characterization)
 
 - **CP rule.** Money or property received for personal injuries is **CP if the cause of action arose during marriage** (Fam. Code § 780), subject to special allocation at dissolution (§ 2603; VI.B.3).
-- **SP exceptions** (§ 781): damages are the injured spouse's SP if the cause of action arose (1) after entry of a judgment of dissolution or legal separation, or (2) while the injured spouse was **living separate** from the other spouse [S-429] [VERIFY V-311]; and (3) damages paid **by one spouse to the other** for a cause of action arising during marriage are the injured spouse's SP (§ 781(c)).
+- **SP exceptions** (§ 781): damages are the injured spouse's SP if the cause of action arose (1) after entry of a judgment of dissolution or legal separation, or (2) while the injured spouse was **living separate** from the other spouse (the statute still uses this phrase, not "after the date of separation") [S-429] [S-1005]; and (3) damages paid **by one spouse to the other** for a cause of action arising during marriage are the injured spouse's SP (§ 781(c)).
 - **Before marriage.** A cause of action that arose before marriage is SP as property owned before marriage (§ 770(a)(1)) [VERIFY V-331].
 - **Reimbursement.** If the other spouse's SP or the CP paid expenses caused by the injury, that estate is reimbursed from the SP recovery (§ 781(b)).
 - **What part of the award.** Lost earnings for the period of the marriage replace CP earnings; pain and suffering is personal. The statutes classify the whole recovery by when the cause of action arose; § 2603 then decides who gets it at division.
@@ -421,7 +422,7 @@ The community or a spouse can be reimbursed, without changing title, in these si
 #### III.A.3 Gifts of community personal property
 
 - **Rule.** A spouse may not make a **gift** of community personal property, or dispose of it **without a valuable consideration**, without the **written consent** of the other spouse (Fam. Code § 1100(b)). (R-CMP-064)
-- **Remedy.** A gift without consent is **voidable**, not void, at the option of the non-consenting spouse (*Spreckels v. Spreckels* (1916) 172 Cal. 775) [S-433]. During the donor's lifetime the non-consenting spouse may set aside the **entire** gift; after the donor spouse's death, only **one-half** (the survivor's share) (*Fields v. Michael* (1949) 91 Cal.App.2d 443, 448) [S-412] [VERIFY V-309]. The § 1101 remedies are also available.
+- **Remedy.** A gift without consent is **voidable**, not void, at the option of the non-consenting spouse (*Spreckels v. Spreckels* (1916) 172 Cal. 775) [S-433]. During the donor's lifetime the non-consenting spouse may set aside the **entire** gift; after the donor spouse's death, only **one-half** (the survivor's share) (*Fields v. Michael* (1949) 91 Cal.App.2d 443, 448) [S-412] [S-1015]. After death the survivor may alternatively recover one-half of the value from the decedent's estate. The § 1101 remedies are also available.
 - **Exceptions.** Gifts of modest value consistent with the marital standard of living (birthday presents, ordinary charitable gifts) are commonly treated as within normal management; the statute itself contains no dollar threshold, so argue both sides.
 - **Example.** H gives his friend a $15,000 antique mirror bought with CP without W's written consent (Feb 2014 Q2 facts were similar). W may void the gift and recover the mirror.
 
@@ -437,7 +438,7 @@ The community or a spouse can be reimbursed, without changing title, in these si
 #### III.A.6 Community real property: joinder and written consent
 
 - **Rule.** Either spouse has management and control of community real property, but **both spouses must join** in executing any instrument by which community real property (or an interest in it) is **leased for more than one year**, or is **sold, conveyed or encumbered** (Fam. Code § 1102(a)). (R-CMP-067)
-- **Effect of a sole transfer.** A transfer by one spouse alone is **voidable** by the non-consenting spouse. Protection of purchasers: where record title is in **one spouse's name alone**, that spouse's sole lease, contract, mortgage or deed to a **good-faith purchaser or encumbrancer without knowledge of the marriage** is presumed valid; and an action to avoid such an instrument must be commenced within **one year** after it is recorded (§ 1102(c)) [VERIFY V-316].
+- **Effect of a sole transfer.** A transfer by one spouse alone is **voidable** by the non-consenting spouse. Protection of purchasers: where record title is in **one spouse's name alone**, that spouse's sole lease, contract, mortgage or deed to a **good-faith purchaser or encumbrancer without knowledge of the marriage** is presumed valid; and an action to avoid such an instrument must be commenced within **one year** after it is recorded (§ 1102(c)) [S-1007]. Transfers of real property **between the spouses** are outside § 1102 (§ 1102(b)).
 - **Remedy against the spouse.** The non-joining spouse may also seek § 1101 remedies for breach of fiduciary duty.
 - **How tested.** Jul 2012 Q2 (lien on the family home given to a lawyer without the wife's consent); Feb 2014 Q2 (office building titled in one spouse's name and sold to a friend). Transfers of **QCP** land are not governed by § 1102 during marriage; they are attacked at death under Prob. Code § 102 (Jul 2022 Q5; VII.B). Ask: is the land CP? Was the buyer a good-faith purchaser without knowledge of the marriage? Was the suit within one year of recording?
 
@@ -447,7 +448,7 @@ The community or a spouse can be reimbursed, without changing title, in these si
 - **Remedies.** An **accounting** (§ 1101(b)); an order adding the claimant's name to title of CP (with exceptions, such as partnership interests held by the other spouse as a general partner) (§ 1101(c)); a court-ordered transaction where the other spouse's consent is required but unreasonably withheld; and money remedies:
   - **50%** of any asset undisclosed or transferred in breach (or an equal amount), plus attorney's fees and costs (§ 1101(g));
   - **100%** of the asset (or an equal amount) when the breach falls within **Civ. Code § 3294** (oppression, fraud or malice) (§ 1101(h)) [S-405]. *In re Marriage of Rossi* (2001) 90 Cal.App.4th 34 awarded the wife all of a concealed lottery prize.
-- **Limitations.** Generally within **three years** of the date the petitioning spouse had **actual knowledge** of the transaction; the claim may also be raised in a dissolution, legal separation or nullity proceeding, or after a spouse's death, as the statute provides (§ 1101(d)) [VERIFY V-301].
+- **Limitations.** Within **three years** of the date the petitioning spouse had **actual knowledge** of the transaction (§ 1101(d)(1)); that limit does not apply when the claim is brought upon a spouse's death or together with a dissolution, legal separation or nullity action (§ 1101(d)(2)) [S-1003].
 - **Disclosure sanctions** in dissolution proceedings (Fam. Code §§ 2100–2107, 271) are separate tools (VI.B.2).
 
 > 🇨🇳 PRC bridge: the PRC Civil Code also lets a court give a spouse who concealed or transferred joint property a smaller share or none at division; California fixes the sanction at 50% or 100% of the asset under § 1101 (approx.).
@@ -470,7 +471,7 @@ The community or a spouse can be reimbursed, without changing title, in these si
 - **Rule.** The **date of separation** is the date a **complete and final break** in the marital relationship occurred, as evidenced by **both**: (1) the spouse has **expressed to the other spouse** the intent to end the marriage, and (2) the spouse's **conduct is consistent** with that intent. The court considers **all relevant evidence** (Fam. Code § 70, effective January 1, 2017) [S-400]. (R-CMP-070)
 - **Living under one roof is possible.** § 70 abrogated *In re Marriage of Davis* (2015) 61 Cal.4th 846, which had required the spouses to live in separate residences, and *In re Marriage of Norviel* (2002) 102 Cal.App.4th 1152 (§ 70(c)) [S-435]. Spouses can therefore separate while still living in the same house if the expressed intent and consistent conduct exist.
 - **Evidence courts weigh.** Statements to the other spouse and to third parties; moving out; separate bank accounts; filing separately; ending sexual relations; dating others; continued joint vacations or holidays; continued joint finances. Earlier cases emphasized conduct as the objective evidence of the break (*In re Marriage of Baragry* (1977) 73 Cal.App.3d 444 [S-434]).
-- **Why it matters.** DOS ends CP earnings (§ 771), fixes the denominator of the time rule, ends § 910 liability for new debts, starts Epstein/Watts accounting, and may mark when § 781 SP treatment begins.
+- **Why it matters.** DOS ends CP earnings (§ 771), ends the numerator (marital service) of the time rule, ends § 910 liability for new debts, starts Epstein/Watts accounting, and may mark when § 781 SP treatment begins.
 - **How tested.** Jul 2017 Q1 and Feb 2014 Q2 (when did the marital economic community end?). Write two candidate dates, apply both prongs of § 70 to each, and pick one.
 
 > 🇨🇳 PRC bridge: PRC joint property generally continues until the divorce itself; California cuts off community acquisitions at the date of separation (approx.).
@@ -548,7 +549,7 @@ The equal-division rule yields to specific statutes. Each deviation is a separat
 #### VI.B.4 Personal injury recovery against a spouse
 
 - **Rule.** Damages one spouse recovers from the **other spouse** for a personal injury during marriage are the injured spouse's **SP** (Fam. Code § 781(c)). (R-CMP-079)
-- **Paying the judgment.** When the injury was caused in whole or part by the negligent or wrongful act of the spouse, **CP may not be used to satisfy the tortfeasor spouse's liability** to the injured spouse until the tortfeasor's **SP** (not exempt from enforcement) is **exhausted**; the injured spouse may consent in writing to the use of CP; and the rule does not affect rights under insurance policies (Fam. Code § 782) [S-406] [VERIFY V-302].
+- **Paying the judgment.** When the injury was caused in whole or part by the negligent or wrongful act of the spouse, **CP may not be used to satisfy the tortfeasor spouse's liability** to the injured spouse until the tortfeasor's **SP** (not exempt from enforcement) is **exhausted**; the same limit applies to contribution or indemnity owed to a third-party tortfeasor; the injured spouse may consent in writing, after the injury, to the use of CP; and the rule does not affect indemnity rights under insurance or other contracts, even if CP paid for them (Fam. Code § 782) [S-406] [S-1004].
 - **Example.** H negligently injures W in a boating accident; W recovers $200,000 from H. The recovery is W's SP, and H must pay it from his SP first.
 
 #### VI.B.5 Educational debts
@@ -559,7 +560,7 @@ The equal-division rule yields to specific statutes. Each deviation is a separat
 #### VI.B.6-7 Other deviations (tort liabilities; debts exceeding assets; small estates)
 
 The State Bar outline's items VI.B.6 and VI.B.7 were not captured in Phase 0 research; the statutory deviations below are the most likely candidates and are testable in any event [VERIFY V-025].
-- **Tort liabilities.** At division, a liability for death or injury that was **not** incurred while performing an activity for the benefit of the community is **assigned to the spouse whose act or omission gave rise to it, without offset** (Fam. Code § 2627, cross-referencing § 1000(b)(2)) [S-407] [VERIFY V-303]. (R-CMP-081)
+- **Tort liabilities.** At division, a liability for death or injury that was **not** incurred while performing an activity for the benefit of the community is **assigned to the spouse whose act or omission gave rise to it, without offset** (Fam. Code § 2627, cross-referencing § 1000(b)(2)) [S-407] [S-1006]. (R-CMP-081)
 - **Debts exceeding assets.** To the extent community debts exceed total community and QCP assets, the **excess** is assigned **as the court deems just and equitable**, considering factors such as the parties' relative ability to pay (Fam. Code § 2622(b)).
 - **Small or unlocatable estates.** If the net value of the community estate is small and one party cannot be located, the court may award the entire estate to the other party [VERIFY V-320].
 - **Agreement or stipulation.** The parties may agree in writing, or stipulate orally in open court, to an unequal division (§ 2550).
@@ -568,7 +569,7 @@ The State Bar outline's items VI.B.6 and VI.B.7 were not captured in Phase 0 res
 
 - **Rule.** The court must make whatever orders are necessary to ensure that each party receives his or her full community share of any retirement plan, including orders for division of benefits and survivor benefits and for the use of qualified domestic relations orders (Fam. Code § 2610). (R-CMP-050)
 - **Methods.** (1) **Cash-out:** award the whole pension to the employee and give the other spouse assets equal to the present value of the community share (common when the pension is small or easily valued); (2) **in-kind / reserved jurisdiction:** divide each payment by the time-rule fraction as it is paid (common for unvested or uncertain pensions; Brown).
-- **Gillmore election** allows the non-employee spouse to take his or her share once the employee is eligible to retire (R-CMP-082).
+- **Gillmore election** allows the non-employee spouse to take his or her share once the employee is eligible to retire (R-CMP-050; division generally R-CMP-082).
 - **Federal pensions and Social Security:** see VIII.
 
 ### VI.C Property liable for debts (premarital, marital and post-separation debts)
@@ -601,7 +602,7 @@ Two separate questions: (1) **liability to creditors** (what property can the cr
 - **SP.** Liable for the owner's own debts; not liable for the other spouse's debts (§ 913), except necessaries.
 - **Necessaries.** A married person is **personally liable** for (1) debts incurred for the **necessaries of life** of the person's spouse **before the date of separation**, and (2) debts incurred for the **common necessaries of life** of the spouse **while living separately** (except where support is excused by agreement under § 4302). The person's SP may be applied; if it is applied while nonexempt CP or the spouse's SP was available but not applied, the person is entitled to reimbursement (§ 914) [S-413]. (R-CMP-087)
 - **Necessaries** are measured by the marital standard of living (food, shelter, clothing, medical care); "common necessaries" are the basics needed to sustain life.
-- **Support obligations of a prior relationship** are treated as premarital debts (§ 915) [VERIFY V-330].
+- **Support obligations not arising out of the marriage** are treated as premarital debts (§ 915) [S-1008].
 
 #### VI.C.5 Allocation of debts at dissolution
 
@@ -625,7 +626,7 @@ Two separate questions: (1) **liability to creditors** (what property can the cr
   2. A spouse's SP and the property received in the division are **not** liable for a debt **the other spouse** incurred, unless the debt was **assigned** to the first spouse in the division.
   3. If property is applied to a debt assigned to the other spouse, the paying spouse has a right of **reimbursement** from that other spouse.
 - **Creditor's view.** Allocation between spouses does not bind a creditor of the incurring spouse (who can still reach that spouse's property); it binds the spouses inter se and protects the non-incurring spouse once assets are divided.
-- **Reimbursement claims** generally (§ 920): only as statute provides; timing limits [VERIFY V-314].
+- **Reimbursement claims** generally (§ 920): value when the right arises; express written waiver; exercise by the earlier of three years after actual knowledge or the division/death proceeding [S-1019].
 
 ---
 
@@ -638,7 +639,7 @@ Two separate questions: (1) **liability to creditors** (what property can the cr
 - **Spousal election.** If the decedent's will purports to dispose of the survivor's half too while giving the survivor benefits under the will, the survivor must **elect** either to take under the will (letting the survivor's half pass as the will directs) or to keep his or her half and forgo the will's gifts [VERIFY V-322].
 - **Characterize first.** Every death essay begins with the same characterization routine (II) for each asset: the CP/SP/QCP label decides what the decedent could leave and what the survivor already owns.
 - **Passing without administration.** CP and QCP that pass or belong to the surviving spouse can generally be confirmed without probate administration (Prob. Code § 13500; spousal property petition, § 13650) [VERIFY V-323].
-- **Survivorship forms.** CP with right of survivorship (Civ. Code § 682.1) passes to the survivor; joint tenancy passes by survivorship (but see Brace, II.A.2).
+- **Survivorship forms.** CP with right of survivorship (Civ. Code § 682.1) passes to the survivor; joint tenancy passes by survivorship, and Brace expressly did not disturb that result (II.A.2).
 - **SP** of the decedent passes by will or intestacy (VII.C).
 - **Gifts of CP made without consent.** After the donor's death, the survivor may recover **one-half** of a gift of CP made without written consent (Fields; III.A.3).
 
@@ -646,11 +647,12 @@ Two separate questions: (1) **liability to creditors** (what property can the cr
 
 - **Decedent's QCP.** On the death of a married person **domiciled in California**, **one-half of the decedent's QCP belongs to the surviving spouse** and the other half belongs to the decedent (Prob. Code § 101). The survivor's own QCP is **not** affected: the survivor keeps all of it. (R-CMP-092)
 - **Definition at death** (Prob. Code § 66): personal property wherever situated and **California** real property, acquired while domiciled elsewhere, that would have been CP if the decedent had been domiciled in California (and property acquired in exchange) [S-404]. **Out-of-state land is not QCP at death**; its succession is governed by the situs state's law.
-- **Recapture of transferred QCP** (Prob. Code § 102) [S-403] [VERIFY V-304]: the surviving spouse may require the transferee to **restore one-half** of the property (or of its proceeds or value) to the decedent's estate if: (R-CMP-093)
+- **Recapture of transferred QCP** (Prob. Code § 102) [S-403] [S-1002]: the surviving spouse may require the transferee to **restore one-half** of the property (or of its proceeds or value) to the decedent's estate if: (R-CMP-093)
   1. the decedent died domiciled in California;
   2. the decedent transferred QCP to someone other than the surviving spouse **without substantial consideration** and **without the survivor's written consent or joinder**; and
   3. the transfer is one in which the decedent **retained** at death (a) possession or enjoyment of, or the right to income from, the property; (b) a power to revoke or to consume, invade or dispose of the principal for the decedent's own benefit; or (c) the property was held by the decedent and another **with right of survivorship**.
-  - Certain transfers (such as life insurance, accident insurance, joint annuities and pension payments to a non-spouse) are treated separately [VERIFY V-304].
+  - **Carve-out (§ 102(b)):** the transferee need not restore any life insurance, accident insurance, joint annuity or pension payable to a person other than the surviving spouse.
+  - **Effect (§ 102(c)):** property restored to the estate belongs to the surviving spouse under § 101 as though the transfer had not been made.
 - **Exam pattern.** Jul 2022 Q5: a couple domiciled elsewhere for 20 years bought California land with out-of-state earnings; H later deeded it to himself and his daughter as joint tenants without W's written consent; H died. The land is QCP (California realty, out-of-state marital earnings); the joint-tenancy deed is a survivorship transfer without consideration or consent; W may recapture one-half.
 - **Jul 2026 Q2 pattern:** California house (QCP or CP), State X farm (not QCP at death; State X law), savings account (personal property; QCP if funded with marital earnings).
 

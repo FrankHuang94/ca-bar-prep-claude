@@ -26,9 +26,9 @@ California is a community property state. Property acquired during marriage by a
 - **General:** acquired during marriage → CP; SP claimant must trace (§ 760). (R-CMP-011)
 - **One name:** CP funds + one spouse's title ≠ SP without § 852 writing; Evid. § 662 yields (Valli; Brace). (R-CMP-012)
 - **Joint title at dissolution:** CP; rebut only by SP statement in title document or written agreement; SP contributor gets § 2640 (§ 2581). (R-CMP-013)
-- **Joint tenancy at death:** survivorship vs. CP character after Brace; argue both. (R-CMP-014)
+- **Joint tenancy at death:** survivorship controls; Brace makes CP-funded JT property presumptively CP but did not disturb survivorship, so a will cannot pass "half." (R-CMP-014)
 - **Undue influence:** interspousal advantage → presumption; advantaged spouse proves free, informed act (§ 721; Haines). (R-CMP-016)
-- **Pre-1975 married woman:** written-instrument property presumed her SP (§ 803). (R-CMP-015)
+- **Pre-1975 married woman:** written-instrument property presumed her SP; with another → tenant in common; "husband and wife" → CP (§ 803). (R-CMP-015)
 
 ## II.B Agreements
 - **Prenup:** writing signed by both; no consideration; effective at marriage (§§ 1611, 1613). (R-CMP-018)
@@ -48,9 +48,9 @@ California is a community property state. Property acquired during marriage by a
 ## II.D Community effort or funds on SP
 - **Pereira** (effort-driven): SP = capital + fair return; rest CP. (R-CMP-034)
 - **Van Camp** (capital-driven): CP = reasonable salary − amounts drawn; rest SP. (R-CMP-035)
-- **Choose for substantial justice; apply both** (Beam). (R-CMP-036)
+- **Choose for substantial justice; apply both** (Beam; Dekker); neither formula mandatory. (R-CMP-036)
 - **Moore/Marsden:** CP% = CP principal ÷ price; CP share = CP principal + CP% × marital appreciation; premarital appreciation SP; interest/taxes/insurance excluded. (R-CMP-037, R-CMP-038)
-- **CP improves SP:** reimbursement (cost or value added) (Allen). (R-CMP-039)
+- **CP improves SP:** reimbursement (cost or value added); consent ≠ gift (Wolfe; Allen). (R-CMP-039)
 
 ## II.E–J Reimbursement and special assets
 - **§ 2640(b):** SP down payment/improvement/principal into CP → reimbursed, no interest, capped at net value, unless written waiver. (R-CMP-042)
@@ -98,7 +98,7 @@ California is a community property state. Property acquired during marriage by a
 ## VII Death
 - **CP:** half to survivor; decedent wills SP + half CP + half own QCP; item by item (Prob. §§ 100, 101, 6101). (R-CMP-091)
 - **QCP at death:** decedent's QCP only; personal property anywhere + CA land; not out-of-state land (Prob. §§ 66, 101). (R-CMP-092)
-- **Recapture (§ 102):** QCP given away without consideration/consent with retained control or survivorship → survivor recovers half. (R-CMP-093)
+- **Recapture (§ 102):** QCP given away without consideration/consent with retained control or survivorship → transferee restores half to the estate, for the survivor; not insurance, annuities or pensions. (R-CMP-093)
 - **Intestacy:** survivor takes all CP, decedent's half of QCP, and 1, 1/2 or 1/3 of SP (Prob. § 6401). (R-CMP-094)
 - **Election:** will disposes of survivor's half + gives benefits → survivor elects. (R-CMP-095)
 - **Nonprobate CP transfers** need written consent; consent ≠ transmutation (Prob. §§ 5020–5022). (R-CMP-096)

@@ -124,7 +124,7 @@ II. Characterize each asset
    [Asset]
      Domicile at acquisition → CP, SP or QCP?
      At death: QCP = personal property anywhere + CA land (Prob. § 66); out-of-state land → situs law
-     Title/joint tenancy (survivorship vs. Brace); transmutation
+     Title/joint tenancy (survivorship controls at death; Brace did not disturb it); transmutation
      Transfers during life: unconsented gift of CP (§ 1100(b); half after death); QCP recapture (§ 102);
        nonprobate transfer without consent (Prob. §§ 5020–5021)
 III. Distribution

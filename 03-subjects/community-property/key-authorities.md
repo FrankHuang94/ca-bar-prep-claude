@@ -28,9 +28,9 @@ One-line rules for the statutes and cases you can cite on a California CP essay.
 | § 771 | Earnings and accumulations after DOS are SP | R-CMP-071 |
 | § 772 | Earnings after a legal-separation judgment are SP | R-CMP-071 |
 | § 780 | PI damages for a cause of action arising during marriage are CP | R-CMP-056 |
-| § 781 | PI damages are SP if the claim arose after judgment, while living separate, or against the other spouse; reimbursement of expenses [S-429] [VERIFY V-311] | R-CMP-056, R-CMP-079 |
-| § 782 | Injury by a spouse: CP not used to pay the tortfeasor spouse's liability until that spouse's SP is exhausted (written-consent exception) [S-406] [VERIFY V-302] | R-CMP-079 |
-| § 803 | Married woman's pre-1975 written-instrument presumption (SP; tenants in common) [S-419] | R-CMP-015 |
+| § 781 | PI damages are SP if the claim arose after judgment, while living separate, or against the other spouse; reimbursement of expenses; the statute still says "living separate" [S-429] [S-1005] | R-CMP-056, R-CMP-079 |
+| § 782 | Injury by a spouse: CP not used to pay the tortfeasor spouse's liability until that spouse's non-exempt SP is exhausted; injured spouse's written consent after the injury; insurance indemnity preserved [S-406] [S-1004] | R-CMP-079 |
+| § 803 | Married woman's pre-1975 written-instrument presumptions: wife alone → SP; with another → tenant in common; "husband and wife" → CP; conclusive for good-faith purchasers for value [S-419] [S-1018] | R-CMP-015 |
 | § 850 | Transmutation: CP ↔ SP; SP of one → SP of the other | R-CMP-022 |
 | § 851 | Transmutations subject to fraudulent-transfer law | R-CMP-026 |
 | § 852 | (a) express written declaration by adversely affected spouse; (b) recording vs. third parties; (c) personal-gift exception; (d) will statements; (e) pre-1985 | R-CMP-022 to R-CMP-025 |
@@ -39,33 +39,34 @@ One-line rules for the statutes and cases you can cite on a California CP essay.
 | § 912 | QCP liable like CP | R-CMP-086 |
 | § 913 | Debtor's SP liable; non-debtor's SP not liable; joinder in encumbrance does not expose SP | R-CMP-086 |
 | § 914 | Personal liability for spouse's necessaries (before DOS) and common necessaries (living separately); reimbursement [S-413] | R-CMP-087 |
-| § 915 | Support obligation not arising from the marriage treated as premarital debt; community reimbursement [VERIFY V-330] | R-CMP-061 |
+| § 915 | Support obligation not arising from the marriage treated as premarital debt; community reimbursed to the extent the obligor's separate income was available but not used [S-1008] | R-CMP-061 |
 | § 916 | Liability after division: own debts follow you; spouse's debts only if assigned [VERIFY V-315] | R-CMP-090 |
-| § 920 | Reimbursement rights only as statute provides; time limits; waiver [VERIFY V-314] | R-CMP-061 |
+| § 920 | Reimbursement rights under the debt statutes: value when the right arises; express written waiver; exercise by the earlier of 3 years after actual knowledge or the division/death proceeding [S-1019] | R-CMP-061 |
 | § 1000 | Tort liability: community-benefit activity → CP then tortfeasor's SP; otherwise SP then CP | R-CMP-088 |
 | § 1100 | (a) equal management of CP personal property; (b) gifts need written consent; (c) home furnishings and clothing; (d) business primary management + notice; (e) fiduciary duty and disclosure | R-CMP-062 to R-CMP-066 |
-| § 1101 | Breach of fiduciary duty: accounting, title, 50% (+ fees), 100% if Civ. Code § 3294; limitations [S-405] [VERIFY V-301] | R-CMP-068, R-CMP-077 |
-| § 1102 | Both spouses must join to sell, encumber or lease (> 1 year) CP real property; BFP presumption; one-year limit [VERIFY V-316] | R-CMP-067 |
+| § 1101 | Breach of fiduciary duty: accounting, title, 50% (+ fees), 100% if Civ. Code § 3294; 3 years from actual knowledge, no limit in dissolution/nullity/legal separation or at death (§ 1101(d)) [S-405] [S-1003] | R-CMP-068, R-CMP-077 |
+| § 1102 | Both spouses must join to sell, encumber or lease (> 1 year) CP real property; BFP presumption; one-year limit; interspousal transfers excluded [S-1007] | R-CMP-067 |
 | § 1500 | Property rights may be altered by premarital or marital agreement | R-CMP-018 |
 | § 1611 | Premarital agreement: writing signed by both; no consideration needed | R-CMP-018 |
 | § 1612 | Permitted subjects; child support unaffected; spousal-support provisions need independent counsel and must not be unconscionable at enforcement | R-CMP-018, R-CMP-021 |
 | § 1613 | Effective on marriage | R-CMP-018 |
 | § 1614 | Amendment or revocation after marriage only by signed writing | R-CMP-018 |
-| § 1615 | Unenforceable if involuntary or unconscionable + no disclosure; (c) statutory voluntariness factors incl. seven-day rule [S-401] [S-402] [VERIFY V-300] | R-CMP-019, R-CMP-020 |
+| § 1615 | Unenforceable if involuntary or unconscionable + no disclosure; (c) statutory voluntariness factors incl. seven-day rule (final agreement, for agreements signed on or after Jan. 1, 2020) [S-401] [S-402] [S-1000] | R-CMP-019, R-CMP-020 |
 | § 1617 | Limitations tolled during marriage | R-CMP-018 |
 | § 1620 | Spouses cannot alter legal relations by contract except as to property | R-CMP-027 |
 | § 2100 et seq. | Disclosure duties in dissolution; § 2107 sanctions; § 2122 set-aside | R-CMP-077 |
 | § 2251 | Putative spouse; quasi-marital property divided equally | R-CMP-006 |
 | § 2550 | Equal division of the community estate | R-CMP-075 |
 | § 2552 | Valuation near trial; alternate date for good cause | R-CMP-075 |
-| § 2556 | Continuing jurisdiction over omitted assets and debts | R-CMP-075, R-CMP-077 |
+| § 2556 | Continuing jurisdiction over omitted assets and debts | R-CMP-077 |
+| § 2601 | Court may award an asset to one party on conditions to effect a substantially equal division | R-CMP-075 |
 | § 2581 | Joint title at dissolution presumed CP; rebuttal only by title statement or written agreement [S-425] | R-CMP-013 |
 | § 2602 | Award or offset for deliberate misappropriation | R-CMP-076 |
 | § 2603 | Community PI damages to injured spouse (at least one-half); commingled excluded | R-CMP-078 |
 | § 2604 | Small community estate; party who cannot be located [VERIFY V-320] | R-CMP-081 |
 | § 2610 | Orders to protect each party's full community share of retirement plans; QDROs | R-CMP-050, R-CMP-082 |
 | §§ 2620–2626 | Allocation of debts at dissolution; reimbursement for debts paid after separation | R-CMP-089 |
-| § 2627 | Educational loans per § 2641; certain tort liabilities to the tortfeasor without offset [S-407] [VERIFY V-303] | R-CMP-080, R-CMP-081 |
+| § 2627 | Educational loans per § 2641; certain tort liabilities to the tortfeasor without offset [S-407] [S-1006] | R-CMP-080, R-CMP-081 |
 | § 2640 | (a) contributions defined; (b) SP contributions to CP reimbursed absent written waiver; (c) SP contributions to the other spouse's SP; no interest; capped at net value | R-CMP-042, R-CMP-043 |
 | § 2641 | Education: community reimbursed with interest; loans assigned; reductions; 10-year presumptions; exclusive remedy | R-CMP-046, R-CMP-047 |
 | § 2660 | Out-of-state real property: divide without changing title if possible; else conveyances or money value [S-418] | R-CMP-083 |
@@ -77,7 +78,7 @@ One-line rules for the statutes and cases you can cite on a California CP essay.
 | § 66 | QCP at death: personal property anywhere and California real property acquired while domiciled elsewhere [S-404] | R-CMP-092 |
 | § 100 | At death, half of CP belongs to survivor, half to decedent | R-CMP-091 |
 | § 101 | At death, half of decedent's QCP belongs to survivor | R-CMP-092 |
-| § 102 | Recapture of half of QCP transferred without consideration or consent with retained interest or survivorship [S-403] [VERIFY V-304] | R-CMP-093 |
+| § 102 | Recapture of half of QCP transferred without consideration or consent with retained interest or survivorship; (b) insurance, annuity and pension carve-out; (c) restored property belongs to the survivor [S-403] [S-1002] | R-CMP-093 |
 | §§ 5020–5022 | Nonprobate transfers of CP need the spouse's written consent; consent is not a transmutation unless § 852 is met [S-420] | R-CMP-096 |
 | § 6101 | Testamentary power: SP, half of CP, half of own QCP | R-CMP-091 |
 | § 6122 | Dissolution revokes will provisions for the former spouse | R-CMP-097 |
@@ -100,7 +101,7 @@ One-line rules for the statutes and cases you can cite on a California CP essay.
 | *Pereira v. Pereira* (1909) 156 Cal. 1 | SP business: SP gets capital + fair return; rest of growth from spouse's efforts is CP | R-CMP-034 |
 | *Spreckels v. Spreckels* (1916) 172 Cal. 775 | Gift of CP without the wife's consent is voidable, not void [S-433] | R-CMP-064 |
 | *Van Camp v. Van Camp* (1921) 53 Cal.App. 17 | SP business: community gets reasonable value of services less amounts drawn; rest SP | R-CMP-035 |
-| *Fields v. Michael* (1949) 91 Cal.App.2d 443 | Unconsented gift of CP voidable entirely during donor's life, half after death [S-412] [VERIFY V-309] | R-CMP-064, R-CMP-099 |
+| *Fields v. Michael* (1949) 91 Cal.App.2d 443 | Unconsented gift of CP voidable entirely during donor's life, half after death (at 448) [S-412] [S-1015] | R-CMP-064, R-CMP-099 |
 | *Gudelj v. Gudelj* (1953) 41 Cal.2d 202 | Character of loan proceeds turns on the lender's intent and reliance | R-CMP-058 |
 | *Addison v. Addison* (1965) 62 Cal.2d 558 | Applying QCP at divorce to property acquired before moving to California is constitutional | R-CMP-003 |
 | *See v. See* (1966) 64 Cal.2d 778 | Commingled funds; family expense presumption; exhaustion method; total recapitulation insufficient | R-CMP-028, R-CMP-030 to R-CMP-032 |
@@ -114,7 +115,8 @@ One-line rules for the statutes and cases you can cite on a California CP essay.
 | *In re Marriage of Brown* (1976) 15 Cal.3d 838 | Nonvested pension rights are property; CP to extent earned during marriage | R-CMP-048 |
 | *Marvin v. Marvin* (1976) 18 Cal.3d 660 | Unmarried cohabitants' express and implied agreements enforceable; no CP | R-CMP-007 |
 | *In re Marriage of Baragry* (1977) 73 Cal.App.3d 444 | Date of separation depends on conduct showing a final break (pre-§ 70) [S-434] | R-CMP-070 |
-| *In re Marriage of Roesch* (1978) 83 Cal.App.3d 96 | QCP applied at dissolution only when both spouses are domiciled in California [S-408] [VERIFY V-305] | R-CMP-003 |
+| *In re Marriage of Roesch* (1978) 83 Cal.App.3d 96 | QCP applied at dissolution only when both spouses are domiciled in California [S-408] | R-CMP-003 |
+| *Fredericks v. Fredericks* (1991) 226 Cal.App.3d 875 | Follows Roesch's framework for QCP at dissolution [S-1014] | R-CMP-003 |
 | *In re Marriage of Stenquist* (1978) 21 Cal.3d 779 | Disability pension: retirement-substitute portion CP; earnings-replacement portion SP | R-CMP-051 |
 | *In re Marriage of Epstein* (1979) 24 Cal.3d 76 | Post-separation SP payments of community debts generally reimbursed | R-CMP-073 |
 | *In re Marriage of Lucas* (1980) 27 Cal.3d 808 | SP contribution to jointly titled property presumed a gift absent agreement (superseded by §§ 2581, 2640) | R-CMP-044 |
@@ -128,26 +130,29 @@ One-line rules for the statutes and cases you can cite on a California CP essay.
 | *In re Marriage of Saslow* (1985) 40 Cal.3d 848 | Private disability benefits: replace post-DOS earnings → SP; retirement substitute → CP | R-CMP-051 |
 | *In re Marriage of Watts* (1985) 171 Cal.App.3d 366 | Charge for post-separation exclusive use of a community asset | R-CMP-074 |
 | *In re Marriage of Fabian* (1986) 41 Cal.3d 440 | Limits on retroactive application of SP reimbursement statute [VERIFY V-329] | R-CMP-044 |
-| *In re Marriage of Nelson* (1986) 177 Cal.App.3d 150 | Stock options for future services: fraction from grant date [S-427] [VERIFY V-310] | R-CMP-053 |
+| *In re Marriage of Nelson* (1986) 177 Cal.App.3d 150 | Stock options for future services: fraction from grant date [S-427] [S-1012] | R-CMP-053 |
 | *Estate of MacDonald* (1990) 51 Cal.3d 262 | Transmutation requires an express declaration of change in ownership; consent to IRA designation insufficient | R-CMP-023, R-CMP-096 |
-| *In re Marriage of Spengler* (1992) 5 Cal.App.4th 288 | Group term life policy not a community asset beyond the community-funded term [S-411] [VERIFY V-307] | R-CMP-054 |
+| *In re Marriage of Spengler* (1992) 5 Cal.App.4th 288 | Group term life policy not a community asset beyond the community-funded term [S-411] [VERIFY V-901] | R-CMP-054 |
 | *In re Marriage of Dekker* (1993) 17 Cal.App.4th 842 | Pereira/Van Camp described; trial court's choice [S-410] | R-CMP-036 |
 | *In re Marriage of Haines* (1995) 33 Cal.App.4th 277 | Undue-influence presumption prevails over Evid. Code § 662 for interspousal advantage | R-CMP-016 |
 | *In re Marriage of Heikes* (1995) 10 Cal.4th 1211 | Limits on retroactive application of § 2640 [VERIFY V-329] | R-CMP-044 |
 | *In re Marriage of Elfmont* (1995) 9 Cal.4th 1026 | Disability benefits from a policy renewed after separation with SP are SP [VERIFY V-317] | R-CMP-051 |
 | *In re Marriage of Walrath* (1998) 17 Cal.4th 907 | § 2640 contributions may be traced into replacement property | R-CMP-042 |
 | *In re Marriage of Barneson* (1999) 69 Cal.App.4th 583 | Broker "transfer" instruction not an express transmutation [S-416] | R-CMP-023 |
-| *In re Marriage of Bonds* (2000) 24 Cal.4th 1 | Premarital agreement voluntariness; no fiduciary presumption between prospective spouses; led to § 1615(c) | R-CMP-019 |
+| *In re Marriage of Bonds* (2000) 24 Cal.4th 1 | Premarital agreement voluntariness under the earlier totality test (superseded on that point by § 1615(c)); no fiduciary presumption between prospective spouses | R-CMP-019 |
 | *Estate of Bibb* (2001) 87 Cal.App.4th 461 | Grant deed satisfied § 852; DMV registration did not [S-415] [VERIFY V-326] | R-CMP-023 |
 | *In re Marriage of Rossi* (2001) 90 Cal.App.4th 34 | Concealed CP lottery winnings: 100% to the other spouse under § 1101(h) | R-CMP-057, R-CMP-068 |
+| *In re Marriage of Wolfe* (2001) 91 Cal.App.4th 962 | CP used to improve a spouse's SP generally gives the community reimbursement; property-tax payments do not [S-1009] | R-CMP-039 |
 | *In re Marriage of Allen* (2002) 96 Cal.App.4th 497 | Consent to CP-funded improvements on SP is not a gift; community reimbursed [S-409] | R-CMP-039 |
+| *In re Marriage of Carpenter* (2002) 100 Cal.App.4th 424 | § 2640 reimbursement is lost only by an express written waiver or a writing with that effect; donative intent alone does not bar it [S-1013] | R-CMP-042, R-CMP-045 |
+| *Bono v. Clark* (2002) 103 Cal.App.4th 1409 | CP-funded improvements: reimbursement or pro tanto interest turns on whether they enhanced the property's equity value [S-1010] | R-CMP-039 |
 | *In re Marriage of Benson* (2005) 36 Cal.4th 1096 | No part-performance exception to § 852 | R-CMP-022 |
 | *In re Marriage of Feldman* (2007) 153 Cal.App.4th 1470 | Sanctions for nondisclosure without proof of harm (§§ 2107, 271) [S-431] | R-CMP-077 |
 | *Ceja v. Rudolph & Sletten, Inc.* (2013) 56 Cal.4th 1113 | Putative-spouse good faith is subjective [S-424] | R-CMP-006 |
-| *Burwell v. Burwell* (2013) 221 Cal.App.4th 1 | Term life proceeds characterized by the premium for the final term [S-411] [VERIFY V-307] | R-CMP-054 |
+| *Burwell v. Burwell* (2013) 221 Cal.App.4th 1 | Term life proceeds characterized by the premium for the final term [S-411] [S-1011] [S-1021] | R-CMP-054 |
 | *In re Marriage of Valli* (2014) 58 Cal.4th 1396 | CP-funded asset titled in one spouse's name stays CP absent § 852 transmutation; § 662 does not apply | R-CMP-012 |
 | *In re Marriage of Davis* (2015) 61 Cal.4th 846 | Separate residences required for "living separate and apart" (abrogated by § 70) | R-CMP-070 |
-| *In re Brace* (2020) 9 Cal.5th 903 | CP-funded property in joint tenancy presumptively CP; post-1984 change needs § 852 writing [S-422] | R-CMP-012, R-CMP-014 |
+| *In re Brace* (2020) 9 Cal.5th 903 | CP-funded property in joint tenancy presumptively CP; post-1984 change needs § 852 writing; does not disturb the right of survivorship at death [S-422] [S-1016] | R-CMP-012, R-CMP-014 |
 
 ## Federal authorities
 

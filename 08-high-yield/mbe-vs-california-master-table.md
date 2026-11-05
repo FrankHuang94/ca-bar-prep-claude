@@ -385,7 +385,7 @@ There is no MBE rule. These rows are the **casebook / UPC / UTC / common-law-sta
 |---|---|---|---|---|
 | Ownership | Title controls | Present, equal one-half of all CP from acquisition (Fam. Code §§ 751, 760) | "Regardless of title" | R-CMP-001 |
 | Division at divorce | Equitable distribution; fault in some states | Equal division of the net community estate (Fam. Code § 2550) | Never weigh equities | R-CMP-075 |
-| Property from before the move | Titled spouse's under old law | QCP at dissolution (both domiciled in CA) and at death (Fam. Code § 125; Prob. Code §§ 66, 101) [VERIFY V-305] | "Had H been domiciled here…" | R-CMP-003 |
+| Property from before the move | Titled spouse's under old law | QCP at dissolution (both domiciled in CA) and at death (Fam. Code § 125; Prob. Code §§ 66, 101) | "Had H been domiciled here…" | R-CMP-003 |
 | Changing character | Ordinary gift and contract law | Transmutation needs an express written declaration (Fam. Code § 852; *Benson*) | Is there an express writing? | R-CMP-022, R-CMP-023 |
 | Separate contributions to joint property | Often a gift to the marriage | § 2640 reimbursement without interest unless waived in writing | Trace the down payment | R-CMP-042 |
 | End of the estate | Filing or decree | Date of separation: expressed intent + consistent conduct (Fam. Code § 70) | Apply both prongs | R-CMP-070 |

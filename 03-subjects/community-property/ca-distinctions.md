@@ -53,12 +53,12 @@ status: draft
 | Scenario | Character | Authority | Write |
 |---|---|---|---|
 | 1. Couple domiciled in California when the asset was acquired with marital earnings | CP, wherever the asset is located, and it stays CP after a move away | Fam. Code § 760 | "Acquired during marriage while domiciled in California → CP." |
-| 2. Couple domiciled in State X (common law) when marital earnings bought the asset; dissolution in California with both spouses domiciled here | **QCP** (personal or real, anywhere), divided equally | Fam. Code §§ 125, 2550; Roesch [VERIFY V-305] | "Had H been domiciled here, his State X salary would have been CP; the asset is QCP." |
+| 2. Couple domiciled in State X (common law) when marital earnings bought the asset; dissolution in California with both spouses domiciled here | **QCP** (personal or real, anywhere), divided equally | Fam. Code §§ 125, 2550; Roesch [S-408]; Fredericks [S-1014] | "Had H been domiciled here, his State X salary would have been CP; the asset is QCP." |
 | 3. Same as 2, but only one spouse is domiciled in California at dissolution | California has applied the other state's law instead of QCP | Roesch [S-408] | Flag the domicile issue; argue both |
 | 4. Same as 2, and the earner dies domiciled in California | Decedent's QCP: half to survivor (personal property anywhere; California land) | Prob. Code §§ 66, 101 | "One-half belongs to W under Prob. Code § 101." |
 | 5. Same as 4, but the asset is **land in State X** | Not QCP at death; State X law governs | Prob. Code § 66 | "California's QCP rules do not reach the State X farm at death." |
 | 6. The **survivor** was the earner in State X | The survivor's own QCP is not split; the survivor keeps it | Prob. Code § 101 | Note the asymmetry |
-| 7. Earner gave QCP away (e.g., into joint tenancy with a child) and kept control | Survivor may recapture one-half | Prob. Code § 102 [S-403] [VERIFY V-304] | Walk through the § 102 elements |
+| 7. Earner gave QCP away (e.g., into joint tenancy with a child) and kept control | Survivor may recapture one-half | Prob. Code § 102 [S-403] [S-1002] | Walk through the § 102 elements; note the § 102(b) carve-out for insurance, annuities and pensions |
 | 8. Gift or inheritance received in State X | SP (it would have been SP in California too) | Fam. Code §§ 125, 770 | "Not QCP: a gift would be SP even in California." |
 
 **Why California may do this.** Applying QCP at divorce to property acquired before the move satisfies due process because California has a strong interest when both spouses are domiciled here at dissolution (*Addison v. Addison* (1965) 62 Cal.2d 558).

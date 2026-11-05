@@ -65,4 +65,5 @@ Community property is not on the MBE, so there are no MBE distractors here. Thes
 37. **Forgetting § 102 recapture** when QCP was put into joint tenancy or a revocable trust (R-CMP-093).
 38. **Giving the surviving spouse all the SP in intestacy.** The share depends on surviving issue, parents and siblings (R-CMP-094).
 39. **Ignoring QCP at dissolution when one spouse lives elsewhere.** Roesch requires both spouses to be domiciled in California (R-CMP-003).
-40. **Ignoring federal preemption.** Social Security, waived military pay, ERISA designations and federal insurance follow federal law (R-CMP-100 to R-CMP-103).
+40. **Using Brace to let a will reach joint-tenancy property.** Brace makes CP-funded joint tenancy presumptively CP but expressly left survivorship at death undisturbed; the survivor takes the whole (R-CMP-014).
+41. **Ignoring federal preemption.** Social Security, waived military pay, ERISA designations and federal insurance follow federal law (R-CMP-100 to R-CMP-103).
