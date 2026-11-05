@@ -95,7 +95,7 @@ Dates assume the 2026 pattern holds. **(est.)** = not yet published [VERIFY V-01
 | T−14 | **Book a hotel** if you will stay near the site (§6). | ☐ |
 | T−14 | Laptop: **turn off automatic operating-system updates** until after the exam. Check the Examplify requirements on ExamSoft's site. Confirm you have administrator rights on the laptop. | ☐ |
 | T−12 to T−5 | **Register in Examplify, download the mock exam, complete it and upload it.** Do it early, not on the deadline day. Deadline about **Fri July 23 (est.)**. Keep the confirmation. | ☐ |
-| T−10 | Last full simulation (the study plan sets this): 2-day, real start times. | ☐ |
+| T−17 | Last full simulation, SIM-03, Sat–Sun Jul 10–11 (the study plan sets this): 2-day, real start times. From here on, only light timed sets. | ☐ |
 | T−7 (Tue July 20) | **Drive the route** to your site at the real time of day (arrive by 7:50 a.m.). Note parking and the walk to the entrance. | ☐ |
 | T−7 | Buy supplies that fit the 2027 rules: a one-gallon clear bag, foam earplugs, an approved water bottle, and pens and pencils if allowed. | ☐ |
 | T−3 (Sat July 24) | Download the **exam files** when the State Bar instructs. Restart the laptop and test Examplify. Charge it and pack the charger. | ☐ |

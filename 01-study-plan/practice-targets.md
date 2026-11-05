@@ -57,7 +57,7 @@ Your example ranges assumed about 750 hours. With roughly 450 more hours, the pl
 | CP3 | May 2 | 754 | 1,880 | 52 | 7 | 43 | 1 |
 | CP4 | Jun 20 | 1,017 | 2,660 | 88 | 14 | 60 | 2 |
 | CP5 | Jul 11 | 1,131 | 3,040 | 104 | 17 | 67 | 3 |
-| Exam | Jul 26 | 1,202 | 3,140 | 109 | 17 | 74 | 3 |
+| Exam | Jul 26 | 1,194 | 3,140 | 109 | 17 | 74 | 3 |
 
 **Essay slots by subject** (non-simulation weeks). Re-weighted after the Phase 3 frequency analysis: PR was on 30 of 31 exams; CP, Contracts, Remedies, Crim and Evidence on about half (`06-past-exams/frequency-analysis.md`).
 

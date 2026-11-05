@@ -84,6 +84,8 @@ def test_anki_build(repo, capsys):
     assert n == 1
     n, _ = build_anki.build(["EVD"], set(), True, repo / "exports/all.apkg")
     assert n == 4  # 2 flashcards + 2 rule cards
+    n, _ = build_anki.build(["EVD"], {"must-know"}, True, repo / "exports/mk.apkg")
+    assert n == 2  # 1 must-know flashcard + 1 must-know rule card (tier read from memorization-list.md)
 
 
 def test_frequency_analysis(repo, capsys):
@@ -170,3 +172,13 @@ def test_simulation_items_reserved_until_sat(repo, capsys):
     quiz.log_attempt(kind="simulation", item_id="SIM-01", subject="MIX", score=0, max_score=1, source="repo")
     assert C.reserved_sim_items() == set()
     assert sim_mcqs & {q["id"] for q in quiz.pick("MIX", 50, seed=1)}
+
+
+def test_build_weeks_rest_day_gets_no_hours(repo):
+    import datetime as dt
+    import build_weeks
+    w = {"week": "2027-W29", "phase": "final-review", "hours": 24, "theme": "t", "learn": ["x"],
+         "mbe": {"n": 0, "mix": {}}, "essays": {"n": 0}, "spot": 0, "pt": {"n": 0}, "overrides": {"Sun": "Rest"}}
+    rows = build_weeks.day_plan(w, {}, dt.date(2027, 7, 19))
+    hours = {r[0]: r[2] for r in rows}
+    assert hours["Sun"] == 0 and abs(sum(hours.values()) - 24) <= 0.5

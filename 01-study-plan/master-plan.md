@@ -216,8 +216,8 @@ Rationale and the go / adjust / escalate rules are in [practice-targets.md](prac
 | [2027-W26](weeks/2027-W26.md) | Jun 28 | intensive | 38 | Third pass continued + full memorization cycle | 90 | 5 | 1 | 2840 / 97 / 16 |
 | [2027-W27](weeks/2027-W27.md) | Jul 05 | intensive | 38 | SIMULATION #3 (Sat–Sun Jul 10–11, week −3) — CHECKPOINT 5 **CP5** | 200 | 7 | 1 | 3040 / 104 / 17 |
 | [2027-W28](weeks/2027-W28.md) | Jul 12 | final-review | 35 | SIM-03 review + final review 1: high-yield + attack outlines | 60 | 3 | 0 | 3100 / 107 / 17 |
-| [2027-W29](weeks/2027-W29.md) | Jul 19 | final-review | 32 | Final review 2: final-2-weeks-review set; taper | 40 | 2 | 0 | 3140 / 109 / 17 |
+| [2027-W29](weeks/2027-W29.md) | Jul 19 | final-review | 24 | Final review 2: final-2-weeks-review set; taper | 40 | 2 | 0 | 3140 / 109 / 17 |
 | [2027-W30](weeks/2027-W30.md) | Jul 26 | exam | 4 | EXAM WEEK — Tue–Wed Jul 27–28 (PTO Mon–Thu) | 0 | 0 | 0 | 3140 / 109 / 17 |
 
-**Totals:** 1202 hours · 3140 MBE questions · 109 essays (incl. simulations) · 17 PTs · 74 issue-spotting drills.
+**Totals:** 1194 hours · 3140 MBE questions · 109 essays (incl. simulations) · 17 PTs · 74 issue-spotting drills.
 <!-- END WEEK-TABLE -->

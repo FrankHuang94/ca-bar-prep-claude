@@ -468,7 +468,7 @@ weeks:
 
 - week: 2027-W29
   phase: final-review
-  hours: 32
+  hours: 24
   theme: "Final review 2: final-2-weeks-review set; taper"
   learn: ["08-high-yield/final-2-weeks-review.md; memorization lists (must-know tier)"]
   reinforce: ["Light timed practice; shift sleep to exam timing (up by 6:30 a.m.)"]

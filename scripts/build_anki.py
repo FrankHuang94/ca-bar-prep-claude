@@ -52,10 +52,32 @@ def md_to_html(text: str) -> str:
     return t.replace("\n", "<br>")
 
 
+TIER_HEADINGS = (("must-know", "## must-know"), ("should-know", "## should-know"), ("nice-to-know", "## nice-to-know"))
+
+
+def rule_tiers(code: str) -> dict[str, str]:
+    """rule_id -> tier tag, read from the subject's memorization-list.md tier sections (first tier wins)."""
+    path = C.p(C.SUBJECTS_DIR_REL, C.SUBJECTS[code].slug, "memorization-list.md")
+    tiers: dict[str, str] = {}
+    if not path.exists():
+        return tiers
+    current = None
+    for line in path.read_text(encoding="utf-8").splitlines():
+        low = line.strip().lower()
+        if low.startswith("## "):
+            current = next((tag for tag, head in TIER_HEADINGS if low.startswith(head)), None)
+            continue
+        if current:
+            for rid in re.findall(r"R-[A-Z]{3}-\d{3}", line):
+                tiers.setdefault(rid, current)
+    return tiers
+
+
 def rule_cards(code: str) -> list[dict]:
     path = C.p(C.SUBJECTS_DIR_REL, C.SUBJECTS[code].slug, "rule-statements.md")
     if not path.exists():
         return []
+    tiers = rule_tiers(code)
     text = path.read_text(encoding="utf-8")
     cards = []
     parts = re.split(r"(?m)^(#{2,4}\s+R-[A-Z]{3}-\d{3}\b.*)$", text)
@@ -66,7 +88,7 @@ def rule_cards(code: str) -> list[dict]:
         if not m:
             continue
         cards.append({"id": f"RULE-{rid}", "front": f"State the rule: {title}", "back": m.group(1).strip(),
-                      "rule_id": rid, "tags": "rule-statement"})
+                      "rule_id": rid, "tags": ";".join(["rule-statement"] + ([tiers[rid]] if rid in tiers else []))})
     return cards
 
 

@@ -83,7 +83,12 @@ def quiz_cmds(mbe: dict, sim: dict | None = None) -> list[str]:
 
 def day_plan(w: dict, plan: dict, monday: dt.date) -> list[tuple[str, str, float, str]]:
     pat = pattern_for(w, plan, monday)
-    weights = PATTERNS[pat]
+    weights = list(PATTERNS[pat])
+    rest = {i for i, d in enumerate(DAYS) if str((w.get("overrides") or {}).get(d, "")).lower().startswith("rest")}
+    if rest and len(rest) < len(DAYS):  # rest days get 0 h; the week's hours move to the other days
+        total = sum(weights)
+        kept = sum(x for i, x in enumerate(weights) if i not in rest)
+        weights = [0.0 if i in rest else x * total / kept for i, x in enumerate(weights)]
     holidays = {parse_date(h["date"]): h["name"] for h in plan.get("holidays") or []}
     admin = {}
     for a in plan.get("admissions") or []:
