@@ -4,7 +4,7 @@ topic: Evidence — exam-day attack outline
 coverage_ids: [EVD-MBE-I, EVD-MBE-II, EVD-MBE-III, EVD-MBE-IV, EVD-MBE-V, EVD-SUP-001]
 tested_on: [MBE, essay]
 exam_frequency: {level: high, basis: "Essays: 15 of 31 administrations 2012-02 to 2026-07 (48%); MBE: 25 scored questions every exam"}
-last_verified: 2026-11-04
+last_verified: 2026-11-05
 status: draft
 ---
 
@@ -43,7 +43,7 @@ status: draft
 - **Capacity:** perception, memory, communication. (R-EVD-030)
 - **Hearsay declarant:** as if testified (806 / § 1202). (R-EVD-031)
 - **Rehab:** prior consistent pre-motive (Tome) or other ground (FRE only). (R-EVD-032, R-EVD-086)
-- **Contradiction:** extrinsic only if not collateral. (R-EVD-033)
+- **Contradiction:** FRE — extrinsic only if not collateral; CEC — no fixed bar, § 352 decides (*Lavergne*). Illegally seized evidence may contradict only the testifying defendant (*Havens*; *James*). (R-EVD-033)
 
 ## II. Relevance, character, authentication, experts
 - **Propensity ban:** 404(a)(1) / § 1101(a). (R-EVD-035)
@@ -56,7 +56,7 @@ status: draft
 - **413–415 / § 1108:** sex-offense propensity, 403. (R-EVD-043)
 - **§ 1109:** DV propensity, § 352, 10 years. (R-EVD-044)
 - **Rape shield:** 412 (source, with D, constitutional); CEC § 1103(c), § 782 procedure. (R-EVD-045, R-EVD-046)
-- **§ 352.2:** creative expression — minimal literal-truth value. (R-EVD-047)
+- **§ 352.2:** creative expression — minimal literal-truth value unless near in time, similar to the crime, or non-public detail; propensity and racial-bias risk; hearing outside jury. (R-EVD-047)
 - **Authentication:** sufficient to support a finding (901 / §§ 1400–1401); methods; self-authenticating (902). (R-EVD-048 to R-EVD-050)
 - **Photos/machines:** fair and accurate or reliable process; machine output not hearsay (Goldsmith; §§ 1552–1553). (R-EVD-051)
 - **Chain of custody** for fungibles. (R-EVD-052)
@@ -90,7 +90,7 @@ status: draft
 - **Definition:** out-of-court statement offered for its truth (801(c) / § 1200). (R-EVD-083)
 - **Not for truth:** verbal acts, effect on listener, state of mind circumstantially, impeachment. (R-EVD-084)
 - **Prior statements (D testifies, subject to cross):** inconsistent (substantive, 2026 / § 1235); consistent (Tome / § 791); identification (§ 1238). (R-EVD-085 to R-EVD-087)
-- **Party:** own; adopted (silence if reasonable to deny); authorized; employee within scope (FRE only; CA § 1222/§ 1224); coconspirator during + furtherance. (R-EVD-088 to R-EVD-091)
+- **Party:** own; adopted (silence if reasonable to deny); authorized; employee within scope (FRE only; CA § 1222/§ 1224); coconspirator during + furtherance (FRE: preponderance, judge; CEC § 1223: prima facie independent evidence). (R-EVD-088 to R-EVD-091)
 - **Multiple hearsay:** each layer. (R-EVD-092)
 - **PSI** (FRE only; CA § 1241 own conduct). **Excited / spontaneous** (§ 1240). (R-EVD-093, R-EVD-094)
 - **State of mind:** then-existing; Hillmon; not memory (Shepard); CA §§ 1251–1252. (R-EVD-095, R-EVD-096)
@@ -99,11 +99,11 @@ status: draft
 - **Business records:** regular course + practice, near time, person with knowledge, custodian/cert; CA no opinions, proponent shows trustworthiness. (R-EVD-099)
 - **Public records:** activities, duty-observed (not police vs. accused), civil findings. (R-EVD-100)
 - **Treatise:** FRE substantive via expert; CA impeachment only (§ 721(b)). (R-EVD-101)
-- **Unavailable:** privilege, refusal, memory, death/illness, absence. (R-EVD-102)
+- **Unavailable:** privilege, refusal, memory, death/illness, absence. CEC § 240: refusal only after a contempt finding; memory loss not listed. (R-EVD-102)
 - **Former testimony:** opportunity + similar motive; CA § 1292 civil broader. (R-EVD-103)
-- **Against interest:** when made; only self-inculpatory part; corroboration (criminal); CA social interest. (R-EVD-104)
+- **Against interest:** when made; only self-inculpatory part; corroboration in criminal cases — totality of circumstances plus any evidence supporting or undermining it (2024); CA social interest. (R-EVD-104)
 - **Dying declaration:** FRE homicide/civil; CA any case, declarant died. (R-EVD-105)
-- **Forfeiture:** wrongdoing intended to prevent testimony (Giles). (R-EVD-106)
+- **Forfeiture:** wrongdoing intended to prevent testimony (Giles). CEC § 1390: preponderance at a foundational hearing + independent corroboration. (R-EVD-106)
 - **Residual:** 807; CA none. **CA-only:** § 1370 threats; § 1360; § 1261. (R-EVD-107 to R-EVD-109)
 
 ## Confrontation (criminal)

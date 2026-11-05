@@ -92,7 +92,7 @@ Each table follows the order of the subject's `ca-distinctions.md`. Points where
 
 Source: [`../03-subjects/evidence/ca-distinctions.md`](../03-subjects/evidence/ca-distinctions.md). **MBE: FRE only, "as currently in effect".**
 
-**Same in both (one rule, two citations):** limiting instructions; personal knowledge; leading questions; bias impeachment; excited utterance (803(2) / § 1240); state of mind (803(3) / § 1250); recorded recollection; coconspirator statements; habit; attorney-client elements; authentication; completeness; Confrontation Clause.
+**Same in both (one rule, two citations):** limiting instructions; personal knowledge; leading questions; bias impeachment; excited utterance (803(2) / § 1240); state of mind (803(3) / § 1250); recorded recollection; habit; attorney-client elements; authentication; completeness; Confrontation Clause.
 
 | Issue | MBE / majority rule (FRE) | California rule (CEC) | What to write on the essay | Rule IDs |
 |---|---|---|---|---|
@@ -105,7 +105,8 @@ Source: [`../03-subjects/evidence/ca-distinctions.md`](../03-subjects/evidence/c
 | Sexual-offense propensity | 413–414 (criminal), 415 (civil) | § 1108, criminal only, subject to § 352 (*Falsetta*) | No civil counterpart | R-EVD-043 |
 | Domestic-violence propensity | None (404(b) only) | § 1109: other DV acts, subject to § 352; 10-year limit | California-only propensity route | R-EVD-044 |
 | Rape shield | 412 | Consent: § 1103(c); credibility: § 782 procedure; civil: § 1106 [VERIFY V-417] | Choose consent vs. credibility route | R-EVD-045, R-EVD-046 |
-| **Impeachment:** prior convictions | 609 | Criminal: moral-turpitude felonies + § 352; misdemeanor conduct (*Wheeler*). Civil: § 788 felonies + § 352 (*Robbins v. Wong*) [VERIFY V-400] | Moral turpitude + § 352 | R-EVD-025, R-EVD-026 |
+| **Impeachment:** prior convictions | 609 | Criminal: moral-turpitude felonies + § 352; misdemeanor conduct (*Wheeler*). Civil: § 788 felonies + § 352 (*Robbins v. Wong* (1994) 27 Cal.App.4th 261) [S-1553] | Moral turpitude + § 352 | R-EVD-025, R-EVD-026 |
+| Contradiction on a collateral matter | Extrinsic evidence barred on collateral matters (403, 611(a)) | No fixed collateral-matter bar; § 352 decides (*Lavergne*) [S-1557] | Argue § 352 under the CEC | R-EVD-022, R-EVD-033 |
 | Specific acts of untruthfulness | Cross-examination only; no extrinsic proof (608(b)) | Civil: inadmissible even on cross (§ 787). Criminal: moral-turpitude conduct admissible, subject to § 352 | Contrast civil and criminal | R-EVD-027, R-EVD-028 |
 | Prior inconsistent statement — foundation | Opportunity to explain or deny **before** extrinsic evidence, unless court orders otherwise (613(b), 2024) | Opportunity to explain or deny, **or** witness not excused (§ 770) | California timing is looser | R-EVD-023 |
 | Prior inconsistent statement — substantive | From Dec 1, 2026: any PIS of a testifying witness, subject to 403 (before: only sworn statements at a proceeding) [S-101] | Substantive under § 1235 | Now the same result; know the old rule for older materials | R-EVD-085 |
@@ -116,7 +117,8 @@ Source: [`../03-subjects/evidence/ca-distinctions.md`](../03-subjects/evidence/c
 | State of mind | 803(3); no prior state of mind except wills | § 1250 plus § 1252 trustworthiness filter; § 1251 prior state of mind if declarant unavailable and state in issue | Mention §§ 1251–1252 | R-EVD-095, R-EVD-096 |
 | Medical diagnosis | 803(4): to anyone, for diagnosis or treatment | Only child-abuse victims under 12 (§ 1253); use § 1250 for present pain | California gap | R-EVD-097 |
 | Business records | Includes opinions and diagnoses; **opponent** shows untrustworthiness (803(6)) | Acts, conditions, events; **proponent** shows trustworthiness; opinions/diagnoses excluded (§ 1271; *Reyes*) | Note the burden and the opinion bar | R-EVD-099 |
-| Learned treatise | Substantive if read through an expert (803(18)) | Only to cross-examine an expert (§ 721(b)); § 1341 narrow [VERIFY V-404] | California gap | R-EVD-101 |
+| Coconspirator statements | Not hearsay (801(d)(2)(E)); judge finds the conspiracy and membership by a preponderance, considering the statement (104(a); *Bourjaily*) | Hearsay exception (§ 1223): prima facie independent evidence sufficient to sustain a finding of the conspiracy; jury uses the statement only if it finds the conspiracy without it (CALCRIM No. 418) [S-1558] | Name the independent evidence | R-EVD-091 |
+| Learned treatise | Substantive if read through an expert (803(18)) | Only to cross-examine an expert (§ 721(b)); § 1341 narrow [S-1555] | California gap | R-EVD-101 |
 | Former testimony (civil) | Party or predecessor in interest with similar motive (804(b)(1)) | § 1292: any party to the former proceeding with similar interest and motive; not against a criminal defendant | California broader in civil cases | R-EVD-103 |
 | Statement against interest | Pecuniary, proprietary, liability; criminal corroboration (804(b)(3)) | Adds **social** interest (hatred, ridicule, disgrace) (§ 1230) | Mention the social-interest branch | R-EVD-104 |
 | Dying declaration | Homicide or civil case; declarant need not die (804(b)(2)) | Any case; declarant must have died (§ 1242) | Different scope | R-EVD-105 |
@@ -128,7 +130,7 @@ Source: [`../03-subjects/evidence/ca-distinctions.md`](../03-subjects/evidence/c
 | Entity attorney-client privilege | *Upjohn* (any employee, legal-advice purpose) | *Chadbourne* dominant purpose | Name both tests | R-EVD-064 |
 | Attorney-client exceptions; in camera review | Crime-fraud; in camera review allowed (*Zolin*) | Adds § 956.5 (criminal act likely to cause death/SBH); no in camera review of the communication (§ 915; *Costco*) | California adds an exception and limits review | R-EVD-065, R-EVD-062 |
 | Work product | Party or representative; substantial need + undue hardship (FRCP 26(b)(3)) | Attorney's; impressions absolute; other work product qualified (CCP § 2018.030; *Coito*) | Different standard and holder | R-EVD-066 |
-| Spousal testimonial | Criminal cases only; witness-spouse holds (*Trammel*) | All proceedings; privilege not to testify **and not to be called** (§§ 970–971) [VERIFY V-410] | California broader | R-EVD-068 |
+| Spousal testimonial | Criminal cases only; witness-spouse holds (*Trammel*) | All proceedings; privilege not to testify **and not to be called** (§§ 970–971); § 972 exceptions broader than the federal ones [S-1559] [VERIFY V-992] | California broader | R-EVD-068 |
 | **Experts:** reliability | *Daubert*/*Kumho*; 702 (2023): each element by a preponderance | *Sargon* gatekeeping; *Kelly* general acceptance for new scientific techniques | Big difference | R-EVD-059, R-EVD-060 |
 | Basis hearsay | 703 reasonable reliance; reverse 403 for disclosure | *Sanchez*: no case-specific hearsay related as true unless independently proven or excepted; *Smith v. Arizona* for confrontation [VERIFY V-035] | Apply *Sanchez* on a CEC essay | R-EVD-057 |
 | **Writings:** best evidence | Original required (1002); duplicates (1003); excuses (1004) | Secondary evidence rule (§§ 1520–1523); oral testimony limited (§ 1523); extra criminal-case bar (§ 1522) [VERIFY V-409] | "California has replaced the best evidence rule." | R-EVD-078, R-EVD-079, R-EVD-080 |

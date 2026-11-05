@@ -4,7 +4,7 @@ topic: Evidence — worked examples (original fact patterns with IRAC analysis)
 coverage_ids: [EVD-MBE-I.A.2, EVD-MBE-I.A.4, EVD-MBE-I.D.1, EVD-MBE-I.D.3, EVD-MBE-I.D.4, EVD-MBE-II.A.2, EVD-MBE-II.B, EVD-MBE-II.C.1, EVD-MBE-II.C.4, EVD-MBE-II.D, EVD-MBE-III.A, EVD-MBE-III.B, EVD-MBE-III.F, EVD-MBE-III.G, EVD-MBE-IV.A, EVD-MBE-V.A.1, EVD-MBE-V.A.2, EVD-MBE-V.A.3, EVD-MBE-V.A.4, EVD-MBE-V.B, EVD-MBE-V.D, EVD-MBE-V.F, EVD-MBE-V.H, EVD-MBE-V.J, EVD-MBE-V.L, EVD-SUP-002, EVD-SUP-005, EVD-SUP-006, EVD-SUP-009]
 tested_on: [MBE, essay]
 exam_frequency: {level: high, basis: "Essays: 15 of 31 administrations 2012-02 to 2026-07 (48%); MBE: 25 scored questions every exam"}
-last_verified: 2026-11-04
+last_verified: 2026-11-05
 status: draft
 ---
 
@@ -49,9 +49,9 @@ All fact patterns are original. Each states the governing law, then rule → app
 - *Application:* Prepared for litigation, self-serving, and offered by its maker.
 - *Conclusion:* Inadmissible as a business record.
 
-**8. The co-defendant's notes (CEC).** In D's drug-distribution trial, the People offer notebook pages written by co-defendant X (who has pleaded guilty and refuses to testify despite a court order) listing "D — 2 kilos — paid".
+**8. The co-defendant's notes (CEC).** In D's drug-distribution trial, the People offer notebook pages written by co-defendant X (who has pleaded guilty and refuses to testify even after being held in contempt) listing "D — 2 kilos — paid".
 - *Rule:* Declaration against interest, § 1230; only specifically disserving portions (*Leach*; *Duarte*) (R-EVD-104); coconspirator statements, § 1223 (R-EVD-091); unavailability § 240 (R-EVD-102).
-- *Application:* The entries expose X to criminal liability, but the parts naming D shift some responsibility to D and are collateral to X's own exposure — arguably inadmissible under § 1230. As coconspirator records kept during and in furtherance of the distribution ring, the entries fit § 1223 if independent evidence shows the conspiracy. Business-like ledgers kept in furtherance are nontestimonial. Whether refusal makes X "unavailable" under § 240 needs authority [VERIFY V-411].
+- *Application:* The entries expose X to criminal liability, but the parts naming D shift some responsibility to D and are collateral to X's own exposure — arguably inadmissible under § 1230. As coconspirator records kept during and in furtherance of the distribution ring, the entries fit § 1223 if evidence independent of the notebook makes a prima facie showing of the conspiracy and D's participation (R-EVD-091). Business-like ledgers kept in furtherance are nontestimonial. X is "unavailable" for § 1230 because he persists in refusing to testify despite the contempt finding (§ 240(a)(6)); a court order alone would not be enough under the CEC (R-EVD-102).
 - *Conclusion:* Likely admissible under § 1223; § 1230 is weaker for the portions naming D.
 
 **9. The employee's apology (FRE vs. CEC).** Delivery driver E, after hitting P, tells P, "I'm so sorry — I ran the stop sign because my boss makes us rush." P sues E's employer only.

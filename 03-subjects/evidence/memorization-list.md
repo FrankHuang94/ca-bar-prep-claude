@@ -4,7 +4,7 @@ topic: Evidence — memorization tiers
 coverage_ids: [EVD-MBE-I, EVD-MBE-II, EVD-MBE-III, EVD-MBE-IV, EVD-MBE-V, EVD-SUP-001]
 tested_on: [MBE, essay]
 exam_frequency: {level: high, basis: "Essays: 15 of 31 administrations 2012-02 to 2026-07 (48%); MBE: 25 scored questions every exam"}
-last_verified: 2026-11-04
+last_verified: 2026-11-05
 status: draft
 ---
 
@@ -52,7 +52,7 @@ Tiers reflect MBE weight [S-040] and the Phase 3 essay tags [VERIFY V-071]. Rule
 | § 1253 | Statement made when victim **under 12** |
 | 404(b) mnemonic | **MIMIC**: Motive, Intent, absence of Mistake, Identity, Common plan (+ opportunity, preparation, knowledge) |
 | Impeachment methods | **BICCS**: Bias, Inconsistent statements, Convictions, Character for untruthfulness, Sensory defects (+ contradiction) |
-| 804(a) unavailability | Privilege, refusal, memory loss, death/illness, absence |
+| 804(a) unavailability | Privilege, refusal, memory loss, death/illness, absence (CEC § 240: refusal only after a contempt finding; memory loss not listed) |
 | 606(b) exceptions | Extraneous information, outside influence, verdict-form mistake (+ racial-bias exception) |
 | 702 (2023) | Helpful; sufficient facts; reliable method; reliable application — each by a **preponderance** |
 | Daubert factors | Testing, peer review, error rate, standards, general acceptance |

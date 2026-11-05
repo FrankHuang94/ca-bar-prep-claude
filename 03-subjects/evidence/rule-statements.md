@@ -4,7 +4,7 @@ topic: Evidence — essay-ready rule statements (R-EVD-001 to R-EVD-115)
 coverage_ids: [EVD-MBE-I, EVD-MBE-I.A, EVD-MBE-I.B, EVD-MBE-I.C, EVD-MBE-I.D, EVD-MBE-I.E, EVD-MBE-II, EVD-MBE-II.A, EVD-MBE-II.B, EVD-MBE-II.C, EVD-MBE-II.D, EVD-MBE-II.E, EVD-MBE-III, EVD-MBE-III.A, EVD-MBE-III.B, EVD-MBE-III.C, EVD-MBE-III.D, EVD-MBE-III.E, EVD-MBE-III.F, EVD-MBE-III.G, EVD-MBE-III.H, EVD-MBE-IV, EVD-MBE-IV.A, EVD-MBE-IV.B, EVD-MBE-IV.C, EVD-MBE-V, EVD-MBE-V.A, EVD-MBE-V.B, EVD-MBE-V.C, EVD-MBE-V.D, EVD-MBE-V.E, EVD-MBE-V.F, EVD-MBE-V.G, EVD-MBE-V.H, EVD-MBE-V.I, EVD-MBE-V.J, EVD-MBE-V.K, EVD-MBE-V.L, EVD-SUP-001, EVD-SUP-002, EVD-SUP-003, EVD-SUP-004, EVD-SUP-005, EVD-SUP-006, EVD-SUP-007, EVD-SUP-008, EVD-SUP-009]
 tested_on: [MBE, essay]
 exam_frequency: {level: high, basis: "Essays: 15 of 31 administrations 2012-02 to 2026-07 (48%); MBE: 25 scored questions every exam"}
-last_verified: 2026-11-04
+last_verified: 2026-11-05
 status: draft
 ---
 
@@ -79,7 +79,7 @@ status: draft
 
 **Elements:** Judge questions: hearsay foundations (excitement, business duty, unavailability, conspiracy), privilege elements, expert qualification and reliability, competency, BER excuses.
 
-**Exceptions / defenses:** Confession admissibility, and hearings when a defendant testifies on a preliminary question, are held outside the jury (FRE 104(c)); the opponent may still attack weight before the jury (104(e)).
+**Exceptions / defenses:** Hearings on the admissibility of a confession, hearings at which a criminal defendant testifies on a preliminary question and so requests, and other hearings where justice requires are held outside the jury (FRE 104(c)); the opponent may still attack weight before the jury (104(e)).
 
 **Authority:** FRE 104(a), (c)–(e); *Bourjaily v. United States*, 483 U.S. 171 (1987); CEC § 405.
 
@@ -146,7 +146,7 @@ status: draft
 
 **Elements:** 1. Capacity to perceive, remember and communicate. 2. Understanding of the duty to tell the truth. 3. Oath or affirmation (FRE 603). 4. Personal knowledge.
 
-**Exceptions / defenses:** State Dead Man's statutes apply in diversity cases through FRE 601; California has none but admits decedents' statements against the estate under § 1261 [VERIFY V-409]. Hypnotically refreshed testimony: § 795 conditions [VERIFY V-416]; a per se ban on the defendant's own is unconstitutional (*Rock v. Arkansas*, 483 U.S. 44 (1987)).
+**Exceptions / defenses:** State Dead Man's statutes apply in diversity cases through FRE 601; California has none; instead § 1261 admits a decedent's own statement in an action on a claim or demand against the decedent's estate [VERIFY V-409]. Hypnotically refreshed testimony: § 795 conditions [VERIFY V-416]; a per se ban on the defendant's own is unconstitutional (*Rock v. Arkansas*, 483 U.S. 44 (1987)).
 
 **Authority:** FRE 601–603; CEC §§ 700, 701 (disqualified if incapable of expressing himself so as to be understood, or of understanding the duty to tell the truth), 710.
 
@@ -163,7 +163,7 @@ status: draft
 
 **Authority:** FRE 605, 606; CEC §§ 703, 704, 1150.
 
-**MBE vs. CA essay:** § 1150 admits evidence of statements, conduct, conditions or events likely to have influenced the verdict improperly (overt acts, including statements in deliberations), but not their effect on mental processes — somewhat broader than FRE 606(b).
+**MBE vs. CA essay:** § 1150 admits evidence of statements, conduct, conditions or events likely to have influenced the verdict improperly (overt acts, including statements in deliberations), but not their effect on mental processes — somewhat broader than FRE 606(b). Under §§ 703–704 the presiding judge or a sitting juror may testify only if no party objects; an objection requires a mistrial, whereas FRE 605 bars the judge's testimony outright [VERIFY V-991].
 
 **Example:** A juror looked up the defendant's prior arrests online and told the others; jurors may testify to that extraneous information.
 
@@ -272,15 +272,15 @@ status: draft
 **Example:** On direct, "You saw the defendant run the red light, didn't you?" is leading; "What color was the light?" is not.
 
 ### R-EVD-020 — Objectionable form of questions
-**Rule (write this):** Questions are objectionable if they are compound, argumentative, assume facts not in evidence, call for speculation or a narrative, have been asked and answered, mislead, or harass; an answer that does not respond to the question may be stricken on motion of the examining party.
+**Rule (write this):** Questions are objectionable if they are compound, argumentative, assume facts not in evidence, call for speculation or a narrative, have been asked and answered, mislead, or harass; an answer that does not respond to the question may be stricken on motion.
 
 **Elements:** Identify the defect; object immediately; ask to strike any answer.
 
-**Exceptions / defenses:** Court discretion under FRE 611(a); narrative answers may be allowed for clarity.
+**Exceptions / defenses:** Court discretion under FRE 611(a); narrative answers may be allowed for clarity. At common law only the examining party may move to strike a nonresponsive answer.
 
-**Authority:** FRE 611(a); CEC §§ 765, 767.
+**Authority:** FRE 611(a); CEC §§ 765, 766, 767.
 
-**MBE vs. CA essay:** Same.
+**MBE vs. CA essay:** Same, except that § 766 lets **any** party move to strike a nonresponsive answer.
 
 **Example:** "When did you stop overbilling the client?" assumes a fact not in evidence.
 
@@ -306,7 +306,7 @@ status: draft
 
 **Authority:** FRE 607, 608, 610; CEC §§ 780, 785, 786, 789.
 
-**MBE vs. CA essay:** Same principle; California's § 780 lists the credibility factors.
+**MBE vs. CA essay:** Same principle; California's § 780 lists the credibility factors and has no fixed collateral-matter bar — § 352 controls extrinsic impeachment on collateral points (R-EVD-033).
 
 **Example:** A party whose own witness unexpectedly changes his story may impeach him with his earlier statement.
 
@@ -337,7 +337,7 @@ status: draft
 **Example:** A prosecution witness testifies under a plea deal reducing his sentence; the deal is admissible to show motive to favor the government.
 
 ### R-EVD-025 — Impeachment by prior conviction (FRE 609)
-**Rule (write this):** A witness's conviction for a crime punishable by more than one year is admissible to impeach, subject to Rule 403 for ordinary witnesses and, for a criminal defendant, only if its probative value outweighs its prejudicial effect to the defendant. A conviction for any crime whose elements required proof of a dishonest act or false statement must be admitted. Convictions more than ten years old require that probative value substantially outweigh prejudicial effect and written notice.
+**Rule (write this):** A witness's conviction for a crime punishable by more than one year is admissible to impeach, subject to Rule 403 for ordinary witnesses and, for a criminal defendant, only if its probative value outweighs its prejudicial effect to the defendant. A conviction for any crime whose elements required proving (or the witness's admitting) a dishonest act or false statement must be admitted. Convictions more than ten years old require that probative value substantially outweigh prejudicial effect and written notice.
 
 **Elements:** 1. Felony or crimen falsi. 2. The right balancing test for the witness. 3. Ten years from conviction or release, whichever is later. 4. No pardon based on rehabilitation or innocence. 5. Juvenile adjudications only against non-defendant witnesses in criminal cases.
 
@@ -347,16 +347,16 @@ status: draft
 
 **MBE vs. CA essay:** Differs — California uses moral turpitude (R-EVD-026).
 
-**Example:** A testifying defendant charged with robbery has a four-year-old robbery felony: high similarity weighs toward exclusion under 609(a)(1)(B). His six-year-old misdemeanor perjury conviction must be admitted under 609(a)(2).
+**Example:** A testifying defendant charged with robbery has a four-year-old robbery felony: high similarity weighs toward exclusion under 609(a)(1)(B). His six-year-old misdemeanor conviction for filing a false police report must be admitted under 609(a)(2).
 
 ### R-EVD-026 — Impeachment by prior conviction and moral turpitude (California)
 **Rule (write this):** In a California criminal case, a witness may be impeached with any prior felony conviction involving moral turpitude — a readiness to do evil, judged by the least adjudicated elements — subject to the court's discretion under § 352; misdemeanor conduct involving moral turpitude may also be shown. In civil cases, § 788 permits impeachment by felony convictions, subject to § 352.
 
 **Elements:** Criminal: 1. Felony conviction (art. I, § 28(f)(4)) or misdemeanor conduct (Wheeler). 2. Moral turpitude (theft, fraud, violence with intent to injure; not simple possession). 3. § 352 factors: bearing on honesty, remoteness, similarity to the charged offense, effect on the defendant's decision to testify. Civil: 1. Felony. 2. § 352.
 
-**Exceptions / defenses:** The record of a misdemeanor conviction is hearsay when offered to prove the conduct, so the conduct is usually proved by other evidence (Wheeler); § 452.5 and other routes may admit certified records [VERIFY V-409]. Civil courts treat the criminal moral-turpitude cases as guidelines, not binding rules [VERIFY V-400].
+**Exceptions / defenses:** *Wheeler* held that the record of a misdemeanor conviction is hearsay when offered to prove the conduct, so the conduct must be proved by admissible evidence; a certified conviction record may now qualify under § 452.5(b) [VERIFY V-409]. In civil cases art. I, § 28(f) and the criminal-case rulings do not apply; the court must still weigh the conviction under § 352, and the criminal moral-turpitude cases serve only as guidelines (*Robbins v. Wong* (1994) 27 Cal.App.4th 261, 273–274) [S-504] [S-1553].
 
-**Authority:** Cal. Const. art. I, § 28(f)(4) [S-145]; CEC §§ 352, 788; *People v. Castro* (1985) 38 Cal.3d 301; *People v. Wheeler* (1992) 4 Cal.4th 284 [S-502]; *Robbins v. Wong* (1994) [S-504].
+**Authority:** Cal. Const. art. I, § 28(f)(4) [S-145]; CEC §§ 352, 788; *People v. Castro* (1985) 38 Cal.3d 301; *People v. Wheeler* (1992) 4 Cal.4th 284 [S-502]; *Robbins v. Wong* (1994) 27 Cal.App.4th 261 [S-504] [S-1553].
 
 **MBE vs. CA essay:** MBE: FRE 609. CA essay: moral turpitude + § 352, misdemeanor conduct allowed in criminal cases.
 
@@ -445,13 +445,13 @@ status: draft
 
 **Elements:** 1. Specific testimony. 2. Contradicting evidence. 3. Non-collateral: relevant to a substantive issue or independently admissible to impeach.
 
-**Exceptions / defenses:** A witness who opens the door with a sweeping claim may be contradicted even with otherwise excluded evidence (*United States v. Havens*, 446 U.S. 620 (1980)).
+**Exceptions / defenses:** A witness who opens the door with a sweeping claim may be contradicted with evidence that would otherwise be excluded. A **testifying defendant** may even be contradicted with illegally obtained evidence (*Walder v. United States*, 347 U.S. 62 (1954); *United States v. Havens*, 446 U.S. 620 (1980)), but that impeachment exception does not extend to other defense witnesses (*James v. Illinois*, 493 U.S. 307 (1990)).
 
-**Authority:** FRE 403, 607, 611(a); CEC §§ 352, 780(i).
+**Authority:** FRE 403, 607, 611(a); CEC §§ 351, 352, 780(i); *People v. Lavergne* (1971) 4 Cal.3d 735, 742 [S-1557].
 
-**MBE vs. CA essay:** Same.
+**MBE vs. CA essay:** Differs. California has no automatic collateral-matter rule: contradiction on a collateral point is relevant to credibility (§ 780(i)) and admissible unless excluded under § 352, where its collateral character lowers its probative value (*Lavergne*) [S-1557]. In criminal cases Truth-in-Evidence points the same way.
 
-**Example:** A witness says she saw the crash on her way to church; proof that she was actually at work that morning is collateral unless it shows she could not have seen the crash.
+**Example:** A witness says she saw the crash on her way to church; proof that she was actually at work that morning is collateral unless it shows she could not have seen the crash. FRE: extrinsic proof excluded. California: no automatic bar; the court weighs it under § 352 and may exclude it as time-consuming with little probative value.
 
 ### R-EVD-034 — Proceedings where the rules apply
 **Rule (write this):** The Federal Rules of Evidence apply in civil and criminal trials but, except for privileges, not to the court's preliminary-fact findings, grand juries, sentencing, probation and supervised-release revocation, extradition, preliminary examinations, warrants or bail.
@@ -590,11 +590,11 @@ status: draft
 ### R-EVD-044 — Domestic-violence propensity (§ 1109)
 **Rule (write this):** In a California criminal action in which the defendant is accused of an offense involving domestic violence, evidence of the defendant's other acts of domestic violence is not made inadmissible by § 1101 if it survives § 352; acts more than ten years before the charged offense are inadmissible unless the court finds admission in the interest of justice.
 
-**Elements:** 1. Criminal action. 2. Charged offense involving domestic violence. 3. Other DV acts. 4. § 352. 5. Ten-year limit. 6. Disclosure to the defense. "Domestic violence" takes its meaning from Pen. Code § 13700 (which reaches spouses, cohabitants, dating or engagement relationships and co-parents) and, for acts within five years of the charged offense, the broader Fam. Code § 6211 definition (§ 1109(d)(3)) [VERIFY V-418].
+**Elements:** 1. Criminal action. 2. Charged offense involving domestic violence. 3. Other DV acts. 4. § 352. 5. Ten-year limit. 6. Disclosure to the defense. "Domestic violence" takes its meaning from Pen. Code § 13700 (which reaches spouses, cohabitants, dating or engagement relationships and co-parents [VERIFY V-993]) and, subject to a § 352 hearing, for acts no more than five years before the charged offense, the broader Fam. Code § 6211 definition (§ 1109(d)(3)) [S-1550].
 
-**Exceptions / defenses:** The section also reaches elder or dependent-adult abuse and child abuse cases [VERIFY V-407].
+**Exceptions / defenses:** The section also admits other acts of elder or dependent-person abuse, and of child abuse, when the charged offense is of that kind; the ten-year limit (§ 1109(e)) applies to every category [S-1550].
 
-**Authority:** CEC § 1109 [S-514].
+**Authority:** CEC § 1109 [S-514] [S-1550].
 
 **MBE vs. CA essay:** California only; no FRE counterpart (in federal court such acts come in only under 404(b)).
 
@@ -627,13 +627,13 @@ status: draft
 **Example:** D seeks to show the complainant made a false rape claim against another man; he must proceed by § 782 motion and hearing.
 
 ### R-EVD-047 — Creative expression in criminal cases (§ 352.2)
-**Rule (write this):** In a California criminal proceeding, before admitting a defendant's form of creative expression such as rap lyrics, the court must weigh, in a hearing outside the jury's presence, its probative value against the substantial danger of undue prejudice, treating the expression as having minimal probative value for its literal truth unless it was created near the time of the offense, bears a sufficient level of similarity to the facts, or is relevant to an issue in a way that does not depend on its literal truth, and considering the risk of racial bias and propensity inferences.
+**Rule (write this):** In a California criminal proceeding, before admitting a form of creative expression such as a defendant's rap lyrics, the court must weigh, in a hearing outside the jury's presence, its probative value against the substantial danger of undue prejudice under § 352, treating the expression as having minimal probative value for its literal truth unless it was created near in time to the charged crime, bears a sufficient level of similarity to the charged crime, or includes factual detail not otherwise publicly available, and treating as undue prejudice the risk that the jury will draw propensity or racial-bias inferences.
 
-**Elements:** 1. Creative expression of the defendant. 2. Hearing outside the jury. 3. Presumed minimal literal-truth value unless the specified links exist. 4. Consider bias and stereotyping risk in § 352 balancing.
+**Elements:** 1. Creative expression offered in a criminal proceeding. 2. Hearing outside the jury. 3. Presumed minimal literal-truth value unless one of the three links exists (near in time; similar; non-public detail). 4. Consider propensity and racial-bias risk in § 352 balancing. 5. Ruling and reasons stated on the record.
 
-**Exceptions / defenses:** Expression relevant for a non-literal purpose (e.g., to show knowledge of a specific detail only the perpetrator knew) may be admitted.
+**Exceptions / defenses:** The minimal-value presumption concerns literal truth; expression offered for another purpose is still weighed at the § 352.2 hearing, with the same propensity and racial-bias concerns. The statute limits, but does not ban, creative-expression evidence.
 
-**Authority:** CEC § 352.2 (AB 2799, eff. Jan. 1, 2023) [S-116].
+**Authority:** CEC § 352.2 (AB 2799, Stats. 2022, ch. 973, eff. Jan. 1, 2023) [S-116] [S-1556].
 
 **MBE vs. CA essay:** California only; under FRE 403 the same concerns are weighed without a statutory presumption.
 
@@ -776,7 +776,7 @@ status: draft
 
 **Exceptions / defenses:** Testimony about what most members of a group know or intend is not an opinion about the defendant's own mental state (*Diaz v. United States* (2024) [VERIFY V-035]).
 
-**Authority:** FRE 704; CEC § 805; Pen. Code § 29 [VERIFY V-408].
+**Authority:** FRE 704; CEC § 805; Pen. Code § 29 (in the guilt phase, an expert testifying about a defendant's mental illness, disorder or defect may not testify whether the defendant had or did not have the required mental states, such as purpose, intent, knowledge or malice aforethought) [S-1554].
 
 **MBE vs. CA essay:** Same result; California's mental-state bar is in Pen. Code § 29, not the Evidence Code.
 
@@ -908,9 +908,9 @@ status: draft
 
 **Elements:** 1. Valid marriage at the time of testimony. 2. Testimony against the spouse (any subject, including pre-marital events). 3. Holder: witness-spouse.
 
-**Exceptions / defenses:** Crimes against the other spouse or a child; proceedings between spouses; others in § 972 [VERIFY V-410]. Testifying for or against the spouse waives in that proceeding (§ 973).
+**Exceptions / defenses:** Federal: crimes against the other spouse or a child. California § 972(e): a criminal proceeding in which the defendant-spouse is charged with a crime against the person or property of the other spouse, or of a child, parent, relative or cohabitant of either (whether committed before or during the marriage), with bigamy, or with failure to provide (Pen. Code §§ 270, 270a) [S-1559]; § 972 also excepts proceedings between the spouses and certain other proceedings [VERIFY V-992]. Waiver (§ 973(a)): a spouse who testifies in a proceeding to which the other spouse is a party, or testifies against the spouse in any proceeding, loses the privilege in that proceeding; § 973(b): no privilege in a civil proceeding brought or defended for the immediate benefit of the spouse [S-1559].
 
-**Authority:** *Trammel v. United States*, 445 U.S. 40 (1980); CEC §§ 970–973.
+**Authority:** *Trammel v. United States*, 445 U.S. 40 (1980); CEC §§ 970–973 [S-1559].
 
 **MBE vs. CA essay:** Differs: federal applies only in criminal cases; California applies in all proceedings and adds the right not to be called.
 
@@ -1062,7 +1062,7 @@ status: draft
 **Example:** A photocopy of a promissory note is admissible unless the defendant raises a genuine question that the original signature was forged.
 
 ### R-EVD-080 — California secondary evidence rule
-**Rule (write this):** In California, the content of a writing may be proved by an original or by otherwise admissible secondary evidence, but the court must exclude secondary evidence if a genuine dispute exists about material terms and justice requires exclusion, or if admission would be unfair; oral testimony of a writing's content is inadmissible unless the original was lost or destroyed without the proponent's fraudulent intent, was not reasonably procurable, is collateral, or consists of numerous accounts offered for their general result.
+**Rule (write this):** In California, the content of a writing may be proved by an original or by otherwise admissible secondary evidence, but the court must exclude secondary evidence if a genuine dispute exists about material terms and justice requires exclusion, or if admission would be unfair; oral testimony of a writing's content is inadmissible unless (1) the proponent has no copy (or original) available and the original was lost or destroyed without the proponent's fraudulent intent, could not reasonably be procured, or is collateral, or (2) the writing consists of numerous accounts offered for their general result.
 
 **Elements:** 1. "Writing" (includes photos, recordings, electronic data, § 250). 2. Copy → § 1521 test. 3. Oral testimony → § 1523 exceptions. 4. Criminal cases → § 1522 [VERIFY V-409]. 5. Authentication (§ 1401).
 
@@ -1198,7 +1198,7 @@ status: draft
 ### R-EVD-090 — Authorized and employee admissions
 **Rule (write this):** Under the FRE, a statement is admissible against a party if made by a person the party authorized to speak on the subject, or by the party's agent or employee on a matter within the scope of that relationship while it existed. California admits an agent's statement only if the party authorized it, or where the party's liability is based on the declarant's conduct.
 
-**Elements:** FRE: 1. Agency or employment. 2. Matter within scope. 3. During the relationship. 4. Independent evidence of the relationship (statement alone not enough). CEC: 1. Authority to speak (§ 1222), or 2. derivative liability (§ 1224).
+**Elements:** FRE: 1. Agency or employment. 2. Matter within scope. 3. During the relationship. 4. Independent evidence of the relationship (statement alone not enough). CEC: 1. Authority to speak (§ 1222), or 2. derivative liability (§ 1224, civil actions only). *Labis* applied § 1224 to an employee's statement in a respondeat-superior case, distinguishing contrary dictum in *Markley v. Beagle* (1967) 66 Cal.2d 951, 960 [S-503].
 
 **Exceptions / defenses:** Statements after employment ends are not covered. Successor liability: since 2024, statements admissible against a predecessor or principal are admissible against a party whose liability derives from them [S-105].
 
@@ -1215,9 +1215,9 @@ status: draft
 
 **Exceptions / defenses:** No conspiracy charge needed. A statement to an undercover officer can still be in furtherance (nontestimonial).
 
-**Authority:** FRE 801(d)(2)(E); *Bourjaily v. United States*, 483 U.S. 171 (1987); CEC § 1223.
+**Authority:** FRE 801(d)(2)(E); *Bourjaily v. United States*, 483 U.S. 171 (1987); CEC § 1223; *People v. Hardy* (1992) 2 Cal.4th 86, 139; CALCRIM No. 418 [S-1558].
 
-**MBE vs. CA essay:** Same in substance; California requires independent evidence (or admission subject to it).
+**MBE vs. CA essay:** Differs in the foundation. FRE: the judge finds the conspiracy and membership by a preponderance (104(a)), considering the statement itself. CEC § 1223: the proponent needs only **prima facie** evidence, **independent of the statement**, sufficient to sustain a finding of the conspiracy (the court may admit the statement subject to that proof); in a criminal case the jury is then told to use the statement only if the conspiracy is proved by a preponderance with evidence other than the statement (CALCRIM No. 418). § 1223(b) also reaches statements made before the party joined the conspiracy [S-1558].
 
 **Example:** Before the robbery, X tells a lookout, "D will drive the getaway car." Admissible against D. After arrest, X tells police D drove — not in furtherance.
 
@@ -1232,7 +1232,7 @@ status: draft
 
 **MBE vs. CA essay:** Same.
 
-**Example:** A hospital record states "Patient says a red truck hit him." Layer 1 (record) → business record; layer 2 (patient) → medical diagnosis (FRE 803(4)); in California the second layer needs § 1250/§ 1240 or another exception.
+**Example:** A hospital record states "Patient says a red truck hit him." Layer 1 (record) → business record; layer 2 (patient) → medical diagnosis (FRE 803(4)); in California the second layer needs another exception, such as § 1240 if the patient was still excited (§ 1250 covers only present pain, not how the injury happened).
 
 ### R-EVD-093 — Present sense impression; California contemporaneous statement
 **Rule (write this):** Under the FRE, a statement describing or explaining an event or condition, made while or immediately after the declarant perceived it, is admissible. California has no general present sense impression exception; it admits only a statement offered to explain, qualify or make understandable the declarant's own conduct, made while the declarant was engaged in that conduct.
@@ -1269,7 +1269,7 @@ status: draft
 
 **Authority:** FRE 803(3); *Mutual Life Insurance Co. v. Hillmon*, 145 U.S. 285 (1892); *Shepard v. United States*, 290 U.S. 96 (1933); CEC §§ 1250, 1252.
 
-**MBE vs. CA essay:** Same core; California adds the § 1252 trustworthiness filter.
+**MBE vs. CA essay:** Same core; California adds the § 1252 trustworthiness filter, and its will-statement exception (§ 1260) requires the declarant to be unavailable [VERIFY V-409].
 
 **Example:** V told a friend, "I'm going to break up with D tonight." Admissible to show V's plan and that she probably did so — and, if motive is in issue, to show D's motive.
 
@@ -1284,7 +1284,7 @@ status: draft
 
 **MBE vs. CA essay:** California adds § 1251.
 
-**Example:** A deceased worker told a coworker a week before death, "My chest hurt badly all last month." In a California workers' case where his past condition is in issue, § 1251 can admit it.
+**Example:** A deceased worker told a coworker a week before death, "My chest hurt badly all last month." In a California civil suit where his past condition is itself in issue, § 1251 can admit it.
 
 ### R-EVD-097 — Statements for medical diagnosis or treatment
 **Rule (write this):** Under the FRE, a statement made for, and reasonably pertinent to, medical diagnosis or treatment describing medical history, past or present symptoms or sensations, their inception, or their general cause is admissible, but not statements of fault. California has no general equivalent; it admits such statements only by a minor victim, made when under 12, describing child abuse or neglect.
@@ -1343,9 +1343,9 @@ status: draft
 
 **Elements:** FRE: 1. Expert on the stand. 2. Reliable authority (admission, other expert, judicial notice). 3. Read only. CEC: 1. Expert referred to, considered or relied on it; or it is admitted; or established as reliable authority. 2. Impeachment use only.
 
-**Exceptions / defenses:** CEC § 1341 admits certain publications on facts of general notoriety and interest [VERIFY V-404].
+**Exceptions / defenses:** CEC § 1341 admits only historical works, books of science or art, and published maps or charts, made by persons indifferent between the parties, to prove facts of general notoriety and interest [S-1555].
 
-**Authority:** FRE 803(18); CEC §§ 721(b) [S-512], 1341.
+**Authority:** FRE 803(18); CEC §§ 721(b) [S-512], 1341 [S-1555].
 
 **MBE vs. CA essay:** Differs.
 
@@ -1356,11 +1356,11 @@ status: draft
 
 **Elements:** One listed ground, shown by the proponent (104(a)); reasonable diligence for absence.
 
-**Exceptions / defenses:** California § 240 lists privilege, disqualification, death or illness, inability to compel, and absence despite diligence, plus expert proof of crime-caused trauma; refusal and memory loss are not listed expressly [S-516] [VERIFY V-411].
+**Exceptions / defenses:** California § 240(a) lists privilege, disqualification, death or then-existing physical or mental illness or infirmity, inability to compel attendance, absence despite reasonable diligence, and (since 2010, § 240(a)(6)) **persistent refusal to testify despite having been found in contempt**; expert proof of crime-caused trauma can establish infirmity [S-516] [S-513] [S-1551]. Memory loss is not listed; whether it qualifies (e.g., as mental infirmity) depends on case law [VERIFY V-990].
 
-**Authority:** FRE 804(a); CEC § 240.
+**Authority:** FRE 804(a); CEC § 240 [S-516] [S-1551].
 
-**MBE vs. CA essay:** Similar; note the listing difference.
+**MBE vs. CA essay:** Similar. California's refusal ground needs a **contempt finding**, not just a court order; memory loss is not a listed ground.
 
 **Example:** A witness invokes the Fifth Amendment and the court sustains it; she is unavailable.
 
@@ -1378,9 +1378,9 @@ status: draft
 **Example:** A witness who testified at the first trial dies before the retrial; her testimony, cross-examined by the same defendant, is admissible.
 
 ### R-EVD-104 — Statement against interest
-**Rule (write this):** A statement by an unavailable declarant that, when made, was so contrary to the declarant's pecuniary or proprietary interest, or so tended to invalidate the declarant's claim or expose the declarant to civil or criminal liability, that a reasonable person would have made it only if true, is admissible; in a criminal case a statement exposing the declarant to criminal liability requires corroborating circumstances clearly indicating trustworthiness, judged by the totality of circumstances. California also includes statements risking hatred, ridicule or social disgrace.
+**Rule (write this):** A statement by an unavailable declarant that, when made, was so contrary to the declarant's pecuniary or proprietary interest, or so tended to invalidate the declarant's claim or expose the declarant to civil or criminal liability, that a reasonable person would have made it only if true, is admissible; in a criminal case a statement offered as tending to expose the declarant to criminal liability must be supported by corroborating circumstances that clearly indicate its trustworthiness, after considering the totality of circumstances under which it was made and any evidence that supports or undermines it. California also includes statements risking hatred, ridicule or social disgrace.
 
-**Elements:** 1. Unavailable. 2. Against interest when made. 3. Reasonable-person test. 4. Only self-inculpatory portions. 5. FRE criminal: corroboration.
+**Elements:** 1. Unavailable. 2. Against interest when made. 3. Reasonable-person test. 4. Only self-inculpatory portions. 5. FRE criminal (whichever side offers it): corroborating circumstances clearly indicating trustworthiness — since Dec. 1, 2024, judged "after considering the totality of circumstances under which it was made and any evidence that supports or undermines it" (FRE 804(b)(3)(B)) [S-105].
 
 **Exceptions / defenses:** Collateral and blame-shifting portions are excluded (*Williamson v. United States*, 512 U.S. 594 (1994); *People v. Leach* (1975) 15 Cal.3d 419; *People v. Duarte* (2000) 24 Cal.4th 603) [S-508]. Testimonial statements to police face Crawford.
 
@@ -1388,7 +1388,7 @@ status: draft
 
 **MBE vs. CA essay:** California adds social interest and has no statutory corroboration clause (courts require trustworthiness).
 
-**Example:** Before dying, X told his sister, "I set the warehouse fire." Admissible for D, who is charged with the arson, if corroborated (FRE).
+**Example:** Before dying, X told his sister, "I set the warehouse fire." Admissible for D, who is charged with the arson, if corroborated (FRE): the court looks at the circumstances of the statement and at all the evidence — e.g., X's gasoline receipt supports it; D's own fingerprints on the gas can undermine it.
 
 ### R-EVD-105 — Dying declaration
 **Rule (write this):** Under the FRE, in a homicide prosecution or a civil case, a statement made by a declarant who believed death was imminent, concerning its cause or circumstances, is admissible if the declarant is unavailable. In California, a dying person's statement about the cause and circumstances of his death, made on personal knowledge under a sense of immediately impending death, is admissible in any case.
@@ -1410,9 +1410,9 @@ status: draft
 
 **Exceptions / defenses:** Killing without intent to prevent testimony does not forfeit confrontation (*Giles v. California*, 554 U.S. 353 (2008)).
 
-**Authority:** FRE 804(b)(6); CEC § 1390 [VERIFY V-402].
+**Authority:** FRE 804(b)(6); CEC § 1390 (enacted by AB 1723 (2010), in force from 2011; its Jan. 1, 2016 sunset was repealed in 2015 by AB 593) [S-513] [S-1552].
 
-**MBE vs. CA essay:** Same principle.
+**MBE vs. CA essay:** Same principle, but § 1390 adds conditions: the party must have engaged in, or aided and abetted, wrongdoing that was intended to, and did, procure the declarant's unavailability; the proponent proves it by a preponderance at a foundational hearing outside the jury; the finding may not rest solely on the declarant's unconfronted statement and must be supported by **independent corroborative evidence**; and the judge may consider whether the statement is trustworthy and reliable [S-1552].
 
 **Example:** D threatens a witness's family until she flees the state before trial; her prior statements to police are admissible against D.
 

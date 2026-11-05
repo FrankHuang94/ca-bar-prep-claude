@@ -4,7 +4,7 @@ topic: Evidence — key authorities (FRE, California Evidence Code, leading case
 coverage_ids: [EVD-MBE-I, EVD-MBE-II, EVD-MBE-III, EVD-MBE-IV, EVD-MBE-V, EVD-SUP-001]
 tested_on: [MBE, essay]
 exam_frequency: {level: high, basis: "Essays: 15 of 31 administrations 2012-02 to 2026-07 (48%); MBE: 25 scored questions every exam"}
-last_verified: 2026-11-04
+last_verified: 2026-11-05
 status: draft
 ---
 
@@ -53,36 +53,38 @@ Only citations the author is confident of are listed; items needing confirmation
 | Cal. Const. art. I, § 28(f)(2), (f)(4) | Truth-in-Evidence | Relevant evidence not excluded in criminal cases except hearsay, privilege, §§ 352, 782, 1103, two-thirds statutes; felony convictions for impeachment [S-145] | R-EVD-004 |
 | § 210 | Relevance | Any tendency in reason to prove or disprove a disputed fact of consequence | R-EVD-002 |
 | §§ 350–356 | General | Only relevant evidence; all relevant admissible; § 352 balancing; objections and offers of proof; limited admissibility; completeness | R-EVD-003, R-EVD-007, R-EVD-008, R-EVD-082 |
-| § 352.2 | Creative expression | Minimal literal-truth value presumption in criminal cases [S-116] | R-EVD-047 |
+| § 352.2 | Creative expression | Criminal cases: minimal literal-truth value unless near in time, similar to the charged crime, or containing non-public detail; propensity and racial-bias risk; hearing outside jury [S-116] [S-1556] | R-EVD-047 |
 | §§ 400–405 | Preliminary facts | Jury (§ 403) vs. court (§ 405) | R-EVD-005, R-EVD-006 |
 | §§ 450–457 | Judicial notice | Mandatory, permissive, on request; jury instruction [S-522] | R-EVD-014 |
 | §§ 500–502, 600–606 | Burdens and presumptions | Production-burden vs. proof-burden presumptions | R-EVD-015 |
-| §§ 700–704, 710 | Competency | Disqualification grounds; personal knowledge; judge and juror | R-EVD-009 to R-EVD-011 |
+| §§ 700–704, 710 | Competency | Disqualification grounds; personal knowledge; judge and juror may testify absent objection (§§ 703–704) [VERIFY V-991] | R-EVD-009 to R-EVD-011 |
 | §§ 720–721, 730 | Experts | Qualification; cross with publications [S-512]; court experts | R-EVD-055, R-EVD-101 |
-| §§ 765–777 | Examination | Control; leading; inconsistent statements (§§ 769–770); refreshing (§ 771) [S-521]; scope; exclusion | R-EVD-012, R-EVD-017 to R-EVD-023 |
+| § 1341 | Publications | Historical works, science or art books, published maps or charts — facts of general notoriety and interest only [S-1555] | R-EVD-101 |
+| §§ 765–777 | Examination | Control; nonresponsive answers stricken on any party's motion (§ 766); leading; inconsistent statements (§§ 769–770); refreshing (§ 771) [S-521]; scope; exclusion | R-EVD-012, R-EVD-017 to R-EVD-023 |
 | §§ 780–791 | Credibility | Factors; any party may impeach; § 787 no specific acts; § 788 felonies; § 790–791 rehabilitation | R-EVD-022 to R-EVD-032 |
 | §§ 800–805 | Opinion | Lay; expert subject and basis; ultimate issue | R-EVD-013, R-EVD-056 to R-EVD-061 |
 | §§ 911–917 | Privileges general | Statutory only; waiver; no comment; no disclosure to rule (§ 915) | R-EVD-062, R-EVD-067 |
 | §§ 950–962 | Lawyer-client | Elements; crime-fraud (§ 956); harm prevention (§ 956.5); exceptions | R-EVD-063 to R-EVD-065 |
-| §§ 970–987 | Spousal | Testimonial (§§ 970–973) [VERIFY V-410]; communications (§§ 980–987) | R-EVD-068, R-EVD-069 |
+| §§ 970–987 | Spousal | Testimonial (§§ 970–973; § 972(e) criminal exceptions; § 973 waiver) [S-1559] [VERIFY V-992]; communications (§§ 980–987) | R-EVD-068, R-EVD-069 |
 | §§ 990–1027 | Physician / psychotherapist | § 998 criminal exception; § 1024 dangerous patient | R-EVD-070, R-EVD-071 |
 | §§ 1030–1070, 1119 | Other privileges | Clergy, counselors, official info, informer, trade secret, newsperson, mediation | R-EVD-072 |
 | §§ 1100–1109 | Character | § 1101 ban and (b) purposes; § 1102 accused; § 1103 victim and rape shield; § 1105 habit; § 1106 civil; § 1108 sex offenses; § 1109 DV [S-514] | R-EVD-035 to R-EVD-046 |
 | §§ 1150–1160 | Policy | Jury verdict; remedial; compromise [S-511]; pleas; discounts; insurance; sympathy | R-EVD-011, R-EVD-073 to R-EVD-077 |
 | §§ 1200–1204 | Hearsay general | Definition; multiple hearsay; impeaching declarant | R-EVD-083, R-EVD-092, R-EVD-031 |
-| §§ 1220–1224 | Admissions | Party, adoptive, authorized, coconspirator, derivative liability [S-523] | R-EVD-088 to R-EVD-091 |
+| §§ 1220–1224 | Admissions | Party, adoptive, authorized, coconspirator (§ 1223: prima facie independent evidence [S-1558]), derivative liability [S-523] | R-EVD-088 to R-EVD-091 |
 | § 1230 | Against interest | Includes social interest | R-EVD-104 |
 | §§ 1235–1238 | Prior statements | Inconsistent, consistent, recorded recollection [S-520], identification | R-EVD-085 to R-EVD-087, R-EVD-098 |
 | §§ 1240–1242 | Spontaneous, contemporaneous, dying | — | R-EVD-093, R-EVD-094, R-EVD-105 |
 | §§ 1250–1253 | State of mind; medical (child) | § 1251 prior state; § 1252 trustworthiness; § 1253 [S-500] | R-EVD-095 to R-EVD-097 |
 | §§ 1270–1272, 1280, 1284 | Business and public records | — | R-EVD-099, R-EVD-100 |
 | §§ 1290–1292 | Former testimony | — | R-EVD-103 |
-| § 240 | Unavailability | [S-516] | R-EVD-102 |
+| § 240 | Unavailability | Privilege, disqualification, death or illness, cannot compel, absent despite diligence, persistent refusal after contempt (§ 240(a)(6)) [S-516] [S-1551] | R-EVD-102 |
 | § 1370 | Threats of injury | Unavailable declarant; five years; recorded or to officials [S-501] | R-EVD-109 |
+| § 1390 | Forfeiture by wrongdoing | Wrongdoing intended to and did procure unavailability; preponderance at a foundational hearing; independent corroboration required [S-1552] | R-EVD-106 |
 | §§ 1400–1421, 1450–1454, 1530–1532 | Authentication | — | R-EVD-048 to R-EVD-050 |
 | §§ 1520–1523 | Secondary evidence rule | [S-506] [S-507] | R-EVD-080 |
 | §§ 1552–1553 | Printouts | Presumed accurate | R-EVD-051 |
-| Pen. Code § 29 | Expert mental-state bar | [VERIFY V-408] | R-EVD-058 |
+| Pen. Code § 29 | Expert mental-state bar | Guilt phase: an expert on mental illness, disorder or defect may not testify whether the defendant had the required mental states [S-1554] | R-EVD-058 |
 
 ## 3. U.S. Supreme Court cases
 | Case | Holding (one line) | Rule ID |
@@ -118,7 +120,8 @@ Only citations the author is confident of are listed; items needing confirmation
 | *Luce v. United States*, 469 U.S. 38 (1984) | Must testify to preserve a 609 ruling | R-EVD-008 |
 | *Ohler v. United States*, 529 U.S. 753 (2000) | Introducing one's own conviction waives appeal | R-EVD-008 |
 | *Doyle v. Ohio*, 426 U.S. 610 (1976); *Jenkins v. Anderson*, 447 U.S. 231 (1980); *Harris v. New York*, 401 U.S. 222 (1971) | Silence and Miranda-defective statements for impeachment | R-EVD-023, R-EVD-089 |
-| *United States v. Havens*, 446 U.S. 620 (1980) | Illegally obtained evidence to contradict testimony | R-EVD-033 |
+| *Walder v. United States*, 347 U.S. 62 (1954); *United States v. Havens*, 446 U.S. 620 (1980) | Illegally obtained evidence may contradict a testifying defendant | R-EVD-033 |
+| *James v. Illinois*, 493 U.S. 307 (1990) | That impeachment exception does not reach other defense witnesses | R-EVD-033 |
 | *Tanner v. United States*, 483 U.S. 107 (1987); *Peña-Rodriguez v. Colorado*, 580 U.S. 206 (2017) | Juror testimony limits; racial-bias exception | R-EVD-011 |
 | *Rock v. Arkansas*, 483 U.S. 44 (1987) | Per se ban on defendant's hypnotically refreshed testimony unconstitutional | R-EVD-010, R-EVD-115 |
 | *In re Winship*, 397 U.S. 358 (1970); *Sandstrom v. Montana*, 442 U.S. 510 (1979); *County Court of Ulster County v. Allen*, 442 U.S. 140 (1979) | Burden of proof; presumptions in criminal cases | R-EVD-016 |
@@ -140,7 +143,8 @@ Only citations the author is confident of are listed; items needing confirmation
 |---|---|---|
 | *People v. Castro* (1985) 38 Cal.3d 301 | Felony impeachment limited by due process to crimes of moral turpitude; § 352 applies | R-EVD-026 |
 | *People v. Wheeler* (1992) 4 Cal.4th 284 | Misdemeanor conduct of moral turpitude may impeach in criminal cases (Prop 8); conviction record is hearsay [S-502] | R-EVD-026, R-EVD-028 |
-| *Robbins v. Wong* (1994) | Civil cases: felony impeachment under § 788; criminal-case rules as guidelines; § 352 [S-504] [VERIFY V-400] | R-EVD-026 |
+| *Robbins v. Wong* (1994) 27 Cal.App.4th 261 | Civil cases: felony impeachment under § 788; art. I, § 28(f) and criminal-case rules do not apply (guidelines only); § 352 weighing required (at 273–274) [S-504] [S-1553] | R-EVD-026 |
+| *People v. Lavergne* (1971) 4 Cal.3d 735 | No automatic collateral-matter bar; collateral impeachment weighed under § 352 (at 742) [S-1557] | R-EVD-033 |
 | *People v. Ewoldt* (1994) 7 Cal.4th 380 | § 1101 survives Prop 8; similarity scale for intent, plan, identity [S-505] | R-EVD-035, R-EVD-042 |
 | *People v. Falsetta* (1999) 21 Cal.4th 903 | § 1108 constitutional because § 352 applies | R-EVD-043 |
 | *In re Lance W.* (1985) 37 Cal.3d 873 | Prop 8: exclusion of seized evidence only where federal law requires | R-EVD-004 |
@@ -153,7 +157,8 @@ Only citations the author is confident of are listed; items needing confirmation
 | *People v. Green* (1971) 3 Cal.3d 981 | Deliberately evasive memory loss is inconsistency under § 1235 [S-519] | R-EVD-085 |
 | *People v. Leach* (1975) 15 Cal.3d 419; *People v. Duarte* (2000) 24 Cal.4th 603 | § 1230 excludes collateral and blame-shifting portions [S-508] | R-EVD-104 |
 | *People v. Reyes* (1974) 12 Cal.3d 486 | Psychiatric opinion not an "act, condition or event" under § 1271 [S-515] | R-EVD-099 |
-| *Labis v. Stopper* (1970) 11 Cal.App.3d 1003 | Employee's statement admissible against employer under § 1224 [S-503] [VERIFY V-401] | R-EVD-090 |
+| *Labis v. Stopper* (1970) 11 Cal.App.3d 1003 | Employee's statement admissible against employer under § 1224; distinguishes *Markley v. Beagle* (1967) 66 Cal.2d 951, 960 dictum [S-503] [VERIFY V-401] | R-EVD-090 |
+| *People v. Hardy* (1992) 2 Cal.4th 86 | § 1223: conspiracy must be shown by evidence independent of the statement (at 139) [S-1558] | R-EVD-091 |
 | *D.I. Chadbourne, Inc. v. Superior Court* (1964) 60 Cal.2d 723 | Dominant-purpose test for employee statements to corporate counsel [S-518] | R-EVD-064 |
 | *Costco Wholesale Corp. v. Superior Court* (2009) 47 Cal.4th 725 | Privilege covers the whole communication; no in camera disclosure to rule on it [S-517] | R-EVD-062 |
 | *Coito v. Superior Court* (2012) 54 Cal.4th 480 | Work-product protection for witness statements obtained by counsel | R-EVD-066 |

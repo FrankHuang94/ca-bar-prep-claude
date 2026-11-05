@@ -4,7 +4,7 @@ topic: Evidence — subject overview, frequency, crossover map and study order
 coverage_ids: [EVD-CBX-I, EVD-CBX-I.x1, EVD-CBX-I.x2, EVD-CBX-rel, EVD-CBX-priv, EVD-CBX-hs, EVD-CBX-V, EVD-SUP-001]
 tested_on: [MBE, essay]
 exam_frequency: {level: high, basis: "Essays: 15 of 31 administrations 2012-02 to 2026-07 (48%); MBE: 25 scored questions every exam"}
-last_verified: 2026-11-04
+last_verified: 2026-11-05
 status: draft
 ---
 
@@ -94,5 +94,6 @@ Source: [`../../06-past-exams/frequency-analysis.md`](../../06-past-exams/freque
 | [`flashcards.csv`](flashcards.csv) | Anki-ready cards (`scripts/build_anki.py --subject EVD`) |
 
 ## Open verification items
-- FRE 801(d)(1)(A) effective Dec. 1, 2026 (V-028); OT2022–2025 Supreme Court confrontation and 704(b) cases (V-034, V-035).
-- California statutory details and case citations queued as V-400 to V-417: civil-case felony impeachment (*Robbins v. Wong*), § 1224 and employee statements, § 1390 status, judicial notice in criminal cases, § 1341, § 1152 humanitarian statements, Pen. Code §§ 29 and 872(b), §§ 1109 and 1360 scope, spousal-privilege exceptions, § 240 refusal and memory loss, Truth-in-Evidence two-thirds statutes. See `VERIFY-QUEUE.md`.
+- FRE 801(d)(1)(A): adopted by Supreme Court order of Apr. 8, 2026, effective Dec. 1, 2026 absent congressional action (V-028 resolved [S-101]); a one-line December 2026 re-check stays in `00-exam-intel/recent-changes.md`. OT2022–2025 Supreme Court confrontation and 704(b) cases (V-034, V-035).
+- Resolved in Phase 7 QA: *Robbins v. Wong* citation (V-400), § 1390 text and sunset (V-402), § 1341 (V-404), § 1109 scope (V-407, V-418), Pen. Code § 29 (V-408), § 972(e) and § 973 (V-410), § 240 refusal ground (V-411, corrected: § 240(a)(6) requires a contempt finding).
+- Still queued: § 1224 and employee statements (V-401), judicial notice in criminal cases (V-403), § 1152 humanitarian statements (V-405), Pen. Code § 872(b) (V-406), lower-priority sections (V-409), two-thirds statutes (V-412), §§ 1360 and 1380 (V-413), privilege after the client's death (V-414), FRE 615 entity representative (V-415), § 795 (V-416), § 1106 (V-417), § 240 memory loss (V-990), §§ 703–704 judge or juror as witness (V-991), the rest of the § 972 list (V-992). See `VERIFY-QUEUE.md`.

@@ -4,7 +4,7 @@ topic: Evidence — decision trees (Mermaid)
 coverage_ids: [EVD-MBE-I.D, EVD-MBE-I.D.3, EVD-MBE-II.A, EVD-MBE-II.C, EVD-MBE-II.D, EVD-MBE-III.A, EVD-MBE-III.B, EVD-MBE-IV.A, EVD-MBE-V.A, EVD-MBE-V.L, EVD-SUP-002, EVD-SUP-009]
 tested_on: [MBE, essay]
 exam_frequency: {level: high, basis: "Essays: 15 of 31 administrations 2012-02 to 2026-07 (48%); MBE: 25 scored questions every exam"}
-last_verified: 2026-11-04
+last_verified: 2026-11-05
 status: draft
 ---
 
@@ -146,7 +146,7 @@ flowchart TD
     H -- Copy --> I{"Genuine dispute on material terms and justice requires exclusion, or unfair? Criminal: 1522"}
     I -- No --> OK
     I -- Yes --> X
-    H -- Oral testimony --> J{"1523 exception: lost without fraud, not procurable, collateral, numerous accounts?"}
+    H -- Oral testimony --> J{"1523 exception: no copy and lost without fraud, not procurable or collateral; or numerous accounts?"}
     J -- Yes --> OK
     J -- No --> X
 ```
