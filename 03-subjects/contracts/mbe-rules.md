@@ -4,7 +4,7 @@ topic: Contracts — MBE rules, assumptions, weighting and recurring fact patter
 coverage_ids: [CTR-MBE-I, CTR-MBE-II, CTR-MBE-III, CTR-MBE-IV, CTR-MBE-V, CTR-MBE-VI]
 tested_on: [MBE]
 exam_frequency: {level: high, basis: "Essays: 16 of 31 administrations 2012-02 to 2026-07 (52%); MBE: 25 scored questions every exam"}
-last_verified: 2026-11-04
+last_verified: 2026-11-05
 status: draft
 ---
 
@@ -12,7 +12,7 @@ status: draft
 
 ## 1. What NCBE tells you
 - **25 scored questions** per exam [S-007].
-- **Assumption:** the Official Text of UCC Articles 1 and 2 is in effect and applies where appropriate. **About one-quarter** of Contracts questions are based on it [S-040]. The exact wording of the assumption is not yet confirmed verbatim [S-040].
+- **Assumption:** examinees assume the Official Text of UCC Articles 1 and 2 has been adopted and is in effect, and apply it where appropriate. **About one-quarter** of Contracts questions are based on it [S-040].
 - **Distribution:** about **half** of the questions come from **categories I (formation) and IV (performance, breach, discharge)**. The rest come from II (defenses), III (content and meaning), V (remedies) and VI (third-party rights) [S-040].
 - **Default law:** answer under generally accepted principles. In practice, follow the Restatement (Second) of Contracts where it states the majority or modern rule, and the UCC for goods. California law is irrelevant on the MBE.
 
@@ -142,6 +142,6 @@ The per-category numbers are estimates derived from NCBE's "about half / about o
 More traps, with rule IDs, are in [`traps.md`](traps.md).
 
 ## 6. Practice approach
-- Use licensed NCBE practice questions and log them in `10-progress/attempts.csv` via `scripts/quiz.py log`. Repo-original MCQs will live in `07-question-bank/mcq/contracts/` (Phase 5).
+- Use licensed NCBE practice questions and log them in `10-progress/attempts.csv` via `scripts/quiz.py log`. Repo-original MCQs are in `07-question-bank/mcq/contracts/`.
 - After each set, tag misses by rule ID and add them to `10-progress/error-log.md`.
 - Drill the risk-of-loss order, the § 2-207 steps and the mailbox sequences with [`flowcharts.md`](flowcharts.md) until they are automatic.

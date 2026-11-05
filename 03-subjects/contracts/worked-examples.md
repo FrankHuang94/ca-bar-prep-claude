@@ -4,7 +4,7 @@ topic: Contracts — worked examples (original fact patterns with rule, applicat
 coverage_ids: [CTR-CBX-I, CTR-MBE-I.A, CTR-MBE-I.C, CTR-MBE-I.D, CTR-MBE-I.E, CTR-MBE-II.C, CTR-MBE-II.D, CTR-MBE-II.F, CTR-MBE-III.A, CTR-MBE-IV.A, CTR-MBE-IV.C, CTR-MBE-IV.E, CTR-MBE-IV.F, CTR-MBE-IV.G, CTR-MBE-IV.H, CTR-MBE-V.A, CTR-MBE-V.B, CTR-MBE-V.C, CTR-MBE-V.D, CTR-MBE-V.F, CTR-MBE-V.H, CTR-MBE-VI.A, CTR-MBE-VI.B]
 tested_on: [MBE, essay]
 exam_frequency: {level: high, basis: "Essays: 16 of 31 administrations 2012-02 to 2026-07 (52%); MBE: 25 scored questions every exam"}
-last_verified: 2026-11-04
+last_verified: 2026-11-05
 status: draft
 ---
 
@@ -219,9 +219,9 @@ All fact patterns are original. Each gives the **rule** (by ID), a short **appli
 
 **Analysis.**
 - Under § 2-718(2)(b), the seller keeps the lesser of 20% ($8,000) or $500, so $500. The buyer's restitution claim is $5,500.
-- Under § 2-718(3), the seller may offset its actual damages: the $500 incidental costs. If the seller is a lost-volume dealer, it may also offset its lost profit.
+- Under § 2-718(3), that restitution is subject to offset for damages the seller proves: here the $500 of incidental (advertising) costs. If the seller is a lost-volume dealer, it may also offset its lost profit.
 
-**Conclusion.** The buyer recovers about $5,500, less any additional proven damages.
+**Conclusion.** The buyer recovers about $5,000 ($6,000 − $500 statutory retention − $500 proven incidental damages), less any lost profit a lost-volume seller proves.
 
 ### WE-23 — Third-party beneficiary and vesting (R-CTR-110, R-CTR-111)
 **Facts.** Dana sells her bakery to Eli. Eli promises Dana to pay Dana's $25,000 equipment loan to Bank. Before Bank learns of the deal, Dana and Eli agree that Eli will pay Dana instead. Bank then sues Eli.

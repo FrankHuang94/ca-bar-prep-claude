@@ -4,7 +4,7 @@ topic: Contracts — subject overview, frequency, crossover map and study order
 coverage_ids: [CTR-CBX-I, CTR-CBX-II-IV, CTR-CBX-V, CTR-CBX-VI, CTR-CBX-VII, CTR-CBX-VIII, CTR-SUP-001]
 tested_on: [MBE, essay]
 exam_frequency: {level: high, basis: "Essays: 16 of 31 administrations 2012-02 to 2026-07 (52%); MBE: 25 scored questions every exam"}
-last_verified: 2026-11-04
+last_verified: 2026-11-05
 status: draft
 ---
 
@@ -85,4 +85,4 @@ Source: [`../../06-past-exams/frequency-analysis.md`](../../06-past-exams/freque
 | [`flashcards.csv`](flashcards.csv) | Anki-ready cards (`scripts/build_anki.py --subject CTR`) |
 
 ## Open verification items
-California statute details (Civ. Code § 1624 categories, § 1671 consumer scope, §§ 3386–3391), several California case citations, and the 2022 UCC hybrid-transaction amendments are queued as V-100 to V-114. See `VERIFY-QUEUE.md`.
+Phase 7 QA (2026-11-05) confirmed most California statute and case points (§ 1624(a)(3) and (a)(7), § 1675, Fam. Code §§ 6700–6712, §§ 1511–1512, §§ 3390–3391, *Odorizzi*, *Monarco*, *Lloyd*, *Lingsch*, California's enactment of the 2022 UCC amendments). Still open: § 1624(a)(6) (V-100), the hybrid-transaction text and MBE treatment (V-102), *Lewis Jorge* (V-103), § 1440 (V-105), § 3386 (V-108), Restatement section numbers (V-109, V-111), *Kastorff*, *Mineral Park* and *Wood v. Boynton* (V-110), B&P § 16601 exceptions (V-112), email and the mailbox rule (V-114), and California's omission of UCC § 2-318 (V-970). See `VERIFY-QUEUE.md`.

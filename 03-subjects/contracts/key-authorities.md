@@ -4,7 +4,7 @@ topic: Contracts — key authorities (Restatement, UCC, California statutes, lea
 coverage_ids: [CTR-MBE-I, CTR-MBE-II, CTR-MBE-III, CTR-MBE-IV, CTR-MBE-V, CTR-MBE-VI, CTR-CBX-I]
 tested_on: [MBE, essay]
 exam_frequency: {level: high, basis: "Essays: 16 of 31 administrations 2012-02 to 2026-07 (52%); MBE: 25 scored questions every exam"}
-last_verified: 2026-11-04
+last_verified: 2026-11-05
 status: draft
 ---
 
@@ -29,7 +29,7 @@ status: draft
 | 82, 83, 86 | Time-barred and discharged debts; promise for benefit received | R-CTR-026 |
 | 87(2), 90 | Reliance on offers; promissory estoppel | R-CTR-011, R-CTR-027 |
 | 89 | Modification without consideration (unanticipated circumstances; reliance) | R-CTR-028 |
-| 110, 125, 129, 130, 131, 139 | Statute of frauds: classes; land; part performance; one year; memorandum; reliance | R-CTR-042 to R-CTR-048 |
+| 110, 116, 125, 129, 130, 131, 139 | Statute of frauds: classes; main purpose rule; land; part performance; one year; memorandum; reliance | R-CTR-042 to R-CTR-048 |
 | 12–16 | Capacity: minors, guardianship, mental illness, intoxication | R-CTR-030, R-CTR-031 |
 | 151–157 | Mistake: mutual, unilateral, risk allocation, reformation, fault | R-CTR-034, R-CTR-035, R-CTR-106 |
 | 159–164, 166, 168–169 | Misrepresentation; concealment; nondisclosure; opinion | R-CTR-037, R-CTR-038 |
@@ -57,9 +57,9 @@ status: draft
 | 1-303 | Course of performance, course of dealing, usage of trade; hierarchy | R-CTR-054 |
 | 1-304 | Good faith in every contract | R-CTR-071 |
 | 1-306 | Waiver of a claim by signed record without consideration | R-CTR-086 |
-| 2-102, 2-105, 2-106, 2-107 | Scope; goods; sale; goods to be severed from realty | R-CTR-001 |
+| 2-102, 2-105, 2-106, 2-107 | Scope; goods; sale; goods to be severed from realty. The 2022 amendments (enacted in California by SB 95, Stats. 2023, ch. 210 [S-1351]) add the hybrid-transaction rule [VERIFY V-102] | R-CTR-001 |
 | 2-104 | Merchant | R-CTR-002 |
-| 2-201 | Statute of frauds ($500; merchant confirmation; exceptions) | R-CTR-047 |
+| 2-201 | Statute of frauds ($500; merchant confirmation; exceptions); Cal. Com. Code § 2201 now says "record" [S-1351] | R-CTR-047 |
 | 2-202 | Parol evidence | R-CTR-051 |
 | 2-204 | Formation in general; open terms | R-CTR-019 |
 | 2-205 | Firm offers | R-CTR-009 |
@@ -69,7 +69,7 @@ status: draft
 | 2-210 | Delegation and assignment | R-CTR-112, R-CTR-113, R-CTR-116 |
 | 2-302 | Unconscionability | R-CTR-040 |
 | 2-305 to 2-310 | Open price; output/requirements; delivery lots, place, time; payment | R-CTR-020, R-CTR-021 |
-| 2-312 to 2-318 | Warranties: title, express, merchantability, fitness; disclaimer; cumulation; third parties | R-CTR-056 to R-CTR-061 |
+| 2-312 to 2-318 | Warranties: title, express, merchantability, fitness; disclaimer; cumulation; third parties (California appears to omit § 2318 [VERIFY V-970]) | R-CTR-056 to R-CTR-061 |
 | 2-319, 2-320 | F.O.B., F.A.S.; C.I.F., C. & F. | R-CTR-077 |
 | 2-328 | Auctions | R-CTR-005 |
 | 2-401, 2-403 | Title; voidable title; entrustment | R-CTR-081 |
@@ -98,19 +98,23 @@ status: draft
 | Civ. Code § 1550 | Essentials: capable parties, consent, lawful object, consideration | R-CTR-003 |
 | Civ. Code §§ 1582, 1583, 1585, 1587 | Mode of acceptance; acceptance on dispatch; qualified acceptance = new proposal; revocation incl. death of proposer [S-212] | R-CTR-006, R-CTR-012, R-CTR-015 |
 | Civ. Code §§ 1605, 1606, 1614, 1615 | Good consideration; moral obligation [S-207]; written instrument presumes consideration | R-CTR-022, R-CTR-026 |
-| Civ. Code § 1624 | Statute of frauds [S-202] [VERIFY V-100] | R-CTR-042 |
+| Civ. Code § 1624 | Statute of frauds: (a)(1)–(5), (a)(7) confirmed [S-202] [S-1350]; (a)(6) [VERIFY V-100] | R-CTR-042 |
 | Civ. Code § 1633.7 | Electronic records and signatures (UETA) | R-CTR-043 |
 | Civ. Code §§ 1636, 1639, 1641, 1644, 1654, 1657 | Interpretation; reasonable time | R-CTR-053, R-CTR-055 |
 | Civ. Code §§ 1667, 1668, 1670.5 | Unlawful contracts; exculpation for fraud or willful injury; unconscionability | R-CTR-039 to R-CTR-041 |
 | Civ. Code § 1671 | Liquidated damages [S-200] | R-CTR-096 |
+| Civ. Code § 1675 | Residential-purchase deposit as liquidated damages: 3% rule [S-1352] | R-CTR-096 |
 | Civ. Code § 1698 | Modification of written contracts [S-201] | R-CTR-028 |
-| Civ. Code §§ 1689, 1691, 1692 | Rescission grounds, procedure, relief | R-CTR-105 |
+| Civ. Code §§ 1689, 1691, 1692 | Rescission grounds, procedure, relief (damages not inconsistent with rescission) [S-462] | R-CTR-105 |
+| Civ. Code §§ 1511, 1512 | Performance excused by the creditor's prevention or operation of law; debtor gets the benefits of full performance [S-1355] | R-CTR-064 |
+| Civ. Code § 1440 | Notice of non-performance excuses the other party's conditions [VERIFY V-105] | R-CTR-068 |
 | Civ. Code § 1717 | Reciprocal contractual attorney's fees | R-CTR-098 |
 | Civ. Code §§ 1521, 1523, 1524, 1530, 1531, 1541, 1542 | Accord, satisfaction, part performance in writing [S-208], novation, release, unknown claims | R-CTR-086 to R-CTR-088 |
 | Civ. Code § 1559 | Third-party beneficiary may enforce | R-CTR-110 |
 | Civ. Code §§ 3294, 3300, 3301, 3358, 3360 | Punitive damages only for non-contract obligations; contract damages; certainty; cap at full performance; nominal damages | R-CTR-089, R-CTR-092, R-CTR-098 |
 | Civ. Code § 3275 | Relief from forfeiture | R-CTR-064, R-CTR-109 |
-| Civ. Code §§ 3384, 3386, 3387, 3390, 3391 | Specific performance [VERIFY V-108] | R-CTR-104 |
+| Civ. Code §§ 3384, 3386, 3387, 3390, 3391 | Specific performance: §§ 3390, 3391 [S-474] [S-1354]; § 3386 [VERIFY V-108] | R-CTR-104 |
+| Civ. Code § 3423(e) | Negative injunction for personal services only under the statute's conditions [S-459] | R-CTR-104 (R-REM-064) |
 | Civ. Code § 3399 | Reformation | R-CTR-106 |
 | Civ. Code § 2309 | Equal dignities | R-CTR-048 |
 | Code Civ. Proc. § 1856 | Parol evidence rule | R-CTR-049, R-CTR-052 |
@@ -118,7 +122,7 @@ status: draft
 | Bus. & Prof. Code §§ 16600, 16600.5 | Noncompetes void; unenforceable regardless of where signed [S-206] | R-CTR-041 |
 | Bus. & Prof. Code § 7031 | Unlicensed contractor cannot sue for compensation | R-CTR-039 |
 | Fam. Code § 1611 | Premarital agreement must be in writing | R-CTR-042 |
-| Fam. Code §§ 6700, 6710, 6712 | Minors' contracts; disaffirmance; necessaries [VERIFY V-104] | R-CTR-030 |
+| Fam. Code §§ 6700, 6701, 6710, 6712 | Minors' contracts; contracts a minor cannot make (real property, etc.); disaffirmance; necessaries [S-1353] | R-CTR-030 |
 
 ## 4. Leading cases — U.S. (non-California) and English
 | Case | Holding / rule | Rule ID |
@@ -182,12 +186,13 @@ status: draft
 | *Drennan v. Star Paving Co.* (1958) 51 Cal.2d 409 | A subcontractor's bid relied on by a general contractor is irrevocable | R-CTR-011 |
 | *Donovan v. RRL Corp.* (2001) 26 Cal.4th 261 [S-205] | A dealer ad was an offer; unilateral mistake under R2d § 153; negligence alone no bar | R-CTR-005, R-CTR-035 |
 | *Elsinore Union Elementary School Dist. v. Kastorff* (1960) 54 Cal.2d 380 [VERIFY V-110] | Rescission for a clerical bid error | R-CTR-035 |
-| *Odorizzi v. Bloomfield School Dist.* (1966) 246 Cal.App.2d 123 [VERIFY V-110] | Undue influence (overpersuasion) | R-CTR-033 |
-| *Lingsch v. Savage* (1963) 213 Cal.App.2d 729 [VERIFY V-106] | A real-property seller's duty to disclose known material defects | R-CTR-038 |
+| *Odorizzi v. Bloomfield School Dist.* (1966) 246 Cal.App.2d 123 [S-1356] | Undue influence (overpersuasion) | R-CTR-033 |
+| *Lingsch v. Savage* (1963) 213 Cal.App.2d 729 [S-1359] | A real-property seller's duty to disclose known material facts the buyer cannot reasonably discover; nondisclosure is actual fraud despite an "as is" clause | R-CTR-038 |
 | *Tunkl v. Regents of University of California* (1963) 60 Cal.2d 92 | Exculpatory release invalid where the public interest is affected | R-CTR-041 |
+| *City of Santa Barbara v. Superior Court* (2007) 41 Cal.4th 747 | Release of liability for future gross negligence unenforceable | R-CTR-041 (R-TRT-071) |
 | *Edwards v. Arthur Andersen LLP* (2008) 44 Cal.4th 937 | No "narrow restraint" exception to B&P § 16600 | R-CTR-041 |
 | *Armendariz v. Foundation Health Psychcare Services, Inc.* (2000) 24 Cal.4th 83 | Unconscionability: procedural + substantive, sliding scale | R-CTR-040 |
-| *Monarco v. Lo Greco* (1950) 35 Cal.2d 621 [VERIFY V-110] | Estoppel to assert the statute of frauds | R-CTR-046 |
+| *Monarco v. Lo Greco* (1950) 35 Cal.2d 621 [S-1358] | Estoppel to assert the statute of frauds | R-CTR-046 |
 | *Sterling v. Taylor* (2007) 40 Cal.4th 757 [S-204] | Extrinsic evidence may clarify, not supply, essential terms of a SOF memo | R-CTR-043 |
 | *Masterson v. Sine* (1968) 68 Cal.2d 222 | Collateral oral agreement admissible unless it would naturally be included | R-CTR-049, R-CTR-052 |
 | *Pacific Gas & Electric Co. v. G.W. Thomas Drayage & Rigging Co.* (1968) 69 Cal.2d 33 | Extrinsic evidence admissible if the language is reasonably susceptible to the proffered meaning | R-CTR-052 |
@@ -202,7 +207,7 @@ status: draft
 | *Lewis Jorge Construction Management, Inc. v. Pomona Unified School Dist.* (2004) 34 Cal.4th 960 [S-209] | General vs. special damages; lost future-contract profits must be foreseeable [VERIFY V-103] | R-CTR-092 |
 | *Parker v. Twentieth Century-Fox Film Corp.* (1970) 3 Cal.3d 176 | Employee need not accept different or inferior employment | R-CTR-091 |
 | *Mineral Park Land Co. v. Howard* (1916) 172 Cal. 289 [VERIFY V-110] | Impracticability from extreme cost | R-CTR-083 |
-| *Lloyd v. Murphy* (1944) 25 Cal.2d 48 [VERIFY V-110] | Frustration applied narrowly | R-CTR-084 |
+| *Lloyd v. Murphy* (1944) 25 Cal.2d 48 [S-1357] | Frustration applied narrowly | R-CTR-084 |
 | *Freedman v. Rector, Wardens & Vestrymen of St. Matthias Parish* (1951) 37 Cal.2d 16 [S-210] | Willfully defaulting buyer recovers the deposit beyond the seller's damages | R-CTR-109 |
 | *Goonewardene v. ADP, LLC* (2019) 6 Cal.5th 817 [S-203] | Three-part third-party beneficiary test | R-CTR-110 |
 | *Quach v. California Commerce Club, Inc.* (2024) [S-131] | Arbitration waiver: no prejudice requirement | ca-distinctions |

@@ -4,7 +4,7 @@ topic: Contracts — tiered memorization list (rule IDs)
 coverage_ids: [CTR-MBE-I, CTR-MBE-II, CTR-MBE-III, CTR-MBE-IV, CTR-MBE-V, CTR-MBE-VI]
 tested_on: [MBE, essay]
 exam_frequency: {level: high, basis: "Essays: 16 of 31 administrations 2012-02 to 2026-07 (52%); MBE: 25 scored questions every exam"}
-last_verified: 2026-11-04
+last_verified: 2026-11-05
 status: draft
 ---
 
@@ -58,6 +58,7 @@ Tiers combine MBE weight (categories I and IV are about half; the UCC is about a
 - **30 days**: maximum to respond to a justified demand for assurance (§ 2-609).
 - **20% or $500, whichever is less**: seller's retention from a breaching buyer's deposit absent a liquidated-damages clause (§ 2-718(2)).
 - **4 years**: UCC limitations period (§ 2-725), reducible to 1 year. California: written contracts 4 years, oral 2 years (CCP §§ 337, 339).
+- **3% of the price**: California residential-purchase deposit kept as liquidated damages is presumptively valid at or below this amount (Civ. Code § 1675).
 - **MY LEGS**: statute of frauds categories.
 - **Express > course of performance > course of dealing > usage of trade**: interpretation hierarchy (UCC § 1-303).
 - **Risk of loss order**: agreement → breach → carrier → bailee → merchant receipt / non-merchant tender.

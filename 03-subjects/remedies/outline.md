@@ -131,7 +131,7 @@ status: draft
 - **Expectation** (R-CTR-089): loss in value + incidental + consequential − cost avoided − loss avoided.
 - **By contract type** (table in Contracts outline §V.A): goods (UCC §§ 2-706, 2-708, 2-709, 2-710 for sellers; 2-712, 2-713, 2-714, 2-715 for buyers; R-CTR-099 to R-CTR-103); construction (R-CTR-090); employment (R-CTR-091).
 - **Reliance** (R-CTR-107) and **restitution** (R-CTR-108; breaching party R-CTR-109).
-- **Liquidated damages** (R-REM-017; R-CTR-096): reasonable forecast + difficult to estimate; penalties void. **CA note:** Civ. Code § 1671(b) presumes validity in most contracts; (c)–(d) reverse it for consumer contracts and residential leases [S-200] [VERIFY V-107].
+- **Liquidated damages** (R-REM-017; R-CTR-096): reasonable forecast + difficult to estimate; penalties void. **CA note:** Civ. Code § 1671(b) presumes validity in most contracts; (c)–(d) reverse it for consumer contracts and residential leases [S-200].
 - **Limits on contract recovery:** no punitive damages (R2d § 355; R-REM-031); emotional distress only for bodily harm or emotionally sensitive contracts (R2d § 353; *Erlich v. Menezes* (1999) 21 Cal.4th 543; R-REM-025); fees only by contract or statute (Civ. Code § 1717 reciprocity; R-REM-033).
 - **How tested.** Contracts + Remedies is the second most common crossover (4 essays). Graders reward computing the figure from the facts.
 
@@ -424,7 +424,7 @@ status: draft
 - Uniqueness facts: one-of-a-kind, antique, provenance, sentimental tie, no market substitute.
 
 #### IV.C.4 Personal services and other contracts (R-REM-064)
-- No SP of personal services (Thirteenth Amendment; supervision; R2d § 367; Civ. Code § 3390 [VERIFY V-108]); negative injunction possible (IV.A.6).
+- No SP of personal services (Thirteenth Amendment; supervision; R2d § 367; Civ. Code § 3390 [S-1354]); negative injunction possible (IV.A.6).
 - Construction contracts: SP rare (supervision), except simple, well-defined work or where Δ is the landowner.
 - Contracts to make loans, sell shares of a close corporation, or convey a business: SP possible where the subject is unique.
 

@@ -234,7 +234,7 @@ status: draft
 
 **Elements:** 1. Buyer's breach. 2. Contract price − market value at breach. 3. Plus incidental and foreseeable consequential damages. 4. Credit for deposit.
 
-**Exceptions / defenses:** In California, even a willfully defaulting buyer recovers the deposit in excess of the seller's actual damages (*Freedman v. Rector* (1951) 37 Cal.2d 16 [S-210]); residential deposits are governed by Civ. Code §§ 1675–1678 [VERIFY V-107].
+**Exceptions / defenses:** In California, even a willfully defaulting buyer recovers the deposit in excess of the seller's actual damages (*Freedman v. Rector* (1951) 37 Cal.2d 16 [S-210]); for a residential-property purchase, a deposit clause of up to 3% of the price is presumptively valid (Civ. Code § 1675) [S-1352]; the formalities of §§ 1676–1678 also apply.
 
 **Authority:** Civ. Code § 3307 [S-461]; Civ. Code § 1671 [S-200]; cross-reference R-CTR-096, R-CTR-109.
 
@@ -247,7 +247,7 @@ status: draft
 
 **Elements:** 1. Damages difficult to estimate at formation. 2. Reasonable forecast. 3. Not intended as a penalty.
 
-**Exceptions / defenses:** R2d § 356(1) and UCC § 2-718(1) also uphold an amount that is reasonable in light of the actual loss, not only the loss anticipated at formation (R-CTR-096). A valid clause does not by itself bar specific performance unless the clause is meant as an exclusive alternative. In California, a clause in most contracts is presumed valid unless the challenger proves it was unreasonable when made (Civ. Code § 1671(b)); consumer and residential-lease clauses are void unless actual damages would be impracticable or extremely difficult to fix (§ 1671(c)–(d)) [S-200] [VERIFY V-107].
+**Exceptions / defenses:** R2d § 356(1) and UCC § 2-718(1) also uphold an amount that is reasonable in light of the actual loss, not only the loss anticipated at formation (R-CTR-096). A valid clause does not by itself bar specific performance unless the clause is meant as an exclusive alternative. In California, a clause in most contracts is presumed valid unless the challenger proves it was unreasonable when made (Civ. Code § 1671(b)); consumer and residential-lease clauses are void unless actual damages would be impracticable or extremely difficult to fix (§ 1671(c)–(d)) [S-200].
 
 **Authority:** R2d § 356; UCC § 2-718(1); Civ. Code § 1671 [S-200]; cross-reference R-CTR-096.
 
@@ -819,7 +819,7 @@ status: draft
 
 **Exceptions / defenses:** Courts do order one-time affirmative acts (remove an encroachment, convey land) without difficulty.
 
-**Authority:** R2d §§ 366, 367; Civ. Code § 3390 [VERIFY V-108].
+**Authority:** R2d §§ 366, 367; Civ. Code § 3390 [S-1354].
 
 **MBE vs. CA essay:** Not on the MBE. On the essay, say whether the order is negative or mandatory and how much supervision it needs.
 
@@ -884,7 +884,7 @@ status: draft
 
 **Exceptions / defenses:** In California, an injunction to prevent breach of a personal-service contract is available only for a written contract for services of a special, unique or extraordinary character that meets statutory minimum-compensation conditions (Civ. Code § 3423(e)) [S-459] [S-1204]; where the contract does not qualify, Π cannot get around § 3423(e) by enjoining the competitor from employing the performer, because that would do indirectly what the statute forbids directly (*Beverly Glen Music, Inc. v. Warner Communications, Inc.* (1986) 178 Cal.App.3d 1142) [S-1203]; post-employment non-compete covenants are void (Bus. & Prof. Code § 16600; R-CTR-041).
 
-**Authority:** U.S. Const. amend. XIII; R2d § 367; *Lumley v. Wagner* (1852) 1 De G.M. & G. 604; Civ. Code §§ 3390, 3423(e) [S-459] [S-1204] [VERIFY V-108]; *Beverly Glen Music* [S-1203].
+**Authority:** U.S. Const. amend. XIII; R2d § 367; *Lumley v. Wagner* (1852) 1 De G.M. & G. 604; Civ. Code §§ 3390, 3423(e) [S-459] [S-1204] [S-1354]; *Beverly Glen Music* [S-1203].
 
 **MBE vs. CA essay:** The general rule is a Contracts MBE point. On a California essay (Feb 2020 Q3 artist painting borders [VERIFY V-071]), deny SP of the artist's services and consider damages or a negative injunction.
 
@@ -964,7 +964,7 @@ status: draft
 
 **Exceptions / defenses:** Laches, unclean hands, unconscionability or inadequate consideration (R-REM-087), mistake, misrepresentation, statute of frauds, sale to a BFP (R-REM-089).
 
-**Authority:** R2d §§ 357, 359, 360, 362, 363, 364, 366, 367; UCC § 2-716; Civ. Code §§ 3384, 3386, 3390, 3391 [S-474] [VERIFY V-108]; cross-reference R-CTR-104.
+**Authority:** R2d §§ 357, 359, 360, 362, 363, 364, 366, 367; UCC § 2-716; Civ. Code §§ 3384, 3386 [VERIFY V-108], 3390, 3391 [S-474] [S-1354]; cross-reference R-CTR-104.
 
 **MBE vs. CA essay:** Contracts MBE topic (R-CTR-104). On a Remedies essay, give each element its own sentence and use the facts on price, uniqueness and Π's readiness to pay.
 

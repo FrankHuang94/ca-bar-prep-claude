@@ -122,7 +122,7 @@ questions:
       The deed did not convey Ruiz's title, and she received none of the money, so she owes Tran nothing as a
       condition of relief. Tran's claim for his money lies against Saul.
   trap_type: missing-element
-  authority: ["Statute quoted in the stem (written authority to convey)", "Common law of agency: equal dignities"]
+  authority: ["Statute quoted in the stem (written authority to convey)", "Equal dignities rule (statutory; e.g., Cal. Civ. Code § 2309)"]
   source: original
   tags: [wave2, W2b-PRP, deeds, agents, persons-authorized]
   status: draft

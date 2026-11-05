@@ -62,7 +62,7 @@ status: draft
 ## 4. California Civil Code
 | § | Rule | Rule ID |
 |---|---|---|
-| 1671 | Liquidated damages: presumed valid (b); consumer and residential-lease carve-out (c)–(d) [S-200] [VERIFY V-107] | R-REM-017 |
+| 1671 | Liquidated damages: presumed valid (b); consumer and residential-lease carve-out (c)–(d) [S-200] | R-REM-017 |
 | 1689, 1691, 1692 | Rescission grounds; notice and restoration; relief based on rescission including consequential damages [S-462] | R-REM-043 |
 | 1717 | Reciprocal contractual attorney's fees | R-REM-033 |
 | 2223, 2224 | Involuntary (constructive) trusts [S-463] | R-REM-044 |
@@ -79,7 +79,7 @@ status: draft
 | 3346 | Trees and timber: double damages mandatory; treble discretionary for willful and malicious trespass (with CCP § 733) [S-460] [S-1206] [S-1207] | R-REM-020 |
 | 3355 | Peculiar value of property [VERIFY V-357] | R-REM-021 |
 | 3358, 3360 | No more than full performance; nominal damages | R-REM-007, R-REM-094 |
-| 3386, 3390 | Mutuality; obligations not specifically enforceable [VERIFY V-108] | R-REM-064, R-REM-070 |
+| 3386, 3390 | Mutuality (§ 3386) [VERIFY V-108]; obligations not specifically enforceable (§ 3390) [S-1354] | R-REM-064, R-REM-070 |
 | 3387 | Land: presumption that money is inadequate; conclusive for owner-occupied single-family dwelling [S-450] | R-REM-071 |
 | 3391 | No SP without adequate consideration or where not just and reasonable [S-474] | R-REM-087 |
 | 3399 | Reformation | R-REM-075 |

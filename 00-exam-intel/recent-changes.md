@@ -106,6 +106,12 @@ status: draft
 | Jan 1, 2026 | SB 1427 | Joint petition for dissolution. | Low (procedure) | [S-130] |
 | — | Fam. Code §§ 760, 852, 1101, 2640 | No amendments found. | — | — |
 
+## 7A. California Commercial Code (Contracts; essays)
+
+| Effective | Provision | Change | Exam impact | Source |
+|---|---|---|---|---|
+| Jan 1, 2024 | **SB 95** (Stats. 2023, ch. 210): California's adoption of the 2022 UCC amendments | Adds the hybrid-transaction rule (Com. Code §§ 2102, 2106), replaces "writing"/"signed" with "record"/"sign" terminology, and adds Division 12 on controllable electronic records. | Apply (Contracts California note; MBE treatment of the hybrid rule open [VERIFY V-102]) | [S-1351] |
+
 ## 8. California Supreme Court decisions changing black-letter rules
 
 | Case | Subject | Rule | Source |

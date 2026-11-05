@@ -4,7 +4,7 @@ topic: Contracts — traps, MBE distractor patterns and commonly confused rules
 coverage_ids: [CTR-MBE-I, CTR-MBE-II, CTR-MBE-III, CTR-MBE-IV, CTR-MBE-V, CTR-MBE-VI]
 tested_on: [MBE, essay]
 exam_frequency: {level: high, basis: "Essays: 16 of 31 administrations 2012-02 to 2026-07 (52%); MBE: 25 scored questions every exam"}
-last_verified: 2026-11-04
+last_verified: 2026-11-05
 status: draft
 ---
 
@@ -76,7 +76,7 @@ Each item gives the trap, the correct rule, and the rule ID.
 49. **Mitigation requires an employee to take any job.** Only substantially similar work counts (R-CTR-091, R-CTR-095).
 50. **Lost-volume seller's resale reduces its damages.** It does not (R-CTR-100).
 51. **Labels decide liquidated damages.** Calling a clause "liquidated damages" does not save a penalty. **CA** § 1671(b) presumes validity and places the burden on the challenger (R-CTR-096).
-52. **Specific performance of personal services.** Never; at most a negative injunction (R-CTR-104).
+52. **Specific performance of personal services.** Never; at most a negative injunction, which California allows only under Civ. Code § 3423(e) (R-CTR-104).
 53. **A breaching party gets nothing.** Restitution of the net benefit is available (R-CTR-109).
 
 ## Third parties
@@ -84,7 +84,7 @@ Each item gives the trap, the correct rule, and the rule ID.
 55. **Beneficiary rights vest at contracting.** They vest only on assent, suit or reliance (R-CTR-111).
 56. **"No assignment" clause voids the assignment.** Only if it says the assignment is void; otherwise it gives damages (R-CTR-113).
 57. **Delegation releases the delegator.** Only a novation does (R-CTR-116).
-58. **Obligor pays the assignee's competitor after notice.** After notice, only payment to the assignee discharges (R-CTR-114).
+58. **Obligor pays the assignor after notice.** After notice, only payment to the assignee discharges (R-CTR-114).
 
 ## Essay-writing traps (California)
 59. **Skipping governing law.** Selected answers lead with UCC vs. common law; write it even when obvious (R-CTR-001).

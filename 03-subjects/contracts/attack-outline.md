@@ -4,7 +4,7 @@ topic: Contracts — exam-day attack outline (headings and one-line rules)
 coverage_ids: [CTR-CBX-I, CTR-CBX-II-IV, CTR-CBX-V, CTR-CBX-VI, CTR-CBX-VII, CTR-CBX-VIII, CTR-SUP-001]
 tested_on: [essay, MBE]
 exam_frequency: {level: high, basis: "Essays: 16 of 31 administrations 2012-02 to 2026-07 (52%); MBE: 25 scored questions every exam"}
-last_verified: 2026-11-04
+last_verified: 2026-11-05
 status: draft
 ---
 
@@ -40,7 +40,7 @@ status: draft
 - **Modification** — common law needs consideration (§ 89 exceptions); UCC needs only good faith; CA Civ. Code § 1698 (written contracts), § 1697 (written modification of an oral contract: no consideration) (R-CTR-028, R-CTR-029).
 
 ## 4. Defenses
-- **Minors** — voidable; disaffirm within a reasonable time after 18; necessaries at reasonable value (R-CTR-030).
+- **Minors** — voidable; disaffirm before 18 or within a reasonable time after; necessaries at reasonable value; CA: no real-property contracts (Fam. Code § 6701) (R-CTR-030).
 - **Mental / intoxication** — cognitive or volitional test (volitional requires the other party's reason to know) (R-CTR-031).
 - **Duress** — improper threat + no reasonable alternative = voidable (R-CTR-032).
 - **Undue influence** — unfair persuasion of a dominated or trusting party (R-CTR-033).
@@ -57,7 +57,7 @@ status: draft
 - **Surety** — collateral promise to the creditor; main purpose exception (R-CTR-045).
 - **Land** — part performance (two of possession, payment, improvements) (R-CTR-046).
 - **Goods ≥ $500** — quantity; merchant confirmation (10 days); special manufacture; admission; paid or received and accepted (R-CTR-047).
-- **Other SOF** — full performance; § 139 estoppel; equal dignities; modifications (R-CTR-048).
+- **Other SOF** — full performance; § 139 estoppel; equal dignities (where adopted, e.g., CA § 2309); modifications (R-CTR-048).
 
 ## 5. Content and meaning
 - **PER** — final writing bars prior or contemporaneous contradicting terms; complete writing bars additions (R-CTR-049).
@@ -121,8 +121,8 @@ status: draft
 - **No punitives or distress damages** — nominal damages; fees under § 1717 (R-CTR-098).
 - **Seller (UCC)** — resale, market, lost volume, price, incidental (R-CTR-099 to R-CTR-101).
 - **Buyer (UCC)** — cover or market; accepted goods: value difference (R-CTR-102, R-CTR-103).
-- **Specific performance** — inadequate legal remedy, feasible, no defenses; not personal services (R-CTR-104).
-- **Rescission** — ground + prompt notice + restoration (R-CTR-105).
+- **Specific performance** — inadequate legal remedy, feasible, no defenses; not personal services (CA negative injunction only under § 3423(e)) (R-CTR-104).
+- **Rescission** — ground + prompt notice + restoration; CA § 1692 adds consequential damages (R-CTR-105).
 - **Reformation** — writing ≠ agreement (mutual mistake or fraud) (R-CTR-106).
 - **Reliance** — expenditures minus loss on a losing contract (R-CTR-107).
 - **Restitution** — reasonable value of the benefit (R-CTR-108).

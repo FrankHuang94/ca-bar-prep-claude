@@ -4,7 +4,7 @@ topic: Contracts — essay templates (heading skeletons for recurring California
 coverage_ids: [CTR-CBX-I, CTR-CBX-II-IV, CTR-CBX-V, CTR-CBX-VI, CTR-CBX-VII, CTR-CBX-VIII, CTR-SUP-001]
 tested_on: [essay]
 exam_frequency: {level: high, basis: "Essays: 16 of 31 administrations 2012-02 to 2026-07 (52%); MBE: 25 scored questions every exam"}
-last_verified: 2026-11-04
+last_verified: 2026-11-05
 status: draft
 ---
 
@@ -114,7 +114,7 @@ I. Valid contract with definite terms (formation in one paragraph; SOF if land/g
 II. Plaintiff's conditions satisfied / ready, willing, able
 III. Inadequate legal remedy — land (CA Civ. Code § 3387), unique chattel (§ 2-716),
      speculative damages
-IV. Feasibility — personal services? (no SP; negative injunction?) supervision?
+IV. Feasibility — personal services? (no SP; negative injunction? CA § 3423(e)) supervision?
 V. Defenses — laches, unclean hands, unconscionability / inadequate consideration
    (CA § 3391), mistake, BFP, SOF
 VI. Interim relief if asked — TRO / preliminary injunction (see Remedies folder)
@@ -132,7 +132,7 @@ II. Rescission
    B. Requirements — prompt notice, restore benefits (CA Civ. Code § 1691) (R-CTR-105)
    C. Defenses — affirmation, delay/laches, "as is" or merger clause (PER fraud exception;
       CA Riverisland R-CTR-052), unclean hands
-   D. Restitution on rescission
+   D. Restitution on rescission (CA § 1692: plus consequential damages, no double recovery)
 III. Reformation (if the writing departs from the agreement) (R-CTR-106)
    A. Prior agreement + writing differs + mutual mistake in expression or fraud
    B. Clear and convincing proof; not barred by PER/SOF

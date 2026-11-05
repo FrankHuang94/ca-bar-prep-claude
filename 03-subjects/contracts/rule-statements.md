@@ -4,7 +4,7 @@ topic: Contracts — essay-ready rule statements (R-CTR-001 to R-CTR-117)
 coverage_ids: [CTR-MBE-I, CTR-MBE-I.A, CTR-MBE-I.B, CTR-MBE-I.C, CTR-MBE-I.D, CTR-MBE-I.E, CTR-MBE-II, CTR-MBE-II.A, CTR-MBE-II.B, CTR-MBE-II.C, CTR-MBE-II.D, CTR-MBE-II.E, CTR-MBE-II.F, CTR-MBE-III, CTR-MBE-III.A, CTR-MBE-III.B, CTR-MBE-III.C, CTR-MBE-IV, CTR-MBE-IV.A, CTR-MBE-IV.B, CTR-MBE-IV.C, CTR-MBE-IV.D, CTR-MBE-IV.E, CTR-MBE-IV.F, CTR-MBE-IV.G, CTR-MBE-IV.H, CTR-MBE-V, CTR-MBE-V.A, CTR-MBE-V.B, CTR-MBE-V.C, CTR-MBE-V.D, CTR-MBE-V.E, CTR-MBE-V.F, CTR-MBE-V.G, CTR-MBE-V.H, CTR-MBE-VI, CTR-MBE-VI.A, CTR-MBE-VI.B, CTR-CBX-I, CTR-CBX-II-IV, CTR-CBX-V, CTR-CBX-VI, CTR-CBX-VII, CTR-CBX-VIII, CTR-SUP-001]
 tested_on: [MBE, essay]
 exam_frequency: {level: high, basis: "Essays: 16 of 31 administrations 2012-02 to 2026-07 (52%); MBE: 25 scored questions every exam"}
-last_verified: 2026-11-04
+last_verified: 2026-11-05
 status: draft
 ---
 
@@ -28,11 +28,11 @@ status: draft
 
 **Elements:** 1. A "sale": title passes from seller to buyer for a price (UCC § 2-106(1)). 2. "Goods": movable things, including specially manufactured goods, unborn young of animals, growing crops and timber to be cut (UCC §§ 2-105(1), 2-107). 3. Mixed contracts: weigh the contract language, the supplier's business, the relative value of goods and services, and how the price is allocated.
 
-**Exceptions / defenses:** Some courts apply Article 2 only to the goods portion when the price is divided (gravamen test). The 2022 UCC amendments adopt a version of this for "hybrid transactions" [S-213] [VERIFY V-102]. The common law supplements the UCC unless displaced (UCC § 1-103(b)).
+**Exceptions / defenses:** Some courts apply Article 2 only to the goods portion when the price is divided (gravamen test). The 2022 UCC amendments add a "hybrid transaction" rule (§§ 2-102, 2-106) under which Article 2 reaches the goods aspects of a mixed deal even when they do not predominate [S-213]. California enacted the 2022 amendments (SB 95, Stats. 2023, ch. 210) [S-1351]; the exact enacted text of Com. Code § 2102, and whether the MBE tests the hybrid rule, are not confirmed [VERIFY V-102]. The common law supplements the UCC unless displaced (UCC § 1-103(b)).
 
 **Authority:** UCC §§ 1-103(b), 2-102, 2-105, 2-106, 2-107; *Bonebrake v. Cox*, 499 F.2d 951 (8th Cir. 1974); Cal. Com. Code § 2102 et seq.
 
-**MBE vs. CA essay:** same rule. On a California essay, make it your first heading; selected answers treat governing law as the threshold issue [VERIFY V-071].
+**MBE vs. CA essay:** on the MBE, apply the predominant-purpose test. On a California essay, make governing law your first heading (selected answers treat it as the threshold issue [VERIFY V-071]), run the predominant-purpose analysis, and add one sentence that California's Commercial Code now includes the 2022 hybrid-transaction rule [S-1351].
 
 **Example:** A bakery buys a $40,000 oven with $2,000 of installation. The predominant purpose is the oven, so Article 2 governs the whole deal, including a dispute about the installation.
 
@@ -441,9 +441,9 @@ status: draft
 
 **Exceptions / defenses:** Necessaries (food, shelter, clothing, medical care) bring quasi-contract liability for reasonable value. Some states make the minor account for use or depreciation. Ratification after majority ends the power to disaffirm.
 
-**Authority:** R2d §§ 12, 14; Cal. Fam. Code §§ 6700, 6710, 6712 [VERIFY V-104].
+**Authority:** R2d §§ 12, 14; Cal. Fam. Code §§ 6700, 6701, 6710, 6712 [S-1353].
 
-**MBE vs. CA essay:** same in substance. California codifies disaffirmance and the necessaries rule [VERIFY V-104].
+**MBE vs. CA essay:** same in substance. California codifies disaffirmance before majority or within a reasonable time afterward (Fam. Code § 6710) [S-1353]. Two California twists: (1) a minor cannot give a delegation of power, make a contract relating to real property or an interest in it, or make a contract relating to personal property not in the minor's immediate possession or control (§ 6701); (2) a contract to pay the reasonable value of necessaries actually furnished cannot be disaffirmed, but only if the minor was not then under the care of a parent or guardian able to provide for the minor (§ 6712) [S-1353].
 
 **Example:** A 17-year-old buys a $3,000 motorbike on credit, wrecks it, and disaffirms. Under the majority rule he returns the wreck and owes nothing more; the seller bears the loss in value.
 
@@ -484,7 +484,7 @@ status: draft
 
 **Exceptions / defenses:** Ordinary persuasion and independent advice defeat the claim.
 
-**Authority:** R2d § 177; Cal. Civ. Code § 1575; *Odorizzi v. Bloomfield School Dist.* (1966) 246 Cal.App.2d 123 [VERIFY V-110].
+**Authority:** R2d § 177; Cal. Civ. Code § 1575; *Odorizzi v. Bloomfield School Dist.* (1966) 246 Cal.App.2d 123 [S-1356].
 
 **MBE vs. CA essay:** same rule.
 
@@ -557,9 +557,9 @@ status: draft
 
 **Exceptions / defenses:** Arm's-length parties generally need not volunteer information about the market or value.
 
-**Authority:** R2d §§ 160, 161; Cal. Civ. Code § 1572(3) (suppression of a known fact); *Lingsch v. Savage* (1963) 213 Cal.App.2d 729 [VERIFY V-106].
+**Authority:** R2d §§ 160, 161; Cal. Civ. Code § 1572(3) (suppression of a known fact); *Lingsch v. Savage* (1963) 213 Cal.App.2d 729 [S-1359].
 
-**MBE vs. CA essay:** on the MBE, apply § 161. In California, a seller of real property must disclose known facts that materially affect value and that the buyer does not know and cannot reasonably discover [VERIFY V-106].
+**MBE vs. CA essay:** on the MBE, apply § 161. In California, a seller of real property must disclose known facts that materially affect value or desirability and that the buyer does not know and cannot reasonably discover. Failing to do so is actual fraud (Civ. Code § 1572), and an "as is" clause does not excuse it (*Lingsch*) [S-1359].
 
 **Example:** A seller paints over water stains to hide a leaking roof. The concealment is treated as a misrepresentation that the roof does not leak.
 
@@ -600,9 +600,9 @@ status: draft
 
 **Exceptions / defenses:** A court may "blue pencil" an overbroad covenant in some states.
 
-**Authority:** R2d §§ 186–188, 195; *Tunkl v. Regents of University of California* (1963) 60 Cal.2d 92; Cal. Civ. Code § 1668; Cal. Bus. & Prof. Code §§ 16600, 16600.5 [S-206]; *Edwards v. Arthur Andersen LLP* (2008) 44 Cal.4th 937.
+**Authority:** R2d §§ 186–188, 195; *Tunkl v. Regents of University of California* (1963) 60 Cal.2d 92; *City of Santa Barbara v. Superior Court* (2007) 41 Cal.4th 747; Cal. Civ. Code § 1668; Cal. Bus. & Prof. Code §§ 16600, 16600.5 [S-206]; *Edwards v. Arthur Andersen LLP* (2008) 44 Cal.4th 937.
 
-**MBE vs. CA essay:** differs. California voids employee noncompetes (B&P § 16600, *Edwards*), with narrow statutory exceptions for the sale of a business's goodwill and the dissolution of a partnership or LLC [VERIFY V-112]. Since 2024, a void noncompete is unenforceable regardless of where or when it was signed (§ 16600.5) [S-206]. On the MBE, apply the reasonableness test.
+**MBE vs. CA essay:** differs. Exculpatory clauses: California also refuses to enforce a release of liability for future gross negligence (*City of Santa Barbara*; see R-TRT-071), and Civ. Code § 1668 voids clauses exempting a party from its own fraud, willful injury or violation of law. Noncompetes: California voids employee noncompetes (B&P § 16600, *Edwards*), with narrow statutory exceptions for the sale of a business's goodwill and the dissolution of a partnership or LLC [VERIFY V-112]. Since 2024, a void noncompete is unenforceable regardless of where or when it was signed (§ 16600.5) [S-206]. On the MBE, apply the reasonableness test.
 
 **Example:** A hospital's admission form releasing it from all liability for negligence is void as against public policy because medical care affects the public interest.
 
@@ -617,9 +617,9 @@ status: draft
 
 **Exceptions / defenses:** See R-CTR-044 to R-CTR-048.
 
-**Authority:** R2d § 110; UCC § 2-201; Cal. Civ. Code § 1624 [S-202] [VERIFY V-100]; Cal. Com. Code § 2201 [S-211].
+**Authority:** R2d § 110; UCC § 2-201; Cal. Civ. Code § 1624 [S-202] [S-1350] [VERIFY V-100]; Cal. Com. Code § 2201 [S-211].
 
-**MBE vs. CA essay:** the California list differs slightly. Civil Code § 1624(a) adds an agreement employing an agent or broker to buy, sell or lease real estate (over one year) for compensation ((a)(4)) and an agreement that by its terms is not to be performed during the promisor's lifetime ((a)(5)) [S-202]. Its other categories are not fully confirmed [VERIFY V-100].
+**MBE vs. CA essay:** the California list differs. Civil Code § 1624(a) covers: (1) agreements not to be performed within a year of their making; (2) special promises to answer for another's debt; (3) leases for longer than one year and sales of real property or an interest in it; (4) agreements employing an agent or broker, for compensation, to buy, sell or lease (over one year) real estate or to find a buyer, seller or lessee; (5) agreements that by their terms are not to be performed during the promisor's lifetime; and (7) commitments to lend money or extend credit of more than $100,000, not primarily for personal, family or household purposes, made by a person in the business of lending [S-202] [S-1350]. Paragraph (6) (a purchaser's promise to pay a debt secured by the property bought) and whether any marriage category remains (premarital agreements fall under Fam. Code § 1611) are not yet confirmed [VERIFY V-100]. Goods are covered by Com. Code § 2201.
 
 **Example:** An oral agreement on January 2, 2027 to employ a manager for 18 months is within the one-year provision and unenforceable against an employer who signed nothing.
 
@@ -658,7 +658,7 @@ status: draft
 
 **Exceptions / defenses:** The main purpose rule; an indemnity promise made to the debtor.
 
-**Authority:** R2d § 110(1)(b); Cal. Civ. Code § 1624(a)(2) [S-202].
+**Authority:** R2d §§ 110(1)(b), 116 (main purpose); Cal. Civ. Code § 1624(a)(2) [S-202].
 
 **MBE vs. CA essay:** same rule.
 
@@ -671,27 +671,27 @@ status: draft
 
 **Exceptions / defenses:** Payment alone is usually not enough, because restitution is an adequate remedy.
 
-**Authority:** R2d §§ 125, 129; Cal. Civ. Code § 1624(a)(3) [VERIFY V-100]; *Monarco v. Lo Greco* (1950) 35 Cal.2d 621 [VERIFY V-110].
+**Authority:** R2d §§ 125, 129; Cal. Civ. Code § 1624(a)(3) [S-1350]; *Monarco v. Lo Greco* (1950) 35 Cal.2d 621 [S-1358].
 
 **MBE vs. CA essay:** similar. California frames the exception as equitable estoppel to prevent unconscionable injury or unjust enrichment (*Monarco*).
 
 **Example:** A buyer orally agrees to buy a cabin, pays 20% down, moves in and builds a deck. Specific performance is available despite the statute.
 
 ### R-CTR-047 — Statute of frauds: sale of goods (UCC § 2-201)
-**Rule (write this):** A contract for the sale of goods for $500 or more is not enforceable unless a writing sufficient to indicate a contract is signed by the party against whom enforcement is sought, and it is not enforceable beyond the quantity stated in the writing. Between merchants, a written confirmation sent within a reasonable time binds a recipient with reason to know its contents unless the recipient objects in writing within 10 days. No writing is needed for specially manufactured goods once the seller has substantially begun, for a contract admitted in court, or for goods paid for and accepted or received and accepted.
+**Rule (write this):** A contract for the sale of goods for $500 or more is not enforceable unless a writing sufficient to indicate a contract is signed by the party against whom enforcement is sought, and it is not enforceable beyond the quantity stated in the writing. Between merchants, a written confirmation sent within a reasonable time satisfies the statute against a recipient with reason to know its contents unless the recipient objects in writing within 10 days. No writing is needed for specially manufactured goods once the seller has substantially begun, for a contract admitted in court, or for goods paid for and accepted or received and accepted.
 
 **Elements:** 1. Goods at $500 or more. 2. A writing that indicates a contract, states a quantity, and is signed by the defendant. 3. Or the merchant confirmation rule. 4. Or an exception in § 2-201(3).
 
 **Exceptions / defenses:** Specially manufactured goods (unsuitable for others, substantial beginning before notice of repudiation); admission in pleadings or testimony (only up to the quantity admitted); part performance (only to the extent of goods paid for or accepted).
 
-**Authority:** UCC § 2-201; Cal. Com. Code § 2201 [S-211] (the current text may say "record" rather than "writing" [VERIFY V-101]).
+**Authority:** UCC § 2-201; Cal. Com. Code § 2201 [S-211]. Since California adopted the 2022 UCC amendments (SB 95, Stats. 2023, ch. 210, effective January 1, 2024), § 2201 speaks of a "record" rather than a "writing"; a record includes both paper and electronic forms, so the analysis is unchanged [S-1351].
 
 **MBE vs. CA essay:** same rule.
 
 **Example:** A merchant buyer phones an order for 1,000 bolts at $2 each, then sends a signed confirmation. The seller says nothing for two weeks. The seller can no longer raise the statute of frauds, though it may still prove no contract was made.
 
 ### R-CTR-048 — Statute of frauds: other routes, equal dignities and modifications
-**Rule (write this):** Even without a writing, a contract within the statute may be enforced where full performance by one party takes it out of the one-year provision, or by promissory estoppel to the extent needed to avoid injustice (R2d § 139). A party who performed under an unenforceable contract may recover in restitution. An agent who signs for a principal generally needs written authority if the contract must be in writing (equal dignities rule). A modification must satisfy the statute if the contract as modified falls within it.
+**Rule (write this):** Even without a writing, a contract within the statute may be enforced where full performance by one party takes it out of the one-year provision, or by promissory estoppel to the extent needed to avoid injustice (R2d § 139). A party who performed under an unenforceable contract may recover in restitution. In states that follow the equal dignities rule, including California, an agent who signs for a principal needs written authority if the contract must be in writing. A modification must satisfy the statute if the contract as modified falls within it.
 
 **Elements:** 1. Identify the exception. 2. Remember that restitution is always available for benefits conferred.
 
@@ -699,7 +699,7 @@ status: draft
 
 **Authority:** R2d §§ 130(2), 139, 375; UCC §§ 2-201(3), 2-209(3); Cal. Civ. Code §§ 1698(c) [S-201], 2309.
 
-**MBE vs. CA essay:** same rule. California codifies the equal dignities rule (Civ. Code § 2309).
+**MBE vs. CA essay:** same rule, except that the equal dignities rule is not universal; it depends on a state statute. California codifies it (Civ. Code § 2309), so on a California essay a memorandum signed by an agent with only oral authority does not satisfy the statute.
 
 **Example:** A broker's oral authorization to sign a land sale for its principal does not satisfy the statute; the principal can resist enforcement.
 
@@ -872,15 +872,15 @@ status: draft
 **Example:** A fine-print line on the back of an invoice, "no implied warranties," is not conspicuous and does not mention merchantability, so it fails to disclaim merchantability.
 
 ### R-CTR-061 — Warranty claims: notice, who may sue, limitations
-**Rule (write this):** A buyer who has accepted goods must notify the seller of a breach within a reasonable time after discovering it, or be barred from any remedy. Under UCC § 2-318 (Alternative A, the narrowest version), a seller's warranty extends to members of the buyer's family or household and to guests who may reasonably be expected to use the goods and are personally injured. A warranty action must be brought within four years after tender of delivery (the parties may shorten this to no less than one year), unless the warranty explicitly extends to future performance.
+**Rule (write this):** A buyer who has accepted goods must notify the seller of a breach within a reasonable time after discovering it, or be barred from any remedy. Under UCC § 2-318 (Alternative A, the narrowest version), a seller's warranty extends to any natural person in the buyer's family or household, or a guest in the buyer's home, who may reasonably be expected to use, consume or be affected by the goods and is personally injured by the breach. A warranty action must be brought within four years after tender of delivery (the parties may shorten this to no less than one year), unless the warranty explicitly extends to future performance.
 
 **Elements:** 1. Timely notice. 2. A protected plaintiff. 3. Suit within the limitations period.
 
-**Exceptions / defenses:** Alternatives B and C extend to any natural person, or any person, who may reasonably be expected to use the goods.
+**Exceptions / defenses:** Alternative B extends to any natural person who may reasonably be expected to use, consume or be affected by the goods and is personally injured; Alternative C extends to any person who may reasonably be expected to use, consume or be affected by the goods and is injured.
 
 **Authority:** UCC §§ 2-607(3)(a), 2-318, 2-725.
 
-**MBE vs. CA essay:** same rule. Product injuries also raise tort strict liability (Torts).
+**MBE vs. CA essay:** same UCC rule on the MBE. California's Commercial Code appears not to include a § 2318, so in California privity limits on warranty claims come from case law [VERIFY V-970]. Product injuries also raise tort strict liability (Torts).
 
 **Example:** A buyer discovers in March that a boiler's welds are defective but complains only the next January, after the seller's supplier went bankrupt. The buyer risks losing all remedies for lack of reasonable notice.
 
@@ -915,15 +915,15 @@ status: draft
 **Example:** At a land closing, the deed and the price are concurrent conditions; a seller who never tendered a deed cannot hold the buyer in breach.
 
 ### R-CTR-064 — Excuse of conditions
-**Rule (write this):** The non-occurrence of a condition is excused, and the duty becomes due, where (1) the party the condition protects waives it by words or conduct; (2) that party is estopped; (3) that party wrongfully prevents or hinders its occurrence, breaching the implied duty to cooperate; (4) that party repudiates; (5) the condition becomes impossible or impracticable and is not a material part of the exchange; or (6) enforcing it would cause a disproportionate forfeiture and its occurrence was not a material part of the agreed exchange.
+**Rule (write this):** The non-occurrence of a condition is excused, and the duty becomes due, where (1) the party the condition protects waives it by words or conduct; (2) that party is estopped; (3) that party wrongfully prevents or hinders its occurrence, breaching the implied duty to cooperate; (4) that party repudiates; (5) the condition becomes impossible or impracticable, is not a material part of the exchange, and forfeiture would otherwise result; or (6) enforcing it would cause a disproportionate forfeiture and its occurrence was not a material part of the agreed exchange.
 
 **Elements:** Identify the condition, its beneficiary, and the excuse.
 
 **Exceptions / defenses:** A waiver of a condition that is a material part of the agreed exchange needs consideration (R2d § 84). A waiver of a future condition may be retracted by notice received while a reasonable time remains for the condition to occur, unless the other party has materially changed position in reliance (§ 84(2)).
 
-**Authority:** R2d §§ 84, 229, 245 [VERIFY V-111], 255, 271 [VERIFY V-111]; Cal. Civ. Code §§ 1511, 1512 [VERIFY V-105], 3275.
+**Authority:** R2d §§ 84, 229, 245 [VERIFY V-111], 255, 271 [VERIFY V-111]; Cal. Civ. Code §§ 1511, 1512 [S-1355], 3275.
 
-**MBE vs. CA essay:** same rule. Civil Code § 3275 gives relief from forfeiture to a party who makes full compensation, except for grossly negligent, willful or fraudulent breach.
+**MBE vs. CA essay:** same rule. Civil Code § 1511 excuses performance prevented or delayed by the creditor's act or by operation of law, and § 1512 gives a debtor whose performance the creditor prevented all the benefits it would have had from full performance [S-1355]. Civil Code § 3275 gives relief from forfeiture to a party who makes full compensation, except for grossly negligent, willful or fraudulent breach.
 
 **Example:** A policy requires notice of a claim within 30 days. The insured gives notice on day 33, and the insurer suffered no prejudice. A court may excuse the condition to avoid disproportionate forfeiture.
 
@@ -1061,7 +1061,7 @@ status: draft
 **Example:** Delivery is due by March 10. The seller delivers the wrong model on March 1, and the buyer rejects. The seller may deliver the right model by March 10.
 
 ### R-CTR-074 — Acceptance of goods
-**Rule (write this):** A buyer accepts goods when, after a reasonable opportunity to inspect, it signifies that they conform or that it will keep them despite a nonconformity, fails to make an effective rejection, or does any act inconsistent with the seller's ownership. Acceptance obliges the buyer to pay the contract price and ends the right to reject. The buyer must notify the seller of any breach within a reasonable time after discovering it or lose all remedies, but it may still recover damages for the nonconformity.
+**Rule (write this):** A buyer accepts goods when, after a reasonable opportunity to inspect, it signifies that they conform or that it will keep them despite a nonconformity, fails to make an effective rejection, or does any act inconsistent with the seller's ownership. Acceptance obliges the buyer to pay the contract price and ends the right to reject. The buyer must notify the seller of any breach within a reasonable time after discovering it or lose all remedies; if it gives that notice, it may still recover damages for the nonconformity (§ 2-714).
 
 **Elements:** 1. A reasonable opportunity to inspect (§ 2-513). 2. One of the three forms of acceptance.
 
@@ -1203,7 +1203,7 @@ status: draft
 
 **Exceptions / defenses:** Courts apply it narrowly; foreseeable events usually defeat it.
 
-**Authority:** R2d § 265; *Krell v. Henry* [1903] 2 K.B. 740; *Lloyd v. Murphy* (1944) 25 Cal.2d 48 [VERIFY V-110].
+**Authority:** R2d § 265; *Krell v. Henry* [1903] 2 K.B. 740; *Lloyd v. Murphy* (1944) 25 Cal.2d 48 [S-1357].
 
 **MBE vs. CA essay:** same rule. *Lloyd v. Murphy* shows California's narrow approach: a car-showroom lease was not discharged by wartime limits on car sales, because the premises remained usable and the risk was foreseeable.
 
@@ -1227,7 +1227,7 @@ status: draft
 **Example:** Before either party has performed, a buyer and seller of a boat agree to call the deal off. Both are discharged.
 
 ### R-CTR-086 — Release
-**Rule (write this):** A release is a writing or record by which the obligee immediately discharges the obligor's duty. At common law it required consideration or a seal, but modern statutes often enforce a signed release without consideration. In California, a general release does not extend to claims the releasing party did not know or suspect to exist when signing, unless that protection is expressly waived.
+**Rule (write this):** A release is a writing or record by which the obligee immediately discharges the obligor's duty. At common law it required consideration or a seal, but modern statutes often enforce a signed release without consideration. In California, a general release does not extend to claims the releasing party did not know or suspect to exist when signing and that, if known, would have materially affected the settlement, unless that protection is expressly waived.
 
 **Elements:** 1. A writing or record. 2. Intent to discharge. 3. Consideration, or a statute dispensing with it.
 
@@ -1369,9 +1369,9 @@ status: draft
 
 **Exceptions / defenses:** If the clause is valid, the plaintiff recovers the stated amount even if actual damages are lower (majority); some courts refuse where there was no loss at all. A party cannot recover both liquidated and actual damages for the same breach.
 
-**Authority:** R2d § 356; UCC § 2-718(1); Cal. Civ. Code § 1671 [S-200].
+**Authority:** R2d § 356; UCC § 2-718(1); Cal. Civ. Code §§ 1671 [S-200], 1675 [S-1352].
 
-**MBE vs. CA essay:** differs on the burden. Under Civil Code § 1671(b), a liquidated damages clause in most contracts is valid unless the challenger proves it was unreasonable under the circumstances existing when the contract was made. Under § 1671(c)–(d), in specified consumer contracts and residential leases, it is void unless fixing actual damages would be impracticable or extremely difficult [S-200] [VERIFY V-107].
+**MBE vs. CA essay:** differs on the burden. Under Civil Code § 1671(b), a liquidated damages clause in most contracts is valid unless the challenger proves it was unreasonable under the circumstances existing when the contract was made. Under § 1671(c)–(d), when liquidated damages are sought from a consumer (goods or services bought or rented primarily for personal, family or household purposes) or from a residential tenant, the clause is void unless fixing actual damages would be impracticable or extremely difficult [S-200]. For a buyer's deposit under a contract to buy residential property, Civil Code § 1675 applies instead: an amount actually paid that does not exceed 3% of the purchase price is valid unless the buyer proves it unreasonable; a larger amount is invalid unless the seller proves it reasonable [S-1352].
 
 **Example:** A construction contract sets $1,000 per day of delay, roughly the owner's hard-to-predict lost rent; that is valid. $50,000 per day on a one-week job is a penalty.
 
@@ -1483,9 +1483,9 @@ status: draft
 
 **Exceptions / defenses:** Modern courts do not require mutuality of remedy if the plaintiff's own performance is assured.
 
-**Authority:** R2d §§ 357, 359, 360, 364, 367; UCC § 2-716; Cal. Civ. Code §§ 3384, 3386, 3387, 3390, 3391 [VERIFY V-108]; *Lumley v. Wagner* (1852) 1 De G.M. & G. 604.
+**Authority:** R2d §§ 357, 359, 360, 364, 367; UCC § 2-716; Cal. Civ. Code §§ 3384, 3386 [VERIFY V-108], 3387, 3390, 3391 [S-474] [S-1354], 3423(e) [S-459]; *Lumley v. Wagner* (1852) 1 De G.M. & G. 604.
 
-**MBE vs. CA essay:** same rule. California presumes damages inadequate for breach of an agreement to transfer real property, and the presumption is conclusive for a single-family home the buyer intends to occupy (§ 3387). Specific performance is unavailable against a party who did not receive adequate consideration or for whom the contract is not just and reasonable (§ 3391) [VERIFY V-108].
+**MBE vs. CA essay:** same rule. California presumes damages inadequate for breach of an agreement to transfer real property, and the presumption is conclusive for a single-family home the buyer intends to occupy (§ 3387). Specific performance is unavailable against a party who did not receive adequate consideration or for whom the contract is not just and reasonable (§ 3391), and an obligation to render personal service cannot be specifically enforced (§ 3390) [S-1354]. A negative injunction against a performer is available in California only within Civ. Code § 3423(e): a written contract for special or unique services that meets the statute's minimum-compensation terms (R-REM-064) [S-459].
 
 **Example:** A collector agreed to buy a one-of-a-kind antique chess piece. The seller refuses to deliver. Damages are inadequate for a unique chattel, so specific performance is available (UCC § 2-716).
 
@@ -1498,9 +1498,9 @@ status: draft
 
 **Exceptions / defenses:** The injured party generally elects between rescission and expectation damages. Under the UCC, rescission for fraud does not bar damages (§ 2-721).
 
-**Authority:** R2d §§ 7, 164, 175, 376, 380–381 [VERIFY V-111]; UCC § 2-721; Cal. Civ. Code §§ 1689, 1691, 1692.
+**Authority:** R2d §§ 7, 164, 175, 376, 380–381 [VERIFY V-111]; UCC § 2-721; Cal. Civ. Code §§ 1689, 1691, 1692 [S-462].
 
-**MBE vs. CA essay:** same rule. Under Civil Code § 1691, the rescinding party must promptly give notice and restore, or offer to restore, everything of value it received.
+**MBE vs. CA essay:** differs on combining remedies. Under Civil Code § 1691, the rescinding party must promptly give notice and restore, or offer to restore, everything of value it received. Under § 1692, a claim for damages is not inconsistent with rescission: the court awards complete relief, including restitution and any consequential damages, but no duplicate or inconsistent recovery [S-462]. Cross-reference R-REM-043.
 
 **Example:** Two months after buying a warehouse, a buyer learns that the seller lied about its zoning. She promptly notifies the seller and offers to reconvey. Rescission with return of the price is available.
 

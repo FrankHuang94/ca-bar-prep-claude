@@ -4,7 +4,7 @@ topic: Contracts — comprehensive outline (NCBE MBE numbering, with California 
 coverage_ids: [CTR-MBE-I, CTR-MBE-I.A, CTR-MBE-I.B, CTR-MBE-I.C, CTR-MBE-I.D, CTR-MBE-I.E, CTR-MBE-II, CTR-MBE-II.A, CTR-MBE-II.B, CTR-MBE-II.C, CTR-MBE-II.D, CTR-MBE-II.E, CTR-MBE-II.F, CTR-MBE-III, CTR-MBE-III.A, CTR-MBE-III.B, CTR-MBE-III.C, CTR-MBE-IV, CTR-MBE-IV.A, CTR-MBE-IV.B, CTR-MBE-IV.C, CTR-MBE-IV.D, CTR-MBE-IV.E, CTR-MBE-IV.F, CTR-MBE-IV.G, CTR-MBE-IV.H, CTR-MBE-V, CTR-MBE-V.A, CTR-MBE-V.B, CTR-MBE-V.C, CTR-MBE-V.D, CTR-MBE-V.E, CTR-MBE-V.F, CTR-MBE-V.G, CTR-MBE-V.H, CTR-MBE-VI, CTR-MBE-VI.A, CTR-MBE-VI.B, CTR-CBX-I, CTR-CBX-II-IV, CTR-CBX-V, CTR-CBX-VI, CTR-CBX-VII, CTR-CBX-VIII, CTR-SUP-001]
 tested_on: [MBE, essay]
 exam_frequency: {level: high, basis: "Essays: 16 of 31 administrations 2012-02 to 2026-07 (52%); MBE: 25 scored questions every exam"}
-last_verified: 2026-11-04
+last_verified: 2026-11-05
 status: draft
 ---
 
@@ -37,7 +37,7 @@ status: draft
 3. **Mixed (hybrid) contracts.**
    - **Predominant purpose test** (majority): the whole contract follows its predominant purpose (*Bonebrake v. Cox*, 499 F.2d 951 (8th Cir. 1974)). Factors: the contract language ("buyer," "seller," "goods" vs. "services"); the supplier's business; the relative value of goods and services; how the price is allocated.
    - **Gravamen test** (minority): apply the law that fits the part of the contract in dispute.
-   - **2022 UCC amendments:** for a hybrid transaction whose goods aspects do not predominate, apply Article 2 only to the provisions relating primarily to the goods [S-213]. Whether California has enacted this, and whether the MBE tests it, is unconfirmed [VERIFY V-102].
+   - **2022 UCC amendments:** for a hybrid transaction whose goods aspects do not predominate, apply Article 2 only to the provisions relating primarily to the goods [S-213]. **California enacted the 2022 amendments** (SB 95, Stats. 2023, ch. 210) [S-1351]. The exact enacted text of Com. Code § 2102, and whether the MBE tests the hybrid rule, are unconfirmed [VERIFY V-102]. On the MBE, use predominant purpose.
    - **Exam move:** say both tests if they point different ways, then pick one.
 4. **Merchants** (R-CTR-002; UCC § 2-104). Some rules apply only to merchants:
    - firm offers (§ 2-205);
@@ -159,7 +159,7 @@ status: draft
 - **Additional terms** (§ 2-207(2)):
   - If either party is a non-merchant, the terms are proposals that the offeror must expressly accept.
   - Between merchants, the terms become part of the contract **unless** (a) the offer expressly limits acceptance to its terms, (b) they **materially alter** the contract (surprise or hardship), or (c) the offeror has objected or objects within a reasonable time.
-  - Material alterations (cmt. 4): disclaimers of warranties, a high late-cancellation right, unusually short complaint periods.
+  - Material alterations (cmt. 4): disclaimers of warranties, a seller's right to cancel if the buyer misses any invoice date, unusually short complaint periods.
   - Not material (cmt. 5): reasonable interest on overdue invoices, a reasonable time for complaints, seller's credit terms within trade practice.
   - Arbitration clauses: courts split.
 - **Different (conflicting) terms:**
@@ -304,7 +304,7 @@ status: draft
 ### II.A Incapacity to contract (R-CTR-030, R-CTR-031)
 | Category | Effect | Key points |
 |---|---|---|
-| **Minors** (under 18) | Voidable by the minor | Disaffirm before, or within a reasonable time after, majority. Ratify after majority expressly or by inaction. Necessaries: quasi-contract liability for reasonable value. On disaffirmance, return what remains (majority); some states charge for use or depreciation. A minor who misrepresents age may be estopped in some states. **CA:** Fam. Code §§ 6700, 6710, 6712 [VERIFY V-104] |
+| **Minors** (under 18) | Voidable by the minor | Disaffirm before, or within a reasonable time after, majority. Ratify after majority expressly or by inaction. Necessaries: quasi-contract liability for reasonable value. On disaffirmance, return what remains (majority); some states charge for use or depreciation. A minor who misrepresents age may be estopped in some states. **CA:** Fam. Code §§ 6700, 6710, 6712; a minor **cannot** make a contract relating to real property or to personal property not in the minor's immediate possession or control, or give a delegation of power (§ 6701); a necessaries contract is non-disaffirmable only if the minor was not under the care of a parent or guardian able to provide (§ 6712) [S-1353] |
 | **Persons under guardianship** (adjudicated) | Void (R2d § 13) | Liability in quasi-contract for necessaries |
 | **Mental illness or defect** | Voidable (R2d § 15) | **Cognitive test:** unable to understand the nature and consequences of the transaction. **Volitional test:** unable to act reasonably, **and** the other party has reason to know. Fair contract, other party without knowledge, and changed circumstances: avoidance only on equitable terms (§ 15(2)). **CA:** Civ. Code §§ 38, 39 |
 | **Intoxication** | Voidable only if the other party has reason to know (R2d § 16) | Prompt disaffirmance on sobering; restitution required |
@@ -321,7 +321,7 @@ status: draft
   - threats whose resulting exchange is unfair and that use power for illegitimate ends.
 - **Economic duress.** A wrongful threat to withhold performance where substitutes are unavailable and suing is inadequate (*Austin Instrument, Inc. v. Loral Corp.*, 29 N.Y.2d 124 (1971)). It is the twin of the pre-existing duty rule in modification cases.
 - **Duress by a third party** makes the contract voidable unless the other party, in good faith and without reason to know, gave value or relied materially.
-- **Undue influence** (R2d § 177): unfair persuasion of a person who is under the persuader's domination or in a relationship of trust. Indicators: discussion at an unusual time or place, insistence on immediate decision, no advisers, multiple persuaders, extreme emphasis on untoward consequences of delay. **CA:** Civ. Code § 1575; *Odorizzi v. Bloomfield School Dist.* (1966) 246 Cal.App.2d 123 [VERIFY V-110].
+- **Undue influence** (R2d § 177): unfair persuasion of a person who is under the persuader's domination or in a relationship of trust. Indicators: discussion at an unusual time or place, insistence on immediate decision, no advisers, multiple persuaders, extreme emphasis on untoward consequences of delay. **CA:** Civ. Code § 1575; *Odorizzi v. Bloomfield School Dist.* (1966) 246 Cal.App.2d 123 [S-1356].
 - **Remedy.** Rescission and restitution. Ratification after the pressure ends bars relief.
 
 ### II.C Mistake and misunderstanding (R-CTR-034, R-CTR-035, R-CTR-036)
@@ -388,7 +388,7 @@ Puffery is not actionable. A promise made without intent to perform is fraud (pr
 **CA notes.**
 - Civil Code § 1572 defines actual fraud, including suppression of a known fact (§ 1572(3)).
 - Civil Code §§ 1709–1710 define deceit.
-- A seller of real property must disclose known facts materially affecting value that the buyer cannot reasonably discover (*Lingsch v. Savage* (1963) 213 Cal.App.2d 729) [VERIFY V-106].
+- A seller of real property must disclose known facts materially affecting value or desirability that the buyer cannot reasonably discover; the failure is actual fraud, and an "as is" clause does not excuse it (*Lingsch v. Savage* (1963) 213 Cal.App.2d 729) [S-1359].
 - Fraud evidence is admissible despite an integration clause, even if it contradicts the writing (*Riverisland*, III.A) [S-214].
 - A tort action may lie for fraudulent concealment during performance (*Rattagan*, R-CTR-117) [S-132].
 
@@ -424,7 +424,7 @@ Puffery is not actionable. A promise made without intent to perform is fraud (pr
 
 **Public policy.**
 - **Exculpatory clauses.** They cannot excuse intentional, reckless or (in many states) grossly negligent harm (R2d § 195). They are unenforceable where the service affects the public interest.
-  - **CA:** Civ. Code § 1668; *Tunkl v. Regents of University of California* (1963) 60 Cal.2d 92 (hospital admission release void).
+  - **CA:** Civ. Code § 1668; *Tunkl v. Regents of University of California* (1963) 60 Cal.2d 92 (hospital admission release void); a release of future gross negligence is unenforceable (*City of Santa Barbara v. Superior Court* (2007) 41 Cal.4th 747; R-TRT-071).
 - **Covenants not to compete** (R2d §§ 186–188). Majority rule: enforceable if ancillary to a sale of a business or employment, protecting a legitimate interest (goodwill, trade secrets, customer relationships), and reasonable in time, place and scope. Courts may blue-pencil an overbroad covenant.
   - **CA differs sharply:** Bus. & Prof. Code § 16600 voids contracts restraining anyone from a lawful profession, trade or business, with narrow exceptions (sale of business goodwill; dissolution of a partnership or LLC) [VERIFY V-112].
   - *Edwards v. Arthur Andersen LLP* (2008) 44 Cal.4th 937 rejected a "narrow restraint" exception.
@@ -444,7 +444,7 @@ Puffery is not actionable. A promise made without intent to perform is fraud (pr
 |---|---|
 | **M**arriage | A promise made in consideration of marriage (a prenuptial transfer). Not mutual promises to marry. **CA:** premarital agreements must be in writing (Fam. Code § 1611) |
 | **Y**ear | Cannot **by its terms** be performed within one year of making (R2d § 130). Lifetime contracts and indefinite-duration contracts are **outside**. Full performance by one side takes the contract out (§ 130(2)). **CA:** Civ. Code § 1624(a)(1) [S-202] |
-| **L**and | Any interest in land: sale, mortgage, easement, lease over one year (R2d § 125). Not licenses or short leases. **CA:** § 1624(a)(3) [VERIFY V-100] |
+| **L**and | Any interest in land: sale, mortgage, easement, lease over one year (R2d § 125). Not licenses or short leases. **CA:** § 1624(a)(3) (leases over one year; sales of real property or an interest in it) [S-1350] |
 | **E**xecutor | An executor's or administrator's promise to pay estate debts **from personal funds** |
 | **G**oods | Sale of goods for **$500 or more** (UCC § 2-201) |
 | **S**uretyship | A promise **to a creditor** to answer for the debt of another (collateral) (R2d § 110(1)(b)). **Not** a primary promise, a promise to the debtor, or a main-purpose (leading object) case. **CA:** § 1624(a)(2) [S-202] |
@@ -452,20 +452,21 @@ Puffery is not actionable. A promise made without intent to perform is fraud (pr
 **CA additions** (Civ. Code § 1624):
 - agreements authorizing or employing an agent or broker to buy, sell or lease (over one year) real estate, or to find a buyer, seller or lessee, for compensation ((a)(4)) [S-202];
 - agreements that by their terms are not to be performed during the promisor's lifetime ((a)(5)) [S-202];
-- reportedly, an agreement by a purchaser of real property to pay a debt secured by the property, and certain commercial loan commitments over $100,000 — both unconfirmed [VERIFY V-100].
+- commitments to lend money or extend credit of more than $100,000, not primarily for personal, family or household purposes, by a person in the business of lending ((a)(7)) [S-1350];
+- reportedly, an agreement by a purchaser of real property to pay a debt secured by the property ((a)(6)) — unconfirmed [VERIFY V-100].
 
 **Step 2 — Satisfying the statute.**
 - **Common-law memorandum** (R2d § 131): any writing or writings (§ 132) that reasonably identify the subject matter, show a contract was made, state the essential terms with reasonable certainty, and are **signed by the party to be charged** (§ 134; any authenticating mark).
   - It may be made after the contract, need not be delivered, and may be in an email or text.
   - Electronic signatures count (E-SIGN, 15 U.S.C. § 7001; **CA** UETA, Civ. Code § 1633.7).
   - **CA:** extrinsic evidence may clarify ambiguous essential terms but cannot supply missing ones (*Sterling v. Taylor* (2007) 40 Cal.4th 757) [S-204].
-- **UCC § 2-201(1).** A writing "sufficient to indicate" a contract, signed by the defendant. It need state only **quantity**, and the contract is not enforceable beyond the quantity shown. **CA:** Com. Code § 2201 [S-211] (current text may use "record" [VERIFY V-101]).
+- **UCC § 2-201(1).** A writing "sufficient to indicate" a contract, signed by the defendant. It need state only **quantity**, and the contract is not enforceable beyond the quantity shown. **CA:** Com. Code § 2201 [S-211], which since SB 95 (2022 UCC amendments, effective January 1, 2024) says "record" rather than "writing"; a record includes electronic forms [S-1351].
 - **Merchant's confirmation** (§ 2-201(2)). Between merchants, a written confirmation sent within a reasonable time, which the recipient has reason to know of, satisfies the statute **against the recipient** unless it objects in writing within 10 days of receipt. The sender must still prove the contract.
 
 **Step 3 — Exceptions.**
 | Exception | Applies to | Effect |
 |---|---|---|
-| Part performance (possession + payment or improvements; unequivocally referable) | Land | Specific performance (R2d § 129). **CA:** estoppel to prevent unconscionable injury or unjust enrichment (*Monarco v. Lo Greco* (1950) 35 Cal.2d 621) [VERIFY V-110] |
+| Part performance (possession + payment or improvements; unequivocally referable) | Land | Specific performance (R2d § 129). **CA:** estoppel to prevent unconscionable injury or unjust enrichment (*Monarco v. Lo Greco* (1950) 35 Cal.2d 621) [S-1358] |
 | Full performance by one party | One-year provision (majority) | Enforceable |
 | Promissory estoppel | All (R2d § 139), though some courts refuse | Enforced as justice requires |
 | Specially manufactured goods | Goods (§ 2-201(3)(a)) | Not suitable for others **and** the seller substantially began before notice of repudiation |
@@ -475,7 +476,7 @@ Puffery is not actionable. A promise made without intent to perform is fraud (pr
 | Restitution | All (R2d § 375) | Value of the benefit conferred |
 
 **Related rules.**
-- **Equal dignities.** An agent's authority to sign a contract that must be in writing must itself be in writing (**CA:** Civ. Code § 2309).
+- **Equal dignities.** In states with an equal dignities statute, an agent's authority to sign a contract that must be in writing must itself be in writing. The rule is not universal; **CA** codifies it (Civ. Code § 2309).
 - **Modifications.** If the contract as modified is within the statute, the modification must satisfy it (UCC § 2-209(3); **CA** Civ. Code § 1698(c) [S-201]).
 - **Rescission** of a land contract may itself need a writing if it re-transfers an interest.
 - **Effect of noncompliance.** The contract is unenforceable, not void. Only the party who did not sign may raise the defense, and the defense is waived if not pleaded.
@@ -583,9 +584,9 @@ Puffery is not actionable. A promise made without intent to perform is fraud (pr
 |---|---|---|
 | **Waiver** | The party protected by a condition may waive it by words or conduct (accepting late payments). A waiver of a non-material condition needs no consideration. A waiver of a **future** condition is retractable by notice received while a reasonable time remains for the condition to occur, unless the other party has materially changed position in reliance | R2d § 84 |
 | **Estoppel** | A party who led the other to believe the condition would not be insisted on, inducing reliance | Equity |
-| **Prevention / hindrance** | A party who wrongfully prevents or hinders a condition cannot rely on its failure (implied duty to cooperate) | R2d § 245 [VERIFY V-111]; **CA** Civ. Code § 1511 [VERIFY V-105] |
+| **Prevention / hindrance** | A party who wrongfully prevents or hinders a condition cannot rely on its failure (implied duty to cooperate) | R2d § 245 [VERIFY V-111]; **CA** Civ. Code §§ 1511, 1512 [S-1355] |
 | **Repudiation** | Excuses the other party's conditions | R2d § 255 |
-| **Impossibility of a non-material condition** | Excused if it is not a material part of the exchange | R2d § 271 [VERIFY V-111] |
+| **Impossibility of a non-material condition** | Excused if it is not a material part of the exchange and forfeiture would otherwise result | R2d § 271 [VERIFY V-111] |
 | **Disproportionate forfeiture** | A court may excuse a condition whose occurrence was not a material part of the exchange to avoid forfeiture (late notice under an insurance policy without prejudice) | R2d § 229; **CA** Civ. Code § 3275 |
 | **Divisibility / substantial performance** | For constructive conditions only | IV.C |
 
@@ -675,7 +676,7 @@ Puffery is not actionable. A promise made without intent to perform is fraud (pr
 - **Conspicuous** (§ 1-201(b)(10)): a reasonable person ought to have noticed it (headings in capitals, contrasting type).
 - **Timing:** a disclaimer delivered after the contract (on an invoice or in the box) is not part of the bargain unless agreed (§ 2-209 modification).
 - **Notice of breach:** within a reasonable time after discovery, or the buyer loses all remedies (§ 2-607(3)(a)).
-- **Who may sue** (§ 2-318): Alternative A covers the buyer's family, household and guests who are personally injured; Alternatives B and C are broader. Product injuries also raise tort strict liability.
+- **Who may sue** (§ 2-318): Alternative A covers natural persons in the buyer's family or household and guests in the buyer's home who may reasonably be expected to use, consume or be affected by the goods and are personally injured; Alternatives B and C are broader. **CA:** the Commercial Code appears not to include a § 2318; privity limits come from case law [VERIFY V-970]. Product injuries also raise tort strict liability.
 - **Limitations:** 4 years from tender of delivery (§ 2-725), which the parties may shorten to 1 year. The claim accrues on tender unless the warranty explicitly extends to future performance.
 - **Consumer overlays:** Magnuson-Moss (15 U.S.C. § 2308: no disclaimer of implied warranties by a written warrantor). **CA:** Song-Beverly Consumer Warranty Act, Civ. Code § 1790 et seq.
 - **Remedy limits:** UCC § 2-719 (repair or replace; failure of essential purpose; consequential-damages exclusions), covered in V.C.
@@ -804,7 +805,7 @@ Order of analysis:
 |---|---|---|---|
 | **Impossibility** | Objectively impossible: no one could perform | *Taylor v. Caldwell* (1863) (music hall burned) | Triggers: destruction of the specific subject matter (§ 263); death or incapacity of a person necessary for **personal** services (§ 262); supervening illegality (§ 264). A builder of a new structure that burns must rebuild; a repairer of an existing structure is discharged |
 | **Impracticability** | Excessive and unreasonable difficulty or expense | *Transatlantic Financing Corp. v. United States*, 363 F.2d 312 (D.C. Cir. 1966) (Suez closure; longer route not impracticable); *Mineral Park Land Co. v. Howard* (1916) 172 Cal. 289 (extreme cost) [VERIFY V-110] | **UCC § 2-615:** the seller is excused for delay or non-delivery caused by a contingency or by good-faith compliance with government regulation; it must allocate fairly among customers and notify. The buyer may terminate or modify (§ 2-616). Substitute performance is required if an agreed carrier or facility fails (§ 2-614). Market price swings are **not** enough |
-| **Frustration of purpose** | The principal purpose, known to both parties, is substantially frustrated | *Krell v. Henry* [1903] 2 K.B. 740 (coronation room); *Lloyd v. Murphy* (1944) 25 Cal.2d 48 (lease not frustrated; value not totally destroyed; risk foreseeable) [VERIFY V-110] | The performance is still possible but worthless to one side. Very narrow |
+| **Frustration of purpose** | The principal purpose, known to both parties, is substantially frustrated | *Krell v. Henry* [1903] 2 K.B. 740 (coronation room); *Lloyd v. Murphy* (1944) 25 Cal.2d 48 (lease not frustrated; value not totally destroyed; risk foreseeable) [S-1357] | The performance is still possible but worthless to one side. Very narrow |
 
 - **Temporary** impracticability suspends the duty. **Partial** impracticability allows partial performance and allocation.
 - **Force majeure clauses** are construed by their terms and may expand or narrow the default doctrines.
@@ -819,7 +820,7 @@ Order of analysis:
 |---|---|---|
 | **Full performance** | Discharges the performing party's duty | — |
 | **Mutual rescission** | An agreement to end the contract. Consideration is the mutual surrender of rights while both sides are executory. Oral is OK unless the SOF or a § 2-209(2) clause applies. Cannot defeat vested third-party beneficiary rights | R2d § 283; **CA** Civ. Code § 1689(a) |
-| **Release** | A writing discharging a duty. Consideration is needed at common law; under the UCC a signed record suffices for claims arising from breach | R2d § 284; UCC § 1-306; **CA** Civ. Code §§ 1541, 1542 (a general release does not cover unknown claims unless waived) |
+| **Release** | A writing discharging a duty. Consideration is needed at common law; under the UCC a signed record suffices for claims arising from breach | R2d § 284; UCC § 1-306; **CA** Civ. Code §§ 1541, 1542 (a general release does not cover unknown claims that would have materially affected the settlement, unless waived) |
 | **Accord and satisfaction** | An accord is an executory agreement to accept a substitute performance; satisfaction is its performance. Before satisfaction the original duty is suspended. If the debtor breaches the accord, the creditor may sue on the original duty or the accord. Requires a good-faith dispute or a new performance. A full-payment check on a disputed claim, if cashed, is an accord and satisfaction (UCC § 3-311) | R2d § 281; **CA** Civ. Code §§ 1521, 1523, 1524 [S-208] |
 | **Substituted contract** | A new contract immediately replaces the old duty | R2d § 279 |
 | **Novation** | A substituted contract with a new party, usually a new obligor; the original obligor is released with the obligee's consent | R2d § 280; **CA** Civ. Code §§ 1530, 1531 |
@@ -895,8 +896,8 @@ Order of analysis:
   - **Deposits** forfeited on a buyer's default are tested as liquidated damages. Under the UCC, absent a valid clause, the seller keeps the lesser of 20% or $500 (§ 2-718(2)(b)).
   - **CA:** Civ. Code § 1671.
     - In most contracts, the clause is **presumed valid**, and the challenger must prove it was unreasonable under the circumstances when made (§ 1671(b)).
-    - In specified consumer contracts and residential leases, it is void unless actual damages would be impracticable or extremely difficult to fix (§ 1671(c)–(d)) [S-200] [VERIFY V-107].
-    - Residential purchase deposits have their own rules (Civ. Code § 1675 et seq.) [VERIFY V-107].
+    - When liquidated damages are sought from a consumer (personal, family or household goods or services) or a residential tenant, it is void unless actual damages would be impracticable or extremely difficult to fix (§ 1671(c)–(d)) [S-200].
+    - Residential purchase deposits (Civ. Code § 1675): an amount actually paid of **3% of the price or less** is valid unless the buyer proves it unreasonable; more than 3% is invalid unless the seller proves it reasonable [S-1352].
 - **Limitation of remedies (UCC § 2-719).**
   - The parties may substitute or limit remedies (repair or replace, return and refund). The limited remedy is **exclusive** only if expressly agreed.
   - **Failure of essential purpose:** if the limited remedy fails (repeated unsuccessful repairs), the buyer gets general Code remedies.
@@ -936,7 +937,7 @@ Order of analysis:
     - unreasonable delay (laches), loss of the power of avoidance (R2d §§ 380–381 [VERIFY V-111]);
     - rights of bona fide purchasers;
     - unclean hands.
-  - **Election.** Rescission and expectation damages are generally inconsistent. The UCC allows both for fraud (§ 2-721).
+  - **Election.** Rescission and expectation damages are generally inconsistent. The UCC allows both for fraud (§ 2-721). **CA:** damages are not inconsistent with rescission; the court gives complete relief, including restitution and consequential damages, without duplicate recovery (Civ. Code § 1692) [S-462].
 - **Reformation (rewriting the writing to match the deal).**
   - **Grounds:**
     - mutual mistake in expression (a scrivener's error) (R2d § 155);
@@ -958,14 +959,14 @@ Order of analysis:
   5. **No equitable defenses:**
      - laches;
      - unclean hands;
-     - unconscionability or inadequate consideration (**CA** Civ. Code § 3391 [VERIFY V-108]);
+     - unconscionability or inadequate consideration, or a contract not just and reasonable as to the defendant (**CA** Civ. Code § 3391) [S-474] [S-1354];
      - mistake or misrepresentation;
      - sale to a bona fide purchaser;
      - the SOF, unless part performance applies.
 - **Mutuality of remedy** is no longer required if the plaintiff's performance is assured (**CA** Civ. Code § 3386 [VERIFY V-108]).
-- **CA:** breach of an agreement to transfer real property is presumed not adequately relieved by money; the presumption is conclusive for a single-family dwelling the buyer intends to occupy (Civ. Code § 3387). Obligations to render personal service, and contracts too uncertain, are not specifically enforceable (§ 3390) [VERIFY V-108].
+- **CA:** breach of an agreement to transfer real property is presumed not adequately relieved by money; the presumption is conclusive for a single-family dwelling the buyer intends to occupy (Civ. Code § 3387). Obligations to render personal service, and contracts too uncertain, are not specifically enforceable (§ 3390) [S-1354].
 - **UCC replevin** (§ 2-716(3)): for goods identified to the contract where the buyer cannot cover after reasonable effort.
-- **Personal-service contracts.** No specific performance (involuntary servitude; supervision). A **negative injunction** may bar a performer with unique skills from working for a competitor during the contract term if reasonable, and if it does not leave the person unable to earn a living (*Lumley v. Wagner* (1852)).
+- **Personal-service contracts.** No specific performance (involuntary servitude; supervision). A **negative injunction** may bar a performer with unique skills from working for a competitor during the contract term if reasonable, and if it does not leave the person unable to earn a living (*Lumley v. Wagner* (1852)). **CA:** only for a written contract for special or unique services that meets the minimum-compensation terms of Civ. Code § 3423(e) (R-REM-064) [S-459].
 - **How tested.** Essays: specific performance of a unique chattel (Jul 2017 Q3, chess piece; Remedies crossover); refusal of specific performance for an artist's personal services (Feb 2020 Q3); land deals (Jul 2019 Q5) [VERIFY V-071]. Pair it with TRO and preliminary-injunction analysis when the call asks (see the Remedies folder).
 
 > 🇨🇳 PRC bridge: PRC 继续履行 is a routine remedy; in the US, specific performance is an exceptional equitable remedy that requires inadequate damages (approx.).
