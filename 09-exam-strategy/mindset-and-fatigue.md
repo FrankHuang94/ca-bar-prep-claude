@@ -89,7 +89,7 @@ If your mind goes blank, your heart races, or you notice you have read the same 
 | **Day 2** | Same morning routine. The MBE is a stamina event: use the checkpoint resets ([05-mbe/strategy.md](../05-mbe/strategy.md) §5). Lunch is the same as Day 1: no discussing questions. |
 | **After** | Upload by the deadline (if not done) [S-009]. Then rest. Results come months later [S-012]. |
 
-**Food and drink:** nothing new on exam days. Use the same breakfast, lunch and caffeine habits you used on simulation days. The July 2026 rules allowed only water in the exam room [S-003]; check the 2027 bulletin [VERIFY V-050].
+**Food and drink:** nothing new on exam days. Use the same breakfast, lunch and caffeine habits you used on simulation days. The July 2026 rules allowed only water in the exam room (one clear, unlabeled bottle or cup with a lid, up to 40 oz; no other drinks or powder mixes) [S-003] [S-1736]; check the 2027 bulletin.
 
 ## 6. Rehearse the exam conditions
 - At least **two full 2-day simulations** (`/simulate`) at real start times. One goal is the score; the other is learning **how your energy behaves** in hour 5 of Day 1 and hour 5 of Day 2.

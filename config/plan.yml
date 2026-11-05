@@ -95,8 +95,8 @@ admissions:                                 # from 00-exam-intel/admissions-chec
   - {date: 2027-02-26, task: "File moral character application (latest recommended)"}
   - {date: 2027-03-01, task: "July 2027 exam application opens (est)"}
   - {date: 2027-03-23, task: "MPRE (Mar 23–24)"}
-  - {date: 2027-04-01, task: "Exam application timely deadline (est) — choose laptop + San Diego site"}
-  - {date: 2027-06-01, task: "Final filing deadline incl. accommodations (est)"}
+  - {date: 2027-04-01, task: "Exam application timely deadline (by rule; July 2027 page not yet posted) — choose laptop + San Diego site"}
+  - {date: 2027-06-01, task: "Final filing deadline incl. accommodations (by rule)"}
   - {date: 2027-06-25, task: "Confirm Cardozo has mailed the sealed LL.M. transcript to the State Bar (target)"}
   - {date: 2027-07-13, task: "Final eligibility deadline (est)"}
   - {date: 2027-07-23, task: "Examplify registration + mock exam deadline (est)"}

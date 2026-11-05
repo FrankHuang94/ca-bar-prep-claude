@@ -1514,7 +1514,7 @@ status: reviewed
 
 **Exceptions / defenses:** A generalized statutory presumption of trauma is not enough.
 
-**Authority:** *Coy v. Iowa*, 487 U.S. 1012 (1988); *Maryland v. Craig*, 497 U.S. 836 (1990); *Pitts v. Mississippi* (2025) [VERIFY V-034].
+**Authority:** *Coy v. Iowa*, 487 U.S. 1012 (1988); *Maryland v. Craig*, 497 U.S. 836 (1990); *Pitts v. Mississippi*, 607 U.S. 1 (2025) (per curiam) [S-1721].
 
 **MBE vs. CA essay:** Same.
 

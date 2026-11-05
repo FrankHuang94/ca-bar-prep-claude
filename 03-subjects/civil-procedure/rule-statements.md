@@ -138,8 +138,8 @@ status: reviewed
 **Rule (write this):** A defendant removes by filing in federal court a notice of removal, signed under Rule 11 and containing a short and plain statement of the grounds, within 30 days after formal service of the initial pleading—or within 30 days after receiving an amended pleading, motion, order or other paper from which removability first appears. In § 1441(a) removals all properly joined and served defendants must join in or consent; each defendant has its own 30 days. A case that becomes removable on diversity grounds only later (§ 1446(b)(3)) may not be removed more than one year after commencement unless the plaintiff acted in bad faith to prevent removal.
 
 **Elements:** 1. Timely notice (30 days). 2. Unanimity. 3. One-year cap (diversity cases removed under § 1446(b)(3)). 4. Prompt notice to adverse parties and the state court, which then proceeds no further.
-**Exceptions / defenses:** Informal receipt of the complaint does not start the clock (Murphy Bros.). An earlier-served defendant may consent to a later-served defendant's timely removal (§ 1446(b)(2)(C)). Unanimity is not required for § 1441(c), § 1442 or § 1453 removals. The notice need only plausibly allege the amount in controversy (Dart Cherokee).
-**Authority:** 28 U.S.C. § 1446(a)–(d); Murphy Bros. v. Michetti Pipe Stringing, Inc., 526 U.S. 344 (1999); Dart Cherokee Basin Operating Co. v. Owens, 574 U.S. 81 (2014).
+**Exceptions / defenses:** Informal receipt of the complaint does not start the clock (Murphy Bros.). An earlier-served defendant may consent to a later-served defendant's timely removal (§ 1446(b)(2)(C)). Unanimity is not required for § 1441(c), § 1442 or § 1453 removals. The notice need only plausibly allege the amount in controversy (Dart Cherokee). The 30-day deadline is nonjurisdictional but cannot be equitably tolled, so a court may not excuse a late removal on equitable grounds (Enbridge Energy, LP v. Nessel (2026) [S-1725]).
+**Authority:** 28 U.S.C. § 1446(a)–(d); Murphy Bros. v. Michetti Pipe Stringing, Inc., 526 U.S. 344 (1999); Dart Cherokee Basin Operating Co. v. Owens, 574 U.S. 81 (2014); Enbridge Energy, LP v. Nessel (2026) [S-1725].
 **MBE vs. CA essay:** Same rule.
 **Example:** D1 is served March 1 and D2 March 20. D2 may remove by April 19 with D1's consent, even though D1's own 30 days have run.
 
@@ -157,7 +157,7 @@ status: reviewed
 
 **Elements:** 1. Federal officer or person acting under one. 2. Conduct for or relating to the federal duties. 3. Colorable federal defense.
 **Exceptions / defenses:** The well-pleaded complaint rule and unanimity do not apply; a remand order in a § 1442 case is appealable (§ 1447(d)).
-**Authority:** 28 U.S.C. § 1442(a)(1); Mesa v. California, 489 U.S. 121 (1989); Chevron USA Inc. v. Plaquemines Parish (2026) [S-254] [VERIFY V-034].
+**Authority:** 28 U.S.C. § 1442(a)(1); Mesa v. California, 489 U.S. 121 (1989); Chevron USA Inc. v. Plaquemines Parish (2026) [S-1720] [S-254].
 **MBE vs. CA essay:** Same rule (low frequency).
 **Example:** A parish sues an oil company in state court over wartime production that the company says served federal aviation-fuel contracts. The company may remove if it plausibly alleges a close relationship between that production and its federal duties.
 
@@ -1036,7 +1036,7 @@ status: reviewed
 **Rule (write this):** In California, initial disclosures are made only on demand: within 60 days after any party demands them, each party that has appeared must disclose the persons likely to have discoverable information that it may use to support its claims or defenses (with the subjects of that information), copies or descriptions of the documents and ESI it may use, and applicable insurance agreements, unless all parties stipulate otherwise; unlawful-detainer, small-claims, Family Code and Probate Code proceedings and actions given trial preference under CCP § 36 are among the exempt actions, and the section does not apply to a party not represented by counsel [S-1410] [S-1835]. The court must impose a $1,000 sanction on a party, its attorney or both for specified misconduct, such as failing to respond in good faith to a document request or failing to confer in good faith, and may impose monetary, issue, evidence, terminating and contempt sanctions for misuse of the discovery process.
 
 **Elements:** Demand; 60 days; content; exemptions; graduated sanctions.
-**Exceptions / defenses:** The sunset on the initial-disclosure statute was removed in 2025, so it remains in force for July 2027 [S-112] [VERIFY V-029].
+**Exceptions / defenses:** The sunset on the initial-disclosure statute was removed in 2025, so it remains in force for July 2027 (SB 66, Stats. 2025, ch. 50) [S-112] [S-1731].
 **Authority:** CCP § 2016.090 [S-111] [S-113] [S-269] [S-1835] (exact disclosure-scope wording and completeness of the exempt list [VERIFY V-159]); CCP §§ 2023.010, 2023.030, 2023.050 [S-111].
 **MBE vs. CA essay:** Federal disclosures are automatic within 14 days after the 26(f) conference (R-CIV-062).
 **Example:** P demands initial disclosures 90 days after D answers. D must disclose within 60 days of the demand; if D later refuses document requests in bad faith, the $1,000 sanction is mandatory.

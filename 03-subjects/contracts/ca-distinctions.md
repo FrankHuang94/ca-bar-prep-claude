@@ -122,6 +122,6 @@ These are the defenses most often paired on California essays (Feb 2026 Q2 teste
 - **Essay move.** After the contract analysis, add a short heading "Possible tort claim (fraud)" when the facts show lies or concealment. Note that punitive damages are available for the tort (Civ. Code § 3294), not for the breach.
 
 ## Arbitration agreements (Quach)
-- Arbitration clauses are contracts. Federal law (the FAA) and California law treat them like other contracts, subject to defenses such as unconscionability (*Armendariz*).
+- Arbitration clauses are contracts. Federal law (the FAA) and California law treat them like other contracts, subject to defenses such as unconscionability (*Armendariz*). Fine or blurry print is a procedural-unconscionability fact only; it does not by itself make a term substantively unconscionable (*Fuentes v. Empire Nissan* (2026) [S-1727]).
 - **Waiver by litigation conduct.** *Quach v. California Commerce Club* (2024) abrogated California's former rule requiring the party opposing arbitration to show **prejudice** [S-131]. That aligns California with *Morgan v. Sundance, Inc.*, 596 U.S. 411 (2022). Ordinary waiver principles apply: did the party knowingly act inconsistently with the right to arbitrate?
 - This mainly matters in Civil Procedure and Performance Tests. In Contracts, it appears only if a dispute-resolution clause is in play.

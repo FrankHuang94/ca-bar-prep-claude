@@ -135,7 +135,7 @@ Two more filters:
 | 2:55–3:00 | — | Return to circled questions. Final bubble audit. |
 
 **Rules**
-- **Hard cap at about 2.5 minutes.** At the cap, bubble your best guess, circle the question number in the booklet, and move on. Writing in the question book appears to be allowed, since the bulletin says only that booklet marks are not graded [S-003] [VERIFY V-056].
+- **Hard cap at about 2.5 minutes.** At the cap, bubble your best guess, circle the question number in the booklet, and move on. Writing in the question book is allowed: the July 2026 bulletin says applicants may take notes in the hard-copy book, and no scratch paper is provided for the MBE [S-003] [S-1736]. Only the Scantron is graded, and no extra time is given to transfer answers [S-003].
 - **Long stems are not harder.** A long fact pattern often hides a simple issue. Read the call first and skim for the triggering facts.
 - **Pretest questions** are 25 of the 200, and you cannot spot them [S-006] [S-007]. A strange or unanswerable question might be a pretest item, or it might be scored. Either way, give it the normal time and move on. Never let one question take time from five others.
 - **Do not change an answer** at the end unless you can name a concrete reason: a misread fact or a rule you now remember. A vague feeling is not a reason.

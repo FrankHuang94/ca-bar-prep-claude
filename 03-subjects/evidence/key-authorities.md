@@ -134,7 +134,7 @@ Only citations the author is confident of are listed; items needing confirmation
 | *Giles v. California*, 554 U.S. 353 (2008) | Forfeiture requires intent to prevent testimony | R-EVD-106 |
 | *California v. Green*, 399 U.S. 149 (1970) | Substantive use of prior inconsistent statements of a testifying witness is constitutional | R-EVD-085 |
 | *Bruton v. United States*, 391 U.S. 123 (1968); *Richardson v. Marsh*, 481 U.S. 200 (1987); *Gray v. Maryland*, 523 U.S. 185 (1998); *Samia v. United States* (2023) [VERIFY V-035] | Codefendant confessions | R-EVD-113 |
-| *Coy v. Iowa*, 487 U.S. 1012 (1988); *Maryland v. Craig*, 497 U.S. 836 (1990); *Pitts v. Mississippi* (2025) [VERIFY V-034] | Face-to-face confrontation | R-EVD-114 |
+| *Coy v. Iowa*, 487 U.S. 1012 (1988); *Maryland v. Craig*, 497 U.S. 836 (1990); *Pitts v. Mississippi*, 607 U.S. 1 (2025) [S-1721] | Face-to-face confrontation | R-EVD-114 |
 | *Chambers v. Mississippi*, 410 U.S. 284 (1973); *Holmes v. South Carolina*, 547 U.S. 319 (2006) | Right to present a defense | R-EVD-115 |
 | *Diaz v. United States* (2024) [VERIFY V-035] | 704(b) not violated by testimony about most members of a group | R-EVD-058 |
 

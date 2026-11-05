@@ -66,7 +66,7 @@ status: reviewed
 
 | Topic | Statute | Rule (short) |
 |---|---|---|
-| Untenantable conditions | Civ. Code § 1941.1 | Waterproofing, plumbing, gas, hot and cold water, heating, electrical, clean premises, garbage receptacles, floors and stairs |
+| Untenantable conditions | Civ. Code § 1941.1 | Waterproofing, plumbing, gas, hot and cold water, heating, electrical, clean premises, garbage receptacles, floors and stairs; for a lease entered into, amended or extended on or after Jan. 1, 2026, also a stove and a refrigerator in good working order (a recalled unit does not count; the parties may agree at signing that the tenant supplies and maintains the refrigerator) (§ 1941.1(a)(10)–(11), AB 628, Stats. 2025, ch. 342) [S-1739] |
 | Repair and deduct | Civ. Code § 1942 | After notice and reasonable time (30 days presumed); up to one month's rent; twice in 12 months |
 | Waiver of habitability rights | Civ. Code § 1942.1 | Void |
 | Retaliation | Civ. Code § 1942.5 | 180-day presumption |

@@ -92,7 +92,7 @@ Full method: [05-mbe/strategy.md](../05-mbe/strategy.md) §3–§4. There are no
 - **The overrun almost always costs more than it gains.**
 
 **How to enforce hard stops:**
-- Write the stop times on scratch paper before you start. The State Bar has provided scratch paper in the written sessions [VERIFY V-050].
+- Write the stop times down before you start: on scratch paper if any is provided, otherwise at the top of your answer file. Scratch paper is not on the July 2026 bulletin's permitted-items list, and the bulletin does not say it is provided in the written sessions [S-003] [VERIFY V-050].
 - At each **stop minus 10 minutes**, apply the run-out-of-time protocol ([essay-method.md](essay-method.md) §8).
 - At the stop, finish the sentence and leave.
 

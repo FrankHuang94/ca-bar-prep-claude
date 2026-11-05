@@ -479,7 +479,7 @@ Rule 5.4 / MR 5.4; R-PRF-080.
 - No partnership with nonlawyers for law practice.
 - No nonlawyer ownership, directorship or control.
 - No interference by payors (rule 5.4(c)).
-- **AB 931 (2025):** until Jan. 1, 2030, no fee sharing with out-of-state alternative business structures, with exceptions [S-124] [VERIFY V-031].
+- **AB 931 (Stats. 2025, ch. 565):** until Jan. 1, 2030, no sharing of fees (reported: contingency fees; fixed or flat fees exempt) with an out-of-state alternative business structure (nonlawyer ownership or control; nonprofits excluded), unless the lawyer is also licensed in the approving state and the fee pays for legal services there; applies to agreements made from Jan. 1, 2026 [S-124] [S-1729] [VERIFY V-031].
 - Paying a nonlawyer for referrals also implicates rule 7.2(b) and B&P § 6152 (runners and cappers).
 - **Tested:** Feb. 2021 Q4.
 

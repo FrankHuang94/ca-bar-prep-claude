@@ -585,9 +585,9 @@ status: reviewed
 
 **Elements:** 1. Procedural element. 2. Substantive element. 3. Measured at formation. 4. A question of law for the court.
 
-**Exceptions / defenses:** A bad bargain is not unconscionable. Commercial parties seldom succeed.
+**Exceptions / defenses:** A bad bargain is not unconscionable. Commercial parties seldom succeed. In California, a contract's format (tiny, blurry or near-illegible print) goes only to procedural unconscionability; it does not make a term substantively unconscionable, but strong procedural unconscionability lowers the substantive showing needed (*Fuentes v. Empire Nissan, Inc.* (Cal. 2026) S280256 [S-1727]).
 
-**Authority:** UCC § 2-302; R2d § 208; *Williams v. Walker-Thomas Furniture Co.*, 350 F.2d 445 (D.C. Cir. 1965); Cal. Civ. Code § 1670.5; *Armendariz v. Foundation Health Psychcare Services, Inc.* (2000) 24 Cal.4th 83.
+**Authority:** UCC § 2-302; R2d § 208; *Williams v. Walker-Thomas Furniture Co.*, 350 F.2d 445 (D.C. Cir. 1965); Cal. Civ. Code § 1670.5; *Armendariz v. Foundation Health Psychcare Services, Inc.* (2000) 24 Cal.4th 83; *Fuentes v. Empire Nissan, Inc.* (Cal. Feb. 2, 2026, S280256) [S-1727].
 
 **MBE vs. CA essay:** same rule. California uses the sliding scale (*Armendariz*), often for arbitration clauses.
 

@@ -12,7 +12,7 @@ status: reviewed
 
 **How to use.** Each block gives a 1–3 sentence rule you can write verbatim, then elements, exceptions, authority and a short example. Constitutional Law on the California essays is **federal** constitutional law, so the MBE rule and the essay rule are almost always the same. Where a California provision could matter, the `MBE vs. CA essay` line says so; the full list is in [ca-distinctions.md](ca-distinctions.md).
 
-**Citation conventions.** Leading cases carry U.S. Reports citations only where certain. Decisions from October Terms 2022–2024 carry `[VERIFY V-035]`; October Term 2025 decisions confirmed from the opinion by search (supremecourt.gov or Cornell LII) carry only their `S-###` source; *Ellingburg v. United States*, which has no logged source yet, still carries `[VERIFY V-034]`. Other recent decisions are tagged `[VERIFY V-200]`. Plurality opinions, and judgments with no majority opinion, are labelled where cited; on an essay, cite them for the result, not as a majority holding.
+**Citation conventions.** Leading cases carry U.S. Reports citations only where certain. Decisions from October Terms 2022–2024 carry `[VERIFY V-035]`; October Term 2025 decisions confirmed from the opinion by search (supremecourt.gov or Cornell LII) carry only their `S-###` source. Other recent decisions are tagged `[VERIFY V-200]`. Plurality opinions, and judgments with no majority opinion, are labelled where cited; on an essay, cite them for the result, not as a majority holding.
 
 ---
 
@@ -1122,7 +1122,7 @@ status: reviewed
 
 **Elements:** 1. Retroactive. 2. Criminal or punitive in purpose or effect (Smith v. Doe intent-effects test). 3. Disadvantages the offender within a Calder category.
 
-**Exceptions / defenses:** Civil sex-offender registration is not punitive (Smith v. Doe). Reviving an already-expired limitations period is ex post facto (Stogner). Retroactive judicial expansions of crimes are limited by due process, not the Ex Post Facto Clauses (Bouie; Rogers). MVRA restitution is criminal punishment for Ex Post Facto purposes (Ellingburg v. United States (2026) [VERIFY V-034]).
+**Exceptions / defenses:** Civil sex-offender registration is not punitive (Smith v. Doe). Reviving an already-expired limitations period is ex post facto (Stogner). Retroactive judicial expansions of crimes are limited by due process, not the Ex Post Facto Clauses (Bouie; Rogers). MVRA restitution is criminal punishment for Ex Post Facto purposes (Ellingburg v. United States (2026) [S-1722]).
 
 **Authority:** U.S. Const. art. I, § 9, cl. 3; art. I, § 10, cl. 1; *Calder v. Bull*, 3 U.S. (3 Dall.) 386 (1798); *Smith v. Doe*, 538 U.S. 84 (2003); *Stogner v. California*, 539 U.S. 607 (2003); *Peugh v. United States*, 569 U.S. 530 (2013); *Bouie v. City of Columbia*, 378 U.S. 347 (1964); *Rogers v. Tennessee*, 532 U.S. 451 (2001).
 
@@ -1187,7 +1187,7 @@ status: reviewed
 
 **Elements:** 1. Sincere religious exercise. 2. Substantial burden. 3. Government's compelling interest applied to the particular claimant. 4. Least restrictive means.
 
-**Exceptions / defenses:** RFRA is unconstitutional as applied to the states (Boerne). Closely held corporations are "persons" under RFRA (Hobby Lobby). Damages: RLUIPA does not authorize damages against a State (Sossamon v. Texas, 563 U.S. 277 (2011)); RFRA permits damages against federal officials in their individual capacities (Tanzin v. Tanvir, 592 U.S. 43 (2020)); whether RLUIPA permits individual-capacity damages was before the Court in Landor v. Louisiana Dep't of Corrections (No. 23-1197, October Term 2025), whose holding is not yet integrated [VERIFY V-982].
+**Exceptions / defenses:** RFRA is unconstitutional as applied to the states (Boerne). Closely held corporations are "persons" under RFRA (Hobby Lobby). Damages: RLUIPA does not authorize damages against a State (Sossamon v. Texas, 563 U.S. 277 (2011)); RFRA permits damages against federal officials in their individual capacities (Tanzin v. Tanvir, 592 U.S. 43 (2020)); RLUIPA does not allow damages suits against state officials in their individual capacities, because a Spending Clause statute binds only those who knowingly and voluntarily accepted its conditions (Landor v. Louisiana Dep't of Corrections & Public Safety (2026) [S-1723]).
 
 **Authority:** 42 U.S.C. § 2000bb-1 (RFRA); 42 U.S.C. §§ 2000cc, 2000cc-1 (RLUIPA); *Gonzales v. O Centro Espírita Beneficente União do Vegetal*, 546 U.S. 418 (2006); *Holt v. Hobbs*, 574 U.S. 352 (2015); *Cutter v. Wilkinson*, 544 U.S. 709 (2005); *Burwell v. Hobby Lobby Stores, Inc.*, 573 U.S. 682 (2014); *City of Boerne v. Flores*, 521 U.S. 507 (1997).
 

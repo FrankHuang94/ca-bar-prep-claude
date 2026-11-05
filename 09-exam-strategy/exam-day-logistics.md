@@ -52,16 +52,19 @@ status: reviewed
 |---|---|
 | Paper **Scantron** answer sheet; no laptop. | [S-003] [S-008] |
 | Only answers on the Scantron are graded. Marks in the question book are not, and **no extra time is given to transfer answers**. | [S-003] |
-| The MBE's list of allowed items is **stricter** than the written sessions' list. For example, no scratch paper, rulers, computer, mouse or keyboard. | [S-003] [VERIFY V-050] |
+| The MBE's list of allowed items is **stricter** than the written sessions' list. **Scratch paper and paper of any kind are prohibited**; you may take notes in the hard-copy question book instead. | [S-003] [S-1736] |
+| **Bring your own pencils:** a sufficient supply of **non-mechanical, soft-lead #2 pencils** for the Scantron. Test centers do not provide pencils. Erasers are allowed if they have no writing on them; mechanical pencils are prohibited. | [S-003] [S-1736] |
+| Other MBE-specific bans (e.g., rulers, computer, mouse, keyboard) were reported from the same bulletin; confirm in the 2027 bulletin. | [S-003] [VERIFY V-050] |
 
-### Items, food and water (July 2026 bulletin; every row [VERIFY V-050])
+### Items, food and water (July 2026 bulletin; rows re-confirmed by search on 2026-11-05 unless tagged)
 | Item | July 2026 rule | Source |
 |---|---|---|
 | Clear bag | Permitted items (e.g., medication, foam earplugs, pens) go in **one small clear plastic bag, no larger than one gallon**, which can stay on your desk. Other bags, backpacks, laptop sleeves and purses are prohibited in the room. | [S-003] |
 | Earplugs | **Foam** earplugs, not connected to each other. Silicone, wax or electronic earplugs are prohibited. | [S-003] |
 | Water | **One clear, unlabeled bottle or cup with a lid, up to 40 oz, water only.** Water is **not** provided in the exam room. Check the size limit again in the 2027 bulletin. | [S-003] |
-| Food | **No eating in the exam room.** Lunch follows the morning session, and you must leave the building or secure area unless an accommodation says otherwise. Bring your own lunch and snacks; they stay outside the testing area and cannot be accessed during a session. | [S-003] |
-| Prohibited items left outside the room | Proctors are not responsible for them, and you cannot reach them during a session. | [S-003] |
+| Food | **No food, and no drinks other than water, in the exam room** [S-1736]. Lunch follows the morning session, and you must leave the building or secure area unless an accommodation says otherwise. Bring your own lunch and snacks; they stay outside the testing area and cannot be accessed during a session [VERIFY V-050]. | [S-003] |
+| Pens and pencils (written sessions) | Blue or black ink ballpoint pens are needed only if you are approved to handwrite. Pencils, highlighters and white-out cannot be used on essay or PT answers. | [S-003] [S-1736] |
+| Prohibited items left outside the room | Proctors are not responsible for them, and you cannot reach them during a session. | [S-003] [VERIFY V-050] |
 
 ### Test sites (San Diego area, July 2026; 2027 sites not yet published [VERIFY V-052])
 | Site | Address | Notes | Source |
@@ -75,8 +78,8 @@ status: reviewed
 
 When the July 2027 bulletin is published, confirm each of these and update the tables above:
 
-- [ ] The full **permitted and prohibited items** lists for written sessions and for the MBE, including pens, **pencils** (whether #2 pencils are supplied or brought), highlighters, erasers, and whether you may write in the MBE question book [VERIFY V-050] [VERIFY V-056].
-- [ ] Whether **scratch paper** is provided in the written sessions [VERIFY V-050].
+- [ ] The full **permitted and prohibited items** lists for written sessions and for the MBE, including pens, highlighters and erasers [VERIFY V-050]. In July 2026 you had to **bring your own #2 pencils** for the MBE and could take notes in the MBE question book [S-003] [S-1736]; confirm both are unchanged.
+- [ ] Whether **scratch paper** is provided in the written sessions. It is not on the July 2026 permitted list, and the bulletin does not say it is provided [VERIFY V-050].
 - [ ] Rules on **food, water** (size limit), medication and **earplugs** [VERIFY V-050].
 - [ ] **ID** rules, including whether a foreign passport is acceptable and whether the name must match your application exactly [VERIFY V-050].
 - [ ] **Session times** and lunch-break length for both days [VERIFY V-055].
@@ -125,7 +128,7 @@ Dates assume the 2026 pattern holds. **(est.)** = not yet published [VERIFY V-01
 **Day 1 (written)**
 - [ ] Printed admittance ticket + physical government photo ID
 - [ ] Laptop (charged) + charger (+ adapter if needed)
-- [ ] One-gallon clear bag: pens, foam earplugs, medication as needed
+- [ ] One-gallon clear bag: pens (needed only if you handwrite), foam earplugs, medication as needed
 - [ ] Clear unlabeled water bottle (2026 limit: 40 oz)
 - [ ] Lunch and snacks (stay outside the testing area)
 - [ ] Layered clothing (room temperature is outside your control); a watch only if allowed [VERIFY V-050]
@@ -133,7 +136,7 @@ Dates assume the 2026 pattern holds. **(est.)** = not yet published [VERIFY V-01
 
 **Day 2 (MBE)**
 - [ ] Ticket + ID
-- [ ] Clear bag: pencils and eraser if allowed or required [VERIFY V-056], foam earplugs, medication
+- [ ] Clear bag: a sufficient supply of **non-mechanical soft-lead #2 pencils** (2026: test centers do not provide them) and an eraser with no writing on it [S-003] [S-1736], foam earplugs, medication
 - [ ] Water, lunch, layers
 - [ ] **No laptop needed.** Leave it at home if prohibited items have nowhere safe to go.
 

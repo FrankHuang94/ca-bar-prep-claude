@@ -190,7 +190,7 @@ From today: **up by 6:30 a.m.** Do 15 minutes of Anki before work, so you practi
 - **Essay or /spot:** none scheduled. Instead, a 10-minute read-only review of the openers of Contracts Template 1 and Remedies Template 1.
 - **Checklist:**
   - [ ] Examplify mock confirmation saved.
-  - [ ] MBE-day rules on pencils and erasers checked in the bulletin [VERIFY V-056].
+  - [ ] MBE-day pencil rule re-checked in the 2027 bulletin (2026: bring your own non-mechanical #2 pencils; erasers allowed) [S-003] [S-1736].
 
 ### Thu Jul 22 (T−5) · 3 h · must-know: Civ Pro, Con Law
 - **Reread:** the Civ Pro and Con Law must-know tiers; the Civ Pro numbers table.
@@ -270,7 +270,7 @@ From today: **up by 6:30 a.m.** Do 15 minutes of Anki before work, so you practi
 5. **Pack for Day 2:**
    - [ ] ticket and ID;
    - [ ] clear bag with foam earplugs and medication;
-   - [ ] pencils and eraser if allowed [VERIFY V-056];
+   - [ ] non-mechanical soft-lead #2 pencils (2026: test centers do not provide them) and an eraser [S-003] [S-1736];
    - [ ] water, lunch, layers;
    - [ ] **no laptop needed.**
 6. **MBE mechanics.**

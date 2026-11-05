@@ -93,7 +93,8 @@ Only citations the author is confident of are listed; recent decisions carry the
 | BP p.l.c. v. Mayor & City Council of Baltimore (2021) | Whole remand order reviewable when § 1442 invoked |
 | Royal Canin U.S.A., Inc. v. Wullschleger (2025) [VERIFY V-035] | Post-removal amendment dropping federal claims → remand |
 | Hain Celestial Group, Inc. v. Palmquist (2026) [S-251] | Erroneous dismissal of non-diverse defendant does not cure; vacate |
-| Chevron USA Inc. v. Plaquemines Parish (2026) [S-254] [VERIFY V-034] | § 1442 "relating to": plausible close relationship |
+| Chevron USA Inc. v. Plaquemines Parish (2026) [S-1720] [S-254] | § 1442 "relating to": plausible close (not tenuous, remote or peripheral) relationship to federal duties |
+| Enbridge Energy, LP v. Nessel (2026) [S-1725] | § 1446(b)(1) 30-day removal deadline: nonjurisdictional; no equitable tolling |
 
 ### Personal jurisdiction and notice
 | Case | Holding / rule |
