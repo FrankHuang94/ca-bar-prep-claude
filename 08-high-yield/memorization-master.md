@@ -3,7 +3,7 @@ subject: high-yield
 topic: Memorization master plan — tiers, must-know rule IDs, spaced repetition and self-testing across all 13 subjects
 coverage_ids: []
 tested_on: [MBE, essay]
-exam_frequency: {level: high, basis: "Consolidates the 13 subject memorization-list.md tiers (1,432 rules); tiers reflect NCBE weights and past-essay tags (V-071)"}
+exam_frequency: {level: high, basis: "Consolidates the 13 subject memorization-list.md tiers (1,434 rules); tiers reflect NCBE weights and past-essay tags (V-071)"}
 last_verified: 2026-11-05
 status: draft
 ---
@@ -30,16 +30,16 @@ Subjects are ordered by how often they appear on California essays. Each list's 
 | Community Property | 103 | 48 | 45 | 10 | 59 / 126 | [CMP](../03-subjects/community-property/memorization-list.md) |
 | Contracts | 117 | 57 | 52 | 8 | 84 / 150 | [CTR](../03-subjects/contracts/memorization-list.md) |
 | Remedies | 94 | 49 | 34 | 11 | 74 / 120 | [REM](../03-subjects/remedies/memorization-list.md) |
-| Criminal Law & Procedure | 120 | 50 | 45 | 25 | 78 / 150 | [CRM](../03-subjects/criminal-law-procedure/memorization-list.md) |
+| Criminal Law & Procedure | 121 | 50 | 46 | 25 | 78 / 151 | [CRM](../03-subjects/criminal-law-procedure/memorization-list.md) |
 | Evidence | 115 | 45 | 49 | 21 | 73 / 145 | [EVD](../03-subjects/evidence/memorization-list.md) |
 | Business Associations | 109 | 43 | 55 | 11 | 57 / 129 | [BUS](../03-subjects/business-associations/memorization-list.md) |
 | Real Property | 121 | 59 | 46 | 16 | 89 / 147 | [PRP](../03-subjects/real-property/memorization-list.md) |
 | Civil Procedure | 120 | 70 | 45 | 5 | 91 / 150 | [CIV](../03-subjects/civil-procedure/memorization-list.md) |
-| Constitutional Law | 117 | 54 | 58 | 5 | 76 / 146 | [CON](../03-subjects/constitutional-law/memorization-list.md) |
+| Constitutional Law | 118 | 54 | 59 | 5 | 76 / 147 | [CON](../03-subjects/constitutional-law/memorization-list.md) |
 | Torts | 115 | 65 | 40 | 10 | 98 / 149 | [TRT](../03-subjects/torts/memorization-list.md) |
 | Wills & Succession | 105 | 42 | 45 | 18 | 69 / 138 | [WIL](../03-subjects/wills-succession/memorization-list.md) |
 | Trusts | 96 | 38 | 49 | 9 | 55 / 118 | [TRS](../03-subjects/trusts/memorization-list.md) |
-| **Total** | **1,432** | **667** | **603** | **162** | **984 / 1,806** | |
+| **Total** | **1,434** | **667** | **605** | **162** | **984 / 1,808** | |
 
 Every rule sits in exactly one tier. The three tiers in each list together cover every rule in that subject's rulebook, with no gaps and no duplicates.
 
@@ -98,7 +98,7 @@ This ties the tiers to the five loops in [`spaced-repetition.md`](../01-study-pl
 
 | Goal | Command | Cards (2026-11-05) |
 |---|---|---|
-| Everything: flashcards plus one card per rule statement | `python scripts/build_anki.py --include-rules` | 3,238 (1,806 flashcards + 1,432 rule cards) |
+| Everything: flashcards plus one card per rule statement | `python scripts/build_anki.py --include-rules` | 3,242 (1,808 flashcards + 1,434 rule cards) |
 | Must-know flashcards **plus** must-know rule cards (the daily deck from W28) | `python scripts/build_anki.py --tag must-know --include-rules` | **1,651** (984 must-know flashcards + 667 must-know rule cards). Each rule card is tagged `rule-statement` and its memorization tier (`must-know`, `should-know` or `nice-to-know`), so the tier filter keeps exactly the must-know rules |
 | Must-know flashcards only | `python scripts/build_anki.py --tag must-know` | 984 |
 | One subject | add `--subject PRF` (repeatable) | — |
