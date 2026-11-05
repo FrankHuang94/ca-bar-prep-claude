@@ -93,7 +93,7 @@ Courts almost uniformly treat blasting as abnormally dangerous. **Ridgeview is s
 
 **D. Strict liability: the "kind of harm" limit.** Ridgeview will argue that Juniper was not struck by rock or shaken by ground concussion. She panicked at the noise and injured herself running through a fence. Courts in the classic cases about ranched animals frightened by distant blasting have refused strict liability because fright of an animal is not the risk that makes blasting abnormally dangerous. Owen will respond that the blast's noise and shock are themselves inherent in blasting, that a horse 900 feet away is a foreseeable victim, and that the ordinance itself treats blasting as a danger to residents' "property." Keeping horses in a rural area is not an abnormally sensitive activity of the kind that defeats strict liability (R2d § 524A).
 
-The point is close, but **most courts would likely deny strict liability** for harm that comes only from an animal's fright. Owen's stronger claim is negligence per se.
+The point is close, but **many courts would deny strict liability** for harm that comes only from an animal's fright. Owen's stronger claim is negligence per se.
 
 **E. Negligence per se.** A statute or ordinance that imposes a duty may set the standard of care if it was designed to protect the class of persons that includes the plaintiff against the type of harm the plaintiff suffered. Under the majority rule an unexcused violation is negligence per se, establishing duty and breach; causation and damages must still be proved.
 

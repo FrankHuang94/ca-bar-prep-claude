@@ -128,7 +128,7 @@ The written limited warranty covers "defects in materials and workmanship." Vall
 
 **The fitness warranty was likely effectively disclaimed.**
 
-**E. Notice and damages.** A buyer who has accepted goods must notify the seller of breach within a reasonable time after discovering it (§ 2-607(3)(a)). Valley Bloom used the systems, so it accepted them, and it notified Sierra in writing on April 10, within days of discovering the clogging. Notice was timely.
+**E. Notice and damages.** A buyer who has accepted goods must notify the seller of breach within a reasonable time after it discovers or should have discovered the breach (§ 2-607(3)(a)). Valley Bloom used the systems, so it accepted them, and it notified Sierra in writing on April 10, within days of discovering the clogging. Notice was timely.
 
 For accepted goods, the buyer recovers the difference between the value of the goods as warranted and as accepted, often measured by the cost of making them conform (§ 2-714(2)): here **$9,600** for hard-water nozzles. It also recovers consequential damages resulting from needs the seller had reason to know of at contracting that could not reasonably have been prevented (§ 2-715(2)(a)). Rita told Tom that clogging had ruined her last system, so dead seedlings were a foreseeable result of nozzles that clog. Sierra may argue that Valley Bloom should have noticed the clogging sooner, which bears on mitigation. Valley Bloom's likely recovery on the merchantability claim is **about $27,600** ($9,600 + $18,000). As an alternative, it may seek rescission for misrepresentation, return the systems and recover the price, plus damages (rescission for fraud does not bar damages under § 2-721).
 

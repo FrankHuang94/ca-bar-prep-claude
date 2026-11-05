@@ -78,7 +78,7 @@ Victor lost the election. His restaurant's revenue fell 20% after September 5. M
 - *Falsity.* The county list shows a clean inspection for Lam's Kitchen; the citation was at an unrelated restaurant.
 - *Form and damages.* A written newsletter is libel. At common law general damages are presumed, and in California libel that is defamatory on its face needs no proof of special damages (Civ. Code § 45a). Victor's 20% drop in revenue is also provable special damage.
 
-The drone photograph next to the story, captioned "Lam relaxes at home," adds a **false-light** claim (a highly offensive false portrayal), but it rests on the same falsehood and is subject to the same constitutional limits, so it adds little.
+The rat-droppings story also supports a **false-light** claim (publicity placing Victor in a false light that would be highly offensive to a reasonable person), but it rests on the same falsehood and is subject to the same constitutional limits, so it adds little. The drone photograph is accurate, so it does not itself create a false light; its taking and use are analyzed under intrusion and appropriation below.
 
 **B. Constitutional overlay.** A public official or public figure must prove by clear and convincing evidence that the statement was false and was made with actual malice: knowledge of its falsity or reckless disregard for the truth, meaning the defendant actually had serious doubts about it (*New York Times v. Sullivan*; *St. Amant*).
 

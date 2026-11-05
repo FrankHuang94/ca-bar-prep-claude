@@ -3,7 +3,7 @@ id: E-PRP-003
 type: single
 subjects: [PRP]
 coverage_ids: [PRP-CBX-VII-IX, PRP-MBE-V.D.1, PRP-MBE-IV.A.1.a, PRP-MBE-IV.A.1.b, PRP-MBE-IV.B.2, PRP-MBE-IV.C.1, PRP-MBE-IV.C.2, PRP-MBE-IV.C.3, PRP-MBE-IV.F.1, PRP-MBE-IV.F.2, PRP-MBE-IV.F.3, PRP-MBE-IV.F.4]
-rule_ids: [R-PRP-087, R-PRP-090, R-PRP-100, R-PRP-116, R-PRP-117, R-PRP-094, R-PRP-095, R-PRP-093, R-PRP-099, R-PRP-101, R-PRP-102, R-PRP-104, R-CTR-110]
+rule_ids: [R-PRP-087, R-PRP-090, R-PRP-100, R-PRP-116, R-PRP-117, R-PRP-094, R-PRP-095, R-PRP-093, R-PRP-099, R-PRP-101, R-PRP-102, R-PRP-103, R-PRP-104, R-CTR-110]
 calls:
   - "1. As between Carl and Delta, whose mortgage has priority? Discuss."
   - "2. What are Owen's and Pia's obligations on each of the three loans? Discuss."
@@ -17,7 +17,7 @@ issues:
   - {issue: "Pia's assumption of the Delta loan: primary liability; Delta as intended beneficiary; Owen as surety; subrogation", points: 12, call: 2, major: true, rule_ids: [R-PRP-094, R-PRP-095, R-CTR-110], coverage_ids: [PRP-MBE-IV.C.1, PRP-MBE-IV.C.3]}
   - {issue: "Carl's mortgage: Pia takes subject to it with record notice; Owen alone personally liable", points: 6, call: 2, rule_ids: [R-PRP-094, R-PRP-117], coverage_ids: [PRP-MBE-IV.C.2]}
   - {issue: "Default, acceleration, judicial foreclosure; necessary parties; redemption before sale", points: 6, call: 3, rule_ids: [R-PRP-099, R-PRP-101, R-PRP-093], coverage_ids: [PRP-MBE-IV.F.1, PRP-MBE-IV.F.2, PRP-MBE-IV.F.3]}
-  - {issue: "Effect of foreclosure: Quinn takes subject to the senior First Bank mortgage; junior interests extinguished", points: 8, call: 3, major: true, rule_ids: [R-PRP-101], coverage_ids: [PRP-MBE-IV.F.3]}
+  - {issue: "Effect of foreclosure: Quinn takes subject to the senior First Bank mortgage; junior interests extinguished; statutory redemption", points: 8, call: 3, major: true, rule_ids: [R-PRP-101, R-PRP-103], coverage_ids: [PRP-MBE-IV.F.3]}
   - {issue: "Distribution of the sale proceeds", points: 10, call: 3, major: true, rule_ids: [R-PRP-102], coverage_ids: [PRP-MBE-IV.F.4]}
   - {issue: "Deficiency against Pia and Owen; California one-action and fair-value limits", points: 8, call: 3, rule_ids: [R-PRP-102, R-PRP-104, R-PRP-095], coverage_ids: [PRP-MBE-IV.F.4]}
   - {issue: "Carl's and First Bank's remaining claims; result if Carl were senior", points: 6, call: 3, rule_ids: [R-PRP-101, R-PRP-094, R-PRP-116], coverage_ids: [PRP-MBE-IV.F.3, PRP-MBE-IV.C.2]}
@@ -122,6 +122,7 @@ The necessary parties are the current owner (Pia), anyone against whom a deficie
 
 - *Senior interest.* **Quinn owns the building subject to First Bank's $500,000 mortgage.** Quinn did not assume that debt, so he is not personally liable, but First Bank may foreclose on the building if the loan is not paid.
 - *Junior interests.* Delta's mortgage is satisfied out of the sale and extinguished. Carl, a joined junior, loses his lien.
+- *Statutory redemption.* About half the states let the mortgagor redeem for a fixed period after the sale by paying the sale price plus costs and interest. In California, when the decree permits a deficiency, the property is sold subject to a right of redemption that lasts one year where, as here, the proceeds do not satisfy the debt (CCP § 729.030). Quinn's title would then be subject to Pia's right to redeem for that year.
 
 **C. Distribution of the proceeds.** Proceeds go first to the costs of sale, then to the foreclosing mortgagee's debt, then to junior interests in order of priority, with any surplus to the mortgagor/owner. Senior lienholders are not paid from the proceeds.
 
@@ -137,7 +138,7 @@ First Bank receives nothing from the proceeds; its lien remains on the building.
 
 **D. Delta's deficiency.** Delta is short $40,000. If the proceeds do not satisfy the debt, the mortgagee may obtain a personal deficiency judgment against those personally liable, unless a statute limits it. **Delta may obtain a $40,000 deficiency against Pia (the assuming grantee) and Owen (the original mortgagor, as surety).** If Owen pays, he may recover from Pia by subrogation.
 
-In California, the one-action rule is satisfied because Delta foreclosed on its security first. After a judicial sale, however, a deficiency is limited to the amount by which the debt exceeds the property's fair value (CCP § 726(b)), not the bid price. The building is worth about $700,000 free of liens, or about $200,000 above First Bank's senior mortgage. If the court values the interest sold at about $200,000, which exceeds Delta's $190,000 debt, the fair-value limit would leave Delta little or no deficiency. Had Delta used a nonjudicial trustee's sale, no deficiency would be allowed (CCP § 580d).
+In California, the one-action rule is satisfied because Delta foreclosed on its security first. After a judicial sale, however, the deficiency is limited to the amount by which the debt, with interest and the costs of sale and of the action, exceeds the fair value of the real property or interest sold, and it may never exceed the debt minus the sale price (CCP § 726(b)). Delta sold the building subject to First Bank's $500,000 senior mortgage, so the interest sold is likely valued at the building's value less that debt, about $200,000 ($700,000 − $500,000) [VERIFY V-830]. That roughly equals Delta's $190,000 debt plus the $10,000 costs of sale. In California, Delta's deficiency therefore lies between zero and $40,000 and is likely little or none; how a court values a junior lienholder's interest at the fair-value hearing is the open point. Had Delta used a nonjudicial trustee's sale, no deficiency would be allowed (CCP § 580d).
 
 **E. Carl and First Bank.**
 - *Carl.* His lien is gone, but his debt is not. He may sue Owen personally on the $150,000 note. He has no claim against Pia, who never assumed it, or against Quinn or the building.
@@ -157,7 +158,7 @@ In California, the one-action rule is satisfied because Delta foreclosed on its 
 | Pia's assumption | 12 | Personal, primary liability; Delta as intended beneficiary; Owen as surety; subrogation | R-PRP-094, R-PRP-095, R-CTR-110 |
 | Carl after the sale | 6 | Record (and actual) notice; takes subject to; no personal liability; Owen liable | R-PRP-094, R-PRP-117 |
 | Foreclosure; parties | 6 | Acceleration clause; judicial foreclosure; necessary parties; senior not needed; redemption before sale | R-PRP-099, R-PRP-101, R-PRP-093 |
-| Effect; Quinn's title | 8 | Quinn subject to First Bank; juniors extinguished; Quinn not personally liable | R-PRP-101 |
+| Effect; Quinn's title | 8 | Quinn subject to First Bank; juniors extinguished; Quinn not personally liable; CA one-year statutory redemption | R-PRP-101, R-PRP-103 |
 | Distribution | 10 | Costs, then Delta, then Carl, then owner; senior not paid; numbers | R-PRP-102 |
 | Deficiency | 8 | $40,000 against Pia and Owen; subrogation; CA one-action, § 726(b) fair-value limit, § 580d | R-PRP-102, R-PRP-104, R-PRP-095 |
 | Remaining claims; alternative | 6 | Carl's unsecured claim against Owen; First Bank's rights; result if Carl were senior | R-PRP-101, R-PRP-094, R-PRP-116 |
@@ -176,4 +177,4 @@ In California, the one-action rule is satisfied because Delta foreclosed on its 
 4. Holding Pia personally liable on Carl's or First Bank's loan.
 5. Forgetting that the original mortgagor stays liable after an assumption, as a surety.
 
-**Accuracy notes.** Rules follow R-PRP-094, -095 and -099 to -104. The answer does not rely on the rulebook's flagged statements about modification of a senior mortgage (V-673). The California fair-value point is stated as a limit tied to the property's fair value under CCP § 726(b); how the court values a junior lienholder's interest sold subject to a senior mortgage should be checked [VERIFY V-830]. Equity of redemption (before sale) is distinguished from statutory redemption (after sale), which is not needed here.
+**Accuracy notes.** Rules follow R-PRP-094, -095 and -099 to -104. The answer does not rely on the rulebook's flagged statements about modification of a senior mortgage (V-673). The California fair-value point is stated as a limit tied to the property's fair value under CCP § 726(b); how the court values a junior lienholder's interest sold subject to a senior mortgage should be checked [VERIFY V-830]. Equity of redemption (before sale) is distinguished from statutory redemption (after sale), which follows R-PRP-103 (CCP § 729.030 [S-763]).
