@@ -13,7 +13,7 @@
 | 2 — Foundations, strategy, study plan | ✅ **Done (awaiting review)** | 02-foundations (5 files, 475-term glossary), MBE/essay/PT strategy, 38-week plan; VERIFY V-040–V-060 |
 | 3 — Past exams | ✅ Done | 31 administrations (Feb 2012–Jul 2026): 166 essays + 42 PTs indexed and analyzed (index-level); frequency analysis; 2 PAST rows | Archive covers Feb 2012 → July 2026 [S-079] |
 | 4 — Subject content | ✅ **Done (awaiting review)**: all 13 subjects built; all 616 coverage rows mapped | Groups: (1) CTR CIV CON CRM · (2) CMP REM · (3) EVD PRF WIL TRS · (4) TRT PRP BUS |
-| 5 — Question bank | 🔄 **Wave 1 done (awaiting review)**: 350 MCQs, 39 essays, 3 PTs | Wave 2 (expansion to targets + simulations) next |
+| 5 — Question bank | ✅ **Done (awaiting review)**: 1,050 MCQs, 84 essays, 8 PTs, 3 simulations | Every item independently reviewed except PT-004–006 (review in progress) |
 | 6 — High-yield and memorization | ☐ | |
 | 7 — Independent QA | ☐ | |
 | 8 — Maintenance | ☐ | |
@@ -36,6 +36,50 @@
 - **`config/plan.yml`:** finalized phases, no leave (PTO for exam week only), targets and benchmarks aligned to the schedule.
 - **Totals:** ≈ 754 h · 2,210 MBE · 75 essays · 52 `/spot` drills · 12 PTs · 3 simulations (all on weekends).
 - **New sources and verify items:** S-140–S-150 and S-160; V-040–V-044, V-050–V-058 and V-060.
+
+## Phase 5 — Wave 2 deliverables (question bank complete)
+
+| Item | Count | Target | Detail |
+|---|---|---|---|
+| MBE-style MCQs | **1,050** (150 × 7) | ≥ 150 per MBE subject | Category mix follows NCBE weights (e.g., Torts negligence 75/150; Crim constitutional protections 75/150, with Fourth Amendment 30 and Fifth 20; Evidence I 37 · II 50 · III 13 · IV 12 · V 38; Real Property 30 per category); every MBE matrix row tested |
+| Essays | **84** (55 single + 29 crossovers = 35%) | ≥ 8 per subject, ≥ 30% crossovers | Appearances per subject: PR 12 · Remedies 10 · CP, Contracts, Evidence 9 · all others 8 |
+| Performance Tests | **8** | ≥ 8 | Objective memo, persuasive brief, drafting (trust; SaaS contract), client letter, demand letter, closing argument, discovery plan |
+| Simulations | **3** | ≥ 3 | SIM-01 (Apr 10–11), SIM-02 (Jun 19–20, objective-memo PT), SIM-03 (Jul 10–11, persuasive-brief PT); each 5 essays + 1 PT + 200 MCQs (28–29 per subject) |
+
+**Quality process (the user asked for quality over speed and quantity):**
+1. **MCQs.**
+   - The writer re-solves every item cold.
+   - An **independent reviewer answers every item blind**, writing its answers before seeing the key.
+   - The reviewer then audits every explanation line by line.
+   - Result: blind solves agreed with **all 700 Wave 2 keys** (and all 350 in Wave 1). About 95 explanation, stem or metadata fixes were applied. No key needed changing; key changes were checked mechanically against the previous commit.
+2. **Essays.** Every Wave 2 essay passed an independent legal-accuracy review: governing law, rule accuracy, fact fidelity, two-sided analysis and rubric.
+   - **9 HIGH findings fixed**, including:
+     - a takings claim against a State sent to federal court (*Will*);
+     - the ABA fee-basis duty attributed to California;
+     - *Epstein* credits;
+     - trustee-transaction protection;
+     - the ABA "related persons" gift rule.
+   - Many MED and LOW fixes.
+3. **PTs.** Independent review for closed-universe fidelity, task-memo compliance and internal consistency.
+4. **Rulebook corrections found during the process (about 60).** The most important:
+   - Torts: the strict-liability defense rule (comparative fault reduces, not bars) and the trespasser carve-out.
+   - Real Property: foreclosure-price inadequacy; mortgage-transfer and prepayment defaults; assignee privity.
+   - Evidence: FRE 801(d)(2) ("must consider").
+   - Con Law: *Noel Canning*; several plurality labels; *Knick*/*Will*.
+   - Contracts: waiver retraction and the § 20 misunderstanding rule.
+   - PR: ABA 4.2 comment [7]; rule 1.8.1.
+   - BA: MBCA vote; California appraisal exclusivity.
+   - Crim: *DeFillippo*, *Thornton*, *Patane*/*Muniz* pluralities.
+   - Civ Pro: *Lazar*, Rule 11(c)(5)(A).
+   - New VERIFY items were logged where wording rests on secondary sources: V-418, V-674–V-676, V-730–V-731, V-830–V-831.
+
+**Tooling:**
+- The validator checks issue-level IDs in essays.
+- `quiz.py` holds back simulation items until the simulation is sat (`quiz.py reserved`; `/essay` and `/pt` respect it).
+- `build_simulation.py` builds exam-shaped essay sets (one PR essay, at least one crossover, at least one California-law subject, no repeated subject) and has a `render` command.
+- 26 tests.
+
+**Resilience:** two container restarts interrupted agents mid-task. All agents were resumed from their transcripts and no work was lost. Pre-review snapshots were committed so work could not be lost; review fixes followed in separate commits.
 
 ## Phase 5 — Wave 1 deliverables (question bank)
 
@@ -202,11 +246,11 @@ All 15 files per subject. All **216 coverage rows mapped** (`coverage_report.py 
    - which optional PTO days are possible.
 4. **Network access.** Still blocked (calbar.ca.gov, ncbex.org, leginfo, courts.ca.gov, law.cornell.edu, supremecourt.gov, uscourts.gov, americanbar.org).
 
-## Next: Phase 5 — Wave 2 (expansion to targets) and simulations
-- **MCQs:** from 50 to **150 per MBE subject** (+700). Fill uncovered matrix rows first, then weight by NCBE share (Fourth Amendment/Miranda, negligence, hearsay, Real Property categories). Every batch gets a blind answer-key check before commit.
-- **Essays:** from 3 to **8 per subject** (≥ 30% crossovers). Weight PR, CP, Contracts, Remedies and Evidence highest, per frequency.
-- **PTs:** from 3 to **8**, covering the remaining task types (client letter, demand letter, closing argument, drafting a contract, discovery/other).
-- **Simulations:** build **SIM-01–SIM-03** with `scripts/build_simulation.py`, matching the plan dates (Apr 10–11, Jun 19–20, Jul 10–11). Each gets 5 essays + 1 PT + 200 MCQs not used elsewhere.
+## Next: Phase 6 — high-yield synthesis and memorization
+- **`08-high-yield/`:** cross-subject must-know rules, the most-tested California distinctions, and "rules that flip between MBE and CA essay" tables, built from each subject's `memorization-list.md`, `ca-distinctions.md` and `06-past-exams/frequency-analysis.md`.
+- **Memorization lists:** consolidated tiered lists, a mnemonics page, and the final-2-weeks review plan (`final-2-weeks-review.md`), aligned with `01-study-plan/` weeks W28–W29.
+- **Anki export:** run `build_anki.py` for all subjects (flashcards plus rule cards) and spot-check the deck.
+- **Then Phase 7:** independent QA across all subject files, clearing the VERIFY queue where possible.
 
 ## Handoff notes for a new session
 - **Read `CLAUDE.md` first.** It holds all conventions.

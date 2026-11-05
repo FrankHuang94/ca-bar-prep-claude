@@ -4,15 +4,15 @@ topic: Readiness dashboard (generated)
 coverage_ids: []
 tested_on: [none]
 exam_frequency: {level: n/a, basis: "Generated report"}
-last_verified: 2026-11-04
+last_verified: 2026-11-05
 status: draft
 ---
 
 # Readiness dashboard
 
-_Generated 2026-11-04 by `scripts/dashboard.py`. Heuristic only — see the script docstring._
+_Generated 2026-11-05 by `scripts/dashboard.py`. Heuristic only — see the script docstring._
 
-**265 days to the exam (2027-07-27).**
+**264 days to the exam (2027-07-27).**
 
 ## Readiness
 
@@ -72,4 +72,4 @@ _Generated 2026-11-04 by `scripts/dashboard.py`. Heuristic only — see the scri
 ## Repo build-out
 
 - Coverage matrix mapped: 616/616 rows (100%)
-- Rule statements: 1432 · MCQs: 350 · Essays: 39 · PTs: 3
+- Rule statements: 1432 · MCQs: 1050 · Essays: 84 · PTs: 8
