@@ -1,0 +1,275 @@
+# Contracts — NCBE category VI: Third-party rights (wave 2, round 2, original items)
+questions:
+- id: Q-CTR-0145
+  subject: CTR
+  coverage_ids: [CTR-MBE-VI.A]
+  rule_ids: [R-CTR-110, R-CTR-111, R-CTR-088]
+  difficulty: 1
+  stem: >-
+    Ines owed Larkfield Credit Union $18,000 on a personal loan. When Corvid Software hired Ines, Corvid
+    promised her, in their signed employment agreement, that as a signing bonus it would pay the $18,000
+    balance of her Larkfield loan directly to Larkfield within 60 days. Larkfield never agreed to
+    release Ines from the loan. Corvid never paid, and Ines did not pay Larkfield either. Larkfield
+    learned of Corvid's promise and wants to collect the $18,000.
+  call: "From whom may Larkfield recover?"
+  options:
+    A: "Only from Corvid, because Corvid's promise to pay the loan made Corvid the debtor in place of Ines."
+    B: "Only from Ines, because Larkfield was not a party to the employment agreement."
+    C: "From neither, until Larkfield's rights vest through its assent to or reliance on Corvid's promise."
+    D: "From either Ines or Corvid, though it may collect the $18,000 only once."
+  answer: D
+  explanation_correct: >-
+    Corvid's promise to pay Ines's debt directly to Larkfield makes Larkfield an intended (creditor)
+    beneficiary, entitled to enforce the promise against Corvid (R2d § 302(1)(a); R-CTR-110). The
+    promise did not release Ines: without Larkfield's agreement to a novation, Ines remains liable on
+    her loan (R-CTR-088, R-CTR-111). A beneficiary with an enforceable claim against the promisee may
+    obtain judgment against either the promisee or the promisor or both, but satisfaction of either duty
+    satisfies the other to that extent (R2d § 310). Trap: assuming that a promise to pay another's debt
+    substitutes the promisor for the debtor.
+  explanation_each_wrong_option:
+    A: >-
+      That would be a novation, which requires the creditor's agreement to release the original debtor.
+      Larkfield never agreed (R-CTR-088).
+    B: >-
+      Larkfield need not be a party; as an intended creditor beneficiary it may sue Corvid directly (R2d §
+      302).
+    C: >-
+      Vesting matters only to whether the promisor and promisee may change or cancel the promise without
+      the beneficiary's consent (R-CTR-111). Nothing suggests they did, and Larkfield's claim against Ines
+      on the loan never depended on vesting.
+  trap_type: confused-rule
+  authority: ["R2d § 302(1)(a)", "R2d § 310"]
+  source: original
+  tags: [wave2, w2b, third-party-beneficiary, creditor-beneficiary]
+  status: draft
+  last_verified: "2026-11-05"
+
+- id: Q-CTR-0146
+  subject: CTR
+  coverage_ids: [CTR-MBE-VI.A]
+  rule_ids: [R-CTR-111, R-CTR-110]
+  difficulty: 2
+  stem: >-
+    Harlan hired Blackstone Builders, a general contractor, to build a warehouse for $500,000. At
+    Blackstone's request, the signed contract provided that Harlan would pay $30,000 of the price
+    directly to Ace Electric, Blackstone's electrical subcontractor, to satisfy the $30,000 Blackstone
+    owed Ace for the warehouse wiring. Blackstone and Ace completed their work properly, and Harlan paid
+    Blackstone the other $470,000. Harlan refused to pay Ace, however, explaining that Blackstone owed
+    Harlan $12,000 on an unrelated loan Harlan had made to Blackstone the previous year. The contract
+    said nothing about set-offs. Ace sued Harlan.
+  call: "How much is Ace likely to recover from Harlan?"
+  options:
+    A: "$18,000, because a promisor may assert against the beneficiary any claim it has against the promisee."
+    B: "Nothing, because Ace was only an incidental beneficiary of the warehouse contract."
+    C: "$30,000, because Harlan's claim against Blackstone does not arise from the warehouse contract."
+    D: "Nothing, because Ace's remedy is against Blackstone, the party that owes it the money."
+  answer: C
+  explanation_correct: >-
+    Ace is an intended creditor beneficiary: Harlan promised to pay Ace directly to satisfy Blackstone's
+    debt to it (R2d § 302(1)(a); R-CTR-110). The promisor may raise against the beneficiary defenses
+    that arise from the contract itself, such as fraud in its formation or the promisee's failure to
+    perform (R-CTR-111). But unless the contract provides otherwise, the beneficiary's right is not
+    subject to the promisor's unrelated claims against the promisee (R2d § 309). Blackstone performed
+    properly, and the $12,000 loan has nothing to do with the warehouse contract, so Harlan cannot set
+    it off against Ace. Ace recovers $30,000, and Harlan must pursue Blackstone for the loan. Trap:
+    treating every claim against the promisee as a defense against the beneficiary.
+  explanation_each_wrong_option:
+    A: >-
+      Overbroad. Only defenses arising from the contract that created the beneficiary's right can be
+      asserted against the beneficiary; unrelated set-offs cannot (R2d § 309).
+    B: >-
+      Ace is named, payment runs directly to it, and the payment satisfies the promisee's debt to it: the
+      classic creditor beneficiary, not an incidental one (R-CTR-110).
+    D: >-
+      Ace may sue Blackstone on the original debt, but it may also sue Harlan as an intended beneficiary
+      of Harlan's promise (R2d § 310).
+  trap_type: overbroad
+  authority: ["R2d § 302(1)(a)", "R2d § 309"]
+  source: original
+  tags: [wave2, w2b, third-party-beneficiary, defenses, set-off]
+  status: draft
+  last_verified: "2026-11-05"
+
+- id: Q-CTR-0147
+  subject: CTR
+  coverage_ids: [CTR-MBE-VI.A]
+  rule_ids: [R-CTR-111, R-CTR-110]
+  difficulty: 3
+  stem: >-
+    Kline agreed in a signed writing to sell his sailboat to Ruiz for $40,000. At Kline's direction, the
+    contract provided that Ruiz would pay $10,000 of the price directly to Kline's daughter, Tess, as a
+    graduation gift from Kline, and the rest to Kline. Kline then asked Tess to write to Ruiz confirming
+    that she accepted the arrangement, and Tess sent Ruiz a signed note: "I accept the $10,000 gift
+    under your contract with my father. Thank you." Two weeks later, Kline and Ruiz agreed in writing
+    that Ruiz would pay the entire $40,000 to Kline, and Ruiz did so. Tess did nothing in reliance on
+    the gift other than writing the note. Tess sued Ruiz for $10,000.
+  call: "Is Tess likely to prevail?"
+  options:
+    A: "No, because a beneficiary's rights cannot vest until the beneficiary materially changes position in reliance on the promise, and Tess did not."
+    B: "Yes, because Tess's rights vested when she assented to the promise at the promisee's request, so the later modification did not bind her."
+    C: "No, because Ruiz paid the full price as the contract required after it was modified by the only parties to it."
+    D: "No, because Tess was a donee beneficiary who gave no consideration and so had no enforceable right against Ruiz."
+  answer: B
+  explanation_correct: >-
+    Until a beneficiary's rights vest, the promisor and promisee may modify or rescind the promise
+    without the beneficiary's consent. That power ends when the beneficiary, before learning of the
+    modification, materially changes position in justifiable reliance on the promise, sues on it, or
+    manifests assent to it at the request of the promisor or promisee (R2d § 311(3); R-CTR-111). Tess,
+    an intended donee beneficiary (R2d § 302(1)(b); R-CTR-110), signed an acceptance at the request of
+    her father, the promisee, before the modification. Her rights vested, so the later agreement between
+    Kline and Ruiz could not take away her $10,000, and Ruiz's payment of that sum to Kline did not
+    discharge his duty to her. Trap: thinking reliance is the only way a beneficiary's rights vest.
+  explanation_each_wrong_option:
+    A: >-
+      Reliance is one route to vesting, but not the only one; assent at the request of the promisor or
+      promisee is another (R2d § 311(3)).
+    C: >-
+      Once Tess's rights vested, Ruiz could discharge his duty to her only by performing it; paying Kline
+      under a modification that did not bind Tess was at Ruiz's own risk.
+    D: >-
+      A third-party beneficiary need not give consideration; the promisee's bargain with the promisor
+      supports the promise (R-CTR-110).
+  trap_type: confused-rule
+  authority: ["R2d § 302(1)(b)", "R2d § 311(3)"]
+  source: original
+  tags: [wave2, w2b, third-party-beneficiary, vesting, donee-beneficiary]
+  status: draft
+  last_verified: "2026-11-05"
+
+- id: Q-CTR-0148
+  subject: CTR
+  coverage_ids: [CTR-MBE-VI.B]
+  rule_ids: [R-CTR-112, R-CTR-114]
+  difficulty: 2
+  stem: >-
+    Delmar insured her house against fire under a one-year homeowner's policy issued by Granite Mutual.
+    The policy said nothing about assignment. Midway through the policy year, Delmar sold the house to
+    Fuentes and, as part of the sale, assigned to Fuentes all her rights under the policy. Granite was
+    not told of the sale or the assignment and never consented to either. A month later, the house was
+    damaged by fire. Fuentes filed a claim with Granite, which refused to pay.
+  call: "Is Fuentes likely to recover from Granite?"
+  options:
+    A: "No, because substituting a different insured would materially increase the risk Granite agreed to bear."
+    B: "Yes, because contract rights are freely assignable unless the contract expressly prohibits assignment."
+    C: "Yes, because the assignment was supported by consideration as part of the sale of the house."
+    D: "No, because neither Delmar nor Fuentes gave Granite notice of the assignment before the fire."
+  answer: A
+  explanation_correct: >-
+    Contract rights are generally assignable, but not where the assignment would materially change the
+    obligor's duty, materially increase the burden or risk imposed on it, or materially impair its
+    chance of obtaining return performance (R2d § 317(2)(a); R-CTR-112). A property insurer underwrites
+    the risk presented by a particular insured, including her care of the property and her claims
+    history. Shifting coverage before any loss to a new owner whom Granite never evaluated materially
+    changes the risk it agreed to bear, so the pre-loss assignment was ineffective without Granite's
+    consent. (An assignment of the right to collect for a loss that has already occurred is different,
+    because the risk has then become fixed.) Trap: assuming every contract right is assignable unless
+    the contract forbids it.
+  explanation_each_wrong_option:
+    B: >-
+      Overbroad. Even without an anti-assignment clause, a right is not assignable if the assignment would
+      materially change the obligor's duty or risk (R2d § 317(2)(a)).
+    C: >-
+      Consideration is not what makes an assignment effective, and its presence cannot make assignable a
+      right that is not assignable.
+    D: >-
+      Lack of notice matters to whether an obligor who deals with the assignor is discharged (R-CTR-114);
+      it is not why Fuentes loses. Even with notice, the assignment would not have bound Granite.
+  trap_type: overbroad
+  authority: ["R2d § 317(2)(a)"]
+  source: original
+  tags: [wave2, w2b, assignment, non-assignable-rights]
+  status: draft
+  last_verified: "2026-11-05"
+
+- id: Q-CTR-0149
+  subject: CTR
+  coverage_ids: [CTR-MBE-VI.B]
+  rule_ids: [R-CTR-114, R-CTR-112]
+  difficulty: 3
+  stem: >-
+    Kestrel Landscaping completed a landscaping job for Abbot, who owed Kestrel $40,000 for it, payable
+    in 60 days. Kestrel's crew had installed the irrigation system defectively, and correcting the
+    defect would reasonably cost $10,000. Two weeks after completing the job, Kestrel sold its right to
+    the $40,000 payment to Factor Capital for $36,000 in a written assignment that said nothing about
+    warranties or about the quality of Kestrel's work. Kestrel did not mention the defect to Factor, and
+    nothing Factor saw revealed it. Factor promptly notified Abbot of the assignment. When payment came
+    due, Abbot paid Factor $30,000, properly withholding $10,000 because of the defective irrigation
+    work. Factor sued Kestrel for $10,000.
+  call: "Is Factor likely to recover from Kestrel?"
+  options:
+    A: "No, because an assignee takes subject to the obligor's defenses arising from the contract, so Factor bears the loss."
+    B: "No, because an assignor does not guarantee that the obligor will pay the assigned debt in full."
+    C: "Yes, because an assignor for value impliedly warrants that the assigned right is not subject to undisclosed defenses."
+    D: "No, because Factor, a professional financer, assumed the risk of all defenses by buying the right at a discount."
+  answer: C
+  explanation_correct: >-
+    As against Abbot, Factor stood in Kestrel's shoes and took subject to Abbot's defense arising from
+    the landscaping contract (R2d § 336; R-CTR-114), which is why Abbot could properly pay only $30,000.
+    But unless the parties agree otherwise, one who assigns a right for value impliedly warrants to the
+    assignee that the right actually exists and is not subject to limitations or defenses good against
+    the assignor other than those stated or apparent when the assignment is made (R2d § 333). Abbot's
+    $10,000 defense existed when Kestrel assigned, was neither stated nor apparent, and was good against
+    Kestrel, so Kestrel is liable to Factor for the shortfall. Trap: confusing the obligor's defenses
+    against the assignee with the assignee's rights against its assignor.
+  explanation_each_wrong_option:
+    A: >-
+      True as between Factor and Abbot, but irrelevant to Factor's claim against Kestrel, which rests on
+      Kestrel's implied warranty as an assignor for value.
+    B: >-
+      An assignor does not, by assigning, warrant that the obligor is solvent or will pay (R2d § 333). But
+      Abbot withheld payment because of a defense to the right itself, which the assignor does warrant
+      against.
+    D: >-
+      A discount reflects the time value of money and the risk that the obligor will not pay; absent
+      agreement, it does not shift to the assignee the risk of defenses the assignor did not disclose.
+  trap_type: true-but-irrelevant
+  authority: ["R2d § 333", "R2d § 336"]
+  source: original
+  tags: [wave2, w2b, assignment, assignor-warranties]
+  status: draft
+  last_verified: "2026-11-05"
+
+- id: Q-CTR-0150
+  subject: CTR
+  coverage_ids: [CTR-MBE-VI.B]
+  rule_ids: [R-CTR-113, R-CTR-116]
+  difficulty: 2
+  stem: >-
+    Sandoval hired Brennan Painting under a signed contract to paint the exterior of her house for
+    $9,000. The contract stated: "This contract may not be assigned." Exterior house painting is routine
+    work that many local firms perform equally well, and nothing else in the contract or the
+    circumstances bore on the meaning of the clause. Overbooked, Brennan arranged for Ruiz Painting, an
+    equally qualified firm, to do the job in Brennan's place, and Ruiz promised Brennan to perform it.
+    When Ruiz's crew arrived, Sandoval refused to let them begin. Brennan sued Sandoval for breach.
+  call: "Was Sandoval entitled to refuse performance by Ruiz?"
+  options:
+    A: "No, because the painting was not personal, and a party may delegate duties that do not depend on its own special skill."
+    B: "No, because a clause prohibiting assignment bars only the transfer of rights, not the delegation of duties."
+    C: "No, because Brennan remained liable for any defects in Ruiz's work, so Sandoval had no legitimate reason to object."
+    D: "Yes, because a clause prohibiting assignment of \"the contract\" is read as barring delegation of the assignor's duties."
+  answer: D
+  explanation_correct: >-
+    Absent a contrary agreement, duties that do not depend on the obligor's personal skill or judgment
+    are delegable, and routine house painting is such a duty (R2d § 318; R-CTR-116). But the parties may
+    agree otherwise. Unless the circumstances indicate the contrary, a term prohibiting assignment of
+    "the contract" bars only the delegation to an assignee of the assignor's performance; it does not
+    bar assignment of the right to payment (R2d § 322(1); R-CTR-113). Brennan's arrangement with Ruiz
+    was exactly such a delegation, so Sandoval could insist on performance by Brennan itself and refuse
+    Ruiz. Trap: forgetting that the parties' agreement can make an otherwise delegable duty
+    non-delegable.
+  explanation_each_wrong_option:
+    A: >-
+      States the default rule, which the parties displaced by agreeing that "the contract" could not be
+      assigned (R-CTR-113, R-CTR-116).
+    B: >-
+      Reverses § 322(1). A ban on assigning "the contract" is read to bar delegation of duties, while
+      leaving rights such as the right to be paid assignable.
+    C: >-
+      True but irrelevant. A delegating party remains liable (R-CTR-116), but that does not override a
+      contract term barring delegation.
+  trap_type: exception-trap
+  authority: ["R2d § 318", "R2d § 322(1)"]
+  source: original
+  tags: [wave2, w2b, delegation, anti-assignment-clause]
+  status: draft
+  last_verified: "2026-11-05"

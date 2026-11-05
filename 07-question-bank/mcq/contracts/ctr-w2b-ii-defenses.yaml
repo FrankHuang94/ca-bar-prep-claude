@@ -16,7 +16,7 @@ questions:
     otherwise changed his position. Paxton sued for specific performance.
   call: "Is Paxton likely to prevail?"
   options:
-    A: "No, because Ostrander could not understand the nature and consequences of the transaction when he signed, so the contract is voidable."
+    A: "No, because Ostrander could not understand the nature and consequences of the transaction when he signed."
     B: "Yes, because Paxton had no reason to know of Ostrander's condition, and the price was fair."
     C: "Yes, because a person who is not under guardianship or conservatorship when contracting has full capacity to contract."
     D: "No, because a contract to sell land made by a person over 80 is enforceable only with a court's approval."
@@ -68,7 +68,7 @@ questions:
   call: "Is Quill likely to prevail?"
   options:
     A: "Yes, because the parties were mistaken only about the value of the shares, and a mistake about value does not justify relief."
-    B: "No, because both parties were mistaken about a basic assumption that materially affected the exchange, and Vasko did not bear that risk."
+    B: "No, because both parties were mistaken about a basic assumption that materially affected the exchange."
     C: "Yes, because Quill made no misrepresentation about the patent and honestly believed that it was in force."
     D: "No, because Quill breached an implied warranty that the company's assets were as both parties believed them to be."
   answer: B
@@ -116,7 +116,7 @@ questions:
     Before closing, Delacorte learned of the interchange and sought to rescind.
   call: "Is Delacorte likely to succeed?"
   options:
-    A: "Yes, because Halvard knew a fact that he knew would materially affect Delacorte's decision to sell, and he did not disclose it."
+    A: "Yes, because Halvard knew a fact that he knew would materially affect Delacorte's decision to sell, and he deliberately chose not to disclose it."
     B: "Yes, because Halvard's silence was concealment, which is treated as an assertion that no interchange was planned."
     C: "No, because Delacorte could have rescinded only if Halvard had made a false statement in writing."
     D: "No, because an arm's-length buyer need not disclose value information it found through its own research, and Halvard asserted nothing."

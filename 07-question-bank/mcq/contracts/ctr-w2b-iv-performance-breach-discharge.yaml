@@ -17,7 +17,7 @@ questions:
   options:
     A: "No, because Corbin's receipt of payment from the owner was a condition of its duty to pay, and that condition never occurred."
     B: "No, because the owner's insolvency was an unforeseen event that made Corbin's performance impracticable."
-    C: "Yes, because the clause only fixed the time for payment, so Corbin must pay within a reasonable time despite the owner's default."
+    C: "Yes, because the clause only fixed the time for payment, so Corbin must pay within a reasonable time."
     D: "Yes, because a general contractor guarantees the owner's payment for every subcontractor's work, whatever the subcontract says."
   answer: C
   explanation_correct: >-
@@ -63,7 +63,7 @@ questions:
     or incurred any expense, sued Hollis for the profit it would have made on the job.
   call: "Is Vega likely to prevail?"
   options:
-    A: "No, because the permit was a condition of Hollis's duty that failed despite his good-faith efforts, and he never promised to obtain it."
+    A: "No, because the permit was a condition that failed despite Hollis's good-faith efforts, and he never promised to obtain it."
     B: "No, because the contract did not become binding on either party until Vega began construction of the pool."
     C: "Yes, because by signing the contract Hollis assumed the risk that the County would deny the permit."
     D: "Yes, because courts interpret contract language as a promise rather than a condition whenever possible, to avoid forfeiture."
@@ -249,9 +249,9 @@ questions:
   call: "Is Breck likely to prevail?"
   options:
     A: "Yes, because every party to commercial negotiations owes the other party a duty to negotiate in good faith."
-    B: "No, because the implied covenant of good faith and fair dealing governs the performance and enforcement of an existing contract."
+    B: "No, because the implied covenant of good faith governs only the performance and enforcement of an existing contract."
     C: "Yes, because Tallis's secret parallel negotiations deprived Breck of the benefit of the letter of intent."
-    D: "No, because the implied covenant of good faith and fair dealing applies only to contracts for the sale of goods."
+    D: "No, because the implied covenant of good faith and fair dealing applies only to contracts for the sale of goods under the UCC."
   answer: B
   explanation_correct: >-
     Every contract imposes on each party a duty of good faith and fair dealing in its performance and
@@ -294,10 +294,10 @@ questions:
     notified Ovenworks and sued for breach of the implied warranty of merchantability.
   call: "Is Linden likely to prevail?"
   options:
-    A: "Yes, because the disclaimer was not conspicuous, so the implied warranty of merchantability remained part of the contract."
+    A: "Yes, because the disclaimer was not conspicuous, so the implied warranty of merchantability was not excluded."
     B: "Yes, because a merchant that sells new goods cannot disclaim the implied warranty of merchantability."
-    C: "No, because the disclaimer expressly mentioned merchantability, as the UCC requires."
-    D: "No, because Linden signed the form and is bound by its terms whether or not it read them."
+    C: "No, because the disclaimer expressly mentioned merchantability, which is all the UCC requires of a written disclaimer."
+    D: "No, because Linden signed the form and is bound by all of its terms, whether or not its owner read the back page."
   answer: A
   explanation_correct: >-
     A merchant seller of goods of the kind impliedly warrants that they are merchantable, which includes
@@ -333,14 +333,15 @@ questions:
   rule_ids: [R-CTR-078, R-CTR-080]
   difficulty: 3
   stem: >-
-    Pinnacle Wine Distributors, a wholesaler, stored 200 cases of a particular Cabernet in leased space
-    at Bayside Storage, an independent public warehouse. On May 1, Pinnacle contracted to sell those 200
-    cases to Corso's Restaurant for $36,000, with Corso's to collect the wine at Bayside; the parties
-    did not agree on who would bear the risk of loss. The same day, Pinnacle emailed Corso's: "The wine
-    is yours. Pick it up at Bayside whenever you like." Pinnacle issued no document of title and sent
-    Bayside no instruction to deliver the wine to Corso's, and Bayside never acknowledged Corso's right
-    to the wine. On May 9, before Corso's collected it, a flood at Bayside destroyed all 200 cases
-    without the fault of either party. Pinnacle demanded payment from Corso's.
+    Pinnacle Wine Distributors, a wholesaler, stored 200 cases of a particular Cabernet with Bayside
+    Storage, an independent public warehouse that held the wine as bailee for Pinnacle. On May 1,
+    Pinnacle contracted to sell those 200 cases to Corso's Restaurant for $36,000, with Corso's to
+    collect the wine at Bayside; the parties did not agree on who would bear the risk of loss. The same
+    day, Pinnacle emailed Corso's: "The wine is yours. Pick it up at Bayside whenever you like."
+    Pinnacle issued no document of title and sent Bayside no instruction to deliver the wine to Corso's,
+    and Bayside never acknowledged Corso's right to the wine. On May 9, before Corso's collected it, a
+    flood at Bayside destroyed all 200 cases without the fault of either party. Pinnacle demanded
+    payment from Corso's.
   call: "Must Corso's pay for the wine?"
   options:
     A: "Yes, because Pinnacle is a merchant and tendered delivery when it told Corso's to pick up the wine."
@@ -394,7 +395,7 @@ questions:
   call: "Is the estate liable?"
   options:
     A: "No, because Marsh's death made performance impossible and discharged the contract."
-    B: "No, because a contract with a sole proprietor is personal to the proprietor and ends at his death."
+    B: "No, because a contract with a sole proprietor is personal to the proprietor and automatically ends when the proprietor dies."
     C: "Yes, because Marsh's personal performance was not essential, so his death did not discharge the duty to pave."
     D: "Yes, because the death of a party never discharges a contractual duty."
   answer: C
@@ -484,7 +485,7 @@ questions:
   options:
     A: "Yes, because a written contract can be rescinded only by a signed writing."
     B: "No, because the parties' oral agreement to rescind, made while both still owed performance, discharged their duties."
-    C: "Yes, because Delaney gave no consideration for Vireo's agreement to release him from the contract."
+    C: "Yes, because Delaney gave no consideration for Vireo's agreement to release him from his obligations under the written contract."
     D: "No, because a party may withdraw from a contract at any time before performance begins."
   answer: B
   explanation_correct: >-

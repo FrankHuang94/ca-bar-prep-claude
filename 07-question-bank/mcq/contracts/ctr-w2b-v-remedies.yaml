@@ -1,0 +1,404 @@
+# Contracts — NCBE category V: Remedies (wave 2, round 2, original items)
+questions:
+- id: Q-CTR-0136
+  subject: CTR
+  coverage_ids: [CTR-MBE-V.A]
+  rule_ids: [R-CTR-099, R-CTR-094, R-CTR-100]
+  difficulty: 3
+  stem: >-
+    Ashford Machine Works contracted to sell a used industrial lathe to Kilmer Fabrication for $50,000,
+    with Ashford to deliver it to Kilmer's plant. Ashford had no other lathe of that model and could not
+    have obtained one. Before the delivery date, Kilmer wrongfully repudiated. After giving Kilmer
+    reasonable notice of its intention to resell, Ashford resold the lathe in good faith, in a
+    commercially reasonable private sale, for $41,000, with the new buyer collecting it at Ashford's
+    plant. Ashford reasonably spent $1,200 storing the lathe and paying a broker's commission on the
+    resale, and it saved the $800 it would have spent delivering the lathe to Kilmer. The market price
+    of the lathe at the time and place for tender was $44,000. Ashford sued Kilmer.
+  call: "How much can Ashford most likely recover?"
+  options:
+    A: "$6,400, the contract price minus the market price at the time and place for tender, plus incidental damages, minus expenses saved."
+    B: "$9,000, the contract price minus the resale price."
+    C: "$9,400, the contract price minus the resale price, plus incidental damages, minus expenses saved."
+    D: "$10,200, the contract price minus the resale price, plus incidental damages."
+  answer: C
+  explanation_correct: >-
+    When a buyer repudiates, a seller that resells the goods in good faith and in a commercially
+    reasonable manner, with reasonable notification to the buyer if the resale is private, may recover
+    the contract price minus the resale price, plus incidental damages, minus expenses saved in
+    consequence of the buyer's breach (UCC § 2-706(1), (3); R-CTR-099). Ashford: $50,000 - $41,000 =
+    $9,000; plus $1,200 of storage and commission costs (incidental damages, § 2-710; R-CTR-094); minus
+    the $800 delivery cost it no longer had to incur = $9,400. Because Ashford had only one such lathe
+    and could not have made both sales, it is not a lost-volume seller (R-CTR-100). Trap: forgetting to
+    add incidental damages or to subtract expenses saved.
+  explanation_each_wrong_option:
+    A: >-
+      That is the market-price measure of § 2-708(1). A seller that has made a proper resale may recover
+      under § 2-706, which here measures Ashford's actual loss; the market measure would undercompensate
+      it.
+    B: >-
+      Omits both the incidental damages Ashford reasonably incurred and the delivery expense it saved; §
+      2-706(1) requires both adjustments.
+    D: >-
+      Adds the incidental damages but fails to subtract the $800 of delivery costs Ashford saved because
+      of Kilmer's breach.
+  trap_type: missing-element
+  authority: ["UCC § 2-706", "UCC § 2-708(1)", "UCC § 2-710"]
+  source: original
+  tags: [wave2, w2b, ucc, seller-remedies, resale]
+  status: draft
+  last_verified: "2026-11-05"
+
+- id: Q-CTR-0137
+  subject: CTR
+  coverage_ids: [CTR-MBE-V.A]
+  rule_ids: [R-CTR-090, R-CTR-065, R-CTR-066]
+  difficulty: 2
+  stem: >-
+    Larkin Builders contracted to build a warehouse for Okafor Logistics for $1.2 million. The
+    specifications called for a concrete floor 8 inches thick. Through an honest error by Larkin's
+    concrete subcontractor, which Larkin did not discover until the warehouse was finished, the floor
+    was poured 7.5 inches thick. Engineers agree that the floor is structurally adequate for every use
+    Okafor planned and for any reasonably foreseeable use. Making the floor conform would require
+    demolishing and repouring it at a cost of $400,000, and the thinner floor reduces the warehouse's
+    market value by about $10,000. Okafor paid the full price and sued Larkin for damages.
+  call: "What is Okafor's most likely recovery?"
+  options:
+    A: "$400,000, because an owner is entitled to the cost of making the work conform to the contract."
+    B: "Nothing, because Larkin substantially performed and therefore owes no damages."
+    C: "Return of the price, on reconveyance of the warehouse, because Larkin's departure from the specifications was a material breach."
+    D: "$10,000, because the cost of replacing the floor is clearly disproportionate to the resulting loss in value."
+  answer: D
+  explanation_correct: >-
+    When a builder's performance is defective, the owner ordinarily recovers the reasonable cost of
+    completing or repairing the work, but if that cost is clearly disproportionate to the probable loss
+    in value to the owner, recovery is limited to the diminution in market value (R2d § 348(2);
+    R-CTR-090; Jacob & Youngs v. Kent). Spending $400,000 to correct a deviation that is structurally
+    harmless and reduces value by about $10,000 would be economic waste, and the deviation resulted from
+    an honest error rather than a willful departure from the specifications. Okafor recovers about
+    $10,000. Trap: assuming that the cost to conform always governs.
+  explanation_each_wrong_option:
+    A: >-
+      Cost of completion is the usual measure, but not where it is clearly disproportionate to the value
+      it would add, as here (R2d § 348(2)).
+    B: >-
+      Substantial performance lets a builder enforce the contract despite a deviation, but the owner still
+      recovers damages for the deviation (R-CTR-065).
+    C: >-
+      A structurally adequate floor half an inch thinner than specified did not deprive Okafor of a
+      substantial part of its bargain; the breach is not material and does not support rescission
+      (R-CTR-066).
+  trap_type: wrong-standard
+  authority: ["R2d § 348(2)", "Jacob & Youngs, Inc. v. Kent, 230 N.Y. 239 (1921)"]
+  source: original
+  tags: [wave2, w2b, damages, construction, economic-waste]
+  status: draft
+  last_verified: "2026-11-05"
+
+- id: Q-CTR-0138
+  subject: CTR
+  coverage_ids: [CTR-MBE-V.B]
+  rule_ids: [R-CTR-092, R-CTR-093]
+  difficulty: 2
+  stem: >-
+    On August 1, Hensley Printing contracted with Precision Press Repair to overhaul Hensley's only
+    large offset press for $8,000, with the work to be completed by September 30. Nothing was said about
+    Hensley's customers or upcoming jobs. On September 10, Hensley signed an unusually large contract to
+    print election materials that required the press by October 5 and would have earned Hensley $60,000
+    in profit; Hensley told Precision about the election contract that day. Precision did not finish the
+    overhaul until October 25. Because the press was unavailable, Hensley lost the election contract.
+    Hensley sued Precision for the $60,000.
+  call: "Can Hensley recover the $60,000 lost profit from Precision?"
+  options:
+    A: "Yes, because Precision knew of the election contract before it breached."
+    B: "No, because Precision had no reason to foresee that loss when the contract was made."
+    C: "Yes, because lost profits are always a foreseeable result of delay in repairing a business's equipment."
+    D: "No, because lost profits are never recoverable for breach of a contract to repair equipment."
+  answer: B
+  explanation_correct: >-
+    Damages are not recoverable for loss that the party in breach did not have reason to foresee as a
+    probable result of the breach when the contract was made (R2d § 351(1); Hadley v. Baxendale;
+    R-CTR-092). A loss is foreseeable if it follows in the ordinary course of events or results from
+    special circumstances that the breaching party had reason to know of at contracting. Hensley's
+    $60,000 election contract did not exist on August 1; it was an unusually large special job that
+    Precision learned of only on September 10. Later notice does not enlarge the risk Precision agreed
+    to bear. Trap: measuring foreseeability at the time of breach.
+  explanation_each_wrong_option:
+    A: >-
+      Foreseeability is measured when the contract is made, not when it is breached; knowledge acquired
+      afterward does not count (R2d § 351(1)).
+    C: >-
+      Overbroad. Some ordinary lost profits from a delayed repair may be foreseeable, but an unusually
+      large special contract formed after the repair contract is not a loss that follows in the ordinary
+      course.
+    D: >-
+      Overbroad. Lost profits are recoverable when they were foreseeable at contracting and are proved
+      with reasonable certainty (R-CTR-093).
+  trap_type: wrong-standard
+  authority: ["R2d § 351(1)", "Hadley v. Baxendale (1854) 9 Ex. 341"]
+  source: original
+  tags: [wave2, w2b, damages, foreseeability, lost-profits]
+  status: draft
+  last_verified: "2026-11-05"
+
+- id: Q-CTR-0139
+  subject: CTR
+  coverage_ids: [CTR-MBE-V.C]
+  rule_ids: [R-CTR-096, R-CTR-089]
+  difficulty: 2
+  stem: >-
+    Pelham Hotels hired Strand Construction to build a 120-room hotel for $14 million, to be completed
+    by May 1. Because the hotel was new, its revenue during any delay was hard to predict when the
+    contract was made. The contract provided that Strand would pay "$4,000 per day as liquidated damages
+    for each day of delay in completion," an amount based on a careful, good-faith projection of the
+    hotel's net revenue. Strand finished 10 days late. Because of an unexpected regional slump in
+    tourism that spring, Pelham's actual lost net revenue for the 10 days was $15,000. Pelham sued
+    Strand for $40,000.
+  call: "How much is Pelham most likely to recover?"
+  options:
+    A: "$40,000, because the stipulated amount was a reasonable forecast of a loss that was hard to estimate when they contracted."
+    B: "$15,000, because contract damages may not put the injured party in a better position than performance would have."
+    C: "$15,000, because the stipulated sum turned out to be more than twice Pelham's actual loss, which makes the clause a penalty."
+    D: "$55,000, because Pelham may recover both its proven actual loss and the amount the parties agreed on in advance."
+  answer: A
+  explanation_correct: >-
+    A term fixing damages for breach is enforceable if the amount is reasonable in the light of the
+    anticipated or actual loss caused by the breach and the difficulties of proof of loss (R2d § 356(1);
+    R-CTR-096). Because reasonableness may be measured against the loss anticipated at contracting, a
+    clause that was a reasonable forecast of a hard-to-estimate loss is enforced even if the actual loss
+    turns out to be smaller. Delay losses for a new hotel were hard to predict, and $4,000 a day rested
+    on a careful projection. Pelham recovers the stipulated $40,000. Trap: retesting a valid clause with
+    hindsight.
+  explanation_each_wrong_option:
+    B: >-
+      The ordinary expectation measure (R-CTR-089) yields to a valid liquidated-damages clause; the
+      parties agreed in advance on the sum, and enforcing it is not a forbidden windfall.
+    C: >-
+      Comparing the clause only with the actual loss ignores the anticipated-loss branch of the test. Some
+      courts refuse enforcement when there is no loss at all, but Pelham did suffer a loss.
+    D: >-
+      A valid liquidated-damages clause replaces, rather than adds to, actual damages for the same breach
+      (R-CTR-096).
+  trap_type: true-but-irrelevant
+  authority: ["R2d § 356(1)"]
+  source: original
+  tags: [wave2, w2b, damages, liquidated-damages]
+  status: draft
+  last_verified: "2026-11-05"
+
+- id: Q-CTR-0140
+  subject: CTR
+  coverage_ids: [CTR-MBE-V.D]
+  rule_ids: [R-CTR-095, R-CTR-092, R-CTR-066]
+  difficulty: 1
+  stem: >-
+    Brandt, a commercial strawberry grower, hired Aqua Systems to repair his farm's irrigation pump by
+    June 1 for $2,000. Aqua failed to complete the repair and told Brandt on June 3 that it would not be
+    able to finish for several weeks. Several nearby equipment-rental companies had suitable portable
+    pumps available, and one would have rented Brandt a pump that same day for $1,500 for the month,
+    which would have kept his crop fully watered. Brandt did not try to rent a pump or do anything else
+    to water the crop, and his entire strawberry crop, worth $40,000, died. Brandt sued Aqua for
+    $40,000.
+  call: "Can Brandt recover the $40,000 crop loss?"
+  options:
+    A: "Yes, because the crop loss was a foreseeable result of Aqua's failure to repair an irrigation pump on time."
+    B: "Yes, because the duty to mitigate arises only after the injured party has terminated the contract."
+    C: "No, because Aqua's failure to finish on time was a minor breach that gives rise only to nominal damages."
+    D: "No, because Brandt could have avoided the loss by renting a portable pump at a reasonable cost."
+  answer: D
+  explanation_correct: >-
+    An injured party cannot recover for loss that it could have avoided by reasonable efforts without
+    undue risk, burden or humiliation (R2d § 350; R-CTR-095). Renting a pump the same day for $1,500,
+    which would have saved the whole crop, was a reasonable and readily available step once Brandt
+    learned of the breach on June 3. His damages are limited to losses he could not have avoided; he
+    could have recovered the reasonable cost of renting a pump, but not the $40,000 crop loss he allowed
+    to happen. Trap: stopping the analysis at foreseeability.
+  explanation_each_wrong_option:
+    A: >-
+      Foreseeability is necessary but not sufficient. Even a foreseeable loss is not recoverable to the
+      extent it could reasonably have been avoided (R-CTR-092, R-CTR-095).
+    B: >-
+      The duty to mitigate arises when the injured party learns of the breach, not when it terminates;
+      Brandt learned on June 3 and did nothing (R-CTR-095).
+    C: >-
+      Materiality determines whether the injured party may terminate (R-CTR-066), not whether it can
+      recover more than nominal damages; even a minor breach supports damages for losses actually caused.
+      Brandt's problem is his failure to mitigate.
+  trap_type: missing-element
+  authority: ["R2d § 350"]
+  source: original
+  tags: [wave2, w2b, damages, mitigation, avoidable-consequences]
+  status: draft
+  last_verified: "2026-11-05"
+
+- id: Q-CTR-0141
+  subject: CTR
+  coverage_ids: [CTR-MBE-V.E, CTR-MBE-II.D]
+  rule_ids: [R-CTR-105, R-CTR-037]
+  difficulty: 3
+  stem: >-
+    In January, Iverson bought a hardware store from Salk for $600,000 after Salk told him that the
+    store had netted $150,000 the previous year. Salk knew the true figure was $70,000. In March,
+    Iverson's accountant showed him the store's tax returns, which revealed the true figure. Iverson
+    said nothing to Salk. Over the next nine months, Iverson continued to run the store as its owner,
+    borrowed $200,000 against it, and remodeled and expanded it. In December, Iverson sued Salk, seeking
+    to rescind the purchase and recover the price or, alternatively, damages for fraud.
+  call: "What remedy is Iverson most likely to obtain?"
+  options:
+    A: "Rescission, because a contract induced by fraud is void, and a void contract cannot be ratified."
+    B: "Damages but not rescission, because Iverson affirmed the contract by his conduct after learning the truth."
+    C: "Rescission, because a defrauded party may rescind at any time within the statute of limitations for fraud."
+    D: "Neither, because by affirming the contract after learning of the fraud, Iverson waived all claims against Salk."
+  answer: B
+  explanation_correct: >-
+    Fraud in the inducement makes a contract voidable, not void (R-CTR-037). The defrauded party may
+    rescind, but it loses the power of avoidance if, after learning the facts, it manifests an intent to
+    affirm, or fails to avoid within a reasonable time (R2d §§ 380, 381; R-CTR-105). For nine months
+    after learning the truth, Iverson kept running the store as its owner, borrowed against it, and
+    remodeled and expanded it, conduct consistent only with keeping the business, so rescission is no
+    longer available. Affirming the completed purchase does not, however, give up Iverson's claim for
+    the damages the fraud caused; he may keep the store and recover for his loss. Trap: assuming either
+    that fraud always permits rescission or that affirmation forfeits every remedy.
+  explanation_each_wrong_option:
+    A: >-
+      Fraud in the inducement makes a contract voidable, not void; only fraud in the factum (deception
+      about the very nature of the document signed) makes it void (R-CTR-037).
+    C: >-
+      The power to rescind can end well before the limitations period runs, if the defrauded party affirms
+      after learning the truth or delays unreasonably (R2d §§ 380, 381).
+    D: >-
+      Overbroad. Affirming the contract gives up rescission, not the right to damages for the fraud that
+      induced it.
+  trap_type: overbroad
+  authority: ["R2d § 164", "R2d § 380", "R2d § 381"]
+  source: original
+  tags: [wave2, w2b, rescission, affirmation, fraud]
+  status: draft
+  last_verified: "2026-11-05"
+
+- id: Q-CTR-0142
+  subject: CTR
+  coverage_ids: [CTR-MBE-V.F]
+  rule_ids: [R-CTR-104]
+  difficulty: 1
+  stem: >-
+    Ellery contracted in a signed writing to buy a one-acre lot from Quentin for $90,000, intending to
+    build a house on it. Before closing, Quentin received a higher offer and refused to convey. Ellery,
+    who had the full purchase price ready, sued for specific performance. Quentin argues that Ellery has
+    an adequate remedy at law, because a nearly identical lot two blocks away is for sale for $92,000,
+    so Ellery's damages would be only $2,000.
+  call: "Is the court likely to order specific performance?"
+  options:
+    A: "No, because Ellery can be fully compensated by $2,000 in damages."
+    B: "No, because specific performance is available only to a buyer who has already paid the full price."
+    C: "Yes, because each parcel of land is treated as unique, so damages are presumed inadequate."
+    D: "Yes, because a seller who breaches to accept a higher offer acts in bad faith, which is a ground for specific performance."
+  answer: C
+  explanation_correct: >-
+    Specific performance is available where damages would not adequately protect the injured party (R2d
+    § 359; R-CTR-104). Because each parcel of land is considered unique, courts treat damages as
+    inadequate for breach of a contract to sell land and routinely order specific performance at the
+    buyer's request, even if similar land is available (R2d § 360). Ellery has a valid contract with
+    definite terms and is ready, willing and able to pay. Trap: treating a similar parcel as a
+    substitute that makes damages adequate.
+  explanation_each_wrong_option:
+    A: >-
+      Courts do not require a land buyer to accept money because a similar parcel exists; land is treated
+      as unique (R-CTR-104).
+    B: >-
+      The buyer must be ready, willing and able to perform, not to have already paid; Ellery had the price
+      ready.
+    D: >-
+      Specific performance does not turn on the seller's motive for breaching; it turns on the inadequacy
+      of damages. Selling to a higher bidder is an ordinary breach.
+  trap_type: true-but-irrelevant
+  authority: ["R2d § 359", "R2d § 360"]
+  source: original
+  tags: [wave2, w2b, equitable-remedies, specific-performance, land]
+  status: draft
+  last_verified: "2026-11-05"
+
+- id: Q-CTR-0143
+  subject: CTR
+  coverage_ids: [CTR-MBE-V.G, CTR-MBE-II.F]
+  rule_ids: [R-CTR-108, R-CTR-048, R-CTR-044]
+  difficulty: 2
+  stem: >-
+    On January 10, Kessler orally agreed to serve as a consultant to Morrow Foods for 18 months, from
+    February 1 of that year through July 31 of the next year, for $10,000 a month, all payable at the
+    end of the term. Nothing was put in writing. Kessler worked full-time for Morrow from February
+    through May. On June 1, Morrow told Kessler that it no longer needed him and would pay nothing,
+    citing the statute of frauds. The reasonable value of Kessler's services from February through May
+    was $36,000. Kessler sued Morrow.
+  call: "What is Kessler most likely entitled to recover?"
+  options:
+    A: "$36,000, the reasonable value of the services Kessler provided, in restitution."
+    B: "Nothing, because the statute of frauds makes the oral agreement unenforceable."
+    C: "$40,000, the contract rate for four months, because Kessler's part performance took the agreement out of the statute of frauds."
+    D: "$180,000, the full contract price, because Morrow's repudiation was a total breach."
+  answer: A
+  explanation_correct: >-
+    An agreement that by its terms cannot be fully performed within one year of its making is within the
+    statute of frauds (R-CTR-044). Made on January 10 for a term ending more than 18 months later,
+    Kessler's agreement is within it, and Morrow signed nothing, so Kessler cannot enforce the agreement
+    to recover his expectation. But a party who has performed under a contract that is unenforceable
+    because of the statute of frauds may recover in restitution the reasonable value of the benefit
+    conferred (R2d § 375; R-CTR-048, R-CTR-108). Morrow received four months of Kessler's services,
+    reasonably worth $36,000. Trap: assuming the statute bars all recovery.
+  explanation_each_wrong_option:
+    B: >-
+      The statute bars enforcement of the agreement, not restitution for benefits conferred under it (R2d
+      § 375).
+    C: >-
+      Part performance is an exception for land contracts (and, in limited form, for goods). Under the
+      one-year provision, only full performance by one party takes the contract out of the statute (R2d §
+      130(2)), and Kessler had not fully performed.
+    D: >-
+      Expectation damages require an enforceable contract, which the statute of frauds prevents here.
+  trap_type: confused-rule
+  authority: ["R2d § 130", "R2d § 375"]
+  source: original
+  tags: [wave2, w2b, restitution, statute-of-frauds, one-year]
+  status: draft
+  last_verified: "2026-11-05"
+
+- id: Q-CTR-0144
+  subject: CTR
+  coverage_ids: [CTR-MBE-V.H]
+  rule_ids: [R-CTR-109]
+  difficulty: 3
+  stem: >-
+    The jurisdiction follows the Restatement (Second) of Contracts. Haskins hired Pell as the live-in
+    caretaker of Haskins's ranch for a 10-month season at $30,000, all payable at the end of the season.
+    After six months of satisfactory work, Pell quit without justification to take a better-paying job.
+    Haskins promptly hired a replacement for the remaining four months, paying $3,000 more than the
+    remaining contract price for Pell's services would have been. The reasonable value of Pell's six
+    months of work was $18,000. Haskins paid Pell nothing, and Pell sued Haskins.
+  call: "How much is Pell most likely to recover?"
+  options:
+    A: "Nothing, because a party who willfully abandons a contract before completing it cannot recover for partial performance."
+    B: "$15,000, the value of the benefit Pell conferred, minus the damages his breach caused Haskins."
+    C: "$18,000, the reasonable value of Pell's work, because his breach does not affect his right to be paid for work done."
+    D: "$27,000, the contract price minus the extra cost Haskins incurred to replace Pell."
+  answer: B
+  explanation_correct: >-
+    A party who cannot recover on the contract because of its own material breach is still entitled to
+    restitution for any benefit it conferred by part performance in excess of the loss its breach caused
+    the other party (R2d § 374(1); R-CTR-109; Britton v. Turner). Pell conferred $18,000 of value; his
+    breach cost Haskins $3,000 in extra replacement costs; Pell recovers $15,000. That amount is also no
+    more than the pro rata share of the contract price for six months' work ($18,000). Trap: applying
+    the older rule that a willful breacher forfeits everything.
+  explanation_each_wrong_option:
+    A: >-
+      That older rule survives in some courts, but the stem places the case in a Restatement jurisdiction,
+      where even a breaching party recovers the net benefit it conferred (R2d § 374).
+    C: >-
+      Ignores the offset: Pell's recovery is reduced by the damages his breach caused Haskins.
+    D: >-
+      Pell cannot recover on the contract, which he materially breached and did not complete; restitution
+      is measured by the benefit he actually conferred, not by the contract price.
+  trap_type: minority-rule
+  authority: ["R2d § 374(1)", "Britton v. Turner, 6 N.H. 481 (1834)"]
+  source: original
+  tags: [wave2, w2b, restitution, breaching-party]
+  status: draft
+  last_verified: "2026-11-05"

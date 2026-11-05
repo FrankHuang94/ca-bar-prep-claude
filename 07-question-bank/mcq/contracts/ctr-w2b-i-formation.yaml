@@ -69,7 +69,7 @@ questions:
     agreed to" and that he would not sell. Nordquist sued for specific performance.
   call: "Was a contract formed between Castellan and Nordquist?"
   options:
-    A: "Yes, because Nordquist's reply was an unequivocal acceptance, and his remark about the canoe and furniture was a request, not a condition."
+    A: "Yes, because Nordquist's reply was an unequivocal acceptance, and his remark about the canoe and furniture was only a request."
     B: "Yes, because a reply that states additional terms operates as an acceptance unless it is expressly made conditional on assent to them."
     C: "No, because Nordquist's reply added items that were not in the offer, so it was a counteroffer that rejected Castellan's offer."
     D: "No, because Castellan's offer was not supported by consideration, so he could withdraw it at any time before May 15."
@@ -259,7 +259,7 @@ questions:
     Dario sued Ruth for breach of contract, arguing that his trip was consideration for her promise.
   call: "What is Ruth's best argument in response to Dario's consideration argument?"
   options:
-    A: "Dario's trip was not a legal detriment, because traveling to Ruth's house was something Dario was legally free to do."
+    A: "Dario's trip was not a legal detriment, because traveling to Ruth's house on a Saturday was something Dario was legally free to do."
     B: "Ruth's promise to transfer tools worth more than $500 was not in a signed writing."
     C: "Dario's trip was merely the condition for receiving a gift, not a performance Ruth sought in exchange for her promise."
     D: "Dario's expenses were too small to amount to the substantial reliance needed to enforce Ruth's promise."
@@ -306,7 +306,7 @@ questions:
     lot, and Nadia sued for specific performance.
   call: "Is Nadia likely to prevail?"
   options:
-    A: "No, because the $10 recited in the writing was never paid, so Lindgren's promise to keep the offer open was not supported by consideration."
+    A: "No, because the $10 recited in the writing was never actually paid, so Lindgren's promise to keep the offer open was not supported by consideration."
     B: "No, because the law makes an offer irrevocable without actual payment of consideration only when the offeror is a merchant selling goods."
     C: "Yes, because an offer that states a fixed deadline for acceptance cannot be revoked by the offeror before that deadline passes."
     D: "Yes, because a signed offer that recites a purported consideration and proposes a fair exchange within a reasonable time is binding as an option."
@@ -448,10 +448,10 @@ questions:
     never asked for her help and had no memory of it, refused to pay.
   call: "Is Dr. Ameri likely to recover from Thorne?"
   options:
-    A: "Yes, on an implied-in-fact contract, because Thorne's conduct at the scene showed that he accepted Dr. Ameri's services."
+    A: "Yes, on an implied-in-fact contract, because Thorne's conduct at the scene showed that he accepted Dr. Ameri's offered services."
     B: "No, because a person who confers a benefit on another without being asked is a volunteer and has no claim for payment."
     C: "No, because Thorne never agreed to pay for the services, and without his assent there could be no obligation to pay."
-    D: "Yes, for the reasonable value of the services, because she gave emergency care Thorne could not request and intended to charge for it."
+    D: "Yes, for the reasonable value of her services, because she gave emergency care to a person unable to consent, intending to charge."
   answer: D
   explanation_correct: >-
     Quasi-contract is not a contract but an obligation imposed by law to prevent unjust enrichment,

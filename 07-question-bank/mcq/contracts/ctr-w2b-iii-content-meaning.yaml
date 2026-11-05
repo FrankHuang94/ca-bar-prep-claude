@@ -247,7 +247,7 @@ questions:
     several months and sued Halcyon for its resulting losses.
   call: "Is Halcyon liable to Bridger?"
   options:
-    A: "No, because a contract of indefinite duration may be terminated by either party at any time without notice."
+    A: "No, because a contract of indefinite duration may be terminated by either party at any time, without any notice to the other."
     B: "No, because an agreement that states no duration is too indefinite to be enforced."
     C: "Yes, because a contract of indefinite duration continues until one party materially breaches it."
     D: "Yes, because Halcyon ended an agreement of indefinite duration without giving Bridger reasonable notification."
