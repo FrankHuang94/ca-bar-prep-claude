@@ -226,7 +226,7 @@ status: draft
 - California (**B&P § 6147**): signed by both; copy to the client; rate; how costs affect the fee and the recovery; compensation for related matters; statement that the fee is "not set by law and is negotiable" (unless § 6146 applies).
 - Consequence in California: voidable at the client's option; the lawyer receives a reasonable fee that never exceeds the contract amount [S-560].
 - Medical-malpractice caps: § 6146. Workers' compensation is excluded; claims between merchants fall under § 6147.5 [S-560].
-- **Prohibited** (rule 1.5(c); MR 1.5(d)): contingent fees in criminal defense, and fees contingent on obtaining a divorce or on the amount of support or a property settlement.
+- **Prohibited** (rule 1.5(c); MR 1.5(d)): contingent fees in criminal defense, and family-law fees contingent on obtaining a dissolution or nullity (ABA: divorce) or on the amount of spousal or child support, "or property settlement in lieu thereof" [VERIFY V-1010]. A fee tied to an ordinary division of community property is not expressly covered by the text; argue the rule's policy and the lawyer's personal stake (R-PRF-044).
 
 **Retainers, advance fees and flat fees** (R-PRF-045):
 - True retainer: paid only for availability; may be "nonrefundable" only with written agreement after disclosure (rule 1.5(d)).

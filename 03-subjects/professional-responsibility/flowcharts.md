@@ -103,7 +103,7 @@ flowchart TD
 
 ```mermaid
 flowchart TD
-  A["Fee arrangement"] --> B{"Criminal defense contingency, or fee contingent on divorce, support or property?"}
+  A["Fee arrangement"] --> B{"Criminal defense contingency, or fee contingent on divorce, support or a property settlement in lieu of support?"}
   B -- Yes --> X["Prohibited under both systems"]
   B -- No --> C{"Contingency fee?"}
   C -- Yes --> D{"B&P 6147: signed by both, rate, costs, related matters, not set by law and negotiable?"}

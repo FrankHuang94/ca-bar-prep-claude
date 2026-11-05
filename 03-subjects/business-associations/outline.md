@@ -444,7 +444,7 @@ California: Uniform Limited Partnership Act of 2008, Corp. Code § 15900 et seq.
 
 - **"On the basis of"**: awareness of MNPI when trading (Rule 10b5-1(b)); affirmative defense for trades under a pre-arranged plan, with 2022 cooling-off and certification requirements [VERIFY V-718].
 - **Rule 10b5-2** duties of trust and confidence: agreement to keep confidential; history, pattern or practice of sharing confidences; spouse, parent, child or sibling (rebuttable).
-- **Sanctions**: SEC injunction and civil penalty up to 3× profit gained/loss avoided (15 U.S.C. § 78u-1); criminal (15 U.S.C. § 78ff); contemporaneous traders' private action capped at profit (15 U.S.C. § 78t-1); state law: corporation may recover insider's profits for breach of fiduciary duty (*Diamond v. Oreamuno*, 24 N.Y.2d 494 (1969)).
+- **Sanctions**: SEC injunction and civil penalty up to 3× profit gained/loss avoided (15 U.S.C. § 78u-1(a)(2)) [S-1700], reportedly only for trades on an exchange or through a broker-dealer, so a private face-to-face trade may fall outside it [VERIFY V-1011]; criminal (15 U.S.C. § 78ff); contemporaneous traders' private action capped at profit (15 U.S.C. § 78t-1); state law: corporation may recover insider's profits for breach of fiduciary duty (*Diamond v. Oreamuno*, 24 N.Y.2d 494 (1969)).
 - **California** (R-BUS-093): Corp. Code § 25402 prohibition; § 25502 counterparty damages; § 25502.5 issuer recovery up to three times the profit [S-827] [VERIFY V-722].
 - **How tested.** Jul 2014 Q3 (PR crossover): lawyer bought shares of a tender-offer target using a client's plans [VERIFY V-071]. Analyze: misappropriation (duty to client-source), Rule 14e-3, PR duties (R-PRF-026; confidentiality).
 

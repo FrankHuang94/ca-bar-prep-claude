@@ -611,17 +611,17 @@ Read with [`outline.md`](outline.md) (full treatment) and [`ca-distinctions.md`]
 **Example:** A personal-injury contingency agreement says "33% of recovery" and nothing else. ABA: incomplete (no expense treatment). California: voidable for lack of the § 6147 statements; the lawyer recovers only a reasonable fee, not exceeding the contract amount.
 
 ### R-PRF-044 — Prohibited contingent fees (family law and criminal defense)
-**Rule (write this):** A lawyer may not charge a fee in a domestic-relations matter that is contingent on securing a divorce or on the amount of support or property settlement, or a contingent fee for representing a defendant in a criminal case.
+**Rule (write this):** A lawyer may not make an agreement for, charge or collect a fee in a family-law (ABA: domestic-relations) matter whose payment or amount is contingent on securing a dissolution or declaration of nullity of a marriage (ABA: a divorce) or on the amount of spousal or child support (ABA: alimony or support), "or property settlement in lieu thereof"; nor may a lawyer charge a contingent fee for representing a defendant in a criminal case.
 
-**Elements:** 1. Family: contingency on obtaining dissolution or on support/property amount. 2. Criminal defense: any fee contingent on the result (acquittal, dismissal, reduced charge), including non-cash rewards.
+**Elements:** 1. Family: contingency on obtaining the dissolution or nullity, or on the amount of support or of a property settlement made in lieu of support. A fee contingent on an ordinary division of community property is not expressly covered by the text; argue both ways (text vs. the rule's policy against giving the lawyer a stake in the divorce outcome), and test it under the fee and conflict rules (R-PRF-041, R-PRF-023). 2. Criminal defense: any fee contingent on the result (acquittal, dismissal, reduced charge), including non-cash rewards.
 
 **Exceptions / defenses:** Contingent fees to collect past-due support or property already awarded are generally allowed (MR 1.5 cmt. [6]).
 
-**Authority:** CRPC rule 1.5(c); MR 1.5(d).
+**Authority:** CRPC rule 1.5(c)(1)–(2); MR 1.5(d)(1)–(2) [VERIFY V-1010].
 
 **MBE vs. CA essay:** not on the MBE. **CA vs. ABA:** same.
 
-**Example:** A criminal defense lawyer asks for the client's season tickets if she wins an acquittal. A contingent fee in a criminal case — prohibited under both rules (cf. Feb. 2024 Q3).
+**Example:** A divorce lawyer's fee is 20% of a lump sum the client accepts in place of spousal support: prohibited under both rules. A 10% "bonus" on the client's share of the community estate is not expressly covered; argue the rule's policy and the lawyer's personal stake. A criminal defense lawyer who asks for the client's season tickets if she wins an acquittal charges a prohibited contingent fee under both rules (cf. Feb. 2024 Q3).
 
 ### R-PRF-045 — True retainers, nonrefundable fees, advance fees and flat fees
 **Rule (write this):** A fee may be called "earned on receipt" or "nonrefundable" only if it is a true retainer — paid solely to secure the lawyer's availability for a period or matter and not as compensation for services — and the client agrees in writing after disclosure that it is not refundable. Advance fees for services are the client's property until earned and must be refunded if unearned at termination. A flat fee for specified services is permitted; in California it may be deposited in the operating account only after written disclosure of the client's right to have it held in trust and to a refund of any unearned portion (signed by the client if over $1,000).

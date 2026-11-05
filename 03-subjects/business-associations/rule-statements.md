@@ -1212,9 +1212,9 @@ status: draft
 
 **Elements:** 1. Insider (or temporary insider). 2. Material, nonpublic information. 3. Trade "on the basis of" it (awareness of the information when trading suffices under Rule 10b5-1). 4. Scienter. 5. Breach of duty (disclose or abstain).
 
-**Exceptions / defenses:** Information that is public or immaterial; trades under a pre-existing written trading plan (Rule 10b5-1(c)) adopted in good faith before awareness, subject to cooling-off periods added in 2022 [VERIFY V-718]. Remedies: SEC civil penalty up to three times the profit gained or loss avoided; criminal prosecution; private suits by contemporaneous traders capped at the profit (Exchange Act § 20A).
+**Exceptions / defenses:** Information that is public or immaterial; trades under a pre-existing written trading plan (Rule 10b5-1(c)) adopted in good faith before awareness, subject to cooling-off periods added in 2022 [VERIFY V-718]. Remedies: SEC civil penalty, set by the court, of up to three times the profit gained or loss avoided (Exchange Act § 21A(a)(2)) [S-1700]; § 21A is reportedly framed for trades on or through a national securities exchange or from or through a broker or dealer, so a privately negotiated trade may fall outside the treble penalty [VERIFY V-1011] — on such facts write "civil penalties" without the multiple; criminal prosecution; private suits by contemporaneous traders capped at the profit (Exchange Act § 20A).
 
-**Authority:** *Chiarella v. United States*, 445 U.S. 222 (1980); *Dirks v. SEC*, 463 U.S. 646 (1983) (temporary insiders, fn. 14); 17 C.F.R. § 240.10b5-1; 15 U.S.C. §§ 78t-1, 78u-1.
+**Authority:** *Chiarella v. United States*, 445 U.S. 222 (1980); *Dirks v. SEC*, 463 U.S. 646 (1983) (temporary insiders, fn. 14); 17 C.F.R. § 240.10b5-1; 15 U.S.C. §§ 78t-1, 78u-1 [S-1700].
 
 **MBE vs. CA essay:** federal law; California has a parallel statute (R-BUS-093).
 

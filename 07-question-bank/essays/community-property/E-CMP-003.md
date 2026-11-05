@@ -11,7 +11,7 @@ issues:
   - {issue: "Framework: CP and SP defined; general presumption; undisputed DOS; equal division", points: 4, call: 1, major: false, rule_ids: [R-CMP-001, R-CMP-002, R-CMP-004, R-CMP-011, R-CMP-075], coverage_ids: [CMP-CBX-I.B.x1, CMP-CBX-I.B.x2, CMP-CBX-I.B.x4, CMP-CBX-VI.A.1]}
   - {issue: "Coastline: premarital SP business; community labor requires apportionment", points: 6, call: 1, major: false, rule_ids: [R-CMP-002, R-CMP-009, R-CMP-010, R-CMP-033], coverage_ids: [CMP-CBX-II.D]}
   - {issue: "Coastline: Pereira and Van Camp computed (family expenses paid by the business counted as compensation)", points: 10, call: 1, major: true, rule_ids: [R-CMP-034, R-CMP-035], coverage_ids: [CMP-CBX-II.D.3.a, CMP-CBX-II.D.3.b]}
-  - {issue: "Coastline: choice of method (personal effort vs. state rebate and market); combination; division", points: 10, call: 1, major: true, rule_ids: [R-CMP-036, R-CMP-075], coverage_ids: [CMP-CBX-II.D.3]}
+  - {issue: "Coastline: choice of method (personal effort vs. state rebate and market); period-by-period split as an argument only; division", points: 10, call: 1, major: true, rule_ids: [R-CMP-036, R-CMP-075], coverage_ids: [CMP-CBX-II.D.3]}
   - {issue: "Settlement account: CP under Fam. Code 780; 2603 assignment to injured spouse; commingled $40,000; justice factors", points: 18, call: 1, major: true, rule_ids: [R-CMP-056, R-CMP-078], coverage_ids: [CMP-CBX-VI.B.3]}
   - {issue: "Education: degree not property; 2641 reimbursement with interest; loans assigned to Noor", points: 10, call: 1, major: true, rule_ids: [R-CMP-046, R-CMP-080], coverage_ids: [CMP-CBX-II.G, CMP-CBX-II.J.2, CMP-CBX-VI.B.5]}
   - {issue: "Education: 2641(c) reductions (ten-year presumption and rebuttal; offsetting education of Elliot; reduced need for support)", points: 10, call: 1, major: true, rule_ids: [R-CMP-047], coverage_ids: [CMP-CBX-II.J.2]}
@@ -51,7 +51,7 @@ Answer according to California law.
 | 1 | Framework: CP/SP, presumption, undisputed DOS, equal division | 1 | 4 |
 | 2 | Coastline: premarital SP; community labor triggers apportionment | 1(a) | 6 |
 | 3 | Coastline: Pereira and Van Camp computed | 1(a) | 10 |
-| 4 | Coastline: which method; combination; division | 1(a) | 10 |
+| 4 | Coastline: which method; period split argued; division | 1(a) | 10 |
 | 5 | Settlement: CP (§ 780); § 2603 assignment; commingled portion; justice factors | 1(b) | 18 |
 | 6 | Education: § 2641 reimbursement with interest; loans assigned | 1(c) | 10 |
 | 7 | Education: § 2641(c) reductions | 1(c) | 10 |
@@ -82,10 +82,10 @@ California is a community property state. Property acquired by a spouse during m
 
 The $25,000 a year of health insurance and car lease counts as compensation because it was a benefit the community took from the business.
 
-**Which method?** The court chooses the method that achieves substantial justice: Pereira when growth is chiefly due to the spouse's personal efforts, Van Camp when it is chiefly due to the capital or outside conditions; it may also combine methods for different periods (*Beam v. Bank of America*; *In re Marriage of Dekker*).
+**Which method?** The court chooses the method that achieves substantial justice: Pereira when growth is chiefly due to the spouse's personal efforts, Van Camp when it is chiefly due to the capital or outside conditions; neither formula is mandatory (*Beam v. Bank of America*; *In re Marriage of Dekker*). Whether a court may apply Pereira to one period and Van Camp to another is not settled [VERIFY V-900], so a party may argue for a split, but the safer course on the exam is to choose one method and mention the other.
 - *Noor (Pereira).* Elliot worked 50-hour weeks and personally created the battery-storage division, which now produces 30% of revenue. That growth is the product of his skill and effort.
 - *Elliot (Van Camp).* Much of the growth came from an outside event: the 2021 tripling of state rebates, after which every installer in the region roughly doubled in value, including competitors whose management did not change. That is the market-driven growth Van Camp addresses. Elliot also paid the community close to full value for his work ($165,000 against a fair $180,000 a year), so the community was not shortchanged.
-- *Likely result.* Both drivers are real. A court could apply Pereira to 2014–2021, when growth came mainly from Elliot's efforts and the new division, and Van Camp to 2021–2025, when the rebate drove the market; but that requires a 2021 valuation, which this record lacks. Because the largest single jump tracks the rebate and the community drew nearly market compensation throughout, the court will likely lean toward **Van Camp**, perhaps adjusted upward to credit the battery division. On pure Van Camp the CP interest is $165,000.
+- *Likely result.* Both drivers are real. Noor could argue in the alternative for Pereira for 2014–2021, when growth came mainly from Elliot's efforts and the new division, and Van Camp for 2021–2025, when the rebate drove the market; but that split is an argument, not settled law [VERIFY V-900], and it would require a 2021 valuation, which this record lacks. Because the largest single jump tracks the rebate and the community drew nearly market compensation throughout, the court will likely lean toward **Van Camp**, though the battery division gives Noor a real argument for Pereira. On pure Van Camp the CP interest is $165,000.
 
 **Division.** Elliot will likely keep the stock, and Noor will receive half of the community interest through an offset or equalizing payment: **$82,500 under Van Camp** (or $830,000 if the court used Pereira).
 
@@ -158,7 +158,7 @@ After division, property Noor receives in the division and her SP are not liable
 | Framework | 4 | §§ 760, 770, 771 definitions; presumption; 11-year community period; equal division | R-CMP-001, R-CMP-002, R-CMP-004, R-CMP-011, R-CMP-075 |
 | Coastline: apportionment required | 6 | Premarital SP at $500,000; 50-hour weeks = community labor; growth must be apportioned | R-CMP-002, R-CMP-009, R-CMP-010, R-CMP-033 |
 | Coastline: both formulas | 10 | Pereira $940,000 SP / $1,660,000 CP; Van Camp $165,000 CP / $2,435,000 SP; family expenses counted as compensation | R-CMP-034, R-CMP-035 |
-| Coastline: choice and division | 10 | Battery division vs. rebate and competitors; near-market draws; possible combination by period; committed conclusion; offset or equalizing payment | R-CMP-036, R-CMP-075 |
+| Coastline: choice and division | 10 | Battery division vs. rebate and competitors; near-market draws; Beam/Dekker discretion to choose the method (a period-by-period split is an argument only and is not required); committed conclusion; offset or equalizing payment | R-CMP-036, R-CMP-075 |
 | Settlement account | 18 | § 780 CP (not § 781); § 2603 default to injured spouse and at-least-half floor; commingled $40,000 spent; factors argued both ways (lost marital earnings, medical bills vs. permanent injury and Elliot's wealth); conclusion | R-CMP-056, R-CMP-078 |
 | Education: reimbursement | 10 | Degree not property; $190,000 total (tuition + loan payments) with legal-rate interest; substantial enhancement; $90,000 loans assigned to Noor; exclusive remedy | R-CMP-046, R-CMP-080 |
 | Education: reductions | 10 | Ten-year presumption applied to the dates and rebutted with the 2021–2025 income; Elliot's $25,000 course as offset; support factor; conclusion | R-CMP-047 |
