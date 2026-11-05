@@ -110,7 +110,18 @@ Resolving an item meant finding the text by search (marked `confirmed-primary (s
 
 Most `reviewed` subject files carry one or two Low-priority tags on a citation, not on the rule itself. To see every open tag in a file, search it for `[VERIFY`.
 
-## 6. Residual risks and how the repo handles them
+## 6. The six checks in your Phase 7 brief
+
+| Check | How it was done | Result |
+|---|---|---|
+| Rule accuracy against primary sources | §§ 1–2: every rule re-read; open items searched (primary sources first) | 12 HIGH, 125 MED, 156 LOW fixes; 118 items resolved |
+| California vs. MBE distinctions | Every rule's **MBE vs. CA essay** line (PR: CA vs. ABA) checked; the master table and `ca-distinctions.md` files aligned | Rows added (coconspirator foundation, collateral matter, accomplice corroboration, *Pruneyard*) and "same in both" claims corrected |
+| Coverage-matrix completeness | `coverage_report.py --require-mapped` for every code; reviewers checked their subject's rows; the validator checks issue-level coverage IDs in essays | 616/616 rows mapped; no row deleted |
+| MCQs with ambiguous or wrong keys | Every one of the 1,050 items solved blind by an independent solver (Phase 5); Wave 1 explanations audited, and re-solved blind after length edits (Phase 7) | All keys agreed; none changed; ambiguous stems clarified (e.g. Q-CIV-0035) |
+| Essay model answers that miss issues | Independent review of all 85 essays (Phase 5 or 7) for missed issues, fact fidelity and two-sided analysis | Missed issues added (e.g. E-CIV-001's Rule 12(h)(1) waiver; E-XO-009's § 65906 comparison) |
+| Copyright concerns | Audit on 2026-11-05 (Phase 8, cycle 1): committed files, long quotations, past-question fidelity (26 essays and all 8 PTs), MCQ sources, mnemonics, attribution | **Pass on all six.** One mnemonic label corrected (OCEAN-H is generic). Borderline: the coverage matrix reproduces NCBE and State Bar outline headings, which is fine for private study; paraphrase them before sharing the repo publicly |
+
+## 7. Residual risks and how the repo handles them
 
 - **A rule you memorize could still be wrong.** Each rule cites its authority, so a doubt can be checked in minutes. Log any error you find in `10-progress/error-log.md` and it is fixed in Phase 8.
 - **Law can change before July 2027.** `/update-exam-intel` re-checks monthly; the June 2027 sweep is scheduled.
