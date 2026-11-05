@@ -94,3 +94,4 @@ One line per issue. Full rules: [rule-statements.md](rule-statements.md). Essays
 - **Eighth Amendment** — gross disproportionality; death-penalty limits; no status crimes (R-CRM-118).
 - **Burden** — every element beyond reasonable doubt; no burden-shifting presumptions (R-CRM-119).
 - **Appeal** — harmless beyond reasonable doubt; structural errors reverse automatically (R-CRM-120).
+- **Accomplice testimony (California only)** — § 1111: corroboration tending to connect D; federal/MBE: none (R-CRM-121).

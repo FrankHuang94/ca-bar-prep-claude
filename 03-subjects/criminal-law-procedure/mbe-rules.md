@@ -91,7 +91,7 @@ status: draft
 12. **Suspect invokes counsel; police later question about a different crime** → still barred (Roberson), unless 14-day break (Shatzer).
 13. **Unwarned statement leads to a gun** → gun admissible (Patane, plurality); statement inadmissible in case-in-chief but usable to impeach (Harris).
 14. **Informant in a cell after indictment** → Sixth Amendment violation if he deliberately elicits (Henry), not if a passive listener (Kuhlmann).
-15. **Pre-charge lineup without counsel** → no Sixth Amendment violation (Kirby); test due process only.
+15. **Pre-charge lineup without counsel** → no Sixth Amendment violation (Kirby, plurality); test due process only.
 16. **Mistrial on defense motion** → retrial allowed unless prosecution goaded it (Oregon v. Kennedy).
 17. **State then federal prosecution for the same act** → allowed (separate sovereigns).
 18. **Judge instructs that the law presumes intent from the act** → Sandstrom violation.

@@ -23,7 +23,7 @@ On essays you rarely need a citation; the case name as a handle ("under Miranda,
 | U.S. Const. amend. XIV | Due process; incorporation | R-CRM-093, R-CRM-107, R-CRM-119 |
 | U.S. Const. art. I, §§ 9–10 | Ex post facto laws; bills of attainder | R-CRM-001 |
 | Cal. Const. art. I, § 28(f)(2) | Truth-in-Evidence [S-145] | R-CRM-090 |
-| Cal. Const. art. I, § 16 | Jury of 12; unanimity in felonies | R-CRM-110 |
+| Cal. Const. art. I, § 16 | Jury of 12 in felony cases (misdemeanors: 12 unless fewer agreed in open court); unanimous criminal verdicts | R-CRM-110 |
 
 ## 2. Model Penal Code
 
@@ -90,15 +90,15 @@ On essays you rarely need a citation; the case name as a handle ("under Miranda,
 | Pen. Code §§ 207, 209, 236 | Kidnapping; aggravated kidnapping; false imprisonment |
 | Pen. Code § 211 | Robbery |
 | Pen. Code §§ 240, 242, 245 | Assault; battery; assault with a deadly weapon |
-| Pen. Code §§ 261, 261.5 | Rape; unlawful sexual intercourse |
-| Pen. Code §§ 451, 452 | Arson; unlawfully causing a fire [VERIFY V-260] |
+| Pen. Code §§ 261, 261.5 | Rape (spousal rape included since former § 262 was repealed, eff. Jan. 1, 2022 [S-1503]); unlawful sexual intercourse |
+| Pen. Code §§ 451, 452 | Arson (willful and malicious); unlawfully causing a fire (reckless) [S-1505] [S-1506] |
 | Pen. Code §§ 459, 459.5, 460 | Burglary; shoplifting [S-368]; degrees |
 | Pen. Code §§ 484, 487, 490.2, 490.3, 496 | Theft; grand theft; petty theft; aggregation [S-362]; receiving |
 | Pen. Code § 653f | Solicitation |
 | Pen. Code § 664 | Punishment for attempt |
 | Pen. Code § 834a | No force to resist arrest |
 | Pen. Code § 1026 | Insanity plea; bifurcated trial |
-| Pen. Code § 1111 | Accomplice testimony must be corroborated |
+| Pen. Code § 1111 | Accomplice testimony must be corroborated by evidence tending to connect the defendant to the offense; accomplice = liable for the identical offense (R-CRM-121) [S-1500] |
 | Pen. Code § 1170(b) | Upper-term sentencing [S-369] |
 | Pen. Code § 1172.6 | Resentencing after SB 1437 / SB 775 [S-360] |
 | Pen. Code § 1538.5 | Motion to suppress |
@@ -114,7 +114,7 @@ On essays you rarely need a citation; the case name as a handle ("under Miranda,
 | *Morissette v. United States*, 342 U.S. 246 (1952) | Mens rea presumed for crimes derived from common law |
 | *Lambert v. California*, 355 U.S. 225 (1957) | Due process bars punishing passive failure to register without notice |
 | *Robinson v. California*, 370 U.S. 660 (1962) | Punishing a status (addiction) is cruel and unusual |
-| *Powell v. Texas*, 392 U.S. 514 (1968) | Punishing public drunkenness (conduct) is permitted |
+| *Powell v. Texas*, 392 U.S. 514 (1968) | Punishing public drunkenness (conduct) is permitted (plurality opinion) |
 | *United States v. Falcone*, 311 U.S. 205 (1940); *Direct Sales Co. v. United States*, 319 U.S. 703 (1943) | Supplier is a conspirator only with intent (stake in the venture) |
 | *Gebardi v. United States*, 287 U.S. 112 (1932) | Protected party cannot be a conspirator to the crime that protects her |
 | *Iannelli v. United States*, 420 U.S. 770 (1975) | Wharton's rule |
@@ -125,7 +125,7 @@ On essays you rarely need a citation; the case name as a handle ("under Miranda,
 | *Rehaif v. United States*, 588 U.S. 225 (2019) | Felon-in-possession: knowledge of prohibited status required |
 | *Cheek v. United States*, 498 U.S. 192 (1991) | Good-faith misunderstanding of tax law negates willfulness |
 | *Jacobson v. United States*, 503 U.S. 540 (1992) | Predisposition must precede government contact |
-| *Montana v. Egelhoff*, 518 U.S. 37 (1996) | State may bar voluntary-intoxication evidence |
+| *Montana v. Egelhoff*, 518 U.S. 37 (1996) | State may bar voluntary-intoxication evidence (plurality opinion) |
 | *Clark v. Arizona*, 548 U.S. 735 (2006) | State may channel mental-disease evidence to insanity |
 | *Tennessee v. Garner*, 471 U.S. 1 (1985) | Deadly force against fleeing suspect only for a dangerous suspect |
 | *United States v. Bailey*, 444 U.S. 394 (1980) | Escape necessity requires surrender once the necessity ends |
@@ -184,8 +184,8 @@ On essays you rarely need a citation; the case name as a handle ("under Miranda,
 | *Carpenter v. United States*, 585 U.S. 296 (2018) | Historical cell-site data requires a warrant |
 | *Byrd v. United States*, 584 U.S. 395 (2018) | Unlisted rental driver has standing |
 | *Collins v. Virginia*, 584 U.S. 586 (2018) | No automobile exception in curtilage |
-| *Case v. Montana* (2026) | Emergency aid: objectively reasonable basis, not probable cause [S-351] [VERIFY V-034] |
-| *Chatrie v. United States* (2026) | Geofence location-history access is a search [S-353] [VERIFY V-034] |
+| *Case v. Montana* (2026) | Emergency aid: objectively reasonable basis, not probable cause [S-351] [S-352] |
+| *Chatrie v. United States* (2026) | Geofence location-history access is a search [S-353] [S-354] |
 | *Miranda v. Arizona*, 384 U.S. 436 (1966) | Warnings before custodial interrogation |
 | *Harris v. New York*, 401 U.S. 222 (1971) | Unwarned voluntary statements may impeach |
 | *Michigan v. Mosley*, 423 U.S. 96 (1975) | Invocation of silence scrupulously honored |
@@ -198,7 +198,7 @@ On essays you rarely need a citation; the case name as a handle ("under Miranda,
 | *Illinois v. Perkins*, 496 U.S. 292 (1990) | No Miranda for undercover cellmate |
 | *Davis v. United States*, 512 U.S. 452 (1994) | Counsel request must be unambiguous |
 | *Dickerson v. United States*, 530 U.S. 428 (2000) | Miranda is constitutional |
-| *Missouri v. Seibert*, 542 U.S. 600 (2004) | Deliberate two-step interrogation |
+| *Missouri v. Seibert*, 542 U.S. 600 (2004) | Deliberate two-step interrogation (plurality opinion; Justice Kennedy's concurrence in the judgment states the usual test) |
 | *United States v. Patane*, 542 U.S. 630 (2004) | Physical fruits of voluntary unwarned statement admissible (plurality plus two-Justice concurrence in the judgment) |
 | *Berghuis v. Thompkins*, 560 U.S. 370 (2010) | Silence not invocation; implied waiver |
 | *Maryland v. Shatzer*, 559 U.S. 98 (2010) | Edwards ends after 14-day break in custody |
@@ -211,9 +211,9 @@ On essays you rarely need a citation; the case name as a handle ("under Miranda,
 | *Argersinger v. Hamlin*, 407 U.S. 25 (1972); *Scott v. Illinois*, 440 U.S. 367 (1979) | Counsel when imprisonment actually imposed |
 | *Faretta v. California*, 422 U.S. 806 (1975) | Right of self-representation |
 | *Strickland v. Washington*, 466 U.S. 668 (1984) | Ineffective assistance: deficiency + prejudice |
-| *Villarreal v. Texas* (2026) | Court may bar discussion of ongoing testimony during overnight recess [S-355] [VERIFY V-034] |
+| *Villarreal v. Texas* (2026) | Court may bar discussion of ongoing testimony during overnight recess [S-355] |
 | *United States v. Wade*, 388 U.S. 218 (1967) | Counsel at post-charge lineup |
-| *Kirby v. Illinois*, 406 U.S. 682 (1972) | No counsel right at pre-charge lineup |
+| *Kirby v. Illinois*, 406 U.S. 682 (1972) | No counsel right at pre-charge lineup (plurality opinion) |
 | *United States v. Ash*, 413 U.S. 300 (1973) | No counsel right at photo array |
 | *Neil v. Biggers*, 409 U.S. 188 (1972); *Manson v. Brathwaite*, 432 U.S. 98 (1977) | Suggestiveness + reliability factors |
 | *Perry v. New Hampshire*, 565 U.S. 228 (2012) | Due-process check only for police-arranged suggestion |
@@ -228,7 +228,7 @@ On essays you rarely need a citation; the case name as a handle ("under Miranda,
 | *Blockburger v. United States*, 284 U.S. 299 (1932) | Same-elements test |
 | *Ashe v. Swenson*, 397 U.S. 436 (1970) | Collateral estoppel in criminal cases |
 | *Gamble v. United States*, 587 U.S. 678 (2019) | Dual-sovereignty doctrine reaffirmed |
-| *Barrett v. United States* (2026) | No cumulative convictions under § 924(c)(1)(A)(i) and § 924(j) for one act [S-350] [VERIFY V-255] |
+| *Barrett v. United States* (2026) | No cumulative convictions under § 924(c)(1)(A)(i) and § 924(j) for one act [S-350] |
 | *In re Winship*, 397 U.S. 358 (1970) | Proof beyond a reasonable doubt of every element |
 | *Patterson v. New York*, 432 U.S. 197 (1977) | Affirmative-defense burden may be on defendant |
 | *Sandstrom v. Montana*, 442 U.S. 510 (1979) | Burden-shifting presumption unconstitutional |

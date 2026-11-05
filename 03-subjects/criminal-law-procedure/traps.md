@@ -52,7 +52,7 @@ Each item: the trap, the correct rule, and the rule ID in [rule-statements.md](r
 33. **Edwards is not offense-specific; the Sixth Amendment is.** After a counsel request under Miranda, police cannot ask about any crime (Roberson); after Sixth Amendment attachment, they may question about uncharged crimes (McNeil, Cobb) (R-CRM-098, R-CRM-102).
 34. **Undercover cellmate:** no Miranda problem (Perkins); a Sixth Amendment problem only after charges and with deliberate elicitation (Henry vs. Kuhlmann) (R-CRM-095, R-CRM-102).
 35. **Unwarned statements can impeach; involuntary ones cannot** (Harris vs. Mincey) (R-CRM-100, R-CRM-093).
-36. **No right to counsel at photo arrays or pre-charge lineups** — only due process applies (Ash; Kirby) (R-CRM-106).
+36. **No right to counsel at photo arrays or pre-charge lineups** — only due process applies (Ash; Kirby, plurality) (R-CRM-106).
 37. **Jeopardy attaches when the jury is sworn**, not at indictment or arraignment; a mistrial requested by the defense permits retrial unless the prosecutor goaded it (R-CRM-116, R-CRM-117).
 38. **Separate sovereigns** may both prosecute; a city and its state may not (R-CRM-117).
 39. **Apprendi excludes prior convictions**: a judge may find the fact of a prior conviction (R-CRM-111).

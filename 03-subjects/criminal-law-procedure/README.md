@@ -12,7 +12,7 @@ status: draft
 
 | | |
 |---|---|
-| Code | `CRM` (rule IDs `R-CRM-001` to `R-CRM-120`; flashcards `F-CRM-0001` onward) |
+| Code | `CRM` (rule IDs `R-CRM-001` to `R-CRM-121`; flashcards `F-CRM-0001` onward) |
 | How tested | MBE (25 scored questions of 175 [S-007]) **and** California essays |
 | Governing law on essays | General principles — common law, noting the MPC where it differs — for crimes; the **U.S. Constitution** for procedure. California law only if the call asks for it [S-077]. See [ca-distinctions.md](ca-distinctions.md) |
 | Essay frequency | 15 of 31 administrations, Feb 2012 – Jul 2026 (48%); 10 of the 20 two-day exams since Jul 2017; last tested Jul 2026 ([frequency analysis](../../06-past-exams/frequency-analysis.md)) |
@@ -69,7 +69,7 @@ Counts come from the Phase 3 index and are indicative only [VERIFY V-071].
 |---|---|
 | [primer.md](primer.md) | First read: big picture and key ideas |
 | [outline.md](outline.md) | Complete reference, NCBE numbering; every coverage row lives here |
-| [rule-statements.md](rule-statements.md) | 120 essay-ready rules (R-CRM-001 to R-CRM-120); memorize the bold "write this" sentences |
+| [rule-statements.md](rule-statements.md) | 121 essay-ready rules (R-CRM-001 to R-CRM-121; R-CRM-121 is California-only); memorize the bold "write this" sentences |
 | [ca-distinctions.md](ca-distinctions.md) | The few California points, and when to use them |
 | [mbe-rules.md](mbe-rules.md) | What the MBE assumes and how it tests each category |
 | [issue-checklist.md](issue-checklist.md) | Issue spotting in the order you analyze |
@@ -82,4 +82,4 @@ Counts come from the Phase 3 index and are indicative only [VERIFY V-071].
 | [memorization-list.md](memorization-list.md) | Must-know / should-know / nice-to-know rule tiers |
 | [flashcards.csv](flashcards.csv) | Anki deck (`python scripts/build_anki.py --subject CRM`) |
 
-**Recent law to watch:** *Case v. Montana* (2026, emergency aid), *Chatrie v. United States* (2026, geofence), *Villarreal v. Texas* (2026, counsel during testimony), *Barrett v. United States* (2026, double jeopardy), *Hunter v. United States* (2026, appeal waivers), *People v. Lynch* (2024, upper-term sentencing) — all reflected in the outline with verify tags where needed.
+**Recent law to watch:** *Case v. Montana* (2026, emergency aid), *Chatrie v. United States* (2026, geofence), *Villarreal v. Texas* (2026, counsel during testimony), *Barrett v. United States* (2026, double jeopardy), *Hunter v. United States* (2026, appeal waivers), *People v. Lynch* (2024, upper-term sentencing) — all reflected in the outline with their sources.

@@ -1,6 +1,6 @@
 ---
 subject: CRM
-topic: Criminal Law and Procedure — essay-ready rule statements (R-CRM-001 to R-CRM-120)
+topic: Criminal Law and Procedure — essay-ready rule statements (R-CRM-001 to R-CRM-121)
 coverage_ids: [CRM-MBE-I, CRM-MBE-II, CRM-MBE-III, CRM-MBE-IV, CRM-MBE-V, CRM-CBX-I, CRM-CBX-III, CRM-CBX-V, CRM-CBX-P-I, CRM-CBX-P-II]
 tested_on: [MBE, essay]
 exam_frequency: {level: high, basis: "Essays: 15 of 31 administrations 2012-02 to 2026-07 (48%); MBE: 25 scored questions every exam"}
@@ -12,9 +12,9 @@ status: draft
 
 **How to use.** Each block gives a 1–3 sentence rule you can write verbatim, then elements, exceptions, authority and a short example. The full discussion is in [outline.md](outline.md); California-specific points are collected in [ca-distinctions.md](ca-distinctions.md).
 
-**Which rule on which exam.** For substantive crimes (R-CRM-001 to R-CRM-071), the MBE uses the generally accepted common-law or majority rule unless the question names a statute or the MPC; a California essay uses general principles — the common law, with the MPC noted where it differs — unless the call asks for California law [S-077]. For criminal procedure (R-CRM-072 to R-CRM-120), both the MBE and the essays apply the U.S. Constitution, and California's Truth-in-Evidence clause makes the federal exclusion rules the California rules (R-CRM-090).
+**Which rule on which exam.** For substantive crimes (R-CRM-001 to R-CRM-071), the MBE uses the generally accepted common-law or majority rule unless the question names a statute or the MPC; a California essay uses general principles — the common law, with the MPC noted where it differs — unless the call asks for California law [S-077]. For criminal procedure (R-CRM-072 to R-CRM-120), both the MBE and the essays apply the U.S. Constitution, and California's Truth-in-Evidence clause makes the federal exclusion rules the California rules (R-CRM-090). R-CRM-121 (accomplice corroboration) is a California-only rule for a California-law call or an Evidence crossover; never use it on the MBE.
 
-**Citation conventions.** U.S. Reports citations are given where certain. October Term 2025 decisions listed in `00-exam-intel/recent-changes.md` carry `[VERIFY V-034]`; October Terms 2022–2024 decisions listed there carry `[VERIFY V-035]`. Other recent decisions cited from memory carry `[VERIFY V-250]`; California cases of moderate certainty carry `[VERIFY V-251]`.
+**Citation conventions.** U.S. Reports citations are given where certain. October Term 2025 decisions carry the source ID of the opinion or CRS summary found by search (`[S-###]`); October Terms 2022–2024 decisions listed in `00-exam-intel/recent-changes.md` carry `[VERIFY V-035]`. Other recent decisions not yet confirmed carry `[VERIFY V-250]`; California cases of moderate certainty carry `[VERIFY V-251]`. A case cited for a rule that came from a **plurality** opinion (no majority opinion on that point) is labeled "plurality"; on an essay you may still cite it by name, but do not call it a majority holding.
 
 ---
 
@@ -213,7 +213,7 @@ status: draft
 
 **Exceptions / defenses:** Voluntary intoxication alone is not insanity; settled insanity from long-term use may be. The Durham "product" test survives only in New Hampshire.
 
-**Authority:** *M'Naghten's Case* (1843); MPC § 4.01; 18 U.S.C. § 17; *Kahler v. Kansas* (2020) [VERIFY V-250]; *Clark v. Arizona*, 548 U.S. 735 (2006); Cal. Pen. Code § 25(b) and *People v. Skinner* (1985) 39 Cal.3d 765 [S-150].
+**Authority:** *M'Naghten's Case* (1843); MPC § 4.01; 18 U.S.C. § 17; *Kahler v. Kansas* (2020) [S-1513]; *Clark v. Arizona*, 548 U.S. 735 (2006); Cal. Pen. Code § 25(b) and *People v. Skinner* (1985) 39 Cal.3d 765 [S-150].
 
 **MBE vs. CA essay:** MBE: M'Naghten unless the question names another test. Essay: state M'Naghten, then the irresistible-impulse and MPC alternatives, and apply each. California uses M'Naghten read disjunctively (either prong).
 
@@ -226,9 +226,9 @@ status: draft
 
 **Elements:** 1. Burden on defendant permitted. 2. Insanity acquittee may be civilly committed until no longer mentally ill or dangerous. 3. Competency (Dusky) is a separate due-process requirement at the time of trial.
 
-**Exceptions / defenses:** Execution of a prisoner who cannot understand the punishment is barred (Ford).
+**Exceptions / defenses:** Execution of a prisoner who is insane is barred (Ford); the working standard (unaware of the punishment and why it is imposed) comes from Justice Powell's concurrence in Ford.
 
-**Authority:** *Leland v. Oregon*, 343 U.S. 790 (1952); 18 U.S.C. § 17(b); *Jones v. United States*, 463 U.S. 354 (1983); *Dusky v. United States*, 362 U.S. 402 (1960); Cal. Pen. Code §§ 25(b), 1026 [S-150].
+**Authority:** *Leland v. Oregon*, 343 U.S. 790 (1952); 18 U.S.C. § 17(b); *Jones v. United States*, 463 U.S. 354 (1983); *Dusky v. United States*, 362 U.S. 402 (1960); *Ford v. Wainwright*, 477 U.S. 399 (1986); Cal. Pen. Code §§ 25(b), 1026 [S-150].
 
 **MBE vs. CA essay:** Same rule; California bifurcates guilt and sanity phases.
 
@@ -252,9 +252,9 @@ status: draft
 
 **Elements:** 1. Voluntary or involuntary? 2. Voluntary: specific-intent crime + intent actually not formed. 3. Involuntary: incapacity under the jurisdiction's insanity test, or negation of mens rea.
 
-**Exceptions / defenses:** "Dutch courage" (drinking to steel oneself for a planned crime) is no defense. MPC: self-induced unawareness of risk does not negate recklessness. A state may abolish the voluntary-intoxication defense (Egelhoff). California: voluntary intoxication can negate specific intent, premeditation, deliberation or express malice, but not implied malice.
+**Exceptions / defenses:** "Dutch courage" (drinking to steel oneself for a planned crime) is no defense. MPC: self-induced unawareness of risk does not negate recklessness. A state may bar consideration of voluntary intoxication on mental state (Egelhoff, plurality opinion; a fifth Justice concurred in the judgment). California: voluntary intoxication can negate specific intent, premeditation, deliberation or express malice, but not implied malice.
 
-**Authority:** MPC § 2.08; *Montana v. Egelhoff*, 518 U.S. 37 (1996); Cal. Pen. Code § 29.4 [S-361].
+**Authority:** MPC § 2.08; *Montana v. Egelhoff*, 518 U.S. 37 (1996) (plurality opinion); Cal. Pen. Code § 29.4 [S-361].
 
 **MBE vs. CA essay:** Same rule. On essays, flag the crime category before applying intoxication.
 
@@ -313,11 +313,11 @@ status: draft
 **Example:** D punches V; V pulls a gun. D, unable to flee, stabs V. D may claim self-defense because V escalated to deadly force.
 
 ### R-CRM-023 — Imperfect self-defense
-**Rule (write this):** A defendant who kills with an honest but unreasonable belief that deadly force was necessary, or who was the initial aggressor, cannot claim complete self-defense, but in many jurisdictions the killing is reduced from murder to voluntary manslaughter.
+**Rule (write this):** A defendant who kills with an honest but unreasonable belief that deadly force was necessary cannot claim complete self-defense, but in many jurisdictions the killing is reduced from murder to voluntary manslaughter because the honest belief negates malice.
 
-**Elements:** 1. Actual belief in the need for deadly force. 2. Belief unreasonable (or defendant at fault in creating the situation). 3. Result: voluntary manslaughter.
+**Elements:** 1. Actual belief in the need for deadly force. 2. Belief unreasonable. 3. Result: voluntary manslaughter.
 
-**Exceptions / defenses:** The MPC reaches a similar result through § 3.09(2): a reckless or negligent belief supports conviction only for crimes of recklessness or negligence.
+**Exceptions / defenses:** The MPC reaches a similar result through § 3.09(2): a reckless or negligent belief supports conviction only for crimes of recklessness or negligence. Some jurisdictions also give this mitigation to an initial aggressor who lost the right of complete self-defense; California does not allow imperfect self-defense where the defendant's own wrongful conduct (such as starting a physical assault) legally justified the adversary's attack (*Christian S.*) [VERIFY V-986].
 
 **Authority:** Common law; MPC § 3.09(2); *In re Christian S.* (1994) 7 Cal.4th 768; *People v. Flannel* (1979) 25 Cal.3d 668.
 
@@ -455,7 +455,7 @@ status: draft
 
 **Exceptions / defenses:** Courts differ on how much time is needed ("no time too short" vs. appreciable time). Intoxication and mental-disorder evidence may negate premeditation. The MPC has no degrees of murder.
 
-**Authority:** Cal. Pen. Code § 189(a) [S-357] [VERIFY V-253]; *People v. Anderson* (1968) 70 Cal.2d 15; MPC § 210.2.
+**Authority:** Cal. Pen. Code § 189(a) [S-357]; *People v. Anderson* (1968) 70 Cal.2d 15; MPC § 210.2.
 
 **MBE vs. CA essay:** MBE: look for planning or lying in wait. Essay: apply the planning/motive/manner factors and argue both sides.
 
@@ -583,9 +583,9 @@ status: draft
 
 **Elements:** 1. Enumerated felony (§ 189(a)). 2. Death occurred. 3. Defendant is (a) actual killer, (b) intent-to-kill aider, or (c) major participant + reckless indifference (Banks/Clark factors: planning role, supplying weapons, presence at the scene, ability to prevent the killing, knowledge of a co-felon's propensity for violence).
 
-**Exceptions / defenses:** The limits do not apply where the victim was a peace officer killed in the performance of duty and the defendant knew or reasonably should have known it (§ 189(f)) [VERIFY V-253]. Natural and probable consequences cannot support murder (§ 188(a)(3); Gentile). Whether second-degree felony murder survives is unsettled [VERIFY V-252]. Persons convicted under abolished theories may petition for resentencing (§ 1172.6).
+**Exceptions / defenses:** The limits do not apply where the victim was a peace officer killed in the performance of duty and the defendant knew or reasonably should have known it (§ 189(f)) [VERIFY V-253]. Natural and probable consequences cannot support murder (§ 188(a)(3); Gentile). Section 188(a)(3) exempts only § 189(e) felony murder from the requirement of personal malice, and § 189(e) covers only the § 189(a) felonies; that structure suggests second-degree felony murder no longer survives, but no controlling holding was located [S-1501] [VERIFY V-252]. Persons convicted under abolished theories may petition for resentencing (§ 1172.6).
 
-**Authority:** Cal. Pen. Code §§ 188(a)(3), 189(e)–(f), 1172.6 [S-357] [S-360]; *People v. Strong* (2022) [S-358]; *People v. Gentile* (2020) [S-359]; *People v. Banks* (2015) 61 Cal.4th 788; *People v. Clark* (2016) 63 Cal.4th 522 [VERIFY V-251].
+**Authority:** Cal. Pen. Code §§ 188(a)(3), 189(e)–(f), 1172.6 [S-357] [S-360]; *People v. Strong* (2022) 13 Cal.5th 698 [S-358] [S-1502]; *People v. Gentile* (2020) 10 Cal.5th 830 [S-359] [S-1501]; *People v. Banks* (2015) 61 Cal.4th 788; *People v. Clark* (2016) 63 Cal.4th 522 [VERIFY V-251].
 
 **MBE vs. CA essay:** Never on the MBE. On essays, add it only if the call asks for California law; otherwise one sentence noting California's narrower rule.
 
@@ -732,7 +732,7 @@ status: draft
 
 **Exceptions / defenses:** Fraud in the factum vitiates consent; fraud in the inducement generally does not. An honest and reasonable belief in consent is a defense in many jurisdictions.
 
-**Authority:** Common law; Cal. Pen. Code § 261 [VERIFY V-258]; *People v. Mayberry* (1975) 15 Cal.3d 143; MPC § 213.1.
+**Authority:** Common law; Cal. Pen. Code § 261 (former § 262, spousal rape, repealed by AB 1171, Stats. 2021, ch. 626, effective Jan. 1, 2022, so rape of a spouse is prosecuted under § 261) [S-1503] [S-1504]; *People v. Mayberry* (1975) 15 Cal.3d 143; MPC § 213.1.
 
 **MBE vs. CA essay:** Same rule.
 
@@ -782,9 +782,9 @@ status: draft
 
 **Elements:** 1. Burning (charring, not scorching or smoke damage). 2. Dwelling (modern: any structure). 3. Of another (occupancy). 4. Malice (intent or recklessness).
 
-**Exceptions / defenses:** Arson is not a specific-intent crime; voluntary intoxication is no defense. Mere negligence is not malice. Arson and burglary do not merge.
+**Exceptions / defenses:** Arson is not a specific-intent crime; voluntary intoxication is no defense. Mere negligence is not malice. Arson and burglary do not merge. California: arson is willfully and maliciously setting fire to or burning any structure, forest land or property, but burning one's own personal property is not arson unless there is intent to defraud or injury to another (§ 451); recklessly causing a fire is the lesser crime of unlawfully causing a fire (§ 452).
 
-**Authority:** Common law; MPC § 220.1; Cal. Pen. Code §§ 451, 452 [VERIFY V-260]; *People v. Atkins* (2001) 25 Cal.4th 76.
+**Authority:** Common law; MPC § 220.1; Cal. Pen. Code §§ 451, 452 [S-1505] [S-1506]; *People v. Atkins* (2001) 25 Cal.4th 76.
 
 **MBE vs. CA essay:** Same rule.
 
@@ -946,7 +946,7 @@ status: draft
 
 **Exceptions / defenses:** California does not allow the natural and probable consequences doctrine to support murder or attempted murder.
 
-**Authority:** Common law; MPC § 2.06(3); *People v. Chiu* (2014) 59 Cal.4th 155; Cal. Pen. Code § 188(a)(3); *People v. Gentile* (2020) [S-359]; SB 775 [S-360].
+**Authority:** Common law; MPC § 2.06(3); *People v. Chiu* (2014) 59 Cal.4th 155; Cal. Pen. Code § 188(a)(3); *People v. Gentile* (2020) 10 Cal.5th 830 [S-359] [S-1501]; SB 775 [S-360].
 
 **MBE vs. CA essay:** MBE: common-law natural and probable consequences. Essay: common law, then MPC; California limits only if asked.
 
@@ -989,7 +989,7 @@ status: draft
 
 **Exceptions / defenses:** See R-CRM-074 (no reasonable expectation of privacy).
 
-**Authority:** *Katz v. United States*, 389 U.S. 347 (1967); *United States v. Jones*, 565 U.S. 400 (2012); *Florida v. Jardines*, 569 U.S. 1 (2013); *Kyllo v. United States*, 533 U.S. 27 (2001); *Carpenter v. United States*, 585 U.S. 296 (2018); *Chatrie v. United States* (2026) [S-353] [VERIFY V-034].
+**Authority:** *Katz v. United States*, 389 U.S. 347 (1967); *United States v. Jones*, 565 U.S. 400 (2012); *Florida v. Jardines*, 569 U.S. 1 (2013); *Kyllo v. United States*, 533 U.S. 27 (2001); *Carpenter v. United States*, 585 U.S. 296 (2018); *Chatrie v. United States* (2026) [S-353] [S-354].
 
 **MBE vs. CA essay:** Same rule.
 
@@ -1002,11 +1002,11 @@ status: draft
 
 **Exceptions / defenses:** A dog sniff at a home's front door is a search (Jardines); squeezing a bag to explore its contents is a search (Bond).
 
-**Authority:** *Oliver v. United States*, 466 U.S. 170 (1984); *United States v. Dunn*, 480 U.S. 294 (1987); *California v. Ciraolo*, 476 U.S. 207 (1986); *California v. Greenwood*, 486 U.S. 35 (1988); *Smith v. Maryland*, 442 U.S. 735 (1979); *United States v. Miller*, 425 U.S. 435 (1976); *Hoffa v. United States*, 385 U.S. 293 (1966); *Illinois v. Caballes*, 543 U.S. 405 (2005); *Bond v. United States*, 529 U.S. 334 (2000).
+**Authority:** *Oliver v. United States*, 466 U.S. 170 (1984); *United States v. Dunn*, 480 U.S. 294 (1987); *California v. Ciraolo*, 476 U.S. 207 (1986); *California v. Greenwood*, 486 U.S. 35 (1988); *Smith v. Maryland*, 442 U.S. 735 (1979); *United States v. Miller*, 425 U.S. 435 (1976); *Hoffa v. United States*, 385 U.S. 293 (1966); *Illinois v. Caballes*, 543 U.S. 405 (2005); *Bond v. United States*, 529 U.S. 334 (2000); *Florida v. Riley*, 488 U.S. 445 (1989) (plurality opinion).
 
 **MBE vs. CA essay:** Same rule.
 
-**Example:** Police fly a helicopter at 400 feet and see marijuana in D's fenced backyard. No search (Florida v. Riley): public airspace.
+**Example:** Police fly a helicopter at 400 feet and see marijuana in D's fenced backyard. No search (Florida v. Riley, plurality opinion): public navigable airspace.
 
 ### R-CRM-075 — Fourth Amendment standing
 **Rule (write this):** Fourth Amendment rights are personal: a defendant may challenge a search or seizure only if it violated his own reasonable expectation of privacy or property interest. Owners and lawful possessors, overnight guests, and drivers in sole possession of a rental car have standing; passengers and short-term business visitors generally do not, though a passenger may challenge the stop itself.
@@ -1028,7 +1028,7 @@ status: draft
 
 **Exceptions / defenses:** Consensual encounters (questions, requests for ID, bus sweeps where passengers may decline) need no justification.
 
-**Authority:** *United States v. Mendenhall*, 446 U.S. 544 (1980); *Florida v. Bostick*, 501 U.S. 429 (1991); *California v. Hodari D.*, 499 U.S. 621 (1991); *Torres v. Madrid* (2021) [VERIFY V-250].
+**Authority:** *United States v. Mendenhall*, 446 U.S. 544 (1980) (the "free to leave" test appears in a two-Justice part of the opinion; the Court later adopted it); *Florida v. Bostick*, 501 U.S. 429 (1991); *California v. Hodari D.*, 499 U.S. 621 (1991); *Torres v. Madrid* (2021) [S-1509].
 
 **MBE vs. CA essay:** Same rule.
 
@@ -1041,7 +1041,7 @@ status: draft
 
 **Exceptions / defenses:** Presence in a high-crime area or nervousness alone is not enough; unprovoked flight in a high-crime area is (Wardlow).
 
-**Authority:** *Terry v. Ohio*, 392 U.S. 1 (1968); *United States v. Sokolow*, 490 U.S. 1 (1989); *Illinois v. Wardlow*, 528 U.S. 119 (2000); *Florida v. J.L.*, 529 U.S. 266 (2000); *Alabama v. White*, 496 U.S. 325 (1990); *Navarette v. California*, 572 U.S. 393 (2014); *Florida v. Royer*, 460 U.S. 491 (1983).
+**Authority:** *Terry v. Ohio*, 392 U.S. 1 (1968); *United States v. Sokolow*, 490 U.S. 1 (1989); *Illinois v. Wardlow*, 528 U.S. 119 (2000); *Florida v. J.L.*, 529 U.S. 266 (2000); *Alabama v. White*, 496 U.S. 325 (1990); *Navarette v. California*, 572 U.S. 393 (2014); *Florida v. Royer*, 460 U.S. 491 (1983) (plurality opinion).
 
 **MBE vs. CA essay:** Same rule.
 
@@ -1080,7 +1080,7 @@ status: draft
 
 **Exceptions / defenses:** An illegal arrest does not bar prosecution; it supports suppression of its fruits. A Payton violation does not taint a later station-house statement if probable cause existed (Harris). An arrest made in good-faith reliance on a statute later held unconstitutional is valid, unless the statute was so grossly and flagrantly unconstitutional that any reasonable person would see its flaws (*DeFillippo*).
 
-**Authority:** *United States v. Watson*, 423 U.S. 411 (1976); *Atwater v. City of Lago Vista*, 532 U.S. 318 (2001); *Payton v. New York*, 445 U.S. 573 (1980); *Steagald v. United States*, 451 U.S. 204 (1981); *County of Riverside v. McLaughlin*, 500 U.S. 44 (1991); *New York v. Harris*, 495 U.S. 14 (1990); *Maryland v. Pringle*, 540 U.S. 366 (2003). *Michigan v. DeFillippo*, 443 U.S. 31 (1979).
+**Authority:** *United States v. Watson*, 423 U.S. 411 (1976); *Atwater v. City of Lago Vista*, 532 U.S. 318 (2001); *Payton v. New York*, 445 U.S. 573 (1980); *Steagald v. United States*, 451 U.S. 204 (1981); *County of Riverside v. McLaughlin*, 500 U.S. 44 (1991); *New York v. Harris*, 495 U.S. 14 (1990); *Maryland v. Pringle*, 540 U.S. 366 (2003); *Michigan v. DeFillippo*, 443 U.S. 31 (1979).
 
 **MBE vs. CA essay:** Same rule.
 
@@ -1145,7 +1145,7 @@ status: draft
 
 **Exceptions / defenses:** Hicks (moving stereo equipment to read serial numbers was a search).
 
-**Authority:** *Coolidge v. New Hampshire*, 403 U.S. 443 (1971); *Horton v. California*, 496 U.S. 128 (1990); *Arizona v. Hicks*, 480 U.S. 321 (1987).
+**Authority:** *Coolidge v. New Hampshire*, 403 U.S. 443 (1971) (plain-view part: plurality opinion); *Horton v. California*, 496 U.S. 128 (1990); *Arizona v. Hicks*, 480 U.S. 321 (1987).
 
 **MBE vs. CA essay:** Same rule.
 
@@ -1171,7 +1171,7 @@ status: draft
 
 **Exceptions / defenses:** Pursuit of a misdemeanant is judged case by case (Lange). Alcohol dissipation is not a per se exigency (McNeely). No free-standing community-caretaking exception for homes (Caniglia).
 
-**Authority:** *Warden v. Hayden*, 387 U.S. 294 (1967); *Kentucky v. King*, 563 U.S. 452 (2011); *Brigham City v. Stuart*, 547 U.S. 398 (2006); *Missouri v. McNeely*, 569 U.S. 141 (2013); *Case v. Montana* (2026) [S-351] [S-352] [VERIFY V-034]; *Lange v. California* and *Caniglia v. Strom* (2021) [VERIFY V-250].
+**Authority:** *Warden v. Hayden*, 387 U.S. 294 (1967); *Kentucky v. King*, 563 U.S. 452 (2011); *Brigham City v. Stuart*, 547 U.S. 398 (2006); *Missouri v. McNeely*, 569 U.S. 141 (2013); *Case v. Montana* (2026) [S-351] [S-352]; *Lange v. California*, 594 U.S. 295 (2021) [S-1515] [VERIFY V-250]; *Caniglia v. Strom* (2021) [S-1510].
 
 **MBE vs. CA essay:** Same rule.
 
@@ -1197,7 +1197,7 @@ status: draft
 
 **Exceptions / defenses:** Statements made loudly in public or audible without enhancement carry no expectation of privacy.
 
-**Authority:** *Katz v. United States*, 389 U.S. 347 (1967); *United States v. White*, 401 U.S. 745 (1971); 18 U.S.C. §§ 2510–2522; *Carpenter v. United States*, 585 U.S. 296 (2018); *Chatrie v. United States* (2026) [S-353] [VERIFY V-034]; *Riley v. California*, 573 U.S. 373 (2014).
+**Authority:** *Katz v. United States*, 389 U.S. 347 (1967); *United States v. White*, 401 U.S. 745 (1971); 18 U.S.C. §§ 2510–2522; *Carpenter v. United States*, 585 U.S. 296 (2018); *Chatrie v. United States* (2026) [S-353] [S-354]; *Riley v. California*, 573 U.S. 373 (2014).
 
 **MBE vs. CA essay:** Same rule. Essays (Jul 2015 Q3; Jul 2019 Q3) have tested overheard conversations.
 
@@ -1314,11 +1314,11 @@ status: draft
 ### R-CRM-098 — Miranda: invoking the right to counsel (Edwards)
 **Rule (write this):** If a suspect in custody unambiguously requests a lawyer, all interrogation about any crime must stop until counsel is present, unless the suspect himself reinitiates communication with the police. The protection lapses once the suspect has been released from custody for 14 days.
 
-**Elements:** 1. Unambiguous request (Davis: "Maybe I should talk to a lawyer" is not). 2. All questioning stops, on any offense (Roberson), even after consultation (Minnick). 3. Reinitiation by the suspect showing a desire for a generalized discussion (Bradshaw) + valid waiver. 4. 14-day break in custody ends Edwards (Shatzer).
+**Elements:** 1. Unambiguous request (Davis: "Maybe I should talk to a lawyer" is not). 2. All questioning stops, on any offense (Roberson), even after consultation (Minnick). 3. Reinitiation by the suspect showing a desire for a generalized discussion (Bradshaw, plurality opinion) + valid waiver. 4. 14-day break in custody ends Edwards (Shatzer).
 
 **Exceptions / defenses:** Statements obtained in violation of Edwards may still be used to impeach if voluntary.
 
-**Authority:** *Edwards v. Arizona*, 451 U.S. 477 (1981); *Davis v. United States*, 512 U.S. 452 (1994); *Arizona v. Roberson*, 486 U.S. 675 (1988); *Minnick v. Mississippi*, 498 U.S. 146 (1990); *Oregon v. Bradshaw*, 462 U.S. 1039 (1983); *Maryland v. Shatzer*, 559 U.S. 98 (2010).
+**Authority:** *Edwards v. Arizona*, 451 U.S. 477 (1981); *Davis v. United States*, 512 U.S. 452 (1994); *Arizona v. Roberson*, 486 U.S. 675 (1988); *Minnick v. Mississippi*, 498 U.S. 146 (1990); *Oregon v. Bradshaw*, 462 U.S. 1039 (1983) (plurality opinion); *Maryland v. Shatzer*, 559 U.S. 98 (2010).
 
 **MBE vs. CA essay:** Same rule.
 
@@ -1340,11 +1340,11 @@ status: draft
 ### R-CRM-100 — Miranda fruits, two-step interrogation and impeachment
 **Rule (write this):** Physical evidence derived from a voluntary but unwarned statement is admissible, and a later warned statement is admissible if the first unwarned statement was voluntary — unless police deliberately used a question-first, warn-later strategy without curative measures. A voluntary statement obtained in violation of Miranda may be used to impeach the defendant's inconsistent trial testimony, but an involuntary statement may not.
 
-**Elements:** 1. Physical fruits: admissible (Patane — plurality opinion plus a two-Justice concurrence in the judgment). 2. Second statement: Elstad (admissible) vs. Seibert (deliberate two-step → excluded absent curative steps such as a substantial break or a warning that the first statement is inadmissible). 3. Impeachment (Harris). 4. Silence after warnings cannot be used (Doyle); pre-arrest, non-custodial silence without express invocation can be (Salinas).
+**Elements:** 1. Physical fruits: admissible (Patane — plurality opinion plus a two-Justice concurrence in the judgment). 2. Second statement: Elstad (admissible) vs. Seibert (deliberate two-step → excluded absent curative steps such as a substantial break or a warning that the first statement is inadmissible). Seibert has no majority opinion: the deliberateness-plus-curative-measures test comes from Justice Kennedy's concurrence in the judgment, which lower courts generally treat as controlling. 3. Impeachment (Harris). 4. Silence after warnings cannot be used (Doyle); pre-arrest, non-custodial silence without express invocation can be (Salinas, plurality opinion; two more Justices concurred in the judgment on a broader ground).
 
-**Exceptions / defenses:** A Miranda violation does not support a § 1983 damages action [VERIFY V-250].
+**Exceptions / defenses:** A Miranda violation does not support a § 1983 damages action (*Vega v. Tekoh* (2022) [S-1514]).
 
-**Authority:** *United States v. Patane*, 542 U.S. 630 (2004); *Oregon v. Elstad*, 470 U.S. 298 (1985); *Missouri v. Seibert*, 542 U.S. 600 (2004); *Harris v. New York*, 401 U.S. 222 (1971); *Salinas v. Texas*, 570 U.S. 178 (2013); *People v. May* (1988) 44 Cal.3d 309 [S-364].
+**Authority:** *United States v. Patane*, 542 U.S. 630 (2004) (plurality opinion); *Oregon v. Elstad*, 470 U.S. 298 (1985); *Missouri v. Seibert*, 542 U.S. 600 (2004) (plurality opinion; Kennedy, J., concurring in the judgment); *Harris v. New York*, 401 U.S. 222 (1971); *Salinas v. Texas*, 570 U.S. 178 (2013) (plurality opinion); *People v. May* (1988) 44 Cal.3d 309 [S-364].
 
 **MBE vs. CA essay:** Same rule; California follows Harris under Truth-in-Evidence (May).
 
@@ -1370,11 +1370,11 @@ status: draft
 ### R-CRM-102 — Sixth Amendment counsel: attachment and deliberate elicitation
 **Rule (write this):** The Sixth Amendment right to counsel attaches when adversary judicial proceedings begin — formal charge, preliminary hearing, indictment, information, arraignment or first appearance — and applies at every critical stage after that. Once it attaches, the government may not deliberately elicit statements about the charged offense from the defendant without counsel or a valid waiver; the right is offense-specific.
 
-**Elements:** 1. Attachment (Kirby; Rothgery). 2. Critical stage or deliberate elicitation by police or an active informant (Massiah; Brewer; Henry). 3. Same offense as charged (Blockburger test, Cobb). 4. No valid waiver (Miranda warnings suffice; Montejo).
+**Elements:** 1. Attachment (Kirby, plurality opinion; Rothgery). 2. Critical stage or deliberate elicitation by police or an active informant (Massiah; Brewer; Henry). 3. Same offense as charged (Blockburger test, Cobb). 4. No valid waiver (Miranda warnings suffice; Montejo).
 
 **Exceptions / defenses:** A passive "listening post" informant does not violate the right (Kuhlmann). Statements taken in violation may impeach (Ventris).
 
-**Authority:** U.S. Const. amend. VI; *Massiah v. United States*, 377 U.S. 201 (1964); *Brewer v. Williams*, 430 U.S. 387 (1977); *United States v. Henry*, 447 U.S. 264 (1980); *Kirby v. Illinois*, 406 U.S. 682 (1972); *Rothgery v. Gillespie County*, 554 U.S. 191 (2008); *McNeil v. Wisconsin*, 501 U.S. 171 (1991); *Texas v. Cobb*, 532 U.S. 162 (2001); *Montejo v. Louisiana*, 556 U.S. 778 (2009); *Kansas v. Ventris*, 556 U.S. 586 (2009).
+**Authority:** U.S. Const. amend. VI; *Massiah v. United States*, 377 U.S. 201 (1964); *Brewer v. Williams*, 430 U.S. 387 (1977); *United States v. Henry*, 447 U.S. 264 (1980); *Kirby v. Illinois*, 406 U.S. 682 (1972) (plurality opinion); *Rothgery v. Gillespie County*, 554 U.S. 191 (2008); *McNeil v. Wisconsin*, 501 U.S. 171 (1991); *Texas v. Cobb*, 532 U.S. 162 (2001); *Montejo v. Louisiana*, 556 U.S. 778 (2009); *Kansas v. Ventris*, 556 U.S. 586 (2009).
 
 **MBE vs. CA essay:** Same rule.
 
@@ -1400,7 +1400,7 @@ status: draft
 
 **Exceptions / defenses:** Courts may bar consultation about ongoing testimony during an overnight recess if other consultation is allowed (Villarreal), but not all overnight consultation (Geders). Counsel may not concede guilt over the client's objection (McCoy).
 
-**Authority:** *Faretta v. California*, 422 U.S. 806 (1975); *Indiana v. Edwards*, 554 U.S. 164 (2008); *Godinez v. Moran*, 509 U.S. 389 (1993); *United States v. Gonzalez-Lopez*, 548 U.S. 140 (2006); *Wheat v. United States*, 486 U.S. 153 (1988); *Geders v. United States*, 425 U.S. 80 (1976); *Villarreal v. Texas* (2026) [S-355] [VERIFY V-034]; *McCoy v. Louisiana*, 584 U.S. 414 (2018).
+**Authority:** *Faretta v. California*, 422 U.S. 806 (1975); *Indiana v. Edwards*, 554 U.S. 164 (2008); *Godinez v. Moran*, 509 U.S. 389 (1993); *United States v. Gonzalez-Lopez*, 548 U.S. 140 (2006); *Wheat v. United States*, 486 U.S. 153 (1988); *Geders v. United States*, 425 U.S. 80 (1976); *Villarreal v. Texas* (2026) [S-355]; *McCoy v. Louisiana*, 584 U.S. 414 (2018).
 
 **MBE vs. CA essay:** Same rule (Jul 2014 Q4 tested a self-representation request a week before trial).
 
@@ -1424,9 +1424,9 @@ status: draft
 
 **Elements:** 1. Formal charges filed? 2. Live (corporeal) identification? 3. Counsel absent without waiver. 4. Remedy: exclude; independent-source test for in-court identification.
 
-**Exceptions / defenses:** Photo arrays (Ash); pre-charge lineups (Kirby) — due process only.
+**Exceptions / defenses:** Photo arrays (Ash); pre-charge lineups (Kirby, plurality opinion; later decisions such as Rothgery treat attachment at formal charge as settled) — due process only.
 
-**Authority:** *United States v. Wade*, 388 U.S. 218 (1967); *Gilbert v. California*, 388 U.S. 263 (1967); *Kirby v. Illinois*, 406 U.S. 682 (1972); *United States v. Ash*, 413 U.S. 300 (1973).
+**Authority:** *United States v. Wade*, 388 U.S. 218 (1967); *Gilbert v. California*, 388 U.S. 263 (1967); *Kirby v. Illinois*, 406 U.S. 682 (1972) (plurality opinion); *United States v. Ash*, 413 U.S. 300 (1973).
 
 **MBE vs. CA essay:** Same rule.
 
@@ -1452,11 +1452,11 @@ status: draft
 ### R-CRM-108 — Pretrial: bail, probable-cause hearing, grand jury, preliminary hearing
 **Rule (write this):** Bail may not be set higher than reasonably necessary to assure the defendant's appearance, but preventive detention of dangerous arrestees after an adversary hearing is constitutional. A person arrested without a warrant is entitled to a prompt judicial determination of probable cause, presumptively within 48 hours; the grand-jury requirement binds only federal prosecutions, and grand juries may consider evidence that would be inadmissible at trial.
 
-**Elements:** 1. Bail (Stack; Salerno). 2. Gerstein/McLaughlin hearing. 3. Federal felonies → grand-jury indictment; states may use information after a preliminary hearing. 4. Preliminary hearing is a critical stage (counsel).
+**Elements:** 1. Bail (Stack; Salerno). 2. Gerstein/McLaughlin hearing. 3. Federal felonies → grand-jury indictment; states may use information after a preliminary hearing. 4. Preliminary hearing is a critical stage (counsel) (Coleman, plurality opinion).
 
-**Exceptions / defenses:** The prosecutor need not present exculpatory evidence to a grand jury (Williams); exclusionary rule does not apply there (Calandra).
+**Exceptions / defenses:** The prosecutor need not present exculpatory evidence to a grand jury (*United States v. Williams*, 504 U.S. 36 (1992)); exclusionary rule does not apply there (Calandra).
 
-**Authority:** U.S. Const. amends. V, VIII; *Stack v. Boyle*, 342 U.S. 1 (1951); *United States v. Salerno*, 481 U.S. 739 (1987); *Gerstein v. Pugh*, 420 U.S. 103 (1975); *County of Riverside v. McLaughlin*, 500 U.S. 44 (1991); *Hurtado v. California*, 110 U.S. 516 (1884); *Costello v. United States*, 350 U.S. 359 (1956); *Coleman v. Alabama*, 399 U.S. 1 (1970).
+**Authority:** U.S. Const. amends. V, VIII; *Stack v. Boyle*, 342 U.S. 1 (1951); *United States v. Salerno*, 481 U.S. 739 (1987); *Gerstein v. Pugh*, 420 U.S. 103 (1975); *County of Riverside v. McLaughlin*, 500 U.S. 44 (1991); *Hurtado v. California*, 110 U.S. 516 (1884); *Costello v. United States*, 350 U.S. 359 (1956); *Coleman v. Alabama*, 399 U.S. 1 (1970) (plurality opinion).
 
 **MBE vs. CA essay:** Same rule.
 
@@ -1480,9 +1480,9 @@ status: draft
 
 **Elements:** 1. Serious offense (> 6 months authorized). 2. Size ≥ 6 (6-person jury must be unanimous). 3. Unanimity (Ramos). 4. Fair cross-section of the venire (Duren test). 5. Batson three-step procedure. 6. Impartiality (voir dire, publicity, death qualification).
 
-**Exceptions / defenses:** Aggregated petty offenses do not trigger the right (Lewis). California requires 12 jurors and unanimity in felonies and adds Code Civ. Proc. § 231.7 for peremptory challenges.
+**Exceptions / defenses:** Aggregated petty offenses do not trigger the right (Lewis). The six-month line comes from Baldwin (plurality opinion), adopted by the Court in Blanton; Ballew (no majority opinion) held a five-person jury unconstitutional. California requires 12 jurors in felony cases (12 in misdemeanors unless the parties agree in open court to fewer) and a unanimous verdict in criminal cases, and adds Code Civ. Proc. § 231.7 for peremptory challenges.
 
-**Authority:** U.S. Const. amend. VI; *Duncan v. Louisiana*, 391 U.S. 145 (1968); *Baldwin v. New York*, 399 U.S. 66 (1970); *Blanton v. City of North Las Vegas*, 489 U.S. 538 (1989); *Lewis v. United States*, 518 U.S. 322 (1996); *Ballew v. Georgia*, 435 U.S. 223 (1978); *Burch v. Louisiana*, 441 U.S. 130 (1979); *Ramos v. Louisiana* (2020) [VERIFY V-250]; *Duren v. Missouri*, 439 U.S. 357 (1979); *Batson v. Kentucky*, 476 U.S. 79 (1986); *J.E.B. v. Alabama ex rel. T.B.*, 511 U.S. 127 (1994); Cal. Const. art. I, § 16; Code Civ. Proc. § 231.7 [S-365].
+**Authority:** U.S. Const. amend. VI; *Duncan v. Louisiana*, 391 U.S. 145 (1968); *Baldwin v. New York*, 399 U.S. 66 (1970) (plurality opinion); *Blanton v. City of North Las Vegas*, 489 U.S. 538 (1989); *Lewis v. United States*, 518 U.S. 322 (1996); *Ballew v. Georgia*, 435 U.S. 223 (1978) (no majority opinion); *Burch v. Louisiana*, 441 U.S. 130 (1979); *Ramos v. Louisiana*, 590 U.S. 83 (2020) [S-1511] [S-1512]; *Duren v. Missouri*, 439 U.S. 357 (1979); *Batson v. Kentucky*, 476 U.S. 79 (1986); *J.E.B. v. Alabama ex rel. T.B.*, 511 U.S. 127 (1994); Cal. Const. art. I, § 16; Code Civ. Proc. § 231.7 [S-365].
 
 **MBE vs. CA essay:** Same federal rule; California's 12-juror and § 231.7 rules only if asked.
 
@@ -1493,7 +1493,7 @@ status: draft
 
 **Elements:** 1. A fact (not a prior conviction) that raises the ceiling or floor. 2. Found by the judge rather than the jury → violation. 3. Harmless-error review applies.
 
-**Exceptions / defenses:** Advisory guidelines (Booker). In California, the upper term requires aggravating facts stipulated, found true beyond a reasonable doubt, or (prior convictions) shown by certified records, and the California Supreme Court requires a jury finding.
+**Exceptions / defenses:** Advisory guidelines (Booker). In California, the upper term requires aggravating facts stipulated, found true beyond a reasonable doubt, or (prior convictions) shown by certified records, and the California Supreme Court requires a jury finding unless the defendant admits the facts or waives a jury (Lynch).
 
 **Authority:** *Apprendi v. New Jersey*, 530 U.S. 466 (2000); *Blakely v. Washington*, 542 U.S. 296 (2004); *United States v. Booker*, 543 U.S. 220 (2005); *Alleyne v. United States*, 570 U.S. 99 (2013); *Cunningham v. California*, 549 U.S. 270 (2007); *Erlinger v. United States* (2024) [VERIFY V-035]; Cal. Pen. Code § 1170(b) [S-369]; *People v. Lynch* (2024) 16 Cal.5th 730 [S-133].
 
@@ -1545,9 +1545,9 @@ status: draft
 
 **Elements:** 1. Understanding of the charge (elements). 2. Of the consequences (maximum, mandatory minimum). 3. Of rights waived (jury, confrontation, privilege). 4. Voluntary (no improper threats or promises). 5. Factual basis. 6. Competence.
 
-**Exceptions / defenses:** Withdrawal or specific performance if the prosecution breaks the bargain (Santobello). An Alford plea is valid with strong evidence of guilt. Threatening greater charges in bargaining is permissible (Bordenkircher). A plea does not waive a claim that the statute is unconstitutional (Class). Appeal waivers are generally enforceable (Hunter).
+**Exceptions / defenses:** Withdrawal or specific performance if the prosecution breaks the bargain (Santobello). An Alford plea is valid with strong evidence of guilt. Threatening greater charges in bargaining is permissible (Bordenkircher). A plea does not waive a claim that the statute is unconstitutional (Class). A sentencing judge's statement that the defendant may appeal does not undo a written appeal waiver that could be modified only in writing (Hunter).
 
-**Authority:** *Boykin v. Alabama*, 395 U.S. 238 (1969); *Henderson v. Morgan*, 426 U.S. 637 (1976); Fed. R. Crim. P. 11; *North Carolina v. Alford*, 400 U.S. 25 (1970); *Santobello v. New York*, 404 U.S. 257 (1971); *Bordenkircher v. Hayes*, 434 U.S. 357 (1978); *Brady v. United States*, 397 U.S. 742 (1970); *Tollett v. Henderson*, 411 U.S. 258 (1973); *Class v. United States*, 583 U.S. 174 (2018); *Hunter v. United States* (2026) [S-356] [VERIFY V-255].
+**Authority:** *Boykin v. Alabama*, 395 U.S. 238 (1969); *Henderson v. Morgan*, 426 U.S. 637 (1976); Fed. R. Crim. P. 11; *North Carolina v. Alford*, 400 U.S. 25 (1970); *Santobello v. New York*, 404 U.S. 257 (1971); *Bordenkircher v. Hayes*, 434 U.S. 357 (1978); *Brady v. United States*, 397 U.S. 742 (1970); *Tollett v. Henderson*, 411 U.S. 258 (1973); *Class v. United States*, 583 U.S. 174 (2018); *Hunter v. United States* (2026) [S-356].
 
 **MBE vs. CA essay:** Same rule (Jul 2025 Q5 asked whether the judge properly accepted a plea).
 
@@ -1560,7 +1560,7 @@ status: draft
 
 **Exceptions / defenses:** A greater offense not complete at the time of the first prosecution (victim dies later) may be prosecuted. Civil sanctions are not punishment unless punitive in purpose or effect (Hudson).
 
-**Authority:** U.S. Const. amend. V; *Benton v. Maryland*, 395 U.S. 784 (1969); *Crist v. Bretz*, 437 U.S. 28 (1978); *Blockburger v. United States*, 284 U.S. 299 (1932); *Brown v. Ohio*, 432 U.S. 161 (1977); *United States v. Dixon*, 509 U.S. 688 (1993); *Missouri v. Hunter*, 459 U.S. 359 (1983); *Barrett v. United States* (2026) [S-350] [VERIFY V-255].
+**Authority:** U.S. Const. amend. V; *Benton v. Maryland*, 395 U.S. 784 (1969); *Crist v. Bretz*, 437 U.S. 28 (1978); *Blockburger v. United States*, 284 U.S. 299 (1932); *Brown v. Ohio*, 432 U.S. 161 (1977); *United States v. Dixon*, 509 U.S. 688 (1993); *Missouri v. Hunter*, 459 U.S. 359 (1983); *Barrett v. United States* (2026) [S-350].
 
 **MBE vs. CA essay:** Same rule.
 
@@ -1582,11 +1582,11 @@ status: draft
 ### R-CRM-118 — Cruel and unusual punishment
 **Rule (write this):** The Eighth Amendment forbids punishments grossly disproportionate to the offense, punishment for mere status, and excessive fines. The death penalty is barred for non-homicide crimes against individuals, for offenders under 18 or intellectually disabled, and for felony-murder accomplices who did not kill, attempt or intend to kill unless they were major participants who acted with reckless indifference to human life.
 
-**Elements:** 1. Non-capital: gross disproportionality (rarely met). 2. Capital: individualized sentencing; categorical bars (Coker, Kennedy, Enmund/Tison, Atkins, Roper). 3. Juveniles: no LWOP for non-homicide (Graham); no mandatory LWOP (Miller). 4. Status vs. conduct (Robinson; Powell; Grants Pass). 5. Excessive fines (Bajakajian; Timbs).
+**Elements:** 1. Non-capital: gross disproportionality (rarely met). 2. Capital: individualized sentencing; categorical bars (Coker, Kennedy, Enmund/Tison, Atkins, Roper). 3. Juveniles: no LWOP for non-homicide (Graham); no mandatory LWOP (Miller). 4. Status vs. conduct (Robinson; Powell, plurality opinion; Grants Pass). 5. Excessive fines (Bajakajian; Timbs).
 
-**Exceptions / defenses:** Long recidivist sentences are upheld (Ewing; Harmelin).
+**Exceptions / defenses:** Long sentences are usually upheld: a three-strikes recidivist sentence (Ewing, plurality opinion) and mandatory life without parole for possessing a large quantity of cocaine (Harmelin, where Justice Kennedy's concurrence supplies the gross-disproportionality test). Coker (rape of an adult) was also a plurality opinion; Kennedy v. Louisiana (majority) now states the non-homicide bar.
 
-**Authority:** U.S. Const. amend. VIII; *Harmelin v. Michigan*, 501 U.S. 957 (1991); *Ewing v. California*, 538 U.S. 11 (2003); *Coker v. Georgia*, 433 U.S. 584 (1977); *Kennedy v. Louisiana*, 554 U.S. 407 (2008); *Enmund v. Florida*, 458 U.S. 782 (1982); *Tison v. Arizona*, 481 U.S. 137 (1987); *Atkins v. Virginia*, 536 U.S. 304 (2002); *Roper v. Simmons*, 543 U.S. 551 (2005); *Graham v. Florida*, 560 U.S. 48 (2010); *Miller v. Alabama*, 567 U.S. 460 (2012); *Robinson v. California*, 370 U.S. 660 (1962); *Powell v. Texas*, 392 U.S. 514 (1968); *City of Grants Pass v. Johnson* (2024) [S-366]; *Timbs v. Indiana*, 586 U.S. 146 (2019).
+**Authority:** U.S. Const. amend. VIII; *Harmelin v. Michigan*, 501 U.S. 957 (1991) (no majority on proportionality; Kennedy, J., concurring); *Ewing v. California*, 538 U.S. 11 (2003) (plurality opinion); *Coker v. Georgia*, 433 U.S. 584 (1977) (plurality opinion); *Kennedy v. Louisiana*, 554 U.S. 407 (2008); *Enmund v. Florida*, 458 U.S. 782 (1982); *Tison v. Arizona*, 481 U.S. 137 (1987); *Atkins v. Virginia*, 536 U.S. 304 (2002); *Roper v. Simmons*, 543 U.S. 551 (2005); *Graham v. Florida*, 560 U.S. 48 (2010); *Miller v. Alabama*, 567 U.S. 460 (2012); *Robinson v. California*, 370 U.S. 660 (1962); *Powell v. Texas*, 392 U.S. 514 (1968) (plurality opinion; Justice White concurred in the result); *City of Grants Pass v. Johnson* (2024) [S-366]; *Timbs v. Indiana*, 586 U.S. 146 (2019).
 
 **MBE vs. CA essay:** Same rule.
 
@@ -1610,10 +1610,29 @@ status: draft
 
 **Elements:** 1. Preserved error → harmless-error review (Chapman). 2. Structural error → automatic reversal. 3. Unpreserved error → plain-error test (error, plain, affects substantial rights, seriously affects fairness). 4. Sufficiency → any rational trier of fact (Jackson v. Virginia). 5. Federal habeas → AEDPA deference; Stone v. Powell; Brecht harmlessness.
 
-**Exceptions / defenses:** New procedural rules do not apply retroactively on federal collateral review (Teague; Edwards v. Vannoy).
+**Exceptions / defenses:** New procedural rules do not apply retroactively on federal collateral review (Teague, plurality opinion later adopted by the Court; Edwards v. Vannoy, holding that Ramos does not apply retroactively and abandoning the "watershed" exception).
 
-**Authority:** *McKane v. Durston*, 153 U.S. 684 (1894); *Griffin v. Illinois*, 351 U.S. 12 (1956); *Chapman v. California*, 386 U.S. 18 (1967); *Arizona v. Fulminante*, 499 U.S. 279 (1991); *Neder v. United States*, 527 U.S. 1 (1999); *United States v. Olano*, 507 U.S. 725 (1993); Fed. R. Crim. P. 52(b); 28 U.S.C. § 2254(d); *Brecht v. Abrahamson*, 507 U.S. 619 (1993); *Teague v. Lane*, 489 U.S. 288 (1989); *Edwards v. Vannoy* (2021) [VERIFY V-250].
+**Authority:** *McKane v. Durston*, 153 U.S. 684 (1894); *Griffin v. Illinois*, 351 U.S. 12 (1956) (plurality opinion); *Chapman v. California*, 386 U.S. 18 (1967); *Arizona v. Fulminante*, 499 U.S. 279 (1991); *Neder v. United States*, 527 U.S. 1 (1999); *United States v. Olano*, 507 U.S. 725 (1993); Fed. R. Crim. P. 52(b); 28 U.S.C. § 2254(d); *Brecht v. Abrahamson*, 507 U.S. 619 (1993); *Teague v. Lane*, 489 U.S. 288 (1989) (retroactivity part: plurality opinion); *Edwards v. Vannoy* (2021) [S-1516] [VERIFY V-250].
 
 **MBE vs. CA essay:** Same rule.
 
 **Example:** A trial court erroneously admits a coerced confession, but three eyewitnesses and video show D committing the crime. The conviction may be affirmed if the error was harmless beyond a reasonable doubt (Fulminante).
+
+---
+
+## I. California-only rule: accomplice testimony (Evidence / Criminal crossover)
+
+### R-CRM-121 — Accomplice testimony must be corroborated (Cal. Pen. Code § 1111)
+**Rule (write this):** In California, a conviction cannot rest on the testimony of an accomplice unless it is corroborated by other evidence that tends to connect the defendant with the commission of the offense; corroboration that merely shows the offense was committed, or its circumstances, is not enough. An accomplice is one who is liable to prosecution for the identical offense charged against the defendant.
+
+**Elements:** 1. The witness is an accomplice: liable to prosecution for the identical offense charged (the perpetrator, an aider and abettor or a co-conspirator in that offense). 2. The accomplice's testimony is offered to convict the defendant. 3. Other evidence, independent of the accomplice's testimony, tends to connect the defendant with the commission of the offense. 4. Evidence that shows only that the crime occurred, or how, does not count.
+
+**Exceptions / defenses:** A witness who is not liable for the identical offense is not an accomplice under the statutory definition (for example, one who is only an accessory after the fact, or a feigned accomplice working for the police). The corroboration may be slight and circumstantial, need not by itself prove guilt, and cannot come from another accomplice; whether a disputed witness is an accomplice is a jury question [VERIFY V-985].
+
+**Authority:** Cal. Pen. Code § 1111 [S-1500]; Cal. Pen. Code § 32 (accessory); federal contrast: *Caminetti v. United States*, 242 U.S. 470, 495 (1917), as applied in *Doherty v. United States*, 230 F.2d 605 (9th Cir. 1956) [S-1507] [S-1508].
+
+**MBE vs. CA essay:** Differs. MBE and federal law: there is no corroboration requirement; an accomplice's uncorroborated testimony can support a conviction if the jury believes it, so attack credibility (plea deal, bias) instead. California essay: apply § 1111 only when the call asks for California law or in a California Evidence/Criminal crossover; name the independent evidence that connects the defendant to the crime.
+
+**Example:** A pleads guilty to a store robbery and testifies that D was the gunman. The only other evidence is the clerk's testimony that two masked men robbed the store. Under § 1111 the conviction cannot stand: the clerk proves the robbery, not D's link to it. D's fingerprints in the getaway car would supply corroboration. In federal court, A's testimony alone could support the conviction.
+
+> 🇨🇳 PRC bridge: Similar in spirit to the PRC rule that a defendant's own confession, with no other evidence, cannot support a conviction, which PRC practice applies cautiously to co-offenders' statements; § 1111 is narrower, applying only to accomplice witnesses (approx.).

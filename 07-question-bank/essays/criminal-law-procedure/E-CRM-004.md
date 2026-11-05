@@ -68,7 +68,7 @@ Theo has been charged with robbery and burglary.
 
 **A. Mei's show-up at the scene (due process)**
 
-The show-up took place before any formal charge, so there was no Sixth Amendment right to counsel (*Kirby*); only due process applies. An identification procedure violates due process if the police arranged a procedure that was unnecessarily suggestive and that created a substantial likelihood of misidentification. Even a suggestive identification is admissible if it is reliable under the totality of the circumstances, considering the witness's opportunity to view, degree of attention, accuracy of the prior description, level of certainty, and the time between the crime and the identification (*Neil v. Biggers*; *Manson v. Brathwaite*).
+The show-up took place before any formal charge, so there was no Sixth Amendment right to counsel (*Kirby v. Illinois*, plurality opinion); only due process applies. An identification procedure violates due process if the police arranged a procedure that was unnecessarily suggestive and that created a substantial likelihood of misidentification. Even a suggestive identification is admissible if it is reliable under the totality of the circumstances, considering the witness's opportunity to view, degree of attention, accuracy of the prior description, level of certainty, and the time between the crime and the identification (*Neil v. Biggers*; *Manson v. Brathwaite*).
 
 *Police-arranged and suggestive.* The police brought Mei to Theo. A show-up of a single handcuffed suspect beside a patrol car under a spotlight is inherently suggestive, and Officer Grant made it worse by saying, "We think we got him — he had cash on him."
 

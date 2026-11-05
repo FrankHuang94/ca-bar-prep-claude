@@ -24,7 +24,7 @@ Tiers follow essay frequency (Phase 3 index) and MBE weight [S-040]. Memorize th
 | Fourth Amendment | R-CRM-073, R-CRM-075, R-CRM-077, R-CRM-078, R-CRM-083, R-CRM-084, R-CRM-086, R-CRM-087, R-CRM-090, R-CRM-091 |
 | Statements | R-CRM-094, R-CRM-095, R-CRM-096, R-CRM-098, R-CRM-100 |
 
-## Should-know (regular MBE topics; secondary essay issues) — 45 rules
+## Should-know (regular MBE topics; secondary essay issues) — 46 rules
 
 | Area | Rule IDs |
 |---|---|
@@ -36,6 +36,7 @@ Tiers follow essay frequency (Phase 3 index) and MBE weight [S-040]. Memorize th
 | Fourth Amendment | R-CRM-074, R-CRM-076, R-CRM-079, R-CRM-080, R-CRM-082, R-CRM-085, R-CRM-089, R-CRM-092 |
 | Statements, counsel, ID | R-CRM-093, R-CRM-097, R-CRM-099, R-CRM-102, R-CRM-105, R-CRM-107 |
 | Trial and after | R-CRM-116 |
+| California (Evidence/Criminal crossover) | R-CRM-121 (accomplice corroboration, Pen. Code § 1111; never on the MBE) |
 
 ## Nice-to-know (low frequency or MBE-only detail) — 25 rules
 
