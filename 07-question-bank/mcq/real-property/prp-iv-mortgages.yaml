@@ -24,8 +24,8 @@ questions:
     junior interests in order of priority, with any surplus to the mortgagor (R-PRP-102). The net proceeds are
     $160,000 ($170,000 less $10,000): Birch Credit takes its full $120,000, and Cobalt Finance, the next junior, takes
     the remaining $40,000. Mona gets nothing. Ash Bank, the senior mortgagee, need not be joined; its $300,000
-    mortgage stays on the building, so Pell takes subject to it. Cobalt may pursue Mona personally for its $20,000
-    deficiency.
+    mortgage stays on the building, so Pell takes subject to it. Absent an anti-deficiency statute, Cobalt may pursue
+    Mona personally for its $20,000 deficiency.
   explanation_each_wrong_option:
     A: >-
       A junior's foreclosure neither pays nor extinguishes a senior mortgage; senior interests stay on the land and
@@ -130,7 +130,7 @@ questions:
 
 - id: Q-PRP-0034
   subject: PRP
-  coverage_ids: [PRP-MBE-IV.A.3]
+  coverage_ids: [PRP-MBE-IV.A.3, PRP-MBE-IV.B.4]
   rule_ids: [R-PRP-088, R-PRP-093]
   difficulty: 2
   stem: >-
@@ -258,8 +258,8 @@ questions:
     discretion, make to Yuri from time to time, up to $500,000." Zenith advanced $200,000 at the closing. In 2023, Yuri
     borrowed $150,000 from Aster Lending, which took and recorded a second mortgage on the warehouse and sent Zenith
     written notice of it. In 2024, Zenith advanced another $100,000 to Yuri. Yuri has defaulted on all the loans, and
-    the warehouse is worth $350,000. No statute in the jurisdiction addresses future-advance mortgages, and its courts follow
-    the traditional common-law rules on them.
+    the warehouse is worth $350,000. No statute in the jurisdiction addresses future-advance mortgages, and its
+    courts follow the traditional common-law rules on them.
   call: "What is the order of priority in the warehouse?"
   options:
     A: "Zenith for $300,000, then Aster for $150,000, because Zenith's mortgage was recorded first and stated a $500,000 maximum."
@@ -274,12 +274,13 @@ questions:
     discretion," so they were optional. The $200,000 advanced at closing keeps first priority; Aster's mortgage comes
     next; Zenith's 2024 advance, made after it received Aster's written notice, ranks behind Aster. With the warehouse
     worth $350,000, Zenith's 2024 advance is effectively unsecured.
-    (Some statutes and the Restatement (Third) of Mortgages give optional advances the priority of the
+    (Many statutes and the Restatement (Third) of Property: Mortgages give optional advances the priority of the
     original recording; the stem rules that out by stating the traditional common-law rule applies.)
   explanation_each_wrong_option:
     A: >-
-      A stated maximum gives every advance the original priority only where a statute so provides, and none does here
-      (R-PRP-091).
+      Under the traditional rule that governs here, a stated maximum does not protect an optional advance made after
+      actual notice of an intervening lien; giving every advance up to the maximum the original priority is a
+      statutory reform, and the jurisdiction has no such statute (R-PRP-091).
     B: >-
       Overbroad. Optional advances made before the intervening lien keep their priority; only the advance made after
       actual notice of Aster's mortgage is subordinated (R-PRP-091).
@@ -367,8 +368,9 @@ questions:
     B: >-
       A transfer of the property does not discharge liens on it; the liens stay with the land (R-PRP-098).
     C: >-
-      A conveyance freely made after default for adequate consideration is not a clog. Clogging concerns provisions in
-      the original mortgage transaction that cut off redemption (R-PRP-093, R-PRP-098).
+      A conveyance freely made after default, in a separate later transaction for new consideration (here, the release
+      of Fallon's debt), is not a clog. Clogging concerns provisions in the original mortgage transaction that cut off
+      redemption (R-PRP-093, R-PRP-098).
   trap_type: confused-rule
   authority: ["Common law: deed in lieu of foreclosure"]
   source: original

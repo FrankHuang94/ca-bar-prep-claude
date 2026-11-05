@@ -47,7 +47,7 @@ questions:
 
 - id: Q-PRP-0013
   subject: PRP
-  coverage_ids: [PRP-MBE-II.A.2]
+  coverage_ids: [PRP-MBE-II.A.2, PRP-MBE-II.A.4]
   rule_ids: [R-PRP-053, R-PRP-052]
   difficulty: 2
   stem: >-
@@ -55,8 +55,8 @@ questions:
     exclusively residential community." Between 2010 and 2013 it sold 39 of the lots by deeds that each contained a
     covenant, binding the buyer's heirs and assigns, that the lot would be used only for a single-family residence.
     Through an oversight, the 2012 deed of Lot 17 to Ezra omitted the covenant, although Ezra had read the
-    developer's sales brochure describing the restriction. Every lot in the tract now has a single house on it. In 2025 Ezra sold Lot 17 to Fenn, whose title examiner showed Fenn the recorded deeds of the
-    neighboring lots containing the covenant. Fenn announced plans to build a convenience store on Lot 17, and Gail,
+    developer's sales brochure describing the restriction. Every lot in the tract now has a single house on it. In
+    2025 Ezra sold Lot 17 to Fenn, whose title examiner showed Fenn the recorded deeds of the neighboring lots containing the covenant. Fenn announced plans to build a convenience store on Lot 17, and Gail,
     who bought Lot 3 in 2010, sued Fenn to enjoin construction of the store.
   call: "Is Gail likely to obtain the injunction?"
   options:
@@ -137,7 +137,7 @@ questions:
 
 - id: Q-PRP-0015
   subject: PRP
-  coverage_ids: [PRP-MBE-II.A.6]
+  coverage_ids: [PRP-MBE-II.A.6, PRP-MBE-II.A.4]
   rule_ids: [R-PRP-054, R-PRP-058, R-PRP-050]
   difficulty: 1
   stem: >-
@@ -159,7 +159,9 @@ questions:
     improve property that benefits the burdened lots, such as private roads, drains and a park; such a covenant
     touches and concerns the land (R-PRP-054; Neponsit). The declaration was in writing, recorded before any sale,
     referred to in each deed from the developer, and expressly bound successors, so it bound Sid, who took the lot
-    with record notice (R-PRP-050, R-PRP-058). His failure to read the declaration is irrelevant.
+    with record notice (R-PRP-050, R-PRP-058). His failure to read the declaration is irrelevant. The association,
+    which the declaration designates to collect the assessments, may enforce the covenant on the owners' behalf even
+    if it holds no benefited land itself (Neponsit).
   explanation_each_wrong_option:
     A: >-
       Overbroad. Courts are more cautious with affirmative covenants, but they enforce assessment covenants whose
@@ -224,7 +226,7 @@ questions:
 
 - id: Q-PRP-0017
   subject: PRP
-  coverage_ids: [PRP-MBE-II.B.2]
+  coverage_ids: [PRP-MBE-II.B.2, PRP-MBE-II.B.4, PRP-MBE-V.D.1]
   rule_ids: [R-PRP-064, R-PRP-107, R-PRP-119]
   difficulty: 3
   stem: >-
@@ -416,13 +418,16 @@ questions:
       Overbroad. Nonconforming-use protection preserves the use as it existed when the zoning changed; it does not
       authorize expanding it onto the vacant part of the lot (R-PRP-071).
     B: >-
-      Wrong standard. A regulation is a categorical taking only if it deprives the land of all economically
-      beneficial use (Lucas; R-PRP-073). Ulla keeps a working repair shop on her lot.
+      Wrong standard. Under Lucas, a regulation is a categorical taking when it deprives land of all economically
+      beneficial use; Ulla keeps a working repair shop on her lot. A partial loss of value is judged under the Penn
+      Central balancing factors, and refusing to let a nonconforming use expand rarely amounts to a taking
+      (R-PRP-073).
     C: >-
       The ordinance itself allows existing uses to continue; and where a government does phase out a nonconforming
-      use, it must allow a reasonable amortization period, not demand immediate cessation (R-PRP-071).
+      use, it generally must allow a reasonable amortization period rather than demand immediate cessation
+      (R-PRP-071).
   trap_type: overbroad
-  authority: ["Common law: nonconforming uses", "Lucas v. South Carolina Coastal Council, 505 U.S. 1003 (1992)"]
+  authority: ["Common law: nonconforming uses", "Lucas v. South Carolina Coastal Council, 505 U.S. 1003 (1992)", "Penn Central Transp. Co. v. New York City, 438 U.S. 104 (1978)"]
   source: original
   tags: [wave1, M4, zoning]
   status: draft

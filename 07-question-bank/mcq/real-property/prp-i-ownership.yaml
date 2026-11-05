@@ -1,7 +1,7 @@
 questions:
 - id: Q-PRP-0001
   subject: PRP
-  coverage_ids: [PRP-MBE-I.A.1.b, PRP-MBE-I.A.2.d]
+  coverage_ids: [PRP-MBE-I.A.1.b, PRP-MBE-I.A.2.d, PRP-MBE-I.D.2]
   rule_ids: [R-PRP-003, R-PRP-002, R-PRP-018]
   difficulty: 1
   stem: >-
@@ -48,7 +48,7 @@ questions:
 
 - id: Q-PRP-0002
   subject: PRP
-  coverage_ids: [PRP-MBE-I.A.2.c, PRP-MBE-I.A.2.d, PRP-MBE-I.D.1]
+  coverage_ids: [PRP-MBE-I.A.1.b, PRP-MBE-I.A.2.c, PRP-MBE-I.A.2.d, PRP-MBE-I.D.1]
   rule_ids: [R-PRP-004, R-PRP-002, R-PRP-011, R-PRP-014]
   difficulty: 3
   stem: >-
@@ -95,14 +95,14 @@ questions:
 
 - id: Q-PRP-0003
   subject: PRP
-  coverage_ids: [PRP-MBE-I.A.2.b, PRP-MBE-I.A.2.e]
+  coverage_ids: [PRP-MBE-I.A.2.b, PRP-MBE-I.A.2.e, PRP-MBE-I.D.2]
   rule_ids: [R-PRP-013, R-PRP-009, R-PRP-018, R-PRP-019]
   difficulty: 3
   stem: >-
     Talia died in 2016. Her valid will devised her lake house "to my sister Rhea for life, then to the children of
     my brother Felix." At Talia's death, Felix had two children, Gus and Hana. Felix's third child, Ivo, was born in
-    2018. Gus died in 2021, leaving a will that gave all his property to his wife, Mira. Rhea died in 2024, and
-    Felix's fourth child, Jun, was born in 2025. Felix is still alive. No statute and no other provision of Talia's
+    2018. Gus died in 2021, leaving a will that gave all his property to his wife, Mira. Rhea died in January 2024,
+    and Felix's fourth child, Jun, was born in December 2025. Felix is still alive. No statute and no other provision of Talia's
     will bears on the question.
   call: "Who now owns the lake house?"
   options:
@@ -115,7 +115,8 @@ questions:
     A is correct. The remainder "to the children of my brother Felix" is a class gift. When the will took effect at
     Talia's death, Gus and Hana held a vested remainder subject to open (R-PRP-009), and Ivo joined the class when
     he was born in 2018. Under the rule of convenience, the class closed when a member became entitled to demand
-    possession, at Rhea's death in 2024, so Jun, born in 2025, is excluded (R-PRP-013). The gift imposed no
+    possession, at Rhea's death in January 2024. Jun, born in December 2025, was not even conceived when the class
+    closed, so he is excluded (R-PRP-013). The gift imposed no
     condition that class members survive Rhea, so Gus's vested share was not lost when he died; it passed under his
     will to Mira (R-PRP-013, R-PRP-018). The gift is valid under the rule against perpetuities, because the class
     must close no later than the death of Felix, a life in being. The three owners take as tenants in common because
@@ -318,7 +319,7 @@ questions:
     would not return. Ludo kept the keys without responding. The next week, an applicant with good credit and
     references offered to rent the apartment for the rest of Nadia's term at $2,000 a month, starting on the first
     day of the following month. Ludo turned the applicant away because he preferred to fill his other vacant units
-    first. The apartment stayed empty for the rest of the term, and Ludo sued Nadia for eight months' rent ($16,000).
+    first, and the applicant rented an apartment from another landlord. The apartment stayed empty for the rest of the term, and Ludo sued Nadia for eight months' rent ($16,000).
     No statute applies.
   call: "Is Ludo likely to recover the $16,000?"
   options:
@@ -383,8 +384,8 @@ questions:
       A tenant who remains in possession has not been constructively evicted; vacating within a reasonable time is
       an element of the doctrine (R-PRP-035).
     C: >-
-      Habitability is a residential doctrine. A commercial tenant must rely on constructive eviction or an express
-      covenant (R-PRP-036).
+      Habitability is a residential doctrine. A commercial tenant ordinarily must rely on constructive eviction or an
+      express covenant (R-PRP-036).
     D: >-
       Right result, wrong reason. A landlord may owe repair duties for parts of a commercial building it controls
       (such as a roof over several tenants) or under a lease covenant. The firm loses because it stayed and because
