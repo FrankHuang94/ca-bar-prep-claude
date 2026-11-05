@@ -13,7 +13,7 @@
 | 2 — Foundations, strategy, study plan | ✅ **Done (awaiting review)** | 02-foundations (5 files, 475-term glossary), MBE/essay/PT strategy, 38-week plan; VERIFY V-040–V-060 |
 | 3 — Past exams | ✅ Done | 31 administrations (Feb 2012–Jul 2026): 166 essays + 42 PTs indexed and analyzed (index-level); frequency analysis; 2 PAST rows | Archive covers Feb 2012 → July 2026 [S-079] |
 | 4 — Subject content | ✅ **Done (awaiting review)**: all 13 subjects built; all 616 coverage rows mapped | Groups: (1) CTR CIV CON CRM · (2) CMP REM · (3) EVD PRF WIL TRS · (4) TRT PRP BUS |
-| 5 — Question bank | ✅ **Done (awaiting review)**: 1,050 MCQs, 84 essays, 8 PTs, 3 simulations | Every item independently reviewed except PT-004–006 (review in progress) |
+| 5 — Question bank | ✅ **Done (awaiting review)**: 1,050 MCQs, 84 essays, 8 PTs, 3 simulations | Every item independently reviewed |
 | 6 — High-yield and memorization | ☐ | |
 | 7 — Independent QA | ☐ | |
 | 8 — Maintenance | ☐ | |
@@ -60,7 +60,7 @@
      - trustee-transaction protection;
      - the ABA "related persons" gift rule.
    - Many MED and LOW fixes.
-3. **PTs.** Independent review for closed-universe fidelity, task-memo compliance and internal consistency.
+3. **PTs.** Independent review for closed-universe fidelity, task-memo compliance and internal consistency. It found 8 HIGH problems in PT-004 to PT-008, all fixed: deadline arithmetic, facts contradicted by the File, a value comparison, an enforceability point, a missing caption, and a request that contradicted its memo.
 4. **Rulebook corrections found during the process (about 60).** The most important:
    - Torts: the strict-liability defense rule (comparative fault reduces, not bars) and the trespasser carve-out.
    - Real Property: foreclosure-price inadequacy; mortgage-transfer and prepayment defaults; assignee privity.
