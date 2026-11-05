@@ -76,7 +76,7 @@ Ridgeline has sued Naomi for $78,000. Naomi has counterclaimed for damages.
 
 ### Governing law
 
-Article 2 of the UCC governs sales of goods; the common law governs services, and a mixed contract is governed by the law of its predominant purpose (*Bonebrake*). Here Ridgeline promised to "furnish all labor and materials" to renovate a building. The $28,000 oven is a good, but it is under 12% of the $240,000 price and is installed as part of a construction job. The predominant purpose is construction services, so **the common law (Restatement (Second) of Contracts) governs**. No dispute concerns the oven in any event.
+Article 2 of the UCC governs sales of goods; the common law governs services, and a mixed contract is governed by the law of its predominant purpose (*Bonebrake*). Here Ridgeline promised to "furnish all labor and materials" to renovate a building. The $28,000 oven is a good, but it is under 12% of the $240,000 price and is installed as part of a construction job. The predominant purpose is construction services, so **the common law (Restatement (Second) of Contracts) governs**. California has enacted the 2022 UCC amendments, whose "hybrid transaction" rule lets Article 2's provisions on the goods aspects of a mixed deal apply to the oven itself even though services predominate (R-CTR-001). No dispute here concerns the oven, so every issue below is decided under the common law.
 
 ### 1. Is Ridgeline entitled to the additional $18,000?
 
@@ -86,11 +86,11 @@ Naomi will argue that Ridgeline was already bound to "furnish all labor and mate
 
 Ridgeline will respond that the plans showed only "new plumbing fixtures" and "said nothing about the sewer line under the floor slab." Work outside the agreed scope is a new performance, which is consideration. Because the plans defined the scope and were silent on the sewer line, and the defect was in pre-existing building infrastructure rather than in Ridgeline's own work, Ridgeline has the better argument that replacing the line was new work. **The promise is likely supported by consideration.**
 
-**Enforceable even without consideration (R2d § 89).** Even if the work was within scope, a modification is binding without consideration if it is fair and equitable in view of circumstances not anticipated when the contract was made. Both parties relied on city records showing a 1998 replacement, so a collapsed clay line was not anticipated. The increase ($18,000) matches the actual cost of the work and is under 8% of the price, so it is fair and equitable. Ridgeline also performed in reliance on the modification (§ 89(c)). **The modification is likely enforceable under § 89 as well.** (California's Civil Code § 1698 would not change this: the modification was made in a writing, the exchanged emails, and was fully executed.)
+**Enforceable even without consideration (R2d § 89).** Even if the work was within scope, a modification is binding without consideration if it is fair and equitable in view of circumstances not anticipated when the contract was made. Both parties relied on city records showing a 1998 replacement, so a collapsed clay line was not anticipated. The increase ($18,000) matches the actual cost of the work and is under 8% of the price, so it is fair and equitable. Ridgeline also performed in reliance on the modification (§ 89(c)). **The modification is likely enforceable under § 89 as well.** (California's Civil Code § 1698 would not change this: the modification was agreed in a writing, the exchanged emails, so it satisfies § 1698(a) without relying on the rule for executed oral modifications.)
 
 **Economic duress.** A contract is voidable if assent was induced by an improper threat that left no reasonable alternative; a bad-faith threat to breach an existing contract can be improper (R2d §§ 175–176).
 
-Naomi will argue Dev threatened to "stop work until you find someone else" when she faced a March 1 opening, leaving her no practical alternative. However, a threat is not improper if the party honestly and reasonably believes it is not obligated. Dev's position that the sewer line was outside the scope was made in good faith and was probably correct. Naomi also had alternatives: she could have paid under protest or sued. **Duress likely fails**, and Ridgeline is entitled to the $18,000.
+Naomi will argue Dev threatened to "stop work until you find someone else" when she faced a March 1 opening, leaving her no practical alternative. However, a threat is not improper if the party honestly and reasonably believes it is not obligated. Dev's position that the sewer line was outside the scope was made in good faith and was probably correct. Naomi also had alternatives: she could have refused and sued Ridgeline for breach if it stopped work, or hired another contractor for the sewer line. **Duress likely fails**, and Ridgeline is entitled to the $18,000.
 
 ### 2. Did either party materially breach?
 
@@ -132,7 +132,7 @@ Naomi will argue that diminution in value undercompensates her because her loss 
 
 #### Ridgeline's recovery
 
-A builder who has substantially performed recovers the contract price less the owner's damages. Ridgeline is owed $240,000 + $18,000 = $258,000 and has been paid $180,000, so the unpaid balance is **$78,000**. From that Naomi may offset $1,500 for the tile and her proven, mitigated delay profits (at most $21,000, likely less). If a court instead found the tile substitution a willful material breach, Ridgeline could not sue on the contract. It would still recover in restitution the value of the benefit it conferred beyond Naomi's damages (R2d § 374), which on these facts would yield a similar figure.
+A builder who has substantially performed recovers the contract price less the owner's damages. Ridgeline is owed $240,000 + $18,000 = $258,000 and has been paid $180,000, so the unpaid balance is **$78,000**. From that Naomi may offset $1,500 for the tile and her proven, mitigated delay profits (at most $21,000, likely less). If a court instead found the tile substitution a willful material breach, Ridgeline could not sue on the contract. Under the modern trend it would still recover in restitution the value of the benefit it conferred beyond Naomi's damages (R2d § 374), which on these facts would yield a similar figure; some courts deny restitution to a willful breacher, which would make the willfulness finding far more valuable to Naomi.
 
 **Overall:** Ridgeline likely recovers about $78,000 minus $1,500 and Naomi's mitigated lost profits; Naomi recovers nothing for the catering job or her distress.
 
@@ -140,7 +140,7 @@ A builder who has substantially performed recovers the contract price less the o
 
 | Issue | Points | Full credit requires | Rule IDs |
 |---|---|---|---|
-| Governing law | 4 | Identifies the oven as goods but applies the predominant-purpose test to choose the common law | R-CTR-001 |
+| Governing law | 4 | Identifies the oven as goods but applies the predominant-purpose test to choose the common law; one line on California's 2022 hybrid-transaction rule | R-CTR-001 |
 | Pre-existing duty | 10 | States the rule; argues scope ("all labor and materials" vs. plans silent on sewer line); concludes | R-CTR-024 |
 | R2d § 89 | 8 | Unanticipated (both relied on records), fair and equitable (actual cost), reliance; optional § 1698 line | R-CTR-028 |
 | Economic duress | 6 | Improper threat + no reasonable alternative; good-faith belief defeats impropriety; alternatives | R-CTR-032 |
@@ -152,7 +152,7 @@ A builder who has substantially performed recovers the contract price less the o
 | Certainty | 7 | New-business rule; farmers'-market evidence as rational basis; reliance fallback | R-CTR-093 |
 | Mitigation | 7 | Refused partial opening; reasonableness argued both ways; reduction | R-CTR-095 |
 | Emotional distress | 2 | Not recoverable for a commercial contract | R-CTR-098 |
-| Ridgeline's recovery | 6 | $258,000 − $180,000 = $78,000, less offsets; restitution fallback if material breach | R-CTR-089, R-CTR-109 |
+| Ridgeline's recovery | 6 | $258,000 − $180,000 = $78,000, less offsets; restitution fallback if material breach (modern trend; some courts deny it to a willful breacher) | R-CTR-089, R-CTR-109 |
 | **Total** | **100** | | |
 
 **Scoring on the 40–100 scale** (`00-exam-intel/grader-expectations.md` §4):

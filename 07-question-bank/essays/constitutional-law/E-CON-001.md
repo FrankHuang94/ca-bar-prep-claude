@@ -72,7 +72,7 @@ After the suit was filed, the City refunded Dana's $500 and sent her a letter st
 
 ## Model Answer
 
-**State action.** The ordinance is a City law enforced by City officials, so there is state action. The First Amendment applies to the City through the Fourteenth Amendment, and § 1983 supplies the cause of action.
+**State action.** The ordinance is a City law enforced by City officials, so there is state action. The First Amendment applies to the City through the Fourteenth Amendment, and § 1983 supplies the cause of action; the City is answerable because the ordinance is its own official policy (*Monell*).
 
 ### 1. Justiciability
 
@@ -93,7 +93,7 @@ The City's argument that the organization was "never cited" misses the point of 
 
 **Mootness.** A case becomes moot when events after filing eliminate any live controversy. Voluntary cessation does not moot a case unless the defendant shows it is "absolutely clear" that the challenged conduct cannot reasonably be expected to recur (*Laidlaw*).
 
-The City refunded the fine and promised not to enforce Section 1 against Dana "while this litigation is pending." That promise is expressly temporary: once the case ends, the City is free to cite her again, and Section 1 remains on the books against everyone else. The City cannot carry its heavy burden. In addition, Dana seeks **nominal damages** for the completed violation, and a claim for nominal damages keeps a case alive even after the challenged conduct stops (*Uzuegbunam*). **Dana's challenge is not moot.**
+The City refunded the fine and promised not to enforce Section 1 against Dana "while this litigation is pending." That promise is expressly temporary: once the case ends, the City is free to cite her again, and Section 1 remains on the books against everyone else. The City cannot carry its heavy burden. The refund claim itself is moot, because the City has repaid the $500 and there is nothing left to order. In addition, Dana seeks **nominal damages** for the completed violation, and a claim for nominal damages keeps a case alive even after the challenged conduct stops (*Uzuegbunam*). **Dana's challenge is not moot**, except for the refund claim.
 
 ### 2. Section 1: the sidewalk sign ban
 
@@ -132,7 +132,7 @@ Founders Park is a traditional public forum, and requiring permits only for gath
 
 The City might argue the denial served neutral concerns about park use, but its own written reasons and the Festival comparison defeat that claim. **Section 2 is unconstitutional as applied to Renters United.**
 
-**Conclusion:** Plaintiffs have standing and Dana's claims are live. Sections 1 and 2 violate the First Amendment; the court should enter declaratory and injunctive relief, order the refund (already made) and award Dana nominal damages.
+**Conclusion:** Plaintiffs have standing, and Dana's claims other than the refund are live. Sections 1 and 2 violate the First Amendment; the court should enter declaratory and injunctive relief and award Dana nominal damages. The refund claim is moot because the City has already repaid the fine.
 
 ## Self-Grading Rubric
 
@@ -140,7 +140,7 @@ The City might argue the denial served neutral concerns about park use, but its 
 |---|---|---|---|
 | Dana's standing | 8 | Three elements; separate analysis for prospective relief; credible threat (prior citation, stated intent) | R-CON-008, R-CON-009, R-CON-015 |
 | Renters United's standing | 10 | *Hunt* three prongs applied; refund requires Dana; own injury from permit denial | R-CON-012 |
-| Mootness | 10 | Voluntary cessation "absolutely clear" standard; temporary letter; nominal damages (*Uzuegbunam*) | R-CON-016, R-CON-117 |
+| Mootness | 10 | Voluntary cessation "absolutely clear" standard; temporary letter; nominal damages (*Uzuegbunam*); refund claim moot | R-CON-016, R-CON-117 |
 | Forum and speech | 6 | Political speech; sidewalk is a traditional public forum | R-CON-095 |
 | Content-based vs. neutral | 14 | *Reed* subject-matter test vs. *City of Austin* location test; exceptions; enforcement disparity; purpose does not save | R-CON-092 |
 | Strict scrutiny | 12 | Burden on City; interest; under-inclusiveness (exceptions); over-inclusiveness (lone silent sign); anti-obstruction law as less restrictive | R-CON-093 |

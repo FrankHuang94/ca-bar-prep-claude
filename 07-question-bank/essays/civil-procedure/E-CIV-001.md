@@ -3,7 +3,7 @@ id: E-CIV-001
 type: single
 subjects: [CIV]
 coverage_ids: [CIV-MBE-I.A, CIV-CBX-I, CIV-MBE-I.B, CIV-CBX-II, CIV-MBE-II.A, CIV-MBE-III.D, CIV-CBX-VI, CIV-MBE-VI.D]
-rule_ids: [R-CIV-004, R-CIV-006, R-CIV-008, R-CIV-010, R-CIV-011, R-CIV-052, R-CIV-017, R-CIV-020, R-CIV-021, R-CIV-022, R-CIV-023, R-CIV-024, R-CIV-037, R-CIV-038, R-CIV-039, R-CIV-040, R-CIV-095, R-CIV-096, R-CIV-098]
+rule_ids: [R-CIV-004, R-CIV-006, R-CIV-008, R-CIV-010, R-CIV-011, R-CIV-052, R-CIV-017, R-CIV-047, R-CIV-020, R-CIV-021, R-CIV-022, R-CIV-023, R-CIV-024, R-CIV-037, R-CIV-038, R-CIV-039, R-CIV-040, R-CIV-095, R-CIV-096, R-CIV-098]
 calls:
   - "1. Does the federal court have subject-matter jurisdiction over (a) Tomas's claims and (b) VoltRide's counterclaim? Discuss."
   - "2. Does the court have personal jurisdiction over VoltRide and over CellCore? Discuss."
@@ -13,7 +13,7 @@ issues:
   - {issue: "Diversity: complete diversity; corporate citizenship and the nerve-center test", points: 14, call: 1, major: true, rule_ids: [R-CIV-004, R-CIV-006], coverage_ids: [CIV-MBE-I.A, CIV-CBX-I]}
   - {issue: "Amount in controversy", points: 4, call: 1, rule_ids: [R-CIV-008], coverage_ids: [CIV-MBE-I.A]}
   - {issue: "Counterclaim: compulsory (logical relationship) and supplemental jurisdiction under 1367(a)-(b)", points: 10, call: 1, rule_ids: [R-CIV-010, R-CIV-011, R-CIV-052], coverage_ids: [CIV-MBE-III.D, CIV-CBX-VI]}
-  - {issue: "PJ over VoltRide: long-arm, general vs. specific jurisdiction, fairness", points: 12, call: 2, rule_ids: [R-CIV-017, R-CIV-020, R-CIV-021, R-CIV-022, R-CIV-023], coverage_ids: [CIV-MBE-I.B, CIV-CBX-II]}
+  - {issue: "PJ over VoltRide: waiver, long-arm, general vs. specific jurisdiction, fairness", points: 12, call: 2, rule_ids: [R-CIV-047, R-CIV-017, R-CIV-020, R-CIV-021, R-CIV-022, R-CIV-023], coverage_ids: [CIV-MBE-I.B, CIV-CBX-II]}
   - {issue: "PJ over CellCore: stream of commerce (both views), relatedness, fairness", points: 18, call: 2, major: true, rule_ids: [R-CIV-024, R-CIV-022, R-CIV-023], coverage_ids: [CIV-MBE-I.B, CIV-CBX-II]}
   - {issue: "Erie: Rule 3 vs. state commencement-by-service rule (Walker); twin aims; result", points: 22, call: 3, major: true, rule_ids: [R-CIV-037, R-CIV-038, R-CIV-039, R-CIV-040], coverage_ids: [CIV-MBE-II.A]}
   - {issue: "Issue preclusion: governing law (1738) and elements", points: 8, call: 4, rule_ids: [R-CIV-095, R-CIV-098], coverage_ids: [CIV-MBE-VI.D]}
@@ -57,7 +57,7 @@ In 2025, in a State A state court, another VoltRide customer, Lena Brooks, sued 
 | 1 | Diversity: complete diversity; VoltRide's nerve center | 1 | 14 |
 | 2 | Amount in controversy | 1 | 4 |
 | 3 | Counterclaim: compulsory; supplemental jurisdiction | 1 | 10 |
-| 4 | PJ over VoltRide | 2 | 12 |
+| 4 | PJ over VoltRide (waiver; merits) | 2 | 12 |
 | 5 | PJ over CellCore: stream of commerce | 2 | 18 |
 | 6 | Erie: Rule 3 vs. State A's commencement rule | 3 | 22 |
 | 7 | Issue preclusion: governing law and elements | 4 | 8 |
@@ -68,7 +68,7 @@ In 2025, in a State A state court, another VoltRide customer, Lena Brooks, sued 
 
 ### 1. Subject-matter jurisdiction
 
-**(a) Tomas's claims: diversity.** Federal courts have limited jurisdiction. All of Tomas's claims arise under State A law, so the only basis is diversity: an action between citizens of different States with more than $75,000 in controversy, exclusive of interest and costs (28 U.S.C. § 1332(a)). Diversity must be complete, so no plaintiff may share citizenship with any defendant, measured when the action is filed (*Strawbridge*).
+**(a) Tomas's claims: diversity.** Federal courts have limited jurisdiction. All of Tomas's claims arise under State A law, so the only basis is diversity: an action between citizens of different States with more than $75,000 in controversy, exclusive of interest and costs (28 U.S.C. § 1332(a)). Diversity must be complete, so no plaintiff may share citizenship with any defendant, measured when the action is filed (*Strawbridge*; *Grupo Dataflux*).
 
 *Tomas* is domiciled in State A, where he has lived for twelve years with no indication of intent to leave. He is a State A citizen.
 
@@ -92,9 +92,11 @@ A federal court may exercise personal jurisdiction if the forum State's long-arm
 
 **VoltRide.**
 
+*Waiver.* VoltRide moved to dismiss for lack of subject-matter jurisdiction and on limitations grounds without objecting to personal jurisdiction, and it filed a counterclaim. A personal-jurisdiction defense omitted from a party's first Rule 12 motion is waived (FRCP 12(g)(2), 12(h)(1)), so **VoltRide has waived any objection**. The analysis below shows that the result would be the same on the merits.
+
 *General jurisdiction.* A corporation is subject to general jurisdiction where it is "at home," paradigmatically its State of incorporation and principal place of business (*Daimler*; *BNSF*). VoltRide is at home in State B. A large warehouse in State A is substantial business activity, but *BNSF* held that even extensive in-state operations do not make a corporation at home. **No general jurisdiction in State A.**
 
-*Specific jurisdiction.* VoltRide must have purposefully availed itself of the forum, the claim must arise out of or relate to those contacts, and jurisdiction must be reasonable (*Burger King*; *Ford*). VoltRide sells directly to State A residents through its website, ships bicycles there, runs advertisements naming State A cities, and earns about 9% of its sales there. These are deliberate contacts with the forum market. Tomas's claims arise directly from one of those sales, a bicycle sold to and used by a State A resident that injured him in State A. Jurisdiction is fair: VoltRide has a 450-employee facility in State A, State A has a strong interest in injuries to its residents,. **The court has specific jurisdiction over VoltRide.**
+*Specific jurisdiction.* VoltRide must have purposefully availed itself of the forum, the claim must arise out of or relate to those contacts, and jurisdiction must be reasonable (*Burger King*; *Ford*). VoltRide sells directly to State A residents through its website, ships bicycles there, runs advertisements naming State A cities, and earns about 9% of its sales there. These are deliberate contacts with the forum market. Tomas's claims arise directly from one of those sales, a bicycle sold to and used by a State A resident that injured him in State A. Jurisdiction is fair: VoltRide has a 450-employee facility in State A, State A has a strong interest in injuries to its residents, and Tomas was injured at home in State A. **The court has specific jurisdiction over VoltRide.**
 
 **CellCore.**
 
@@ -153,7 +155,7 @@ VoltRide will respond, correctly, that the Supreme Court rejected this argument 
 | Diversity; nerve center | 14 | Complete diversity; each party's citizenship; *Hertz* nerve center applied to HQ vs. CEO's remote days vs. warehouse size; conclusion | R-CIV-004, R-CIV-006 |
 | Amount in controversy | 4 | Good-faith claim; legal-certainty test; > $75,000 per defendant | R-CIV-008 |
 | Counterclaim | 10 | Rule 13(a) logical relationship; § 1367(a) common nucleus; § 1367(b) does not bar defendants' claims; $1,500 cannot stand alone | R-CIV-010, R-CIV-011, R-CIV-052 |
-| PJ over VoltRide | 12 | Rule 4(k)(1)(A) + long-arm; not at home (*Daimler*/*BNSF*); specific jurisdiction with purposeful availment, relatedness, fairness | R-CIV-017, R-CIV-020, R-CIV-021, R-CIV-022, R-CIV-023 |
+| PJ over VoltRide | 12 | Waiver by omission from the Rule 12 motion (12(g)(2), (h)(1)); Rule 4(k)(1)(A) + long-arm; not at home (*Daimler*/*BNSF*); specific jurisdiction with purposeful availment, relatedness, fairness | R-CIV-047, R-CIV-017, R-CIV-020, R-CIV-021, R-CIV-022, R-CIV-023 |
 | PJ over CellCore | 18 | Both stream-of-commerce views applied to facts (supply-contract recital, 9% volume, trade show); relatedness (*Ford*); fairness; reasoned conclusion | R-CIV-024, R-CIV-022, R-CIV-023 |
 | Erie / Walker | 22 | *Erie*/*Klaxon* framing; *Hanna* direct-collision step; Rule 3 not on point (*Walker*); *York* outcome; twin aims; *Byrd*; dates applied; warranty claim survives | R-CIV-037, R-CIV-038, R-CIV-039, R-CIV-040 |
 | Issue preclusion elements | 8 | § 1738 / State A law; five elements applied | R-CIV-095, R-CIV-098 |
@@ -175,4 +177,4 @@ VoltRide will respond, correctly, that the Supreme Court rejected this argument 
 
 > 🇨🇳 PRC bridge: a PRC court's prior effective judgment can establish facts in later litigation that a party need not prove again, subject to rebuttal; US offensive non-mutual preclusion is narrower and discretionary (approx.).
 
-**Accuracy notes.** Rules follow R-CIV-004, -006, -010, -011, -024, -038 to -040, -095, -096, -098. The Erie analysis relies on *Walker v. Armco Steel Corp.*, 446 U.S. 740 (1980), as summarized in R-CIV-038 and R-CIV-040; no recent or pending decision is needed for any answer. The stream-of-commerce split is presented as a split, as R-CIV-024 directs.
+**Accuracy notes.** Rules follow R-CIV-004, -006, -010, -011, -018, -024, -038 to -040, -095, -096, -098. The Erie analysis relies on *Walker v. Armco Steel Corp.*, 446 U.S. 740 (1980), as summarized in R-CIV-038 and R-CIV-040; no recent or pending decision is needed for any answer. The stream-of-commerce split is presented as a split, as R-CIV-024 directs. The waiver point follows R-CIV-047 (FRCP 12(g)(2), (h)(1)).

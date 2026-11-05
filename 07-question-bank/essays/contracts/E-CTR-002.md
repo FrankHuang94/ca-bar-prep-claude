@@ -89,7 +89,7 @@ FlexPak will argue no surprise: the clause is a common commercial term, it limit
 
 Tidewater has the stronger argument. Its own purchase order told FlexPak that the pouches were for a dated retail launch and that the product "goes stale within 48 hours" without a working seal. In that context, a term eliminating all liability for lost profits shifts the main foreseeable risk of the deal to Tidewater, which is real hardship. The 2024 deal is one small order of plain pouches with no dispute, which is weak evidence of a course of dealing (UCC § 1-303(b)) and gave Tidewater no reason to focus on the clause. A buyer that disclosed exactly why delay would be costly would be surprised to learn it had silently waived those losses. **The exclusion likely materially alters the contract and drops out.** The contract therefore consists of the purchase-order terms plus the Code's gap fillers, including the implied warranty of merchantability and the buyer's full Article 2 remedies.
 
-**If the clause were included (§ 2-719).** The clause would make "replacement or refund" the exclusive remedy, because it says "sole liability." But an exclusive remedy that fails of its essential purpose gives way to the general Code remedies. Replacement delivered on September 12, eleven days after the delivery date and three days before a launch that needed several days of filling, would not give Tidewater the substantial value of its bargain, so the repair-or-replace limit likely fails. The separate exclusion of consequential damages is enforceable unless unconscionable, and limiting commercial losses between merchants is not prima facie unconscionable. Courts disagree on whether that exclusion survives when the exclusive remedy fails. **Call 1 therefore matters most for the $15,000 lost profit**: if the clause is in, that loss is likely barred; if, as is more likely, it is out, the loss is recoverable if the ordinary limits are met.
+**If the clause were included (§ 2-719).** The clause would make "replacement or refund" the exclusive remedy, because it says "sole liability." But an exclusive remedy that fails of its essential purpose gives way to the general Code remedies. Replacement delivered on September 12, eleven days after the delivery date and three days before a launch that needed several days of filling, would not give Tidewater the substantial value of its bargain, so the replacement option fails of its essential purpose. FlexPak will answer that the clause also offers a refund, which it can always give, and some courts hold that a remedy including a refund of the price does not fail of its essential purpose. Tidewater will reply that refunding a price it never paid leaves it with no remedy at all for losses the seller knew a dated launch would cause, so the clause does not leave it the minimum adequate remedy the Code assumes. The point is unsettled. The separate exclusion of consequential damages is enforceable unless unconscionable, and limiting commercial losses between merchants is not prima facie unconscionable. Courts disagree on whether that exclusion survives when the exclusive remedy fails. **Call 1 therefore matters most for the $15,000 lost profit**: if the clause is in, that loss is likely barred; if, as is more likely, it is out, the loss is recoverable if the ordinary limits are met.
 
 ### 2. Rejection and cure
 
@@ -129,7 +129,7 @@ FlexPak will argue that paying a "rush price" of $0.65 was unreasonable when ano
 
 **The $15,000 is recoverable**, assuming, as concluded in call 1, that the exclusion is not part of the contract.
 
-**Net recovery.** Tidewater paid nothing and owes nothing. It recovers $6,000 (cover) + $1,500 (incidental) + $15,000 (consequential) = **$22,500**. If a court instead held the clause part of the contract and enforced its exclusion of "incidental or consequential damages," Tidewater would recover only the $6,000 cover differential; a court that treats the exclusion as falling with the failed replacement remedy would still award the full $22,500.
+**Net recovery.** Tidewater paid nothing and owes nothing. It recovers $6,000 (cover) + $1,500 (incidental) + $15,000 (consequential) = **$22,500**. If a court instead held the clause part of the contract, the result turns on § 2-719: if the exclusive replacement-or-refund remedy is enforced, Tidewater owes nothing for the rejected pouches but recovers no damages; if that remedy failed of its essential purpose but the exclusion of "incidental or consequential damages" is enforced, it recovers only the $6,000 cover differential; and a court that treats the exclusion as falling with the failed remedy would still award the full $22,500.
 
 ## Self-Grading Rubric
 
@@ -138,7 +138,7 @@ FlexPak will argue that paying a "rush price" of $0.65 was unreasonable when ano
 | Governing law; merchants | 5 | Goods (specially made still goods); both merchants for § 2-207 | R-CTR-001, R-CTR-002 |
 | § 2-207(1) | 8 | Dickered terms match; not "expressly conditional"; contract on PO terms | R-CTR-013 |
 | § 2-207(2) material alteration | 14 | Three exceptions checked; surprise/hardship test; comments 4 vs. 5; split on consequential exclusions; PO's disclosure of launch; weight of one prior deal | R-CTR-013, R-CTR-054 |
-| § 2-719 if included | 6 | "Sole" = exclusive; failure of essential purpose; commercial exclusion not prima facie unconscionable; split on survival | R-CTR-097 |
+| § 2-719 if included | 6 | "Sole" = exclusive; failure of essential purpose (replacement vs. refund prong); commercial exclusion not prima facie unconscionable; split on survival | R-CTR-097 |
 | Nonconformity | 9 | Perfect tender; "must reseal" as express term; merchantability; rebut "varies with filling" | R-CTR-057, R-CTR-058, R-CTR-072 |
 | Rightful rejection | 10 | Reasonable time; seasonable notice stating the defect (§ 2-605); held goods with care; no acceptance | R-CTR-072 |
 | Cure | 12 | § 2-508(1) within contract time (fails: Sept 12 > Sept 1); § 2-508(2) reasonable grounds and further reasonable time argued both ways | R-CTR-073 |
@@ -146,7 +146,7 @@ FlexPak will argue that paying a "rush price" of $0.65 was unreasonable when ano
 | Cover | 12 | Formula with numbers; reasonableness vs. the $0.56 later-delivery quote | R-CTR-102 |
 | Incidental | 5 | Storage $300 and expedited freight $1,200 | R-CTR-094 |
 | Consequential | 12 | Reason to know at contracting (PO language); not preventable by cover; causation; certainty | R-CTR-092, R-CTR-093 |
-| Net recovery | 4 | $22,500, with the alternative if the exclusion applies | R-CTR-102 |
+| Net recovery | 4 | $22,500, with the alternatives if the clause is part of the contract | R-CTR-102 |
 | **Total** | **100** | | |
 
 **Scoring on the 40–100 scale** (`00-exam-intel/grader-expectations.md` §4):
@@ -162,4 +162,4 @@ FlexPak will argue that paying a "rush price" of $0.65 was unreasonable when ano
 4. Calling the cover unreasonable because a cheaper supplier existed. A supplier that delivers after the launch is not reasonable cover.
 5. Forgetting § 2-715(2)(a): consequential losses must be ones the seller had reason to know of *when contracting* and that cover could not prevent.
 
-**Accuracy notes.** Rules follow R-CTR-013, -072, -073, -094, -097, -102 in `03-subjects/contracts/rule-statements.md`. The comment 4/comment 5 tension and the split on consequential-damages exclusions are stated as a split, not a settled rule. The cure analysis uses the current text of § 2-508 (Cal. Com. Code § 2508 is the same).
+**Accuracy notes.** Rules follow R-CTR-013, -072, -073, -094, -097, -102 in `03-subjects/contracts/rule-statements.md`. The comment 4/comment 5 tension and the split on consequential-damages exclusions are stated as a split, not a settled rule. The cure analysis uses the current text of § 2-508 (Cal. Com. Code § 2508 is the same). Whether a replacement-or-refund remedy can fail of its essential purpose is presented as an unsettled point.
