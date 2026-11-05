@@ -226,9 +226,9 @@ Original fact patterns. Each answer gives the rule (with its ID), the applicatio
 
 **Rule (R-CON-090).** The Establishment Clause is read by historical practice and understanding; government may not coerce religious participation.
 
-**Application.** Compelled attendance at a religious reading is coercion of the kind the Clause historically forbade. The postings in cells, where inmates cannot avoid them, were struck in the classroom context (*Stone v. Graham*), and though decided under *Lemon*, the coercive setting strengthens the claim [VERIFY V-203].
+**Application.** Compelled attendance at a religious reading is coercion of the kind the Clause historically forbade. The postings are a closer question. Postings that a captive audience cannot avoid were struck in the classroom context (*Stone v. Graham*), and the coercive jail setting strengthens the inmates' claim; but *Stone* was decided under *Lemon*, and its force after *Kennedy* is contested (the en banc Fifth Circuit has treated it as no longer good law) [VERIFY V-203].
 
-**Conclusion.** The required attendance is invalid; the postings very likely are too.
+**Conclusion.** The required attendance is invalid. The postings are probably invalid in this coercive setting, but argue both sides.
 
 ### 25. Compelled corps service (Thirteenth Amendment)
 **Facts.** A state law requires every 16-year-old who leaves school to serve two years in a "Forest Corps," living in camps and working 40 hours a week, enforced by juvenile detention for refusal. Parents object.

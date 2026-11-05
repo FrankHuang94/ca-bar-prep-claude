@@ -12,7 +12,7 @@ status: draft
 
 | | |
 |---|---|
-| Code | `CON` (rule IDs `R-CON-001` to `R-CON-117`) |
+| Code | `CON` (rule IDs `R-CON-001` to `R-CON-118`) |
 | How tested | MBE (25 scored questions of 175 [S-007]) **and** California essays |
 | Governing law on essays | **Federal** constitutional law. The essay default is general principles unless the call asks for California law [S-077]; Con Law calls ask about the U.S. Constitution. See [ca-distinctions.md](ca-distinctions.md) |
 | Essay frequency | 13 of 31 administrations, Feb 2012 – Jul 2026 (42%); 8 of the 20 two-day exams since Jul 2017; last tested Jul 2025 ([frequency analysis](../../06-past-exams/frequency-analysis.md)) |
@@ -70,7 +70,7 @@ After each block, drill its rules (`/drill`), do 20–30 MBE questions (`/quiz`)
 |---|---|
 | [primer.md](primer.md) | First read: the big picture in plain English |
 | [outline.md](outline.md) | Full reference by NCBE number; every coverage row lives here |
-| [rule-statements.md](rule-statements.md) | 117 essay-ready rules (`R-CON-###`); memorize the "Rule (write this)" lines |
+| [rule-statements.md](rule-statements.md) | 118 essay-ready rules (`R-CON-###`); memorize the "Rule (write this)" lines |
 | [ca-distinctions.md](ca-distinctions.md) | Why federal law governs, and the few California constitutional differences |
 | [mbe-rules.md](mbe-rules.md) | MBE assumptions, favoured rules, recurring fact patterns |
 | [issue-checklist.md](issue-checklist.md) | Issue-spotting order for essays, threshold issues first |

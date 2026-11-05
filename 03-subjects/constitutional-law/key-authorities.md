@@ -4,13 +4,13 @@ topic: Constitutional Law — key authorities (text, statutes, leading cases)
 coverage_ids: [CON-MBE-I, CON-MBE-II, CON-MBE-III, CON-MBE-IV, CON-CBX-VI, CON-CBX-VII]
 tested_on: [MBE, essay]
 exam_frequency: {level: high, basis: "Essays: 13 of 31 administrations 2012-02 to 2026-07 (42%); MBE: 25 scored questions every exam"}
-last_verified: 2026-11-04
+last_verified: 2026-11-05
 status: draft
 ---
 
 # Constitutional Law — key authorities
 
-Citations are given only where certain. Recent decisions without a U.S. Reports page carry a verification tag. On essays, case names are optional; a correct rule matters more. Use names for the landmark cases in **bold**.
+Citations are given only where certain. Recent decisions without a U.S. Reports page carry a verification tag or a source. "Plurality" marks an opinion that did not command a majority; cite it for the result. On essays, case names are optional; a correct rule matters more. Use names for the landmark cases in **bold**.
 
 ## 1. Constitutional text
 
@@ -76,7 +76,7 @@ Citations are given only where certain. Recent decisions without a U.S. Reports 
 | *Massachusetts v. EPA*, 549 U.S. 497 (2007) | State standing; partial redress |
 | *Hunt v. Washington State Apple Advertising Comm'n*, 432 U.S. 333 (1977) | Associational standing; DCC discriminatory effect |
 | *Flast v. Cohen*, 392 U.S. 83 (1968) | Taxpayer Establishment Clause standing |
-| *Hein v. Freedom From Religion Found.*, 551 U.S. 587 (2007) | No taxpayer standing for executive spending |
+| *Hein v. Freedom From Religion Found.*, 551 U.S. 587 (2007) | No taxpayer standing for executive spending (plurality) |
 | *Craig v. Boren*, 429 U.S. 190 (1976) | Vendor third-party standing; intermediate scrutiny for sex |
 | *Hollingsworth v. Perry*, 570 U.S. 693 (2013) | Initiative proponents lacked standing to appeal |
 | *Town of Chester v. Laroe Estates, Inc.*, 581 U.S. 433 (2017) | Intervenor seeking own relief needs standing |
@@ -105,7 +105,7 @@ Citations are given only where certain. Recent decisions without a U.S. Reports 
 | ***United States v. Lopez***, 514 U.S. 549 (1995) | Three categories; gun-near-school law invalid |
 | *United States v. Morrison*, 529 U.S. 598 (2000) | VAWA civil remedy invalid (commerce and § 5) |
 | *Gonzales v. Raich*, 545 U.S. 1 (2005) | Home-grown marijuana within comprehensive scheme |
-| ***NFIB v. Sebelius***, 567 U.S. 519 (2012) | No compelled commerce; mandate valid as tax; Medicaid expansion coercive |
+| ***NFIB v. Sebelius***, 567 U.S. 519 (2012) | Mandate valid as a tax (majority); no compelled commerce (Roberts, C.J., alone, four dissenters agreeing); Medicaid expansion coercive (Roberts, C.J., for three; seven Justices agreed) |
 | ***South Dakota v. Dole***, 483 U.S. 203 (1987) | Spending-condition test |
 | *Missouri v. Holland*, 252 U.S. 416 (1920) | Treaty implementation |
 | *Woods v. Cloyd W. Miller Co.*, 333 U.S. 138 (1948) | War power for post-war rent control |
@@ -128,7 +128,7 @@ Citations are given only where certain. Recent decisions without a U.S. Reports 
 | *Free Enterprise Fund v. PCAOB*, 561 U.S. 477 (2010) | No double for-cause protection |
 | *Seila Law LLC v. CFPB*, 591 U.S. 197 (2020) | Single-director agency removal protection invalid |
 | *Trump v. Slaughter* (2026) [VERIFY V-034] [S-300] | FTC removal protection invalid; Humphrey's overruled |
-| *Trump v. Cook* (2026) [VERIFY V-201] [S-315] | Federal Reserve governors' for-cause protection treated as valid |
+| *Trump v. Cook* (June 29, 2026) [S-1450] [S-315] | Stay denied 5–4: Federal Reserve governors' for-cause protection treated as valid; removal reviewable; statutory notice and hearing not given (interim posture) |
 | *Lucia v. SEC*, 585 U.S. 237 (2018) | ALJs are officers |
 | *NLRB v. Noel Canning*, 573 U.S. 513 (2014) | Recess appointments: under 10 days presumptively too short (3 or fewer never enough); pro forma sessions count |
 | ***INS v. Chadha***, 462 U.S. 919 (1983) | Legislative veto invalid |
@@ -159,7 +159,8 @@ Citations are given only where certain. Recent decisions without a U.S. Reports 
 | *Reeves, Inc. v. Stake*, 447 U.S. 429 (1980) | Market participant |
 | *South-Central Timber Dev., Inc. v. Wunnicke*, 467 U.S. 82 (1984) | No downstream conditions (Parts III–IV plurality); congressional consent must be unmistakably clear (Part II majority) |
 | *United Haulers Ass'n v. Oneida-Herkimer Solid Waste Mgmt. Auth.*, 550 U.S. 330 (2007) | Favoring public facility not discrimination |
-| *Kassel v. Consolidated Freightways Corp.*, 450 U.S. 662 (1981) | Truck-length ban fails Pike |
+| *Kassel v. Consolidated Freightways Corp.*, 450 U.S. 662 (1981) | Truck-length ban fails Pike (plurality) |
+| *National Pork Producers Council v. Ross*, 598 U.S. 356 (2023) [S-1465] | No extraterritoriality rule; Pike challenge to Proposition 12 dismissed without a majority rationale |
 | *South Dakota v. Wayfair, Inc.*, 585 U.S. 162 (2018) | No physical-presence requirement for tax nexus |
 | *Prudential Ins. Co. v. Benjamin*, 328 U.S. 408 (1946) | Congress may authorize discrimination |
 | *Metropolitan Life Ins. Co. v. Ward*, 470 U.S. 869 (1985) | Authorization does not cure equal-protection violation |
@@ -177,7 +178,7 @@ Citations are given only where certain. Recent decisions without a U.S. Reports 
 | *Marsh v. Alabama*, 326 U.S. 501 (1946) | Company town is public function |
 | *Jackson v. Metropolitan Edison Co.*, 419 U.S. 345 (1974) | Regulated utility not state actor |
 | *Lindke v. Freed* (2024) [VERIFY V-035] | Officials' social media test |
-| ***Mathews v. Eldridge***, 424 U.S. 319 (1976) | Procedural due process balancing |
+| ***Mathews v. Eldridge***, 424 U.S. 319 (1976) | Three-factor balancing; no pre-termination evidentiary hearing needed for disability benefits |
 | *Board of Regents v. Roth*, 408 U.S. 564 (1972) | Property requires entitlement |
 | *Cleveland Bd. of Educ. v. Loudermill*, 470 U.S. 532 (1985) | Pre-termination notice and response |
 | *Goldberg v. Kelly*, 397 U.S. 254 (1970) | Pre-termination hearing for welfare |
@@ -222,10 +223,12 @@ Citations are given only where certain. Recent decisions without a U.S. Reports 
 | *Carson v. Makin*, 596 U.S. 767 (2022) | No religious-use exclusion from aid |
 | ***Kennedy v. Bremerton School Dist.***, 597 U.S. 507 (2022) | History and tradition; Lemon abandoned |
 | *Lee v. Weisman*, 505 U.S. 577 (1992) | Graduation prayer coercive |
-| *Town of Greece v. Galloway*, 572 U.S. 565 (2014) | Legislative prayer valid |
+| *Town of Greece v. Galloway*, 572 U.S. 565 (2014) | Legislative prayer valid (coercion analysis, Part II-B, plurality) |
 | *Larson v. Valente*, 456 U.S. 228 (1982) | Denominational preference: strict scrutiny |
 | *Zelman v. Simmons-Harris*, 536 U.S. 639 (2002) | Private-choice vouchers valid |
 | ***Reed v. Town of Gilbert***, 576 U.S. 155 (2015) | Content-based definition |
+| *City of Austin v. Reagan National Advertising of Austin, LLC*, 596 U.S. 61 (2022) | On/off-premises sign rule content-neutral; needing to read the sign is not the test |
+| *PruneYard Shopping Center v. Robins*, 447 U.S. 74 (1980) | A state may grant speech rights in private shopping centers; no taking, no compelled speech (R-CON-118) |
 | *Ward v. Rock Against Racism*, 491 U.S. 781 (1989) | Time, place and manner test |
 | *Perry Educ. Ass'n v. Perry Local Educators' Ass'n*, 460 U.S. 37 (1983) | Forum categories |
 | *Pleasant Grove City v. Summum*, 555 U.S. 460 (2009) | Government speech |
@@ -250,7 +253,7 @@ Citations are given only where certain. Recent decisions without a U.S. Reports 
 | *City of Chicago v. Morales*, 527 U.S. 41 (1999) | Gang-loitering law void for vagueness |
 | *Broadrick v. Oklahoma*, 413 U.S. 601 (1973) | Substantial overbreadth |
 | *Branzburg v. Hayes*, 408 U.S. 665 (1972) | No reporter's privilege |
-| *Richmond Newspapers, Inc. v. Virginia*, 448 U.S. 555 (1980) | Access to criminal trials |
+| *Richmond Newspapers, Inc. v. Virginia*, 448 U.S. 555 (1980) | Access to criminal trials (plurality) |
 | *NAACP v. Alabama ex rel. Patterson*, 357 U.S. 449 (1958) | Membership-list privacy |
 | *Americans for Prosperity Found. v. Bonta*, 594 U.S. 595 (2021) | Exacting scrutiny requires narrow tailoring |
 | *Roberts v. United States Jaycees*, 468 U.S. 609 (1984) | Expressive association test |

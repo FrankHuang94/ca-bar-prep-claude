@@ -92,7 +92,7 @@ But the *Burton* factors do not depend on the lease mentioning membership: the S
 
 **Classification and tier.** The Act gives 16 weeks to employees who become "mothers" and 4 weeks to those who become "fathers," by birth or adoption. It classifies by sex on its face, so intermediate scrutiny applies, and the State bears the burden. Marcus, denied 12 weeks of paid leave because he is a man, has standing.
 
-**Childbirth recovery.** The State's first interest, recovery from childbirth, is important, and real biological differences may justify different treatment (*Nguyen v. INS*; *Michael M.*). A rule granting leave to "employees recovering from childbirth" would not even be a sex classification, because pregnancy-based rules are not treated as sex classifications (*Geduldig*).
+**Childbirth recovery.** The State's first interest, recovery from childbirth, is important, and real biological differences may justify different treatment (*Nguyen v. INS*; *Michael M.*, plurality opinion). A rule granting leave to "employees recovering from childbirth" would not even be a sex classification, because pregnancy-based rules are not treated as sex classifications (*Geduldig*).
 
 But this Act does not track childbirth. It gives *adoptive* mothers, who do not give birth, the same 16 weeks, and gives *birth* fathers only 4. The classification is therefore not substantially related to physical recovery. The fit is also poor because every employee may already use paid sick leave for recovery from childbirth, so the 16 weeks are labeled, and function as, parental leave, not medical leave.
 

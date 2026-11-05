@@ -138,9 +138,9 @@ status: draft
 | Case | Area | Holding (one line) | Exam use | Verification |
 |---|---|---|---|---|
 | *Trump v. Slaughter* (June 29, 2026) | Separation of powers: removal | Overrules *Humphrey's Executor* (6–3); the FTC's for-cause removal protection is unconstitutional, so the President may remove FTC commissioners at will. | **Apply** | Opinion text (LII) + CRS (search) [S-300] [S-301] |
-| *Trump v. Cook* (2026) | Separation of powers: removal | On a stay application (5–4), treated Federal Reserve governors' for-cause removal protection as valid; notice and hearing required. Interim posture. | Watch | CRS (search) [S-315] [VERIFY V-201] |
-| *United States v. Hemani* (June 18, 2026) | Second Amendment | 18 U.S.C. § 922(g)(3) unconstitutional as applied to a defendant prosecuted solely for occasional marijuana use. | Apply (low) | Slip opinion + CRS (search) [S-316] [S-317] [VERIFY V-202] |
-| *Mullin v. Doe* (2026) | Equal protection (discriminatory purpose) | Allowed termination of Temporary Protected Status for Haiti and Syria; officials' statements that were not overtly racial did not show discriminatory purpose. Preliminary posture. | Watch | CRS (search) [S-318] [VERIFY V-202] |
+| *Trump v. Cook* (June 29, 2026) | Separation of powers: removal | Denying the President's stay application (5–4) in an interim-docket opinion, treated Federal Reserve governors' for-cause removal protection as valid; notice and hearing required. Interim posture. | Watch | Opinion (search) + CRS [S-1450] [S-1451] [S-315] |
+| *United States v. Hemani* (June 18, 2026) | Second Amendment | 18 U.S.C. § 922(g)(3) unconstitutional as applied to a defendant prosecuted solely for occasional marijuana use. | Apply (low) | Slip opinion + CRS (search) [S-316] [S-317] [S-1452] |
+| *Mullin v. Doe* (June 25, 2026) | Equal protection (discriminatory purpose) | 6–3; allowed termination of Temporary Protected Status for Haiti and Syria; officials' statements that were not overtly racial did not show discriminatory purpose. Preliminary posture. | Watch | Slip opinion + CRS (search) [S-1454] [S-318] |
 | *Learning Resources, Inc. v. Trump* (Feb 20, 2026) | Separation of powers (statutory) | IEEPA does not authorize the President to impose tariffs. | Apply (low) | Slip opinion + CRS (search) [S-302] [S-303] |
 | *Trump v. Barbara* (June 30, 2026) | 14th Am. Citizenship Clause | The birthright-citizenship executive order is invalid; children born in the U.S. to unlawfully or temporarily present parents are citizens. | **Apply** | Slip opinion + CRS (search) [S-304] [S-305] |
 | *Chiles v. Salazar* (Mar 31, 2026) | Free speech | A conversion-therapy ban, as applied to talk therapy, regulates speech by viewpoint; strict scrutiny, not rational-basis review, applies (reversed and remanded). | **Apply** | Slip opinion (search) [S-306] |
@@ -177,6 +177,7 @@ status: draft
   - *Trump v. United States* (2024): presidential immunity.
   - *United States v. Rahimi* (2024): § 922(g)(8) upheld.
   - *Sheetz v. County of El Dorado* (2024): legislative permit conditions and takings.
+  - *National Pork Producers Council v. Ross*, 598 U.S. 356 (2023): no freestanding extraterritoriality rule under the dormant Commerce Clause; dismissal of the *Pike* claim affirmed without a majority rationale. Confirmed by slip opinion (search) [S-1465].
   - *United States v. Skrmetti* (2025): rational basis for a ban on minors' gender-transition care.
   - *Mahmoud v. Taylor* (2025): free-exercise opt-outs.
   - *Free Speech Coalition v. Paxton* (2025): age verification, intermediate scrutiny.

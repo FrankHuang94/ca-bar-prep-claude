@@ -169,7 +169,7 @@ flowchart TD
     D -->|No| SS
     D -->|Yes| E{"Religious exclusion from public benefit, or parental religious upbringing like Yoder? R-CON-088"}
     E -->|Yes| SS
-    E -->|No| RB["Rational basis under Smith; check RFRA if federal or RLUIPA if prison or land use R-CON-089"]
+    E -->|No| RB["Rational basis under Smith; check RFRA if federal or RLUIPA if institutionalized person or land use R-CON-089"]
     A --> F{"Government endorses, funds or sponsors religion?"}
     F -->|Yes| G{"Coercion to participate, or denominational preference? R-CON-090 R-CON-091"}
     G -->|Yes| X1["Establishment Clause violation, or strict scrutiny for preferences"]

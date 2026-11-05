@@ -1,10 +1,10 @@
 ---
 subject: CON
-topic: Constitutional Law — essay-ready rule statements (R-CON-001 to R-CON-117)
+topic: Constitutional Law — essay-ready rule statements (R-CON-001 to R-CON-118)
 coverage_ids: [CON-MBE-I, CON-MBE-II, CON-MBE-III, CON-MBE-IV, CON-CBX-I, CON-CBX-II, CON-CBX-III, CON-CBX-V, CON-CBX-VI, CON-CBX-VII, CON-CBX-VII.x]
 tested_on: [MBE, essay]
 exam_frequency: {level: high, basis: "Essays: 13 of 31 administrations 2012-02 to 2026-07 (42%); MBE: 25 scored questions every exam"}
-last_verified: 2026-11-04
+last_verified: 2026-11-05
 status: draft
 ---
 
@@ -12,7 +12,7 @@ status: draft
 
 **How to use.** Each block gives a 1–3 sentence rule you can write verbatim, then elements, exceptions, authority and a short example. Constitutional Law on the California essays is **federal** constitutional law, so the MBE rule and the essay rule are almost always the same. Where a California provision could matter, the `MBE vs. CA essay` line says so; the full list is in [ca-distinctions.md](ca-distinctions.md).
 
-**Citation conventions.** Leading cases carry U.S. Reports citations only where certain. Decisions from October Terms 2022–2024 carry `[VERIFY V-035]`; October Term 2025 decisions carry `[VERIFY V-034]` (and an `S-3xx` source where the holding was confirmed by search). Other recent decisions are tagged `[VERIFY V-200]`, `[VERIFY V-201]` or `[VERIFY V-202]`.
+**Citation conventions.** Leading cases carry U.S. Reports citations only where certain. Decisions from October Terms 2022–2024 carry `[VERIFY V-035]`; October Term 2025 decisions carry `[VERIFY V-034]` (and an `S-###` source where the holding was confirmed by search); *Trump v. Cook*, *United States v. Hemani* and *Mullin v. Doe* were checked against the opinions in Phase 7 QA and carry only their sources. Other recent decisions are tagged `[VERIFY V-200]`. Plurality opinions, and judgments with no majority opinion, are labelled where cited; on an essay, cite them for the result, not as a majority holding.
 
 ---
 
@@ -88,7 +88,7 @@ status: draft
 ### R-CON-006 — Sovereign immunity — exceptions
 **Rule (write this):** State sovereign immunity does not bar (1) suits the state clearly consents to, (2) suits under statutes validly abrogating immunity under § 5 of the Fourteenth Amendment, (3) suits for prospective injunctive or declaratory relief against state officers for ongoing violations of federal law, (4) damages suits against officers in their personal capacity, or (5) suits against local governments.
 
-**Elements:** 1. Waiver must be unequivocally expressed. 2. Abrogation requires unmistakably clear statutory language plus a valid § 5 basis (Fitzpatrick); Article I powers cannot abrogate (Seminole Tribe), except the Bankruptcy Clause (Katz), the war powers (Torres) and the eminent-domain consent given in the plan of the Convention (PennEast). 3. Ex parte Young: name the officer, seek prospective relief, allege federal-law violation.
+**Elements:** 1. Waiver must be unequivocally expressed. 2. Abrogation requires unmistakably clear statutory language plus a valid § 5 basis (Fitzpatrick); Article I powers cannot abrogate (Seminole Tribe); but the states consented to suit "in the plan of the Convention" under the Bankruptcy Clause (Katz), the war powers (Torres v. Texas Dep't of Public Safety (2022) [VERIFY V-200]) and federally authorized eminent domain (PennEast). 3. Ex parte Young: name the officer, seek prospective relief, allege federal-law violation.
 
 **Exceptions / defenses:** Ex parte Young does not permit federal injunctions against state officers based on state law (Pennhurst II). It does not reach state-court judges and clerks (Whole Woman's Health v. Jackson).
 
@@ -181,18 +181,18 @@ status: draft
 
 **Elements (Flast exception):** 1. Taxpayer status. 2. Challenge to a congressional exercise of the taxing and spending power. 3. Claim that the spending violates the Establishment Clause.
 
-**Exceptions / defenses:** No standing to challenge executive discretionary spending (Hein), tax credits (Winn) or property transfers under the Property Clause (Valley Forge). State taxpayers lack standing in federal court to challenge state tax or spending decisions (DaimlerChrysler). Municipal taxpayers have traditionally been allowed to challenge municipal spending (dictum in Frothingham v. Mellon).
+**Exceptions / defenses:** No standing to challenge executive discretionary spending (Hein, plurality opinion; two more Justices concurred in the judgment), tax credits (Winn) or property transfers under the Property Clause (Valley Forge). State taxpayers lack standing in federal court to challenge state tax or spending decisions (DaimlerChrysler). Municipal taxpayers have traditionally been allowed to challenge municipal spending (dictum in Frothingham v. Mellon).
 
-**Authority:** *Flast v. Cohen*, 392 U.S. 83 (1968); *Valley Forge Christian College v. Americans United for Separation of Church & State, Inc.*, 454 U.S. 464 (1982); *Hein v. Freedom From Religion Found.*, 551 U.S. 587 (2007); *Arizona Christian School Tuition Org. v. Winn*, 563 U.S. 125 (2011); *DaimlerChrysler Corp. v. Cuno*, 547 U.S. 332 (2006); *Lance v. Coffman*, 549 U.S. 437 (2007); *Massachusetts v. Mellon*, 262 U.S. 447 (1923).
+**Authority:** *Flast v. Cohen*, 392 U.S. 83 (1968); *Valley Forge Christian College v. Americans United for Separation of Church & State, Inc.*, 454 U.S. 464 (1982); *Hein v. Freedom From Religion Found.*, 551 U.S. 587 (2007) (plurality opinion); *Arizona Christian School Tuition Org. v. Winn*, 563 U.S. 125 (2011); *DaimlerChrysler Corp. v. Cuno*, 547 U.S. 332 (2006); *Lance v. Coffman*, 549 U.S. 437 (2007); *Massachusetts v. Mellon*, 262 U.S. 447 (1923).
 
-**MBE vs. CA essay:** same rule for federal court. CA note: California taxpayer suits (Code Civ. Proc. § 526a) are broader in state court [VERIFY V-205].
+**MBE vs. CA essay:** same rule for federal court. CA note: in state court, a resident or corporation that pays (or is liable to pay) a tax funding a local agency may sue to restrain that agency's illegal expenditure or waste (Code Civ. Proc. § 526a) [S-1462] [S-1463]; see ca-distinctions.
 
 **Example:** A federal taxpayer sues to stop a congressional grant program funding religious schools' religious instruction. Flast standing exists. The same taxpayer challenging a White House faith office funded from general appropriations lacks standing (Hein).
 
 ### R-CON-014 — Standing of states, legislators and intervenors
 **Rule (write this):** A state may sue to protect its own sovereign, quasi-sovereign and proprietary interests, but not as parens patriae against the federal government; individual legislators lack standing to assert institutional injuries; and a person who intervenes or appeals to seek relief different from or beyond the original party's must independently satisfy Article III.
 
-**Elements:** 1. State injury to its own treasury, property or sovereign interests (Massachusetts v. EPA "special solicitude"; Biden v. Nebraska). 2. Legislators: personal injury required (Raines); a whole legislature may sue for institutional injury (Arizona State Legislature). 3. Intervenors/appellants: own standing (Town of Chester; Hollingsworth; Diamond v. Charles).
+**Elements:** 1. State injury to its own treasury, property or sovereign interests (Massachusetts v. EPA "special solicitude"; Biden v. Nebraska [VERIFY V-200]). 2. Legislators: personal injury required (Raines); a whole legislature may sue for institutional injury (Arizona State Legislature). 3. Intervenors/appellants: own standing (Town of Chester; Hollingsworth; Diamond v. Charles).
 
 **Exceptions / defenses:** States lack standing to challenge federal immigration-enforcement priorities based on indirect costs (United States v. Texas (2023) [VERIFY V-200]). Official initiative proponents lack standing to defend a law the state declines to defend (Hollingsworth — California's Proposition 8).
 
@@ -207,9 +207,9 @@ status: draft
 
 **Elements:** Abbott Labs factors; SBA List pre-enforcement test. A person need not violate the law and risk prosecution first (Steffel).
 
-**Exceptions / defenses:** No ripeness if there is no realistic threat of enforcement (Poe v. Ullman) or the facts are too contingent (United Public Workers v. Mitchell). A state investigative subpoena demanding donor information inflicts a present First Amendment injury even before a court orders compliance (First Choice Women's Resource Centers v. Davenport (2026) [VERIFY V-034] [S-313]).
+**Exceptions / defenses:** No ripeness if there is no realistic threat of enforcement (Poe v. Ullman, plurality opinion) or the facts are too contingent (United Public Workers v. Mitchell). A state investigative subpoena demanding donor information inflicts a present First Amendment injury even before a court orders compliance (First Choice Women's Resource Centers v. Davenport (2026) [VERIFY V-034] [S-313]).
 
-**Authority:** *Abbott Labs. v. Gardner*, 387 U.S. 136 (1967); *Steffel v. Thompson*, 415 U.S. 452 (1974); *Susan B. Anthony List v. Driehaus*, 573 U.S. 149 (2014); *Poe v. Ullman*, 367 U.S. 497 (1961); *Babbitt v. United Farm Workers*, 442 U.S. 289 (1979).
+**Authority:** *Abbott Labs. v. Gardner*, 387 U.S. 136 (1967); *Steffel v. Thompson*, 415 U.S. 452 (1974); *Susan B. Anthony List v. Driehaus*, 573 U.S. 149 (2014); *Poe v. Ullman*, 367 U.S. 497 (1961) (plurality opinion); *Babbitt v. United Farm Workers*, 442 U.S. 289 (1979).
 
 **MBE vs. CA essay:** same rule.
 
@@ -276,7 +276,7 @@ status: draft
 
 **Elements:** 1. Identify the enumerated power. 2. The means must be "plainly adapted" (rationally related) to that end and not prohibited (McCulloch; Comstock). 3. The Clause is not an independent source of power.
 
-**Exceptions / defenses:** Congress has police-type power over the District of Columbia, federal enclaves and territories, federal property, and the military. The Clause cannot justify a law that is not "proper" because it undermines state sovereignty or the structure of the Constitution (NFIB, Roberts opinion).
+**Exceptions / defenses:** Congress has police-type power over the District of Columbia, federal enclaves and territories, federal property, and the military. The Clause cannot justify a law that is not "proper" because it undermines state sovereignty or the structure of the Constitution (NFIB: Roberts, C.J., writing for himself on this point; the four joint dissenters reached the same view, so there is no majority opinion).
 
 **Authority:** U.S. Const. art. I, § 8, cl. 18; *McCulloch v. Maryland*, 17 U.S. (4 Wheat.) 316 (1819); *United States v. Comstock*, 560 U.S. 126 (2010); *NFIB v. Sebelius*, 567 U.S. 519 (2012).
 
@@ -300,11 +300,11 @@ status: draft
 ### R-CON-022 — Commerce power: substantial effects, aggregation and limits
 **Rule (write this):** Congress may regulate intrastate economic activity that, in the aggregate, substantially affects interstate commerce, and a court asks only whether Congress had a rational basis for so concluding. Congress may not regulate noneconomic intrastate activity based on attenuated effects, and it may not compel individuals to engage in commerce.
 
-**Elements:** 1. Economic or commercial activity? If yes, aggregate (Wickard; Raich). 2. If noneconomic, the link must not be attenuated; a jurisdictional element and findings help but are not decisive (Lopez; Morrison). 3. Regulating inactivity (forcing a purchase) is beyond the Commerce Clause (NFIB, Roberts opinion).
+**Elements:** 1. Economic or commercial activity? If yes, aggregate (Wickard; Raich). 2. If noneconomic, the link must not be attenuated; a jurisdictional element and findings help but are not decisive (Lopez; Morrison). 3. Regulating inactivity (forcing a purchase) is beyond the Commerce Clause (NFIB: Roberts, C.J., for himself; the four joint dissenters agreed, so five Justices took this view without a majority opinion).
 
 **Exceptions / defenses:** Part of a comprehensive regulatory scheme of economic activity: Congress may reach purely local noncommercial activity if necessary to make the scheme effective (Raich).
 
-**Authority:** *Wickard v. Filburn*, 317 U.S. 111 (1942); *United States v. Lopez*, 514 U.S. 549 (1995); *United States v. Morrison*, 529 U.S. 598 (2000); *Gonzales v. Raich*, 545 U.S. 1 (2005); *NFIB v. Sebelius*, 567 U.S. 519 (2012).
+**Authority:** *Wickard v. Filburn*, 317 U.S. 111 (1942); *United States v. Lopez*, 514 U.S. 549 (1995); *United States v. Morrison*, 529 U.S. 598 (2000); *Gonzales v. Raich*, 545 U.S. 1 (2005); *NFIB v. Sebelius*, 567 U.S. 519 (2012) (Commerce Clause: Roberts, C.J., alone; joint dissent agreeing).
 
 **MBE vs. CA essay:** same rule.
 
@@ -317,7 +317,7 @@ status: draft
 
 **Exceptions / defenses:** Revenue bills must originate in the House (art. I, § 7, cl. 1).
 
-**Authority:** U.S. Const. art. I, § 8, cl. 1; art. I, § 9, cls. 4–5; amend. XVI; *NFIB v. Sebelius*, 567 U.S. 519 (2012); *Bailey v. Drexel Furniture Co.*, 259 U.S. 20 (1922).
+**Authority:** U.S. Const. art. I, § 8, cl. 1; art. I, § 9, cls. 4–5; amend. XVI; *NFIB v. Sebelius*, 567 U.S. 519 (2012) (taxing-power holding: opinion of the Court); *Bailey v. Drexel Furniture Co.*, 259 U.S. 20 (1922).
 
 **MBE vs. CA essay:** same rule.
 
@@ -328,9 +328,9 @@ status: draft
 
 **Elements:** Dole's four requirements plus NFIB's coercion limit. Clear notice is judged from the state's perspective at the time it accepts the funds (Pennhurst I; Arlington Central).
 
-**Exceptions / defenses:** Withholding a small percentage of existing funds is mild encouragement (Dole: 5% of highway funds). Threatening all existing Medicaid funding to force acceptance of a new program is coercive (NFIB). Spending is not limited to enumerated subjects (Butler).
+**Exceptions / defenses:** Withholding a small percentage of existing funds is mild encouragement (Dole: 5% of highway funds). Threatening all existing Medicaid funding to force acceptance of a new program is coercive (NFIB: Roberts, C.J., for three Justices; the four joint dissenters also found coercion, so seven Justices agreed without a majority opinion). Spending is not limited to enumerated subjects (Butler).
 
-**Authority:** U.S. Const. art. I, § 8, cl. 1; *South Dakota v. Dole*, 483 U.S. 203 (1987); *NFIB v. Sebelius*, 567 U.S. 519 (2012); *United States v. Butler*, 297 U.S. 1 (1936); *Pennhurst State School & Hospital v. Halderman*, 451 U.S. 1 (1981).
+**Authority:** U.S. Const. art. I, § 8, cl. 1; *South Dakota v. Dole*, 483 U.S. 203 (1987); *NFIB v. Sebelius*, 567 U.S. 519 (2012) (Medicaid coercion: Roberts, C.J., for three Justices); *United States v. Butler*, 297 U.S. 1 (1936); *Pennhurst State School & Hospital v. Halderman*, 451 U.S. 1 (1981).
 
 **MBE vs. CA essay:** same rule.
 
@@ -484,7 +484,7 @@ status: draft
 
 **Elements:** 1. Principal officer exercising executive power → at-will removal (Myers; Seila Law; Slaughter [VERIFY V-034] [S-300] [S-301]). 2. Inferior officer → Congress may limit removal by a principal officer to good cause if this does not impede the President's duty (Morrison). 3. No two layers of for-cause protection (Free Enterprise Fund). 4. No congressional removal except by impeachment (Bowsher; Myers).
 
-**Exceptions / defenses:** Federal Reserve governors: the Court treated their for-cause protection as valid and required notice and a hearing before removal (Trump v. Cook (2026), decided on a stay application) [VERIFY V-201] [S-315]. *Humphrey's Executor* (1935) is overruled [VERIFY V-034].
+**Exceptions / defenses:** Federal Reserve governors: denying the President's stay application (5–4) in an interim-docket opinion, the Court treated their for-cause protection as consistent with Article II because of the Federal Reserve's distinct history, held that a for-cause removal is judicially reviewable, and found that the President had not given the governor the procedural protections (notice and an opportunity to be heard) the statute entitles her to; it left the meaning of "cause" largely undefined (Trump v. Cook (June 29, 2026)) [S-1450] [S-1451] [S-315]. *Humphrey's Executor* (1935) is overruled [VERIFY V-034].
 
 **Authority:** U.S. Const. art. II, §§ 1, 3; *Myers v. United States*, 272 U.S. 52 (1926); *Humphrey's Executor v. United States*, 295 U.S. 602 (1935) (overruled); *Morrison v. Olson*, 487 U.S. 654 (1988); *Free Enterprise Fund v. PCAOB*, 561 U.S. 477 (2010); *Seila Law LLC v. CFPB*, 591 U.S. 197 (2020); *Collins v. Yellen*, 594 U.S. 220 (2021); *Bowsher v. Synar*, 478 U.S. 714 (1986).
 
@@ -534,11 +534,11 @@ status: draft
 ### R-CON-040 — Nondelegation doctrine
 **Rule (write this):** Congress may delegate rulemaking and enforcement authority to the executive branch or independent agencies if it supplies an intelligible principle to guide the delegee's discretion; Congress may not delegate to itself or its agents the power to execute the laws.
 
-**Elements:** 1. Intelligible principle (J.W. Hampton; Whitman; Gundy). 2. Delegations to private parties are more suspect (Carter Coal). 3. Clear-statement canons (major questions) operate alongside.
+**Elements:** 1. Intelligible principle (J.W. Hampton; Whitman; Gundy, plurality opinion). 2. Delegations to private parties are more suspect (Carter Coal). 3. Clear-statement canons (major questions) operate alongside.
 
-**Exceptions / defenses:** The Court has invalidated statutes under nondelegation only twice (Panama Refining; Schechter, both 1935). It reaffirmed the intelligible-principle test in 2025 (FCC v. Consumers' Research [VERIFY V-200]).
+**Exceptions / defenses:** The Court has invalidated delegations to the executive only twice, both in 1935 (Panama Refining; Schechter); Carter Coal (1936) struck a delegation to private parties. It reaffirmed the intelligible-principle test in 2025 (FCC v. Consumers' Research [VERIFY V-200]).
 
-**Authority:** U.S. Const. art. I, § 1; *J.W. Hampton, Jr., & Co. v. United States*, 276 U.S. 394 (1928); *Whitman v. American Trucking Ass'ns*, 531 U.S. 457 (2001); *Mistretta v. United States*, 488 U.S. 361 (1989); *Gundy v. United States*, 588 U.S. 128 (2019); *A.L.A. Schechter Poultry Corp. v. United States*, 295 U.S. 495 (1935); *Carter v. Carter Coal Co.*, 298 U.S. 238 (1936).
+**Authority:** U.S. Const. art. I, § 1; *J.W. Hampton, Jr., & Co. v. United States*, 276 U.S. 394 (1928); *Whitman v. American Trucking Ass'ns*, 531 U.S. 457 (2001); *Mistretta v. United States*, 488 U.S. 361 (1989); *Gundy v. United States*, 588 U.S. 128 (2019) (plurality opinion); *A.L.A. Schechter Poultry Corp. v. United States*, 295 U.S. 495 (1935); *Carter v. Carter Coal Co.*, 298 U.S. 238 (1936).
 
 **MBE vs. CA essay:** same rule.
 
@@ -590,11 +590,11 @@ status: draft
 ### R-CON-044 — Federal immunity from state regulation and taxation
 **Rule (write this):** States may not directly tax or regulate the federal government or its instrumentalities, or discriminate against the federal government or those who deal with it, unless Congress consents; a state may impose a nondiscriminatory tax on private parties who contract with the federal government even if the economic burden passes to it.
 
-**Elements:** 1. Direct tax or regulation of federal operations → invalid (McCulloch; Johnson v. Maryland). 2. Discrimination against the United States or its contractors → invalid (North Dakota; United States v. Washington). 3. Nondiscriminatory tax on private contractors → valid (United States v. New Mexico).
+**Elements:** 1. Direct tax or regulation of federal operations → invalid (McCulloch; Johnson v. Maryland). 2. Discrimination against the United States or its contractors → invalid (North Dakota, plurality opinion; United States v. Washington (2022) [VERIFY V-200]). 3. Nondiscriminatory tax on private contractors → valid (United States v. New Mexico).
 
 **Exceptions / defenses:** Congress may waive federal immunity.
 
-**Authority:** U.S. Const. art. VI, cl. 2; *McCulloch v. Maryland*, 17 U.S. (4 Wheat.) 316 (1819); *Johnson v. Maryland*, 254 U.S. 51 (1920); *United States v. New Mexico*, 455 U.S. 720 (1982); *North Dakota v. United States*, 495 U.S. 423 (1990); *Davis v. Michigan Dep't of Treasury*, 489 U.S. 803 (1989).
+**Authority:** U.S. Const. art. VI, cl. 2; *McCulloch v. Maryland*, 17 U.S. (4 Wheat.) 316 (1819); *Johnson v. Maryland*, 254 U.S. 51 (1920); *United States v. New Mexico*, 455 U.S. 720 (1982); *North Dakota v. United States*, 495 U.S. 423 (1990) (plurality opinion); *Davis v. Michigan Dep't of Treasury*, 489 U.S. 803 (1989).
 
 **MBE vs. CA essay:** same rule.
 
@@ -646,13 +646,13 @@ status: draft
 
 **Elements:** 1. Nondiscriminatory. 2. Legitimate local interest (safety, health, environment). 3. Balance: burden clearly excessive vs. benefits? Consider less burdensome alternatives.
 
-**Exceptions / defenses:** Safety regulations of trucks and trains with minimal safety benefit and large burdens have failed (Kassel; Bibb). The Court rejected a freestanding rule against laws with extraterritorial effects and upheld California's Proposition 12 against a Pike claim (National Pork Producers Council v. Ross (2023) [VERIFY V-200]).
+**Exceptions / defenses:** Safety regulations of trucks and trains with minimal safety benefit and large burdens have failed (Kassel, plurality opinion; Bibb). In National Pork Producers Council v. Ross (2023) the Court rejected a freestanding rule against state laws with extraterritorial effects and affirmed dismissal of a Pike challenge to California's Proposition 12, but no single rationale for rejecting the Pike claim drew a majority (Parts IV-B and IV-C of the principal opinion were each joined by only some Justices) [S-1465] [S-1466].
 
-**Authority:** *Pike v. Bruce Church, Inc.*, 397 U.S. 137 (1970); *Kassel v. Consolidated Freightways Corp.*, 450 U.S. 662 (1981); *Bibb v. Navajo Freight Lines, Inc.*, 359 U.S. 520 (1959); *Exxon Corp. v. Governor of Maryland*, 437 U.S. 117 (1978).
+**Authority:** *Pike v. Bruce Church, Inc.*, 397 U.S. 137 (1970); *Kassel v. Consolidated Freightways Corp.*, 450 U.S. 662 (1981) (plurality opinion); *Bibb v. Navajo Freight Lines, Inc.*, 359 U.S. 520 (1959); *Exxon Corp. v. Governor of Maryland*, 437 U.S. 117 (1978); *National Pork Producers Council v. Ross*, 598 U.S. 356 (2023) (Pike discussion fractured).
 
 **MBE vs. CA essay:** same rule.
 
-**Example:** A state bans 65-foot trucks on its highways, citing safety, but evidence shows they are as safe as shorter trucks while the ban forces costly rerouting. The burden clearly exceeds the illusory benefit (Kassel).
+**Example:** A state bans 65-foot trucks on its highways, citing safety, but evidence shows they are as safe as shorter trucks while the ban forces costly rerouting. The burden clearly exceeds the illusory benefit (Kassel, plurality).
 
 ### R-CON-049 — Dormant Commerce Clause exceptions: market participant and government function
 **Rule (write this):** When a state acts as a market participant — buying, selling or subsidizing with its own funds — rather than as a regulator, it may favor in-state interests without violating the dormant Commerce Clause; laws favoring a state's own public entities performing traditional government functions are also treated as nondiscriminatory.
@@ -687,7 +687,7 @@ status: draft
 
 **Exceptions / defenses:** States may usually impose stricter standards where federal law sets a floor and there is no conflict (Wyeth). Preemption requires federal law that regulates private actors, not commands to states (Murphy). Savings clauses can preserve state law.
 
-**Authority:** U.S. Const. art. VI, cl. 2; *Rice v. Santa Fe Elevator Corp.*, 331 U.S. 218 (1947); *Hines v. Davidowitz*, 312 U.S. 52 (1941); *Florida Lime & Avocado Growers, Inc. v. Paul*, 373 U.S. 132 (1963); *Pacific Gas & Elec. Co. v. State Energy Res. Conservation & Dev. Comm'n*, 461 U.S. 190 (1983); *Crosby v. National Foreign Trade Council*, 530 U.S. 363 (2000); *Arizona v. United States*, 567 U.S. 387 (2012); *Wyeth v. Levine*, 555 U.S. 555 (2009). *Testa v. Katt*, 330 U.S. 386 (1947); *Haywood v. Drown*, 556 U.S. 729 (2009).
+**Authority:** U.S. Const. art. VI, cl. 2; *Rice v. Santa Fe Elevator Corp.*, 331 U.S. 218 (1947); *Hines v. Davidowitz*, 312 U.S. 52 (1941); *Florida Lime & Avocado Growers, Inc. v. Paul*, 373 U.S. 132 (1963); *Pacific Gas & Elec. Co. v. State Energy Res. Conservation & Dev. Comm'n*, 461 U.S. 190 (1983); *Crosby v. National Foreign Trade Council*, 530 U.S. 363 (2000); *Arizona v. United States*, 567 U.S. 387 (2012); *Wyeth v. Levine*, 555 U.S. 555 (2009); *Testa v. Katt*, 330 U.S. 386 (1947); *Haywood v. Drown*, 556 U.S. 729 (2009).
 
 **MBE vs. CA essay:** same rule.
 
@@ -726,13 +726,13 @@ status: draft
 ### R-CON-054 — State action: general rule and public function
 **Rule (write this):** The Constitution's individual-rights guarantees (except the Thirteenth Amendment) restrain only government, so a plaintiff must show state action; private conduct is state action when a private party performs a function traditionally and exclusively reserved to the state, or when the state is sufficiently entangled with it.
 
-**Elements:** Public function: running elections (Terry), a company town (Marsh). Not public functions: utilities (Jackson), private schools (Rendell-Baker), nursing homes (Blum), public-access cable channels (Halleck), private self-help remedies (Flagg Bros.).
+**Elements:** Public function: running elections (Terry, no majority opinion), a company town (Marsh). Not public functions: utilities (Jackson), private schools (Rendell-Baker), nursing homes (Blum), public-access cable channels (Halleck), private self-help remedies (Flagg Bros.).
 
 **Exceptions / defenses:** Mere licensing, regulation, funding or monopoly status is not enough.
 
-**Authority:** *Civil Rights Cases*, 109 U.S. 3 (1883); *Marsh v. Alabama*, 326 U.S. 501 (1946); *Terry v. Adams*, 345 U.S. 461 (1953); *Jackson v. Metropolitan Edison Co.*, 419 U.S. 345 (1974); *Rendell-Baker v. Kohn*, 457 U.S. 830 (1982); *Manhattan Community Access Corp. v. Halleck*, 587 U.S. 802 (2019); *Flagg Bros., Inc. v. Brooks*, 436 U.S. 149 (1978).
+**Authority:** *Civil Rights Cases*, 109 U.S. 3 (1883); *Marsh v. Alabama*, 326 U.S. 501 (1946); *Terry v. Adams*, 345 U.S. 461 (1953) (no majority opinion); *Jackson v. Metropolitan Edison Co.*, 419 U.S. 345 (1974); *Rendell-Baker v. Kohn*, 457 U.S. 830 (1982); *Manhattan Community Access Corp. v. Halleck*, 587 U.S. 802 (2019); *Flagg Bros., Inc. v. Brooks*, 436 U.S. 149 (1978).
 
-**MBE vs. CA essay:** same rule. CA note: California's free-speech and privacy clauses reach some private actors (see ca-distinctions).
+**MBE vs. CA essay:** same rule. CA note: California's free-speech clause reaches the common areas of privately owned shopping centers (R-CON-118), and its privacy clause reaches private actors (see ca-distinctions).
 
 **Example:** A heavily regulated private utility cuts off service without a hearing. Regulation and monopoly status do not make it a state actor; no due-process claim (Jackson).
 
@@ -776,9 +776,9 @@ status: draft
 **Example:** A teacher on a one-year contract with no tenure is not renewed. No property interest (Roth). A teacher fired mid-contract or with de facto tenure has one (Sindermann).
 
 ### R-CON-058 — Procedural due process: what process is due
-**Rule (write this):** Once a protected interest is at stake, the process due is determined by balancing (1) the private interest affected, (2) the risk of erroneous deprivation under current procedures and the probable value of additional safeguards, and (3) the government's interest, including the burdens of more process. At minimum due process requires notice and a meaningful opportunity to be heard before a neutral decisionmaker.
+**Rule (write this):** Once a protected interest is at stake, the process due is determined by balancing (1) the private interest that will be affected by the official action, (2) the risk of an erroneous deprivation of that interest through the procedures used and the probable value, if any, of additional or substitute procedural safeguards, and (3) the government's interest, including the function involved and the fiscal and administrative burdens that the additional or substitute procedures would entail. At minimum due process requires notice and a meaningful opportunity to be heard, at a meaningful time and in a meaningful manner, before a neutral decisionmaker.
 
-**Elements:** Benchmarks: welfare termination → pre-termination evidentiary hearing (Goldberg); disability benefits → post-termination hearing suffices (Mathews); tenured public employee → pre-termination notice and chance to respond plus full post-termination hearing (Loudermill); short school suspension → informal notice and chance to explain (Goss).
+**Elements:** Benchmarks: welfare termination → pre-termination evidentiary hearing (Goldberg); disability benefits → no pre-termination evidentiary hearing is required; written notice and a chance to respond in writing before termination, plus a full evidentiary hearing and retroactive payment afterward, suffice (Mathews); tenured public employee → pre-termination notice and chance to respond plus full post-termination hearing (Loudermill); short school suspension → informal notice and chance to explain (Goss).
 
 **Exceptions / defenses:** Emergencies justify post-deprivation process. A decisionmaker with a financial stake or serious probability of bias violates due process (Tumey; Caperton).
 
@@ -871,7 +871,7 @@ status: draft
 
 **Elements:** 1. Text: "the people," "arms," "keep and bear." 2. Historical tradition: why and how the law burdens the right (Rahimi [VERIFY V-035]). No means-end scrutiny (Bruen).
 
-**Exceptions / defenses:** Presumptively lawful: bans on possession by felons and the mentally ill, sensitive-place restrictions, conditions on commercial sale (Heller). Temporarily disarming a person a court found to pose a credible threat is valid (Rahimi). A default ban on carry onto private property open to the public absent owner consent is invalid (Wolford v. Lopez (2026) [VERIFY V-034] [S-311]). § 922(g)(3) is invalid as applied to a marijuana user without individualized proof of danger (United States v. Hemani (2026) [VERIFY V-202] [S-316]).
+**Exceptions / defenses:** Presumptively lawful: bans on possession by felons and the mentally ill, sensitive-place restrictions, conditions on commercial sale (Heller). Temporarily disarming a person a court found to pose a credible threat is valid (Rahimi). A default ban on carry onto private property open to the public absent owner consent is invalid (Wolford v. Lopez (2026) [VERIFY V-034] [S-311]). 18 U.S.C. § 922(g)(3) is invalid as applied to a defendant prosecuted solely because of his marijuana use, without individualized proof that the use made him dangerous; the Court did not decide a prosecution resting on such proof or the statute's application to addicts (United States v. Hemani (June 18, 2026)) [S-316] [S-1452].
 
 **Authority:** U.S. Const. amend. II; *District of Columbia v. Heller*, 554 U.S. 570 (2008); *McDonald v. City of Chicago*, 561 U.S. 742 (2010); *New York State Rifle & Pistol Ass'n v. Bruen*, 597 U.S. 1 (2022); *United States v. Rahimi* (2024) [VERIFY V-035].
 
@@ -899,7 +899,7 @@ status: draft
 
 **Elements:** 1. Facial classification. 2. Discriminatory application (Yick Wo). 3. Neutral law: impact plus purpose, shown by Arlington Heights factors (impact, historical background, sequence of events, departures from normal procedure, legislative history).
 
-**Exceptions / defenses:** Once purpose is shown, the government may show it would have made the same decision anyway. Official statements that are not overtly racial and could rest on race-neutral policy grounds may not show purpose (Mullin v. Doe (2026) [VERIFY V-202] [S-318]).
+**Exceptions / defenses:** Once purpose is shown, the government may show it would have made the same decision anyway. At a preliminary stage, officials' statements that were not overtly racial and expressed policy views that could rest on race-neutral justifications did not make it likely that race motivated a decision (Mullin v. Doe (June 25, 2026), 6–3) [S-1454] [S-318].
 
 **Authority:** *Yick Wo v. Hopkins*, 118 U.S. 356 (1886); *Washington v. Davis*, 426 U.S. 229 (1976); *Village of Arlington Heights v. Metro. Hous. Dev. Corp.*, 429 U.S. 252 (1977); *Personnel Adm'r of Mass. v. Feeney*, 442 U.S. 256 (1979); *Hunter v. Underwood*, 471 U.S. 222 (1985).
 
@@ -951,16 +951,16 @@ status: draft
 
 **Elements:** 1. Facial or purposeful sex classification. 2. Important objective (actual, not post hoc). 3. Substantial relationship.
 
-**Exceptions / defenses:** Upheld: statutory rape law punishing only males (Michael M.), male-only draft registration (Rostker), different citizenship-proof rules for fathers tied to biology (Nguyen). Struck: VMI's male-only admission (Virginia); nursing school excluding men (Hogan); citizenship-transmission rules based on stereotypes (Morales-Santana). Pregnancy classifications are not sex classifications (Geduldig).
+**Exceptions / defenses:** Upheld: statutory rape law punishing only males (Michael M., plurality opinion), male-only draft registration (Rostker), different citizenship-proof rules for fathers tied to biology (Nguyen). Struck: VMI's male-only admission (Virginia); nursing school excluding men (Hogan); citizenship-transmission rules based on stereotypes (Morales-Santana). Pregnancy classifications are not sex classifications (Geduldig).
 
-**Authority:** *Craig v. Boren*, 429 U.S. 190 (1976); *Mississippi Univ. for Women v. Hogan*, 458 U.S. 718 (1982); *United States v. Virginia*, 518 U.S. 515 (1996); *Michael M. v. Superior Court*, 450 U.S. 464 (1981); *Rostker v. Goldberg*, 453 U.S. 57 (1981); *Nguyen v. INS*, 533 U.S. 53 (2001); *Sessions v. Morales-Santana*, 582 U.S. 47 (2017); *Geduldig v. Aiello*, 417 U.S. 484 (1974).
+**Authority:** *Craig v. Boren*, 429 U.S. 190 (1976); *Mississippi Univ. for Women v. Hogan*, 458 U.S. 718 (1982); *United States v. Virginia*, 518 U.S. 515 (1996); *Michael M. v. Superior Court*, 450 U.S. 464 (1981) (plurality opinion); *Rostker v. Goldberg*, 453 U.S. 57 (1981); *Nguyen v. INS*, 533 U.S. 53 (2001); *Sessions v. Morales-Santana*, 582 U.S. 47 (2017); *Geduldig v. Aiello*, 417 U.S. 484 (1974).
 
 **MBE vs. CA essay:** same federal rule. CA note: sex is a suspect class under Cal. Const. art. I, § 7 (Sail'er Inn).
 
 **Example:** A state military college admits only men and offers women a less prestigious parallel program. No exceedingly persuasive justification; invalid (Virginia).
 
 ### R-CON-072 — Transgender status and sex-linked medical and athletic classifications
-**Rule (write this):** A law that classifies by age and medical use (for example, banning certain treatments for minors' gender dysphoria) is not a sex classification and receives rational-basis review. Laws limiting girls' and women's sports teams to biological females are sex classifications that the Court has upheld as satisfying heightened scrutiny, while leaving open what standard governs classifications based on transgender status itself.
+**Rule (write this):** A law that classifies by age and medical use (for example, banning certain treatments for minors' gender dysphoria) is not a sex classification and receives rational-basis review. Laws limiting girls' and women's sports teams to biological females are sex classifications that the Court has upheld under intermediate scrutiny (important interests in safety and competitive fairness, substantially served), while leaving open what standard governs classifications based on transgender status itself.
 
 **Elements:** 1. Identify the actual classification (age, medical purpose, biological sex, transgender status). 2. Apply the corresponding tier.
 
@@ -970,16 +970,16 @@ status: draft
 
 **MBE vs. CA essay:** same federal rule. On an essay, argue both tiers if the classification could be framed as sex-based.
 
-**Example:** A state bars biological males from girls' high-school track teams. The law classifies by sex; under Hecox/B.P.J. the safety and fairness interests satisfy heightened scrutiny.
+**Example:** A state bars biological males from girls' high-school track teams. The law classifies by sex; under Hecox/B.P.J. the safety and fairness interests satisfy intermediate scrutiny.
 
 ### R-CON-073 — Nonmarital children
 **Rule (write this):** Classifications disadvantaging children born outside marriage receive intermediate scrutiny and must be substantially related to an important government interest; laws that penalize the child for the parents' status, such as total bars on inheritance or support, are invalid.
 
 **Elements:** Important interest (orderly estate administration, proof of paternity); substantial relationship.
 
-**Exceptions / defenses:** Reasonable proof-of-paternity requirements are valid (Lalli).
+**Exceptions / defenses:** Reasonable proof-of-paternity requirements are valid (Lalli, plurality opinion).
 
-**Authority:** *Clark v. Jeter*, 486 U.S. 456 (1988); *Trimble v. Gordon*, 430 U.S. 762 (1977); *Lalli v. Lalli*, 439 U.S. 259 (1978).
+**Authority:** *Clark v. Jeter*, 486 U.S. 456 (1988); *Trimble v. Gordon*, 430 U.S. 762 (1977); *Lalli v. Lalli*, 439 U.S. 259 (1978) (plurality opinion).
 
 **MBE vs. CA essay:** same rule.
 
@@ -1001,11 +1001,11 @@ status: draft
 ### R-CON-075 — Fundamental rights under equal protection: voting
 **Rule (write this):** The right to vote is fundamental; laws that deny the franchise to some citizens or dilute votes trigger strict scrutiny, and legislative districts must have substantially equal populations (one person, one vote). Election regulations are reviewed on a sliding scale: severe burdens get strict scrutiny, while reasonable, nondiscriminatory restrictions are justified by the state's important regulatory interests.
 
-**Elements:** Denials (poll taxes, Harper; property qualifications, Kramer); apportionment (Reynolds; Wesberry); Anderson–Burdick balancing (Crawford upheld voter ID).
+**Elements:** Denials (poll taxes, Harper; property qualifications, Kramer); apportionment (Reynolds; Wesberry); Anderson–Burdick balancing (Crawford upheld voter ID; plurality opinion).
 
 **Exceptions / defenses:** Special-purpose districts may limit voting to affected landowners (Salyer). States may disenfranchise felons (Richardson v. Ramirez, under § 2 of the Fourteenth Amendment).
 
-**Authority:** *Reynolds v. Sims*, 377 U.S. 533 (1964); *Wesberry v. Sanders*, 376 U.S. 1 (1964); *Harper v. Virginia Bd. of Elections*, 383 U.S. 663 (1966); *Kramer v. Union Free School Dist. No. 15*, 395 U.S. 621 (1969); *Salyer Land Co. v. Tulare Lake Basin Water Storage Dist.*, 410 U.S. 719 (1973); *Richardson v. Ramirez*, 418 U.S. 24 (1974); *Burdick v. Takushi*, 504 U.S. 428 (1992); *Crawford v. Marion County Election Bd.*, 553 U.S. 181 (2008); *Bush v. Gore*, 531 U.S. 98 (2000).
+**Authority:** *Reynolds v. Sims*, 377 U.S. 533 (1964); *Wesberry v. Sanders*, 376 U.S. 1 (1964); *Harper v. Virginia Bd. of Elections*, 383 U.S. 663 (1966); *Kramer v. Union Free School Dist. No. 15*, 395 U.S. 621 (1969); *Salyer Land Co. v. Tulare Lake Basin Water Storage Dist.*, 410 U.S. 719 (1973); *Richardson v. Ramirez*, 418 U.S. 24 (1974); *Burdick v. Takushi*, 504 U.S. 428 (1992); *Crawford v. Marion County Election Bd.*, 553 U.S. 181 (2008) (plurality opinion); *Bush v. Gore*, 531 U.S. 98 (2000).
 
 **MBE vs. CA essay:** same rule.
 
@@ -1014,11 +1014,11 @@ status: draft
 ### R-CON-076 — Fundamental rights under equal protection: access to courts; education
 **Rule (write this):** The state may not condition access to the courts on ability to pay where a fundamental interest is at stake — such as divorce, termination of parental rights, a criminal transcript on appeal, or counsel on a first appeal as of right. Education is not a fundamental right and wealth is not a suspect class, so school-funding disparities get rational-basis review.
 
-**Elements:** Fee waivers (Boddie; M.L.B.); criminal appeals (Griffin; Douglas).
+**Elements:** Fee waivers (Boddie; M.L.B.); criminal appeals (Griffin, plurality opinion; Douglas).
 
 **Exceptions / defenses:** No right to counsel on discretionary appeals (Ross v. Moffitt); bankruptcy filing fees valid (Kras). Total denial of education to undocumented children fails (Plyler).
 
-**Authority:** *Griffin v. Illinois*, 351 U.S. 12 (1956); *Douglas v. California*, 372 U.S. 353 (1963); *Boddie v. Connecticut*, 401 U.S. 371 (1971); *M.L.B. v. S.L.J.*, 519 U.S. 102 (1996); *Ross v. Moffitt*, 417 U.S. 600 (1974); *United States v. Kras*, 409 U.S. 434 (1973); *San Antonio Indep. School Dist. v. Rodriguez*, 411 U.S. 1 (1973).
+**Authority:** *Griffin v. Illinois*, 351 U.S. 12 (1956) (plurality opinion); *Douglas v. California*, 372 U.S. 353 (1963); *Boddie v. Connecticut*, 401 U.S. 371 (1971); *M.L.B. v. S.L.J.*, 519 U.S. 102 (1996); *Ross v. Moffitt*, 417 U.S. 600 (1974); *United States v. Kras*, 409 U.S. 434 (1973); *San Antonio Indep. School Dist. v. Rodriguez*, 411 U.S. 1 (1973).
 
 **MBE vs. CA essay:** same federal rule. CA note: education is fundamental under the California Constitution (Serrano v. Priest).
 
@@ -1066,9 +1066,9 @@ status: draft
 **Example:** A coastal law bars any building on two beachfront lots bought for homes, leaving them valueless. Lucas per se taking unless background nuisance principles already barred building.
 
 ### R-CON-080 — Exactions: Nollan, Dolan, Koontz, Sheetz
-**Rule (write this):** When the government conditions a land-use permit on the owner's dedication of property or payment of money, the condition must have an essential nexus to a legitimate state interest that the permit denial would serve, and must be roughly proportional, by an individualized determination, to the impact of the proposed development. The test applies to permit denials for refusing a condition, to monetary exactions, and to conditions imposed by legislation.
+**Rule (write this):** When the government conditions a land-use permit on the owner's dedication of property or payment of money, the condition must have an essential nexus to a legitimate state interest that the permit denial would serve, and must be roughly proportional, by an individualized determination, to the impact of the proposed development. The test applies to permit denials for refusing a condition, to monetary exactions, and to conditions imposed by legislation, though the Court left open whether a legislative condition applied to a class of properties needs the same individualized tailoring as an ad hoc one.
 
-**Elements:** 1. Exaction (property or money). 2. Essential nexus (Nollan). 3. Rough proportionality (Dolan). 4. Applies to denials and money (Koontz) and legislative conditions (Sheetz [VERIFY V-035]).
+**Elements:** 1. Exaction (property or money). 2. Essential nexus (Nollan). 3. Rough proportionality (Dolan). 4. Applies to denials and money (Koontz) and legislative conditions (Sheetz [VERIFY V-035]; degree of tailoring for class-wide fees left open).
 
 **Exceptions / defenses:** General land-use regulations that do not demand property are judged under Penn Central.
 
@@ -1183,11 +1183,11 @@ status: draft
 **Example:** A state tuition program for rural students pays private schools but excludes "sectarian" ones. Exclusion based on religious use or status triggers strict scrutiny and fails (Carson).
 
 ### R-CON-089 — Religious liberty statutes: RFRA and RLUIPA
-**Rule (write this):** Under the Religious Freedom Restoration Act (federal government only) and the Religious Land Use and Institutionalized Persons Act (state prisons and land-use regulation), the government may not substantially burden a person's religious exercise unless it shows that the burden furthers a compelling interest by the least restrictive means.
+**Rule (write this):** Under the Religious Freedom Restoration Act (federal government only) and the Religious Land Use and Institutionalized Persons Act (state and local land-use regulation, and persons confined in state or local institutions such as prisons and jails), the government may not substantially burden a person's religious exercise unless it shows that the burden furthers a compelling interest by the least restrictive means.
 
 **Elements:** 1. Sincere religious exercise. 2. Substantial burden. 3. Government's compelling interest applied to the particular claimant. 4. Least restrictive means.
 
-**Exceptions / defenses:** RFRA is unconstitutional as applied to the states (Boerne). Closely held corporations are "persons" under RFRA (Hobby Lobby).
+**Exceptions / defenses:** RFRA is unconstitutional as applied to the states (Boerne). Closely held corporations are "persons" under RFRA (Hobby Lobby). Damages: RLUIPA does not authorize damages against a State (Sossamon v. Texas, 563 U.S. 277 (2011)); RFRA permits damages against federal officials in their individual capacities (Tanzin v. Tanvir, 592 U.S. 43 (2020)); whether RLUIPA permits individual-capacity damages was before the Court in Landor v. Louisiana Dep't of Corrections (No. 23-1197, October Term 2025), whose holding is not yet integrated [VERIFY V-982].
 
 **Authority:** 42 U.S.C. § 2000bb-1 (RFRA); 42 U.S.C. §§ 2000cc, 2000cc-1 (RLUIPA); *Gonzales v. O Centro Espírita Beneficente União do Vegetal*, 546 U.S. 418 (2006); *Holt v. Hobbs*, 574 U.S. 352 (2015); *Cutter v. Wilkinson*, 544 U.S. 709 (2005); *Burwell v. Hobby Lobby Stores, Inc.*, 573 U.S. 682 (2014); *City of Boerne v. Flores*, 521 U.S. 507 (1997).
 
@@ -1198,11 +1198,11 @@ status: draft
 ### R-CON-090 — Establishment Clause: history and tradition; coercion
 **Rule (write this):** The Establishment Clause is interpreted by reference to historical practices and understandings; the Lemon test has been abandoned. Government may not coerce anyone to support or participate in religion or its exercise, may not establish an official church, and practices that fit the Nation's historical tradition — such as legislative prayer and longstanding monuments — are permissible.
 
-**Elements:** 1. Historical practice and understanding (Kennedy; Town of Greece). 2. Coercion (direct or indirect pressure on students to participate in prayer: Engel; Lee; Santa Fe). 3. Longstanding monuments presumed constitutional (American Legion).
+**Elements:** 1. Historical practice and understanding (Kennedy; Town of Greece). 2. Coercion (direct or indirect pressure on students to participate in prayer: Engel; Lee; Santa Fe). Town of Greece's analysis of whether adults at a town meeting were coerced (Part II-B) was a three-Justice plurality. 3. Longstanding monuments presumed constitutional (American Legion).
 
-**Exceptions / defenses:** Private religious speech by a public employee during a break, not compelled on others, is not government establishment (Kennedy). The continued force of Lemon-era display cases (Stone v. Graham, Ten Commandments in classrooms) is debated after Kennedy [VERIFY V-203].
+**Exceptions / defenses:** Private religious speech by a public employee during a break, not compelled on others, is not government establishment (Kennedy). The continued force of Lemon-era display cases is unsettled: Stone v. Graham (Ten Commandments in classrooms) has not been overruled by the Supreme Court, but the en banc Fifth Circuit has upheld a Texas classroom-display statute, treating Stone as no longer good law, and a certiorari petition was pending on 2026-11-05 [VERIFY V-203] [S-1460] [S-1461].
 
-**Authority:** U.S. Const. amend. I; *Kennedy v. Bremerton School Dist.*, 597 U.S. 507 (2022); *Town of Greece v. Galloway*, 572 U.S. 565 (2014); *Marsh v. Chambers*, 463 U.S. 783 (1983); *American Legion v. American Humanist Ass'n*, 588 U.S. 29 (2019); *Engel v. Vitale*, 370 U.S. 421 (1962); *Lee v. Weisman*, 505 U.S. 577 (1992); *Santa Fe Indep. School Dist. v. Doe*, 530 U.S. 290 (2000); *Lemon v. Kurtzman*, 403 U.S. 602 (1971) (abandoned).
+**Authority:** U.S. Const. amend. I; *Kennedy v. Bremerton School Dist.*, 597 U.S. 507 (2022); *Town of Greece v. Galloway*, 572 U.S. 565 (2014) (Part II-B plurality); *Marsh v. Chambers*, 463 U.S. 783 (1983); *American Legion v. American Humanist Ass'n*, 588 U.S. 29 (2019); *Engel v. Vitale*, 370 U.S. 421 (1962); *Lee v. Weisman*, 505 U.S. 577 (1992); *Santa Fe Indep. School Dist. v. Doe*, 530 U.S. 290 (2000); *Lemon v. Kurtzman*, 403 U.S. 602 (1971) (abandoned).
 
 **MBE vs. CA essay:** same rule. On an essay, apply history-and-tradition and coercion; you may note that Lemon was the former test.
 
@@ -1222,11 +1222,11 @@ status: draft
 **Example:** A state denies a Catholic charity an unemployment-tax exemption because it does not proselytize or serve only Catholics, while granting it to groups that do. The theological line discriminates among religions and fails strict scrutiny (Catholic Charities).
 
 ### R-CON-092 — Free speech: content-based vs. content-neutral; viewpoint discrimination
-**Rule (write this):** A regulation of speech is content-based if, on its face, it draws distinctions based on the message, topic, function or purpose of speech, or if, though facially neutral, it cannot be justified without reference to content or was adopted because of disagreement with the message; viewpoint discrimination is the most egregious form and is presumptively invalid in every forum. Content-neutral regulations get intermediate scrutiny.
+**Rule (write this):** A regulation of speech is content-based if, on its face, it targets speech because of its topic, idea or message (including distinctions by function or purpose that act as proxies for subject matter), or if, though facially neutral, it cannot be justified without reference to content or was adopted because of disagreement with the message; a rule is not content-based merely because an official must read the speech to apply it. Viewpoint discrimination is the most egregious form of content discrimination and is presumptively invalid in every forum. Content-neutral regulations get intermediate scrutiny.
 
 **Elements:** 1. Speech (or expressive conduct). 2. Government action. 3. Protected category? 4. Content-based (strict) or content-neutral (intermediate). 5. Forum and speaker context.
 
-**Exceptions / defenses:** Location-based distinctions (on-premises vs. off-premises signs) are content-neutral (City of Austin). Laws aimed at secondary effects of adult businesses are treated as content-neutral (Renton).
+**Exceptions / defenses:** Location-based distinctions, such as on-premises vs. off-premises sign rules, are content-neutral even though an official must read a sign to know whether it advertises something on site; they get intermediate scrutiny unless a content-based purpose or justification is shown (City of Austin, remanding for application of that standard). Laws aimed at secondary effects of adult businesses are treated as content-neutral (Renton).
 
 **Authority:** U.S. Const. amend. I; *Police Dep't of Chicago v. Mosley*, 408 U.S. 92 (1972); *Reed v. Town of Gilbert*, 576 U.S. 155 (2015); *City of Austin v. Reagan National Advertising of Austin, LLC*, 596 U.S. 61 (2022); *Rosenberger*, 515 U.S. 819; *Matal v. Tam*, 582 U.S. 218 (2017); *Iancu v. Brunetti*, 588 U.S. 388 (2019); *City of Renton v. Playtime Theatres, Inc.*, 475 U.S. 41 (1986).
 
@@ -1239,9 +1239,9 @@ status: draft
 
 **Elements:** 1. Compelling interest. 2. Necessity and least restrictive means; not over- or under-inclusive. 3. Compelled speech: forced pledge (Barnette), license-plate motto (Wooley), parade inclusion (Hurley), custom expressive services (303 Creative [VERIFY V-035]), mandated notices by pregnancy centers (NIFLA).
 
-**Exceptions / defenses:** Rare survivors: campaign-free zone around polling places (Burson), judicial-candidate solicitation ban (Williams-Yulee), material support to terrorist groups (Holder v. HLP). A viewpoint-based ban on talk therapy by licensed counselors gets strict scrutiny (Chiles v. Salazar (2026) [VERIFY V-034] [S-306]). Age verification for online sexual material obscene for minors gets intermediate scrutiny because it only incidentally burdens adults (Free Speech Coalition v. Paxton (2025) [VERIFY V-035]).
+**Exceptions / defenses:** Rare survivors: campaign-free zone around polling places (Burson, plurality opinion), judicial-candidate solicitation ban (Williams-Yulee), material support to terrorist groups (Holder v. HLP). A viewpoint-based ban on talk therapy by licensed counselors gets strict scrutiny (Chiles v. Salazar (2026) [VERIFY V-034] [S-306]). Age verification for online sexual material obscene for minors gets intermediate scrutiny because it only incidentally burdens adults (Free Speech Coalition v. Paxton (2025) [VERIFY V-035]).
 
-**Authority:** *Brown v. Entertainment Merchants Ass'n*, 564 U.S. 786 (2011); *Burson v. Freeman*, 504 U.S. 191 (1992); *Williams-Yulee v. Florida Bar*, 575 U.S. 433 (2015); *West Virginia State Bd. of Educ. v. Barnette*, 319 U.S. 624 (1943); *Wooley v. Maynard*, 430 U.S. 705 (1977); *Hurley v. Irish-American Gay, Lesbian & Bisexual Group of Boston*, 515 U.S. 557 (1995); *NIFLA v. Becerra*, 585 U.S. 755 (2018).
+**Authority:** *Brown v. Entertainment Merchants Ass'n*, 564 U.S. 786 (2011); *Burson v. Freeman*, 504 U.S. 191 (1992) (plurality opinion); *Williams-Yulee v. Florida Bar*, 575 U.S. 433 (2015); *West Virginia State Bd. of Educ. v. Barnette*, 319 U.S. 624 (1943); *Wooley v. Maynard*, 430 U.S. 705 (1977); *Hurley v. Irish-American Gay, Lesbian & Bisexual Group of Boston*, 515 U.S. 557 (1995); *NIFLA v. Becerra*, 585 U.S. 755 (2018).
 
 **MBE vs. CA essay:** same rule.
 
@@ -1267,7 +1267,7 @@ status: draft
 
 **Exceptions / defenses:** Examples of nonpublic forums: airport terminals (ISKCON), military bases, government workplace charity drives (Cornelius), polling places (Mansky), mailboxes. A public university's all-comers policy for recognized student groups is a reasonable, viewpoint-neutral limited-forum rule (CLS v. Martinez).
 
-**Authority:** *Hague v. CIO*, 307 U.S. 496 (1939); *Perry Educ. Ass'n v. Perry Local Educators' Ass'n*, 460 U.S. 37 (1983); *Cornelius v. NAACP Legal Def. & Educ. Fund*, 473 U.S. 788 (1985); *Int'l Soc'y for Krishna Consciousness v. Lee*, 505 U.S. 672 (1992); *Christian Legal Soc'y v. Martinez*, 561 U.S. 661 (2010); *Minnesota Voters Alliance v. Mansky*, 585 U.S. 1 (2018).
+**Authority:** *Hague v. CIO*, 307 U.S. 496 (1939) (plurality opinion); *Perry Educ. Ass'n v. Perry Local Educators' Ass'n*, 460 U.S. 37 (1983); *Cornelius v. NAACP Legal Def. & Educ. Fund*, 473 U.S. 788 (1985); *Int'l Soc'y for Krishna Consciousness v. Lee*, 505 U.S. 672 (1992); *Christian Legal Soc'y v. Martinez*, 561 U.S. 661 (2010); *Minnesota Voters Alliance v. Mansky*, 585 U.S. 1 (2018).
 
 **MBE vs. CA essay:** same rule.
 
@@ -1304,7 +1304,7 @@ status: draft
 
 **Elements:** True threat: serious threat + recklessness mental state (Counterman [VERIFY V-035]). Fighting words: face-to-face, personally abusive, likely to provoke violence.
 
-**Exceptions / defenses:** Cross burning with intent to intimidate may be banned, but a statute may not treat the act itself as prima facie evidence of intent (Black). Offensive words not directed at a person are protected (Cohen). A ban on fighting words limited to disfavored topics is invalid (R.A.V.).
+**Exceptions / defenses:** Cross burning with intent to intimidate may be banned, but a statute may not treat the act itself as prima facie evidence of intent (Black; plurality opinion on this point, with three more Justices finding the statute invalid). Offensive words not directed at a person are protected (Cohen). A ban on fighting words limited to disfavored topics is invalid (R.A.V.).
 
 **Authority:** *Chaplinsky v. New Hampshire*, 315 U.S. 568 (1942); *Cohen v. California*, 403 U.S. 15 (1971); *R.A.V. v. City of St. Paul*, 505 U.S. 377 (1992); *Virginia v. Black*, 538 U.S. 343 (2003); *Gooding v. Wilson*, 405 U.S. 518 (1972); *Counterman v. Colorado* (2023) [VERIFY V-035].
 
@@ -1330,9 +1330,9 @@ status: draft
 
 **Elements:** Status of plaintiff; public concern; falsity; fault; damages.
 
-**Exceptions / defenses:** Public figures cannot recover for intentional infliction of emotional distress from parody without a false statement of fact made with actual malice (Hustler). Speech on public issues at a public place cannot ground tort liability for its outrageousness (Snyder). Statements must be provably false; there is no wholesale "opinion" privilege (Milkovich).
+**Exceptions / defenses:** Public figures cannot recover for intentional infliction of emotional distress from parody without a false statement of fact made with actual malice (Hustler). Speech on public issues at a public place cannot ground tort liability for its outrageousness (Snyder). Statements must be provably false; there is no wholesale "opinion" privilege (Milkovich). The private-concern rule rests on Dun & Bradstreet, a plurality opinion joined in the judgment by two more Justices; extension of actual malice to public figures came from Curtis Publishing, which had no majority opinion.
 
-**Authority:** *New York Times Co. v. Sullivan*, 376 U.S. 254 (1964); *Curtis Publishing Co. v. Butts*, 388 U.S. 130 (1967); *Gertz v. Robert Welch, Inc.*, 418 U.S. 323 (1974); *Dun & Bradstreet, Inc. v. Greenmoss Builders, Inc.*, 472 U.S. 749 (1985); *Hustler Magazine, Inc. v. Falwell*, 485 U.S. 46 (1988); *Milkovich v. Lorain Journal Co.*, 497 U.S. 1 (1990); *Snyder v. Phelps*, 562 U.S. 443 (2011).
+**Authority:** *New York Times Co. v. Sullivan*, 376 U.S. 254 (1964); *Curtis Publishing Co. v. Butts*, 388 U.S. 130 (1967) (no majority opinion); *Gertz v. Robert Welch, Inc.*, 418 U.S. 323 (1974); *Dun & Bradstreet, Inc. v. Greenmoss Builders, Inc.*, 472 U.S. 749 (1985) (plurality opinion); *Hustler Magazine, Inc. v. Falwell*, 485 U.S. 46 (1988); *Milkovich v. Lorain Journal Co.*, 497 U.S. 1 (1990); *Snyder v. Phelps*, 562 U.S. 443 (2011).
 
 **MBE vs. CA essay:** same rule. On a Torts crossover, use these limits as a defense element.
 
@@ -1345,11 +1345,11 @@ status: draft
 
 **Exceptions / defenses:** Lawyer advertising is protected (Bates), but in-person solicitation for pecuniary gain may be banned (Ohralik), while nonprofit civil-rights solicitation is protected (Primus); a 30-day ban on targeted mail to accident victims was upheld (Went For It). Content- and speaker-based burdens on commercial information get heightened scrutiny (Sorrell).
 
-**Authority:** *Central Hudson Gas & Elec. Corp. v. Public Serv. Comm'n*, 447 U.S. 557 (1980); *Virginia State Bd. of Pharmacy v. Virginia Citizens Consumer Council, Inc.*, 425 U.S. 748 (1976); *Board of Trustees of SUNY v. Fox*, 492 U.S. 469 (1989); *44 Liquormart, Inc. v. Rhode Island*, 517 U.S. 484 (1996); *Zauderer v. Office of Disciplinary Counsel*, 471 U.S. 626 (1985); *Bates v. State Bar of Ariz.*, 433 U.S. 350 (1977); *Ohralik v. Ohio State Bar Ass'n*, 436 U.S. 447 (1978); *Florida Bar v. Went For It, Inc.*, 515 U.S. 618 (1995); *Sorrell v. IMS Health Inc.*, 564 U.S. 552 (2011).
+**Authority:** *Central Hudson Gas & Elec. Corp. v. Public Serv. Comm'n*, 447 U.S. 557 (1980); *Virginia State Bd. of Pharmacy v. Virginia Citizens Consumer Council, Inc.*, 425 U.S. 748 (1976); *Board of Trustees of SUNY v. Fox*, 492 U.S. 469 (1989); *44 Liquormart, Inc. v. Rhode Island*, 517 U.S. 484 (1996) (unanimous judgment; key parts of the principal opinion are plurality); *Zauderer v. Office of Disciplinary Counsel*, 471 U.S. 626 (1985); *Bates v. State Bar of Ariz.*, 433 U.S. 350 (1977); *Ohralik v. Ohio State Bar Ass'n*, 436 U.S. 447 (1978); *Florida Bar v. Went For It, Inc.*, 515 U.S. 618 (1995); *Sorrell v. IMS Health Inc.*, 564 U.S. 552 (2011).
 
 **MBE vs. CA essay:** same rule.
 
-**Example:** A state bans all retail liquor-price advertising to promote temperance. The ban does not directly and materially advance temperance and less restrictive options exist; invalid (44 Liquormart).
+**Example:** A state bans all retail liquor-price advertising to promote temperance. The ban does not directly and materially advance temperance and less restrictive options exist; invalid (44 Liquormart; these reasons come from plurality parts of the principal opinion).
 
 ### R-CON-102 — Public school student speech
 **Rule (write this):** Public school students do not shed their free-speech rights at the schoolhouse gate; a school may restrict student speech only if it reasonably forecasts substantial disruption of school activities or invasion of others' rights. Schools may also restrict lewd or vulgar speech at school events, school-sponsored speech for legitimate pedagogical reasons, and speech reasonably viewed as promoting illegal drug use; their power over off-campus speech is diminished.
@@ -1367,11 +1367,11 @@ status: draft
 ### R-CON-103 — Public employee speech and patronage
 **Rule (write this):** A public employee's speech is protected only if the employee spoke as a citizen, not pursuant to official duties, on a matter of public concern; if so, the court balances the employee's interest in commenting against the government's interest as employer in efficient public services, and the employer may still prevail by showing it would have taken the same action anyway. Government may not hire, fire or promote based on political affiliation unless affiliation is an appropriate requirement for the job.
 
-**Elements:** 1. Citizen vs. official duties (Garcetti). 2. Public concern (content, form, context — Connick). 3. Pickering balance. 4. Causation (Mt. Healthy). Patronage: Elrod; Branti; Rutan.
+**Elements:** 1. Citizen vs. official duties (Garcetti). 2. Public concern (content, form, context — Connick). 3. Pickering balance. 4. Causation (Mt. Healthy). Patronage: Elrod (plurality opinion); Branti; Rutan.
 
 **Exceptions / defenses:** Sworn testimony outside ordinary job duties is citizen speech (Lane). A coach's private, quiet prayer after a game was not government speech (Kennedy). Compelled agency fees from nonmembers violate the First Amendment (Janus).
 
-**Authority:** *Pickering v. Board of Educ.*, 391 U.S. 563 (1968); *Connick v. Myers*, 461 U.S. 138 (1983); *Garcetti v. Ceballos*, 547 U.S. 410 (2006); *Lane v. Franks*, 573 U.S. 228 (2014); *Rankin v. McPherson*, 483 U.S. 378 (1987); *Mt. Healthy City School Dist. Bd. of Educ. v. Doyle*, 429 U.S. 274 (1977); *Elrod v. Burns*, 427 U.S. 347 (1976); *Branti v. Finkel*, 445 U.S. 507 (1980); *Rutan v. Republican Party of Ill.*, 497 U.S. 62 (1990); *Janus v. AFSCME*, 585 U.S. 878 (2018).
+**Authority:** *Pickering v. Board of Educ.*, 391 U.S. 563 (1968); *Connick v. Myers*, 461 U.S. 138 (1983); *Garcetti v. Ceballos*, 547 U.S. 410 (2006); *Lane v. Franks*, 573 U.S. 228 (2014); *Rankin v. McPherson*, 483 U.S. 378 (1987); *Mt. Healthy City School Dist. Bd. of Educ. v. Doyle*, 429 U.S. 274 (1977); *Elrod v. Burns*, 427 U.S. 347 (1976) (plurality opinion); *Branti v. Finkel*, 445 U.S. 507 (1980); *Rutan v. Republican Party of Ill.*, 497 U.S. 62 (1990); *Janus v. AFSCME*, 585 U.S. 878 (2018).
 
 **MBE vs. CA essay:** same rule.
 
@@ -1380,24 +1380,24 @@ status: draft
 ### R-CON-104 — Licenses, benefits, bar admission and loyalty oaths
 **Rule (write this):** Government may not deny a license, public employment or other benefit because of a person's protected speech or association, may not punish mere membership in an organization absent knowing membership with specific intent to further its illegal aims, and may require only oaths to support the Constitution and to oppose its overthrow by unlawful means; vague or overbroad oaths are invalid.
 
-**Elements:** Benefits (Perry; Speiser); bar admission inquiries limited to knowing membership with specific intent (Baird; Wadmond); oaths (Cole; Keyishian; Elfbrandt).
+**Elements:** Benefits (Perry; Speiser); bar admission inquiries limited to knowing membership with specific intent (Baird, plurality opinion; Wadmond); oaths (Cole; Keyishian; Elfbrandt).
 
 **Exceptions / defenses:** Mandatory state-bar dues may fund only activities germane to regulating the profession (Keller, involving the State Bar of California).
 
-**Authority:** *Baird v. State Bar of Ariz.*, 401 U.S. 1 (1971); *Law Students Civil Rights Research Council, Inc. v. Wadmond*, 401 U.S. 154 (1971); *Cole v. Richardson*, 405 U.S. 676 (1972); *Keyishian v. Board of Regents*, 385 U.S. 589 (1967); *Elfbrandt v. Russell*, 384 U.S. 11 (1966); *Keller v. State Bar of Cal.*, 496 U.S. 1 (1990).
+**Authority:** *Baird v. State Bar of Ariz.*, 401 U.S. 1 (1971) (plurality opinion); *Law Students Civil Rights Research Council, Inc. v. Wadmond*, 401 U.S. 154 (1971); *Cole v. Richardson*, 405 U.S. 676 (1972); *Keyishian v. Board of Regents*, 385 U.S. 589 (1967); *Elfbrandt v. Russell*, 384 U.S. 11 (1966); *Keller v. State Bar of Cal.*, 496 U.S. 1 (1990).
 
 **MBE vs. CA essay:** same rule.
 
-**Example:** A state bar denies admission because the applicant refuses to say whether she was ever a member of any organization advocating overthrow of the government. The broad membership inquiry is invalid (Baird).
+**Example:** A state bar denies admission because the applicant refuses to say whether she was ever a member of any organization advocating overthrow of the government. The broad membership inquiry is invalid (Baird, plurality).
 
 ### R-CON-105 — Expressive conduct
 **Rule (write this):** Conduct is expressive if the actor intends to convey a particularized message and the audience is likely to understand it. A regulation of expressive conduct is valid if it is within the government's power, furthers an important or substantial interest unrelated to the suppression of expression, and imposes an incidental restriction on expression no greater than essential to that interest; if the interest is related to the message, strict scrutiny applies.
 
 **Elements:** Spence test; O'Brien four-part test.
 
-**Exceptions / defenses:** Flag burning cannot be banned because of its message (Johnson; Eichman). Banning cross burning done with intent to intimidate is valid (Black). Public-indecency laws applied to nude dancing are upheld (Barnes; Pap's).
+**Exceptions / defenses:** Flag burning cannot be banned because of its message (Johnson; Eichman). Banning cross burning done with intent to intimidate is valid (Black). Public-indecency laws applied to nude dancing are upheld (Barnes; Pap's), though neither case produced a majority rationale.
 
-**Authority:** *United States v. O'Brien*, 391 U.S. 367 (1968); *Spence v. Washington*, 418 U.S. 405 (1974); *Texas v. Johnson*, 491 U.S. 397 (1989); *United States v. Eichman*, 496 U.S. 310 (1990); *Barnes v. Glen Theatre, Inc.*, 501 U.S. 560 (1991); *City of Erie v. Pap's A.M.*, 529 U.S. 277 (2000); *Rumsfeld v. FAIR*, 547 U.S. 47 (2006).
+**Authority:** *United States v. O'Brien*, 391 U.S. 367 (1968); *Spence v. Washington*, 418 U.S. 405 (1974); *Texas v. Johnson*, 491 U.S. 397 (1989); *United States v. Eichman*, 496 U.S. 310 (1990); *Barnes v. Glen Theatre, Inc.*, 501 U.S. 560 (1991) (plurality opinion); *City of Erie v. Pap's A.M.*, 529 U.S. 277 (2000) (plurality opinion); *Rumsfeld v. FAIR*, 547 U.S. 47 (2006).
 
 **MBE vs. CA essay:** same rule.
 
@@ -1445,11 +1445,11 @@ status: draft
 ### R-CON-109 — Freedom of the press
 **Rule (write this):** The press has no greater First Amendment rights than the public generally: it must obey generally applicable laws and has no constitutional privilege to refuse grand-jury subpoenas, but the government may not single out the press or particular publications for special burdens, may not punish the publication of truthful, lawfully obtained information on matters of public significance absent a state interest of the highest order, and must keep criminal trials and related proceedings presumptively open.
 
-**Elements:** Equal treatment (Branzburg; Cohen v. Cowles); differential taxation (Minneapolis Star; Arkansas Writers'); truthful publication (Daily Mail; Florida Star; Bartnicki); trial access (Richmond Newspapers; Globe; Press-Enterprise).
+**Elements:** Equal treatment (Branzburg; Cohen v. Cowles); differential taxation (Minneapolis Star; Arkansas Writers'); truthful publication (Daily Mail; Florida Star; Bartnicki); trial access (Richmond Newspapers, plurality opinion; Globe; Press-Enterprise).
 
 **Exceptions / defenses:** Closure requires an overriding interest, specific findings and narrow tailoring. Broadcast regulation is more deferential (Red Lion; Pacifica); a right-of-reply law for newspapers is invalid (Tornillo).
 
-**Authority:** *Branzburg v. Hayes*, 408 U.S. 665 (1972); *Minneapolis Star & Tribune Co. v. Minn. Comm'r of Revenue*, 460 U.S. 575 (1983); *Smith v. Daily Mail Publishing Co.*, 443 U.S. 97 (1979); *Florida Star v. B.J.F.*, 491 U.S. 524 (1989); *Richmond Newspapers, Inc. v. Virginia*, 448 U.S. 555 (1980); *Globe Newspaper Co. v. Superior Court*, 457 U.S. 596 (1982); *Press-Enterprise Co. v. Superior Court*, 478 U.S. 1 (1986); *Miami Herald Publishing Co. v. Tornillo*, 418 U.S. 241 (1974).
+**Authority:** *Branzburg v. Hayes*, 408 U.S. 665 (1972); *Minneapolis Star & Tribune Co. v. Minn. Comm'r of Revenue*, 460 U.S. 575 (1983); *Smith v. Daily Mail Publishing Co.*, 443 U.S. 97 (1979); *Florida Star v. B.J.F.*, 491 U.S. 524 (1989); *Richmond Newspapers, Inc. v. Virginia*, 448 U.S. 555 (1980) (plurality opinion); *Globe Newspaper Co. v. Superior Court*, 457 U.S. 596 (1982); *Press-Enterprise Co. v. Superior Court*, 478 U.S. 1 (1986); *Miami Herald Publishing Co. v. Tornillo*, 418 U.S. 241 (1974).
 
 **MBE vs. CA essay:** same federal rule. CA note: California's shield law (Cal. Const. art. I, § 2(b); Evid. Code § 1070) gives reporters protection from contempt.
 
@@ -1458,7 +1458,7 @@ status: draft
 ### R-CON-110 — Freedom of association: membership, disclosure and expressive association
 **Rule (write this):** The First Amendment protects the right to associate for expressive purposes. Government may not punish membership in a group unless the member knows of its illegal aims and specifically intends to further them; compelled disclosure of membership or donors is subject to exacting scrutiny, requiring a substantial relation to a sufficiently important interest and narrow tailoring; and laws forcing an expressive association to accept members who would significantly impair its message must survive strict scrutiny.
 
-**Elements:** Membership penalties (Scales); disclosure (NAACP v. Alabama; AFP v. Bonta); expressive association (Roberts; Dale); intimate association (small, selective family-like groups).
+**Elements:** Membership penalties (Scales); disclosure (NAACP v. Alabama; AFP v. Bonta, whose general statement that exacting scrutiny requires narrow tailoring was in a three-Justice part of the opinion, though the majority applied narrow tailoring to strike California's rule); expressive association (Roberts; Dale); intimate association (small, selective family-like groups).
 
 **Exceptions / defenses:** Antidiscrimination laws applied to large, unselective organizations do not significantly burden expression (Roberts; Rotary). A state donor-information subpoena inflicts present associational injury (First Choice (2026) [VERIFY V-034] [S-313]).
 
@@ -1471,11 +1471,11 @@ status: draft
 ### R-CON-111 — Campaign finance
 **Rule (write this):** Limits on campaign expenditures, including independent expenditures by corporations and unions, get strict scrutiny and are generally invalid; limits on contributions to candidates are valid if closely drawn to the important interest in preventing quid pro quo corruption or its appearance; disclosure requirements get exacting scrutiny and are generally upheld.
 
-**Elements:** Expenditures (Buckley; Citizens United); contributions (Buckley; McCutcheon: aggregate limits invalid); only quid pro quo corruption counts (Cruz).
+**Elements:** Expenditures (Buckley; Citizens United); contributions (Buckley; McCutcheon, plurality opinion: aggregate limits invalid); only quid pro quo corruption counts (Cruz).
 
 **Exceptions / defenses:** Federal limits on political parties' coordinated expenditures with candidates violate the First Amendment (NRSC v. FEC (2026) [VERIFY V-034] [S-312]).
 
-**Authority:** *Buckley v. Valeo*, 424 U.S. 1 (1976); *Citizens United v. FEC*, 558 U.S. 310 (2010); *McCutcheon v. FEC*, 572 U.S. 185 (2014); *FEC v. Ted Cruz for Senate*, 596 U.S. 289 (2022); *Doe v. Reed*, 561 U.S. 186 (2010).
+**Authority:** *Buckley v. Valeo*, 424 U.S. 1 (1976); *Citizens United v. FEC*, 558 U.S. 310 (2010); *McCutcheon v. FEC*, 572 U.S. 185 (2014) (plurality opinion); *FEC v. Ted Cruz for Senate*, 596 U.S. 289 (2022); *Doe v. Reed*, 561 U.S. 186 (2010).
 
 **MBE vs. CA essay:** same rule.
 
@@ -1531,7 +1531,7 @@ status: draft
 
 **Exceptions / defenses:** Facially neutral voting rules with disparate impact alone do not violate the Amendment (Mobile v. Bolden plurality); statutory claims may lie under the VRA.
 
-**Authority:** U.S. Const. amend. XV, § 1; *Terry v. Adams*, 345 U.S. 461 (1953); *Rice v. Cayetano*, 528 U.S. 495 (2000); *City of Mobile v. Bolden*, 446 U.S. 55 (1980).
+**Authority:** U.S. Const. amend. XV, § 1; *Terry v. Adams*, 345 U.S. 461 (1953) (no majority opinion); *Rice v. Cayetano*, 528 U.S. 495 (2000); *City of Mobile v. Bolden*, 446 U.S. 55 (1980) (plurality opinion).
 
 **MBE vs. CA essay:** same rule.
 
@@ -1562,3 +1562,22 @@ status: draft
 **MBE vs. CA essay:** same rule; on a Con Law + Remedies essay, pair this with the Remedies TRO/PI template.
 
 **Example:** A church seeks a TRO against a candle ban two days before a holy-day service. Likely success (non-neutral law), irreparable harm (loss of free exercise), equities and public interest favor relief; the TRO should issue against the city officials.
+
+---
+
+## California constitutional supplement
+
+### R-CON-118 — California free speech on private shopping-center property (Pruneyard)
+**Rule (write this):** The liberty-of-speech and petition clauses of the California Constitution (art. I, §§ 2, 3) protect speech and petitioning, reasonably exercised, in privately owned shopping centers that are open to the public, subject to the owner's reasonable time, place and manner rules (*Robins v. Pruneyard Shopping Center*). A state may grant this broader right: requiring the owner to allow such speech is neither a taking of the owner's property nor a violation of the owner's own First Amendment rights (*PruneYard Shopping Center v. Robins*).
+
+**Elements:** 1. Privately owned property open to the public that serves as a public gathering place: the common areas of a shopping center (Robins). 2. Speech or petitioning, reasonably exercised (leafleting, gathering signatures, peaceful picketing). 3. The owner may impose only reasonable time, place and manner rules; a rule that bars speech because of its content, such as a ban on urging customers to boycott a mall store, gets strict scrutiny and fails (Fashion Valley).
+
+**Exceptions / defenses:** The right does not reach the private sidewalk and entrance area of an individual retail store, even one inside a shopping center: an area is a public forum under Pruneyard only if it is designed and furnished to induce shoppers to congregate for entertainment, relaxation or conversation (Ralphs) [S-1456] [S-1457]. Courts of Appeal have likewise held that stand-alone stores are not Pruneyard forums (e.g., *Trader Joe's Co. v. Progressive Campaigns, Inc.* (1999) 73 Cal.App.4th 425) [VERIFY V-980]. There is **no** federal right to speak on private shopping-center property, because the owner is not a state actor (*Hudgens*; *Lloyd Corp.*; R-CON-054).
+
+**Authority:** Cal. Const. art. I, §§ 2(a), 3 [S-320]; *Robins v. Pruneyard Shopping Center* (1979) 23 Cal.3d 899; *PruneYard Shopping Center v. Robins*, 447 U.S. 74 (1980); *Fashion Valley Mall, LLC v. National Labor Relations Bd.* (2007) 42 Cal.4th 850 [S-1458] [S-1459]; *Ralphs Grocery Co. v. United Food & Commercial Workers Union Local 8* (2012) 55 Cal.4th 1083 [S-1456] [S-1457]; *Hudgens v. NLRB*, 424 U.S. 507 (1976); *Lloyd Corp. v. Tanner*, 407 U.S. 551 (1972).
+
+**MBE vs. CA essay:** differs. On the MBE, and on any essay call limited to the U.S. Constitution, the shopping-center owner is not a state actor and the speaker's First Amendment claim fails (*Hudgens*). Only if the call asks about the California Constitution (or a California state-court suit leaves the law open) add that art. I, § 2 protects reasonable speech in the center's common areas, subject to time, place and manner rules and the Ralphs limit for store entrances (see ca-distinctions).
+
+**Example:** Students gather petition signatures at a table in the central courtyard of a large regional mall that bans all petitioning. Their First Amendment claim fails for lack of state action (*Hudgens*). Under *Robins*, the California Constitution protects their reasonable petitioning in the courtyard, subject to the mall's reasonable time, place and manner rules; had they set up on the entrance apron of a single supermarket, *Ralphs* would defeat the state claim.
+
+> 🇨🇳 PRC bridge: There is no PRC counterpart; PRC constitutional speech rights are not applied by courts against private property owners (approx.).

@@ -59,7 +59,7 @@ status: draft
 ## 5. Individual rights
 - **State action** (R-CON-054, R-CON-055): public function (exclusive) or entanglement (Shelley, Burton, joint action); officials' social media (Lindke two-part test).
 - **Incorporation** (R-CON-056): almost all of the Bill of Rights via due process; not grand jury or civil jury.
-- **Procedural due process** (R-CON-057, R-CON-058): protected interest (entitlement; liberty) → Mathews balancing → notice and opportunity before a neutral decisionmaker.
+- **Procedural due process** (R-CON-057, R-CON-058): protected interest (entitlement; liberty) → Mathews balancing (private interest; risk of error and value of added safeguards; government's interest and burdens) → notice and opportunity before a neutral decisionmaker.
 - **Substantive due process** (R-CON-060 to R-CON-063): fundamental (Glucksberg history-and-tradition) → strict scrutiny; otherwise rational basis; no abortion right (Dobbs).
 - **Travel** (R-CON-064): new residents' basic necessities → strict scrutiny (Saenz).
 - **Equal protection** (R-CON-066 to R-CON-076):
@@ -74,7 +74,7 @@ status: draft
 - **Second Amendment** (R-CON-065): text covers conduct → government must show historical tradition (Bruen, Rahimi).
 
 ## 6. First Amendment
-- **Speech classify** (R-CON-092): content-based (topic, message, function or purpose) → strict; viewpoint → presumptively invalid; neutral → intermediate.
+- **Speech classify** (R-CON-092): content-based (topic, idea or message; function or purpose as a proxy for subject) → strict; needing to read the sign is not enough (City of Austin: on/off-premises = neutral); viewpoint → presumptively invalid; neutral → intermediate.
 - **Strict scrutiny / compelled speech** (R-CON-093): necessary to a compelling interest, least restrictive means; no compelled messages.
 - **TPM** (R-CON-094): content-neutral + narrowly tailored to a significant interest + ample alternatives.
 - **Forums** (R-CON-095): traditional and designated → strict or TPM; limited and nonpublic → reasonable + viewpoint-neutral.

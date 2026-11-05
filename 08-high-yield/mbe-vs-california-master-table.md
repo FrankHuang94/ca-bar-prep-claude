@@ -339,11 +339,11 @@ Source: [`../03-subjects/constitutional-law/ca-distinctions.md`](../03-subjects/
 
 | Issue | MBE / federal rule | California rule | What to write on the essay | Rule IDs |
 |---|---|---|---|---|
-| Speech on private property | No federal right in private malls (*Hudgens*) | Cal. Const. art. I, § 2(a) reaches large shopping centers (*Robins v. Pruneyard*) [VERIFY V-206] | Federal claim fails for lack of state action | R-CON-054, R-CON-018 |
+| Speech on private property | No federal right in private malls (*Hudgens*) | Cal. Const. art. I, §§ 2(a), 3 protect reasonable speech and petitioning in the common areas of shopping centers open to the public (*Robins v. Pruneyard*); content-based bans there fail (*Fashion Valley*); a store's entrance area is not a public forum (*Ralphs*) [S-1456] [S-1458] | Federal claim fails for lack of state action | R-CON-054, R-CON-018, R-CON-118 |
 | Equal protection: sex | Intermediate scrutiny | Strict scrutiny (*Sail'er Inn*) | Federal intermediate only | R-CON-071 |
 | Abortion | No federal right (*Dobbs*) | Express right (art. I, § 1.1) | Apply *Dobbs* federally | R-CON-062 |
 | Takings | "Taken" for public use | "Taken **or damaged**"; limits on condemning owner-occupied homes for private transfer (art. I, § 19) | Federal analysis; one line if invited | R-CON-077 |
-| Standing in state court | Article III | Taxpayer suits (CCP § 526a) [VERIFY V-205] | Federal-court essays use Article III | R-CON-013 |
+| Standing in state court | Article III | Taxpayer suits against a local agency's illegal expenditure or waste (CCP § 526a; no property-tax payment needed, *Weatherford*) [S-1462] [S-1464] | Federal-court essays use Article III | R-CON-013 |
 
 ### 3.11 Wills, Trusts and Community Property — California-only subjects (where the general rule tempts)
 

@@ -52,7 +52,7 @@ status: draft
 
 | # | Issue | Trigger facts | Rule |
 |---|---|---|---|
-| 22 | **State action** | Private defendant; government-funded or regulated entity; official's social media | R-CON-054, R-CON-055 |
+| 22 | **State action** | Private defendant; government-funded or regulated entity; official's social media; speech in a private mall | R-CON-054, R-CON-055 (California-law call: mall speech, R-CON-118) |
 | 23 | **Free speech — classify** | Rule about signs, flyers, symbols, protests, words | R-CON-092 to R-CON-096 |
 | 24 | **Unprotected categories** | Threats, incitement, obscenity, fighting words, defamation | R-CON-097 to R-CON-100 |
 | 25 | **Special speech settings** | Students, public employees, commercial ads, licences, prisons | R-CON-101 to R-CON-104, R-CON-116 |

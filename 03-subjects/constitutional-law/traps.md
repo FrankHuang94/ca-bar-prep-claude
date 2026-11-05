@@ -60,7 +60,7 @@ Each trap names the mistake, the correct rule, and the rule ID.
 ## First Amendment
 38. **Lemon test.** Abandoned (*Kennedy v. Bremerton*); use history, tradition and coercion. → R-CON-090.
 39. **Free exercise strict scrutiny for every burden.** Only if the law is not neutral or not generally applicable (or in the Yoder/Mahmoud and religious-exclusion settings); otherwise Smith rational basis. → R-CON-087, R-CON-088.
-40. **RFRA against the states.** RFRA binds only the federal government (Boerne); RLUIPA covers state prisons and land use. → R-CON-089.
+40. **RFRA against the states.** RFRA binds only the federal government (Boerne); RLUIPA covers state and local land-use regulation and persons confined in state or local institutions (prisons, jails). → R-CON-089.
 41. **Content-neutral = valid.** It still must be narrowly tailored and leave ample alternatives (McCullen; Ladue). → R-CON-094.
 42. **Viewpoint discrimination allowed in nonpublic forums.** Never; nonpublic-forum rules must be reasonable **and** viewpoint-neutral. → R-CON-095.
 43. **Offensive = fighting words.** Fighting words must be face-to-face personal insults likely to provoke violence (Cohen). → R-CON-098.
@@ -73,3 +73,5 @@ Each trap names the mistake, the correct rule, and the rule ID.
 50. **Tinker for school-sponsored newspapers.** Hazelwood (legitimate pedagogical concerns) governs school-sponsored speech. → R-CON-102.
 51. **Membership alone punishable.** Requires knowing membership plus specific intent to further illegal aims. → R-CON-104, R-CON-110.
 52. **"Garcia v. Ceballos."** The public-employee case is *Garcetti v. Ceballos*, 547 U.S. 410 (2006); *Garcia v. San Antonio MTA* is the Tenth Amendment case. → R-CON-103, R-CON-045.
+53. **"The official must read the sign, so it is content-based."** Not the test: an on-premises/off-premises sign rule is location-based and content-neutral (*City of Austin*); ask whether the law singles out topic, idea or message. → R-CON-092.
+54. **Citing a plurality as a holding.** *Hein*, *NFIB*'s commerce and coercion parts, *Kassel*, *Crawford*, *McCutcheon*, *Elrod* and *Town of Greece*'s coercion part had no majority opinion on the point; cite them for the result. → R-CON-013, R-CON-022, R-CON-024, R-CON-048, R-CON-075, R-CON-090, R-CON-103, R-CON-111.

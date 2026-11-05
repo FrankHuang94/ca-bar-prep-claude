@@ -40,6 +40,7 @@ Memorize the **"Rule (write this)"** line of each rule in [rule-statements.md](r
 | Individual rights | R-CON-056, R-CON-062, R-CON-063, R-CON-064, R-CON-065, R-CON-069, R-CON-072, R-CON-073, R-CON-075, R-CON-076, R-CON-081, R-CON-082, R-CON-083, R-CON-084, R-CON-086 |
 | First Amendment | R-CON-089, R-CON-091, R-CON-096, R-CON-097, R-CON-098, R-CON-099, R-CON-100, R-CON-101, R-CON-104, R-CON-109, R-CON-110, R-CON-111 |
 | Amendments XI–XV, prisons | R-CON-113, R-CON-114, R-CON-116 |
+| California Constitution (only on a California-law call) | R-CON-118 |
 
 ## Nice-to-know (recognize; one line)
 
@@ -54,7 +55,7 @@ Memorize the **"Rule (write this)"** line of each rule in [rule-statements.md](r
 - *Trump v. Barbara* (2026) — birthright citizenship [VERIFY V-034] → R-CON-114
 - *Chiles v. Salazar* (2026) — talk-therapy ban, viewpoint-based [VERIFY V-034] → R-CON-093
 - *Louisiana v. Callais* (2026) — racial gerrymander; VRA § 2 [VERIFY V-034] → R-CON-069
-- *Hecox / B.P.J.* (2026) — girls' sports teams [VERIFY V-034] → R-CON-072
+- *Hecox / B.P.J.* (2026) — girls' sports teams; sex classification, intermediate scrutiny [VERIFY V-034] → R-CON-072
 - *Wolford v. Lopez* (2026) — carry on private property [VERIFY V-034] → R-CON-065
 - *NRSC v. FEC* (2026) — party coordinated expenditures [VERIFY V-034] → R-CON-111
 - *First Choice* (2026); *Bost* (2026) — standing and ripeness [VERIFY V-034] → R-CON-009, R-CON-015

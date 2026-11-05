@@ -94,6 +94,7 @@ III. Setting
    A. Forum: traditional / designated / limited / nonpublic (or government speech?)
    B. Special setting: school (Tinker family), employee (Pickering/Garcetti), commercial (Central Hudson), prison (Turner)
 IV. Content-based or content-neutral (viewpoint?)
+   (Needing to read the speech to apply a location rule does not make it content-based — City of Austin)
    A. Content-based → strict scrutiny: compelling interest; necessary; least restrictive means
    B. Content-neutral → TPM: significant interest; narrowly tailored; ample alternatives
    (Limited/nonpublic forum → reasonable + viewpoint-neutral)
@@ -120,7 +121,7 @@ II. Free Exercise
 III. Establishment Clause
    A. Test: historical practices and understandings; coercion (Kennedy; note Lemon formerly applied)
    B. Apply: prayer, display, funding, denominational preference (Larson → strict)
-   C. Analogies: Lee/Santa Fe (coercion), Town of Greece (tradition), Stone/Van Orden (displays)
+   C. Analogies: Lee/Santa Fe (coercion), Town of Greece (tradition; its coercion part was a plurality), Stone/Van Orden (displays; Stone's force after Kennedy is contested)
 IV. Equal protection / free speech overlap (religious speech excluded from a forum = viewpoint discrimination)
 V. Conclusion
 ```
@@ -174,7 +175,7 @@ I. Justiciability — standing; ripeness (pre-enforcement); Eleventh Amendment (
 II. Merits (likelihood of success) — run the right template (4, 5 or 6) concisely
 III. Temporary Restraining Order
    A. Likelihood of success (from II)
-   B. Irreparable harm before a hearing (loss of First Amendment freedoms, even briefly — Elrod)
+   B. Irreparable harm before a hearing (loss of First Amendment freedoms, even briefly — Elrod, plurality)
    C. Balance of hardships
    D. Public interest
    E. Notice / ex parte requirements; bond
