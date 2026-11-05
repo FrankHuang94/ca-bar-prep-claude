@@ -2,7 +2,7 @@
 
 **Target:** California General Bar Exam, **Tue–Wed July 27–28, 2027** (confirmed [S-001]). Fallback: Feb 2028, the last exam in the current format.
 **Branch:** `claude/peaceful-darwin-ec2583` (currently the repo's default branch).
-**Last updated:** 2026-11-04
+**Last updated:** 2026-11-05
 
 ## Phase status
 
@@ -13,9 +13,9 @@
 | 2 — Foundations, strategy, study plan | ✅ **Done (awaiting review)** | 02-foundations (5 files, 475-term glossary), MBE/essay/PT strategy, 38-week plan; VERIFY V-040–V-060 |
 | 3 — Past exams | ✅ Done | 31 administrations (Feb 2012–Jul 2026): 166 essays + 42 PTs indexed and analyzed (index-level); frequency analysis; 2 PAST rows | Archive covers Feb 2012 → July 2026 [S-079] |
 | 4 — Subject content | ✅ **Done (awaiting review)**: all 13 subjects built; all 616 coverage rows mapped | Groups: (1) CTR CIV CON CRM · (2) CMP REM · (3) EVD PRF WIL TRS · (4) TRT PRP BUS |
-| 5 — Question bank | ✅ **Done (awaiting review)**: 1,050 MCQs, 84 essays, 8 PTs, 3 simulations | Every item independently reviewed |
+| 5 — Question bank | ✅ **Done (awaiting review)**: 1,050 MCQs, 84 essays (85 with E-XO-030, added in Phase 7), 8 PTs, 3 simulations | Every item independently reviewed |
 | 6 — High-yield and memorization | ✅ **Done (awaiting review)** | 08-high-yield (8 files + README), consistency sweep, Anki decks |
-| 7 — Independent QA | ☐ | |
+| 7 — Independent QA | ✅ **Done (awaiting review)** | All 13 subjects, the exam-intel and strategy files, all 39 Wave 1 essays, PT-001–003 and the 350 Wave 1 MCQs independently reviewed; 12 HIGH and 125 MED rule fixes; 118 VERIFY items resolved; files marked `verified`/`reviewed`. Report: `10-progress/qa-report-phase7.md` |
 | 8 — Maintenance | ☐ | |
 
 ## Phase 2 deliverables
@@ -34,8 +34,43 @@
   - `practice-targets.md`: totals and justification, checkpoints CP1–CP5, go/adjust/escalate rules;
   - `spaced-repetition.md`.
 - **`config/plan.yml`:** finalized phases, no leave (PTO for exam week only), targets and benchmarks aligned to the schedule.
-- **Totals:** ≈ 754 h · 2,210 MBE · 75 essays · 52 `/spot` drills · 12 PTs · 3 simulations (all on weekends).
+- **Totals (after the 2026-11-04 rework for 35–40 h/week from December):** ≈ 1,194 h · 3,140 MBE · 109 essays · 74 `/spot` drills · 17 PTs · 3 simulations (all on weekends). The first build's ≈ 754 h figure assumed the November capacity throughout.
 - **New sources and verify items:** S-140–S-150 and S-160; V-040–V-044, V-050–V-058 and V-060.
+
+## Phase 7 deliverables (independent QA)
+- **Report:** `10-progress/qa-report-phase7.md` (scope, findings by subject, VERIFY status, what `verified` means, residual risks).
+- **Subject QA (13 subjects plus exam intel):**
+  - Every rule statement was re-read by a reviewer who had not written it. Results: **12 HIGH, 125 MED and 156 LOW** fixes.
+  - HIGH items:
+    - R-REM-046 (double counting);
+    - R-PRF-069 (rule 3.7(a)(3) prosecutor consent);
+    - R-CMP-014 and R-WIL-100 (*Brace*);
+    - R-BUS-069 (§ 315 covers officers only) and R-BUS-095 (*Wilkes* burden);
+    - R-TRS-046 (*Carmack* and the 25% cap) and R-TRS-016 (§ 15401(c));
+    - R-WIL-017 (§ 78(d), *Lahey*);
+    - R-EVD-047 (§ 352.2) and R-EVD-102 (§ 240(a)(6));
+    - R-TRT-009 (mutual-combat consent).
+  - About 40 plurality opinions are now labelled. "Majority" claims that are really trends were corrected.
+  - New rules: R-CON-118 (*Pruneyard*) and R-CRM-121 (Pen. Code § 1111). Total: **1,434 rules**.
+- **VERIFY queue:** **344 open / 5 resolved → 283 open / 123 resolved**.
+  - 118 items closed with a confirming source; partly confirmed items narrowed; about 50 new doubts logged.
+  - October Term 2025 cases confirmed from the opinion now cite it directly. V-034 now covers only *Chevron v. Plaquemines*, *Pitts* and *Ellingburg*.
+  - Sources: 519 → **734**.
+- **Question bank:**
+  - Wave 1 MCQs: 104 explanation fixes; length cues rebalanced (key is the longest option in 2–13 of 50 per subject). No key changed (script-checked after every edit).
+  - Wave 1 essays (all 39): independently reviewed; 2 HIGH (E-XO-006, E-XO-009) and 40 MED fixed.
+  - PT-001–003: fixed, including PT-003's dates.
+  - New crossover **E-XO-030** (Con Law + Remedies), independently reviewed. Essays: 85, of which 30 are crossovers.
+- **Cross-file consistency:** every conflict a reviewer found was fixed in the same merge. This covered the high-yield tables, `recent-changes.md` (SB 95 added as §7A; OT2025 rows dated and sourced; *National Pork*, *Lackey v. Stinnie*) and about 20 essays.
+- **Tooling:**
+  - `frequency_analysis.py` lists every crossover pair (17).
+  - `merge_build_outputs.py --resolve` refuses partial rows.
+- **Status fields:** `verified` = independently reviewed and no open VERIFY tag; `reviewed` = reviewed, tag(s) remain.
+  - Subject files: 81 verified, 95 reviewed.
+  - Essays and PTs: 77 verified, 16 reviewed.
+  - MCQ items: 1,050 verified.
+  - Generated and unreviewed files stay `draft`.
+- **Anki:** full deck 3,242 cards; must-know deck 1,651 cards (rebuilt in `exports/`).
 
 ## Phase 6 deliverables (high-yield synthesis and memorization)
 
@@ -287,11 +322,12 @@ All 15 files per subject. All **216 coverage rows mapped** (`coverage_report.py 
    - which optional PTO days are possible.
 4. **Network access.** Still blocked (calbar.ca.gov, ncbex.org, leginfo, courts.ca.gov, law.cornell.edu, supremecourt.gov, uscourts.gov, americanbar.org).
 
-## Next: Phase 7 — independent QA
-- **Subject-file QA:** independent reviewer subagents audit every subject's 15 files for legal accuracy, internal consistency, coverage and citation integrity, then fix the findings. Subjects whose rule statements have not yet had a question-level audit (CP, Wills, Trusts, BA, Remedies, PR) get the deepest review.
-- **VERIFY queue:** close what can be confirmed by search (`confirmed-primary (search)`); re-scope the rest; list the items that need a direct read of leginfo, courts.ca.gov or calbar.ca.gov (V-001).
-- **Fill the gaps noted above** (§ 1111, *Pruneyard*, a Con Law + Remedies essay, the crossover table).
-- **Mark files `verified`** only after QA. Rename `EVD-CBX-II?`. Produce the QA report.
+## Next: Phase 8 — maintenance
+- **Monthly** `/update-exam-intel`. The **June 2027 sweep** (`recent-changes.md` §10) covers *Sanchez v. Rojas* (V-604), § 377.34 (V-602), October Term 2026 decisions, CRPC orders and the July 2027 deadlines (V-016).
+- **When network access allows:** re-read search-confirmed sources directly (V-001). Start with the High and Med items and the CBX outline rows (V-024, V-025).
+- **Work down the Low-priority citation items** as each subject comes up in the study plan.
+- **Errors you find while studying:** log them in `10-progress/error-log.md`; each is fixed in the rulebook and propagated.
+- **Your action:** Cardozo transcript timing (V-015).
 
 ## Handoff notes for a new session
 - **Read `CLAUDE.md` first.** It holds all conventions.

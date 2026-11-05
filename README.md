@@ -8,7 +8,7 @@ Personal, exam-focused knowledge base for the **July 27–28, 2027 California Ge
 <!-- BEGIN STATUS -->
 | Days to exam | MBE Qs done | MBE accuracy (last 200) | Essays | Written avg | PTs | Matrix mapped | Bank (MCQ/essay/PT) |
 |---|---|---|---|---|---|---|---|
-| 264 | 0 | — | 0 | — | 0 | 100% | 1050/84/8 |
+| 264 | 0 | — | 0 | — | 0 | 100% | 1050/85/8 |
 
 _Updated 2026-11-05 by `python scripts/dashboard.py`; details in [10-progress/readiness-dashboard.md](10-progress/readiness-dashboard.md)._
 <!-- END STATUS -->
