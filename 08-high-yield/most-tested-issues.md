@@ -249,7 +249,7 @@ Most-used bank rules: R-CIV-089 (13), R-CIV-094 (9). Assume federal court and th
 | I Judicial review | | 25 | Standing; mootness exceptions; Eleventh Amendment | R-CON-008–R-CON-016, R-CON-005, R-CON-006 |
 | II Separation of powers | | 25 | Commerce and spending powers; § 5; appointments and removal | R-CON-021, R-CON-022, R-CON-024, R-CON-027, R-CON-035, R-CON-036 |
 
-Removal after *Trump v. Slaughter* (2026) [VERIFY V-034]: an answer that relies on *Humphrey's Executor* is wrong under current law (R-CON-036).
+Removal after *Trump v. Slaughter* (2026) [S-300]: an answer that relies on *Humphrey's Executor* is wrong under current law (R-CON-036).
 
 ### Contracts ([mbe-rules](../03-subjects/contracts/mbe-rules.md))
 | Category | NCBE share | Bank | Most tested | Rules |

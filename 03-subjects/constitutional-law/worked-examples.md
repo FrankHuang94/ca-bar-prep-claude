@@ -80,7 +80,7 @@ Original fact patterns. Each answer gives the rule (with its ID), the applicatio
 ### 8. The fired commissioner (removal)
 **Facts.** A federal Trade Practices Commission of five members enforces consumer-protection statutes, issues binding rules, and sues violators. Its statute allows removal only for "neglect of duty." The President removes a commissioner over policy.
 
-**Rule (R-CON-036).** The President may remove principal officers who wield executive power at will; *Humphrey's Executor* is overruled (*Trump v. Slaughter* (2026) [VERIFY V-034]).
+**Rule (R-CON-036).** The President may remove principal officers who wield executive power at will; *Humphrey's Executor* is overruled (*Trump v. Slaughter* (2026) [S-300]).
 
 **Application.** The commission's rulemaking, enforcement and litigation powers are substantial executive power, as with the FTC in *Slaughter*. The for-cause limit therefore impermissibly restricts the President's control.
 

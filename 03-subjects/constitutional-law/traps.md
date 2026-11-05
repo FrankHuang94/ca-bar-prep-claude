@@ -29,7 +29,7 @@ Each trap names the mistake, the correct rule, and the rule ID.
 12. **Spending power limited to enumerated subjects.** It is not (Butler); Congress may spend for the general welfare. → R-CON-024.
 13. **Forgetting the coercion limit.** Dole's mild-encouragement point vs. NFIB's "gun to the head." Analyse the share of existing funds at stake. → R-CON-024.
 14. **§ 5 to reach private discrimination.** Section 5 reaches only state action (Morrison); use the Commerce Clause or the Thirteenth Amendment for private actors. → R-CON-027, R-CON-028.
-15. **Humphrey's Executor as current law.** After *Trump v. Slaughter* (2026) [VERIFY V-034], FTC-type commissioners are removable at will; but Morrison-type inferior officers and (per Cook) Federal Reserve governors are different. → R-CON-036.
+15. **Humphrey's Executor as current law.** After *Trump v. Slaughter* (2026) [S-300], FTC-type commissioners are removable at will; but Morrison-type inferior officers and (per Cook) Federal Reserve governors are different. → R-CON-036.
 16. **Pardons for state crimes.** The pardon power covers only federal offenses. → R-CON-037.
 17. **Executive agreements override statutes.** They preempt **state** law, but not a prior federal statute. Treaties and statutes: last in time wins. → R-CON-034.
 18. **Chevron deference.** Overruled (*Loper Bright* [VERIFY V-035]); courts decide statutory meaning independently. → R-CON-032.

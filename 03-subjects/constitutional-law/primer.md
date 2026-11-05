@@ -66,7 +66,7 @@ Chinese terms are approximate study aids only (approx.); the full glossary is in
 
 **Federal statute? Find the power.** Congress has no general police power. Ask which listed power supports the law, usually the Commerce Clause (three categories, *Lopez*), the taxing power, the spending power (with the *Dole* conditions), or § 5 of the Fourteenth Amendment (*Boerne* congruence and proportionality). Then check external limits: the Tenth Amendment ban on **commandeering** states (*New York*, *Printz*), and individual rights.
 
-**Executive action? Use Youngstown.** Did Congress authorize it, stay silent, or forbid it? The President's own powers (commander in chief, foreign affairs, pardon, appointment and removal) fill the gaps. Removal changed in 2026: the President may now remove FTC-type commissioners at will (*Trump v. Slaughter* [VERIFY V-034]).
+**Executive action? Use Youngstown.** Did Congress authorize it, stay silent, or forbid it? The President's own powers (commander in chief, foreign affairs, pardon, appointment and removal) fill the gaps. Removal changed in 2026: the President may now remove FTC-type commissioners at will (*Trump v. Slaughter* [S-300]).
 
 **State law affecting business across state lines? Three checks.**
 1. **Preemption:** does a federal law displace it?

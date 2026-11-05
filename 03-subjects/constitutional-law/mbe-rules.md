@@ -44,7 +44,7 @@ status: draft
 - **§ 5 of the Fourteenth Amendment**: congruence and proportionality; no reach to private conduct (R-CON-027). The **Thirteenth Amendment** reaches private racial discrimination (R-CON-028).
 - **Youngstown categories** (R-CON-031); pardon power limited to federal crimes (R-CON-037).
 - **Appointments**: Congress cannot appoint officers who exercise executive power; inferior officers may be appointed by heads of departments or courts (R-CON-035).
-- **Removal**: at-will removal of principal executive officers; Congress cannot reserve removal for itself (R-CON-036). After *Trump v. Slaughter* (2026) [VERIFY V-034], an answer relying on *Humphrey's Executor* to protect an FTC-type commissioner is wrong for current law.
+- **Removal**: at-will removal of principal executive officers; Congress cannot reserve removal for itself (R-CON-036). After *Trump v. Slaughter* (2026) [S-300], an answer relying on *Humphrey's Executor* to protect an FTC-type commissioner is wrong for current law.
 - **Legislative veto** (Chadha) and **line-item veto** (Clinton v. City of New York) are invalid (R-CON-038, R-CON-039).
 - **Nondelegation**: an intelligible principle saves the delegation (R-CON-040).
 - **Immunities**: Speech or Debate covers floor speeches but not press releases; presidential civil immunity covers official acts only (R-CON-041 to R-CON-043).

@@ -127,7 +127,7 @@ Citations are given only where certain. Recent decisions without a U.S. Reports 
 | *Myers v. United States*, 272 U.S. 52 (1926) | No Senate role in removal |
 | *Free Enterprise Fund v. PCAOB*, 561 U.S. 477 (2010) | No double for-cause protection |
 | *Seila Law LLC v. CFPB*, 591 U.S. 197 (2020) | Single-director agency removal protection invalid |
-| *Trump v. Slaughter* (2026) [VERIFY V-034] [S-300] | FTC removal protection invalid; Humphrey's overruled |
+| *Trump v. Slaughter* (2026) [S-300] | FTC removal protection invalid; Humphrey's overruled |
 | *Trump v. Cook* (June 29, 2026) [S-1450] [S-315] | Stay denied 5–4: Federal Reserve governors' for-cause protection treated as valid; removal reviewable; statutory notice and hearing not given (interim posture) |
 | *Lucia v. SEC*, 585 U.S. 237 (2018) | ALJs are officers |
 | *NLRB v. Noel Canning*, 573 U.S. 513 (2014) | Recess appointments: under 10 days presumptively too short (3 or fewer never enough); pro forma sessions count |
@@ -139,7 +139,7 @@ Citations are given only where certain. Recent decisions without a U.S. Reports 
 | *Clinton v. Jones*, 520 U.S. 681 (1997) | No immunity for unofficial pre-office conduct |
 | *United States v. Nixon*, 418 U.S. 683 (1974) | Executive privilege yields to criminal-trial need |
 | *Trump v. United States* (2024) [VERIFY V-035] | Presidential criminal immunity framework |
-| *Learning Resources, Inc. v. Trump* (2026) [VERIFY V-034] [S-302] | IEEPA does not authorize tariffs |
+| *Learning Resources, Inc. v. Trump* (2026) [S-302] | IEEPA does not authorize tariffs |
 | *Loper Bright Enterprises v. Raimondo* (2024) [VERIFY V-035] | Chevron overruled |
 | *Gravel v. United States*, 408 U.S. 606 (1972) | Speech or Debate covers aides |
 | *Stump v. Sparkman*, 435 U.S. 349 (1978) | Judicial immunity |
@@ -261,8 +261,8 @@ Citations are given only where certain. Recent decisions without a U.S. Reports 
 | *Citizens United v. FEC*, 558 U.S. 310 (2010) | Corporate independent expenditures |
 | *Counterman v. Colorado* (2023) [VERIFY V-035] | True threats: recklessness |
 | *303 Creative LLC v. Elenis* (2023) [VERIFY V-035] | Compelled expressive services |
-| *Chiles v. Salazar* (2026) [VERIFY V-034] [S-306] | Talk-therapy ban viewpoint-based: strict scrutiny |
-| *NRSC v. FEC* (2026) [VERIFY V-034] [S-312] | Party coordinated-expenditure limits invalid |
+| *Chiles v. Salazar* (2026) [S-306] | Talk-therapy ban viewpoint-based: strict scrutiny |
+| *NRSC v. FEC* (2026) [S-312] | Party coordinated-expenditure limits invalid |
 
 ### Amendments XIII–XV
 | Case | Holding / rule |
@@ -271,6 +271,6 @@ Citations are given only where certain. Recent decisions without a U.S. Reports 
 | *Selective Draft Law Cases*, 245 U.S. 366 (1918) | Draft not involuntary servitude |
 | *United States v. Kozminski*, 487 U.S. 931 (1988) | Physical or legal coercion required |
 | *United States v. Wong Kim Ark*, 169 U.S. 649 (1898) | Birthright citizenship |
-| *Trump v. Barbara* (2026) [VERIFY V-034] [S-304] | Birthright-citizenship executive order invalid |
+| *Trump v. Barbara* (2026) [S-304] | Birthright-citizenship executive order invalid |
 | *Afroyim v. Rusk*, 387 U.S. 253 (1967) | No involuntary loss of citizenship |
 | *Rice v. Cayetano*, 528 U.S. 495 (2000) | Ancestry as proxy for race in voting |

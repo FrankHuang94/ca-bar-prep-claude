@@ -50,14 +50,14 @@ Memorize the **"Rule (write this)"** line of each rule in [rule-statements.md](r
 
 ## Recent decisions to know by name (verify before the exam)
 
-- *Trump v. Slaughter* (2026) — removal; Humphrey's overruled [VERIFY V-034] → R-CON-036
-- *Learning Resources v. Trump* (2026) — IEEPA tariffs [VERIFY V-034] → R-CON-032
-- *Trump v. Barbara* (2026) — birthright citizenship [VERIFY V-034] → R-CON-114
-- *Chiles v. Salazar* (2026) — talk-therapy ban, viewpoint-based [VERIFY V-034] → R-CON-093
-- *Louisiana v. Callais* (2026) — racial gerrymander; VRA § 2 [VERIFY V-034] → R-CON-069
-- *Hecox / B.P.J.* (2026) — girls' sports teams; sex classification, intermediate scrutiny [VERIFY V-034] → R-CON-072
-- *Wolford v. Lopez* (2026) — carry on private property [VERIFY V-034] → R-CON-065
-- *NRSC v. FEC* (2026) — party coordinated expenditures [VERIFY V-034] → R-CON-111
-- *First Choice* (2026); *Bost* (2026) — standing and ripeness [VERIFY V-034] → R-CON-009, R-CON-015
+- *Trump v. Slaughter* (2026) — removal; Humphrey's overruled [S-300] → R-CON-036
+- *Learning Resources v. Trump* (2026) — IEEPA tariffs [S-302] → R-CON-032
+- *Trump v. Barbara* (2026) — birthright citizenship [S-304] → R-CON-114
+- *Chiles v. Salazar* (2026) — talk-therapy ban, viewpoint-based [S-306] → R-CON-093
+- *Louisiana v. Callais* (2026) — racial gerrymander; VRA § 2 [S-309] → R-CON-069
+- *Hecox / B.P.J.* (2026) — girls' sports teams; sex classification, intermediate scrutiny [S-307] → R-CON-072
+- *Wolford v. Lopez* (2026) — carry on private property [S-311] → R-CON-065
+- *NRSC v. FEC* (2026) — party coordinated expenditures [S-312] → R-CON-111
+- *First Choice* (2026); *Bost* (2026) — standing and ripeness [S-313] [S-314] → R-CON-009, R-CON-015
 - *Kennedy* (2022), *Bruen* (2022), *Dobbs* (2022) — black-letter changes → R-CON-090, R-CON-065, R-CON-062
 - *SFFA* (2023), *Counterman* (2023), *303 Creative* (2023), *Rahimi* (2024), *Loper Bright* (2024), *Trump v. United States* (2024), *Lindke* (2024), *Skrmetti* (2025), *Mahmoud* (2025) [VERIFY V-035]

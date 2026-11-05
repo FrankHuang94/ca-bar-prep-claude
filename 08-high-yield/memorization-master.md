@@ -148,7 +148,7 @@ This ties the tiers to the five loops in [`spaced-repetition.md`](../01-study-pl
 | PR | A must-know rule includes its **CA vs. ABA line**. Must-know numbers include $1,000 (§ 6148), the 14-day and 45-day trust-account rules, and 30 days / 3 suits (§ 6068(o)). |
 | Criminal | The nice-to-know tier holds rules that are **heavy on the MBE** but rarely central to a California essay: Apprendi, confrontation, Brady, guilty pleas, double jeopardy. Learn their elements for the MBE. If an Evidence crossover is likely, treat confrontation (R-CRM-112) as should-know. |
 | Evidence | Memorize the **California gaps and additions** list (rules with no CEC equivalent, and CEC-only rules) as a list in its own right. |
-| Con Law | Know the recent decisions by name, each tied to its rule ID [VERIFY V-034]. |
+| Con Law | Know the recent decisions by name, each tied to its rule ID (sources in `00-exam-intel/recent-changes.md` §9). |
 | Torts | Use the list's "five-minute daily recall set" (*Rowland*, entrants, *Thing*, *Knight*, products, Prop 51, defamation grid, nuisance) as a daily warm-up from W25. |
 | CP | Memorize the **formulas** (Pereira, Van Camp, Moore/Marsden, time rule) by working one number example each. |
 | Remedies, Contracts | Each list's own mnemonics (CCIFD, I-P-F-B-D, MY LEGS) are collected with the others in [`mnemonics.md`](mnemonics.md). |

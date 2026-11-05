@@ -12,7 +12,7 @@ status: draft
 
 **How to use.** Each block gives a 1–3 sentence rule you can write verbatim, then elements, exceptions, authority and a short example. Constitutional Law on the California essays is **federal** constitutional law, so the MBE rule and the essay rule are almost always the same. Where a California provision could matter, the `MBE vs. CA essay` line says so; the full list is in [ca-distinctions.md](ca-distinctions.md).
 
-**Citation conventions.** Leading cases carry U.S. Reports citations only where certain. Decisions from October Terms 2022–2024 carry `[VERIFY V-035]`; October Term 2025 decisions carry `[VERIFY V-034]` (and an `S-###` source where the holding was confirmed by search); *Trump v. Cook*, *United States v. Hemani* and *Mullin v. Doe* were checked against the opinions in Phase 7 QA and carry only their sources. Other recent decisions are tagged `[VERIFY V-200]`. Plurality opinions, and judgments with no majority opinion, are labelled where cited; on an essay, cite them for the result, not as a majority holding.
+**Citation conventions.** Leading cases carry U.S. Reports citations only where certain. Decisions from October Terms 2022–2024 carry `[VERIFY V-035]`; October Term 2025 decisions confirmed from the opinion by search (supremecourt.gov or Cornell LII) carry only their `S-###` source; *Ellingburg v. United States*, which has no logged source yet, still carries `[VERIFY V-034]`. Other recent decisions are tagged `[VERIFY V-200]`. Plurality opinions, and judgments with no majority opinion, are labelled where cited; on an essay, cite them for the result, not as a majority holding.
 
 ---
 
@@ -129,7 +129,7 @@ status: draft
 
 **Elements:** 1. Economic, physical, aesthetic, environmental or constitutional (e.g., chilled speech) harm. 2. Future harm must be "certainly impending" or a "substantial risk" (Clapper; SBA List). 3. Bare procedural violations without concrete harm do not suffice (Spokeo; TransUnion).
 
-**Exceptions / defenses:** Self-inflicted costs incurred to avoid speculative harm do not create standing (Clapper). Organizations cannot spend their way into standing by diverting resources to oppose a policy (FDA v. Alliance for Hippocratic Medicine [VERIFY V-035]). A candidate has a personal stake in the rules for counting votes in his own election (Bost v. Illinois State Bd. of Elections (2026) [VERIFY V-034] [S-314]).
+**Exceptions / defenses:** Self-inflicted costs incurred to avoid speculative harm do not create standing (Clapper). Organizations cannot spend their way into standing by diverting resources to oppose a policy (FDA v. Alliance for Hippocratic Medicine [VERIFY V-035]). A candidate has a personal stake in the rules for counting votes in his own election (Bost v. Illinois State Bd. of Elections (2026) [S-314]).
 
 **Authority:** *Lujan*, 504 U.S. 555; *Clapper v. Amnesty Int'l USA*, 568 U.S. 398 (2013); *Spokeo, Inc. v. Robins*, 578 U.S. 330 (2016); *TransUnion*, 594 U.S. 413; *Summers v. Earth Island Inst.*, 555 U.S. 488 (2009).
 
@@ -207,7 +207,7 @@ status: draft
 
 **Elements:** Abbott Labs factors; SBA List pre-enforcement test. A person need not violate the law and risk prosecution first (Steffel).
 
-**Exceptions / defenses:** No ripeness if there is no realistic threat of enforcement (Poe v. Ullman, plurality opinion) or the facts are too contingent (United Public Workers v. Mitchell). A state investigative subpoena demanding donor information inflicts a present First Amendment injury even before a court orders compliance (First Choice Women's Resource Centers v. Davenport (2026) [VERIFY V-034] [S-313]).
+**Exceptions / defenses:** No ripeness if there is no realistic threat of enforcement (Poe v. Ullman, plurality opinion) or the facts are too contingent (United Public Workers v. Mitchell). A state investigative subpoena demanding donor information inflicts a present First Amendment injury even before a court orders compliance (First Choice Women's Resource Centers v. Davenport (2026) [S-313]).
 
 **Authority:** *Abbott Labs. v. Gardner*, 387 U.S. 136 (1967); *Steffel v. Thompson*, 415 U.S. 452 (1974); *Susan B. Anthony List v. Driehaus*, 573 U.S. 149 (2014); *Poe v. Ullman*, 367 U.S. 497 (1961) (plurality opinion); *Babbitt v. United Farm Workers*, 442 U.S. 289 (1979).
 
@@ -393,7 +393,7 @@ status: draft
 
 **Elements:** 1. Rational, remedial voting legislation (South Carolina v. Katzenbach). 2. Disparate treatment of states requires current needs (Shelby County: the preclearance coverage formula is unconstitutional).
 
-**Exceptions / defenses:** Vote-dilution claims under VRA § 2 are statutory; Louisiana v. Callais (2026) now requires a strong inference of intentional discrimination [VERIFY V-034] [S-309].
+**Exceptions / defenses:** Vote-dilution claims under VRA § 2 are statutory; Louisiana v. Callais (2026) now requires a strong inference of intentional discrimination [S-309].
 
 **Authority:** U.S. Const. amend. XV, § 2; *South Carolina v. Katzenbach*, 383 U.S. 301 (1966); *Shelby County v. Holder*, 570 U.S. 529 (2013); 52 U.S.C. § 10301.
 
@@ -432,7 +432,7 @@ status: draft
 
 **Elements:** 1. Executive orders valid only if grounded in the Constitution or a statute. 2. Impoundment of mandated appropriations not allowed (Train, decided on statutory grounds). 3. Major questions: for decisions of vast economic and political significance, an agency or the President needs clear congressional authorization (West Virginia v. EPA; Biden v. Nebraska [VERIFY V-200]). 4. Courts decide statutory meaning independently; no Chevron deference (Loper Bright [VERIFY V-035]).
 
-**Exceptions / defenses:** IEEPA's power to "regulate ... importation" does not authorize tariffs (Learning Resources, Inc. v. Trump (2026) [VERIFY V-034] [S-302] [S-303]).
+**Exceptions / defenses:** IEEPA's power to "regulate ... importation" does not authorize tariffs (Learning Resources, Inc. v. Trump (2026) [S-302] [S-303]).
 
 **Authority:** U.S. Const. art. II, §§ 1, 3; *Train v. City of New York*, 420 U.S. 35 (1975); *West Virginia v. EPA*, 597 U.S. 697 (2022); *Loper Bright Enterprises v. Raimondo* (2024) [VERIFY V-035].
 
@@ -482,9 +482,9 @@ status: draft
 ### R-CON-036 — Removal power
 **Rule (write this):** The President may remove principal executive officers at will, and Congress may not reserve a role for itself in removal other than impeachment. After Trump v. Slaughter (2026), statutory for-cause protection for officers of an agency that wields substantial executive power, such as the FTC, is unconstitutional; Congress may still give limited for-cause protection to inferior officers with narrow duties.
 
-**Elements:** 1. Principal officer exercising executive power → at-will removal (Myers; Seila Law; Slaughter [VERIFY V-034] [S-300] [S-301]). 2. Inferior officer → Congress may limit removal by a principal officer to good cause if this does not impede the President's duty (Morrison). 3. No two layers of for-cause protection (Free Enterprise Fund). 4. No congressional removal except by impeachment (Bowsher; Myers).
+**Elements:** 1. Principal officer exercising executive power → at-will removal (Myers; Seila Law; Slaughter [S-300] [S-301]). 2. Inferior officer → Congress may limit removal by a principal officer to good cause if this does not impede the President's duty (Morrison). 3. No two layers of for-cause protection (Free Enterprise Fund). 4. No congressional removal except by impeachment (Bowsher; Myers).
 
-**Exceptions / defenses:** Federal Reserve governors: denying the President's stay application (5–4) in an interim-docket opinion, the Court treated their for-cause protection as consistent with Article II because of the Federal Reserve's distinct history, held that a for-cause removal is judicially reviewable, and found that the President had not given the governor the procedural protections (notice and an opportunity to be heard) the statute entitles her to; it left the meaning of "cause" largely undefined (Trump v. Cook (June 29, 2026)) [S-1450] [S-1451] [S-315]. *Humphrey's Executor* (1935) is overruled [VERIFY V-034].
+**Exceptions / defenses:** Federal Reserve governors: denying the President's stay application (5–4) in an interim-docket opinion, the Court treated their for-cause protection as consistent with Article II because of the Federal Reserve's distinct history, held that a for-cause removal is judicially reviewable, and found that the President had not given the governor the procedural protections (notice and an opportunity to be heard) the statute entitles her to; it left the meaning of "cause" largely undefined (Trump v. Cook (June 29, 2026)) [S-1450] [S-1451] [S-315]. *Humphrey's Executor* (1935) is overruled [S-300].
 
 **Authority:** U.S. Const. art. II, §§ 1, 3; *Myers v. United States*, 272 U.S. 52 (1926); *Humphrey's Executor v. United States*, 295 U.S. 602 (1935) (overruled); *Morrison v. Olson*, 487 U.S. 654 (1988); *Free Enterprise Fund v. PCAOB*, 561 U.S. 477 (2010); *Seila Law LLC v. CFPB*, 591 U.S. 197 (2020); *Collins v. Yellen*, 594 U.S. 220 (2021); *Bowsher v. Synar*, 478 U.S. 714 (1986).
 
@@ -871,7 +871,7 @@ status: draft
 
 **Elements:** 1. Text: "the people," "arms," "keep and bear." 2. Historical tradition: why and how the law burdens the right (Rahimi [VERIFY V-035]). No means-end scrutiny (Bruen).
 
-**Exceptions / defenses:** Presumptively lawful: bans on possession by felons and the mentally ill, sensitive-place restrictions, conditions on commercial sale (Heller). Temporarily disarming a person a court found to pose a credible threat is valid (Rahimi). A default ban on carry onto private property open to the public absent owner consent is invalid (Wolford v. Lopez (2026) [VERIFY V-034] [S-311]). 18 U.S.C. § 922(g)(3) is invalid as applied to a defendant prosecuted solely because of his marijuana use, without individualized proof that the use made him dangerous; the Court did not decide a prosecution resting on such proof or the statute's application to addicts (United States v. Hemani (June 18, 2026)) [S-316] [S-1452].
+**Exceptions / defenses:** Presumptively lawful: bans on possession by felons and the mentally ill, sensitive-place restrictions, conditions on commercial sale (Heller). Temporarily disarming a person a court found to pose a credible threat is valid (Rahimi). A default ban on carry onto private property open to the public absent owner consent is invalid (Wolford v. Lopez (2026) [S-311]). 18 U.S.C. § 922(g)(3) is invalid as applied to a defendant prosecuted solely because of his marijuana use, without individualized proof that the use made him dangerous; the Court did not decide a prosecution resting on such proof or the statute's application to addicts (United States v. Hemani (June 18, 2026)) [S-316] [S-1452].
 
 **Authority:** U.S. Const. amend. II; *District of Columbia v. Heller*, 554 U.S. 570 (2008); *McDonald v. City of Chicago*, 561 U.S. 742 (2010); *New York State Rifle & Pistol Ass'n v. Bruen*, 597 U.S. 1 (2022); *United States v. Rahimi* (2024) [VERIFY V-035].
 
@@ -923,7 +923,7 @@ status: draft
 ### R-CON-069 — Race in redistricting
 **Rule (write this):** A districting plan in which race was the predominant factor in drawing lines is subject to strict scrutiny; plaintiffs must disentangle race from politics, and courts presume the legislature acted in good faith. Partisan gerrymandering claims are nonjusticiable in federal court.
 
-**Elements:** 1. Predominance of race over traditional principles (Shaw; Miller). 2. Strict scrutiny: compliance with the Voting Rights Act was assumed compelling, but after Louisiana v. Callais (2026) VRA § 2 requires a strong inference of intentional discrimination and did not require the challenged majority-minority district [VERIFY V-034] [S-309] [S-310].
+**Elements:** 1. Predominance of race over traditional principles (Shaw; Miller). 2. Strict scrutiny: compliance with the Voting Rights Act was assumed compelling, but after Louisiana v. Callais (2026) VRA § 2 requires a strong inference of intentional discrimination and did not require the challenged majority-minority district [S-309] [S-310].
 
 **Exceptions / defenses:** Alexander v. South Carolina State Conference of NAACP (2024) [VERIFY V-200] stressed the good-faith presumption.
 
@@ -966,7 +966,7 @@ status: draft
 
 **Exceptions / defenses:** Whether transgender status is a quasi-suspect class remains unresolved by a majority.
 
-**Authority:** *United States v. Skrmetti* (2025) [VERIFY V-035]; *Little v. Hecox* and *West Virginia v. B.P.J.* (2026) [VERIFY V-034] [S-307] [S-308].
+**Authority:** *United States v. Skrmetti* (2025) [VERIFY V-035]; *Little v. Hecox* and *West Virginia v. B.P.J.* (2026) [S-307] [S-308].
 
 **MBE vs. CA essay:** same federal rule. On an essay, argue both tiers if the classification could be framed as sex-based.
 
@@ -1239,7 +1239,7 @@ status: draft
 
 **Elements:** 1. Compelling interest. 2. Necessity and least restrictive means; not over- or under-inclusive. 3. Compelled speech: forced pledge (Barnette), license-plate motto (Wooley), parade inclusion (Hurley), custom expressive services (303 Creative [VERIFY V-035]), mandated notices by pregnancy centers (NIFLA).
 
-**Exceptions / defenses:** Rare survivors: campaign-free zone around polling places (Burson, plurality opinion), judicial-candidate solicitation ban (Williams-Yulee), material support to terrorist groups (Holder v. HLP). A viewpoint-based ban on talk therapy by licensed counselors gets strict scrutiny (Chiles v. Salazar (2026) [VERIFY V-034] [S-306]). Age verification for online sexual material obscene for minors gets intermediate scrutiny because it only incidentally burdens adults (Free Speech Coalition v. Paxton (2025) [VERIFY V-035]).
+**Exceptions / defenses:** Rare survivors: campaign-free zone around polling places (Burson, plurality opinion), judicial-candidate solicitation ban (Williams-Yulee), material support to terrorist groups (Holder v. HLP). A viewpoint-based ban on talk therapy by licensed counselors gets strict scrutiny (Chiles v. Salazar (2026) [S-306]). Age verification for online sexual material obscene for minors gets intermediate scrutiny because it only incidentally burdens adults (Free Speech Coalition v. Paxton (2025) [VERIFY V-035]).
 
 **Authority:** *Brown v. Entertainment Merchants Ass'n*, 564 U.S. 786 (2011); *Burson v. Freeman*, 504 U.S. 191 (1992) (plurality opinion); *Williams-Yulee v. Florida Bar*, 575 U.S. 433 (2015); *West Virginia State Bd. of Educ. v. Barnette*, 319 U.S. 624 (1943); *Wooley v. Maynard*, 430 U.S. 705 (1977); *Hurley v. Irish-American Gay, Lesbian & Bisexual Group of Boston*, 515 U.S. 557 (1995); *NIFLA v. Becerra*, 585 U.S. 755 (2018).
 
@@ -1460,7 +1460,7 @@ status: draft
 
 **Elements:** Membership penalties (Scales); disclosure (NAACP v. Alabama; AFP v. Bonta, whose general statement that exacting scrutiny requires narrow tailoring was in a three-Justice part of the opinion, though the majority applied narrow tailoring to strike California's rule); expressive association (Roberts; Dale); intimate association (small, selective family-like groups).
 
-**Exceptions / defenses:** Antidiscrimination laws applied to large, unselective organizations do not significantly burden expression (Roberts; Rotary). A state donor-information subpoena inflicts present associational injury (First Choice (2026) [VERIFY V-034] [S-313]).
+**Exceptions / defenses:** Antidiscrimination laws applied to large, unselective organizations do not significantly burden expression (Roberts; Rotary). A state donor-information subpoena inflicts present associational injury (First Choice (2026) [S-313]).
 
 **Authority:** *NAACP v. Alabama ex rel. Patterson*, 357 U.S. 449 (1958); *Scales v. United States*, 367 U.S. 203 (1961); *Roberts v. United States Jaycees*, 468 U.S. 609 (1984); *Board of Directors of Rotary Int'l v. Rotary Club of Duarte*, 481 U.S. 537 (1987); *Boy Scouts of America v. Dale*, 530 U.S. 640 (2000); *Americans for Prosperity Found. v. Bonta*, 594 U.S. 595 (2021); *California Democratic Party v. Jones*, 530 U.S. 567 (2000).
 
@@ -1473,7 +1473,7 @@ status: draft
 
 **Elements:** Expenditures (Buckley; Citizens United); contributions (Buckley; McCutcheon, plurality opinion: aggregate limits invalid); only quid pro quo corruption counts (Cruz).
 
-**Exceptions / defenses:** Federal limits on political parties' coordinated expenditures with candidates violate the First Amendment (NRSC v. FEC (2026) [VERIFY V-034] [S-312]).
+**Exceptions / defenses:** Federal limits on political parties' coordinated expenditures with candidates violate the First Amendment (NRSC v. FEC (2026) [S-312]).
 
 **Authority:** *Buckley v. Valeo*, 424 U.S. 1 (1976); *Citizens United v. FEC*, 558 U.S. 310 (2010); *McCutcheon v. FEC*, 572 U.S. 185 (2014) (plurality opinion); *FEC v. Ted Cruz for Senate*, 596 U.S. 289 (2022); *Doe v. Reed*, 561 U.S. 186 (2010).
 
@@ -1516,7 +1516,7 @@ status: draft
 
 **Elements:** 1. Birth or naturalization in the U.S. 2. "Subject to the jurisdiction thereof" (ordinary legal sense).
 
-**Exceptions / defenses:** The executive order limiting birthright citizenship for children of unlawfully or temporarily present parents is invalid (Trump v. Barbara (2026) [VERIFY V-034] [S-304] [S-305]).
+**Exceptions / defenses:** The executive order limiting birthright citizenship for children of unlawfully or temporarily present parents is invalid (Trump v. Barbara (2026) [S-304] [S-305]).
 
 **Authority:** U.S. Const. amend. XIV, § 1; *United States v. Wong Kim Ark*, 169 U.S. 649 (1898); *Afroyim v. Rusk*, 387 U.S. 253 (1967); *Vance v. Terrazas*, 444 U.S. 252 (1980).
 
