@@ -1,0 +1,432 @@
+questions:
+- id: Q-PRP-0131
+  subject: PRP
+  coverage_ids: [PRP-MBE-IV.A.1.b]
+  rule_ids: [R-PRP-090, R-PRP-100]
+  difficulty: 3
+  stem: >-
+    Sela agreed to sell a lakeside lot to Ben for $500,000. Ben paid $50,000 of the price in cash and borrowed $350,000
+    of it from Delta Bank, and Sela agreed to accept Ben's promissory note for the remaining $100,000. At the closing,
+    Ben signed and delivered one mortgage on the lot to Delta Bank and another to Sela, each securing its own loan, and
+    the two mortgages were recorded at the same moment. Delta Bank knew of Sela's mortgage, and neither Sela nor Delta
+    agreed to subordinate its mortgage to the other. Ben has defaulted on both loans, and the lot is now worth $300,000.
+  call: "Which mortgage has priority?"
+  options:
+    A: "Delta Bank's, because the bank's loan supplied most of the price that Ben paid for the lot."
+    B: "Sela's, because a seller's purchase-money mortgage generally outranks a third-party lender's."
+    C: "Neither, because mortgages recorded at the same moment share equally in the proceeds of a foreclosure sale."
+    D: "Delta Bank's, because a lender's purchase-money mortgage has priority over every other lien on the land."
+  answer: B
+  explanation_correct: >-
+    B is correct. Both mortgages are purchase-money mortgages, because each secures credit that Ben used to buy the
+    lot (R-PRP-090). When a seller and a third-party lender both take purchase-money mortgages, the seller's mortgage
+    generally has priority unless the seller agrees otherwise, because the seller is parting with the land itself
+    (R-PRP-090). The recording act does not change that order here: the mortgages were recorded simultaneously, and
+    Delta knew of Sela's mortgage (R-PRP-100). Sela did not agree to subordinate, so her mortgage is first.
+  explanation_each_wrong_option:
+    A: >-
+      The size of each creditor's contribution does not decide priority. Between a seller's and a third-party
+      lender's purchase-money mortgages, the seller's generally comes first (R-PRP-090).
+    C: >-
+      Competing purchase-money mortgages are not ranked equally. The seller's mortgage generally has priority over the
+      third-party lender's (R-PRP-090).
+    D: >-
+      A purchase-money mortgage has special priority over earlier liens against the buyer, such as judgment liens that
+      attach when the buyer takes title (R-PRP-090). It does not outrank the seller's own purchase-money mortgage.
+  trap_type: confused-rule
+  authority: ["Common law: priority of purchase-money mortgages"]
+  source: original
+  tags: [wave2, W2b-PRP, purchase-money-mortgages, priority]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-PRP-0132
+  subject: PRP
+  coverage_ids: [PRP-MBE-IV.A.3, PRP-MBE-V.D.1]
+  rule_ids: [R-PRP-088, R-PRP-117, R-PRP-116]
+  difficulty: 3
+  stem: >-
+    In 2023 Ola, about to lose her house, worth $400,000, to foreclosure, borrowed $120,000 from Lenz. At Lenz's
+    insistence, Ola signed and delivered to him a deed of the house that was absolute on its face, and Lenz recorded
+    it. They agreed orally that Ola would keep living in the house, pay Lenz $1,500 a month, and could have the house
+    back by paying him $130,000 within two years. Ola stayed in the house and made every payment. In 2024 Lenz sold and
+    conveyed the house to Pryor for $390,000. Pryor examined the land records, which showed Lenz as the owner, but he
+    never visited the house or spoke with Ola. Within the two years, Ola tendered $130,000 to Lenz and to Pryor and
+    demanded a reconveyance; both refused. The jurisdiction's recording act provides: "No conveyance of real property
+    is good against a subsequent purchaser for value and without notice, unless it is recorded."
+  call: "As between Ola and Pryor, what is the most likely result?"
+  options:
+    A: "Ola may redeem the house, because her deed was an equitable mortgage, and Pryor took with notice of her rights."
+    B: "Pryor keeps the house, because the deed was absolute on its face, and Pryor relied on the land records."
+    C: "Pryor keeps the house, because the oral repurchase agreement is barred by the statute of frauds and cannot be proved."
+    D: "Ola recovers the house without paying anything, because a deed given to secure a loan is void."
+  answer: A
+  explanation_correct: >-
+    A is correct. A deed that is absolute on its face but was given to secure a debt is an equitable mortgage; the
+    grantor may prove the security purpose by parol evidence and may redeem by paying the debt (R-PRP-088). Ola's
+    financial distress, a $120,000 loan against a $400,000 house, her continued possession and payments, and her right
+    to buy the house back all show a security transaction. A purchaser from the grantee who takes for value and
+    without notice may take free of the grantor's equity (R-PRP-088), but Pryor is not such a purchaser. A buyer is
+    charged with inquiry notice of the rights of someone other than the seller who is in possession (R-PRP-117), and
+    Ola was living in the house. The recording act protects only a purchaser without notice (R-PRP-116), so Pryor took
+    subject to Ola's right to redeem.
+  explanation_each_wrong_option:
+    B: >-
+      Checking the land records is not enough when someone other than the record owner is in possession. Ola's
+      occupancy put Pryor on inquiry notice, so he is not a purchaser without notice under the recording act
+      (R-PRP-116, R-PRP-117).
+    C: >-
+      The security purpose of a deed absolute on its face may be proved by parol evidence despite the deed's form
+      (R-PRP-088).
+    D: >-
+      A deed given as security is not void; it is treated as a mortgage. Ola may get the house back only by paying the
+      debt it secures (R-PRP-088).
+  trap_type: missing-element
+  authority: ["Common law: equitable mortgages", "Recording act (quoted in the stem)"]
+  source: original
+  tags: [wave2, W2b-PRP, equitable-mortgage, absolute-deed, inquiry-notice]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-PRP-0133
+  subject: PRP
+  coverage_ids: [PRP-MBE-IV.B.2, PRP-MBE-IV.B.3]
+  rule_ids: [R-PRP-087, R-PRP-092]
+  difficulty: 3
+  stem: >-
+    Rhee owns a small office building subject to a mortgage held by Summit Bank, which secures Rhee's $900,000 note. The
+    mortgage says nothing about possession or rents. The jurisdiction follows the intermediate theory of mortgages.
+    After Rhee missed four monthly payments, Summit, without going to court and without any breach of the peace, took
+    over the building's management office, to which Rhee made no objection, and notified the tenants to pay their rent
+    to Summit. Over three months Summit collected $60,000 in rents, spent $8,000 on necessary repairs, and credited the
+    remaining $52,000 to Rhee's debt. Rhee then sued to recover possession of the building and the $60,000.
+  call: "What is the most likely result?"
+  options:
+    A: "Rhee prevails on both claims, because a mortgagee may not take possession before foreclosure without an assignment of rents."
+    B: "Rhee recovers possession but not the rents, because only a title-theory mortgagee may take possession before foreclosure."
+    C: "Summit prevails, and it may also keep the $52,000 as compensation for managing the building."
+    D: "Summit prevails, because after default it was entitled to possession, and it properly applied the net rents to the debt."
+  answer: D
+  explanation_correct: >-
+    D is correct. Under the intermediate theory, the mortgagor keeps title and possession until default; on default,
+    title and the right to possession pass to the mortgagee (R-PRP-087). Summit took possession peaceably after Rhee
+    defaulted, so it was entitled to do so. A mortgagee in possession must manage the property prudently, account for
+    the rents it collects and apply them to the debt (R-PRP-092). Summit spent $8,000 on necessary repairs and credited
+    the rest to Rhee's debt, as the law requires. Rhee recovers neither possession nor the rents.
+  explanation_each_wrong_option:
+    A: >-
+      That describes the lien theory, under which the mortgagee may not take possession before foreclosure without
+      consent and usually reaches the rents through an assignment of rents or a receiver (R-PRP-087, R-PRP-092). This
+      jurisdiction follows the intermediate theory.
+    B: >-
+      Under the intermediate theory, the right to possession passes to the mortgagee on default (R-PRP-087); it is not
+      limited to title-theory states. With possession comes the right to collect the rents, subject to the duty to
+      account.
+    C: >-
+      A mortgagee in possession must apply the net rents to the mortgage debt (R-PRP-092). It may not keep them as a
+      fee and also collect the full debt.
+  trap_type: wrong-standard
+  authority: ["Common law: lien, title and intermediate theories of mortgages", "Common law: duties of a mortgagee in possession"]
+  source: original
+  tags: [wave2, W2b-PRP, mortgage-theories, mortgagee-in-possession]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-PRP-0134
+  subject: PRP
+  coverage_ids: [PRP-MBE-IV.C.1, PRP-MBE-IV.C.2]
+  rule_ids: [R-PRP-094, R-PRP-095, R-PRP-102, R-CTR-045, R-CTR-110]
+  difficulty: 2
+  stem: >-
+    Nora borrowed $300,000 from Pinecrest Bank, signing a note secured by a recorded mortgage on her duplex. In 2022
+    Nora sold the duplex to Omar by a deed stating: "Grantee assumes and agrees to pay the existing mortgage debt owed
+    to Pinecrest Bank, as part of the consideration for this conveyance." The price Omar paid Nora was reduced by the
+    mortgage balance. Only Nora signed the deed; Omar accepted it, recorded it and took possession, but he never signed
+    any document. Omar later defaulted, and a foreclosure sale left a $40,000 deficiency. No statute limits deficiency
+    judgments. Pinecrest sued Omar for the deficiency, and Omar argues that he never signed any promise to pay the debt.
+  call: "Is Pinecrest likely to obtain a deficiency judgment against Omar?"
+  options:
+    A: "No, because a promise to pay another person's debt is unenforceable unless it is signed by the promisor."
+    B: "No, because Pinecrest was not a party to the deed and cannot enforce a promise that Omar made to Nora."
+    C: "Yes, because Omar became bound by the assumption clause by accepting the deed, and Pinecrest may enforce it."
+    D: "Yes, but only after Pinecrest has first tried and failed to collect the deficiency from Nora."
+  answer: C
+  explanation_correct: >-
+    C is correct. A buyer who expressly assumes a mortgage becomes personally liable to the lender as the primary
+    obligor, and the lender may enforce the promise as an intended beneficiary (R-PRP-094, R-CTR-110). A grantee who
+    accepts a deed containing an assumption clause is bound by it even though only the grantor signed; Omar accepted
+    and recorded the deed, took possession, and paid a price reduced by the mortgage balance. The suretyship provision
+    of the statute of frauds does not apply, because Omar's promise was made to Nora, the debtor, to pay her debt
+    (R-CTR-045). With no statute limiting deficiencies, Pinecrest may obtain a deficiency judgment against Omar
+    (R-PRP-102).
+  explanation_each_wrong_option:
+    A: >-
+      The suretyship provision of the statute of frauds covers a promise made to a creditor to answer for another's
+      debt; a promise made to the debtor is outside it (R-CTR-045). Omar's assumption was a promise to Nora.
+    B: >-
+      A lender is an intended beneficiary of a grantee's promise to the mortgagor to pay the mortgage debt and may
+      enforce that promise directly (R-PRP-094, R-CTR-110).
+    D: >-
+      After an assumption, the assuming grantee is the principal obligor and the original mortgagor stands as a
+      surety (R-PRP-094, R-PRP-095). The lender may sue the assuming grantee without first pursuing Nora.
+  trap_type: confused-rule
+  authority: ["Common law: assumption of mortgages by grantees", "Statute of frauds: suretyship provision", "Common law: third-party beneficiaries"]
+  source: original
+  tags: [wave2, W2b-PRP, assumption, transfers-by-mortgagor]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-PRP-0135
+  subject: PRP
+  coverage_ids: [PRP-MBE-IV.E.2, PRP-MBE-IV.B.4]
+  rule_ids: [R-PRP-093, R-PRP-098, R-PRP-110]
+  difficulty: 2
+  stem: >-
+    Vanya borrowed $200,000 from Wexler, a private lender, to renovate her rental house, then worth $350,000, and gave
+    Wexler a recorded mortgage on it. As a condition of making the loan, Wexler also required Vanya to sign, at the same
+    closing, a deed conveying the house to Wexler. The deed was placed with an escrow agent under written instructions
+    to deliver it to Wexler "if any payment is more than 30 days late, in full satisfaction of the loan." Two years
+    later Vanya paid an installment 45 days late, and the escrow agent delivered the deed to Wexler, who recorded it and
+    demanded possession. Vanya promptly tendered the full unpaid balance with interest; Wexler refused it, and Vanya
+    sued to set aside the deed.
+  call: "What is the most likely result?"
+  options:
+    A: "Vanya prevails, because a deed exacted at the loan's inception to take effect on default is a void clog."
+    B: "Vanya prevails, but only if she proves that the house was worth substantially more than the loan balance."
+    C: "Wexler prevails, because the condition in the escrow instructions occurred, so the deed took effect on delivery."
+    D: "Wexler prevails, because a deed in lieu of foreclosure is valid when it satisfies the entire debt."
+  answer: A
+  explanation_correct: >-
+    A is correct. Before foreclosure, a mortgagor has an equity of redemption that cannot be waived or cut off in the
+    mortgage transaction itself; a provision made when the loan is made that lets the lender take the property on
+    default without foreclosing, such as a deed held in escrow for delivery on default, is void as a clog on the
+    equity of redemption (R-PRP-093). A deed in lieu of foreclosure is valid only if given voluntarily after default
+    for adequate consideration (R-PRP-098). Wexler extracted this deed as a condition of the loan, so it is
+    unenforceable. Vanya may redeem by paying the debt, and Wexler must foreclose if she does not.
+  explanation_each_wrong_option:
+    B: >-
+      Clogging does not depend on proof of the property's value. A provision in the original loan transaction that
+      cuts off redemption is void (R-PRP-093).
+    C: >-
+      An escrow passes title when its conditions are met (R-PRP-110), but the escrow cannot validate a deed that is
+      itself a void clog on the equity of redemption (R-PRP-093).
+    D: >-
+      A deed in lieu is valid when given voluntarily after default for adequate consideration (R-PRP-098). A deed
+      extracted when the loan is made, as a substitute for foreclosure, is a clog whatever it says about satisfying
+      the debt (R-PRP-093).
+  trap_type: exception-trap
+  authority: ["Common law: equity of redemption and clogging", "Common law: deeds in lieu of foreclosure"]
+  source: original
+  tags: [wave2, W2b-PRP, deed-in-lieu, clogging, equity-of-redemption]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-PRP-0136
+  subject: PRP
+  coverage_ids: [PRP-MBE-IV.E.1]
+  rule_ids: [R-PRP-098, R-PRP-093, R-PRP-017]
+  difficulty: 2
+  stem: >-
+    Halvorsen Partners borrowed $4 million from Granite Life to buy an office building, signing a ten-year note secured
+    by a recorded mortgage on the building. The note provides: "Borrower may not prepay this Note, in whole or in part,
+    before the seventh anniversary of its date." The mortgage contains no due-on-sale clause, and no statute governs
+    the prepayment of commercial loans. In the fourth year, Halvorsen agreed to sell the building to a buyer who
+    insisted on taking title free of the mortgage. Halvorsen tendered to Granite the full principal balance plus
+    accrued interest and demanded a release of the mortgage, but Granite refused. Halvorsen sued to compel Granite to
+    accept the tender and release the mortgage.
+  call: "Is Halvorsen likely to prevail?"
+  options:
+    A: "Yes, because a mortgagor may always redeem the property by paying the full amount of the debt."
+    B: "Yes, because a clause forbidding prepayment is an unreasonable restraint on the alienation of the building."
+    C: "No, because Halvorsen has no right to prepay except as the loan terms permit."
+    D: "Yes, but only if Halvorsen pays a reasonable prepayment premium in an amount fixed by the court."
+  answer: C
+  explanation_correct: >-
+    C is correct. At common law a borrower has no right to prepay a mortgage loan before maturity except as the loan
+    terms permit (R-PRP-098). This commercial note expressly forbids prepayment before its seventh anniversary, no
+    statute governs commercial prepayment, and there is no due-on-sale clause that would make the debt due on a sale.
+    Granite may hold Halvorsen to the bargain and refuse the tender in the fourth year.
+  explanation_each_wrong_option:
+    A: >-
+      The equity of redemption lets a mortgagor redeem by paying the debt that is due, including an accelerated debt
+      after default (R-PRP-093). It does not give a right to pay off a loan before it is due, contrary to the loan's
+      terms (R-PRP-098).
+    B: >-
+      The clause does not prevent Halvorsen from selling; it limits early payment of the debt, and the building can be
+      sold subject to the mortgage. It is a bargained-for loan term, not a restraint on alienation of the land
+      (R-PRP-017, R-PRP-098).
+    D: >-
+      Courts enforce the prepayment terms the parties agreed to (R-PRP-098). They do not rewrite a prohibition into a
+      right to prepay on payment of a premium the court sets.
+  trap_type: overbroad
+  authority: ["Common law: no right to prepay a mortgage loan except as its terms permit"]
+  source: original
+  tags: [wave2, W2b-PRP, discharge, prepayment]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-PRP-0137
+  subject: PRP
+  coverage_ids: [PRP-MBE-IV.F.1]
+  rule_ids: [R-PRP-099, R-PRP-093, R-PRP-101]
+  difficulty: 1
+  stem: >-
+    A statute in the jurisdiction provides: "A mortgagee may sell mortgaged real property without judicial proceedings
+    only if the mortgage expressly grants a power of sale, and only after giving the notices that this chapter
+    requires." Kemper's mortgage to Ledger Bank contains an acceleration clause but no power of sale. After Kemper
+    defaulted, Ledger accelerated the debt, published a notice of sale for four weeks, and sold the property at a
+    public auction that Ledger itself conducted. Mott, who had no connection with Ledger, bought the property for its
+    fair market value. Kemper sued to set aside the sale.
+  call: "Is the court likely to set aside the sale?"
+  options:
+    A: "No, because Ledger published adequate notice of the sale for four weeks, and Mott paid a fair price."
+    B: "Yes, because the mortgage gave no power of sale, so Ledger could foreclose only in court."
+    C: "No, because Mott bought in good faith for value and without notice of any defect in Ledger's sale."
+    D: "No, because Kemper's only remedy is to recover from Ledger any surplus over the amount of the debt."
+  answer: B
+  explanation_correct: >-
+    B is correct. Judicial foreclosure is available everywhere, but nonjudicial foreclosure is a private sale available
+    only under a power of sale and the statutory procedure (R-PRP-099). The quoted statute limits sales without
+    judicial proceedings to mortgages that expressly grant a power of sale. Kemper's mortgage did not, so Ledger had no
+    authority to conduct a private sale, and its auction did not foreclose Kemper's interest. Ledger must bring a
+    judicial foreclosure action.
+  explanation_each_wrong_option:
+    A: >-
+      Notice and price matter only for a sale the mortgagee had power to conduct. Without a power of sale, notice and
+      a fair price cannot supply the missing authority (R-PRP-099).
+    C: >-
+      Mott's good faith cannot supply a power that the mortgage never granted. A buyer at a foreclosure sale takes
+      only what a valid sale conveys (R-PRP-099, R-PRP-101).
+    D: >-
+      An unauthorized private sale does not cut off the mortgagor's equity of redemption, so Kemper is not limited to
+      a claim for surplus (R-PRP-093, R-PRP-099).
+  trap_type: true-but-irrelevant
+  authority: ["Statute quoted in the stem", "Common law: judicial and power-of-sale foreclosure"]
+  source: original
+  tags: [wave2, W2b-PRP, foreclosure, power-of-sale]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-PRP-0138
+  subject: PRP
+  coverage_ids: [PRP-MBE-IV.F.2]
+  rule_ids: [R-PRP-099, R-PRP-093]
+  difficulty: 1
+  stem: >-
+    Ingram signed a $180,000 note payable in monthly installments of $1,500, secured by a mortgage on his house held by
+    Juniper Bank. Neither the note nor the mortgage contains an acceleration clause. When $150,000 of principal remained
+    unpaid, Ingram missed three installments. Juniper declared the entire $150,000 balance due and brought a judicial
+    action to foreclose for that amount. Before judgment, Ingram tendered the $4,500 in missed installments plus
+    interest and late charges, and Juniper refused the tender.
+  call: "Is Juniper entitled to a judgment of foreclosure for the entire $150,000 balance?"
+  options:
+    A: "Yes, because a default on any installment of a mortgage debt makes the entire debt due."
+    B: "Yes, because Ingram's equity of redemption requires him to pay the full debt to keep the house."
+    C: "No, because Juniper waived any right to accelerate by accepting Ingram's late payments in the past."
+    D: "No, because without an acceleration clause, Juniper may foreclose only for the overdue installments."
+  answer: D
+  explanation_correct: >-
+    D is correct. An acceleration clause lets the lender declare the entire debt due on default; without one, the
+    lender may foreclose only for the installments that are overdue (R-PRP-099). Neither Ingram's note nor his mortgage
+    contains an acceleration clause, so Juniper could not declare the whole $150,000 due. Its foreclosure claim is
+    limited to the overdue installments, which Ingram tendered with interest and late charges.
+  explanation_each_wrong_option:
+    A: >-
+      A default does not make the whole debt due by itself. Acceleration depends on a clause in the note or mortgage
+      (R-PRP-099).
+    B: >-
+      Redemption requires payment of the full debt only when the whole debt has become due, as after a valid
+      acceleration (R-PRP-093). Without an acceleration clause, only the overdue installments are due.
+    C: >-
+      The stem says nothing about earlier late payments, so this rests on facts not given. Juniper loses because the
+      loan has no acceleration clause (R-PRP-099).
+  trap_type: overbroad
+  authority: ["Common law: acceleration of mortgage debt"]
+  source: original
+  tags: [wave2, W2b-PRP, foreclosure, acceleration]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-PRP-0139
+  subject: PRP
+  coverage_ids: [PRP-MBE-IV.F.4]
+  rule_ids: [R-PRP-102]
+  difficulty: 2
+  stem: >-
+    Moss defaulted on a $420,000 loan secured by a mortgage on his office building, and his lender, Nexa Bank, brought
+    a judicial foreclosure action. At the foreclosure sale, Nexa was the only bidder and bought the building for
+    $250,000; the costs of the foreclosure and sale were $10,000. The court found that the building's fair market value
+    on the date of the sale was $340,000. A statute in the jurisdiction provides: "A deficiency judgment shall not
+    exceed the amount by which the mortgage debt, together with the costs of foreclosure and sale, exceeds the greater
+    of the sale price or the fair market value of the property on the date of sale." No other statute limits
+    deficiency judgments.
+  call: "What is the largest deficiency judgment the court may enter against Moss?"
+  options:
+    A: "$0"
+    B: "$80,000"
+    C: "$90,000"
+    D: "$180,000"
+  answer: C
+  explanation_correct: >-
+    C is correct. Without a statute, a deficiency would be the debt plus costs minus the sale price, here $180,000.
+    This jurisdiction, however, limits a deficiency to the amount by which the debt plus costs exceeds the greater of
+    the sale price and the property's fair market value (R-PRP-102). The debt plus costs is $420,000 plus $10,000, or
+    $430,000. The greater of the $250,000 sale price and the $340,000 fair market value is $340,000. The largest
+    permissible deficiency is $430,000 minus $340,000, or $90,000.
+  explanation_each_wrong_option:
+    A: >-
+      A lender that buys at its own foreclosure sale may still obtain a deficiency judgment unless a statute bars
+      one. This statute only limits the amount (R-PRP-102).
+    B: >-
+      $80,000 leaves out the $10,000 of foreclosure and sale costs, which the statute expressly adds to the mortgage
+      debt.
+    D: >-
+      $180,000 measures the deficiency from the $250,000 sale price. The statute requires using the greater of the
+      sale price and the $340,000 fair market value (R-PRP-102).
+  trap_type: other
+  authority: ["Fair-value deficiency statute (quoted in the stem)"]
+  source: original
+  tags: [wave2, W2b-PRP, foreclosure, deficiency, fair-value]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-PRP-0140
+  subject: PRP
+  coverage_ids: [PRP-MBE-IV.F.5, PRP-MBE-IV.B.4]
+  rule_ids: [R-PRP-093, R-PRP-103]
+  difficulty: 1
+  stem: >-
+    After a properly conducted judicial foreclosure of the mortgage on Paz's house, the court confirmed the sale of the
+    house to Quint, the highest bidder, for $310,000, and Quint received a deed. The jurisdiction has no statute giving
+    anyone a right to redeem after a foreclosure sale. Two months after the sale, Paz obtained new financing and
+    tendered to Quint the full amount of the original mortgage debt, with interest and costs, a sum larger than Quint
+    had paid. She demanded that Quint reconvey the house to her, and Quint refused.
+  call: "Is Paz entitled to redeem the house?"
+  options:
+    A: "Yes, by paying Quint's purchase price plus interest, because a mortgagor has one year after a sale to redeem."
+    B: "No, because her equity of redemption ended at the foreclosure sale, and no statute gives a later right."
+    C: "Yes, because she tendered more than Quint paid, so Quint would suffer no loss from a reconveyance."
+    D: "No, because after a foreclosure sale only junior lienholders, not the mortgagor, may redeem."
+  answer: B
+  explanation_correct: >-
+    B is correct. The equity of redemption lets the mortgagor redeem by paying the full debt, but only until the
+    foreclosure sale (R-PRP-093). After a valid sale, a mortgagor may redeem only if a statute gives a statutory right
+    of redemption, which about half the states do (R-PRP-103). This jurisdiction has no such statute, and the sale was
+    properly conducted and confirmed. Paz's right to redeem ended at the sale, so her later tender comes too late.
+  explanation_each_wrong_option:
+    A: >-
+      A right to redeem after the sale by paying the sale price exists only where a statute creates it (R-PRP-103),
+      and the stem says there is none.
+    C: >-
+      Whether Quint would lose money is irrelevant. The question is whether any right to redeem survives the sale,
+      and without a statute none does (R-PRP-093, R-PRP-103).
+    D: >-
+      This reaches the right result for the wrong reason. Junior lienholders, like the mortgagor, may redeem before
+      the sale; after a sale, only a statute gives anyone a right to redeem, and here there is none (R-PRP-093,
+      R-PRP-103).
+  trap_type: procedural-posture
+  authority: ["Common law: equity of redemption ends at the foreclosure sale", "Statutory redemption (none in this jurisdiction)"]
+  source: original
+  tags: [wave2, W2b-PRP, foreclosure, redemption]
+  status: draft
+  last_verified: 2026-11-04

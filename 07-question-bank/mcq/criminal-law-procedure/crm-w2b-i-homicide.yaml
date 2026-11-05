@@ -1,0 +1,303 @@
+# Criminal Law and Procedure — NCBE category I: homicide
+# Original MBE-style items (wave 2, batch B). Generally accepted common-law principles unless the stem
+# names a statute or the Model Penal Code.
+questions:
+- id: Q-CRM-0101
+  subject: CRM
+  coverage_ids: [CRM-MBE-I.A.1]
+  rule_ids: [R-CRM-033, R-CRM-008]
+  difficulty: 2
+  stem: >-
+    A state's statute defines first-degree murder as a "willful, deliberate, and premeditated killing"; all
+    other murder is second-degree murder. A woman decided to kill her business partner after learning that he
+    had been secretly diverting company funds. Over the next week she bought a handgun, practiced at a firing
+    range and learned the partner's daily schedule. One evening she waited in the company parking lot and,
+    when the partner walked out beside his assistant, fired at the partner. The shot missed him and struck and
+    killed the assistant, whom the woman had no wish to harm.
+  call: "What is the most serious crime of which the woman can properly be convicted for the assistant's death?"
+  options:
+    A: "Attempted murder only, because she never intended to kill the assistant."
+    B: "Second-degree murder, because her premeditation was directed only at the partner."
+    C: "First-degree murder, because her premeditated intent transfers to the assistant."
+    D: "Involuntary manslaughter, because the assistant's death was an unintended accident."
+  answer: C
+  explanation_correct: >-
+    C is correct. When a defendant intends to harm one person and causes the same kind of harm to another, her
+    intent transfers to the actual victim (R-CRM-008). What transfers is the whole mental state that actuated
+    the fatal act, including premeditation and deliberation. The week of planning, the purchase of a gun,
+    the practice and the lying in wait show a willful, deliberate and premeditated intent to kill (R-CRM-033),
+    so the killing of the assistant is first-degree murder. She is also guilty of the attempted murder of the
+    partner.
+  explanation_each_wrong_option:
+    A: >-
+      Confused rule. Attempted murder of the partner is a separate crime, but it does not replace liability for
+      the death she actually caused; her intent to kill transfers to the assistant (R-CRM-008).
+    B: >-
+      Transferred intent carries the defendant's mental state as it existed when she fired. Because that state
+      included premeditation and deliberation, the killing is first-degree, not second-degree, murder
+      (R-CRM-008, R-CRM-033).
+    D: >-
+      The woman acted with intent to kill, not with criminal negligence. That the bullet hit an unintended
+      person does not turn an intentional shooting into an accident (R-CRM-008, R-CRM-037).
+  trap_type: confused-rule
+  authority: ["Common law (transferred intent)", "MPC § 2.03(2)(a)"]
+  source: original
+  tags: [wave2, homicide, premeditation, transferred-intent]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CRM-0102
+  subject: CRM
+  coverage_ids: [CRM-MBE-I.A.2]
+  rule_ids: [R-CRM-034, R-CRM-031]
+  difficulty: 2
+  stem: >-
+    A man came home early from a business trip and found his wife in bed with a neighbor. He said quietly to
+    the neighbor, "I've wanted an excuse to get rid of you for years," walked to the hall closet, took out his
+    shotgun, returned to the bedroom and shot the neighbor dead. At trial, the jury is persuaded by the
+    evidence that the man was not angry or upset when he fired and that he acted coolly, seizing the chance to
+    kill a neighbor he had long disliked. The jurisdiction follows the common law of homicide and does not
+    divide murder into degrees.
+  call: "Of which crime is the man most likely to be convicted?"
+  options:
+    A: "Murder, because he was not in fact acting in a heat of passion when he killed."
+    B: "Voluntary manslaughter, because finding a spouse in the act of adultery is adequate provocation."
+    C: "Voluntary manslaughter, because he killed before a reasonable person would have cooled off."
+    D: "Involuntary manslaughter, because he had not planned the killing before he came home."
+  answer: A
+  explanation_correct: >-
+    A is correct. An intentional killing is reduced to voluntary manslaughter only if the defendant (1) faced
+    adequate provocation, (2) was actually provoked into a heat of passion, (3) had no reasonable time to cool
+    and (4) did not actually cool (R-CRM-034). Discovering a spouse in adultery is a traditional category of
+    adequate provocation, but the subjective element is missing: the jury found that the man was calm and
+    killed to settle an old grudge. Without actual passion, the intentional killing remains murder (R-CRM-031).
+  explanation_each_wrong_option:
+    B: >-
+      Missing element. Adequate (objective) provocation is only one requirement; the defendant must also have
+      actually been in a heat of passion when he killed, and the jury found he was not (R-CRM-034).
+    C: >-
+      True but not enough. The absence of cooling time matters only if the defendant was inflamed in the first
+      place; a defendant who was never in a passion gets no mitigation (R-CRM-034).
+    D: >-
+      Lack of advance planning bears on premeditation, which is irrelevant here because the jurisdiction does
+      not grade murder by degree. The man intended to kill, which is express malice, not criminal negligence
+      (R-CRM-031, R-CRM-037).
+  trap_type: missing-element
+  authority: ["Common law (voluntary manslaughter: heat of passion)"]
+  source: original
+  tags: [wave2, homicide, provocation, actual-passion]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CRM-0103
+  subject: CRM
+  coverage_ids: [CRM-MBE-I.B.1, CRM-MBE-IV.D]
+  rule_ids: [R-CRM-035, R-CRM-013, R-CRM-034, R-CRM-031]
+  difficulty: 2
+  stem: >-
+    Angry that his former roommate had testified against him in a civil lawsuit months earlier, a man waited
+    for the roommate outside his gym and beat him with a baseball bat, intending, as he later admitted, to "put
+    him in a wheelchair" but not to kill him. The roommate suffered a fractured skull and severe internal
+    bleeding. At the hospital, doctors told him that he would probably die without a blood transfusion and
+    would very likely survive with one. Because of his sincere religious beliefs, he refused the transfusion,
+    and he died two days later. The jurisdiction follows the common law and does not divide murder into degrees.
+  call: "What is the most serious crime of which the man can properly be convicted?"
+  options:
+    A: "Battery only, because the roommate's refusal of a transfusion was a superseding cause of his death."
+    B: "Involuntary manslaughter, because the man did not intend to kill and the death came from the roommate's choice."
+    C: "Voluntary manslaughter, because the man acted in anger over the roommate's damaging testimony."
+    D: "Murder, because he intended serious bodily injury, and refusing treatment does not break the causal chain."
+  answer: D
+  explanation_correct: >-
+    D is correct. Malice includes an intent to inflict serious bodily injury, so a death caused by such an
+    attack is murder even without intent to kill (R-CRM-035). Causation is also satisfied: the beating was a
+    but-for cause, and a victim's refusal of medical treatment is not an independent, unforeseeable
+    intervening cause that breaks the chain — the defendant takes his victim as he finds him (R-CRM-013).
+  explanation_each_wrong_option:
+    A: >-
+      Confused rule. Only an unforeseeable, independent intervening act breaks the chain; a victim's refusal
+      of treatment for injuries the defendant inflicted does not (R-CRM-013).
+    B: >-
+      Wrong mental state. Intent to inflict serious bodily injury is malice aforethought, which makes the
+      killing murder, not involuntary manslaughter (R-CRM-035, R-CRM-031).
+    C: >-
+      Anger over testimony given months earlier is not adequate provocation, and the man had ample time to
+      cool; the ambush shows a calculated attack, not a sudden heat of passion (R-CRM-034).
+  trap_type: confused-rule
+  authority: ["Common law (malice: intent to inflict serious bodily injury)", "Common law (proximate cause; victim's refusal of treatment)"]
+  source: original
+  tags: [wave2, homicide, intent-to-injure, causation, intervening-cause]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CRM-0104
+  subject: CRM
+  coverage_ids: [CRM-MBE-I.B.2]
+  rule_ids: [R-CRM-038, R-CRM-005, R-CRM-036]
+  difficulty: 2
+  stem: >-
+    The jurisdiction has adopted the Model Penal Code's homicide provisions. A delivery driver who was behind
+    schedule drove through a residential neighborhood at 45 miles per hour in a 25-mile-per-hour zone while
+    reading a text message on his phone. He knew that children lived in the area and that what he was doing
+    was risky, but he decided to take the chance to save time. His van struck and killed a child in a marked
+    crosswalk. The jury finds that the driver consciously disregarded a substantial and unjustifiable risk of
+    death, but that his conduct did not manifest extreme indifference to the value of human life.
+  call: "Of which offense should the driver be convicted?"
+  options:
+    A: "Murder, because he knowingly engaged in dangerous conduct that caused a death."
+    B: "Manslaughter, because he recklessly caused the child's death."
+    C: "Negligent homicide, because he did not intend to harm anyone."
+    D: "No homicide offense, because the Code rejects the unlawful-act manslaughter rule."
+  answer: B
+  explanation_correct: >-
+    B is correct. Under the MPC, criminal homicide is manslaughter when it is committed recklessly (MPC
+    § 210.3(1)(a)); a person acts recklessly when he consciously disregards a substantial and unjustifiable
+    risk (MPC § 2.02(2)(c); R-CRM-005). A reckless killing becomes murder only if it is committed under
+    circumstances manifesting extreme indifference to the value of human life (MPC § 210.2(1)(b)), which the
+    jury rejected (R-CRM-038).
+  explanation_each_wrong_option:
+    A: >-
+      Wrong standard. Knowing that one's conduct is risky is recklessness as to death, not knowledge that death
+      is practically certain. Reckless murder requires extreme indifference, which the jury did not find
+      (R-CRM-038; MPC § 210.2(1)).
+    C: >-
+      Negligent homicide applies when the actor should have been aware of the risk but was not (MPC § 210.4).
+      This driver was aware of the risk and disregarded it, which is recklessness; lack of intent to harm does
+      not lower the grade (R-CRM-005).
+    D: >-
+      True but irrelevant. The MPC does reject unlawful-act (misdemeanor) manslaughter, but this conviction
+      rests on the driver's own reckless mental state, not on the speeding violation as such (R-CRM-038,
+      R-CRM-042).
+  trap_type: wrong-standard
+  authority: ["MPC § 210.3(1)(a)", "MPC § 210.2(1)(b)", "MPC § 210.4", "MPC § 2.02(2)(c)"]
+  source: original
+  tags: [wave2, homicide, mpc, recklessness, manslaughter]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CRM-0105
+  subject: CRM
+  coverage_ids: [CRM-MBE-I.B.2]
+  rule_ids: [R-CRM-037, R-CRM-012, R-CRM-013]
+  difficulty: 1
+  stem: >-
+    A woman driving within the speed limit on a city street glanced down for about two seconds to adjust the
+    volume on her car radio. During that moment a cyclist swerved into her lane to avoid a pothole, and her car
+    struck and killed him. Experts agree that a driver who had kept her eyes on the road probably could have
+    braked in time. The jury finds that the woman was careless in the way ordinary drivers are sometimes
+    careless, but that her conduct was not a gross deviation from the standard of care of a reasonable driver.
+    She is charged with involuntary manslaughter. The jurisdiction follows the common law.
+  call: "Should she be convicted?"
+  options:
+    A: "Yes, because her inattention was a but-for cause of the cyclist's death."
+    B: "Yes, because a driver whose negligence causes a death is guilty of involuntary manslaughter."
+    C: "No, because ordinary negligence is not enough for involuntary manslaughter."
+    D: "No, because the cyclist's swerve into her lane was a superseding cause of his death."
+  answer: C
+  explanation_correct: >-
+    C is correct. Involuntary manslaughter requires criminal negligence: a gross deviation from the standard
+    of care of a reasonable person that creates a substantial and unjustifiable risk of death or serious
+    injury. Ordinary civil negligence is not enough (R-CRM-037). The jury found only ordinary carelessness, so
+    the mental-state element is missing.
+  explanation_each_wrong_option:
+    A: >-
+      Missing element. Causation is necessary but not sufficient; the prosecution must also prove criminal
+      negligence, which the jury rejected (R-CRM-012, R-CRM-037).
+    B: >-
+      Overbroad. The standard is gross negligence, not the ordinary negligence that supports civil liability
+      (R-CRM-037).
+    D: >-
+      A cyclist swerving into traffic is the kind of foreseeable event that a driver's attention is meant to
+      guard against, so it would not break the causal chain (R-CRM-013). The case fails on mental state, not
+      causation.
+  trap_type: overbroad
+  authority: ["Common law (involuntary manslaughter: criminal negligence)", "Commonwealth v. Welansky, 316 Mass. 383 (1944)"]
+  source: original
+  tags: [wave2, homicide, involuntary-manslaughter, criminal-negligence]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CRM-0106
+  subject: CRM
+  coverage_ids: [CRM-MBE-I.B.3]
+  rule_ids: [R-CRM-039, R-CRM-040]
+  difficulty: 3
+  stem: >-
+    A state's statutes provide that a killing committed in the perpetration or attempted perpetration of a
+    felony inherently dangerous to human life is murder, and that obtaining property worth more than $1,000 by
+    false pretenses is a felony. The state's courts decide whether a felony is inherently dangerous by
+    examining its elements in the abstract, not the facts of the particular case. Over several visits, a man
+    persuaded an 82-year-old woman with a known heart condition to pay him for a worthless "investment" by
+    lying about the company's assets. During his visit to collect a further $15,000, the woman's son arrived,
+    accused the man of fraud and ordered him out. In the shouting that followed, the woman suffered a heart
+    attack and died. The man had never threatened or touched her. He is charged with felony murder.
+  call: "Can the man properly be convicted of felony murder?"
+  options:
+    A: "Yes, because the death occurred during the felony, and a felon takes his victim as he finds her."
+    B: "Yes, because her death was a foreseeable result of the stress the fraudulent scheme created."
+    C: "No, because the man did not intend to cause the woman any physical harm."
+    D: "No, because false pretenses, judged in the abstract, is not inherently dangerous to life."
+  answer: D
+  explanation_correct: >-
+    D is correct. The felony-murder rule applies only to enumerated or inherently dangerous felonies
+    (R-CRM-039), and the state's statute expressly limits it to felonies inherently dangerous to human life.
+    Judged in the abstract, as the state's courts require, obtaining property by false pretenses can be
+    committed without any risk to life, so it cannot support felony murder however the facts unfolded here
+    (R-CRM-039, R-CRM-040).
+  explanation_each_wrong_option:
+    A: >-
+      The timing and eggshell-victim points would matter only if the felony qualified. Because false pretenses
+      is not inherently dangerous in the abstract, the rule does not apply at all (R-CRM-039).
+    B: >-
+      Foreseeability of death is a causation limit on qualifying felonies; it cannot substitute for the
+      requirement that the felony itself be inherently dangerous, judged by its elements (R-CRM-040).
+    C: >-
+      Wrong reason. Felony murder never requires intent to harm; the intent to commit a qualifying felony
+      supplies malice. The charge fails because this felony does not qualify (R-CRM-039).
+  trap_type: missing-element
+  authority: ["Common law (felony murder: inherently dangerous felony)"]
+  source: original
+  tags: [wave2, homicide, felony-murder, inherently-dangerous-felony]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CRM-0107
+  subject: CRM
+  coverage_ids: [CRM-MBE-I.A, CRM-MBE-IV.E]
+  rule_ids: [R-CRM-023, R-CRM-020, R-CRM-037]
+  difficulty: 1
+  stem: >-
+    A man had been in a long feud with a neighbor, who had once told him that he would "settle things" with
+    him. One evening on a public sidewalk, the neighbor walked quickly toward the man, shouting angrily and
+    reaching into his jacket pocket. The man, believing that the neighbor was reaching for a gun, drew his own
+    pistol and shot and killed him. The neighbor was unarmed and had been reaching for his phone. The jury
+    finds that the man honestly believed he was about to be shot, but that the belief was unreasonable. The
+    jurisdiction recognizes the doctrine of imperfect self-defense.
+  call: "Of which crime should the man be convicted?"
+  options:
+    A: "Voluntary manslaughter, because his belief in the need to kill was honest but unreasonable."
+    B: "Murder, because self-defense requires a reasonable belief that deadly force is necessary."
+    C: "Involuntary manslaughter, because he killed as a result of a mistake rather than with malice."
+    D: "No crime, because he honestly believed that he faced an imminent attack with a deadly weapon."
+  answer: A
+  explanation_correct: >-
+    A is correct. Complete self-defense requires an honest and reasonable belief that deadly force is
+    necessary to prevent imminent death or serious bodily injury (R-CRM-020). Where the jurisdiction
+    recognizes imperfect self-defense, a defendant who kills with an honest but unreasonable belief in that
+    necessity is not acquitted, but the killing is reduced from murder to voluntary manslaughter (R-CRM-023).
+  explanation_each_wrong_option:
+    B: >-
+      Half right. The unreasonable belief defeats complete self-defense, but under imperfect self-defense the
+      honest belief negates malice and reduces the crime to voluntary manslaughter (R-CRM-023).
+    C: >-
+      The man intentionally shot the neighbor; his mistake concerned the need for force, not whether he was
+      using deadly force. The doctrine yields voluntary, not involuntary, manslaughter (R-CRM-023, R-CRM-037).
+    D: >-
+      An honest belief is not enough for acquittal; justification requires that the belief also be reasonable,
+      and the jury found it was not (R-CRM-020).
+  trap_type: confused-rule
+  authority: ["Common law (imperfect self-defense)"]
+  source: original
+  tags: [wave2, homicide, imperfect-self-defense, voluntary-manslaughter]
+  status: draft
+  last_verified: 2026-11-04

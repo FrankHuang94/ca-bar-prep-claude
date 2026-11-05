@@ -1,0 +1,354 @@
+# Evidence MCQs — NCBE categories III (privileges and policy exclusions) and IV (writings, recordings,
+# and photographs) (Wave 2, batch B). FRE only (as amended through Dec. 1, 2024). All items original.
+# No item turns on amended FRE 801(d)(1)(A) (V-028).
+questions:
+- id: Q-EVD-0131
+  subject: EVD
+  coverage_ids: [EVD-MBE-III.G]
+  rule_ids: [R-EVD-077, R-EVD-088, R-EVD-063]
+  difficulty: 1
+  stem: >-
+    A defendant charged in federal court with health-care fraud met with an Assistant United States
+    Attorney, together with his own lawyer, to discuss a possible guilty plea. The defendant did not sign
+    any agreement waiving the protections that ordinarily apply to such discussions. During the meeting,
+    he said, "I knew the invoices were fake, but my boss made me send them." No plea agreement was
+    reached, and the case went to trial. In its case-in-chief, the prosecution offers the defendant's
+    statement through a federal agent who attended the meeting. The defendant objects.
+  call: Should the court admit the statement?
+  options:
+    A: "Yes, because it is the defendant's own statement, so it is not hearsay when offered against him by the prosecution."
+    B: "No, because it was made during plea discussions with a prosecutor that did not result in a guilty plea."
+    C: "Yes, because the defendant made the statement voluntarily and with his own lawyer present to advise him."
+    D: "No, because statements made in the presence of the defendant's lawyer are protected by the attorney-client privilege."
+  answer: B
+  explanation_correct: >-
+    Plea discussions (R-EVD-077; FRE 410(a)(4)): a statement made during plea discussions with an attorney
+    for the prosecuting authority is not admissible against the defendant who participated in the
+    discussions if they did not result in a guilty plea or resulted in a later-withdrawn guilty plea. The
+    defendant spoke with an Assistant U.S. Attorney about a possible plea, no plea resulted, and he signed
+    no waiver of the rule's protection (compare United States v. Mezzanatto, which enforces knowing and
+    voluntary waivers). The statement is inadmissible in the prosecution's case-in-chief.
+  explanation_each_wrong_option:
+    A: >-
+      True but not decisive. The statement is an opposing party's statement under FRE 801(d)(2)(A)
+      (R-EVD-088), but FRE 410 is a separate policy exclusion that applies even to evidence that is not
+      hearsay.
+    C: >-
+      Voluntariness does not matter under FRE 410; the rule excludes even voluntary, counseled statements in
+      order to encourage frank plea negotiations.
+    D: >-
+      The attorney-client privilege protects confidential communications between client and lawyer
+      (R-EVD-063); statements made to the prosecutor are not confidential and are not privileged. The
+      exclusion here comes from FRE 410.
+  trap_type: true-but-irrelevant
+  authority: ["FRE 410(a)(4)", "FRE 801(d)(2)(A)", "United States v. Mezzanatto, 513 U.S. 196 (1995)"]
+  source: original
+  tags: [wave2, W2b-EVD, plea-discussions, policy-exclusion]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-EVD-0132
+  subject: EVD
+  coverage_ids: [EVD-MBE-III.B]
+  rule_ids: [R-EVD-063, R-EVD-065, R-EVD-062]
+  difficulty: 2
+  stem: >-
+    A business owner met privately with her lawyer and made two statements. First, she said, "Over the
+    past two years I ran about $90,000 of personal vacation expenses through my company and deducted them
+    as business expenses." Second, she asked, "How do I set up a consulting company in my brother's name so
+    that I can keep taking money out of the business without the IRS finding out?" The lawyer, not
+    understanding her purpose, explained in general terms how to form a consulting company. Over the next
+    year, the owner used such a company to hide income. She is now prosecuted in federal court for tax
+    evasion for that later year, and the government seeks to compel the lawyer to testify about both
+    statements.
+  call: Which of the owner's statements, if either, can the lawyer be compelled to disclose?
+  options:
+    A: "Neither statement, because both were confidential communications made to obtain legal advice."
+    B: "Only the second statement, because she sought the lawyer's advice to further a future crime or fraud."
+    C: "Both statements, because a client's admission that she committed a crime is not protected by the privilege."
+    D: "Neither statement, because the lawyer did not know that the owner intended to commit a crime."
+  answer: B
+  explanation_correct: >-
+    Attorney-client privilege and the crime-fraud exception (R-EVD-063, R-EVD-065; FRE 501): confidential
+    communications between a client and a lawyer for the purpose of obtaining legal advice are privileged,
+    including a client's disclosure of past wrongdoing. The privilege does not protect communications in
+    which the client seeks the lawyer's services to commit or further a future crime or fraud. The first
+    statement describes completed conduct and remains privileged. The second sought help in hiding income
+    from the IRS, a scheme the owner then carried out, so it falls within the crime-fraud exception. The
+    client's purpose controls; the lawyer's innocence does not preserve the privilege.
+  explanation_each_wrong_option:
+    A: >-
+      Ignores the crime-fraud exception, which removes the privilege from communications made to obtain
+      help with a future crime or fraud.
+    C: >-
+      Overbroad. Disclosing a past crime to a lawyer to obtain legal advice is at the core of the privilege;
+      only communications that further future or ongoing wrongdoing fall outside it.
+    D: >-
+      Exception trap. The exception turns on the client's purpose, not the lawyer's knowledge; it applies
+      even when the lawyer is unaware of the scheme.
+  trap_type: exception-trap
+  authority: ["FRE 501", "United States v. Zolin, 491 U.S. 554 (1989)"]
+  source: original
+  tags: [wave2, W2b-EVD, attorney-client, crime-fraud]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-EVD-0133
+  subject: EVD
+  coverage_ids: [EVD-MBE-III.F]
+  rule_ids: [R-EVD-074, R-EVD-003]
+  difficulty: 3
+  stem: >-
+    A cyclist bought a carbon-fiber bicycle in 2023. In January 2025, after receiving warranty claims, the
+    manufacturer redesigned the bicycle's front fork to use a thicker wall in all bicycles it made after
+    that date. In March 2025, the front fork of the cyclist's 2023 bicycle snapped while she was riding,
+    and she was injured. She sues the manufacturer in federal court, claiming that the original fork was
+    defectively designed, and offers evidence of the January 2025 redesign to prove the defect. The
+    manufacturer objects that the evidence is an inadmissible subsequent remedial measure.
+  call: Is the evidence of the redesign admissible over that objection?
+  options:
+    A: "No, because evidence of a design change may not be used to prove that the earlier design was defective."
+    B: "No, because the redesign was made after the cyclist bought the bicycle."
+    C: "Yes, because the redesign was made before the cyclist was injured."
+    D: "Yes, because the rule excluding subsequent remedial measures does not apply to claims of product defect."
+  answer: C
+  explanation_correct: >-
+    Subsequent remedial measures (R-EVD-074; FRE 407): the rule applies "when measures are taken that
+    would have made an earlier injury or harm less likely to occur," that is, to measures taken after the
+    injury or harm. The redesign came in January 2025, two months before the cyclist's accident, so it is
+    not a subsequent remedial measure as to her injury, and FRE 407 does not bar it. The 1997 advisory
+    committee's note confirms that measures taken before the injury fall outside the rule even if they came
+    after the product was made. The evidence remains subject to relevance and Rule 403 (R-EVD-003).
+  explanation_each_wrong_option:
+    A: >-
+      Overbroad. FRE 407 bars post-injury measures offered to prove a defect; it does not reach measures
+      taken before the injury.
+    B: >-
+      Fact-misread trap. The relevant event is the injury or harm, not the purchase; a change made between
+      purchase and injury is not covered.
+    D: >-
+      FRE 407 expressly covers measures offered to prove "a defect in a product or its design." California's
+      Evidence Code § 1151 does not apply to strict products liability (Ault v. International Harvester),
+      but California law does not govern the MBE.
+  trap_type: fact-misread
+  authority: ["FRE 407", "FRE 407 advisory committee's note (1997)", "FRE 403"]
+  source: original
+  tags: [wave2, W2b-EVD, remedial-measures, timing]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-EVD-0134
+  subject: EVD
+  coverage_ids: [EVD-MBE-III.H]
+  rule_ids: [R-EVD-045, R-EVD-003]
+  difficulty: 3
+  stem: >-
+    A former employee sues her supervisor and their employer in federal court for sexual harassment,
+    alleging that the supervisor repeatedly made unwelcome sexual advances toward her at work. The
+    defendants, having complied with the applicable notice and hearing procedures, seek to offer testimony
+    from coworkers that the employee had consensual sexual relationships with two other coworkers and often
+    talked about her sex life at office parties, to show that she welcomed the supervisor's advances.
+  call: Under what standard should the court decide whether to admit the coworkers' testimony?
+  options:
+    A: "Admit it unless its probative value is substantially outweighed by a danger of unfair prejudice, confusion of the issues, or misleading the jury."
+    B: "Exclude it, because evidence of an alleged victim's other sexual behavior is never admissible in a civil case."
+    C: "Admit it only if its probative value substantially outweighs the danger of harm to the victim and of unfair prejudice to any party."
+    D: "Admit it under the ordinary relevance rules, because the rape-shield rule applies only in criminal prosecutions."
+  answer: C
+  explanation_correct: >-
+    Rape shield in civil cases (R-EVD-045; FRE 412(a), (b)(2)): in a civil or criminal proceeding involving
+    alleged sexual misconduct, evidence offered to prove that a victim engaged in other sexual behavior or
+    to prove a victim's sexual predisposition is generally inadmissible. In a civil case, the court may
+    admit it only if its probative value substantially outweighs the danger of harm to any victim and of
+    unfair prejudice to any party, a balance weighted against admission and the reverse of Rule 403
+    (R-EVD-003). Reputation evidence is admissible only if the victim has placed it in controversy. A
+    sexual-harassment suit is a proceeding involving alleged sexual misconduct, so this standard governs
+    both the relationships and the talk about her sex life.
+  explanation_each_wrong_option:
+    A: >-
+      This is the ordinary Rule 403 test, which favors admission. FRE 412(b)(2) reverses and heightens the
+      balance in civil cases.
+    B: >-
+      Overbroad. FRE 412(b)(2) creates a civil exception when the heightened balancing test is met.
+    D: >-
+      FRE 412 applies in civil and criminal proceedings involving alleged sexual misconduct, including
+      sexual-harassment suits.
+  trap_type: wrong-standard
+  authority: ["FRE 412(a)", "FRE 412(b)(2)", "FRE 412(c)"]
+  source: original
+  tags: [wave2, W2b-EVD, rape-shield, civil-case]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-EVD-0135
+  subject: EVD
+  coverage_ids: [EVD-MBE-IV.B]
+  rule_ids: [R-EVD-081, R-EVD-078, R-EVD-099]
+  difficulty: 2
+  stem: >-
+    A homeowners' association sues its former property-management company in federal court, alleging that
+    the company misappropriated association funds over four years. The association offers a chart,
+    prepared by its forensic accountant for the lawsuit, summarizing about 9,000 transactions shown on the
+    association's bank statements. The bank statements are admissible business records and are too
+    numerous to be conveniently examined in court. Before trial, the company repeatedly asked to inspect
+    the bank statements, but the association refused, citing homeowners' privacy, and the statements have
+    never been made available to the company. The company objects to the chart.
+  call: Should the court admit the chart?
+  options:
+    A: "Yes, because a summary of voluminous records may be admitted as evidence whether or not the records are introduced."
+    B: "Yes, because the accountant's chart is itself a record of the association's regularly conducted activity."
+    C: "No, because the original bank statements must be introduced to prove their content."
+    D: "No, because the association has not made the underlying records available to the company for examination."
+  answer: D
+  explanation_correct: >-
+    Summaries (R-EVD-081; FRE 1006(a), (b)): a summary, chart, or calculation may be admitted to prove the
+    content of voluminous admissible writings that cannot be conveniently examined in court, whether or not
+    the underlying writings are introduced. But the proponent must make the underlying originals or
+    duplicates available for examination or copying by other parties at a reasonable time and place, so
+    that the opponent can test the summary's accuracy. Because the association refused the company access,
+    the chart is inadmissible.
+  explanation_each_wrong_option:
+    A: >-
+      Missing element. It is true that the records need not be introduced, but FRE 1006 also requires that
+      they be made available to the other parties.
+    B: >-
+      A chart prepared by a forensic accountant for this lawsuit is not a record made in the regular course
+      of the association's business (FRE 803(6); R-EVD-099); it is admissible, if at all, under FRE 1006.
+    C: >-
+      FRE 1006 is an exception to the requirement of an original (FRE 1002; R-EVD-078); a proper summary may
+      prove the content of voluminous records without introducing them.
+  trap_type: missing-element
+  authority: ["FRE 1006(a)", "FRE 1006(b)", "FRE 1002", "FRE 803(6)"]
+  source: original
+  tags: [wave2, W2b-EVD, summaries, voluminous-records]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-EVD-0136
+  subject: EVD
+  coverage_ids: [EVD-MBE-IV.B]
+  rule_ids: [R-EVD-081, R-EVD-053, R-EVD-099]
+  difficulty: 2
+  stem: >-
+    A painting contractor sues a homeowner in federal court for the unpaid balance of a renovation
+    contract. The contractor offers a one-page chart, prepared for trial by its office manager, that lists
+    and totals six one-page invoices it sent to the homeowner. The invoices are admissible, have been made
+    available to the homeowner, and are in the courtroom, but the contractor has not offered them. The
+    homeowner objects to the chart's being admitted as evidence.
+  call: Should the court admit the chart as evidence under the rule on summaries?
+  options:
+    A: "Yes, because the underlying invoices are admissible and were made available to the homeowner."
+    B: "Yes, because a chart that accurately totals a business's own records is itself admissible as one of its business records."
+    C: "No, because a summary is not admissible unless the underlying records have been introduced in evidence."
+    D: "No, because six short invoices can conveniently be examined in court, so the summary rule does not apply."
+  answer: D
+  explanation_correct: >-
+    Summaries (R-EVD-081; FRE 1006): the rule allows a summary, chart, or calculation as evidence only to
+    prove the content of voluminous writings that cannot be conveniently examined in court. Six one-page
+    invoices are neither voluminous nor hard to examine; the contractor can simply offer them. The chart
+    therefore does not qualify for admission as evidence under FRE 1006, although the court could allow it
+    as an illustrative aid under FRE 107 to help the jury follow admitted evidence (FRE 1006(c);
+    R-EVD-053).
+  explanation_each_wrong_option:
+    A: >-
+      Missing element. Admissibility and availability of the underlying records are required, but so is
+      voluminousness, which is lacking.
+    B: >-
+      A chart prepared for trial is not a record kept in the regular course of business (FRE 803(6);
+      R-EVD-099); summaries of other records must qualify under FRE 1006.
+    C: >-
+      The 2024 amendment makes explicit that a summary may be admitted whether or not the underlying
+      records have been introduced; the defect here is that the records are few and easily examined.
+  trap_type: missing-element
+  authority: ["FRE 1006", "FRE 107", "FRE 803(6)"]
+  source: original
+  tags: [wave2, W2b-EVD, summaries, illustrative-aid]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-EVD-0137
+  subject: EVD
+  coverage_ids: [EVD-MBE-IV.C]
+  rule_ids: [R-EVD-082]
+  difficulty: 2
+  stem: >-
+    A hospital's former purchasing director is prosecuted in federal court for wire fraud, on the theory
+    that he steered a $50,000 payment to a sham vendor. The prosecution introduces an email the director
+    sent to the hospital's chief financial officer on March 3, which reads in full: "Done. I wired the
+    $50,000 to Brightline Supply this afternoon, per your memo." Immediately after the email is read to the
+    jury, the defense asks the court to require the introduction, at that time, of the chief financial
+    officer's signed memo delivered to the director earlier that day, which states: "The board has
+    approved Brightline Supply as an emergency vendor. Please wire it $50,000 today." The prosecution
+    objects that the memo is a separate document that the defense may offer, if at all, in its own case.
+  call: Should the court require the memo to be introduced at that time?
+  options:
+    A: "No, because the rule of completeness reaches only other parts of the same writing, not separate writings."
+    B: "Yes, because fairness requires that the memo be considered at the same time as the email that responds to it."
+    C: "No, because the defense must wait until it presents its own case to offer additional statements."
+    D: "Yes, because once a party introduces part of a document, its opponent may introduce all related documents for any purpose."
+  answer: B
+  explanation_correct: >-
+    Rule of completeness (R-EVD-082; FRE 106): if a party introduces all or part of a statement, an adverse
+    party may require the introduction, at that time, of any other part, or any other statement, that in
+    fairness ought to be considered at the same time, and may do so over a hearsay objection. The
+    director's email expressly responds to the memo ("per your memo"); without the memo the jury would get
+    a misleading picture of why he wired the money. Fairness therefore requires the memo now, not later in
+    the defense case.
+  explanation_each_wrong_option:
+    A: >-
+      Too narrow. FRE 106 has long covered "any other writing or recorded statement," and since the 2023
+      amendment it covers "any other statement," including oral ones.
+    C: >-
+      The rule's purpose is to correct a misleading impression immediately; "at that time" means the
+      adverse party need not wait for its own case.
+    D: >-
+      Overbroad. FRE 106 admits only what fairness requires to correct a misleading impression, not every
+      related document.
+  trap_type: confused-rule
+  authority: ["FRE 106"]
+  source: original
+  tags: [wave2, W2b-EVD, completeness]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-EVD-0138
+  subject: EVD
+  coverage_ids: [EVD-MBE-IV.C, EVD-MBE-V.A.3]
+  rule_ids: [R-EVD-082, R-EVD-083, R-EVD-088]
+  difficulty: 1
+  stem: >-
+    A defendant is prosecuted in federal court for setting fire to a warehouse on federal land. The
+    prosecution's evidence does not include any statement by the defendant. In the defense case, the
+    defendant, who does not testify, calls the detective who interviewed him after the fire and asks the
+    detective to repeat what the defendant told him: "I was at my sister's house all night. I had nothing
+    to do with that fire." The prosecution objects on hearsay grounds.
+  call: Should the court admit the detective's testimony about the defendant's statement?
+  options:
+    A: "Yes, because a statement made by a party to the case is not hearsay, whichever side offers it."
+    B: "No, because it is hearsay when the defendant offers it, and the prosecution has introduced no part of it."
+    C: "Yes, because the rule of completeness lets a party present his full account of a police interview to the jury."
+    D: "No, because a criminal defendant may put his account of events before the jury only by testifying himself."
+  answer: B
+  explanation_correct: >-
+    Hearsay and party statements (R-EVD-083, R-EVD-088, R-EVD-082): the defendant's statement is offered
+    for its truth (that he was elsewhere and was not involved), so it is hearsay. FRE 801(d)(2)(A) excludes
+    a party's statement from the hearsay rule only when it is offered against that party; a party cannot
+    use it to introduce his own self-serving statements. The rule of completeness (FRE 106) applies only
+    after an adverse party introduces all or part of a statement, and the prosecution introduced none of
+    this one.
+  explanation_each_wrong_option:
+    A: >-
+      Half right. A party's statement is not hearsay only when offered by the opposing party (FRE
+      801(d)(2)); offered by the party himself, it is hearsay.
+    C: >-
+      FRE 106 is triggered only when the opponent introduces part of a statement; it does not independently
+      admit a party's own statements.
+    D: >-
+      Overbroad. The defendant may prove facts through any admissible evidence, such as his sister's
+      testimony; this statement fails because it is hearsay, not because he did not testify.
+  trap_type: procedural-posture
+  authority: ["FRE 801(c)", "FRE 801(d)(2)(A)", "FRE 106"]
+  source: original
+  tags: [wave2, W2b-EVD, completeness, self-serving-hearsay]
+  status: draft
+  last_verified: "2026-11-04"

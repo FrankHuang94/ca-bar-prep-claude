@@ -1,0 +1,299 @@
+# Contracts — NCBE category II: Defenses to enforceability (wave 2, round 2, original items)
+questions:
+- id: Q-CTR-0113
+  subject: CTR
+  coverage_ids: [CTR-MBE-II.A]
+  rule_ids: [R-CTR-031]
+  difficulty: 2
+  stem: >-
+    Ostrander, age 81, owned a farm. In May, he signed a contract to sell it to Paxton for $410,000, its
+    fair market value, with closing set for August 1. Ostrander's physicians later testified, without
+    contradiction, that by May advanced dementia had left him unable to understand the nature and
+    consequences of selling property. Paxton had met Ostrander only once, when Ostrander seemed pleasant
+    and coherent, and Paxton had no reason to suspect any impairment. In July, a court appointed
+    Ostrander's daughter as conservator of his estate, and she promptly notified Paxton that she was
+    avoiding the contract on Ostrander's behalf. Paxton had not paid anything, taken possession, or
+    otherwise changed his position. Paxton sued for specific performance.
+  call: "Is Paxton likely to prevail?"
+  options:
+    A: "No, because Ostrander could not understand the nature and consequences of the transaction when he signed, so the contract is voidable."
+    B: "Yes, because Paxton had no reason to know of Ostrander's condition, and the price was fair."
+    C: "Yes, because a person who is not under guardianship or conservatorship when contracting has full capacity to contract."
+    D: "No, because a contract to sell land made by a person over 80 is enforceable only with a court's approval."
+  answer: A
+  explanation_correct: >-
+    A person incurs only voidable contractual duties if, by reason of mental illness or defect, he is
+    unable to understand in a reasonable manner the nature and consequences of the transaction (R2d §
+    15(1)(a); R-CTR-031). Under this cognitive test the other party's knowledge does not matter; reason
+    to know is an element of the separate volitional test (§ 15(1)(b)) and of the intoxication rule (§
+    16). The uncontradicted medical evidence satisfies the cognitive test, and the conservator may avoid
+    the contract on Ostrander's behalf. The Restatement limits avoidance where the contract was made on
+    fair terms, the other party had no reason to know of the incapacity, and performance or changed
+    circumstances would make avoidance unjust (§ 15(2)); but this contract was wholly executory, and
+    Paxton had not changed his position. Trap: borrowing the reason-to-know requirement from the
+    volitional and intoxication tests.
+  explanation_each_wrong_option:
+    B: >-
+      Fair terms and lack of knowledge protect the other party only when, in addition, the contract has
+      been performed in whole or in part or circumstances have so changed that avoidance would be unjust
+      (§ 15(2)). Here nothing had been performed.
+    C: >-
+      Overbroad. A person whose property is under guardianship has no capacity to contract (R2d § 13), but
+      a person without a guardian may still lack capacity under § 15 if he could not understand the
+      transaction.
+    D: >-
+      There is no age-based rule; age alone does not affect capacity. The question is whether Ostrander
+      could understand the transaction.
+  trap_type: wrong-standard
+  authority: ["R2d § 13", "R2d § 15", "R2d § 16"]
+  source: original
+  tags: [wave2, w2b, capacity, mental-incapacity]
+  status: draft
+  last_verified: "2026-11-05"
+
+- id: Q-CTR-0114
+  subject: CTR
+  coverage_ids: [CTR-MBE-II.C]
+  rule_ids: [R-CTR-034]
+  difficulty: 2
+  stem: >-
+    Quill owned all the shares of Brightpath Inc., a small company whose only significant asset was a
+    patent on a medical-device component. Quill and Vasko, the buyer, both believed the patent was in
+    force, and they set the $2 million price on the basis of projected royalties under it. Their signed
+    share-purchase agreement contained no representation or warranty about the patent and no provision
+    on which party bore the risk of problems with it. Neither party had any reason to doubt the patent's
+    status. In fact, unknown to both, the patent had lapsed a month earlier because Brightpath's former
+    patent attorney had failed to pay a required maintenance fee, and it could not be revived. Before
+    closing, Vasko discovered the lapse and refused to proceed. Quill sued Vasko for breach.
+  call: "Is Quill likely to prevail?"
+  options:
+    A: "Yes, because the parties were mistaken only about the value of the shares, and a mistake about value does not justify relief."
+    B: "No, because both parties were mistaken about a basic assumption that materially affected the exchange, and Vasko did not bear that risk."
+    C: "Yes, because Quill made no misrepresentation about the patent and honestly believed that it was in force."
+    D: "No, because Quill breached an implied warranty that the company's assets were as both parties believed them to be."
+  answer: B
+  explanation_correct: >-
+    Where both parties, when contracting, share a mistake about a basic assumption on which the contract
+    was made, and the mistake has a material effect on the agreed exchange, the contract is voidable by
+    the adversely affected party unless that party bears the risk of the mistake (R2d § 152; R-CTR-034).
+    Whether the patent was in force was a fact existing at signing and the premise of the price. Its
+    lapse left Vasko paying $2 million for a company whose only significant asset was gone, a material
+    effect. The agreement did not allocate the risk, and neither party knowingly proceeded with limited
+    knowledge (R2d § 154). Vasko may avoid the contract. Trap: calling a mistake about an existing fact
+    that drives value a mere mistake about value.
+  explanation_each_wrong_option:
+    A: >-
+      The mistake concerned an existing fact (whether the patent was in force), not a judgment or
+      prediction about what the shares were worth. A shared mistake about a fact that determines value can
+      qualify (R-CTR-034).
+    C: >-
+      True but irrelevant. Mutual mistake does not depend on any misrepresentation or fault by the other
+      party.
+    D: >-
+      The agreement contained no representation or warranty about the patent, and the law implies no
+      warranty that a company's assets are what the parties believed. Vasko's ground is mutual mistake,
+      not breach.
+  trap_type: confused-rule
+  authority: ["R2d § 151", "R2d § 152", "R2d § 154"]
+  source: original
+  tags: [wave2, w2b, mistake, mutual-mistake, basic-assumption]
+  status: draft
+  last_verified: "2026-11-05"
+
+- id: Q-CTR-0115
+  subject: CTR
+  coverage_ids: [CTR-MBE-II.D]
+  rule_ids: [R-CTR-038, R-CTR-037]
+  difficulty: 3
+  stem: >-
+    Delacorte owned 40 acres of farmland on the edge of a small town. Halvard, a real-estate investor
+    who had never dealt with Delacorte before, spent several weeks reviewing the state transportation
+    department's published planning documents and learned that the department had approved a new highway
+    interchange near Delacorte's land, which was likely to raise its value substantially. The documents
+    were available to anyone on the department's website. Halvard offered Delacorte $300,000, the land's
+    current market value as farmland. Delacorte never asked why Halvard wanted the land, and Halvard
+    said nothing about the interchange or about the land's value. The parties signed a contract of sale.
+    Before closing, Delacorte learned of the interchange and sought to rescind.
+  call: "Is Delacorte likely to succeed?"
+  options:
+    A: "Yes, because Halvard knew a fact that he knew would materially affect Delacorte's decision to sell, and he did not disclose it."
+    B: "Yes, because Halvard's silence was concealment, which is treated as an assertion that no interchange was planned."
+    C: "No, because Delacorte could have rescinded only if Halvard had made a false statement in writing."
+    D: "No, because an arm's-length buyer need not disclose value information it found through its own research, and Halvard asserted nothing."
+  answer: D
+  explanation_correct: >-
+    A misrepresentation is an assertion not in accord with the facts (R2d § 159; R-CTR-037).
+    Nondisclosure counts as an assertion only in limited situations: where the party actively conceals
+    the fact; where disclosure is needed to correct a prior assertion; where the other party is mistaken
+    about a basic assumption and nondisclosure would amount to a failure to act in good faith and in
+    accordance with reasonable standards of fair dealing; where the other party is mistaken about the
+    contents of a writing; or where the parties are in a relationship of trust (R2d §§ 160, 161;
+    R-CTR-038). Parties dealing at arm's length are generally not expected to share what they know about
+    market value, particularly information a buyer developed through its own research from public
+    sources. Halvard hid nothing, said nothing false, had no relationship of trust with Delacorte, and
+    paid the land's current market value. Delacorte cannot rescind. Trap: treating every undisclosed
+    material fact as fraud.
+  explanation_each_wrong_option:
+    A: >-
+      Overbroad. Knowing a material fact and not disclosing it is not enough; nondisclosure is equivalent
+      to an assertion only in the situations listed in R2d § 161, and an arm's-length buyer's own research
+      about value is ordinarily not among them.
+    B: >-
+      Concealment requires an affirmative act intended or known to be likely to keep the other party from
+      learning a fact, such as hiding a defect (R2d § 160). Silence about information in public records is
+      not concealment.
+    C: >-
+      There is no writing requirement for misrepresentation; a false oral statement can justify
+      rescission. Delacorte fails because Halvard made no assertion at all.
+  trap_type: overbroad
+  authority: ["R2d § 159", "R2d § 160", "R2d § 161"]
+  source: original
+  tags: [wave2, w2b, misrepresentation, nondisclosure]
+  status: draft
+  last_verified: "2026-11-05"
+
+- id: Q-CTR-0116
+  subject: CTR
+  coverage_ids: [CTR-MBE-II.E]
+  rule_ids: [R-CTR-041]
+  difficulty: 2
+  stem: >-
+    Dr. Ferrante sold his dental practice in the town of Elm Falls, including its patient records and
+    goodwill, to Dr. Liang for $700,000. In the signed sale agreement, Ferrante promised not to practice
+    dentistry within 10 miles of the practice's office for three years after the sale. Most of the
+    practice's patients lived within six miles of the office. The jurisdiction has no statute addressing
+    covenants not to compete. Eight months after the sale, Ferrante opened a new dental office four
+    miles from his old practice and began treating several of his former patients. Liang sued to enjoin
+    Ferrante from practicing within the restricted area for the rest of the three years.
+  call: "Is the court likely to grant the injunction?"
+  options:
+    A: "No, because a covenant that restrains a person from practicing a lawful profession is void as against public policy."
+    B: "No, because three years is longer than necessary to protect a practice whose patients can be served by any competent dentist."
+    C: "Yes, because the covenant protects the goodwill Liang bought and is reasonable in duration and geographic scope."
+    D: "Yes, because a covenant not to compete is enforceable whenever it is freely agreed to in a signed writing."
+  answer: C
+  explanation_correct: >-
+    Under the generally accepted common-law rule, a promise not to compete is enforceable if it is
+    ancillary to a legitimate transaction, such as the sale of a business, and is no broader than
+    necessary to protect a legitimate interest, judged by its duration, geographic area and scope (R2d
+    §§ 186-188; R-CTR-041). Covenants that accompany the sale of a business are readily enforced,
+    because the buyer paid for goodwill that would be worthless if the seller could immediately reclaim
+    the customers. A three-year, 10-mile restriction protecting a practice whose patients live mostly
+    within six miles is reasonable, and Ferrante's new office four miles away falls squarely within it.
+    An injunction is the usual remedy. Trap: carrying California's statutory hostility to noncompetes
+    (Bus. & Prof. Code § 16600) into an MBE question.
+  explanation_each_wrong_option:
+    A: >-
+      Overbroad. The common law does not void every restraint on practicing a profession; it enforces
+      reasonable restraints ancillary to the sale of a business or to employment (R2d § 188). The "void"
+      approach reflects California's statute, not the rule tested on the MBE.
+    B: >-
+      Three years is a common and reasonable period for a buyer to establish its own relationship with the
+      patients. That other dentists could serve them is exactly why the buyer needs protection from the
+      seller, whom the patients already know.
+    D: >-
+      Overbroad. A signed covenant is still unenforceable if it is broader than necessary or not tied to a
+      legitimate interest (R2d § 188); this one is enforceable because it is reasonable.
+  trap_type: minority-rule
+  authority: ["R2d § 186", "R2d § 187", "R2d § 188"]
+  source: original
+  tags: [wave2, w2b, public-policy, covenant-not-to-compete, ca-vs-mbe]
+  status: draft
+  last_verified: "2026-11-05"
+
+- id: Q-CTR-0117
+  subject: CTR
+  coverage_ids: [CTR-MBE-II.F]
+  rule_ids: [R-CTR-045, R-CTR-042, R-CTR-047]
+  difficulty: 3
+  stem: >-
+    Ridgeline Builders was the general contractor on an office building that it had promised the owner
+    to finish by June 1, subject to a $5,000-per-day late-completion charge. Vale Drywall, Ridgeline's
+    drywall subcontractor, was behind on its bills, and Pacific Gypsum, Vale's supplier, refused to ship
+    Vale any more drywall on credit. To keep the project on schedule, Ridgeline's president telephoned
+    Pacific and said: "Ship Vale the drywall it needs for our project. If Vale doesn't pay you for it,
+    Ridgeline will." Relying on that promise, Pacific shipped $40,000 of drywall to Vale for the
+    project. Vale never paid and went out of business. Pacific sued Ridgeline, which pleaded the statute
+    of frauds.
+  call: "Is the statute of frauds a good defense?"
+  options:
+    A: "Yes, because Ridgeline promised a creditor to answer for the debt of another, and the promise was not in a signed writing."
+    B: "No, because Ridgeline made the promise mainly to serve its own economic interest in finishing the project on time."
+    C: "Yes, because Ridgeline's promise concerned a sale of goods for $500 or more, and Ridgeline signed nothing."
+    D: "No, because Pacific fully performed its side of the bargain by shipping the drywall in reliance on the promise."
+  answer: B
+  explanation_correct: >-
+    A promise made to a creditor to answer for a debtor's obligation if the debtor does not pay is a
+    suretyship promise within the statute of frauds (R2d § 110(1)(b); R-CTR-045). Ridgeline's promise
+    ("If Vale doesn't pay you for it, Ridgeline will") was collateral, so it would ordinarily need a
+    signed writing. But under the main purpose (leading object) rule, the statute does not apply where
+    the consideration for the promise is in fact or apparently desired by the promisor mainly for its
+    own economic advantage rather than to benefit the debtor (R2d § 116). Ridgeline promised so that the
+    drywall would reach its own project in time to avoid $5,000-a-day late charges; any benefit to Vale
+    was incidental. The oral promise is enforceable. Trap: stopping once the promise looks like a
+    guaranty.
+  explanation_each_wrong_option:
+    A: >-
+      Correctly identifies a collateral promise to a creditor but ignores the main purpose exception,
+      which takes this promise outside the statute (R2d § 116).
+    C: >-
+      The sale of the drywall was a contract between Pacific and Vale. Ridgeline's promise was a guaranty,
+      governed by the suretyship provision, not by UCC § 2-201 (R-CTR-047).
+    D: >-
+      Full performance by one party takes a contract out of the one-year provision (R2d § 130(2)); it does
+      not take a guaranty out of the suretyship provision. Pacific wins because of the main purpose rule.
+  trap_type: exception-trap
+  authority: ["R2d § 110(1)(b)", "R2d § 116"]
+  source: original
+  tags: [wave2, w2b, statute-of-frauds, suretyship, main-purpose-rule]
+  status: draft
+  last_verified: "2026-11-05"
+
+- id: Q-CTR-0118
+  subject: CTR
+  coverage_ids: [CTR-MBE-II.F]
+  rule_ids: [R-CTR-046, R-CTR-042, R-CTR-104]
+  difficulty: 2
+  stem: >-
+    In a conversation witnessed by two neighbors, Galloway orally agreed to sell his 30-acre hobby farm
+    to Medina for $250,000, with $25,000 down and the balance due at closing in six months. Medina paid
+    the $25,000 and, with Galloway's consent, moved into the farmhouse the next week. Over the next four
+    months, with Galloway's knowledge, Medina built a $60,000 equipment barn on the property. Nothing
+    was ever put in writing. Before closing, Galloway received a higher offer and told Medina that the
+    deal was off. Medina tendered the $225,000 balance and sued for specific performance. Galloway
+    pleaded the statute of frauds.
+  call: "Is Medina likely to obtain specific performance?"
+  options:
+    A: "Yes, because Medina's possession and her substantial improvements, made in reliance on the agreement, take it out of the statute."
+    B: "Yes, because Galloway accepted part of the price, and payment of part of the price takes an oral land contract out of the statute."
+    C: "No, because a contract for the sale of land is unenforceable unless evidenced by a writing signed by the party to be charged."
+    D: "No, but Medina may recover her $25,000 and the value of the barn in restitution, her only remedy under an oral land contract."
+  answer: A
+  explanation_correct: >-
+    A contract to transfer an interest in land is within the statute of frauds (R-CTR-046). But such a
+    contract may be specifically enforced despite the statute where the party seeking enforcement, in
+    reasonable reliance on the contract and on the other party's continuing assent, has so changed
+    position that injustice can be avoided only by specific enforcement (R2d § 129). Courts
+    traditionally look for acts unequivocally referable to the contract, usually two of payment,
+    possession and substantial improvements (R-CTR-046). Medina paid part of the price, took possession
+    with Galloway's consent, and built a $60,000 barn with his knowledge, acts that make sense only if
+    she was buying the farm. Specific performance is available. (The witnesses do not matter; oral
+    testimony does not satisfy the statute.) Trap: relying on payment alone, or forgetting the exception
+    altogether.
+  explanation_each_wrong_option:
+    B: >-
+      Right result, wrong reason. Payment alone generally does not take a land contract out of the
+      statute, because restitution of the money is an adequate remedy; possession and improvements are
+      what make the difference (R-CTR-046).
+    C: >-
+      States the general rule but ignores the part performance (reliance) exception, which permits
+      specific performance here (R2d § 129).
+    D: >-
+      Restitution is available when an oral land contract is unenforceable (R2d § 375), but it is not
+      Medina's only remedy, because her part performance makes the contract specifically enforceable.
+  trap_type: right-result-wrong-reason
+  authority: ["R2d § 125", "R2d § 129"]
+  source: original
+  tags: [wave2, w2b, statute-of-frauds, land, part-performance]
+  status: draft
+  last_verified: "2026-11-05"

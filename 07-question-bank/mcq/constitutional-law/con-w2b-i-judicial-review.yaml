@@ -1,0 +1,419 @@
+# Constitutional Law — NCBE category I: the nature of judicial review
+# Original MBE-style items (wave 2, batch b). Settled doctrine only; no item relies on an OT2022–OT2025
+# decision (V-034/V-035) or on a [VERIFY]-tagged rule.
+questions:
+- id: Q-CON-0101
+  subject: CON
+  coverage_ids: [CON-MBE-I.A]
+  rule_ids: [R-CON-002, R-CON-005, R-CON-001]
+  difficulty: 2
+  stem: >-
+    A lender obtained a judgment of foreclosure against a homeowner in a state trial court. The state's
+    intermediate appellate court affirmed, and the state supreme court denied discretionary review. The
+    homeowner sought no further review. Instead, she filed a new action against the lender in federal
+    district court, alleging that the state trial judge had denied her due process by refusing to let her
+    present evidence, and asking the federal court to declare the foreclosure judgment void and to enjoin
+    its enforcement. The lender moved to dismiss for lack of subject-matter jurisdiction.
+  call: "How should the federal court rule on the motion?"
+  options:
+    A: "Deny the motion, because her claim arises under the Constitution and so falls within the district court's federal-question jurisdiction."
+    B: "Grant the motion, because the Eleventh Amendment bars federal suits that challenge the judgments of state courts."
+    C: "Deny the motion, because the state supreme court's refusal to hear her appeal left her with no other forum for her federal claim."
+    D: "Grant the motion, because a federal district court may not review and reject a state-court judgment; that review lies in the Supreme Court."
+  answer: D
+  explanation_correct: >-
+    D is correct. Lower federal courts have no appellate jurisdiction over state courts. Under the
+    Rooker–Feldman doctrine, a federal district court lacks jurisdiction over a suit brought by a
+    state-court loser who complains of injury caused by a state-court judgment rendered before the federal
+    suit began and who asks the district court to review and reject that judgment (R-CON-002; Exxon Mobil
+    Corp. v. Saudi Basic Industries Corp.). Review of a final state-court judgment on a federal question
+    lies only in the U.S. Supreme Court, by certiorari (28 U.S.C. § 1257). The homeowner asks the district
+    court to declare the foreclosure judgment void, so the suit must be dismissed.
+  explanation_each_wrong_option:
+    A: >-
+      Procedural posture. Federal-question jurisdiction under 28 U.S.C. § 1331 is original jurisdiction; it
+      does not let a district court sit in review of a state judgment. A claim that the state judgment
+      itself denied due process must be taken to the Supreme Court under § 1257 (R-CON-002).
+    B: >-
+      Confused rule. The Eleventh Amendment protects nonconsenting states from private suits (R-CON-005);
+      the defendant here is a private lender, and the jurisdictional bar comes from Rooker–Feldman, not
+      state sovereign immunity.
+    C: >-
+      Fact misread. She had a forum: after the state supreme court denied discretionary review, she could
+      have petitioned the U.S. Supreme Court for certiorari to review the intermediate appellate court's
+      judgment, the highest state court in which a decision could be had (28 U.S.C. § 1257; R-CON-002).
+  trap_type: procedural-posture
+  authority: ["28 U.S.C. § 1257", "Rooker v. Fidelity Trust Co., 263 U.S. 413 (1923)", "District of Columbia Court of Appeals v. Feldman, 460 U.S. 462 (1983)", "Exxon Mobil Corp. v. Saudi Basic Indus. Corp., 544 U.S. 280 (2005)"]
+  source: original
+  tags: [wave2, w2b, rooker-feldman, state-and-federal-courts]
+  status: draft
+  last_verified: 2026-11-05
+
+- id: Q-CON-0102
+  subject: CON
+  coverage_ids: [CON-MBE-I.A]
+  rule_ids: [R-CON-019, R-CON-015]
+  difficulty: 2
+  stem: >-
+    A state statute requires every "itinerant merchant" to buy an annual $2,000 license; merchants who sell
+    from fixed shops pay a $50 license fee. State officials notified a woman who sells baked goods from a
+    food truck, moving among several cities in the state, that she must buy the itinerant-merchant license
+    or face fines. She sued the officials in federal district court for a declaration and an injunction,
+    claiming that applying the $2,000 license to her violates the Equal Protection Clause. No state court
+    has interpreted "itinerant merchant." The statute's definitions section can reasonably be read to cover
+    only merchants who have no place of business in the state, and the woman owns a commissary kitchen in
+    the state that is registered as her place of business. No state proceeding against her is pending.
+  call: "What should the federal court do?"
+  options:
+    A: "Decide the equal protection claim now, because a federal court must exercise the jurisdiction Congress has given it over constitutional claims."
+    B: "Abstain and retain jurisdiction while a state court construes the statute, because that ruling could avoid the constitutional question."
+    C: "Dismiss the suit under Younger abstention, because a federal court may not interfere with a state's enforcement of its licensing laws."
+    D: "Dismiss the suit as unripe, because the woman has not yet been fined or prosecuted for failing to buy the license."
+  answer: B
+  explanation_correct: >-
+    B is correct. Under Pullman abstention, a federal court may postpone deciding a federal constitutional
+    question when the case turns on an unsettled issue of state law and a state-court ruling on that issue
+    could avoid or substantially narrow the constitutional question (R-CON-019; Railroad Comm'n of Texas v.
+    Pullman Co.). No state court has construed "itinerant merchant," and a reasonable reading would exclude
+    a seller with a registered in-state place of business; if that reading prevails, the $2,000 license
+    does not apply to her and the equal protection question disappears. The federal court ordinarily keeps
+    the case on its docket while the state-law question is resolved.
+  explanation_each_wrong_option:
+    A: >-
+      Overbroad. Federal courts generally must exercise the jurisdiction they have, but Pullman abstention
+      is a recognized exception for unclear state law whose resolution could avoid a constitutional ruling
+      (R-CON-019).
+    C: >-
+      Confused rule. Younger abstention requires a pending state judicial proceeding, such as a prosecution
+      or civil enforcement action; none is pending here (R-CON-019; Steffel v. Thompson).
+    D: >-
+      Wrong standard. The dispute is concrete: officials have applied the statute to her and demanded that
+      she buy the license or face fines, so delaying review would impose real hardship, and she need not
+      incur a penalty before suing (R-CON-015; Steffel v. Thompson).
+  trap_type: confused-rule
+  authority: ["Railroad Comm'n of Tex. v. Pullman Co., 312 U.S. 496 (1941)", "Younger v. Harris, 401 U.S. 37 (1971)", "Steffel v. Thompson, 415 U.S. 452 (1974)"]
+  source: original
+  tags: [wave2, w2b, abstention, pullman]
+  status: draft
+  last_verified: 2026-11-05
+
+- id: Q-CON-0103
+  subject: CON
+  coverage_ids: [CON-MBE-I.B.1]
+  rule_ids: [R-CON-003, R-CON-004, R-CON-006]
+  difficulty: 1
+  stem: >-
+    Congress enacted a statute providing that "no district court of the United States shall have
+    jurisdiction of any civil action challenging the rules used by a state university to classify students
+    as residents for tuition purposes." The statute does not affect the jurisdiction of state courts, which
+    may hear such challenges, or the U.S. Supreme Court's jurisdiction to review state-court judgments. A
+    student who was classified as a nonresident sued the registrar of a state university in federal
+    district court, claiming that the university's residency rules violate the Equal Protection Clause and
+    seeking an injunction. The registrar moved to dismiss for lack of jurisdiction.
+  call: "How should the court rule?"
+  options:
+    A: "Deny the motion, because Congress may not withdraw federal jurisdiction over claims arising under the Constitution."
+    B: "Grant the motion, because Congress may limit the lower federal courts' jurisdiction, and the claim can still be heard in state court."
+    C: "Deny the motion, because the statute effectively dictates the outcome of a whole class of cases, in violation of the separation of powers."
+    D: "Grant the motion, because the Eleventh Amendment bars federal suits against the officials of a state university."
+  answer: B
+  explanation_correct: >-
+    B is correct. Article III lets Congress "ordain and establish" inferior federal courts, and the power
+    to create them includes the power to define and limit their jurisdiction (R-CON-003; Sheldon v. Sill).
+    Withdrawing district-court jurisdiction over a class of cases is valid, at least where, as here, the
+    claims remain open in state courts subject to Supreme Court review, so the statute does not deny every
+    forum for a constitutional claim (R-CON-004).
+  explanation_each_wrong_option:
+    A: >-
+      Overbroad. Congress need not give the lower federal courts all the jurisdiction Article III permits;
+      state courts, which must also apply the Constitution, remain available (R-CON-003).
+    C: >-
+      Confused rule. United States v. Klein forbids Congress to prescribe a rule of decision in pending
+      cases without changing the underlying law; this statute directs no result in any case but removes a
+      category of cases from the district courts (R-CON-004).
+    D: >-
+      Wrong reason. Under Ex parte Young, a suit against a state officer for prospective injunctive relief
+      against an ongoing violation of federal law is not barred by state sovereign immunity (R-CON-006).
+      The motion should be granted only because of the jurisdiction statute.
+  trap_type: overbroad
+  authority: ["U.S. Const. art. III, § 1", "Sheldon v. Sill, 49 U.S. (8 How.) 441 (1850)", "United States v. Klein, 80 U.S. (13 Wall.) 128 (1872)", "Ex parte Young, 209 U.S. 123 (1908)"]
+  source: original
+  tags: [wave2, w2b, jurisdiction-stripping, lower-federal-courts]
+  status: draft
+  last_verified: 2026-11-05
+
+- id: Q-CON-0104
+  subject: CON
+  coverage_ids: [CON-MBE-I.C.1]
+  rule_ids: [R-CON-011, R-CON-008, R-CON-013]
+  difficulty: 2
+  stem: >-
+    A state statute forbids businesses to rent personal watercraft, such as jet skis, to men under 21, but
+    allows rentals to women 18 and older. The legislature's stated purpose is to reduce accidents. A
+    company that rents personal watercraft at a lake resort lost a significant share of its rentals after
+    the statute took effect. The company sued the state official responsible for enforcing the statute,
+    seeking an injunction on the ground that the statute denies men aged 18 to 20 the equal protection of
+    the laws. The official moved to dismiss for lack of standing.
+  call: "Should the motion be granted?"
+  options:
+    A: "Yes, because a litigant may assert only its own constitutional rights, and the sex-based classification applies to customers, not to the company."
+    B: "Yes, because the company's lost rentals are a generalized economic grievance shared by every business that serves young customers."
+    C: "No, because the company suffers its own economic injury and, as a vendor, may assert the rights of customers whose rentals the statute forbids."
+    D: "No, because any person harmed by a statute may challenge it on any constitutional ground that is available."
+  answer: C
+  explanation_correct: >-
+    C is correct. A plaintiff ordinarily must assert its own rights, but a litigant with its own injury in
+    fact may assert a third party's rights when it has a close relationship with the third party and the
+    third party is hindered from protecting its own interests (R-CON-011). Vendors whose sales a law
+    restricts may act as advocates for the customers whose access the law limits (Craig v. Boren, beer
+    sales to young men). The company lost rentals because of the statute, an injury traceable to it and
+    redressable by an injunction (R-CON-008); its relationship to its customers is the vendor-customer link
+    Craig recognized; and any individual customer's claim would last only until he turned 21. The company
+    has standing to raise the equal protection claim.
+  explanation_each_wrong_option:
+    A: >-
+      Exception trap. The general bar on asserting others' rights yields when the plaintiff has its own
+      injury and a close relationship with the right-holders; vendor standing is a recognized exception
+      (R-CON-011; Craig v. Boren).
+    B: >-
+      Confused rule. A generalized grievance is an interest shared by all citizens or taxpayers in proper
+      government (R-CON-013). The company's lost rentals are a concrete, particularized economic injury
+      caused by a statute that regulates its own business.
+    D: >-
+      Overbroad. The company's own injury satisfies Article III, but asserting third parties' rights is
+      permitted only within the third-party standing rules; there is no general license to raise any
+      available constitutional claim (R-CON-011).
+  trap_type: exception-trap
+  authority: ["U.S. Const. art. III, § 2", "Craig v. Boren, 429 U.S. 190 (1976)", "Kowalski v. Tesmer, 543 U.S. 125 (2004)"]
+  source: original
+  tags: [wave2, w2b, standing, third-party-standing]
+  status: draft
+  last_verified: 2026-11-05
+
+- id: Q-CON-0105
+  subject: CON
+  coverage_ids: [CON-MBE-I.C.1]
+  rule_ids: [R-CON-009, R-CON-008, R-CON-010, R-CON-005, R-CON-117]
+  difficulty: 3
+  stem: >-
+    A city's written police policy authorizes officers to use a neck restraint on any person who "verbally
+    resists" an officer's instructions. During a traffic stop for an expired registration, a driver argued
+    with an officer, who applied the neck restraint and injured her. No charges were filed. The driver sued
+    the city in federal court under 42 U.S.C. § 1983, seeking (1) damages for her injuries and (2) an
+    injunction forbidding officers to use the restraint in the future. Nothing in the record indicates that
+    she is more likely than any other driver to be stopped again or to argue with an officer.
+  call: "Which of her claims presents a case or controversy that the court may decide?"
+  options:
+    A: "The damages claim only, because she has not shown a real and immediate threat that the restraint will again be used on her."
+    B: "Both claims, because the city's policy caused her injury, and an injunction would prevent the policy's future application."
+    C: "Neither claim, because her injury resulted from her own decision to argue with the officer rather than from the city's policy."
+    D: "The injunction claim only, because the Eleventh Amendment bars damages actions against a city in federal court."
+  answer: A
+  explanation_correct: >-
+    A is correct. Standing must be shown separately for each form of relief (R-CON-008). Her past injury,
+    caused by the restraint applied under the city's policy and compensable in damages, gives her standing
+    to seek damages. But a plaintiff seeking an injunction must show a real and immediate threat of future
+    injury to herself, not merely that she was harmed in the past (R-CON-009; City of Los Angeles v.
+    Lyons). Whether she will again be stopped, will again argue with an officer and will again be
+    restrained is speculative, so she lacks standing to seek the injunction.
+  explanation_each_wrong_option:
+    B: >-
+      Missing element. Past injury supports damages, but it does not show the likelihood of future injury
+      needed for prospective relief; standing is assessed relief by relief (R-CON-008; R-CON-009; Lyons).
+    C: >-
+      Confused rule. The restraint was applied under the city's written policy, so her injury is fairly
+      traceable to that policy (R-CON-010); her arguing with the officer is the very conduct the policy
+      made the trigger for the restraint.
+    D: >-
+      Confused rule. The Eleventh Amendment protects states and arms of the state, not cities and counties
+      (R-CON-005), and a city may be liable under § 1983 for injuries caused by its own policy (R-CON-117;
+      Monell).
+  trap_type: missing-element
+  authority: ["U.S. Const. art. III, § 2", "City of Los Angeles v. Lyons, 461 U.S. 95 (1983)", "Lujan v. Defenders of Wildlife, 504 U.S. 555 (1992)", "Monell v. Department of Social Servs., 436 U.S. 658 (1978)"]
+  source: original
+  tags: [wave2, w2b, standing, injunctive-relief]
+  status: draft
+  last_verified: 2026-11-05
+
+- id: Q-CON-0106
+  subject: CON
+  coverage_ids: [CON-MBE-I.C.2]
+  rule_ids: [R-CON-018, R-CON-001]
+  difficulty: 1
+  stem: >-
+    A city ordinance banned the door-to-door distribution of leaflets in residential neighborhoods. A man
+    cited under the ordinance argued in state court that it violated both the First Amendment and the
+    free-speech clause of the state constitution. The state's highest court agreed and held the ordinance
+    invalid. Its opinion stated: "We rest this decision on each ground independently. The free-speech
+    clause of our state constitution, which we interpret on its own terms, would require this result even
+    if the First Amendment did not." The city petitions the U.S. Supreme Court for certiorari, arguing that
+    the state court misread the First Amendment.
+  call: "How should the U.S. Supreme Court respond to the petition?"
+  options:
+    A: "Grant review, because the state court decided a question of federal constitutional law that the city properly raised."
+    B: "Grant review, because the Supremacy Clause makes the First Amendment controlling over a state constitution."
+    C: "Deny review, because a state court's interpretation of the First Amendment is final unless Congress provides otherwise."
+    D: "Deny review, because the judgment rests on a state-law ground that is adequate to support it and independent of federal law."
+  answer: D
+  explanation_correct: >-
+    D is correct. The Supreme Court will not review a state-court judgment that rests on a state-law ground
+    that is adequate to support the judgment and independent of federal law, because reversing the federal
+    ruling would not change the result and the Court's opinion would be advisory (R-CON-018). The state
+    court invalidated the ordinance under the state constitution as well, and it said plainly that the
+    state ground is independent and sufficient by itself, which satisfies Michigan v. Long's plain-statement
+    rule. The judgment would stand even if the First Amendment ruling were wrong.
+  explanation_each_wrong_option:
+    A: >-
+      Missing element. Deciding a federal question is necessary but not sufficient; when an adequate and
+      independent state ground also supports the judgment, the Court will not review (R-CON-018).
+    B: >-
+      Confused rule. The Supremacy Clause forbids a state to give less than federal law requires; it does
+      not stop a state from protecting speech more broadly under its own constitution, so the state ground
+      does not conflict with federal law (R-CON-018).
+    C: >-
+      Right result, wrong reason. The Supreme Court has the final word on federal law and may review state
+      courts' federal rulings (R-CON-001; Martin v. Hunter's Lessee). It declines review here only because
+      of the adequate and independent state ground.
+  trap_type: right-result-wrong-reason
+  authority: ["28 U.S.C. § 1257", "Michigan v. Long, 463 U.S. 1032 (1983)", "Martin v. Hunter's Lessee, 14 U.S. (1 Wheat.) 304 (1816)"]
+  source: original
+  tags: [wave2, w2b, adequate-independent-state-ground]
+  status: draft
+  last_verified: 2026-11-05
+
+- id: Q-CON-0107
+  subject: CON
+  coverage_ids: [CON-MBE-I.C.2]
+  rule_ids: [R-CON-018]
+  difficulty: 3
+  stem: >-
+    Before his state criminal trial, a defendant moved orally to exclude his confession as coerced in
+    violation of the Due Process Clause. The trial judge heard evidence, denied the motion, and the
+    defendant was convicted. On appeal, the state's highest court refused to consider the claim. It held
+    the claim forfeited because the defendant had not filed a written motion to suppress at least ten days
+    before trial. The record shows that no state court had ever before applied such a requirement, and that
+    state trial courts had routinely ruled on oral suppression motions made at trial. The defendant
+    petitions the U.S. Supreme Court for certiorari.
+  call: "May the U.S. Supreme Court review the due process claim?"
+  options:
+    A: "No, because the state court's judgment rests on a state procedural rule, which is a ground independent of federal law."
+    B: "No, because the defendant did not properly present his federal claim to the state courts before seeking review."
+    C: "Yes, because a state procedural rule that was not firmly established and regularly followed is not an adequate state ground."
+    D: "Yes, because the Supreme Court may review any state-court judgment that rejects a federal constitutional claim."
+  answer: C
+  explanation_correct: >-
+    C is correct. A state ground bars Supreme Court review only if it is both independent of federal law
+    and adequate to support the judgment (R-CON-018). A state procedural default is adequate only if the
+    rule was firmly established and regularly followed when it was applied (James v. Kentucky; Ford v.
+    Georgia). The written-motion requirement had never been applied before and departed from the courts'
+    routine practice of ruling on oral motions at trial, so it cannot bar review of the federal claim.
+  explanation_each_wrong_option:
+    A: >-
+      Missing element. The forfeiture rule is independent of federal law, but independence is only half
+      the test; the ground must also be adequate, and a rule applied for the first time to this defendant
+      is not (R-CON-018).
+    B: >-
+      Fact misread. The defendant raised the coerced-confession claim by motion in the trial court, which
+      ruled on it, and pressed it on appeal; the only defect the state court cited was the newly applied
+      written-motion requirement.
+    D: >-
+      Overbroad. The Court cannot review a federal claim when the judgment rests on an adequate and
+      independent state ground; it may review here only because this state ground is inadequate
+      (R-CON-018).
+  trap_type: missing-element
+  authority: ["28 U.S.C. § 1257", "Michigan v. Long, 463 U.S. 1032 (1983)", "James v. Kentucky, 466 U.S. 341 (1984)", "Ford v. Georgia, 498 U.S. 411 (1991)"]
+  source: original
+  tags: [wave2, w2b, adequate-independent-state-ground, procedural-default]
+  status: draft
+  last_verified: 2026-11-05
+
+- id: Q-CON-0108
+  subject: CON
+  coverage_ids: [CON-MBE-I.C.3]
+  rule_ids: [R-CON-017, R-CON-009]
+  difficulty: 1
+  stem: >-
+    The House of Representatives impeached a federal district judge for accepting expensive gifts from
+    lawyers with cases before him. Under a Senate rule, a 12-member Senate committee heard the witnesses and
+    received the evidence, then gave the full Senate a transcript and a report. After arguments by both
+    sides before the full Senate, more than two-thirds of the Senators present voted to convict, and the
+    judge was removed from office. He sued in federal court, claiming that the Senate had not "tried" him
+    as Article I requires because the full Senate never heard the witnesses.
+  call: "How should the court rule?"
+  options:
+    A: "Dismiss the suit, because the Constitution commits impeachment trials to the Senate, making his claim a nonjusticiable political question."
+    B: "Rule for the judge, because Article III judges hold office during good behavior and may be removed only after a trial before the full Senate."
+    C: "Rule for the judge, because the courts may decide whether any branch of government has followed the procedures the Constitution prescribes."
+    D: "Dismiss the suit, because a federal judge who has been removed lacks standing to challenge the procedure used to remove him."
+  answer: A
+  explanation_correct: >-
+    A is correct. A claim presents a nonjusticiable political question when the Constitution textually
+    commits the issue to a coordinate branch or there are no judicially manageable standards for resolving
+    it (R-CON-017; Baker v. Carr). Article I gives the Senate the "sole Power to try all Impeachments," and
+    the word "try" does not supply a standard precise enough for courts to review how the Senate gathers
+    evidence. Judicial review would also undercut impeachment as the legislature's check on the judiciary
+    (Nixon v. United States). The suit must be dismissed.
+  explanation_each_wrong_option:
+    B: >-
+      Wrong conclusion from a true premise. Good-behavior tenure means removal only through impeachment and
+      conviction, which occurred; how the Senate conducts the trial is committed to the Senate
+      (R-CON-017).
+    C: >-
+      Overbroad. Courts usually may decide whether a branch followed constitutional procedures (for
+      example, Powell v. McCormack), but not where the Constitution commits the matter to another branch
+      and supplies no manageable standard, as with Senate impeachment trials (R-CON-017).
+    D: >-
+      Confused rule. Loss of his office and salary is a concrete, particularized injury caused by the
+      Senate's action, so standing is not the defect; the claim fails because it presents a political
+      question (R-CON-009; R-CON-017).
+  trap_type: overbroad
+  authority: ["U.S. Const. art. I, § 3, cl. 6", "Nixon v. United States, 506 U.S. 224 (1993)", "Baker v. Carr, 369 U.S. 186 (1962)", "Powell v. McCormack, 395 U.S. 486 (1969)"]
+  source: original
+  tags: [wave2, w2b, political-question, impeachment]
+  status: draft
+  last_verified: 2026-11-05
+
+- id: Q-CON-0109
+  subject: CON
+  coverage_ids: [CON-MBE-I.C.3]
+  rule_ids: [R-CON-017, R-CON-069, R-CON-075]
+  difficulty: 2
+  stem: >-
+    After the census, a state's legislature redrew the state's 13 congressional districts. Legislative
+    leaders openly stated that their goal was to maximize the number of seats their party would win. In the
+    next election, the majority party won 10 of the 13 seats with 52 percent of the statewide vote. The
+    districts are equal in population, and race was not a predominant factor in drawing any district.
+    Voters affiliated with the minority party sued state officials in federal court, claiming that the plan
+    violates the Equal Protection Clause and the First Amendment by diluting their votes and penalizing
+    their political association.
+  call: "What should the court do?"
+  options:
+    A: "Dismiss the suit, because claims of excessive partisanship in districting present political questions beyond the reach of the federal courts."
+    B: "Apply strict scrutiny, because the plan intentionally dilutes the votes of an identifiable group of voters because of their political views."
+    C: "Dismiss the suit, because every challenge to the way a legislature draws election districts presents a nonjusticiable political question."
+    D: "Uphold the plan on the merits, because its districts are equal in population and so satisfy the principle of one person, one vote."
+  answer: A
+  explanation_correct: >-
+    A is correct. Partisan-gerrymandering claims are nonjusticiable in federal court because there are no
+    judicially discoverable and manageable standards for deciding how much partisanship in districting is
+    too much (R-CON-017; R-CON-069; Rucho v. Common Cause). The voters' equal protection and First
+    Amendment theories both ask the court to measure partisan fairness, so the court must dismiss without
+    reaching the merits. Rucho noted that states and Congress remain free to address the problem.
+  explanation_each_wrong_option:
+    B: >-
+      Wrong standard. Strict scrutiny applies to districts in which race predominates (R-CON-069);
+      intentional partisan advantage does not trigger it, and the federal courts will not adjudicate the
+      claim at all (Rucho).
+    C: >-
+      Overbroad. Malapportionment (one person, one vote) and racial-gerrymandering claims are justiciable
+      (Baker v. Carr; Reynolds v. Sims; Shaw v. Reno); only partisan-gerrymandering claims are not
+      (R-CON-017; R-CON-075).
+    D: >-
+      Wrong disposition. Equal population does not answer a claim of partisan vote dilution, and because
+      the claim is nonjusticiable the court does not reach the merits; it dismisses (Rucho).
+  trap_type: wrong-standard
+  authority: ["Rucho v. Common Cause, 588 U.S. 684 (2019)", "Baker v. Carr, 369 U.S. 186 (1962)", "Shaw v. Reno, 509 U.S. 630 (1993)", "Reynolds v. Sims, 377 U.S. 533 (1964)"]
+  source: original
+  tags: [wave2, w2b, political-question, partisan-gerrymandering]
+  status: draft
+  last_verified: 2026-11-05

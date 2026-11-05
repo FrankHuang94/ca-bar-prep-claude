@@ -1,0 +1,212 @@
+# Criminal Law and Procedure — NCBE category IV: general principles
+# Original MBE-style items (wave 2, batch B). Generally accepted common-law principles unless the stem
+# names a statute or the Model Penal Code.
+questions:
+- id: Q-CRM-0120
+  subject: CRM
+  coverage_ids: [CRM-MBE-IV.C.1]
+  rule_ids: [R-CRM-015, R-CRM-016]
+  difficulty: 3
+  stem: >-
+    The jurisdiction has adopted the Model Penal Code test of insanity. During a psychotic episode, a man with
+    severe schizophrenia attacked a mail carrier with a hammer, seriously injuring him. He is charged with
+    aggravated battery. At trial, psychiatrists for both sides agree that the man knew he was striking a
+    person with a hammer and knew that doing so was illegal and morally wrong. They also agree that, as a
+    result of his illness, he lacked substantial capacity to conform his conduct to the requirements of law,
+    although he retained some limited ability to control his actions.
+  call: "Should the jury find him not guilty by reason of insanity?"
+  options:
+    A: "No, because he knew that striking the mail carrier was both illegal and morally wrong."
+    B: "Yes, because his illness left him without substantial capacity to conform to the law."
+    C: "No, because he retained some limited ability to control his actions during the attack."
+    D: "Yes, because the attack was the product of a mental disease from which he suffered."
+  answer: B
+  explanation_correct: >-
+    B is correct. Under the MPC test, a person is not responsible if, as a result of mental disease or defect,
+    he lacks substantial capacity either to appreciate the criminality (wrongfulness) of his conduct or to
+    conform his conduct to the requirements of law (MPC § 4.01(1); R-CRM-015). The prongs are alternatives, so
+    a volitional impairment alone suffices, and "substantial capacity" does not require total incapacity. Both
+    experts agree that the volitional prong is met.
+  explanation_each_wrong_option:
+    A: >-
+      Wrong standard. Knowledge of wrongfulness defeats the defense under M'Naghten, but the MPC adds a
+      separate volitional prong, which is satisfied here (R-CRM-015).
+    C: >-
+      The MPC requires only lack of substantial capacity, not a complete inability to control conduct; some
+      residual control does not defeat the defense (MPC § 4.01(1)).
+    D: >-
+      Right result, wrong reason. The "product" test (Durham) is not the MPC test and survives only in New
+      Hampshire; the defense succeeds because the MPC volitional prong is met (R-CRM-015).
+  trap_type: wrong-standard
+  authority: ["MPC § 4.01(1)", "M'Naghten's Case (1843)"]
+  source: original
+  tags: [wave2, insanity, mpc-test, volitional-prong]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CRM-0121
+  subject: CRM
+  coverage_ids: [CRM-MBE-IV.F]
+  rule_ids: [R-CRM-014, R-CRM-117]
+  difficulty: 1
+  stem: >-
+    A man living in State A telephoned an elderly woman living in State B and, falsely claiming to be her
+    grandson in need of bail money, persuaded her to wire $8,000 from her bank in State B to an account he
+    controlled in State A. Both states make it a felony to obtain property by false pretenses, and both follow
+    generally accepted principles of territorial jurisdiction. The man has never been to State B.
+  call: "Which state or states may prosecute him for the false-pretenses offense?"
+  options:
+    A: "Both states, because his conduct occurred in State A and its intended result occurred in State B."
+    B: "Only State A, because he was physically present in State A throughout the scheme."
+    C: "Only State B, because the victim and her money were located in State B when she was deceived."
+    D: "Neither state, because only the federal government may prosecute a crime that crosses state lines."
+  answer: A
+  explanation_correct: >-
+    A is correct. A state may prosecute a crime if any element — the conduct or the result — occurs within its
+    territory, and conduct outside a state that is intended to and does produce harmful effects inside it may
+    be prosecuted there (R-CRM-014; Strassheim v. Daily; MPC § 1.03(1)(a)). The man's false statements were
+    made and the money was received in State A; the victim was deceived and parted with her money in State B.
+    Each state therefore has jurisdiction.
+  explanation_each_wrong_option:
+    B: >-
+      Wrong standard. Physical presence is not required; a state where the result occurs may prosecute a
+      defendant who acted from outside it (R-CRM-014).
+    C: >-
+      State A also has jurisdiction because the conduct element (making the false representations) and the
+      receipt of the money occurred there (R-CRM-014).
+    D: >-
+      An interstate crime may also violate federal law, but that does not oust the states' territorial
+      jurisdiction; each sovereign may prosecute (R-CRM-014, R-CRM-117).
+  trap_type: wrong-standard
+  authority: ["Strassheim v. Daily, 221 U.S. 280 (1911)", "MPC § 1.03(1)(a)"]
+  source: original
+  tags: [wave2, jurisdiction, territorial-jurisdiction]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CRM-0122
+  subject: CRM
+  coverage_ids: [CRM-MBE-IV.A]
+  rule_ids: [R-CRM-003, R-CRM-037, R-CRM-002]
+  difficulty: 1
+  stem: >-
+    A woman signed a written contract with an elderly man to live in his house as his full-time caregiver for
+    $3,000 a month, preparing his meals and bringing him water, because he could not walk or get out of bed
+    without help. One morning, wanting a vacation, she left for a week-long trip without telling anyone or
+    arranging a replacement, knowing that no one else was scheduled to visit him and that he could not reach
+    food or water on his own. When she returned, she found that he had died of dehydration. She is charged
+    with involuntary manslaughter.
+  call: "Can she properly be convicted of involuntary manslaughter?"
+  options:
+    A: "No, because the law imposes no general duty to come to the aid of another person."
+    B: "No, because she did nothing to him; she merely failed to act."
+    C: "Yes, because she had a moral obligation to care for a helpless person who relied on her."
+    D: "Yes, because her contract imposed a legal duty of care, which she grossly breached."
+  answer: D
+  explanation_correct: >-
+    D is correct. A failure to act is criminal if the defendant had a legal duty to act, knew the facts giving
+    rise to the duty and could have performed it; a duty may arise from contract (R-CRM-003). The caregiver's
+    contract obliged her to provide food and water, she knew the man was helpless and alone, and she could
+    easily have arranged care. Leaving him without any provision was at least a gross deviation from
+    reasonable care — the criminal negligence that involuntary manslaughter requires (R-CRM-037).
+  explanation_each_wrong_option:
+    A: >-
+      Exception trap. There is no general duty to rescue a stranger, but a contract to provide care is one of
+      the recognized sources of a legal duty (R-CRM-003).
+    B: >-
+      An omission can satisfy the act requirement when the defendant had a legal duty to act and was able to
+      perform it (R-CRM-002, R-CRM-003).
+    C: >-
+      Right result, wrong reason. A moral duty alone never supports criminal liability; liability rests on the
+      contractual legal duty (R-CRM-003).
+  trap_type: exception-trap
+  authority: ["MPC § 2.01(3)", "Jones v. United States, 308 F.2d 307 (D.C. Cir. 1962)"]
+  source: original
+  tags: [wave2, omissions, duty-to-act, contract-duty]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CRM-0123
+  subject: CRM
+  coverage_ids: [CRM-MBE-IV.B.3]
+  rule_ids: [R-CRM-011]
+  difficulty: 2
+  stem: >-
+    The jurisdiction has adopted the Model Penal Code's provisions on mistake of law. A statute makes it a
+    misdemeanor to fish commercially in state waters with "any net of the gillnet type." Before buying a new
+    kind of net, a fisherman wrote to the state Department of Fish and Wildlife, the agency charged by law with
+    administering and enforcing the statute, and received a formal written ruling signed by its director
+    stating that the net was not a gillnet under the statute. Relying on the ruling, he used the net for a
+    season. A court later held that the net is a gillnet within the statute, and the fisherman is prosecuted
+    for using it during that season.
+  call: "Does the fisherman have a valid defense?"
+  options:
+    A: "No, because ignorance or mistake of law is no excuse for violating a criminal statute."
+    B: "No, because only a court decision, not an agency ruling, can support a reliance defense."
+    C: "Yes, because he reasonably relied on an official interpretation by the responsible agency."
+    D: "Yes, because he honestly believed that using the net was lawful when he used it."
+  answer: C
+  explanation_correct: >-
+    C is correct. Mistake of law is generally no defense, but a defendant may rely reasonably on an official
+    statement of the law later found erroneous, including an official interpretation by the public officer or
+    body charged by law with interpreting, administering or enforcing the law that defines the offense (MPC
+    § 2.04(3)(b)(iv); R-CRM-011). The fisherman obtained a formal written ruling from the director of the
+    agency responsible for the statute and relied on it.
+  explanation_each_wrong_option:
+    A: >-
+      Overbroad. The general rule has exceptions, and reasonable reliance on an official statement of the law
+      is one of them (R-CRM-011).
+    B: >-
+      The MPC's list of official statements includes judicial decisions but also statutes, administrative
+      orders and official interpretations by the responsible agency (MPC § 2.04(3)(b)).
+    D: >-
+      An honest belief that conduct is lawful is not enough; the defense requires reasonable reliance on an
+      official statement (R-CRM-011). Reliance on a private lawyer's advice, for example, would not suffice.
+  trap_type: overbroad
+  authority: ["MPC § 2.04(3)(b)(iv)", "Common law (mistake of law)"]
+  source: original
+  tags: [wave2, mistake-of-law, official-reliance, mpc]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CRM-0124
+  subject: CRM
+  coverage_ids: [CRM-MBE-IV.E]
+  rule_ids: [R-CRM-028]
+  difficulty: 2
+  stem: >-
+    A loan shark told a man who owed him $10,000 that unless the man drove a truck loaded with stolen
+    televisions to a warehouse in another county the following Saturday, the loan shark's associates would
+    "find" the man's teenage son and break his legs. The man had six days before the deadline. During that
+    time he went to work as usual and was neither watched nor confined, but he did not contact the police
+    because he doubted they could protect his son. On Saturday he drove the truck as instructed and was
+    arrested at the warehouse. Charged with transporting stolen property, he raises duress. The jurisdiction
+    follows the common law.
+  call: "Is the defense of duress likely to succeed?"
+  options:
+    A: "Yes, because the threat was of serious bodily injury to a member of his family."
+    B: "No, because the threatened harm was not imminent and he had a reasonable chance to seek help."
+    C: "Yes, because a person of reasonable firmness would have feared for his son's safety."
+    D: "No, because duress does not apply when the threat is directed at someone other than the defendant."
+  answer: B
+  explanation_correct: >-
+    B is correct. Duress requires a threat of imminent death or serious bodily injury to the defendant or
+    another, a reasonable fear, and no reasonable opportunity to escape (R-CRM-028). The threat concerned harm
+    six days in the future, and the man spent those days free and unwatched, with ample opportunity to go to
+    the police. His doubt about police protection does not supply the missing imminence.
+  explanation_each_wrong_option:
+    A: >-
+      Missing element. A threat of serious injury to a family member can support duress, but only if the harm
+      is imminent and there is no reasonable escape (R-CRM-028).
+    C: >-
+      Reasonable fear is one element; the defense still fails for lack of an imminent threat and the
+      availability of lawful alternatives (R-CRM-028).
+    D: >-
+      Threats to another person, especially a family member, can support duress; the defense fails here for
+      lack of imminence (R-CRM-028).
+  trap_type: missing-element
+  authority: ["Common law (duress)"]
+  source: original
+  tags: [wave2, defenses, duress, imminence]
+  status: draft
+  last_verified: 2026-11-04

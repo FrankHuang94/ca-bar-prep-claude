@@ -1,0 +1,186 @@
+# Civil Procedure — NCBE category VII: Appealability and review (wave 2, batch B, original items)
+questions:
+- id: Q-CIV-0147
+  subject: CIV
+  coverage_ids: [CIV-MBE-VII.A]
+  rule_ids: [R-CIV-101, R-CIV-099, R-CIV-100]
+  difficulty: 2
+  stem: >-
+    Whitlock sued Officer Lang and the City of Easton in federal court under 42 U.S.C. § 1983, alleging
+    that Lang used excessive force during a traffic stop. Over several months the district court entered
+    four orders: (1) an order denying Lang's motion for summary judgment on qualified immunity, which held,
+    as a matter of law, that the conduct Lang himself admits violated clearly established law; (2) an
+    order compelling the city to produce internal memoranda that it claims are protected by the
+    attorney-client privilege; (3) an order disqualifying the city's law firm because of a conflict of
+    interest; and (4) an order denying the city's motion to dismiss for failure to state a claim. The
+    court made no certification under 28 U.S.C. § 1292(b) and no Rule 54(b) determination.
+  call: "Which order may be appealed immediately?"
+  options:
+    A: "Order (2), compelling production of the memoranda that the city claims are privileged."
+    B: "Order (1), denying Lang's qualified-immunity defense as a matter of law."
+    C: "Order (3), disqualifying the city's law firm because of the conflict."
+    D: "Order (4), denying the city's motion to dismiss for failure to state a claim."
+  answer: B
+  explanation_correct: >-
+    Appeals generally lie only from final decisions (28 U.S.C. § 1291; R-CIV-099), but the collateral
+    order doctrine treats as final a narrow class of orders that conclusively determine a disputed
+    question, resolve an important issue completely separate from the merits, and would be effectively
+    unreviewable on appeal from a final judgment (R-CIV-101; Cohen). A denial of qualified immunity that
+    turns on an issue of law qualifies, because the immunity is a right not to stand trial that would be
+    lost if review waited (Mitchell v. Forsyth). Orders compelling disclosure of allegedly privileged
+    material (Mohawk) and orders disqualifying counsel (Richardson-Merrell) are outside the class, and
+    the denial of a motion to dismiss is an ordinary interlocutory ruling. Trap: treating every important
+    pretrial ruling as a collateral order.
+  explanation_each_wrong_option:
+    A: >-
+      Mohawk Industries held that disclosure orders adverse to the attorney-client privilege are not
+      collateral orders; review comes by § 1292(b) certification, mandamus or appeal from a contempt
+      sanction.
+    C: >-
+      Orders disqualifying counsel in civil cases are not immediately appealable collateral orders
+      (Richardson-Merrell; R-CIV-101).
+    D: >-
+      An order denying a motion to dismiss for failure to state a claim does not end the litigation and is
+      reviewable after final judgment; without § 1292(b) certification it cannot be appealed now.
+  trap_type: confused-rule
+  authority: ["28 U.S.C. § 1291", "Cohen v. Beneficial Industrial Loan Corp., 337 U.S. 541 (1949)", "Mitchell v. Forsyth, 472 U.S. 511 (1985)", "Mohawk Industries, Inc. v. Carpenter, 558 U.S. 100 (2009)", "Richardson-Merrell Inc. v. Koller, 472 U.S. 424 (1985)"]
+  source: original
+  tags: [wave2, w2b, collateral-order, qualified-immunity, interlocutory-appeal]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CIV-0148
+  subject: CIV
+  coverage_ids: [CIV-MBE-VII.A, CIV-MBE-III.A]
+  rule_ids: [R-CIV-100, R-CIV-043]
+  difficulty: 1
+  stem: >-
+    On a Friday, Sterling Analytics Inc. obtained an ex parte temporary restraining order in federal court
+    barring its former sales director, Haddad, from soliciting Sterling's clients. The order complied
+    with Rule 65(b), was set to expire in 10 days, and scheduled a hearing on Sterling's motion for a
+    preliminary injunction for the following Thursday. On Monday, Haddad filed a notice of appeal from the
+    TRO.
+  call: "Will the court of appeals hear Haddad's appeal now?"
+  options:
+    A: "Yes, because 28 U.S.C. § 1292(a)(1) permits an immediate appeal from any order granting injunctive relief."
+    B: "Yes, because a restraining order issued without notice to the restrained party is an appealable collateral order."
+    C: "No, because a temporary restraining order of this kind is generally not an appealable interlocutory order."
+    D: "No, because an order restricting a party's conduct may be reviewed only on appeal from the final judgment."
+  answer: C
+  explanation_correct: >-
+    Section 1292(a)(1) permits immediate appeal from interlocutory orders granting, refusing, modifying or
+    dissolving injunctions (R-CIV-100), but temporary restraining orders are generally not appealable;
+    they are short-lived measures that preserve the status quo until a preliminary-injunction hearing
+    (R-CIV-043). A TRO may be treated as an appealable preliminary injunction if it is extended beyond
+    Rule 65(b)'s limits or issued after an adversary hearing (Sampson v. Murray), but Haddad's order is an
+    ex parte, 10-day TRO with a hearing set within a week. Haddad may move to dissolve the TRO on 2 days'
+    notice (FRCP 65(b)(4)) or appeal any preliminary injunction that issues. Trap: reading
+    "injunctions" in § 1292(a)(1) to include every TRO.
+  explanation_each_wrong_option:
+    A: >-
+      Overbroad. Section 1292(a)(1) covers preliminary injunctions, but TROs that stay within Rule 65(b)'s
+      limits are generally not appealable.
+    B: >-
+      The collateral order doctrine requires an order that would be effectively unreviewable later; a TRO
+      is tested promptly at the preliminary-injunction hearing, and a ruling there is appealable.
+    D: >-
+      Overbroad in the other direction. Preliminary injunctions are immediately appealable under
+      § 1292(a)(1); this TRO is not appealable because of its nature, not because injunction orders must
+      await final judgment.
+  trap_type: overbroad
+  authority: ["28 U.S.C. § 1292(a)(1)", "FRCP 65(b)(2), (4)", "Sampson v. Murray, 415 U.S. 61 (1974)"]
+  source: original
+  tags: [wave2, w2b, interlocutory-appeal, tro]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CIV-0149
+  subject: CIV
+  coverage_ids: [CIV-MBE-VII.B, CIV-MBE-VII.A]
+  rule_ids: [R-CIV-099, R-CIV-061, R-CIV-100, R-CIV-101]
+  difficulty: 3
+  stem: >-
+    Purchasers of a smartphone model filed a putative class action against its manufacturer in federal
+    court, alleging a design defect. The district court denied class certification. The named plaintiffs
+    timely petitioned the court of appeals under Rule 23(f) for permission to appeal that order, and the
+    court of appeals denied the petition. The named plaintiffs then stipulated to the voluntary dismissal
+    of their individual claims with prejudice, while reserving the right to revive them if the order
+    denying certification is reversed, and the district court entered an order of dismissal. The
+    plaintiffs filed a notice of appeal from that order under 28 U.S.C. § 1291, seeking review of the
+    denial of certification.
+  call: "Does the court of appeals have jurisdiction to review the denial of class certification?"
+  options:
+    A: "No, because a voluntary dismissal designed to obtain review of the certification ruling does not produce a final decision under § 1291."
+    B: "Yes, because a dismissal with prejudice ends the litigation on the merits and leaves the district court nothing to do but execute it."
+    C: "Yes, because an order denying class certification becomes an appealable collateral order once a Rule 23(f) petition is denied."
+    D: "No, because an order denying class certification may never be reviewed by a court of appeals at any stage of the case."
+  answer: A
+  explanation_correct: >-
+    Appeals of right lie from final decisions (28 U.S.C. § 1291; R-CIV-099). Rule 23(f) gives courts of
+    appeals discretion to permit interlocutory review of certification orders (R-CIV-100), and here that
+    discretion was exercised against review. In Microsoft Corp. v. Baker the Supreme Court held that
+    plaintiffs may not manufacture a § 1291 appeal from an order denying certification by voluntarily
+    dismissing their individual claims with prejudice while reserving the right to revive them; allowing
+    the tactic would undermine Rule 23(f) and the final-judgment rule (R-CIV-061). Trap: treating a
+    tactical dismissal as an ordinary final judgment.
+  explanation_each_wrong_option:
+    B: >-
+      A dismissal with prejudice is ordinarily final, but Microsoft v. Baker held that this tactic,
+      dismissing to obtain review of a certification denial while reserving revival, does not support
+      appellate jurisdiction under § 1291.
+    C: >-
+      Orders denying class certification are not collateral orders (Coopers & Lybrand; R-CIV-101), and the
+      denial of a Rule 23(f) petition does not change that; interlocutory review is by permission only.
+    D: >-
+      Overbroad. Certification orders may be reviewed by permission under Rule 23(f) or on appeal from a
+      genuine final judgment.
+  trap_type: procedural-posture
+  authority: ["28 U.S.C. § 1291", "FRCP 23(f)", "Microsoft Corp. v. Baker, 582 U.S. 23 (2017)", "Coopers & Lybrand v. Livesay, 437 U.S. 463 (1978)"]
+  source: original
+  tags: [wave2, w2b, final-judgment-rule, class-actions, voluntary-dismissal]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CIV-0150
+  subject: CIV
+  coverage_ids: [CIV-MBE-VII.C]
+  rule_ids: [R-CIV-102, R-CIV-085, R-CIV-051]
+  difficulty: 2
+  stem: >-
+    The district court granted summary judgment for the defendant on the plaintiff's breach-of-contract
+    claim, ruling that the undisputed evidence showed that the contract had been validly terminated. In
+    the same order, the court sanctioned the plaintiff's attorney under Rule 11 for alleging, without any
+    reasonable inquiry, that the defendant had received a payment that the plaintiff's own records showed
+    was never sent. After final judgment, the plaintiff appealed the summary judgment, and the attorney
+    appealed the sanction.
+  call: "What standards of review will the court of appeals apply?"
+  options:
+    A: "Clear error for both rulings, because each rests on the district court's assessment of the record."
+    B: "Abuse of discretion for both rulings, because each was decided by the trial judge on a motion."
+    C: "De novo for the sanction, because whether a filing violates Rule 11 is a question of law, and clear error for the summary judgment."
+    D: "De novo for the summary judgment, and abuse of discretion for every aspect of the Rule 11 ruling."
+  answer: D
+  explanation_correct: >-
+    A grant of summary judgment decides that no genuine dispute of material fact exists and that the
+    movant is entitled to judgment as a matter of law, a legal ruling made on a paper record without
+    findings, so the court of appeals reviews it de novo, applying the same Rule 56 standard (R-CIV-102,
+    R-CIV-085). By contrast, an appellate court reviews all aspects of a district court's Rule 11
+    determination for abuse of discretion, because the trial judge is best placed to assess the
+    reasonableness of counsel's inquiry (Cooter & Gell; R-CIV-102). Trap: assuming every ruling on a
+    motion gets the same standard.
+  explanation_each_wrong_option:
+    A: >-
+      Clear-error review applies to findings of fact after a bench trial (FRCP 52(a)(6)); a summary
+      judgment involves no fact finding, and Rule 11 rulings get abuse-of-discretion review.
+    B: >-
+      Half right. The Rule 11 sanction is reviewed for abuse of discretion, but a summary judgment is
+      reviewed de novo because it is a ruling of law on the record.
+    C: >-
+      Reverses the standards. Cooter & Gell requires abuse-of-discretion review of all aspects of a Rule 11
+      ruling, and summary judgment, which involves no fact finding, is reviewed de novo.
+  trap_type: wrong-standard
+  authority: ["Cooter & Gell v. Hartmarx Corp., 496 U.S. 384 (1990)", "FRCP 56(a)", "FRCP 11(b)(3)"]
+  source: original
+  tags: [wave2, w2b, standards-of-review, summary-judgment, rule-11]
+  status: draft
+  last_verified: 2026-11-04

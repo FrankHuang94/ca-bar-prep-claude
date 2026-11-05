@@ -1,0 +1,261 @@
+# Torts MCQs — NCBE category IV: other torts
+# Wave 2 round 2 (W2b-TRT). MBE defaults: pure comparative negligence and joint and several liability unless the stem says otherwise.
+# Majority common-law / Restatement rules only; no California-only rules. All items original.
+questions:
+- id: Q-TRT-0145
+  subject: TRT
+  coverage_ids: [TRT-MBE-IV.A, TRT-CBX-VII]
+  rule_ids: [R-TRT-092]
+  difficulty: 3
+  stem: >-
+    A company operates a large commercial bakery next to a residential neighborhood. Its exhaust fans run all night
+    and produce a loud, low-frequency hum that would keep any person of normal sensitivity in the nearest homes from
+    sleeping. After repeated complaints from those residents, the company knows that its fans are causing the problem.
+    It runs the fans carefully and in accordance with industry practice. The bakery employs 200 people and has great
+    value to the community, but it could pay for the harm its noise causes the neighbors and still operate profitably.
+    A homeowner who lives next to the bakery sues it for private nuisance. The company argues that it cannot be liable
+    because it has not acted negligently.
+  call: "Is the company's argument likely to succeed?"
+  options:
+    A: "Yes, because a plaintiff in a nuisance action must prove that the defendant failed to use reasonable care."
+    B: "Yes, because the bakery's value to the community as a major employer outweighs the inconvenience to a few homeowners."
+    C: "No, because any noise loud enough to disturb neighbors' sleep is a nuisance per se."
+    D: "No, because a knowing, substantial and unreasonable interference is a nuisance even without negligence."
+  answer: D
+  explanation_correct: >-
+    Private nuisance liability (R-TRT-092) may rest on an intentional invasion, which exists when the defendant knows
+    that its conduct is causing the interference, as the company does after repeated complaints; negligence is not
+    required. The interference is substantial, because it would keep a person of normal sensitivity from sleeping. It
+    is unreasonable if the gravity of the harm outweighs the utility of the conduct, or if the harm is serious and the
+    defendant could compensate for it and still carry on its activity (R2d § 826(b)). Loss of sleep is serious, and
+    the bakery could pay for the harm and remain profitable, so careful operation is no defense.
+  explanation_each_wrong_option:
+    A: >-
+      Wrong standard. Negligence is only one basis for nuisance liability; an intentional, unreasonable invasion is
+      actionable without it.
+    B: >-
+      Social utility is weighed, but even a valuable activity is an unreasonable interference when the harm is serious
+      and the defendant could compensate for it and still operate (R2d § 826(b)).
+    C: >-
+      Overbroad. Noise is a nuisance only when it is a substantial and unreasonable interference, judged by a person
+      of normal sensitivity and by balancing the relevant factors; there is no per se rule.
+  trap_type: wrong-standard
+  authority: ["Restatement (Second) of Torts §§ 822, 825, 826"]
+  source: original
+  tags: [wave2, W2b-TRT, other-torts, nuisance, intentional-invasion]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-TRT-0146
+  subject: TRT
+  coverage_ids: [TRT-MBE-IV.B, TRT-CBX-I.x2]
+  rule_ids: [R-TRT-098, R-TRT-099]
+  difficulty: 2
+  stem: >-
+    A retired engineer who had never held public office organized a citizens' group to oppose a proposed county
+    landfill. Over several months she spoke at public hearings, wrote opinion columns for the local newspaper and gave
+    interviews urging voters to reject the project. The newspaper then published an article falsely stating that she
+    had been paid $50,000 by a rival waste-hauling company to lead the opposition. The reporter believed the anonymous
+    tip on which the article was based but carelessly failed to verify it; one phone call would have shown it was
+    false. In her defamation action against the newspaper, the engineer proves that the statement was false and that
+    the reporter was negligent, but she offers no evidence that anyone at the newspaper knew or suspected that the
+    statement was false.
+  call: "Is the engineer likely to prevail?"
+  options:
+    A: "No, because she is a public figure for purposes of the landfill dispute and has not shown actual malice."
+    B: "Yes, because she has never held public office or sought fame, so she need prove only that the newspaper was negligent."
+    C: "Yes, because a false accusation that she secretly took money to lead a public campaign is defamatory per se."
+    D: "No, because any plaintiff suing a newspaper over speech on a matter of public concern must prove actual malice."
+  answer: A
+  explanation_correct: >-
+    A person who voluntarily thrusts herself into a particular public controversy to influence its outcome is a
+    limited-purpose public figure for statements related to that controversy, and she must prove actual malice,
+    meaning knowledge of falsity or reckless disregard of the truth, by clear and convincing evidence (R-TRT-098). The
+    engineer led the public campaign against the landfill, and the article concerned her role in it. Careless failure
+    to verify is negligence, not actual malice, and she offered no evidence that the newspaper knew or suspected the
+    statement was false.
+  explanation_each_wrong_option:
+    B: >-
+      Public-figure status does not depend on holding office. Her voluntary leadership in the controversy made her a
+      limited-purpose public figure.
+    C: >-
+      Whether a statement is defamatory per se affects common-law damages rules; it does not relieve a public figure
+      of the constitutional requirement of actual malice.
+    D: >-
+      Right result, wrong reason. A private-figure plaintiff suing over a matter of public concern need prove only
+      fault amounting to at least negligence to recover actual damages (Gertz; R-TRT-099). The engineer must prove
+      actual malice because she is a public figure.
+  trap_type: wrong-standard
+  authority: ["Gertz v. Robert Welch, Inc., 418 U.S. 323 (1974)", "St. Amant v. Thompson, 390 U.S. 727 (1968)"]
+  source: original
+  tags: [wave2, W2b-TRT, other-torts, defamation, limited-purpose-public-figure, actual-malice]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-TRT-0147
+  subject: TRT
+  coverage_ids: [TRT-MBE-IV.B, TRT-CBX-I.x2]
+  rule_ids: [R-TRT-100, R-TRT-098]
+  difficulty: 2
+  stem: >-
+    During a county election campaign, a political blogger posted about the incumbent county treasurer: "In my
+    opinion, Treasurer Ruiz has been quietly steering county funds to her brother's construction company. That's just
+    what I think." The statement was false. The blogger had no information suggesting it was true; he invented it to
+    hurt the treasurer's chances of re-election. The treasurer sues him for defamation. The blogger argues that his
+    post was a protected statement of opinion.
+  call: "Is the blogger's argument likely to succeed?"
+  options:
+    A: "Yes, because a statement that is expressly labeled as the speaker's opinion is protected by the First Amendment."
+    B: "Yes, because statements about a candidate made during an election campaign are absolutely privileged speech."
+    C: "No, because the post implies a false assertion of fact that is capable of being proved true or false."
+    D: "No, because the blogger wrote the post out of ill will toward the treasurer and to hurt her campaign."
+  answer: C
+  explanation_correct: >-
+    There is no separate privilege for statements labeled as opinion; a statement is actionable if it asserts or
+    implies a provably false fact (R-TRT-100; Milkovich v. Lorain Journal Co.). Whether the treasurer steered county
+    funds to her brother's company can be proved true or false, and "in my opinion" does not change that. Because the
+    treasurer is a public official, she must also prove actual malice (R-TRT-098), and she can: the blogger invented
+    the accusation, so he knew it was false.
+  explanation_each_wrong_option:
+    A: >-
+      Overbroad. An opinion label does not protect a statement that implies false facts; only statements that cannot
+      reasonably be read as asserting facts, such as rhetorical hyperbole, are protected.
+    B: >-
+      Campaign speech is protected by the actual-malice requirement for public officials, not by an absolute
+      privilege, and actual malice is present here.
+    D: >-
+      Right result, wrong reason. Ill will is not actual malice and does not defeat the opinion argument; what matters
+      is that the post implies a false fact and that the blogger knew it was false.
+  trap_type: overbroad
+  authority: ["Milkovich v. Lorain Journal Co., 497 U.S. 1 (1990)", "New York Times Co. v. Sullivan, 376 U.S. 254 (1964)"]
+  source: original
+  tags: [wave2, W2b-TRT, other-torts, defamation, opinion, public-official]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-TRT-0148
+  subject: TRT
+  coverage_ids: [TRT-MBE-IV.B, TRT-CBX-I.x2]
+  rule_ids: [R-TRT-101, R-TRT-102, R-TRT-103]
+  difficulty: 1
+  stem: >-
+    A newspaper published a photograph of an amateur runner crossing the finish line of a city marathon as part of its
+    race coverage. Later, without asking the runner, a sports-drink company licensed the photograph from the newspaper
+    and used it on a billboard advertising its drink, with the caption "Fuel for finishers." The runner is not a
+    celebrity and has never endorsed any product. She sues the company for invasion of privacy.
+  call: "Is the runner likely to prevail?"
+  options:
+    A: "No, because the photograph was taken in a public place, where she had no reasonable expectation of privacy."
+    B: "Yes, because the company used her likeness for its own commercial benefit without her consent."
+    C: "No, because the photograph had already been published as news and so revealed nothing private about her."
+    D: "No, because she is not a celebrity, so her likeness had no commercial value that could be appropriated."
+  answer: B
+  explanation_correct: >-
+    A defendant who appropriates the plaintiff's name or likeness for its own benefit, usually commercial, without
+    consent is liable for invasion of privacy (R-TRT-101). Using the runner's photograph on a billboard to sell a
+    drink is a commercial use of her likeness, and she never consented. The newsworthiness exemption protected the
+    newspaper's race coverage, not the company's advertisement.
+  explanation_each_wrong_option:
+    A: >-
+      Confused rule. A reasonable expectation of privacy matters for intrusion upon seclusion (R-TRT-102), not for
+      appropriation, which concerns the use of a person's identity.
+    C: >-
+      Confused rule. Prior publication defeats a claim for public disclosure of private facts (R-TRT-103), but
+      appropriation does not require that anything private be revealed.
+    D: >-
+      The appropriation tort protects any person's identity against unauthorized use for another's benefit; lack of
+      celebrity may affect damages, not liability.
+  trap_type: confused-rule
+  authority: ["Restatement (Second) of Torts § 652C"]
+  source: original
+  tags: [wave2, W2b-TRT, other-torts, privacy, appropriation]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-TRT-0149
+  subject: TRT
+  coverage_ids: [TRT-MBE-IV.C, TRT-CBX-IV]
+  rule_ids: [R-TRT-107, R-TRT-090]
+  difficulty: 2
+  stem: >-
+    A buyer asked a used-car dealer whether a particular car had ever been in an accident. The dealer had not checked
+    the car's history and had no information either way, but, wanting to close the sale, he answered, "No, this car
+    has never been in an accident." In fact, the car had been badly damaged in a crash and repaired, which made it
+    worth $4,000 less than a comparable car with no accident history. The buyer had no reason to doubt the dealer and
+    paid the asking price, which was the market price for a comparable car with no accident history. When he learned
+    the truth, he sued the dealer for intentional misrepresentation. The dealer argues that he cannot be liable
+    because he did not know that his statement was false.
+  call: "Is the dealer's argument likely to succeed?"
+  options:
+    A: "No, because asserting a fact while knowing he had no basis for it is reckless disregard, which satisfies scienter."
+    B: "Yes, because liability for fraud requires proof that the speaker actually knew, at the time, that his statement was false."
+    C: "Yes, because the buyer could have obtained a vehicle-history report and therefore did not justifiably rely."
+    D: "No, because a dealer is strictly liable for any false statement that he makes about the goods he sells."
+  answer: A
+  explanation_correct: >-
+    Intentional misrepresentation requires scienter, which is satisfied by knowledge of falsity or by reckless
+    disregard for the truth (R-TRT-107). A speaker who asserts a fact as certain while knowing that he has no basis
+    for it is reckless as to its truth (R2d § 526). The dealer knew he had no information about the car's history, yet
+    stated flatly that it had never been in an accident, to induce the sale. The buyer justifiably relied and paid
+    $4,000 more than the car was worth, so the dealer's lack of actual knowledge is no defense.
+  explanation_each_wrong_option:
+    B: >-
+      Wrong standard. Scienter includes reckless disregard for the truth as well as actual knowledge of falsity.
+    C: >-
+      A recipient of a fraudulent statement has no duty to investigate unless its falsity is obvious, and his
+      negligence in failing to check is no defense to fraud (R-TRT-107).
+    D: >-
+      Overbroad. Misrepresentation liability ordinarily requires scienter (fraud) or a lack of reasonable care
+      (negligent misrepresentation); strict liability for misrepresentation is limited to product sellers whose public
+      misrepresentations cause physical harm (R-TRT-090).
+  trap_type: wrong-standard
+  authority: ["Restatement (Second) of Torts § 526", "Derry v. Peek, 14 App. Cas. 337 (H.L. 1889)"]
+  source: original
+  tags: [wave2, W2b-TRT, other-torts, misrepresentation, fraud, scienter]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-TRT-0150
+  subject: TRT
+  coverage_ids: [TRT-MBE-IV.C, TRT-CBX-IV]
+  rule_ids: [R-TRT-109, R-TRT-070, R-TRT-107]
+  difficulty: 3
+  stem: >-
+    A landlord hired a land-use consultant to report on whether a vacant storefront could be used as a restaurant,
+    telling the consultant that the report would be given to prospective restaurant tenants. The consultant carelessly
+    misread the zoning map and reported that restaurant use was permitted. A restaurant operator received the report
+    from the landlord, relied on it, leased the space and spent $100,000 fitting it out before the city denied a
+    restaurant permit. He did not check the zoning with the city himself, as a careful business tenant would have
+    done. He sues the consultant for negligent misrepresentation. The jury finds that the consultant was negligent,
+    that the operator relied on the report, and that the operator was 25% at fault for failing to check with the city.
+    It assesses his damages at $100,000. The jurisdiction applies pure comparative negligence.
+  call: "How much will the operator recover?"
+  options:
+    A: "$100,000, because a plaintiff's own negligence is not a defense to a claim for misrepresentation."
+    B: "Nothing, because a plaintiff who fails to verify information readily available to him cannot recover for it."
+    C: "Nothing, because liability for misrepresentation requires that the defendant know the statement was false."
+    D: "$75,000, because his own negligence reduces his recovery for negligent misrepresentation by his share of fault."
+  answer: D
+  explanation_correct: >-
+    A professional who supplies false information for the guidance of others in their business transactions is liable
+    for pecuniary loss caused by justifiable reliance if he failed to use reasonable care, but only to the limited
+    group he intends or knows the information will reach (R-TRT-109). The consultant knew the report would go to
+    prospective restaurant tenants, carelessly misreported the zoning, and the operator relied on it to his loss.
+    Unlike fraud, negligent misrepresentation is subject to the plaintiff's comparative negligence (R-TRT-109,
+    R-TRT-070), so the operator recovers $100,000 less his 25% share, or $75,000.
+  explanation_each_wrong_option:
+    A: >-
+      Confused rule. A plaintiff's negligence is no defense to intentional misrepresentation (R-TRT-107), but it is a
+      defense to negligent misrepresentation, reducing recovery under comparative negligence.
+    B: >-
+      Overbroad. In a pure comparative-negligence jurisdiction the operator's failure to check reduces his recovery;
+      it does not bar it.
+    C: >-
+      Knowledge of falsity is required for fraud, not for negligent misrepresentation, which rests on a lack of
+      reasonable care in obtaining or communicating the information.
+  trap_type: confused-rule
+  authority: ["Restatement (Second) of Torts §§ 552, 552A"]
+  source: original
+  tags: [wave2, W2b-TRT, other-torts, misrepresentation, negligent-misrepresentation, comparative-fault]
+  status: draft
+  last_verified: "2026-11-04"

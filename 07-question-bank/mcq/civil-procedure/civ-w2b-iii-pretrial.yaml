@@ -1,0 +1,410 @@
+# Civil Procedure — NCBE category III: Pretrial procedures (wave 2, batch B, original items)
+questions:
+- id: Q-CIV-0122
+  subject: CIV
+  coverage_ids: [CIV-MBE-III.A]
+  rule_ids: [R-CIV-043, R-CIV-042]
+  difficulty: 2
+  stem: >-
+    After notice and a hearing, a federal court preliminarily enjoined Lustra Bags LLC "and its officers,
+    agents, servants, employees and attorneys" from selling handbags bearing a counterfeit of Corbel
+    Co.'s registered trademark. Two weeks later, Lustra's owner showed a copy of the injunction to Reyes,
+    an independent retailer, and Reyes agreed to sell Lustra's remaining stock of counterfeit bags from
+    her shop on Lustra's behalf in exchange for half the profits. Meanwhile Soto, another retailer who
+    has no connection with Lustra and has never heard of the lawsuit, sells counterfeit Corbel bags that
+    he buys from an unrelated overseas supplier. Corbel asks the court to hold Reyes and Soto in contempt
+    of the injunction.
+  call: "Which of them may the court hold in contempt of the injunction?"
+  options:
+    A: "Both, because an injunction against selling counterfeit goods binds everyone who engages in the prohibited conduct."
+    B: "Reyes only, because she acted in active concert with Lustra after receiving actual notice of the injunction."
+    C: "Neither, because a preliminary injunction binds only the parties named in the action and their employees."
+    D: "Neither, unless each was personally served by a marshal with a copy of the injunction before acting."
+  answer: B
+  explanation_correct: >-
+    An injunction binds only those who receive actual notice of it by personal service or otherwise:
+    the parties; the parties' officers, agents, servants, employees and attorneys; and other persons in
+    active concert or participation with any of them (FRCP 65(d)(2); R-CIV-043). Reyes received actual
+    notice when Lustra's owner showed her the order, and she then helped Lustra carry out the prohibited
+    sales for a share of the profits, which is active concert. Soto had no notice and acts independently,
+    so the injunction does not reach him; Corbel's remedy against him is a separate infringement suit.
+    Trap: treating an injunction as a rule that binds the world.
+  explanation_each_wrong_option:
+    A: >-
+      Overbroad. An injunction binds only the persons listed in Rule 65(d)(2) who receive actual notice,
+      and Soto is neither associated with Lustra nor on notice.
+    C: >-
+      Too narrow. Rule 65(d)(2)(C) also binds non-parties in active concert or participation with a party
+      who receive actual notice.
+    D: >-
+      Actual notice may come "by personal service or otherwise"; formal service by a marshal is not
+      required.
+  trap_type: overbroad
+  authority: ["FRCP 65(d)(2)"]
+  source: original
+  tags: [wave2, w2b, injunctions, persons-bound, contempt]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CIV-0123
+  subject: CIV
+  coverage_ids: [CIV-MBE-III.B, CIV-MBE-V.A]
+  rule_ids: [R-CIV-045, R-CIV-044, R-CIV-084]
+  difficulty: 1
+  stem: >-
+    Thorne Machining Co. sued Varga in federal court under diversity jurisdiction for fraud in the sale
+    of used industrial lathes. On this point the complaint alleges only that "Varga knowingly made false
+    statements about the condition of the lathes in order to induce Thorne to buy them, Thorne relied on
+    those statements, and Thorne suffered $300,000 in damages." The complaint does not identify any
+    statement, who made it, or when or how it was made. Varga moved to dismiss for failure to plead fraud
+    with particularity. Thorne responds that federal pleading requires only a short and plain statement
+    and that knowledge may be alleged generally.
+  call: "How should the court rule on the motion?"
+  options:
+    A: "Grant it, because the complaint does not state with particularity what was said, by whom and when."
+    B: "Deny it, because a complaint need contain only a short and plain statement showing that the pleader is entitled to relief."
+    C: "Deny it, because knowledge and intent to deceive may be alleged generally, and the complaint expressly alleges both of them."
+    D: "Grant it, because a fraud plaintiff must plead facts that would establish each element by clear and convincing evidence."
+  answer: A
+  explanation_correct: >-
+    In alleging fraud, a party must state with particularity the circumstances constituting the fraud,
+    typically the who, what, when, where and how of the misrepresentation, although malice, intent,
+    knowledge and other conditions of mind may be alleged generally (FRCP 9(b); R-CIV-045). Thorne's
+    complaint identifies no statement, speaker, time or manner, so it fails Rule 9(b), and the court
+    should dismiss, usually with leave to amend (R-CIV-084). Thorne is right that knowledge may be
+    pleaded generally, but that relaxation covers only the state of mind, not the circumstances of the
+    fraud. Trap: using Rule 8's general standard for a fraud claim.
+  explanation_each_wrong_option:
+    B: >-
+      Rule 8(a)(2) is the general standard, but Rule 9(b) imposes a heightened particularity requirement
+      for fraud and mistake (R-CIV-044, R-CIV-045).
+    C: >-
+      True but insufficient. Rule 9(b) lets conditions of mind be alleged generally, but the
+      circumstances of the fraud must still be stated with particularity, and they are missing.
+    D: >-
+      Wrong standard. A pleading must contain particular allegations, not proof; any heightened burden of
+      proof governs at trial, not on a motion to dismiss.
+  trap_type: true-but-irrelevant
+  authority: ["FRCP 9(b)", "FRCP 8(a)(2)", "FRCP 12(b)(6)"]
+  source: original
+  tags: [wave2, w2b, pleadings, rule-9b, fraud]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CIV-0124
+  subject: CIV
+  coverage_ids: [CIV-MBE-III.G, CIV-MBE-III.B]
+  rule_ids: [R-CIV-077, R-CIV-048]
+  difficulty: 2
+  stem: >-
+    In a federal breach-of-contract action, the court's scheduling order, entered after the parties'
+    Rule 26(f) conference, set March 1 as the deadline for amending pleadings. In January, the defendant
+    produced documents showing that it had also failed to pay for a second shipment, a breach not
+    mentioned in the complaint. On June 10, more than three months after the deadline, the plaintiff
+    moved for leave to amend to add a claim for the second shipment. The plaintiff offers no explanation
+    for the delay, and the defendant does not claim any particular prejudice. Trial is set for November.
+  call: "How should the court rule on the motion?"
+  options:
+    A: "Deny it, because the deadline in the scheduling order may be modified only for good cause, which the plaintiff has not shown."
+    B: "Grant it, because leave to amend should be freely given when justice so requires, and the defendant shows no prejudice."
+    C: "Deny it, because once a scheduling-order deadline has passed, a pleading may be amended only if needed to prevent manifest injustice."
+    D: "Grant it, because a party may amend its pleading once as a matter of course at any time before trial."
+  answer: A
+  explanation_correct: >-
+    Once a scheduling order sets a deadline for amending pleadings, the schedule may be modified only
+    for good cause and with the judge's consent (FRCP 16(b)(4); R-CIV-077). Courts generally measure good
+    cause chiefly by the movant's diligence in trying to meet the deadline. The plaintiff had the
+    documents in January, before the March 1 deadline, yet waited until June and offers no explanation,
+    so good cause is lacking even though the defendant shows no specific prejudice. Only if good cause
+    were shown would the court go on to the liberal Rule 15(a)(2) standard (R-CIV-048). Trap: applying
+    Rule 15's freely-given standard and skipping Rule 16(b)(4).
+  explanation_each_wrong_option:
+    B: >-
+      Rule 15(a)(2)'s liberal standard comes into play only after the movant shows good cause to modify
+      the scheduling-order deadline under Rule 16(b)(4).
+    C: >-
+      Confuses the standards. Manifest injustice governs modification of the order issued after a final
+      pretrial conference (FRCP 16(e)); a scheduling-order deadline requires good cause (FRCP 16(b)(4)).
+    D: >-
+      Amendment as a matter of course is limited to 21-day windows after serving the pleading or after
+      service of a responsive pleading or a Rule 12(b), (e) or (f) motion (FRCP 15(a)(1)); it is not
+      available at any time before trial.
+  trap_type: wrong-standard
+  authority: ["FRCP 16(b)(3)(A)", "FRCP 16(b)(4)", "FRCP 15(a)(2)"]
+  source: original
+  tags: [wave2, w2b, scheduling-order, amendment, good-cause]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CIV-0125
+  subject: CIV
+  coverage_ids: [CIV-MBE-III.C]
+  rule_ids: [R-CIV-051, R-CIV-050]
+  difficulty: 3
+  stem: >-
+    Represented by counsel, Whitcomb filed a federal complaint against her former landlord asserting a
+    claim that binding circuit precedent squarely forecloses; the complaint offers no argument for
+    extending, modifying or reversing that precedent. The landlord served a Rule 11 motion on Whitcomb's
+    lawyer, waited 21 days during which the claim was neither withdrawn nor corrected, and then filed the
+    motion. The court found that the claim was frivolous and, as the only sanction, ordered Whitcomb
+    personally to pay the landlord's $15,000 in attorney's fees. Whitcomb challenges the sanction.
+  call: "Was the sanction proper?"
+  options:
+    A: "Yes, because the landlord honored the 21-day safe harbor before filing its motion for sanctions."
+    B: "Yes, because a client who chooses to file suit is responsible for the legal contentions that her lawyer presents on her behalf."
+    C: "No, because Rule 11 sanctions may be imposed only on the court's own initiative, not on an opponent's motion."
+    D: "No, because a court may not impose a monetary sanction on a represented party for advancing frivolous legal contentions."
+  answer: D
+  explanation_correct: >-
+    Presenting a claim that is not warranted by existing law or by a nonfrivolous argument for changing
+    it violates Rule 11(b)(2) (R-CIV-050), and the landlord followed the safe-harbor procedure
+    (R-CIV-051). But Rule 11(c)(5)(A) forbids a monetary sanction against a represented party for
+    violating Rule 11(b)(2); responsibility for frivolous legal contentions rests with counsel. The court
+    could have sanctioned Whitcomb's lawyer (and, absent exceptional circumstances, the lawyer's firm,
+    FRCP 11(c)(1)), but it could not order Whitcomb herself to pay fees for the frivolous legal claim.
+    Trap: overlooking the represented-party exception.
+  explanation_each_wrong_option:
+    A: >-
+      True but irrelevant. Compliance with the safe harbor allows the motion to be filed, but it does not
+      lift Rule 11(c)(5)(A)'s bar on monetary sanctions against a represented party for legal contentions.
+    B: >-
+      Rule 11 places responsibility for frivolous legal contentions on the lawyer who signs the paper;
+      Rule 11(c)(5)(A) protects the represented client from monetary sanctions for them.
+    C: >-
+      Rule 11(c)(2) expressly authorizes a party's motion for sanctions after the safe harbor; the court
+      may also act on its own under Rule 11(c)(3).
+  trap_type: exception-trap
+  authority: ["FRCP 11(b)(2)", "FRCP 11(c)(1)-(3)", "FRCP 11(c)(5)(A)"]
+  source: original
+  tags: [wave2, w2b, rule-11, sanctions, represented-party]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CIV-0126
+  subject: CIV
+  coverage_ids: [CIV-MBE-III.D]
+  rule_ids: [R-CIV-054, R-CIV-055, R-CIV-047]
+  difficulty: 1
+  stem: >-
+    Alcott, a cyclist and a citizen of State P, was struck at an intersection by a delivery van driven by
+    Benning, a citizen of State Q. Alcott sued Benning in federal court in State P under diversity
+    jurisdiction, seeking $250,000. Benning moved under Rule 12(b)(7) to dismiss for failure to join the
+    City of Fairhaven, a political subdivision of State P, arguing that the city negligently maintained
+    the traffic signal at the intersection and that, under State P law, he and the city would be jointly
+    and severally liable for Alcott's injuries. Joining the city would destroy diversity.
+  call: "How should the court rule on Benning's motion?"
+  options:
+    A: "Grant it, because the city is a required party whose joinder would destroy diversity, so the action cannot proceed without it."
+    B: "Deny it, because a joint tortfeasor is not a required party, and complete relief can be accorded between Alcott and Benning."
+    C: "Grant it, because without the city Benning faces a substantial risk of inconsistent obligations if the city is later found at fault."
+    D: "Deny it, because a failure-to-join defense is waived unless it is raised in the defendant's answer rather than by motion."
+  answer: B
+  explanation_correct: >-
+    A person must be joined under Rule 19(a) only if complete relief cannot be accorded without it, or if
+    it claims an interest that its absence would impair or that would expose a party to inconsistent
+    obligations (R-CIV-054). Joint tortfeasors who are jointly and severally liable are merely permissive
+    parties, not required ones (Temple v. Synthes). Alcott can obtain a complete money judgment against
+    Benning alone, nothing indicates that the city has claimed any interest in the action, and Benning
+    can pursue contribution separately. Because the city is not a required party, the Rule 19(b)
+    analysis of whether to proceed without it is never reached (R-CIV-055). Trap: treating every
+    possible co-tortfeasor as indispensable.
+  explanation_each_wrong_option:
+    A: >-
+      The city is not a required party at all, so there is no Rule 19(b) question; under Temple the
+      absence of a jointly and severally liable tortfeasor does not call for dismissal.
+    C: >-
+      Courts generally read inconsistent obligations to mean being unable to comply with one order
+      without breaching another; the possibility that Benning pays Alcott and must then seek contribution from
+      the city is not that kind of risk.
+    D: >-
+      A Rule 19 defense may be raised by Rule 12(b)(7) motion and survives even to trial (FRCP 12(h)(2);
+      R-CIV-047); raising it by motion does not waive it.
+  trap_type: confused-rule
+  authority: ["FRCP 19(a)(1)", "FRCP 12(b)(7)", "FRCP 12(h)(2)", "Temple v. Synthes Corp., 498 U.S. 5 (1990)"]
+  source: original
+  tags: [wave2, w2b, joinder, rule-19, joint-tortfeasors]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CIV-0127
+  subject: CIV
+  coverage_ids: [CIV-MBE-III.D]
+  rule_ids: [R-CIV-060, R-CIV-061]
+  difficulty: 2
+  stem: >-
+    A federal court certified a Rule 23(b)(3) class of 60,000 customers of Brightwire Internet Inc. who
+    paid an allegedly unlawful "network maintenance fee." Brightwire's billing records list each class
+    member's name, mailing address and email address. To save money, the class representatives propose
+    to give notice of the class action only by a single advertisement in a national newspaper and a
+    posting on class counsel's website. Alternatively, they ask the court to order Brightwire to pay for
+    any individual notice because Brightwire holds the contact information.
+  call: "Which of the following correctly states the notice requirement?"
+  options:
+    A: "Publication suffices, because members of a certified class are bound by the judgment whether or not they receive actual notice."
+    B: "No notice is required until the case is settled or tried, because notice protects only members' right to share in a recovery."
+    C: "Individual notice must be sent to members identifiable through reasonable effort, ordinarily at the class representatives' expense."
+    D: "Individual notice is required, and Brightwire must pay for it because it holds the class members' names and addresses."
+  answer: C
+  explanation_correct: >-
+    For a class certified under Rule 23(b)(3), the court must direct to class members the best notice
+    that is practicable under the circumstances, including individual notice to all members who can be
+    identified through reasonable effort; notice may be given by mail, electronic means or other
+    appropriate means, and it must tell members that they may request exclusion (FRCP 23(c)(2)(B);
+    R-CIV-060). Brightwire's records identify every member, so publication alone will not do. The
+    representative plaintiffs ordinarily bear the cost of notice (Eisen v. Carlisle & Jacquelin). Trap:
+    assuming that the party holding the records must pay.
+  explanation_each_wrong_option:
+    A: >-
+      Members of a (b)(3) class are bound only if they received the required notice and an opportunity to
+      opt out (R-CIV-061); publication is not the best practicable notice when members' addresses are
+      known.
+    B: >-
+      Rule 23(c)(2)(B) requires notice to a (b)(3) class after certification so that members can decide
+      whether to opt out; it is not deferred until settlement or trial.
+    D: >-
+      Holding the contact information does not shift the cost; under Eisen the representative plaintiffs
+      ordinarily pay for notice to the class.
+  trap_type: missing-element
+  authority: ["FRCP 23(c)(2)(B)", "Eisen v. Carlisle & Jacquelin, 417 U.S. 156 (1974)"]
+  source: original
+  tags: [wave2, w2b, class-actions, notice, opt-out]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CIV-0128
+  subject: CIV
+  coverage_ids: [CIV-MBE-III.E]
+  rule_ids: [R-CIV-062, R-CIV-073, R-CIV-063]
+  difficulty: 1
+  stem: >-
+    In a federal contract action, the defendant's initial disclosures listed three witnesses it might use
+    to support its defenses but did not list Sparrow, a former sales manager whose testimony supports the
+    defense and whose identity the defendant had known from the start of the case. The defendant never
+    supplemented its disclosures, and Sparrow's name never came up during discovery, which closed in May.
+    At trial in September, the defendant called Sparrow to testify that the plaintiff had orally agreed to
+    a later delivery date. The plaintiff objected, explaining that it had never heard of Sparrow and had
+    no chance to depose her. The defendant offers no explanation for the omission.
+  call: "How should the court rule on the objection?"
+  options:
+    A: "Overrule it, because a party must disclose a witness only if the opposing party asked for the witness's identity in an interrogatory."
+    B: "Sustain it, because the defendant's failure to disclose this witness was neither substantially justified nor harmless."
+    C: "Overrule it, because the plaintiff's only remedy for a missing disclosure was a pretrial motion to compel, which it never filed."
+    D: "Sustain it, because no witness omitted from a party's initial disclosures may ever testify at trial for that party."
+  answer: B
+  explanation_correct: >-
+    Without awaiting a discovery request, a party must disclose each individual likely to have
+    discoverable information that it may use to support its claims or defenses, and it must supplement
+    disclosures that are incomplete (FRCP 26(a)(1)(A)(i), 26(e)(1); R-CIV-062). A party that fails to
+    identify a witness as required may not use that witness at trial unless the failure was
+    substantially justified or is harmless (FRCP 37(c)(1); R-CIV-073). The defendant knew of Sparrow from
+    the start and gives no reason for the omission, and the plaintiff, surprised at trial, could not
+    depose her, so the failure was neither justified nor harmless. Trap: treating disclosure as owed only
+    on request.
+  explanation_each_wrong_option:
+    A: >-
+      Initial disclosures are automatic; Rule 26(a)(1) requires them without any discovery request.
+    C: >-
+      Exclusion under Rule 37(c)(1) applies of its own force at trial; a motion to compel is one way to
+      obtain missing disclosures, not a precondition to excluding an undisclosed witness.
+    D: >-
+      Overbroad. Rule 37(c)(1) excuses a failure that was substantially justified or harmless, and no
+      supplementation is needed for a witness otherwise made known during discovery (FRCP 26(e)(1)(A)).
+  trap_type: confused-rule
+  authority: ["FRCP 26(a)(1)(A)(i)", "FRCP 26(e)(1)", "FRCP 37(c)(1)"]
+  source: original
+  tags: [wave2, w2b, discovery, initial-disclosures, exclusion]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CIV-0129
+  subject: CIV
+  coverage_ids: [CIV-MBE-III.E]
+  rule_ids: [R-CIV-068]
+  difficulty: 2
+  stem: >-
+    Strickland sued Pinecrest Motors Inc. in federal court, alleging that a defective brake assembly
+    caused her crash. During discovery Strickland deposed Gaines, who was then Pinecrest's vice
+    president of engineering, a corporate officer. Gaines testified that Pinecrest's engineers had
+    reported brake failures in the same model a year before Strickland's crash. At trial, during her
+    case-in-chief, Strickland offered excerpts of Gaines's deposition. Gaines, still Pinecrest's vice
+    president, was sitting in the courtroom and available to testify. Pinecrest objected that the
+    deposition is hearsay and that Gaines is available.
+  call: "How should the court rule on Pinecrest's objection?"
+  options:
+    A: "Sustain it, because a deposition may be used at trial in place of live testimony only if the deponent is unavailable."
+    B: "Sustain it, because a party may use deposition testimony at trial only to contradict or impeach the deponent."
+    C: "Overrule it, but only if Strickland first calls Gaines to the stand and his live testimony is inconsistent with the deposition."
+    D: "Overrule it, because an adverse party may use for any purpose the deposition of a party's officer, whether or not he is available."
+  answer: D
+  explanation_correct: >-
+    An adverse party may use for any purpose the deposition of a party or of anyone who, when deposed,
+    was the party's officer, director, managing agent or Rule 30(b)(6) designee (FRCP 32(a)(3);
+    R-CIV-068). Gaines was Pinecrest's officer when deposed, so Strickland may read his testimony as
+    substantive evidence in her case-in-chief, and his availability does not matter; the unavailability
+    conditions of Rule 32(a)(4) apply to other witnesses. The use remains subject to the Federal Rules of
+    Evidence as if Gaines were testifying (FRCP 32(a)(1)(B)). FRE 802 recognizes hearsay exceptions
+    provided by other rules prescribed by the Supreme Court, which include Rule 32, and an officer's
+    statement on a matter within the scope of his position is in any event an opposing party's statement
+    (FRE 801(d)(2)(D)). Trap: applying the unavailability rule for ordinary witnesses.
+  explanation_each_wrong_option:
+    A: >-
+      Confuses Rule 32(a)(4), which governs any witness's deposition and requires unavailability, with
+      Rule 32(a)(3), which lets an adverse party use a party officer's deposition for any purpose.
+    B: >-
+      Impeachment is one permitted use of any deposition (FRCP 32(a)(2)), but not the only one; Rule
+      32(a)(3) allows substantive use of a party officer's deposition.
+    C: >-
+      Rule 32(a)(3) does not require that the officer first testify live or be impeached; the deposition
+      may be used for any purpose.
+  trap_type: confused-rule
+  authority: ["FRCP 32(a)(1)-(4)", "FRE 801(d)(2)(D)", "FRE 802"]
+  source: original
+  tags: [wave2, w2b, discovery, depositions, use-at-trial]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CIV-0130
+  subject: CIV
+  coverage_ids: [CIV-MBE-III.F]
+  rule_ids: [R-CIV-074]
+  difficulty: 2
+  stem: >-
+    Prewitt, a citizen of State F, sued Hale Supply Co., which is incorporated and headquartered in State
+    G, in federal court under diversity jurisdiction for breach of a distribution agreement, seeking
+    $400,000. Hale served an answer that included a counterclaim for $95,000 in unpaid invoices under the
+    same agreement. Two months later, before any motion for summary judgment, Prewitt filed a document
+    titled "Notice of Voluntary Dismissal Without Prejudice." Hale objected and asked that its
+    counterclaim be adjudicated.
+  call: "What is the effect of Prewitt's filing?"
+  options:
+    A: "None by itself; only a court order can now dismiss, and over Hale's objection only if its counterclaim can remain pending independently."
+    B: "It dismisses the entire action, including the counterclaim, because a plaintiff may dismiss by notice at any time before trial begins."
+    C: "It dismisses Prewitt's claims without prejudice, and Hale must bring its counterclaim as a separate action in a court with jurisdiction."
+    D: "It dismisses Prewitt's claims with prejudice, because a notice of dismissal filed after an answer operates as an adjudication on the merits."
+  answer: A
+  explanation_correct: >-
+    A plaintiff may dismiss without a court order by notice only before the opposing party serves an
+    answer or a motion for summary judgment, or by a stipulation signed by all parties who have appeared
+    (FRCP 41(a)(1)(A); R-CIV-074). Hale has answered and does not agree, so Prewitt's notice is
+    ineffective, and the action may be dismissed only by court order on terms the court considers proper
+    (FRCP 41(a)(2)). Because Hale pleaded its counterclaim before being served with any request for
+    dismissal, the court may dismiss over Hale's objection only if the counterclaim can remain pending
+    for independent adjudication, as it can here: Hale (State G) and Prewitt (State F) are diverse and the
+    counterclaim exceeds $75,000. Trap: borrowing the California rule that allows dismissal any time
+    before trial.
+  explanation_each_wrong_option:
+    B: >-
+      States the California rule (CCP § 581(c)), not the federal one; in federal court the right to
+      dismiss by notice ends when the defendant serves an answer or a summary-judgment motion.
+    C: >-
+      The notice has no effect because it came after Hale's answer, and nothing in Rule 41 pushes a
+      pending counterclaim out of the case.
+    D: >-
+      A notice of dismissal operates as an adjudication on the merits only under the two-dismissal rule;
+      a notice filed after an answer is simply ineffective.
+  trap_type: minority-rule
+  authority: ["FRCP 41(a)(1)(A)-(B)", "FRCP 41(a)(2)"]
+  source: original
+  tags: [wave2, w2b, voluntary-dismissal, counterclaim]
+  status: draft
+  last_verified: 2026-11-04

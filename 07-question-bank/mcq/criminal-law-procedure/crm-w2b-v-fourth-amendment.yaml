@@ -1,0 +1,465 @@
+# Criminal Law and Procedure — NCBE category V.A: arrest, search and seizure (Fourth Amendment)
+# Original MBE-style items (wave 2, batch B). Federal constitutional law as the Supreme Court reads it.
+questions:
+- id: Q-CRM-0125
+  subject: CRM
+  coverage_ids: [CRM-MBE-V.A]
+  rule_ids: [R-CRM-072, R-CRM-073]
+  difficulty: 2
+  stem: >-
+    A man left his laptop at a privately owned repair shop to have its hard drive replaced. Acting entirely on
+    his own, a technician opened a folder named "Receipts" to check whether the old drive was readable and saw
+    a spreadsheet listing about 300 credit-card numbers with their owners' names and security codes. The
+    technician called the police. When an officer arrived, the technician showed him that same folder and
+    spreadsheet, and the officer looked at nothing else. The officer seized the laptop and later obtained a
+    warrant to search the rest of the drive. The man moves to suppress the officer's observation of the
+    spreadsheet.
+  call: "Should the motion be granted?"
+  options:
+    A: "No, because the officer viewed only what the technician had already seen in a private search."
+    B: "No, because the man gave up any expectation of privacy in his files by leaving the laptop for repair."
+    C: "Yes, because the officer needed a warrant before looking at any file stored on the laptop."
+    D: "Yes, because the technician became a government agent when he decided to call the police."
+  answer: A
+  explanation_correct: >-
+    A is correct. The Fourth Amendment restricts only government action; a search by a private person acting
+    on his own initiative is not covered, and police may repeat a private search without a warrant so long as
+    they do not exceed its scope (R-CRM-072; United States v. Jacobsen). The technician's viewing frustrated
+    the man's expectation of privacy in that spreadsheet, and the officer looked at nothing more, so the
+    officer's viewing was not a further search.
+  explanation_each_wrong_option:
+    B: >-
+      Overbroad. Leaving a laptop for repair does not forfeit all privacy in its contents; the officer could
+      not have opened files beyond those the technician had viewed (R-CRM-072, R-CRM-073).
+    C: >-
+      Confused rule. A warrant was needed to go beyond the private search, which is why the officer later
+      obtained one, but not to replicate what the technician had already exposed (R-CRM-072).
+    D: >-
+      A private person who searches on his own and then reports what he found does not become a government
+      agent; agency requires that the government direct or instigate the search (R-CRM-072).
+  trap_type: confused-rule
+  authority: ["U.S. Const. amend. IV", "United States v. Jacobsen, 466 U.S. 109 (1984)"]
+  source: original
+  tags: [wave2, fourth-amendment, government-action, private-search]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CRM-0126
+  subject: CRM
+  coverage_ids: [CRM-MBE-V.A]
+  rule_ids: [R-CRM-074, R-CRM-091, R-CRM-073]
+  difficulty: 1
+  stem: >-
+    Suspecting that a woman was running a check-forgery operation from her home, two detectives drove to her
+    street at 5 a.m. on trash-collection day and took the closed, opaque garbage bags she had placed on the
+    curb in front of her house for pickup by the city. In the bags they found shredded blank check stock and
+    sheets of practice signatures. Based on these items, they obtained a warrant to search her house, where
+    they found forged checks. She moves to suppress the trash evidence and the checks.
+  call: "Should the motion be granted?"
+  options:
+    A: "Yes, because by closing her opaque bags she showed that she expected their contents to stay private."
+    B: "Yes, because the detectives had no probable cause when they took the bags from the curb."
+    C: "No, because the detectives obtained a warrant before they searched her house."
+    D: "No, because she had no reasonable expectation of privacy in trash left at the curb for collection."
+  answer: D
+  explanation_correct: >-
+    D is correct. A person has no reasonable expectation of privacy in garbage left at the curb for
+    collection, because it is readily accessible to animals, scavengers and the public and has been conveyed
+    to a third party (R-CRM-074; California v. Greenwood). Taking and examining the bags was not a search, so
+    no justification was needed, and the warrant based on their contents was valid.
+  explanation_each_wrong_option:
+    A: >-
+      A subjective expectation of privacy is only half of the Katz test; society does not recognize as
+      reasonable an expectation of privacy in trash set out for collection (R-CRM-073, R-CRM-074).
+    B: >-
+      Because taking curbside trash is not a search, no probable cause or other justification was required
+      (R-CRM-074).
+    C: >-
+      Right result, wrong reason. The warrant rested on the trash evidence; if taking the trash had been an
+      unlawful search, the warrant and the checks would be fruit of it (R-CRM-091). The evidence is admissible
+      because there was no search at all.
+  trap_type: right-result-wrong-reason
+  authority: ["U.S. Const. amend. IV", "California v. Greenwood, 486 U.S. 35 (1988)"]
+  source: original
+  tags: [wave2, fourth-amendment, garbage, expectation-of-privacy]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CRM-0127
+  subject: CRM
+  coverage_ids: [CRM-MBE-V.A]
+  rule_ids: [R-CRM-073, R-CRM-082]
+  difficulty: 2
+  stem: >-
+    Suspecting that a man was growing marijuana indoors in violation of state law, two officers parked on the
+    public street in front of his house one night and aimed a thermal-imaging device at the house for several
+    minutes. The device is not in general public use. It showed that the roof and walls over the man's
+    attached garage were much warmer than the rest of the house, a pattern consistent with high-intensity grow
+    lamps. The officers used the readings to obtain a search warrant. The man argues that the use of the device
+    violated his Fourth Amendment rights.
+  call: "Was the officers' use of the thermal-imaging device a Fourth Amendment search?"
+  options:
+    A: "No, because the officers stayed on a public street and never entered or touched his property."
+    B: "No, because the device measured only heat that radiated from the house into public space."
+    C: "Yes, because they used technology not in general public use to learn about a home's interior."
+    D: "Yes, because the officers lacked reasonable suspicion of a crime when they used the device."
+  answer: C
+  explanation_correct: >-
+    C is correct. Using sense-enhancing technology that is not in general public use to obtain information
+    about the interior of a home that could not otherwise be obtained without physical intrusion is a search
+    (R-CRM-073; Kyllo v. United States). The device revealed the relative heat of rooms inside the house,
+    information the officers could not have gained without entering, so its use required a warrant.
+  explanation_each_wrong_option:
+    A: >-
+      Confused rule. The absence of a physical trespass defeats only the property-based test; under the Katz
+      reasonable-expectation test, technology aimed at a home from a public place can still be a search
+      (R-CRM-073).
+    B: >-
+      The "off-the-wall" versus "through-the-wall" distinction was rejected; what matters is that the
+      technology revealed details of the home's interior (R-CRM-073).
+    D: >-
+      Wrong standard. A search of a home generally requires a warrant supported by probable cause; reasonable
+      suspicion would not have made the use of the device lawful (R-CRM-073, R-CRM-082).
+  trap_type: confused-rule
+  authority: ["U.S. Const. amend. IV", "Kyllo v. United States, 533 U.S. 27 (2001)", "Katz v. United States, 389 U.S. 347 (1967)"]
+  source: original
+  tags: [wave2, fourth-amendment, what-is-a-search, technology, home]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CRM-0128
+  subject: CRM
+  coverage_ids: [CRM-MBE-V.A]
+  rule_ids: [R-CRM-079, R-CRM-074]
+  difficulty: 2
+  stem: >-
+    An officer stopped a driver for going 12 miles per hour over the speed limit. Within five minutes the
+    officer had checked the driver's license, registration and insurance, all of which were valid, and had
+    everything needed to write a citation. Instead of writing it, the officer radioed for a drug-detection dog
+    and waited ten minutes for it to arrive, keeping the driver at the roadside. The officer had no reason to
+    suspect drugs. The dog walked around the car and alerted, and a search of the trunk revealed heroin. The
+    officer then wrote the speeding citation. The driver moves to suppress the heroin.
+  call: "Should the motion be granted?"
+  options:
+    A: "No, because a dog sniff of the outside of a car is not a Fourth Amendment search."
+    B: "Yes, because the officer extended the stop to await the dog without reasonable suspicion."
+    C: "No, because a ten-minute wait is only a minimal additional intrusion on a lawfully stopped driver."
+    D: "Yes, because a dog sniff during a traffic stop is permitted only if the officer has probable cause."
+  answer: B
+  explanation_correct: >-
+    B is correct. A traffic stop may last no longer than needed to complete its mission — addressing the
+    violation and related checks of license, registration and insurance. Police may not prolong the stop to
+    conduct a dog sniff without independent reasonable suspicion (R-CRM-079; Rodriguez v. United States).
+    The officer could have finished the stop after five minutes but held the driver for ten more solely to
+    await the dog, so the detention was unlawful when the alert occurred.
+  explanation_each_wrong_option:
+    A: >-
+      The sniff itself is not a search (R-CRM-074; Illinois v. Caballes), but that does not answer the
+      problem: the driver was unlawfully seized during the added ten minutes (R-CRM-079).
+    C: >-
+      Wrong standard. There is no de minimis exception; any unjustified extension of the stop beyond its
+      mission violates the Fourth Amendment (R-CRM-079).
+    D: >-
+      A sniff conducted while the stop is still being diligently pursued needs no suspicion at all; the defect
+      is the prolongation, and reasonable suspicion, not probable cause, would have justified it (R-CRM-079).
+  trap_type: wrong-standard
+  authority: ["U.S. Const. amend. IV", "Rodriguez v. United States, 575 U.S. 348 (2015)", "Illinois v. Caballes, 543 U.S. 405 (2005)"]
+  source: original
+  tags: [wave2, fourth-amendment, traffic-stop, dog-sniff, prolonged-detention]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CRM-0129
+  subject: CRM
+  coverage_ids: [CRM-MBE-V.A]
+  rule_ids: [R-CRM-080, R-CRM-085]
+  difficulty: 2
+  stem: >-
+    Detectives developed probable cause to believe that a man had committed a burglary two weeks earlier.
+    Although they had ample time to obtain an arrest warrant, they did not seek one. At noon they knocked on
+    the front door of his house. When he opened it, they stepped past him into the living room, told him he was
+    under arrest and handcuffed him there. From where they stood, they saw a painting taken in the burglary
+    hanging on the wall, and they seized it. There was no emergency, and the man did not consent to their
+    entry. He moves to suppress the painting.
+  call: "Should the motion be granted?"
+  options:
+    A: "Yes, because without exigency or consent, entering his home to arrest him required a warrant."
+    B: "No, because the detectives had probable cause to arrest him for a felony when they entered."
+    C: "No, because the painting was in plain view from the spot where the detectives were standing."
+    D: "Yes, because a warrant is required for any arrest made more than a few days after the crime."
+  answer: A
+  explanation_correct: >-
+    A is correct. Police may arrest in a public place on probable cause without a warrant, but absent
+    exigency or consent they need an arrest warrant to enter the suspect's home to arrest him (R-CRM-080;
+    Payton v. New York). The detectives entered without a warrant, exigency or consent, so they were not
+    lawfully in the living room, and the plain-view seizure that followed cannot stand (R-CRM-085).
+  explanation_each_wrong_option:
+    B: >-
+      Probable cause justifies a warrantless arrest in public, not a warrantless entry into the home to make
+      the arrest (R-CRM-080).
+    C: >-
+      Exception trap. Plain view requires that officers be lawfully at the vantage point; the detectives saw the
+      painting only because of the unlawful entry (R-CRM-085).
+    D: >-
+      Overbroad. A felony arrest in a public place needs no warrant however long after the crime it occurs; the
+      warrant requirement here comes from the entry into the home (R-CRM-080).
+  trap_type: exception-trap
+  authority: ["U.S. Const. amend. IV", "Payton v. New York, 445 U.S. 573 (1980)", "United States v. Watson, 423 U.S. 411 (1976)", "Horton v. California, 496 U.S. 128 (1990)"]
+  source: original
+  tags: [wave2, fourth-amendment, arrest, home-entry, plain-view]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CRM-0130
+  subject: CRM
+  coverage_ids: [CRM-MBE-V.A]
+  rule_ids: [R-CRM-086]
+  difficulty: 3
+  stem: >-
+    Officers investigating a man for selling stolen power tools knocked on the door of his apartment. Another
+    man answered. He told the officers that he was the tenant's roommate, showed them a key to the apartment
+    and said that they could come in and look around. Several pieces of men's clothing and a stack of mail
+    addressed to him were visible on a chair near the door, and nothing in the situation suggested that he was
+    not a resident. In fact, he had moved out a month earlier and had kept a key without the tenant's
+    knowledge. In a hall closet the officers found stolen tools. The tenant moves to suppress them.
+  call: "Should the motion be granted?"
+  options:
+    A: "Yes, because the person who consented had no actual authority over the apartment."
+    B: "Yes, because the officers did not tell the person who consented that he could refuse."
+    C: "No, because anyone who answers the door of a dwelling may consent to a search of it."
+    D: "No, because the officers reasonably believed that the person had authority to consent."
+  answer: D
+  explanation_correct: >-
+    D is correct. A warrantless entry and search are valid if a person with actual or apparent authority
+    voluntarily consents; apparent authority exists when the facts available to the officers would lead a
+    reasonable officer to believe that the person had common authority over the premises (R-CRM-086; Illinois
+    v. Rodriguez). The key, the man's statement, and the clothing and mail addressed to him made the officers'
+    belief reasonable, so the consent validated the search even though he lacked actual authority.
+  explanation_each_wrong_option:
+    A: >-
+      Confused rule. Lack of actual authority is not decisive; the Fourth Amendment requires only that the
+      officers' belief in the person's authority be objectively reasonable (R-CRM-086).
+    B: >-
+      Knowledge of the right to refuse is a factor in voluntariness, not a requirement (R-CRM-086; Schneckloth
+      v. Bustamonte).
+    C: >-
+      Overbroad. Third-party consent requires actual common authority or facts making a belief in such authority
+      reasonable; merely answering the door is not enough (R-CRM-086).
+  trap_type: confused-rule
+  authority: ["U.S. Const. amend. IV", "Illinois v. Rodriguez, 497 U.S. 177 (1990)", "United States v. Matlock, 415 U.S. 164 (1974)"]
+  source: original
+  tags: [wave2, fourth-amendment, consent, apparent-authority]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CRM-0131
+  subject: CRM
+  coverage_ids: [CRM-MBE-V.A]
+  rule_ids: [R-CRM-088, R-CRM-083, R-CRM-084]
+  difficulty: 2
+  stem: >-
+    Police lawfully arrested a man for driving with a suspended license. A written department policy requires
+    that the car of an arrested driver be impounded when no licensed passenger is present, and that officers
+    inventory the contents of every impounded car, including any closed containers, on a standard form. No
+    licensed passenger was present, and the car was towed to the police lot. Following the policy, an officer
+    opened a zipped gym bag in the trunk and found a pistol whose serial number had been filed off. The officer
+    had no suspicion of any other crime. The man, charged with possessing the defaced pistol, moves to
+    suppress it.
+  call: "Should the motion be granted?"
+  options:
+    A: "Yes, because the officers had no probable cause to believe that the car contained contraband."
+    B: "Yes, because a search incident to the arrest could not extend to the trunk of the car."
+    C: "No, because the officer was conducting a standardized inventory of a lawfully impounded car."
+    D: "No, because a driver arrested for a traffic offense loses any expectation of privacy in his car."
+  answer: C
+  explanation_correct: >-
+    C is correct. An inventory search of a lawfully impounded vehicle, conducted under standardized police
+    procedures, is reasonable without a warrant or probable cause; opening closed containers is permitted when
+    the standard policy covers them (R-CRM-088; Colorado v. Bertine; Florida v. Wells). The impoundment and the
+    inventory both followed written policy, and the policy expressly covered closed containers.
+  explanation_each_wrong_option:
+    A: >-
+      Wrong standard. Probable cause is required for the automobile exception, not for an inventory, which
+      serves caretaking purposes and is justified by standardized procedures (R-CRM-084, R-CRM-088).
+    B: >-
+      True but irrelevant. A search incident to arrest could not reach the trunk (R-CRM-083), but the search
+      here is justified on a different ground: the inventory (R-CRM-088).
+    D: >-
+      Overbroad. An arrest does not eliminate the driver's privacy interest in his car; the search is valid
+      only because it fits the inventory exception (R-CRM-088).
+  trap_type: true-but-irrelevant
+  authority: ["U.S. Const. amend. IV", "Colorado v. Bertine, 479 U.S. 367 (1987)", "Florida v. Wells, 495 U.S. 1 (1990)"]
+  source: original
+  tags: [wave2, fourth-amendment, inventory-search]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CRM-0132
+  subject: CRM
+  coverage_ids: [CRM-MBE-V.A]
+  rule_ids: [R-CRM-091, R-CRM-083]
+  difficulty: 3
+  stem: >-
+    After a jogger disappeared in a state forest, 150 volunteers working under a sheriff's written plan began
+    searching the forest sector by sector. Detectives arrested a suspect on probable cause and, without a
+    warrant, consent or any emergency, searched the location history stored on his phone. It showed that he had
+    spent an hour beside a ravine in the forest on the day of the disappearance. Detectives went to the ravine
+    and found the jogger's body, with the suspect's DNA under her fingernails. The ravine lay in the sector the
+    volunteers were then searching, a quarter mile from where they were working, and the court finds that they
+    would have found the body, in the same condition, within two hours. The suspect moves to suppress the body
+    and the DNA evidence.
+  call: "How should the court rule on the motion?"
+  options:
+    A: "Grant it, because the detectives found the body only by exploiting their unlawful search of the phone."
+    B: "Deny it, because the body and the evidence on it would inevitably have been discovered by lawful means."
+    C: "Deny it, because the detectives had probable cause to arrest the suspect before they searched the phone."
+    D: "Grant it, because the exception applies only to evidence the police first found by lawful means."
+  answer: B
+  explanation_correct: >-
+    B is correct. The phone search violated Riley, which requires a warrant to search a phone's data incident to
+    arrest (R-CRM-083), and the body was discovered as a result. But derivative evidence is admissible if the
+    prosecution shows by a preponderance that it would inevitably have been discovered by lawful means
+    (R-CRM-091; Nix v. Williams). An organized search already under way in that very sector would have found
+    the body, in the same condition, within two hours.
+  explanation_each_wrong_option:
+    A: >-
+      The body is fruit of the illegal search, but fruit is still admitted when the prosecution proves an
+      exception such as inevitable discovery (R-CRM-091).
+    C: >-
+      Right result, wrong reason. A lawful arrest permits a search of the person but not of the data on his
+      phone; probable cause to arrest does not cure the Riley violation (R-CRM-083).
+    D: >-
+      Confuses inevitable discovery with the independent-source doctrine. Independent source applies to
+      evidence actually obtained through a lawful source; inevitable discovery applies to evidence that would
+      have been found lawfully but was not (R-CRM-091).
+  trap_type: exception-trap
+  authority: ["U.S. Const. amend. IV", "Nix v. Williams, 467 U.S. 431 (1984)", "Riley v. California, 573 U.S. 373 (2014)", "Murray v. United States, 487 U.S. 533 (1988)"]
+  source: original
+  tags: [wave2, fourth-amendment, inevitable-discovery, fruit-of-the-poisonous-tree]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CRM-0133
+  subject: CRM
+  coverage_ids: [CRM-MBE-V.A]
+  rule_ids: [R-CRM-090]
+  difficulty: 2
+  stem: >-
+    Officers stopped a woman's car without reasonable suspicion and searched it, finding a bundle of
+    counterfeit $100 bills under the driver's seat. The trial court suppressed the bills from the prosecution's
+    case-in-chief. At her trial for passing a counterfeit $100 bill at a store, the woman testified on direct
+    examination that she had never possessed or even seen counterfeit money in her life. The prosecutor now
+    asks to cross-examine her about the bills found in her car and to introduce them solely to impeach that
+    testimony.
+  call: "Should the court allow the prosecutor to use the bills for that purpose?"
+  options:
+    A: "Yes, because illegally obtained evidence may be used to impeach the defendant's own testimony."
+    B: "No, because evidence suppressed under the exclusionary rule may not be used for any purpose at trial."
+    C: "Yes, because the bills in the car are evidence of a different crime from the one charged."
+    D: "No, because only statements, not physical evidence, obtained unlawfully may be used to impeach."
+  answer: A
+  explanation_correct: >-
+    A is correct. The exclusionary rule bars unlawfully seized evidence from the prosecution's case-in-chief,
+    but it does not bar using that evidence to impeach the defendant's own testimony, because allowing a
+    defendant to testify falsely in reliance on the suppression would serve no deterrent purpose (R-CRM-090;
+    Walder v. United States; United States v. Havens). Her sweeping denial on direct opened the door. The jury
+    should be told to consider the bills only on credibility.
+  explanation_each_wrong_option:
+    B: >-
+      Overbroad. Suppression is limited to the case-in-chief; impeachment of the defendant's own testimony and
+      proceedings such as grand juries fall outside the rule (R-CRM-090).
+    C: >-
+      Wrong reason. The exclusionary rule applies to unlawfully obtained evidence of any crime; the bills are
+      usable only because of the impeachment exception (R-CRM-090).
+    D: >-
+      The impeachment exception covers physical evidence as well as statements; Walder itself involved heroin
+      unlawfully seized (R-CRM-090).
+  trap_type: overbroad
+  authority: ["U.S. Const. amend. IV", "Walder v. United States, 347 U.S. 62 (1954)", "United States v. Havens, 446 U.S. 620 (1980)"]
+  source: original
+  tags: [wave2, fourth-amendment, exclusionary-rule, impeachment]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CRM-0134
+  subject: CRM
+  coverage_ids: [CRM-MBE-V.A]
+  rule_ids: [R-CRM-077, R-CRM-076, R-CRM-080]
+  difficulty: 2
+  stem: >-
+    Two uniformed officers in a marked patrol car were driving through a neighborhood known for heavy open-air
+    drug dealing. As they passed a corner, a man standing there looked directly at the car and immediately
+    sprinted away down an alley. The officers had seen him do nothing else and had no other information about
+    him. They chased him, caught him in the alley and detained him for questioning. The man later challenges
+    the lawfulness of the detention.
+  call: "Was the detention supported by reasonable suspicion?"
+  options:
+    A: "No, because a person's presence in a high-crime area does not justify a stop."
+    B: "No, because a person approached by the police has a right to ignore them and leave."
+    C: "Yes, because the man's flight gave the officers probable cause to believe he had committed a crime."
+    D: "Yes, because unprovoked flight from police in a high-crime area supports reasonable suspicion."
+  answer: D
+  explanation_correct: >-
+    D is correct. A Terry stop requires reasonable suspicion based on specific and articulable facts under the
+    totality of the circumstances (R-CRM-077). Presence in a high-crime area alone is not enough, but
+    unprovoked, headlong flight on noticing the police, in such an area, supports reasonable suspicion that
+    criminal activity is afoot (Illinois v. Wardlow).
+  explanation_each_wrong_option:
+    A: >-
+      Fact misread. Presence alone would not justify a stop, but the officers also saw the man flee as soon as
+      he saw them, which changes the analysis (R-CRM-077).
+    B: >-
+      A person may decline to answer and go about his business when approached in a consensual encounter, but
+      headlong flight is not "going about one's business" and may be considered (R-CRM-076, R-CRM-077).
+    C: >-
+      Wrong standard. Flight in a high-crime area supports reasonable suspicion for a brief stop, not probable
+      cause for an arrest (R-CRM-077, R-CRM-080).
+  trap_type: fact-misread
+  authority: ["U.S. Const. amend. IV", "Terry v. Ohio, 392 U.S. 1 (1968)", "Illinois v. Wardlow, 528 U.S. 119 (2000)"]
+  source: original
+  tags: [wave2, fourth-amendment, terry-stop, flight, reasonable-suspicion]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CRM-0135
+  subject: CRM
+  coverage_ids: [CRM-MBE-V.A]
+  rule_ids: [R-CRM-085, R-CRM-087]
+  difficulty: 3
+  stem: >-
+    Responding to a burglar alarm at a man's townhouse, officers found the back door forced open and went in to
+    look for intruders. The prosecution concedes, and the court finds, that the entry and the officers' walk
+    through the rooms looking for intruders were lawful. In a sparsely furnished bedroom they saw six new
+    laptops still in their sealed boxes. Thinking that they seemed out of place, but lacking probable cause to
+    believe they were stolen, one officer turned a box over to read the serial number on its bottom label. A
+    radio check showed that the laptop had been stolen from a warehouse. The man is charged with receiving
+    stolen property and moves to suppress the laptop.
+  call: "Should the motion be granted?"
+  options:
+    A: "No, because the officers were lawfully in the bedroom when they first saw the boxes."
+    B: "No, because evidence discovered inadvertently during a lawful entry may be seized."
+    C: "Yes, because turning the box over to read its label was a search without probable cause."
+    D: "Yes, because the plain-view doctrine does not apply during a warrantless emergency entry."
+  answer: C
+  explanation_correct: >-
+    C is correct. Plain view permits a warrantless seizure only if officers are lawfully at the vantage point,
+    have lawful access to the item and its incriminating character is immediately apparent (R-CRM-085). The
+    officers lacked probable cause to believe the laptops were stolen, and moving the box to expose its hidden
+    label was a new search, unrelated to the purpose of the emergency entry, which itself required probable
+    cause (Arizona v. Hicks; R-CRM-087).
+  explanation_each_wrong_option:
+    A: >-
+      Missing element. A lawful vantage point is only the first requirement; the incriminating character must
+      also be immediately apparent without further search (R-CRM-085).
+    B: >-
+      Inadvertence is not required for plain view (Horton), and in any event discovery during a lawful entry
+      does not authorize a further search of the item (R-CRM-085).
+    D: >-
+      Plain view applies whenever officers are lawfully present, including during an emergency entry; it fails
+      here because the box had to be moved to reveal what made it incriminating (R-CRM-085, R-CRM-087).
+  trap_type: missing-element
+  authority: ["U.S. Const. amend. IV", "Arizona v. Hicks, 480 U.S. 321 (1987)", "Horton v. California, 496 U.S. 128 (1990)"]
+  source: original
+  tags: [wave2, fourth-amendment, plain-view, exigent-circumstances]
+  status: draft
+  last_verified: 2026-11-04

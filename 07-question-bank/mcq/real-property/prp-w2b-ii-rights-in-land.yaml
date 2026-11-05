@@ -1,0 +1,444 @@
+questions:
+- id: Q-PRP-0111
+  subject: PRP
+  coverage_ids: [PRP-MBE-II.A.1, PRP-MBE-II.A.4]
+  rule_ids: [R-PRP-050, R-PRP-054, R-PRP-117]
+  difficulty: 2
+  stem: >-
+    In 2015 Odell owned two adjoining lots, Lot A and Lot B, both served by a private gravel road running from the
+    county highway. Odell sold Lot B to Pia by a deed in which Pia, "for herself, her heirs and assigns," covenanted
+    with Odell, "his heirs and assigns," to pay one-half of the reasonable cost of maintaining and repairing the
+    private road, and which stated that the covenant runs with Lot B. Pia accepted the deed, and it was promptly
+    recorded. In 2022 Pia sold Lot B to Quint by a deed that did not mention the covenant; Quint never searched the
+    land records. In 2025 Odell, who still owns and lives on Lot A, spent a reasonable $6,000 regrading the
+    washed-out road and demanded $3,000 from Quint, who uses the road daily. Quint refused, and Odell sued him for
+    $3,000 in damages.
+  call: "Is Odell likely to recover?"
+  options:
+    A: "No, because the burden of a covenant requiring a landowner to pay money does not run with the land."
+    B: "No, because Quint had no actual knowledge of the covenant, and his own deed did not mention it."
+    C: "Yes, because every requirement for the burden of a real covenant to run to Quint is met."
+    D: "Yes, because a covenant in a recorded deed binds later owners whether or not it touches and concerns the land."
+  answer: C
+  explanation_correct: >-
+    C is correct. Odell seeks damages, so he must show that the burden of a real covenant ran to Quint: (1) a writing,
+    here the deed that Pia accepted; (2) intent to bind successors ("heirs and assigns"; "runs with Lot B");
+    (3) touch and concern; (4) horizontal privity, present because the promise was made in the Odell-to-Pia
+    conveyance; (5) vertical privity, present because Quint took Pia's entire estate; and (6) notice (R-PRP-050). A
+    promise to pay for maintaining the road that serves the burdened lot touches and concerns the land, because the
+    money maintains access to the land itself (R-PRP-054). The recorded deed in Quint's chain of title gave him
+    constructive notice even though he never searched (R-PRP-117). Quint owes his half of the cost.
+  explanation_each_wrong_option:
+    A: >-
+      Affirmative covenants to pay money run with the land when the payments are tied to the land, as with road
+      maintenance or association assessments (R-PRP-054). Courts are more cautious with affirmative covenants but do
+      enforce them.
+    B: >-
+      Notice may be actual, inquiry or record (R-PRP-050). A properly recorded deed in Quint's chain of title gave him
+      record notice whether or not he searched and whether or not his own deed repeated the covenant (R-PRP-117).
+    D: >-
+      Recording supplies only the notice element. The burden runs only if the covenant also touches and concerns the
+      land and meets the other requirements (R-PRP-050, R-PRP-054).
+  trap_type: confused-rule
+  authority: ["Common law: running of the burden of real covenants", "Neponsit Property Owners' Ass'n v. Emigrant Industrial Savings Bank, 278 N.Y. 248, 15 N.E.2d 793 (1938)"]
+  source: original
+  tags: [wave2, W2b-PRP, real-covenants, affirmative-covenants]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-PRP-0112
+  subject: PRP
+  coverage_ids: [PRP-MBE-II.A.3]
+  rule_ids: [R-PRP-055, R-PRP-053]
+  difficulty: 2
+  stem: >-
+    In 2010 a developer recorded a plat of the 12-lot Brookside subdivision and sold every lot under a general plan by
+    a deed providing that the lot "shall be used for residential purposes only." Rosa, who lives in her house on Lot 4,
+    works as a freelance translator. She works at a desk in a spare bedroom and deals with her overseas clients only by
+    email and video call. No client has ever come to the lot, she has no employees and no sign, and her deliveries are
+    no more than any household's. Her neighbor Sven, the owner of Lot 5, learned of her work and sued to enjoin it as a
+    violation of the restriction.
+  call: "What is the most likely result?"
+  options:
+    A: "Sven prevails, because a restriction to residential use is construed strictly against the owner whose use is challenged."
+    B: "Rosa prevails, because her incidental home office does not change the residential character of her lot."
+    C: "Rosa prevails, because Sven may not enforce a restriction that appears only in the deeds to other lots."
+    D: "Sven prevails, because earning income from work done on a lot is a business use as a matter of law."
+  answer: B
+  explanation_correct: >-
+    B is correct. A servitude is interpreted to carry out the parties' intent, and the test under a "residential
+    purposes" restriction is whether the use changes the residential character of the lot, judged by customers,
+    employees, signs and traffic; minor incidental uses such as a home office with no customers usually do not violate
+    it (R-PRP-055). Rosa's work brings no visitors, employees, signs or extra deliveries. To the neighbors, the lot is
+    used exactly as a home. A court is likely to find no violation.
+  explanation_each_wrong_option:
+    A: >-
+      Older cases resolve genuine ambiguity in favor of the free use of land, not against the owner (R-PRP-055).
+      Nothing calls for construing the restriction against Rosa.
+    C: >-
+      In a subdivision sold under a general plan, any lot owner in the plan may enforce the restrictions against other
+      lots (R-PRP-053, R-PRP-055). Sven loses on the merits, not for lack of standing.
+    D: >-
+      Whether a use violates a "residential purposes" restriction depends on its effect on the residential character
+      of the lot, not on whether the owner earns money there (R-PRP-055).
+  trap_type: overbroad
+  authority: ["Common law: interpretation of restrictive covenants"]
+  source: original
+  tags: [wave2, W2b-PRP, servitudes, scope, residential-use]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-PRP-0113
+  subject: PRP
+  coverage_ids: [PRP-MBE-II.A.4]
+  rule_ids: [R-PRP-051, R-PRP-050, R-PRP-052]
+  difficulty: 3
+  stem: >-
+    Kato and Lund own adjoining hillside lots that they bought from different sellers; Lund's lot lies below Kato's.
+    In 2018 they signed and recorded a written agreement in which Kato promised, "for himself, his heirs and assigns,
+    for the benefit of Lund and all future owners of Lund's lot," to keep the drainage channel on Kato's lot clear so
+    that storm water would drain away from Lund's lot. Neither of them conveyed any interest in land to the other. In
+    2022 Lund sold his lot to Marsh. Kato still owns his lot, but in 2024 he let the channel fill with debris, and
+    storm water flooded Marsh's basement, causing $15,000 in damage. Marsh sued Kato for damages for breach of the
+    promise. Kato argues that he and Lund were never in privity of estate and that he never promised Marsh anything.
+  call: "Is Marsh likely to recover?"
+  options:
+    A: "Yes, because the benefit of the promise ran with Lund's lot to Marsh without any need for horizontal privity."
+    B: "No, because Kato and Lund were not in horizontal privity, so the promise cannot be enforced as a real covenant."
+    C: "No, because Marsh was not a party to the 2018 agreement, and Kato never made any promise directly to Marsh."
+    D: "Yes, because the agreement was recorded, which gave Kato notice that later owners of Lund's lot could enforce it."
+  answer: A
+  explanation_correct: >-
+    A is correct. Kato is the original promisor and still owns the burdened lot, so the burden need not run at all;
+    Kato is bound by his own promise. The question is whether the benefit ran to Marsh. The benefit of a real covenant
+    runs to the promisee's successor if the promise is in writing, the parties intended the benefit to run, the promise
+    touches and concerns the benefited land, and the successor is in vertical privity; horizontal privity is not
+    required for the benefit to run (R-PRP-051). The signed agreement expressly benefits future owners of Lund's lot,
+    keeping storm water away from that lot touches and concerns it, and Marsh took Lund's estate. Marsh may recover
+    damages from Kato.
+  explanation_each_wrong_option:
+    B: >-
+      Horizontal privity is required, under the traditional rule, only for the burden of a real covenant to run to a
+      successor of the promisor (R-PRP-050). Here the promisor himself is the defendant, and the benefit runs without
+      horizontal privity (R-PRP-051).
+    C: >-
+      A successor to the benefited land may enforce a covenant whose benefit runs with that land; that is what it
+      means for the benefit to run (R-PRP-051). Marsh need not have been a party.
+    D: >-
+      This reaches the right result for the wrong reason. Notice matters when a successor to the burdened land is
+      sued (R-PRP-050, R-PRP-052). Kato is the original promisor, so his liability does not depend on notice or on
+      recording.
+  trap_type: wrong-standard
+  authority: ["Common law: running of the benefit of real covenants"]
+  source: original
+  tags: [wave2, W2b-PRP, real-covenants, benefit-runs, privity]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-PRP-0114
+  subject: PRP
+  coverage_ids: [PRP-MBE-II.A.5]
+  rule_ids: [R-PRP-056, R-PRP-052, R-PRP-053]
+  difficulty: 2
+  stem: >-
+    Every deed in the 60-lot Fairmeadow subdivision, sold under a recorded general plan, restricts the lot to "one
+    single-family dwelling." Over the past twelve years, the owners of two lots on Fairmeadow's northern edge converted
+    their detached garages into small rental apartments, and no one objected. In 2025 Delgado bought a vacant lot near
+    the subdivision's southern entrance and announced plans to build a four-unit apartment building on it. The owners
+    of the lots next to Delgado's, who live on the southern side and had not known of the garage apartments, sued to
+    enjoin the construction. Delgado argues that the restriction has been abandoned and that the plaintiffs are barred
+    by acquiescence.
+  call: "What is the most likely result?"
+  options:
+    A: "Delgado prevails, because open violations that went unchallenged for twelve years show that the restriction was abandoned."
+    B: "Delgado prevails, because the plaintiffs acquiesced in the violations by failing to object to the garage apartments."
+    C: "The plaintiffs prevail, but only if they prove that the apartment building would lower the value of their homes."
+    D: "The plaintiffs prevail, because two scattered violations are too few to show that the plan was abandoned."
+  answer: D
+  explanation_correct: >-
+    D is correct. A restriction ends by abandonment only when violations are so widespread that the purpose of the
+    plan is defeated; a few minor violations do not show abandonment (R-PRP-056). Two garage apartments among 60 lots
+    leave Fairmeadow a single-family neighborhood, and the restriction still benefits the plaintiffs. Acquiescence bars
+    a plaintiff who tolerated similar violations by others, but these plaintiffs neither knew of nor tolerated the
+    garage apartments, which are also smaller and farther away than Delgado's building (R-PRP-056). Delgado took with
+    record notice of the restriction, and an injunction is the usual remedy to enforce it as an equitable servitude
+    (R-PRP-052, R-PRP-053).
+  explanation_each_wrong_option:
+    A: >-
+      Time alone does not show abandonment. The test is whether the violations are so pervasive that the restriction
+      no longer serves its purpose (R-PRP-056), and two violations among 60 lots do not meet it.
+    B: >-
+      Acquiescence bars only a plaintiff who tolerated similar violations (R-PRP-056). These plaintiffs did not know of
+      the garage apartments, and those small conversions differ from a new four-unit building.
+    C: >-
+      A plaintiff enforcing an equitable servitude by injunction need not prove a loss in value; the servitude is
+      enforced according to its terms against a successor with notice (R-PRP-052).
+  trap_type: overbroad
+  authority: ["Common law: termination of servitudes by abandonment and acquiescence"]
+  source: original
+  tags: [wave2, W2b-PRP, servitudes, termination, abandonment]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-PRP-0115
+  subject: PRP
+  coverage_ids: [PRP-MBE-II.A.6]
+  rule_ids: [R-PRP-058, R-PRP-052, R-PRP-117]
+  difficulty: 2
+  stem: >-
+    Before selling any unit, the developer of Harbor View, a 90-unit condominium, recorded a declaration providing that
+    "no unit may be leased or rented for a term of less than 30 days," that the declaration binds all unit owners and
+    their successors, and that the owners' association may enforce it. In 2023 Ines bought a unit from a prior owner by
+    a deed that did not mention the declaration. In 2025 she began renting the unit to visitors for weekend stays
+    through an online platform. Her unit has a private entrance, her guests have been quiet, and no neighbor has
+    complained. The association sued to enjoin the short-term rentals, and Ines argues that the restriction is
+    unreasonable as applied to her unit.
+  call: "What is the most likely result?"
+  options:
+    A: "Ines prevails, because a restriction may be enforced only if it is reasonable as applied to the particular owner's unit."
+    B: "The association prevails, because restrictions in a recorded declaration are presumed reasonable for the community as a whole."
+    C: "Ines prevails, because she never agreed to the restriction, and the deed by which she bought her unit did not mention it."
+    D: "The association prevails, because an owners' association's board may adopt and enforce any rule it chooses for the building."
+  answer: B
+  explanation_correct: >-
+    B is correct. A use restriction in a common interest community's recorded declaration is presumed reasonable and
+    is enforced unless the challenger proves that it is arbitrary, that its burdens substantially outweigh its
+    benefits, or that it violates a fundamental public policy, judged by reference to the development as a whole
+    rather than one owner's circumstances (R-PRP-058). A minimum rental term is a common and rational way to protect
+    the residents' security and the residential character of a building. Because the declaration was recorded before
+    any unit was sold, it binds Ines as a successor with record notice even though her deed was silent (R-PRP-052,
+    R-PRP-117).
+  explanation_each_wrong_option:
+    A: >-
+      A unit-by-unit test is the wrong standard for a restriction in a recorded declaration, which is judged by its
+      effect on the development as a whole (R-PRP-058).
+    C: >-
+      A restriction in a recorded declaration binds later purchasers with notice as an equitable servitude. Record
+      notice is enough, and Ines's deed did not need to repeat the restriction (R-PRP-052, R-PRP-117).
+    D: >-
+      This reaches the right result for the wrong reason. Rules adopted by the board must be reasonable and made in
+      good faith under fair procedures (R-PRP-058). The association wins because this restriction is in the recorded
+      declaration and is presumed valid.
+  trap_type: wrong-standard
+  authority: ["Common law: enforcement of recorded declarations in common interest communities"]
+  source: original
+  tags: [wave2, W2b-PRP, common-interest-communities, condominiums]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-PRP-0116
+  subject: PRP
+  coverage_ids: [PRP-MBE-II.B.1, PRP-MBE-II.B.4]
+  rule_ids: [R-PRP-060, R-PRP-067, R-PRP-064, R-PRP-117]
+  difficulty: 2
+  stem: >-
+    In 2015 Orrin, the owner of the 400-acre Marsh Hollow tract, signed and delivered to the Teal Hunting Club a written
+    instrument granting "the Club, its members, successors and assigns, the right for 20 years to enter Marsh Hollow to
+    hunt waterfowl and to take fish from its ponds." The Club owns no land near Marsh Hollow. The instrument was
+    promptly recorded, and Club members have hunted and fished there every season since. In 2024 Orrin sold and
+    conveyed Marsh Hollow to Penn, whose deed did not mention the Club's rights. Penn posted "No Hunting" signs and told
+    the Club that its permission had ended when Orrin sold the land. The Club sued to establish its rights.
+  call: "Is the Club likely to prevail?"
+  options:
+    A: "No, because a right to enter another's land for recreation is a license, which ends when the licensor conveys the land."
+    B: "No, because Penn's deed did not mention the Club's rights, so Penn took the land free of them."
+    C: "Yes, because the Club holds a profit, an interest in land that binds Penn, who had record notice of it."
+    D: "Yes, because the Club's members have used Marsh Hollow long enough to acquire their rights by prescription."
+  answer: C
+  explanation_correct: >-
+    C is correct. A profit is a right to enter another's land and take resources such as game, fish, timber or
+    minerals; it is an interest in land and carries an implied right of access (R-PRP-060). Orrin's written grant of a
+    20-year right to enter, hunt waterfowl and take fish is a profit in gross. Like an easement, its burden passes with
+    the servient land to a successor who takes with notice (R-PRP-067). The recorded grant gave Penn record notice
+    (R-PRP-117), so he took subject to the Club's rights for the rest of the 20-year term.
+  explanation_each_wrong_option:
+    A: >-
+      A license is revocable permission that is not an interest in land and ends when the licensor conveys the land
+      (R-PRP-060). Orrin granted more than permission: a written right, for a fixed term, to enter and take game and
+      fish, which is a profit.
+    B: >-
+      A recorded profit binds a later owner of the servient land who takes with notice, whether or not his deed
+      mentions it (R-PRP-067, R-PRP-117).
+    D: >-
+      The Club's rights rest on an express written grant, not on prescription. Use under a grant is permitted use,
+      which cannot be adverse, so prescription is not available in any event (R-PRP-064).
+  trap_type: confused-rule
+  authority: ["Common law: profits a prendre"]
+  source: original
+  tags: [wave2, W2b-PRP, profits, licenses, easements]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-PRP-0117
+  subject: PRP
+  coverage_ids: [PRP-MBE-II.B.4]
+  rule_ids: [R-PRP-060, R-PRP-067]
+  difficulty: 1
+  stem: >-
+    In 2012 Quill, the owner of Lot 6, signed and delivered to Ramos, the owner of adjoining Lot 7, a deed granting
+    "Ramos, his heirs and assigns, a right of way for a driveway across the westerly 12 feet of Lot 6 to serve Lot 7,"
+    and Ramos promptly recorded it. Ramos paved the driveway and used it daily. In 2024 Ramos sold Lot 7 to Soto by a
+    deed that described Lot 7 but did not mention the right of way. When Soto began using the driveway, Quill blocked
+    it, saying that the right of way had belonged only to Ramos.
+  call: "May Soto use the driveway?"
+  options:
+    A: "Yes, because the right of way is appurtenant to Lot 7 and passed automatically with Lot 7 to Soto."
+    B: "No, because Ramos's deed to Soto described only Lot 7 and did not expressly convey the right of way."
+    C: "No, because a right of way granted to a named person is an easement in gross that is personal to him."
+    D: "Yes, but only if Soto pays Quill the reasonable rental value of his own use of the driveway."
+  answer: A
+  explanation_correct: >-
+    A is correct. An easement is appurtenant when it benefits a particular parcel, and courts prefer that
+    construction; this grant was expressly made "to serve Lot 7" (R-PRP-060). The benefit of an appurtenant easement
+    passes automatically with the dominant land, even if the deed does not mention it (R-PRP-067). Soto acquired the
+    right of way when he acquired Lot 7, and Quill, who made the recorded grant, is bound by it.
+  explanation_each_wrong_option:
+    B: >-
+      An appurtenant easement passes with the dominant land without being mentioned in the deed (R-PRP-067).
+    C: >-
+      Naming the grantee does not make an easement personal. A right of way given to the owner of a neighboring lot
+      "to serve" that lot benefits the lot and is appurtenant (R-PRP-060).
+    D: >-
+      The right of way is an existing property interest that Soto acquired with Lot 7. Nothing requires him to pay
+      Quill again for using it (R-PRP-067).
+  trap_type: true-but-irrelevant
+  authority: ["Common law: transfer of appurtenant easements"]
+  source: original
+  tags: [wave2, W2b-PRP, easements, appurtenant, transfer]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-PRP-0118
+  subject: PRP
+  coverage_ids: [PRP-MBE-II.D.1]
+  rule_ids: [R-PRP-070, R-PRP-072, R-CON-074]
+  difficulty: 2
+  stem: >-
+    The zoning ordinance of the City of Marlow permits apartment buildings, boarding houses, college dormitories and
+    assisted-living facilities in its R-3 district without any special permit. It requires an annually renewable
+    special-use permit only for "a residence for persons with intellectual disabilities." Haven Homes applied for a
+    permit to operate such a residence for eight adults in a large house in the R-3 district; the house meets every
+    building, fire and occupancy code. After a hearing at which neighbors said that they feared the future residents
+    and worried about their property values, the city council denied the permit for those reasons. Haven Homes sued,
+    claiming that the denial violates the Equal Protection Clause.
+  call: "Is Haven Homes likely to prevail?"
+  options:
+    A: "No, because persons with intellectual disabilities are not a quasi-suspect class, so the ordinance need only have a rational basis."
+    B: "No, because protecting property values is a legitimate zoning goal, and the permit requirement rationally serves it."
+    C: "Yes, because a classification based on disability receives intermediate scrutiny, which the city cannot satisfy."
+    D: "Yes, because the permit requirement, applied here on the basis of neighbors' fears, has no rational basis."
+  answer: D
+  explanation_correct: >-
+    D is correct. Zoning must be rationally related to a legitimate public purpose (R-PRP-070). Classifications based
+    on disability receive rational-basis review, but a law that rests on irrational prejudice or on neighbors'
+    unsubstantiated fears fails even that test (R-CON-074). Marlow lets apartment buildings, boarding houses,
+    dormitories and assisted-living facilities into the district without a permit, yet singles out a residence for
+    persons with intellectual disabilities, and the council denied the permit because of neighbors' fears and their
+    worries about property values. Those are not legitimate grounds for the distinction, so the requirement is invalid
+    as applied (City of Cleburne v. Cleburne Living Center).
+  explanation_each_wrong_option:
+    A: >-
+      The premise is right: intellectual disability is not a quasi-suspect classification, and rational-basis review
+      applies (R-CON-074). But a requirement that rests on fear and prejudice, while similar group uses are allowed
+      freely, fails even rational-basis review (R-PRP-070).
+    B: >-
+      Concern for property values that rests only on neighbors' negative attitudes toward the future residents is not a
+      legitimate basis for treating this residence differently from the group uses the district allows (R-PRP-070,
+      R-CON-074).
+    C: >-
+      This states the wrong standard. The Supreme Court declined to treat intellectual disability as a quasi-suspect
+      class and applied rational-basis review (R-CON-074). Haven Homes wins because the requirement fails that
+      deferential test.
+  trap_type: wrong-standard
+  authority: ["U.S. Const. amend. XIV, § 1 (Equal Protection Clause)", "City of Cleburne v. Cleburne Living Center, 473 U.S. 432 (1985)"]
+  source: original
+  tags: [wave2, W2b-PRP, zoning, special-use-permit, equal-protection]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-PRP-0119
+  subject: PRP
+  coverage_ids: [PRP-MBE-II.D.2]
+  rule_ids: [R-PRP-071, R-PRP-073]
+  difficulty: 2
+  stem: >-
+    In January 2025 the City of Ashford issued Corbin Development a valid building permit for a three-story office
+    building on land then zoned for commercial use. Relying on the permit, Corbin poured the foundation, raised the
+    steel frame and spent $2.1 million, and it signed construction contracts committing it to spend $3 million more.
+    In June 2025, after neighborhood protests, the city rezoned the land for residential use only and revoked Corbin's
+    permit. Corbin sued for a declaration that it may complete the building.
+  call: "Who is likely to prevail?"
+  options:
+    A: "The city, because a landowner has no vested right in the continuation of existing zoning."
+    B: "The city, because the building was not yet in use when the rezoning took effect, so it is not a protected nonconforming use."
+    C: "Corbin, because its substantial good-faith work under a valid permit gave it a vested right to build."
+    D: "Corbin, because the city must pay just compensation before it rezones land to a less valuable use."
+  answer: C
+  explanation_correct: >-
+    C is correct. As a general rule an owner has no vested right in existing zoning, but a developer gains a vested
+    right to build under the old rules once it has obtained a valid permit and, relying on it in good faith, performed
+    substantial work and incurred substantial liabilities (R-PRP-071). Corbin held a valid permit, poured the
+    foundation, raised the frame, spent $2.1 million and committed $3 million more before the rezoning. Its right to
+    complete the building vested, and the later rezoning and revocation cannot be applied to it.
+  explanation_each_wrong_option:
+    A: >-
+      That is the general rule, but the vested-rights doctrine is an exception for a developer who has relied
+      substantially and in good faith on a valid permit (R-PRP-071).
+    B: >-
+      Nonconforming-use protection covers a use that existed when the zoning changed. Construction under a valid
+      permit, with substantial reliance, is protected by a separate doctrine, vested rights (R-PRP-071).
+    D: >-
+      Rezoning that lowers a property's value is not, for that reason alone, a taking requiring compensation; only a
+      regulation that goes so far as to be a taking is (R-PRP-073). Corbin prevails under the vested-rights doctrine,
+      not the Takings Clause.
+  trap_type: exception-trap
+  authority: ["Common law: vested rights in land use"]
+  source: original
+  tags: [wave2, W2b-PRP, zoning, vested-rights]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-PRP-0120
+  subject: PRP
+  coverage_ids: [PRP-MBE-II.B.5]
+  rule_ids: [R-PRP-068, R-PRP-062, R-PRP-063]
+  difficulty: 3
+  stem: >-
+    In 2005 Arden, the owner of lakefront Lot 1, signed a written grant giving Bly, the owner of adjoining Lot 2, an
+    easement for a footpath across Lot 1 to the shore of Mirror Lake, and Bly recorded the grant. Lot 2 fronts a public
+    road, and a public lake access lies 300 yards away. In 2014 Bly bought Lot 1 from Arden. While Bly owned both lots,
+    she never used the footpath, which became overgrown; she reached the lake through the public access. In 2020 Bly
+    sold Lot 1 to Cruz by a deed that said nothing about the footpath, and she kept Lot 2. In 2025 Bly began clearing
+    the old footpath so that she could use it again, and Cruz sued to stop her.
+  call: "Is Cruz likely to prevail?"
+  options:
+    A: "No, because the recorded 2005 grant gave Cruz notice of the easement when he bought Lot 1."
+    B: "Yes, because the easement ended by merger when Bly acquired Lot 1 and did not revive when she sold Lot 1."
+    C: "No, because the easement revived when Bly separated the two lots again by selling Lot 1 to Cruz."
+    D: "Yes, because Bly abandoned the easement by not using the footpath during the years she owned both lots."
+  answer: B
+  explanation_correct: >-
+    B is correct. An easement ends by merger when one person acquires both the dominant and the servient land, because
+    no one can hold an easement over her own land, and a merged easement does not revive when the parcels are later
+    separated (R-PRP-068). Bly's 2014 purchase of Lot 1 extinguished the easement. No new easement arose in 2020
+    either. An easement implied from prior use requires an apparent, continuous use during common ownership that is
+    reasonably necessary to the retained land, and Bly did not use the path at all while she owned both lots
+    (R-PRP-062). An easement by necessity requires strict necessity, and Lot 2 has road and public lake access
+    (R-PRP-063). Bly's deed to Cruz reserved nothing, so Cruz may stop her.
+  explanation_each_wrong_option:
+    A: >-
+      Record notice matters only if an easement still exists. The 2005 easement was extinguished by merger in 2014, so
+      the recorded grant gave Cruz notice of nothing that still burdened Lot 1 (R-PRP-068).
+    C: >-
+      A merged easement does not revive when the parcels are separated (R-PRP-068). A new easement would require a new
+      grant, an express reservation, or an implied easement, and none arose here.
+    D: >-
+      This reaches the right result for the wrong reason. Nonuse alone does not abandon an express easement
+      (R-PRP-068), and during the years Bly owned both lots there was no easement to abandon, because it had already
+      merged. Cruz wins because of merger.
+  trap_type: right-result-wrong-reason
+  authority: ["Common law: termination of easements by merger"]
+  source: original
+  tags: [wave2, W2b-PRP, easements, termination, merger]
+  status: draft
+  last_verified: 2026-11-04

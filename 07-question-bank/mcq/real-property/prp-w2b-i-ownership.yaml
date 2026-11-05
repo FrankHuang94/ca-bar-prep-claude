@@ -1,0 +1,426 @@
+questions:
+- id: Q-PRP-0101
+  subject: PRP
+  coverage_ids: [PRP-MBE-I.A.1.a, PRP-MBE-I.A.2.c, PRP-MBE-I.D.1]
+  rule_ids: [R-PRP-004, R-PRP-011, R-PRP-014, R-PRP-015, R-PRP-001]
+  difficulty: 3
+  stem: >-
+    In 2016 Ostrander conveyed his hillside lot, Hillcrest, by a deed that read: "to Bea and her heirs, but if the
+    land is ever used for commercial purposes, then to Cal and his heirs." Bea built a house on the lot and lived
+    there until 2025, when she converted the house into a retail pottery shop. Cal, who is still alive, has sued Bea
+    to recover the lot. Ostrander, who is also alive, has intervened, claiming the lot for himself. The common-law
+    Rule Against Perpetuities applies, unmodified by statute, and no other statute affects these interests.
+  call: "Who owns Hillcrest?"
+  options:
+    A: "Cal, because the commercial use began within 21 years after the conveyance, so his executory interest vested in time."
+    B: "Bea, because Cal's executory interest is void, and striking it leaves Bea's estate free of any limitation."
+    C: "Ostrander, because when a gift over fails, the grantor holds a possibility of reverter that has now become possessory."
+    D: "Ostrander, because the condition was broken, and the failure of the gift over leaves the grantor a right of entry."
+  answer: B
+  explanation_correct: >-
+    B is correct. Cal's interest is a shifting executory interest: it is held by a transferee, not the grantor, and
+    it can become possessory only by cutting short Bea's fee (R-PRP-004, R-PRP-011). Executory interests are subject
+    to the common-law Rule Against Perpetuities, under which an interest is void unless it must vest, if at all,
+    within 21 years after the death of some life in being at its creation (R-PRP-014). The lot might first be put to
+    commercial use long after Bea, Cal and everyone else alive in 2016 have died, so Cal's interest was void from the
+    start; the rule looks at what might happen, not at what did happen (R-PRP-015). Striking the void gift over
+    leaves "to Bea and her heirs, but if the land is ever used for commercial purposes." Because the words are
+    conditional ("but if") and Ostrander reserved no right of entry, Bea holds a fee simple absolute (R-PRP-004,
+    R-PRP-001). Her commercial use does not affect her title.
+  explanation_each_wrong_option:
+    A: >-
+      The common-law rule is not a wait-and-see rule. Validity is judged when the interest is created, by asking
+      whether it might vest too late; that the use in fact changed within 21 years does not save an interest that was
+      void when created (R-PRP-014, R-PRP-015). Wait-and-see is a statutory reform (R-PRP-016), and the stem says
+      none applies.
+    C: >-
+      A possibility of reverter follows a fee simple determinable created by durational words such as "so long as."
+      These words are conditional ("but if"), so striking the void gift over leaves a fee simple absolute, not a
+      determinable fee (R-PRP-002, R-PRP-004).
+    D: >-
+      A right of entry must be retained by the grantor, and courts usually require it to be reserved expressly
+      (R-PRP-003). Ostrander reserved nothing; the only future interest the deed created was Cal's, and it is void.
+      Courts do not imply a forfeiture in the grantor's favor that the deed does not provide (R-PRP-005).
+  trap_type: wrong-standard
+  authority: ["Common-law Rule Against Perpetuities", "Common law: fee simple subject to executory limitation"]
+  source: original
+  tags: [wave2, W2b-PRP, rule-against-perpetuities, executory-interests, fee-simple]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-PRP-0102
+  subject: PRP
+  coverage_ids: [PRP-MBE-I.A.1.b]
+  rule_ids: [R-PRP-005, R-PRP-002, R-PRP-003]
+  difficulty: 1
+  stem: >-
+    In 2001 Orlena conveyed a 60-acre tract "to the Westbrook Golf Club, Inc., for the purpose of operating a golf
+    course." The deed contained no other limitation and reserved no interest to Orlena. Orlena died in 2010, leaving a
+    will that gave all her property to her son, Sid. The Club operated a golf course on the tract until 2024, when it
+    closed the course and sold and conveyed the tract to Pemberton Homes, a residential developer. In 2025 Sid sued
+    Pemberton, claiming that title to the tract passed to him when the golf course closed.
+  call: "Who owns the tract?"
+  options:
+    A: "Sid, because the Club's estate ended automatically when the land stopped being used as a golf course."
+    B: "Sid, because the Club held a fee simple subject to a condition subsequent, and Sid exercised the right of entry by suing."
+    C: "Pemberton, but only because Sid waited too long after the golf course closed to assert his rights."
+    D: "Pemberton, because words stating the purpose of a grant do not limit the estate it conveys."
+  answer: D
+  explanation_correct: >-
+    D is correct. Courts construe grants to avoid forfeiture, and words that merely state the grantor's motive or the
+    purpose of the grant, such as "for the purpose of operating a golf course," create a fee simple absolute, not a
+    defeasible fee (R-PRP-005). A fee simple determinable requires durational words ("so long as," "until"), and a fee
+    simple subject to a condition subsequent requires conditional words ("but if," "provided that") together with a
+    right of entry reserved to the grantor (R-PRP-002, R-PRP-003). The deed contained neither and reserved nothing to
+    Orlena. The Club therefore held a fee simple absolute, which it could convey freely, and Pemberton owns the tract.
+  explanation_each_wrong_option:
+    A: >-
+      Automatic termination requires durational language that creates a fee simple determinable (R-PRP-002). A
+      statement of purpose is not durational language (R-PRP-005).
+    B: >-
+      A fee simple subject to a condition subsequent requires conditional words and a right of entry retained by the
+      grantor (R-PRP-003). The deed had neither, so there was no right of entry for Sid to inherit or exercise.
+    C: >-
+      Pemberton wins, but not because of delay. Delay could matter only if Orlena had kept a right of entry that her
+      successor waived (R-PRP-003). She kept no future interest at all, so Sid had nothing to lose by waiting.
+  trap_type: confused-rule
+  authority: ["Common law: construction of defeasible fees; words of purpose"]
+  source: original
+  tags: [wave2, W2b-PRP, defeasible-fees, words-of-purpose]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-PRP-0103
+  subject: PRP
+  coverage_ids: [PRP-MBE-I.A.1.c, PRP-MBE-I.D.2]
+  rule_ids: [R-PRP-006, R-PRP-008, R-PRP-018]
+  difficulty: 1
+  stem: >-
+    In 2015 Odalys conveyed a cottage "to Petra for the life of Quincy." Petra took possession. In 2023 Petra died,
+    leaving a valid will that gave all her property to her friend Rowan; her only heir at law is her brother, Saul.
+    Quincy, now 70, is alive. Odalys, who is also alive, has demanded possession of the cottage, claiming that Petra's
+    estate ended when Petra died. No statute applies.
+  call: "Who is entitled to possession of the cottage?"
+  options:
+    A: "Rowan, because a life estate pur autre vie passes under the holder's will and lasts until Quincy dies."
+    B: "Odalys, because every life estate ends at the death of the person who holds it, leaving the reversion."
+    C: "Quincy, because the person whose life measures the estate is entitled to possess the land while he lives."
+    D: "Saul, because a life estate pur autre vie can pass only to the holder's heirs by intestacy, not by will."
+  answer: A
+  explanation_correct: >-
+    A is correct. A life estate measured by the life of someone other than its holder is a life estate pur autre vie,
+    and it lasts until the measuring life (Quincy) dies (R-PRP-006). If the holder (Petra) dies before the measuring
+    life, the remaining estate passes by her will or by intestacy (R-PRP-006, R-PRP-018). Petra's will gave all her
+    property to Rowan, so Rowan is entitled to possession until Quincy dies. Odalys holds a reversion that becomes
+    possessory only then (R-PRP-008).
+  explanation_each_wrong_option:
+    B: >-
+      That is true of a life estate measured by the holder's own life. Petra's estate was measured by Quincy's life,
+      so it did not end at Petra's death (R-PRP-006).
+    C: >-
+      The measuring life has no interest in the land. Quincy's life only sets how long the estate lasts (R-PRP-006).
+    D: >-
+      A life estate pur autre vie passes by will as well as by intestacy (R-PRP-006). Petra left a valid will, so her
+      heir takes nothing.
+  trap_type: overbroad
+  authority: ["Common law: life estate pur autre vie"]
+  source: original
+  tags: [wave2, W2b-PRP, life-estates, pur-autre-vie]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-PRP-0104
+  subject: PRP
+  coverage_ids: [PRP-MBE-I.A.2.a, PRP-MBE-I.A.2.b, PRP-MBE-I.A.2.e]
+  rule_ids: [R-PRP-008, R-PRP-010, R-PRP-012, R-PRP-006]
+  difficulty: 3
+  stem: >-
+    In 2015 Oakes conveyed his farm "to Alma for life, then to Bruno if Bruno graduates from college." Bruno was then
+    10 years old. Alma died in 2025, when Bruno, then 20, was a college sophomore. Oakes is alive. A statute in the
+    jurisdiction abolishes the common-law doctrine of destructibility of contingent remainders, and no other statute
+    affects these interests.
+  call: "Which of the following best describes the present ownership of the farm?"
+  options:
+    A: "Bruno owns the farm in fee simple, because his remainder vested when Alma's life estate ended."
+    B: "Alma's estate holds the farm until Bruno graduates, and Bruno then takes it in fee simple."
+    C: "Oakes is entitled to possession, subject to Bruno's interest, which will divest Oakes if Bruno graduates."
+    D: "Oakes owns the farm in fee simple absolute, because Bruno's remainder failed when it did not vest at Alma's death."
+  answer: C
+  explanation_correct: >-
+    C is correct. Bruno's interest was a contingent remainder, because it was subject to a condition precedent
+    (graduating from college) that had not occurred (R-PRP-010). A grantor who creates a contingent remainder keeps a
+    reversion (R-PRP-008). At common law, a legal contingent remainder that had not vested when the life estate ended
+    was destroyed (R-PRP-012), but the stem says this jurisdiction has abolished destructibility. Under the modern
+    rule, the grantor's reversion becomes possessory when the life estate ends, and the still-contingent interest
+    survives as an executory interest that will spring into possession, divesting the grantor, if the condition is
+    later met (R-PRP-010). Oakes is entitled to possession now, subject to Bruno's interest. (That interest is valid
+    under the Rule Against Perpetuities in any event, because Bruno is a life in being who must graduate, if at all,
+    during his own life.)
+  explanation_each_wrong_option:
+    A: >-
+      A remainder vests only when its condition precedent is met. Alma's death ended the prior estate, but Bruno had
+      not yet graduated, so his interest was still contingent (R-PRP-010).
+    B: >-
+      A life estate ends when the measuring life dies (R-PRP-006). It does not continue in the life tenant's estate
+      while a condition is pending; the grantor's reversion fills the gap (R-PRP-008, R-PRP-010).
+    D: >-
+      That is the common-law destructibility result (R-PRP-012). The jurisdiction has abolished destructibility, so
+      Bruno's interest survives and can still take effect if he graduates.
+  trap_type: minority-rule
+  authority: ["Common law: reversions and contingent remainders", "Statute abolishing destructibility of contingent remainders (as stated in the stem)"]
+  source: original
+  tags: [wave2, W2b-PRP, reversions, contingent-remainders, destructibility]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-PRP-0105
+  subject: PRP
+  coverage_ids: [PRP-MBE-I.C.1]
+  rule_ids: [R-PRP-027, R-PRP-029, R-PRP-033]
+  difficulty: 1
+  stem: >-
+    Lorenzo leased an apartment to Tamar "for a term of one year, beginning June 1, 2024 and ending May 31, 2025," at
+    $2,000 a month, payable on the first day of each month. The lease said nothing about notice at the end of the
+    term. Tamar paid every month's rent, moved out on May 31, 2025, and returned the keys that day; she had given
+    Lorenzo no advance notice that she would leave. Lorenzo, who had not found a new tenant, demanded the rent for
+    June, claiming that Tamar owed him a month's notice. No statute in the jurisdiction addresses the question.
+  call: "Is Tamar liable for the June rent?"
+  options:
+    A: "Yes, because rent was payable monthly, which made the tenancy month to month and required a month's notice."
+    B: "Yes, because a tenant who leaves without notice has abandoned the premises and owes rent until they are relet."
+    C: "No, because a tenancy for a fixed term ends automatically at the end of the term without notice."
+    D: "No, but only because Lorenzo had a duty to mitigate by finding a new tenant for June."
+  answer: C
+  explanation_correct: >-
+    C is correct. A tenancy for years lasts for a fixed period and ends automatically at the end of that period;
+    neither party must give notice (R-PRP-027). Tamar's lease had fixed beginning and ending dates, so it was a
+    tenancy for years even though the rent was paid in monthly installments. It ended on May 31, 2025, and Tamar left
+    that day, so she did not hold over and no new tenancy arose (R-PRP-029). She owes nothing for June.
+  explanation_each_wrong_option:
+    A: >-
+      The rent interval sets the period only of a periodic tenancy, which has no fixed end date (R-PRP-027). A lease
+      with a stated ending date is a tenancy for years, and monthly rent installments do not make it periodic.
+    B: >-
+      Abandonment means leaving before the term ends without justification (R-PRP-033). Tamar left on the last day of
+      the term, when her estate ended, so there was nothing to abandon.
+    D: >-
+      Mitigation limits a landlord's damages after a tenant breaches by abandoning during the term (R-PRP-033). Tamar
+      did not breach, so mitigation never arises; she owes no June rent whether or not Lorenzo tried to relet.
+  trap_type: wrong-standard
+  authority: ["Common law: tenancy for years ends without notice"]
+  source: original
+  tags: [wave2, W2b-PRP, landlord-tenant, tenancy-for-years]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-PRP-0106
+  subject: PRP
+  coverage_ids: [PRP-MBE-I.C.3]
+  rule_ids: [R-PRP-039, R-PRP-040, R-PRP-042, R-CTR-110]
+  difficulty: 2
+  stem: >-
+    Lindqvist leased a store to Tobias for five years at $6,000 a month; the lease contained no restriction on
+    transfer. After two years, Tobias moved his business elsewhere and signed an agreement giving Sabine possession of
+    the store "for the remainder of the lease term except its final two months," in exchange for her promise to pay
+    Tobias $6,500 a month. Sabine moved in and paid Tobias for a year and then stopped paying; Tobias, in turn, stopped
+    paying Lindqvist. Sabine never made any promise to Lindqvist. Lindqvist sued Sabine for the unpaid rent.
+  call: "Is Lindqvist likely to recover from Sabine?"
+  options:
+    A: "No, because Sabine is a sublessee, in privity of neither estate nor contract with Lindqvist."
+    B: "Yes, because Sabine possesses the leased premises and is therefore in privity of estate with Lindqvist."
+    C: "Yes, because Lindqvist is an intended beneficiary of Sabine's promise to pay rent for the store."
+    D: "No, because the lease did not allow Tobias to transfer any interest without Lindqvist's consent."
+  answer: A
+  explanation_correct: >-
+    A is correct. A tenant who transfers less than the entire remaining term keeps a reversion, and the transfer is a
+    sublease rather than an assignment (R-PRP-039). Tobias kept the final two months, so Sabine is a sublessee. A
+    sublessee is in privity of estate only with her sublessor and, unless she assumes the lease, has no privity of
+    contract with the head landlord, so she is not directly liable to the landlord for rent (R-PRP-039, R-PRP-040).
+    Lindqvist's claim for the rent lies against Tobias, who remains liable on the lease.
+  explanation_each_wrong_option:
+    B: >-
+      Possession alone does not create privity of estate with the landlord. Privity of estate runs between the
+      landlord and the holder of the tenant's entire remaining leasehold, that is, an assignee, not a sublessee
+      (R-PRP-039).
+    C: >-
+      Sabine promised to pay Tobias, her own landlord, and nothing shows an intent to benefit Lindqvist, so he is at
+      most an incidental beneficiary (R-CTR-110). A sublessee becomes liable to the head landlord only by assuming the
+      lease (R-PRP-039, R-PRP-040).
+    D: >-
+      The stem says the lease contained no restriction on transfer, so Tobias was free to sublet (R-PRP-042).
+      Lindqvist loses for a different reason: Sabine has no privity with him.
+  trap_type: missing-element
+  authority: ["Common law: assignment and sublease; privity of estate and of contract"]
+  source: original
+  tags: [wave2, W2b-PRP, landlord-tenant, sublease]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-PRP-0107
+  subject: PRP
+  coverage_ids: [PRP-MBE-I.C.4]
+  rule_ids: [R-PRP-047, R-PRP-033]
+  difficulty: 3
+  stem: >-
+    Lark Properties leased a ground-floor office to Tilden for three years at $4,000 a month. With ten months left on
+    the term, Tilden moved out, paid the rent through the end of that month, and mailed the keys to Lark with a note
+    saying that he would not return. The following week, without communicating with Tilden, Lark moved its own
+    leasing and maintenance office into the space, and it used the space for its own business for the rest of the
+    term. Lark then sued Tilden for $40,000, the rent for the last ten months of the term.
+  call: "Is Lark likely to recover the $40,000?"
+  options:
+    A: "Yes, because a landlord may leave abandoned premises unrented and recover the rent as it comes due."
+    B: "Yes, less the fair rental value of its own use, because Lark relet the space to itself to mitigate its damages."
+    C: "No, because Lark failed to mitigate its damages by trying to relet the space to a new tenant."
+    D: "No, because by occupying the space for its own use, Lark accepted Tilden's surrender of the lease."
+  answer: D
+  explanation_correct: >-
+    D is correct. A lease ends by surrender when the landlord accepts the tenant's offer to give up the premises, and
+    acceptance may be implied from conduct inconsistent with the tenant's continuing estate, such as the landlord's
+    retaking the premises for its own use (R-PRP-047, R-PRP-033). Tilden's departure, his note and the returned keys
+    offered a surrender. Accepting the keys alone would not have been enough, but Lark then moved its own office into
+    the space for the rest of the term without telling Tilden that it was acting on his account. That accepted the
+    surrender, which ended Tilden's liability for rent accruing afterward, and he had paid the rent through the month
+    he left.
+  explanation_each_wrong_option:
+    A: >-
+      That traditional option belongs to a landlord who leaves the premises vacant and keeps the lease alive, and many
+      courts now require mitigation even then (R-PRP-033). Lark did not leave the space vacant; it took the space for
+      itself, which accepts the surrender.
+    B: >-
+      A landlord that relets on the tenant's account, with notice to the tenant, may recover any shortfall (R-PRP-033,
+      R-PRP-047). Lark gave no notice and used the space for its own purposes, conduct inconsistent with Tilden's
+      estate, so the lease ended by surrender rather than continuing with a credit.
+    C: >-
+      This reaches the right result for the wrong reason. A failure to mitigate would only reduce damages by the
+      amount reasonable efforts could have avoided; it would not bar all recovery (R-PRP-033). Lark recovers nothing
+      for the remaining months because it accepted a surrender, which ended the lease.
+  trap_type: confused-rule
+  authority: ["Common law: surrender by operation of law", "Common law: abandonment and mitigation"]
+  source: original
+  tags: [wave2, W2b-PRP, landlord-tenant, surrender]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-PRP-0108
+  subject: PRP
+  coverage_ids: [PRP-MBE-I.C.5]
+  rule_ids: [R-PRP-036, R-PRP-037, R-PRP-035, R-PRP-031]
+  difficulty: 1
+  stem: >-
+    Rivka rents an apartment from Stellan under a one-year written lease that provides: "Tenant accepts the premises
+    as is and waives any implied warranty of habitability." In December the building's boiler failed, leaving Rivka's
+    apartment without heat or hot water during freezing weather. Rivka notified Stellan in writing several times, but
+    he made no repairs for six weeks. Rivka stayed in the apartment, bought space heaters, and paid no rent for
+    January. Stellan brought an eviction action against her for nonpayment of rent.
+  call: "Does Rivka have a valid defense to the eviction action?"
+  options:
+    A: "No, because a tenant's duty to pay rent is independent of the landlord's duties under the lease."
+    B: "Yes, because Stellan breached the implied warranty of habitability, which cannot be waived."
+    C: "No, because Rivka waived the implied warranty of habitability in her written lease."
+    D: "No, because a tenant who stays in possession cannot claim that she was constructively evicted."
+  answer: B
+  explanation_correct: >-
+    B is correct. In a residential lease the landlord impliedly warrants that the premises are fit for habitation
+    throughout the term, and the warranty cannot be waived (R-PRP-036). Six weeks without heat or hot water in
+    freezing weather, after repeated written notice, is a substantial breach. The tenant may stay in possession and
+    withhold or reduce rent, and the breach is a defense to the landlord's eviction action for nonpayment; the court
+    then decides how much rent, if any, is owed for the period of the breach (R-PRP-037). The waiver clause is
+    unenforceable.
+  explanation_each_wrong_option:
+    A: >-
+      The independent-covenant rule is the traditional common-law view. Modern residential law makes the duty to pay
+      rent depend on the landlord's compliance with the warranty of habitability (R-PRP-031, R-PRP-036).
+    C: >-
+      The implied warranty of habitability cannot be waived by a clause in the lease (R-PRP-036).
+    D: >-
+      The premise is true but does not decide the case: constructive eviction does require the tenant to leave
+      (R-PRP-035). Rivka relies instead on the warranty of habitability, which lets a residential tenant stay and
+      withhold or reduce rent (R-PRP-036, R-PRP-037).
+  trap_type: minority-rule
+  authority: ["Javins v. First National Realty Corp., 428 F.2d 1071 (D.C. Cir. 1970)", "Common law: implied warranty of habitability"]
+  source: original
+  tags: [wave2, W2b-PRP, landlord-tenant, habitability]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-PRP-0109
+  subject: PRP
+  coverage_ids: [PRP-MBE-I.D.2]
+  rule_ids: [R-PRP-017, R-PRP-001]
+  difficulty: 2
+  stem: >-
+    In 2018 Ingrid conveyed her ranch "to my son Victor and his heirs; provided, however, that Victor shall have no
+    power to sell, mortgage or otherwise transfer the ranch during his lifetime, and any attempted transfer shall be
+    void." In 2024 Victor sold and conveyed the ranch to Wanda for its fair market value. Victor now regrets the sale
+    and has sued Wanda to have his deed to her declared void under the terms of Ingrid's conveyance.
+  call: "Is Victor likely to prevail?"
+  options:
+    A: "No, because a disabling restraint on a fee simple is void, so Victor held the ranch free of it."
+    B: "Yes, because a grantor who makes a gift of land may attach any restriction on its transfer that she chooses."
+    C: "Yes, because the restraint lasts only for Victor's lifetime and is therefore reasonable."
+    D: "No, because only Ingrid or her heirs, not Victor, may enforce the restriction on transfer."
+  answer: A
+  explanation_correct: >-
+    A is correct. A disabling restraint, which declares that the grantee has no power to transfer and that any
+    attempted transfer is void, is void when imposed on a fee simple (R-PRP-017). "To my son Victor and his heirs"
+    gave Victor a fee simple (R-PRP-001), so the restraint is struck and Victor held a fee simple absolute free of
+    it. His conveyance to Wanda was effective, and he cannot set it aside.
+  explanation_each_wrong_option:
+    B: >-
+      A grantor cannot make a fee simple inalienable. Restraints on alienation are tested by their type and
+      reasonableness, and a disabling restraint on a fee simple is void regardless of the grantor's motive
+      (R-PRP-017).
+    C: >-
+      Reasonable restraints the law permits are of other kinds, such as rights of first refusal or lease consent
+      clauses. A disabling restraint on a fee simple is void even when it is limited to the grantee's life
+      (R-PRP-017).
+    D: >-
+      This reaches the right result for the wrong reason. The issue is not who may enforce the restriction; the
+      restriction is void, so no one may enforce it (R-PRP-017).
+  trap_type: overbroad
+  authority: ["Common law: restraints on alienation of a fee simple"]
+  source: original
+  tags: [wave2, W2b-PRP, restraints-on-alienation, alienability]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-PRP-0110
+  subject: PRP
+  coverage_ids: [PRP-MBE-I.D.4]
+  rule_ids: [R-PRP-049, R-PRP-115]
+  difficulty: 2
+  stem: >-
+    Delphine, who was domiciled in the State of North, died intestate owning a house in North and a ranch in the
+    State of South. She was survived by her husband, Ellis, and by two adult children from an earlier marriage, Fay
+    and Gil. North's intestacy statute gives a decedent's entire estate to a surviving spouse. South's intestacy
+    statute gives a surviving spouse one-half of the estate and divides the other half equally among the decedent's
+    children. Delphine's estate is being administered by a probate court in North.
+  call: "Who takes the ranch?"
+  options:
+    A: "Ellis takes all of it, because the law of the decedent's domicile governs succession to all of her property."
+    B: "Ellis takes all of it, because the court administering the estate applies its own state's intestacy statute."
+    C: "Ellis, Fay and Gil take one-third each, because conflicting intestacy laws are reconciled by equal division."
+    D: "Ellis takes one-half and Fay and Gil take one-quarter each, because South's law governs succession to the ranch."
+  answer: D
+  explanation_correct: >-
+    D is correct. Questions of title to land, including succession to land by will or intestacy, are governed by the
+    law of the state where the land is located, the situs (R-PRP-049, R-PRP-115). The ranch is in South, so South's
+    intestacy statute decides who takes it: Ellis takes one-half, and Fay and Gil divide the other half, one-quarter
+    each. North's statute governs the house in North, but it does not control land in South.
+  explanation_each_wrong_option:
+    A: >-
+      The domicile's law generally governs succession to personal property, not land. Succession to land is governed
+      by the law of the situs (R-PRP-049).
+    B: >-
+      Where the estate is administered does not change the governing law. Title to land is referred to the law of the
+      situs, and only a court of the situs can directly transfer title to land there (R-PRP-049).
+    C: >-
+      No rule divides land equally when two states' laws differ. The conflict is resolved by applying the law of the
+      situs, and South's statute fixes the shares (R-PRP-049).
+  trap_type: wrong-standard
+  authority: ["Conflict of laws: the situs rule for succession to land"]
+  source: original
+  tags: [wave2, W2b-PRP, conflict-of-laws, situs, intestacy]
+  status: draft
+  last_verified: 2026-11-04

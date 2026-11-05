@@ -1,0 +1,246 @@
+# Criminal Law and Procedure — NCBE category II: other crimes
+# Original MBE-style items (wave 2, batch B). Generally accepted common-law principles unless the stem
+# names a statute or the Model Penal Code.
+questions:
+- id: Q-CRM-0108
+  subject: CRM
+  coverage_ids: [CRM-MBE-II.E]
+  rule_ids: [R-CRM-054, R-CRM-030]
+  difficulty: 2
+  stem: >-
+    A man met a woman through a dating app. He told her that he was a wealthy, unmarried surgeon; in fact he
+    was a married, unemployed bartender. Believing him and hoping for a long-term relationship, she agreed to
+    have sexual intercourse with him, understanding exactly what act she was agreeing to. When she later
+    learned the truth, she reported him to the police. The state's statute defines rape as sexual intercourse
+    without the victim's consent and does not require force; on consent obtained by deception, the state
+    follows generally accepted principles.
+  call: "Is the man guilty of rape?"
+  options:
+    A: "Yes, because her consent was obtained by deliberate lies about facts that mattered to her."
+    B: "No, because his lies induced her consent but did not deceive her about the nature of the act."
+    C: "Yes, because consent to intercourse is ineffective whenever it is given under a mistake of fact."
+    D: "No, because he used no force and made no threat of force to obtain her agreement."
+  answer: B
+  explanation_correct: >-
+    B is correct. Fraud in the factum — deceiving the victim about the nature of the act itself, as when a
+    doctor claims to be inserting an instrument — vitiates consent and supports rape. Fraud in the
+    inducement — lies about collateral matters such as wealth, profession or marital status that persuade
+    the victim to agree to an act she understands — generally does not (R-CRM-054, R-CRM-030). The woman knew
+    and agreed to the act; the man's lies went only to her reasons for agreeing.
+  explanation_each_wrong_option:
+    A: >-
+      Confused rule. Deliberate lies are not enough; the deception must go to the nature of the act (fraud in
+      the factum), not merely to the reasons for consenting (R-CRM-054).
+    C: >-
+      Overbroad. Only a mistake about the nature of the act itself vitiates consent; a mistake about the
+      partner's circumstances does not (R-CRM-030, R-CRM-054).
+    D: >-
+      Right result, wrong reason. The statute requires only lack of consent, not force, so the absence of force
+      would not save him if consent were lacking; he is not guilty because her consent was valid (R-CRM-054).
+  trap_type: confused-rule
+  authority: ["Common law (rape: fraud in the factum vs. fraud in the inducement)", "MPC § 213.1"]
+  source: original
+  tags: [wave2, rape, consent, fraud-in-the-inducement]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CRM-0109
+  subject: CRM
+  coverage_ids: [CRM-MBE-II.F]
+  rule_ids: [R-CRM-056, R-CRM-057]
+  difficulty: 2
+  stem: >-
+    In a supermarket parking lot, a man pointed a knife at a woman who was loading groceries into her car and
+    ordered her into the driver's seat. He got into the passenger seat and made her drive five miles across
+    town to a bank's drive-up ATM, where he forced her to withdraw $500 and hand it to him. He then made her
+    drive two more miles to a deserted road, took her phone and car keys, and left her there unharmed. The
+    state's kidnapping statute adopts the common-law definition, and its courts hold that movement merely
+    incidental to another crime does not satisfy the statute.
+  call: "Is the man guilty of kidnapping?"
+  options:
+    A: "No, because moving the woman was incidental to the robbery he committed at the ATM."
+    B: "No, because he neither demanded a ransom nor caused the woman any physical injury."
+    C: "Yes, because any movement of a person against her will, however slight, is kidnapping."
+    D: "Yes, because he confined her and moved her far beyond what the robbery required."
+  answer: D
+  explanation_correct: >-
+    D is correct. Kidnapping is unlawful confinement of a person against her will, coupled with movement or
+    secret concealment (R-CRM-056). Movement merely incidental to another crime does not count, but movement
+    that is substantial and independently increases the risk of harm or decreases the chance of detection does
+    (R-CRM-057). Forcing the woman at knifepoint to drive seven miles, including to a deserted road, went far
+    beyond anything the ATM robbery needed and greatly increased her danger.
+  explanation_each_wrong_option:
+    A: >-
+      Exception trap. The incidental-movement limit covers brief movement inherent in the other crime (herding
+      a clerk to a back room). Seven miles of forced driving, ending on a deserted road, is substantial and
+      independently dangerous (R-CRM-057).
+    B: >-
+      Ransom and injury are aggravating factors that raise the grade of kidnapping; they are not elements of
+      simple kidnapping (R-CRM-056, R-CRM-057).
+    C: >-
+      Right result, wrong reason. In this jurisdiction slight movement incidental to another crime is not
+      enough; the movement here qualifies because it was substantial (R-CRM-057).
+  trap_type: exception-trap
+  authority: ["Common law (kidnapping)", "MPC § 212.1"]
+  source: original
+  tags: [wave2, kidnapping, incidental-movement]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CRM-0110
+  subject: CRM
+  coverage_ids: [CRM-MBE-II.G]
+  rule_ids: [R-CRM-058]
+  difficulty: 2
+  stem: >-
+    A landlord owned a small house that he leased to a family, who lived in it. Needing money, he decided to
+    burn the house and collect the insurance. One night, while the family was away on a week-long vacation, he
+    poured gasoline on the living-room floor and lit it. The fire charred the floor and two interior walls
+    before neighbors called firefighters, who put it out. The jurisdiction follows the common law of arson.
+  call: "Is the landlord guilty of arson?"
+  options:
+    A: "Yes, because arson protects occupancy, and the house was the tenants' dwelling."
+    B: "No, because a person cannot commit arson by burning a building that he owns."
+    C: "Yes, because burning a building to defraud an insurance company is arson."
+    D: "No, because no one was inside the house when he set the fire."
+  answer: A
+  explanation_correct: >-
+    A is correct. Common-law arson is the malicious burning of the dwelling of another (R-CRM-058). "Of
+    another" refers to occupancy, not title, so a landlord who burns a house leased to and lived in by tenants
+    burns the dwelling of another. The charring of the floor and walls is a burning, and setting a gasoline
+    fire on purpose is malice. A house remains a dwelling while its residents are temporarily away.
+  explanation_each_wrong_option:
+    B: >-
+      Confused rule. Arson protects the security of the occupants, not ownership; an owner can commit arson
+      against a dwelling that others occupy (R-CRM-058).
+    C: >-
+      Right result, wrong reason. Burning property to defraud an insurer is arson only under modern statutes;
+      at common law it was not. The landlord is guilty because the house was the tenants' dwelling (R-CRM-058).
+    D: >-
+      Presence of the occupants is not an element. A dwelling does not lose that character because the
+      residents are on vacation (R-CRM-058).
+  trap_type: right-result-wrong-reason
+  authority: ["Common law (arson)", "MPC § 220.1"]
+  source: original
+  tags: [wave2, arson, occupancy, dwelling-of-another]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CRM-0111
+  subject: CRM
+  coverage_ids: [CRM-MBE-II.H, CRM-MBE-IV.A]
+  rule_ids: [R-CRM-059, R-CRM-002]
+  difficulty: 1
+  stem: >-
+    A statute makes it a felony for any person who has been convicted of a felony to knowingly possess a
+    firearm. A man who knew that he had a prior felony conviction agreed to keep a friend's hunting rifle while
+    the friend moved to a new apartment. He carried the rifle into his house, put it on the top shelf of his
+    bedroom closet and did not touch it again. Two weeks later, officers executing a valid search warrant found
+    it there. At trial he testifies, truthfully, that the rifle belonged to his friend, that he never fired or
+    handled it after putting it away, and that he intended to give it back.
+  call: "Should he be convicted?"
+  options:
+    A: "No, because he did not own the rifle and he intended to return it to its owner."
+    B: "No, because merely storing an object is a passive condition rather than a voluntary act."
+    C: "Yes, because he knowingly received the rifle and kept control of it in his house."
+    D: "Yes, because the rifle was found in his house during a lawful search."
+  answer: C
+  explanation_correct: >-
+    C is correct. Possession is a sufficient act if the possessor knowingly procured or received the item or
+    was aware of his control of it long enough to have ended possession (R-CRM-059, R-CRM-002). The man knowingly
+    took the rifle, placed it in his own closet and kept it there for two weeks with full awareness, so he
+    knowingly possessed a firearm while knowing he was a felon.
+  explanation_each_wrong_option:
+    A: >-
+      True but irrelevant. Possession means knowing control, not ownership; holding an item for its owner, even
+      with intent to return it, is possession (R-CRM-059).
+    B: >-
+      Confused rule. Possession counts as an act when the defendant knowingly received the item or knew of his
+      control long enough to end it (R-CRM-002, R-CRM-059).
+    D: >-
+      Right result, wrong reason. Finding an item in a person's home does not by itself prove knowing
+      possession; conviction rests on his knowing receipt and continued control (R-CRM-059).
+  trap_type: true-but-irrelevant
+  authority: ["MPC § 2.01(4)", "Common law (possession offenses)"]
+  source: original
+  tags: [wave2, possession, voluntary-act, constructive-possession]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CRM-0112
+  subject: CRM
+  coverage_ids: [CRM-MBE-II.B]
+  rule_ids: [R-CRM-049, R-CRM-044]
+  difficulty: 1
+  stem: >-
+    As a woman walked to her car, a man ran up behind her and grabbed the strap of the handbag hanging from her
+    shoulder. Feeling the tug, she clutched the strap with both hands. The man yanked hard twice, pulling her
+    off balance, and she let go; he ran off with the bag. She was not injured. The man carried no weapon and
+    said nothing during the encounter. The jurisdiction follows the common law.
+  call: "What is the most serious crime the man has committed?"
+  options:
+    A: "Larceny, because snatching property from a person's shoulder is larceny rather than robbery."
+    B: "Robbery, because he used force to overcome her resistance to the taking."
+    C: "Larceny, because he neither displayed a weapon nor threatened her with harm."
+    D: "Larceny and battery, because robbery requires that the victim be injured or threatened."
+  answer: B
+  explanation_correct: >-
+    B is correct. Robbery is larceny from the victim's person or presence accomplished by force or
+    intimidation, where the force exceeds what is needed simply to take the property (R-CRM-049). A snatch so
+    quick that the victim cannot resist is larceny, but here the woman held on and the man overcame her
+    resistance by yanking her off balance. That force, used to obtain the bag, makes the taking robbery.
+  explanation_each_wrong_option:
+    A: >-
+      Overbroad. A snatching is only larceny when no more force is used than needed to take the item; overcoming
+      the victim's grip is the force robbery requires (R-CRM-049).
+    C: >-
+      Confused rule. Force and intimidation are alternatives; a weapon or threat is unnecessary when actual
+      force overcomes resistance (R-CRM-049).
+    D: >-
+      Robbery requires force or intimidation, not injury. The force used merges the battery into the robbery
+      (R-CRM-049).
+  trap_type: overbroad
+  authority: ["Common law (robbery)"]
+  source: original
+  tags: [wave2, robbery, force, purse-snatching]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CRM-0113
+  subject: CRM
+  coverage_ids: [CRM-MBE-II.C]
+  rule_ids: [R-CRM-050]
+  difficulty: 2
+  stem: >-
+    At about 11 p.m., a man walking past his neighbor's house noticed that a ground-floor bedroom window was
+    open about four inches. Intending to steal the neighbor's laptop, which he knew was kept in that room, he
+    pushed the window up until it was fully open, climbed through and took the laptop from a desk. The
+    neighbor, asleep upstairs, did not wake. The jurisdiction follows the common law of burglary.
+  call: "Is the man guilty of burglary?"
+  options:
+    A: "Yes, because pushing the window farther open to get inside was a breaking."
+    B: "No, because he entered through an opening that the neighbor had left in the window."
+    C: "Yes, because he entered a dwelling at night and stole property from inside it."
+    D: "No, because he did not damage the window or any other part of the house."
+  answer: A
+  explanation_correct: >-
+    A is correct. Common-law burglary requires a breaking and entering of the dwelling of another at
+    nighttime with intent to commit a felony inside, the intent existing at entry (R-CRM-050). A breaking is
+    the creation or enlargement of an opening by even slight force; raising a partly open window enough to
+    climb through enlarges the opening. The man entered at night with intent to steal, so every element is
+    met.
+  explanation_each_wrong_option:
+    B: >-
+      Walking through a fully open door or window is not a breaking, but enlarging a partial opening is
+      (R-CRM-050).
+    C: >-
+      Right result, wrong reason. The option omits the breaking element and the requirement of intent at the
+      time of entry; the man is guilty because he enlarged the opening with intent to steal (R-CRM-050).
+    D: >-
+      Damage is not required. Slight force used to create or enlarge an opening is enough (R-CRM-050).
+  trap_type: missing-element
+  authority: ["Common law (burglary)"]
+  source: original
+  tags: [wave2, burglary, breaking]
+  status: draft
+  last_verified: 2026-11-04

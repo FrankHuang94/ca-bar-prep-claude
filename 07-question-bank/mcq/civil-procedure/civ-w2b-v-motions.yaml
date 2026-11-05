@@ -1,0 +1,394 @@
+# Civil Procedure — NCBE category V: Motions (wave 2, batch B, original items)
+questions:
+- id: Q-CIV-0135
+  subject: CIV
+  coverage_ids: [CIV-MBE-V.A, CIV-MBE-III.B]
+  rule_ids: [R-CIV-047, R-CIV-048]
+  difficulty: 3
+  stem: >-
+    Bastien sued Oakmont Corp. in federal court. Oakmont made no pre-answer motion. On March 1 it served
+    an answer that denied liability but did not mention personal jurisdiction; the answer contains no
+    counterclaim, and the court has not ordered a reply. On March 15, without seeking leave or Bastien's
+    consent, Oakmont served an amended answer, its first amendment, that added the defense of lack of
+    personal jurisdiction. Bastien argues that Oakmont waived the defense by omitting it from its
+    original answer.
+  call: "Is Bastien correct?"
+  options:
+    A: "Yes, because a personal-jurisdiction defense must be raised in the defendant's first responsive pleading or pre-answer motion."
+    B: "Yes, because by answering on the merits without objecting, Oakmont made a general appearance that submitted it to the court's jurisdiction."
+    C: "No, because a personal-jurisdiction defense may be raised at any time before trial, like the defense of failure to state a claim."
+    D: "No, because Oakmont included the defense in an amended answer that it was entitled to serve as a matter of course."
+  answer: D
+  explanation_correct: >-
+    The personal-jurisdiction defense is waived if a party fails either to raise it by Rule 12 motion or
+    to include it in a responsive pleading or in an amendment allowed by Rule 15(a)(1) as a matter of
+    course (FRCP 12(h)(1)(B); R-CIV-047). A pleading to which no responsive pleading is required, such as
+    an answer without a counterclaim when no reply has been ordered, may be amended once as a matter of
+    course within 21 days after serving it (FRCP 15(a)(1)(A); R-CIV-048). Oakmont made no Rule 12 motion
+    and amended its answer for the first time 14 days after serving it, so the defense was timely
+    included and is preserved. Trap: treating the original answer as the last chance.
+  explanation_each_wrong_option:
+    A: >-
+      Incomplete statement of the rule. Rule 12(h)(1)(B)(ii) also preserves a defense included in an
+      amendment allowed as a matter of course, which Oakmont served within 21 days.
+    B: >-
+      The Federal Rules abandoned the general-appearance doctrine; waiver of personal jurisdiction is
+      governed by Rule 12(h)(1). It is California practice that treats a general appearance as a waiver
+      (R-CIV-047).
+    C: >-
+      Only failure to state a claim, failure to join a required party and failure to state a legal
+      defense survive until trial (FRCP 12(h)(2)); personal jurisdiction is a waivable defense governed by
+      Rule 12(h)(1).
+  trap_type: exception-trap
+  authority: ["FRCP 12(h)(1)(B)", "FRCP 15(a)(1)(A)", "FRCP 7(a)(7)"]
+  source: original
+  tags: [wave2, w2b, rule-12, waiver, amendment-as-of-course]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CIV-0136
+  subject: CIV
+  coverage_ids: [CIV-MBE-V.A, CIV-MBE-III.B]
+  rule_ids: [R-CIV-046, R-CIV-084]
+  difficulty: 1
+  stem: >-
+    Larsen was served with a federal summons and complaint on March 1 and had not been asked to waive
+    service. On March 15, Larsen served a motion to dismiss for failure to state a claim. The court
+    denied the motion in an order entered and served on the parties on May 10. Larsen served her answer
+    on May 20. Meanwhile, on May 12, the plaintiff had asked the clerk to enter Larsen's default, arguing
+    that her answer was due on March 22.
+  call: "Was Larsen's answer timely?"
+  options:
+    A: "No, because an answer is due 21 days after service of the summons and complaint, and a pending motion does not extend that time."
+    B: "No, because after a Rule 12 motion is denied, the defendant must serve its answer within 7 days after notice of the ruling."
+    C: "Yes, because a defendant who serves any pre-answer motion has 60 days after being served to answer the complaint."
+    D: "Yes, because it was served within 14 days after Larsen received notice that the court had denied her Rule 12 motion."
+  answer: D
+  explanation_correct: >-
+    A defendant must ordinarily serve an answer within 21 days after being served (FRCP 12(a)(1)(A)(i);
+    R-CIV-046). Serving a Rule 12 motion alters that period: if the court denies the motion, the
+    responsive pleading is due within 14 days after notice of the court's action (FRCP 12(a)(4)(A)).
+    Larsen served her motion on March 15, within her original 21 days; notice of the denial came May 10,
+    so her answer was due by May 24, and her May 20 answer was timely. No default should be entered.
+    Trap: overlooking how a Rule 12 motion resets the time to answer.
+  explanation_each_wrong_option:
+    A: >-
+      A timely Rule 12 motion displaces the 21-day period; Rule 12(a)(4)(A) gives the defendant 14 days
+      after notice of the ruling.
+    B: >-
+      Wrong number. The period after notice of the denial of a Rule 12 motion is 14 days, not 7.
+    C: >-
+      The 60-day period applies when the defendant timely waives service (FRCP 4(d)(3), 12(a)(1)(A)(ii));
+      Larsen was served and did not waive.
+  trap_type: procedural-posture
+  authority: ["FRCP 12(a)(1)(A)(i)", "FRCP 12(a)(4)(A)", "FRCP 55(a)"]
+  source: original
+  tags: [wave2, w2b, rule-12, time-to-answer]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CIV-0137
+  subject: CIV
+  coverage_ids: [CIV-MBE-V.A]
+  rule_ids: [R-CIV-086, R-CIV-085]
+  difficulty: 2
+  stem: >-
+    Merriweather sued Copley Corp. in federal court for injuries from an industrial accident. Copley's
+    answer pleaded the statute of limitations as an affirmative defense. After discovery, Copley moved
+    for summary judgment on the sole ground that Merriweather had no evidence of causation. The court
+    found a genuine dispute about causation, but on its own review of the record it concluded that the
+    claim was time-barred, an issue neither party had briefed, and, without notifying the parties,
+    granted summary judgment for Copley on that ground. Merriweather had evidence, never presented
+    because the issue was not raised, that the limitations period had been tolled.
+  call: "Was the grant of summary judgment procedurally proper?"
+  options:
+    A: "Yes, because a court may grant summary judgment on any ground supported by the record, whether or not the movant raised it."
+    B: "No, because a court may grant summary judgment on a ground no party raised only after notice and a reasonable time to respond."
+    C: "Yes, because the statute of limitations is a question of law that the court must raise on its own whenever the record reveals it."
+    D: "No, because a statute-of-limitations defense must be decided by the jury once the defendant has pleaded it in the answer."
+  answer: B
+  explanation_correct: >-
+    After giving notice and a reasonable time to respond, a court may grant summary judgment on grounds
+    not raised by a party (FRCP 56(f)(2); R-CIV-086). The notice requirement gives the non-movant a fair
+    chance to show a genuine dispute on the new ground. The court skipped that step and so deprived
+    Merriweather of the chance to present the tolling evidence; the grant was procedurally improper.
+    Trap: assuming the court's power to grant summary judgment on its own ground comes without
+    conditions.
+  explanation_each_wrong_option:
+    A: >-
+      Missing element. Rule 56(f) does allow a court to grant summary judgment on grounds not raised, but
+      only after notice and a reasonable time to respond.
+    C: >-
+      Limitations is an affirmative defense, not a jurisdictional limit the court must raise on its own;
+      and even when a court considers an unraised ground, Rule 56(f) requires notice first.
+    D: >-
+      Overbroad. A limitations defense may be resolved on summary judgment when there is no genuine
+      dispute of material fact (R-CIV-085); the defect here is the lack of notice.
+  trap_type: missing-element
+  authority: ["FRCP 56(a)", "FRCP 56(f)(2)"]
+  source: original
+  tags: [wave2, w2b, summary-judgment, rule-56f, notice]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CIV-0138
+  subject: CIV
+  coverage_ids: [CIV-MBE-V.A]
+  rule_ids: [R-CIV-085, R-CIV-086]
+  difficulty: 2
+  stem: >-
+    Fairmont Bank sued Hargrove in federal court on his written guaranty of a company's $600,000 loan.
+    The guaranty states that it is "absolute and unconditional" and that Hargrove "waives notice of any
+    default." Under the governing state law, a guarantor who waives notice of default is liable on the
+    borrower's default whether or not the creditor gave notice. Hargrove admits that he signed the
+    guaranty, that the company defaulted, and that $600,000 remains unpaid. Fairmont moved for summary
+    judgment. Hargrove's opposing declaration states that Fairmont never notified him of the default; a
+    Fairmont officer's declaration states that the bank mailed him a notice of default the day after it
+    occurred.
+  call: "How should the court rule on the motion?"
+  options:
+    A: "Grant it, because whether notice was given does not affect the outcome under the governing law."
+    B: "Deny it, because the parties' sworn declarations conflict on whether Fairmont gave notice of the default."
+    C: "Deny it, because summary judgment may not be granted for the party that bears the burden of proof at trial."
+    D: "Grant it, because the bank officer's declaration is more detailed and therefore more credible than Hargrove's."
+  answer: A
+  explanation_correct: >-
+    Summary judgment is proper when there is no genuine dispute as to any material fact and the movant is
+    entitled to judgment as a matter of law (FRCP 56(a); R-CIV-085). A fact is material only if it might
+    affect the outcome under the governing law (Anderson v. Liberty Lobby). Because Hargrove waived notice,
+    his liability does not depend on whether Fairmont gave notice, so the conflicting declarations create
+    a dispute about an immaterial fact. The facts that matter (the signed guaranty, the default and the
+    unpaid balance) are admitted, so Fairmont is entitled to judgment. Trap: treating any factual
+    conflict as a bar to summary judgment.
+  explanation_each_wrong_option:
+    B: >-
+      True but irrelevant. The declarations do conflict, but only a genuine dispute over a material fact
+      precludes summary judgment.
+    C: >-
+      Overbroad. A party with the burden of proof may obtain summary judgment when no reasonable jury could
+      find against it on any element, as when the opponent admits the elements.
+    D: >-
+      A court ruling on summary judgment may not weigh credibility (R-CIV-085); the motion is granted
+      because the dispute is immaterial, not because one declarant is more believable.
+  trap_type: true-but-irrelevant
+  authority: ["FRCP 56(a)", "Anderson v. Liberty Lobby, Inc., 477 U.S. 242 (1986)"]
+  source: original
+  tags: [wave2, w2b, summary-judgment, materiality]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CIV-0139
+  subject: CIV
+  coverage_ids: [CIV-MBE-V.B]
+  rule_ids: [R-CIV-087]
+  difficulty: 2
+  stem: >-
+    In a federal jury trial of a breach-of-contract claim, the plaintiff, Rasmussen, presented testimony
+    and documents showing that the defendant, Osei Builders, failed to complete a warehouse by the
+    contract deadline. When Rasmussen rested, Osei had not yet presented any evidence; its opening
+    statement had said it would prove that Rasmussen's own design changes excused the delay. Rasmussen
+    immediately moved for judgment as a matter of law on liability, arguing that her evidence of breach
+    was overwhelming and had not been contradicted.
+  call: "How should the court rule on Rasmussen's motion?"
+  options:
+    A: "Grant it, because Rasmussen's evidence of breach is strong and Osei has offered no evidence to contradict it."
+    B: "Deny it, because only a party defending against a claim, not the party asserting it, may move for judgment as a matter of law."
+    C: "Deny it, because judgment as a matter of law may not be entered against a party that has not yet been fully heard on the issue."
+    D: "Grant it, because a motion for judgment as a matter of law may be made at any time before the case is submitted to the jury."
+  answer: C
+  explanation_correct: >-
+    The court may grant judgment as a matter of law against a party only if that party has been fully
+    heard on an issue during a jury trial and a reasonable jury would not have a legally sufficient
+    evidentiary basis to find for it on that issue (FRCP 50(a)(1); R-CIV-087). Osei has not presented its
+    case, including its excuse defense, so it has not been fully heard, and the motion is premature. By
+    contrast, the defendant could move against the plaintiff when the plaintiff rests, because by then
+    the plaintiff has been fully heard. Trap: confusing when a motion may be made with when it may be
+    granted.
+  explanation_each_wrong_option:
+    A: >-
+      However strong the plaintiff's evidence, the court cannot decide that no reasonable jury could find
+      for Osei before Osei has presented its evidence.
+    B: >-
+      Rule 50(a) is available to any party, including the party with the burden of proof, once the
+      opposing party has been fully heard on the issue.
+    D: >-
+      True but incomplete. A motion may be made any time before submission (FRCP 50(a)(2)), but it may be
+      granted only against a party that has been fully heard (FRCP 50(a)(1)).
+  trap_type: missing-element
+  authority: ["FRCP 50(a)(1)-(2)"]
+  source: original
+  tags: [wave2, w2b, jmol, fully-heard]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CIV-0140
+  subject: CIV
+  coverage_ids: [CIV-MBE-V.B, CIV-MBE-V.C]
+  rule_ids: [R-CIV-088, R-CIV-089]
+  difficulty: 2
+  stem: >-
+    In a federal jury trial of a negligence claim, the defendant moved for judgment as a matter of law at
+    the close of all the evidence, and the court denied the motion. The jury returned a verdict for the
+    plaintiff. Within 28 days after entry of judgment, the defendant filed a renewed motion for judgment
+    as a matter of law on the same ground and, in the alternative, a motion for a new trial on the ground
+    that the verdict was against the clear weight of the evidence. The court concluded that no reasonable
+    jury could have found for the plaintiff and granted the renewed motion.
+  call: "What must the court do about the alternative motion for a new trial?"
+  options:
+    A: "Deny it as moot, because judgment as a matter of law has already been entered in the defendant's favor on the same claim."
+    B: "Rule on it conditionally, stating whether and why a new trial should be granted if the judgment is vacated or reversed."
+    C: "Grant it automatically, because a verdict that no reasonable jury could reach is necessarily against the weight of the evidence."
+    D: "Defer any ruling on it until the court of appeals has decided an appeal from the judgment as a matter of law."
+  answer: B
+  explanation_correct: >-
+    When a court grants a renewed motion for judgment as a matter of law, it must also conditionally rule
+    on any motion for a new trial by determining whether a new trial should be granted if the judgment is
+    later vacated or reversed, and it must state the grounds (FRCP 50(c)(1); R-CIV-088). The conditional
+    ruling lets the court of appeals resolve everything in one appeal; for example, if the court
+    conditionally grants a new trial and the judgment is reversed, the new trial proceeds unless the
+    appellate court orders otherwise (FRCP 50(c)(2)). Trap: treating the new-trial request as moot.
+  explanation_each_wrong_option:
+    A: >-
+      Rule 50(c)(1) requires a conditional ruling precisely because the judgment as a matter of law may be
+      reversed on appeal; the new-trial motion is not moot.
+    C: >-
+      The court must decide the new-trial question under its own standard and state its grounds; granting
+      judgment as a matter of law does not automatically require a new trial.
+    D: >-
+      The conditional ruling must be made by the trial court when it grants the renewed motion, not after
+      an appeal.
+  trap_type: procedural-posture
+  authority: ["FRCP 50(b)", "FRCP 50(c)(1)-(2)"]
+  source: original
+  tags: [wave2, w2b, renewed-jmol, new-trial, conditional-ruling]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CIV-0141
+  subject: CIV
+  coverage_ids: [CIV-MBE-V.C]
+  rule_ids: [R-CIV-089]
+  difficulty: 1
+  stem: >-
+    Judgment on a jury verdict for the plaintiff was entered on June 3. On June 20, the defendant asked
+    the court to extend its time to file a motion for a new trial by 21 days because the trial transcript
+    would not be ready, and the court granted the request over the plaintiff's objection. The defendant
+    filed its new-trial motion on July 15. The plaintiff again objected that the motion was untimely.
+  call: "How should the court treat the new-trial motion?"
+  options:
+    A: "Consider it on the merits, because the court granted the extension before the original deadline expired."
+    B: "Consider it on the merits, because a motion for a new trial may be filed at any time within one year after entry of judgment."
+    C: "Deny it as untimely, because a motion for a new trial must be filed within 10 days after entry of judgment."
+    D: "Deny it as untimely, because the court had no authority to extend the 28-day period for filing a new-trial motion."
+  answer: D
+  explanation_correct: >-
+    A motion for a new trial must be filed no later than 28 days after entry of judgment (FRCP 59(b);
+    R-CIV-089), and the court must not extend that period (FRCP 6(b)(2)). Courts can usually extend a
+    deadline on a request made before it expires (FRCP 6(b)(1)(A)), but Rule 6(b)(2) withdraws that power
+    for new-trial motions. The 28 days ran on July 1, so the July 15 motion is untimely, and because the
+    plaintiff objected, the court should deny it on that ground. Trap: assuming a court-granted extension
+    cures the deadline.
+  explanation_each_wrong_option:
+    A: >-
+      The general power to extend a deadline on a timely request (FRCP 6(b)(1)(A)) does not apply to the
+      28-day new-trial period, which Rule 6(b)(2) makes non-extendable.
+    B: >-
+      Confuses the new-trial deadline with the one-year outer limit for Rule 60(b)(1)-(3) motions (FRCP
+      60(c)(1)).
+    C: >-
+      Wrong number. The deadline was once 10 days, but since the 2009 amendments it has been 28 days after
+      entry of judgment.
+  trap_type: confused-rule
+  authority: ["FRCP 59(b)", "FRCP 6(b)(1)-(2)"]
+  source: original
+  tags: [wave2, w2b, new-trial, deadlines]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CIV-0142
+  subject: CIV
+  coverage_ids: [CIV-MBE-V.C]
+  rule_ids: [R-CIV-090]
+  difficulty: 1
+  stem: >-
+    After a jury returned a verdict of $185,000 for the plaintiff in a federal negligence action, the
+    clerk prepared and entered a judgment that, through a typing error, awarded the plaintiff $18,500.
+    Neither party noticed the error, and no appeal was taken. Fourteen months later, when the plaintiff
+    began collection proceedings, she discovered the discrepancy and moved to correct the judgment to
+    conform to the verdict. The defendant opposed the motion as untimely.
+  call: "How should the court rule on the motion?"
+  options:
+    A: "Deny it, because a motion for relief from a judgment based on mistake must be made within one year after entry of the judgment."
+    B: "Grant it, because a clerical mistake in a judgment may be corrected whenever it is found, on motion or on the court's own."
+    C: "Deny it, because a party who fails to move to alter or amend a judgment within 28 days loses the right to have it corrected."
+    D: "Grant it, but only if the plaintiff shows extraordinary circumstances justifying relief under Rule 60(b)(6)."
+  answer: B
+  explanation_correct: >-
+    The court may correct a clerical mistake, or a mistake arising from oversight or omission, whenever
+    one is found in a judgment, order or other part of the record, on motion or on its own (FRCP 60(a);
+    R-CIV-090). Entering $18,500 instead of the jury's $185,000 is a transcription error that makes the
+    judgment fail to reflect what was actually decided, so Rule 60(a) applies. No appeal is pending, so
+    no appellate leave is needed, and the one-year limit in Rule 60(c)(1) governs only motions under Rule
+    60(b)(1)-(3). Trap: treating a clerical error as a Rule 60(b)(1) mistake.
+  explanation_each_wrong_option:
+    A: >-
+      The one-year limit applies to Rule 60(b)(1)-(3) motions (FRCP 60(c)(1)); a clerical mistake is
+      corrected under Rule 60(a), which has no such limit.
+    C: >-
+      Rule 59(e)'s 28-day deadline governs motions to change the substance of a judgment; it does not bar
+      correcting a clerical error under Rule 60(a).
+    D: >-
+      Relief under Rule 60(b)(6) requires extraordinary circumstances, but no such showing is needed
+      here, because Rule 60(a) directly authorizes correcting a clerical mistake at any time.
+  trap_type: exception-trap
+  authority: ["FRCP 60(a)", "FRCP 60(c)(1)", "FRCP 59(e)"]
+  source: original
+  tags: [wave2, w2b, relief-from-judgment, clerical-mistake, rule-60a]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CIV-0143
+  subject: CIV
+  coverage_ids: [CIV-MBE-V.C]
+  rule_ids: [R-CIV-089, R-CIV-083]
+  difficulty: 3
+  stem: >-
+    Judgment on a jury verdict for the plaintiff was entered on April 2. At the charge conference, the
+    defendant had objected, on the record and with stated grounds, to the court's instruction on the
+    standard of care, and the court had overruled the objection. Neither party moved for a new trial. On
+    April 21, the judge notified the parties that she was considering ordering a new trial on her own
+    because she had come to believe that the instruction misstated the governing standard and prejudiced
+    the defendant. After hearing argument on April 27, she entered an order on April 28 granting a new
+    trial and specifying that reason. The plaintiff contends that the court had no power to order a new
+    trial without a timely motion by a party.
+  call: "Was the order granting a new trial proper?"
+  options:
+    A: "No, because a new trial may be ordered only on a timely motion filed by a party within 28 days after judgment."
+    B: "Yes, because a court may order a new trial on its own at any time before a notice of appeal is filed."
+    C: "Yes, because within 28 days after judgment a court may order a new trial on its own for any reason a motion could raise."
+    D: "No, because the judge's own instructional error is a matter for the court of appeals to correct, not a ground for granting a new trial."
+  answer: C
+  explanation_correct: >-
+    No later than 28 days after entry of judgment, the court, on its own, may order a new trial for any
+    reason that would justify granting one on a party's motion, and it must specify its reasons (FRCP
+    59(d); R-CIV-089). Prejudicial legal error, including an erroneous instruction that affected a party's
+    substantial rights, is a recognized ground for a new trial (FRCP 59(a)(1)(A), 61). Judgment was
+    entered April 2, so the 28 days ran through April 30; the April 28 order was timely, it stated its
+    reason, and the judge gave the parties notice and a chance to be heard first. Trap: assuming only a
+    party can set a new trial in motion.
+  explanation_each_wrong_option:
+    A: >-
+      Rule 59(d) expressly lets the court order a new trial on its own within 28 days after judgment,
+      without any party's motion.
+    B: >-
+      Right result, wrong reason. The court's own power lasts only 28 days after entry of judgment (FRCP
+      59(d)); it does not extend to any time before an appeal is filed.
+    D: >-
+      Prejudicial legal error at trial, including an erroneous instruction, is a classic ground for a new
+      trial; the trial court need not leave the error for the court of appeals to correct.
+  trap_type: right-result-wrong-reason
+  authority: ["FRCP 59(a)(1)(A)", "FRCP 59(d)", "FRCP 61"]
+  source: original
+  tags: [wave2, w2b, new-trial, court-initiative, rule-59d]
+  status: draft
+  last_verified: 2026-11-04

@@ -1,0 +1,806 @@
+# Evidence MCQs — NCBE category II: relevance, Rule 403, character, habit, experts, real evidence
+# (Wave 2, batch B). FRE only (as amended through Dec. 1, 2024). All items original.
+# No item turns on amended FRE 801(d)(1)(A) (V-028).
+questions:
+- id: Q-EVD-0113
+  subject: EVD
+  coverage_ids: [EVD-MBE-II.A.1]
+  rule_ids: [R-EVD-002]
+  difficulty: 2
+  stem: >-
+    A homeowner sues the manufacturer of a pressure cooker in federal court on a single claim of strict
+    products liability, alleging that the cooker exploded because its lid gasket was cracked. Under the
+    governing law, a manufacturer is strictly liable for a manufacturing defect that causes injury even if
+    it exercised all possible care. The manufacturer concedes that the gasket was cracked when the cooker
+    left its factory, but it disputes that the crack caused the explosion. It offers testimony from its
+    quality-control director describing its rigorous inspection program, to show that it was not careless
+    in making the cooker. The homeowner objects.
+  call: Should the court admit the director's testimony?
+  options:
+    A: "Yes, because the testimony has some tendency to show that the manufacturer acted with reasonable care."
+    B: "No, because the manufacturer's care in making the cooker is not a fact of consequence in determining the action."
+    C: "Yes, because a company's routine practice is admissible to prove its conduct on a particular occasion."
+    D: "No, because evidence of a company's safety program is inadmissible evidence of the company's character."
+  answer: B
+  explanation_correct: >-
+    Relevance (R-EVD-002; FRE 401, 402): evidence is relevant if it has any tendency to make a fact more or
+    less probable and the fact is of consequence in determining the action. Under the stated rule, a
+    manufacturer is liable for a manufacturing defect even if it used all possible care, and the
+    manufacturer concedes that the defect existed when the cooker left its control. The only purpose
+    offered for the inspection testimony, showing that the manufacturer was careful, goes to a fact that
+    does not matter under the substantive law, so the testimony is irrelevant and inadmissible (FRE 402).
+    It is not offered on, and does not bear on, the disputed issue of causation.
+  explanation_each_wrong_option:
+    A: >-
+      True but irrelevant. The testimony is probative of care, but probative value alone is not enough; the
+      fact it tends to prove must be of consequence, and care is neither an element nor a defense here.
+    C: >-
+      FRE 406 lets routine practice prove that a company acted in accordance with it on a particular
+      occasion, but proving how this cooker was inspected would still show only care, which does not
+      matter on this claim.
+    D: >-
+      Wrong label. A description of a company's inspection program is not offered as character evidence;
+      the problem is that it proves nothing of consequence.
+  trap_type: true-but-irrelevant
+  authority: ["FRE 401", "FRE 402", "Restatement (Second) of Torts § 402A(2)(a)", "Restatement (Third) of Torts: Products Liability § 2(a)"]
+  source: original
+  tags: [wave2, W2b-EVD, relevance, materiality]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-EVD-0114
+  subject: EVD
+  coverage_ids: [EVD-MBE-II.A.1]
+  rule_ids: [R-EVD-002, R-EVD-003]
+  difficulty: 3
+  stem: >-
+    A defendant is prosecuted in federal court for second-degree murder after shooting a man at a campsite
+    in a national forest. His only defense is self-defense. Before trial, he offers to stipulate that the
+    man died of a gunshot wound that the defendant inflicted. The prosecution declines the offer and, at
+    trial, calls the medical examiner to testify that the cause of death was a single gunshot wound to the
+    chest. The defendant objects that the testimony is irrelevant because the cause of death is not in
+    dispute; he makes no other objection.
+  call: How should the court rule on the objection?
+  options:
+    A: "Overrule it, because evidence can be relevant even when the fact it tends to prove is not disputed."
+    B: "Sustain it, because evidence offered to prove a fact the defendant has conceded has no tendency to make any disputed fact more probable."
+    C: "Sustain it, because once the defendant offers to stipulate to an element, the prosecution must accept the stipulation instead of proving the element."
+    D: "Overrule it, because by offering to stipulate, the defendant waived any objection to evidence about the cause of death."
+  answer: A
+  explanation_correct: >-
+    Relevance (R-EVD-002; FRE 401): evidence is relevant if it has any tendency to make a fact of
+    consequence more or less probable. Under the FRE the fact need not be in dispute; the advisory
+    committee's note to Rule 401 says that evidence offered on a conceded point should be judged under
+    Rule 403 (for waste of time or unfair prejudice), not excluded as irrelevant. Cause of death is part
+    of what the prosecution must prove, and the prosecution is generally entitled to prove its case with
+    evidence of its own choosing despite a defendant's offer to stipulate (Old Chief v. United States). The
+    relevance objection therefore fails; the defendant made no Rule 403 objection (R-EVD-003).
+  explanation_each_wrong_option:
+    B: >-
+      This reflects a "disputed fact" requirement found in some state codes (California's Evidence Code
+      § 210 defines relevant evidence in terms of a disputed fact), not the FRE. Under FRE 401, a fact need
+      not be disputed to be of consequence.
+    C: >-
+      Overbroad. Old Chief recognized a narrow exception for proof of felon status, where the name and
+      nature of the prior conviction add only unfair prejudice; generally the prosecution may decline a
+      stipulation and prove its case with its own evidence.
+    D: >-
+      An offer to stipulate is not a waiver of objections. The defendant could still object, but relevance
+      is the wrong ground.
+  trap_type: minority-rule
+  authority: ["FRE 401", "FRE 401 advisory committee's note", "FRE 403", "Old Chief v. United States, 519 U.S. 172 (1997)"]
+  source: original
+  tags: [wave2, W2b-EVD, relevance, stipulation]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-EVD-0115
+  subject: EVD
+  coverage_ids: [EVD-MBE-II.A.2]
+  rule_ids: [R-EVD-003, R-EVD-090]
+  difficulty: 2
+  stem: >-
+    A parent sues the manufacturer of a child's stroller in federal court, alleging that the manufacturer
+    negligently failed to warn of, or recall, a folding latch that it knew could release unexpectedly. The
+    manufacturer denies knowing of any problem. The parent offers an internal email from the manufacturer's
+    vice president of product safety, sent eight months before the accident, stating: "We now have 40
+    reports of the latch releasing. A recall would cost $3 million. Let's hold off and see if the reports
+    keep coming." The manufacturer objects under Rule 403, arguing that the email is devastating to its
+    defense and will make the jury angry.
+  call: Is the court likely to exclude the email under Rule 403?
+  options:
+    A: "Yes, because evidence that strongly favors one side is unfairly prejudicial to the other side."
+    B: "Yes, because an officer's internal email may not be used to prove what the corporation knew."
+    C: "No, because Rule 403 permits exclusion only of cumulative or time-wasting evidence."
+    D: "No, because harm that results from the email's legitimate probative force is not unfair prejudice."
+  answer: D
+  explanation_correct: >-
+    Rule 403 balancing (R-EVD-003; FRE 403): the court may exclude relevant evidence if its probative value
+    is substantially outweighed by a danger of, among other things, unfair prejudice. "Unfair prejudice"
+    means an undue tendency to suggest decision on an improper basis, commonly an emotional one; it does
+    not mean damage to a party's case from evidence that legitimately proves a disputed point. The email
+    is direct, highly probative evidence of the knowledge the manufacturer denies, and any anger it
+    provokes flows from what it proves. The balance strongly favors admission.
+  explanation_each_wrong_option:
+    A: >-
+      Confuses unfair prejudice with damaging evidence. Nearly all probative evidence hurts the party it is
+      offered against; Rule 403 targets only the risk of decision on an improper basis.
+    B: >-
+      Wrong. A statement by a party's employee on a matter within the scope of employment, made while
+      employed, is admissible against the party (FRE 801(d)(2)(D); R-EVD-090), and the vice president of
+      product safety was writing about product safety.
+    C: >-
+      Too narrow. Rule 403 lists unfair prejudice, confusing the issues, misleading the jury, undue delay,
+      wasting time, and needlessly presenting cumulative evidence.
+  trap_type: wrong-standard
+  authority: ["FRE 403", "FRE 403 advisory committee's note", "FRE 801(d)(2)(D)"]
+  source: original
+  tags: [wave2, W2b-EVD, rule-403, unfair-prejudice]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-EVD-0116
+  subject: EVD
+  coverage_ids: [EVD-MBE-II.A.2]
+  rule_ids: [R-EVD-003, R-EVD-017]
+  difficulty: 1
+  stem: >-
+    In a federal action for breach of a warehouse lease, the only disputed issue is whether the tenant
+    moved out on June 30, as the tenant claims, or on July 15, as the landlord's building manager
+    testified. The tenant has already called three of its employees, each of whom testified that he
+    personally helped load the last truck and lock the building on June 30, and the landlord did not shake
+    their accounts on cross-examination. The tenant now proposes to call four more employees to give the
+    same testimony. The landlord objects.
+  call: May the court exclude the four additional witnesses?
+  options:
+    A: "Yes, because the court may exclude relevant evidence that would be needlessly cumulative."
+    B: "No, because each additional witness's testimony is relevant to the only disputed issue in the case."
+    C: "No, because a party is entitled to call every witness who has personal knowledge of a disputed fact."
+    D: "Yes, because testimony that merely repeats what earlier witnesses have said is inadmissible hearsay."
+  answer: A
+  explanation_correct: >-
+    Rule 403 (R-EVD-003; FRE 403; see also FRE 611(a)): the court may exclude relevant evidence if its
+    probative value is substantially outweighed by a danger of undue delay, wasting time, or needlessly
+    presenting cumulative evidence. Four more witnesses repeating exactly what three unimpeached witnesses
+    already said would add little probative value and consume trial time, so the court may, in its
+    discretion, exclude them. The ruling is discretionary; it does not mean the testimony is irrelevant.
+  explanation_each_wrong_option:
+    B: >-
+      True but not decisive. Relevant evidence is admissible only subject to Rule 403 and other rules; it
+      may still be excluded when it is needlessly cumulative.
+    C: >-
+      Overbroad. No party has an unlimited right to call witnesses; the court controls the presentation of
+      evidence to avoid wasting time (FRE 403, 611(a); R-EVD-017).
+    D: >-
+      Wrong label. Each employee would testify in court from personal knowledge, so the testimony is not
+      hearsay; the problem is repetition, not the source of the knowledge.
+  trap_type: overbroad
+  authority: ["FRE 403", "FRE 611(a)"]
+  source: original
+  tags: [wave2, W2b-EVD, rule-403, cumulative-evidence]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-EVD-0117
+  subject: EVD
+  coverage_ids: [EVD-MBE-II.C.2]
+  rule_ids: [R-EVD-040, R-EVD-037]
+  difficulty: 2
+  stem: >-
+    A defendant is prosecuted in federal court for mail fraud, based on a scheme to sell nonexistent
+    vacation rentals. He calls a neighbor who testifies that the defendant has a reputation in their
+    community as an honest person. On cross-examination, the prosecutor, who has a police report
+    describing the incident, asks the neighbor, "Have you heard that the defendant was arrested last year
+    for punching a man during an argument at a bar?" The defendant objects.
+  call: How should the court rule on the objection?
+  options:
+    A: "Overrule it, because a character witness may be asked about any arrest of the defendant if the prosecutor has a good-faith basis."
+    B: "Overrule it, because by offering evidence of his good character, the defendant opened the door to evidence of all his character traits."
+    C: "Sustain it, because a reputation witness may be asked on cross-examination only about convictions, not about arrests."
+    D: "Sustain it, because an arrest for a violent act is not relevant to the trait of honesty to which the witness testified."
+  answer: D
+  explanation_correct: >-
+    Cross-examining a character witness (R-EVD-040, R-EVD-037; FRE 405(a)): when a defendant offers
+    reputation or opinion evidence of a pertinent trait, the court may allow the prosecution to
+    cross-examine the character witness about relevant specific instances of the defendant's conduct,
+    including arrests, if it has a good-faith basis (Michelson v. United States). The act must be relevant
+    to the trait the witness described, because the question tests whether the witness really knows the
+    defendant's reputation for that trait. A bar fight says nothing about honesty, the only trait the
+    defendant put in issue, so the question is improper.
+  explanation_each_wrong_option:
+    A: >-
+      Overbroad. A good-faith basis is required, but FRE 405(a) permits inquiry only into "relevant"
+      specific instances, meaning acts that bear on the trait the witness vouched for.
+    B: >-
+      The defendant opens the door only to the pertinent trait he put in issue; the prosecution may rebut
+      that trait, not attack his character generally.
+    C: >-
+      Arrests and other uncharged acts may be the subject of "have you heard" questions, because they can
+      affect reputation; the defect here is relevance to the trait, not the absence of a conviction.
+  trap_type: overbroad
+  authority: ["FRE 404(a)(2)(A)", "FRE 405(a)", "Michelson v. United States, 335 U.S. 469 (1948)"]
+  source: original
+  tags: [wave2, W2b-EVD, character, character-witness]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-EVD-0118
+  subject: EVD
+  coverage_ids: [EVD-MBE-II.C.3]
+  rule_ids: [R-EVD-041, R-EVD-035]
+  difficulty: 2
+  stem: >-
+    A pedestrian was killed when a delivery truck struck her as she crossed a downtown street at midday. No
+    witness saw whether she looked before stepping into the street. The truck's owner contends that she
+    walked into traffic while looking at her phone. In the estate's federal wrongful-death action against
+    the owner, the estate offers testimony from the pedestrian's longtime friend that the pedestrian "was
+    an extremely careful and cautious person who never took chances." The owner objects.
+  call: Should the court admit the friend's testimony?
+  options:
+    A: "No, because it is evidence of a general character trait offered to show conduct on a particular occasion."
+    B: "Yes, because it describes the pedestrian's regular way of behaving and is therefore habit evidence."
+    C: "Yes, because a decedent's careful character is admissible when no eyewitness saw the accident."
+    D: "No, because a habit may be proved only by evidence of specific instances of conduct, not by opinion."
+  answer: A
+  explanation_correct: >-
+    Habit vs. character (R-EVD-041, R-EVD-035; FRE 404(a)(1), 406): evidence of a person's character trait
+    is not admissible to prove that on a particular occasion the person acted in accordance with it.
+    Habit, by contrast, is a regular, specific, semi-automatic response to a particular repeated
+    situation. "An extremely careful and cautious person who never took chances" describes a general
+    disposition, not a specific routine such as always waiting for the walk signal at a particular
+    corner, so it is character evidence offered for a propensity inference. None of the criminal-case
+    exceptions applies in this civil action.
+  explanation_each_wrong_option:
+    B: >-
+      Mislabels character as habit. A general tendency to be careful is a character trait; FRE 406 requires
+      a specific, repeated response to a specific situation.
+    C: >-
+      The FRE have no such exception. The "no eyewitness" idea comes from older case law that limited when
+      habit evidence of a decedent's care could be used; FRE 406 rejects that limit (habit may be admitted
+      "regardless of whether ... there was an eyewitness"), and it never made character evidence
+      admissible to prove conduct.
+    D: >-
+      Wrong limit. FRE 406 does not confine proof of habit to specific instances; a witness who has
+      observed a routine may describe it. The problem here is that the friend described character, not
+      habit.
+  trap_type: minority-rule
+  authority: ["FRE 404(a)(1)", "FRE 406"]
+  source: original
+  tags: [wave2, W2b-EVD, habit, character]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-EVD-0119
+  subject: EVD
+  coverage_ids: [EVD-MBE-II.C.4]
+  rule_ids: [R-EVD-042, R-EVD-006, R-EVD-003, R-EVD-036]
+  difficulty: 2
+  stem: >-
+    A restaurant owner sues his insurer in federal court for refusing to pay a claim after a fire destroyed
+    his restaurant. The insurer's defense is that the owner deliberately set the fire. The owner testifies
+    that the fire started accidentally when a deep fryer malfunctioned. The insurer offers evidence that in
+    the previous six years, two other restaurants owned by the owner burned; that each of those fires
+    occurred within two months after he increased his insurance coverage; and that each time he collected
+    insurance proceeds after reporting that a deep fryer had malfunctioned. The owner was never charged
+    with arson in connection with either earlier fire. He objects to the evidence.
+  call: Should the court admit the evidence of the earlier fires?
+  options:
+    A: "No, because evidence of a party's other acts is admissible for non-character purposes only in criminal prosecutions, not civil suits."
+    B: "No, because the earlier fires were never proved to be arson in any criminal or civil proceeding."
+    C: "Yes, because it is offered to show that this fire was not an accident rather than to show the owner's character."
+    D: "Yes, because the owner put his character for honesty in issue by testifying that the fire was accidental."
+  answer: C
+  explanation_correct: >-
+    Other acts (R-EVD-042; FRE 404(b)): evidence of other crimes, wrongs, or acts is not admissible to
+    prove character and conforming conduct, but it may be admitted for another purpose, such as intent,
+    plan, absence of mistake, or lack of accident, in civil as well as criminal cases. Three fires at the
+    owner's restaurants, each following an increase in coverage and each blamed on the same kind of
+    malfunction, make an accidental explanation for this fire less likely, an inference that rests on the
+    improbability of repeated coincidence rather than on the owner's being "the kind of person" who sets
+    fires. Proof of the earlier events need only be sufficient for the jury to find that they occurred
+    (Huddleston v. United States; R-EVD-006). The evidence remains subject to exclusion under Rule 403
+    (R-EVD-003), and on request the court should give a limiting instruction.
+  explanation_each_wrong_option:
+    A: >-
+      FRE 404(b) applies in civil and criminal cases alike; only its pretrial notice requirement (FRE
+      404(b)(3)) is limited to criminal cases.
+    B: >-
+      Wrong standard. Other acts need not have been proved in any earlier proceeding; it is enough that the
+      jury could reasonably find, by a preponderance of the evidence, that they occurred (Huddleston).
+    D: >-
+      Testifying about the cause of the fire does not put the owner's character in issue; character is "in
+      issue" only when it is an element of a claim or defense (R-EVD-036). The evidence is admissible, if
+      at all, for a non-character purpose.
+  trap_type: wrong-standard
+  authority: ["FRE 404(b)", "FRE 403", "FRE 105", "Huddleston v. United States, 485 U.S. 681 (1988)"]
+  source: original
+  tags: [wave2, W2b-EVD, other-acts, absence-of-accident, civil-404b]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-EVD-0120
+  subject: EVD
+  coverage_ids: [EVD-MBE-II.C.5]
+  rule_ids: [R-EVD-043, R-EVD-035, R-EVD-042]
+  difficulty: 2
+  stem: >-
+    A defendant is prosecuted in federal court for the armed robbery of a post office. The defense is
+    misidentification. After giving timely notice, the prosecution offers testimony from a woman that,
+    three years earlier, the defendant sexually assaulted her in a parking garage in another state; the
+    defendant was never charged with that assault. The prosecution offers the evidence only to show that
+    the defendant is a violent and dangerous person, which it argues makes it more likely that he
+    committed the robbery. The defendant objects.
+  call: Should the court admit the testimony?
+  options:
+    A: "No, because the rule allowing propensity use of a defendant's other sexual assaults applies only when he is accused of a sexual assault."
+    B: "Yes, because in a federal criminal case, evidence that the defendant committed another sexual assault may be considered on any matter to which it is relevant."
+    C: "Yes, because the earlier assault shows the defendant's propensity for violence, which is relevant to whether he is the robber."
+    D: "No, because the defendant was never charged with or convicted of the earlier assault."
+  answer: A
+  explanation_correct: >-
+    Prior sexual misconduct (R-EVD-043; FRE 413(a)): in a criminal case in which a defendant is accused of
+    a sexual assault, the court may admit evidence that he committed any other sexual assault, and it may
+    be considered on any matter to which it is relevant, including propensity. The charged crime here is
+    robbery, so FRE 413 does not apply, and the general rule governs: evidence of other acts is not
+    admissible to prove character in order to show action in conformity (FRE 404(a)(1), 404(b)(1);
+    R-EVD-035, R-EVD-042). The prosecution offers the assault only for a propensity inference, so it must
+    be excluded.
+  explanation_each_wrong_option:
+    B: >-
+      Overbroad. The "any matter" language of FRE 413(a) applies only when the defendant is accused of a
+      sexual assault (FRE 414 similarly applies only when he is accused of child molestation).
+    C: >-
+      This is the forbidden propensity inference under FRE 404(b)(1). Identity can be a proper purpose
+      only when the other act shares distinctive features with the charged crime, which is not claimed
+      here.
+    D: >-
+      Wrong reason. Other-act evidence does not require a charge or conviction; it is enough that the jury
+      could find the act occurred. The evidence fails because of its purpose.
+  trap_type: overbroad
+  authority: ["FRE 413(a)", "FRE 404(a)(1)", "FRE 404(b)(1)"]
+  source: original
+  tags: [wave2, W2b-EVD, sexual-assault-propensity, character]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-EVD-0121
+  subject: EVD
+  coverage_ids: [EVD-MBE-II.D.1]
+  rule_ids: [R-EVD-055, R-EVD-005, R-EVD-056]
+  difficulty: 1
+  stem: >-
+    A commuter sues the manufacturer of an electric scooter in federal court, alleging that the scooter's
+    braking system was defectively designed and failed on a steep hill. The commuter calls the
+    emergency-room physician who treated his broken wrist. After she testifies about his injuries, she is
+    asked for her opinion on whether the scooter's braking system was defectively designed. She has no
+    training or experience in engineering or in the design of vehicle brakes. The manufacturer objects.
+  call: Should the court permit the physician to give that opinion?
+  options:
+    A: "Yes, because a licensed physician is qualified as an expert witness by her education and training."
+    B: "Yes, because any gaps in an expert's qualifications go only to the weight of her testimony."
+    C: "No, because an expert may testify only about facts within her own personal knowledge, and she did not see the brakes fail."
+    D: "No, because the physician lacks knowledge, skill, experience, training, or education in brake design."
+  answer: D
+  explanation_correct: >-
+    Qualification (R-EVD-055; FRE 702): a witness may give an expert opinion only if qualified by
+    knowledge, skill, experience, training, or education, and the qualification must relate to the subject
+    of the opinion. The physician is qualified to testify about the commuter's injuries, but medical
+    training gives her no specialized knowledge of brake design, so she may not opine on whether the
+    braking system was defective. The court decides qualification as a preliminary question (FRE 104(a);
+    R-EVD-005).
+  explanation_each_wrong_option:
+    A: >-
+      True but irrelevant. Her medical credentials qualify her on medical questions, not on brake
+      engineering; qualification is judged subject by subject.
+    B: >-
+      Once a witness meets the threshold of qualification on the subject, remaining gaps may go to weight,
+      but the threshold itself is for the court, and she does not meet it on this subject.
+    C: >-
+      Experts need not have personal knowledge (FRE 602, 703; R-EVD-056); the defect is lack of expertise
+      on the subject, not lack of firsthand observation.
+  trap_type: true-but-irrelevant
+  authority: ["FRE 702", "FRE 104(a)", "FRE 602", "FRE 703"]
+  source: original
+  tags: [wave2, W2b-EVD, expert, qualifications]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-EVD-0122
+  subject: EVD
+  coverage_ids: [EVD-MBE-II.D.1, EVD-MBE-I.A.7]
+  rule_ids: [R-EVD-005, R-EVD-006, R-EVD-055, R-EVD-054]
+  difficulty: 2
+  stem: >-
+    In a federal negligence action against an elevator-maintenance company, the plaintiff offers an expert
+    witness on elevator safety. On voir dire, she testifies that she is certified by a national
+    elevator-safety board. The defendant then offers evidence that the "board" is an unaccredited online
+    business that issues certificates to anyone who pays a fee, and that the witness has never inspected,
+    maintained, or repaired an elevator. The plaintiff argues that because the witness's testimony about
+    her certification would allow a jury to find her qualified, the question of her qualification should
+    be left to the jury.
+  call: How should the court decide whether the witness may testify as an expert?
+  options:
+    A: "It should admit her testimony if there is evidence sufficient to support a finding that she is qualified, and let the jury weigh her credentials."
+    B: "It should decide for itself, by a preponderance of the evidence, whether she is qualified to testify as an expert."
+    C: "It should admit her testimony and instruct the jury to disregard it if the jury finds that she is not qualified."
+    D: "It should exclude her testimony unless the plaintiff proves her qualifications beyond a reasonable doubt."
+  answer: B
+  explanation_correct: >-
+    Preliminary questions (R-EVD-005, R-EVD-055; FRE 104(a), 702): whether a witness is qualified to
+    testify as an expert is a question about the admissibility of evidence that the court decides under
+    FRE 104(a). The proponent must show the court that it is more likely than not that the expert
+    satisfies FRE 702 (R-EVD-054), and the court may consider all the evidence, including the defendant's
+    evidence about the "board" and her lack of experience. If the court finds her qualified, the defendant
+    may still attack her credentials before the jury, because qualifications also bear on weight (FRE
+    104(e)).
+  explanation_each_wrong_option:
+    A: >-
+      This is the conditional-relevance standard of FRE 104(b) (R-EVD-006), which governs facts such as
+      authenticity or personal knowledge. Expert qualification is a FRE 104(a) question for the judge.
+    C: >-
+      FRE 104(a) assigns the qualification question to the court; the jury does not decide whether an
+      opinion it has already heard was admissible.
+    D: >-
+      Wrong standard. Preliminary questions of admissibility are decided by a preponderance of the
+      evidence, not beyond a reasonable doubt.
+  trap_type: wrong-standard
+  authority: ["FRE 104(a)", "FRE 104(b)", "FRE 104(e)", "FRE 702"]
+  source: original
+  tags: [wave2, W2b-EVD, expert, qualifications, judge-and-jury]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-EVD-0123
+  subject: EVD
+  coverage_ids: [EVD-MBE-II.D.2]
+  rule_ids: [R-EVD-056, R-EVD-009]
+  difficulty: 1
+  stem: >-
+    A company sues the builder of its warehouse in federal court after the warehouse roof collapsed under
+    heavy snow. The company calls a structural engineer as an expert. She never visited the warehouse,
+    before or after the collapse. With the court's permission, she sat in the courtroom during the
+    testimony of the city building inspector who examined the wreckage, and she also reviewed the design
+    drawings and photographs of the collapsed roof, which have been admitted in evidence. Based on that
+    information, she is prepared to testify that the roof trusses were too weak to carry the weight of the
+    snow on the roof that day. The builder objects that the engineer lacks personal knowledge of the roof.
+  call: How should the court rule on the objection?
+  options:
+    A: "Overrule it, because an expert may base an opinion on facts made known to her, including evidence presented at trial."
+    B: "Sustain it, because every witness, including an expert, may testify only to matters within her personal knowledge."
+    C: "Sustain it, because an expert who has not inspected the site may give an opinion only in response to a hypothetical question."
+    D: "Overrule it, because an expert's specialized knowledge makes personal knowledge unnecessary for anything she testifies about."
+  answer: A
+  explanation_correct: >-
+    Bases of expert opinion (R-EVD-056; FRE 703; FRE 602): an expert may base an opinion on facts or data
+    in the case that she has been made aware of or personally observed. Those facts may come from evidence
+    presented at trial, such as the admitted drawings and photographs and the inspector's testimony she
+    heard. The personal-knowledge requirement of FRE 602 expressly does not apply to a witness's expert
+    testimony under FRE 703 (R-EVD-009).
+  explanation_each_wrong_option:
+    B: >-
+      FRE 602 itself states that it does not apply to a witness's expert testimony under FRE 703.
+    C: >-
+      Hypothetical questions are permitted but not required; under FRE 703 and 705 the expert may state
+      her opinion based on facts made known to her, and the opponent may probe the basis on
+      cross-examination.
+    D: >-
+      Overbroad. The exemption covers opinions under FRE 703; if an expert testifies to a fact as an
+      ordinary witness (for example, something she herself saw), she must have personal knowledge of it.
+  trap_type: confused-rule
+  authority: ["FRE 703", "FRE 602", "FRE 705"]
+  source: original
+  tags: [wave2, W2b-EVD, expert, bases-of-opinion]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-EVD-0124
+  subject: EVD
+  coverage_ids: [EVD-MBE-II.D.3]
+  rule_ids: [R-EVD-058, R-EVD-054]
+  difficulty: 2
+  stem: >-
+    A beneficiary sues a life insurer in federal court to recover on a policy that excludes coverage for an
+    insured's intentional self-inflicted death within two years after the policy is issued. The insured
+    died of a drug overdose 14 months after the policy was issued. The insurer calls a forensic
+    psychiatrist who reviewed the insured's medical records, journals, and messages, and who explains the
+    methods she used. She then testifies, "In my opinion, the insured intended to end his life." The
+    beneficiary's only objection is that an expert may not give an opinion about whether a person had a
+    particular mental state.
+  call: Should the court sustain the objection on that ground?
+  options:
+    A: "No, because the bar on expert opinions about mental state applies only to a criminal defendant's mental state."
+    B: "Yes, because an expert may never state an opinion about whether another person had a particular intent or mental state."
+    C: "Yes, because the opinion embraces the ultimate issue in the case, which only the jury may decide."
+    D: "No, because a qualified expert may state an opinion on any subject within her field of expertise."
+  answer: A
+  explanation_correct: >-
+    Ultimate-issue opinions (R-EVD-058; FRE 704): an opinion is not objectionable just because it embraces
+    an ultimate issue (FRE 704(a)). The exception in FRE 704(b) forbids an expert, in a criminal case,
+    from stating an opinion about whether the defendant did or did not have a mental state or condition
+    that constitutes an element of the crime charged or of a defense. This is a civil case, and the
+    insured is not a criminal defendant, so FRE 704(b) does not apply. The opinion must still satisfy FRE
+    702 (R-EVD-054), but that is not the objection made.
+  explanation_each_wrong_option:
+    B: >-
+      Overbroad. Only FRE 704(b) bars mental-state opinions, and only as to a criminal defendant's mental
+      state that is an element of the crime or of a defense.
+    C: >-
+      FRE 704(a) abolished the ultimate-issue objection; embracing the ultimate issue is not by itself a
+      ground for exclusion.
+    D: >-
+      Right result, wrong reason. Qualification is not enough; an expert's opinion must also be helpful and
+      reliable under FRE 702, and it may be excluded under FRE 403.
+  trap_type: overbroad
+  authority: ["FRE 704(a)", "FRE 704(b)", "FRE 702"]
+  source: original
+  tags: [wave2, W2b-EVD, expert, ultimate-issue, mental-state]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-EVD-0125
+  subject: EVD
+  coverage_ids: [EVD-MBE-II.D.3, EVD-MBE-II.D.5]
+  rule_ids: [R-EVD-058, R-EVD-061]
+  difficulty: 3
+  stem: >-
+    Shareholders of a corporation sue its directors in federal court, alleging that the directors breached
+    their fiduciary duty of loyalty by approving a contract with a company that one director secretly
+    owned. The shareholders call a corporate-law professor, who first explains, without objection, how
+    boards ordinarily review contracts in which a director has a personal interest. She is then asked, "In
+    your opinion, under the law of the state of incorporation, did the directors breach their duty of
+    loyalty, so that they are liable to the corporation?" The directors object.
+  call: Should the court permit the professor to answer?
+  options:
+    A: "Yes, because an opinion is not objectionable just because it embraces an ultimate issue to be decided by the jury."
+    B: "Yes, because the professor is qualified by education and experience to explain the governing law to the jury."
+    C: "No, because expert testimony may not address any element of the plaintiffs' claim."
+    D: "No, because an opinion that tells the jury what legal conclusion to reach does not help the trier of fact."
+  answer: D
+  explanation_correct: >-
+    Ultimate issues and legal conclusions (R-EVD-058, R-EVD-061; FRE 702(a), 704(a)): although FRE 704(a)
+    abolished the objection that an opinion embraces an ultimate issue, expert opinions must still help
+    the trier of fact. The advisory committee's note to FRE 704 explains that opinions that merely tell the
+    jury what result to reach, or that are phrased in terms of inadequately explored legal criteria, remain
+    excludable. An opinion that applies the law to the facts and announces that the directors are liable
+    does exactly that, and it is the court, not a witness, that instructs the jury on the law. The
+    professor's earlier testimony about board practices was proper; this question calls for a legal
+    conclusion.
+  explanation_each_wrong_option:
+    A: >-
+      Confuses ultimate facts with legal conclusions. FRE 704(a) permits opinions on ultimate issues, but
+      it does not make admissible an opinion that simply states how the law applies and who should win.
+    B: >-
+      The judge is the jury's only source of the governing law; expert testimony on what the law requires
+      and whether it was violated invades that role.
+    C: >-
+      Overbroad. Experts may testify to facts relevant to elements, such as customary board practices; the
+      defect is the legal conclusion, not the subject matter.
+  trap_type: confused-rule
+  authority: ["FRE 702(a)", "FRE 704(a)", "FRE 704 advisory committee's note"]
+  source: original
+  tags: [wave2, W2b-EVD, expert, legal-conclusion, ultimate-issue]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-EVD-0126
+  subject: EVD
+  coverage_ids: [EVD-MBE-II.D.4]
+  rule_ids: [R-EVD-059, R-EVD-054]
+  difficulty: 2
+  stem: >-
+    A collector sues a dealer in federal court, claiming that a "vintage 1950s" electric guitar the dealer
+    sold him for $120,000 is a modern reproduction. The collector offers the opinion of an appraiser who
+    has examined and authenticated thousands of vintage guitars over 30 years and who bases her opinion on
+    the guitar's wood, finish, wiring, and construction techniques. The dealer moves to exclude the
+    opinion, arguing that the appraiser's method has never been tested or subjected to peer review. The
+    collector responds that the reliability requirements for expert testimony apply only to scientific
+    testimony, not to opinions based on experience.
+  call: How should the court proceed?
+  options:
+    A: "Deny the motion without examining reliability, because the reliability requirements apply only to scientific testimony."
+    B: "Determine whether the appraiser's method is reliable, applying the Daubert factors only as far as they fit her expertise."
+    C: "Grant the motion, because expert testimony is admissible only if its method has been tested and subjected to peer review."
+    D: "Deny the motion and leave the reliability of the method to the jury, because challenges to an expert's method go only to weight."
+  answer: B
+  explanation_correct: >-
+    Reliability gatekeeping (R-EVD-059, R-EVD-054; FRE 702): the trial judge's gatekeeping duty applies to
+    all expert testimony, including testimony based on technical or other specialized knowledge and on
+    experience (Kumho Tire Co. v. Carmichael). The Daubert factors (testing, peer review, error rate,
+    standards, and general acceptance) are flexible; the court uses those that are reasonable measures of
+    reliability for the particular expertise. The collector must show the court, more likely than not,
+    that the appraiser's method is reliable and was reliably applied, for example by explaining how the
+    features she examined distinguish genuine instruments from reproductions.
+  explanation_each_wrong_option:
+    A: >-
+      Rejected by Kumho Tire: FRE 702 draws no distinction between scientific and other specialized
+      knowledge for gatekeeping purposes.
+    C: >-
+      Overbroad. Testing and peer review are factors, not prerequisites; for experience-based expertise
+      they may not be reasonable measures of reliability at all.
+    D: >-
+      Under FRE 702, as amended in 2023, and FRE 104(a), the court must find the method reliable by a
+      preponderance of the evidence before admitting the opinion; reliability is not left to the jury.
+  trap_type: confused-rule
+  authority: ["FRE 702", "FRE 104(a)", "Kumho Tire Co. v. Carmichael, 526 U.S. 137 (1999)", "Daubert v. Merrell Dow Pharmaceuticals, Inc., 509 U.S. 579 (1993)"]
+  source: original
+  tags: [wave2, W2b-EVD, expert, reliability, kumho]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-EVD-0127
+  subject: EVD
+  coverage_ids: [EVD-MBE-II.D.4]
+  rule_ids: [R-EVD-054, R-EVD-059]
+  difficulty: 3
+  stem: >-
+    A gardener sues the maker of a weed killer in federal court, claiming that the product caused a severe
+    skin disorder. The gardener's expert, a board-certified dermatologist, will testify that the weed
+    killer caused the disorder. Her only basis is that the disorder appeared two days after the gardener
+    first used the product. She cites no study or other data indicating that the product's ingredients can
+    cause the disorder, and she did not consider the gardener's medical records showing that, in the same
+    week, he began taking a new prescription drug that is known to cause the disorder. The maker moves to
+    exclude the opinion.
+  call: How should the court rule on the motion?
+  options:
+    A: "Deny it, because timing is a fact the expert may rely on, and weaknesses in her reasoning go to weight."
+    B: "Deny it, because a board-certified physician's causation opinion is admissible if it rests on her clinical judgment."
+    C: "Grant it, because the opinion is not shown to rest on sufficient facts and a reliable application of a reliable method."
+    D: "Grant it, because an expert may not consider the timing of symptoms in forming an opinion on causation."
+  answer: C
+  explanation_correct: >-
+    Reliability of basis and application (R-EVD-054, R-EVD-059; FRE 702(b)-(d)): the proponent must show
+    the court, more likely than not, that the opinion is based on sufficient facts or data, is the product
+    of reliable principles and methods, and reflects a reliable application of those methods to the
+    facts. An opinion resting only on the sequence of events, with no evidence that the product can cause
+    the disorder and no consideration of an obvious alternative cause, leaves too great an analytical gap
+    between the data and the conclusion (General Electric Co. v. Joiner). The court should exclude it.
+  explanation_each_wrong_option:
+    A: >-
+      This is the approach the 2023 amendment to FRE 702 was meant to correct: the sufficiency of the basis
+      and the reliability of the application are admissibility questions for the court under FRE 104(a),
+      not merely matters of weight.
+    B: >-
+      Credentials do not substitute for a reliable method; the court must examine the basis and reasoning
+      of the opinion, not just the expert's qualifications.
+    D: >-
+      Overbroad. Timing can be part of a reliable causation analysis; the defect is that timing is her only
+      basis and that she ignored an obvious alternative cause.
+  trap_type: wrong-standard
+  authority: ["FRE 702", "FRE 104(a)", "General Electric Co. v. Joiner, 522 U.S. 136 (1997)"]
+  source: original
+  tags: [wave2, W2b-EVD, expert, reliability, causation]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-EVD-0128
+  subject: EVD
+  coverage_ids: [EVD-MBE-II.D.5]
+  rule_ids: [R-EVD-061, R-EVD-055, R-EVD-058]
+  difficulty: 1
+  stem: >-
+    A shopper sues a grocery store in federal court, alleging that she slipped on an icy patch in the
+    store's parking lot in January. The store admits that the ice was present but denies that it was
+    negligent. The shopper calls a safety consultant with 20 years of experience inspecting commercial
+    properties, who is prepared to testify that ice is slippery and that a person walking on ice is more
+    likely to fall than a person walking on dry pavement. The store objects.
+  call: Should the court admit the consultant's testimony?
+  options:
+    A: "Yes, because the consultant is qualified as an expert by his experience in inspecting commercial properties."
+    B: "No, because the testimony concerns matters within jurors' common knowledge, so it would not help them."
+    C: "Yes, because expert testimony is admissible on any fact that is of consequence to the action."
+    D: "No, because the testimony embraces the ultimate issue of whether the store was negligent."
+  answer: B
+  explanation_correct: >-
+    Proper subject matter (R-EVD-061; FRE 702(a)): expert testimony is admissible only if the expert's
+    scientific, technical, or other specialized knowledge will help the trier of fact understand the
+    evidence or determine a fact in issue. That ice is slippery and that people fall on it more often than
+    on dry pavement is everyday knowledge; jurors need no expert to understand it, so the testimony would
+    not help them.
+  explanation_each_wrong_option:
+    A: >-
+      True but irrelevant. Qualification (R-EVD-055) is necessary but not sufficient; the testimony must
+      also apply specialized knowledge that helps the jury.
+    C: >-
+      Overbroad. Relevance alone does not make expert testimony admissible; it must also satisfy FRE 702's
+      helpfulness and reliability requirements.
+    D: >-
+      The testimony does not state an opinion on negligence, and in any event FRE 704(a) permits opinions
+      that embrace an ultimate issue (R-EVD-058).
+  trap_type: true-but-irrelevant
+  authority: ["FRE 702(a)", "FRE 704(a)"]
+  source: original
+  tags: [wave2, W2b-EVD, expert, helpfulness, common-knowledge]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-EVD-0129
+  subject: EVD
+  coverage_ids: [EVD-MBE-II.E]
+  rule_ids: [R-EVD-002, R-EVD-003]
+  difficulty: 1
+  stem: >-
+    A warehouse worker lost two fingers when a conveyor belt's guard failed, and he sues the conveyor's
+    manufacturer in federal court. The manufacturer concedes liability, and the trial is limited to
+    damages, including damages for disfigurement and loss of function. During his testimony, the worker
+    asks to step down from the witness stand and show the jury his injured hand. The manufacturer objects
+    that the display is unnecessary because medical records describe the injury and that it will arouse
+    the jury's sympathy.
+  call: How is the court most likely to rule?
+  options:
+    A: "Refuse the display, because the extent of an injury may be proved only through photographs or medical records."
+    B: "Refuse the display, because exhibiting a personal injury to the jury is unfairly prejudicial and is not permitted in a civil action."
+    C: "Allow the display, because real evidence such as a party's body is not subject to exclusion under Rule 403."
+    D: "Allow the display, because the condition of the hand is directly relevant to damages and is not unfairly prejudicial."
+  answer: D
+  explanation_correct: >-
+    Real evidence (R-EVD-002, R-EVD-003; FRE 401-403): a party's injured body is real evidence that may be
+    shown to the jury when its condition is relevant. Because disfigurement and loss of function are the
+    very damages at issue, seeing the hand is highly probative. Some sympathy is inherent in proof of a
+    serious injury and is not unfair prejudice. The court keeps discretion under Rule 403 to limit an
+    exhibition that is gratuitous or inflammatory, but a straightforward display of the hand is ordinarily
+    allowed.
+  explanation_each_wrong_option:
+    A: >-
+      No rule limits proof of an injury to photographs or records; the injury itself is the most direct
+      evidence of its condition, and the existence of records does not make it inadmissible.
+    B: >-
+      Overbroad. Courts routinely permit plaintiffs to exhibit injuries when their nature and extent are in
+      issue, subject to Rule 403.
+    C: >-
+      Overbroad. All evidence, including real evidence, is subject to Rule 403; the display is allowed
+      because the balance favors it here, not because Rule 403 does not apply.
+  trap_type: overbroad
+  authority: ["FRE 401", "FRE 402", "FRE 403"]
+  source: original
+  tags: [wave2, W2b-EVD, real-evidence, display-of-injury]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-EVD-0130
+  subject: EVD
+  coverage_ids: [EVD-MBE-II.D.2]
+  rule_ids: [R-EVD-056, R-EVD-007, R-EVD-017]
+  difficulty: 3
+  stem: >-
+    In a federal products-liability action, the manufacturer's engineering expert testifies that a
+    washing machine's hose coupling failed and flooded the plaintiff's home because the plumber installed
+    it incorrectly, not because of a defect. In forming her opinion, she relied in part on an unsworn
+    written statement by the plumber's former apprentice, a type of statement that experts in her field
+    reasonably rely on but that is not admissible in evidence. The manufacturer did not mention the
+    statement during direct examination. On cross-examination, the plaintiff's counsel asks the expert to
+    read the apprentice's entire statement to the jury, including a passage saying that "these couplings
+    sometimes leaked straight out of the box." The manufacturer objects, citing the limit on disclosing
+    inadmissible facts underlying an expert's opinion.
+  call: How should the court rule on the objection?
+  options:
+    A: "Overrule it, because the limit on disclosing inadmissible underlying facts applies to the party offering the expert, and the expert may be required to disclose them on cross-examination."
+    B: "Sustain it, because inadmissible facts underlying an expert's opinion may be disclosed to the jury only if their probative value in evaluating the opinion substantially outweighs their prejudicial effect."
+    C: "Sustain it, because facts on which an expert relied that are not themselves admissible may never be disclosed to the jury by any party."
+    D: "Overrule it, because once an expert relies on a statement in forming her opinion, the statement becomes admissible to prove the truth of its contents."
+  answer: A
+  explanation_correct: >-
+    Bases of expert opinion (R-EVD-056; FRE 703, 705): an expert may rely on inadmissible facts of a kind
+    that experts in the field reasonably rely on. FRE 703's last sentence restricts disclosure of those
+    facts by the proponent of the opinion: the proponent may disclose them to the jury only if their
+    probative value in helping the jury evaluate the opinion substantially outweighs their prejudicial
+    effect. That restriction does not apply to the adverse party, and FRE 705 provides that the expert may
+    be required to disclose the underlying facts or data on cross-examination. The court retains general
+    control under FRE 403 and 611(a) (R-EVD-017), and on request it should instruct the jury that the
+    statement may be used only to evaluate the opinion, not for its truth (FRE 105; R-EVD-007).
+  explanation_each_wrong_option:
+    B: >-
+      That reverse-balancing test governs disclosure by the proponent (here, the manufacturer). The
+      advisory committee's note to the 2000 amendment of FRE 703 explains that the rule does not restrict
+      an adverse party's presentation of the underlying facts or data (see FRE 705).
+    C: >-
+      Overbroad. Even the proponent may disclose inadmissible bases if the reverse-balancing test is met,
+      and the adverse party may elicit them on cross-examination.
+    D: >-
+      Reliance does not convert hearsay into substantive evidence; the statement is disclosed only to help
+      the jury evaluate the opinion, and a limiting instruction should be given on request.
+  trap_type: procedural-posture
+  authority: ["FRE 703", "FRE 703 advisory committee's note (2000)", "FRE 705", "FRE 105"]
+  source: original
+  tags: [wave2, W2b-EVD, expert, bases-of-opinion, cross-examination]
+  status: draft
+  last_verified: "2026-11-04"

@@ -1,0 +1,252 @@
+# Criminal Law and Procedure — NCBE category III: inchoate crimes; parties
+# Original MBE-style items (wave 2, batch B). Generally accepted common-law principles unless the stem
+# names a statute or the Model Penal Code.
+questions:
+- id: Q-CRM-0114
+  subject: CRM
+  coverage_ids: [CRM-MBE-III.A.3]
+  rule_ids: [R-CRM-064]
+  difficulty: 2
+  stem: >-
+    The jurisdiction has adopted the Model Penal Code's provisions on inchoate crimes. A man wrote a letter to
+    an acquaintance whom he believed to be a professional arsonist, offering him $5,000 to burn down a rival's
+    restaurant, and mailed it. The letter was misaddressed and was delivered to a neighbor, who opened it by
+    mistake and took it to the police. The acquaintance never learned of the offer. The man took no further
+    steps and did not try to find out what had happened to the letter.
+  call: "Is the man guilty of solicitation to commit arson?"
+  options:
+    A: "No, because the person he solicited never received the request and never agreed to it."
+    B: "No, because he abandoned the plan by taking no further steps after mailing the letter."
+    C: "Yes, but only if the acquaintance would have accepted the offer had he received it."
+    D: "Yes, because his conduct was designed to communicate the request, which is enough."
+  answer: D
+  explanation_correct: >-
+    D is correct. Under the MPC, a person is guilty of solicitation if, with the purpose of promoting or
+    facilitating a crime, he commands, encourages or requests another to commit it (MPC § 5.02(1)), and it is
+    immaterial that he fails to communicate with the person solicited if his conduct was designed to effect
+    the communication (MPC § 5.02(2); R-CRM-064). Mailing the letter with the purpose that the arson be
+    committed completes the crime.
+  explanation_each_wrong_option:
+    A: >-
+      Confused rule. Under the MPC, neither receipt nor agreement is required; conduct designed to communicate
+      the request suffices (MPC § 5.02(2)). The other person's refusal or ignorance is no defense (R-CRM-064).
+    B: >-
+      Doing nothing further is not renunciation. The MPC defense requires that the solicitor persuade the other
+      person not to commit the crime or otherwise prevent it, under circumstances showing a complete and
+      voluntary renunciation (MPC § 5.02(3)).
+    C: >-
+      Solicitation focuses on the solicitor's request and purpose; whether the other person would have agreed
+      is irrelevant (R-CRM-064).
+  trap_type: confused-rule
+  authority: ["MPC § 5.02(1)", "MPC § 5.02(2)", "MPC § 5.02(3)"]
+  source: original
+  tags: [wave2, solicitation, mpc, uncommunicated-solicitation]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CRM-0115
+  subject: CRM
+  coverage_ids: [CRM-MBE-III.A.3]
+  rule_ids: [R-CRM-064, R-CRM-062, R-CRM-061]
+  difficulty: 1
+  stem: >-
+    A woman offered her neighbor $2,000 to kill her estranged husband. The neighbor said he would think about
+    it. Unknown to either of them, the husband had died in a highway accident an hour before the conversation.
+    The neighbor did nothing further, and the woman learned of her husband's death that evening. The
+    jurisdiction follows the common law.
+  call: "Is the woman guilty of solicitation to commit murder?"
+  options:
+    A: "No, because the neighbor never agreed to commit the killing she asked for."
+    B: "No, because the killing she requested was impossible when she made the request."
+    C: "Yes, because the crime was complete when she made the request with intent that he kill."
+    D: "Yes, but only if she took a substantial step toward the killing after making the request."
+  answer: C
+  explanation_correct: >-
+    C is correct. Solicitation is asking, encouraging or commanding another person to commit a crime, with
+    the intent that the person commit it; the crime is complete when the request is made, whether or not the
+    other person agrees (R-CRM-064). The woman's offer of money to kill her husband, made with intent that the
+    killing occur, completed the crime. Factual impossibility — the husband was already dead — is no defense
+    (R-CRM-064, R-CRM-062).
+  explanation_each_wrong_option:
+    A: >-
+      Agreement is what turns solicitation into conspiracy; solicitation itself requires only the request
+      (R-CRM-064).
+    B: >-
+      True but irrelevant. The husband was already dead, but that is a fact unknown to the woman; factual
+      impossibility does not defeat solicitation (R-CRM-064, R-CRM-062).
+    D: >-
+      Confuses solicitation with attempt. No act beyond the request is required (R-CRM-061, R-CRM-064).
+  trap_type: true-but-irrelevant
+  authority: ["Common law (solicitation)", "MPC § 5.02(1)"]
+  source: original
+  tags: [wave2, solicitation, impossibility]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CRM-0116
+  subject: CRM
+  coverage_ids: [CRM-MBE-III.A.1]
+  rule_ids: [R-CRM-062, R-CRM-001, R-CRM-048]
+  difficulty: 3
+  stem: >-
+    A man who had just moved to a new state heard a rumor that the state made it a misdemeanor to fish in any
+    lake on a Sunday. Wanting to show his contempt for such a rule, he spent a Sunday fishing in a public lake,
+    telling friends that he was "breaking the law." In fact, the state had no law restricting Sunday fishing,
+    and he held a valid fishing license. A game warden overheard his boast and reported him, and a prosecutor
+    is considering charging him with an attempt. The jurisdiction follows the modern approach to impossibility
+    in attempt cases.
+  call: "Can the man properly be convicted of an attempt?"
+  options:
+    A: "Yes, because he intended to commit what he believed was a crime and went beyond mere preparation."
+    B: "No, because the conduct he intended, even if completed exactly as he planned, is not a crime."
+    C: "Yes, because under the modern approach impossibility is no defense to a charge of attempt."
+    D: "No, because he fully completed the conduct he intended, so there was nothing left to attempt."
+  answer: B
+  explanation_correct: >-
+    B is correct. The modern approach rejects factual and "hybrid" legal impossibility by judging conduct on
+    the circumstances as the defendant believed them to be, but pure legal impossibility — intending to do
+    something that is not a crime at all — remains a defense (R-CRM-062). On the facts as the man believed
+    them, he was fishing on a Sunday, which no law forbids. His mistaken belief that the law prohibited it
+    cannot create a crime, because a person may be punished only under a law that exists (R-CRM-001).
+  explanation_each_wrong_option:
+    A: >-
+      A guilty mind about a nonexistent law is not enough. Attempt requires intent to commit an actual crime;
+      the man's mistake was about the law, not the facts (R-CRM-062).
+    C: >-
+      Overbroad. The modern rule eliminates factual and hybrid legal impossibility, not pure legal
+      impossibility, which survives as a defense (R-CRM-062).
+    D: >-
+      Wrong reason. Completing all intended acts does not by itself bar an attempt conviction (a buyer of goods
+      that are no longer stolen is guilty of attempt). The defense here exists because the intended conduct is
+      lawful (R-CRM-062, R-CRM-048).
+  trap_type: overbroad
+  authority: ["MPC § 5.01(1)(a)", "Common law (legal impossibility; legality principle)"]
+  source: original
+  tags: [wave2, attempt, impossibility, legal-impossibility]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CRM-0117
+  subject: CRM
+  coverage_ids: [CRM-MBE-III.A.2]
+  rule_ids: [R-CRM-065]
+  difficulty: 1
+  stem: >-
+    Two men agreed to rob an armored car the following Friday, and each genuinely intended to carry out the
+    plan. The next day, one of them rented a van from a rental agency, under his own name and paying with his
+    own credit card, to use as the getaway vehicle. The other man did nothing further. An informant who had
+    overheard the plan told the police, who arrested both men on Thursday. The state's conspiracy statute
+    requires an overt act in furtherance of the agreement.
+  call: "Can the man who did nothing after the agreement properly be convicted of conspiracy to commit robbery?"
+  options:
+    A: "Yes, because one conspirator's overt act completed the crime for both of them."
+    B: "No, because renting a van is a lawful act and so cannot serve as the overt act."
+    C: "No, because he personally took no step in furtherance of the robbery."
+    D: "No, because the robbery was never attempted, so the conspiracy was not complete."
+  answer: A
+  explanation_correct: >-
+    A is correct. Conspiracy is an agreement between two or more persons to commit a crime, with intent to
+    agree and to achieve the objective, plus, in most jurisdictions, an overt act in furtherance (R-CRM-065).
+    The overt act may be any act, even a lawful one, by any conspirator. Renting the getaway van satisfied the
+    requirement for both men, so the conspiracy was complete before the arrests.
+  explanation_each_wrong_option:
+    B: >-
+      The overt act need not be criminal; any act in furtherance, including renting a vehicle, suffices
+      (R-CRM-065).
+    C: >-
+      Missing-element trap. The overt act of one conspirator is attributed to all; each member need not act
+      personally (R-CRM-065).
+    D: >-
+      Conspiracy is complete on agreement plus an overt act; the object crime need not be attempted or
+      committed (R-CRM-065, R-CRM-068).
+  trap_type: missing-element
+  authority: ["Common law (conspiracy)", "18 U.S.C. § 371", "MPC § 5.03(5)"]
+  source: original
+  tags: [wave2, conspiracy, overt-act]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CRM-0118
+  subject: CRM
+  coverage_ids: [CRM-MBE-III.B]
+  rule_ids: [R-CRM-071, R-CRM-069]
+  difficulty: 2
+  stem: >-
+    A security guard at a jewelry store agreed to help a friend steal jewelry from the store after closing
+    time. He gave the friend a copy of the key to the store's back door and the code that disarmed the alarm.
+    Two days later he had second thoughts and telephoned the friend, saying, "I'm out. Don't do it, and leave
+    me out of it." He did not ask for the key back, change the alarm code, or warn his employer or the police.
+    A week later the friend used the key and the code to enter the store after closing and steal $40,000 in
+    jewelry. The jurisdiction follows the common law of accomplice liability.
+  call: "Is the guard guilty of the theft as an accomplice?"
+  options:
+    A: "No, because he clearly told the friend, before the theft, that he was withdrawing."
+    B: "No, because he was not present at the store when the theft took place."
+    C: "Yes, because an accomplice can never withdraw once he has agreed to help."
+    D: "Yes, because he did nothing to neutralize the key and alarm code he had supplied."
+  answer: D
+  explanation_correct: >-
+    D is correct. An accomplice escapes liability only by a timely withdrawal that undoes his contribution:
+    repudiating encouragement, neutralizing material aid, or warning the police or otherwise trying to prevent
+    the crime (R-CRM-071). The guard supplied material aid — the key and the code — and the friend used both.
+    A phone call disclaiming involvement did not neutralize that aid, so he remains liable for the theft he
+    intentionally assisted (R-CRM-069).
+  explanation_each_wrong_option:
+    A: >-
+      Confused rule. Verbal repudiation can withdraw mere encouragement, but an accomplice who supplied material
+      aid must neutralize it or alert the authorities (R-CRM-071).
+    B: >-
+      Presence is not required. Supplying tools or information before the crime with intent to aid is enough
+      for accomplice liability (R-CRM-069).
+    C: >-
+      Overbroad. Withdrawal is possible if it is timely and neutralizes the aid; the guard's attempt failed
+      because it did not (R-CRM-071).
+  trap_type: confused-rule
+  authority: ["Common law (accomplice withdrawal)", "MPC § 2.06(6)(c)"]
+  source: original
+  tags: [wave2, accomplice, withdrawal]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CRM-0119
+  subject: CRM
+  coverage_ids: [CRM-MBE-III.B]
+  rule_ids: [R-CRM-069, R-CRM-066, R-CRM-003]
+  difficulty: 2
+  stem: >-
+    A customer at a hardware store asked the clerk for a heavy-duty bolt cutter, saying with a laugh that he
+    needed it "to borrow my neighbor's bicycle permanently." The clerk, believing that the customer meant to
+    steal the bicycle, sold him a bolt cutter at the regular price and said nothing more. The clerk did not
+    care whether the theft happened and received nothing beyond the store's ordinary sale. That night the
+    customer used the bolt cutter to cut a lock and steal his neighbor's bicycle. The jurisdiction follows the
+    generally accepted approach to accomplice liability.
+  call: "Is the clerk guilty of larceny as an accomplice?"
+  options:
+    A: "Yes, because he knowingly supplied the tool that was used to commit the theft."
+    B: "Yes, because a seller who knows of a buyer's criminal plan must refuse the sale."
+    C: "No, because he did not intend to promote or facilitate the theft."
+    D: "No, because a bolt cutter is an ordinary product that is lawful to sell."
+  answer: C
+  explanation_correct: >-
+    C is correct. Accomplice liability requires an act of aid plus a dual intent: the intent to assist and the
+    intent that the principal commit the crime. Under the majority view, knowledge that one's help will be
+    used for a crime is not enough (R-CRM-069). The clerk sold an ordinary item at the regular price, had no
+    stake in the theft and did not care whether it occurred, so he lacked the purpose to promote the larceny
+    (R-CRM-066 (stake-in-the-venture factors)).
+  explanation_each_wrong_option:
+    A: >-
+      Wrong standard. Supplying the means with knowledge of the buyer's plan does not, without purpose, make a
+      seller an accomplice under the majority rule (R-CRM-069).
+    B: >-
+      There is no general duty to refuse a lawful sale; liability for an omission requires a legal duty, and
+      accomplice liability requires purpose (R-CRM-003, R-CRM-069).
+    D: >-
+      Right result, wrong reason. Selling a lawful product can make the seller an accomplice if he sells it
+      with the purpose of aiding the crime; the clerk escapes liability because he lacked that purpose
+      (R-CRM-069).
+  trap_type: wrong-standard
+  authority: ["Common law (accomplice liability: purpose)", "MPC § 2.06(3)(a)"]
+  source: original
+  tags: [wave2, accomplice, purpose-vs-knowledge]
+  status: draft
+  last_verified: 2026-11-04

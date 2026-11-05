@@ -1,0 +1,417 @@
+questions:
+- id: Q-PRP-0141
+  subject: PRP
+  coverage_ids: [PRP-MBE-V.B.3]
+  rule_ids: [R-PRP-109]
+  difficulty: 1
+  stem: >-
+    Ortega owned a tract on the south side of Mill Road. His lawyer drafted, and Ortega signed and delivered to Pike, a
+    deed describing the land conveyed as "the parcel bounded on the north by Mill Road, on the south by the old stone
+    wall, on the east by a line running south from the iron pin on Mill Road, and on the west by a line running south
+    from the center of Cedar Creek at Mill Road, a point 300 feet west of the iron pin, containing about 3 acres." A
+    survey shows that the center of Cedar Creek at Mill Road is 340 feet west of the iron pin. Ortega claims that he
+    still owns the 40-foot-wide strip lying between 300 and 340 feet west of the pin.
+  call: "Who owns the 40-foot strip?"
+  options:
+    A: "Ortega, because a measured distance is more precise than a monument and controls when the two conflict."
+    B: "Ortega, because the acreage stated in the deed limits the grant to about 3 acres."
+    C: "Pike, because a call to a natural monument controls over a conflicting call for distance."
+    D: "Neither, because the conflicting calls make the description too uncertain to convey the strip."
+  answer: C
+  explanation_correct: >-
+    C is correct. When the calls in a deed description conflict, courts give priority to natural monuments, then
+    artificial monuments, then courses, then distances, and last to area or quantity (R-PRP-109). The western boundary
+    is tied both to a natural monument, the center of Cedar Creek, and to a distance, 300 feet. The creek controls, so
+    Pike's parcel runs to the center of the creek, and the stated acreage, the weakest call, does not change the
+    result.
+  explanation_each_wrong_option:
+    A: >-
+      Distances rank below monuments. A monument is fixed and visible on the ground, while a distance is easily
+      mismeasured, so the monument controls (R-PRP-109).
+    B: >-
+      Area is the lowest-ranking call and gives way to monuments and distances (R-PRP-109).
+    D: >-
+      Conflicting calls are resolved by the rules of priority, not by voiding the description; with the creek as the
+      controlling call, the land is identified with reasonable certainty (R-PRP-109).
+  trap_type: wrong-standard
+  authority: ["Common law: construction of deed descriptions"]
+  source: original
+  tags: [wave2, W2b-PRP, deeds, descriptions, closing-documents]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-PRP-0142
+  subject: PRP
+  coverage_ids: [PRP-MBE-V.B.1]
+  rule_ids: [R-PRP-110, R-PRP-109]
+  difficulty: 2
+  stem: >-
+    In 2019 Grace signed and acknowledged a deed conveying her house to her son, Hal, and put it in her desk drawer.
+    She told Hal: "The house will be yours when I'm gone. The deed is in my desk." Grace kept living in the house, paid
+    its taxes and insurance, and kept the only key to the desk. In 2021 she executed a valid will leaving all her
+    property to her daughter, Iris. Grace died in 2025. After the funeral, Hal found the deed in the desk and recorded
+    it.
+  call: "Who owns the house?"
+  options:
+    A: "Iris, because Grace never delivered the deed, so it never passed title to Hal."
+    B: "Hal, because recording the deed raised a presumption that it had been delivered."
+    C: "Hal, because Grace's statement to him showed her intent to give him the house."
+    D: "Hal, because Grace signed and acknowledged the deed, satisfying every formal requirement for a conveyance."
+  answer: A
+  explanation_correct: >-
+    A is correct. A deed passes title only when it is delivered, meaning the grantor shows an intent that it be
+    presently operative; a grantor's keeping the deed raises a presumption that it was not delivered (R-PRP-110).
+    Grace kept the deed in her own locked desk, kept living in and paying for the house, and told Hal that the house
+    would be his only "when I'm gone." That shows an intent to transfer at death, which is an attempted testamentary
+    transfer, not a present conveyance (R-PRP-110). The deed never passed title, so the house passed under Grace's will
+    to Iris.
+  explanation_each_wrong_option:
+    B: >-
+      Recording raises a presumption of delivery when it reflects the grantor's act or intent. Hal recorded the deed
+      himself after Grace died, which says nothing about whether Grace intended it to operate during her life
+      (R-PRP-110).
+    C: >-
+      Grace's words show an intent to give the house at her death, not a present intent to make the deed operative,
+      which is the opposite of delivery (R-PRP-110).
+    D: >-
+      Signing and acknowledgment satisfy the formal requirements, but a deed must also be delivered to pass title,
+      and acknowledgment is needed only for recording (R-PRP-109, R-PRP-110).
+  trap_type: missing-element
+  authority: ["Common law: delivery of deeds"]
+  source: original
+  tags: [wave2, W2b-PRP, deeds, delivery]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-PRP-0143
+  subject: PRP
+  coverage_ids: [PRP-MBE-V.B.4]
+  rule_ids: [R-PRP-114, R-PRP-113, R-PRP-119]
+  difficulty: 3
+  stem: >-
+    A statute in the jurisdiction provides: "An agent may execute an instrument conveying an interest in real property
+    on behalf of the owner only if the agent's authority is conferred by a writing signed by the owner." Ruiz, who was
+    working abroad, telephoned her cousin Saul and told him to sell her vacant lot for at least $200,000 and to sign the
+    deed for her. Saul found a buyer, Tran, who paid $210,000. Saul signed and delivered a deed reading "Ruiz, by Saul,
+    her agent," and Tran recorded it. Saul kept the money and disappeared. When Ruiz returned and learned of the sale,
+    she promptly notified Tran that she did not recognize the deed; she had received none of the money. Ruiz sued Tran
+    to quiet title to the lot.
+  call: "Who is likely to prevail?"
+  options:
+    A: "Tran, because Ruiz actually authorized Saul, by telephone, to sell the lot and to sign the deed for her."
+    B: "Tran, because he paid value in good faith without notice of any problem and promptly recorded his deed."
+    C: "Ruiz, but only if she first repays Tran the $210,000 that he paid to her agent, Saul."
+    D: "Ruiz, because Saul's authority was not given in a signed writing, so the deed did not convey her title."
+  answer: D
+  explanation_correct: >-
+    D is correct. Only the owner, or someone with actual authority, can convey an owner's interest in land, and an
+    agent's authority to convey land must be in writing (R-PRP-114). The quoted statute makes that requirement
+    explicit. Ruiz gave Saul authority only by telephone, so the deed he signed in her name did not convey her title.
+    Ruiz did not ratify the deed: she received none of the money and repudiated it promptly when she learned of it.
+    Tran's remedy is against Saul.
+  explanation_each_wrong_option:
+    A: >-
+      The statute requires that the agent's authority be conferred by a signed writing. Oral authority, however
+      clear, does not satisfy it (R-PRP-114).
+    B: >-
+      Recording acts protect a bona fide purchaser against an owner's earlier unrecorded conveyances; they do not give
+      effect to an instrument the owner never validly executed (R-PRP-113, R-PRP-119).
+    C: >-
+      The deed did not convey Ruiz's title, and she received none of the money, so she owes Tran nothing as a
+      condition of relief. Tran's claim for his money lies against Saul.
+  trap_type: missing-element
+  authority: ["Statute quoted in the stem (written authority to convey)", "Common law of agency: equal dignities"]
+  source: original
+  tags: [wave2, W2b-PRP, deeds, agents, persons-authorized]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-PRP-0144
+  subject: PRP
+  coverage_ids: [PRP-MBE-V.C]
+  rule_ids: [R-PRP-115, R-WIL-068, R-WIL-069]
+  difficulty: 2
+  stem: >-
+    Ulrich's 2018 will devised "my farm known as Greenfield, in Clark County" to his nephew Ned and left the residue of
+    his estate to his daughter, Opal. In 2022 Ulrich sold Greenfield for $800,000 in cash and deposited the proceeds in
+    a new savings account that he used for nothing else. In 2023 he used $300,000 from that account to buy a lake
+    cottage. Ulrich died in 2025 without changing his will; the account then held $520,000. The jurisdiction has no
+    statute on ademption and follows the traditional common-law rule.
+  call: "What does Ned take under the will?"
+  options:
+    A: "The lake cottage and the $520,000 account, because both can be traced to the proceeds of Greenfield."
+    B: "Nothing, because Greenfield was not in Ulrich's estate when he died, so the devise to Ned was adeemed."
+    C: "The $520,000 account only, because cash proceeds of a specifically devised asset pass with the devise."
+    D: "$800,000 from the residue, because a specific devise that fails becomes a general gift of its value."
+  answer: B
+  explanation_correct: >-
+    B is correct. A devise of "my farm known as Greenfield" is a specific devise. Under the traditional common-law
+    (identity) rule, a specific devise is adeemed by extinction if the specific property is not in the estate at the
+    testator's death, regardless of the testator's intent (R-PRP-115, R-WIL-069). Ulrich sold Greenfield during his
+    life, so the devise to Ned failed. The account and the cottage bought with part of the proceeds are not Greenfield;
+    they pass under the residuary clause to Opal.
+  explanation_each_wrong_option:
+    A: >-
+      Tracing into proceeds or replacement property comes from statutes or intent-based approaches. Under the
+      traditional identity rule that the stem adopts, the gift fails when the specific property is gone (R-PRP-115,
+      R-WIL-069).
+    C: >-
+      Under the traditional rule, cash received from a sale completed during the testator's life does not pass with a
+      specific devise; only the specific property does (R-PRP-115, R-WIL-069).
+    D: >-
+      An adeemed specific devise is not converted into a general pecuniary gift; the devisee simply takes nothing under
+      that clause (R-PRP-115, R-WIL-068).
+  trap_type: minority-rule
+  authority: ["Common law: ademption by extinction (identity theory)"]
+  source: original
+  tags: [wave2, W2b-PRP, transfer-by-will, ademption]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-PRP-0145
+  subject: PRP
+  coverage_ids: [PRP-MBE-V.C]
+  rule_ids: [R-PRP-115, R-WIL-073]
+  difficulty: 1
+  stem: >-
+    Velma's valid will devised "my house at 12 Birch Street to my daughter, Dana," left the residue of her estate to
+    her son, Evan, and directed: "My executor shall pay all my just debts." At Velma's death, the house was worth
+    $500,000 and was subject to a recorded mortgage securing a $150,000 debt on which Velma was personally liable. The
+    residue is worth $400,000. A statute in the jurisdiction provides: "A specific devise passes subject to any
+    mortgage existing at the date of death, without right of exoneration, regardless of a general directive in the will
+    to pay debts." Dana asks the executor to pay off the mortgage from the residue.
+  call: "Must the executor pay off the mortgage from the residue?"
+  options:
+    A: "No, because under the statute Dana takes the house subject to the mortgage."
+    B: "Yes, because the will directs the executor to pay all of Velma's just debts, which include the mortgage debt."
+    C: "Yes, because a specific devisee is entitled to have liens on the devised property paid from the residue."
+    D: "No, because a mortgage debt is never a personal debt of the person who gave the mortgage."
+  answer: A
+  explanation_correct: >-
+    A is correct. Under the old common-law rule of exoneration, a specific devisee could have the estate pay off a
+    mortgage on the devised land, but the quoted statute rejects that rule: a specific devise passes subject to any
+    mortgage existing at death, regardless of a general direction to pay debts (R-PRP-115, R-WIL-073). The devise of
+    the Birch Street house is specific, and "pay all my just debts" is the kind of general direction the statute
+    disregards. Dana takes the house subject to the $150,000 mortgage.
+  explanation_each_wrong_option:
+    B: >-
+      The statute provides that a general direction to pay debts does not require exoneration of a specific devise
+      (R-WIL-073).
+    C: >-
+      That was the common-law exoneration rule, which the quoted statute abolishes (R-WIL-073).
+    D: >-
+      This reaches the right result for the wrong reason. The stem says Velma was personally liable on the debt. The
+      statute does not change who owed the debt; it decides only that the specific devisee takes subject to the
+      mortgage (R-WIL-073).
+  trap_type: minority-rule
+  authority: ["Nonexoneration statute (quoted in the stem)"]
+  source: original
+  tags: [wave2, W2b-PRP, transfer-by-will, exoneration]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-PRP-0146
+  subject: PRP
+  coverage_ids: [PRP-MBE-V.D.2]
+  rule_ids: [R-PRP-120, R-PRP-117]
+  difficulty: 2
+  stem: >-
+    In 2023 Kendra bought a 40-acre farm from Lyle and obtained an owner's title insurance policy. Schedule B of the
+    policy excepts from coverage "rights or claims of parties in possession not shown by the public records." When
+    Kendra bought, Moreno was grazing his cattle on a fenced 10-acre pasture on the farm under an unrecorded written
+    lease from Lyle with three years left to run. Kendra never visited the pasture, and the insurer did not inspect the
+    farm. After the closing, Moreno asserted his lease, and a court held that Kendra took subject to it because
+    Moreno's possession gave her inquiry notice. Kendra filed a claim under her policy for the resulting loss, and the
+    insurer denied it.
+  call: "Is the insurer liable to Kendra?"
+  options:
+    A: "Yes, because the policy insures against title defects that the insured did not know about at the closing."
+    B: "Yes, because the insurer was negligent in failing to inspect the farm before issuing the policy."
+    C: "No, because the policy expressly excepts the rights of parties in possession not shown by the public records."
+    D: "No, because an owner's policy covers only defects in the chain of title, not leases or other encumbrances."
+  answer: C
+  explanation_correct: >-
+    C is correct. Title insurance is a contract of indemnity whose coverage is set by its terms, and standard policies
+    except matters not shown by the public records, such as the rights of parties in possession (R-PRP-120). Moreno's
+    unrecorded lease is the right of a party in possession not shown by the public records, and Schedule B expressly
+    excepts it. Kendra's loss falls within the exception, so the insurer is not liable.
+  explanation_each_wrong_option:
+    A: >-
+      Coverage is limited by the policy's exceptions and exclusions. That Kendra did not know of the lease does not
+      bring an excepted matter back within coverage (R-PRP-120).
+    B: >-
+      The insurer's liability is defined by the policy, which excepts the rights of parties in possession; most courts
+      do not impose a separate tort duty to search or inspect (R-PRP-120).
+    D: >-
+      An owner's policy can cover leases and other encumbrances. This lease falls outside coverage only because of the
+      express exception for parties in possession (R-PRP-120).
+  trap_type: overbroad
+  authority: ["Title insurance: policy terms and standard exceptions"]
+  source: original
+  tags: [wave2, W2b-PRP, title-insurance, parties-in-possession]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-PRP-0147
+  subject: PRP
+  coverage_ids: [PRP-MBE-V.D.2]
+  rule_ids: [R-PRP-120]
+  difficulty: 2
+  stem: >-
+    In 2022 Noor bought a house for $400,000, paying $80,000 of her own money and borrowing $320,000 from Orion Bank,
+    which took a mortgage on the house. At Orion's request, a title insurer issued a lender's policy naming Orion as
+    the insured, in the amount of $320,000; Noor paid the premium as one of her closing costs. Noor did not buy an
+    owner's policy. In 2025 a neighbor asserted a recorded drainage easement, granted by a former owner, that the title
+    search had missed; the easement reduces the house's value by $50,000. Noor is current on her loan payments. She
+    filed a claim under the lender's policy.
+  call: "Is Noor entitled to recover under the policy?"
+  options:
+    A: "Yes, because Noor paid the premium for the policy and is therefore the real party in interest."
+    B: "Yes, but only up to the amount by which the easement impairs Orion's security."
+    C: "No, because title insurance does not cover easements that appear in the public records."
+    D: "No, because a lender's policy protects only the lender's interest, not the owner's title."
+  answer: D
+  explanation_correct: >-
+    D is correct. A lender's policy insures the mortgagee and follows the loan; an owner is protected only by an
+    owner's policy (R-PRP-120). The policy names Orion as the insured, and Noor's paying the premium as a closing cost
+    does not make her an insured. Noor bought no owner's policy, so she has no claim.
+  explanation_each_wrong_option:
+    A: >-
+      Who paid the premium does not determine coverage. The policy insures the named insured, Orion (R-PRP-120).
+    B: >-
+      Any recovery for impairment of the mortgage security belongs to the insured lender, not to the borrower; the
+      lender's policy gives Noor no rights (R-PRP-120).
+    C: >-
+      Recorded easements are covered title defects unless the policy excepts them; a recorded easement that the search
+      missed is the kind of loss an owner's policy would cover (R-PRP-120). Noor loses because she is not insured
+      under this policy.
+  trap_type: true-but-irrelevant
+  authority: ["Title insurance: owner's and lender's policies"]
+  source: original
+  tags: [wave2, W2b-PRP, title-insurance, lenders-policy]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-PRP-0148
+  subject: PRP
+  coverage_ids: [PRP-MBE-V.B.2]
+  rule_ids: [R-PRP-111]
+  difficulty: 3
+  stem: >-
+    In January 2017 Ferris conveyed a lot to Gale by a deed containing covenants of seisin, right to convey, against
+    encumbrances, quiet enjoyment and general warranty. Neither of them knew that a 1990 deed, properly recorded, had
+    granted Harmon Pipeline Co. an easement to lay a pipeline across the rear 30 feet of the lot. No pipeline has ever
+    been built, and Harmon has never entered the lot or asserted its easement. Gale discovered the easement in March
+    2025 while applying for a building permit. A statute in the jurisdiction provides that an action on a covenant in a
+    deed must be brought within six years after the covenant is breached. Gale sued Ferris in April 2025.
+  call: "Is Gale likely to recover from Ferris?"
+  options:
+    A: "Yes, on the covenant against encumbrances, because the limitation period did not begin until Gale discovered the easement."
+    B: "No, because any claim on the covenant against encumbrances is time-barred, and the future covenants have not been breached."
+    C: "Yes, on the covenant of general warranty, because the outstanding easement breached that covenant when the deed was delivered."
+    D: "No, because the recorded easement gave Gale constructive notice, which bars any claim on the covenants of title."
+  answer: B
+  explanation_correct: >-
+    B is correct. The covenants of seisin, right to convey and against encumbrances are present covenants, breached,
+    if at all, when the deed is delivered, and the limitation period runs from then (R-PRP-111). The easement existed
+    in January 2017, so the covenant against encumbrances was breached at delivery, and the six-year period ran out in
+    January 2023, before Gale sued. The covenants of quiet enjoyment and general warranty are future covenants,
+    breached only when the grantee is actually or constructively evicted by someone with a paramount right
+    (R-PRP-111). Harmon has never entered the lot or asserted its easement, so those covenants have not been breached.
+    Gale has no claim now, though she may have one on the future covenants if Harmon later enforces its easement.
+  explanation_each_wrong_option:
+    A: >-
+      A present covenant is breached at delivery, and the stated statute runs from the breach; the grantee's later
+      discovery does not move the breach (R-PRP-111).
+    C: >-
+      The covenant of general warranty is a future covenant, breached only by an actual or constructive eviction, not
+      by the mere existence of an outstanding interest at delivery (R-PRP-111).
+    D: >-
+      In general, the covenants of title protect the grantee even against recorded encumbrances; record notice does
+      not bar a covenant claim (R-PRP-111). Gale loses because of timing, not notice.
+  trap_type: wrong-standard
+  authority: ["Common law: present and future covenants of title"]
+  source: original
+  tags: [wave2, W2b-PRP, deeds, covenants-of-title]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-PRP-0149
+  subject: PRP
+  coverage_ids: [PRP-MBE-V.E]
+  rule_ids: [R-PRP-112, R-PRP-116]
+  difficulty: 2
+  stem: >-
+    In 2021 Hale mistakenly believed that he had inherited an interest in a vacant lot that in fact belonged entirely
+    to his cousin Jorie. For $5,000, Hale signed and delivered to Ivy a quitclaim deed "remising, releasing and
+    quitclaiming to Ivy all of Hale's right, title and interest" in the lot, and Ivy recorded it. In 2024 Hale bought
+    the lot from Jorie for $70,000 and recorded his deed. Ivy now claims that she owns the lot.
+  call: "Who owns the lot?"
+  options:
+    A: "Hale, because his quitclaim deed passed only the interest he then had, which was none."
+    B: "Ivy, because the title Hale acquired after his deed to her passed to her automatically by estoppel by deed."
+    C: "Ivy, because she recorded her deed in 2021, three years before Hale recorded the deed from Jorie."
+    D: "Hale and Ivy as tenants in common, because each paid value for a recorded deed to the lot."
+  answer: A
+  explanation_correct: >-
+    A is correct. Under estoppel by deed, title that a grantor acquires after purporting to convey land he did not own
+    passes automatically to the grantee, but the doctrine does not apply to a quitclaim deed, which conveys only
+    whatever interest the grantor had when he delivered it (R-PRP-112). Hale's quitclaim released only "all of Hale's
+    right, title and interest," and he then had none. The title he later bought from Jorie did not pass to Ivy, so
+    Hale owns the lot.
+  explanation_each_wrong_option:
+    B: >-
+      Estoppel by deed does not apply to a quitclaim deed, which does not purport to convey any particular title
+      (R-PRP-112).
+    C: >-
+      Recording protects a purchaser against the grantor's other conveyances of an interest the grantor had; it cannot
+      give a deed that conveyed nothing a claim to title the grantor acquired later (R-PRP-112, R-PRP-116).
+    D: >-
+      Paying value and recording do not create a cotenancy. Ivy's quitclaim conveyed nothing, so Hale alone owns the
+      lot (R-PRP-112).
+  trap_type: confused-rule
+  authority: ["Common law: estoppel by deed; quitclaim deeds"]
+  source: original
+  tags: [wave2, W2b-PRP, estoppel-by-deed, quitclaim]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-PRP-0150
+  subject: PRP
+  coverage_ids: [PRP-MBE-V.B.4, PRP-MBE-I.B.1]
+  rule_ids: [R-PRP-023, R-PRP-021, R-PRP-020]
+  difficulty: 3
+  stem: >-
+    Kip and Lana, a married couple, own their house as tenants by the entirety in a jurisdiction that recognizes that
+    form of ownership. Without Lana's knowledge or signature, Kip signed and delivered to his friend Moe, for $50,000,
+    a deed conveying "all of my interest" in the house. Kip later died, still married to Lana, leaving a will that gave
+    his entire estate to his brother, Ned.
+  call: "Who owns the house?"
+  options:
+    A: "Moe and Lana as tenants in common, because Kip's conveyance severed the tenancy."
+    B: "Lana and Ned as tenants in common, because Kip's deed to Moe was void and his will passed his share to Ned."
+    C: "Lana alone, because Kip acting alone could not defeat her right of survivorship."
+    D: "Moe and Lana as joint tenants, because one spouse's conveyance turns a tenancy by the entirety into a joint tenancy."
+  answer: C
+  explanation_correct: >-
+    C is correct. A tenancy by the entirety is concurrent ownership between spouses with a right of survivorship that
+    neither spouse can defeat alone: one spouse cannot sever, transfer or encumber the property without the other
+    (R-PRP-023). Kip's deed to Moe, given without Lana, could not cut off Lana's right of survivorship. When Kip died
+    while still married to Lana, she became the sole owner of the house. Kip's will could not pass any interest,
+    because his interest ended at his death (R-PRP-020).
+  explanation_each_wrong_option:
+    A: >-
+      A conveyance by one joint tenant severs a joint tenancy (R-PRP-021), but one spouse acting alone cannot sever a
+      tenancy by the entirety (R-PRP-023).
+    B: >-
+      A will takes effect only at death, when a co-owner's interest in property held with a right of survivorship
+      ends, so Kip had nothing to devise to Ned (R-PRP-020, R-PRP-023).
+    D: >-
+      One spouse's conveyance does not turn a tenancy by the entirety into a joint tenancy with the grantee. The
+      tenancy by the entirety continued during the marriage, and Lana took the whole by survivorship (R-PRP-023).
+  trap_type: confused-rule
+  authority: ["Common law: tenancy by the entirety"]
+  source: original
+  tags: [wave2, W2b-PRP, tenancy-by-the-entirety, persons-authorized]
+  status: draft
+  last_verified: 2026-11-04

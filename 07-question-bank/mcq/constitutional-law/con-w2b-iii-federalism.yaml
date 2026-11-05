@@ -1,0 +1,414 @@
+# Constitutional Law — NCBE category III: the relation of nation and states in a federal system
+# Original MBE-style items (wave 2, batch b). No item relies on National Pork Producers v. Ross (V-200)
+# or any other [VERIFY]-tagged decision. United Haulers' Pike discussion was a plurality; the item says so.
+questions:
+- id: Q-CON-0117
+  subject: CON
+  coverage_ids: [CON-MBE-III.A.1]
+  rule_ids: [R-CON-044, R-CON-045, R-CON-048]
+  difficulty: 1
+  stem: >-
+    A state statute requires anyone who performs electrical work in the state to hold a state electrician's
+    license, which requires passing a state examination and paying a fee. An employee of a federal agency,
+    acting within the scope of his federal duties, rewired part of a federal courthouse in the state. He
+    had been trained and certified under the federal agency's own standards but held no state license. The
+    state prosecuted him for violating the licensing statute. No federal statute addresses whether federal
+    employees must hold state licenses.
+  call: "Which is the employee's best defense?"
+  options:
+    A: "The licensing statute discriminates against interstate commerce by burdening electricians who were trained in other states."
+    B: "The Tenth Amendment reserves to the federal government the regulation of work performed in federal buildings."
+    C: "A state may not require a federal employee to obtain a state license in order to perform his federal duties."
+    D: "The statute denies federal employees equal protection by disregarding their federal training and certification."
+  answer: C
+  explanation_correct: >-
+    C is correct. Under the Supremacy Clause and the doctrine of intergovernmental immunity, a state may not
+    directly regulate the federal government's operations, including by requiring federal employees to
+    obtain state licenses to do their federal jobs, unless Congress consents (R-CON-044; Johnson v.
+    Maryland). The employee was performing federal duties in a federal building, and no federal statute
+    subjects him to state licensing, so the prosecution is barred.
+  explanation_each_wrong_option:
+    A: >-
+      Weak and beside the point. The statute applies evenhandedly to every electrician working in the
+      state, so it does not discriminate and would face at most Pike balancing (R-CON-048); the employee's
+      real protection is federal immunity from state regulation (R-CON-044).
+    B: >-
+      Confused rule. The Tenth Amendment reserves powers to the states or the people; it is not a source
+      of federal immunity. The employee's protection comes from the Supremacy Clause (R-CON-044;
+      R-CON-045).
+    D: >-
+      Wrong framework. A licensing requirement applied to everyone would easily survive rational-basis
+      review; the problem is not unequal treatment but the state's lack of power to regulate federal
+      operations (R-CON-044).
+  trap_type: confused-rule
+  authority: ["U.S. Const. art. VI, cl. 2", "Johnson v. Maryland, 254 U.S. 51 (1920)", "McCulloch v. Maryland, 17 U.S. (4 Wheat.) 316 (1819)"]
+  source: original
+  tags: [wave2, w2b, intergovernmental-immunity, federal-immunity]
+  status: draft
+  last_verified: 2026-11-05
+
+- id: Q-CON-0118
+  subject: CON
+  coverage_ids: [CON-MBE-III.A.2]
+  rule_ids: [R-CON-046, R-CON-045, R-CON-021]
+  difficulty: 2
+  stem: >-
+    Congress found that state professional-licensing boards sell lists of licensees' home addresses and
+    personal telephone numbers to marketers and data brokers, who resell them nationwide. Relying on its
+    commerce power, Congress enacted a statute that prohibits any state licensing board, and any private
+    business that obtains records from such a board, from selling or disclosing a licensee's home address
+    or personal telephone number without the licensee's consent. A state that earned substantial revenue
+    from these sales sued, arguing that the statute violates the Tenth Amendment.
+  call: "Is the statute constitutional?"
+  options:
+    A: "Yes, because it regulates states as owners of data bases, as it does private resellers, without requiring them to regulate anyone."
+    B: "No, because it commands state agencies to carry out a federal policy, in violation of the rule against commandeering state officials."
+    C: "No, because a state agency's sale of its own records is not a commercial activity that Congress may regulate under the commerce power."
+    D: "Yes, because Congress may regulate the states in any manner it chooses when it acts within its power to regulate interstate commerce."
+  answer: A
+  explanation_correct: >-
+    A is correct. Personal information sold into the interstate market is an article of commerce that
+    Congress may regulate (R-CON-021). The anti-commandeering rule forbids Congress to require states to
+    enact or administer federal regulatory programs (R-CON-046), but a statute that regulates the states'
+    own activities as owners of data bases, and applies to private resellers as well, does not require
+    them to regulate private parties (R-CON-045; Reno v. Condon). That state employees must change their
+    practices to comply does not make it commandeering.
+  explanation_each_wrong_option:
+    B: >-
+      Confused rule. The statute does not require the state to legislate or to enforce federal law against
+      its citizens, as in New York v. United States and Printz; it limits what the state itself may do with
+      data it holds (R-CON-046; Reno v. Condon).
+    C: >-
+      Fact misread. Congress found a nationwide market in these records, and selling information to buyers
+      who resell it interstate is commerce, whoever the seller is (R-CON-021; Reno v. Condon).
+    D: >-
+      Overbroad. Even a statute within the commerce power may not commandeer state legislatures or
+      executive officers (R-CON-046); this statute survives because it does not do so.
+  trap_type: confused-rule
+  authority: ["U.S. Const. art. I, § 8, cl. 3", "U.S. Const. amend. X", "Reno v. Condon, 528 U.S. 141 (2000)", "Printz v. United States, 521 U.S. 898 (1997)", "New York v. United States, 505 U.S. 144 (1992)"]
+  source: original
+  tags: [wave2, w2b, tenth-amendment, anti-commandeering]
+  status: draft
+  last_verified: 2026-11-05
+
+- id: Q-CON-0119
+  subject: CON
+  coverage_ids: [CON-MBE-III.B.1]
+  rule_ids: [R-CON-050, R-CON-048]
+  difficulty: 2
+  stem: >-
+    A state requires every retailer that, in a calendar year, makes more than $150,000 in sales to in-state
+    customers to collect and remit the state's sales tax on those sales. In-state retailers have always had
+    to collect the tax, and the rate is the same for all sellers. The state provides free software that
+    calculates the tax for each sale. An online retailer that has no offices, employees or property in the
+    state, but sells more than $3 million of goods a year to in-state customers, challenges the collection
+    requirement under the Commerce Clause.
+  call: "Is the retailer likely to prevail?"
+  options:
+    A: "Yes, because a state may not require a seller to collect its sales tax unless the seller has a physical presence in the state."
+    B: "Yes, because the collection duty burdens interstate sellers in a way that is clearly excessive in relation to the state's revenue interest."
+    C: "No, because the dormant Commerce Clause does not apply to state taxes, which are limited only by the Due Process Clause."
+    D: "No, because the retailer's extensive economic and virtual contacts with the state give it a substantial nexus there."
+  answer: D
+  explanation_correct: >-
+    D is correct. A state tax affecting interstate commerce is valid if it applies to an activity with a
+    substantial nexus with the state, is fairly apportioned, does not discriminate against interstate
+    commerce, and is fairly related to services the state provides (R-CON-050; Complete Auto). Physical
+    presence is not required: a seller that deliberately makes a large volume of sales into the state
+    through economic and virtual contacts has a substantial nexus (South Dakota v. Wayfair). The retailer's
+    $3 million in annual in-state sales satisfies that standard, and the duty does not discriminate,
+    because in-state retailers must collect the same tax.
+  explanation_each_wrong_option:
+    A: >-
+      Overruled rule. The physical-presence rule of Quill Corp. v. North Dakota was overruled in Wayfair
+      (R-CON-050).
+    B: >-
+      Unsupported by the facts. The threshold excludes small sellers and the state supplies free software,
+      which reduces the compliance burden; nothing in the stem shows a burden clearly excessive in relation
+      to the state's interest in collecting taxes owed on in-state sales (R-CON-048; R-CON-050).
+    C: >-
+      Wrong rule. State taxes on interstate commerce must satisfy both the Commerce Clause, under the
+      Complete Auto test, and due process (R-CON-050).
+  trap_type: wrong-standard
+  authority: ["U.S. Const. art. I, § 8, cl. 3", "Complete Auto Transit, Inc. v. Brady, 430 U.S. 274 (1977)", "South Dakota v. Wayfair, Inc., 585 U.S. 162 (2018)", "Quill Corp. v. North Dakota, 504 U.S. 298 (1992)"]
+  source: original
+  tags: [wave2, w2b, dormant-commerce-clause, state-taxation]
+  status: draft
+  last_verified: 2026-11-05
+
+- id: Q-CON-0120
+  subject: CON
+  coverage_ids: [CON-MBE-III.B.1]
+  rule_ids: [R-CON-049, R-CON-047, R-CON-048]
+  difficulty: 3
+  stem: >-
+    A county created a public waste authority, which built and operates a county-owned transfer station.
+    A county ordinance requires every hauler that collects solid waste in the county to deliver it to the
+    authority's station. The station charges tipping fees above those of private landfills, including
+    landfills in neighboring states, and uses the extra revenue to fund recycling and hazardous-waste
+    programs. The ordinance treats all private disposal businesses, in-state and out-of-state, alike.
+    Evidence at trial showed that the ordinance has only a modest effect on interstate commerce and has
+    significantly increased recycling and safe disposal in the county. Private haulers challenge the
+    ordinance under the dormant Commerce Clause.
+  call: "Is the ordinance likely to be upheld?"
+  options:
+    A: "No, because requiring all local waste to go to a designated local facility hoards a local resource and discriminates against interstate commerce."
+    B: "Yes, because it favors a public facility, not in-state private firms, and its modest burden is not clearly excessive relative to its benefits."
+    C: "Yes, because a county acts as a market participant whenever it requires private haulers to use a facility that the county owns."
+    D: "No, because the county could fund its recycling programs through general taxes, which would place a lesser burden on interstate commerce."
+  answer: B
+  explanation_correct: >-
+    B is correct. A law that favors a state or local government's own facility performing a traditional
+    public function, such as waste disposal, while treating all private businesses alike, does not
+    discriminate against interstate commerce (R-CON-049; United Haulers). Such a law gets at most Pike
+    balancing (R-CON-048): it is upheld unless the burden on interstate commerce is clearly excessive in
+    relation to the local benefits. The burden here is modest and the recycling and disposal benefits are
+    significant, so the ordinance survives. In United Haulers the no-discrimination holding commanded a
+    majority, while the part applying Pike was a plurality opinion; on these facts the result is the same
+    either way.
+  explanation_each_wrong_option:
+    A: >-
+      Confused rule. Carbone struck down a flow-control law that favored a single private processing
+      facility; flow control to a public facility does not favor local private businesses over
+      out-of-state competitors, so it is not discrimination (R-CON-047; R-CON-049).
+    C: >-
+      Right result, wrong reason. Compelling haulers by ordinance to use a facility is regulation, not mere
+      buying or selling in the market; the ordinance survives because the favored entity is public, not
+      because of the market-participant exception (R-CON-049).
+    D: >-
+      Wrong standard. Under Pike the question is whether the burden on interstate commerce is clearly
+      excessive in relation to the local benefits (R-CON-048); the modest burden shown here is not, and the
+      availability of another way to finance recycling does not by itself invalidate the ordinance.
+  trap_type: right-result-wrong-reason
+  authority: ["U.S. Const. art. I, § 8, cl. 3", "United Haulers Ass'n v. Oneida-Herkimer Solid Waste Mgmt. Auth., 550 U.S. 330 (2007)", "C & A Carbone, Inc. v. Town of Clarkstown, 511 U.S. 383 (1994)", "Pike v. Bruce Church, Inc., 397 U.S. 137 (1970)"]
+  source: original
+  tags: [wave2, w2b, dormant-commerce-clause, public-facility, flow-control]
+  status: draft
+  last_verified: 2026-11-05
+
+- id: Q-CON-0121
+  subject: CON
+  coverage_ids: [CON-MBE-III.B.1]
+  rule_ids: [R-CON-047, R-CON-048, R-CON-051]
+  difficulty: 2
+  stem: >-
+    A county ordinance provides that honey may be sold in the county only if it was extracted and bottled
+    at a facility located within the county, so that county health inspectors can inspect every facility at
+    least monthly. The ordinance thus excludes honey bottled in other counties of the state as well as
+    honey bottled in other states. The county could instead accept inspection reports from state health
+    agencies, including those of other states, or require laboratory testing of samples from each
+    shipment. A beekeeper in a neighboring state whose honey can no longer be sold in the county sues to
+    invalidate the ordinance.
+  call: "Is the ordinance constitutional?"
+  options:
+    A: "Yes, because it burdens in-state producers outside the county as much as out-of-state producers, so it does not discriminate against interstate commerce."
+    B: "Yes, because food safety is a legitimate local interest, and the ordinance's burden on interstate commerce is not clearly excessive in relation to it."
+    C: "No, because it discriminates against interstate commerce, and the county's safety interest could be served by reasonable nondiscriminatory alternatives."
+    D: "No, because only Congress, and not a state or local government, may regulate goods that move in interstate commerce."
+  answer: C
+  explanation_correct: >-
+    C is correct. A state or local law that discriminates against interstate commerce, on its face or in
+    effect, is virtually per se invalid unless the government shows that it serves a legitimate local
+    purpose that cannot be adequately served by reasonable nondiscriminatory alternatives (R-CON-047).
+    Barring honey bottled outside the county discriminates against out-of-state producers even though it
+    also burdens producers in other parts of the state (Dean Milk Co. v. City of Madison). The county's
+    inspection interest could be served by accepting other agencies' inspection reports or by testing
+    samples, so the ordinance is invalid.
+  explanation_each_wrong_option:
+    A: >-
+      Confused rule. A locality cannot escape the discrimination rule by also burdening some in-state
+      businesses; excluding all outside products protects local producers against interstate competition
+      (R-CON-047; Dean Milk; Fort Gratiot Sanitary Landfill).
+    B: >-
+      Wrong standard. Pike balancing applies only to nondiscriminatory laws; a discriminatory law gets the
+      near-per-se rule, with the burden on the government to show that no reasonable nondiscriminatory
+      alternative exists (R-CON-047; R-CON-048).
+    D: >-
+      Overbroad. States and localities may regulate goods in interstate commerce under their police powers
+      if they do not discriminate, impose clearly excessive burdens or conflict with federal law
+      (R-CON-047; R-CON-048; R-CON-051).
+  trap_type: wrong-standard
+  authority: ["U.S. Const. art. I, § 8, cl. 3", "Dean Milk Co. v. City of Madison, 340 U.S. 349 (1951)", "Fort Gratiot Sanitary Landfill, Inc. v. Michigan Dep't of Natural Resources, 504 U.S. 353 (1992)"]
+  source: original
+  tags: [wave2, w2b, dormant-commerce-clause, discrimination]
+  status: draft
+  last_verified: 2026-11-05
+
+- id: Q-CON-0122
+  subject: CON
+  coverage_ids: [CON-MBE-III.B.2]
+  rule_ids: [R-CON-051]
+  difficulty: 1
+  stem: >-
+    A federal statute regulating the labeling of lawn fertilizers provides: "No State or political
+    subdivision may impose any requirement for the labeling of a fertilizer that is in addition to or
+    different from the requirements of this Act." A state later enacted a statute requiring every bag of
+    lawn fertilizer sold in the state to carry, in addition to the federally required label, a warning that
+    runoff from fertilized lawns harms lakes and streams. A fertilizer manufacturer sued to enjoin
+    enforcement of the state labeling requirement. The state argues that protecting its waters is a
+    traditional state concern.
+  call: "How should the court rule?"
+  options:
+    A: "For the manufacturer, because the federal statute expressly preempts state labeling requirements that add to the federal requirements."
+    B: "For the state, because states may impose stricter health and environmental standards than federal law requires."
+    C: "For the state, because the presumption against preemption in fields of traditional state concern requires the federal statute to be read narrowly."
+    D: "For the manufacturer, because the federal statute occupies the entire field of fertilizer regulation."
+  answer: A
+  explanation_correct: >-
+    A is correct. Valid federal law preempts state law expressly when Congress says so (R-CON-051). The
+    federal clause forbids any state labeling requirement "in addition to" the federal requirements, and
+    the state's mandatory runoff warning is exactly that. When the text of an express preemption clause
+    plainly covers the state law, the court applies the text; the Court has said that the presumption
+    against preemption does not govern the interpretation of express preemption clauses (Puerto Rico v.
+    Franklin California Tax-Free Trust).
+  explanation_each_wrong_option:
+    B: >-
+      Exception trap. States may set stricter standards only where federal law does not preempt them
+      (R-CON-051); here Congress expressly barred additional labeling requirements.
+    C: >-
+      Wrong standard. The presumption against preemption cannot override clear statutory text, and the
+      Court has declined to apply it to the text of express preemption clauses (R-CON-051; Franklin).
+    D: >-
+      Overbroad. The federal clause addresses labeling only; nothing shows that Congress occupied every
+      aspect of fertilizer regulation, such as limits on when or where fertilizer may be applied. The state
+      law falls because it is a labeling requirement within the express clause (R-CON-051).
+  trap_type: exception-trap
+  authority: ["U.S. Const. art. VI, cl. 2", "Puerto Rico v. Franklin Cal. Tax-Free Trust, 579 U.S. 115 (2016)", "Rice v. Santa Fe Elevator Corp., 331 U.S. 218 (1947)"]
+  source: original
+  tags: [wave2, w2b, preemption, express-preemption]
+  status: draft
+  last_verified: 2026-11-05
+
+- id: Q-CON-0123
+  subject: CON
+  coverage_ids: [CON-MBE-III.B.2]
+  rule_ids: [R-CON-051, R-CON-049]
+  difficulty: 3
+  stem: >-
+    Congress enacted a statute imposing sanctions on a foreign country with a record of human-rights
+    abuses. The statute bars new U.S. investment in the country, authorizes the President to lift or
+    tighten the sanctions depending on the country's progress, and directs the President to develop a
+    coordinated strategy with allied nations. A state later enacted a law barring its agencies from buying
+    goods or services from any company that does business in that country. Allied governments have
+    formally protested to the State Department that the state law complicates their joint negotiations. An
+    association of companies that sell to state agencies challenges the state law.
+  call: "Is the state law valid?"
+  options:
+    A: "Yes, because the federal statute contains no clause expressly preempting state laws that address the same subject."
+    B: "Yes, because the state is acting as a market participant in deciding how to spend its own money."
+    C: "No, because the states have no power to take any action that touches on the nation's foreign relations."
+    D: "No, because the state law stands as an obstacle to the full purposes and objectives of the federal sanctions scheme."
+  answer: D
+  explanation_correct: >-
+    D is correct. Even without an express preemption clause, a state law is preempted if it conflicts with
+    federal law, including when it stands as an obstacle to the accomplishment of the full purposes and
+    objectives of Congress (R-CON-051). Congress calibrated the sanctions, gave the President flexibility
+    to raise or lower the pressure, and called for a coordinated strategy with allies; a state law imposing
+    different sanctions that the President cannot adjust undercuts each of those choices (Crosby v.
+    National Foreign Trade Council).
+  explanation_each_wrong_option:
+    A: >-
+      Missing element. Express preemption is only one route; conflict preemption, including obstacle
+      preemption, does not depend on a preemption clause (R-CON-051).
+    B: >-
+      Confused rule. The market-participant exception limits the dormant Commerce Clause (R-CON-049); it
+      does not let a state frustrate a federal statute, and acting through spending rather than regulation
+      does not by itself avoid preemption (Wisconsin Dep't of Industry v. Gould Inc.).
+    C: >-
+      Overbroad. States may take many actions that incidentally affect foreign relations; this law fails
+      because it conflicts with a specific federal statute (R-CON-051).
+  trap_type: confused-rule
+  authority: ["U.S. Const. art. VI, cl. 2", "Crosby v. National Foreign Trade Council, 530 U.S. 363 (2000)", "Hines v. Davidowitz, 312 U.S. 52 (1941)", "Wisconsin Dep't of Industry v. Gould Inc., 475 U.S. 282 (1986)"]
+  source: original
+  tags: [wave2, w2b, preemption, obstacle-preemption]
+  status: draft
+  last_verified: 2026-11-05
+
+- id: Q-CON-0124
+  subject: CON
+  coverage_ids: [CON-MBE-III.B.3]
+  rule_ids: [R-CON-052, R-CON-047]
+  difficulty: 2
+  stem: >-
+    A federal statute provides grants to states for renewable-energy projects and declares that "it is the
+    policy of the United States to encourage each State to promote the development of renewable energy
+    within its borders." Citing this statute, a state now requires every electric utility selling power in
+    the state to buy at least 30 percent of its electricity from wind farms located in the state;
+    electricity from wind farms in other states does not count. An out-of-state wind-farm operator sues
+    under the dormant Commerce Clause. The state's only defense is that Congress authorized the in-state
+    preference.
+  call: "Is the state's defense likely to succeed?"
+  options:
+    A: "Yes, because by encouraging each state to develop renewable energy within its own borders, Congress implicitly approved in-state preferences."
+    B: "No, because congressional consent to state discrimination against interstate commerce must be unmistakably clear, and it is not here."
+    C: "No, because Congress has no power to authorize states to discriminate against interstate commerce in any circumstances."
+    D: "Yes, because a state law that advances a declared federal policy cannot violate the dormant Commerce Clause."
+  answer: B
+  explanation_correct: >-
+    B is correct. Congress may authorize states to burden or discriminate against interstate commerce in
+    ways that would otherwise be invalid, but its intent to do so must be unmistakably clear (R-CON-052;
+    South-Central Timber Development, Inc. v. Wunnicke). A general policy of encouraging states to develop
+    renewable energy says nothing about favoring in-state producers over out-of-state ones, so it is not
+    clear consent. Without consent, the facially discriminatory purchase requirement is judged under the
+    near-per-se rule against discrimination (R-CON-047).
+  explanation_each_wrong_option:
+    A: >-
+      Missing element. Encouraging in-state development is not the same as unmistakably authorizing
+      discrimination against out-of-state producers; consent is not inferred from a general federal policy
+      (R-CON-052; Wunnicke).
+    C: >-
+      Wrong rule. Because the dormant Commerce Clause is a limit Congress can lift, Congress may authorize
+      discrimination if it says so clearly (R-CON-052; Prudential Ins. Co. v. Benjamin).
+    D: >-
+      Overbroad. Consistency with a general federal policy is not congressional consent; a discriminatory
+      state law remains subject to the dormant Commerce Clause unless Congress clearly authorizes it
+      (R-CON-052).
+  trap_type: missing-element
+  authority: ["U.S. Const. art. I, § 8, cl. 3", "South-Central Timber Dev., Inc. v. Wunnicke, 467 U.S. 82 (1984)", "Prudential Ins. Co. v. Benjamin, 328 U.S. 408 (1946)"]
+  source: original
+  tags: [wave2, w2b, congressional-authorization, dormant-commerce-clause]
+  status: draft
+  last_verified: 2026-11-05
+
+- id: Q-CON-0125
+  subject: CON
+  coverage_ids: [CON-MBE-III.B.3, CON-MBE-IV.C.3]
+  rule_ids: [R-CON-052, R-CON-074, R-CON-053, R-CON-083]
+  difficulty: 3
+  stem: >-
+    A federal statute expressly authorizes the states to regulate and tax the business of insurance,
+    including by treating out-of-state insurers differently, notwithstanding any limitation the Commerce
+    Clause would otherwise impose. Relying on that statute, a state taxes insurance premiums at 1 percent
+    for insurers incorporated in the state and at 4 percent for insurers incorporated in other states. The
+    state's only stated purpose is to encourage the formation of new insurance companies in the state. An
+    insurer incorporated in another state, which sells policies in the state, challenges the tax.
+  call: "Which is the insurer's strongest argument?"
+  options:
+    A: "The tax discriminates against interstate commerce in violation of the dormant Commerce Clause."
+    B: "The tax violates the Privileges and Immunities Clause of Article IV by discriminating against out-of-state citizens in pursuing a livelihood."
+    C: "The tax violates the Equal Protection Clause, because favoring domestic insurers over nonresident competitors is not a legitimate purpose."
+    D: "The tax violates the Contracts Clause by impairing the insurer's existing policies with its in-state customers."
+  answer: C
+  explanation_correct: >-
+    C is correct. Congress may lift the dormant Commerce Clause, but it cannot authorize a state to violate
+    equal protection (R-CON-052). Corporations are persons protected by the Equal Protection Clause, and a
+    tax classification must be rationally related to a legitimate purpose (R-CON-074). The Court has held
+    that promoting domestic industry by taxing out-of-state competitors more heavily is not a legitimate
+    state purpose (Metropolitan Life Ins. Co. v. Ward), so a discriminatory premium tax resting on that
+    purpose alone is vulnerable even under rational-basis review. The other arguments fail outright.
+  explanation_each_wrong_option:
+    A: >-
+      Exception trap. Congress expressly authorized discriminatory state insurance taxation, which removes
+      the dormant Commerce Clause objection (R-CON-052; Prudential Ins. Co. v. Benjamin).
+    B: >-
+      Confused rule. Corporations are not "citizens" protected by the Article IV Privileges and Immunities
+      Clause (R-CON-053).
+    D: >-
+      Fact misread. The tax does not alter any obligation under the insurer's existing contracts with its
+      policyholders, so there is no impairment of contract (R-CON-083).
+  trap_type: exception-trap
+  authority: ["U.S. Const. amend. XIV, § 1", "Metropolitan Life Ins. Co. v. Ward, 470 U.S. 869 (1985)", "Prudential Ins. Co. v. Benjamin, 328 U.S. 408 (1946)"]
+  source: original
+  tags: [wave2, w2b, congressional-authorization, equal-protection]
+  status: draft
+  last_verified: 2026-11-05

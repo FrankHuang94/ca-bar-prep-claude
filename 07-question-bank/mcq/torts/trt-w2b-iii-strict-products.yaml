@@ -1,0 +1,380 @@
+# Torts MCQs — NCBE category III: strict liability and products liability
+# Wave 2 round 2 (W2b-TRT). MBE defaults: pure comparative negligence and joint and several liability unless the stem says otherwise.
+# Majority common-law / Restatement rules only; no California-only rules. All items original.
+questions:
+- id: Q-TRT-0136
+  subject: TRT
+  coverage_ids: [TRT-MBE-III, TRT-CBX-VIII-X]
+  rule_ids: [R-TRT-077, R-TRT-080]
+  difficulty: 3
+  stem: >-
+    A demolition company used explosives to bring down an old concrete silo. The day before, it delivered written
+    notices to nearby residents stating that a large blast would occur at 2 p.m., that rock fragments could land in
+    their yards, and that they should stay indoors until a siren sounded the all-clear. A neighbor read the notice. At
+    1:58 p.m., wanting to finish mowing his lawn, he went out into his backyard, and a rock fragment thrown by the
+    blast struck and injured him. The company took every possible precaution. In the neighbor's strict-liability
+    action, the jury found his damages to be $200,000 and assigned 40% of the responsibility for his injury to him and
+    60% to the company. The jurisdiction applies pure comparative fault.
+  call: "How much will the neighbor recover?"
+  options:
+    A: "Nothing, because he knowingly and unreasonably exposed himself to the danger of the blast."
+    B: "$200,000, because a plaintiff's own negligence is not a defense to a claim of strict liability."
+    C: "Nothing, because the company took every possible precaution and warned him of the danger in advance."
+    D: "$120,000, because his knowing, unreasonable exposure reduces his recovery by his 40% share."
+  answer: D
+  explanation_correct: >-
+    Blasting is an abnormally dangerous activity, and flying rock is the very kind of harm that makes it so, so the
+    company is strictly liable despite its precautions (R-TRT-077). In a comparative-fault jurisdiction, a plaintiff's
+    negligence, including knowingly and unreasonably encountering the danger, reduces recovery on a strict-liability
+    claim in proportion to his share of responsibility rather than barring it (R-TRT-080). The neighbor recovers 60%
+    of $200,000, or $120,000.
+  explanation_each_wrong_option:
+    A: >-
+      Minority rule. A knowing and unreasonable encounter with the risk is a complete defense to strict liability only
+      in a contributory-negligence jurisdiction. Under pure comparative fault it reduces recovery (R-TRT-080).
+    B: >-
+      Confused rule. The traditional rule that a plaintiff's negligence is no defense concerns a mere failure to
+      discover or guard against the danger. Under comparative fault, the plaintiff's share of responsibility,
+      including a knowing and unreasonable encounter, reduces recovery.
+    C: >-
+      Care and warnings are no defense to strict liability for an abnormally dangerous activity (R-TRT-077); the
+      warning matters only because it made the neighbor's own conduct unreasonable.
+  trap_type: minority-rule
+  authority: ["Restatement (Second) of Torts §§ 519, 520", "Restatement (Third) of Torts: Liability for Physical and Emotional Harm § 25"]
+  source: original
+  tags: [wave2, W2b-TRT, strict-liability, abnormally-dangerous, comparative-fault]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-TRT-0137
+  subject: TRT
+  coverage_ids: [TRT-MBE-III, TRT-CBX-VIII-X]
+  rule_ids: [R-TRT-079]
+  difficulty: 1
+  stem: >-
+    A rancher kept 40 cattle in a pasture enclosed by a sturdy fence that he inspected and repaired regularly. One
+    night, despite his reasonable care, several of the cattle pushed through a section of the fence and wandered onto
+    a neighboring farm, where they trampled and ate $15,000 worth of vegetables. The jurisdiction has no statute
+    requiring landowners to fence out livestock, and no other statute addresses the matter. The neighbor sues the
+    rancher in strict liability.
+  call: "Is the neighbor likely to prevail?"
+  options:
+    A: "No, because the rancher used reasonable care in maintaining, inspecting and repairing the fence around his pasture."
+    B: "Yes, because a possessor of livestock is strictly liable for foreseeable damage they do while trespassing."
+    C: "No, because cattle are domestic animals, and the rancher had no knowledge of any dangerous propensity in them."
+    D: "Yes, because keeping a large herd of cattle next to a neighbor's cropland is an abnormally dangerous activity."
+  answer: B
+  explanation_correct: >-
+    A possessor of livestock is strictly liable for the reasonably foreseeable damage the livestock do while
+    trespassing on another's land (R-TRT-079). Trampling and eating a neighbor's crops is exactly that kind of damage.
+    Because the jurisdiction has no fence-out statute, the rule applies, and the rancher's reasonable care in
+    maintaining the fence is no defense.
+  explanation_each_wrong_option:
+    A: >-
+      Strict liability does not depend on fault; care in maintaining the fence is no defense to liability for
+      trespassing livestock.
+    C: >-
+      Confused rule. The known-dangerous-propensity requirement governs injuries caused by domestic animals generally
+      (such as dog bites). Damage by trespassing livestock is governed by its own strict-liability rule.
+    D: >-
+      Right result, wrong reason. Raising cattle is a common, ordinary activity, not an abnormally dangerous one; the
+      rancher is liable under the separate rule for trespassing livestock.
+  trap_type: confused-rule
+  authority: ["Restatement (Second) of Torts § 504", "Restatement (Third) of Torts: Liability for Physical and Emotional Harm § 21"]
+  source: original
+  tags: [wave2, W2b-TRT, strict-liability, animals, livestock-trespass]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-TRT-0138
+  subject: TRT
+  coverage_ids: [TRT-MBE-III, TRT-CBX-VI]
+  rule_ids: [R-TRT-084]
+  difficulty: 1
+  stem: >-
+    A manufacturer sells a chef's knife with a very sharp, properly made stainless-steel blade. Neither the knife nor
+    its packaging warns that the blade is sharp and can cut. A home cook who had used kitchen knives for years cut her
+    finger badly when her attention wandered while she was chopping onions. She sues the manufacturer in strict
+    products liability, alleging only that the knife was defective because it lacked a warning that the blade could
+    cut the user.
+  call: "Is she likely to prevail?"
+  options:
+    A: "No, because there is no duty to warn of a risk that is obvious or generally known to the product's users."
+    B: "Yes, because a manufacturer must warn of every foreseeable risk of injury from its product."
+    C: "Yes, because a warning would have cost the manufacturer almost nothing to add to the packaging."
+    D: "No, because her own carelessness in chopping the onions was the sole cause of her injury."
+  answer: A
+  explanation_correct: >-
+    A product is defective for inadequate warnings when foreseeable risks could have been reduced by reasonable
+    warnings, but there is no duty to warn of obvious or generally known risks (R-TRT-084). Every user of a sharp
+    kitchen knife knows that it can cut, and a warning would tell her nothing she does not already know. Because the
+    only alleged defect is the lack of a warning, the claim fails.
+  explanation_each_wrong_option:
+    B: >-
+      Overbroad. Foreseeable risks that are obvious or generally known need no warning, because warning of them does
+      not make the product safer.
+    C: >-
+      True but irrelevant. A cheap warning is required only where it would reduce a risk that users do not already
+      appreciate.
+    D: >-
+      Right result, wrong reason. Under comparative fault her carelessness would reduce, not bar, recovery for a
+      defective product. The claim fails because there is no defect.
+  trap_type: overbroad
+  authority: ["Restatement (Third) of Torts: Products Liability § 2(c)"]
+  source: original
+  tags: [wave2, W2b-TRT, products-liability, warning-defect, obvious-risk]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-TRT-0139
+  subject: TRT
+  coverage_ids: [TRT-MBE-III, TRT-CBX-VI]
+  rule_ids: [R-TRT-086, R-TRT-046]
+  difficulty: 1
+  stem: >-
+    A homeowner bought a new gas-powered leaf blower. Because of a flaw in its manufacture, the fuel cap had a
+    hairline crack. While the homeowner was using the blower in his yard, gasoline leaked onto the hot engine and the
+    blower burst into flames. He dropped it, and burning fuel splashed over a low fence onto his neighbor, who was
+    gardening on the other side, burning her legs. The neighbor sues the manufacturer in strict products liability.
+    The manufacturer argues that it cannot be liable to her because she neither bought nor used the blower.
+  call: "Is the manufacturer's argument likely to succeed?"
+  options:
+    A: "Yes, because strict products liability protects only the persons who buy, use or consume the defective product."
+    B: "No, because strict products liability extends to foreseeable bystanders injured by a defective product."
+    C: "Yes, because the homeowner's act of dropping the burning blower was an intervening cause of her injury."
+    D: "No, because the neighbor may recover for breach of the implied warranty of merchantability without privity."
+  answer: B
+  explanation_correct: >-
+    Strict products liability requires no privity: users, consumers and foreseeable bystanders injured by a defective
+    product may recover (R-TRT-086). The cracked fuel cap was a manufacturing defect that existed when the blower was
+    sold, and a neighbor working a few feet away is a foreseeable bystander to a fire caused by a gas-powered tool.
+    The manufacturer is liable to her.
+  explanation_each_wrong_option:
+    A: >-
+      Confused rule. Privity-type limits belong to warranty law; purchase or use is not an element of strict products
+      liability, and foreseeable bystanders recover too.
+    C: >-
+      Dropping a tool that has burst into flames is a foreseeable, natural reaction, not a superseding cause
+      (R-TRT-046).
+    D: >-
+      Right result, wrong reason. Whether a non-buyer may sue in warranty depends on the jurisdiction's version of UCC
+      § 2-318, and some versions would not reach a neighbor. Her strict-liability claim succeeds without privity.
+  trap_type: confused-rule
+  authority: ["Elmore v. American Motors Corp., 70 Cal.2d 578 (1969)", "Restatement (Second) of Torts § 402A"]
+  source: original
+  tags: [wave2, W2b-TRT, products-liability, bystander, privity]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-TRT-0140
+  subject: TRT
+  coverage_ids: [TRT-MBE-III, TRT-CBX-VI]
+  rule_ids: [R-TRT-085, R-TRT-043]
+  difficulty: 2
+  stem: >-
+    A tool-rental company rented a gas-powered concrete saw to a contractor for one day. The saw's blade guard had a
+    hidden crack, created when it was manufactured, that the rental company could not have found by reasonable
+    inspection. While the contractor was using the saw as intended, the guard shattered, and a fragment struck his
+    eye. He sues the rental company in strict products liability. The rental company argues that it cannot be strictly
+    liable because it rented, rather than sold, the saw.
+  call: "Is the contractor likely to prevail?"
+  options:
+    A: "No, because strict products liability applies only to sellers, and the company rented rather than sold the saw."
+    B: "No, because the rental company inspected the saw with reasonable care and could not have discovered the crack."
+    C: "Yes, because a commercial lessor of products is strictly liable for defects in the products it leases."
+    D: "No, because the contractor's remedy for a manufacturing defect lies only against the saw's manufacturer."
+  answer: C
+  explanation_correct: >-
+    Strict products liability extends to every commercial supplier in the chain of distribution, including commercial
+    lessors who are in the business of leasing such products (R-TRT-085; Price v. Shell Oil Co.). The saw was
+    defective when it left the rental company's control and injured the contractor while he used it as intended. The
+    company is strictly liable even though it could not have found the crack, and it may seek indemnity from the
+    manufacturer (R-TRT-043).
+  explanation_each_wrong_option:
+    A: >-
+      True but irrelevant. That the transaction was a rental rather than a sale does not matter; commercial lessors
+      are treated like sellers.
+    B: >-
+      Reasonable care is no defense to strict products liability; the question is whether the product was defective
+      when it left the defendant's control.
+    D: >-
+      Every commercial supplier that put the defective product into the stream of commerce is liable to the injured
+      person; allocating the loss to the manufacturer is a matter of indemnity between the defendants.
+  trap_type: true-but-irrelevant
+  authority: ["Price v. Shell Oil Co., 2 Cal.3d 245 (1970)", "Restatement (Third) of Torts: Products Liability § 20"]
+  source: original
+  tags: [wave2, W2b-TRT, products-liability, commercial-lessor]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-TRT-0141
+  subject: TRT
+  coverage_ids: [TRT-MBE-III, TRT-CBX-VI]
+  rule_ids: [R-TRT-085, R-TRT-088]
+  difficulty: 3
+  stem: >-
+    A hardware store sold a drill in the manufacturer's sealed factory packaging. Because of a wiring defect created
+    at the factory, the drill gave the buyer a severe electric shock the first time he used it as directed. The
+    manufacturer was reputable, the store had sold hundreds of its drills without a complaint, and the defect could
+    have been found only by taking the drill apart. The buyer sues the store, asserting claims for negligence and for
+    strict products liability.
+  call: "On which claim or claims is the buyer likely to prevail against the store?"
+  options:
+    A: "Strict products liability only."
+    B: "Negligence only."
+    C: "Both negligence and strict products liability."
+    D: "Neither, because the store could not have discovered the defect."
+  answer: A
+  explanation_correct: >-
+    A retailer is a commercial seller and is strictly liable for a product that was defective when it left the
+    retailer's control, even though it could not have discovered the defect (R-TRT-085). Negligence, however, requires
+    fault: a retailer that sells a product made by a reputable manufacturer generally has no duty to inspect or test
+    it for hidden defects unless it knows or has reason to know of a danger (R-TRT-088). Nothing suggests the store
+    had any such reason, so the strict-liability claim succeeds and the negligence claim fails.
+  explanation_each_wrong_option:
+    B: >-
+      This reverses the theories. The store's lack of fault defeats negligence, but strict liability does not require
+      fault.
+    C: >-
+      Confused rule. Strict liability and negligence differ precisely on fault; a retailer with no reason to suspect a
+      hidden factory defect has not acted unreasonably.
+    D: >-
+      The store's inability to discover the defect defeats only the negligence claim; it is no defense to strict
+      products liability (R-TRT-085).
+  trap_type: confused-rule
+  authority: ["Restatement (Second) of Torts §§ 402, 402A"]
+  source: original
+  tags: [wave2, W2b-TRT, products-liability, retailer, negligence-vs-strict-liability]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-TRT-0142
+  subject: TRT
+  coverage_ids: [TRT-MBE-III, TRT-CBX-VI]
+  rule_ids: [R-TRT-089, R-TRT-086]
+  difficulty: 2
+  stem: >-
+    A homeowner told the owner of a paint store that she needed a coating for the floor of her backyard swimming pool,
+    which stays submerged in chlorinated water. She said that she knew nothing about pool coatings and asked him to
+    pick one for her. Without saying anything about it, he took a can of interior floor paint off the shelf and handed
+    it to her, and she bought it. The paint was well made and suitable for indoor floors, the ordinary use for which
+    it is sold, but it is not designed for use underwater. Within a month it blistered and peeled off the pool floor,
+    and she paid $3,000 to have it stripped and the floor recoated with a proper pool coating. No one was hurt, and no
+    other property was damaged. She sues the store.
+  call: "Under which theory is the homeowner most likely to recover from the store?"
+  options:
+    A: "Breach of the implied warranty of merchantability."
+    B: "Strict products liability, because the paint was unsuitable for the use to which it was put."
+    C: "Breach of an express warranty, because by choosing the paint the owner represented that it was suitable for pools."
+    D: "Breach of the implied warranty of fitness for a particular purpose."
+  answer: D
+  explanation_correct: >-
+    The implied warranty of fitness for a particular purpose arises when the seller has reason to know the buyer's
+    particular purpose and that the buyer is relying on the seller's skill or judgment to select suitable goods
+    (R-TRT-089; UCC § 2-315). The homeowner told the store owner exactly what she needed, said she knew nothing about
+    coatings and asked him to choose, and he selected paint that was unfit for that purpose. The warranty was
+    breached, and her loss, the cost of stripping and recoating, is recoverable in warranty.
+  explanation_each_wrong_option:
+    A: >-
+      Missing element. Merchantability requires that the goods be unfit for their ordinary purpose (UCC § 2-314); this
+      paint was well made and suitable for indoor floors.
+    B: >-
+      Strict products liability requires a defect and covers personal injury and damage to other property; her loss is
+      the failure of the product itself and the cost of redoing the work, which is economic loss recoverable only in
+      warranty (R-TRT-086).
+    C: >-
+      An express warranty requires an affirmation of fact or promise, a description, or a sample or model (UCC §
+      2-313). The owner said nothing about the paint; merely selecting goods for a buyer creates the implied warranty
+      of fitness, not an express warranty.
+  trap_type: missing-element
+  authority: ["UCC § 2-315", "UCC § 2-314", "UCC § 2-313"]
+  source: original
+  tags: [wave2, W2b-TRT, products-liability, warranty, fitness-for-particular-purpose]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-TRT-0143
+  subject: TRT
+  coverage_ids: [TRT-MBE-III, TRT-CBX-VI]
+  rule_ids: [R-TRT-087, R-TRT-083]
+  difficulty: 2
+  stem: >-
+    A manufacturer's portable electric space heater complied with every applicable federal and state safety standard.
+    None of those standards required a tip-over switch, a device that shuts a heater off if it falls over, although
+    such switches cost about $3, were used by most competing manufacturers and did not affect a heater's performance.
+    No federal law preempts state tort claims about such heaters. A buyer's heater was knocked over by her dog, kept
+    running and set her carpet on fire, and she was burned. She sues the manufacturer in strict products liability for
+    defective design. The manufacturer argues that, because the heater complied with all applicable safety standards,
+    it was not defective as a matter of law.
+  call: "Is the manufacturer's argument likely to succeed?"
+  options:
+    A: "Yes, because a product that meets every applicable government safety standard is not defective."
+    B: "No, because compliance with safety standards is evidence of non-defectiveness but is not conclusive."
+    C: "Yes, because the heater was knocked over by the buyer's dog, which was an unforeseeable misuse of the product."
+    D: "No, because a manufacturer is strictly liable for any injury that its product causes to a user."
+  answer: B
+  explanation_correct: >-
+    Compliance with government safety standards is evidence that a product is not defective, but it does not establish
+    non-defectiveness as a matter of law unless federal law preempts the claim (R-TRT-087; R3d PL § 4(b)). The
+    standards set a minimum. A jury could find the design defective under risk-utility analysis, because a $3 tip-over
+    switch, used by most competitors and without loss of performance, would have prevented the fire (R-TRT-083).
+  explanation_each_wrong_option:
+    A: >-
+      Overbroad. Safety standards set minimums; compliance is evidence, not a conclusive defense, absent preemption.
+    C: >-
+      Fact misread. Heaters being knocked over by people or pets is foreseeable, which is why tip-over switches exist;
+      only unforeseeable misuse is a defense (R-TRT-087).
+    D: >-
+      Overbroad. Strict products liability requires proof of a defect; the manufacturer's argument fails because
+      compliance does not preclude a finding of defect, not because liability follows from injury alone.
+  trap_type: overbroad
+  authority: ["Restatement (Third) of Torts: Products Liability § 4(b)"]
+  source: original
+  tags: [wave2, W2b-TRT, products-liability, design-defect, regulatory-compliance]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-TRT-0144
+  subject: TRT
+  coverage_ids: [TRT-MBE-III, TRT-CBX-VI]
+  rule_ids: [R-TRT-081, R-TRT-085]
+  difficulty: 3
+  stem: >-
+    A manufacturer made bicycle helmets that were reasonably designed and met all of its specifications when they left
+    its factory. A regional distributor then stored a shipment of them for six months in an unventilated metal
+    warehouse where summer temperatures exceeded 150 degrees Fahrenheit, conditions the manufacturer had no reason to
+    anticipate. The heat made the helmets' foam liners brittle in a way that could not be seen. The distributor sold
+    the helmets to a sporting-goods store, which sold one, still in its sealed box, to a cyclist. When she fell from
+    her bicycle in an ordinary fall, the brittle liner cracked and failed to cushion the impact, and she suffered a
+    skull fracture that a sound helmet would have prevented. She sues the manufacturer, the distributor and the store
+    in strict products liability.
+  call: "Against which defendants is she likely to prevail?"
+  options:
+    A: "The manufacturer, the distributor and the store, because each is a commercial seller in the chain of distribution."
+    B: "The distributor only, because it alone created the condition that made the helmet unsafe."
+    C: "The distributor and the store only, because the helmet was not defective when it left the manufacturer's control."
+    D: "The manufacturer and the distributor only, because a retailer that sells a product in its sealed package is not strictly liable."
+  answer: C
+  explanation_correct: >-
+    A commercial seller is strictly liable only if the product was defective when it left that seller's control
+    (R-TRT-081). The helmet was reasonably designed and sound when it left the manufacturer, and it became defective
+    through storage conditions the manufacturer had no reason to anticipate, so the manufacturer is not liable. The
+    helmet was defective when the distributor and the store each sold it. The store is liable even though it sold the
+    helmet in a sealed box and could not have found the defect (R-TRT-085); it may seek indemnity from the
+    distributor.
+  explanation_each_wrong_option:
+    A: >-
+      Overbroad. Membership in the chain of distribution is not enough; the product must have been defective when it
+      left the particular defendant's control.
+    B: >-
+      Strict liability does not depend on who created the defect. The store sold the helmet in a defective condition
+      and is liable for that reason.
+    D: >-
+      Under the general rule, a retailer is strictly liable even for a product sold in a sealed package it could not
+      inspect (R-TRT-085), and the manufacturer is not liable because the helmet was sound when it left the factory.
+  trap_type: overbroad
+  authority: ["Restatement (Second) of Torts § 402A", "Restatement (Third) of Torts: Products Liability § 1"]
+  source: original
+  tags: [wave2, W2b-TRT, products-liability, chain-of-distribution, defect-at-time-of-sale]
+  status: draft
+  last_verified: "2026-11-04"

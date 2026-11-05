@@ -1,0 +1,141 @@
+# Civil Procedure — NCBE category VI: Verdicts and judgments (wave 2, batch B, original items)
+questions:
+- id: Q-CIV-0144
+  subject: CIV
+  coverage_ids: [CIV-MBE-VI.B]
+  rule_ids: [R-CIV-091]
+  difficulty: 3
+  stem: >-
+    In a federal breach-of-contract action, the defendant's answer pleaded that the plaintiff had
+    released the claim, and at trial the defendant offered evidence of a signed release. The court
+    submitted the case on a special verdict form with written questions on contract formation, breach and
+    damages; it included no question on the release. Both parties reviewed the form before it went to the
+    jury, and neither objected or asked that the release issue be submitted. The jury answered that a
+    contract was formed and breached and that damages were $120,000, and it was then discharged. The
+    defendant now argues that the court cannot enter judgment for the plaintiff because the jury never
+    decided the release defense.
+  call: "Which of the following is correct?"
+  options:
+    A: "The defendant waived a jury finding on the release, and the court may make its own finding on that issue."
+    B: "The court must order a new trial, because a special verdict that omits an issue raised by the pleadings cannot support a judgment."
+    C: "The court must recall the jurors and have them answer an additional question on the release defense before entering judgment."
+    D: "The release defense is lost entirely, because an affirmative defense not submitted to the jury is deemed abandoned."
+  answer: A
+  explanation_correct: >-
+    When a court uses a special verdict, a party waives the right to a jury trial on any issue of fact
+    raised by the pleadings or evidence but not submitted to the jury unless, before the jury retires,
+    the party demands its submission (FRCP 49(a)(3); R-CIV-091). The defendant pleaded and offered
+    evidence of a release but did not demand that the issue be submitted, so it waived a jury finding.
+    The court may make a finding on the release itself; if it makes none, it is considered to have made a
+    finding consistent with its judgment on the special verdict. Trap: assuming an omitted issue voids
+    the verdict.
+  explanation_each_wrong_option:
+    B: >-
+      Rule 49(a)(3) supplies the remedy for an omitted issue (waiver of the jury on that issue and a
+      finding by the court), so no new trial is required.
+    C: >-
+      The jury has been discharged, and Rule 49(a)(3) assigns the omitted issue to the court, not to a
+      recalled jury.
+    D: >-
+      Overbroad. Only the right to a jury finding is waived; the court still decides the release issue and
+      could find for the defendant on it.
+  trap_type: procedural-posture
+  authority: ["FRCP 49(a)(1)", "FRCP 49(a)(3)"]
+  source: original
+  tags: [wave2, w2b, special-verdict, omitted-issue]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CIV-0145
+  subject: CIV
+  coverage_ids: [CIV-MBE-VI.C, CIV-MBE-III.A]
+  rule_ids: [R-CIV-093, R-CIV-042, R-CIV-086]
+  difficulty: 2
+  stem: >-
+    In a federal action by Ellison against her former business partner, the court made two rulings months
+    apart. First, after an evidentiary hearing, it denied Ellison's motion for a preliminary injunction in
+    a one-line order stating only "Motion denied." Later, it granted the partner's motion for summary
+    judgment on Ellison's fraud claim in a two-page order explaining that Ellison had offered no evidence
+    of reliance, without separately stating findings of fact. Ellison's lawyer argues that both orders
+    violate Rule 52 because neither contains findings of fact and conclusions of law.
+  call: "Is Ellison's lawyer correct?"
+  options:
+    A: "Yes as to both orders, because a court must find the facts specially and state conclusions of law whenever it decides a contested motion."
+    B: "Only as to the summary-judgment order, because an order that finally disposes of a claim must be supported by findings of fact."
+    C: "Only as to the injunction ruling, because Rule 52 requires findings for interlocutory-injunction rulings but not for summary judgments."
+    D: "No as to both orders, because findings of fact are required only after a trial on the merits conducted without a jury."
+  answer: C
+  explanation_correct: >-
+    Rule 52 requires the court to find the facts specially and state its conclusions of law separately
+    after a nonjury trial, and also in granting or refusing an interlocutory injunction (FRCP
+    52(a)(1)-(2); R-CIV-093). It expressly does not require findings or conclusions when ruling on a
+    motion under Rule 12 or Rule 56 (FRCP 52(a)(3)); a summary-judgment ruling decides that there is no
+    genuine dispute for a factfinder to resolve, although the court should state on the record its
+    reasons for granting or denying the motion (FRCP 56(a)). The bare denial of the preliminary injunction
+    therefore failed Rule 52(a)(2), but the summary-judgment order did not violate Rule 52. Trap:
+    assuming every significant ruling needs findings.
+  explanation_each_wrong_option:
+    A: >-
+      Overbroad. Rule 52(a)(3) excuses findings on Rule 12 and Rule 56 motions and, unless a rule
+      provides otherwise, on other motions.
+    B: >-
+      Backwards. Summary-judgment rulings are expressly exempt from the findings requirement (FRCP
+      52(a)(3)), while interlocutory-injunction rulings are expressly covered (FRCP 52(a)(2)).
+    D: >-
+      Rule 52(a)(2) separately requires findings when a court grants or refuses an interlocutory
+      injunction, even though no trial on the merits has occurred.
+  trap_type: overbroad
+  authority: ["FRCP 52(a)(1)-(3)", "FRCP 56(a)", "FRCP 65(a)"]
+  source: original
+  tags: [wave2, w2b, findings-and-conclusions, rule-52]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CIV-0146
+  subject: CIV
+  coverage_ids: [CIV-MBE-VI.D]
+  rule_ids: [R-CIV-097, R-CIV-095, R-CIV-094]
+  difficulty: 2
+  stem: >-
+    Ardis bought a fiberglass pool from Bluewater Pools Inc. under its standard written warranty and sued
+    Bluewater in federal court for breach of warranty when the pool's finish faded. After a trial, the
+    court held that the warranty's language does not cover fading and entered judgment for Bluewater.
+    Ardis's neighbor, Castell, who bought the same model under the identical warranty, then sued
+    Bluewater on the same warranty theory for her own pool, represented by the same lawyer and seeking the
+    same kind of relief. Castell did not participate in or control Ardis's suit, has no legal relationship
+    with Ardis, and is not suing at Ardis's direction or for Ardis's benefit. The first suit was not a
+    class action. Bluewater moves to dismiss on the ground that Castell is bound by the judgment against
+    Ardis because Ardis virtually represented her.
+  call: "How should the court rule on Bluewater's motion?"
+  options:
+    A: "Grant it, because Castell's interests were identical to Ardis's, and Ardis litigated them fully with the same counsel."
+    B: "Grant it, because issue preclusion bars relitigating the warranty's meaning, which was actually litigated and essential to the first judgment."
+    C: "Deny it, because Castell was not a party to the first action and fits none of the recognized exceptions to the rule against non-party preclusion."
+    D: "Deny it, because claim preclusion never applies when a second plaintiff seeks relief for a different item of property."
+  answer: C
+  explanation_correct: >-
+    A judgment generally binds only the parties. A non-party is bound only if she agreed to be bound; had
+    a pre-existing substantive legal relationship with a party; was adequately represented by a party
+    with the same interests in a class action or a suit by a fiduciary; assumed control of the prior
+    case; is relitigating through a proxy; or is bound by a special statutory scheme (R-CIV-097; Taylor
+    v. Sturgell). Castell fits none of these: she did not control Ardis's suit, has no legal relationship
+    with Ardis, is not acting as a proxy, and the first suit was not a class action. Taylor rejected
+    "virtual representation" based on aligned interests and shared counsel, and due process forbids
+    binding a non-party who was not adequately represented (Hansberry). Trap: binding a non-party because
+    her interests matched the loser's.
+  explanation_each_wrong_option:
+    A: >-
+      This is the virtual-representation theory that Taylor v. Sturgell rejected; identical interests and
+      the same lawyer do not bind a non-party.
+    B: >-
+      Issue preclusion may be asserted only against a party to the prior action or someone bound by its
+      judgment (R-CIV-095, R-CIV-097); Castell is neither.
+    D: >-
+      Wrong reason, and overstated. Neither claim nor issue preclusion can bind Castell because she was not
+      a party or otherwise bound; the identity of the property is not the test.
+  trap_type: minority-rule
+  authority: ["Taylor v. Sturgell, 553 U.S. 880 (2008)", "Hansberry v. Lee, 311 U.S. 32 (1940)"]
+  source: original
+  tags: [wave2, w2b, preclusion, non-party, virtual-representation]
+  status: draft
+  last_verified: 2026-11-04

@@ -1,0 +1,313 @@
+# Constitutional Law — NCBE category II: the separation of powers
+# Original MBE-style items (wave 2, batch b). Removal is tested only through Bowsher (congressional
+# removal), never through for-cause limits on the President (Trump v. Slaughter, V-034). No item relies on
+# Loper Bright, Trump v. United States or any other [VERIFY]-tagged decision.
+questions:
+- id: Q-CON-0110
+  subject: CON
+  coverage_ids: [CON-MBE-II.A.2]
+  rule_ids: [R-CON-025, R-CON-113]
+  difficulty: 2
+  stem: >-
+    During an armed conflict that Congress had authorized by joint resolution, Congress enacted a statute
+    requiring all men and women between 18 and 26 to register for possible military service and
+    authorizing the induction of registrants selected by lottery. A 19-year-old who was selected and
+    ordered to report for induction sued to enjoin the order. She argues that compulsory military service
+    is involuntary servitude prohibited by the Thirteenth Amendment and that Congress has no power to
+    compel anyone to serve in the armed forces.
+  call: "How should the court rule?"
+  options:
+    A: "For the 19-year-old, because the government may compel military service only after Congress has formally declared war."
+    B: "For the government, because the Thirteenth Amendment restricts only private persons and does not limit what the government may require."
+    C: "For the government, because the power to raise armies includes conscription, and military service is a civic duty, not involuntary servitude."
+    D: "For the 19-year-old, because compelled labor for the government is involuntary servitude unless it is imposed as punishment for a crime of which she was convicted."
+  answer: C
+  explanation_correct: >-
+    C is correct. Congress's powers to declare war and to raise and support armies, together with the
+    Necessary and Proper Clause, include the power to conscript (R-CON-025; Selective Draft Law Cases). The
+    Thirteenth Amendment's ban on involuntary servitude does not reach traditional civic duties owed to the
+    government, such as military service, jury service and certain public-works obligations (R-CON-113;
+    Butler v. Perry). The induction order is valid.
+  explanation_each_wrong_option:
+    A: >-
+      Wrong rule. The power to raise and support armies is not conditioned on a formal declaration of war
+      (R-CON-025); in any event, Congress itself authorized this conflict and enacted the draft.
+    B: >-
+      Right result, wrong reason. The Thirteenth Amendment applies to government as well as private
+      conduct (R-CON-113); conscription is valid because military service falls within the recognized
+      civic-duty exception, not because the Amendment ignores government action.
+    D: >-
+      Overbroad. Besides the criminal-punishment exception stated in its text, the Amendment has been held
+      not to reach traditional civic duties such as military service (R-CON-113; Selective Draft Law
+      Cases).
+  trap_type: right-result-wrong-reason
+  authority: ["U.S. Const. art. I, § 8, cls. 11–12, 18", "U.S. Const. amend. XIII, § 1", "Selective Draft Law Cases, 245 U.S. 366 (1918)", "Butler v. Perry, 240 U.S. 328 (1916)"]
+  source: original
+  tags: [wave2, w2b, war-powers, conscription]
+  status: draft
+  last_verified: 2026-11-05
+
+- id: Q-CON-0111
+  subject: CON
+  coverage_ids: [CON-MBE-II.A.4]
+  rule_ids: [R-CON-026, R-CON-114, R-CON-085]
+  difficulty: 2
+  stem: >-
+    A federal statute provides that a U.S. citizen "shall lose United States nationality" by accepting
+    employment in the civil service of a foreign government. A woman born in the United States accepted a
+    clerical job in a foreign government's tourism office while living abroad. She has stated under oath
+    that she never intended to give up her U.S. citizenship, and the government does not dispute that
+    statement. When she applied to renew her U.S. passport, the State Department denied the application on
+    the ground that she had lost her citizenship under the statute. She sues.
+  call: "Is the statute constitutional as applied to her?"
+  options:
+    A: "Yes, because Congress's powers over naturalization and foreign affairs include the power to set the conditions on which citizenship is kept."
+    B: "Yes, because Congress may treat a citizen's voluntary acceptance of foreign government employment as conclusive proof of intent to renounce."
+    C: "No, because the statute is a bill of attainder that punishes citizens who work for foreign governments without a judicial trial."
+    D: "No, because Congress may not take away a person's citizenship unless she voluntarily relinquishes it."
+  answer: D
+  explanation_correct: >-
+    D is correct. The Fourteenth Amendment makes persons born in the United States citizens, and Congress
+    has no power to take away citizenship without the citizen's assent; citizenship is lost only by
+    voluntary relinquishment (R-CON-026; R-CON-114; Afroyim v. Rusk). Even when a citizen voluntarily
+    performs an act that Congress has designated as expatriating, the government must prove that she
+    intended to give up her citizenship (Vance v. Terrazas). The government concedes she had no such
+    intent, so the statute cannot strip her of citizenship.
+  explanation_each_wrong_option:
+    A: >-
+      Overbroad. The naturalization power lets Congress set the terms on which aliens become citizens; it
+      does not let Congress take citizenship away from an unwilling citizen (R-CON-026; Afroyim).
+    B: >-
+      Confused rule. Congress may presume that an expatriating act was performed voluntarily, but it may
+      not make the act conclusive proof of an intent to relinquish citizenship; the government must prove
+      that intent (Vance v. Terrazas).
+    C: >-
+      Missing element. A bill of attainder singles out specified persons for punishment without trial
+      (R-CON-085); this general statute names no one. Its defect is that Congress lacks power to
+      expatriate an unwilling citizen.
+  trap_type: confused-rule
+  authority: ["U.S. Const. amend. XIV, § 1", "U.S. Const. art. I, § 8, cl. 4", "Afroyim v. Rusk, 387 U.S. 253 (1967)", "Vance v. Terrazas, 444 U.S. 252 (1980)"]
+  source: original
+  tags: [wave2, w2b, citizenship, naturalization-power]
+  status: draft
+  last_verified: 2026-11-05
+
+- id: Q-CON-0112
+  subject: CON
+  coverage_ids: [CON-MBE-II.B.2]
+  rule_ids: [R-CON-033, R-CON-031, R-CON-025]
+  difficulty: 1
+  stem: >-
+    A foreign country's navy has begun firing on U.S.-flagged merchant ships in international waters, and
+    the attacks are continuing. Congress, which is in session, has neither declared war nor authorized the
+    use of force. At the same time, a strike threatens to halt work at private shipyards that repair U.S.
+    Navy vessels; last month Congress voted down a bill that would have authorized the President to seize
+    such shipyards in an emergency. The President is considering several actions.
+  call: "Which of the following actions is within the President's constitutional power without further action by Congress?"
+  options:
+    A: "Declaring war on the foreign country, in the exercise of the President's power as commander in chief of the armed forces."
+    B: "Ordering naval forces to defend U.S.-flagged ships against the continuing attacks."
+    C: "Seizing and operating the struck shipyards so that repairs to Navy vessels stay on schedule."
+    D: "Ordering that a U.S. citizen arrested at home for overbilling the Navy be tried by a military commission, though the federal courts are open."
+  answer: B
+  explanation_correct: >-
+    B is correct. As commander in chief, the President may use the armed forces to repel sudden attacks
+    and, when another nation initiates hostilities, may resist force with force without waiting for
+    special legislative authority (R-CON-033; The Prize Cases). Defending U.S.-flagged ships against
+    attacks already under way is a defensive use of force. The War Powers Resolution imposes reporting and
+    time limits on such deployments, but it does not require advance authorization (R-CON-033).
+  explanation_each_wrong_option:
+    A: >-
+      Confused rule. Article I gives Congress, not the President, the power to declare war (R-CON-025;
+      R-CON-033).
+    C: >-
+      Wrong category. Congress has refused seizure authority, so the President acts at the lowest ebb of
+      his power, and the commander-in-chief power does not authorize the domestic seizure of private
+      property (R-CON-031; Youngstown).
+    D: >-
+      Confused rule. A civilian who is not an enemy belligerent may not be tried by a military commission
+      where the civilian courts are open and functioning (R-CON-025; Ex parte Milligan).
+  trap_type: confused-rule
+  authority: ["U.S. Const. art. II, § 2, cl. 1", "U.S. Const. art. I, § 8, cl. 11", "The Prize Cases, 67 U.S. (2 Black) 635 (1863)", "Youngstown Sheet & Tube Co. v. Sawyer, 343 U.S. 579 (1952)", "Ex parte Milligan, 71 U.S. (4 Wall.) 2 (1866)"]
+  source: original
+  tags: [wave2, w2b, commander-in-chief, war-powers]
+  status: draft
+  last_verified: 2026-11-05
+
+- id: Q-CON-0113
+  subject: CON
+  coverage_ids: [CON-MBE-II.B.3]
+  rule_ids: [R-CON-034, R-CON-031, R-CON-017]
+  difficulty: 3
+  stem: >-
+    After a civil war in a foreign country, a breakaway region declared itself an independent nation. The
+    President announced that the United States does not recognize the region as a separate country and
+    continues to recognize the original country's government as sovereign over it. Congress then enacted,
+    over the President's veto, a statute directing the Secretary of State, on request, to list the
+    breakaway region as the country of birth in the passport of any U.S. citizen born there. A citizen born
+    in the region requested that listing; the State Department, following the President's policy, listed
+    only the original country. The citizen sued to compel compliance with the statute.
+  call: "How should the court rule?"
+  options:
+    A: "Dismiss the suit, because whether a statute may control the contents of passports is a political question committed to the political branches."
+    B: "Order the listing, because Congress's power to regulate passports prevails over a contrary presidential policy when enacted over a veto."
+    C: "Order the listing, because when the President acts against the expressed will of Congress, presidential power is at its lowest ebb."
+    D: "Deny relief, because the power to recognize foreign sovereigns belongs exclusively to the President, and Congress may not override it."
+  answer: D
+  explanation_correct: >-
+    D is correct. The President has the exclusive power to recognize foreign nations and governments,
+    drawn from the power to receive ambassadors and related Article II powers, and Congress may not command
+    the Executive to issue official statements contradicting a recognition decision (R-CON-034; Zivotofsky
+    v. Kerry). Because the President acts against Congress's expressed will, Justice Jackson's third
+    Youngstown category applies, but presidential action is valid there when it rests on a power that is
+    exclusive to the President (R-CON-031). The statute is unconstitutional to the extent it requires the
+    passport listing.
+  explanation_each_wrong_option:
+    A: >-
+      Confused rule. Deciding whether a statute is constitutional is a familiar judicial task; the Court
+      has held that a claim to enforce a passport-designation statute does not present a political
+      question (R-CON-017; Zivotofsky v. Clinton).
+    B: >-
+      Overbroad. Passing a bill over a veto gives it the force of law, but no statute can intrude on a
+      power the Constitution assigns exclusively to the President (R-CON-031; R-CON-034).
+    C: >-
+      Missing element. The lowest-ebb category does not end the analysis: the President still prevails
+      when relying on a power that is exclusive and conclusive, such as recognition (R-CON-031; Zivotofsky
+      v. Kerry).
+  trap_type: missing-element
+  authority: ["U.S. Const. art. II, §§ 2–3", "Zivotofsky v. Kerry, 576 U.S. 1 (2015)", "Zivotofsky v. Clinton, 566 U.S. 189 (2012)", "Youngstown Sheet & Tube Co. v. Sawyer, 343 U.S. 579 (1952) (Jackson, J., concurring)"]
+  source: original
+  tags: [wave2, w2b, foreign-affairs, recognition-power, youngstown]
+  status: draft
+  last_verified: 2026-11-05
+
+- id: Q-CON-0114
+  subject: CON
+  coverage_ids: [CON-MBE-II.B.4]
+  rule_ids: [R-CON-035, R-CON-017]
+  difficulty: 2
+  stem: >-
+    The Senate, which was in session, adjourned on a Thursday for a holiday and reconvened the following
+    Tuesday, five days later. During the break, the President, citing the Recess Appointments Clause,
+    appointed a member of a federal commission that adjudicates mine-safety disputes; the position
+    otherwise requires Senate confirmation. With the new member casting the deciding vote, the commission
+    later ruled against a mining company, which petitioned for judicial review on the ground that the
+    appointment was invalid.
+  call: "Is the company's challenge likely to succeed?"
+  options:
+    A: "No, because the Recess Appointments Clause applies to any break in the Senate's business, however short."
+    B: "No, because the validity of an appointment is a question committed to the President and the Senate, not to the courts."
+    C: "Yes, because a Senate recess of fewer than ten days is presumptively too short to permit a recess appointment."
+    D: "Yes, because recess appointments may be made only during the break between formal sessions of the Senate, not within a session."
+  answer: C
+  explanation_correct: >-
+    C is correct. The Recess Appointments Clause lets the President fill vacancies "during the Recess of
+    the Senate," which includes both breaks between sessions and sufficiently long breaks within a session;
+    but a recess of more than three and fewer than ten days is presumptively too short to qualify
+    (R-CON-035; NLRB v. Noel Canning). The five-day holiday break is presumptively too short, and nothing in
+    the stem suggests an emergency that might overcome the presumption, so the appointment is invalid and a
+    ruling that depended on the member's deciding vote can be set aside.
+  explanation_each_wrong_option:
+    A: >-
+      Confused rule. A short break does not trigger the Clause; the Senate is in recess for this purpose
+      only during a break of substantial length, presumptively at least ten days (R-CON-035; Noel Canning).
+    B: >-
+      Confused rule. Courts decide whether appointments comply with the Appointments and Recess
+      Appointments Clauses; the challenge is justiciable (R-CON-017; Noel Canning).
+    D: >-
+      Rejected reading. Noel Canning held that the Clause covers intra-session recesses as well as
+      inter-session recesses, provided the recess is long enough (R-CON-035).
+  trap_type: minority-rule
+  authority: ["U.S. Const. art. II, § 2, cl. 3", "NLRB v. Noel Canning, 573 U.S. 513 (2014)"]
+  source: original
+  tags: [wave2, w2b, appointments, recess-appointments]
+  status: draft
+  last_verified: 2026-11-05
+
+- id: Q-CON-0115
+  subject: CON
+  coverage_ids: [CON-MBE-II.C.1, CON-MBE-II.B.4]
+  rule_ids: [R-CON-038, R-CON-036, R-CON-040]
+  difficulty: 2
+  stem: >-
+    To control deficits, Congress created the Office of Budget Enforcement, headed by a Director appointed
+    by the President with the Senate's advice and consent. When federal spending exceeds statutory targets,
+    the Director calculates, under a formula set out in the statute, how much each agency must cut, and the
+    President must order those cuts. The statute provides that the Director may be removed only by a
+    resolution adopted by majority vote of both Houses of Congress, for neglect of duty or misconduct, and
+    not by the President. A city whose federal grant was reduced under the Director's calculations sued to
+    invalidate the reduction.
+  call: "Is the city likely to prevail?"
+  options:
+    A: "Yes, because Congress may not keep for itself the power to remove an officer who executes the laws, except through impeachment."
+    B: "No, because Congress may remove any officer whose position it created by statute, so long as both Houses agree to the removal."
+    C: "No, because the Director was appointed by the President with the Senate's advice and consent, as the Appointments Clause requires."
+    D: "Yes, because Congress may not delegate to any executive officer the power to decide how much federal agencies may spend."
+  answer: A
+  explanation_correct: >-
+    A is correct. Once Congress makes its choices in legislation, it may control the execution of the laws
+    only indirectly, by passing new laws; it may not reserve for itself the power to remove an officer
+    charged with executing the laws, except by impeachment (R-CON-038; R-CON-036; Bowsher v. Synar).
+    Calculating and directing binding spending cuts under a statute is execution of the law, and the
+    removal provision makes the Director answerable to Congress. The reductions resting on the Director's
+    calculations cannot stand.
+  explanation_each_wrong_option:
+    B: >-
+      Confused rule. Congress's only role in removing executive officers is impeachment; creating an office
+      gives Congress no removal power over its occupant, and a two-House resolution never presented to the
+      President cannot have binding legal effect in any event (R-CON-038; INS v. Chadha).
+    C: >-
+      True but irrelevant. A valid appointment does not cure a removal provision that makes the officer
+      answerable to Congress while he executes the laws (R-CON-036; Bowsher).
+    D: >-
+      Overbroad. Congress may delegate the calculation of spending cuts to an executive officer if it
+      supplies an intelligible principle, and the statutory formula does so (R-CON-040). The defect is
+      congressional control over the officer, not delegation.
+  trap_type: true-but-irrelevant
+  authority: ["U.S. Const. art. II, §§ 1, 3", "Bowsher v. Synar, 478 U.S. 714 (1986)", "INS v. Chadha, 462 U.S. 919 (1983)", "Myers v. United States, 272 U.S. 52 (1926)"]
+  source: original
+  tags: [wave2, w2b, removal, congressional-control]
+  status: draft
+  last_verified: 2026-11-05
+
+- id: Q-CON-0116
+  subject: CON
+  coverage_ids: [CON-MBE-II.C.2]
+  rule_ids: [R-CON-039, R-CON-040, R-CON-032, R-CON-038]
+  difficulty: 1
+  stem: >-
+    Congress enacted a statute authorizing the President, within ten days after signing any appropriations
+    act, to cancel any individual spending item in it if the President determines that the cancellation
+    will reduce the federal deficit without impairing essential government functions. A canceled item has
+    no further legal force. After signing an appropriations act that included $40 million to dredge a
+    city's harbor, the President canceled that item. The city sued, challenging the cancellation.
+  call: "How should the court rule?"
+  options:
+    A: "For the President, because Congress supplied an intelligible principle to guide the President's cancellation decisions."
+    B: "For the city, because the statute lets the President repeal parts of enacted laws without bicameral passage and presentment."
+    C: "For the President, because the President has inherent power to decline to spend money that Congress has appropriated."
+    D: "For the city, because the statute is a legislative veto that lets Congress control executive decisions without presentment."
+  answer: B
+  explanation_correct: >-
+    B is correct. A law may be enacted, amended or repealed only by passage in both Houses and
+    presentment to the President, who may sign or veto the bill as a whole (R-CON-039). A statute letting
+    the President cancel individual items after signing gives him power to amend or repeal parts of duly
+    enacted statutes on his own, which is an unconstitutional line-item veto (Clinton v. City of New York).
+    The cancellation has no effect.
+  explanation_each_wrong_option:
+    A: >-
+      Wrong framework. The defect is not the breadth of the delegated discretion but that cancellation
+      changes enacted law outside the Article I, § 7 process, which an intelligible principle cannot cure
+      (R-CON-039; R-CON-040).
+    C: >-
+      Confused rule. The President may not refuse to spend funds that a statute requires to be spent
+      (R-CON-032; Train v. City of New York).
+    D: >-
+      Confused rule. A legislative veto lets Congress or one House override executive action without
+      presentment (R-CON-038); this statute instead expands the President's power over enacted law.
+  trap_type: wrong-standard
+  authority: ["U.S. Const. art. I, § 7, cl. 2", "Clinton v. City of New York, 524 U.S. 417 (1998)", "Train v. City of New York, 420 U.S. 35 (1975)", "INS v. Chadha, 462 U.S. 919 (1983)"]
+  source: original
+  tags: [wave2, w2b, presentment, line-item-veto]
+  status: draft
+  last_verified: 2026-11-05

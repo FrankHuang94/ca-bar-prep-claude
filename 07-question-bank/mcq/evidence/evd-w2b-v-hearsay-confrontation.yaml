@@ -1,0 +1,542 @@
+# Evidence MCQs — NCBE category V: hearsay, exclusions, exceptions and the Confrontation Clause
+# (Wave 2, batch B). FRE only (as amended through Dec. 1, 2024). All items original.
+# No item turns on amended FRE 801(d)(1)(A) (prior inconsistent statements as substantive evidence, V-028).
+questions:
+- id: Q-EVD-0139
+  subject: EVD
+  coverage_ids: [EVD-MBE-V.A.1]
+  rule_ids: [R-EVD-084, R-EVD-083, R-EVD-088]
+  difficulty: 1
+  stem: >-
+    A homeowner sues a contractor in federal court, alleging that the contractor breached an oral
+    agreement to remodel her kitchen for $40,000. The contractor denies that any agreement was made. The
+    homeowner calls her neighbor, who testifies that she was present in the homeowner's kitchen when the
+    contractor said, "I'll do the whole kitchen for $40,000, finished by June 1," and the homeowner
+    replied, "It's a deal." The contractor does not object to the testimony about his own words but
+    objects on hearsay grounds to the testimony about the homeowner's reply.
+  call: Should the court admit the testimony about the homeowner's reply?
+  options:
+    A: "No, because it is the homeowner's own out-of-court statement, which she is offering to support her own claim against the contractor."
+    B: "Yes, because a statement made by a party to the action is not hearsay, whichever side offers it."
+    C: "Yes, because the reply is offered as words of acceptance with legal effect, not for the truth of an assertion."
+    D: "No, because the homeowner is available and could testify herself about what she said to the contractor."
+  answer: C
+  explanation_correct: >-
+    Non-hearsay, legally operative words (R-EVD-084, R-EVD-083; FRE 801(c)): hearsay is an out-of-court
+    statement offered to prove the truth of the matter asserted. Words of offer and acceptance are verbal
+    acts: the law attaches consequences to the fact that they were spoken, whatever the speaker believed.
+    The homeowner offers "It's a deal" to prove that an acceptance occurred and a contract was formed, not
+    to prove the truth of any assertion, so it is not hearsay. The neighbor heard the words herself.
+  explanation_each_wrong_option:
+    A: >-
+      Who offers a statement matters for the party-opponent rule, but a party's own words are admissible
+      on her behalf when they are not offered for their truth.
+    B: >-
+      Wrong reason. FRE 801(d)(2) covers a party's statement only when it is offered against that party
+      (R-EVD-088); the homeowner is offering her own words.
+    D: >-
+      Whether a statement is hearsay does not depend on the declarant's availability, and a witness who
+      heard legally operative words may testify to them.
+  trap_type: confused-rule
+  authority: ["FRE 801(c)", "FRE 801(d)(2)"]
+  source: original
+  tags: [wave2, W2b-EVD, hearsay, verbal-acts]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-EVD-0140
+  subject: EVD
+  coverage_ids: [EVD-MBE-V.A.3]
+  rule_ids: [R-EVD-088, R-EVD-009, R-EVD-104]
+  difficulty: 2
+  stem: >-
+    A hiker sues a dog owner in federal court, alleging that the owner's dog bit her on a public trail. The
+    owner was not on the trail; his dog walker had taken the dog out. That evening, the owner telephoned
+    the hiker's husband and said, "My dog got loose from the walker and bit your wife. It went right for
+    her." The owner's only information about the incident came from what the dog walker had told him. At
+    trial, the hiker calls her husband to testify to the owner's statement. The owner objects.
+  call: Should the court admit the husband's testimony?
+  options:
+    A: "No, because the owner had no personal knowledge of the incident he described."
+    B: "Yes, because a party's own statement offered against him is admissible even if he lacked personal knowledge."
+    C: "No, because the owner was merely repeating the dog walker's account, so it is multiple hearsay."
+    D: "Yes, because the statement exposed the owner to civil liability, so it was against his interest when made."
+  answer: B
+  explanation_correct: >-
+    Opposing party's statement (R-EVD-088; FRE 801(d)(2)(A)): a statement offered against a party and made
+    by the party in an individual capacity is not hearsay. It need not be based on personal knowledge and
+    need not have been against interest when made; the party's own words are attributed to him, and he
+    can explain them. The owner asserted, as fact, that his dog got loose and bit the hiker, so the
+    statement is admissible against him even though he learned the facts from the dog walker.
+  explanation_each_wrong_option:
+    A: >-
+      Adds a requirement that does not apply. The advisory committee's note to FRE 801(d)(2) frees party
+      statements from the firsthand-knowledge rule (compare FRE 602; R-EVD-009).
+    C: >-
+      The owner asserted the facts as his own, so his statement is admissible against him as his own
+      statement, whatever his source of information.
+    D: >-
+      Right result, wrong reason. The against-interest exception of FRE 804(b)(3) (R-EVD-104) requires an
+      unavailable declarant, and the owner is a party in court; a party's own statement need not be
+      against interest.
+  trap_type: wrong-standard
+  authority: ["FRE 801(d)(2)(A)", "FRE 602", "FRE 804(b)(3)"]
+  source: original
+  tags: [wave2, W2b-EVD, hearsay, party-opponent, personal-knowledge]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-EVD-0141
+  subject: EVD
+  coverage_ids: [EVD-MBE-V.A.4, EVD-MBE-V.G]
+  rule_ids: [R-EVD-092, R-EVD-100, R-EVD-088, R-EVD-050]
+  difficulty: 3
+  stem: >-
+    A pedestrian was struck by a bundle of roofing shingles that fell from a house where a roofing crew
+    was working. A city building-safety inspector, who was required by ordinance to investigate any
+    incident in which construction materials fall onto a public sidewalk and to file a written report,
+    visited the site that afternoon. The inspector's official report states: "The roofing contractor,
+    Pike, stated to me at the site, 'My crew stacked the bundles at the roof edge without tying them
+    down.'" The pedestrian sues Pike in federal court for negligence and offers a certified copy of the
+    report to prove that Pike made the statement and that the bundles were not tied down. Pike objects on
+    hearsay grounds and offers no evidence that the report is untrustworthy. The inspector is available
+    but is not called.
+  call: Should the court admit the portion of the report recording Pike's statement?
+  options:
+    A: "No, because an investigator's report is inadmissible hearsay when it is offered to prove the facts it records."
+    B: "No, because Pike's statement is hearsay within hearsay, and one exception cannot cover both layers."
+    C: "Yes, because a public record is admissible in full, including any statement made to the inspector by a person she interviewed."
+    D: "Yes, because each layer qualifies: a public record of what the inspector observed, and an opposing party's statement."
+  answer: D
+  explanation_correct: >-
+    Multiple hearsay (R-EVD-092; FRE 805): hearsay within hearsay is admissible if each part fits an
+    exclusion or exception. Layer 1 is the report, the inspector's written statement that Pike said these
+    words. A public office's record of a matter observed while under a legal duty to report is admissible
+    unless the opponent shows a lack of trustworthiness (FRE 803(8)(A)(ii), (B); R-EVD-100); the inspector
+    heard the statement herself, and Pike has shown nothing to the contrary. Layer 2 is Pike's own
+    statement, which, offered against him by the opposing party, is not hearsay (FRE 801(d)(2)(A);
+    R-EVD-088). Both layers are satisfied, and the certified copy is self-authenticating (FRE 902(4);
+    R-EVD-050).
+  explanation_each_wrong_option:
+    A: >-
+      Overbroad. A public office's record of matters observed under a legal duty to report is admissible
+      under FRE 803(8)(A)(ii) unless the opponent shows untrustworthiness; the rule's exclusion of matters
+      observed by law-enforcement personnel applies only in criminal cases, and this is a civil case.
+    B: >-
+      FRE 805 admits multiple hearsay when each layer satisfies its own exclusion or exception, and here
+      each layer does.
+    C: >-
+      Right result, wrong reason. The public-records exception covers only the inspector's own layer; a
+      statement by someone she interviewed needs its own exclusion or exception (a bystander's account,
+      for example, would not come in merely because it appears in the report).
+  trap_type: right-result-wrong-reason
+  authority: ["FRE 805", "FRE 803(8)", "FRE 801(d)(2)(A)", "FRE 902(4)"]
+  source: original
+  tags: [wave2, W2b-EVD, hearsay, multiple-hearsay, public-records]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-EVD-0142
+  subject: EVD
+  coverage_ids: [EVD-MBE-V.B]
+  rule_ids: [R-EVD-094, R-EVD-093, R-EVD-088]
+  difficulty: 2
+  stem: >-
+    A shopper sues a home-improvement store in federal court, alleging that a stack of lumber fell on her
+    because it was improperly secured. About ten minutes after the lumber fell, a store employee reached
+    the aisle and asked her, "What happened?" The shopper, still crying, shaking, and holding her bleeding
+    forearm, answered, "The whole stack just slid off the shelf when I touched it. Nothing was holding
+    it!" At trial, the shopper calls the employee to repeat her answer. The store objects on hearsay
+    grounds.
+  call: Should the court admit the employee's testimony about the shopper's answer?
+  options:
+    A: "No, because a statement made in response to a question is a narrative, not a spontaneous statement."
+    B: "Yes, because the shopper made the statement while still under the stress of excitement caused by the startling event."
+    C: "Yes, because the statement described an event the shopper had just perceived and was made immediately after she perceived it."
+    D: "No, because a party's own out-of-court statement is admissible only when an opposing party offers it against her."
+  answer: B
+  explanation_correct: >-
+    Excited utterance (R-EVD-094; FRE 803(2)): a statement relating to a startling event or condition,
+    made while the declarant was under the stress of excitement that it caused, is admissible regardless
+    of the declarant's availability. Being struck by falling lumber is startling; ten minutes later the
+    shopper was still crying, shaking, and bleeding; and her words relate to the event. That she was
+    answering a simple question does not by itself show reflection; the question is one factor, along
+    with the time elapsed and the declarant's condition.
+  explanation_each_wrong_option:
+    A: >-
+      Overbroad. A response to a question can still be an excited utterance if the declarant remained under
+      the stress of the event; the questioning is a factor, not a bar.
+    C: >-
+      The present sense impression exception (FRE 803(1); R-EVD-093) requires a statement made while or
+      immediately after the declarant perceived the event, which tolerates only a very brief interval; a
+      ten-minute lapse is likely too long. The excited-utterance exception does the work here.
+    D: >-
+      Party statements are excluded from hearsay only when offered against the party (R-EVD-088), but a
+      party may offer her own statement if it fits a hearsay exception, and this one does.
+  trap_type: overbroad
+  authority: ["FRE 803(2)", "FRE 803(1)", "FRE 801(d)(2)"]
+  source: original
+  tags: [wave2, W2b-EVD, hearsay, excited-utterance]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-EVD-0143
+  subject: EVD
+  coverage_ids: [EVD-MBE-V.C]
+  rule_ids: [R-EVD-095]
+  difficulty: 3
+  stem: >-
+    In a will contest governed by the Federal Rules of Evidence, the proponent offers the decedent's
+    signed 2019 will. The contestants claim that the decedent revoked the will by tearing it up; the
+    original cannot be found, and the parties agree on its terms. To prove revocation, the contestants
+    call the decedent's friend, who will testify that in 2023 the decedent told her, "Last year I tore up
+    my 2019 will and threw it away." The proponent objects on hearsay grounds.
+  call: Is the friend's testimony admissible to prove that the decedent revoked the will?
+  options:
+    A: "No, because a statement of memory or belief is not admissible to prove the fact remembered or believed."
+    B: "No, because statements about a will are admissible only to show the declarant's then-existing intent to make or revoke it."
+    C: "Yes, because a statement of memory about the validity of the declarant's own will is admissible to prove the fact remembered."
+    D: "Yes, because a deceased person's statements are admissible in any proceeding concerning the distribution of his estate."
+  answer: C
+  explanation_correct: >-
+    State of mind and wills (R-EVD-095; FRE 803(3)): the exception for a declarant's then-existing state
+    of mind does not include "a statement of memory or belief to prove the fact remembered or believed
+    unless it relates to the validity or terms of the declarant's will." The decedent's statement that he
+    tore up the will is a statement of memory offered to prove the act remembered, but because it relates
+    to the validity of his own will (its revocation), the will proviso admits it. Whether the friend is
+    believed is for the factfinder.
+  explanation_each_wrong_option:
+    A: >-
+      Exception trap. That is the general rule (Shepard v. United States), but FRE 803(3) makes an express
+      exception for statements that relate to the validity or terms of the declarant's will.
+    B: >-
+      Too narrow. Then-existing intent is admissible under the general rule; the will proviso goes further
+      and admits backward-looking statements of memory about the declarant's will.
+    D: >-
+      The FRE contain no general exception for a decedent's statements in estate proceedings; this
+      statement is admissible only because it fits the will proviso of FRE 803(3).
+  trap_type: exception-trap
+  authority: ["FRE 803(3)", "Shepard v. United States, 290 U.S. 96 (1933)"]
+  source: original
+  tags: [wave2, W2b-EVD, hearsay, state-of-mind, wills]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-EVD-0144
+  subject: EVD
+  coverage_ids: [EVD-MBE-V.D]
+  rule_ids: [R-EVD-097, R-EVD-088, R-EVD-095]
+  difficulty: 3
+  stem: >-
+    A passenger injured in a car accident sues the other driver in federal court. On her lawyer's
+    referral, she saw a neurologist solely so that he could evaluate her and testify at trial; he did not
+    treat her. During the examination she told him, "Since the crash, I've had shooting pains down my left
+    leg whenever I sit for more than ten minutes." At trial, the passenger offers the neurologist's
+    testimony repeating her statement, to prove that she has suffered those pains. The driver objects on
+    hearsay grounds.
+  call: Should the court admit the neurologist's testimony about the statement?
+  options:
+    A: "Yes, because the exception for statements made for medical diagnosis covers a diagnosis sought only for litigation."
+    B: "No, because the statement was made to a physician consulted for litigation rather than for treatment."
+    C: "No, because a description of symptoms experienced in the past is not admissible under any hearsay exception."
+    D: "Yes, because a statement made by a party to the action is not hearsay, whichever side offers it."
+  answer: A
+  explanation_correct: >-
+    Medical diagnosis or treatment (R-EVD-097; FRE 803(4)): a statement made for, and reasonably pertinent
+    to, medical diagnosis or treatment that describes medical history, past or present symptoms or
+    sensations, their inception, or their general cause is admissible. The rule covers diagnosis as well
+    as treatment, and its advisory committee's note explains that it rejects the common-law limitation
+    that excluded statements to a physician consulted only to enable him to testify. The passenger's
+    description of her leg pain since the crash was made for the neurologist's diagnosis and is pertinent
+    to it.
+  explanation_each_wrong_option:
+    B: >-
+      This was the common-law limitation that FRE 803(4) deliberately rejected; a diagnosis made for
+      litigation is still a diagnosis.
+    C: >-
+      Wrong. FRE 803(4) expressly includes past symptoms and their inception, and FRE 803(3) (R-EVD-095)
+      separately covers a statement of then-existing pain.
+    D: >-
+      Party statements are excluded from hearsay only when offered against the party (FRE 801(d)(2);
+      R-EVD-088); the passenger is offering her own statement, so it needs an exception.
+  trap_type: minority-rule
+  authority: ["FRE 803(4)", "FRE 803(4) advisory committee's note", "FRE 801(d)(2)"]
+  source: original
+  tags: [wave2, W2b-EVD, hearsay, medical-diagnosis]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-EVD-0145
+  subject: EVD
+  coverage_ids: [EVD-MBE-V.E]
+  rule_ids: [R-EVD-098, R-EVD-012, R-EVD-100, R-EVD-110]
+  difficulty: 2
+  stem: >-
+    A defendant is prosecuted in federal court for robbing a gas station. The station's cashier testifies that she saw the getaway car and that, about ten minutes after the
+    robbery, she told a police officer its license-plate number. The officer wrote the number in his
+    notebook and read it back to her, and she said, "Yes, that's exactly right." At trial, even after
+    looking at the notebook, the cashier cannot recall the number. She testifies that the number she gave
+    was correct and that she confirmed the officer's entry when he read it back. The officer testifies that
+    he wrote down exactly what she said. The prosecution asks to read the notebook entry to the jury. The
+    defendant objects.
+  call: Should the court allow the entry to be read to the jury?
+  options:
+    A: "No, because a record of past recollection is admissible only if the witness herself wrote it down at the time."
+    B: "No, because the notebook may be used only to try to refresh the cashier's memory, not as evidence."
+    C: "Yes, because the cashier adopted the entry while the matter was fresh, and it accurately reflects her knowledge."
+    D: "Yes, because a police officer's notes made in the course of an investigation are admissible as a public record."
+  answer: C
+  explanation_correct: >-
+    Recorded recollection (R-EVD-098; FRE 803(5)): a record is admissible if it concerns a matter the
+    witness once knew but now cannot recall well enough to testify fully and accurately, was made or
+    adopted by the witness when the matter was fresh in her memory, and accurately reflects her knowledge.
+    The cashier adopted the officer's entry about ten minutes after the robbery by confirming it when he
+    read it back, she vouches that the number she gave was correct, and the officer confirms he recorded
+    it accurately. Refreshing failed, so the entry may be read into evidence; it may be received as an
+    exhibit only if the defendant offers it. Because the cashier testifies and is cross-examined, the
+    Confrontation Clause is no obstacle (R-EVD-110).
+  explanation_each_wrong_option:
+    A: >-
+      Too narrow. FRE 803(5) covers a record "made or adopted" by the witness; a record made by another
+      person and adopted by the witness while the matter was fresh qualifies.
+    B: >-
+      Refreshing (FRE 612; R-EVD-012) was tried and failed. When memory cannot be revived, the proper route
+      is recorded recollection, under which the record itself is evidence and is read to the jury.
+    D: >-
+      In a criminal case, FRE 803(8)(A)(ii) excludes matters observed by law-enforcement personnel
+      (R-EVD-100), and the entry records the cashier's statement, which needs its own basis for admission.
+  trap_type: confused-rule
+  authority: ["FRE 803(5)", "FRE 612", "FRE 803(8)(A)(ii)"]
+  source: original
+  tags: [wave2, W2b-EVD, hearsay, recorded-recollection]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-EVD-0146
+  subject: EVD
+  coverage_ids: [EVD-MBE-V.F]
+  rule_ids: [R-EVD-099]
+  difficulty: 2
+  stem: >-
+    A trucking company sues a fuel supplier in federal court, alleging that the supplier failed to make a
+    scheduled fuel delivery to the company's yard on May 2. The supplier claims that it made the delivery.
+    The company's security manager testifies that guards at the yard's only gate are required to log
+    every vehicle that enters, at the time it enters, in a gate log that the company keeps as a regular
+    practice. The company offers the gate log for May 2, which contains no entry for a fuel truck, to prove
+    that no delivery was made. The supplier objects on hearsay grounds. The guards who were on duty that
+    day are available to testify.
+  call: Should the court admit the gate log for that purpose?
+  options:
+    A: "No, because the absence of an entry is not a record of an event, so no business-records exception applies."
+    B: "No, because a party may not use its own business records to prove a fact in its own favor."
+    C: "Yes, because the absence of an entry in a regularly kept record may be used to prove that the event did not occur."
+    D: "Yes, because the guards who made the log are available to testify, so the hearsay rule does not apply."
+  answer: C
+  explanation_correct: >-
+    Absence of a business record (R-EVD-099; FRE 803(7)): evidence that a matter is not included in a
+    record kept as described in FRE 803(6) is admissible to prove that the matter did not occur or exist,
+    if a record was regularly kept for a matter of that kind and the opponent does not show that the
+    possible source of the information or other circumstances indicate a lack of trustworthiness. The
+    guards must log every entering vehicle at the time it enters, and the company keeps the log as a
+    regular practice, so the absence of a fuel-truck entry tends to show that no delivery occurred.
+  explanation_each_wrong_option:
+    A: >-
+      FRE 803(7) addresses exactly this situation; it admits the absence of an entry in a regularly kept
+      record to prove that the matter did not occur.
+    B: >-
+      No such rule exists. A business's own records are admissible on its behalf if they meet FRE 803(6)
+      or, for the absence of an entry, FRE 803(7); self-interest bears on trustworthiness and weight.
+    D: >-
+      True but irrelevant. The guards' availability does not make the log non-hearsay; FRE 803 exceptions
+      apply whether or not the declarant is available, and admission rests on the record-keeping
+      foundation.
+  trap_type: true-but-irrelevant
+  authority: ["FRE 803(7)", "FRE 803(6)"]
+  source: original
+  tags: [wave2, W2b-EVD, hearsay, business-records, absence-of-record]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-EVD-0147
+  subject: EVD
+  coverage_ids: [EVD-MBE-V.H]
+  rule_ids: [R-EVD-101, R-EVD-014]
+  difficulty: 1
+  stem: >-
+    A homeowner sues the manufacturer of a space heater in federal court, alleging that a design defect
+    caused the heater to overheat and start a fire. During the homeowner's case, with no witness on the
+    stand, her counsel asks to read to the jury a passage from a widely used engineering handbook stating
+    that heaters of the defendant's design tend to overheat when operated on carpet. At the homeowner's
+    request, the court has taken judicial notice that the handbook is a reliable authority. The homeowner
+    does not intend to call any expert witness. The manufacturer objects.
+  call: Should the court allow the passage to be read to the jury?
+  options:
+    A: "Yes, because the handbook has been established as a reliable authority by judicial notice."
+    B: "No, because a learned treatise may be read into evidence only in connection with an expert's testimony."
+    C: "Yes, because a reliable publication may be read to the jury and also received as an exhibit."
+    D: "No, because statements in a learned treatise may be used only to impeach an expert, not as substantive evidence."
+  answer: B
+  explanation_correct: >-
+    Learned treatises (R-EVD-101; FRE 803(18)): a statement in a treatise, periodical, or pamphlet is
+    admissible for its truth if (A) it is called to the attention of an expert witness on
+    cross-examination or relied on by the expert on direct examination, and (B) the publication is
+    established as a reliable authority by the expert's admission or testimony, by another expert's
+    testimony, or by judicial notice. Judicial notice satisfies only the reliability requirement; the rule
+    still requires an expert on the stand to explain or be confronted with the passage. With no expert,
+    the passage may not be read. Even when admitted, such a statement may be read into evidence but not
+    received as an exhibit.
+  explanation_each_wrong_option:
+    A: >-
+      Missing element. Reliability is only half of FRE 803(18); the statement must also be used in
+      connection with an expert's testimony.
+    C: >-
+      Wrong on both counts here: no expert is involved, and even a properly admitted statement "may be read
+      into evidence but not received as an exhibit."
+    D: >-
+      That is the common-law approach, which California retains (Evid. Code § 721(b)); under FRE 803(18) a
+      properly used treatise statement is substantive evidence.
+  trap_type: missing-element
+  authority: ["FRE 803(18)"]
+  source: original
+  tags: [wave2, W2b-EVD, hearsay, learned-treatise]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-EVD-0148
+  subject: EVD
+  coverage_ids: [EVD-MBE-V.I, EVD-MBE-V.L]
+  rule_ids: [R-EVD-103, R-EVD-102, R-EVD-110]
+  difficulty: 3
+  stem: >-
+    A cyclist sued a landscaping company in federal court, claiming that one of its truck drivers
+    negligently struck him at an intersection on a military base. The driver was not a party to that suit.
+    At the civil trial, an eyewitness testified for the cyclist that the driver ran a red light while
+    texting, and the company's lawyer cross-examined her at length to show that the light was green. That
+    case settled. The government later prosecuted the driver in federal court for a crime arising from the
+    collision. Before the criminal trial, the eyewitness died. The government offers the transcript of her
+    civil-trial testimony against the driver, arguing that the company had the same motive as the driver
+    to show that the light was green.
+  call: Should the court admit the transcript?
+  options:
+    A: "Yes, because the company, as the driver's employer, had an opportunity and a similar motive to cross-examine the eyewitness about the light."
+    B: "Yes, because the testimony was given under oath at an earlier trial, subject to cross-examination, and the eyewitness is now unavailable."
+    C: "No, because in a criminal case the driver himself must have had an opportunity and similar motive to examine her."
+    D: "No, because former testimony is admissible only in a later trial of the same case between the same parties."
+  answer: C
+  explanation_correct: >-
+    Former testimony (R-EVD-103, R-EVD-102; FRE 804(a)(4), 804(b)(1)): testimony given at a trial, hearing,
+    or lawful deposition, in the current proceeding or a different one, is admissible if the declarant is
+    unavailable and it is offered against a party who had, or in a civil case whose predecessor in
+    interest had, an opportunity and similar motive to develop it. The predecessor-in-interest alternative
+    is limited to civil cases. This is a criminal case, and the driver himself was not a party to the civil
+    suit and had no chance to examine the eyewitness, so the exception fails. The Confrontation Clause
+    independently bars this testimonial statement, because the driver never had an opportunity to
+    cross-examine her (Crawford v. Washington; R-EVD-110).
+  explanation_each_wrong_option:
+    A: >-
+      Exception trap. The company's opportunity and motive could matter only under the
+      predecessor-in-interest clause, which FRE 804(b)(1)(B) limits to civil cases.
+    B: >-
+      Missing element. Oath, cross-examination by someone, and unavailability are not enough; the party
+      against whom the testimony is now offered must have had the opportunity and similar motive to
+      examine the witness.
+    D: >-
+      Too narrow. FRE 804(b)(1)(A) expressly allows testimony given in a different proceeding, as long as
+      the party against whom it is offered (or, in a civil case, its predecessor in interest) had the
+      required opportunity and motive.
+  trap_type: exception-trap
+  authority: ["FRE 804(a)(4)", "FRE 804(b)(1)", "U.S. Const. amend. VI", "Crawford v. Washington, 541 U.S. 36 (2004)"]
+  source: original
+  tags: [wave2, W2b-EVD, hearsay, former-testimony, confrontation]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-EVD-0149
+  subject: EVD
+  coverage_ids: [EVD-MBE-V.J]
+  rule_ids: [R-EVD-104, R-EVD-102, R-EVD-095]
+  difficulty: 2
+  stem: >-
+    A lender sues a guarantor in federal court to enforce her written guarantee of a borrower's $80,000
+    loan. The guarantor contends that the lender never actually disbursed the loan to the borrower. The
+    borrower has since died. The lender offers a letter, which the parties agree the borrower wrote and
+    signed, sent to his brother a month before his death, stating: "The lender wired me the $80,000 last
+    week, and I still owe every penny of it." The guarantor objects on hearsay grounds.
+  call: Should the court admit the letter?
+  options:
+    A: "Yes, because the borrower is unavailable and the statement was against his pecuniary interest when made."
+    B: "No, because no corroborating circumstances clearly indicate that the statement is trustworthy."
+    C: "No, because the borrower is not a party to this action, and his statement fits no hearsay exception."
+    D: "Yes, because the letter states the borrower's then-existing belief that he owed the full amount."
+  answer: A
+  explanation_correct: >-
+    Statement against interest (R-EVD-104, R-EVD-102; FRE 804(a)(4), 804(b)(3)): a statement by an
+    unavailable declarant is admissible if, when made, it was so contrary to the declarant's pecuniary or
+    proprietary interest, or had so great a tendency to expose him to civil liability, that a reasonable
+    person in his position would have made it only if he believed it to be true. Death makes the borrower
+    unavailable. Acknowledging that he had received $80,000 and owed all of it was contrary to his
+    financial interest when he wrote it, so the letter is admissible to prove the disbursement.
+  explanation_each_wrong_option:
+    B: >-
+      Wrong standard. The corroboration requirement of FRE 804(b)(3)(B) applies only when the statement is
+      offered in a criminal case as one that tends to expose the declarant to criminal liability.
+    C: >-
+      The against-interest exception is designed for non-party declarants; the borrower's non-party status
+      is no obstacle once he is unavailable.
+    D: >-
+      FRE 803(3) (R-EVD-095) excludes a statement of memory or belief offered to prove the fact remembered
+      or believed; the borrower's belief that he owed the money cannot prove the disbursement under that
+      exception.
+  trap_type: wrong-standard
+  authority: ["FRE 804(a)(4)", "FRE 804(b)(3)", "FRE 803(3)"]
+  source: original
+  tags: [wave2, W2b-EVD, hearsay, statement-against-interest]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-EVD-0150
+  subject: EVD
+  coverage_ids: [EVD-MBE-V.L, EVD-MBE-V.B]
+  rule_ids: [R-EVD-110, R-EVD-111, R-EVD-094, R-EVD-093]
+  difficulty: 2
+  stem: >-
+    A defendant is prosecuted in federal court for assault with a dangerous weapon in an apartment on a
+    military base. The prosecution offers a recording of a 911 call in which the victim, whispering and
+    crying, told the dispatcher: "He's trying to break down the bathroom door. He has a knife. It's my
+    boyfriend, Cal Reyes. Please hurry!" Officers arrived four minutes later and arrested the defendant in
+    the hallway. The victim has since moved abroad, cannot be located, and does not testify, and the
+    defendant never had an opportunity to cross-examine her. The defendant objects under the Confrontation
+    Clause.
+  call: Should the court admit the recording over the Confrontation Clause objection?
+  options:
+    A: "No, because statements to a 911 dispatcher, who acts for the police, that identify the perpetrator of a crime are testimonial."
+    B: "No, because the defendant never had an opportunity to cross-examine the victim about her statements."
+    C: "Yes, because an excited utterance falls within a firmly rooted hearsay exception and so is reliable enough to satisfy the Clause."
+    D: "Yes, because the victim's statements were made to enable police to meet an ongoing emergency, so they are not testimonial."
+  answer: D
+  explanation_correct: >-
+    Confrontation (R-EVD-110, R-EVD-111): the Confrontation Clause bars only testimonial statements of a
+    declarant who does not testify, unless she is unavailable and the defendant had a prior opportunity to
+    cross-examine her (Crawford v. Washington). Statements are nontestimonial when, viewed objectively,
+    their primary purpose is to enable police to meet an ongoing emergency (Davis v. Washington). The
+    victim was describing an armed attack as it was happening and asking for help, and identifying the
+    attacker helped the responding officers assess the danger. Her statements are nontestimonial, so the
+    Clause does not bar them. As a hearsay matter, they qualify as an excited utterance or a present sense
+    impression (FRE 803(1), (2); R-EVD-093, R-EVD-094).
+  explanation_each_wrong_option:
+    A: >-
+      Overbroad. A 911 dispatcher may be treated as acting for the police, but a caller's statements are
+      testimonial only if their primary purpose is to establish past events for later prosecution;
+      describing an ongoing attack to get help is not.
+    B: >-
+      True but irrelevant. The lack of a prior opportunity to cross-examine matters only for testimonial
+      statements.
+    C: >-
+      Wrong standard. The "firmly rooted exception" reliability test of Ohio v. Roberts was rejected in
+      Crawford; the question now is whether the statement is testimonial.
+  trap_type: overbroad
+  authority: ["U.S. Const. amend. VI", "Crawford v. Washington, 541 U.S. 36 (2004)", "Davis v. Washington, 547 U.S. 813 (2006)", "FRE 803(1)", "FRE 803(2)"]
+  source: original
+  tags: [wave2, W2b-EVD, confrontation, testimonial, ongoing-emergency]
+  status: draft
+  last_verified: "2026-11-04"

@@ -1,0 +1,178 @@
+# Civil Procedure — NCBE category IV: Jury trials (wave 2, batch B, original items)
+questions:
+- id: Q-CIV-0131
+  subject: CIV
+  coverage_ids: [CIV-MBE-IV.A]
+  rule_ids: [R-CIV-080, R-CIV-078]
+  difficulty: 2
+  stem: >-
+    Tolliver sued Dunn Logistics Inc. in federal court for $400,000 in damages for breach of contract.
+    Tolliver's complaint included a proper demand for a jury trial on all issues, which she timely served
+    and filed. Dunn Logistics answered but made no jury demand of its own. A month before trial, Tolliver
+    decided that a judge would be more sympathetic to her case and filed a notice withdrawing her jury
+    demand. Dunn Logistics objected and insisted on a jury.
+  call: "How should the case be tried?"
+  options:
+    A: "To the court, because Dunn Logistics waived its jury right by not serving its own demand within 14 days after serving its answer."
+    B: "To a jury, because once a proper jury demand has been made, it may be withdrawn only if the parties consent."
+    C: "To the court, because the party who made a jury demand controls whether the demand remains in effect."
+    D: "To a jury, but only if Dunn Logistics persuades the court to exercise its discretion to order one despite its failure to demand."
+  answer: B
+  explanation_correct: >-
+    A party waives a jury trial unless a proper demand is served and filed, but a proper demand may be
+    withdrawn only if the parties consent (FRCP 38(d); R-CIV-080). Tolliver's demand covered all issues,
+    so it preserved a jury trial for both sides, and Dunn Logistics was entitled to rely on it rather
+    than serve a duplicate demand. Because Dunn Logistics does not consent, the withdrawal is
+    ineffective, and the claim for damages, a legal claim, is tried to a jury (R-CIV-078). Trap:
+    thinking each party must make its own demand to keep a jury.
+  explanation_each_wrong_option:
+    A: >-
+      A party may rely on another party's demand that covers all issues; Dunn Logistics needed no
+      separate demand, and the demand on file cannot be withdrawn without its consent.
+    C: >-
+      Rule 38(d) takes control of a proper demand away from the demanding party alone; withdrawal
+      requires the consent of the parties.
+    D: >-
+      Right result, wrong reason. No Rule 39(b) motion is needed, because Tolliver's proper demand remains
+      in effect; Rule 39(b) is for cases in which no timely demand was made.
+  trap_type: procedural-posture
+  authority: ["FRCP 38(b)", "FRCP 38(d)", "FRCP 39(a)-(b)"]
+  source: original
+  tags: [wave2, w2b, jury-demand, withdrawal]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CIV-0132
+  subject: CIV
+  coverage_ids: [CIV-MBE-IV.B]
+  rule_ids: [R-CIV-082]
+  difficulty: 1
+  stem: >-
+    In a federal products-liability trial against Keystone Tool Co., a prospective juror disclosed during
+    voir dire that she owns about $40,000 of Keystone's common stock. She added that she would not let
+    her investment affect her judgment and could decide the case fairly. The plaintiff challenged her for
+    cause. The judge was inclined to deny the challenge, noting that the plaintiff still had all three of
+    her peremptory challenges available.
+  call: "Should the court grant the challenge for cause?"
+  options:
+    A: "No, because the juror has stated during voir dire that she can set aside her investment and decide the case impartially."
+    B: "Yes, because a financial stake in a party supports a challenge for cause even if the juror says she can be fair."
+    C: "Yes, but granting it uses up one of the three peremptory challenges that the plaintiff is allowed by statute."
+    D: "No, because the plaintiff can still remove the juror by using one of the three peremptory challenges she has left."
+  answer: B
+  explanation_correct: >-
+    A prospective juror may be removed for cause for actual bias or for implied bias, such as a
+    relationship with a party or a financial interest in the outcome (R-CIV-082). Owning a party's stock
+    gives the juror a direct financial stake in the verdict, which courts generally treat as implied bias
+    regardless of the juror's assurances of fairness. Challenges for cause are unlimited and separate from
+    the three peremptory challenges each party has (28 U.S.C. § 1870), so the plaintiff should not be
+    forced to spend a peremptory to remove a juror the court should excuse for cause. Trap: accepting a
+    juror's self-assessment of impartiality.
+  explanation_each_wrong_option:
+    A: >-
+      Implied bias rests on the relationship or interest itself; a juror's assurance that she can be fair
+      does not cure a direct financial stake in a party.
+    C: >-
+      Challenges for cause are unlimited and are not counted against a party's peremptory challenges.
+    D: >-
+      The availability of peremptory challenges does not excuse the court from granting a valid challenge
+      for cause; peremptories are a separate allotment (28 U.S.C. § 1870).
+  trap_type: true-but-irrelevant
+  authority: ["28 U.S.C. § 1870", "FRCP 47(a)-(b)"]
+  source: original
+  tags: [wave2, w2b, jury-selection, challenge-for-cause, implied-bias]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CIV-0133
+  subject: CIV
+  coverage_ids: [CIV-MBE-IV.B]
+  rule_ids: [R-CIV-082]
+  difficulty: 2
+  stem: >-
+    Quintana sued three defendants, the manufacturer, the distributor and the retailer of an allegedly
+    defective space heater, in a single federal action. At jury selection, each defendant demanded three
+    peremptory challenges, for a total of nine. Quintana objected, arguing that the defendants, who are
+    represented by separate counsel but present the same defense theory, should together receive only
+    three.
+  call: "Which of the following correctly states the court's authority?"
+  options:
+    A: "It must allow each defendant three peremptory challenges, because the statute grants three challenges to every party."
+    B: "It must limit the defendants to three peremptory challenges in total, and it has no authority to allow any more."
+    C: "It may treat the defendants as a single party with three challenges, or allow additional challenges to be used separately or jointly."
+    D: "It must give the defendants together the same number of peremptory challenges as the plaintiff, so that each side receives three in all."
+  answer: C
+  explanation_correct: >-
+    In civil cases each party is entitled to three peremptory challenges, but several defendants or
+    several plaintiffs may be considered as a single party for that purpose, or the court may allow
+    additional peremptory challenges and permit them to be exercised separately or jointly (28 U.S.C.
+    § 1870; FRCP 47(b); R-CIV-082). The allocation lies in the court's discretion: nothing entitles the
+    three defendants to nine challenges as of right, and nothing forbids the court from allowing more
+    than three. Trap: reading "each party" as an absolute entitlement for every co-party.
+  explanation_each_wrong_option:
+    A: >-
+      Section 1870 expressly lets the court treat several defendants as a single party for peremptory
+      challenges, so each defendant is not automatically entitled to three.
+    B: >-
+      Section 1870 also lets the court allow additional peremptory challenges, exercised separately or
+      jointly; the court is not confined to three.
+    D: >-
+      Nothing requires equal numbers for each side; § 1870 leaves the allocation among multiple parties to
+      the court's discretion.
+  trap_type: overbroad
+  authority: ["28 U.S.C. § 1870", "FRCP 47(b)"]
+  source: original
+  tags: [wave2, w2b, jury-selection, peremptory-challenges, multiple-parties]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CIV-0134
+  subject: CIV
+  coverage_ids: [CIV-MBE-IV.C]
+  rule_ids: [R-CIV-083, R-CIV-102]
+  difficulty: 3
+  stem: >-
+    Before closing arguments in a federal negligence trial, the judge gave counsel her proposed jury
+    instructions and an opportunity to object on the record outside the jury's presence. The defendant
+    made no objection to them. When the judge charged the jury, however, she added an instruction that
+    had not been in the proposed set, telling the jurors that they could infer negligence from the mere
+    fact that the accident occurred. As soon as the charge ended, and before the jury began
+    deliberating, defense counsel asked for a sidebar and objected on the record, outside the jury's
+    hearing, that the added instruction misstated the governing law. The judge overruled the objection,
+    and the jury returned a verdict for the plaintiff. On appeal, the plaintiff argues that the objection
+    was untimely because it was not made at the charge conference.
+  call: "Is the defendant's objection to the added instruction preserved for ordinary appellate review?"
+  options:
+    A: "No, because objections to jury instructions must be made at the opportunity the court provides before the instructions are delivered."
+    B: "No, because the defendant did not file a written request for a contrary instruction at the close of the evidence."
+    C: "Yes, because a party not told of an instruction before the chance to object may preserve error by objecting promptly after learning of it."
+    D: "Yes, because whether a jury instruction correctly states the law is reviewed de novo whether or not an objection was made."
+  answer: C
+  explanation_correct: >-
+    The court must inform the parties of its proposed instructions before instructing the jury and before
+    final arguments, and give them an opportunity to object on the record and out of the jury's hearing
+    (FRCP 51(b)(1)-(2)). An objection is timely if made at that opportunity or, if the party was not
+    informed of an instruction before that opportunity, if the party objects promptly after learning that
+    the instruction will be or has been given (FRCP 51(c)(2); R-CIV-083). The defendant first learned of
+    the added instruction when it was delivered and objected at once, stating the matter and its grounds,
+    so the error is preserved and the court of appeals reviews it under the ordinary standards rather than
+    for plain error only (R-CIV-102). Trap: assuming the charge conference is the only moment to object.
+  explanation_each_wrong_option:
+    A: >-
+      Rule 51(c)(2)(B) makes a prompt objection timely when the party had no notice of the instruction
+      before the opportunity to object; the defendant could not object to an instruction it had never
+      seen.
+    B: >-
+      A request is needed to preserve a claim that the court erred in failing to give an instruction
+      (FRCP 51(d)(1)(B)); the defendant challenges an instruction that was given, which requires only a
+      proper objection.
+    D: >-
+      Without a proper objection, an instructional error is reviewed only for plain error affecting
+      substantial rights (FRCP 51(d)(2)); it is the defendant's prompt objection, not the legal nature of
+      the issue, that preserves ordinary review.
+  trap_type: procedural-posture
+  authority: ["FRCP 51(b)(1)-(2)", "FRCP 51(c)(1)-(2)", "FRCP 51(d)(1)-(2)"]
+  source: original
+  tags: [wave2, w2b, jury-instructions, objections, preservation]
+  status: draft
+  last_verified: 2026-11-04

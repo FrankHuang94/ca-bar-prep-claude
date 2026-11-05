@@ -1,0 +1,295 @@
+# Criminal Law and Procedure — NCBE categories V.C-V.F: identification, right to counsel, fair trial,
+# double jeopardy. Original MBE-style items (wave 2, batch B). Federal constitutional law as the Supreme
+# Court reads it.
+questions:
+- id: Q-CRM-0144
+  subject: CRM
+  coverage_ids: [CRM-MBE-V.D]
+  rule_ids: [R-CRM-105, R-CRM-120]
+  difficulty: 2
+  stem: >-
+    At a defendant's trial for robbing a convenience store, defense counsel failed to object when the
+    prosecution introduced evidence of the defendant's two prior shoplifting convictions. The parties now agree
+    that the convictions were inadmissible and would have been excluded on a timely objection, and counsel had
+    no strategic reason for the failure. The other evidence included a clear store video showing the
+    defendant's face during the robbery, his fingerprints on the counter, and marked bills from the register
+    found in his pocket an hour later. He was convicted and, on collateral review, claims ineffective
+    assistance of counsel.
+  call: "Is he likely to obtain a new trial?"
+  options:
+    A: "No, because there is no reasonable probability that the result would have been different."
+    B: "Yes, because counsel's unjustified failure to object fell below an objective standard of reasonableness."
+    C: "Yes, because admitting inadmissible prior convictions is a structural error requiring automatic reversal."
+    D: "No, because a lawyer's failure to object at trial cannot amount to ineffective assistance."
+  answer: A
+  explanation_correct: >-
+    A is correct. An ineffective-assistance claim requires both deficient performance — below an objective
+    standard of reasonableness — and prejudice — a reasonable probability that, but for the errors, the result
+    would have been different (R-CRM-105; Strickland v. Washington). The failure to object may well have been
+    deficient, but with video, fingerprints and the marked bills, there is no reasonable probability that the
+    jury would have acquitted had the convictions been excluded.
+  explanation_each_wrong_option:
+    B: >-
+      Missing element. Deficient performance is only the first prong; the defendant must also show prejudice,
+      which the overwhelming evidence defeats (R-CRM-105).
+    C: >-
+      Wrong standard. Erroneous admission of evidence is trial error subject to harmless-error or prejudice
+      analysis; structural errors are a narrow class such as complete denial of counsel or a biased judge
+      (R-CRM-120).
+    D: >-
+      Overbroad. An unreasonable failure to object can be deficient performance; the claim fails here for lack
+      of prejudice (R-CRM-105).
+  trap_type: missing-element
+  authority: ["U.S. Const. amend. VI", "Strickland v. Washington, 466 U.S. 668 (1984)"]
+  source: original
+  tags: [wave2, right-to-counsel, ineffective-assistance, strickland]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CRM-0145
+  subject: CRM
+  coverage_ids: [CRM-MBE-V.D]
+  rule_ids: [R-CRM-104, R-CRM-120]
+  difficulty: 2
+  stem: >-
+    Three weeks before his trial for aggravated assault, a defendant with a high-school education told the
+    judge, clearly and repeatedly, that he wanted to discharge his appointed lawyer and represent himself.
+    After a thorough hearing, the judge found that the defendant was competent, understood the charge and the
+    possible sentence, had been warned of the dangers of self-representation, and was not seeking delay. The
+    judge nonetheless denied the request because the defendant had no legal training and would "surely do a
+    worse job than his lawyer." At trial the appointed lawyer performed competently, and the defendant was
+    convicted.
+  call: "On appeal, is the defendant entitled to a new trial?"
+  options:
+    A: "No, because his appointed lawyer performed competently, so the denial caused him no prejudice."
+    B: "Yes, because he made a timely, unequivocal and knowing request to represent himself."
+    C: "No, because a judge may refuse self-representation to a defendant without legal training."
+    D: "Yes, but only if he shows that he probably would have been acquitted had he represented himself."
+  answer: B
+  explanation_correct: >-
+    B is correct. A competent defendant who makes a timely and unequivocal request, and who knowingly and
+    intelligently waives counsel after being warned of the risks, has a Sixth Amendment right to represent
+    himself; lack of legal skill is irrelevant (R-CRM-104; Faretta v. California). Denial of that right is not
+    subject to harmless-error analysis, so the conviction must be reversed without any showing of prejudice
+    (McKaskle v. Wiggins; R-CRM-120).
+  explanation_each_wrong_option:
+    A: >-
+      Wrong standard. The right of self-representation protects the defendant's autonomy, not the reliability
+      of the result; its wrongful denial requires reversal regardless of counsel's competence (R-CRM-104).
+    C: >-
+      Technical legal knowledge is not relevant to whether a defendant may waive counsel; the judge's reason
+      contradicts Faretta (R-CRM-104).
+    D: >-
+      No showing of prejudice is required; the violation is reversible without harmless-error review
+      (R-CRM-104, R-CRM-120).
+  trap_type: wrong-standard
+  authority: ["U.S. Const. amend. VI", "Faretta v. California, 422 U.S. 806 (1975)", "McKaskle v. Wiggins, 465 U.S. 168 (1984)"]
+  source: original
+  tags: [wave2, right-to-counsel, self-representation, faretta]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CRM-0146
+  subject: CRM
+  coverage_ids: [CRM-MBE-V.D]
+  rule_ids: [R-CRM-102, R-CRM-096, R-CRM-098]
+  difficulty: 3
+  stem: >-
+    A man was charged with burglary, and at his arraignment the court appointed a public defender for him. He
+    said nothing at the arraignment about wanting a lawyer present during any questioning, and he never asked
+    the police for a lawyer. Two days later, while he was in jail awaiting trial, a detective visited him, gave
+    him full Miranda warnings and asked whether he would discuss the burglary. He said he understood his rights,
+    signed a written waiver and confessed. His lawyer was not told of the interview. He moves to suppress the
+    confession on Sixth Amendment grounds.
+  call: "Should the motion be granted?"
+  options:
+    A: "Yes, because once counsel has been appointed, police may not initiate questioning about the charged offense."
+    B: "Yes, because the detective deliberately elicited statements about the charged offense after the right attached."
+    C: "No, because the Sixth Amendment right to counsel does not attach until the trial itself begins."
+    D: "No, because he validly waived his Sixth Amendment right after receiving Miranda warnings."
+  answer: D
+  explanation_correct: >-
+    D is correct. The Sixth Amendment right attached when he was formally charged, and the detective
+    deliberately elicited statements about the charged offense (R-CRM-102). But a defendant may waive the right
+    without his lawyer present, and Miranda warnings followed by a knowing and voluntary waiver are sufficient,
+    even when police initiate the approach (Montejo v. Louisiana; R-CRM-096). Because he never invoked the right
+    to counsel during custodial interrogation, Edwards does not apply (R-CRM-098).
+  explanation_each_wrong_option:
+    A: >-
+      This was the rule of Michigan v. Jackson, which Montejo overruled; police may approach a represented
+      defendant and seek a waiver (R-CRM-102).
+    B: >-
+      Exception trap. Deliberate elicitation after attachment violates the right only if there is no valid
+      waiver; here there was one (R-CRM-102).
+    C: >-
+      The right attaches at the initiation of adversary judicial proceedings, such as formal charge or
+      arraignment, and applies at every critical stage after that (R-CRM-102).
+  trap_type: exception-trap
+  authority: ["U.S. Const. amend. VI", "Montejo v. Louisiana, 556 U.S. 778 (2009)", "Patterson v. Illinois, 487 U.S. 285 (1988)"]
+  source: original
+  tags: [wave2, right-to-counsel, sixth-amendment, waiver]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CRM-0147
+  subject: CRM
+  coverage_ids: [CRM-MBE-V.E]
+  rule_ids: [R-CRM-110]
+  difficulty: 2
+  stem: >-
+    At a white defendant's robbery trial, the prosecutor used peremptory challenges to strike all four Black
+    members of the venire. When the defense objected, the prosecutor explained that the four "seemed
+    uninterested." The defense pointed out, and the record confirms, that the prosecutor accepted several white
+    jurors whose answers and demeanor during voir dire were materially the same as those of the struck jurors.
+    The judge must now rule on the objection.
+  call: "How should the judge rule?"
+  options:
+    A: "Overrule it, because a prosecutor may exercise peremptory challenges for any reason or no reason."
+    B: "Overrule it, because the defendant is not Black and so cannot object to the exclusion of Black jurors."
+    C: "Sustain it, if the judge finds that the stated reason was a pretext for racial discrimination."
+    D: "Sustain it, because striking every member of one race is unconstitutional whatever reason is given."
+  answer: C
+  explanation_correct: >-
+    C is correct. Peremptory challenges may not be based on race (R-CRM-110; Batson v. Kentucky). Batson's three
+    steps are a prima facie showing, a race-neutral explanation, and the court's decision whether the opponent
+    has proved purposeful discrimination. The explanation here is facially neutral, but the prosecutor's
+    acceptance of white jurors with the same characteristics is strong evidence of pretext, and the judge
+    must decide at step three whether the strikes were racially motivated.
+  explanation_each_wrong_option:
+    A: >-
+      Confused rule. Peremptory challenges need no cause, but they may not be exercised on the basis of race or
+      sex (R-CRM-110).
+    B: >-
+      A defendant may raise a Batson objection whether or not he shares the race of the excluded jurors
+      (Powers v. Ohio; R-CRM-110).
+    D: >-
+      Overbroad. Striking all members of a race supports a prima facie case, but the judge must still consider
+      the explanation and decide whether discrimination is proved (R-CRM-110).
+  trap_type: confused-rule
+  authority: ["U.S. Const. amend. XIV", "Batson v. Kentucky, 476 U.S. 79 (1986)", "Powers v. Ohio, 499 U.S. 400 (1991)", "Flowers v. Mississippi, 588 U.S. 284 (2019)"]
+  source: original
+  tags: [wave2, jury-trial, batson, peremptory-challenges]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CRM-0148
+  subject: CRM
+  coverage_ids: [CRM-MBE-V.E]
+  rule_ids: [R-CRM-112]
+  difficulty: 3
+  stem: >-
+    A woman called 911 and, in a panicked voice, told the dispatcher that her former boyfriend had broken into
+    her apartment, was hitting her and was still there. In answer to the dispatcher's questions, she gave his
+    name and described what he was wearing. The recording ends as she says, "He's running out the door now."
+    Police arrested him nearby. At his trial for assault, she does not appear, and the defendant has never had
+    an opportunity to cross-examine her. The prosecution offers the recording, and the court finds that it
+    qualifies under a hearsay exception. The defendant objects under the Confrontation Clause.
+  call: "Should the recording be admitted over the Confrontation Clause objection?"
+  options:
+    A: "Yes, because her statements were made primarily to get help with an ongoing emergency."
+    B: "No, because she is absent and the defendant never had an opportunity to cross-examine her."
+    C: "Yes, because any statement that fits a hearsay exception satisfies the Confrontation Clause."
+    D: "No, because statements identifying a suspect to the police are testimonial whenever recorded."
+  answer: A
+  explanation_correct: >-
+    A is correct. The Confrontation Clause bars only testimonial statements of absent witnesses (R-CRM-112;
+    Crawford v. Washington). Statements to police or 911 operators are nontestimonial when their primary
+    purpose is to enable police to meet an ongoing emergency (Davis v. Washington). The woman described an
+    attack in progress and the attacker's identity while he was still present and leaving, so the Clause does
+    not bar the recording.
+  explanation_each_wrong_option:
+    B: >-
+      True but irrelevant. Unavailability plus a prior opportunity for cross-examination is required only for
+      testimonial statements; these were not testimonial (R-CRM-112).
+    C: >-
+      Wrong standard. Under Crawford, fitting a hearsay exception does not satisfy the Clause for testimonial
+      statements; the recording comes in because it is not testimonial (R-CRM-112).
+    D: >-
+      Overbroad. Recording does not make a statement testimonial; the test is its primary purpose, and
+      identifying an attacker during an emergency helps police meet that emergency (R-CRM-112).
+  trap_type: wrong-standard
+  authority: ["U.S. Const. amend. VI", "Crawford v. Washington, 541 U.S. 36 (2004)", "Davis v. Washington, 547 U.S. 813 (2006)"]
+  source: original
+  tags: [wave2, confrontation-clause, testimonial-hearsay, ongoing-emergency]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CRM-0149
+  subject: CRM
+  coverage_ids: [CRM-MBE-V.C]
+  rule_ids: [R-CRM-106, R-CRM-107, R-CRM-102]
+  difficulty: 1
+  stem: >-
+    After a man was indicted for armed robbery and counsel was appointed for him, a detective showed the
+    robbery victim six photographs of men of similar age, build and complexion, including the defendant,
+    without notifying defense counsel. The detective said nothing to suggest which photograph to choose, and
+    the victim promptly picked the defendant's photograph. The defendant moves to exclude evidence of the
+    photographic identification on the ground that his lawyer was not present.
+  call: "Should the motion be granted?"
+  options:
+    A: "Yes, because the identification took place after formal charges, when the right to counsel had attached."
+    B: "No, because there is no right to counsel at a photographic identification, even after charges."
+    C: "Yes, because every identification procedure conducted after indictment is a critical stage."
+    D: "No, because the right to counsel applies only at trial, not at any pretrial proceeding."
+  answer: B
+  explanation_correct: >-
+    B is correct. The Sixth Amendment guarantees counsel at a post-charge, in-person lineup or show-up, but not
+    at a photographic identification, whether before or after charges (R-CRM-106; United States v. Ash).
+    Photo arrays are tested only under due process, and this one — six similar photographs and no suggestion
+    by the detective — was not unnecessarily suggestive (R-CRM-107).
+  explanation_each_wrong_option:
+    A: >-
+      Missing element. Attachment is necessary but not sufficient; the right applies only at critical stages,
+      and a photo array, at which the defendant is not present, is not one (R-CRM-106).
+    C: >-
+      Overbroad. Post-charge in-person lineups are critical stages; photographic displays are not (R-CRM-106).
+    D: >-
+      The right applies at critical pretrial stages after attachment, such as post-charge lineups and
+      preliminary hearings (R-CRM-102, R-CRM-106).
+  trap_type: overbroad
+  authority: ["U.S. Const. amend. VI", "United States v. Ash, 413 U.S. 300 (1973)", "United States v. Wade, 388 U.S. 218 (1967)"]
+  source: original
+  tags: [wave2, identification, photo-array, right-to-counsel]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CRM-0150
+  subject: CRM
+  coverage_ids: [CRM-MBE-V.F]
+  rule_ids: [R-CRM-117, R-CRM-116]
+  difficulty: 3
+  stem: >-
+    Two men in ski masks robbed four diners at a restaurant. A man was tried for robbing one of the diners. It
+    was undisputed that the robbery occurred and that the diner lost property; the only contested issue was
+    identity, and the man's sole defense was that he was not one of the robbers. The properly instructed jury
+    acquitted him. The state then charged him with robbing a second diner during the same incident, planning to
+    call the same witnesses plus a newly found eyewitness. The man moves to dismiss the new charge.
+  call: "Should the court dismiss the second prosecution?"
+  options:
+    A: "No, because robbing a different victim is a different offense under the Blockburger test."
+    B: "No, because the state will offer an eyewitness who did not testify at the first trial."
+    C: "No, because jeopardy for robbing the second diner never attached at the first trial."
+    D: "Yes, because the acquittal necessarily decided that he was not one of the robbers."
+  answer: D
+  explanation_correct: >-
+    D is correct. Double jeopardy includes collateral estoppel: once an issue of ultimate fact has been
+    determined by a valid final judgment of acquittal, the state may not relitigate it against the same
+    defendant (R-CRM-117; Ashe v. Swenson). Because identity was the only contested issue, the acquittal
+    necessarily decided that he was not one of the robbers, so the state cannot prosecute him for robbing
+    another diner in the same incident.
+  explanation_each_wrong_option:
+    A: >-
+      True but not decisive. Robberies of different victims are separate offenses, so the same-offense rule
+      alone would not bar the charge (R-CRM-116), but collateral estoppel independently does (R-CRM-117).
+    B: >-
+      New evidence does not permit relitigating an issue already decided by an acquittal; giving the state a
+      second chance with a stronger case is what the doctrine forbids (R-CRM-117).
+    C: >-
+      Jeopardy for the second charge did not attach, but collateral estoppel turns on the issue already decided
+      in the first trial, not on attachment for the new charge (R-CRM-117).
+  trap_type: true-but-irrelevant
+  authority: ["U.S. Const. amend. V", "Ashe v. Swenson, 397 U.S. 436 (1970)", "Blockburger v. United States, 284 U.S. 299 (1932)"]
+  source: original
+  tags: [wave2, double-jeopardy, collateral-estoppel]
+  status: draft
+  last_verified: 2026-11-04

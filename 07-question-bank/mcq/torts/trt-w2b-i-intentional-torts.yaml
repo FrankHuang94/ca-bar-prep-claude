@@ -1,0 +1,421 @@
+# Torts MCQs — NCBE category I: intentional torts and defenses
+# Wave 2 round 2 (W2b-TRT). MBE defaults: pure comparative negligence and joint and several liability unless the stem says otherwise.
+# Majority common-law / Restatement rules only; no California-only rules. All items original.
+questions:
+- id: Q-TRT-0101
+  subject: TRT
+  coverage_ids: [TRT-MBE-I.A, TRT-CBX-I.x1]
+  rule_ids: [R-TRT-003, R-TRT-002]
+  difficulty: 1
+  stem: >-
+    During an argument over a property line, a homeowner went into his house, came back with a revolver that he knew
+    was unloaded, pointed it at his neighbor from about ten feet away and said, "I'm going to shoot you right now." He
+    meant only to frighten her. The neighbor did not know the gun was unloaded, believed she was about to be shot, and
+    ran into her own house. She suffered no physical injury but was badly shaken. She sues the homeowner for assault.
+  call: "Is the neighbor likely to prevail?"
+  options:
+    A: "No, because the homeowner knew the gun was unloaded, so he had no actual ability to carry out his threat to shoot her."
+    B: "Yes, because she reasonably expected to be shot, and apparent ability to shoot is enough."
+    C: "No, because she suffered no physical injury as a result of the homeowner's words or conduct."
+    D: "Yes, because pointing a gun at another person is itself a harmful or offensive contact."
+  answer: B
+  explanation_correct: >-
+    Assault (R-TRT-003) requires an act intended to cause a harmful or offensive contact or the apprehension of one,
+    and the plaintiff's reasonable apprehension of an imminent contact. The homeowner intended to frighten the
+    neighbor, and pointing a gun at her while saying he would shoot "right now" threatened an imminent harmful
+    contact. Because she did not know the gun was unloaded, her apprehension was reasonable. Apparent ability is
+    enough; actual ability is not required. No physical injury is needed: the apprehension is itself the harm.
+  explanation_each_wrong_option:
+    A: >-
+      Wrong standard. The question is whether the plaintiff reasonably apprehended an imminent contact, not whether
+      the defendant could actually have carried out the threat. A threat with an unloaded gun that the victim
+      reasonably believes is loaded is an assault (R-TRT-003).
+    C: >-
+      Assault requires no physical injury or contact; the tort protects against the reasonable apprehension of an
+      imminent contact, and the plaintiff may recover at least nominal damages for it.
+    D: >-
+      Confused rule. Battery requires an actual contact with the plaintiff's person (R-TRT-002). Nothing touched the
+      neighbor, so the claim is assault, which does not require contact.
+  trap_type: wrong-standard
+  authority: ["Restatement (Second) of Torts § 21"]
+  source: original
+  tags: [wave2, W2b-TRT, intentional-torts, assault, apparent-ability]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-TRT-0102
+  subject: TRT
+  coverage_ids: [TRT-MBE-I.A, TRT-CBX-I.x1]
+  rule_ids: [R-TRT-004]
+  difficulty: 2
+  stem: >-
+    After an argument about a business deal, a man led his business partner into a second-floor storage room at their
+    warehouse, stepped out and locked the door behind him, intending to keep her there until she agreed to sign a
+    contract. The only other way out of the room was a window 12 feet above a concrete loading area. The partner
+    shouted for help, and a security guard let her out three hours later. She was not physically harmed, but she
+    missed a flight and was badly upset. She sues the man for false imprisonment. He argues that she was not confined
+    because she could have climbed out the window.
+  call: "Is the man's argument likely to succeed?"
+  options:
+    A: "Yes, because she knew about the window and chose not to use it as a way out of the room."
+    B: "Yes, because she suffered no physical harm from being kept in the storage room."
+    C: "No, because locking a person in a room is false imprisonment no matter what other exits from the room are available to her."
+    D: "No, because an exit that would expose her to a risk of serious bodily harm is not a reasonable means of escape."
+  answer: D
+  explanation_correct: >-
+    False imprisonment (R-TRT-004) requires intent to confine, a confinement within fixed boundaries with no
+    reasonable means of escape known to the plaintiff, and the plaintiff's awareness of the confinement or harm from
+    it. The man intended to confine his partner. A means of escape defeats the claim only if it is reasonable; a drop
+    of 12 feet onto concrete would expose her to a serious risk of bodily harm, so the window was not a reasonable
+    exit. She was aware of the confinement throughout, so no physical harm is required.
+  explanation_each_wrong_option:
+    A: >-
+      Missing element. Knowledge of an exit matters only if the exit is reasonable. A plaintiff need not risk serious
+      injury to escape, so her decision not to climb out the window does not defeat the claim.
+    B: >-
+      False imprisonment requires that the plaintiff be aware of the confinement or harmed by it. She was aware of it
+      for three hours, so physical harm is unnecessary.
+    C: >-
+      Overbroad. If the room had a reasonable means of escape that she knew about, such as an unlocked door to a
+      hallway, there would be no confinement. The claim succeeds because this exit was not reasonable, not because any
+      locked door suffices.
+  trap_type: missing-element
+  authority: ["Restatement (Second) of Torts §§ 35, 36"]
+  source: original
+  tags: [wave2, W2b-TRT, intentional-torts, false-imprisonment, means-of-escape]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-TRT-0103
+  subject: TRT
+  coverage_ids: [TRT-MBE-I.A, TRT-CBX-I.x1]
+  rule_ids: [R-TRT-005, R-TRT-001]
+  difficulty: 2
+  stem: >-
+    As an April Fools' joke, a man disguised his voice and telephoned a coworker whom he knew to have an 8-year-old
+    son who rode a school bus. Pretending to be a hospital nurse, he told her that her son had been critically injured
+    in a bus crash and might not survive, and then hung up before she could ask any questions. The coworker collapsed
+    and spent two frantic hours trying to reach the school and the hospital before learning that her son was unhurt.
+    For weeks afterward she suffered nightmares and panic attacks and needed counseling. The man testifies that he
+    meant it only as a joke and expected her to realize quickly that it was a prank. She sues him for intentional
+    infliction of emotional distress.
+  call: "Is the coworker likely to prevail?"
+  options:
+    A: "Yes, because the hoax was outrageous, and he at least recklessly disregarded a high risk of severe distress."
+    B: "No, because the man intended only to play a joke on her, not to cause her emotional distress."
+    C: "No, because she suffered no physical injury as a result of the telephone call or the hoax."
+    D: "Yes, because a knowingly false statement that causes another person severe emotional distress is always actionable."
+  answer: A
+  explanation_correct: >-
+    IIED (R-TRT-005) requires extreme and outrageous conduct, intent to cause severe emotional distress or reckless
+    disregard of a high probability of causing it, causation and severe distress. Falsely telling a parent that her
+    child may be dying goes beyond all bounds of decency. Even if the man meant it as a joke, he knew she was a parent
+    and hung up before she could ask questions, so he at least recklessly disregarded the high probability that she
+    would suffer severe distress; his motive does not negate that state of mind (R-TRT-001). Her collapse, weeks of
+    nightmares and panic attacks, and need for counseling show severe distress.
+  explanation_each_wrong_option:
+    B: >-
+      Wrong standard. IIED is satisfied by recklessness as well as purpose, and a prankster's motive is irrelevant
+      when he disregards a high probability that his conduct will cause severe distress.
+    C: >-
+      IIED does not require physical injury; severe emotional distress is enough (R-TRT-005).
+    D: >-
+      Overbroad. Falsity alone does not make conduct actionable as IIED. The claim succeeds because this particular
+      falsehood was outrageous, was made at least recklessly and caused severe distress.
+  trap_type: wrong-standard
+  authority: ["Restatement (Second) of Torts § 46"]
+  source: original
+  tags: [wave2, W2b-TRT, intentional-torts, iied, recklessness]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-TRT-0104
+  subject: TRT
+  coverage_ids: [TRT-MBE-I.A, TRT-CBX-I.x1]
+  rule_ids: [R-TRT-001, R-TRT-002, R-TRT-026]
+  difficulty: 3
+  stem: >-
+    From a third-floor balcony overlooking a city street, an 11-year-old boy dropped a large water balloon onto the
+    sidewalk below, where a tightly packed crowd stood waiting for a parade. He did not aim at anyone; he wanted to
+    see people get soaked and jump. Because the crowd directly below was so dense, he knew the balloon could not land
+    without hitting someone. It struck a 70-year-old woman on the head, knocking her down and breaking her wrist. She
+    sues the boy for battery.
+  call: "Is the woman likely to prevail?"
+  options:
+    A: "No, because an 11-year-old is judged by the standard of a reasonable child of like age, intelligence and experience."
+    B: "No, because the boy did not aim at the woman and did not know which person in the crowd the balloon would hit."
+    C: "Yes, because he knew the balloon was substantially certain to strike someone in the crowd directly below."
+    D: "No, because the boy meant only to get someone wet, not to injure anyone in the crowd below."
+  answer: C
+  explanation_correct: >-
+    A person acts with intent if he desires a consequence or knows that it is substantially certain to result, and
+    children can form intent (R-TRT-001). The boy knew that the balloon could not land without striking someone in the
+    dense crowd directly below, a small group in a confined area, so he intended a contact with whoever was hit. Being
+    struck by a water balloon dropped from three floors up is at least an offensive contact. Battery (R-TRT-002) does
+    not require intent to injure, and the boy is liable for the harm that actually resulted, including the broken
+    wrist.
+  explanation_each_wrong_option:
+    A: >-
+      Confused rule. The reasonable-child standard governs a child's negligence (R-TRT-026). This claim is for an
+      intentional tort, and the question is whether the boy had the purpose or knowledge that constitutes intent.
+    B: >-
+      Substantial certainty that the balloon would strike someone in a small, closely packed group is enough; the
+      defendant need not aim at, or be able to identify, the particular person who is hit.
+    D: >-
+      Battery requires intent to cause a harmful or offensive contact, not intent to injure. Having intended an
+      offensive contact, the boy is liable for the more serious harm that actually resulted (R-TRT-002).
+  trap_type: confused-rule
+  authority: ["Restatement (Second) of Torts §§ 8A, 13", "Garratt v. Dailey, 46 Wash.2d 197 (1955)"]
+  source: original
+  tags: [wave2, W2b-TRT, intentional-torts, battery, substantial-certainty, child-intent]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-TRT-0105
+  subject: TRT
+  coverage_ids: [TRT-MBE-I.B.1]
+  rule_ids: [R-TRT-009, R-TRT-028, R-TRT-002]
+  difficulty: 1
+  stem: >-
+    A patient signed a consent form authorizing her dentist to fill a cavity in a lower left molar under local
+    anesthesia and light sedation. While she was sedated, the dentist noticed that an upper right tooth was badly
+    decayed and, believing it was in her best interest, extracted it. The extraction was skillfully performed and was
+    a reasonable treatment choice for that tooth, but there was no emergency, and it could safely have waited until
+    the patient could be consulted. The patient sues the dentist for battery.
+  call: "Is the patient likely to prevail?"
+  options:
+    A: "Yes, because the extraction exceeded the scope of her consent, and no emergency required it."
+    B: "No, because the extraction was a medically reasonable choice and was skillfully performed."
+    C: "No, because by agreeing to treatment under sedation she impliedly consented to any treatment the dentist reasonably found necessary."
+    D: "No, because her claim is one for lack of informed consent, which sounds in negligence rather than battery."
+  answer: A
+  explanation_correct: >-
+    Consent (R-TRT-009) is a defense only if the defendant stays within its scope: the same act on the same part of
+    the body. The patient consented to a filling in a lower left molar, not to the extraction of a different tooth.
+    Consent implied by law in an emergency does not apply, because the extraction could safely have waited until she
+    could be asked. An unconsented contact is a battery (R-TRT-002) even if it was skillful and medically reasonable.
+  explanation_each_wrong_option:
+    B: >-
+      Skill and medical reasonableness defeat a negligence claim, not a battery claim. The tort protects the patient's
+      right to decide what is done to her body, however beneficial the unauthorized procedure.
+    C: >-
+      Overbroad. Consent to one procedure does not extend to a different, non-emergency procedure on another part of
+      the body (Mohr v. Williams).
+    D: >-
+      Confused rule. Lack of informed consent is a negligence claim where the physician performs the procedure the
+      patient agreed to but fails to disclose its risks (R-TRT-028). Performing a substantially different procedure is
+      a battery.
+  trap_type: confused-rule
+  authority: ["Restatement (Second) of Torts § 892A", "Mohr v. Williams, 95 Minn. 261 (1905)"]
+  source: original
+  tags: [wave2, W2b-TRT, defenses, consent, scope-of-consent, medical]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-TRT-0106
+  subject: TRT
+  coverage_ids: [TRT-MBE-I.B.1]
+  rule_ids: [R-TRT-009, R-TRT-002]
+  difficulty: 2
+  stem: >-
+    At 1 a.m., a woman who had been drinking heavily at a party walked into a tattoo parlor and asked for a large
+    tattoo of a friend's name across her forearm. She was slurring her words, could not stand without holding on to
+    the counter, and could not spell the friend's name. The tattoo artist noticed her condition, had her sign the
+    shop's standard consent form, and tattooed her. The next morning she was horrified and has since paid to have the
+    tattoo removed. She sues the artist for battery. The artist relies on her signed consent.
+  call: "Is the woman likely to prevail?"
+  options:
+    A: "No, because she expressly consented to the tattoo by signing the shop's written consent form."
+    B: "No, because voluntary intoxication does not excuse an adult from the consequences of her own choices."
+    C: "Yes, because tattooing is a harmful contact to which no person can give valid consent."
+    D: "Yes, because the artist knew she was too intoxicated to give effective consent."
+  answer: D
+  explanation_correct: >-
+    Consent is effective only if given by a person with capacity to consent (R-TRT-009). A person so intoxicated that
+    she cannot understand the nature and consequences of the act lacks that capacity. The woman was slurring, could
+    not stand unaided and could not spell the name she wanted tattooed, and the artist noticed her condition. Her
+    apparent consent was therefore ineffective, and the tattooing was an unconsented harmful or offensive contact, a
+    battery (R-TRT-002).
+  explanation_each_wrong_option:
+    A: >-
+      A signature does not make consent effective when the person signing lacks capacity and the actor knows it. The
+      form adds nothing to words of consent spoken in the same condition.
+    B: >-
+      Confused rule. Voluntary intoxication is no excuse for a defendant's own careless conduct (R-TRT-025), but the
+      question here is whether the plaintiff had the capacity to consent to another person's invasion of her body.
+    C: >-
+      Overbroad. A competent adult can validly consent to being tattooed. The consent fails here because of her
+      incapacity, not because of the nature of the act.
+  trap_type: missing-element
+  authority: ["Restatement (Second) of Torts § 892A"]
+  source: original
+  tags: [wave2, W2b-TRT, defenses, consent, capacity, intoxication]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-TRT-0107
+  subject: TRT
+  coverage_ids: [TRT-MBE-I.B.2.a]
+  rule_ids: [R-TRT-011, R-TRT-014]
+  difficulty: 2
+  stem: >-
+    Walking through a city park, a man saw a large adult pin a teenage girl against a tree while she screamed, "Let go
+    of me! Help!" Reasonably believing that the girl was being attacked, the man ran over and pulled the adult away by
+    the arm, causing him to fall and sprain his wrist. In fact, the adult was the girl's uncle and legal guardian, who
+    was restraining her, with no more force than necessary, to keep her from running into heavy traffic during a
+    tantrum. The uncle sues the man for battery. The jurisdiction follows the Restatement (Second) of Torts on the
+    privilege to defend third persons.
+  call: "Is the uncle likely to prevail?"
+  options:
+    A: "Yes, because the girl had no privilege to use force against her guardian's lawful restraint, so the man had none either."
+    B: "No, because the man reasonably believed the girl was being attacked and used reasonable force to protect her."
+    C: "Yes, because a person may use force in defense of others only to protect members of his own family."
+    D: "No, because the uncle's forcible restraint of the girl was itself an unprivileged battery on her."
+  answer: B
+  explanation_correct: >-
+    Under the Restatement (majority) rule, a person may use reasonable force to defend a third person when he
+    reasonably believes that the third person would be privileged to defend herself and that his intervention is
+    necessary; a reasonable mistake does not destroy the privilege (R-TRT-011). A girl pinned against a tree screaming
+    for help reasonably appeared to be under attack, and pulling the attacker away by the arm was reasonable,
+    nondeadly force. The man is privileged even though the uncle was acting lawfully.
+  explanation_each_wrong_option:
+    A: >-
+      Minority rule. The "steps into the shoes" view denies the privilege when the person defended was not actually
+      privileged, but the jurisdiction follows the Restatement, which protects a reasonable mistake (R-TRT-011).
+    C: >-
+      Older law limited the privilege to family members and servants; modern law allows anyone to defend a third
+      person.
+    D: >-
+      Fact misread. A guardian's reasonable restraint to keep a child out of traffic is privileged (R-TRT-014). The
+      man's defense rests on his reasonable belief, not on any wrongdoing by the uncle.
+  trap_type: minority-rule
+  authority: ["Restatement (Second) of Torts § 76"]
+  source: original
+  tags: [wave2, W2b-TRT, defenses, defense-of-others, reasonable-mistake]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-TRT-0108
+  subject: TRT
+  coverage_ids: [TRT-MBE-I.B.2.b]
+  rule_ids: [R-TRT-013, R-TRT-008]
+  difficulty: 2
+  stem: >-
+    A cyclist's $2,000 bicycle was stolen from outside her apartment. Five weeks later, she saw it chained to a rack
+    outside a cafe. When a man came out of the cafe and began to unlock it, she told him it was hers and demanded it
+    back. He said he had bought it online the week before and refused. She grabbed the handlebars and shoved him away
+    from the bicycle, and he fell and bruised his hip. She rode the bicycle home. The man had bought it in good faith
+    with no reason to know it was stolen. He sues her for battery.
+  call: "Is the man likely to prevail?"
+  options:
+    A: "No, because the bicycle belonged to her, and she demanded its return before using only reasonable, nondeadly force."
+    B: "No, because a buyer from a thief acquires no title, so the man had no right to keep the bicycle from its owner."
+    C: "Yes, because force may be used to recapture a chattel only in fresh pursuit, not weeks after the theft."
+    D: "Yes, because an owner may never use force to recover her personal property once another person has it."
+  answer: C
+  explanation_correct: >-
+    An owner whose chattel was wrongfully taken may use reasonable, nondeadly force to recapture it only in fresh
+    pursuit, after a demand (R-TRT-013). Five weeks after the theft, the cyclist was not in fresh pursuit; her remedy
+    was legal process, such as an action to recover the bicycle or for conversion. Her shove was therefore an
+    unprivileged harmful contact, and the man may recover for battery.
+  explanation_each_wrong_option:
+    A: >-
+      Missing element. A demand and reasonable force are necessary, but without fresh pursuit there is no privilege to
+      use force at all.
+    B: >-
+      True but irrelevant. The good-faith buyer from a thief took no title and is liable for conversion (R-TRT-008),
+      so the cyclist may sue to recover the bicycle or its value. Her title does not create a privilege to use force
+      outside fresh pursuit.
+    D: >-
+      Overbroad. Reasonable, nondeadly force is privileged to recapture a wrongfully taken chattel in fresh pursuit
+      (R-TRT-013); the cyclist loses because that requirement was not met.
+  trap_type: true-but-irrelevant
+  authority: ["Restatement (Second) of Torts §§ 100-106"]
+  source: original
+  tags: [wave2, W2b-TRT, defenses, recapture-of-chattels, fresh-pursuit]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-TRT-0109
+  subject: TRT
+  coverage_ids: [TRT-MBE-I.B.2.c]
+  rule_ids: [R-TRT-014, R-TRT-004, R-TRT-074]
+  difficulty: 1
+  stem: >-
+    The jurisdiction has abolished parent-child tort immunity. A father learned that his 11-year-old son had broken a
+    neighbor's window with a baseball and then lied about it. As punishment, the father locked the boy in an unheated
+    backyard shed overnight in near-freezing weather, without a blanket, food or water, and ignored his pleas to be
+    let out. The boy developed mild hypothermia and needed medical treatment. A guardian appointed by the court sues
+    the father on the boy's behalf for false imprisonment.
+  call: "Is the parental-discipline privilege likely to defeat the claim?"
+  options:
+    A: "Yes, because a parent may impose any punishment that he sincerely believes necessary to correct his child."
+    B: "Yes, because breaking a neighbor's window and then lying about it justified a serious punishment."
+    C: "No, because the parental-discipline privilege covers reasonable physical force but not confinement."
+    D: "No, because confining a child overnight in a freezing shed is an unreasonable punishment for the misconduct."
+  answer: D
+  explanation_correct: >-
+    A parent may use reasonable force and impose reasonable confinement that he reasonably believes necessary for the
+    child's control, training or education (R-TRT-014). Reasonableness depends on the child's age and condition, the
+    offense, and whether the punishment was necessary or was disproportionate or degrading. Locking an 11-year-old
+    overnight in an unheated shed in near-freezing weather without a blanket, food or water, for a broken window and a
+    lie, is grossly excessive. The privilege is lost, and the confinement is false imprisonment (R-TRT-004). With
+    immunity abolished (R-TRT-074), nothing else bars the claim.
+  explanation_each_wrong_option:
+    A: >-
+      Wrong standard. The privilege is measured objectively by what is reasonable, not by the parent's sincere belief.
+    B: >-
+      The seriousness of the misconduct is one factor in the reasonableness of a punishment, but it cannot justify a
+      confinement this dangerous and disproportionate.
+    C: >-
+      Right result, wrong reason. The privilege covers reasonable confinement as well as reasonable force (sending a
+      child to her room, for example). It fails here because this confinement was unreasonable.
+  trap_type: wrong-standard
+  authority: ["Restatement (Second) of Torts §§ 147, 150"]
+  source: original
+  tags: [wave2, W2b-TRT, defenses, parental-discipline, false-imprisonment]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-TRT-0110
+  subject: TRT
+  coverage_ids: [TRT-MBE-I.B.2.f, TRT-MBE-I.B.2.e]
+  rule_ids: [R-TRT-017, R-TRT-063]
+  difficulty: 2
+  stem: >-
+    A sudden, violent squall struck a lake while a man was out in his small sailboat. To keep the boat from capsizing
+    in the high waves, he steered it to the nearest dock, which belonged to a lakeside lodge, and tied it up. While
+    the boat was tied there, the waves banged it against the dock, causing $800 of damage to the dock. The lodge's
+    dock manager, enforcing the lodge's rule that the dock was for guests only, then untied the boat over the man's
+    protests about the storm and pushed it away. The boat was blown onto rocks and destroyed, and the man was injured
+    getting ashore. The man sues the lodge, and the lodge counterclaims for the damage to its dock.
+  call: "What is the most likely result?"
+  options:
+    A: "The man recovers for his boat and his injuries, and the lodge recovers nothing, because his use of the dock was privileged."
+    B: "The man recovers for his boat and his injuries, and the lodge recovers the $800 of damage that the boat did to its dock."
+    C: "The man recovers nothing, because the lodge could exclude a non-guest from its dock, but the lodge recovers $800."
+    D: "Neither party recovers, because both the man and the dock manager acted reasonably during an emergency."
+  answer: B
+  explanation_correct: >-
+    Private necessity (R-TRT-017) privileged the man to use the dock to protect himself and his boat from serious
+    harm. Because he was privileged, the lodge could not expel him, and a possessor who does so is liable for the harm
+    that results (Ploof v. Putnam). The dock manager was enforcing the lodge's own rule, so the lodge is vicariously
+    liable for his act (R-TRT-063) and must pay for the boat and the man's injuries. The privilege is incomplete,
+    however: the man must pay for the actual damage his boat did to the dock (Vincent v. Lake Erie Transportation
+    Co.).
+  explanation_each_wrong_option:
+    A: >-
+      Confused rule. Private necessity is an incomplete privilege: it prevents the man from being treated as a
+      trespasser, but he must still pay for the actual damage he caused.
+    C: >-
+      A person acting under private necessity is not a trespasser, and the possessor may not expel him while the
+      emergency lasts; the lodge's guests-only rule does not override the privilege.
+    D: >-
+      The dock manager's conduct was not privileged at all, and the man's privilege, being incomplete, does not excuse
+      him from paying for the damage to the dock.
+  trap_type: confused-rule
+  authority: ["Restatement (Second) of Torts §§ 197, 263", "Ploof v. Putnam, 81 Vt. 471 (1908)", "Vincent v. Lake Erie Transp. Co., 109 Minn. 456 (1910)"]
+  source: original
+  tags: [wave2, W2b-TRT, defenses, necessity, incomplete-privilege]
+  status: draft
+  last_verified: "2026-11-04"

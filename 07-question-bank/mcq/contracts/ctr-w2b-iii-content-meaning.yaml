@@ -1,0 +1,279 @@
+# Contracts — NCBE category III: Contract content and meaning (wave 2, round 2, original items)
+questions:
+- id: Q-CTR-0119
+  subject: CTR
+  coverage_ids: [CTR-MBE-III.A]
+  rule_ids: [R-CTR-049, R-CTR-050]
+  difficulty: 3
+  stem: >-
+    The jurisdiction follows the Restatement (Second) of Contracts. Torvald agreed to sell his house to
+    Beatrix for $480,000. They signed a one-page form contract that identified the parties and the
+    property and stated the price and the closing date. It contained no merger clause and said nothing
+    about a dead oak tree on Torvald's adjoining lot that leaned toward the house. A week before
+    signing, Torvald and Beatrix had orally agreed that, in exchange for a separate payment of $1,500,
+    which Beatrix paid in cash at the time, Torvald would remove the dead oak before closing. The sale
+    closed, but Torvald never removed the tree. Beatrix sued Torvald for breach of the tree-removal
+    agreement, and Torvald objected to evidence of the oral agreement under the parol evidence rule.
+  call: "Should the court admit evidence of the oral agreement?"
+  options:
+    A: "No, because the oral agreement was made before the parties signed their written contract, which superseded all prior agreements."
+    B: "No, because a promise to remove a hazard near the house is a term the parties would naturally have put in their written contract."
+    C: "Yes, because the oral term was agreed to for separate consideration and does not contradict the writing."
+    D: "Yes, because the parol evidence rule does not apply to contracts for the sale of real property."
+  answer: C
+  explanation_correct: >-
+    A writing that is only partially integrated may be supplemented by consistent additional terms; only
+    a completely integrated writing excludes them (R2d §§ 213, 216; R-CTR-049). Under § 216(2)(a), an
+    agreement is not completely integrated if the writing omits a consistent additional term that was
+    agreed to for separate consideration (see also R-CTR-050). The tree-removal promise was paid for
+    with a separate $1,500, concerns Torvald's adjoining lot rather than the property sold, and
+    contradicts nothing in the brief form contract, which has no merger clause. The evidence is
+    admissible. Trap: treating every agreement made before signing as merged into the writing.
+  explanation_each_wrong_option:
+    A: >-
+      Overbroad. A later writing supersedes prior agreements only to the extent that it is integrated;
+      consistent additional terms survive unless the writing is a complete integration (R2d § 216).
+    B: >-
+      Section 216(2) gives two independent grounds, and the separate-consideration ground alone admits
+      this term. In any event, a separately paid promise about a different lot is the kind of collateral
+      term parties might naturally leave out of a form contract for the house.
+    D: >-
+      The parol evidence rule applies to integrated written contracts of every kind, including contracts
+      to sell land. This evidence comes in because the writing is not a complete integration.
+  trap_type: overbroad
+  authority: ["R2d § 213", "R2d § 216"]
+  source: original
+  tags: [wave2, w2b, parol-evidence, partial-integration, separate-consideration]
+  status: draft
+  last_verified: "2026-11-05"
+
+- id: Q-CTR-0120
+  subject: CTR
+  coverage_ids: [CTR-MBE-III.A, CTR-MBE-II.D]
+  rule_ids: [R-CTR-050, R-CTR-037]
+  difficulty: 1
+  stem: >-
+    Pomeroy bought a restaurant business from Kasprzak for $350,000 under a detailed signed contract
+    that stated: "This writing is the complete and exclusive statement of the parties' agreement and
+    supersedes all prior negotiations." The contract said nothing about the restaurant's past revenues.
+    During negotiations, Kasprzak had told Pomeroy that the restaurant had grossed $900,000 the previous
+    year; Kasprzak knew the true figure was $520,000. Pomeroy relied on the statement in agreeing to
+    buy. After discovering the truth, Pomeroy promptly sued to rescind the contract for fraud and
+    offered evidence of Kasprzak's statement. Kasprzak objected under the parol evidence rule.
+  call: "Should the court admit the evidence?"
+  options:
+    A: "No, because the merger clause makes the writing a complete integration, which excludes evidence of all prior negotiations."
+    B: "No, because extrinsic evidence may be used only to interpret ambiguous terms, and the contract's terms are clear."
+    C: "Yes, because a merger clause is effective only if the party against whom it is enforced separately initialed it."
+    D: "Yes, because the parol evidence rule does not bar evidence offered to show that the contract was induced by fraud."
+  answer: D
+  explanation_correct: >-
+    The parol evidence rule bars prior agreements offered to contradict or supplement an integrated
+    writing, but it does not bar evidence offered to establish that the agreement is invalid or voidable
+    for fraud, duress, mistake or another invalidating cause (R2d § 214(d); R-CTR-050). Pomeroy is not
+    trying to add a revenue term to the contract; he is trying to prove that his assent was induced by a
+    knowingly false statement of fact. A general merger clause does not bar proof of fraud (R-CTR-037).
+    Trap: treating a merger clause as barring every use of prior statements.
+  explanation_each_wrong_option:
+    A: >-
+      Overbroad. A complete integration bars prior agreements offered to add to or vary its terms, not
+      evidence that the contract itself was procured by fraud (R2d § 214(d)).
+    B: >-
+      Interpretation is only one purpose for which extrinsic evidence is admissible; showing that the
+      contract is voidable for fraud is another (R-CTR-050).
+    C: >-
+      There is no general rule that a merger clause is effective only if separately initialed. The clause
+      is valid; it simply does not reach fraud.
+  trap_type: exception-trap
+  authority: ["R2d § 164", "R2d § 214(d)"]
+  source: original
+  tags: [wave2, w2b, parol-evidence, merger-clause, fraud]
+  status: draft
+  last_verified: "2026-11-05"
+
+- id: Q-CTR-0121
+  subject: CTR
+  coverage_ids: [CTR-MBE-III.B]
+  rule_ids: [R-CTR-053, R-CTR-054, R-CTR-055]
+  difficulty: 2
+  stem: >-
+    Selene, a freelance photographer, drafted her own one-page contract for a one-day photo shoot of
+    Corvane Corp.'s new headquarters and sent it to Corvane. It stated: "Fee: $4,000, which includes all
+    images from the shoot." Corvane's marketing director signed it without change. Corvane had never
+    hired Selene before and did not know her usual practices. Selene took about 900 photographs, edited
+    40 of them, and delivered the 40. Corvane demanded all 900. Selene contends that "all images" means
+    all edited images, as in her usual practice; Corvane contends that it means every photograph taken.
+    The court finds that both readings are reasonable and that nothing in the parties' negotiations or
+    any applicable trade usage shows which meaning they shared.
+  call: "How should the court most likely interpret \"all images\"?"
+  options:
+    A: "As all 900 photographs, because an ambiguous term is construed against the party who drafted it."
+    B: "As the 40 edited images, because ambiguous terms are construed in favor of the smaller and less sophisticated party."
+    C: "As the 40 edited images, because the court adopts the meaning that the professional performing the work customarily gives the term."
+    D: "As a reasonable number of images for a one-day shoot, because the court supplies a reasonable term when the language is unclear."
+  answer: A
+  explanation_correct: >-
+    Courts first try to give an ambiguous term the meaning the parties shared, using its words, the
+    context, the negotiations, any prior dealings and trade usage (R2d §§ 201, 202; R-CTR-053,
+    R-CTR-054). When those tools leave the ambiguity unresolved, the court prefers the meaning that
+    operates against the party who supplied the words (R2d § 206): the drafter could have avoided the
+    uncertainty and is more likely to have had reason to know of it. Selene wrote the clause herself, so
+    "all images" is read against her, and Corvane is entitled to all 900 photographs. Trap: assuming the
+    canon always favors the smaller or less sophisticated party; it favors the party that did not draft.
+  explanation_each_wrong_option:
+    B: >-
+      Contra proferentem turns on who supplied the language, not on size or sophistication. Here the
+      smaller party drafted, so the canon runs against her.
+    C: >-
+      One party's private practice binds the other only if the other knew or had reason to know of it (R2d
+      § 201(2)). Corvane had never dealt with Selene and did not know her practice, and the court found no
+      applicable trade usage.
+    D: >-
+      Gap-filling applies when the parties have omitted a term (R2d § 204; R-CTR-055). Here they included
+      a term whose meaning is disputed, so the court must interpret it, not replace it.
+  trap_type: wrong-standard
+  authority: ["R2d § 201", "R2d § 202", "R2d § 206"]
+  source: original
+  tags: [wave2, w2b, interpretation, contra-proferentem]
+  status: draft
+  last_verified: "2026-11-05"
+
+- id: Q-CTR-0122
+  subject: CTR
+  coverage_ids: [CTR-MBE-III.B, CTR-MBE-III.A]
+  rule_ids: [R-CTR-050, R-CTR-053, R-CTR-049]
+  difficulty: 2
+  stem: >-
+    Mortensen owned two adjoining parcels in the town of Millbrook: a half-acre lot with a house and a
+    separate one-acre wooded lot behind it. County records list both parcels under the same street
+    address, 20 Pine Road. Mortensen and Ashby signed a written contract for the sale of "the property
+    known as 20 Pine Road, Millbrook" for $410,000; the contract identified the property only by that
+    address and stated that it was the parties' complete and final agreement. Mortensen now says he
+    meant only the house lot; Ashby says she bought both parcels. Ashby offers emails exchanged during
+    negotiations in which Mortensen described the property for sale as "the house plus the wooded acre
+    behind it, 1.5 acres total." Mortensen objects under the parol evidence rule.
+  call: "Should the court admit the emails?"
+  options:
+    A: "No, because the contract states that it is the parties' complete and final agreement, which excludes evidence of prior negotiations."
+    B: "No, because the street address identifies the property with certainty, so there is nothing for extrinsic evidence to explain."
+    C: "Yes, because two parcels share the address, making the description ambiguous, and prior negotiations may show what the parties meant."
+    D: "Yes, because the emails are in writing and signed by Mortensen, so the parol evidence rule does not apply to them."
+  answer: C
+  explanation_correct: >-
+    Even a completely integrated writing must be interpreted, and the parol evidence rule does not bar
+    evidence of prior negotiations offered to establish the meaning of the writing (R2d §§ 212, 214(c);
+    R-CTR-050). "The property known as 20 Pine Road" seems clear on its face, but the extrinsic fact
+    that two parcels share that address makes it ambiguous (a latent ambiguity). Ashby's emails do not
+    add to or contradict the writing; they show which of the meanings the description can bear the
+    parties actually intended (R-CTR-053). Trap: treating a merger clause as barring evidence offered to
+    interpret, rather than to vary, the writing.
+  explanation_each_wrong_option:
+    A: >-
+      A merger clause bars prior negotiations offered to add to or contradict an integrated writing, not
+      evidence offered to interpret an ambiguous term in it (R-CTR-050).
+    B: >-
+      The certainty is only apparent. Once it appears that the address covers two parcels, the description
+      is reasonably susceptible to both parties' meanings, and evidence is admissible to resolve the
+      ambiguity.
+    D: >-
+      The parol evidence rule applies to prior written agreements as well as oral ones (R-CTR-049); that
+      the emails are written and signed does not by itself make them admissible.
+  trap_type: exception-trap
+  authority: ["R2d § 212", "R2d § 214(c)"]
+  source: original
+  tags: [wave2, w2b, interpretation, parol-evidence, latent-ambiguity]
+  status: draft
+  last_verified: "2026-11-05"
+
+- id: Q-CTR-0123
+  subject: CTR
+  coverage_ids: [CTR-MBE-III.C]
+  rule_ids: [R-CTR-055, R-CTR-071, R-CTR-070]
+  difficulty: 1
+  stem: >-
+    Quist hired Banner Remodeling under a signed contract to remodel Quist's only bathroom for $18,000.
+    The contract stated that the work would take about three weeks but said nothing about access to the
+    house. After Banner started, Quist had houseguests and, for his own convenience, refused to let
+    Banner's crew into the house on 10 of the next 15 scheduled workdays, although the crew arrived each
+    day ready to work. Banner had to pay its crew for the idle days and fell weeks behind on its other
+    jobs. Banner sued Quist for its resulting losses. Quist argues that the contract did not require him
+    to provide access on any particular day.
+  call: "Is Quist likely to be liable for breach of contract?"
+  options:
+    A: "No, because the contract imposed no express duty on Quist to provide access, and a court will not add terms to a written contract."
+    B: "Yes, because each party has an implied duty to cooperate and not to hinder the other party's performance."
+    C: "No, because a homeowner has an absolute right to control who enters the home, which overrides any contractual expectation."
+    D: "Yes, but only if Banner first demanded written assurance that Quist would provide access and Quist failed to give it."
+  answer: B
+  explanation_correct: >-
+    When the parties' agreement omits a term essential to determining their rights and duties, the court
+    supplies a term that is reasonable in the circumstances, and every contract carries a duty of good
+    faith that includes cooperation: a party may not unreasonably prevent or hinder the other's
+    performance (R2d §§ 204, 205; R-CTR-055, R-CTR-071). A contract to remodel the owner's bathroom in
+    about three weeks necessarily assumes that the owner will give the contractor reasonable access.
+    Quist's refusal on 10 of 15 workdays, for his own convenience, breached that implied duty, and
+    Banner may recover the losses it caused. Trap: treating the written words as the whole contract.
+  explanation_each_wrong_option:
+    A: >-
+      Overbroad. Courts routinely imply terms that the agreement necessarily presupposes, such as
+      reasonable access and cooperation; what they will not imply is a term that contradicts an express
+      term (R-CTR-055).
+    C: >-
+      Quist could keep the crew out, but by agreeing to a remodel he undertook to give reasonable access;
+      refusing it for his own convenience is a breach for which he must pay damages.
+    D: >-
+      A demand for assurance is available to a party with reasonable grounds for insecurity about future
+      performance (R2d § 251; R-CTR-070); it is not a precondition to suing for a breach that has already
+      occurred.
+  trap_type: overbroad
+  authority: ["R2d § 204", "R2d § 205"]
+  source: original
+  tags: [wave2, w2b, implied-terms, duty-to-cooperate]
+  status: draft
+  last_verified: "2026-11-05"
+
+- id: Q-CTR-0124
+  subject: CTR
+  coverage_ids: [CTR-MBE-III.C]
+  rule_ids: [R-CTR-055, R-CTR-020]
+  difficulty: 3
+  stem: >-
+    For six years, under a signed agreement governed by Article 2 of the UCC, Halcyon Paints sold paint
+    to Bridger Hardware, a retailer, for resale. The agreement set prices and ordering procedures but
+    stated no duration and said nothing about how it could be ended. Each spring, as Halcyon knew,
+    Bridger placed large orders and bought display racks designed for Halcyon products. On March 3,
+    without warning, Halcyon notified Bridger that the relationship was over effective immediately and
+    that it would accept no further orders. Bridger could not arrange a substitute paint line for
+    several months and sued Halcyon for its resulting losses.
+  call: "Is Halcyon liable to Bridger?"
+  options:
+    A: "No, because a contract of indefinite duration may be terminated by either party at any time without notice."
+    B: "No, because an agreement that states no duration is too indefinite to be enforced."
+    C: "Yes, because a contract of indefinite duration continues until one party materially breaches it."
+    D: "Yes, because Halcyon ended an agreement of indefinite duration without giving Bridger reasonable notification."
+  answer: D
+  explanation_correct: >-
+    Under UCC § 2-309(2), a contract that provides for successive performances but is indefinite in
+    duration is valid for a reasonable time and, unless otherwise agreed, may be terminated at any time
+    by either party. But under § 2-309(3), termination by one party, except on the happening of an
+    agreed event, requires that the other party receive reasonable notification (R-CTR-020, R-CTR-055).
+    The notice requirement gives the other party time to make substitute arrangements. Halcyon could end
+    a six-year relationship, but not overnight and without notice to a dealer it knew had invested in
+    its product line. Halcyon is liable for the losses caused by its failure to give reasonable
+    notification. Trap: reading "terminable at any time" as "terminable without notice."
+  explanation_each_wrong_option:
+    A: >-
+      Half right. Either party may terminate an agreement of indefinite duration (§ 2-309(2)), but only on
+      reasonable notification (§ 2-309(3)).
+    B: >-
+      An agreement that states no duration does not fail for indefiniteness; the Code treats it as valid
+      for a reasonable time and supplies a termination rule (§§ 2-204(3), 2-309(2)).
+    C: >-
+      Overstates the protection. An agreement of indefinite duration may be terminated by either party
+      without any breach, as long as reasonable notification is given.
+  trap_type: exception-trap
+  authority: ["UCC § 2-309(2)", "UCC § 2-309(3)"]
+  source: original
+  tags: [wave2, w2b, ucc, implied-terms, termination-notice]
+  status: draft
+  last_verified: "2026-11-05"

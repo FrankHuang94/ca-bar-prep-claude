@@ -1,0 +1,279 @@
+# Civil Procedure — NCBE category II: Law applied by federal courts (wave 2, batch B, original items)
+questions:
+- id: Q-CIV-0116
+  subject: CIV
+  coverage_ids: [CIV-MBE-II.A, CIV-MBE-V.C, CIV-MBE-VII.C]
+  rule_ids: [R-CIV-039, R-CIV-089, R-CIV-102]
+  difficulty: 3
+  stem: >-
+    A State N statute provides that a court reviewing a damages award "shall determine that an award is
+    excessive if it deviates materially from what would be reasonable compensation," and State N's
+    appellate courts apply that standard themselves when reviewing awards. Federal courts have
+    traditionally ordered a new trial for excessiveness only if an award "shocks the conscience." In a
+    federal diversity action governed by State N law, a jury awarded Lowery $2.1 million for injuries
+    from a fall. The defendant timely moved for a new trial, arguing that the award was excessive.
+  call: "Which of the following correctly describes how the excessiveness challenge will be decided?"
+  options:
+    A: "The trial judge applies State N's deviates-materially standard, and the court of appeals reviews only for abuse of discretion."
+    B: "The trial judge applies the federal shocks-the-conscience standard, because Rule 59 governs new-trial motions in federal court."
+    C: "The trial judge applies State N's standard, and the court of appeals then applies the same standard to the award independently."
+    D: "Neither court may consider excessiveness, because the Seventh Amendment commits the amount of damages exclusively to the jury."
+  answer: A
+  explanation_correct: >-
+    Rule 59 makes new trials available but does not say when an award is excessive, so no Federal Rule
+    controls the standard (R-CIV-038). Under the Erie analysis for matters no federal rule governs, State
+    N's deviates-materially standard is applied: ignoring it would produce substantially different
+    awards in federal court and invite forum shopping (R-CIV-039; Gasperini). The federal trial judge
+    therefore applies State N's standard. But the Seventh Amendment's Reexamination Clause, a
+    countervailing federal interest, confines the court of appeals to reviewing the trial judge's ruling
+    for abuse of discretion (R-CIV-102). Trap: assuming the whole State N system, including independent
+    appellate review, travels into federal court.
+  explanation_each_wrong_option:
+    B: >-
+      Rule 59 does not set the excessiveness standard; under Gasperini the State's standard governs in
+      diversity because disregarding it would affect outcomes and encourage forum shopping.
+    C: >-
+      The Reexamination Clause bars federal appellate courts from independently re-weighing a jury's
+      damages award; they review the trial judge's application of the standard only for abuse of
+      discretion.
+    D: >-
+      Overbroad. Federal judges may order a new trial or offer remittitur for an excessive award
+      (R-CIV-089); the Seventh Amendment limits how the award is reviewed, not whether.
+  trap_type: wrong-standard
+  authority: ["Gasperini v. Center for Humanities, Inc., 518 U.S. 415 (1996)", "FRCP 59(a)", "U.S. Const. amend. VII"]
+  source: original
+  tags: [wave2, w2b, erie, gasperini, excessive-verdict]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CIV-0117
+  subject: CIV
+  coverage_ids: [CIV-MBE-II.A]
+  rule_ids: [R-CIV-040, R-CIV-039, R-CIV-037]
+  difficulty: 1
+  stem: >-
+    Ingersoll bought a bakery business from Sutton in 2021. In 2022 Ingersoll discovered that Sutton
+    had falsified the bakery's sales records. In 2026 Ingersoll sued Sutton in federal court under
+    diversity jurisdiction, seeking only rescission of the sale and restitution of the price, which are
+    equitable remedies under the governing state law. The State's statute of limitations requires any
+    action based on fraud, whether at law or in equity, to be brought within three years after discovery
+    of the fraud, and a state court would dismiss Ingersoll's claim as untimely. Ingersoll argues that
+    because she seeks only equitable relief, the federal court should instead apply the federal
+    equitable doctrine of laches, under which her delay was reasonable and caused Sutton no prejudice.
+  call: "Which approach should the federal court take?"
+  options:
+    A: "Apply laches, because a federal court exercising equitable powers applies federal equitable principles rather than state rules."
+    B: "Apply laches, because statutes of limitations are procedural rules, and federal courts always apply federal procedure."
+    C: "Apply the limitations period of the most closely analogous federal statute, because the claim is in federal court."
+    D: "Apply the State's limitations period, because it governs a state-law claim in diversity even when the relief sought is equitable."
+  answer: D
+  explanation_correct: >-
+    In a diversity case, the federal court applies the State's statute of limitations to a state-law
+    claim, whether the relief sought is legal or equitable (R-CIV-040; Guaranty Trust Co. v. York).
+    Disregarding the limitations period would change the outcome, allowing in federal court a claim that
+    a state court would dismiss, and so would encourage forum shopping and the inequitable
+    administration of the laws that Erie forbids (R-CIV-037, R-CIV-039). Ingersoll discovered the fraud
+    in 2022, so the three-year period ran before she sued in 2026. Trap: invoking federal equitable
+    traditions to escape state limitations law.
+  explanation_each_wrong_option:
+    A: >-
+      York rejected exactly this argument: a federal court hearing a state-created equitable claim in
+      diversity must apply the State's limitations period, because the outcome should not depend on the
+      choice of a federal forum.
+    B: >-
+      Labels do not decide Erie questions. For Erie purposes a statute of limitations is treated as
+      substantive because it determines whether the claim can be enforced at all (York).
+    C: >-
+      Borrowing an analogous limitations period is a technique for federal claims that lack their own; a
+      state-law claim in diversity is governed by the State's own period.
+  trap_type: wrong-standard
+  authority: ["Guaranty Trust Co. v. York, 326 U.S. 99 (1945)", "Erie R.R. v. Tompkins, 304 U.S. 64 (1938)", "28 U.S.C. § 1652"]
+  source: original
+  tags: [wave2, w2b, erie, statute-of-limitations, equity]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CIV-0118
+  subject: CIV
+  coverage_ids: [CIV-MBE-II.A, CIV-MBE-III.E]
+  rule_ids: [R-CIV-065, R-CIV-040, R-CIV-064]
+  difficulty: 2
+  stem: >-
+    Danforth sued Kroll in federal court under diversity jurisdiction for breach of a partnership
+    agreement governed by the law of State R. A State R statute creates a privilege for confidential
+    communications between a client and the client's certified public accountant; federal common law
+    recognizes no such privilege. Kroll subpoenaed Danforth's accountant for a deposition and sought to
+    question him about Danforth's confidential communications concerning the partnership's tax returns,
+    which fall within the State R privilege. Danforth moved for a protective order based on the
+    privilege.
+  call: "How should the court rule on the motion?"
+  options:
+    A: "Grant it, because in a civil case state law governs privilege as to a claim for which state law supplies the rule of decision."
+    B: "Deny it, because federal courts apply the federal common law of privilege, which recognizes no accountant-client privilege."
+    C: "Deny it, because the Federal Rules of Civil Procedure govern all discovery disputes in federal court, whatever the basis of jurisdiction."
+    D: "Grant it, because the Federal Rules of Evidence adopt every privilege recognized by the law of the forum State in all federal cases."
+  answer: A
+  explanation_correct: >-
+    Discovery reaches only nonprivileged matter (FRCP 26(b)(1); R-CIV-064), and privilege questions are
+    governed by FRE 501. Federal common law generally supplies privilege rules, but in a civil case,
+    state law governs privilege regarding a claim or defense for which state law supplies the rule of
+    decision (FRE 501; R-CIV-065). Danforth's partnership claim is a state-law claim heard in diversity,
+    so State R's accountant-client privilege applies, and the court should protect the privileged
+    communications. Trap: assuming federal procedure or federal privilege law governs everything in
+    federal court.
+  explanation_each_wrong_option:
+    B: >-
+      The federal common law of privilege governs federal-law claims and criminal cases; for a state-law
+      claim in a civil case, FRE 501 points to state privilege law.
+    C: >-
+      The Federal Rules govern the discovery process, but Rule 26(b)(1) limits discovery to nonprivileged
+      matter, and FRE 501 makes state law the source of privilege for this state-law claim.
+    D: >-
+      Overbroad. State privilege law applies only to claims or defenses for which state law supplies the
+      rule of decision; on a federal-law claim, federal privilege law governs.
+  trap_type: confused-rule
+  authority: ["FRE 501", "FRCP 26(b)(1)", "FRCP 26(c)(1)"]
+  source: original
+  tags: [wave2, w2b, erie, privilege, fre-501, discovery]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CIV-0119
+  subject: CIV
+  coverage_ids: [CIV-MBE-II.A]
+  rule_ids: [R-CIV-037, R-CIV-010]
+  difficulty: 2
+  stem: >-
+    Bertrand sued her former employer, Kestler Corp., in federal court; both are citizens of State T.
+    Count 1 alleges sexual harassment in violation of a federal anti-discrimination statute. Count 2,
+    based on the same course of harassment, alleges intentional infliction of emotional distress under
+    State T law. Under State T law, a plaintiff suing for intentional infliction of emotional distress
+    must prove that her distress produced physical symptoms; federal decisions under other statutes
+    impose no such requirement. Bertrand argues that because the court's jurisdiction rests on a federal
+    question, federal law governs the elements of both counts.
+  call: "Which law determines whether Bertrand must prove physical symptoms on Count 2?"
+  options:
+    A: "Federal common law, because the court's original jurisdiction over the action rests on a federal question rather than diversity."
+    B: "Federal law, because the Erie doctrine and the Rules of Decision Act apply only when jurisdiction rests on diversity."
+    C: "State T law, because state substantive law governs a state-law claim even when it is heard under supplemental jurisdiction."
+    D: "State T law, but only if the court dismisses the federal count and then chooses to keep Count 2 under § 1367(c)."
+  answer: C
+  explanation_correct: >-
+    Count 2 is within supplemental jurisdiction because it arises from the same harassment as the
+    federal claim (R-CIV-010). A federal court hearing a state-law claim applies state substantive law,
+    whether its jurisdiction over that claim rests on diversity or on supplemental jurisdiction, because
+    there is no federal general common law and the Rules of Decision Act makes state law the rule of
+    decision unless federal law requires otherwise (R-CIV-037; Erie; 28 U.S.C. § 1652). The elements of
+    the state tort are substantive, so State T law decides whether physical symptoms must be proved.
+    Federal law continues to govern Count 1 and matters of procedure. Trap: letting the jurisdictional
+    basis of the case dictate the substantive law of each claim.
+  explanation_each_wrong_option:
+    A: >-
+      The basis of jurisdiction does not change the governing substantive law; there is no federal general
+      common law (Erie), and Count 2 is a state-law claim.
+    B: >-
+      The Rules of Decision Act applies in all civil actions, and Erie governs any state-law claim in
+      federal court, including one heard under § 1367.
+    D: >-
+      State law governs Count 2 from the outset, not only after the federal claim drops out; § 1367(c)
+      affects whether the court keeps the claim, not which law applies to it.
+  trap_type: confused-rule
+  authority: ["Erie R.R. v. Tompkins, 304 U.S. 64 (1938)", "28 U.S.C. § 1652", "28 U.S.C. § 1367(a), (c)"]
+  source: original
+  tags: [wave2, w2b, erie, supplemental-jurisdiction]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CIV-0120
+  subject: CIV
+  coverage_ids: [CIV-MBE-II.B, CIV-MBE-VI.D]
+  rule_ids: [R-CIV-098, R-CIV-041, R-CIV-075, R-CIV-094]
+  difficulty: 3
+  stem: >-
+    Ashworth, a citizen of State M, sued Vireo Corp., a citizen of State L, in federal district court in
+    State K under diversity jurisdiction for breach of contract. The court dismissed the action as barred
+    by State K's two-year statute of limitations, in an order stating that the dismissal was "on the
+    merits and with prejudice." Ashworth then sued Vireo on the same claim in a State M state court,
+    where the limitations period is four years. Under State K law, a dismissal on limitations grounds
+    bars a new action only in State K's courts and does not prevent suit in a State with a longer
+    limitations period. No federal interest would be impaired by applying State K's rule. Vireo moves to
+    dismiss the State M action as barred by the federal judgment.
+  call: "How should the State M court rule on the motion?"
+  options:
+    A: "Deny it, because the effect of a federal diversity judgment is set by federal common law, which here adopts State K's rule."
+    B: "Grant it, because under Rule 41(b) a dismissal designated as on the merits bars the same claim in every other court."
+    C: "Deny it, because a court asked to give effect to another court's judgment applies its own State's law of preclusion."
+    D: "Grant it, because the full-faith-and-credit statute requires every court to give a judgment the effect stated in its text."
+  answer: A
+  explanation_correct: >-
+    The claim-preclusive effect of a federal diversity judgment is a matter of federal common law, which
+    ordinarily adopts the preclusion law of the State in which the rendering federal court sat, unless
+    that law is incompatible with federal interests (R-CIV-098, R-CIV-041; Semtek). The rendering court
+    sat in State K, and under State K law a limitations dismissal does not bar suit in a State with a
+    longer limitations period. No federal interest calls for a different rule, so the State M action may
+    proceed. Semtek also reads the "adjudication on the merits" language of Rule 41(b) as chiefly barring
+    refiling in the same federal court; it does not itself fix the judgment's effect elsewhere
+    (R-CIV-075). Trap: reading "on the merits" literally.
+  explanation_each_wrong_option:
+    B: >-
+      Semtek read Rule 41(b)'s on-the-merits language as barring refiling in the same federal court, not
+      as prescribing the judgment's claim-preclusive effect in other courts.
+    C: >-
+      The second court does not choose its own preclusion law; the effect of a judgment is set by the law
+      governing the rendering court, here federal common law borrowing State K's rule.
+    D: >-
+      28 U.S.C. § 1738 governs the effect of state-court judgments; the effect of a federal judgment is a
+      matter of federal law, which here borrows State K's rule rather than the label in the order.
+  trap_type: overbroad
+  authority: ["Semtek Int'l Inc. v. Lockheed Martin Corp., 531 U.S. 497 (2001)", "FRCP 41(b)", "28 U.S.C. § 1738"]
+  source: original
+  tags: [wave2, w2b, federal-common-law, preclusion, semtek]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-CIV-0121
+  subject: CIV
+  coverage_ids: [CIV-MBE-II.B]
+  rule_ids: [R-CIV-041, R-CIV-037]
+  difficulty: 3
+  stem: >-
+    Under a nationwide federal lending program, a federal agency lent money to Ridgeline Bakery and took
+    a security interest in its ovens. Weller Finance, a private lender, also holds a lien on the same
+    ovens. After Ridgeline defaulted, the United States sued in federal court to establish that its lien
+    has priority over Weller's. No federal statute or regulation addresses the priority of liens arising
+    under the program. Under the commercial law of the State where the ovens are located, Weller's lien
+    has priority because it was perfected first. The government argues that a uniform federal rule should
+    give its lien priority; Weller argues that state law governs of its own force.
+  call: "Which of the following best describes the law that governs priority?"
+  options:
+    A: "State law of its own force, because under Erie a federal court must apply state law to any claim not created by an Act of Congress."
+    B: "A uniform federal rule favoring the United States, because federal common law protects the government's financial interests in its programs."
+    C: "State law of its own force, because federal courts may make federal common law only when Congress expressly authorizes them to do so."
+    D: "Federal law, which the court may fashion by adopting the State's priority rules, because nothing requires a nationally uniform rule."
+  answer: D
+  explanation_correct: >-
+    The rights of the United States arising from a nationwide federal lending program are governed by
+    federal law, an enclave of uniquely federal interest (R-CIV-041; Clearfield Trust; Kimbell Foods).
+    But federal law need not mean a newly invented federal rule. Where national uniformity is not needed
+    and applying state law would not frustrate federal objectives, the court adopts state law as the
+    federal rule of decision. In Kimbell Foods the Supreme Court applied that approach to the priority
+    of liens arising from federal lending programs and adopted nondiscriminatory state commercial law
+    rather than a special rule favoring the government. Applying the State's rule, Weller prevails.
+    Trap: assuming that "federal law governs" means "the government wins."
+  explanation_each_wrong_option:
+    A: >-
+      Erie does not require state law where uniquely federal interests are at stake; the rights of the
+      United States under its nationwide programs are governed by federal law, even when that law
+      borrows state rules (R-CIV-037, R-CIV-041).
+    B: >-
+      Overbroad. Kimbell Foods declined to create a special priority rule favoring the government and
+      adopted state commercial law as the federal rule of decision.
+    C: >-
+      Federal courts make federal common law in enclaves of uniquely federal interest without express
+      congressional authorization (Clearfield Trust; R-CIV-041).
+  trap_type: confused-rule
+  authority: ["United States v. Kimbell Foods, Inc., 440 U.S. 715 (1979)", "Clearfield Trust Co. v. United States, 318 U.S. 363 (1943)"]
+  source: original
+  tags: [wave2, w2b, federal-common-law, kimbell-foods]
+  status: draft
+  last_verified: 2026-11-04

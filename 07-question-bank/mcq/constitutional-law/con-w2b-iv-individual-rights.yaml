@@ -1,0 +1,635 @@
+# Constitutional Law — NCBE category IV (A–E): individual rights other than the First Amendment
+# Original MBE-style items (wave 2, batch b). No item relies on Sheetz, Tyler, Skrmetti, SFFA, Rahimi or
+# any OT2025 decision (V-034/V-035). Troxel v. Granville is cited only as a plurality opinion.
+questions:
+- id: Q-CON-0126
+  subject: CON
+  coverage_ids: [CON-MBE-IV.A]
+  rule_ids: [R-CON-054, R-CON-095, R-CON-094]
+  difficulty: 1
+  stem: >-
+    A privately owned shopping mall contains 150 stores, a food court and enclosed walkways that are open
+    to the public during business hours. The owner forbids leafleting anywhere on mall property. Members of
+    a citizens' group distributed leaflets in a walkway urging shoppers to oppose a proposed state law.
+    Mall security, enforcing the owner's policy, ordered them to leave, and they left. They then sued the
+    mall's owner in federal court, alleging only that the owner violated their First Amendment rights.
+  call: "Are the members likely to prevail?"
+  options:
+    A: "Yes, because a large mall open to the public functions as a modern town square and must allow peaceful leafleting."
+    B: "Yes, because the mall's walkways are a public forum in which only reasonable time, place and manner restrictions are permitted."
+    C: "No, because the members had ample alternative channels of communication on the public sidewalks outside the mall."
+    D: "No, because the mall's owner is not a state actor, so the First Amendment does not restrict its policy."
+  answer: D
+  explanation_correct: >-
+    D is correct. The First Amendment restrains only government; private conduct is state action only if
+    the private party performs a function traditionally and exclusively reserved to the state or is
+    sufficiently entangled with the state (R-CON-054). A privately owned shopping center open to the public
+    is not the functional equivalent of a municipality, so its owner may exclude leafleters without
+    violating the First Amendment (Hudgens v. NLRB; Lloyd Corp. v. Tanner). The members asserted only a
+    federal claim, so they lose. On a California-law call, note that the California Constitution's
+    free-speech clause has been held to reach some large shopping centers, which the U.S. Supreme Court
+    held a state may require (PruneYard Shopping Center v. Robins; see ca-distinctions).
+  explanation_each_wrong_option:
+    A: >-
+      Confused rule. Marsh v. Alabama treated a privately owned company town, which performed all the
+      functions of a municipality, as a state actor; the Court has refused to extend that rule to shopping
+      centers (R-CON-054; Hudgens).
+    B: >-
+      Wrong framework. Forum analysis classifies government property; without state action there is no
+      forum to classify (R-CON-054; R-CON-095).
+    C: >-
+      Right result, wrong reason. Ample alternative channels is part of the time, place and manner test,
+      which applies only to government regulation; the members lose because there is no state action at
+      all (R-CON-054; R-CON-094).
+  trap_type: right-result-wrong-reason
+  authority: ["U.S. Const. amend. I", "Hudgens v. NLRB, 424 U.S. 507 (1976)", "Lloyd Corp. v. Tanner, 407 U.S. 551 (1972)", "Marsh v. Alabama, 326 U.S. 501 (1946)", "PruneYard Shopping Center v. Robins, 447 U.S. 74 (1980)"]
+  source: original
+  tags: [wave2, w2b, state-action, public-function]
+  status: draft
+  last_verified: 2026-11-05
+
+- id: Q-CON-0127
+  subject: CON
+  coverage_ids: [CON-MBE-IV.B.1.a]
+  rule_ids: [R-CON-061, R-CON-060, R-CON-076, R-CON-077]
+  difficulty: 1
+  stem: >-
+    A state amended its compulsory-education law to require every child between 6 and 16 to attend a
+    public school, eliminating the former exemption for children enrolled in accredited private schools.
+    The legislature found that a common public-school experience promotes civic unity. Parents who want to
+    keep their children in an accredited, nonreligious private academy sued to enjoin enforcement of the
+    law, claiming that it violates the Due Process Clause of the Fourteenth Amendment.
+  call: "How should the court rule?"
+  options:
+    A: "For the parents, because the law unreasonably interferes with the liberty of parents to direct the upbringing and education of their children."
+    B: "For the state, because education is not a fundamental right, so the law need only be rationally related to the interest in civic unity."
+    C: "For the state, because the parents' objection is not religious, so the law does not burden any interest that the Constitution protects."
+    D: "For the parents, because the law effectively takes the private academy's business for public use without paying just compensation."
+  answer: A
+  explanation_correct: >-
+    A is correct. Substantive due process protects the right of parents to direct the upbringing and
+    education of their children, which the Court lists among fundamental liberty interests (R-CON-061;
+    Washington v. Glucksberg). In Pierce v. Society of Sisters the Court struck down a law requiring all
+    children to attend public schools because it unreasonably interfered with that parental liberty. A
+    state may reasonably regulate and inspect private schools, but it may not force all children into
+    public schools. (The leading modern parental-rights decision, Troxel v. Granville, was a plurality
+    opinion.)
+  explanation_each_wrong_option:
+    B: >-
+      Confused rule. Rodriguez held that education is not a fundamental right for purposes of a
+      school-funding equal protection claim (R-CON-076); the parents assert a different right, the
+      parental liberty to choose a child's schooling, which Pierce protects (R-CON-061).
+    C: >-
+      Wrong premise. The parental right recognized in Meyer and Pierce does not depend on religion; it
+      protects parents whatever the reason for their choice (R-CON-061).
+    D: >-
+      Wrong theory. The parents are not the academy's owners, and the law takes no property for public
+      use; the constitutional defect is the interference with parental liberty (R-CON-061; R-CON-077).
+  trap_type: confused-rule
+  authority: ["U.S. Const. amend. XIV, § 1", "Pierce v. Society of Sisters, 268 U.S. 510 (1925)", "Meyer v. Nebraska, 262 U.S. 390 (1923)", "Washington v. Glucksberg, 521 U.S. 702 (1997)", "San Antonio Indep. School Dist. v. Rodriguez, 411 U.S. 1 (1973)"]
+  source: original
+  tags: [wave2, w2b, substantive-due-process, parental-rights]
+  status: draft
+  last_verified: 2026-11-05
+
+- id: Q-CON-0128
+  subject: CON
+  coverage_ids: [CON-MBE-IV.B.1.a]
+  rule_ids: [R-CON-061, R-CON-060, R-CON-062, R-CON-066]
+  difficulty: 2
+  stem: >-
+    A state enacted a statute making it a misdemeanor for any person, married or unmarried, to use any drug
+    or device to prevent pregnancy. A married couple who use contraceptives, and whom the local prosecutor
+    has told that the statute will be enforced, sued for a declaration that the statute is
+    unconstitutional. The state argues that because the Supreme Court has held that the Constitution
+    confers no right to abortion, the statute need only have a rational basis.
+  call: "How should the court rule?"
+  options:
+    A: "For the state, because the Due Process Clause protects only those rights that are expressly listed in the Bill of Rights."
+    B: "For the state, because Dobbs v. Jackson Women's Health Organization subjects every claimed unenumerated right to rational-basis review."
+    C: "For the couple, because the statute burdens married couples' fundamental right to use contraception and cannot survive strict scrutiny."
+    D: "For the couple, because the statute discriminates against married persons, a quasi-suspect class entitled to intermediate scrutiny."
+  answer: C
+  explanation_correct: >-
+    C is correct. Substantive due process protects fundamental rights, and laws that substantially burden
+    them must satisfy strict scrutiny (R-CON-060). The Court has recognized the right to use contraception
+    as fundamental, beginning with married couples in Griswold v. Connecticut (R-CON-061). A flat criminal
+    ban on use by married couples is not narrowly tailored to any compelling interest. Dobbs held that
+    there is no constitutional right to abortion, but the majority stated that its decision concerns
+    abortion only and should not be understood to cast doubt on precedents that do not concern abortion
+    (R-CON-062).
+  explanation_each_wrong_option:
+    A: >-
+      Wrong rule. Substantive due process protects some rights not listed in the Bill of Rights, such as
+      the rights to marry, to direct children's upbringing and to use contraception (R-CON-061).
+    B: >-
+      Overbroad. Dobbs applied the history-and-tradition test and held only that abortion is not a
+      fundamental right; it did not overrule Griswold or the other recognized fundamental rights
+      (R-CON-060; R-CON-062).
+    D: >-
+      Fact misread. The statute applies to married and unmarried persons alike, and marital status is not
+      a suspect or quasi-suspect classification in any event; the claim rests on substantive due process,
+      not equal protection (R-CON-066).
+  trap_type: overbroad
+  authority: ["U.S. Const. amend. XIV, § 1", "Griswold v. Connecticut, 381 U.S. 479 (1965)", "Dobbs v. Jackson Women's Health Org., 597 U.S. 215 (2022)", "Washington v. Glucksberg, 521 U.S. 702 (1997)"]
+  source: original
+  tags: [wave2, w2b, substantive-due-process, contraception]
+  status: draft
+  last_verified: 2026-11-05
+
+- id: Q-CON-0129
+  subject: CON
+  coverage_ids: [CON-MBE-IV.B.1.b]
+  rule_ids: [R-CON-063, R-CON-057]
+  difficulty: 2
+  stem: >-
+    Late at night, a city police officer began chasing a car that had been reported stolen. The pursuit
+    reached 80 miles per hour on residential streets, in violation of a department policy that limits
+    chases in residential areas. At an intersection, the officer's patrol car skidded and struck a car
+    driven by a nurse returning home from work, seriously injuring her. A jury could find that the officer
+    acted recklessly, but nothing indicates that he intended to harm the nurse or anyone else; he was trying
+    to catch the suspect. The nurse sued the officer under 42 U.S.C. § 1983, alleging a violation of
+    substantive due process.
+  call: "Should the court grant the officer's motion for summary judgment on that claim?"
+  options:
+    A: "No, because a jury could find that the officer acted with reckless disregard for the safety of others, which shocks the conscience."
+    B: "Yes, because in a sudden high-speed chase, only a purpose to cause harm unrelated to the goal of arrest shocks the conscience."
+    C: "No, because violating a department policy that protects public safety is itself a deprivation of liberty without due process."
+    D: "Yes, because the Due Process Clause protects against deprivations of property and of freedom from confinement, not bodily injury."
+  answer: B
+  explanation_correct: >-
+    B is correct. Executive action violates substantive due process only if it is so egregious that it
+    shocks the conscience (R-CON-063; County of Sacramento v. Lewis). When an officer must make split-second
+    decisions in a high-speed chase, without time for deliberation, only a purpose to cause harm unrelated
+    to the legitimate object of arrest meets that standard; recklessness or deliberate indifference is not
+    enough in that setting. Nothing suggests the officer intended to harm anyone, so summary judgment for
+    the officer on this claim is proper.
+  explanation_each_wrong_option:
+    A: >-
+      Wrong standard. Deliberate indifference can shock the conscience where officials have time to
+      deliberate, as in custodial settings, but not in a sudden pursuit, where intent to harm is required
+      (Lewis).
+    C: >-
+      Confused rule. A violation of internal policy or state law is not by itself a constitutional
+      violation; the question is whether the conduct shocks the conscience (R-CON-063).
+    D: >-
+      Wrong rule. Liberty includes freedom from government-inflicted bodily harm; the nurse loses because
+      the conduct does not shock the conscience, not because her interest is unprotected (R-CON-057;
+      R-CON-063).
+  trap_type: wrong-standard
+  authority: ["U.S. Const. amend. XIV, § 1", "County of Sacramento v. Lewis, 523 U.S. 833 (1998)", "42 U.S.C. § 1983"]
+  source: original
+  tags: [wave2, w2b, substantive-due-process, shocks-the-conscience]
+  status: draft
+  last_verified: 2026-11-05
+
+- id: Q-CON-0130
+  subject: CON
+  coverage_ids: [CON-MBE-IV.B.2]
+  rule_ids: [R-CON-058, R-CON-057]
+  difficulty: 3
+  stem: >-
+    A state pays monthly benefits to workers who become unable to work because of a disabling medical
+    condition; eligibility does not depend on financial need. When a periodic review suggests that a
+    recipient has recovered, the state agency sends the recipient a summary of the medical reports on which
+    it relies, invites a written response and additional medical evidence, and then decides whether to
+    stop payments. After termination, the recipient may obtain a full evidentiary hearing before an
+    administrative law judge, and a recipient who prevails receives all benefits withheld in the meantime.
+    A recipient whose benefits were stopped under these procedures sued, claiming that due process required
+    an evidentiary hearing before termination.
+  call: "Is the recipient likely to prevail?"
+  options:
+    A: "Yes, because whenever the government terminates benefits on which a person depends, it must first hold an evidentiary hearing."
+    B: "Yes, because the recipient has a legitimate claim of entitlement to continued benefits under state law."
+    C: "No, because disability benefits are a privilege granted by the state rather than a right, so no process is due."
+    D: "No, because written pretermination procedures, plus a full later hearing and retroactive payment, provide the process due."
+  answer: D
+  explanation_correct: >-
+    D is correct. Once a protected interest is at stake, the process due is set by balancing the private
+    interest, the risk of error under existing procedures and the value of added safeguards, and the
+    government's interest, including administrative burdens (R-CON-058; Mathews v. Eldridge). Because the
+    benefits do not depend on financial need, an erroneous cutoff is less likely than a welfare cutoff to
+    leave the recipient without means to live while awaiting a hearing; the decision rests largely on
+    written medical evidence, which written submissions test well; and a full post-termination hearing with
+    retroactive payment corrects errors. Mathews held that procedures like these satisfy due process.
+  explanation_each_wrong_option:
+    A: >-
+      Overbroad. Goldberg v. Kelly required a pretermination evidentiary hearing for need-based welfare,
+      where an erroneous cutoff can deprive a person of the very means to live; Mathews declined to extend
+      that rule to disability benefits (R-CON-058).
+    B: >-
+      Missing element. The recipient does have a property interest (R-CON-057), but that only triggers the
+      inquiry into what process is due; it does not by itself require a pretermination evidentiary
+      hearing (R-CON-058).
+    C: >-
+      Outdated distinction. The Court has rejected the right-privilege distinction: statutory benefits for
+      those who meet the eligibility criteria are property protected by due process (R-CON-057; Goldberg;
+      Roth).
+  trap_type: missing-element
+  authority: ["U.S. Const. amend. XIV, § 1", "Mathews v. Eldridge, 424 U.S. 319 (1976)", "Goldberg v. Kelly, 397 U.S. 254 (1970)", "Board of Regents v. Roth, 408 U.S. 564 (1972)"]
+  source: original
+  tags: [wave2, w2b, procedural-due-process, mathews-balancing]
+  status: draft
+  last_verified: 2026-11-05
+
+- id: Q-CON-0131
+  subject: CON
+  coverage_ids: [CON-MBE-IV.C.1]
+  rule_ids: [R-CON-075]
+  difficulty: 3
+  stem: >-
+    A state created a water-storage district to build and operate reservoirs and irrigation canals in an
+    agricultural valley. The district provides no general governmental services: it does not run schools,
+    provide police or fire protection, or regulate land use. Its costs are assessed against the farmland it
+    serves in proportion to the benefit each parcel receives. By statute, only landowners may vote in
+    elections for the district's board, and each landowner has one vote for each acre owned. Residents of
+    the valley who rent their homes and own no land sued, claiming the voting scheme violates the Equal
+    Protection Clause.
+  call: "How should the court rule?"
+  options:
+    A: "For the district, because a special-purpose district that disproportionately affects landowners may limit and weight the vote in their favor."
+    B: "For the residents, because limiting the franchise to property owners is subject to strict scrutiny and is not necessary to any compelling interest."
+    C: "For the residents, because weighting each landowner's vote by acreage violates the principle of one person, one vote."
+    D: "For the district, because the right to vote in local elections is not a fundamental right protected by the Equal Protection Clause."
+  answer: A
+  explanation_correct: >-
+    A is correct. Laws that deny the vote in general-purpose elections get strict scrutiny, and one person,
+    one vote applies to local governments that exercise general governmental powers (R-CON-075; Kramer).
+    But when a district has a special, limited purpose and its activities disproportionately affect a
+    definable group, such as the landowners who bear its costs, the state may limit or weight the vote
+    toward that group if the scheme is reasonable (Salyer Land Co. v. Tulare Lake Basin Water Storage
+    District; Ball v. James). This district provides no general services and is financed by assessments on
+    land, so the landowner-only, acreage-weighted vote is valid.
+  explanation_each_wrong_option:
+    B: >-
+      Exception trap. Strict scrutiny governs property qualifications in general-purpose elections
+      (Kramer), but the special-purpose district exception applies here (R-CON-075; Salyer).
+    C: >-
+      Exception trap. One person, one vote does not apply to a special-purpose district whose functions
+      disproportionately affect landowners (R-CON-075; Salyer).
+    D: >-
+      Overbroad. The right to vote in local general-purpose elections is fundamental (R-CON-075; Kramer);
+      the district wins only because of its special, limited purpose.
+  trap_type: exception-trap
+  authority: ["U.S. Const. amend. XIV, § 1", "Salyer Land Co. v. Tulare Lake Basin Water Storage Dist., 410 U.S. 719 (1973)", "Ball v. James, 451 U.S. 355 (1981)", "Kramer v. Union Free School Dist. No. 15, 395 U.S. 621 (1969)"]
+  source: original
+  tags: [wave2, w2b, equal-protection, voting, special-purpose-district]
+  status: draft
+  last_verified: 2026-11-05
+
+- id: Q-CON-0132
+  subject: CON
+  coverage_ids: [CON-MBE-IV.C.1]
+  rule_ids: [R-CON-076, R-CON-066]
+  difficulty: 2
+  stem: >-
+    After a contested hearing, a state trial court entered a decree terminating a mother's parental rights
+    to her two children. State law allows an appeal as of right but requires the appellant to prepay about
+    $2,000 for preparing the trial transcript and record. The mother is indigent. She asked the court to
+    waive the fee, but it refused because state law allows such waivers only in criminal cases. Her appeal
+    was dismissed for failure to pay.
+  call: "Was the dismissal of her appeal constitutional?"
+  options:
+    A: "Yes, because the Constitution does not require a state to provide any appeal, so it may condition an appeal on payment of reasonable fees."
+    B: "No, because a state may not deny an indigent parent appellate review of a decree terminating parental rights solely for inability to pay."
+    C: "Yes, because wealth is not a suspect classification, and the fee rationally serves the state's interest in offsetting the cost of appeals."
+    D: "No, because due process entitles every indigent civil litigant to a waiver of all court fees and costs."
+  answer: B
+  explanation_correct: >-
+    B is correct. When a fundamental interest is at stake, a state may not condition access to the courts,
+    including an appeal it chooses to provide, on ability to pay (R-CON-076). A decree terminating parental
+    rights permanently ends the parent-child relationship, so the Court has treated such decrees like
+    criminal convictions for this purpose: a state that allows appeals may not deny an indigent parent a
+    record adequate for review because she cannot pay for it (M.L.B. v. S.L.J.; Griffin v. Illinois).
+  explanation_each_wrong_option:
+    A: >-
+      Missing element. A state need not create appeals, but once it does, it may not close them to
+      indigents where a fundamental interest such as parental status is at stake (R-CON-076; Griffin;
+      M.L.B.).
+    C: >-
+      Wrong standard. Wealth classifications ordinarily get rational-basis review, but fee barriers that
+      cut off access to court in cases involving fundamental interests are judged more strictly
+      (R-CON-076).
+    D: >-
+      Overbroad. There is no general right to fee waivers in civil cases; bankruptcy filing fees, for
+      example, may be required of indigents (R-CON-076; United States v. Kras).
+  trap_type: wrong-standard
+  authority: ["U.S. Const. amend. XIV, § 1", "M.L.B. v. S.L.J., 519 U.S. 102 (1996)", "Griffin v. Illinois, 351 U.S. 12 (1956)", "United States v. Kras, 409 U.S. 434 (1973)"]
+  source: original
+  tags: [wave2, w2b, equal-protection, access-to-courts]
+  status: draft
+  last_verified: 2026-11-05
+
+- id: Q-CON-0133
+  subject: CON
+  coverage_ids: [CON-MBE-IV.C.2]
+  rule_ids: [R-CON-070, R-CON-066]
+  difficulty: 2
+  stem: >-
+    A state statute provides that only U.S. citizens may be licensed as pharmacists. A lawful permanent
+    resident who graduated from an accredited pharmacy school and passed the state licensing examination
+    was denied a license solely because she is not a citizen. She sued, claiming that the statute violates
+    the Equal Protection Clause. The state argues that pharmacists dispense controlled substances and
+    exercise professional judgment affecting public health, so the restriction need only be rational.
+  call: "What is the most likely result?"
+  options:
+    A: "The statute will be upheld, because a state may reserve for its citizens any occupation carrying important responsibilities for public health."
+    B: "The statute will be upheld, because alienage classifications get only rational-basis review, in deference to the federal immigration power."
+    C: "The statute will be struck down, because state alienage classifications get strict scrutiny, and pharmacy is not a governmental function."
+    D: "The statute will be struck down, because a state may never treat lawfully present noncitizens differently from citizens in any respect."
+  answer: C
+  explanation_correct: >-
+    C is correct. State and local laws that discriminate against lawfully present aliens are subject to
+    strict scrutiny (R-CON-070; Graham v. Richardson). The exception for positions involving self-government
+    or important governmental functions, such as police officers, public-school teachers and probation
+    officers, covers jobs that carry out basic governmental responsibilities, not private professions the
+    state licenses (In re Griffiths, lawyers; Bernal v. Fainter, notaries). The state can protect public
+    health by examining and licensing pharmacists regardless of citizenship, so the citizenship requirement
+    is not necessary to a compelling interest.
+  explanation_each_wrong_option:
+    A: >-
+      Exception trap. The political-function exception covers positions that exercise governmental
+      authority, not every licensed occupation that affects public welfare (R-CON-070; Bernal).
+    B: >-
+      Confused rule. Federal alienage classifications get rational-basis review because of Congress's
+      immigration power; state alienage classifications get strict scrutiny (R-CON-070; Mathews v. Diaz).
+    D: >-
+      Overbroad. States may limit some governmental positions, such as police officer or public-school
+      teacher, to citizens under rational-basis review (R-CON-070; Foley v. Connelie; Ambach v. Norwick).
+  trap_type: exception-trap
+  authority: ["U.S. Const. amend. XIV, § 1", "Graham v. Richardson, 403 U.S. 365 (1971)", "In re Griffiths, 413 U.S. 717 (1973)", "Bernal v. Fainter, 467 U.S. 216 (1984)", "Mathews v. Diaz, 426 U.S. 67 (1976)"]
+  source: original
+  tags: [wave2, w2b, equal-protection, alienage]
+  status: draft
+  last_verified: 2026-11-05
+
+- id: Q-CON-0134
+  subject: CON
+  coverage_ids: [CON-MBE-IV.C.2]
+  rule_ids: [R-CON-073, R-CON-066]
+  difficulty: 2
+  stem: >-
+    A state statute permits a child born to married parents to sue a parent for support at any time before
+    age 18, but permits a child born outside marriage to bring an action to establish paternity and obtain
+    support only within three years after birth. A nine-year-old girl born outside marriage, suing through
+    her guardian, sought to establish that a man is her father and to obtain support from him. He moved to
+    dismiss under the three-year limit, and she argued that the limit violates the Equal Protection Clause.
+  call: "What standard of review should the court apply to the limit?"
+  options:
+    A: "Strict scrutiny, because classifications based on the circumstances of a person's birth are suspect."
+    B: "Rational basis, because the statute regulates only the time for filing a lawsuit rather than any substantive right."
+    C: "Rational basis, because nonmarital children are not a suspect class and child support is not a fundamental right."
+    D: "Intermediate scrutiny, so the limit must be substantially related to an important governmental interest."
+  answer: D
+  explanation_correct: >-
+    D is correct. Classifications that disadvantage children born outside marriage receive intermediate
+    scrutiny: the classification must be substantially related to an important governmental interest, and
+    the state bears the burden of justifying it (R-CON-073; Clark v. Jeter). Preventing stale or fraudulent
+    paternity claims is an important interest, but a short filing period that applies only to nonmarital
+    children must be substantially related to that interest; in Clark the Court struck down a six-year
+    limit, noting that advances in genetic testing reduce the proof problems that such limits address.
+  explanation_each_wrong_option:
+    A: >-
+      Wrong tier. Nonmarital status is a quasi-suspect classification that receives intermediate, not
+      strict, scrutiny (R-CON-073; R-CON-066).
+    B: >-
+      Wrong focus. A filing deadline imposed only on nonmarital children is itself a classification based
+      on birth status, and the Court has reviewed such limits under intermediate scrutiny (R-CON-073; Clark
+      v. Jeter).
+    C: >-
+      Wrong tier. Nonmarital status is not a suspect class, but it is quasi-suspect, so intermediate rather
+      than rational-basis review applies (R-CON-073).
+  trap_type: wrong-standard
+  authority: ["U.S. Const. amend. XIV, § 1", "Clark v. Jeter, 486 U.S. 456 (1988)", "Trimble v. Gordon, 430 U.S. 762 (1977)"]
+  source: original
+  tags: [wave2, w2b, equal-protection, nonmarital-children]
+  status: draft
+  last_verified: 2026-11-05
+
+- id: Q-CON-0135
+  subject: CON
+  coverage_ids: [CON-MBE-IV.C.3]
+  rule_ids: [R-CON-074, R-CON-066]
+  difficulty: 2
+  stem: >-
+    A city's zoning code allows boarding houses, dormitories, nursing homes and hospitals in a residential
+    district without any special permit. A nonprofit sought to open a group home in the district for eight
+    adults with traumatic brain injuries, who would live with round-the-clock staff. The city required a
+    special-use permit for the home and then denied it. The council's stated reasons were that neighbors
+    feared the residents would behave unpredictably and that the home would lower property values. The
+    record contains no evidence that the home would pose any greater risk to safety, traffic or density than
+    the uses permitted without a permit. The nonprofit sued under the Equal Protection Clause.
+  call: "What is the most likely result?"
+  options:
+    A: "The nonprofit will prevail, because the permit denial rests on irrational fears and prejudice and so fails even rational-basis review."
+    B: "The nonprofit will prevail, because classifications based on disability receive intermediate scrutiny under the Equal Protection Clause."
+    C: "The city will prevail, because disability is not a suspect or quasi-suspect class, and zoning decisions receive deferential review."
+    D: "The city will prevail, because protecting the property values of a residential neighborhood is a legitimate governmental interest."
+  answer: A
+  explanation_correct: >-
+    A is correct. Disability classifications receive only rational-basis review, but a classification fails
+    even that review when it rests on a bare desire to disadvantage a group or on irrational prejudice
+    rather than any legitimate interest (R-CON-074; City of Cleburne v. Cleburne Living Center). The city
+    allows boarding houses, dormitories, nursing homes and hospitals without a permit, and the record shows
+    no greater risk from the group home; the only distinguishing reasons are neighbors' fears and negative
+    attitudes toward the residents, which are not a legitimate basis for treating them differently.
+  explanation_each_wrong_option:
+    B: >-
+      Wrong tier. The Court has declined to treat disability (in Cleburne, intellectual disability) as a
+      quasi-suspect class; rational-basis review applies (R-CON-074).
+    C: >-
+      Right tier, wrong result. Rational-basis review applies, but it does not save a classification based
+      only on prejudice or unsubstantiated fears (R-CON-074; Cleburne).
+    D: >-
+      Missing element. Property values can be a legitimate concern, but here the asserted effect rests only
+      on neighbors' fears of the residents, and the record shows no basis for distinguishing the group home
+      from the uses allowed without a permit (R-CON-074; Cleburne).
+  trap_type: wrong-standard
+  authority: ["U.S. Const. amend. XIV, § 1", "City of Cleburne v. Cleburne Living Center, 473 U.S. 432 (1985)", "U.S. Dep't of Agric. v. Moreno, 413 U.S. 528 (1973)"]
+  source: original
+  tags: [wave2, w2b, equal-protection, rational-basis, animus]
+  status: draft
+  last_verified: 2026-11-05
+
+- id: Q-CON-0136
+  subject: CON
+  coverage_ids: [CON-MBE-IV.D]
+  rule_ids: [R-CON-077]
+  difficulty: 1
+  stem: >-
+    A city with high unemployment adopted a comprehensive redevelopment plan for its waterfront district,
+    designed to attract a biotechnology campus that would create jobs and increase tax revenue. The plan
+    calls for condemning 40 homes, none of which is blighted, and conveying the land to a private developer
+    that will build and lease the campus. A homeowner whose well-maintained house is slated for
+    condemnation refused the city's offer of its fair market value and sued to block the taking, arguing
+    that taking her home for transfer to a private developer is not a "public use."
+  call: "Is the homeowner likely to prevail?"
+  options:
+    A: "Yes, because property may be taken only for actual use by the public at large or to eliminate blight."
+    B: "No, because the taking is rationally related to the public purpose of economic development under a comprehensive plan."
+    C: "Yes, because the Takings Clause forbids the government to take property from one private party and transfer it to another."
+    D: "No, because a city does not take property within the meaning of the Fifth Amendment when it pays full fair market value."
+  answer: B
+  explanation_correct: >-
+    B is correct. The Takings Clause allows the government to take private property for "public use" with
+    just compensation, and public use means a public purpose: a taking is valid if it is rationally related
+    to a conceivable public purpose, and economic development under a carefully considered plan qualifies
+    even when the land is conveyed to a private party (R-CON-077; Kelo v. City of New London; Hawaii Housing
+    Authority v. Midkiff). The city must pay just compensation, the home's fair market value. (California's
+    Constitution adds limits on taking owner-occupied homes for conveyance to private persons, Cal. Const.
+    art. I, § 19(b), but the MBE applies the federal rule.)
+  explanation_each_wrong_option:
+    A: >-
+      Wrong standard. Public use is not limited to actual use by the public or to blight removal; any
+      public purpose suffices (R-CON-077; Berman v. Parker; Kelo).
+    C: >-
+      Overbroad. A transfer from one private party to another solely to benefit the transferee is invalid,
+      but a transfer to a private developer as part of a plan serving a public purpose is a public use
+      (R-CON-077; Kelo; Midkiff).
+    D: >-
+      Confused rule. Condemnation is a taking; paying fair market value satisfies the just-compensation
+      requirement, but the taking must still be for a public use (R-CON-077).
+  trap_type: overbroad
+  authority: ["U.S. Const. amend. V", "Kelo v. City of New London, 545 U.S. 469 (2005)", "Hawaii Housing Auth. v. Midkiff, 467 U.S. 229 (1984)", "Berman v. Parker, 348 U.S. 26 (1954)"]
+  source: original
+  tags: [wave2, w2b, takings, public-use]
+  status: draft
+  last_verified: 2026-11-05
+
+- id: Q-CON-0137
+  subject: CON
+  coverage_ids: [CON-MBE-IV.E]
+  rule_ids: [R-CON-083]
+  difficulty: 3
+  stem: >-
+    In 2012, a man bought a life-insurance policy and named his wife as the beneficiary, with his children
+    as contingent beneficiaries. The policy allowed him to change the beneficiary at any time. In 2016, the
+    state enacted a statute providing that a divorce automatically revokes any designation of a former
+    spouse as a life-insurance beneficiary, unless the policy or a court order provides otherwise; a
+    policyholder who wants the former spouse to remain the beneficiary may simply re-designate her after
+    the divorce. The couple divorced in 2018, and the man died in 2023 without changing the designation. His
+    children claim the proceeds under the statute. The former wife argues that applying the 2016 statute to
+    a policy bought in 2012 violates the Contracts Clause.
+  call: "How should the court rule on the former wife's argument?"
+  options:
+    A: "Accept it, because the Contracts Clause forbids any state law that changes the effect of a contract formed before the law was enacted."
+    B: "Reject it, because the Contracts Clause protects only contracts to which the state itself is a party, not private insurance policies."
+    C: "Reject it, because the statute does not substantially impair the contract, as it tracks likely intent and is easily undone."
+    D: "Accept it, because the statute retroactively took away her vested right to the proceeds of a policy bought before the statute existed."
+  answer: C
+  explanation_correct: >-
+    C is correct. The Contracts Clause bars state laws that substantially impair existing contracts unless
+    they are an appropriate and reasonable way to advance a significant and legitimate public purpose; the
+    threshold question is whether the impairment is substantial (R-CON-083). In Sveen v. Melin the Court
+    held that applying a revocation-on-divorce statute to a policy bought before the statute was enacted
+    did not substantially impair the contract. The Court reasoned that the statute is designed to carry out
+    a policyholder's probable intent, that it is unlikely to upset reasonable expectations because divorce
+    courts already have broad power over insurance arrangements, and that the policyholder can undo its
+    effect simply by re-designating the former spouse. With no substantial impairment, the inquiry ends.
+  explanation_each_wrong_option:
+    A: >-
+      Overbroad. Retroactive effect is necessary but not sufficient; only a substantial impairment that is
+      not a reasonable and appropriate means to a significant public purpose violates the Clause
+      (R-CON-083).
+    B: >-
+      Wrong rule. The Clause applies to private contracts as well as the state's own; courts simply defer
+      less when a state impairs its own contracts (R-CON-083).
+    D: >-
+      Fact misread. Because the man could change the beneficiary at any time, the former wife had only an
+      expectancy, not a vested right, until his death; and the Contracts Clause question is whether the
+      contract was substantially impaired, which it was not (R-CON-083; Sveen).
+  trap_type: overbroad
+  authority: ["U.S. Const. art. I, § 10, cl. 1", "Sveen v. Melin, 584 U.S. 811 (2018)", "Energy Reserves Group, Inc. v. Kansas Power & Light Co., 459 U.S. 400 (1983)"]
+  source: original
+  tags: [wave2, w2b, contracts-clause, revocation-on-divorce]
+  status: draft
+  last_verified: 2026-11-05
+
+- id: Q-CON-0138
+  subject: CON
+  coverage_ids: [CON-MBE-IV.E]
+  rule_ids: [R-CON-053, R-CON-064]
+  difficulty: 1
+  stem: >-
+    A state charges its residents $25 for an elk-hunting license and charges nonresidents $500 for the same
+    license. Elk hunting in the state is purely recreational; no one hunts elk there commercially. A
+    citizen of a neighboring state who travels to the state each fall to hunt elk as a hobby challenges the
+    fee difference under the Privileges and Immunities Clause of Article IV.
+  call: "Is the challenge likely to succeed?"
+  options:
+    A: "Yes, because a state may charge nonresidents more only if they are a peculiar source of the evil at which the law is aimed."
+    B: "Yes, because the higher fee burdens the fundamental right of citizens to travel from one state to another."
+    C: "No, because the state owns the wild animals within its borders and may exclude nonresidents from hunting them."
+    D: "No, because recreational hunting is not a fundamental privilege bearing on the vitality of the Nation as a single entity."
+  answer: D
+  explanation_correct: >-
+    D is correct. Article IV's Privileges and Immunities Clause protects citizens of other states only with
+    respect to fundamental privileges, such as pursuing a livelihood, owning property and access to the
+    courts; it does not reach recreational activities (R-CON-053; Baldwin v. Fish & Game Comm'n of
+    Montana). Because recreational elk hunting is not a protected privilege, the state need not justify the
+    fee difference under the Clause. Compare Toomer v. Witsell, which struck down a far higher fee for
+    nonresident commercial shrimpers, who were pursuing a livelihood.
+  explanation_each_wrong_option:
+    A: >-
+      Missing element. The substantial-reason (peculiar source of the evil) test applies only after the
+      challenger shows discrimination with respect to a fundamental privilege; recreational hunting is not
+      one (R-CON-053).
+    B: >-
+      Confused rule. The fee neither bars entry nor penalizes new residents; a visitor's right to be
+      treated as a welcome visitor is protected through the Article IV Clause, which does not cover
+      recreational hunting (R-CON-064; R-CON-053).
+    C: >-
+      Outdated rule. The Court has abandoned the theory that a state owns its wild animals and may exclude
+      nonresidents on that basis (Hughes v. Oklahoma); the fee is valid because recreational hunting is not
+      a protected privilege (R-CON-053).
+  trap_type: missing-element
+  authority: ["U.S. Const. art. IV, § 2, cl. 1", "Baldwin v. Fish & Game Comm'n of Mont., 436 U.S. 371 (1978)", "Toomer v. Witsell, 334 U.S. 385 (1948)", "Hughes v. Oklahoma, 441 U.S. 322 (1979)"]
+  source: original
+  tags: [wave2, w2b, privileges-and-immunities, article-iv]
+  status: draft
+  last_verified: 2026-11-05
+
+- id: Q-CON-0139
+  subject: CON
+  coverage_ids: [CON-MBE-IV.E]
+  rule_ids: [R-CON-084]
+  difficulty: 2
+  stem: >-
+    In 2024, a state enacted a statute requiring every person ever convicted of a felony sex offense in the
+    state, including persons convicted before the statute took effect, to register his address with the
+    state police and update it each year. The state posts each registrant's name, photograph and offense on
+    a public website. The legislature declared that the statute's purpose is to protect the public by
+    informing it of potential risks. The statute does not restrict where registrants may live or work. A
+    man who was convicted in 2014 and completed his sentence in 2019 must now register. He challenges the
+    requirement under the Ex Post Facto Clause.
+  call: "Is his challenge likely to succeed?"
+  options:
+    A: "No, because the statute is a civil regulatory measure that is not punitive in purpose or effect."
+    B: "Yes, because the statute imposes new burdens on him because of conduct that occurred before it was enacted."
+    C: "Yes, because posting his information on a public website is equivalent to the historical punishment of public shaming."
+    D: "No, because the Ex Post Facto Clause limits only acts of Congress, not legislation enacted by the states."
+  answer: A
+  explanation_correct: >-
+    A is correct. The Ex Post Facto Clauses forbid only retroactive laws that are criminal or punitive;
+    civil regulatory measures may apply to past conduct (R-CON-084). Courts ask whether the legislature
+    intended a civil scheme and, if so, whether the scheme is so punitive in purpose or effect as to
+    override that intent (Smith v. Doe). The legislature declared a public-safety purpose, and Smith v. Doe
+    held that registration and internet notification of this kind, without residence or employment
+    restrictions, are not punitive. Applying the statute to the man is not ex post facto.
+  explanation_each_wrong_option:
+    B: >-
+      Missing element. Retroactivity alone is not enough; the law must also be punitive (R-CON-084; Smith
+      v. Doe).
+    C: >-
+      Rejected analogy. Smith v. Doe held that publishing accurate conviction information, much of it
+      already public, to serve public safety does not resemble historical shaming punishments
+      (R-CON-084).
+    D: >-
+      Wrong rule. Article I, § 10 applies the ex post facto prohibition to the states, and Article I, § 9
+      applies it to Congress (R-CON-084).
+  trap_type: missing-element
+  authority: ["U.S. Const. art. I, § 10, cl. 1", "Smith v. Doe, 538 U.S. 84 (2003)", "Calder v. Bull, 3 U.S. (3 Dall.) 386 (1798)"]
+  source: original
+  tags: [wave2, w2b, ex-post-facto, sex-offender-registration]
+  status: draft
+  last_verified: 2026-11-05

@@ -1,0 +1,498 @@
+# Constitutional Law — NCBE category IV.F: First Amendment freedoms
+# Original MBE-style items (wave 2, batch b). Deliberately not keyed: true-threat mental state
+# (Counterman, V-035), 303 Creative, Mahmoud, Catholic Charities (V-035), Chiles v. Salazar (V-034),
+# Lemon-era display cases (V-203). Expressive conduct (IV.F.2.f) is not retested here.
+questions:
+- id: Q-CON-0140
+  subject: CON
+  coverage_ids: [CON-MBE-IV.F.1.a]
+  rule_ids: [R-CON-088, R-CON-087, R-CON-091]
+  difficulty: 2
+  stem: >-
+    A state program awards grants of up to $20,000 to private nonprofit preschools to buy books and
+    learning materials. Program rules exclude any preschool that "includes religious instruction in its
+    curriculum." A church-run preschool that meets every other criterion, and that teaches Bible stories as
+    part of its daily curriculum, was denied a grant. The state explains that it wants to keep a stricter
+    separation of church and state than the Establishment Clause requires. The preschool sues under the
+    Free Exercise Clause.
+  call: "Is the exclusion constitutional?"
+  options:
+    A: "Yes, because a state may decline to fund religious instruction with public money, just as it may decline to fund the training of clergy."
+    B: "No, because excluding otherwise eligible schools because of their religious character or use triggers strict scrutiny, which the state cannot meet."
+    C: "Yes, because the rule treats schools of every faith alike, so it is a neutral and generally applicable rule that need only be rational."
+    D: "No, because the Establishment Clause requires a state that funds secular private schools to fund religious private schools on equal terms."
+  answer: B
+  explanation_correct: >-
+    B is correct. A state that offers a generally available public benefit may not exclude otherwise
+    eligible recipients because they are religious or because they would use the benefit for religious
+    purposes unless the exclusion survives strict scrutiny (R-CON-088; Trinity Lutheran; Espinoza; Carson
+    v. Makin). The rule disqualifies the preschool because of its religious instruction. A state's interest
+    in separating church and state more strictly than the Establishment Clause requires is not compelling
+    enough to justify that exclusion (Espinoza; Carson), so the exclusion is invalid.
+  explanation_each_wrong_option:
+    A: >-
+      Exception trap. Locke v. Davey allowed a state to decline to fund degrees in devotional theology,
+      reflecting a historic interest in not funding the training of clergy; the Court has refused to extend
+      Locke to the exclusion of religious schools from general benefit programs (R-CON-088; Carson).
+    C: >-
+      Confused rule. A rule that singles out religious instruction for exclusion is not neutral toward
+      religion; Smith's rational-basis rule does not apply to exclusions based on religious character or
+      use (R-CON-087; R-CON-088).
+    D: >-
+      Wrong clause. The Establishment Clause permits neutral aid that reaches religious schools but does
+      not itself require it; the right to equal access to the benefit comes from the Free Exercise Clause
+      (R-CON-088; R-CON-091).
+  trap_type: exception-trap
+  authority: ["U.S. Const. amend. I", "Trinity Lutheran Church of Columbia, Inc. v. Comer, 582 U.S. 449 (2017)", "Espinoza v. Montana Dep't of Revenue, 591 U.S. 464 (2020)", "Carson v. Makin, 596 U.S. 767 (2022)", "Locke v. Davey, 540 U.S. 712 (2004)"]
+  source: original
+  tags: [wave2, w2b, free-exercise, religious-exclusion]
+  status: draft
+  last_verified: 2026-11-05
+
+- id: Q-CON-0141
+  subject: CON
+  coverage_ids: [CON-MBE-IV.F.1.b]
+  rule_ids: [R-CON-091, R-CON-090]
+  difficulty: 3
+  stem: >-
+    A state exempts from its sales tax all sales of books by nonprofit educational, charitable and
+    religious organizations. A religious organization qualifies, however, only if it "has maintained an
+    established congregation in this state for at least 50 years." A religious organization founded in the
+    state 12 years ago, which sells copies of its scriptures at its temple, was assessed sales tax on those
+    sales. The state argues that the 50-year requirement ensures that only bona fide religions benefit. The
+    organization sues, claiming that the requirement violates the Establishment Clause.
+  call: "How should the court rule?"
+  options:
+    A: "For the state, because tax exemptions for religious organizations are consistent with the nation's long historical practice."
+    B: "For the state, because the exemption does not coerce anyone to support or participate in any religious exercise."
+    C: "For the organization, because a tax exemption that includes religious organizations has the primary effect of advancing religion."
+    D: "For the organization, because the requirement prefers some religious denominations over others and is not narrowly tailored."
+  answer: D
+  explanation_correct: >-
+    D is correct. Government may not prefer one religious denomination over another; a law that grants or
+    denies benefits along lines that distinguish among religions is subject to strict scrutiny (R-CON-091;
+    Larson v. Valente). The 50-year requirement gives the exemption to long-established faiths and denies
+    it to newer ones. The state's interest in limiting the exemption to bona fide religions can be served
+    directly, by asking whether an organization is religious and sincere, so the age line is not narrowly
+    tailored to a compelling interest.
+  explanation_each_wrong_option:
+    A: >-
+      True but irrelevant. History supports exemptions that treat religious organizations alike or include
+      them with other nonprofits (Walz v. Tax Comm'n); it does not support an exemption that favors some
+      religions over others (R-CON-091).
+    B: >-
+      Missing element. Coercion is one way to violate the Establishment Clause, but a denominational
+      preference is an independent violation that requires no coercion (R-CON-090; R-CON-091).
+    C: >-
+      Wrong standard. The Lemon "primary effect" test has been abandoned (R-CON-090; Kennedy v. Bremerton),
+      and exemptions that include religious organizations along with other nonprofits are valid (Walz).
+  trap_type: true-but-irrelevant
+  authority: ["U.S. Const. amend. I", "Larson v. Valente, 456 U.S. 228 (1982)", "Walz v. Tax Comm'n, 397 U.S. 664 (1970)", "Kennedy v. Bremerton School Dist., 597 U.S. 507 (2022)"]
+  source: original
+  tags: [wave2, w2b, establishment, denominational-preference]
+  status: draft
+  last_verified: 2026-11-05
+
+- id: Q-CON-0142
+  subject: CON
+  coverage_ids: [CON-MBE-IV.F.2.a]
+  rule_ids: [R-CON-093, R-CON-092, R-CON-099]
+  difficulty: 2
+  stem: >-
+    A state statute makes it a misdemeanor to sell or rent to a person under 18 any book or video that
+    depicts "gratuitous and graphic acts of violence against human beings." The statute does not reach
+    sexual content. The state relies on studies showing correlations between exposure to violent media and
+    short-term aggressive feelings in adolescents; the studies do not show that such media cause violent
+    behavior. The state argues that depictions of violence, like obscenity, are a category of speech that
+    may be restricted for minors without strict scrutiny. A bookstore owner charged under the statute moves
+    to dismiss on First Amendment grounds.
+  call: "How should the court rule?"
+  options:
+    A: "Deny the motion, because material that lacks serious value for minors may be banned for minors under the obscenity test."
+    B: "Deny the motion, because the statute regulates commercial sales of products to minors rather than the content of any speech."
+    C: "Grant the motion, because depictions of violence are not an unprotected category, and the content-based restriction fails strict scrutiny."
+    D: "Grant the motion, because the government may never restrict minors' access to any speech that adults may lawfully obtain."
+  answer: C
+  explanation_correct: >-
+    C is correct. The categories of unprotected speech, such as obscenity, incitement and true threats, are
+    historically limited, and the government may not create new ones by weighing a category's value against
+    its harms (R-CON-093; United States v. Stevens; Brown v. Entertainment Merchants Ass'n). Obscenity, even
+    as applied to minors, covers sexual material only, so violent depictions remain protected. The statute
+    restricts speech because of its content and must satisfy strict scrutiny; correlational studies that do
+    not show that violent media cause harm fall short of showing the law is necessary to a compelling
+    interest (Brown).
+  explanation_each_wrong_option:
+    A: >-
+      Confused rule. The obscene-for-minors doctrine applies only to sexual material (Ginsberg v. New York);
+      a state cannot extend it to depictions of violence (R-CON-099; Brown).
+    B: >-
+      Fact misread. Whether a sale is legal depends on what the book or video depicts, so the statute is a
+      content-based restriction on speech, not a neutral regulation of commerce (R-CON-092).
+    D: >-
+      Overbroad. States may restrict minors' access to sexual material that is obscene as to minors even
+      though adults may obtain it (Ginsberg; R-CON-099).
+  trap_type: confused-rule
+  authority: ["U.S. Const. amend. I", "Brown v. Entertainment Merchants Ass'n, 564 U.S. 786 (2011)", "United States v. Stevens, 559 U.S. 460 (2010)", "Ginsberg v. New York, 390 U.S. 629 (1968)"]
+  source: original
+  tags: [wave2, w2b, free-speech, content-based, minors]
+  status: draft
+  last_verified: 2026-11-05
+
+- id: Q-CON-0143
+  subject: CON
+  coverage_ids: [CON-MBE-IV.F.2.b, CON-MBE-IV.F.2.a]
+  rule_ids: [R-CON-092, R-CON-094, R-CON-101]
+  difficulty: 3
+  stem: >-
+    A city's sign code allows signs with digital, electronically changing displays if the sign advertises a
+    business, product or activity located on the same property as the sign ("on-premises signs"). It
+    forbids digital displays on signs that advertise anything located elsewhere ("off-premises signs"), such
+    as most billboards. The code applies whether a sign's message is commercial, political or otherwise. A
+    billboard company whose application to convert its billboards to digital displays was denied sued,
+    arguing that the code is content-based because an official must read a sign's message to know whether
+    it is on-premises or off-premises. Nothing in the record suggests that the city adopted the code
+    because of disagreement with any message.
+  call: "What level of scrutiny should the court apply?"
+  options:
+    A: "Intermediate scrutiny, because the line turns on a sign's location relative to what it promotes, not its topic."
+    B: "Strict scrutiny, because the code cannot be enforced without a city official's reading and evaluating the message on each sign."
+    C: "Strict scrutiny, because any rule that treats signs differently according to their function or purpose is content-based."
+    D: "Rational basis, because billboards are a commercial medium whose regulation raises no First Amendment concern."
+  answer: A
+  explanation_correct: >-
+    A is correct. A law is content-based if it targets speech based on its communicative content, such as
+    its topic, idea or message (R-CON-092; Reed v. Town of Gilbert). The Court has held that a sign code's
+    on-premises/off-premises distinction is facially content-neutral: it singles out no topic or subject
+    matter, and the message matters only to locate the sign relative to what it promotes (City of Austin v.
+    Reagan National Advertising). Such a rule gets intermediate scrutiny unless it was adopted for a
+    content-based purpose (R-CON-094), and nothing in the record suggests one.
+  explanation_each_wrong_option:
+    B: >-
+      Overbroad. The need to read a sign does not by itself make a rule content-based; the Court rejected
+      that "need to read" test in City of Austin (R-CON-092).
+    C: >-
+      Overbroad reading of Reed. Distinctions based on function or purpose are content-based when they are
+      proxies for subject matter or message; a location-based distinction is not (R-CON-092; City of
+      Austin).
+    D: >-
+      Wrong rule. Billboards carry commercial and noncommercial messages, and even commercial speech is
+      protected (R-CON-101); this code applies to all messages alike.
+  trap_type: overbroad
+  authority: ["U.S. Const. amend. I", "City of Austin v. Reagan National Advertising of Austin, LLC, 596 U.S. 61 (2022)", "Reed v. Town of Gilbert, 576 U.S. 155 (2015)"]
+  source: original
+  tags: [wave2, w2b, free-speech, content-neutral, signs]
+  status: draft
+  last_verified: 2026-11-05
+
+- id: Q-CON-0144
+  subject: CON
+  coverage_ids: [CON-MBE-IV.F.2.c]
+  rule_ids: [R-CON-099]
+  difficulty: 2
+  stem: >-
+    Police executing a valid warrant to search a man's home for stolen electronics found, in his bedroom
+    closet, a collection of films that a jury later found obscene under the Miller test. All the performers
+    were adults. Nothing indicated that the man had sold or shown the films to anyone or intended to do so.
+    He was convicted under a state statute making it a crime to "knowingly possess any obscene material."
+  call: "Should his conviction be reversed?"
+  options:
+    A: "No, because obscene material is unprotected by the First Amendment wherever it is found or kept."
+    B: "Yes, because the First Amendment protects an adult's private possession of obscene material in his own home."
+    C: "No, because the state's interest in stopping the distribution of obscenity justifies punishing those who possess it."
+    D: "Yes, because whether films are obscene must be judged by national standards rather than those of the local community."
+  answer: B
+  explanation_correct: >-
+    B is correct. Obscenity is generally unprotected (R-CON-099), but the First Amendment protects the mere
+    private possession of obscene material by an adult in his own home (Stanley v. Georgia). The state may
+    regulate the production, sale and public distribution of obscenity, but it may not make private
+    possession in the home a crime. Child pornography is different: its private possession may be punished
+    (Osborne v. Ohio), but all the performers here were adults.
+  explanation_each_wrong_option:
+    A: >-
+      Overbroad. The unprotected status of obscenity supports regulating its distribution and public
+      display, but Stanley protects private possession in the home (R-CON-099).
+    C: >-
+      Rejected argument. Stanley held that the state's interest in controlling distribution does not
+      justify reaching into the home to punish mere possession (R-CON-099).
+    D: >-
+      Wrong rule. Under Miller, the prurient-interest and patent-offensiveness prongs are judged by
+      contemporary community standards, which need not be national; only the serious-value prong uses a
+      national reasonable-person standard (R-CON-099; Pope v. Illinois).
+  trap_type: overbroad
+  authority: ["U.S. Const. amend. I", "Stanley v. Georgia, 394 U.S. 557 (1969)", "Osborne v. Ohio, 495 U.S. 103 (1990)", "Miller v. California, 413 U.S. 15 (1973)", "Pope v. Illinois, 481 U.S. 497 (1987)"]
+  source: original
+  tags: [wave2, w2b, obscenity, unprotected-speech]
+  status: draft
+  last_verified: 2026-11-05
+
+- id: Q-CON-0145
+  subject: CON
+  coverage_ids: [CON-MBE-IV.F.2.d]
+  rule_ids: [R-CON-101]
+  difficulty: 2
+  stem: >-
+    A state's rules of professional conduct forbid a lawyer to solicit employment for pecuniary gain through
+    in-person contact with a prospective client who has not sought the lawyer's advice. The day after a
+    chemical leak at a factory, a lawyer stood at the factory gate as a shift ended, approached workers who
+    had been exposed, and urged them to sign contingent-fee agreements on the spot. Nothing the lawyer said
+    was false. The lawyer was disciplined and argues that the rule, as applied to him, violates the First
+    Amendment because his statements were truthful commercial speech about lawful services.
+  call: "Is the discipline constitutional?"
+  options:
+    A: "No, because truthful advertising of the availability and terms of legal services is protected commercial speech."
+    B: "No, because the state must show that this lawyer's solicitation was actually false, misleading or coercive."
+    C: "Yes, because commercial speech by lawyers proposing a fee arrangement receives no First Amendment protection."
+    D: "Yes, because a state may ban in-person solicitation for pecuniary gain as a prophylactic measure against overreaching."
+  answer: D
+  explanation_correct: >-
+    D is correct. Truthful commercial speech about lawful activity is protected (R-CON-101), but a lawyer's
+    in-person solicitation for pecuniary gain presents special dangers: pressure for an immediate decision,
+    little chance for reflection or comparison, and no public record of what was said. A state may
+    therefore ban it as a prophylactic rule, without proving harm in the particular case (Ohralik v. Ohio
+    State Bar Ass'n). Urging exposed workers to sign fee agreements on the spot is the setting the rule
+    addresses.
+  explanation_each_wrong_option:
+    A: >-
+      True but irrelevant. Bates protects truthful lawyer advertising, which readers can evaluate at
+      leisure; in-person solicitation for gain is different and may be banned (R-CON-101; Ohralik).
+    B: >-
+      Wrong standard. Ohralik upheld discipline under a prophylactic rule without requiring proof that the
+      particular solicitation was misleading or caused harm (R-CON-101).
+    C: >-
+      Overbroad. Lawyer advertising is protected commercial speech (Bates v. State Bar of Arizona); the
+      state wins only because in-person solicitation for gain may be banned (R-CON-101).
+  trap_type: true-but-irrelevant
+  authority: ["U.S. Const. amend. I", "Ohralik v. Ohio State Bar Ass'n, 436 U.S. 447 (1978)", "Bates v. State Bar of Ariz., 433 U.S. 350 (1977)", "Central Hudson Gas & Elec. Corp. v. Public Serv. Comm'n, 447 U.S. 557 (1980)"]
+  source: original
+  tags: [wave2, w2b, commercial-speech, lawyer-solicitation]
+  status: draft
+  last_verified: 2026-11-05
+
+- id: Q-CON-0146
+  subject: CON
+  coverage_ids: [CON-MBE-IV.F.2.e]
+  rule_ids: [R-CON-102]
+  difficulty: 1
+  stem: >-
+    During a statewide campaign over a ballot measure to raise the minimum wage, several students at a
+    public high school wore T-shirts to class reading "Vote No on Measure 5." The principal suspended them,
+    explaining that the shirts "might" start arguments among students. There had been no disruption, threats
+    or arguments, and teachers reported that classes proceeded normally. The school permits students to
+    wear shirts supporting sports teams and charities. The students sued the school district, claiming that
+    the suspensions violated the First Amendment.
+  call: "Are the students likely to prevail?"
+  options:
+    A: "No, because school officials may restrict any student speech that they reasonably believe is inconsistent with the school's educational mission."
+    B: "No, because students in public schools have no First Amendment rights during instructional time."
+    C: "Yes, because the school had no facts reasonably forecasting substantial disruption, and an undifferentiated fear of disturbance is not enough."
+    D: "Yes, because a public school may never restrict students' political speech, whatever its effect on school activities."
+  answer: C
+  explanation_correct: >-
+    C is correct. Public school students keep their free-speech rights at school, and a school may restrict
+    student expression only if it can reasonably forecast substantial disruption of school activities or
+    invasion of the rights of others, based on facts rather than an undifferentiated fear of disturbance
+    (R-CON-102; Tinker v. Des Moines). The shirts caused no disruption, and the principal pointed only to a
+    possibility of arguments. The school's tolerance of other message shirts underscores that the
+    suspensions targeted the political message.
+  explanation_each_wrong_option:
+    A: >-
+      Confused rule. The "legitimate pedagogical concerns" standard applies to school-sponsored speech such
+      as a school newspaper (Hazelwood), not to students' personal expression (R-CON-102).
+    B: >-
+      Wrong rule. Students do not shed their constitutional rights at the schoolhouse gate (R-CON-102;
+      Tinker).
+    D: >-
+      Overbroad. Students' political speech may be restricted if facts reasonably forecast substantial
+      disruption (R-CON-102; Tinker).
+  trap_type: confused-rule
+  authority: ["U.S. Const. amend. I", "Tinker v. Des Moines Indep. Community School Dist., 393 U.S. 503 (1969)", "Hazelwood School Dist. v. Kuhlmeier, 484 U.S. 260 (1988)"]
+  source: original
+  tags: [wave2, w2b, student-speech, tinker]
+  status: draft
+  last_verified: 2026-11-05
+
+- id: Q-CON-0147
+  subject: CON
+  coverage_ids: [CON-MBE-IV.F.2.g]
+  rule_ids: [R-CON-108, R-CON-107, R-CON-011]
+  difficulty: 3
+  stem: >-
+    After complaints about panhandlers who followed transit riders and blocked their paths, a city enacted
+    an ordinance making it a misdemeanor "to engage in any speech, gesture or display directed at a person
+    waiting at a public transit stop" without that person's prior consent. A man who repeatedly stepped in
+    front of a rider at a bus stop while demanding money was charged under the ordinance. Assume that a
+    narrowly drawn law could constitutionally punish the man's own conduct. He moves to dismiss the charge
+    on the ground that the ordinance violates the First Amendment.
+  call: "Should the court grant the motion?"
+  options:
+    A: "Yes, because it reaches a substantial amount of protected speech relative to its legitimate sweep, and he may raise that defect."
+    B: "No, because his own conduct is unprotected, so he lacks standing to argue that the ordinance would violate the rights of other speakers."
+    C: "No, because the ordinance states plainly what it prohibits, so people of ordinary intelligence have fair notice and it is not void for vagueness."
+    D: "Yes, because a law that regulates speech is facially invalid if even one of its possible applications would violate the First Amendment."
+  answer: A
+  explanation_correct: >-
+    A is correct. A law regulating speech is facially invalid if it prohibits a substantial amount of
+    protected speech, judged in relation to its plainly legitimate sweep (R-CON-108; Broadrick v. Oklahoma;
+    United States v. Stevens). The ordinance reaches every greeting, question, leaflet, protest sign or
+    request for directions aimed at a waiting rider without prior consent, an enormous amount of protected
+    expression compared with the aggressive conduct the city targeted (compare Board of Airport
+    Commissioners v. Jews for Jesus). Overbreadth is an exception to the usual standing rules: a person
+    whose own conduct could be punished under a narrower law may still challenge the law's overbreadth
+    (R-CON-011; R-CON-108).
+  explanation_each_wrong_option:
+    B: >-
+      Exception trap. Ordinarily a litigant may not assert others' rights, but First Amendment overbreadth
+      is a recognized exception (R-CON-011; R-CON-108).
+    C: >-
+      Confused rule. Vagueness asks whether a law gives fair notice; overbreadth asks whether a clear law
+      sweeps in too much protected speech. A clear law can still be overbroad (R-CON-107; R-CON-108).
+    D: >-
+      Overstated rule. Overbreadth must be substantial, not merely conceivable; a law is not facially
+      invalid because of a few protected applications (R-CON-108; Broadrick).
+  trap_type: exception-trap
+  authority: ["U.S. Const. amend. I", "Broadrick v. Oklahoma, 413 U.S. 601 (1973)", "United States v. Stevens, 559 U.S. 460 (2010)", "Board of Airport Comm'rs v. Jews for Jesus, Inc., 482 U.S. 569 (1987)"]
+  source: original
+  tags: [wave2, w2b, overbreadth, vagueness]
+  status: draft
+  last_verified: 2026-11-05
+
+- id: Q-CON-0148
+  subject: CON
+  coverage_ids: [CON-MBE-IV.F.3]
+  rule_ids: [R-CON-109]
+  difficulty: 1
+  stem: >-
+    A newspaper reporter wrote a series of articles about illegal dumping of toxic waste, based on
+    interviews with three employees of a waste-hauling company who admitted taking part and whom she
+    promised not to identify. A federal grand jury investigating the dumping subpoenaed her to testify about
+    the employees' identities. She refused, citing her promise and the First Amendment. The government
+    showed that the investigation was being conducted in good faith and that her testimony was relevant to
+    it. No federal statute gives reporters a privilege.
+  call: "May the court hold the reporter in contempt if she continues to refuse?"
+  options:
+    A: "No, because the First Amendment gives journalists an absolute privilege not to disclose their confidential sources."
+    B: "Yes, because the First Amendment does not excuse a reporter from answering a good-faith grand jury's relevant questions."
+    C: "No, because the government must first show that it cannot obtain the information from any source other than the reporter."
+    D: "Yes, because the First Amendment protects the publication of news, but it gives no protection to the gathering of news."
+  answer: B
+  explanation_correct: >-
+    B is correct. The press has no greater right than the public to disobey generally applicable laws, and
+    the First Amendment gives a reporter no privilege to refuse to tell a grand jury the identity of sources
+    when the investigation is conducted in good faith and the testimony is relevant (R-CON-109; Branzburg
+    v. Hayes). She may be held in contempt. On a California essay, note that California's shield law (Cal.
+    Const. art. I, § 2(b); Evid. Code § 1070) protects reporters from contempt as a matter of state law;
+    it is not a First Amendment rule (see ca-distinctions).
+  explanation_each_wrong_option:
+    A: >-
+      Wrong rule. The First Amendment gives reporters no absolute privilege to withhold sources from a
+      grand jury (R-CON-109; Branzburg).
+    C: >-
+      Wrong standard. Branzburg declined to require the government to show compelling need or the lack of
+      alternative sources before compelling a reporter's testimony to a good-faith grand jury; that test
+      was proposed in the dissent (R-CON-109).
+    D: >-
+      Right result, wrong reason. Branzburg acknowledged that newsgathering has some First Amendment
+      protection; the reporter must testify because that protection does not override a good-faith
+      grand-jury subpoena, not because newsgathering is unprotected (R-CON-109).
+  trap_type: right-result-wrong-reason
+  authority: ["U.S. Const. amend. I", "Branzburg v. Hayes, 408 U.S. 665 (1972)"]
+  source: original
+  tags: [wave2, w2b, freedom-of-press, reporters-privilege]
+  status: draft
+  last_verified: 2026-11-05
+
+- id: Q-CON-0149
+  subject: CON
+  coverage_ids: [CON-MBE-IV.F.4]
+  rule_ids: [R-CON-110]
+  difficulty: 2
+  stem: >-
+    A state public-accommodations law forbids sex discrimination by any business or civic organization that
+    is open to the public. A national networking association for young professionals has about 200,000
+    members in hundreds of local chapters. It admits any man aged 18 to 35 who pays dues, recruits new
+    members through public advertising, and lets nonmembers, including women, attend most of its meetings
+    and events. Its bylaws exclude women from membership. The association does not claim that admitting
+    women would change any view it expresses. After the state ordered it to admit women, the association
+    sued, claiming that the order violates its members' freedom of association.
+  call: "Is the association likely to prevail?"
+  options:
+    A: "Yes, because the First Amendment protects the right of private organizations to choose their own members."
+    B: "Yes, because a law forcing a group to accept unwanted members gets strict scrutiny, which an interest in ending sex discrimination cannot satisfy."
+    C: "No, because freedom of association protects only groups that are organized for political or religious purposes."
+    D: "No, because the association is large and unselective, and admitting women would not significantly impair its ability to express its views."
+  answer: D
+  explanation_correct: >-
+    D is correct. Freedom of association protects intimate associations, which are small, selective and
+    personal, and expressive associations, whose message would be significantly burdened by forced
+    inclusion (R-CON-110). A large association that admits almost any man who pays dues, recruits publicly
+    and opens its events to nonmembers is not an intimate association, and the association concedes that
+    admitting women would not change its expression. The state's compelling interest in eliminating sex
+    discrimination in public accommodations justifies the order (Roberts v. United States Jaycees; Rotary
+    Int'l v. Rotary Club of Duarte). Contrast Boy Scouts of America v. Dale, where forced inclusion would
+    have significantly burdened the group's expression.
+  explanation_each_wrong_option:
+    A: >-
+      Overbroad. The right to exclude protects intimate associations and expressive associations whose
+      message would be significantly impaired; it does not exempt every large, unselective organization
+      from antidiscrimination laws (R-CON-110; Roberts).
+    B: >-
+      Wrong conclusion. Even where a law burdens association, the Court has held that eliminating sex
+      discrimination in public accommodations is a compelling interest unrelated to suppressing ideas
+      (Roberts); and this association shows no significant burden on any message (R-CON-110).
+    C: >-
+      Wrong rule. Expressive association protects groups pursuing a wide range of political, social,
+      economic, educational, religious and cultural ends, not only political and religious groups
+      (R-CON-110; Roberts).
+  trap_type: overbroad
+  authority: ["U.S. Const. amend. I", "Roberts v. United States Jaycees, 468 U.S. 609 (1984)", "Board of Directors of Rotary Int'l v. Rotary Club of Duarte, 481 U.S. 537 (1987)", "Boy Scouts of America v. Dale, 530 U.S. 640 (2000)"]
+  source: original
+  tags: [wave2, w2b, freedom-of-association, expressive-association]
+  status: draft
+  last_verified: 2026-11-05
+
+- id: Q-CON-0150
+  subject: CON
+  coverage_ids: [CON-MBE-IV.F.4]
+  rule_ids: [R-CON-110, R-CON-111]
+  difficulty: 2
+  stem: >-
+    A city requires any organization that applies for a permit to hold a rally in a city park to file a
+    list of the names and home addresses of all its members who live in the city; the lists are public
+    records. The city says the lists help it identify who is responsible if a rally damages park property.
+    The permit rules separately require each applicant to designate an officer who is responsible for the
+    event and to post a $500 damage bond. A small advocacy organization supporting an unpopular cause
+    applied for a permit and refused to file a membership list, presenting uncontradicted evidence that
+    members whose affiliation became public had lost jobs and received threats. Its permit was denied for
+    that reason, and it sued.
+  call: "Is the membership-list requirement constitutional as applied to the organization?"
+  options:
+    A: "Yes, because the names of an organization's members are facts, not speech, so the First Amendment does not protect them."
+    B: "Yes, because the requirement applies to every organization regardless of viewpoint, so it is a valid content-neutral rule for park use."
+    C: "No, because compelled disclosure of members must be substantially related to a sufficiently important interest, and the list adds little here."
+    D: "No, because the government may never require an organization to disclose any information about the people who belong to it."
+  answer: C
+  explanation_correct: >-
+    C is correct. Compelled disclosure of an organization's members can deter association, especially for
+    groups supporting unpopular causes, so it is subject to exacting scrutiny: there must be a substantial
+    relation between the disclosure requirement and a sufficiently important governmental interest
+    (R-CON-110; NAACP v. Alabama ex rel. Patterson), and the Court has struck down disclosure demands that
+    sweep far more broadly than the interest they serve (Shelton v. Tucker; Americans for Prosperity Found.
+    v. Bonta). The city's interest in recovering for park damage is already served by the designated
+    responsible officer and the damage bond; a public list of every member who lives in the city adds
+    little to it, while the uncontradicted evidence shows that disclosure exposes members to reprisals.
+  explanation_each_wrong_option:
+    A: >-
+      Wrong rule. Freedom of association protects the privacy of group membership because disclosure can
+      chill association (R-CON-110; NAACP v. Alabama).
+    B: >-
+      Wrong framework. Viewpoint neutrality does not save a disclosure requirement; compelled disclosure of
+      membership gets exacting scrutiny even when it applies to every group (R-CON-110).
+    D: >-
+      Overbroad. Disclosure requirements that are substantially related to important interests, such as
+      many campaign-finance disclosure rules, are upheld (R-CON-110; R-CON-111).
+  trap_type: wrong-standard
+  authority: ["U.S. Const. amend. I", "NAACP v. Alabama ex rel. Patterson, 357 U.S. 449 (1958)", "Shelton v. Tucker, 364 U.S. 479 (1960)", "Americans for Prosperity Found. v. Bonta, 594 U.S. 595 (2021)"]
+  source: original
+  tags: [wave2, w2b, freedom-of-association, compelled-disclosure]
+  status: draft
+  last_verified: 2026-11-05

@@ -1,0 +1,545 @@
+# Evidence MCQs — NCBE category I: presentation of evidence (Wave 2, batch B)
+# FRE only (as amended through Dec. 1, 2024). All items original.
+# No item turns on amended FRE 801(d)(1)(A) (prior inconsistent statements as substantive evidence, V-028).
+questions:
+- id: Q-EVD-0101
+  subject: EVD
+  coverage_ids: [EVD-MBE-I.A.4]
+  rule_ids: [R-EVD-013, R-EVD-058]
+  difficulty: 1
+  stem: >-
+    A pedestrian sues a driver in federal court, alleging that the driver negligently struck her in a
+    restaurant parking lot. The driver denies that he had been drinking. The pedestrian calls the
+    restaurant's hostess, who spoke with the driver for several minutes as he left the restaurant, moments
+    before the accident. She testifies that he was swaying, slurring his words, and smelled strongly of
+    alcohol, and that he dropped his car keys twice. Plaintiff's counsel then asks her, "Based on what you
+    saw, was he sober or drunk?" The driver objects.
+  call: Should the court permit the hostess to answer?
+  options:
+    A: "Yes, because her opinion is rationally based on her own perception and helps the jury understand her testimony."
+    B: "No, because intoxication may be proved only through expert testimony or chemical test results."
+    C: "No, because a lay witness must limit her testimony to the facts she observed and may not state an opinion."
+    D: "No, because the question asks the witness to decide an ultimate issue that is reserved for the jury."
+  answer: A
+  explanation_correct: >-
+    Lay opinion (R-EVD-013; FRE 701): a lay witness may give an opinion that is (a) rationally based on
+    her perception, (b) helpful to clearly understanding her testimony or to determining a fact in issue,
+    and (c) not based on scientific, technical, or other specialized knowledge. The hostess watched and
+    spoke with the driver herself, and whether someone appears drunk is a judgment ordinary people make
+    from everyday experience. Her opinion is a helpful shorthand for the combination of signs she
+    described. Whether the driver was in fact impaired, and how much weight her opinion deserves, are for
+    the jury.
+  explanation_each_wrong_option:
+    B: >-
+      Wrong standard. Apparent intoxication is a classic subject of lay opinion from a witness who observed
+      the person; expert or chemical evidence may be more persuasive, but it is not required for
+      admissibility.
+    C: >-
+      Overstates the limit. FRE 701 expressly permits lay opinions that meet its three requirements; the
+      older "facts only" preference does not control under the FRE.
+    D: >-
+      An opinion is not objectionable just because it embraces an ultimate issue (FRE 704(a); R-EVD-058).
+      In any event, whether the driver appeared drunk is a fact bearing on negligence, not the ultimate
+      question of negligence itself.
+  trap_type: confused-rule
+  authority: ["FRE 701", "FRE 704(a)"]
+  source: original
+  tags: [wave2, W2b-EVD, lay-opinion]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-EVD-0102
+  subject: EVD
+  coverage_ids: [EVD-MBE-I.A.2]
+  rule_ids: [R-EVD-012]
+  difficulty: 3
+  stem: >-
+    A landlord sues a former commercial tenant in federal court for unpaid rent. The landlord's property
+    manager testifies that the tenant's rent checks for March, April, and May each arrived 20 or more days
+    late. On cross-examination, she says that she could not remember those dates until the evening before
+    trial, when she reviewed her own handwritten log of rent receipts at home, and that she did not bring
+    the log to court. The tenant's counsel asks the court to order the landlord to produce the log so that
+    counsel can inspect it and cross-examine the manager about it. The landlord objects that the manager
+    did not use the log while testifying.
+  call: How should the court rule on the tenant's request?
+  options:
+    A: "It must order production, because an adverse party is entitled to any writing that a witness used to refresh her memory."
+    B: "It may not order production, because the manager looked at the log before she testified rather than while testifying."
+    C: "It must order production and, if the log is not produced, must strike the manager's testimony about the dates."
+    D: "It may order production if it decides that justice requires giving the tenant access to the log."
+  answer: D
+  explanation_correct: >-
+    Refreshing recollection (R-EVD-012; FRE 612): when a witness uses a writing to refresh her memory
+    while testifying, the adverse party is entitled to have it produced, to inspect it, to cross-examine
+    the witness about it, and to introduce any portion that relates to her testimony. When the writing was
+    used before testifying, the adverse party has those options only if the court decides that justice
+    requires it (FRE 612(a)(2), (b)). The manager reviewed the log the evening before trial, so production
+    is within the court's discretion; the court may consider, for example, how heavily her testimony
+    depends on what the log says.
+  explanation_each_wrong_option:
+    A: >-
+      Overbroad. Production is automatic only for a writing used while testifying; for a writing used
+      before testifying, it depends on the court's finding that justice requires it.
+    B: >-
+      Wrong in the other direction. FRE 612(a)(2) gives the court discretion to order production of a
+      writing used before testifying; it does not forbid production.
+    C: >-
+      This is California's rule (Evid. Code § 771), which makes production mandatory for writings used
+      before or while testifying and requires striking the testimony if the writing is not produced. Under
+      FRE 612(c), if a writing is not produced the court may issue any appropriate order; it must strike
+      the testimony or, if justice so requires, declare a mistrial only when the prosecution fails to
+      comply in a criminal case.
+  trap_type: overbroad
+  authority: ["FRE 612(a)", "FRE 612(b)", "FRE 612(c)"]
+  source: original
+  tags: [wave2, W2b-EVD, refreshing-recollection]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-EVD-0103
+  subject: EVD
+  coverage_ids: [EVD-MBE-I.A.5]
+  rule_ids: [R-EVD-011]
+  difficulty: 2
+  stem: >-
+    After a jury returned a verdict for the defendant in a federal civil action for breach of a franchise
+    agreement, the plaintiff moved for a new trial. In support, it offered the affidavit of one juror
+    stating that (1) during deliberations, several jurors said that they believed the plaintiff had to
+    prove its case beyond a reasonable doubt and voted for the defendant for that reason, and (2) during
+    deliberations, the foreperson read aloud to the other jurors a newspaper article, which she had
+    brought from home, reporting that other franchisees had sued the plaintiff for fraud. The defendant
+    objects to the court's considering the affidavit.
+  call: Which parts of the affidavit, if any, may the court consider?
+  options:
+    A: "Both parts, because the affidavit is offered to challenge the validity of the verdict rather than to prove the merits."
+    B: "Neither part, because a juror may not testify about any statement made or incident occurring during deliberations."
+    C: "Only part (1), because the jurors' misunderstanding of the burden of proof was a mistake that affected the verdict."
+    D: "Only part (2), because jurors may testify about extraneous prejudicial information brought to their attention."
+  answer: D
+  explanation_correct: >-
+    Juror testimony about a verdict (R-EVD-011; FRE 606(b)): in an inquiry into the validity of a verdict,
+    a juror may not testify about any statement made or incident that occurred during deliberations, the
+    effect of anything on any juror's vote, or any juror's mental processes. The exceptions allow
+    testimony about whether (A) extraneous prejudicial information was improperly brought to the jury's
+    attention, (B) an outside influence was improperly brought to bear on any juror, or (C) a mistake was
+    made in entering the verdict on the verdict form. A newspaper article about other fraud suits against
+    the plaintiff is extraneous information brought into the jury room, so part (2) may be considered.
+    Part (1) concerns the jurors' reasoning and mental processes, which the rule shields.
+  explanation_each_wrong_option:
+    A: >-
+      Overbroad. FRE 606(b) applies precisely when a verdict's validity is challenged; it bars testimony
+      about deliberations and mental processes except in the listed situations.
+    B: >-
+      Overbroad. The bar has exceptions, and part (2) fits the exception for extraneous prejudicial
+      information even though the article was read during deliberations.
+    C: >-
+      Exception trap. The "mistake" exception covers errors in entering the verdict on the form (for
+      example, recording the wrong party or amount), not jurors' misunderstanding of the law or the
+      instructions, which is part of their mental processes.
+  trap_type: exception-trap
+  authority: ["FRE 606(b)"]
+  source: original
+  tags: [wave2, W2b-EVD, juror-testimony, verdict-impeachment]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-EVD-0104
+  subject: EVD
+  coverage_ids: [EVD-MBE-I.A.6]
+  rule_ids: [R-EVD-014, R-EVD-015]
+  difficulty: 1
+  stem: >-
+    In a federal civil action for breach of a supply contract, the contract required delivery "on or before
+    the first Monday in March" of a stated year. The buyer contends that delivery on March 6 of that year
+    was late. At the buyer's request, and after giving both parties an opportunity to be heard, the court
+    takes judicial notice, based on a printed calendar for that year, that March 6 fell on a Tuesday. The
+    seller asks the court to let the jury also consider testimony from its shipping clerk that she
+    remembers March 6 of that year as a Monday.
+  call: How should the court instruct the jury about the day on which March 6 fell?
+  options:
+    A: "That the jury may, but is not required to, accept as conclusive that March 6 was a Tuesday."
+    B: "That the noticed fact shifts to the seller the burden of producing evidence that March 6 was a Monday."
+    C: "That the jury must accept as conclusive that March 6 was a Tuesday."
+    D: "That the jury should weigh the court's notice together with the clerk's testimony in deciding the day."
+  answer: C
+  explanation_correct: >-
+    Judicial notice (R-EVD-014; FRE 201): a court may notice an adjudicative fact that is not subject to
+    reasonable dispute because it can be accurately and readily determined from sources whose accuracy
+    cannot reasonably be questioned, such as a calendar (FRE 201(b)(2)). In a civil case, the court must
+    instruct the jury to accept the noticed fact as conclusive (FRE 201(f)). The seller's opportunity to
+    contest the propriety of notice was the hearing (FRE 201(e)); a clerk's memory does not create a
+    reasonable dispute about what a calendar shows, and the jury may not reconsider the noticed fact.
+  explanation_each_wrong_option:
+    A: >-
+      This is the criminal-case instruction under FRE 201(f), which protects the accused's right to a jury
+      determination; it does not apply in a civil case.
+    B: >-
+      Confuses judicial notice with a presumption. A civil presumption under FRE 301 shifts the burden of
+      producing evidence (R-EVD-015); a judicially noticed fact in a civil case is conclusive.
+    D: >-
+      In a civil case a noticed fact is not weighed against contrary evidence; treating it as one more
+      item of evidence would defeat the purpose of notice.
+  trap_type: confused-rule
+  authority: ["FRE 201(b)", "FRE 201(e)", "FRE 201(f)", "FRE 301"]
+  source: original
+  tags: [wave2, W2b-EVD, judicial-notice]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-EVD-0105
+  subject: EVD
+  coverage_ids: [EVD-MBE-I.B]
+  rule_ids: [R-EVD-015]
+  difficulty: 3
+  stem: >-
+    A pedestrian sues the owner of a car in federal court under diversity jurisdiction for injuries she
+    suffered when the car, driven by the owner's neighbor, struck her. Her claim rests on a state statute
+    that makes a car's owner liable for the negligence of anyone driving it with the owner's permission.
+    Under that state's law, proof that the defendant owned the car raises a presumption that the driver
+    had permission, and the presumption places on the owner the burden of persuading the jury that
+    permission was not given. The pedestrian proves ownership. The owner testifies that the neighbor took
+    the car without asking; the neighbor testifies that the owner lent him the keys.
+  call: How should the court instruct the jury on the issue of permission?
+  options:
+    A: "That the owner bears the burden of persuading the jury that the neighbor did not have permission."
+    B: "That the presumption disappeared when the owner offered contrary evidence, so the pedestrian must persuade the jury that the neighbor had permission."
+    C: "That the jury may infer permission from ownership, but the pedestrian keeps the burden of persuading the jury that permission was given."
+    D: "That the jury must find that the neighbor had permission, because an owner cannot rebut the presumption with his own testimony."
+  answer: A
+  explanation_correct: >-
+    Presumptions (R-EVD-015; FRE 301, 302): in a federal civil case, FRE 301's default is that a
+    presumption shifts only the burden of producing evidence and leaves the burden of persuasion where it
+    was. But FRE 302 provides that state law governs the effect of a presumption regarding a claim or
+    defense for which state law supplies the rule of decision. The pedestrian's claim arises under a state
+    statute in a diversity case, and the state gives this presumption burden-of-persuasion effect, so the
+    court should instruct the jury that the owner must persuade it that permission was lacking.
+  explanation_each_wrong_option:
+    B: >-
+      This is the "bursting bubble" effect that FRE 301 gives a presumption when federal law supplies the
+      rule of decision; FRE 302 displaces it for this state-law claim.
+    C: >-
+      Also an FRE 301-style approach, in which the presumption leaves at most a permissible inference. It
+      ignores FRE 302, under which the state's allocation of the burden of persuasion controls.
+    D: >-
+      Overstates the presumption. Under the stated state rule it is rebuttable: the owner may try to carry
+      his burden with his own testimony, and the jury weighs the conflicting accounts.
+  trap_type: wrong-standard
+  authority: ["FRE 301", "FRE 302"]
+  source: original
+  tags: [wave2, W2b-EVD, presumptions, diversity]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-EVD-0106
+  subject: EVD
+  coverage_ids: [EVD-MBE-I.A.8]
+  rule_ids: [R-EVD-007, R-EVD-008, R-EVD-074]
+  difficulty: 2
+  stem: >-
+    A swimmer was injured when a loose board on a public-access dock gave way. She sued the marina company
+    that operates the adjacent boat slips in federal court for negligence. The company denied that it
+    controlled the dock, claiming that the city, which owns the shoreline, was responsible for it. Over the
+    company's objection, the court admitted evidence that the company's maintenance crew replaced the board
+    the day after the injury, for the limited purpose of proving that the company controlled the dock. The
+    company did not ask the court to instruct the jury about the limited purpose, and the court gave no
+    such instruction. After a verdict for the swimmer, the company appeals, arguing only that the court
+    erred by failing to give a limiting instruction.
+  call: Is the company likely to prevail on this argument?
+  options:
+    A: "Yes, because evidence of a subsequent repair may not be considered by a jury in a negligence action."
+    B: "Yes, because whenever evidence is admitted for a limited purpose, the court must instruct the jury on its proper scope."
+    C: "No, because a limiting instruction is required only on a timely request, and the company made none."
+    D: "No, because evidence admitted for one purpose may be used by the jury for any purpose once it is in the record."
+  answer: C
+  explanation_correct: >-
+    Limited admissibility (R-EVD-007; FRE 105): when evidence is admissible for one purpose but not
+    another, the court, on timely request, must restrict the evidence to its proper scope and instruct the
+    jury accordingly. The repair was admissible to prove control, which the company disputed (FRE 407;
+    R-EVD-074), but the company never requested an instruction. Without a request, the omission can be
+    reviewed only for plain error affecting a substantial right (FRE 103(e); R-EVD-008), a demanding
+    standard that the company is unlikely to meet.
+  explanation_each_wrong_option:
+    A: >-
+      FRE 407 bars subsequent remedial measures only when offered to prove negligence or culpable conduct
+      (or a defect or need for a warning); it allows them for other purposes, such as control, when that
+      is disputed. The company also does not challenge the admission itself.
+    B: >-
+      Missing element. FRE 105 makes the instruction mandatory only "on timely request"; it does not
+      require the court to give one on its own.
+    D: >-
+      Wrong. Evidence admitted for a limited purpose may properly be considered only for that purpose; the
+      company's problem is that it never asked the court to tell the jury so.
+  trap_type: procedural-posture
+  authority: ["FRE 105", "FRE 103(e)", "FRE 407"]
+  source: original
+  tags: [wave2, W2b-EVD, limiting-instruction, preservation]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-EVD-0107
+  subject: EVD
+  coverage_ids: [EVD-MBE-I.C.1, EVD-MBE-I.D.2]
+  rule_ids: [R-EVD-024, R-EVD-017, R-EVD-027]
+  difficulty: 2
+  stem: >-
+    A defendant is prosecuted in federal court for robbing a bank. The government's key witness, a
+    parking-lot attendant, testifies that she saw the defendant run from the bank carrying a duffel bag.
+    She is herself awaiting trial in the same federal district on unrelated felony drug charges brought by
+    the same United States Attorney's office, and the government states that it has made her no promises.
+    Before cross-examination, the government moves to bar any mention of her pending charges, arguing
+    that she has not been convicted and that the subject would distract the jury.
+  call: Should the court grant the government's motion?
+  options:
+    A: "Yes, because criminal charges may be used to impeach a witness only after they result in a conviction for a felony or a crime of dishonesty."
+    B: "No, because the pending charges may give the witness a motive to favor the prosecution, which the defense may explore."
+    C: "Yes, because the court's power to control the mode of examination allows it to exclude any line of questioning that may distract the jury."
+    D: "No, because a criminal defendant may introduce evidence of any specific instance of a witness's misconduct to attack her credibility."
+  answer: B
+  explanation_correct: >-
+    Bias and the court's control of cross-examination (R-EVD-024, R-EVD-017): a witness may be impeached
+    for bias, interest, or motive, and bias is never collateral (United States v. Abel). A witness facing
+    charges brought by the same prosecuting office may hope to earn leniency whether or not a promise has
+    been made, so her pending charges are classic bias evidence. Under FRE 611(a) the court may impose
+    reasonable limits on how far the inquiry goes, but in a criminal case barring all inquiry into a key
+    prosecution witness's possible motive to favor the government can violate the Confrontation Clause
+    (Davis v. Alaska; Delaware v. Van Arsdall).
+  explanation_each_wrong_option:
+    A: >-
+      Confuses bias impeachment with impeachment by conviction under FRE 609. The pending charges are
+      offered to show motive to curry favor, not bad character, so no conviction is required.
+    C: >-
+      Overbroad. FRE 611(a) permits reasonable limits on cross-examination, but it does not authorize
+      cutting off all inquiry into a key prosecution witness's possible bias; the Confrontation Clause
+      limits that discretion.
+    D: >-
+      Wrong theory and overbroad. FRE 608(b) bars extrinsic evidence of specific conduct offered to attack
+      character for truthfulness (R-EVD-027), and drug charges do not ordinarily bear on truthfulness. The
+      charges are usable here because they show bias.
+  trap_type: confused-rule
+  authority: ["FRE 611(a)", "FRE 608(b)", "U.S. Const. amend. VI", "Davis v. Alaska, 415 U.S. 308 (1974)", "Delaware v. Van Arsdall, 475 U.S. 673 (1986)", "United States v. Abel, 469 U.S. 45 (1984)"]
+  source: original
+  tags: [wave2, W2b-EVD, bias, cross-examination, confrontation]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-EVD-0108
+  subject: EVD
+  coverage_ids: [EVD-MBE-I.D.1]
+  rule_ids: [R-EVD-023]
+  difficulty: 2
+  stem: >-
+    In a federal negligence action arising from a collision between two pickup trucks on a rural highway,
+    a farmhand who saw the crash testifies for the plaintiff that the defendant's truck was traveling at
+    about 70 miles per hour. On cross-examination, defense counsel holds up a letter that the farmhand
+    wrote to his sister a week after the crash and asks, "Didn't you write to your sister that the truck
+    was going about 40 miles per hour?" Plaintiff's counsel objects that defense counsel must first show
+    the letter to the farmhand and, in any event, must show it to plaintiff's counsel.
+  call: How should the court rule?
+  options:
+    A: "Defense counsel need not show the letter to the farmhand first, but must show it to plaintiff's counsel on request."
+    B: "Defense counsel must show the letter to the farmhand and let him read it before asking him about its contents."
+    C: "Defense counsel need not show the letter to anyone, because it is being used only to impeach the farmhand's credibility."
+    D: "Defense counsel may not ask about the letter unless the letter itself has first been admitted into evidence."
+  answer: A
+  explanation_correct: >-
+    Examining a witness about a prior statement (R-EVD-023; FRE 613(a)): a party examining a witness
+    about the witness's prior statement need not show it or disclose its contents to the witness, but
+    must, on request, show it or disclose its contents to an adverse party's attorney. Defense counsel may
+    confront the farmhand with the letter without first showing it to him, and plaintiff's counsel is
+    entitled to see it. If the farmhand denies the statement, extrinsic proof of it is admissible only
+    after he has had a chance to explain or deny it and the plaintiff a chance to examine him about it,
+    unless the court orders otherwise (FRE 613(b)); the truck's speed is not a collateral matter.
+  explanation_each_wrong_option:
+    B: >-
+      This was the old common-law rule associated with the Queen's Case (1820). FRE 613(a) abolished it so
+      that the cross-examiner can test the witness's memory without first revealing the statement.
+    C: >-
+      Overbroad. The rule protects the opposing lawyer: on request, the statement must be shown or
+      disclosed to the adverse party's attorney, which guards against questions about statements that do
+      not exist or are misdescribed.
+    D: >-
+      No such prerequisite exists. Counsel may ask about the statement on cross-examination first; whether
+      and when the letter itself may be introduced is governed by FRE 613(b).
+  trap_type: minority-rule
+  authority: ["FRE 613(a)", "FRE 613(b)"]
+  source: original
+  tags: [wave2, W2b-EVD, impeachment, prior-inconsistent-statement]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-EVD-0109
+  subject: EVD
+  coverage_ids: [EVD-MBE-I.C.3]
+  rule_ids: [R-EVD-019, R-EVD-017, R-EVD-022]
+  difficulty: 3
+  stem: >-
+    A warehouse worker sues a forklift manufacturer in federal court for injuries he suffered when a
+    forklift's mast collapsed. In his case-in-chief, the worker calls the manufacturer's chief design
+    engineer, a current employee of the manufacturer, as an adverse witness and examines him with leading
+    questions. When the worker's counsel
+    finishes, the manufacturer's own counsel cross-examines the engineer and asks, "The mast design was
+    tested and met every industry standard, didn't it?" The worker objects to the form of the question.
+  call: May the court sustain the objection?
+  options:
+    A: "No, because leading questions are permitted on cross-examination no matter which party called the witness."
+    B: "No, because the worker, by calling the engineer as a witness, vouched for his credibility and cannot control how he is examined."
+    C: "Yes, because the engineer is aligned with the examining party, so the cross-examination is cross in form only."
+    D: "Yes, because a party may not cross-examine its own employee at all when the opposing party has called him as a witness."
+  answer: C
+  explanation_correct: >-
+    Leading questions (R-EVD-019; FRE 611(c)): leading questions should not be used on direct examination
+    except as necessary to develop the testimony, and "ordinarily" the court should allow them on
+    cross-examination. The word "ordinarily" gives the court discretion to bar leading when a
+    cross-examination is cross in form only, as when a party's own employee, called by the opponent as an
+    adverse witness, is questioned by the party's own counsel. The engineer is the manufacturer's employee
+    and is friendly to its counsel, so the court may require non-leading questions. (The worker properly
+    led the engineer because he is a witness identified with an adverse party.)
+  explanation_each_wrong_option:
+    A: >-
+      Overbroad. FRE 611(c) says leading questions are "ordinarily" allowed on cross-examination; it does
+      not make them automatic when the witness is friendly to the examiner.
+    B: >-
+      The voucher rule is abolished (FRE 607; R-EVD-022), and calling an adverse witness does not limit the
+      court's control over the form of later questioning.
+    D: >-
+      Overbroad. The manufacturer may cross-examine its engineer within the scope of the direct
+      examination; the only question is the form of its questions.
+  trap_type: overbroad
+  authority: ["FRE 611(c)", "FRE 611(a)", "FRE 607"]
+  source: original
+  tags: [wave2, W2b-EVD, leading-questions, friendly-cross]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-EVD-0110
+  subject: EVD
+  coverage_ids: [EVD-MBE-I.D.4]
+  rule_ids: [R-EVD-027, R-EVD-022]
+  difficulty: 1
+  stem: >-
+    In a federal breach-of-contract action between two software companies, the defendant calls its former
+    project manager, who testifies that the plaintiff never delivered a working version of the software.
+    On cross-examination, the plaintiff's counsel, who has a good-faith basis for the question, asks, "Isn't
+    it true that two years ago you broke a neighbor's nose in a fistfight over a parking space?" The
+    manager was never arrested or charged, and the neighbor has no connection to either company. The
+    defendant objects.
+  call: Should the court permit the question?
+  options:
+    A: "Yes, because counsel may ask a witness on cross-examination about any prior bad act for which counsel has a good-faith basis."
+    B: "No, because the fight is not probative of the manager's character for truthfulness."
+    C: "Yes, because the question does not involve extrinsic evidence of the act, only the manager's own answer."
+    D: "No, because a witness's prior misconduct may be used to impeach only if it resulted in a criminal conviction."
+  answer: B
+  explanation_correct: >-
+    Specific instances of conduct (R-EVD-027; FRE 608(b)): apart from criminal convictions, a witness's
+    specific acts may be inquired into on cross-examination, in the court's discretion, only if they are
+    probative of the witness's character for truthfulness or untruthfulness. Fighting shows violence or a
+    hot temper, not dishonesty, so it does not bear on whether the manager is telling the truth. The
+    neighbor has no connection to the parties, so there is no bias theory either, and the question should
+    not be permitted.
+  explanation_each_wrong_option:
+    A: >-
+      Overbroad. A good-faith basis is necessary but not sufficient; the act must also be probative of
+      truthfulness or untruthfulness.
+    C: >-
+      Missing element. Taking the witness's answer satisfies only the bar on extrinsic evidence; the act
+      must still be probative of truthfulness before it may be asked about at all.
+    D: >-
+      Too narrow. FRE 608(b)(1) allows cross-examination about unconvicted acts that are probative of
+      untruthfulness, such as lying on a job application.
+  trap_type: overbroad
+  authority: ["FRE 608(b)"]
+  source: original
+  tags: [wave2, W2b-EVD, impeachment, specific-instances]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-EVD-0111
+  subject: EVD
+  coverage_ids: [EVD-MBE-I.D.7, EVD-MBE-I.D.3]
+  rule_ids: [R-EVD-031, R-EVD-025, R-EVD-091]
+  difficulty: 2
+  stem: >-
+    A defendant is prosecuted in federal court for conspiring to distribute stolen prescription drugs. The
+    government plays a lawfully intercepted telephone call in which the defendant's alleged coconspirator,
+    arranging a delivery, told another member of the scheme, "My partner runs the warehouse where we keep
+    the pills," referring to the defendant. The court admits the statement as a coconspirator's statement.
+    The coconspirator does not testify. The defendant then offers a certified record showing that, five
+    years ago, the coconspirator was convicted of the misdemeanor of making a false statement on a loan
+    application, an offense whose elements require proof of a knowingly false statement. The government
+    objects.
+  call: Should the court admit the conviction?
+  options:
+    A: "No, because a person's convictions may be used to impeach him only if he testifies as a witness at the trial."
+    B: "No, because a coconspirator's statement is not hearsay, so the rule permitting impeachment of a hearsay declarant does not apply."
+    C: "Yes, but only if the offense was punishable by imprisonment for more than one year."
+    D: "Yes, because the declarant's credibility may be attacked by any evidence that would be admissible had he testified."
+  answer: D
+  explanation_correct: >-
+    Impeaching a hearsay declarant (R-EVD-031; FRE 806): when a hearsay statement, or a statement described
+    in FRE 801(d)(2)(C), (D), or (E), has been admitted, the declarant's credibility may be attacked by any
+    evidence that would be admissible for that purpose if the declarant had testified. Had the
+    coconspirator testified, his conviction for a crime whose elements required proof of a false statement
+    would have to be admitted under FRE 609(a)(2), regardless of the punishment and without Rule 403
+    balancing (R-EVD-025). The conviction is five years old, so the ten-year limit of FRE 609(b) does not
+    apply.
+  explanation_each_wrong_option:
+    A: >-
+      FRE 806 exists precisely so that a declarant whose statement is admitted without his testifying can be
+      impeached as if he had testified.
+    B: >-
+      Exception trap. FRE 806 expressly reaches statements admitted under FRE 801(d)(2)(C), (D), and (E),
+      including coconspirator statements (R-EVD-091), even though the FRE classify them as not hearsay.
+    C: >-
+      The more-than-one-year requirement governs FRE 609(a)(1). A conviction for a crime whose elements
+      required a dishonest act or false statement is admissible under FRE 609(a)(2) whatever the
+      punishment.
+  trap_type: exception-trap
+  authority: ["FRE 806", "FRE 609(a)(2)", "FRE 609(b)", "FRE 801(d)(2)(E)"]
+  source: original
+  tags: [wave2, W2b-EVD, impeachment, hearsay-declarant, coconspirator]
+  status: draft
+  last_verified: "2026-11-04"
+
+- id: Q-EVD-0112
+  subject: EVD
+  coverage_ids: [EVD-MBE-I.D.8, EVD-MBE-I.D.5]
+  rule_ids: [R-EVD-029, R-EVD-032, R-EVD-027]
+  difficulty: 2
+  stem: >-
+    In a federal civil action over a disputed real-estate commission, the plaintiff broker's assistant
+    testifies that the defendant seller agreed to pay a 6 percent commission. On cross-examination, the
+    seller's counsel asks the assistant, in good faith, whether she overstated her income on a mortgage
+    application two years ago, and she admits that she did. The seller offers no other impeachment. The
+    broker then calls the assistant's former supervisor, who will testify that the assistant has an
+    excellent reputation in their professional community for truthfulness. The seller objects.
+  call: Should the court admit the supervisor's testimony?
+  options:
+    A: "No, because the assistant admitted making the false statement, so her credibility cannot be rehabilitated."
+    B: "No, because evidence of truthful character is admissible only after an attack by reputation or opinion testimony."
+    C: "Yes, because a party may support its own witness's character for truthfulness at any time."
+    D: "Yes, because questioning her about a specific false statement attacked her character for truthfulness."
+  answer: D
+  explanation_correct: >-
+    Rehabilitation (R-EVD-029, R-EVD-032; FRE 608(a)): evidence of truthful character is admissible only
+    after the witness's character for truthfulness has been attacked. The attack need not come from a
+    reputation or opinion witness; cross-examination about specific acts of dishonesty under FRE 608(b)
+    (R-EVD-027), such as overstating income on a mortgage application, is an attack on character for
+    truthfulness. The broker may therefore respond with reputation or opinion evidence that the assistant
+    is a truthful person. (Contrast impeachment for bias, which does not open this door.)
+  explanation_each_wrong_option:
+    A: >-
+      Admitting the act does not end the matter; the attack on her character for truthfulness opens the
+      door to reputation or opinion evidence that she is nonetheless truthful.
+    B: >-
+      Too narrow. FRE 608(a) asks only whether character for truthfulness was attacked; attacks by
+      specific-instance cross-examination or by a conviction qualify.
+    C: >-
+      Bolstering an unimpeached witness is not allowed; truthful character may be shown only after an
+      attack on it.
+  trap_type: confused-rule
+  authority: ["FRE 608(a)", "FRE 608(b)"]
+  source: original
+  tags: [wave2, W2b-EVD, rehabilitation, character-for-truthfulness]
+  status: draft
+  last_verified: "2026-11-04"

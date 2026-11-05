@@ -1,0 +1,571 @@
+# Contracts — NCBE category I: Formation of contracts (wave 2, round 2, original items)
+questions:
+- id: Q-CTR-0101
+  subject: CTR
+  coverage_ids: [CTR-MBE-I.A]
+  rule_ids: [R-CTR-007, R-CTR-006, R-CTR-008]
+  difficulty: 2
+  stem: >-
+    On March 1, Whitley handed Arroyo a signed letter offering to sell Whitley's vacant lot on Ridge
+    Road for $95,000 and stating, "I promise to hold this offer open until noon on March 10." Arroyo
+    gave nothing in exchange for that promise and did nothing in reliance on the offer. On March 6,
+    Whitley signed a contract to sell the lot to Benning for $102,000. That evening, Whitley's
+    real-estate broker, who had handled the Benning sale, told Arroyo that Whitley had "signed a deal
+    with Benning for the Ridge Road lot this afternoon." The broker's statement was accurate. On March
+    8, Arroyo delivered to Whitley a signed letter accepting the March 1 offer. Whitley refused to sell
+    to Arroyo, and Arroyo sued.
+  call: "Did Arroyo's March 8 letter create a contract with Whitley?"
+  options:
+    A: "Yes, because Whitley promised in a signed writing to keep the offer open until noon on March 10, and Arroyo accepted before then."
+    B: "Yes, because a revocation takes effect only when the offeror itself communicates it to the offeree, and Whitley never did."
+    C: "No, because before accepting, Arroyo learned from a reliable source that Whitley had already contracted to sell the lot to Benning."
+    D: "No, because once Whitley contracted to sell the lot to Benning, she could no longer perform a contract to sell it to Arroyo."
+  answer: C
+  explanation_correct: >-
+    An offer may be revoked at any time before acceptance, even if the offeror promised to hold it open,
+    unless it is irrevocable: an option supported by consideration (or by a signed recital under R2d §
+    87(1)(a)), a merchant's firm offer for goods, a unilateral offer whose performance has begun, or an
+    offer the offeree has relied on (R-CTR-007, R-CTR-008). None applies: Whitley's letter recited no
+    consideration, Arroyo gave nothing, the subject is land, and Arroyo did not rely. Revocation takes
+    effect when the offeree receives it, and it need not come from the offeror: the power of acceptance
+    ends when the offeree acquires reliable information that the offeror has taken definite action
+    inconsistent with an intention to enter into the proposed contract (R2d § 43; Dickinson v. Dodds;
+    R-CTR-006). Whitley's contract with Benning was such action, and her own broker accurately reported
+    it to Arroyo two days before Arroyo tried to accept. Trap: assuming a revocation must come from the
+    offeror personally.
+  explanation_each_wrong_option:
+    A: >-
+      Overbroad. At common law a promise to keep an offer open binds only if it is supported by
+      consideration or a recognized substitute; the UCC firm-offer rule (§ 2-205) covers only merchants'
+      signed offers for goods (R-CTR-007 to R-CTR-009). Arroyo gave nothing, so Whitley could revoke
+      before March 10.
+    B: >-
+      Revocation may be indirect. Under R2d § 43, reliable information that the offeror has taken definite
+      action inconsistent with the offer terminates the power of acceptance; the broker's accurate report
+      did so on March 6.
+    D: >-
+      Wrong reason. The Benning contract did not make performance impossible in the legal sense: had
+      Arroyo accepted first, Whitley would have been bound to both buyers and liable to whichever one she
+      did not convey to. Arroyo loses because she learned of the inconsistent sale before she accepted.
+  trap_type: confused-rule
+  authority: ["R2d § 42", "R2d § 43", "Dickinson v. Dodds (1876) 2 Ch. D. 463"]
+  source: original
+  tags: [wave2, w2b, revocation, indirect-revocation]
+  status: draft
+  last_verified: "2026-11-05"
+
+- id: Q-CTR-0102
+  subject: CTR
+  coverage_ids: [CTR-MBE-I.A]
+  rule_ids: [R-CTR-012, R-CTR-015, R-CTR-013]
+  difficulty: 2
+  stem: >-
+    On May 1, Castellan mailed Nordquist a signed letter: "I offer to sell you my lakeside cabin and its
+    lot for $240,000. This offer will remain open until May 15." Nordquist gave nothing for the promise
+    to keep the offer open. On May 4, Nordquist mailed Castellan a signed reply: "I accept your offer to
+    sell the cabin and lot for $240,000. I hope you will also leave the canoe and the dock furniture."
+    Castellan received the reply on May 6. On May 7, after receiving a higher offer from someone else,
+    Castellan wrote Nordquist that the request for the canoe and furniture was "a new term I never
+    agreed to" and that he would not sell. Nordquist sued for specific performance.
+  call: "Was a contract formed between Castellan and Nordquist?"
+  options:
+    A: "Yes, because Nordquist's reply was an unequivocal acceptance, and his remark about the canoe and furniture was a request, not a condition."
+    B: "Yes, because a reply that states additional terms operates as an acceptance unless it is expressly made conditional on assent to them."
+    C: "No, because Nordquist's reply added items that were not in the offer, so it was a counteroffer that rejected Castellan's offer."
+    D: "No, because Castellan's offer was not supported by consideration, so he could withdraw it at any time before May 15."
+  answer: A
+  explanation_correct: >-
+    At common law an acceptance must be unequivocal; a reply that conditions acceptance on new or
+    different terms is a counteroffer (R2d § 59; R-CTR-012). But an acceptance that merely requests a
+    change or addition is not invalidated unless it is made to depend on assent to the new terms (R2d §
+    61). Nordquist accepted the stated property at the stated price and only expressed a hope about the
+    canoe and furniture; nothing made his acceptance depend on it. The acceptance took effect when
+    mailed on May 4 (R2d § 63; R-CTR-015), within the offer's term, so Castellan's May 7 letter came too
+    late to withdraw. Castellan is not bound to leave the canoe or furniture. Trap: treating any mention
+    of an extra item as a counteroffer.
+  explanation_each_wrong_option:
+    B: >-
+      Right result, wrong rule. That is UCC § 2-207(1), which governs only sales of goods. A cabin and lot
+      are real property, governed by the common law (R-CTR-001, R-CTR-013), under which the question is
+      whether the acceptance was made conditional on the added terms.
+    C: >-
+      Applies the mirror-image rule too broadly. A reply that adds a term is a counteroffer only if
+      acceptance is made conditional on that term (R2d § 59); a mere request leaves the acceptance
+      effective (R2d § 61).
+    D: >-
+      The offer was revocable only until it was accepted. Nordquist's acceptance became effective on
+      dispatch on May 4 (and was received on May 6), before Castellan's May 7 attempt to withdraw
+      (R-CTR-015).
+  trap_type: overbroad
+  authority: ["R2d § 59", "R2d § 61", "R2d § 63"]
+  source: original
+  tags: [wave2, w2b, acceptance, mirror-image, request-vs-condition]
+  status: draft
+  last_verified: "2026-11-05"
+
+- id: Q-CTR-0103
+  subject: CTR
+  coverage_ids: [CTR-MBE-I.A]
+  rule_ids: [R-CTR-005, R-CTR-004]
+  difficulty: 1
+  stem: >-
+    Marlowe consigned a restored 1968 motorcycle to Keystone Auctions for sale at Keystone's public
+    auction. Neither Keystone's catalog nor the auctioneer's announcements said whether the motorcycle
+    was offered with or without reserve. When the motorcycle came up, the auctioneer called for bids,
+    and Pruitt bid $18,000, the highest bid. Before the auctioneer brought down the hammer or otherwise
+    announced a sale, Marlowe signaled that $18,000 was too low, and the auctioneer announced that the
+    motorcycle was withdrawn. Pruitt sued Marlowe and Keystone, claiming a contract to buy the
+    motorcycle for $18,000.
+  call: "Is Pruitt likely to prevail?"
+  options:
+    A: "Yes, because by putting the motorcycle up for auction and calling for bids, Keystone made an offer that Pruitt's highest bid accepted."
+    B: "Yes, because once bidding has begun, an auctioneer may withdraw goods only if it announced a reserve price in advance."
+    C: "No, because the auctioneer acts for the bidders rather than the owner and therefore could not bind Marlowe to a sale."
+    D: "No, because the auction was with reserve, so the auctioneer could withdraw the motorcycle until it announced completion of the sale."
+  answer: D
+  explanation_correct: >-
+    At an auction, the call for bids invites offers; each bid is an offer, and the sale is complete when
+    the auctioneer announces it by the fall of the hammer or in another customary manner (UCC §
+    2-328(2); R2d § 28; R-CTR-005). An auction is with reserve unless the goods are put up without
+    reserve in explicit terms, and at an auction with reserve the auctioneer may withdraw the goods at
+    any time until it announces completion of the sale (UCC § 2-328(3)). Nothing was said about reserve,
+    so the default applied, and withdrawing the motorcycle before any announcement of completion simply
+    rejected Pruitt's bid. Trap: assuming the seller is bound once bidding begins, which is true only of
+    an auction explicitly without reserve.
+  explanation_each_wrong_option:
+    A: >-
+      Reverses the roles. The bidder is the offeror, and the auctioneer accepts by announcing completion
+      of the sale (§ 2-328(2)). Only in an auction explicitly without reserve does calling for bids bar
+      withdrawal of the goods.
+    B: >-
+      Reverses the default. A reserve need not be announced; an auction is with reserve unless the goods
+      are explicitly put up without reserve (§ 2-328(3)).
+    C: >-
+      An auctioneer selling consigned goods acts as the seller's agent, and its announcement of completion
+      would have bound Marlowe. Pruitt loses because no sale was ever completed, not because Keystone
+      lacked authority.
+  trap_type: confused-rule
+  authority: ["UCC § 2-328(2)-(3)", "R2d § 28"]
+  source: original
+  tags: [wave2, w2b, ucc, auction, offer]
+  status: draft
+  last_verified: "2026-11-05"
+
+- id: Q-CTR-0104
+  subject: CTR
+  coverage_ids: [CTR-MBE-I.B, CTR-MBE-I.A]
+  rule_ids: [R-CTR-019, R-CTR-018, R-CTR-055]
+  difficulty: 1
+  stem: >-
+    At 11 p.m. on a Saturday, water began pouring from a burst pipe in Fairbanks's basement. Fairbanks
+    telephoned Rapid Rooter, a commercial plumbing service, and said, "Please send someone right away to
+    fix a burst pipe." Neither party mentioned price. A Rapid Rooter plumber arrived within an hour,
+    repaired the pipe, and left an invoice for $640, which is within the range that plumbers in the area
+    customarily charge for comparable after-hours emergency repairs. Fairbanks refused to pay anything,
+    arguing that because the parties never agreed on a price, no contract was formed.
+  call: "Is Fairbanks's argument likely to succeed?"
+  options:
+    A: "Yes, because price is an essential term, and the parties' failure to agree on it leaves their agreement too indefinite to enforce."
+    B: "No, because Fairbanks requested the work and both parties intended a contract, so the court will supply a reasonable price."
+    C: "Yes, because silence on a term the parties would normally discuss shows that they did not intend to be bound until they agreed on it."
+    D: "No, because Fairbanks must pay whatever price Rapid Rooter customarily charges, whether or not that price is reasonable."
+  answer: B
+  explanation_correct: >-
+    A contract may be made by words and conduct, and when the parties intend to be bound but omit a term
+    essential to determining their rights, the court supplies a term that is reasonable in the
+    circumstances (R2d §§ 4, 33, 204; R-CTR-019, R-CTR-055). Fairbanks asked a commercial plumbing
+    service to send someone right away; a reasonable person would understand that a business doing that
+    work expects to be paid, and the plumber's prompt performance shows that both sides meant to deal
+    (R-CTR-018). The missing price is filled with a reasonable price for such services, and the $640
+    invoice is within the customary range. Trap: treating the common-law "essential terms" rule as fatal
+    when the parties' intent to contract is clear.
+  explanation_each_wrong_option:
+    A: >-
+      Overbroad. Open terms defeat formation only if they show that the parties did not intend to be bound
+      or leave no reasonably certain basis for a remedy (R2d § 33; R-CTR-019). Here the intent is plain,
+      and a reasonable price is easy to determine.
+    C: >-
+      Nothing suggests that either party meant to withhold assent until a price was agreed; Fairbanks
+      asked for immediate work, and Rapid Rooter performed it.
+    D: >-
+      Overbroad. The court supplies a reasonable price, not whatever the provider chooses to bill; Rapid
+      Rooter's charge is recoverable because it falls within the customary, reasonable range.
+  trap_type: overbroad
+  authority: ["R2d § 4", "R2d § 33", "R2d § 204"]
+  source: original
+  tags: [wave2, w2b, indefiniteness, implied-in-fact, reasonable-price]
+  status: draft
+  last_verified: "2026-11-05"
+
+- id: Q-CTR-0105
+  subject: CTR
+  coverage_ids: [CTR-MBE-I.C]
+  rule_ids: [R-CTR-022]
+  difficulty: 1
+  stem: >-
+    Hartley owned a vacant lot with a fair market value of about $60,000. Because she was moving abroad
+    in ten days and wanted to settle her affairs quickly, she offered to sell the lot to her neighbor,
+    Osei, for $20,000. Osei had not suggested the price; he promptly accepted, and both signed a written
+    contract. Hartley knew the lot's approximate market value, and Osei made no misrepresentations and
+    applied no pressure. Two days later, after her brother called the price "a giveaway," Hartley told
+    Osei she would not convey the lot. Osei sued Hartley for damages for breach of contract. Hartley
+    contends that the contract is unenforceable for lack of consideration.
+  call: "Is Hartley's contention likely to succeed?"
+  options:
+    A: "No, because Osei's promise to pay $20,000 was bargained for in exchange for Hartley's promise, and courts do not weigh adequacy."
+    B: "No, because the contract was put in a writing signed by both parties, which makes their promises enforceable without consideration."
+    C: "Yes, because a price that is only one-third of the lot's market value is too inadequate to serve as consideration for Hartley's promise."
+    D: "Yes, because Hartley was motivated by her wish to leave the country quickly, not by a desire to obtain Osei's $20,000."
+  answer: A
+  explanation_correct: >-
+    Consideration requires a performance or return promise that is bargained for: sought by the promisor
+    in exchange for its promise and given by the promisee in exchange for it (R2d § 71; R-CTR-022). If
+    that requirement is met, there is no additional requirement of equivalence in the values exchanged
+    (R2d § 79). Hartley set the price and sought Osei's promise to pay it, and Osei gave that promise in
+    exchange. Gross inadequacy can be evidence of fraud, duress, mistake or unconscionability, but the
+    facts exclude each: Hartley knew the value, and Osei neither misled nor pressured her. (Whether a
+    court would also order specific performance of so unequal an exchange is a separate equitable
+    question; Osei seeks only damages.) Trap: equating a bad bargain with no bargain.
+  explanation_each_wrong_option:
+    B: >-
+      Right result, wrong reason. In most jurisdictions a signed writing does not by itself make a promise
+      enforceable without consideration; this contract is enforceable because the exchange was bargained
+      for.
+    C: >-
+      Courts do not inquire into the adequacy of consideration (R2d § 79). A low price matters only as
+      evidence of an invalidating cause such as fraud or unconscionability, and none is present.
+    D: >-
+      Consideration need not be the promisor's only or main motive; it is enough that the return promise
+      was sought and given in exchange (R2d § 81). Hartley wanted a quick sale at $20,000, which is
+      exactly what Osei promised.
+  trap_type: wrong-standard
+  authority: ["R2d § 71", "R2d § 79", "R2d § 81"]
+  source: original
+  tags: [wave2, w2b, consideration, adequacy]
+  status: draft
+  last_verified: "2026-11-05"
+
+- id: Q-CTR-0106
+  subject: CTR
+  coverage_ids: [CTR-MBE-I.C]
+  rule_ids: [R-CTR-022, R-CTR-027]
+  difficulty: 2
+  stem: >-
+    Ruth, a retired cabinetmaker, telephoned her nephew Dario, who lived 180 miles away. "I want my
+    woodworking tools to go to someone in the family who will use them," she said. "If you come to my
+    house on Saturday, I'll give you the whole set." The tools were worth about $3,000. Ruth had no
+    interest in the visit itself and asked for nothing in return. Dario rented a truck for $220 and
+    drove to Ruth's house on Saturday, but Ruth had changed her mind and refused to give him the tools.
+    Dario sued Ruth for breach of contract, arguing that his trip was consideration for her promise.
+  call: "What is Ruth's best argument in response to Dario's consideration argument?"
+  options:
+    A: "Dario's trip was not a legal detriment, because traveling to Ruth's house was something Dario was legally free to do."
+    B: "Ruth's promise to transfer tools worth more than $500 was not in a signed writing."
+    C: "Dario's trip was merely the condition for receiving a gift, not a performance Ruth sought in exchange for her promise."
+    D: "Dario's expenses were too small to amount to the substantial reliance needed to enforce Ruth's promise."
+  answer: C
+  explanation_correct: >-
+    Consideration requires a bargain: the promisor must seek the performance in exchange for its
+    promise, and the promisee must give it in exchange (R2d § 71; R-CTR-022). An act the promisee must
+    perform only to put himself in a position to receive a gift is a condition of the gift, not its
+    price (Kirksey v. Kirksey). Ruth's purpose was to place the tools with a family member who would use
+    them; the trip was simply how Dario would collect them, and she did not want it for its own sake.
+    Her promise was gratuitous and is not enforceable as a bargain. (Dario's stronger theory is
+    promissory estoppel, at least for his reliance costs (R-CTR-027), but that does not rescue his
+    consideration argument.) Trap: treating any detriment the promisee incurs as consideration.
+  explanation_each_wrong_option:
+    A: >-
+      Backwards. Doing something one is legally free not to do, such as making a 180-mile trip, can be a
+      legal detriment (Hamer v. Sidway). The defect is the absence of a bargain, not the absence of a
+      detriment.
+    B: >-
+      The UCC statute of frauds (§ 2-201) applies to contracts for the sale of goods for a price. Ruth
+      promised a gift, not a sale, and her real point is that no contract was formed at all.
+    D: >-
+      Mixes doctrines. Substantial reliance is an element of promissory estoppel, not of consideration;
+      Dario's contract claim stands or falls on whether his trip was bargained for.
+  trap_type: missing-element
+  authority: ["R2d § 71", "Kirksey v. Kirksey, 8 Ala. 131 (1845)"]
+  source: original
+  tags: [wave2, w2b, consideration, conditional-gift]
+  status: draft
+  last_verified: "2026-11-05"
+
+- id: Q-CTR-0107
+  subject: CTR
+  coverage_ids: [CTR-MBE-I.C, CTR-MBE-I.A]
+  rule_ids: [R-CTR-008, R-CTR-022, R-CTR-007]
+  difficulty: 3
+  stem: >-
+    The jurisdiction follows the Restatement (Second) of Contracts. On April 1, Lindgren signed and
+    delivered to Nadia a writing stating: "In consideration of $10, receipt of which is acknowledged, I
+    grant Nadia an option to buy my lot at 9 Cedar Lane for $150,000. Nadia may exercise this option by
+    written notice received by me on or before June 30." The price equaled the lot's fair market value.
+    Nadia never paid the $10. On June 1, Lindgren wrote Nadia that he was revoking the option. Nadia's
+    written notice exercising the option reached Lindgren on June 15. Lindgren refused to convey the
+    lot, and Nadia sued for specific performance.
+  call: "Is Nadia likely to prevail?"
+  options:
+    A: "No, because the $10 recited in the writing was never paid, so Lindgren's promise to keep the offer open was not supported by consideration."
+    B: "No, because the law makes an offer irrevocable without actual payment of consideration only when the offeror is a merchant selling goods."
+    C: "Yes, because an offer that states a fixed deadline for acceptance cannot be revoked by the offeror before that deadline passes."
+    D: "Yes, because a signed offer that recites a purported consideration and proposes a fair exchange within a reasonable time is binding as an option."
+  answer: D
+  explanation_correct: >-
+    Under R2d § 87(1)(a), an offer is binding as an option contract if it is in writing and signed by
+    the offeror, recites a purported consideration for making the offer, and proposes an exchange on
+    fair terms within a reasonable time (R-CTR-008). Lindgren's signed writing recited $10, offered the
+    lot at its fair market value, and gave Nadia three months. In a Restatement jurisdiction the recital
+    suffices even though the $10 was never paid, so Lindgren's June 1 revocation was ineffective, and
+    Nadia's notice, received before June 30 as the option required, formed a contract. Because the
+    contract is for land, specific performance is ordinarily available (R-CTR-104). Trap: applying the
+    traditional view that an unpaid nominal consideration is a sham.
+  explanation_each_wrong_option:
+    A: >-
+      That is the traditional view, which some courts still follow (R-CTR-008, R-CTR-022). The stem places
+      the case in a Restatement jurisdiction, where a signed writing reciting a purported consideration
+      makes the offer an option (R2d § 87(1)(a)).
+    B: >-
+      Confuses the UCC firm-offer rule (§ 2-205), which needs no consideration or recital but applies only
+      to merchants' offers for goods, with the common-law option. A non-merchant's offer to sell land can
+      be made irrevocable by consideration or, under § 87(1)(a), by a signed recital of consideration.
+    C: >-
+      Overbroad. A deadline in an ordinary offer only limits how long the offer lasts; without
+      consideration or a substitute, the offeror may revoke sooner (R-CTR-007). Lindgren's offer is
+      irrevocable because of § 87(1)(a), not because it stated a deadline.
+  trap_type: minority-rule
+  authority: ["R2d § 25", "R2d § 87(1)(a)"]
+  source: original
+  tags: [wave2, w2b, option-contract, nominal-consideration]
+  status: draft
+  last_verified: "2026-11-05"
+
+- id: Q-CTR-0108
+  subject: CTR
+  coverage_ids: [CTR-MBE-I.D, CTR-MBE-I.C]
+  rule_ids: [R-CTR-026, R-CTR-027, R-CTR-022]
+  difficulty: 3
+  stem: >-
+    The jurisdiction follows the Restatement (Second) of Contracts. Corliss worked as the bookkeeper of
+    Dalby Hardware for 30 years and was paid her full agreed salary throughout. Six months before her
+    planned retirement date, she announced that she would retire, and she made all her financial
+    arrangements on that basis. At her retirement party, Dalby's owner handed her a signed letter: "In
+    appreciation of your 30 years of loyal service, Dalby Hardware will pay you $1,000 a month for the
+    rest of your life." Corliss did nothing differently because of the letter. Dalby paid her for six
+    months and then stopped. Corliss sued Dalby to enforce the promise.
+  call: "Is Corliss likely to prevail?"
+  options:
+    A: "Yes, because Dalby made the promise in recognition of the benefit of Corliss's long service, and the material benefit rule enforces such promises."
+    B: "No, because the promise was not bargained for, Corliss did not rely on it, and Dalby had already paid in full for her services."
+    C: "Yes, because by making six monthly payments, Dalby treated the promise as binding and cannot now withdraw it."
+    D: "No, because a promise to pay money for the rest of a person's life is too indefinite to be enforced."
+  answer: B
+  explanation_correct: >-
+    Dalby promised the pension in recognition of past services, so nothing was bargained for in
+    exchange; past consideration is not consideration (R2d § 71; R-CTR-026). Two substitutes for
+    consideration could still enforce the promise, and neither applies. Promissory estoppel requires
+    action or forbearance induced by the promise (R2d § 90; R-CTR-027), but Corliss had already decided
+    to retire and changed nothing because of the letter. The material benefit rule enforces a promise
+    made in recognition of a benefit previously received only to the extent necessary to prevent
+    injustice, and it does not apply where the promisor has not been unjustly enriched (R2d § 86); Dalby
+    paid Corliss her full salary for every year of service, so it received nothing it had not paid for.
+    Trap: reading § 86 as enforcing every promise made out of gratitude.
+  explanation_each_wrong_option:
+    A: >-
+      Misapplies § 86. The rule reaches benefits that were neither paid for nor intended as gifts, such as
+      an uncompensated rescue; a salaried employee's past services were fully paid for, so there is no
+      unjust enrichment to prevent.
+    C: >-
+      Performing part of a gratuitous promise does not make the unperformed part binding. Each monthly
+      payment was a completed gift, and Dalby may stop making future ones.
+    D: >-
+      "For the rest of your life" states a definite amount and a measurable duration. The promise fails
+      for lack of consideration or a substitute, not for indefiniteness (R-CTR-019).
+  trap_type: exception-trap
+  authority: ["R2d § 71", "R2d § 86", "R2d § 90"]
+  source: original
+  tags: [wave2, w2b, past-consideration, material-benefit, promissory-estoppel]
+  status: draft
+  last_verified: "2026-11-05"
+
+- id: Q-CTR-0109
+  subject: CTR
+  coverage_ids: [CTR-MBE-I.D]
+  rule_ids: [R-CTR-027, R-CTR-011]
+  difficulty: 1
+  stem: >-
+    For eight years, Ridley operated a lawn-equipment dealership under successive one-year franchise
+    agreements with Torque Mowers, each of which Torque could decline to renew at its discretion. In
+    March, Torque's regional manager told Ridley, "Your numbers are excellent. As things stand, I don't
+    see any reason we wouldn't renew you in December, though renewals are decided by headquarters in the
+    fall." Encouraged, Ridley spent $80,000 remodeling his showroom. In October, Torque's headquarters
+    decided not to renew Ridley's franchise and gave the notice the agreement required. Ridley sued
+    Torque for $80,000 on a theory of promissory estoppel.
+  call: "Is Ridley likely to prevail?"
+  options:
+    A: "No, because the manager's statement was a prediction about a decision others would make, not a promise."
+    B: "Yes, because Torque should reasonably have expected Ridley to invest in his showroom, and Ridley's reliance was substantial."
+    C: "Yes, because Ridley reasonably relied on the manager's statement about renewal, and injustice can be avoided only by enforcing it."
+    D: "No, because promissory estoppel applies only to gratuitous promises made to family members or to charities."
+  answer: A
+  explanation_correct: >-
+    Promissory estoppel enforces a promise that the promisor should reasonably expect to induce action
+    or forbearance and that does induce it, if injustice can be avoided only by enforcement (R2d § 90;
+    R-CTR-027). The doctrine starts with a promise: a manifestation of intention to act or refrain from
+    acting in a specified way, made so as to justify the promisee in understanding that a commitment has
+    been made (R2d § 2). The manager said only that, "as things stand," he saw no reason not to renew,
+    and he expressly left the decision to headquarters. That is a statement of opinion and expectation,
+    not a commitment, so there is nothing to enforce, however much Ridley relied. Trap: skipping the
+    promise element because the reliance was substantial.
+  explanation_each_wrong_option:
+    B: >-
+      Missing element. Foreseeable, substantial reliance matters only if there was a promise to rely on
+      (R-CTR-027).
+    C: >-
+      Calling it a statement "about renewal" does not make it a promise. A dealer told that headquarters
+      decides renewals could not reasonably understand the manager to be committing Torque.
+    D: >-
+      Too narrow. Section 90 is not limited to family or charitable promises; it applies to commercial
+      promises as well, as in the subcontractor-bid cases (R-CTR-011).
+  trap_type: missing-element
+  authority: ["R2d § 2", "R2d § 90"]
+  source: original
+  tags: [wave2, w2b, promissory-estoppel, promise-vs-prediction]
+  status: draft
+  last_verified: "2026-11-05"
+
+- id: Q-CTR-0110
+  subject: CTR
+  coverage_ids: [CTR-MBE-I.D]
+  rule_ids: [R-CTR-018]
+  difficulty: 2
+  stem: >-
+    Thorne was knocked unconscious in a highway collision. Dr. Ameri, an emergency physician who was
+    driving past, stopped, stabilized Thorne's neck, controlled his bleeding and kept him breathing for
+    40 minutes until an ambulance arrived. Dr. Ameri regularly bills patients for emergency care, and
+    she intended to bill Thorne. Thorne's treating doctors later concluded that her care probably saved
+    his life. She sent Thorne a bill for $1,500, the reasonable value of such services. Thorne, who had
+    never asked for her help and had no memory of it, refused to pay.
+  call: "Is Dr. Ameri likely to recover from Thorne?"
+  options:
+    A: "Yes, on an implied-in-fact contract, because Thorne's conduct at the scene showed that he accepted Dr. Ameri's services."
+    B: "No, because a person who confers a benefit on another without being asked is a volunteer and has no claim for payment."
+    C: "No, because Thorne never agreed to pay for the services, and without his assent there could be no obligation to pay."
+    D: "Yes, for the reasonable value of the services, because she gave emergency care Thorne could not request and intended to charge for it."
+  answer: D
+  explanation_correct: >-
+    Quasi-contract is not a contract but an obligation imposed by law to prevent unjust enrichment,
+    measured by the reasonable value of the benefit (R-CTR-018). A person who intervenes without request
+    is usually a volunteer with no claim, but a recognized exception covers one who supplies
+    professional services needed to protect another's life or health, where the circumstances justify
+    intervening without a request and the services were not meant as a gift; the measure is a reasonable
+    charge for the services (Restatement (Third) of Restitution and Unjust Enrichment § 20). Thorne
+    could not consent, there was a genuine emergency, Dr. Ameri customarily charges for such care and
+    intended to charge Thorne, and $1,500 is the reasonable value. Trap: thinking "no assent, no
+    recovery."
+  explanation_each_wrong_option:
+    A: >-
+      An implied-in-fact contract requires assent manifested by conduct (R2d § 19; R-CTR-018). An
+      unconscious person manifests nothing; Thorne's obligation is implied in law, not in fact.
+    B: >-
+      The volunteer rule gives way to the exception for professional emergency services needed to protect
+      life or health and rendered with the expectation of payment.
+    C: >-
+      True that there was no contract, but restitution does not depend on assent; it rests on the unjust
+      enrichment of a person who received necessary professional services without paying for them.
+  trap_type: confused-rule
+  authority: ["Restatement (Third) of Restitution and Unjust Enrichment § 20", "R2d § 19"]
+  source: original
+  tags: [wave2, w2b, quasi-contract, restitution, emergency-services]
+  status: draft
+  last_verified: "2026-11-05"
+
+- id: Q-CTR-0111
+  subject: CTR
+  coverage_ids: [CTR-MBE-I.E]
+  rule_ids: [R-CTR-028, R-CTR-029, R-CTR-001]
+  difficulty: 2
+  stem: >-
+    Lund hired Hale Builders under a signed written contract to build an addition to Lund's house for
+    $120,000. The contract provided: "No change to this contract shall be effective unless it is in a
+    writing signed by both parties." The jurisdiction has no statute addressing such clauses. Midway
+    through the job, Lund asked Hale to install triple-pane windows instead of the double-pane windows
+    the plans called for, and Hale orally agreed to do so for an additional $6,000. Hale installed the
+    triple-pane windows, which cost Hale more to buy and install than the specified windows would have.
+    Lund paid the original $120,000 but refused to pay the additional $6,000, relying on the contract
+    clause. Hale sued for the $6,000.
+  call: "Is Hale likely to recover the additional $6,000?"
+  options:
+    A: "No, because the parties agreed in a signed writing that no change would be effective unless made in a writing signed by both."
+    B: "Yes, because the parties could orally agree to change their contract despite the clause, and Hale's added work was consideration."
+    C: "No, because a contract that is in writing can be modified only by another writing signed by the party to be charged."
+    D: "Yes, because an agreement modifying a contract needs no consideration as long as it is made in good faith."
+  answer: B
+  explanation_correct: >-
+    A contract to build an addition is a services contract governed by the common law (R-CTR-001). At
+    common law a modification needs consideration (R-CTR-028), and Hale supplied it by furnishing and
+    installing costlier windows than it was bound to provide. As for the clause, most common-law courts
+    hold that a no-oral-modification clause does not prevent the parties from later agreeing orally to a
+    change, because the later agreement can itself waive or modify the clause; here Lund requested the
+    change and accepted its benefit (R-CTR-028). Trap: importing UCC § 2-209(2), which gives such
+    clauses effect in sales of goods.
+  explanation_each_wrong_option:
+    A: >-
+      That is essentially the rule for sales of goods (UCC § 2-209(2); R-CTR-029). For a construction
+      contract, most courts treat the clause as waivable by the parties' later agreement and conduct.
+    C: >-
+      There is no general rule that a written contract can be changed only in writing. A writing is needed
+      only if the contract as modified falls within the statute of frauds, and a contract to build an
+      addition does not (R-CTR-042, R-CTR-048).
+    D: >-
+      Right result, wrong reason. The rule that a good-faith modification needs no consideration is UCC §
+      2-209(1), for goods. At common law consideration is required; here it exists.
+  trap_type: confused-rule
+  authority: ["R2d § 71", "R2d § 73", "UCC § 2-209(1)-(2)"]
+  source: original
+  tags: [wave2, w2b, modification, no-oral-modification, common-law-vs-ucc]
+  status: draft
+  last_verified: "2026-11-05"
+
+- id: Q-CTR-0112
+  subject: CTR
+  coverage_ids: [CTR-MBE-I.E, CTR-MBE-I.C]
+  rule_ids: [R-CTR-024, R-CTR-028]
+  difficulty: 2
+  stem: >-
+    Brisco Construction contracted in a signed writing to renovate office space for Lark Co. for
+    $200,000, with completion due September 30. In July, Lark learned that it had to vacate its old
+    offices by September 1. Lark asked Brisco to finish by August 31 and signed a writing promising to
+    pay Brisco an extra $15,000 if it did. Brisco agreed, added a night shift at its own expense, and
+    finished the renovation on August 29. Lark paid $200,000 but refused to pay the extra $15,000, and
+    Brisco sued for it.
+  call: "Is Brisco likely to recover the $15,000?"
+  options:
+    A: "No, because Brisco was already bound to complete the same renovation, so it gave nothing new for Lark's promise."
+    B: "No, because a contract modification is enforceable only if unforeseen circumstances made it fair and equitable."
+    C: "Yes, because finishing a month before the contract deadline was a performance Brisco was not already bound to give."
+    D: "Yes, because Lark received the benefit of early completion and would be unjustly enriched if it did not pay."
+  answer: C
+  explanation_correct: >-
+    The pre-existing duty rule denies consideration only where the promisee does no more than it was
+    already bound to do (R2d § 73; R-CTR-024). Any new or different performance, such as completing the
+    work earlier than the contract requires, is consideration (R-CTR-024). Brisco's duty was to finish
+    by September 30; finishing by August 31 was a performance it had no duty to give, and Lark bargained
+    for it in exchange for the extra $15,000. The modification is supported by consideration and is
+    enforceable. Trap: applying the pre-existing duty rule when the performance itself changed.
+  explanation_each_wrong_option:
+    A: >-
+      Fact misread. Brisco did not merely complete the same work; it completed the work a month earlier
+      than the contract required.
+    B: >-
+      Overbroad. The "unanticipated circumstances" rule (R2d § 89(a)) is a substitute for consideration,
+      needed only when a modification lacks consideration. This one has consideration (R-CTR-028).
+    D: >-
+      Right result, wrong theory. Brisco recovers on Lark's bargained-for promise, not in restitution;
+      unjust enrichment is not the basis for enforcing an agreed price for agreed work.
+  trap_type: fact-misread
+  authority: ["R2d § 73", "R2d § 89"]
+  source: original
+  tags: [wave2, w2b, modification, pre-existing-duty, new-consideration]
+  status: draft
+  last_verified: "2026-11-05"

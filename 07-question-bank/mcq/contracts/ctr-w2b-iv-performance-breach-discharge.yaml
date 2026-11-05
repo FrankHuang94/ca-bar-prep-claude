@@ -1,0 +1,513 @@
+# Contracts — NCBE category IV: Performance, breach and discharge (wave 2, round 2, original items)
+questions:
+- id: Q-CTR-0125
+  subject: CTR
+  coverage_ids: [CTR-MBE-IV.A]
+  rule_ids: [R-CTR-062, R-CTR-083]
+  difficulty: 3
+  stem: >-
+    Corbin Construction, a general contractor, hired Delta Electric as a subcontractor on a
+    shopping-center project. The signed subcontract provided: "Contractor shall pay Subcontractor for
+    its work within 30 days after Contractor receives payment for that work from Owner." Nothing else in
+    the subcontract addressed what would happen if the owner never paid, and the jurisdiction has no
+    statute governing such clauses. Delta completed its work properly. The owner then became insolvent
+    and never paid Corbin for Delta's work. Corbin refused to pay Delta, arguing that it owed nothing
+    unless and until the owner paid it. Delta sued Corbin.
+  call: "Is Delta likely to recover from Corbin?"
+  options:
+    A: "No, because Corbin's receipt of payment from the owner was a condition of its duty to pay, and that condition never occurred."
+    B: "No, because the owner's insolvency was an unforeseen event that made Corbin's performance impracticable."
+    C: "Yes, because the clause only fixed the time for payment, so Corbin must pay within a reasonable time despite the owner's default."
+    D: "Yes, because a general contractor guarantees the owner's payment for every subcontractor's work, whatever the subcontract says."
+  answer: C
+  explanation_correct: >-
+    Whether contract language makes an event a condition of a duty or merely fixes the time for
+    performance is a question of interpretation, and in doubtful cases courts prefer the reading that
+    reduces the obligee's risk of forfeiture, unless the event is within the obligee's control or the
+    circumstances show that it assumed the risk (R2d § 227(1); R-CTR-062). A clause requiring payment
+    "within 30 days after" the contractor is paid is ordinarily read as setting the time for payment
+    (within a reasonable time if the owner never pays), not as shifting to the subcontractor the risk of
+    the owner's insolvency, which would require clear language. Delta fully performed and would forfeit
+    its entire price under Corbin's reading. Corbin must pay within a reasonable time. Trap: treating
+    timing language as an express condition.
+  explanation_each_wrong_option:
+    A: >-
+      That reading would make Delta bear the owner's credit risk and forfeit its whole price. Absent clear
+      language making the owner's payment a condition (a "pay-if-paid" clause), courts read such terms as
+      fixing the time for payment (R2d § 227).
+    B: >-
+      Corbin's performance, paying money, remains entirely possible. A third party's failure to supply the
+      funds a party expected to use is not the kind of supervening event that excuses a duty to pay
+      (R-CTR-083).
+    D: >-
+      Overbroad. In most jurisdictions, clear "pay-if-paid" language can shift the risk of the owner's
+      nonpayment to the subcontractor. Corbin is liable because this clause did not do so.
+  trap_type: confused-rule
+  authority: ["R2d § 224", "R2d § 227(1)"]
+  source: original
+  tags: [wave2, w2b, conditions, promise-vs-condition, pay-when-paid]
+  status: draft
+  last_verified: "2026-11-05"
+
+- id: Q-CTR-0126
+  subject: CTR
+  coverage_ids: [CTR-MBE-IV.A]
+  rule_ids: [R-CTR-062]
+  difficulty: 1
+  stem: >-
+    Hollis signed a contract with Vega Pools under which Vega would build a swimming pool in Hollis's
+    backyard for $55,000. The contract stated: "This contract is subject to Owner's obtaining a building
+    permit for the pool from the County by May 1." Hollis promptly filed a complete permit application
+    and did everything the County asked. On April 20, the County denied the permit because the pool
+    would violate a setback rule. Hollis told Vega that the deal was off. Vega, which had not begun work
+    or incurred any expense, sued Hollis for the profit it would have made on the job.
+  call: "Is Vega likely to prevail?"
+  options:
+    A: "No, because the permit was a condition of Hollis's duty that failed despite his good-faith efforts, and he never promised to obtain it."
+    B: "No, because the contract did not become binding on either party until Vega began construction of the pool."
+    C: "Yes, because by signing the contract Hollis assumed the risk that the County would deny the permit."
+    D: "Yes, because courts interpret contract language as a promise rather than a condition whenever possible, to avoid forfeiture."
+  answer: A
+  explanation_correct: >-
+    "Subject to" creates an express condition: an event, not certain to occur, that must occur before a
+    party's performance becomes due (R2d § 224; R-CTR-062). If the condition does not occur, the
+    conditioned duty never arises, and the non-occurrence is not a breach unless the party had a duty to
+    make the event occur (R2d § 225(3)). A party who controls a condition must make good-faith efforts
+    to bring it about, and Hollis did; he did not promise that the County would grant the permit. With
+    the condition failed, Hollis owes Vega nothing. Trap: treating the failure of a condition as a
+    breach.
+  explanation_each_wrong_option:
+    B: >-
+      The parties' exchange of promises formed a binding bilateral contract when they signed. What failed
+      was a condition of Hollis's duty to perform, not the formation of the contract.
+    C: >-
+      The contract allocated the permit risk by making the permit a condition; Hollis took on only a duty
+      of good-faith effort, which he met.
+    D: >-
+      The preference for reading language as a promise applies only in doubtful cases and serves to avoid
+      forfeiture (R2d § 227). "Subject to" is clear condition language, and Vega, which had not begun work
+      or spent anything, forfeits nothing.
+  trap_type: wrong-standard
+  authority: ["R2d § 224", "R2d § 225(3)", "R2d § 227"]
+  source: original
+  tags: [wave2, w2b, conditions, express-condition]
+  status: draft
+  last_verified: "2026-11-05"
+
+- id: Q-CTR-0127
+  subject: CTR
+  coverage_ids: [CTR-MBE-IV.B, CTR-MBE-IV.C]
+  rule_ids: [R-CTR-064, R-CTR-068, R-CTR-063]
+  difficulty: 2
+  stem: >-
+    Sorensen agreed in a signed writing to sell her condominium to Abara for $380,000, with closing set
+    for July 15. Abara obtained a binding loan commitment for the amount she needed and was ready to
+    close on that date. On July 1, Sorensen told Abara unequivocally, "I'm not selling to you. I've
+    decided to keep the condo." Abara did not appear at the title company on July 15 or tender the
+    price. On July 20 she sued Sorensen for damages. Sorensen argues that she cannot be in breach
+    because Abara never tendered payment.
+  call: "Is Sorensen's argument likely to succeed?"
+  options:
+    A: "Yes, because payment and delivery of the deed were concurrent conditions, and a buyer must tender payment to put the seller in breach."
+    B: "No, because Sorensen's repudiation excused Abara's tender, and Abara was ready, willing and able to pay on the closing date."
+    C: "Yes, because a repudiation does not excuse the other party's performance unless that party formally accepts it in writing."
+    D: "No, because a seller who repudiates loses every defense, whether or not the buyer could have performed."
+  answer: B
+  explanation_correct: >-
+    At a land closing, payment and the deed are ordinarily concurrent conditions, and a party must
+    tender its own performance to put the other in breach (R-CTR-063). But a party's repudiation excuses
+    the non-occurrence of a condition of its own duty when the repudiation contributes materially to
+    that non-occurrence (R2d § 255; R-CTR-064), and it discharges the other party's remaining duties
+    (R2d § 253(2)). After Sorensen's unequivocal statement on July 1 (R-CTR-068), a tender by Abara
+    would have been a useless act. Abara must still show that she would have been able to perform,
+    because a repudiator's duty to pay damages is discharged if the injured party could not have
+    performed anyway (R2d § 254(1)); her loan commitment shows that she was ready, willing and able.
+    Trap: insisting on a tender after a repudiation.
+  explanation_each_wrong_option:
+    A: >-
+      States the usual rule for concurrent conditions but ignores that the seller's repudiation excused
+      the buyer's tender (R2d § 255).
+    C: >-
+      No formal written acceptance of a repudiation is required; the injured party may treat it as a total
+      breach, as Abara did by suing (R-CTR-068).
+    D: >-
+      Overbroad. A repudiator is not liable for damages if the other party could not have performed in any
+      event (R2d § 254(1)). Abara wins because she could have performed.
+  trap_type: exception-trap
+  authority: ["R2d § 253(2)", "R2d § 254(1)", "R2d § 255"]
+  source: original
+  tags: [wave2, w2b, excuse-of-conditions, repudiation, tender]
+  status: draft
+  last_verified: "2026-11-05"
+
+- id: Q-CTR-0128
+  subject: CTR
+  coverage_ids: [CTR-MBE-IV.C]
+  rule_ids: [R-CTR-069, R-CTR-068, R-CTR-070]
+  difficulty: 2
+  stem: >-
+    Calloway, a caterer, agreed in a signed contract to cater the Ruiz family's reunion on August 20 for
+    $9,000. On June 1, Calloway wrote to the Ruizes: "I've overbooked August and won't be able to cater
+    your reunion. Please find someone else." On June 6, before the Ruizes had contacted any other
+    caterer, made any other arrangements, or told Calloway anything, Calloway wrote again: "My schedule
+    has cleared. Please disregard my June 1 letter. I will cater your reunion as agreed." On June 10,
+    the Ruizes hired a different caterer for $9,500 and told Calloway that they would not use his
+    services. Calloway sued the Ruizes for breach.
+  call: "Is Calloway likely to prevail?"
+  options:
+    A: "No, because Calloway's June 1 letter was an unequivocal repudiation, which entitled the Ruizes to treat the contract as ended."
+    B: "No, because once a repudiation is communicated, the repudiating party cannot withdraw it without the other party's consent."
+    C: "Yes, because the June 1 letter was too indefinite to be a repudiation, so the Ruizes had no right to end the contract."
+    D: "Yes, because Calloway retracted his repudiation before the Ruizes changed position or indicated that they considered it final."
+  answer: D
+  explanation_correct: >-
+    Calloway's June 1 letter was a repudiation: a definite statement that he would not perform (R2d §
+    250; R-CTR-068). But a repudiation is nullified by a retraction that comes to the injured party's
+    attention before it materially changes position in reliance on the repudiation or indicates to the
+    repudiator that it considers the repudiation final (R2d § 256; R-CTR-069). On June 6 the Ruizes had
+    hired no one, made no other arrangements and said nothing to Calloway, so his retraction reinstated
+    the contract, and their June 10 refusal of his services was itself a repudiation. (If the retraction
+    left them insecure, their remedy was to demand adequate assurance, R-CTR-070.) Trap: treating a
+    repudiation as irrevocable.
+  explanation_each_wrong_option:
+    A: >-
+      The Ruizes could have treated the repudiation as a total breach while it stood, but they had not
+      acted on it or told Calloway that they considered it final before he retracted it.
+    B: >-
+      Overbroad. A repudiation may be retracted without the other party's consent until that party
+      materially changes position or indicates that it treats the repudiation as final (R2d § 256).
+    C: >-
+      Right result, wrong reason. "I won't be able to cater your reunion. Please find someone else" is a
+      definite and unequivocal statement, so it was a repudiation. Calloway wins because of the
+      retraction.
+  trap_type: overbroad
+  authority: ["R2d § 250", "R2d § 256"]
+  source: original
+  tags: [wave2, w2b, anticipatory-repudiation, retraction]
+  status: draft
+  last_verified: "2026-11-05"
+
+- id: Q-CTR-0129
+  subject: CTR
+  coverage_ids: [CTR-MBE-IV.C]
+  rule_ids: [R-CTR-066, R-CTR-065, R-CTR-072]
+  difficulty: 1
+  stem: >-
+    Northgate Offices hired Sparkle Janitorial under a signed one-year contract to clean its office
+    building every weeknight for $6,000 a month. The contract contained no termination provision. During
+    the first month, Sparkle's crew twice forgot to empty the recycling bins on one floor. Each time,
+    Northgate's manager complained the next morning, and Sparkle emptied the bins that day and
+    apologized. All of Sparkle's other work that month met the contract's standards. At the end of the
+    month, Northgate notified Sparkle that it was terminating the contract because of the missed bins
+    and hired another company. Sparkle sued Northgate for breach.
+  call: "Is Sparkle likely to prevail?"
+  options:
+    A: "No, because Sparkle failed to perform exactly as the contract required, which entitled Northgate to terminate."
+    B: "Yes, because Northgate waived the missed pickups by continuing to accept Sparkle's services for the rest of the month."
+    C: "Yes, because the missed pickups were a minor breach, so Northgate's termination was itself a material breach."
+    D: "No, because Northgate was entitled to terminate after giving Sparkle notice of its failures and an opportunity to cure."
+  answer: C
+  explanation_correct: >-
+    A breach is material if it deprives the injured party of a substantial part of the benefit it
+    reasonably expected; courts weigh, among other things, whether damages can compensate, the
+    likelihood of cure, and the breaching party's good faith (R2d § 241; R-CTR-066). Two missed
+    recycling pickups in a month of otherwise satisfactory nightly cleaning, each corrected the next
+    day, cost Northgate almost nothing. That was a minor breach, giving Northgate a claim for any
+    damages but not a right to terminate. By terminating, Northgate itself committed a material breach
+    and is liable to Sparkle. Trap: applying a perfect-tender standard to a services contract.
+  explanation_each_wrong_option:
+    A: >-
+      "Exact performance" is the UCC perfect-tender standard for goods (R-CTR-072). Services contracts are
+      judged by whether a breach is material (R-CTR-066).
+    B: >-
+      Right result, wrong reason. Northgate complained each time, so it did not waive the breaches; it
+      simply could not terminate for them.
+    D: >-
+      Notice and an opportunity to cure do not turn a minor breach into a material one, and Sparkle in
+      fact cured each lapse the next day.
+  trap_type: wrong-standard
+  authority: ["R2d § 237", "R2d § 241"]
+  source: original
+  tags: [wave2, w2b, breach, material-breach, wrongful-termination]
+  status: draft
+  last_verified: "2026-11-05"
+
+- id: Q-CTR-0130
+  subject: CTR
+  coverage_ids: [CTR-MBE-IV.D]
+  rule_ids: [R-CTR-071, R-CTR-027]
+  difficulty: 2
+  stem: >-
+    Tallis Corp. and Breck Industries signed a two-page letter of intent describing a possible
+    acquisition of Breck by Tallis for about $40 million. The letter stated: "This letter is not
+    binding. Neither party will have any obligation of any kind unless and until a definitive purchase
+    agreement is signed." Over the next three months, at Tallis's request, Breck spent $250,000
+    preparing financial data for Tallis's review. During that period, without telling Breck, Tallis was
+    also negotiating to acquire one of Breck's competitors. Tallis then acquired the competitor and
+    ended its talks with Breck. Breck sued Tallis for breach of the implied covenant of good faith and
+    fair dealing.
+  call: "Is Breck likely to prevail?"
+  options:
+    A: "Yes, because every party to commercial negotiations owes the other party a duty to negotiate in good faith."
+    B: "No, because the implied covenant of good faith and fair dealing governs the performance and enforcement of an existing contract."
+    C: "Yes, because Tallis's secret parallel negotiations deprived Breck of the benefit of the letter of intent."
+    D: "No, because the implied covenant of good faith and fair dealing applies only to contracts for the sale of goods."
+  answer: B
+  explanation_correct: >-
+    Every contract imposes on each party a duty of good faith and fair dealing in its performance and
+    its enforcement (R2d § 205; UCC § 1-304; R-CTR-071). The duty does not govern the negotiation of a
+    contract not yet formed; the Restatement's commentary leaves bad faith in bargaining to other
+    doctrines, such as fraud, duress, promissory estoppel or an express agreement to negotiate (R2d §
+    205 cmt. c). The letter of intent expressly disclaimed any obligation, so there was no contract to
+    which the covenant could attach, and Tallis made no promise on which Breck could base promissory
+    estoppel (R-CTR-027). Trap: treating the covenant as a free-standing duty to bargain fairly.
+  explanation_each_wrong_option:
+    A: >-
+      Overbroad. Absent an agreement to negotiate in good faith, the general rule imposes no such duty,
+      and this letter of intent disclaimed every obligation.
+    C: >-
+      The letter of intent conferred no contractual benefit to be deprived of; it said that neither party
+      had any obligation until a definitive agreement was signed.
+    D: >-
+      The covenant is not limited to sales of goods; the Restatement applies it to every contract (R2d §
+      205), and the UCC to every contract or duty within the Code (§ 1-304).
+  trap_type: confused-rule
+  authority: ["R2d § 205", "UCC § 1-304"]
+  source: original
+  tags: [wave2, w2b, good-faith, negotiations, letter-of-intent]
+  status: draft
+  last_verified: "2026-11-05"
+
+- id: Q-CTR-0131
+  subject: CTR
+  coverage_ids: [CTR-MBE-IV.E]
+  rule_ids: [R-CTR-058, R-CTR-060]
+  difficulty: 2
+  stem: >-
+    Linden Bakery bought a new commercial convection oven for $24,000 from Ovenworks, a dealer in
+    restaurant and bakery equipment. Linden's owner signed Ovenworks' two-page sales form without
+    reading the back. In the middle of the back page, in the same small, light type used for all the
+    other terms and under no heading, a sentence stated: "Seller disclaims all implied warranties,
+    including the implied warranty of merchantability." Ovenworks did not ask Linden to inspect the oven
+    before the sale, and Linden did not do so. From the first week, the oven could not hold a steady
+    baking temperature, a defect that ovens of that kind do not ordinarily have. Linden promptly
+    notified Ovenworks and sued for breach of the implied warranty of merchantability.
+  call: "Is Linden likely to prevail?"
+  options:
+    A: "Yes, because the disclaimer was not conspicuous, so the implied warranty of merchantability remained part of the contract."
+    B: "Yes, because a merchant that sells new goods cannot disclaim the implied warranty of merchantability."
+    C: "No, because the disclaimer expressly mentioned merchantability, as the UCC requires."
+    D: "No, because Linden signed the form and is bound by its terms whether or not it read them."
+  answer: A
+  explanation_correct: >-
+    A merchant seller of goods of the kind impliedly warrants that they are merchantable, which includes
+    fitness for the ordinary purposes for which such goods are used (UCC § 2-314; R-CTR-058); an oven
+    that cannot hold a steady temperature is not. To exclude merchantability, the language must mention
+    merchantability and, if in writing, must be conspicuous (UCC § 2-316(2); R-CTR-060). A term is
+    conspicuous if a reasonable person against whom it operates ought to have noticed it, for example
+    because of a heading or type that stands out from the surrounding text (UCC § 1-201(b)(10)). A
+    sentence buried mid-page in the same small type as everything else, under no heading, is not
+    conspicuous. The disclaimer fails, and Linden, which gave prompt notice, may recover. Trap: checking
+    only the "mention merchantability" element.
+  explanation_each_wrong_option:
+    B: >-
+      Overbroad. A merchant can disclaim merchantability by conspicuous language that mentions it, or by
+      "as is" or similar language, subject to consumer-protection statutes (§ 2-316(2)-(3)); Ovenworks
+      simply failed to do so effectively.
+    C: >-
+      Missing element. Mentioning merchantability is necessary but not sufficient; a written disclaimer of
+      merchantability must also be conspicuous (§ 2-316(2)).
+    D: >-
+      True but irrelevant. Linden is generally bound by the terms of a form it signed, but the Code itself
+      denies effect to a written disclaimer of merchantability that is not conspicuous.
+  trap_type: missing-element
+  authority: ["UCC § 1-201(b)(10)", "UCC § 2-314", "UCC § 2-316(2)"]
+  source: original
+  tags: [wave2, w2b, ucc, warranties, merchantability, disclaimer]
+  status: draft
+  last_verified: "2026-11-05"
+
+- id: Q-CTR-0132
+  subject: CTR
+  coverage_ids: [CTR-MBE-IV.F]
+  rule_ids: [R-CTR-078, R-CTR-080]
+  difficulty: 3
+  stem: >-
+    Pinnacle Wine Distributors, a wholesaler, stored 200 cases of a particular Cabernet in leased space
+    at Bayside Storage, an independent public warehouse. On May 1, Pinnacle contracted to sell those 200
+    cases to Corso's Restaurant for $36,000, with Corso's to collect the wine at Bayside; the parties
+    did not agree on who would bear the risk of loss. The same day, Pinnacle emailed Corso's: "The wine
+    is yours. Pick it up at Bayside whenever you like." Pinnacle issued no document of title and sent
+    Bayside no instruction to deliver the wine to Corso's, and Bayside never acknowledged Corso's right
+    to the wine. On May 9, before Corso's collected it, a flood at Bayside destroyed all 200 cases
+    without the fault of either party. Pinnacle demanded payment from Corso's.
+  call: "Must Corso's pay for the wine?"
+  options:
+    A: "Yes, because Pinnacle is a merchant and tendered delivery when it told Corso's to pick up the wine."
+    B: "Yes, because the risk of loss passed to Corso's when the 200 cases were identified to the contract on May 1."
+    C: "No, because a merchant seller bears the risk of loss until the goods are physically delivered to the buyer's place of business."
+    D: "No, because the risk of loss had not passed, as Bayside had never acknowledged Corso's right to possession of the wine."
+  answer: D
+  explanation_correct: >-
+    Where goods are held by a bailee to be delivered without being moved, and the parties have not
+    agreed otherwise, the risk of loss passes to the buyer (a) on its receipt of a negotiable document
+    of title covering the goods, (b) on the bailee's acknowledgment of the buyer's right to possession,
+    or (c) after its receipt of a non-negotiable document of title or other written direction to the
+    bailee to deliver, once the buyer has had a reasonable time to present it (UCC §§ 2-509(2),
+    2-503(4); R-CTR-078). None occurred: there was no document, Pinnacle's email to Corso's was not a
+    direction to Bayside, and Bayside never acknowledged Corso's. The risk remained on Pinnacle, so
+    Corso's need not pay. (Because the goods were identified when the contract was made and were totally
+    destroyed without fault before the risk passed, the contract is avoided under § 2-613, and neither
+    party owes the other damages; R-CTR-080.) Trap: applying the general merchant rule to goods held by
+    a bailee.
+  explanation_each_wrong_option:
+    A: >-
+      The receipt/tender rule of § 2-509(3) applies only to cases not covered by the bailee rule of §
+      2-509(2). And even under § 2-509(3), a merchant seller's risk passes only on the buyer's receipt,
+      not on tender.
+    B: >-
+      Identification gives the buyer a special property and an insurable interest (§ 2-501; R-CTR-080),
+      but it does not shift the risk of loss.
+    C: >-
+      Right result, wrong reason. No rule keeps the risk on a merchant seller until the goods reach the
+      buyer's place of business; here the bailee rule governs, and an acknowledgment by Bayside would have
+      shifted the risk to Corso's while the wine stayed in the warehouse.
+  trap_type: confused-rule
+  authority: ["UCC § 2-503(4)", "UCC § 2-509(2)", "UCC § 2-613"]
+  source: original
+  tags: [wave2, w2b, ucc, risk-of-loss, bailee]
+  status: draft
+  last_verified: "2026-11-05"
+
+- id: Q-CTR-0133
+  subject: CTR
+  coverage_ids: [CTR-MBE-IV.G]
+  rule_ids: [R-CTR-082, R-CTR-116]
+  difficulty: 1
+  stem: >-
+    Gideon Marsh, the sole owner of Marsh Paving, a small paving business with four employees, signed a
+    contract with Westbrook Church to repave the church's parking lot for $42,000. Paving work of that
+    kind is routinely done by many local contractors, and the church chose Marsh Paving because its bid
+    was the lowest. Before work began, Marsh died suddenly. The executor of Marsh's estate notified the
+    church that the estate would not perform. The church promptly hired another contractor, which did
+    the same work for $49,000, a reasonable price, and the church sued Marsh's estate for $7,000.
+  call: "Is the estate liable?"
+  options:
+    A: "No, because Marsh's death made performance impossible and discharged the contract."
+    B: "No, because a contract with a sole proprietor is personal to the proprietor and ends at his death."
+    C: "Yes, because Marsh's personal performance was not essential, so his death did not discharge the duty to pave."
+    D: "Yes, because the death of a party never discharges a contractual duty."
+  answer: C
+  explanation_correct: >-
+    A party's death discharges its contractual duty only if the existence of that particular person is
+    necessary for performance, as with services that depend on the individual's own skill (R2d § 262;
+    R-CTR-082). Routine paving that many contractors could do, and that Marsh would have performed
+    through his employees in any event, does not depend on Marsh personally; the duty was delegable (R2d
+    § 318; R-CTR-116) and survives as an obligation of his estate. The estate's refusal is a breach, and
+    the church recovers the $7,000 extra cost of a substitute. Trap: assuming that death always
+    discharges.
+  explanation_each_wrong_option:
+    A: >-
+      Performance was not objectively impossible: another contractor could pave the lot, and the estate
+      could have arranged for one to do so.
+    B: >-
+      Overbroad. The form of the business does not matter; what matters is whether the performance
+      required this particular person.
+    D: >-
+      Overbroad in the other direction. Death does discharge duties that require the deceased's personal
+      performance, such as painting a commissioned portrait (R2d § 262).
+  trap_type: overbroad
+  authority: ["R2d § 262", "R2d § 318"]
+  source: original
+  tags: [wave2, w2b, impossibility, death-of-party]
+  status: draft
+  last_verified: "2026-11-05"
+
+- id: Q-CTR-0134
+  subject: CTR
+  coverage_ids: [CTR-MBE-IV.G]
+  rule_ids: [R-CTR-082]
+  difficulty: 2
+  stem: >-
+    Owens hired Caldera Roofing under a signed contract to replace the roof on Owens's existing barn for
+    $30,000. When Caldera had completed about half of the job, lightning struck the barn and fire
+    destroyed it, through no fault of either party. Owens decided to build a new barn of a different
+    design and size on the same site and demanded that Caldera roof the new barn for the unpaid balance
+    of the contract price. Caldera refused, and Owens sued Caldera for breach.
+  call: "Is Caldera liable for refusing to roof the new barn?"
+  options:
+    A: "No, because the destruction of the existing barn, which was necessary for Caldera's performance, discharged Caldera's duty."
+    B: "No, because the lightning strike was a force majeure event, and every contract contains an implied force majeure clause."
+    C: "Yes, because a contractor bears the risk that its work will be destroyed before completion and must perform again."
+    D: "Yes, because the contract called for roofing work, and that work could still be performed on the new barn."
+  answer: A
+  explanation_correct: >-
+    If the existence of a specific thing is necessary for a party's performance, its destruction without
+    that party's fault discharges the duty (R2d § 263; R-CTR-082). A contract to repair or improve an
+    existing structure assumes that the structure will continue to exist, so its destruction discharges
+    the contractor. A contract to build a new structure is different: the builder can still build, so it
+    generally bears the risk of loss before completion. Caldera agreed to roof Owens's existing barn,
+    which no longer exists; roofing a new barn of a different design would be a different performance.
+    Caldera is discharged. Trap: applying the new-construction rule to a repair contract.
+  explanation_each_wrong_option:
+    B: >-
+      No force majeure clause is implied into contracts. The excuse comes from the common-law doctrine of
+      impossibility (R2d § 263), which applies whether or not the contract contains such a clause.
+    C: >-
+      That is the rule for new construction, where the builder can still build and bears the risk until
+      completion. In a repair contract, the owner's existing structure is the subject of the work, and its
+      destruction discharges the contractor.
+    D: >-
+      The contract was for work on a particular existing barn. Roofing a new barn of a different design is
+      not the performance Caldera promised.
+  trap_type: confused-rule
+  authority: ["R2d § 261", "R2d § 263"]
+  source: original
+  tags: [wave2, w2b, impossibility, destruction-of-subject-matter]
+  status: draft
+  last_verified: "2026-11-05"
+
+- id: Q-CTR-0135
+  subject: CTR
+  coverage_ids: [CTR-MBE-IV.H]
+  rule_ids: [R-CTR-085, R-CTR-042]
+  difficulty: 2
+  stem: >-
+    On February 1, Vireo Marketing and Delaney, a restaurant owner, signed a contract under which Vireo
+    would run Delaney's social-media advertising from March 1 through August 31 for $2,500 a month. The
+    contract said nothing about modification or cancellation. On February 15, before either party had
+    performed, Delaney telephoned Vireo's president and said he wanted to call the deal off; the
+    president replied, "That's fine with us. Consider it cancelled." Nothing was put in writing. In
+    March, Vireo, having failed to sign up a replacement client, wrote Delaney that the cancellation was
+    ineffective and demanded payment. Delaney refused, and Vireo sued for breach.
+  call: "Is Vireo likely to prevail?"
+  options:
+    A: "Yes, because a written contract can be rescinded only by a signed writing."
+    B: "No, because the parties' oral agreement to rescind, made while both still owed performance, discharged their duties."
+    C: "Yes, because Delaney gave no consideration for Vireo's agreement to release him from the contract."
+    D: "No, because a party may withdraw from a contract at any time before performance begins."
+  answer: B
+  explanation_correct: >-
+    The parties to a contract may discharge their remaining duties by agreeing to rescind it (R2d § 283;
+    R-CTR-085). When both sides still owe performance, each party's surrender of its rights against the
+    other is consideration for the other's surrender. No writing was needed: the six-month contract was
+    not within the statute of frauds (R-CTR-042), and it did not require changes or cancellation to be
+    in writing. The February 15 conversation discharged both parties, and Vireo's later regret does not
+    revive the contract. Trap: assuming that a written contract can be undone only in writing.
+  explanation_each_wrong_option:
+    A: >-
+      There is no general rule that a written contract must be rescinded in writing; a writing is required
+      only in special cases, such as a rescission that retransfers an interest in land or a contract that
+      validly requires one (R-CTR-085).
+    C: >-
+      Delaney gave consideration: his own release of his rights against Vireo, given while Vireo's duties
+      were still unperformed.
+    D: >-
+      Overbroad. Neither party may unilaterally withdraw from a binding contract; Delaney is discharged
+      only because Vireo agreed.
+  trap_type: wrong-standard
+  authority: ["R2d § 283"]
+  source: original
+  tags: [wave2, w2b, discharge, mutual-rescission]
+  status: draft
+  last_verified: "2026-11-05"

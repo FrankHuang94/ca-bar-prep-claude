@@ -1,0 +1,430 @@
+questions:
+- id: Q-PRP-0121
+  subject: PRP
+  coverage_ids: [PRP-MBE-III.A]
+  rule_ids: [R-PRP-077, R-PRP-084]
+  difficulty: 2
+  stem: >-
+    Talia listed her house for sale with Ridgeline Realty. While preparing the listing, Ridgeline's agent Uma learned
+    from Talia that the concrete slab under the house had a large structural crack, which Talia had covered with new
+    flooring, and that an engineer had estimated the repair at $60,000. Victor, who had no broker of his own, toured
+    the house with Uma, asked no questions about the foundation, and agreed to buy it. His inspector, using reasonable
+    care, did not detect the crack beneath the new flooring. Uma never mentioned the crack to Victor. After the
+    closing, Victor discovered the crack and sued Uma.
+  call: "Is Victor likely to recover from Uma?"
+  options:
+    A: "No, because Uma was Talia's agent and owed fiduciary duties only to Talia."
+    B: "No, because Victor asked no questions, and Uma made no false statement to him."
+    C: "Yes, because a broker who earns a commission on a sale warrants the condition of the property to the buyer."
+    D: "Yes, because Uma knew of a material latent defect and did not disclose it to Victor."
+  answer: D
+  explanation_correct: >-
+    D is correct. A seller's broker owes fiduciary duties to the seller, but it may not deceive the buyer, and a
+    seller's broker who knows of material defects must disclose them to the buyer (R-PRP-077). The same modern rule
+    makes a seller liable for failing to disclose known material latent defects (R-PRP-084). Uma knew of a $60,000
+    structural crack, the new flooring hid it, and a reasonably careful inspection did not reveal it. Her silence makes
+    her liable to Victor for his damages.
+  explanation_each_wrong_option:
+    A: >-
+      Fiduciary duties of loyalty run to the principal, but a broker's duty to disclose known material defects runs
+      to the buyer as well (R-PRP-077).
+    B: >-
+      Liability does not require a false statement or a question from the buyer; failing to disclose a known material
+      latent defect is enough under the modern rule (R-PRP-077, R-PRP-084).
+    C: >-
+      Earning a commission does not make a broker a warrantor of the property's condition. Uma's liability rests on
+      her knowledge of the defect and her failure to disclose it (R-PRP-077).
+  trap_type: overbroad
+  authority: ["Common law of agency and misrepresentation: broker's duty to disclose known material defects"]
+  source: original
+  tags: [wave2, W2b-PRP, brokerage, disclosure]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-PRP-0122
+  subject: PRP
+  coverage_ids: [PRP-MBE-III.A]
+  rule_ids: [R-PRP-077]
+  difficulty: 2
+  stem: >-
+    Yusuf signed a listing agreement with Apex Realty for his house, promising a commission of 5% of the sale price;
+    the agreement did not say when the commission would be earned. Courts in the jurisdiction hold that, unless the
+    listing agreement provides otherwise, a broker earns its commission only if the sale closes or fails to close
+    because of the seller's wrongful conduct. Apex found Zora, who signed a contract to buy the house at Yusuf's asking
+    price; the contract had no financing contingency and provided that Zora's $20,000 deposit would be liquidated
+    damages if she defaulted. Before the closing, Zora's lender withdrew its loan commitment, she could not obtain other
+    financing, and the sale never closed. Yusuf, who was ready to close, kept the deposit. Apex sued Yusuf for its
+    commission.
+  call: "Is Apex likely to recover the commission?"
+  options:
+    A: "No, because the sale did not close, and its failure was not caused by any wrongful conduct of Yusuf."
+    B: "Yes, because Apex produced a buyer who signed a binding contract on the terms Yusuf requested."
+    C: "Yes, because Yusuf kept Zora's deposit and so profited from the buyer whom Apex produced."
+    D: "No, because when a sale fails to close, a broker's only claim is against the buyer who caused the failure."
+  answer: A
+  explanation_correct: >-
+    A is correct. Traditionally a broker earns its commission by producing a buyer ready, willing and able to buy on
+    the seller's terms, but a growing minority makes the commission depend on the closing unless the seller wrongfully
+    prevents it (R-PRP-077), and the stem says this jurisdiction follows that approach. The sale failed because the
+    buyer could not obtain financing; Yusuf was ready to close and did nothing wrong. Under the governing rule, Apex
+    has not earned a commission from Yusuf.
+  explanation_each_wrong_option:
+    B: >-
+      That is the traditional ready-willing-and-able rule (R-PRP-077). The stem says this jurisdiction instead requires
+      a closing unless the seller's wrongful conduct prevented it.
+    C: >-
+      Under the stated rule the commission depends on a closing or on the seller's wrongful prevention of one; the
+      seller's keeping a liquidated-damages deposit is neither (R-PRP-077).
+    D: >-
+      This overstates the rule. Under the closing approach, a seller whose wrongful conduct prevents the closing owes
+      the commission (R-PRP-077). Apex loses because Yusuf did nothing wrong, not because a seller can never be
+      liable.
+  trap_type: wrong-standard
+  authority: ["Ellsworth Dobbs, Inc. v. Johnson, 50 N.J. 528, 236 A.2d 843 (1967)"]
+  source: original
+  tags: [wave2, W2b-PRP, brokerage, commission]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-PRP-0123
+  subject: PRP
+  coverage_ids: [PRP-MBE-III.B.1]
+  rule_ids: [R-PRP-078, R-PRP-081]
+  difficulty: 1
+  stem: >-
+    In March 2024 Xavier orally agreed to sell a 30-acre field to his neighbor Yolanda for $120,000. With Xavier's
+    consent, Yolanda paid him $24,000, took possession of the field and, while Xavier watched, installed a $45,000
+    irrigation system and planted an orchard. Nothing about the agreement was ever put in writing. In 2025 Xavier
+    received a higher offer, told Yolanda that the deal was off, offered to refund her $24,000 and to pay her for the
+    irrigation system, and refused to convey. Yolanda sued for specific performance.
+  call: "Is Yolanda likely to obtain specific performance?"
+  options:
+    A: "No, because a contract for the sale of land must be evidenced by a writing signed by the party to be charged."
+    B: "No, because Xavier's offer to repay her money and the cost of the improvements gives her an adequate remedy at law."
+    C: "Yes, because her possession, payment and substantial improvements are unequivocally referable to the contract."
+    D: "Yes, because Yolanda paid part of the price, which takes the oral contract out of the statute of frauds."
+  answer: C
+  explanation_correct: >-
+    C is correct. A contract to sell land must be evidenced by a signed writing, but under the part-performance
+    doctrine equity will specifically enforce an oral land contract when the buyer's acts are unequivocally referable
+    to the contract, usually shown by at least two of possession, payment and substantial improvements (R-PRP-078).
+    Yolanda paid part of the price, took possession with Xavier's consent, and installed a $45,000 irrigation system
+    and an orchard while he watched. Those acts are explainable only by a contract of sale, so a court is likely to
+    order specific performance.
+  explanation_each_wrong_option:
+    A: >-
+      The statute of frauds has exceptions, and part performance is the principal one for land contracts
+      (R-PRP-078). Yolanda's possession, payment and improvements satisfy it.
+    B: >-
+      Land is unique, and specific performance is a buyer's usual remedy (R-PRP-081). Once part performance takes the
+      contract out of the statute, Xavier cannot force Yolanda to accept money instead of the land.
+    D: >-
+      This reaches the right result for the wrong reason. Payment alone is generally insufficient for part
+      performance (R-PRP-078); it is payment combined with possession and substantial improvements that does it here.
+  trap_type: right-result-wrong-reason
+  authority: ["Statute of frauds: contracts for the sale of land", "Common law: part-performance doctrine"]
+  source: original
+  tags: [wave2, W2b-PRP, statute-of-frauds, part-performance]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-PRP-0124
+  subject: PRP
+  coverage_ids: [PRP-MBE-III.B.2]
+  rule_ids: [R-PRP-079, R-PRP-078]
+  difficulty: 2
+  stem: >-
+    Wendell and Xia both signed a writing that reads in full: "Wendell agrees to sell and Xia agrees to buy ten acres
+    of Wendell's 160-acre Ridgeview Ranch in Pine County for $150,000, the ten acres to be selected by mutual agreement
+    before closing, with closing 90 days from today." For the next two months the parties tried but failed to agree on
+    which ten acres would be sold: Xia wanted ten acres along the river, and Wendell refused to sell any river
+    frontage. Xia sued for specific performance and asked the court to select a fair ten-acre parcel that included
+    some river frontage.
+  call: "Is Xia likely to obtain specific performance?"
+  options:
+    A: "Yes, because a court of equity may supply any reasonable term that the parties left open."
+    B: "No, because the writing does not identify the land to be sold or give a way to identify it without further agreement."
+    C: "Yes, because the writing names the parties, the price and the ranch, which is all that the statute of frauds requires."
+    D: "No, because the court cannot determine whether $150,000 is a fair price for ten acres of the ranch."
+  answer: B
+  explanation_correct: >-
+    B is correct. A land contract must contain, or allow the court to supply, the essential terms, which are the
+    parties, a description of the land and the price (R-PRP-079), and the writing must describe the land
+    (R-PRP-078). "Ten acres of" a 160-acre ranch, "to be selected by mutual agreement," identifies no particular parcel
+    and leaves its selection to an agreement the parties never reached. A court cannot specifically enforce a promise
+    to convey land that the contract does not identify, and it will not choose the parcel for the parties.
+  explanation_each_wrong_option:
+    A: >-
+      Courts imply some terms, such as a seller's duty to convey marketable title, but they do not supply an essential
+      term that the parties expressly left for future agreement, such as which land is sold (R-PRP-079).
+    C: >-
+      Naming the ranch does not identify which ten acres are sold. The description must identify the land being
+      conveyed, not just the larger tract it comes from (R-PRP-078, R-PRP-079).
+    D: >-
+      Nothing suggests that the price is unfair, and the court need not decide that. The contract fails because it
+      does not identify the land (R-PRP-079).
+  trap_type: missing-element
+  authority: ["Common law: essential terms of land contracts", "Statute of frauds: description of the land"]
+  source: original
+  tags: [wave2, W2b-PRP, essential-terms, description]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-PRP-0125
+  subject: PRP
+  coverage_ids: [PRP-MBE-III.B.3]
+  rule_ids: [R-PRP-079]
+  difficulty: 1
+  stem: >-
+    Corin contracted in writing to sell his house to Dale for $520,000, with closing at 10 a.m. on June 15 at a title
+    company's office. The contract provided: "Time is of the essence of this contract." On June 15 Corin came to the
+    title company with a signed deed and was ready to close, but Dale's lender had not funded his loan, and Dale did
+    not appear. At the end of the day, Corin notified Dale in writing that he was terminating the contract. Dale's
+    loan funded the next morning, and he tendered the full price, but Corin refused it. Dale sued for specific
+    performance.
+  call: "Is Dale likely to obtain specific performance?"
+  options:
+    A: "No, because the contract made time of the essence, and Dale did not tender the price on the closing date."
+    B: "Yes, because a one-day delay is immaterial, and equity allows a buyer a reasonable time after the closing date."
+    C: "Yes, because Corin has not shown that the one-day delay caused him any damage."
+    D: "Yes, because a seller may not terminate a land contract without first giving the buyer notice and a reasonable time to cure."
+  answer: A
+  explanation_correct: >-
+    A is correct. Time is not of the essence in a land contract unless the contract says so, the circumstances show
+    it, or a party makes it so by notice; when time is not of the essence, a party may perform within a reasonable time
+    after the closing date (R-PRP-079). This contract expressly made time of the essence. Corin tendered his
+    performance on the closing date, and Dale did not. Dale's failure to perform on time was a breach that entitled
+    Corin to terminate, so Dale cannot obtain specific performance.
+  explanation_each_wrong_option:
+    B: >-
+      The reasonable-time rule applies only when time is not of the essence (R-PRP-079). The express clause made the
+      closing date an essential term.
+    C: >-
+      When time is of the essence, failing to perform on the date is itself a material breach, and the seller need
+      not prove damages to terminate (R-PRP-079).
+    D: >-
+      Notice giving a reasonable time to perform is how a party makes time of the essence when the contract does not
+      (R-PRP-079). This contract already did, so no further notice was needed.
+  trap_type: wrong-standard
+  authority: ["Common law: time of the essence in land contracts"]
+  source: original
+  tags: [wave2, W2b-PRP, time-of-performance, time-of-the-essence]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-PRP-0126
+  subject: PRP
+  coverage_ids: [PRP-MBE-III.B.3, PRP-MBE-III.B.4]
+  rule_ids: [R-PRP-079, R-PRP-081]
+  difficulty: 3
+  stem: >-
+    Ana contracted in writing to sell a vacant lot to Ben for $300,000, with closing set for July 1 at the office of
+    Ana's lawyer. The contract did not say that time was of the essence. On July 1 neither party went to the lawyer's
+    office or communicated with the other: Ana had not signed a deed, and Ben had not arranged for the funds. During
+    July, land values in the area fell sharply. On July 25, without having tendered a deed or otherwise offered to
+    perform, Ana sued Ben for damages for failing to close on July 1. Ben has never said that he will not perform.
+  call: "Is Ana likely to recover damages?"
+  options:
+    A: "Yes, because Ben did not appear at the closing on the date that the contract set."
+    B: "Yes, because a buyer must tender the price before the seller is obliged to tender a deed."
+    C: "No, because a seller's damages for a buyer's breach are limited to the amount of the buyer's deposit."
+    D: "No, because Ana never tendered a deed, so Ben was not put in breach."
+  answer: D
+  explanation_correct: >-
+    D is correct. In a land contract the seller's delivery of the deed and the buyer's payment of the price are
+    concurrent conditions, so a party must tender its own performance to put the other in breach, unless the other
+    has repudiated or tender would be futile (R-PRP-079). Neither party tendered on July 1, and Ben never repudiated.
+    Ana therefore never put Ben in breach, and she cannot recover damages from him on these facts.
+  explanation_each_wrong_option:
+    A: >-
+      Ben's absence would have put him in breach only if Ana had tendered her own performance, a deed, on the closing
+      date; she did not appear either (R-PRP-079).
+    B: >-
+      Neither party must perform first. The exchange of deed and price is concurrent, and each party must tender to
+      put the other in default (R-PRP-079).
+    C: >-
+      A nonbreaching seller may seek specific performance or damages measured by the contract price minus the market
+      value at the time of breach; a deposit caps recovery only if it is valid liquidated damages (R-PRP-081). Ana
+      loses because Ben never breached, not because of a cap.
+  trap_type: missing-element
+  authority: ["Common law: concurrent conditions and tender in land contracts"]
+  source: original
+  tags: [wave2, W2b-PRP, time-of-performance, tender, remedies]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-PRP-0127
+  subject: PRP
+  coverage_ids: [PRP-MBE-III.C]
+  rule_ids: [R-PRP-080, R-PRP-105, R-PRP-111]
+  difficulty: 2
+  stem: >-
+    Sam contracted in writing to sell his house to Bea for $750,000; the contract required Sam to convey "marketable
+    title" and listed no exceptions. Bea's survey showed that a swimming pool and pool house, which Sam had built four
+    years earlier, extend eight feet onto the adjoining lot owned by Nell. Nell has never complained, and no agreement
+    or easement permits the encroachment. The statutory period for adverse possession is ten years. At the closing,
+    Sam tendered a general warranty deed to his lot, but Bea refused it and demanded the return of her deposit. Sam
+    sued Bea for specific performance.
+  call: "Who is likely to prevail?"
+  options:
+    A: "Sam, because the covenants in his general warranty deed would protect Bea against any loss from the encroachment."
+    B: "Bea, because a substantial encroachment onto a neighbor's land makes title unmarketable."
+    C: "Sam, because Nell has never objected to the pool or the pool house in the four years since they were built."
+    D: "Sam, because the encroachment concerns the physical condition of the property, not the state of Sam's title."
+  answer: B
+  explanation_correct: >-
+    B is correct. Every land contract implies that the seller will convey marketable title at closing: title
+    reasonably free from doubt, which a prudent buyer would accept without fear of litigation. Significant
+    encroachments make title unmarketable (R-PRP-080). The pool and pool house sit eight feet onto Nell's land, which
+    Sam does not own and cannot convey; Nell could sue to have them removed, and no easement or agreement permits
+    them. Four years of use is far short of the ten-year adverse-possession period. Bea may refuse to close and recover
+    her deposit.
+  explanation_each_wrong_option:
+    A: >-
+      The buyer is entitled to marketable title at closing, not merely to a suit on the deed's covenants afterward;
+      the prospect of later damages does not cure a present defect (R-PRP-080, R-PRP-111).
+    C: >-
+      Nell's silence gives Sam no right to keep the structures on her land. Only a grant, an agreement or a completed
+      adverse-possession period could, and four years is not enough (R-PRP-080, R-PRP-105).
+    D: >-
+      Improvements that encroach on a neighbor's land create a title problem, because the buyer would face the
+      neighbor's claim to the land beneath them (R-PRP-080).
+  trap_type: true-but-irrelevant
+  authority: ["Common law: marketable title"]
+  source: original
+  tags: [wave2, W2b-PRP, marketable-title, encroachment]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-PRP-0128
+  subject: PRP
+  coverage_ids: [PRP-MBE-III.D]
+  rule_ids: [R-PRP-082]
+  difficulty: 2
+  stem: >-
+    On May 1 Ilse signed an enforceable written contract to sell her house to Jonas for $400,000, with closing on
+    July 1. The contract allowed Jonas to move in early, and he took possession on June 1. On June 20 lightning struck
+    the house, and the fire destroyed it; neither party was at fault. Ilse's fire insurance had lapsed, and the
+    contract said nothing about risk of loss. Jonas refused to close, and Ilse sued for the price. A statute in the
+    jurisdiction provides: "If all or a material part of the property is destroyed without fault of the purchaser
+    before either legal title or possession has been transferred to the purchaser, the vendor cannot enforce the
+    contract, and the purchaser may recover any payments made. If all or any part of the property is destroyed without
+    fault of the vendor after either legal title or possession has been transferred to the purchaser, the purchaser is
+    not relieved of the duty to pay the price."
+  call: "Is Ilse likely to recover the price?"
+  options:
+    A: "No, because the house was destroyed without any fault of Jonas, the purchaser."
+    B: "No, because under the statute the risk of loss stays with the seller until legal title passes at closing."
+    C: "Yes, because under the statute the risk of loss passed to Jonas when he took possession."
+    D: "Yes, because under equitable conversion Jonas bore the risk of loss from the day he signed the contract."
+  answer: C
+  explanation_correct: >-
+    C is correct. The statute, modeled on the Uniform Vendor and Purchaser Risk Act, leaves the risk of casualty loss
+    on the seller until either legal title or possession passes to the buyer, and then places it on the buyer
+    (R-PRP-082). Jonas took possession on June 1, before the fire, and the fire was not Ilse's fault. Under the
+    statute's second sentence, he is not relieved of the duty to pay the price.
+  explanation_each_wrong_option:
+    A: >-
+      The purchaser's lack of fault releases him only under the first sentence, which applies before title or
+      possession passes. Once Jonas took possession, the second sentence governs, and it asks whether the vendor was
+      at fault; she was not (R-PRP-082).
+    B: >-
+      The statute shifts the risk when either legal title or possession passes (R-PRP-082), and possession passed to
+      Jonas on June 1.
+    D: >-
+      This reaches the right result for the wrong reason. The majority common-law rule does put the risk on the buyer
+      from signing (R-PRP-082), but the statute displaces it here. Under the statute, the risk passed only when Jonas
+      took possession; had he not moved in, he could have refused to pay.
+  trap_type: right-result-wrong-reason
+  authority: ["Uniform Vendor and Purchaser Risk Act (statute quoted in the stem)"]
+  source: original
+  tags: [wave2, W2b-PRP, equitable-conversion, risk-of-loss]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-PRP-0129
+  subject: PRP
+  coverage_ids: [PRP-MBE-III.E, PRP-MBE-I.C.3]
+  rule_ids: [R-PRP-041, R-PRP-043, R-PRP-083]
+  difficulty: 3
+  stem: >-
+    In 2020 Larkin leased a warehouse to Teague for ten years. The lease gave "Tenant, its successors and assigns, the
+    option to purchase the premises for $900,000 by written notice at any time during the term" and stated that it
+    binds and benefits the parties' successors and assigns. A memorandum of the lease was recorded, and the lease does
+    not restrict assignment. In 2023 Teague assigned the lease to Ulman, who took possession. In 2024 Larkin sold the
+    warehouse to Vance, who had read the recorded memorandum. In 2025 Ulman gave Vance written notice that he was
+    exercising the option and tendered $900,000, but Vance refused to convey. Ulman sued for specific performance.
+  call: "Is Ulman likely to prevail?"
+  options:
+    A: "Yes, because the option ran with the leasehold to Ulman and binds Vance, who bought with notice."
+    B: "Yes, because any option to purchase land may be freely assigned once the optionor has received consideration for it."
+    C: "No, because an option to purchase is a personal right of the original tenant that does not pass with the lease."
+    D: "No, because Vance never agreed to the lease or to the option, so he is not bound by either."
+  answer: A
+  explanation_correct: >-
+    A is correct. A lease covenant runs with the leasehold to an assignee if the parties intended it to run, it
+    touches and concerns the land, and the assignee is in privity of estate; options to purchase the leased premises
+    usually touch and concern the land (R-PRP-041). The lease expressly benefits the tenant's successors and assigns,
+    and Ulman, as assignee of the entire leasehold, is in privity of estate. On the landlord's side, a buyer of the
+    reversion takes subject to the lease and is bound by the landlord's covenants that run with the land, including a
+    tenant's option (R-PRP-043); Vance also had notice from the recorded memorandum. Ulman exercised the option by
+    written notice within the term, as its terms required (R-PRP-083).
+  explanation_each_wrong_option:
+    B: >-
+      This reaches the right result with an overbroad rule. Whether an option passes depends on its terms and, for an
+      option in a lease, on the rules for covenants running with the leasehold; Ulman wins because this option ran with
+      the lease (R-PRP-041, R-PRP-083).
+    C: >-
+      An option in a lease given to the tenant's "successors and assigns" is not personal; it touches and concerns the
+      leased land and passes with the leasehold (R-PRP-041).
+    D: >-
+      A buyer of the landlord's reversion need not agree to the lease. It takes subject to the lease and is bound by
+      covenants that run with the land, especially when, like Vance, it buys with notice (R-PRP-043).
+  trap_type: confused-rule
+  authority: ["Common law: covenants running with leaseholds", "Common law: options to purchase"]
+  source: original
+  tags: [wave2, W2b-PRP, options, landlord-tenant, covenants-in-leases]
+  status: draft
+  last_verified: 2026-11-04
+
+- id: Q-PRP-0130
+  subject: PRP
+  coverage_ids: [PRP-MBE-III.F]
+  rule_ids: [R-PRP-084, R-PRP-085, R-PRP-036, R-PRP-086]
+  difficulty: 2
+  stem: >-
+    In 2024 Petra sold her 25-year-old house to Quinn. The contract said nothing about the condition of the house, and
+    Petra made no statements about it. Quinn's inspector, using reasonable care, found no problems. Unknown to Petra,
+    tree roots had cracked the buried sewer line under the front yard; there had never been a backup or any other sign
+    of trouble while she lived there. Three months after the closing, sewage backed up into the basement, and the
+    repair cost $18,000. Quinn sued Petra for that amount.
+  call: "Is Quinn likely to recover?"
+  options:
+    A: "Yes, because the defect was latent and material, and Quinn could not have discovered it by a reasonable inspection."
+    B: "Yes, because a seller of a house impliedly warrants that it is fit for habitation."
+    C: "No, because Quinn accepted the deed, and all of the contract's terms merged into it at closing."
+    D: "No, because Petra did not know of the defect and gave no warranty about the house's condition."
+  answer: D
+  explanation_correct: >-
+    D is correct. A seller of used real property gives no implied warranty of quality (caveat emptor). The seller is
+    liable for fraud, for active concealment or, under the modern majority rule, for failing to disclose a known
+    material latent defect, and each theory requires that the seller knew of the defect (R-PRP-084). Petra did not
+    know of the cracked sewer line, which had shown no symptoms, and she made no statements about the house. She is not
+    liable.
+  explanation_each_wrong_option:
+    A: >-
+      Latency and materiality are necessary but not sufficient. The seller's duty to disclose extends only to defects
+      the seller knows of (R-PRP-084).
+    B: >-
+      The implied warranty for new homes binds a builder-vendor (R-PRP-085), and the warranty of habitability applies
+      to residential leases (R-PRP-036). Neither applies to a homeowner's sale of a used house.
+    C: >-
+      This reaches the right result for the wrong reason. Merger extinguishes the contract's promises about title, but
+      claims for fraud or nondisclosure, and collateral promises, survive the closing (R-PRP-086). Quinn loses because
+      Petra did not know of the defect.
+  trap_type: missing-element
+  authority: ["Common law: caveat emptor; seller's duty to disclose known latent defects", "Johnson v. Davis, 480 So. 2d 625 (Fla. 1985)"]
+  source: original
+  tags: [wave2, W2b-PRP, fitness-and-suitability, caveat-emptor]
+  status: draft
+  last_verified: 2026-11-04
