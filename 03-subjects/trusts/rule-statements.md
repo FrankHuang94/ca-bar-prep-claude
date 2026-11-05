@@ -319,9 +319,9 @@ status: draft
 **Example:** $40,000 "to keep my vintage car in running order forever." The trustee may do so for 21 years; after that, the remaining funds return to the settlor's estate by resulting trust.
 
 ### R-TRS-023 — Trusts for the care of animals
-**Rule (write this):** A trust for the care of a domestic or pet animal is valid. It may be enforced by a person named in the instrument or, if none, by a person the court appoints, and, unless the instrument provides otherwise, it ends when no animal that was alive at the settlor's death remains alive; the remaining property then passes as the instrument directs or to the settlor's successors.
+**Rule (write this):** A trust for the care of a domestic or pet animal is valid. It may be enforced by a person named in the instrument or, if none, by a person the court appoints, and, unless the instrument provides otherwise, it ends when no animal covered by the trust remains alive [VERIFY V-558]; the remaining property then passes as the instrument directs or to the settlor's successors.
 
-**Elements:** 1. Domestic or pet animal. 2. Enforcer named or appointed. 3. Duration: animals alive at settlor's death. 4. Use limited to the animal's care.
+**Elements:** 1. Domestic or pet animal. 2. Enforcer named or appointed. 3. Duration: until no covered animal remains alive (which animals are covered, those living at the settlor's death or during the settlor's lifetime, is unconfirmed [VERIFY V-558]). 4. Use limited to the animal's care.
 
 **Exceptions / defenses:** The court may reduce property that substantially exceeds what the care requires [VERIFY V-558].
 

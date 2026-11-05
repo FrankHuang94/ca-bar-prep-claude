@@ -192,13 +192,13 @@ status: draft
 **Example:** A caregiver-son drains his elderly mother's accounts. If proven under § 259, he is treated as predeceased and takes nothing from her estate.
 
 ### R-WIL-014 — Disclaimers
-**Rule (write this):** An heir or beneficiary may disclaim an interest by a signed writing filed within a reasonable time, and a disclaimer filed within nine months of the death is conclusively timely; the disclaimed interest passes as if the disclaimant had predeceased the decedent.
+**Rule (write this):** An heir or beneficiary may disclaim an interest by a signed writing filed within a reasonable time; a disclaimer filed within nine months of the death is conclusively presumed timely, and a later disclaimer is effective only if the disclaimant proves the time was reasonable; the disclaimed interest passes as if the disclaimant had predeceased the decedent.
 
 **Elements:** 1. Writing. 2. Signed. 3. Filed or delivered timely. 4. Not yet accepted. 5. Passes as if disclaimant predeceased.
 
 **Exceptions / defenses:** Acceptance of benefits bars disclaimer.
 
-**Authority:** Prob. Code §§ 275–295 (esp. §§ 279, 282) [VERIFY V-517].
+**Authority:** Prob. Code §§ 275–295 (esp. §§ 279, 282) [S-931] [VERIFY V-517].
 
 **MBE vs. CA essay:** not on the MBE; nice-to-know.
 

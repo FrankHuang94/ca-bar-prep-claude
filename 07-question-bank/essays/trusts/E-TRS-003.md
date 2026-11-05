@@ -91,7 +91,7 @@ Lina will argue that her son was an actual recipient and so has a special intere
 
 *2. General or specific intent?*
 - *Cora (specific intent).* Harriet named one institution, the Orchestra she played in as a teenager and served as a board member for 30 years. Her gift was meant to support **that** orchestra and its camp, and when it ceased to exist the purpose ended. Cora takes the property as residuary beneficiary.
-- *The Bank and the Attorney General (general intent).* Harriet's own words explain her purpose: "Music gave a poor girl from Fort Bragg a life; I want other poor children here to have that chance." The stated goal is music for poor children in her county; the Orchestra was the means she knew. The will contains no gift over if the Orchestra failed, which is the usual sign of a specific intent. And she directed the fund to be held "forever," which shows she expected it to outlast any particular institution.
+- *The Bank and the Attorney General (general intent).* Harriet's own words explain her purpose: "Music gave a poor girl from Fort Bragg a life; I want other poor children here to have that chance." The stated goal is music for poor children in her county; the Orchestra was the means she knew. The will contains no gift over if the Orchestra failed; a gift over is the usual sign of a specific intent, so its absence points toward a general one. And she directed the fund to be held "forever," which shows she expected it to outlast any particular institution.
 - *Likely result.* The reasons clause is the best evidence of intent, and it speaks of children and music, not of the institution. **Harriet had a general charitable intent.** Cy pres applies, and Cora's claim fails.
 
 *3. A purpose as near as possible.*

@@ -3,7 +3,7 @@ id: E-TRS-004
 type: single
 subjects: [TRS]
 coverage_ids: [TRS-CBX-V, TRS-CBX-VI, TRS-CBX-VII, TRS-CBX-VIII, TRS-CBX-IX, TRS-CBX-XII]
-rule_ids: [R-TRS-050, R-TRS-051, R-TRS-052, R-TRS-053, R-TRS-054, R-TRS-055, R-TRS-057, R-TRS-058, R-TRS-062, R-TRS-063, R-TRS-068, R-TRS-073, R-TRS-078, R-TRS-079, R-TRS-080, R-TRS-081, R-TRS-082, R-TRS-084, R-TRS-085, R-TRS-086, R-TRS-094, R-TRS-095, R-TRS-096, R-REM-048]
+rule_ids: [R-TRS-050, R-TRS-051, R-TRS-052, R-TRS-053, R-TRS-054, R-TRS-055, R-TRS-057, R-TRS-058, R-TRS-062, R-TRS-063, R-TRS-068, R-TRS-073, R-TRS-078, R-TRS-079, R-TRS-080, R-TRS-081, R-TRS-082, R-TRS-084, R-TRS-085, R-TRS-086, R-TRS-094, R-TRS-095, R-TRS-096, R-REM-048, R-REM-049]
 calls:
   - "1. What breaches of trust, if any, has Erik committed?"
   - "2. What remedies do Greta, Leif and Sigrid have against Erik, and what is the effect of Greta's approval of the 2023 account?"
@@ -17,7 +17,7 @@ issues:
   - {issue: "Remedies against Erik: surcharge for loss with interest, disgorgement, removal, compensation; no excuse", points: 12, call: 2, major: true, rule_ids: [R-TRS-073, R-TRS-078, R-TRS-079, R-TRS-081, R-TRS-082], coverage_ids: [TRS-CBX-VIII, TRS-CBX-IX]}
   - {issue: "Greta's approval of the account: consent ineffective without knowledge of material facts; trustee-beneficiary presumption; limitations", points: 6, call: 2, major: false, rule_ids: [R-TRS-054, R-TRS-085, R-TRS-086], coverage_ids: [TRS-CBX-IX]}
   - {issue: "Coastal: transferee with knowledge; tracing into the condominium and the commingled account (lowest intermediate balance); priority over Coastal's creditors", points: 12, call: 3, major: true, rule_ids: [R-TRS-080, R-TRS-095, R-REM-048], coverage_ids: [TRS-CBX-VIII, TRS-CBX-XII]}
-  - {issue: "Pine Ridge as knowing participant (actual knowledge; 18100); recovery of land and resale profit; Ardens protected", points: 12, call: 3, major: true, rule_ids: [R-TRS-094, R-TRS-095, R-TRS-096], coverage_ids: [TRS-CBX-XII]}
+  - {issue: "Pine Ridge as knowing participant (actual knowledge; 18100); recovery of land and resale profit; Ardens protected as bona fide purchasers", points: 12, call: 3, major: true, rule_ids: [R-TRS-094, R-TRS-095, R-TRS-096, R-REM-049], coverage_ids: [TRS-CBX-XII]}
 time_minutes: 60
 source: original
 status: draft
@@ -123,7 +123,7 @@ The trust became irrevocable at Walter's death in 2021, so Erik's duties now run
 *Not a protected transferee.* A third person who deals with a trustee in good faith and for value, without **actual knowledge** that the trustee is exceeding or improperly exercising his powers, is protected (§ 18100). Coastal received the funds through Erik, its 50% owner, who knew the loan was a breach; his knowledge is Coastal's. Coastal is not protected and holds the traced trust funds on a constructive trust.
 
 *Tracing.* The beneficiaries may follow trust funds into their product and impose a constructive trust or equitable lien until the property reaches a bona fide purchaser (§ 16420; Civ. Code § 2224).
-- *The condominium.* When the condominium was bought, the account held $340,000, of which $300,000 was trust money. A wrongdoer is presumed to spend its own money first, but where it buys an asset and then dissipates the rest of the account, the claimant may trace into the asset. At least $80,000 of the $120,000 price was trust money, and because Coastal then spent the rest of the account, the beneficiaries can argue that the whole condominium was bought with trust funds. A **constructive trust** over the condominium captures its rise in value to $170,000; an equitable lien is the alternative if a court finds only part of the price traceable.
+- *The condominium.* When the condominium was bought, the account held $340,000, of which $300,000 was trust money. A wrongdoer is presumed to spend its own money first, but where it buys an asset and then dissipates the rest of the account, the claimant may elect to trace into the asset (R-REM-048). Courts differ on how far that election reaches, so state the alternatives: (1) *Whole asset.* The trust's $300,000 exceeded the $120,000 price and Coastal then spent the rest of the account, so the beneficiaries may treat the whole price as trust money and impose a **constructive trust on the entire condominium**, capturing its rise in value to $170,000. (2) *Proportional share.* A court that splits a mixed purchase pro rata would treat 300/340 (about 88%) of the price as trust money, giving the beneficiaries about 88% of the condominium (about $150,000) or an equitable lien in that proportion. (3) *Floor.* Even if Coastal's own $40,000 went into the purchase first, at least $80,000 of the price was trust money, supporting a two-thirds share or a lien for $80,000. Because Coastal is not an innocent party, a court is likely to resolve the election in the beneficiaries' favor and award the whole condominium.
 - *The account.* The beneficiaries' claim to the account is capped at its **lowest intermediate balance** after the deposit, $5,000. Later deposits of Coastal's commissions do not restore trust funds, so they cannot claim the full $60,000.
 
 *Priority.* Property held on a constructive trust is not Coastal's own, so the beneficiaries take the traced condominium and $5,000 ahead of Coastal's $500,000 of general creditors. For the rest of the $300,000 they have only an unsecured claim against Coastal, competing with those creditors, plus the surcharge claim against Erik.
@@ -139,7 +139,7 @@ If Pine Ridge acted in bad faith in taking trust property, the court may also aw
 
 **C. The Ardens**
 
-The Ardens paid market value, in good faith, without any knowledge of the trust or the breach. They are protected as if Erik had properly exercised his power of sale (§ 18100). **The beneficiaries cannot recover the 100 acres from them**; they pursue Pine Ridge's resale proceeds and Erik instead.
+The Ardens did not deal with the trustee, so § 18100 does not govern their position. They bought 100 acres from Pine Ridge, which held the land on a constructive trust, and a constructive trust cannot be enforced against a bona fide purchaser: one who acquires legal title for value, in good faith and without actual, constructive or inquiry notice of the beneficiaries' claim (Restatement (Third) of Restitution § 66 [VERIFY V-350]). The Ardens paid market value and knew nothing about the trust or the breach. The beneficiaries might argue that a recorded deed from Erik as trustee put them on inquiry, but nothing in the record revealed that the price or the side payment made the sale a breach. **The Ardens take free of the trust and keep the 100 acres**; the beneficiaries pursue Pine Ridge's resale proceeds and Erik instead.
 
 ### Conclusion
 
@@ -156,8 +156,8 @@ Erik breached his duties of loyalty (Coastal loan; the $50,000 payment), care an
 | Inform and account | 12 | §§ 16060, 16061, 16061.5 owed to Leif as a beneficiary of an irrevocable trust; annual accounts (§ 16062) to Greta; misleading account | R-TRS-062, R-TRS-063 |
 | Remedies vs. Erik | 12 | § 16420 menu; § 16440(a) measures applied to each breach with figures; disgorgement of $50,000; removal; fees; § 16440(b) excuse rejected | R-TRS-073, R-TRS-078, R-TRS-079, R-TRS-081, R-TRS-082 |
 | Greta's approval | 6 | §§ 16463–16465 knowledge requirement; § 16004(c) presumption; Leif and Sigrid not bound; § 16460 adequacy | R-TRS-054, R-TRS-085, R-TRS-086 |
-| Coastal | 12 | § 18100 actual knowledge through Erik; constructive trust vs. lien; tracing into the condominium; lowest intermediate balance $5,000; priority over general creditors | R-TRS-080, R-TRS-095, R-REM-048 |
-| Pine Ridge and Ardens | 12 | Knowing participation; actual knowledge defeats § 18100; recover 300 acres (with credit) and $250,000 resale profit, or damages; §§ 850/859 noted; Ardens protected | R-TRS-094, R-TRS-095, R-TRS-096 |
+| Coastal | 12 | § 18100 actual knowledge through Erik; constructive trust vs. lien; tracing into the condominium (whole asset vs. pro rata vs. floor); lowest intermediate balance $5,000; priority over general creditors | R-TRS-080, R-TRS-095, R-REM-048 |
+| Pine Ridge and Ardens | 12 | Knowing participation; actual knowledge defeats § 18100; recover 300 acres (with credit) and $250,000 resale profit, or damages; §§ 850/859 noted; Ardens protected as bona fide purchasers (not under § 18100) | R-TRS-094, R-TRS-095, R-TRS-096, R-REM-049 |
 
 **Scoring on the 40–100 scale** (`00-exam-intel/grader-expectations.md` §4).
 - **75+:** reads the retention clause closely rather than treating it as a complete defense; treats the loan as self-dealing without weighing fairness; finds both loyalty and care breaches in the land sale; distinguishes Leif's right to information from Greta's right to accounts; matches a measured remedy to each breach; traces into the condominium with the lowest-intermediate-balance cap; separates Pine Ridge (knowing) from the Ardens (protected).
@@ -170,6 +170,6 @@ Erik breached his duties of loyalty (Coastal loan; the $50,000 payment), care an
 2. Asking whether the Coastal loan was "fair." Self-dealing is a breach without further inquiry.
 3. Telling Leif he has no rights until Greta dies. A remainder beneficiary of an irrevocable trust is entitled to the terms and to reasonable information on request.
 4. Letting the beneficiaries claim the whole $60,000 in Coastal's account; later deposits do not restore trust funds.
-5. Applying a constructive-notice test to the Ardens. California's § 18100 removes protection only for actual knowledge.
+5. Protecting the Ardens under § 18100. They did not deal with the trustee; they keep the land because they bought from Pine Ridge for value, in good faith and without notice, and the bona fide purchaser test, unlike § 18100, also asks about constructive and inquiry notice.
 
 **Accuracy notes.** Section numbers for the duties (§§ 16000, 16014, 16040, 16046–16051, 16060–16062) follow the rulebook, which flags several as model knowledge [VERIFY V-569] [VERIFY V-571] [VERIFY V-573]; the substance is standard. The § 16461 limits on exculpatory clauses and the §§ 16463–16465 consent rules are stated as in R-TRS-084 and R-TRS-085 [VERIFY V-578]. The tracing rules follow R-REM-048 (Restatement (Third) of Restitution) [VERIFY V-350]; courts differ on whether a claimant whose funds were mixed with the wrongdoer's own money may claim the entire asset bought from the mixed account or only a proportional share, so the answer states both.

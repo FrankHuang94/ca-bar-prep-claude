@@ -69,13 +69,13 @@ California lawyers are governed by the California Rules of Professional Conduct 
 
 **A. The social-media ad**
 
-*Rule.* ABA and California: a lawyer may not make a false or misleading communication about the lawyer's services, including one that omits a fact necessary to make the statement as a whole not materially misleading (MR 7.1; CRPC 7.1). Truthful statements can mislead if they create unjustified expectations. California's State Bar standards also presume misleading a testimonial without an appropriate disclaimer. Both rules require an advertisement to include the name and office address of at least one responsible lawyer or firm (MR 7.2; CRPC 7.2).
+*Rule.* ABA and California: a lawyer may not make a false or misleading communication about the lawyer's services, including one that omits a fact necessary to make the statement as a whole not materially misleading (MR 7.1; CRPC 7.1). Truthful statements can mislead if they create unjustified expectations. California's State Bar standards also presume misleading a testimonial without an appropriate disclaimer. California requires every advertisement to include the name and business address of at least one lawyer or law firm responsible for its content (CRPC 7.2(c)); the ABA requires the name and contact information, such as an address, telephone number or website, of at least one responsible lawyer or firm (MR 7.2(d)).
 
 *Application.*
 - *"$40 million recovered."* True and verifiable; standing alone, likely not misleading.
 - *The testimonial.* "Paige got me $1.2 million in six months!" is true, but it invites viewers to expect a similar result in a similar time, and there is no disclaimer that results depend on each case. Under California's standards a testimonial without a disclaimer is presumptively misleading; under the ABA it likely creates an unjustified expectation (MR 7.1 cmt.).
 - *"NO FEE UNLESS WE WIN."* Paige's retainer makes clients repay costs whatever the outcome. Telling injured people they owe nothing unless they win, while omitting that they may owe costs, omits a fact necessary to make the statement not misleading. This violates both rules.
-- *Identification.* The ad shows Paige's photograph and her first name in the quotation but contains "no other text": no full name of a responsible lawyer and no office address. That violates the identification requirement under both rules.
+- *Identification.* The ad shows Paige's photograph and her first name in the quotation but contains "no other text": no full name of a responsible lawyer, no business address (California) and no contact information of any kind (ABA). That violates the identification requirement under both rules.
 
 *Conclusion.* Paige violated CRPC 7.1–7.2 and MR 7.1–7.2.
 
@@ -154,7 +154,7 @@ Paige violated the advertising, referral-payment, solicitation, contingent-fee, 
 | Issue | Points | Full credit requires | Rule IDs |
 |---|---|---|---|
 | Sources | 2 | CRPC, State Bar Act, ABA persuasive | R-PRF-001 |
-| Social-media ad | 13 | Rule 7.1 standard; testimonial without disclaimer (CA presumption vs. ABA unjustified expectations); "no fee" omits costs; past results discussed; name-and-address requirement; conclusion under each system | R-PRF-085, R-PRF-086 |
+| Social-media ad | 13 | Rule 7.1 standard; testimonial without disclaimer (CA presumption vs. ABA unjustified expectations); "no fee" omits costs; past results discussed; CA name-and-business-address vs. ABA name-and-contact-information requirement; conclusion under each system | R-PRF-085, R-PRF-086 |
 | Paying Rick | 14 | Rule 7.2(b) payment per client, no exception; B&P § 6152 runner/capper; live solicitation (7.3) through an agent (8.4(a)); vulnerability at crash scene | R-PRF-086, R-PRF-087, R-PRF-092 |
 | Letters | 6 | Targeted mail permitted (*Shapero*); CA "Advertisement" label required; ABA no label requirement | R-PRF-087 |
 | Contingent fee | 12 | MR 1.5(c) elements applied (signed by client; cost treatment missing; closing statement); § 6147 elements applied (both signatures, copy, costs, related matters, negotiability); voidable; reasonable fee; amount under both standards | R-PRF-043, R-PRF-041 |

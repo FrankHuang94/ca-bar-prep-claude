@@ -100,7 +100,7 @@ The stakes are significant: had Carl survived 120 hours, he would have taken one
 
 **E. Advancements**
 
-*Rule (§ 6409).* A lifetime gift to an heir counts as an advancement against the heir's intestate share **only if** (1) the decedent declared in a contemporaneous writing that it was an advancement or was to be deducted from the heir's share, or (2) the heir acknowledged in writing that the gift was an advancement or was to be deducted. The gift is valued when the heir received it or at the decedent's death, whichever is first, unless a contemporaneous writing fixes a value.
+*Rule (§ 6409).* A lifetime gift to an heir counts as an advancement against the heir's intestate share **only if** (1) the decedent declared in a contemporaneous writing that it was an advancement or was to be deducted from the heir's share, or (2) the heir acknowledged in writing that the gift was an advancement or was to be deducted. The gift is valued when the heir received it or at the decedent's death, whichever is first, unless the decedent's contemporaneous writing or the heir's written acknowledgment fixes a value.
 
 *Dana's $60,000.*
 - *Rosalind's writings.* The memo line "Dana's house" is contemporaneous but describes the purpose, not an advancement. The 2022 diary entry ("Dana has had her share early") declares an advancement but was written a year later, so it is not contemporaneous. Neither satisfies § 6409(a)(1).
